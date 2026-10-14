@@ -38,6 +38,12 @@ sentence_rules:
   - id: geot_natanatda
     pattern: '것으로 (나타났|알려졌|확인됐|집계됐|조사됐)'
     hint: "'~것으로 나타났다'를 '~했다/~이다'로 바로 쓴다."
+  - id: result_frame
+    pattern: '(한|된|해 본) 결과'
+    hint: "'~분석한 결과 ~로 집계됐다' 대신 주어와 동사로 바로 쓴다(예 '…평판 순위는 에스트라가 가장 높았다')."
+  - id: hagoja
+    pattern: '하고자|하기 위해서'
+    hint: "'~하고자'는 '~하려고', '~하기 위해서'는 '~하려고'로 쓴다."
   - id: passive_double
     pattern: '(되어지|되어졌|지게 되)'
     hint: 이중 피동을 능동이나 단순 피동으로 바꾼다.

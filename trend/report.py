@@ -9,7 +9,7 @@ from pathlib import Path
 
 from . import aggregate, gate, render, store, style, verify, write
 from .config import load
-from .normalize import Entities, cluster, load_month
+from .normalize import Entities, cluster, load_month, similar
 from .util import kst_date, month_bounds, now_kst, prev_month
 
 log = logging.getLogger(__name__)
@@ -95,7 +95,10 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
                          ("global", "글로벌 뷰티·향료 시장 동향을 요약한다. 영어 근거는 한국어로 옮겨 쓴다.", 4)):
         cards = [c for c in agg["market"][key] if not kw_used & set(c["doc_ids"])][:10]
         allowed = {d for c in cards for d in c["doc_ids"]}
-        mk[key] = checked(f"market_{key}", write.sentences(task, cards, n, ledger), allowed)
+        kept = checked(f"market_{key}", write.sentences(task, cards, n, ledger), allowed)
+        # different outlets can report the same news; drop near-duplicates of keyword sentences
+        kw_texts = [k["sentence"]["text"] for k in kw_kept if k["sentence"]]
+        mk[key] = [s for s in kept if not any(similar(s["text"], t, 0.4) for t in kw_texts)]
 
     # regulation & competitors: narrative is optional; the item table is code-generated
     rg = {}
