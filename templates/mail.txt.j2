@@ -1,0 +1,11 @@
+{{ cfg.title }} — {{ month }}
+{% if status == 'hold' %}
+[발행 보류] 품질 게이트 미달(핵심 섹션 {{ gate.core_failed }}/{{ gate.core_total }}). 유지보수자 확인이 필요합니다.
+{% endif %}
+3줄 요약
+{% for s in summary %}{{ loop.index }}. {{ s.text }}
+{% endfor %}
+섹션 상태
+{% for name, s in gate.sections.items() %}- {{ cfg.sections[name].title }}: {{ {'ok': '정상', 'reduced': '축소', 'hidden': '숨김'}[s.status] }}{% if s.reason %} ({{ s.reason }}){% endif %}
+{% endfor %}
+자세한 내용은 첨부 PDF를 확인하세요. 이 메일과 리포트는 AI가 자동 생성했습니다.

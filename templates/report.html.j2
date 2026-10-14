@@ -1,0 +1,165 @@
+{%- set S = gate.sections -%}
+{%- macro reduced(name) -%}
+<p class="reduced">데이터 부족 — {{ S[name].reason }}</p>
+{%- endmacro -%}
+{%- macro grade(g) -%}{% if g == 'headline' %}<span class="tag">헤드라인급 근거</span>{% elif g == 'official' %}<span class="tag tag-off">공식 문서</span>{% endif %}{%- endmacro -%}
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ cfg.title }} {{ month }}</title>
+<style>
+:root{--ink:#1d2329;--muted:#5d6670;--line:#dfe3e8;--accent:#2a6f97;--bg:#fff;--soft:#f5f7f9;--warn:#9a5b00;--warnbg:#fff4e0}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.65 "Noto Sans KR","Noto Sans CJK KR","Apple SD Gothic Neo","Malgun Gothic","WenQuanYi Zen Hei",sans-serif;-webkit-font-smoothing:antialiased}
+main{max-width:860px;margin:0 auto;padding:32px 20px 64px}
+h1{font-size:28px;line-height:1.3;margin:0 0 8px}
+h2{font-size:19px;margin:44px 0 12px;padding-bottom:6px;border-bottom:2px solid var(--ink)}
+h2 .num{color:var(--accent);margin-right:8px}
+h3{font-size:15px;margin:22px 0 8px;color:var(--muted)}
+p{margin:6px 0}
+a{color:var(--accent)}
+.cover{border-bottom:1px solid var(--line);padding-bottom:20px}
+.meta{display:grid;grid-template-columns:max-content 1fr;gap:4px 16px;color:var(--muted);font-size:13px;margin-top:14px}
+.banner{background:var(--warnbg);color:var(--warn);padding:8px 12px;border-radius:6px;font-size:13px;margin:14px 0}
+.summary li{margin:6px 0}
+ul.sents{padding-left:18px}ul.sents li{margin:7px 0}
+.cite{font-size:11px;margin-left:1px}.cite a{text-decoration:none}
+table{width:100%;border-collapse:collapse;font-size:13px;margin:8px 0}
+th,td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--muted);font-weight:600;background:var(--soft)}
+td.n,th.n{text-align:right;white-space:nowrap}
+.tag{display:inline-block;font-size:11px;padding:0 6px;border-radius:3px;background:var(--soft);color:var(--muted);border:1px solid var(--line);margin-left:4px;white-space:nowrap}
+.tag-off{color:var(--accent)}
+.reduced{background:var(--soft);border-left:3px solid var(--muted);padding:8px 12px;color:var(--muted);font-size:14px}
+.note{color:var(--muted);font-size:12.5px}
+.chart{width:100%;height:auto;margin:6px 0}
+.chart .grid{stroke:var(--line);stroke-width:1}.chart .tick{font-size:11px;fill:var(--muted)}
+.chart .label{font-size:12px;fill:var(--ink)}.chart .bar{fill:var(--accent)}
+.sources li{font-size:12px;margin:3px 0;word-break:break-all}
+.lk-restricted,.lk-unverified{color:var(--warn);font-size:11px}
+@media (max-width:600px){main{padding:20px 16px 48px}h1{font-size:23px}table{font-size:12px}th,td{padding:5px 4px}}
+@media print{
+  body{font-size:10.5pt}main{max-width:none;padding:0}
+  h2{break-after:avoid}table,tr,figure,li{break-inside:avoid}
+  .cite a{color:var(--ink)}a{color:var(--ink);text-decoration:none}
+  .sources a::after{content:" " attr(href);color:var(--muted)}
+  .sources a{word-break:break-all}
+}
+</style>
+</head>
+<body>
+<main>
+
+<section class="cover">
+  <h1>{{ cfg.title }}</h1>
+  <div class="meta">
+    <span>분석 기간</span><span>{{ agg.month }}-01 ~ {{ agg.month }} 말일 (KST)</span>
+    <span>데이터 기준월</span><span>업계지·뉴스·규제: {{ agg.month }} · 네이버 데이터랩: {{ agg.month }}까지 월별 상대지수 · 수출입 통계: 미수록(2차)</span>
+    <span>분석 대상</span><span>관련 기사 {{ agg.counts.docs }}건 → 사건 {{ agg.counts.clusters }}건(중복 묶음)</span>
+    <span>생성</span><span>{{ generated }}</span>
+  </div>
+  {% if status == 'dry_run' %}<p class="banner">드라이런 결과물입니다. 수신자에게 발송되지 않았습니다.</p>{% endif %}
+  {% if status == 'hold' %}<p class="banner">품질 게이트 미달로 발행 보류된 결과물입니다(핵심 섹션 {{ gate.core_failed }}/{{ gate.core_total }} 미달).</p>{% endif %}
+  {% if not has_prev %}<p class="banner">전월 수집 데이터가 없어 전월 대비 비교는 하지 않았습니다.</p>{% endif %}
+</section>
+
+<h2><span class="num">1</span>3줄 요약</h2>
+{% if summary %}
+<ol class="summary">{% for s in summary %}<li>{{ s.text }}{{ cite(s.doc_ids) }}</li>{% endfor %}</ol>
+{% else %}<p class="reduced">검증을 통과한 문장이 없어 요약을 생략했습니다.</p>{% endif %}
+
+<h2><span class="num">2</span>{{ cfg.sections.keywords.title }}</h2>
+{% if S.keywords.status == 'ok' %}
+<table>
+  <thead><tr><th>키워드</th><th class="n">근거 사건 수</th>{% if agg.keywords.has_prev %}<th class="n">전월</th>{% endif %}<th>근거</th></tr></thead>
+  <tbody>
+  {% for k in keywords %}
+    <tr><td><strong>{{ k.term }}</strong></td><td class="n">{{ k.n_clusters }}</td>{% if agg.keywords.has_prev %}<td class="n">{{ k.n_prev }}</td>{% endif %}
+        <td>{{ k.sentence.text }}{{ cite(k.sentence.doc_ids) }}</td></tr>
+  {% endfor %}
+  </tbody>
+</table>
+<p class="note">근거 사건 수 = 해당 키워드가 등장한 서로 다른 기사 묶음 수(같은 보도의 중복 기사는 1건). 업계지·뉴스 본문에서 추출.</p>
+{% if agg.datalab.search %}
+<h3>네이버 검색 지수 — '{{ agg.datalab.search.anchor }}' 대비 상대값</h3>
+{{ line_chart(agg.datalab.search.series, agg.datalab.search.anchor) }}
+<p class="note">네이버 데이터랩 검색어 트렌드({{ agg.datalab.search.start }} ~ {{ agg.datalab.search.end }}, 월별). 같은 요청 안에서 '{{ agg.datalab.search.anchor }}' 검색량을 1로 두었을 때의 비율이며 절대 검색량이 아닙니다.</p>
+{% endif %}
+{% else %}{{ reduced('keywords') }}{% endif %}
+
+<h2><span class="num">3</span>{{ cfg.sections.launches.title }}</h2>
+{% if agg.launches %}
+<table>
+  <thead><tr><th>출시일</th><th>브랜드</th><th>제품</th><th>명시된 향 노트</th><th>출처</th></tr></thead>
+  <tbody>{% for x in agg.launches %}
+  <tr><td>{{ x.launch_date }}</td><td>{{ x.brand or '—' }}</td><td>{{ x.name }}{% if x.press_release %}<span class="tag">보도자료</span>{% endif %}</td>
+      <td>{{ x.notes|join(', ') if x.notes else '—' }}</td><td>{{ cite([x.doc_id]) }}</td></tr>
+  {% endfor %}</tbody>
+</table>
+{% endif %}
+{% if S.launches.status != 'ok' %}{{ reduced('launches') }}{% else %}<p class="note">출시일이 기사에 명시되고 분석 기간 안에 있는 제품만 실었습니다.</p>{% endif %}
+
+<h2><span class="num">4</span>{{ cfg.sections.notes.title }}</h2>
+{% if agg.notes.n %}
+<p class="note">기사에 향 노트가 명시된 제품 n={{ agg.notes.n }}. {% if agg.notes.n < cfg.sections.notes.chart_min_n %}{{ cfg.sections.notes.chart_min_n }}건 미만이라 분포 차트 없이 목록으로만 싣습니다.{% endif %}</p>
+{% if agg.notes.n >= cfg.sections.notes.chart_min_n %}{{ bar_chart(agg.notes.note_freq|list, unit='건') }}{% endif %}
+<table><thead><tr><th>브랜드</th><th>제품</th><th>노트</th><th>출처</th></tr></thead><tbody>
+{% for x in agg.notes['items'] %}<tr><td>{{ x.brand or '—' }}</td><td>{{ x.name }}</td><td>{{ x.notes|join(', ') }}</td><td>{{ cite([x.doc_id]) }}</td></tr>{% endfor %}
+</tbody></table>
+{% else %}<p class="reduced">데이터 부족 — 이번 달 기사에서 향 노트가 명시된 제품을 찾지 못했습니다(n=0).</p>{% endif %}
+
+{% if S.customers.status != 'hidden' %}<h2><span class="num">5</span>{{ cfg.sections.customers.title }}</h2>{% endif %}
+
+<h2><span class="num">6</span>{{ cfg.sections.market.title }}</h2>
+<h3>국내</h3>
+{% if market.kr %}<ul class="sents">{% for s in market.kr %}<li>{{ s.text }}{{ cite(s.doc_ids) }}</li>{% endfor %}</ul>
+{% else %}<p class="reduced">검증을 통과한 국내 동향 문장이 없습니다.</p>{% endif %}
+<h3>글로벌 <span class="tag">헤드라인급 근거 포함</span></h3>
+{% if market['global'] %}<ul class="sents">{% for s in market['global'] %}<li>{{ s.text }}{{ cite(s.doc_ids) }}</li>{% endfor %}</ul>
+{% else %}<p class="reduced">검증을 통과한 글로벌 동향 문장이 없습니다.</p>{% endif %}
+{% if S.market.status != 'ok' %}{{ reduced('market') }}{% endif %}
+
+<h2><span class="num">7</span>{{ cfg.sections.regulation.title }}</h2>
+{% set regs = agg.regulation.regulation %}{% set comps = agg.regulation.competitors %}
+<h3>규제</h3>
+{% if reg.regulation %}<ul class="sents">{% for s in reg.regulation %}<li>{{ s.text }}{{ cite(s.doc_ids) }}</li>{% endfor %}</ul>{% endif %}
+{% if regs %}
+<table><thead><tr><th>날짜</th><th>기관</th><th>제목</th><th>출처</th></tr></thead><tbody>
+{% for c in regs %}<tr><td>{{ c.published }}</td><td>{{ c.source_name }}{{ grade(c.evidence_grade) }}</td><td>{{ c.title }}</td><td>{{ cite(c.doc_ids[:1]) }}</td></tr>{% endfor %}
+</tbody></table>
+{% else %}<p>변경 없음 — 모니터링 대상(EU 화장품 규정 개정, 식약처 보도자료·고시·행정예고, Federal Register(FDA), IFRA)에서 이번 달 신규 항목이 없었습니다.</p>{% endif %}
+<h3>경쟁 향료사</h3>
+{% if reg.competitors %}<ul class="sents">{% for s in reg.competitors %}<li>{{ s.text }}{{ cite(s.doc_ids) }}</li>{% endfor %}</ul>{% endif %}
+{% if comps %}
+<table><thead><tr><th>날짜</th><th>회사</th><th>제목</th><th>출처</th></tr></thead><tbody>
+{% for c in comps %}<tr><td>{{ c.published }}</td><td>{{ c.source_name }}</td><td>{{ c.title }}</td><td>{{ cite(c.doc_ids[:1]) }}</td></tr>{% endfor %}
+</tbody></table>
+{% else %}<p>변경 없음 — Givaudan, Symrise, dsm-firmenich 발표 중 이번 달 항목이 없었습니다. (IFF는 수집 차단으로 미포함)</p>{% endif %}
+<h3>시행일 캘린더</h3>
+<table><thead><tr><th>날짜</th><th>내용</th></tr></thead><tbody>
+{% for c in agg.calendar %}<tr><td>{{ c.date }}</td><td>{{ c.item }} <a href="{{ c.source }}">원문</a></td></tr>{% endfor %}
+</tbody></table>
+
+{% if S.signals.status != 'hidden' %}<h2><span class="num">8</span>{{ cfg.sections.signals.title }}</h2>{% endif %}
+
+<h2><span class="num">9</span>부록</h2>
+<h3>출처</h3>
+<!--SOURCES-->
+<h3>데이터 커버리지</h3>
+<table><thead><tr><th>소스</th><th class="n">성공 일수</th><th class="n">실패 일수</th><th class="n">기간 내 기사</th><th>최근 오류</th></tr></thead><tbody>
+{% for c in coverage %}<tr><td>{{ c.source }}</td><td class="n">{{ c.ok_days }}</td><td class="n">{{ c.fail_days }}</td><td class="n">{{ c.docs_in_month }}</td><td class="note">{{ c.last_error or '' }}</td></tr>{% endfor %}
+</tbody></table>
+<h3>방법론</h3>
+<ul class="note">
+  <li>수집: 국내 업계지·글로벌 업계지 RSS, 네이버 뉴스 검색, 규제기관(EU CELLAR, 식약처 RSS, Federal Register, IFRA), 경쟁 향료사 발표. 매일 수집, KST 기준 날짜.</li>
+  <li>추출: 기사별로 카테고리·브랜드·출시일·명시된 향 노트를 AI({{ models.enrich.model }})가 추출하고, 원문 인용이 기사에 그대로 있는지 코드로 확인해 근거 없는 항목을 버렸습니다.</li>
+  <li>작성: 문장은 AI({{ models.write.model }})가 근거 카드만 보고 썼고, 모든 문장에 출처를 붙였습니다. 숫자는 코드가 계산한 값만 표·차트에 넣었습니다.</li>
+  <li>검증: 인용 원문 일치, 숫자 미포함, 엔티티 일치, 근거 함의(별도 AI 판정, 불확실하면 삭제)를 통과한 문장만 실었습니다. 이번 호: 작성 {{ verify_stats.total }}문장 중 {{ verify_stats.kept }}문장 게재, {{ verify_stats.dropped }}문장 삭제.</li>
+  <li>소비자 반응·호평은 다루지 않습니다(리뷰·SNS 데이터 미수집).</li>
+</ul>
+<p class="note">이 리포트는 AI가 자동 생성했으며 자사 포트폴리오 정보는 반영되지 않았습니다. 수치는 공개 데이터의 상대지수이며 원문 확인을 권장합니다.</p>
+</main>
+</body>
+</html>

@@ -278,10 +278,10 @@
     }
   ],
   "json_test": {
-    "model": "gemini-3.8-flash",
+    "model": "gemini-4-argon",
     "status": 200,
     "error": null,
-    "text": "{\"brand\":\"딥티크\",\"notes\":[\"무화과\",\"시더우드\"]}",
+    "text": "{\"brand\": \"딥티크\", \"notes\": [\"무화과\", \"시더우드\"]}",
     "parsed": {
       "brand": "딥티크",
       "notes": [
@@ -290,18 +290,22 @@
       ]
     },
     "usage": {
-      "promptTokenCount": 36,
-      "candidatesTokenCount": 18,
-      "totalTokenCount": 309,
+      "promptTokenCount": 253,
+      "candidatesTokenCount": 38,
+      "totalTokenCount": 291,
       "promptTokensDetails": [
         {
           "modality": "TEXT",
-          "tokenCount": 36
+          "tokenCount": 253
         }
       ],
-      "thoughtsTokenCount": 255,
-      "serviceTier": "standard"
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 38
+        }
+      ]
     },
-    "modelVersion": "gemini-3.8-flash"
+    "modelVersion": "gemini-4-argon"
   }
 }

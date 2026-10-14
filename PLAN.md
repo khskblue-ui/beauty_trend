@@ -41,9 +41,9 @@
   - 네이버 API HUB(`naverapihub.apigw.ntruss.com`): 뉴스 검색 `/search/v1/news`, 데이터랩 검색어 트렌드 `/search-trend/v1/search`, 쇼핑인사이트 `/shopping/v1/categories`·`/shopping/v1/category/keywords`(화장품/미용 50000002). 한시 무료, 월 한도 검색 775,000·데이터랩 각 50,000, 키당 50 RPS. 뉴스 검색에는 업계지가 거의 잡히지 않음 → 일반지 보완용.
   - 국내 업계지 RSS: 코스모닝, 장업신문, 뷰티경제(전문), 코스인코리아. 요약만 주는 곳은 기사 URL에서 본문 수집(robots 허용). 피드가 2~8일치만 보관 → 매일 수집 필수. 타임존 없는 날짜는 KST로 해석.
   - 글로벌 업계지 RSS: Cosmetics Business, Premium Beauty News(무료 본문), WWD Beauty(유료벽 → 제목·요약만, 헤드라인급 등급).
-  - 규제: EU는 CELLAR SPARQL로 1223/2009 개정 법령 감지(eur-lex.europa.eu는 WAF 차단 → 링크만 사용), 식약처 RSS(보도자료·고시전문·행정예고·최근 개정 법령, 간헐 연결 리셋 → 재시도), Federal Register API(FDA·"cosmetic product", 하루 1회 이하 — 과다 요청 시 IP 차단), IFRA 뉴스 목록 페이지 diff. fda.gov는 Actions 러너 IP에서 404라 직접 수집 제외(링크만 사용).
+  - 규제: EU는 CELLAR SPARQL로 1223/2009 개정 법령 감지(eur-lex.europa.eu는 WAF 차단 → 링크만 사용), 식약처 RSS(보도자료·고시전문·행정예고·최근 개정 법령), Federal Register API(FDA·"cosmetic product", 하루 1회 이하 — 과다 요청 시 IP 차단), IFRA 뉴스 목록 페이지 diff. fda.gov는 Actions 러너 IP에서 404라 직접 수집 제외(링크만 사용).
   - 경쟁사: Givaudan RSS, Symrise RSS, dsm-firmenich 뉴스 목록 페이지 diff.
-  - LLM: Gemini enrich `gemini-3.8-flash`(JSON 스키마 출력 확인, thinking 토큰 기본 사용 → `thinkingBudget` 제한, 2027-01-01 단가 2배), write `gemini-2.5-pro`(GA). 대체: `gemini-3.5-flash` / `gemini-3.1-pro-preview`.
+  - LLM: Gemini enrich `gemini-3.8-flash`(JSON 스키마 출력 확인, thinking 토큰 기본 사용 → `thinkingBudget` 제한, 2027-01-01 단가 2배), write `gemini-4-argon`(Stable, 2026-10-14 유지보수자 지정; 2026-12-01부터 단가 2배). 대체: `gemini-3.5-flash` / `gemini-3.1-pro-preview`. (`gemini-2.5-pro`는 신규 사용자 접근 제한으로 제외)
 - 보류: CMN(robots가 /rss/ 금지 → HTML 스크래퍼 필요, MVP 커버리지 부족 시 검토), GCI(기사·robots가 Cloudflare 차단), BeautyMatter(RSS·사이트맵 없음), IFF(이 IP에서 403), 관세청 품목별 국가별 수출입실적(data.go.kr 키 필요, 국가코드 필수, 매월 15일경 전월분 갱신 → 2차).
 - 제외: fda.gov 직접 수집(러너 IP 404), 올리브영(Cloudflare 챌린지), 무신사뷰티(robots 전체 금지), CosmeticsDesign-Europe/Asia(2026-03 폐간, 410), Google Trends(pytrends 아카이브), Sephora/Ulta/Fragrantica 직접 수집, 화해/SNS.
 - 운영 위험: Actions 러너 IP에서 `phase0-probe`로 재확인 완료(FDA만 차이). 링크 검사에서 EUR-Lex(202 WAF)·GCI(403)·fda.gov(404)는 "접근 제한"으로 표시하고 삭제하지 않는다.

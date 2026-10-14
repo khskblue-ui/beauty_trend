@@ -1,0 +1,84 @@
+# 매월 1일: 전월 리포트 발행. 매월 25일: 이번 달 드라이런(유지보수자에게만).
+name: report-monthly
+
+on:
+  schedule:
+    - cron: "47 0 1 * *"    # 1일 09:47 KST — 전월분 발행
+    - cron: "47 0 25 * *"   # 25일 09:47 KST — 이번 달 드라이런
+  workflow_dispatch:
+    inputs:
+      month:
+        description: "YYYY-MM (비우면 일정 규칙대로)"
+        required: false
+        default: ""
+      dry_run:
+        description: "드라이런(유지보수자에게만 발송)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-branch
+  cancel-in-progress: false
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      DATA_DIR: data
+      NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+      NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      DELIVER: "1"
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+      MAIL_FROM: ${{ secrets.MAIL_FROM }}
+      MAINTAINER_EMAIL: ${{ secrets.MAINTAINER_EMAIL }}
+      RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/data-branch
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+          sudo apt-get install -y -qq fonts-noto-cjk
+      - name: Decide month
+        id: m
+        env:
+          IN_MONTH: ${{ inputs.month }}
+          IN_DRY: ${{ inputs.dry_run }}
+          EVENT: ${{ github.event_name }}
+        run: |
+          day=$(TZ=Asia/Seoul date +%d)
+          if [ -n "$IN_MONTH" ]; then month="$IN_MONTH"; dry="$IN_DRY"
+          elif [ "$day" = "01" ]; then month=$(TZ=Asia/Seoul date -d "$(TZ=Asia/Seoul date +%Y-%m-01) -1 day" +%Y-%m); dry=false
+          else month=$(TZ=Asia/Seoul date +%Y-%m); dry=true
+          fi
+          [ "$EVENT" = "workflow_dispatch" ] && [ -z "$IN_DRY" ] && dry=true
+          echo "month=$month" >> "$GITHUB_OUTPUT"
+          echo "flag=$([ "$dry" = "true" ] && echo --dry-run)" >> "$GITHUB_OUTPUT"
+      - name: Enrich pending
+        run: python -m trend enrich --month ${{ steps.m.outputs.month }}
+      - name: Build report
+        run: python -m trend report --month ${{ steps.m.outputs.month }} ${{ steps.m.outputs.flag }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: report-${{ steps.m.outputs.month }}-${{ github.run_id }}
+          path: data/reports/${{ steps.m.outputs.month }}/
+      - name: Commit run record (PDF stays in the artifact)
+        if: always()
+        run: |
+          cd data
+          git add -A -- . ':!reports/**/*.pdf'
+          git diff --cached --quiet || git commit -qm "report ${{ steps.m.outputs.month }}"
+          git push origin data

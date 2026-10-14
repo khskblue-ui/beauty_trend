@@ -1,0 +1,31 @@
+# 매주 월요일 수집기 헬스체크. 경보 조건이면 job을 실패시켜 GitHub 알림 메일로 유지보수자에게 알린다.
+name: health-weekly
+
+on:
+  schedule:
+    - cron: "53 23 * * 0"   # 월요일 08:53 KST
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      DATA_DIR: data
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/data-branch
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml==6.0.1
+      - name: Health summary
+        run: |
+          set +e
+          python -m trend health --days 7 | tee health.txt
+          code=${PIPESTATUS[0]}
+          cat health.txt >> "$GITHUB_STEP_SUMMARY"
+          exit $code

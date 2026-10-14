@@ -1,0 +1,4 @@
+<ol class="sources">
+{% for s in sources %}<li id="src-{{ s.n }}">{{ s.source }} · {{ s.date }} · <a href="{{ s.url }}">{{ s.title }}</a>{% if s.link == 'restricted' %} <span class="lk-restricted">(접근 제한)</span>{% elif s.link == 'unverified' %} <span class="lk-unverified">(링크 확인 필요)</span>{% endif %}</li>
+{% endfor %}
+</ol>

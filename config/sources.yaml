@@ -1,0 +1,131 @@
+# 0단계 감사(docs/phase0_source_audit.md)에서 채택한 소스만 둔다.
+# kind: rss | naver_news | page_diff | cellar | fedreg
+# fetch_body: 요약만 주는 RSS는 기사 페이지에서 본문을 가져온다(robots 허용 확인 후).
+# naive_tz: 날짜에 타임존이 없을 때 적용할 타임존.
+
+rss:
+  - id: cosmorning
+    name: 코스모닝
+    url: https://www.cosmorning.com/data/rss/news.xml
+    lang: ko
+    group: kr_trade
+    fetch_body: true
+    naive_tz: Asia/Seoul
+  - id: jangup
+    name: 장업신문
+    url: https://www.jangup.com/rss/allArticle.xml
+    lang: ko
+    group: kr_trade
+    fetch_body: true
+    naive_tz: Asia/Seoul
+  - id: thebk
+    name: 뷰티경제
+    url: https://cdn.thebk.co.kr/rss/gn_rss_allArticle.xml
+    lang: ko
+    group: kr_trade
+    fetch_body: false        # content:encoded로 전문 제공
+    naive_tz: Asia/Seoul
+  - id: cosinkorea
+    name: 코스인코리아
+    url: https://www.cosinkorea.com/data/rss/news.xml
+    lang: ko
+    group: kr_trade
+    fetch_body: true
+    naive_tz: Asia/Seoul
+  - id: cosmeticsbusiness
+    name: Cosmetics Business
+    url: https://www.cosmeticsbusiness.com/rss
+    lang: en
+    group: global_trade
+    fetch_body: false        # 프리미엄 기사 존재 → 요약만 사용
+    evidence_grade: headline
+  - id: premiumbeautynews
+    name: Premium Beauty News
+    url: https://www.premiumbeautynews.com/spip.php?page=backend
+    lang: en
+    group: global_trade
+    fetch_body: true
+  - id: wwd
+    name: WWD Beauty
+    url: https://wwd.com/beauty-industry-news/feed/
+    lang: en
+    group: global_trade
+    fetch_body: false        # 유료벽
+    evidence_grade: headline
+  - id: mfds_press
+    name: 식약처 보도자료
+    url: https://www.mfds.go.kr/www/rss/brd.do?brdId=ntc0021
+    lang: ko
+    group: regulation
+    fetch_body: false
+    title_filter: [화장품, 향료, 착향, 기능성, 염모, 자외선]
+  - id: mfds_notice
+    name: 식약처 고시전문
+    url: https://www.mfds.go.kr/www/rss/brd.do?brdId=data0005
+    lang: ko
+    group: regulation
+    fetch_body: false
+    title_filter: [화장품, 향료, 착향, 기능성, 염모, 자외선]
+  - id: mfds_preannounce
+    name: 식약처 행정예고
+    url: https://www.mfds.go.kr/www/rss/brd.do?brdId=data0009
+    lang: ko
+    group: regulation
+    fetch_body: false
+    title_filter: [화장품, 향료, 착향, 기능성, 염모, 자외선]
+  - id: mfds_law
+    name: 식약처 최근 개정 법령
+    url: https://www.mfds.go.kr/www/rss/brd.do?brdId=data0008
+    lang: ko
+    group: regulation
+    fetch_body: false
+    title_filter: [화장품, 향료, 착향, 기능성, 염모, 자외선]
+  - id: givaudan
+    name: Givaudan
+    url: https://www.givaudan.com/rss
+    lang: en
+    group: competitor
+    fetch_body: false
+  - id: symrise
+    name: Symrise
+    url: https://www.symrise.com/newsroom/press-releases/rss.xml
+    lang: en
+    group: competitor
+    fetch_body: false
+    max_items: 40            # 피드에 2010년부터 전체 이력이 들어 있음
+
+page_diff:
+  - id: ifra_news
+    name: IFRA News
+    url: https://ifrafragrance.org/latest-updates/ifra-news
+    group: regulation
+    link_pattern: '^https://ifrafragrance\.org/latest-updates/ifra-news/[^/]+$'
+  - id: dsm_firmenich
+    name: dsm-firmenich News
+    url: https://our-company.dsm-firmenich.com/en/our-company/news.html
+    group: competitor
+    # 자사주 매입 공시(share-buy-back)는 제외
+    link_pattern: '/en/our-company/news/(trade-news|press-releases|our-stories)/20\d\d/[^/]+\.html$'
+
+cellar:
+  - id: eu_cosmetics_reg
+    name: EU 화장품 규정 1223/2009 개정
+    base_celex: 32009R1223
+    group: regulation
+
+fedreg:
+  - id: fda_fedreg
+    name: Federal Register (FDA)
+    agency: food-and-drug-administration
+    term: '"cosmetic product"'
+    group: regulation
+
+naver_news:
+  group: kr_news
+  display: 100
+  # 일반지 보완용. 업계지는 RSS로 직접 받는다.
+  # '조향'은 자동차 조향(steering) 기사가 섞여 제외. '조향사'로 대체.
+  queries: [향료, 조향사, 니치 향수, 향수 신제품, 향수 출시, 화장품 신제품, 뷰티 신제품 출시, K뷰티 수출, 프레그런스 브랜드]
+  # 관련성 1차 필터(LLM 호출 전): 제목에 title_any 중 하나가 있어야 저장. 최종 판정은 enrich.
+  title_any: [화장품, 뷰티, 향료, 향수, 퍼퓸, 코스메틱, 프레그런스, 스킨케어, 메이크업, 조향사, 바디미스트, 디퓨저, 오드퍼퓸, 니치, K뷰티, 립, 쿠션, 세럼, 선크림]
+  exclude_any: [드라마, 넷플릭스, 예능, 게임, 아이돌, 콘서트, 웹툰, 영화, 뮤지컬, 포토, 화보, 증권, 할인전, 페스타, 향수병, 향수를 자극, 향수를 불러]

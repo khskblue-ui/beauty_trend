@@ -8,14 +8,14 @@
 ## 요약
 
 1. **네이버 API HUB 4개 엔드포인트 모두 200 확인.** 프록시 헤더 주입이 동작했다(401/403 없음). 뉴스 검색, 데이터랩 검색어 트렌드, 쇼핑인사이트 분야별·키워드별 트렌드(화장품/미용 `50000002`)의 응답 형식을 확보했다.
-2. **Gemini 정상 동작(세션·러너 모두).** `gemini-3.8-flash`로 JSON 스키마 출력을 확인했다. 결정: enrich `gemini-3.8-flash`, write `gemini-2.5-pro`(GA).
+2. **Gemini 정상 동작(세션·러너 모두).** `gemini-3.8-flash`로 JSON 스키마 출력을 확인했다. 결정: enrich `gemini-3.8-flash`, write `gemini-4-argon`(2026-10-14 변경).
 3. **국내 업계지는 4곳이 RSS를 제공한다**(코스모닝·장업신문·뷰티경제·코스인코리아). 전문을 주는 곳은 뷰티경제(`content:encoded`) 하나이고, 나머지 3곳은 요약만 준다. 기사 페이지는 robots.txt상 허용되므로 본문은 기사 URL로 받아야 한다. CMN은 robots.txt가 `/rss/`를 금지하므로 RSS를 쓰지 않는다.
 4. **네이버 뉴스 검색으로는 업계지를 대체할 수 없다.** "화장품 신제품 출시"와 "향료"로 최신 400건을 조회했는데, 업계지 원문 링크는 뷰티경제 2건뿐이었다. 업계지는 RSS로 직접 수집해야 한다.
 5. **커머스(올리브영·무신사)는 제외한다.** 올리브영은 robots.txt부터 Cloudflare 챌린지(403)를 반환한다. 무신사는 robots.txt가 허용 목록에 없는 봇(`*`)에 전체 경로를 금지한다.
 6. **글로벌 업계지는 4곳이 RSS를 제공하지만 모두 요약만 준다.** 전문을 무료로 읽을 수 있는 곳은 Premium Beauty News뿐이었다. WWD는 유료벽(`isAccessibleForFree: false`)이 있다. GCI는 RSS는 받히지만 기사 페이지가 Cloudflare 챌린지로 막힌다. **CosmeticsDesign(Europe/Asia)은 2026년 3월 폐간되어 410을 반환한다.**
 7. **규제는 4곳 모두 변경 감지가 가능하다.**
    - EU: eur-lex.europa.eu는 AWS WAF 챌린지(202)를 반환한다. 대신 EU 출판국 CELLAR SPARQL(키 불필요)로 화장품 규정 1223/2009의 개정 법령 목록을 받는 데 성공했다.
-   - 식약처: RSS 4종(보도자료·고시전문·행정예고·최근 개정 법령)이 200이다. 다만 연결 리셋이 간헐적으로 발생한다.
+   - 식약처: RSS 4종(보도자료·고시전문·행정예고·최근 개정 법령)이 200이다. (세션에서 보인 간헐적 연결 리셋은 세션 프록시 터널 문제로 확인됨 — 아래 정정 참고)
    - FDA: 세션 IP에서는 200이었으나 **Actions 러너 IP에서는 robots.txt를 포함한 모든 요청이 404**. 미국 규제는 Federal Register API(FDA, `"cosmetic product"`)로 대체한다(러너 200 확인).
    - IFRA: 뉴스 목록 페이지 diff(RSS 없음).
 8. **경쟁 향료사는 3곳 수집 가능, IFF는 보류.** Givaudan과 Symrise는 RSS, dsm-firmenich는 날짜가 붙은 HTML 목록이 있다. IFF는 www와 IR 사이트 모두 이 IP에서 403(Cloudflare)이다.
@@ -35,7 +35,7 @@
 | 규제(미국) | Federal Register API(기관=FDA, 질의 `"cosmetic product"`) | JSON API `GET /api/v1/documents.json`에 `publication_date[gte]` 필터, 하루 1회 이하 |
 | 규제(향료) | IFRA 뉴스 목록 페이지 | 페이지 diff(새 기사 링크 감지) |
 | 경쟁사 | Givaudan RSS, Symrise RSS, dsm-firmenich 뉴스 목록 | RSS / 페이지 diff |
-| LLM | Gemini enrich `gemini-3.8-flash`, write `gemini-2.5-pro`(GA) — 대체 `gemini-3.5-flash` / `gemini-3.1-pro-preview` | REST `generateContent` + `responseSchema`, `thinkingConfig`로 예산 제한 |
+| LLM | Gemini enrich `gemini-3.8-flash`, write `gemini-4-argon`(Stable) — 대체 `gemini-3.5-flash` / `gemini-3.1-pro-preview` | REST `generateContent` + `responseSchema`, `thinkingConfig`로 예산 제한 |
 
 보류: CMN(HTML 목록 스크래핑 필요), GCI(RSS 요약만, 기사 접근 차단), BeautyMatter(RSS·사이트맵 없음), IFF(차단), 관세청(키 필요).
 제외: 올리브영, 무신사뷰티, CosmeticsDesign-Europe/Asia(폐간), fda.gov 직접 수집(러너 IP 404 → Federal Register로 대체).
@@ -84,7 +84,7 @@
   | `gemini-2.5-pro` | $1.25(≤200k) | $10.00 | GA |
   | `gemini-3.1-pro-preview` | $2.00 | $12.00 | 프리뷰 |
 
-- **결정(2026-10-14)**: enrich는 `gemini-3.8-flash`, write는 `gemini-2.5-pro`(GA, 무인 운영 안정성 우선). 대체 모델 config: enrich `gemini-3.5-flash`, write `gemini-3.1-pro-preview`.
+- **결정(2026-10-14, 1차)**: enrich `gemini-3.8-flash`, write `gemini-2.5-pro`. **같은 날 write를 `gemini-4-argon`으로 변경**(유지보수자 지정). Argon은 공식 모델 페이지에 Stable로 표시, 단가 입력 $2.00·출력 $10.00(100만 토큰당, 2026-11-30까지) → 2026-12-01부터 $4.00·$20.00, 무료 등급 없음. JSON 스키마 테스트 통과. 같은 페이지에 `gemini-2.5-pro`는 과거 사용자에게만 제공된다고 적혀 있다. 대체 모델 config: enrich `gemini-3.5-flash`, write `gemini-3.1-pro-preview`.
   - 비용 추정(가정: 월 기사 1,500건 × 입력 1,500 + 출력·thinking 450 토큰): enrich 약 $4/월, 2027년 단가로 약 $8/월. thinking이 출력의 약 90%라 `thinkingConfig.thinkingBudget`을 낮게 두는 효과가 크다. 1단계에서 품질과 함께 측정한다.
   - `gemini-2.5-pro`는 2025-06 출시라 3.x 계열보다 먼저 단종될 수 있다. 모델 ID를 config로 분리하고 단종 공지를 감시한다(PLAN 운영·보안).
 - 미확인: 이 프로젝트가 유료 등급인지(응답 `serviceTier: standard`만으로는 판단 불가). PLAN상 무료 등급 입력은 제품 개선에 쓰일 수 있으므로 결제 연결을 확인해야 한다.
@@ -129,7 +129,7 @@
 | IFRA | `https://ifrafragrance.org/latest-updates/ifra-news` (+ `/standards-library`) | 200, 정적 HTML. 목록에서 날짜 17개 추출 | 목록 → 기사 링크 | 본문 텍스트 `08 October 2026` 형식 | ✓ | **채택(페이지 diff)** | RSS 없음. 개정 공지는 뉴스 기사로 게시됨(예: "52nd Amendment … Global Cosmetics Regulations 2026"). Standards Library는 날짜가 없어 해시 diff만 가능 |
 | EUR-Lex | `eur-lex.europa.eu` | **202 + `x-amzn-waf-action: challenge`** (robots.txt 포함) | - | - | robots 확인 불가 | 사이트 직접 수집 **제외** | 리포트 링크로는 사용. 링크 검사 시 202/챌린지를 "접근 제한"으로 처리해야 함 |
 | EU CELLAR SPARQL | `https://publications.europa.eu/webapi/rdf/sparql` | **200** (0.7s, 키 불필요) | 법령 목록(CELEX, 문서일, 영문 제목) | `cdm:work_date_document` | 공개 API | **채택** | 1223/2009 개정 법령 10건 조회. 최신은 `32026R0909`(2026-04-27), `32026R0078`(2026-01-12). PLAN의 2023/1545(`32023R1545`)도 확인 |
-| 식약처 | RSS 안내 `https://www.mfds.go.kr/www/rss/list.do` → `.../www/rss/brd.do?brdId=` `ntc0021`(보도자료), `data0005`(고시전문), `data0009`(행정예고), `data0008`(최근 개정 법령) | 4종 모두 **200**, 각 29건 | 제목 위주(`description` 비어 있음) | `pubDate` RFC 822 GMT | `User-agent: * Allow:/` ✓ | **채택** | **연결 리셋(ECONNRESET)이 간헐적으로 발생**: 1차 실행에서 `data0009`는 재시도 3회 모두 실패, 2차 실행에서는 성공. 재시도·백오프와 "일시 실패" 상태 기록 필요. 화장품 외 항목이 대부분이라 제목 필터 필요 |
+| 식약처 | RSS 안내 `https://www.mfds.go.kr/www/rss/list.do` → `.../www/rss/brd.do?brdId=` `ntc0021`(보도자료), `data0005`(고시전문), `data0009`(행정예고), `data0008`(최근 개정 법령) | 4종 모두 **200**, 각 29건 | 제목 위주(`description` 비어 있음) | `pubDate` RFC 822 GMT | `User-agent: * Allow:/` ✓ | **채택** | 세션에서 보인 연결 리셋(ECONNRESET)은 세션 프록시 터널 문제였다(2026-10-14 정정). 러너에서는 정상. 화장품 외 항목이 대부분이라 제목 필터 필요 |
 | FDA MoCRA | 보도자료 RSS `https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml` + MoCRA 페이지 + `/cosmetics/cosmetics-news-events` | 세션: RSS 200(20건), 페이지 200 / **러너: 전부 404**(robots.txt 포함, 본문 9자 — 데이터센터 IP 차단으로 추정) | RSS 요약 226자 | RSS RFC 822(EDT) | 세션에서 ✓ | **제외(직접 수집)** | 러너에서 2회 연속 404. 리포트 링크로만 사용하고 링크 검사에서는 "접근 제한"으로 처리 |
 | Federal Register (FDA) | `https://www.federalregister.gov/api/v1/documents.json?conditions[agencies][]=food-and-drug-administration&conditions[term]="cosmetic product"&order=newest` (RSS는 `documents.rss`) | 세션: JSON 200, 해당 문서 106건(예: 2026-01-22 "FDA Records Access Authority for Cosmetics; Draft Guidance") / 러너: RSS 200(최근 1건만) | 제목·요약·문서 유형(Rule/Proposed Rule/Notice) | `publication_date` | `/api/v1/` 허용 ✓ (`/documents/search` 등은 금지) / 키 불필요 | **채택** | **세션 IP에서 약 1분 동안 7건을 요청하자 IP가 차단됨**("Your IP address has been blocked, Support Code 02"). 하루 1회, 요청 간 간격 필수. RSS는 최근분만 담으므로 JSON API에 날짜 필터를 쓴다. `"cosmetic"` 단독 질의는 FD&C Act 문구 때문에 무관한 문서가 잡히므로 쓰지 않음 |
 
@@ -176,7 +176,7 @@
 | EU CELLAR SPARQL | 200 | 200 | 동일 |
 | 국내 업계지 4곳 RSS·기사, CMN 홈 | 200 | 200 | 동일 |
 | 글로벌 업계지(WWD·CB·PBN RSS, GCI RSS) | 200 | 200 | 동일(GCI 기사·홈은 둘 다 Cloudflare 403) |
-| 식약처 RSS 4종 | 200(간헐 연결 리셋) | 200(리셋 없음) | 러너에서는 문제 없음 |
+| 식약처 RSS 4종 | 200(간헐 연결 리셋 — 세션 프록시 원인) | 200(리셋 없음) | 문제 없음 |
 | IFRA, Givaudan, Symrise, dsm-firmenich | 200 | 200 | 동일 |
 | IFF, 올리브영, EUR-Lex 사이트 | 403/202 챌린지 | 403/202 챌린지 | 동일하게 차단 |
 | 무신사 robots | 200(`*` 전체 금지) | 200(`*` 전체 금지) | 동일 |
@@ -190,7 +190,7 @@
 - MVP 소스는 위 "MVP 확정 소스 목록"으로 확정. FDA 직접 수집은 제외하고 Federal Register로 대체.
 - CMN: 보류 유지. 1단계 MVP에서는 수집하지 않고, 업계지 4곳의 커버리지가 부족하면 HTML 수집을 검토한다.
 - 업계지 이용약관: 리포트에는 1~2문장 인용 + 링크만 싣고, 원문 전문은 비공개 보관 후 기간이 지나면 삭제한다(PLAN 원칙). 이 수준으로 진행한다.
-- Gemini: enrich `gemini-3.8-flash`, write `gemini-2.5-pro`.
+- Gemini: enrich `gemini-3.8-flash`, write `gemini-4-argon`.
 - 관세청: 서비스키를 받기 전까지 2차로 보류.
 
 ## 미확인 항목
@@ -202,7 +202,7 @@
 5. Cosmetics Business 프리미엄 기사의 본문 공개 범위.
 6. CMN 목록·기사 페이지의 날짜 필드 위치(HTML 구조 미조사).
 7. IFF 보도자료를 수집할 수 있는 경로(러너 IP 재확인, 보도자료 배포 서비스 경유).
-8. 식약처 연결 리셋의 원인. 러너에서는 재현되지 않았다.
+8. ~~식약처 연결 리셋의 원인~~ → 해결: 세션 프록시 상태 기록(`ws_closed_mid_exchange`, mfds.go.kr·cdn.thebk.co.kr·cmn.co.kr)에 세션 프록시 터널이 끊긴 기록이 남아 있었다. 식약처 서버 문제가 아니며 러너에서도 재현되지 않았다.
 9. 관세청 API의 실제 응답, `hsSgn` 4자리 합산 여부, 품목 기준(국가 비필수) 대체 API의 존재. 서비스키가 필요하다.
 10. 네이버 API HUB 검색 한도가 일 25,000인지 월 775,000인지(문서 간 불일치). 키 오류 시 401/403 응답 형식(헤더 직접 첨부는 러너에서 200 확인, 오류 응답은 미관찰).
 11. Gemini 프로젝트의 결제 등급(유료 등급 여부). 응답 `serviceTier: standard`만으로는 판단할 수 없다. AI Studio 또는 Cloud 콘솔에서 결제 계정 연결 여부를 확인해야 한다.

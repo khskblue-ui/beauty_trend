@@ -1,0 +1,19 @@
+# 엔티티 정규화: 별칭 → 대표명. 모회사는 parent. 고객사 목록을 받으면 customers에 추가.
+brands:
+  딥티크: {aliases: [Diptyque, diptyque], parent: Manzanita Capital}
+  바이레도: {aliases: [Byredo, BYREDO], parent: Puig}
+  르라보: {aliases: [Le Labo, LE LABO, 르 라보], parent: Estée Lauder Companies}
+  조말론: {aliases: [Jo Malone, Jo Malone London, 조 말론, 조말론 런던], parent: Estée Lauder Companies}
+  톰포드: {aliases: [Tom Ford, TOM FORD, 톰 포드], parent: Estée Lauder Companies}
+  샤넬: {aliases: [Chanel, CHANEL]}
+  디올: {aliases: [Dior, DIOR], parent: LVMH}
+  설화수: {aliases: [Sulwhasoo], parent: 아모레퍼시픽}
+  탬버린즈: {aliases: [TAMBURINS, Tamburins]}
+  논픽션: {aliases: [NONFICTION, Nonfiction]}
+companies:
+  지보단: {aliases: [Givaudan]}
+  dsm-firmenich: {aliases: [DSM-Firmenich, 디에스엠-피르메니히, 피르메니히, Firmenich]}
+  IFF: {aliases: [International Flavors & Fragrances, 아이에프에프]}
+  심라이즈: {aliases: [Symrise]}
+  아모레퍼시픽: {aliases: [AmorePacific, Amorepacific, 아모레]}
+  LG생활건강: {aliases: [LG H&H, LG생건]}

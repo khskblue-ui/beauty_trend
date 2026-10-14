@@ -1,0 +1,16 @@
+# Gemini 모델 ID는 고정값으로 둔다(*-latest 별칭 금지). 단종 시 fallback으로 교체.
+enrich:
+  model: gemini-3.8-flash
+  fallback: gemini-3.5-flash
+  thinking_budget: 512      # thinking 토큰이 출력 비용의 대부분 → 상한을 둔다
+  max_retries: 2            # 스키마 위반 시 재시도 횟수(PLAN: 2회 후 폐기)
+write:
+  model: gemini-4-argon     # 2026-10-14 유지보수자 지정. 2026-12-01부터 단가 2배
+  fallback: gemini-3.1-pro-preview
+  thinking_budget: 2048
+  max_retries: 2
+verify:                     # 근거 함의 판정은 write와 다른 모델·별도 호출
+  model: gemini-3.8-flash
+  fallback: gemini-3.5-flash
+  thinking_budget: 256
+  max_retries: 1

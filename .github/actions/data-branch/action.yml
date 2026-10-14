@@ -1,0 +1,16 @@
+# Mounts the `data` branch at ./data (creates it as an orphan branch on first use).
+name: data-branch
+description: Check out the data branch into ./data as a git worktree
+runs:
+  using: composite
+  steps:
+    - shell: bash
+      run: |
+        git config --global user.name "beauty-trend-bot"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        if git fetch --depth=1 origin data:data 2>/dev/null; then
+          git worktree add data data
+        else
+          git worktree add --orphan -b data data
+          printf 'private/\n' > data/.gitignore
+        fi
