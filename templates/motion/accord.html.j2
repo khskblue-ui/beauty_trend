@@ -155,18 +155,18 @@ footer{padding:48px 0 80px}
 <body>
 <header class="wrap hero">
   <div>
-    <div class="kicker">Monthly Beauty &amp; Fragrance Accord · {{ month }}</div>
-    <h1>{{ month[5:]|int }}월의 향 구조, <em>업계의 향조</em>를 읽다</h1>
-    <p class="lede">빠르게 피어오르는 키워드(탑), 한 달을 채운 제품과 시장(하트), 오래 남는 규제와 시행일(베이스)로 나누어 정리했습니다.</p>
+    <div class="kicker">월간 뷰티·향료 리포트 · {{ month }}</div>
+    <h1>{{ month[5:]|int }}월 업계, <em>먼저 뜬 것</em>과 오래 남을 것</h1>
+    <p class="lede">향수의 탑·하트·베이스 노트 순서로 정리했습니다. 탑에는 이달 많이 다뤄진 키워드, 하트에는 신제품·향 노트·시장 소식, 베이스에는 오래 영향을 주는 규제와 시행일을 담았습니다.</p>
     <div class="meta">
       <span>분석 기간</span><span class="mono">{{ month }}-01 — {{ month }} 말일 KST</span>
-      <span>분석 대상</span><span>관련 기사 <b class="mono" data-count="{{ agg.counts.docs }}">{{ agg.counts.docs }}</b>건 · 사건 <b class="mono" data-count="{{ agg.counts.clusters }}">{{ agg.counts.clusters }}</b>건</span>
-      <span>데이터 기준월</span><span>업계지·뉴스·규제 {{ month }} · 네이버 데이터랩 {{ month }}까지 · 수출입 통계 미수록</span>
-      <span>생성</span><span class="mono">{{ generated }}</span>
+      <span>분석 기사</span><span><b class="mono" data-count="{{ agg.counts.docs }}">{{ agg.counts.docs }}</b>건(같은 내용을 하나로 묶으면 <b class="mono" data-count="{{ agg.counts.clusters }}">{{ agg.counts.clusters }}</b>건)</span>
+      <span>자료 기준</span><span>기사·규제 {{ month }} · 네이버 데이터랩 {{ month }}까지 · 수출입 통계는 아직 싣지 않음</span>
+      <span>작성</span><span class="mono">{{ generated }}</span>
     </div>
     {{ b.banners() }}
   </div>
-  <svg class="pyr stage" viewBox="0 0 520 400" role="img" aria-label="탑 {{ nkw }}개, 하트 {{ nheart }}개, 베이스 {{ nbase }}개 항목으로 구성된 이달의 리포트 구조">
+  <svg class="pyr stage" viewBox="0 0 520 400" role="img" aria-label="이달 리포트 구성: 탑 키워드 {{ nkw }}개, 하트 제품·시장 {{ nheart }}개, 베이스 규제·경쟁사 {{ nbase }}개">
     <path class="wisp draw" d="M160 96 C 146 70, 178 54, 160 28 S 172 4, 164 -6"/>
     <path class="wisp draw" d="M138 100 C 120 76, 146 60, 130 36" style="stroke:var(--heart)"/>
     <path class="wisp draw" d="M182 100 C 202 80, 176 62, 194 40" style="stroke:var(--base)"/>
@@ -184,7 +184,7 @@ footer{padding:48px 0 80px}
   </svg>
 </header>
 
-<nav class="chap-nav" aria-label="챕터">
+<nav class="chap-nav" aria-label="목차">
   <ol>
     <li><a href="#top" style="--c:var(--top)">TOP 키워드</a></li>
     <li><a href="#heart" style="--c:var(--heart)">HEART 제품·시장</a></li>
@@ -195,60 +195,60 @@ footer{padding:48px 0 80px}
 
 <main class="wrap">
 <section class="chapter" id="top" style="--c:var(--top)">
-  <div class="ch-head"><div class="ch-tag">TOP NOTES<b>01</b></div><h2>가장 먼저 피어오른 신호</h2>
-    <p>3줄 요약과 이달의 키워드. 키워드는 서로 다른 기사 묶음에서 2회 이상 등장한 트렌드 용어만 남겼습니다.</p></div>
+  <div class="ch-head"><div class="ch-tag">TOP NOTES<b>01</b></div><h2>이달 먼저 뜬 키워드</h2>
+    <p>요약 세 줄과 이달의 키워드입니다. 키워드는 서로 다른 보도에서 두 번 이상 다뤄진 말만 골랐습니다.</p></div>
   {{ b.summary_list() }}
   <h3 class="rv">이달의 키워드</h3>
   {% if gate.sections.keywords.status == 'ok' %}
   {% set kmax = (keywords|map(attribute='n_clusters')|max) if keywords else 1 %}
-  <ul class="kws">{% for k in keywords %}<li class="kw rv" style="--fill:{{ '%.2f'|format(k.n_clusters / kmax) }}"><strong>{{ k.term }}</strong><span class="kwn">근거 사건 <b data-count="{{ k.n_clusters }}">{{ k.n_clusters }}</b>건{% if agg.keywords.has_prev %} · 전월 {{ k.n_prev }}건{% endif %}</span><p>{{ b.kw_explain(k) }}</p></li>{% endfor %}</ul>
-  <p class="note">유리병의 채움 높이 = 이달 최다 키워드 대비 근거 사건 수.</p>
+  <ul class="kws">{% for k in keywords %}<li class="kw rv" style="--fill:{{ '%.2f'|format(k.n_clusters / kmax) }}"><strong>{{ k.term }}</strong><span class="kwn">관련 보도 <b data-count="{{ k.n_clusters }}">{{ k.n_clusters }}</b>건{% if agg.keywords.has_prev %} · 전월 {{ k.n_prev }}건{% endif %}</span><p>{{ b.kw_explain(k) }}</p></li>{% endfor %}</ul>
+  <p class="note">카드 아래 색이 찬 높이는 보도가 가장 많은 키워드를 기준으로 한 상대 크기입니다.</p>
   {% else %}{{ b.reduced('keywords') }}{% endif %}
   {% if viz.search %}{% set g = line_paths(viz.search.series, viz.search.anchor, 760, 250) %}
-  <h3 class="rv">네이버 검색 지수 — '{{ viz.search.anchor }}' 대비</h3>
+  <h3 class="rv">네이버 검색량 추이 — '{{ viz.search.anchor }}' 대비</h3>
   <figure class="rv" style="margin:0">
-    <svg class="chart" viewBox="0 0 {{ g.width }} {{ g.height }}" role="img" aria-label="키워드별 검색 지수 상대값 추이">
+    <svg class="chart" viewBox="0 0 {{ g.width }} {{ g.height }}" role="img" aria-label="키워드별 네이버 검색량 추이(상대값)">
       {% for t in g.ticks %}<line class="grid" x1="{{ g.x0 }}" x2="{{ g.x1 }}" y1="{{ '%.1f'|format(t.y) }}" y2="{{ '%.1f'|format(t.y) }}"/><text class="tick" x="{{ g.x0 - 6 }}" y="{{ '%.1f'|format(t.y + 4) }}" text-anchor="end">{{ t.v }}</text>{% endfor %}
       {% for p in g.periods %}<text class="tick" x="{{ '%.1f'|format(p.x) }}" y="{{ g.height - 6 }}" text-anchor="middle">{{ p.p }}</text>{% endfor %}
       {% set cols = ['var(--top)','var(--heart)','var(--base)','#6B5B8C'] %}
       {% for l in g.lines %}<path class="draw" d="{{ l.d }}" stroke="{{ cols[loop.index0 % 4] }}"/>
       <text class="lbl" x="{{ '%.1f'|format(l.end[0] + 8) }}" y="{{ '%.1f'|format(l.label_y + 4) }}" fill="{{ cols[loop.index0 % 4] }}">{{ l.term }}</text>{% endfor %}
     </svg>
-    <figcaption class="note">네이버 데이터랩 월별 검색어 트렌드. 같은 요청 안에서 '{{ viz.search.anchor }}' 검색량을 1로 둔 비율이며 절대 검색량이 아닙니다.</figcaption>
+    <figcaption class="note">네이버 데이터랩 월별 자료입니다. '{{ viz.search.anchor }}' 검색량을 1로 놓고 비교한 값이라 실제 검색 횟수는 아닙니다.</figcaption>
   </figure>
   {% endif %}
 </section>
 
 <section class="chapter" id="heart" style="--c:var(--heart)">
   <div class="ch-head"><div class="ch-tag">HEART NOTES<b>02</b></div><h2>한 달을 채운 제품과 시장</h2>
-    <p>출시일이 기사에 명시된 신제품, 노트가 명시된 제품의 향조 분포, 국내·글로벌 시장 동향.</p></div>
-  <h3 class="rv">향 노트 — 블로터 스트립</h3>
+    <p>출시일이 기사로 확인된 신제품, 향 노트를 밝힌 제품, 국내외 시장 소식입니다.</p></div>
+  <h3 class="rv">향 노트별 제품 수</h3>
   {% if agg.notes.n %}
   {% set nmax = (viz.notes|map(attribute='count')|max) if viz.notes else 1 %}
-  <ul class="strips rv" aria-label="향 노트별 언급 제품 수">{% for n in viz.notes[:12] %}
+  <ul class="strips rv" aria-label="향 노트별 제품 수">{% for n in viz.notes[:12] %}
     <li class="strip" style="--w:{{ '%.3f'|format(n.count / nmax) }}"><span class="nm">{{ n.note }}</span><span class="bar" style="transition-delay:{{ loop.index0 * 70 }}ms"></span><span class="ct">{{ n.count }}개</span></li>{% endfor %}
   </ul>
-  <p class="note">노트가 기사에 명시된 제품 n={{ agg.notes.n }}개 기준(같은 제품의 중복 기사는 1개로 셈).</p>
+  <p class="note">향 노트를 밝힌 제품 {{ agg.notes.n }}개 기준입니다. 같은 제품을 다룬 기사가 여럿이어도 한 번만 셌습니다.</p>
   {% endif %}
   {{ b.notes_table() }}
-  <h3 class="rv">신제품 트래커</h3>
+  <h3 class="rv">신제품 출시</h3>
   {{ b.launches_table() }}
   <h3 class="rv">시장 동향 — 국내</h3>
-  {{ b.sents(market.kr, '검증을 통과한 국내 동향 문장이 없습니다.') }}
-  <h3 class="rv">시장 동향 — 글로벌 <span class="tag">헤드라인급 근거 포함</span></h3>
-  {{ b.sents(market['global'], '검증을 통과한 글로벌 동향 문장이 없습니다.') }}
+  {{ b.sents(market.kr, '이번 달에는 출처로 확인된 국내 시장 소식이 없습니다.') }}
+  <h3 class="rv">시장 동향 — 해외 <span class="tag">일부는 기사 제목·요약 기준</span></h3>
+  {{ b.sents(market['global'], '이번 달에는 출처로 확인된 해외 시장 소식이 없습니다.') }}
 </section>
 
 <section class="chapter" id="base" style="--c:var(--base)">
-  <div class="ch-head"><div class="ch-tag">BASE NOTES<b>03</b></div><h2>오래 남는 것: 규제와 경쟁사</h2>
-    <p>공식 문서와 경쟁 향료사 발표. 신규 항목이 없으면 "변경 없음"으로 표시합니다.</p></div>
+  <div class="ch-head"><div class="ch-tag">BASE NOTES<b>03</b></div><h2>오래 영향을 주는 규제와 경쟁사</h2>
+    <p>규제기관 공지와 경쟁 향료사 발표입니다. 새로 나온 것이 없으면 "변경 없음"으로 적었습니다.</p></div>
   {% for c0 in viz.calendar if c0.elapsed is defined %}
-  <div class="horizon rv" style="--p:{{ '%.1f'|format(c0.elapsed * 100) }}%" aria-label="{{ c0.item }}: 채택 {{ c0.start }}, 기한 {{ c0.date }}, 남은 기간 {{ c0.days_left }}일">
+  <div class="horizon rv" style="--p:{{ '%.1f'|format(c0.elapsed * 100) }}%" aria-label="{{ c0.item }}: {{ c0.start }} 채택, {{ c0.date }} 기한, {{ c0.days_left }}일 남음">
     <div class="ln"></div><div class="fill"></div>
-    <div class="pt now">{{ c0.start }}<span>채택</span></div>
+    <div class="pt now">{{ c0.start }}<span>규정 채택</span></div>
     <div class="pt end">{{ c0.date }}<span>기존 유통품 기한 · <b data-count="{{ c0.days_left }}">{{ c0.days_left }}</b>일 남음</span></div>
   </div>
-  <p class="note rv">{{ c0.item }} — 채택일부터 기한까지 경과 {{ '%.0f'|format(c0.elapsed * 100) }}%.</p>
+  <p class="note rv">{{ c0.item }}. 채택일부터 기한까지 전체 기간의 {{ '%.0f'|format(c0.elapsed * 100) }}%가 지났습니다.</p>
   {% endfor %}
   {{ b.reg_tables() }}
 </section>
@@ -258,7 +258,7 @@ footer{padding:48px 0 80px}
   {{ b.appendix() }}
 </section>
 </main>
-<footer class="wrap note">{{ cfg.title }} · {{ month }} · AI 자동 생성</footer>
+<footer class="wrap note">{{ cfg.title }} · {{ month }} · AI가 자동으로 만든 리포트</footer>
 <script>{% include "motion/_motion.js" %}</script>
 </body>
 </html>

@@ -8,12 +8,12 @@ datalab_months: 6
 shopping_category: "50000002"   # 화장품/미용
 sections:
   keywords:     {title: 이달의 키워드, core: true, min_clusters_per_item: 2, max_items: 5}
-  launches:     {title: 신제품 트래커, core: true, min_items: 5}
-  notes:        {title: 향 노트 픽, core: false, chart_min_n: 30}
-  customers:    {title: 고객사 워치, core: false, hidden_without_customers: true}
+  launches:     {title: 신제품 출시, core: true, min_items: 5}
+  notes:        {title: 이달의 향 노트, core: false, chart_min_n: 30}
+  customers:    {title: 고객사 동향, core: false, hidden_without_customers: true}
   market:       {title: 시장 동향, core: true, min_items: 3}
   regulation:   {title: 규제·원료·경쟁사, core: true}
-  signals:      {title: 영업 시그널, core: false, hidden_without_customers: true}
+  signals:      {title: 영업 참고 사항, core: false, hidden_without_customers: true}
 # 키워드 후보에서 뺄 일반어(카테고리명 수준). 트렌드 용어가 아니다.
 keyword_stoplist: [화장품, 뷰티, 향수, 향료, 스킨케어, 메이크업, 색조, 색조 화장품, 기초 화장품, 뷰티 브랜드, 화장품 브랜드, 신제품, 신제품 출시, 출시, 브랜드 론칭, 뷰티 트렌드, K뷰티, k-뷰티, 케이뷰티, 화장품 수출, 뷰티 산업, 화장품 산업, 퍼퓸, 프레그런스, 향기]
 # 핵심 섹션 과반이 기준 미달이면 발행 보류

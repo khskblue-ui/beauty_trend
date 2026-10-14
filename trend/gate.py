@@ -17,7 +17,8 @@ def evaluate(sections: dict, cfg: dict) -> dict:
             minimum = 1
         n = s.get("n", 0)
         status = "ok" if n >= minimum else "reduced"
-        reason = None if status == "ok" else s.get("reason_if_low") or f"검증 통과 항목 {n}건 < 기준 {minimum}건"
+        reason = None if status == "ok" else (
+            s.get("reason_if_low") or f"확인된 항목이 {n}건으로 기준({minimum}건)에 못 미칩니다")
         if name == "regulation" and n == 0:
             status, reason = "ok", None  # "변경 없음" is a valid result
         out[name] = {"status": status, "reason": reason, "n": n, "min": minimum}

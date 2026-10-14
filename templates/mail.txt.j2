@@ -1,11 +1,16 @@
 {{ cfg.title }} — {{ month }}
 {% if status == 'hold' %}
-[발행 보류] 품질 게이트 미달(핵심 섹션 {{ gate.core_failed }}/{{ gate.core_total }}). 유지보수자 확인이 필요합니다.
+[발행 보류] 핵심 섹션 {{ gate.core_total }}개 중 {{ gate.core_failed }}개가 기준에 못 미쳐 수신자에게 보내지 않았습니다. 유지보수자 확인이 필요합니다.
 {% endif %}
-3줄 요약
+이달의 요약
 {% for s in summary %}{{ loop.index }}. {{ s.text }}
 {% endfor %}
 섹션 상태
 {% for name, s in gate.sections.items() %}- {{ cfg.sections[name].title }}: {{ {'ok': '정상', 'reduced': '축소', 'hidden': '숨김'}[s.status] }}{% if s.reason %} ({{ s.reason }}){% endif %}
 {% endfor %}
-자세한 내용은 첨부 PDF를 확인하세요. 이 메일과 리포트는 AI가 자동 생성했습니다.
+{%- if status != 'publish' %}
+[유지보수자용] 문체 점검: 다시 쓴 문장 {{ style.rewritten }}개, 남은 경고 {{ style.warnings|length }}개
+{% for w in style.warnings %}- ({{ w.rule }}) {{ w.text }}
+{% endfor %}{% if style.warnings %}남은 표현이 어색하면 config/style.yaml에 규칙을 추가하세요.
+{% endif %}{% endif %}
+자세한 내용은 첨부 PDF를 확인하세요. 이 메일과 리포트는 AI가 자동으로 만들었습니다.

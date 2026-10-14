@@ -7,7 +7,7 @@ import os
 from collections import Counter, defaultdict
 from pathlib import Path
 
-from . import aggregate, gate, render, store, verify, write
+from . import aggregate, gate, render, store, style, verify, write
 from .config import load
 from .normalize import Entities, cluster, load_month
 from .util import kst_date, month_bounds, now_kst, prev_month
@@ -61,8 +61,12 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
     known = _known_entities(recs, ents)
     agg = aggregate.run(clusters, prev_clusters, ym)
     vlog: list[dict] = []
+    slog: list[dict] = []
 
     def checked(section: str, sents: list[dict], allowed: set[str]) -> list[dict]:
+        # style pass first (wording only), then the full verification on the result
+        sents, rows = style.polish(sents, ledger)
+        slog.extend({**r, "section": section} for r in rows)
         kept, rows = verify.verify_sentences(sents, allowed, by_id, known, ledger, ents.variants)
         vlog.extend({**r, "section": section} for r in rows)
         return kept
@@ -112,10 +116,13 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
     reg_items = agg["regulation"]["regulation"] + agg["regulation"]["competitors"]
     g = gate.evaluate({
         "keywords": {"n": len(kw_kept), "reason_if_low":
-                     "근거 기사 클러스터 2개 이상인 키워드가 없음" if not kw_items else None},
-        "launches": {"n": len(agg["launches"])},
+                     "서로 다른 보도에서 두 번 이상 다뤄진 키워드가 없습니다"},
+        "launches": {"n": len(agg["launches"]), "reason_if_low":
+                     f"출시일이 기사로 확인된 신제품이 {len(agg['launches'])}건뿐이라"
+                     f"(기준 {cfg['sections']['launches']['min_items']}건) 목록만 싣습니다"},
         "notes": {"n": agg["notes"]["n"]},
-        "market": {"n": len(mk["kr"]) + len(mk["global"])},
+        "market": {"n": len(mk["kr"]) + len(mk["global"]), "reason_if_low":
+                   "출처로 확인되는 시장 소식이 기준보다 적습니다"},
         "regulation": {"n": len(reg_items)},
     }, cfg)
 
@@ -129,6 +136,10 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
 
     total = len(vlog)
     kept_n = sum(r["kept"] for r in vlog)
+    published = (summary + mk["kr"] + mk["global"] + rg["regulation"] + rg["competitors"]
+                 + [k["sentence"] for k in kw_kept if k["sentence"]])
+    style_warnings = sorted({(s["text"], h["id"]) for s in published for h in style.lint(s["text"])})
+    style_warnings = [{"text": t, "rule": r} for t, r in style_warnings]
     status = "dry_run" if dry_run else ("hold" if g["hold"] else "publish")
     ctx = {
         "cfg": cfg, "month": ym, "generated": now_kst().strftime("%Y-%m-%d %H:%M KST"),
@@ -138,6 +149,8 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
         "verify_stats": {"total": total, "kept": kept_n, "dropped": total - kept_n,
                          "reasons": Counter(r["reason"] for r in vlog if not r["kept"])},
         "models": load("models"),
+        "style": {"rewritten": sum(1 for r in slog if r["before"] != r["after"]),
+                  "warnings": style_warnings},
     }
     paths = render.render_all(ctx, run_dir, pdf=pdf)
 
@@ -145,15 +158,19 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
     store.write_json(run_dir.relative_to(store.data_dir()) / "verify_log.json", vlog)
     store.write_json(run_dir.relative_to(store.data_dir()) / "gate.json", g)
     store.write_json(run_dir.relative_to(store.data_dir()) / "links.json", links)
+    store.write_json(run_dir.relative_to(store.data_dir()) / "style_log.json", slog)
     store.write_json(run_dir.relative_to(store.data_dir()) / "run.json", {
         "month": ym, "status": status, "models": load("models"),
-        "prompt_versions": {"write": write.PROMPT_VERSION}, "docs": len(recs),
-        "clusters": len(clusters), "prev_docs": len(prev), "paths": {k: str(v) for k, v in paths.items()},
-        "verify": ctx["verify_stats"]})
+        "prompt_versions": {"write": write.PROMPT_VERSION, "style": style.PROMPT_VERSION},
+        "docs": len(recs), "clusters": len(clusters), "prev_docs": len(prev),
+        "paths": {k: str(v) for k, v in paths.items()},
+        "verify": ctx["verify_stats"], "style": ctx["style"]})
 
     if os.getenv("DELIVER") == "1":
         from . import deliver
         deliver.send(status, ym, paths, summary, g)
     return {"status": status, "run_dir": str(run_dir), "docs": len(recs),
             "clusters": len(clusters), "gate": {k: v["status"] for k, v in g["sections"].items()},
-            "verify": {"total": total, "kept": kept_n}, "paths": {k: str(v) for k, v in paths.items()}}
+            "verify": {"total": total, "kept": kept_n},
+            "style": {"rewritten": ctx["style"]["rewritten"], "warnings": style_warnings},
+            "paths": {k: str(v) for k, v in paths.items()}}

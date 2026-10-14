@@ -135,18 +135,18 @@ footer{padding:30px 0 70px;border-top:2px solid var(--rule);margin-top:20px}
 <script>/* set before first paint so start states render, then animate */if(!(window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches)&&'IntersectionObserver' in window)document.documentElement.classList.add('motion')</script>
 </head>
 <body>
-<div class="wire"><div class="wrap row"><span class="live">Beauty · Fragrance Wire</span><span>{{ month }} · Monthly Desk</span></div></div>
+<div class="wire"><div class="wrap row"><span class="live">뷰티·향료 업계 소식</span><span>{{ month }} 월간</span></div></div>
 
 <header class="wrap masthead">
   <div class="bignum"><small class="mono">{{ month[:4] }}</small>{{ month[5:] }}</div>
   <div>
-    <h1>{{ month[5:]|int }}월 한 달, 업계에서 일어난 일을 날짜 위에 펼쳤습니다</h1>
+    <h1>{{ month[5:]|int }}월 업계 소식을 날짜순으로 모았습니다</h1>
     <div class="stats stage">
-      <div class="stat"><b data-count="{{ agg.counts.docs }}">{{ agg.counts.docs }}</b><span>관련 기사</span></div>
-      <div class="stat"><b data-count="{{ agg.counts.clusters }}">{{ agg.counts.clusters }}</b><span>사건(중복 묶음)</span></div>
-      <div class="stat"><b data-count="{{ viz.events|length }}">{{ viz.events|length }}</b><span>날짜가 확인된 주요 항목</span></div>
+      <div class="stat"><b data-count="{{ agg.counts.docs }}">{{ agg.counts.docs }}</b><span>분석 기사</span></div>
+      <div class="stat"><b data-count="{{ agg.counts.clusters }}">{{ agg.counts.clusters }}</b><span>같은 내용을 묶은 보도</span></div>
+      <div class="stat"><b data-count="{{ viz.events|length }}">{{ viz.events|length }}</b><span>날짜별로 정리한 주요 소식</span></div>
     </div>
-    <p class="note" style="margin-top:10px">분석 기간 {{ month }}-01 — 말일(KST) · 데이터랩 {{ month }}까지 · 수출입 통계 미수록 · 생성 {{ generated }}</p>
+    <p class="note" style="margin-top:10px">분석 기간 {{ month }}-01 ~ 말일(한국 시간) · 네이버 데이터랩 {{ month }}까지 · 수출입 통계는 아직 싣지 않음 · 작성 {{ generated }}</p>
     {{ b.banners() }}
   </div>
 </header>
@@ -154,11 +154,11 @@ footer{padding:30px 0 70px;border-top:2px solid var(--rule);margin-top:20px}
 {% set W = 1080 %}{% set H = 150 %}{% set L = 20 %}{% set R = 20 %}{% set step = (W - L - R) / viz.days %}{% set base = H - 26 %}
 <section class="wrap strip-wrap">
   <div class="strip-head">
-    <h2>Month strip — 항목이 나온 날</h2>
+    <h2>날짜별 주요 소식</h2>
     <ul class="legend">{% for k, n in viz.kinds.items() %}<li style="--c:{{ colors[k] }}"><i></i>{{ kname[k] }} {{ n }}</li>{% endfor %}</ul>
   </div>
   <svg class="month-strip stage" viewBox="0 0 {{ W }} {{ H }}" role="img" style="--n:{{ viz.days }};--w:{{ W - L - R }}px"
-       aria-label="{{ month }} 날짜별 항목 수: {% for k, n in viz.kinds.items() %}{{ kname[k] }} {{ n }}건{{ ', ' if not loop.last }}{% endfor %}">
+       aria-label="{{ month }} 날짜별 주요 소식 수: {% for k, n in viz.kinds.items() %}{{ kname[k] }} {{ n }}건{{ ', ' if not loop.last }}{% endfor %}">
     {% for d in range(1, viz.days + 1) %}{% set x = L + step * (d - 0.5) %}
       <line class="tickl" x1="{{ '%.1f'|format(x) }}" x2="{{ '%.1f'|format(x) }}" y1="10" y2="{{ base }}"/>
       {% if d == 1 or d % 5 == 0 %}<text class="day" x="{{ '%.1f'|format(x) }}" y="{{ H - 8 }}" text-anchor="middle">{{ d }}</text>{% endif %}
@@ -170,66 +170,66 @@ footer{padding:30px 0 70px;border-top:2px solid var(--rule);margin-top:20px}
     <line class="axis" x1="{{ L }}" x2="{{ W - R }}" y1="{{ base + 1 }}" y2="{{ base + 1 }}"/>
     <line class="scan" x1="{{ L }}" x2="{{ L }}" y1="6" y2="{{ base }}"/>
   </svg>
-  <p class="note">한 칸 = 하루. 블록 하나 = 날짜가 확인된 항목 하나(시장 동향 사건·출시·규제 공지·경쟁사 발표). 자세한 내용은 아래 데스크별 표에 있습니다.</p>
+  <p class="note">칸 하나가 하루, 막대 하나가 소식 하나입니다. 소식의 내용은 아래 표에서 볼 수 있습니다.</p>
 </section>
 
 <main class="wrap">
 <section class="desk">
-  <div class="desk-label"><div class="no">DESK 01</div><h2>헤드라인</h2><p>검증을 통과한 문장 중 섹션별 첫 문장.</p></div>
+  <div class="desk-label"><div class="no">01</div><h2>요약</h2><p>키워드·시장·규제에서 한 줄씩 골랐습니다.</p></div>
   <div>{{ b.summary_list() }}</div>
 </section>
 
 <section class="desk">
-  <div class="desk-label"><div class="no">DESK 02</div><h2>이달의 키워드</h2><p>서로 다른 기사 묶음 2개 이상에서 등장한 용어.</p></div>
+  <div class="desk-label"><div class="no">02</div><h2>이달의 키워드</h2><p>서로 다른 보도에서 두 번 이상 다뤄진 말입니다.</p></div>
   <div>
   {% if gate.sections.keywords.status == 'ok' %}
   {% set kmax = (keywords|map(attribute='n_clusters')|max) if keywords else 1 %}
-  <ul class="kbars">{% for k in keywords %}<li class="kbar rv" style="--w:{{ '%.3f'|format(k.n_clusters / kmax) }}"><div class="t">{{ k.term }}<small>근거 사건 <span data-count="{{ k.n_clusters }}">{{ k.n_clusters }}</span>건{% if agg.keywords.has_prev %} · 전월 {{ k.n_prev }}{% endif %}</small></div>
+  <ul class="kbars">{% for k in keywords %}<li class="kbar rv" style="--w:{{ '%.3f'|format(k.n_clusters / kmax) }}"><div class="t">{{ k.term }}<small>관련 보도 <span data-count="{{ k.n_clusters }}">{{ k.n_clusters }}</span>건{% if agg.keywords.has_prev %} · 전월 {{ k.n_prev }}{% endif %}</small></div>
     <div><div class="track"><div class="val"></div></div><p>{{ b.kw_explain(k) }}</p></div></li>{% endfor %}</ul>
   {% else %}{{ b.reduced('keywords') }}{% endif %}
   {% if viz.search %}{% set g = line_paths(viz.search.series, viz.search.anchor, 820, 240) %}
-  <h3 class="rv">네이버 검색 지수 · '{{ viz.search.anchor }}' = 1</h3>
+  <h3 class="rv">네이버 검색량 추이 · '{{ viz.search.anchor }}' 대비</h3>
   <figure class="rv" style="margin:0">
-    <svg class="chart" viewBox="0 0 {{ g.width }} {{ g.height }}" role="img" aria-label="키워드별 검색 지수 상대값 추이">
+    <svg class="chart" viewBox="0 0 {{ g.width }} {{ g.height }}" role="img" aria-label="키워드별 네이버 검색량 추이(상대값)">
       {% for t in g.ticks %}<line class="grid" x1="{{ g.x0 }}" x2="{{ g.x1 }}" y1="{{ '%.1f'|format(t.y) }}" y2="{{ '%.1f'|format(t.y) }}"/><text class="tick" x="{{ g.x0 - 6 }}" y="{{ '%.1f'|format(t.y + 4) }}" text-anchor="end">{{ t.v }}</text>{% endfor %}
       {% for p in g.periods %}<text class="tick" x="{{ '%.1f'|format(p.x) }}" y="{{ g.height - 6 }}" text-anchor="middle">{{ p.p }}</text>{% endfor %}
       {% set cols = ['var(--k-market)','var(--k-launch)','var(--k-reg)','var(--k-comp)'] %}
       {% for l in g.lines %}<path class="draw" d="{{ l.d }}" stroke="{{ cols[loop.index0 % 4] }}"/>
       <text class="lbl" x="{{ '%.1f'|format(l.end[0] + 8) }}" y="{{ '%.1f'|format(l.label_y + 4) }}" fill="{{ cols[loop.index0 % 4] }}">{{ l.term }}</text>{% endfor %}
     </svg>
-    <figcaption class="note">네이버 데이터랩 월별. 같은 요청에서 '{{ viz.search.anchor }}' 검색량 대비 비율(절대 검색량 아님).</figcaption>
+    <figcaption class="note">네이버 데이터랩 월별 자료입니다. '{{ viz.search.anchor }}' 검색량을 1로 놓고 비교한 값이라 실제 검색 횟수는 아닙니다.</figcaption>
   </figure>
   {% endif %}
   </div>
 </section>
 
 <section class="desk">
-  <div class="desk-label"><div class="no">DESK 03</div><h2>신제품 · 향 노트</h2><p>출시일·노트가 기사에 명시된 것만.</p></div>
+  <div class="desk-label"><div class="no">03</div><h2>신제품 · 향 노트</h2><p>출시일이나 향 노트가 기사로 확인된 제품만 실었습니다.</p></div>
   <div>
-    <h3 class="rv">신제품 트래커</h3>{{ b.launches_table() }}
-    <h3 class="rv">향 노트 (n={{ agg.notes.n }})</h3>{{ b.notes_table() }}
+    <h3 class="rv">신제품 출시</h3>{{ b.launches_table() }}
+    <h3 class="rv">향 노트를 밝힌 제품 {{ agg.notes.n }}개</h3>{{ b.notes_table() }}
   </div>
 </section>
 
 <section class="desk">
-  <div class="desk-label"><div class="no">DESK 04</div><h2>시장</h2><p>국내 · 글로벌(헤드라인급 근거 포함).</p></div>
+  <div class="desk-label"><div class="no">04</div><h2>시장</h2><p>국내와 해외 소식입니다. 해외 소식 일부는 기사 제목·요약만 확인했습니다.</p></div>
   <div>
-    <h3 class="rv">국내</h3>{{ b.sents(market.kr, '검증을 통과한 국내 동향 문장이 없습니다.') }}
-    <h3 class="rv">글로벌</h3>{{ b.sents(market['global'], '검증을 통과한 글로벌 동향 문장이 없습니다.') }}
+    <h3 class="rv">국내</h3>{{ b.sents(market.kr, '이번 달에는 출처로 확인된 국내 시장 소식이 없습니다.') }}
+    <h3 class="rv">해외</h3>{{ b.sents(market['global'], '이번 달에는 출처로 확인된 해외 시장 소식이 없습니다.') }}
   </div>
 </section>
 
 <section class="desk">
-  <div class="desk-label"><div class="no">DESK 05</div><h2>규제 · 경쟁사</h2><p>공식 문서와 경쟁 향료사 발표.</p></div>
+  <div class="desk-label"><div class="no">05</div><h2>규제 · 경쟁사</h2><p>규제기관 공지와 경쟁 향료사 발표입니다.</p></div>
   <div>{{ b.reg_tables() }}</div>
 </section>
 
 <section class="desk">
-  <div class="desk-label"><div class="no">DESK 06</div><h2>부록</h2></div>
+  <div class="desk-label"><div class="no">06</div><h2>부록</h2></div>
   <div>{{ b.appendix() }}</div>
 </section>
 </main>
-<footer class="wrap note">{{ cfg.title }} · {{ month }} · AI 자동 생성</footer>
+<footer class="wrap note">{{ cfg.title }} · {{ month }} · AI가 자동으로 만든 리포트</footer>
 <script>{% include "motion/_motion.js" %}</script>
 </body>
 </html>

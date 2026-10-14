@@ -149,19 +149,19 @@ footer{padding:40px 0 70px}
 <body>
 <header class="wrap">
   <div class="runlabel">
-    <div><span>Sample</span><b>{{ month }}</b></div>
-    <div><span>Injected docs</span><b data-count="{{ agg.counts.docs }}">{{ agg.counts.docs }}</b></div>
-    <div><span>Resolved events</span><b data-count="{{ agg.counts.clusters }}">{{ agg.counts.clusters }}</b></div>
-    <div><span>Run</span><b>{{ generated[:16] }}</b></div>
+    <div><span>분석 월</span><b>{{ month }}</b></div>
+    <div><span>분석 기사</span><b data-count="{{ agg.counts.docs }}">{{ agg.counts.docs }}</b></div>
+    <div><span>같은 내용을 묶은 보도</span><b data-count="{{ agg.counts.clusters }}">{{ agg.counts.clusters }}</b></div>
+    <div><span>작성</span><b>{{ generated[:16] }}</b></div>
   </div>
-  <h1>{{ month[5:]|int }}월 업계 기사를 분석기에 걸었을 때 솟은 피크</h1>
-  <p class="sub">피크 하나가 이달의 키워드 하나입니다. 높이는 그 용어가 등장한 서로 다른 기사 묶음의 수입니다. 분석 기간 {{ month }}-01 — 말일(KST), 데이터랩 {{ month }}까지, 수출입 통계 미수록.</p>
+  <h1>{{ month[5:]|int }}월 업계 기사에서 두드러진 키워드</h1>
+  <p class="sub">향료 성분 분석에 쓰는 크로마토그램처럼 그렸습니다. 봉우리 하나가 키워드 하나이고, 높이는 그 키워드를 다룬 보도 수입니다. 분석 기간 {{ month }}-01 ~ 말일(한국 시간), 네이버 데이터랩 {{ month }}까지, 수출입 통계는 아직 싣지 않음.</p>
   {{ b.banners() }}
 
   {% set gc = chromatogram(viz.keywords, 960, 280) %}
   <figure class="gc stage" style="--span:{{ gc.right - gc.left }}px">
     <svg viewBox="0 0 {{ gc.width }} {{ gc.height }}" role="img"
-         aria-label="키워드 크로마토그램: {% for p in gc.peaks %}{{ p.term }} {{ p.n }}건{{ ', ' if not loop.last }}{% endfor %}">
+         aria-label="키워드별 보도 수: {% for p in gc.peaks %}{{ p.term }} {{ p.n }}건{{ ', ' if not loop.last }}{% endfor %}">
       {% if gc.peaks %}
       <path class="fillarea" d="{{ gc.d }} L{{ gc.right }},{{ gc.base }} L{{ gc.left }},{{ gc.base }} Z"/>
       <path class="trace draw" d="{{ gc.d }}"/>
@@ -169,7 +169,7 @@ footer{padding:40px 0 70px}
       {% for i in range(0, 11) %}{% set x = gc.left + (gc.right - gc.left) * i / 10 %}
         <line class="axis" x1="{{ '%.1f'|format(x) }}" x2="{{ '%.1f'|format(x) }}" y1="{{ gc.base + 1 }}" y2="{{ gc.base + 6 }}"/>
       {% endfor %}
-      <text class="tick" x="{{ gc.right }}" y="{{ gc.base + 22 }}" text-anchor="end">retention →  (순서는 근거 사건 수 순위)</text>
+      <text class="tick" x="{{ gc.right }}" y="{{ gc.base + 22 }}" text-anchor="end">보도가 많은 순 →</text>
       {% for p in gc.peaks %}
         <g class="pk" style="--delay:{{ p.delay }}s">
           <line x1="{{ '%.1f'|format(p.x) }}" x2="{{ '%.1f'|format(p.x) }}" y1="{{ '%.1f'|format(p.y - 6) }}" y2="{{ '%.1f'|format(p.y - 20) }}"/>
@@ -179,31 +179,31 @@ footer{padding:40px 0 70px}
       {% endfor %}
       <line class="cursor" x1="{{ gc.left }}" x2="{{ gc.left }}" y1="10" y2="{{ gc.base }}"/>
       {% else %}
-      <text class="tick" x="{{ gc.width / 2 }}" y="{{ gc.height / 2 }}" text-anchor="middle">기준을 넘는 키워드 피크 없음</text>
+      <text class="tick" x="{{ gc.width / 2 }}" y="{{ gc.height / 2 }}" text-anchor="middle">기준을 넘은 키워드가 없습니다</text>
       {% endif %}
     </svg>
-    <figcaption>피크 위 숫자 = 근거 사건 수(코드 집계). 파형 모양과 잡음은 시각 표현일 뿐 데이터가 아닙니다.</figcaption>
+    <figcaption>봉우리 위 숫자가 관련 보도 수입니다. 곡선 모양과 잔물결은 그림 효과일 뿐 자료가 아닙니다.</figcaption>
   </figure>
 </header>
 
 <main class="wrap">
 <section class="frac">
-  <div class="frac-id">FRACTION<b>F1</b></div>
+  <div class="frac-id"><b>01</b></div>
   <div>
-    <h2>요약</h2><p class="desc">검증을 통과한 문장 중 섹션별 첫 문장.</p>
+    <h2>요약</h2><p class="desc">키워드·시장·규제에서 한 줄씩 골랐습니다.</p>
     {{ b.summary_list() }}
   </div>
 </section>
 
 <section class="frac">
-  <div class="frac-id">FRACTION<b>F2</b></div>
+  <div class="frac-id"><b>02</b></div>
   <div>
-    <h2>피크 해석 — 이달의 키워드</h2><p class="desc">각 피크가 어떤 사실과 함께 등장했는지.</p>
+    <h2>키워드별 내용</h2><p class="desc">각 키워드가 어떤 소식과 함께 나왔는지 정리했습니다.</p>
     {% if gate.sections.keywords.status == 'ok' %}
-    <ul class="sents">{% for k in keywords %}<li class="rv"><b>{{ k.term }}</b> <span class="mono note">· {{ k.n_clusters }}건</span><br>{{ b.kw_explain(k) }}</li>{% endfor %}</ul>
+    <ul class="sents">{% for k in keywords %}<li class="rv"><b>{{ k.term }}</b> <span class="mono note">· 보도 {{ k.n_clusters }}건</span><br>{{ b.kw_explain(k) }}</li>{% endfor %}</ul>
     {% else %}{{ b.reduced('keywords') }}{% endif %}
     {% if viz.search %}
-    <h3 class="rv">검출기 채널 — 네이버 검색 지수('{{ viz.search.anchor }}' = 1)</h3>
+    <h3 class="rv">키워드별 네이버 검색량 추이('{{ viz.search.anchor }}' 대비)</h3>
     <div class="channels">
       {% for t, pts in viz.search.series.items() if t != viz.search.anchor %}
       {% set one = {t: pts} %}{% set g = line_paths(one, None, 400, 42, (4, 4, 4, 4)) %}
@@ -213,51 +213,50 @@ footer{padding:40px 0 70px}
         <span class="v">{{ '%.2f'|format(lastv) if lastv is not none else '—' }}<small>{{ pts[-1][0] }}</small></span></div>
       {% endfor %}
     </div>
-    <p class="note">각 채널은 키워드 하나의 월별 추이({{ viz.search.series[viz.search.anchor][0][0] }} ~ {{ month }}), 오른쪽 값은 {{ month }} 값. 채널마다 세로 축척이 달라 채널끼리 높이를 비교하면 안 됩니다. 절대 검색량이 아닙니다.</p>
+    <p class="note">줄마다 키워드 하나의 월별 추이({{ viz.search.series[viz.search.anchor][0][0] }} ~ {{ month }})이고, 오른쪽 숫자는 {{ month }} 값입니다. 줄마다 세로 눈금이 달라 줄끼리 높이를 비교할 수는 없습니다. 실제 검색 횟수가 아니라 상대값입니다.</p>
     {% endif %}
   </div>
 </section>
 
 <section class="frac">
-  <div class="frac-id">FRACTION<b>F3</b></div>
+  <div class="frac-id"><b>03</b></div>
   <div>
-    <h2>질량 스펙트럼 — 향 노트</h2><p class="desc">기사에 노트가 명시된 제품 n={{ agg.notes.n }}개에서 각 노트가 나온 제품 수.</p>
+    <h2>향 노트</h2><p class="desc">향 노트를 밝힌 제품 {{ agg.notes.n }}개 가운데 노트별로 몇 개 제품에 쓰였는지 셌습니다.</p>
     {% if viz.notes %}{% set nmax = viz.notes|map(attribute='count')|max %}
     <div class="ms rv"><ul>{% for n in viz.notes[:12] %}<li><span class="nm">{{ n.note }}</span><span class="stick" style="--w:{{ '%.3f'|format(n.count / nmax) }}"></span><span class="ct">{{ n.count }}</span></li>{% endfor %}</ul></div>
-    <h3 class="rv">시료 라벨 — 노트가 명시된 제품</h3>
-    <ul class="specimens">{% for x in agg.notes['items'][:24] %}
-      <li class="spec rv"><dl><dt>BRAND</dt><dd>{{ x.brand or '—' }}</dd><dt>NAME</dt><dd>{{ x.name }}</dd><dt>NOTES</dt><dd>{{ x.notes|join(', ') }}</dd><dt>REF</dt><dd class="ref">{{ cite([x.doc_id]) }}</dd></dl></li>{% endfor %}
+    <h3 class="rv">향 노트를 밝힌 제품</h3>
+    <ul class="specimens">{% for x in agg.notes['items'] %}
+      <li class="spec rv"><dl><dt>브랜드</dt><dd>{{ x.brand or '—' }}</dd><dt>제품</dt><dd>{{ x.name }}</dd><dt>향 노트</dt><dd>{{ x.notes|join(', ') }}</dd><dt>출처</dt><dd class="ref">{{ cite([x.doc_id]) }}</dd></dl></li>{% endfor %}
     </ul>
-    {% if agg.notes['items']|length > 24 %}<p class="note">외 {{ agg.notes['items']|length - 24 }}개 제품은 부록 출처에서 확인.</p>{% endif %}
-    {% else %}<p class="reduced">이번 달 기사에서 노트가 명시된 제품을 찾지 못했습니다(n=0).</p>{% endif %}
-    <h3 class="rv">신제품 트래커</h3>
+    {% else %}<p class="reduced">이번 달 기사에는 향 노트를 밝힌 제품이 없었습니다.</p>{% endif %}
+    <h3 class="rv">신제품 출시</h3>
     {{ b.launches_table() }}
   </div>
 </section>
 
 <section class="frac">
-  <div class="frac-id">FRACTION<b>F4</b></div>
+  <div class="frac-id"><b>04</b></div>
   <div>
-    <h2>시장 동향</h2><p class="desc">국내 · 글로벌(헤드라인급 근거 포함).</p>
-    <h3 class="rv">국내</h3>{{ b.sents(market.kr, '검증을 통과한 국내 동향 문장이 없습니다.') }}
-    <h3 class="rv">글로벌</h3>{{ b.sents(market['global'], '검증을 통과한 글로벌 동향 문장이 없습니다.') }}
+    <h2>시장 동향</h2><p class="desc">국내와 해외 소식입니다. 해외 소식 일부는 기사 제목·요약만 확인했습니다.</p>
+    <h3 class="rv">국내</h3>{{ b.sents(market.kr, '이번 달에는 출처로 확인된 국내 시장 소식이 없습니다.') }}
+    <h3 class="rv">해외</h3>{{ b.sents(market['global'], '이번 달에는 출처로 확인된 해외 시장 소식이 없습니다.') }}
   </div>
 </section>
 
 <section class="frac">
-  <div class="frac-id">FRACTION<b>F5</b></div>
+  <div class="frac-id"><b>05</b></div>
   <div>
-    <h2>규제 · 원료 · 경쟁사</h2><p class="desc">공식 문서와 경쟁 향료사 발표. 신규가 없으면 "변경 없음".</p>
+    <h2>규제 · 원료 · 경쟁사</h2><p class="desc">규제기관 공지와 경쟁 향료사 발표입니다. 새로 나온 것이 없으면 "변경 없음"으로 적었습니다.</p>
     {{ b.reg_tables() }}
   </div>
 </section>
 
 <section class="frac">
-  <div class="frac-id">METHOD<b>M</b></div>
+  <div class="frac-id"><b>06</b></div>
   <div><h2>부록</h2>{{ b.appendix() }}</div>
 </section>
 </main>
-<footer class="wrap note">{{ cfg.title }} · {{ month }} · AI 자동 생성</footer>
+<footer class="wrap note">{{ cfg.title }} · {{ month }} · AI가 자동으로 만든 리포트</footer>
 <script>{% include "motion/_motion.js" %}</script>
 </body>
 </html>
