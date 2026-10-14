@@ -97,3 +97,12 @@ def test_repeat_word_rule():
     rep = [h for h in hits if h["id"] == "repeat_word"]
     assert rep and "인도네시아" in rep[0]["hint"] and "국제향료협회" in rep[0]["hint"]
     assert not [h for h in lint("지보단은 업계에서 처음으로 복수 인증을 받았다.") if h["id"] == "repeat_word"]
+
+
+@pytest.mark.parametrize("path", sorted((ROOT / "templates" / "motion").glob("*.html.j2")), ids=lambda p: p.name)
+def test_korean_prose_not_in_monospace(path):
+    """Monospace fallback spreads Hangul apart; prose blocks and labels use the sans font."""
+    css = re.search(r"<style>(.*?)</style>", path.read_text("utf-8"), re.S).group(1)
+    for sel in (".banner", ".reduced", ".summary li", "ul.sents li", ".spec dt", ".runlabel span"):
+        for m in re.finditer(re.escape(sel) + r"\{([^}]*)\}", css):
+            assert "var(--mono)" not in m.group(1), f"{sel} uses monospace in {path.name}"
