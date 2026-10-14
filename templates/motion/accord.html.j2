@@ -1,0 +1,252 @@
+{% import "motion/_blocks.j2" as b with context %}
+{%- set nkw = keywords|length -%}
+{%- set nheart = agg.launches|length + agg.notes.n + market.kr|length + market['global']|length -%}
+{%- set nbase = agg.regulation.regulation|length + agg.regulation.competitors|length + agg.calendar|length -%}
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ month }} Accord — {{ cfg.title }}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600;700&family=Noto+Sans+KR:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#F3EEE7; --paper-2:#EAE3D9; --ink:#26201C; --muted:#5F564E; --line:#D6CCBF;
+  --top:#8E3B4A; --heart:#9A5B1E; --base:#3F5A4A; --focus:#26201C;
+  --serif:"Noto Serif KR","Nanum Myeongjo",serif;
+  --sans:"Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic","WenQuanYi Zen Hei",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,monospace;
+  --ease:cubic-bezier(.2,.7,.1,1);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.7 var(--sans);-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration-color:var(--line);text-underline-offset:3px}
+a:focus-visible{outline:2px solid var(--focus);outline-offset:2px;border-radius:2px}
+.wrap{max-width:1040px;margin:0 auto;padding:0 24px}
+.mono{font-family:var(--mono);font-size:.92em}
+
+/* ---------- hero: the accord pyramid ---------- */
+.hero{min-height:92vh;display:grid;grid-template-columns:1.1fr .9fr;gap:40px;align-items:center;padding:56px 0 24px}
+.kicker{font:500 12px/1 var(--mono);letter-spacing:.18em;text-transform:uppercase;color:var(--muted)}
+h1{font:700 clamp(40px,6.4vw,76px)/1.05 var(--serif);margin:18px 0 18px;letter-spacing:-.01em}
+h1 em{font-style:normal;color:var(--heart)}
+.lede{font:400 18px/1.7 var(--serif);color:var(--muted);max-width:30em}
+.meta{margin-top:26px;display:grid;grid-template-columns:max-content 1fr;gap:6px 18px;font-size:13px;color:var(--muted)}
+.banner{display:inline-block;margin:14px 8px 0 0;padding:4px 10px;border:1px solid var(--line);border-radius:999px;font-size:12.5px;color:var(--muted);background:var(--paper-2)}
+.pyr{width:100%;max-width:420px;justify-self:center}
+.pyr .band{transform-origin:50% 100%;transform-box:fill-box}
+.pyr text{font-family:var(--mono);font-size:12px;letter-spacing:.12em;fill:var(--paper)}
+.pyr .cnt{font-family:var(--serif);font-size:22px;letter-spacing:0;font-weight:700}
+.motion .pyr .band{opacity:0;transform:translateY(18px) scaleY(.85);transition:opacity .9s var(--ease),transform 1.1s var(--ease)}
+.motion .pyr.in .band{opacity:1;transform:none}
+.motion .pyr.in .b-base{transition-delay:.05s}.motion .pyr.in .b-heart{transition-delay:.35s}.motion .pyr.in .b-top{transition-delay:.65s}
+.pyr .wisp{fill:none;stroke:var(--top);stroke-width:1.2;opacity:.55}
+.motion .pyr .wisp{stroke-dasharray:var(--len);stroke-dashoffset:var(--len)}
+.motion .pyr.in .wisp{animation:rise 3.2s var(--ease) 1.1s forwards}
+@keyframes rise{to{stroke-dashoffset:0}}
+
+/* ---------- chapter nav ---------- */
+.chap-nav{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--paper) 88%,transparent);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
+.chap-nav ol{display:flex;gap:4px;list-style:none;margin:0 auto;padding:0 24px;max-width:1040px;overflow-x:auto}
+.chap-nav a{display:flex;align-items:center;gap:8px;min-height:44px;padding:0 12px;font:500 12px/1 var(--mono);letter-spacing:.14em;text-decoration:none;color:var(--muted);white-space:nowrap}
+.chap-nav a::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--c)}
+
+/* ---------- chapters ---------- */
+.chapter{padding:84px 0 24px;border-bottom:1px solid var(--line)}
+.ch-head{display:grid;grid-template-columns:180px 1fr;gap:24px;align-items:baseline;margin-bottom:28px}
+.ch-tag{font:500 12px/1.4 var(--mono);letter-spacing:.16em;color:var(--c)}
+.ch-tag b{display:block;font:700 44px/1 var(--serif);letter-spacing:0;margin-top:6px}
+.ch-head h2{font:700 clamp(26px,3.4vw,38px)/1.25 var(--serif);margin:0}
+.ch-head p{grid-column:2;margin:6px 0 0;color:var(--muted);font-size:14.5px}
+h3{font:600 19px/1.4 var(--serif);margin:44px 0 14px}
+.grid2{display:grid;grid-template-columns:180px 1fr;gap:24px}
+.grid2 > .side{font:500 12px/1.6 var(--mono);letter-spacing:.08em;color:var(--muted);padding-top:4px}
+
+/* diffusion reveal: blur + tracking settle, like scent opening up */
+.motion .rv{opacity:0;filter:blur(7px);letter-spacing:.03em;transform:translateY(10px);transition:opacity .9s var(--ease),filter 1.1s var(--ease),letter-spacing 1.2s var(--ease),transform .9s var(--ease)}
+.motion .rv.in{opacity:1;filter:none;letter-spacing:normal;transform:none}
+
+.summary{list-style:none;counter-reset:s;margin:0;padding:0}
+.summary li{counter-increment:s;display:grid;grid-template-columns:48px 1fr;gap:12px;padding:18px 0;border-top:1px solid var(--line);font:400 20px/1.6 var(--serif)}
+.summary li::before{content:counter(s,decimal-leading-zero);font:500 13px/2.4 var(--mono);color:var(--top)}
+
+/* top notes: keyword "vials" sized by evidence count */
+.kws{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px}
+.kw{position:relative;background:var(--paper-2);border-radius:14px 14px 4px 4px;padding:22px 20px 18px;overflow:hidden}
+.kw::after{content:"";position:absolute;left:0;right:0;bottom:0;height:calc(var(--fill,0) * 100%);background:linear-gradient(to top,color-mix(in srgb,var(--top) 14%,transparent),transparent);transform:scaleY(0);transform-origin:bottom;transition:transform 1.6s var(--ease) .3s;pointer-events:none}
+.static .kw::after,.kw.in::after{transform:scaleY(1)}
+.kw strong{display:block;font:700 22px/1.3 var(--serif);color:var(--top)}
+.kwn{display:block;font:12px/1.6 var(--mono);color:var(--muted);margin:4px 0 10px}
+.kwn b{font-weight:500;color:var(--ink)}
+.kw p{margin:0;font-size:14.5px;position:relative;z-index:1}
+
+/* heart notes: blotter strips */
+.strips{list-style:none;margin:0;padding:0}
+.strip{display:grid;grid-template-columns:150px 1fr 54px;align-items:center;gap:12px;padding:5px 0}
+.strip .nm{font:500 14px/1.3 var(--serif);text-align:right}
+.strip .bar{height:14px;border-radius:0 7px 7px 0;background:linear-gradient(90deg,var(--heart),color-mix(in srgb,var(--heart) 45%,var(--paper)));transform-origin:left;transform:scaleX(var(--w))}
+.motion .strip .bar{transform:scaleX(0);transition:transform 1.3s var(--ease)}
+.motion .strips.in .bar{transform:scaleX(var(--w))}
+.strip .ct{font:12px var(--mono);color:var(--muted)}
+
+/* base: long horizon to the effective date */
+.horizon{position:relative;height:74px;margin:10px 0 6px}
+.horizon .ln{position:absolute;left:0;right:0;top:36px;height:2px;background:var(--line)}
+.horizon .fill{position:absolute;left:0;top:35px;height:4px;width:var(--p);background:var(--base);transform-origin:left}
+.motion .horizon .fill{transform:scaleX(0);transition:transform 2.4s var(--ease)}
+.motion .horizon.in .fill{transform:scaleX(1)}
+.horizon .pt{position:absolute;top:20px;font:12px/1.4 var(--mono);color:var(--muted)}
+.horizon .pt.now{left:0}.horizon .pt.end{right:0;text-align:right;color:var(--base)}
+.horizon .pt::after{content:"";position:absolute;top:13px;width:10px;height:10px;border-radius:50%;background:currentColor}
+.horizon .pt.now::after{left:0}.horizon .pt.end::after{right:0}
+.horizon .pt span{display:block;margin-top:22px}
+
+ul.sents{margin:0;padding:0 0 0 18px}ul.sents li{margin:10px 0}
+.cite{font:500 10.5px/1 var(--mono);margin-left:2px}.cite a{text-decoration:none;color:var(--heart)}
+.tw{overflow-x:auto;margin:10px 0 4px}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{text-align:left;padding:10px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font:500 11.5px/1.4 var(--mono);letter-spacing:.08em;color:var(--muted)}
+td.n,th.n{text-align:right}
+.tag{font:11px var(--mono);padding:1px 6px;border:1px solid var(--line);border-radius:999px;color:var(--muted);white-space:nowrap}
+.reduced{border-left:3px solid var(--line);padding:10px 14px;color:var(--muted);background:var(--paper-2);font-size:14.5px}
+.cal{list-style:none;padding:0;margin:0}.cal li{padding:8px 0;border-bottom:1px solid var(--line)}
+.chart{width:100%;height:auto;display:block}
+.chart .grid{stroke:var(--line)}.chart .tick{font:11px var(--mono);fill:var(--muted)}
+.chart .lbl{font:600 13px var(--serif)}
+.chart path.draw{fill:none;stroke-width:2.2;stroke-linecap:round}
+.motion .chart path.draw{stroke-dasharray:var(--len);stroke-dashoffset:var(--len);transition:stroke-dashoffset 2s var(--ease)}
+.motion .rv.in .chart path.draw,.motion .chart.in path.draw{stroke-dashoffset:0}
+.note{font-size:13px;color:var(--muted)}
+.fine{font-size:13px;color:var(--muted);padding-left:18px}
+.sources{font-size:12.5px;padding-left:22px;word-break:break-all}.sources li{margin:4px 0}
+.lk-restricted,.lk-unverified{color:var(--heart);font-size:11px}
+footer{padding:48px 0 80px}
+
+@media (max-width:820px){
+  .hero{grid-template-columns:1fr;min-height:auto;padding-top:36px}
+  .pyr{max-width:300px}
+  .ch-head,.grid2{grid-template-columns:1fr;gap:8px}
+  .ch-head p{grid-column:1}
+  .strip{grid-template-columns:96px 1fr 44px}
+  .summary li{grid-template-columns:34px 1fr;font-size:17px}
+  th,td{padding:8px 6px;font-size:13px}
+}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+@media print{
+  .chap-nav{display:none}.hero{min-height:auto}
+  .rv,.pyr .band,.bar,.fill{opacity:1!important;filter:none!important;transform:none!important}
+  .strip .bar{transform:scaleX(var(--w))!important}
+  path.draw,.wisp{stroke-dashoffset:0!important}
+}
+</style>
+</head>
+<body>
+<header class="wrap hero">
+  <div>
+    <div class="kicker">Monthly Beauty &amp; Fragrance Accord · {{ month }}</div>
+    <h1>{{ month[5:]|int }}월의 향 구조, <em>업계의 향조</em>를 읽다</h1>
+    <p class="lede">빠르게 피어오르는 키워드(탑), 한 달을 채운 제품과 시장(하트), 오래 남는 규제와 시행일(베이스)로 나누어 정리했습니다.</p>
+    <div class="meta">
+      <span>분석 기간</span><span class="mono">{{ month }}-01 — {{ month }} 말일 KST</span>
+      <span>분석 대상</span><span>관련 기사 <b class="mono" data-count="{{ agg.counts.docs }}">{{ agg.counts.docs }}</b>건 · 사건 <b class="mono" data-count="{{ agg.counts.clusters }}">{{ agg.counts.clusters }}</b>건</span>
+      <span>데이터 기준월</span><span>업계지·뉴스·규제 {{ month }} · 네이버 데이터랩 {{ month }}까지 · 수출입 통계 미수록</span>
+      <span>생성</span><span class="mono">{{ generated }}</span>
+    </div>
+    {{ b.banners() }}
+  </div>
+  <svg class="pyr stage" viewBox="0 0 420 400" role="img" aria-label="탑 {{ nkw }}개, 하트 {{ nheart }}개, 베이스 {{ nbase }}개 항목으로 구성된 이달의 리포트 구조">
+    <path class="wisp draw" d="M210 96 C 196 70, 228 54, 210 28 S 222 4, 214 -6"/>
+    <path class="wisp draw" d="M188 100 C 170 76, 196 60, 180 36" style="stroke:var(--heart)"/>
+    <path class="wisp draw" d="M232 100 C 252 80, 226 62, 244 40" style="stroke:var(--base)"/>
+    <g class="band b-base"><path d="M30 392 L390 392 L322 270 L98 270 Z" fill="var(--base)"/>
+      <text x="210" y="322" text-anchor="middle">BASE · 규제·경쟁사·시행일</text><text class="cnt" x="210" y="356" text-anchor="middle">{{ nbase }}</text></g>
+    <g class="band b-heart"><path d="M104 262 L316 262 L262 168 L158 168 Z" fill="var(--heart)"/>
+      <text x="210" y="208" text-anchor="middle">HEART · 제품·노트·시장</text><text class="cnt" x="210" y="240" text-anchor="middle">{{ nheart }}</text></g>
+    <g class="band b-top"><path d="M164 160 L256 160 L210 100 Z" fill="var(--top)"/>
+      <text class="cnt" x="210" y="150" text-anchor="middle">{{ nkw }}</text></g>
+    <text x="270" y="128" style="fill:var(--top)">TOP · 키워드</text>
+  </svg>
+</header>
+
+<nav class="chap-nav" aria-label="챕터">
+  <ol>
+    <li><a href="#top" style="--c:var(--top)">TOP 키워드</a></li>
+    <li><a href="#heart" style="--c:var(--heart)">HEART 제품·시장</a></li>
+    <li><a href="#base" style="--c:var(--base)">BASE 규제·경쟁사</a></li>
+    <li><a href="#appendix" style="--c:var(--muted)">부록</a></li>
+  </ol>
+</nav>
+
+<main class="wrap">
+<section class="chapter" id="top" style="--c:var(--top)">
+  <div class="ch-head"><div class="ch-tag">TOP NOTES<b>01</b></div><h2>가장 먼저 피어오른 신호</h2>
+    <p>3줄 요약과 이달의 키워드. 키워드는 서로 다른 기사 묶음에서 2회 이상 등장한 트렌드 용어만 남겼습니다.</p></div>
+  {{ b.summary_list() }}
+  <h3 class="rv">이달의 키워드</h3>
+  {% if gate.sections.keywords.status == 'ok' %}
+  {% set kmax = (keywords|map(attribute='n_clusters')|max) if keywords else 1 %}
+  <ul class="kws">{% for k in keywords %}<li class="kw rv" style="--fill:{{ '%.2f'|format(k.n_clusters / kmax) }}"><strong>{{ k.term }}</strong><span class="kwn">근거 사건 <b data-count="{{ k.n_clusters }}">{{ k.n_clusters }}</b>건{% if agg.keywords.has_prev %} · 전월 {{ k.n_prev }}건{% endif %}</span><p>{{ k.sentence.text }}{{ cite(k.sentence.doc_ids) }}</p></li>{% endfor %}</ul>
+  <p class="note">유리병의 채움 높이 = 이달 최다 키워드 대비 근거 사건 수.</p>
+  {% else %}{{ b.reduced('keywords') }}{% endif %}
+  {% if viz.search %}{% set g = line_paths(viz.search.series, viz.search.anchor, 760, 250) %}
+  <h3 class="rv">네이버 검색 지수 — '{{ viz.search.anchor }}' 대비</h3>
+  <figure class="rv" style="margin:0">
+    <svg class="chart" viewBox="0 0 {{ g.width }} {{ g.height }}" role="img" aria-label="키워드별 검색 지수 상대값 추이">
+      {% for t in g.ticks %}<line class="grid" x1="{{ g.x0 }}" x2="{{ g.x1 }}" y1="{{ '%.1f'|format(t.y) }}" y2="{{ '%.1f'|format(t.y) }}"/><text class="tick" x="{{ g.x0 - 6 }}" y="{{ '%.1f'|format(t.y + 4) }}" text-anchor="end">{{ t.v }}</text>{% endfor %}
+      {% for p in g.periods %}<text class="tick" x="{{ '%.1f'|format(p.x) }}" y="{{ g.height - 6 }}" text-anchor="middle">{{ p.p }}</text>{% endfor %}
+      {% set cols = ['var(--top)','var(--heart)','var(--base)','#6B5B8C'] %}
+      {% for l in g.lines %}<path class="draw" d="{{ l.d }}" stroke="{{ cols[loop.index0 % 4] }}"/>
+      <text class="lbl" x="{{ '%.1f'|format(l.end[0] + 8) }}" y="{{ '%.1f'|format(l.label_y + 4) }}" fill="{{ cols[loop.index0 % 4] }}">{{ l.term }}</text>{% endfor %}
+    </svg>
+    <figcaption class="note">네이버 데이터랩 월별 검색어 트렌드. 같은 요청 안에서 '{{ viz.search.anchor }}' 검색량을 1로 둔 비율이며 절대 검색량이 아닙니다.</figcaption>
+  </figure>
+  {% endif %}
+</section>
+
+<section class="chapter" id="heart" style="--c:var(--heart)">
+  <div class="ch-head"><div class="ch-tag">HEART NOTES<b>02</b></div><h2>한 달을 채운 제품과 시장</h2>
+    <p>출시일이 기사에 명시된 신제품, 노트가 명시된 제품의 향조 분포, 국내·글로벌 시장 동향.</p></div>
+  <h3 class="rv">향 노트 — 블로터 스트립</h3>
+  {% if agg.notes.n %}
+  {% set nmax = (viz.notes|map(attribute='count')|max) if viz.notes else 1 %}
+  <ul class="strips rv" aria-label="향 노트별 언급 제품 수">{% for n in viz.notes[:12] %}
+    <li class="strip" style="--w:{{ '%.3f'|format(n.count / nmax) }}"><span class="nm">{{ n.note }}</span><span class="bar" style="transition-delay:{{ loop.index0 * 70 }}ms"></span><span class="ct">{{ n.count }}개</span></li>{% endfor %}
+  </ul>
+  <p class="note">노트가 기사에 명시된 제품 n={{ agg.notes.n }}개 기준(같은 제품의 중복 기사는 1개로 셈).</p>
+  {% endif %}
+  {{ b.notes_table() }}
+  <h3 class="rv">신제품 트래커</h3>
+  {{ b.launches_table() }}
+  <h3 class="rv">시장 동향 — 국내</h3>
+  {{ b.sents(market.kr, '검증을 통과한 국내 동향 문장이 없습니다.') }}
+  <h3 class="rv">시장 동향 — 글로벌 <span class="tag">헤드라인급 근거 포함</span></h3>
+  {{ b.sents(market['global'], '검증을 통과한 글로벌 동향 문장이 없습니다.') }}
+</section>
+
+<section class="chapter" id="base" style="--c:var(--base)">
+  <div class="ch-head"><div class="ch-tag">BASE NOTES<b>03</b></div><h2>오래 남는 것: 규제와 경쟁사</h2>
+    <p>공식 문서와 경쟁 향료사 발표. 신규 항목이 없으면 "변경 없음"으로 표시합니다.</p></div>
+  {% for c0 in viz.calendar if c0.elapsed is defined %}
+  <div class="horizon rv" style="--p:{{ '%.1f'|format(c0.elapsed * 100) }}%" aria-label="{{ c0.item }}: 채택 {{ c0.start }}, 기한 {{ c0.date }}, 남은 기간 {{ c0.days_left }}일">
+    <div class="ln"></div><div class="fill"></div>
+    <div class="pt now">{{ c0.start }}<span>채택</span></div>
+    <div class="pt end">{{ c0.date }}<span>기존 유통품 기한 · <b data-count="{{ c0.days_left }}">{{ c0.days_left }}</b>일 남음</span></div>
+  </div>
+  <p class="note rv">{{ c0.item }} — 채택일부터 기한까지 경과 {{ '%.0f'|format(c0.elapsed * 100) }}%.</p>
+  {% endfor %}
+  {{ b.reg_tables() }}
+</section>
+
+<section class="chapter" id="appendix" style="--c:var(--muted)">
+  <div class="ch-head"><div class="ch-tag">APPENDIX<b>04</b></div><h2>부록</h2></div>
+  {{ b.appendix() }}
+</section>
+</main>
+<footer class="wrap note">{{ cfg.title }} · {{ month }} · AI 자동 생성</footer>
+<script>{% include "motion/_motion.js" %}</script>
+</body>
+</html>

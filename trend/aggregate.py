@@ -7,7 +7,7 @@ from collections import Counter, defaultdict
 
 from . import datalab
 from .config import load
-from .normalize import Cluster, Entities
+from .normalize import Cluster, Entities, similar
 from .util import kst_date, month_bounds
 
 log = logging.getLogger(__name__)
@@ -18,17 +18,44 @@ def _kw(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip().lower()
 
 
-def keywords(clusters: list[Cluster], prev: list[Cluster], cfg: dict) -> dict:
+def _nospace(s: str) -> str:
+    return re.sub(r"\s+", "", s).lower()
+
+
+def doc_keywords(d: dict, stop: set[str]) -> set[str]:
+    """Keywords counted for one doc.
+
+    Generic category words are dropped. For docs found through NAVER news
+    search, keywords that echo the search query are dropped too — otherwise the
+    query list itself would show up as this month's trend.
+    """
+    q = _nospace(d.get("query") or "")
+    out = set()
+    for k in d["extraction"].get("keywords", []):
+        key = _kw(k)
+        ns = _nospace(k)
+        if not ns or ns in stop:
+            continue
+        if q and (q in ns or ns in q):
+            continue
+        out.add(key)
+    return out
+
+
+def keywords(clusters: list[Cluster], prev: list[Cluster], cfg: dict,
+             stoplist: list[str] | None = None) -> dict:
     """Terms ranked by distinct-cluster count (growth vs previous month if available)."""
+    stop = {_nospace(x) for x in (stoplist or [])}
     cur, before = defaultdict(set), Counter()
     label: dict[str, Counter] = defaultdict(Counter)
     for c in clusters:
         for d in c.docs:
-            for k in d["extraction"].get("keywords", []):
-                cur[_kw(k)].add(c.cid)
-                label[_kw(k)][k.strip()] += 1
+            raw = {_kw(k): k.strip() for k in d["extraction"].get("keywords", [])}
+            for key in doc_keywords(d, stop):
+                cur[key].add(c.cid)
+                label[key][raw[key]] += 1
     for c in prev:
-        for k in {_kw(k) for d in c.docs for k in d["extraction"].get("keywords", [])}:
+        for k in {k for d in c.docs for k in doc_keywords(d, stop)}:
             before[k] += 1
     min_c = cfg["min_clusters_per_item"]
     has_prev = bool(prev)
@@ -47,7 +74,7 @@ def keywords(clusters: list[Cluster], prev: list[Cluster], cfg: dict) -> dict:
 
 def launches(clusters: list[Cluster], ym: str, ents: Entities) -> list[dict]:
     first, last = month_bounds(ym)
-    out, seen = [], set()
+    out: list[dict] = []
     for c in clusters:
         for d in c.docs:
             for p in d["extraction"].get("products", []):
@@ -57,10 +84,8 @@ def launches(clusters: list[Cluster], ym: str, ents: Entities) -> list[dict]:
                 if not _in_month(ld, first, last):
                     continue
                 brand = ents.canon(p.get("brand") or "")
-                key = (brand.lower(), _kw(p["name"]))
-                if key in seen:
+                if any(same_product(x, {"brand": brand, "name": p["name"]}) for x in out):
                     continue
-                seen.add(key)
                 out.append({"brand": brand, "name": p["name"], "launch_date": ld,
                             "notes": p.get("notes", []), "doc_id": d["doc_id"],
                             "quote": p["launch_quote"], "url": d["url"],
@@ -80,22 +105,34 @@ def _in_month(ld: str, first, last) -> bool:
     return first <= d <= last
 
 
+def same_product(a: dict, b: dict) -> bool:
+    """Same brand and one name contains the other or the names are near-identical."""
+    if _nospace(a["brand"] or "") != _nospace(b["brand"] or ""):
+        return False
+    na, nb = _nospace(a["name"]), _nospace(b["name"])
+    return na in nb or nb in na or similar(na, nb, 0.6)
+
+
 def notes(clusters: list[Cluster], ents: Entities) -> dict:
-    """Products whose notes are explicitly stated (quote-verified in enrich)."""
-    items, seen = [], set()
+    """Products whose notes are explicitly stated (quote-verified in enrich).
+
+    Near-duplicate products are merged; the merged entry keeps the union of notes.
+    """
+    items: list[dict] = []
     for c in clusters:
         for d in c.docs:
             for p in d["extraction"].get("products", []):
                 if p.get("notes") and p.get("notes_quote"):
-                    key = _kw(p["name"])
-                    if key in seen:
+                    cand = {"brand": ents.canon(p.get("brand") or ""), "name": p["name"]}
+                    dup = next((it for it in items if same_product(it, cand)), None)
+                    if dup:
+                        dup["notes"] += [n for n in p["notes"] if n not in dup["notes"]]
                         continue
-                    seen.add(key)
                     items.append({"brand": ents.canon(p.get("brand") or ""), "name": p["name"],
                                   "notes": p["notes"], "quote": p["notes_quote"],
                                   "doc_id": d["doc_id"], "url": d["url"],
                                   "source_name": d["source_name"]})
-    freq = Counter(_kw(n) for it in items for n in it["notes"])
+    freq = Counter(_kw(n) for it in items for n in set(it["notes"]))
     return {"n": len(items), "items": items, "note_freq": freq.most_common(15)}
 
 
@@ -149,7 +186,7 @@ def datalab_block(terms: list[str], ym: str, cfg: dict) -> dict:
 def run(clusters: list[Cluster], prev: list[Cluster], ym: str) -> dict:
     cfg = load("report")
     ents = Entities()
-    kw = keywords(clusters, prev, cfg["sections"]["keywords"])
+    kw = keywords(clusters, prev, cfg["sections"]["keywords"], cfg.get("keyword_stoplist"))
     return {
         "month": ym,
         "counts": {"clusters": len(clusters), "docs": sum(len(c.docs) for c in clusters)},

@@ -1,0 +1,233 @@
+{% import "motion/_blocks.j2" as b with context %}
+{%- set colors = {'market':'var(--k-market)','launch':'var(--k-launch)','regulation':'var(--k-reg)','competitor':'var(--k-comp)'} -%}
+{%- set kname = {'market':'시장','launch':'신제품','regulation':'규제','competitor':'경쟁사'} -%}
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ month }} Signal Desk — {{ cfg.title }}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#F6F6F3; --panel:#FFFFFF; --ink:#111418; --muted:#545B63; --grid:#E1E1DA; --rule:#111418;
+  --k-market:#111418; --k-launch:#C2410C; --k-reg:#0B7285; --k-comp:#6741D9;
+  --sans:"IBM Plex Sans KR","Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic","WenQuanYi Zen Hei",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,monospace;
+  --snap:cubic-bezier(.16,1,.3,1);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15.5px/1.65 var(--sans);-webkit-font-smoothing:antialiased}
+a{color:inherit}
+a:focus-visible{outline:2px solid var(--k-launch);outline-offset:2px}
+.wrap{max-width:1120px;margin:0 auto;padding:0 24px}
+.mono{font-family:var(--mono)}
+
+/* wire header */
+.wire{border-bottom:2px solid var(--rule)}
+.wire .row{display:flex;justify-content:space-between;align-items:center;gap:16px;min-height:44px;font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase}
+.wire .live{display:inline-flex;align-items:center;gap:8px}
+.wire .live::before{content:"";width:8px;height:8px;background:var(--k-launch);border-radius:50%}
+.motion .wire .live::before{animation:blink 1.4s steps(2,end) 3}
+@keyframes blink{50%{opacity:.15}}
+
+.masthead{display:grid;grid-template-columns:auto 1fr;gap:36px;align-items:end;padding:44px 0 26px;border-bottom:1px solid var(--grid)}
+.bignum{font:600 clamp(96px,16vw,200px)/.82 var(--mono);letter-spacing:-.06em}
+.bignum small{display:block;font-size:.18em;letter-spacing:.02em;color:var(--muted);margin-bottom:10px}
+.masthead h1{font:700 clamp(28px,3.6vw,44px)/1.2 var(--sans);margin:0 0 14px;letter-spacing:-.01em}
+.stats{display:flex;flex-wrap:wrap;gap:0;border-top:1px solid var(--grid)}
+.stat{padding:12px 22px 4px 0;margin-right:22px;border-right:1px solid var(--grid)}
+.stat:last-child{border-right:0}
+.stat b{display:block;font:600 28px/1.1 var(--mono)}
+.stat span{font:12px var(--mono);color:var(--muted);letter-spacing:.04em}
+.banner{display:inline-block;margin:12px 8px 0 0;padding:3px 8px;font:12px var(--mono);border:1px solid var(--ink)}
+
+/* the month strip (seismograph of events) */
+.strip-wrap{padding:28px 0 8px}
+.strip-head{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
+.strip-head h2{font:500 12px/1 var(--mono);letter-spacing:.14em;text-transform:uppercase;margin:0}
+.legend{display:flex;gap:16px;flex-wrap:wrap;list-style:none;margin:0;padding:0;font:12.5px var(--mono)}
+.legend li{display:flex;align-items:center;gap:6px}
+.legend i{width:10px;height:10px;display:inline-block;background:var(--c)}
+.month-strip{width:100%;height:auto;display:block;margin-top:10px}
+.month-strip .day{font:10px var(--mono);fill:var(--muted)}
+.month-strip .axis{stroke:var(--ink);stroke-width:1.5}
+.month-strip .tickl{stroke:var(--grid)}
+.month-strip .ev{transform-box:fill-box;transform-origin:50% 100%}
+.motion .stage .ev{opacity:0;transform:translateY(-28px)}
+.motion .stage.in .ev{animation:drop .55s var(--snap) forwards;animation-delay:calc(var(--d) * 45ms + var(--s) * 60ms)}
+@keyframes drop{to{opacity:1;transform:none}}
+.month-strip .scan{stroke:var(--k-launch);stroke-width:1.5}
+.motion .stage .scan{transform:translateX(0)}
+.motion .stage.in .scan{animation:scan calc(var(--n) * 45ms + 600ms) linear forwards}
+@keyframes scan{to{transform:translateX(var(--w))}}
+.static .scan{display:none}
+
+/* desks */
+.desk{display:grid;grid-template-columns:200px 1fr;gap:32px;padding:46px 0;border-top:2px solid var(--rule)}
+.desk:first-of-type{border-top:0}
+.desk-label{position:sticky;top:16px;align-self:start}
+.desk-label .no{font:600 13px var(--mono);color:var(--muted)}
+.desk-label h2{font:700 24px/1.25 var(--sans);margin:6px 0 8px}
+.desk-label p{font-size:13px;color:var(--muted);margin:0}
+h3{font:500 12px/1.4 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:30px 0 10px}
+h3:first-child{margin-top:0}
+
+.motion .rv{opacity:0;clip-path:inset(0 0 100% 0);transform:translateY(6px);transition:opacity .4s ease,clip-path .7s var(--snap),transform .7s var(--snap)}
+.motion .rv.in{opacity:1;clip-path:inset(0 0 0 0);transform:none}
+
+.summary{list-style:none;margin:0;padding:0}
+.summary li{display:grid;grid-template-columns:40px 1fr;padding:14px 0;border-bottom:1px solid var(--grid);font:500 18px/1.55 var(--sans);counter-increment:s}
+.summary{counter-reset:s}
+.summary li::before{content:counter(s,decimal-leading-zero);font:600 13px/2 var(--mono);color:var(--k-launch)}
+
+/* keyword bars */
+.kbars{list-style:none;margin:0;padding:0}
+.kbar{display:grid;grid-template-columns:150px 1fr;gap:16px;padding:14px 0;border-bottom:1px solid var(--grid)}
+.kbar .t{font:700 16px/1.35 var(--sans)}
+.kbar .t small{display:block;font:12px var(--mono);color:var(--muted);font-weight:400}
+.kbar .track{position:relative;height:10px;background:var(--grid);margin:6px 0 10px}
+.kbar .val{position:absolute;inset:0 auto 0 0;width:calc(var(--w) * 100%);background:var(--ink);transform-origin:left}
+.motion .kbar .val{transform:scaleX(0);transition:transform 1s var(--snap) .15s}
+.motion .kbar.in .val{transform:scaleX(1)}
+.kbar p{margin:0;font-size:14.5px}
+
+ul.sents{list-style:none;margin:0;padding:0}
+ul.sents li{padding:10px 0 10px 18px;border-bottom:1px solid var(--grid);position:relative}
+ul.sents li::before{content:"";position:absolute;left:0;top:19px;width:8px;height:2px;background:var(--ink)}
+.cite{font:500 10.5px/1 var(--mono);margin-left:2px}.cite a{text-decoration:none;color:var(--k-launch)}
+.tw{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{text-align:left;padding:9px 8px;border-bottom:1px solid var(--grid);vertical-align:top}
+th{font:500 11.5px var(--mono);letter-spacing:.06em;color:var(--muted);border-bottom:1.5px solid var(--ink)}
+td.n,th.n{text-align:right}
+.tag{font:11px var(--mono);padding:0 5px;border:1px solid var(--ink);white-space:nowrap}
+.reduced{font:13.5px/1.6 var(--mono);color:var(--muted);border:1px dashed var(--muted);padding:10px 12px}
+.cal{list-style:none;padding:0;margin:0}.cal li{padding:8px 0;border-bottom:1px solid var(--grid)}
+.chart{width:100%;height:auto;display:block}
+.chart .grid{stroke:var(--grid)}.chart .tick{font:11px var(--mono);fill:var(--muted)}
+.chart .lbl{font:600 12.5px var(--sans)}
+.chart path.draw{fill:none;stroke-width:2;stroke-linejoin:round}
+.motion .chart path.draw{stroke-dasharray:var(--len);stroke-dashoffset:var(--len);transition:stroke-dashoffset 1.8s var(--snap)}
+.motion .rv.in .chart path.draw{stroke-dashoffset:0}
+.note{font-size:12.5px;color:var(--muted)}
+.fine{font-size:13px;color:var(--muted);padding-left:18px}
+.sources{font-size:12.5px;padding-left:22px;word-break:break-all}.sources li{margin:4px 0}
+.lk-restricted,.lk-unverified{color:var(--k-launch);font-size:11px}
+footer{padding:30px 0 70px;border-top:2px solid var(--rule);margin-top:20px}
+
+@media (max-width:820px){
+  .masthead{grid-template-columns:1fr;gap:12px}
+  .desk{grid-template-columns:1fr;gap:14px}
+  .desk-label{position:static}
+  .kbar{grid-template-columns:1fr;gap:4px}
+  .stat{padding-right:14px;margin-right:14px}
+}
+@media print{
+  .rv,.ev,.val{opacity:1!important;clip-path:none!important;transform:none!important;animation:none!important}
+  .scan{display:none}.desk-label{position:static}
+  path.draw{stroke-dashoffset:0!important}
+}
+</style>
+</head>
+<body>
+<div class="wire"><div class="wrap row"><span class="live">Beauty · Fragrance Wire</span><span>{{ month }} · Monthly Desk</span></div></div>
+
+<header class="wrap masthead">
+  <div class="bignum"><small class="mono">{{ month[:4] }}</small>{{ month[5:] }}</div>
+  <div>
+    <h1>{{ month[5:]|int }}월 한 달, 업계에서 일어난 일을 날짜 위에 펼쳤습니다</h1>
+    <div class="stats stage">
+      <div class="stat"><b data-count="{{ agg.counts.docs }}">{{ agg.counts.docs }}</b><span>관련 기사</span></div>
+      <div class="stat"><b data-count="{{ agg.counts.clusters }}">{{ agg.counts.clusters }}</b><span>사건(중복 묶음)</span></div>
+      <div class="stat"><b data-count="{{ viz.events|length }}">{{ viz.events|length }}</b><span>날짜가 확인된 주요 항목</span></div>
+    </div>
+    <p class="note" style="margin-top:10px">분석 기간 {{ month }}-01 — 말일(KST) · 데이터랩 {{ month }}까지 · 수출입 통계 미수록 · 생성 {{ generated }}</p>
+    {{ b.banners() }}
+  </div>
+</header>
+
+{% set W = 1080 %}{% set H = 150 %}{% set L = 20 %}{% set R = 20 %}{% set step = (W - L - R) / viz.days %}{% set base = H - 26 %}
+<section class="wrap strip-wrap">
+  <div class="strip-head">
+    <h2>Month strip — 항목이 나온 날</h2>
+    <ul class="legend">{% for k, n in viz.kinds.items() %}<li style="--c:{{ colors[k] }}"><i></i>{{ kname[k] }} {{ n }}</li>{% endfor %}</ul>
+  </div>
+  <svg class="month-strip stage" viewBox="0 0 {{ W }} {{ H }}" role="img" style="--n:{{ viz.days }};--w:{{ W - L - R }}px"
+       aria-label="{{ month }} 날짜별 항목 수: {% for k, n in viz.kinds.items() %}{{ kname[k] }} {{ n }}건{{ ', ' if not loop.last }}{% endfor %}">
+    {% for d in range(1, viz.days + 1) %}{% set x = L + step * (d - 0.5) %}
+      <line class="tickl" x1="{{ '%.1f'|format(x) }}" x2="{{ '%.1f'|format(x) }}" y1="10" y2="{{ base }}"/>
+      {% if d == 1 or d % 5 == 0 %}<text class="day" x="{{ '%.1f'|format(x) }}" y="{{ H - 8 }}" text-anchor="middle">{{ d }}</text>{% endif %}
+      {% set day = month ~ '-' ~ ('%02d'|format(d)) %}
+      {% for e in viz.events if e.day == day %}
+        <rect class="ev" style="--d:{{ d }};--s:{{ loop.index0 }}" x="{{ '%.1f'|format(x - step * 0.36) }}" y="{{ base - 9 * loop.index }}" width="{{ '%.1f'|format(step * 0.72) }}" height="7" fill="{{ colors[e.kind] }}"><title>{{ e.day }} {{ kname[e.kind] }}: {{ e.title }}</title></rect>
+      {% endfor %}
+    {% endfor %}
+    <line class="axis" x1="{{ L }}" x2="{{ W - R }}" y1="{{ base + 1 }}" y2="{{ base + 1 }}"/>
+    <line class="scan" x1="{{ L }}" x2="{{ L }}" y1="6" y2="{{ base }}"/>
+  </svg>
+  <p class="note">한 칸 = 하루. 블록 하나 = 날짜가 확인된 항목 하나(시장 동향 사건·출시·규제 공지·경쟁사 발표). 자세한 내용은 아래 데스크별 표에 있습니다.</p>
+</section>
+
+<main class="wrap">
+<section class="desk">
+  <div class="desk-label"><div class="no">DESK 01</div><h2>헤드라인</h2><p>검증을 통과한 문장 중 섹션별 첫 문장.</p></div>
+  <div>{{ b.summary_list() }}</div>
+</section>
+
+<section class="desk">
+  <div class="desk-label"><div class="no">DESK 02</div><h2>이달의 키워드</h2><p>서로 다른 기사 묶음 2개 이상에서 등장한 용어.</p></div>
+  <div>
+  {% if gate.sections.keywords.status == 'ok' %}
+  {% set kmax = (keywords|map(attribute='n_clusters')|max) if keywords else 1 %}
+  <ul class="kbars">{% for k in keywords %}<li class="kbar rv" style="--w:{{ '%.3f'|format(k.n_clusters / kmax) }}"><div class="t">{{ k.term }}<small>근거 사건 <span data-count="{{ k.n_clusters }}">{{ k.n_clusters }}</span>건{% if agg.keywords.has_prev %} · 전월 {{ k.n_prev }}{% endif %}</small></div>
+    <div><div class="track"><div class="val"></div></div><p>{{ k.sentence.text }}{{ cite(k.sentence.doc_ids) }}</p></div></li>{% endfor %}</ul>
+  {% else %}{{ b.reduced('keywords') }}{% endif %}
+  {% if viz.search %}{% set g = line_paths(viz.search.series, viz.search.anchor, 820, 240) %}
+  <h3 class="rv">네이버 검색 지수 · '{{ viz.search.anchor }}' = 1</h3>
+  <figure class="rv" style="margin:0">
+    <svg class="chart" viewBox="0 0 {{ g.width }} {{ g.height }}" role="img" aria-label="키워드별 검색 지수 상대값 추이">
+      {% for t in g.ticks %}<line class="grid" x1="{{ g.x0 }}" x2="{{ g.x1 }}" y1="{{ '%.1f'|format(t.y) }}" y2="{{ '%.1f'|format(t.y) }}"/><text class="tick" x="{{ g.x0 - 6 }}" y="{{ '%.1f'|format(t.y + 4) }}" text-anchor="end">{{ t.v }}</text>{% endfor %}
+      {% for p in g.periods %}<text class="tick" x="{{ '%.1f'|format(p.x) }}" y="{{ g.height - 6 }}" text-anchor="middle">{{ p.p }}</text>{% endfor %}
+      {% set cols = ['var(--k-market)','var(--k-launch)','var(--k-reg)','var(--k-comp)'] %}
+      {% for l in g.lines %}<path class="draw" d="{{ l.d }}" stroke="{{ cols[loop.index0 % 4] }}"/>
+      <text class="lbl" x="{{ '%.1f'|format(l.end[0] + 8) }}" y="{{ '%.1f'|format(l.label_y + 4) }}" fill="{{ cols[loop.index0 % 4] }}">{{ l.term }}</text>{% endfor %}
+    </svg>
+    <figcaption class="note">네이버 데이터랩 월별. 같은 요청에서 '{{ viz.search.anchor }}' 검색량 대비 비율(절대 검색량 아님).</figcaption>
+  </figure>
+  {% endif %}
+  </div>
+</section>
+
+<section class="desk">
+  <div class="desk-label"><div class="no">DESK 03</div><h2>신제품 · 향 노트</h2><p>출시일·노트가 기사에 명시된 것만.</p></div>
+  <div>
+    <h3 class="rv">신제품 트래커</h3>{{ b.launches_table() }}
+    <h3 class="rv">향 노트 (n={{ agg.notes.n }})</h3>{{ b.notes_table() }}
+  </div>
+</section>
+
+<section class="desk">
+  <div class="desk-label"><div class="no">DESK 04</div><h2>시장</h2><p>국내 · 글로벌(헤드라인급 근거 포함).</p></div>
+  <div>
+    <h3 class="rv">국내</h3>{{ b.sents(market.kr, '검증을 통과한 국내 동향 문장이 없습니다.') }}
+    <h3 class="rv">글로벌</h3>{{ b.sents(market['global'], '검증을 통과한 글로벌 동향 문장이 없습니다.') }}
+  </div>
+</section>
+
+<section class="desk">
+  <div class="desk-label"><div class="no">DESK 05</div><h2>규제 · 경쟁사</h2><p>공식 문서와 경쟁 향료사 발표.</p></div>
+  <div>{{ b.reg_tables() }}</div>
+</section>
+
+<section class="desk">
+  <div class="desk-label"><div class="no">DESK 06</div><h2>부록</h2></div>
+  <div>{{ b.appendix() }}</div>
+</section>
+</main>
+<footer class="wrap note">{{ cfg.title }} · {{ month }} · AI 자동 생성</footer>
+<script>{% include "motion/_motion.js" %}</script>
+</body>
+</html>

@@ -46,7 +46,7 @@ def evidence_texts(rec: dict) -> list[str]:
 
 
 def static_checks(s: dict, allowed: set[str], recs: dict[str, dict],
-                  known_entities: set[str]) -> str | None:
+                  known_entities: set[str], variants=None) -> str | None:
     """Return a failure reason or None."""
     ids = s.get("doc_ids") or []
     if not ids or any(i not in allowed for i in ids):
@@ -61,7 +61,10 @@ def static_checks(s: dict, allowed: set[str], recs: dict[str, dict],
                   recs[i]["extraction"].get("brands", []) + recs[i]["extraction"].get("companies", [])}
     for e in known_entities:
         el = e.lower()
-        if len(el) >= 2 and el in s["text"].lower() and el not in cited and el not in cited_ents:
+        if len(el) < 2 or el not in s["text"].lower():
+            continue
+        spellings = {x.lower() for x in (variants(e) if variants else {e})}
+        if not any(x in cited or x in cited_ents for x in spellings):
             return f"entity:{e}"
     return None
 
@@ -80,11 +83,12 @@ def entailment(pairs: list[tuple[str, str]], ledger: str) -> list[str]:
 
 
 def verify_sentences(sents: list[dict], allowed: set[str], recs: dict[str, dict],
-                     known_entities: set[str], ledger: str) -> tuple[list[dict], list[dict]]:
+                     known_entities: set[str], ledger: str,
+                     variants=None) -> tuple[list[dict], list[dict]]:
     """Returns (kept, log). Every input sentence appears in the log with its outcome."""
     log_rows, survivors = [], []
     for s in sents:
-        reason = static_checks(s, allowed, recs, known_entities)
+        reason = static_checks(s, allowed, recs, known_entities, variants)
         if reason:
             log_rows.append({**s, "kept": False, "reason": reason})
         else:

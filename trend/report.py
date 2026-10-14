@@ -63,7 +63,7 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
     vlog: list[dict] = []
 
     def checked(section: str, sents: list[dict], allowed: set[str]) -> list[dict]:
-        kept, rows = verify.verify_sentences(sents, allowed, by_id, known, ledger)
+        kept, rows = verify.verify_sentences(sents, allowed, by_id, known, ledger, ents.variants)
         vlog.extend({**r, "section": section} for r in rows)
         return kept
 

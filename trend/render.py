@@ -64,6 +64,13 @@ def line_chart(series: dict, anchor: str, width: int = 640, height: int = 220) -
                      f'<text x="{pad_l - 6}" y="{y(v) + 4:.1f}" class="tick" text-anchor="end">{v:.2f}</text>')
     for i, p in enumerate(periods):
         parts.append(f'<text x="{x(i):.1f}" y="{height - 8}" class="tick" text-anchor="middle">{p[2:]}</text>')
+    # End labels: spread vertically so they never overlap (min 14px apart).
+    ends = sorted(((y(pts[t][-1][1]) if pts[t][-1][1] is not None else pad_t + h, t)
+                   for t in terms))
+    label_y, last_y = {}, -1e9
+    for yy, t in ends:
+        yy = max(yy, last_y + 14)
+        label_y[t], last_y = yy, yy
     for ci, t in enumerate(terms):
         c = colors[ci % len(colors)]
         xy = [(x(i), y(v)) for i, (_, v) in enumerate(pts[t]) if v is not None]
@@ -73,7 +80,7 @@ def line_chart(series: dict, anchor: str, width: int = 640, height: int = 220) -
         for a, b in xy:
             parts.append(f'<circle cx="{a:.1f}" cy="{b:.1f}" r="2.5" fill="{c}"/>')
         if xy:
-            parts.append(f'<text x="{xy[-1][0] + 8:.1f}" y="{xy[-1][1] + 4:.1f}" class="label" '
+            parts.append(f'<text x="{xy[-1][0] + 8:.1f}" y="{label_y[t] + 4:.1f}" class="label" '
                          f'fill="{c}">{html.escape(t)}</text>')
     parts.append("</svg>")
     return Markup("".join(parts))
@@ -96,11 +103,123 @@ def bar_chart(rows: list[tuple[str, float]], width: int = 640, unit: str = "") -
     return Markup("".join(parts))
 
 
+def line_paths(series: dict, anchor: str | None, width: int, height: int,
+               pad=(40, 16, 28, 110)) -> dict:
+    """SVG geometry for multi-line charts (vs-anchor ratios). pad = left, top, bottom, right."""
+    terms = [t for t in series if t != anchor]
+    if not terms:
+        return {"lines": [], "ticks": [], "periods": []}
+    pl, pt, pb, pr = pad
+    w, h = width - pl - pr, height - pt - pb
+    periods = [p for p, _ in series[terms[0]]]
+    vals = [v for t in terms for _, v in series[t] if v is not None]
+    vmax = (max(vals) if vals else 1) * 1.12 or 1
+    X = lambda i: pl + w * i / max(1, len(periods) - 1)
+    Y = lambda v: pt + h - h * v / vmax
+    lines, last = [], -1e9
+    for t in terms:
+        pts = [(X(i), Y(v)) for i, (_, v) in enumerate(series[t]) if v is not None]
+        d = " ".join(f"{'M' if j == 0 else 'L'}{a:.1f},{b:.1f}" for j, (a, b) in enumerate(pts))
+        lines.append({"term": t, "d": d, "pts": pts, "end": pts[-1] if pts else (pl, pt + h),
+                      "last": series[t][-1][1]})
+    for ln in sorted(lines, key=lambda x: x["end"][1]):
+        ly = max(ln["end"][1], last + 15)
+        ln["label_y"], last = ly, ly
+    ticks = [{"y": Y(vmax * k / 3), "v": f"{vmax * k / 3:.2f}"} for k in range(4)]
+    labels = [{"x": X(i), "p": p[2:]} for i, p in enumerate(periods)]
+    return {"lines": lines, "ticks": ticks, "periods": labels, "x0": pl, "x1": pl + w,
+            "y0": pt, "y1": pt + h, "width": width, "height": height}
+
+
+def chromatogram(keywords: list[dict], width: int = 900, height: int = 260) -> dict:
+    """Gaussian peaks along a 'retention' axis; peak height ∝ supporting event count."""
+    if not keywords:
+        return {"d": "", "peaks": [], "width": width, "height": height}
+    base, top, left, right = height - 34, 64, 30, width - 30
+    nmax = max(k["n"] for k in keywords) or 1
+    span = right - left
+    peaks = []
+    for i, k in enumerate(keywords):
+        cx = left + span * (i + 1) / (len(keywords) + 1)
+        amp = (base - top) * (0.25 + 0.75 * k["n"] / nmax)
+        peaks.append({"x": cx, "y": base - amp, "amp": amp, "term": k["term"], "n": k["n"],
+                      "delay": round((cx - left) / span * 2.4, 2)})
+    sigma = span / (len(keywords) + 1) / 6
+    pts = []
+    steps = 360
+    import math
+    for j in range(steps + 1):
+        x = left + span * j / steps
+        y = base - sum(p["amp"] * math.exp(-((x - p["x"]) ** 2) / (2 * sigma ** 2)) for p in peaks)
+        y -= 2.2 * math.sin(j * 0.9) * 0.5  # detector noise, purely decorative
+        pts.append(f"{'M' if j == 0 else 'L'}{x:.1f},{y:.1f}")
+    return {"d": " ".join(pts), "peaks": peaks, "width": width, "height": height,
+            "base": base, "left": left, "right": right}
+
+
+def events(ctx: dict) -> list[dict]:
+    """Dated items of the month for timeline views (all code-derived)."""
+    agg = ctx["agg"]
+    out = []
+    for c in agg["market"]["kr"] + agg["market"]["global"]:
+        out.append({"day": c["published"], "kind": "market", "title": c["title"], "doc_id": c["doc_id"]})
+    for x in agg["launches"]:
+        if len(x["launch_date"]) == 10:
+            out.append({"day": x["launch_date"], "kind": "launch",
+                        "title": f"{x['brand']} {x['name']}".strip(), "doc_id": x["doc_id"]})
+    for c in agg["regulation"]["regulation"]:
+        out.append({"day": c["published"], "kind": "regulation", "title": c["title"], "doc_id": c["doc_id"]})
+    for c in agg["regulation"]["competitors"]:
+        out.append({"day": c["published"], "kind": "competitor", "title": c["title"], "doc_id": c["doc_id"]})
+    return sorted((e for e in out if e["day"].startswith(agg["month"])), key=lambda e: e["day"])
+
+
+def viz_data(ctx: dict) -> dict:
+    """Numbers for client-side charts. Everything here is computed in code."""
+    agg = ctx["agg"]
+    kws = [{"term": k["term"], "n": k["n_clusters"]} for k in ctx["keywords"]]
+    search = agg.get("datalab", {}).get("search")
+    shop = agg.get("datalab", {}).get("shopping")
+    return {
+        "month": agg["month"],
+        "keywords": kws,
+        "notes": [{"note": n, "count": c} for n, c in agg["notes"]["note_freq"]],
+        "notes_n": agg["notes"]["n"],
+        "search": ({"anchor": search["anchor"],
+                    "series": {t: [[p["period"][:7], p["vs_anchor"]] for p in pts]
+                               for t, pts in search["series"].items()}} if search else None),
+        "shopping": [[p["period"][:7], p["ratio"]] for p in shop["series"]] if shop else [],
+        "events": events(ctx),
+        "counts": agg["counts"],
+        "days": _days(agg["month"]),
+        "kinds": {k: sum(e["kind"] == k for e in events(ctx))
+                  for k in ("market", "launch", "regulation", "competitor")},
+        "calendar": [_horizon(c, ctx["generated"][:10]) for c in agg.get("calendar", [])],
+    }
+
+
+def _days(ym: str) -> int:
+    from .util import month_bounds
+    return month_bounds(ym)[1].day
+
+
+def _horizon(c: dict, today: str) -> dict:
+    from datetime import date
+    out = dict(c)
+    if c.get("start"):
+        s, e, t = (date.fromisoformat(x) for x in (c["start"], c["date"], today))
+        total = (e - s).days or 1
+        out["elapsed"] = round(min(1, max(0, (t - s).days / total)), 3)
+        out["days_left"] = (e - t).days
+    return out
+
+
 def render_all(ctx: dict, out_dir: Path, pdf: bool = True) -> dict[str, Path]:
     env = Environment(loader=FileSystemLoader(ROOT / "templates"),
                       autoescape=select_autoescape(["html", "j2"]))
     cites = Citations(ctx["by_id"])
-    env.globals.update(cite=cites, line_chart=line_chart, bar_chart=bar_chart)
+    env.globals.update(cite=cites, line_chart=line_chart, bar_chart=bar_chart,
+                       line_paths=line_paths, chromatogram=chromatogram)
     html_doc = env.get_template("report.html.j2").render(**ctx, cites=cites)
     # Source list is rendered last but must include all citations → second pass.
     html_doc = html_doc.replace("<!--SOURCES-->", env.get_template("_sources.html.j2").render(
@@ -110,6 +229,16 @@ def render_all(ctx: dict, out_dir: Path, pdf: bool = True) -> dict[str, Path]:
     mail = env.get_template("mail.txt.j2").render(**ctx)
     paths["mail"] = out_dir / "mail.txt"
     paths["mail"].write_text(mail, "utf-8")
+    for v in ctx["cfg"].get("motion_variants", []):
+        mc = Citations(ctx["by_id"])
+        env.globals.update(cite=mc)
+        doc = env.get_template(f"motion/{v}.html.j2").render(
+            **ctx, cites=mc, events=events(ctx), viz=viz_data(ctx))
+        doc = doc.replace("<!--SOURCES-->", env.get_template("_sources.html.j2").render(
+            sources=mc.entries(ctx["links"])))
+        paths[f"motion_{v}"] = out_dir / f"report_{ctx['month']}_{v}.html"
+        paths[f"motion_{v}"].write_text(doc, "utf-8")
+    env.globals.update(cite=cites)
     if pdf:
         try:
             paths["pdf"] = to_pdf(paths["html"], out_dir / f"report_{ctx['month']}.pdf")

@@ -76,3 +76,30 @@ def test_gate_hides_customer_sections_and_holds_on_core_majority():
     g3 = evaluate({"keywords": {"n": 0}, "launches": {"n": 0}, "market": {"n": 0},
                    "regulation": {"n": 1}}, cfg)
     assert g3["hold"]
+
+
+def test_keywords_drop_query_echo_and_generic_terms():
+    from trend.aggregate import doc_keywords
+    d = rec("1", "t", keywords=["니치 향수", "비건 뷰티", "향수", "우디 향"])
+    d["query"] = "니치 향수"
+    assert doc_keywords(d, {"향수"}) == {"비건 뷰티", "우디 향"}
+    d.pop("query")
+    assert "니치 향수" in doc_keywords(d, {"향수"})   # trade press: no query bias
+
+
+def test_same_product_merges_name_variants_of_same_brand_only():
+    from trend.aggregate import same_product
+    a = {"brand": "겔랑", "name": "뢰르 블루"}
+    assert same_product(a, {"brand": "겔랑", "name": "뢰르 블루 오 드 퍼퓸"})
+    assert not same_product(a, {"brand": "샤넬", "name": "뢰르 블루"})
+    assert not same_product(a, {"brand": "겔랑", "name": "샬리마"})
+
+
+def test_entity_check_accepts_alias_spelling():
+    from trend.normalize import Entities
+    r = rec("1", "Symrise completes acquisition of Floral Concept", companies=["Symrise"])
+    s = {"text": "심라이즈는 플로럴 콘셉트 인수를 완료했다.", "doc_ids": ["1"],
+         "quote": "Symrise completes acquisition of Floral Concept"}
+    ents = Entities()
+    assert static_checks(s, {"1"}, {"1": r}, {"심라이즈"}) == "entity:심라이즈"
+    assert static_checks(s, {"1"}, {"1": r}, {"심라이즈"}, ents.variants) is None

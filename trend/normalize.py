@@ -93,3 +93,14 @@ class Entities:
 
     def canon(self, name: str) -> str:
         return self.alias.get(self._key(name), name.strip())
+
+    def variants(self, name: str) -> set[str]:
+        """All spellings of the entity behind `name` (Korean/English aliases)."""
+        c = self.canon(name)
+        cfg = load("entities")
+        out = {name, c}
+        for kind in ("brands", "companies"):
+            v = (cfg.get(kind) or {}).get(c)
+            if v:
+                out.update(v.get("aliases", []))
+        return {x for x in out if x}
