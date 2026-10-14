@@ -1,0 +1,53 @@
+{
+  "key": "ifra",
+  "name": "IFRA",
+  "base": "https://ifrafragrance.org",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/latest-updates": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/standards-library": {
+        "probe_ua": true,
+        "*": true
+      }
+    },
+    "crawl_delay": null,
+    "head": "# robots.txt for https://ifrafragrance.org/\n\nsitemap: https://ifrafragrance.org/sitemaps-1-sitemap.xml\nsitemap: https://ifrafragrance.org/es/sitemaps-1-sitemap.xml\nsitemap: https://ifrafragrance.org/zh/sitemaps-1-sitemap.xml\n\n    # live - don't allow web crawlers to index cpresources/ or vendor/\n\n    User-agent: *\n    Disallow: /cpresources/\n    Disallow: /vendor/\n    Disallow: /.env\n    Disallow: /cache/\n\n\n# Disallow ChatGPT bot, as there's no benefit to allowing it to index your site\nUser-agent: GPTBot\nDisallow: /\n\n# Disallow Google Bard and Vertex AI bots, as there's no benefit to allowing it to index your site\nUser-agent: Google-Extended\nDisallow: /\n\n# Disallow Perplexity bot, as there's no benefit to allowing it to index your site\nUser-agent: PerplexityBot\nDisallow: /\n"
+  },
+  "feeds": [],
+  "pages": [
+    {
+      "url": "https://ifrafragrance.org/latest-updates/ifra-news",
+      "status": 200,
+      "error": null,
+      "final_url": "https://ifrafragrance.org/latest-updates/ifra-news",
+      "bot_wall": null,
+      "bytes": 197289,
+      "visible_text_chars": 6891,
+      "sha256_visible": "bacd76ebd8a999e3",
+      "dates_found": 17,
+      "first_dates": [
+        "08 October 2026",
+        "07 October 2026",
+        "07 October 2026"
+      ]
+    },
+    {
+      "url": "https://ifrafragrance.org/standards-library",
+      "status": 200,
+      "error": null,
+      "final_url": "https://ifrafragrance.org/standards-library",
+      "bot_wall": null,
+      "bytes": 219318,
+      "visible_text_chars": 7752,
+      "sha256_visible": "245cf1b38d84e6c6",
+      "dates_found": 0,
+      "first_dates": []
+    }
+  ]
+}

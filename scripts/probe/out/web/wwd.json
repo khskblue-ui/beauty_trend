@@ -1,0 +1,75 @@
+{
+  "key": "wwd",
+  "name": "WWD Beauty",
+  "base": "https://wwd.com",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/beauty-industry-news/": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/beauty-industry-news/feed/": {
+        "probe_ua": true,
+        "*": true
+      }
+    },
+    "crawl_delay": null,
+    "head": "User-agent: *\nDisallow: /account/\nDisallow: /wp-json/wwd/v1/login/\nSitemap: https://wwd.com/sitemap_index.xml\nSitemap: https://wwd.com/news-sitemap.xml\nUser-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\nDisallow: /?s=\nDisallow: /*/?s=\nDisallow: /search/\nDisallow: /search?\nDisallow: *?v02\nDisallow: *?replytocom\nDisallow: /*preview=true\nDisallow: /*theme_preview=true\n\nUser-agent: anthropic-ai\nAllow: /shop/\nDisallow: /\n\nUser-agent: cohere-ai\nAllow: /shop/\nDisallow: /\n\nUser-agent: omgili\nAllow: /shop/\nDisallow: /\n\nUser-agent: omgilibot\nAllow: /shop/\nDisallow: /\n\nUser-agent: Applebot-Extended\nAllow: /shop/\nDisallow: /\n\nUser-agent: Bytespider\nAllow: /shop/\nDisallow: /\n\nUser-agent: CCBot\nAllow: /shop/\nDisallow: /\n\nUser-agent: ChatGPT-User\nAllow: /shop/\nDisallow: /\n\nUser-agent: Cha"
+  },
+  "home": {
+    "status": 200,
+    "error": null,
+    "final_url": "https://wwd.com/beauty-industry-news/",
+    "bytes": 644310,
+    "visible_text_chars": 8702,
+    "script_tags": 130,
+    "feed_links": [
+      "https://wwd.com/feed/rss/",
+      "https://wwd.com/beauty-industry-news/feed/"
+    ],
+    "bot_wall": null,
+    "title": "Beauty"
+  },
+  "feeds": [
+    {
+      "url": "https://wwd.com/beauty-industry-news/feed/",
+      "status": 200,
+      "error": null,
+      "bot_wall": null,
+      "content_type": "application/rss+xml; charset=UTF-8",
+      "bytes": 12311,
+      "format": "rss",
+      "items": 10,
+      "first_item": {
+        "title": "Silver Mirror Launches GLP-1 Volmira Facial to Address Skin Concerns Amid Weight Loss",
+        "link": "https://wwd.com/beauty-industry-news/skin-care/silver-mirror-glp1-volmira-facial-skin-concerns-weight-loss-1239346059/",
+        "date_fields": {
+          "pubDate": "Wed, 14 Oct 2026 10:00:00 +0000"
+        },
+        "description_chars": 166,
+        "content_encoded_chars": 0,
+        "author": "Kathryn Hopkins"
+      },
+      "date_range": [
+        "Tue, 13 Oct 2026 04:01:00 +0000",
+        "Wed, 14 Oct 2026 10:00:00 +0000"
+      ],
+      "avg_description_chars": 124
+    }
+  ],
+  "article": {
+    "url": "https://wwd.com/beauty-industry-news/skin-care/silver-mirror-glp1-volmira-facial-skin-concerns-weight-loss-1239346059/",
+    "status": 200,
+    "bot_wall": null,
+    "paragraph_text_chars": 4630,
+    "paywall_markers": [
+      "\"isAccessibleForFree\": \"false",
+      "paywall"
+    ],
+    "is_accessible_for_free": "false"
+  },
+  "pages": []
+}

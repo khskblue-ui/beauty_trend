@@ -1,0 +1,75 @@
+{
+  "key": "cosmorning",
+  "name": "코스모닝",
+  "base": "https://www.cosmorning.com",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/data/rss/news.xml": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/news/article.html": {
+        "probe_ua": true,
+        "*": true
+      }
+    },
+    "crawl_delay": null,
+    "head": "User-agent: Yeti\nAllow:/"
+  },
+  "home": {
+    "status": 200,
+    "error": null,
+    "final_url": "https://www.cosmorning.com",
+    "bytes": 174706,
+    "visible_text_chars": 28405,
+    "script_tags": 59,
+    "feed_links": [
+      "https://www.cosmorning.com/data/rss/news.xml"
+    ],
+    "bot_wall": null,
+    "title": "K-뷰티산업을 선도하는 전문 미디어"
+  },
+  "feeds": [
+    {
+      "url": "https://www.cosmorning.com/data/rss/news.xml",
+      "status": 200,
+      "error": null,
+      "bot_wall": null,
+      "content_type": "text/xml",
+      "bytes": 35421,
+      "format": "rss",
+      "items": 50,
+      "first_item": {
+        "title": "스몰랩, APS이노베이션서 33억원 투자 유치",
+        "link": "https://www.cosmorning.com/news/article.html?no=53702",
+        "date_fields": {
+          "dc:date": "2026-10-14 17:48:55"
+        },
+        "description_chars": 168,
+        "content_encoded_chars": 0,
+        "author": null
+      },
+      "date_range": [
+        "2026-10-06 17:39:06",
+        "2026-10-14 17:48:55"
+      ],
+      "avg_description_chars": 169
+    }
+  ],
+  "article": {
+    "url": "https://www.cosmorning.com/news/article.html?no=53702",
+    "status": 200,
+    "bot_wall": null,
+    "paragraph_text_chars": 1482,
+    "paywall_markers": [],
+    "is_accessible_for_free": null
+  },
+  "pages": []
+}

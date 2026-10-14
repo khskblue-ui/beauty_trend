@@ -1,0 +1,83 @@
+{
+  "key": "fda_mocra",
+  "name": "FDA MoCRA",
+  "base": "https://www.fda.gov",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/cosmetics/cosmetics-laws-regulations/modernization-cosmetics-regulation-act-2022-mocra": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml": {
+        "probe_ua": true,
+        "*": true
+      }
+    },
+    "crawl_delay": 30,
+    "head": "#Added for Bristol-Myers on Sept 2005\nUser-agent: vspider \nDisallow: / \n\n#Search.gov\nUser-agent: usasearch  \nCrawl-delay: 2\n# CSS, JS, Images\nAllow: /core/*.css$\nAllow: /core/*.css?\nAllow: /core/*.js$\nAllow: /core/*.js?\nAllow: /core/*.gif\nAllow: /core/*.jpg\nAllow: /core/*.jpeg\nAllow: /core/*.png\nAllow: /core/*.svg\nAllow: /profiles/*.css$\nAllow: /profiles/*.css?\nAllow: /profiles/*.js$\nAllow: /profiles/*.js?\nAllow: /profiles/*.gif\nAllow: /profiles/*.jpg\nAllow: /profiles/*.jpeg\nAllow: /profiles/*.png\nAllow: /profiles/*.svg\n# Directories\nDisallow: /core/\nDisallow: /profiles/\n# Files\nDisallow: /README.txt\nDisallow: /web.config\n# Paths (clean URLs)\nDisallow: /admin/\nDisallow: /comment/reply/\nDisallow: /filter/tips\nDisallow: /node/\nDisallow: /file/\nDisallow: /taxonomy/\nDisallow: /search/\nDisallow"
+  },
+  "feeds": [
+    {
+      "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+      "status": 200,
+      "error": null,
+      "bot_wall": null,
+      "content_type": "application/rss+xml; charset=utf-8",
+      "bytes": 15441,
+      "format": "rss",
+      "items": 20,
+      "first_item": {
+        "title": "FDA Seeks Public Input to Support Ibogaine Research",
+        "link": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-support-ibogaine-research",
+        "date_fields": {
+          "pubDate": "Mon, 05 Oct 2026 09:02:06 EDT"
+        },
+        "description_chars": 251,
+        "content_encoded_chars": 0,
+        "author": "FDA"
+      },
+      "date_range": [
+        "Tue, 25 Aug 2026 14:21:22 EDT",
+        "Mon, 05 Oct 2026 09:02:06 EDT"
+      ],
+      "avg_description_chars": 226
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/modernization-cosmetics-regulation-act-2022-mocra",
+      "status": 200,
+      "error": null,
+      "final_url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/modernization-cosmetics-regulation-act-2022-mocra",
+      "bot_wall": null,
+      "bytes": 45376,
+      "visible_text_chars": 11012,
+      "sha256_visible": "e56218e17ce9dd81",
+      "dates_found": 7,
+      "first_dates": [
+        "May 4, 2026",
+        "February 5, 2026",
+        "November 2025"
+      ]
+    },
+    {
+      "url": "https://www.fda.gov/cosmetics/cosmetics-news-events",
+      "status": 200,
+      "error": null,
+      "final_url": "https://www.fda.gov/cosmetics/cosmetics-news-events",
+      "bot_wall": null,
+      "bytes": 58997,
+      "visible_text_chars": 8816,
+      "sha256_visible": "bf03473bd278cdd7",
+      "dates_found": 19,
+      "first_dates": [
+        "12/26/2024",
+        "12/11/2024",
+        "10/24/2024"
+      ]
+    }
+  ]
+}

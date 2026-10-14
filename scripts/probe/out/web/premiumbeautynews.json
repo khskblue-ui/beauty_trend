@@ -1,0 +1,71 @@
+{
+  "key": "premiumbeautynews",
+  "name": "Premium Beauty News",
+  "base": "https://www.premiumbeautynews.com",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/spip.php?page=backend": {
+        "probe_ua": true,
+        "*": true
+      }
+    },
+    "crawl_delay": 1,
+    "head": "# robots.txt\n# @url: https://www.premiumbeautynews.com\n# @generator: SPIP 4.4.25\n# @template: squelettes-dist/robots.txt.html\n\nUser-agent: *\nAllow:    /local/cache-css/\nAllow:    /local/cache-js/\nDisallow: /ecrire/\nDisallow: /lib/\nDisallow: /prive/\nDisallow: /spip.php?action=*\nDisallow: /spip.php?page=login*\nDisallow: /*.api/\nCrawl-delay: 1\n\nSitemap: https://www.premiumbeautynews.com/sitemap.xml\n"
+  },
+  "home": {
+    "status": 200,
+    "error": null,
+    "final_url": "https://www.premiumbeautynews.com",
+    "bytes": 57857,
+    "visible_text_chars": 7251,
+    "script_tags": 17,
+    "feed_links": [
+      "https://www.premiumbeautynews.com/spip.php?page=backend"
+    ],
+    "bot_wall": null,
+    "title": "Premium Beauty News - World class news for the beauty and cosmetics industries"
+  },
+  "feeds": [
+    {
+      "url": "https://www.premiumbeautynews.com/spip.php?page=backend",
+      "status": 200,
+      "error": null,
+      "bot_wall": null,
+      "content_type": "text/xml; charset=utf-8",
+      "bytes": 27967,
+      "format": "rss",
+      "items": 22,
+      "first_item": {
+        "title": "Givaudan: Perfumery drives nine-month growth",
+        "link": "https://www.premiumbeautynews.com/en/givaudan-perfumery-drives-nine,28347",
+        "date_fields": {
+          "dc:date": "2026-10-14T06:27:08Z"
+        },
+        "description_chars": 512,
+        "content_encoded_chars": 0,
+        "author": "vincent"
+      },
+      "date_range": [
+        "2026-10-12T05:49:44Z",
+        "2026-10-14T06:27:08Z"
+      ],
+      "avg_description_chars": 511
+    }
+  ],
+  "article": {
+    "url": "https://www.premiumbeautynews.com/en/givaudan-perfumery-drives-nine,28347",
+    "status": 200,
+    "bot_wall": null,
+    "paragraph_text_chars": 2743,
+    "paywall_markers": [],
+    "is_accessible_for_free": null
+  },
+  "pages": []
+}

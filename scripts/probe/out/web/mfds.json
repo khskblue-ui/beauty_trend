@@ -1,0 +1,125 @@
+{
+  "key": "mfds",
+  "name": "식약처",
+  "base": "https://www.mfds.go.kr",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/www/rss/brd.do": {
+        "probe_ua": true,
+        "*": true
+      }
+    },
+    "crawl_delay": null,
+    "head": "# Googlebot 전용 설정\nUser-agent: Googlebot\nDisallow: /search/search.do          # 이 경로만 차단\nAllow: /    \n\nUser-agent: *\nAllow:/"
+  },
+  "feeds": [
+    {
+      "url": "https://www.mfds.go.kr/www/rss/brd.do?brdId=ntc0021",
+      "status": 200,
+      "error": null,
+      "bot_wall": null,
+      "content_type": "application/rss+xml;charset=UTF-8",
+      "bytes": 13210,
+      "format": "rss",
+      "items": 29,
+      "first_item": {
+        "title": "[보도참고] 잔류농약 기준 초과 검출된 '고춧가루' 회수 조치",
+        "link": "https://www.mfds.go.kr/brd/m_99/view.do?seq=50408",
+        "date_fields": {
+          "pubDate": "Wed, 14 Oct 2026 08:05:32 GMT"
+        },
+        "description_chars": 0,
+        "content_encoded_chars": 34,
+        "author": null
+      },
+      "date_range": [
+        "Tue, 29 Sep 2026 22:57:58 GMT",
+        "Wed, 14 Oct 2026 08:05:32 GMT"
+      ],
+      "avg_description_chars": 0
+    },
+    {
+      "url": "https://www.mfds.go.kr/www/rss/brd.do?brdId=data0005",
+      "status": 200,
+      "error": null,
+      "bot_wall": null,
+      "content_type": "application/rss+xml;charset=UTF-8",
+      "bytes": 17881,
+      "format": "rss",
+      "items": 29,
+      "first_item": {
+        "title": "「수입식품등 영업자 교육 및 교육기관 지정·운영 등에 관한 규정」 고시전문(식품의약품안전처고시 제2026-64호, 2026. 8. 31.)",
+        "link": "https://www.mfds.go.kr/brd/m_211/view.do?seq=14990",
+        "date_fields": {
+          "pubDate": "Mon, 31 Aug 2026 07:55:59 GMT"
+        },
+        "description_chars": 0,
+        "content_encoded_chars": 77,
+        "author": null
+      },
+      "date_range": [
+        "Fri, 27 Mar 2026 05:27:16 GMT",
+        "Mon, 31 Aug 2026 07:55:59 GMT"
+      ],
+      "avg_description_chars": 0
+    },
+    {
+      "url": "https://www.mfds.go.kr/www/rss/brd.do?brdId=data0009",
+      "status": 200,
+      "error": null,
+      "bot_wall": null,
+      "content_type": "application/rss+xml;charset=UTF-8",
+      "bytes": 81289,
+      "format": "rss",
+      "items": 29,
+      "first_item": {
+        "title": "「마약류 관리에 관한 법률 시행규칙」 일부개정령(안) 입법예고(식품의약품안전처 공고 제2026-480호)",
+        "link": "https://www.mfds.go.kr/brd/m_209/view.do?seq=44300",
+        "date_fields": {
+          "pubDate": "Thu, 08 Oct 2026 00:36:52 GMT"
+        },
+        "description_chars": 0,
+        "content_encoded_chars": 1369,
+        "author": null
+      },
+      "date_range": [
+        "Thu, 16 Jul 2026 00:19:13 GMT",
+        "Thu, 08 Oct 2026 00:36:52 GMT"
+      ],
+      "avg_description_chars": 0
+    },
+    {
+      "url": "https://www.mfds.go.kr/www/rss/brd.do?brdId=data0008",
+      "status": 200,
+      "error": null,
+      "bot_wall": null,
+      "content_type": "application/rss+xml;charset=UTF-8",
+      "bytes": 57130,
+      "format": "rss",
+      "items": 29,
+      "first_item": {
+        "title": "위생용품의 표시기준 일부개정고시(식약처 고시 제2026-69호)",
+        "link": "https://www.mfds.go.kr/brd/m_207/view.do?seq=15198",
+        "date_fields": {
+          "pubDate": "Wed, 30 Sep 2026 07:44:17 GMT"
+        },
+        "description_chars": 0,
+        "content_encoded_chars": 650,
+        "author": null
+      },
+      "date_range": [
+        "Thu, 14 May 2026 01:52:04 GMT",
+        "Wed, 30 Sep 2026 07:44:17 GMT"
+      ],
+      "avg_description_chars": 0
+    }
+  ],
+  "pages": []
+}

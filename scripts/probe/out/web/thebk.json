@@ -1,0 +1,75 @@
+{
+  "key": "thebk",
+  "name": "뷰티경제",
+  "base": "https://www.thebk.co.kr",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/rss/": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/news/articleView.html": {
+        "probe_ua": true,
+        "*": true
+      }
+    },
+    "crawl_delay": null,
+    "head": "User-agent: *\r\nDisallow: /admin/\r\n\r\nUser-agent: bingbot\r\nCrawl-delay: 30\r\n\r\nUser-agent: GPTBot\r\nDisallow: /\r\n\r\n\r\nSitemap: https://www.thebk.co.kr/sitemap.xml"
+  },
+  "home": {
+    "status": 200,
+    "error": null,
+    "final_url": "https://www.thebk.co.kr",
+    "bytes": 110796,
+    "visible_text_chars": 4719,
+    "script_tags": 35,
+    "feed_links": [
+      "https://cdn.thebk.co.kr/rss/gn_rss_allArticle.xml"
+    ],
+    "bot_wall": null,
+    "title": "뷰티경제"
+  },
+  "feeds": [
+    {
+      "url": "https://cdn.thebk.co.kr/rss/gn_rss_allArticle.xml",
+      "status": 200,
+      "error": null,
+      "bot_wall": null,
+      "content_type": "application/xml",
+      "bytes": 317446,
+      "format": "rss",
+      "items": 50,
+      "first_item": {
+        "title": "‘상생’으로 쏘아 올린 안심뉴타운 내 ‘신세계사이먼 대구 프리미엄 아울렛’ 청사진… 영남의 내일을 바꾸다",
+        "link": "https://www.thebk.co.kr/news/articleView.html?idxno=312230",
+        "date_fields": {
+          "pubDate": "Wed, 14 Oct 2026 21:14:24 +0900"
+        },
+        "description_chars": 300,
+        "content_encoded_chars": 4055,
+        "author": "김규남 기자"
+      },
+      "date_range": [
+        "Mon, 12 Oct 2026 15:53:31 +0900",
+        "Wed, 14 Oct 2026 21:14:24 +0900"
+      ],
+      "avg_description_chars": 300
+    }
+  ],
+  "article": {
+    "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312230",
+    "status": 200,
+    "bot_wall": null,
+    "paragraph_text_chars": 3562,
+    "paywall_markers": [],
+    "is_accessible_for_free": null
+  },
+  "pages": []
+}

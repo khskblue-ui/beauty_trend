@@ -1,0 +1,23 @@
+{
+  "key": "eurlex",
+  "name": "EUR-Lex",
+  "base": "https://eur-lex.europa.eu",
+  "robots": {
+    "status": 202,
+    "error": null,
+    "bot_wall": "aws-waf:challenge"
+  },
+  "home": {
+    "status": 202,
+    "error": null,
+    "final_url": "https://eur-lex.europa.eu/eli/reg/2009/1223/oj",
+    "bytes": 2035,
+    "visible_text_chars": 157,
+    "script_tags": 3,
+    "feed_links": [],
+    "bot_wall": "aws-waf:challenge",
+    "title": ""
+  },
+  "feeds": [],
+  "pages": []
+}

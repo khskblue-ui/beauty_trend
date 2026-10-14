@@ -1,0 +1,58 @@
+{
+  "key": "givaudan",
+  "name": "Givaudan",
+  "base": "https://www.givaudan.com",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/rss": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/media/media-releases": {
+        "probe_ua": true,
+        "*": true
+      }
+    },
+    "crawl_delay": null,
+    "head": "#\n# robots.txt\n#\n# This file is to prevent the crawling and indexing of certain parts\n# of your site by web crawlers and spiders run by sites like Yahoo!\n# and Google. By telling these \"robots\" where not to go on your site,\n# you save bandwidth and server resources.\n#\n# This file will be ignored unless it is at the root of your host:\n# Used:    http://example.com/robots.txt\n# Ignored: http://example.com/site/robots.txt\n#\n# For more information about the robots.txt standard, see:\n# http://www.robotstxt.org/robotstxt.html\n\nUser-agent: *\n# CSS, JS, Images\nAllow: /core/*.css$\nAllow: /core/*.css?\nAllow: /core/*.js$\nAllow: /core/*.js?\nAllow: /core/*.avif\nAllow: /core/*.gif\nAllow: /core/*.jpg\nAllow: /core/*.jpeg\nAllow: /core/*.png\nAllow: /core/*.svg\nAllow: /core/*.webp\nAllow: /profiles/*.css$\nAll"
+  },
+  "feeds": [
+    {
+      "url": "https://www.givaudan.com/rss",
+      "status": 200,
+      "error": null,
+      "bot_wall": null,
+      "content_type": "application/rss+xml; charset=utf-8",
+      "bytes": 20702,
+      "format": "rss",
+      "items": 25,
+      "first_item": {
+        "title": "Givaudan achieves industry-first dual certification for its Product Carbon Footprint (PCF) programme",
+        "link": "https://www.givaudan.com/media/media-releases/2026/pcf-dual-certification",
+        "date_fields": {
+          "pubDate": "21 September 2026"
+        },
+        "description_chars": 314,
+        "content_encoded_chars": 0,
+        "author": "Givaudan"
+      },
+      "date_range": [
+        "7 October 2015",
+        "21 September 2026"
+      ],
+      "avg_description_chars": 266
+    }
+  ],
+  "article": {
+    "url": "https://www.givaudan.com/media/media-releases/2026/pcf-dual-certification",
+    "status": 200,
+    "bot_wall": null,
+    "paragraph_text_chars": 14701,
+    "paywall_markers": [],
+    "is_accessible_for_free": null
+  },
+  "pages": []
+}

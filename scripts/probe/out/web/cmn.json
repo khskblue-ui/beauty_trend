@@ -1,0 +1,43 @@
+{
+  "key": "cmn",
+  "name": "CMN(주간신문씨엠엔)",
+  "base": "https://www.cmn.co.kr",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/rss/": {
+        "probe_ua": false,
+        "*": false
+      },
+      "/sub/news/news_view.asp": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/sub/news/news_list.asp": {
+        "probe_ua": true,
+        "*": true
+      }
+    },
+    "crawl_delay": null,
+    "head": "user-agent: googlebot-news\nuser-agent: googlebot\nAllow: /\nUser-agent: *\nDisallow: /back/\nDisallow: /backoffice/\nDisallow: /common/\nDisallow: /images/\nDisallow: /rss/\nDisallow: /sgcontrols/\nDisallow: /webupload/\nsitemap: http://www.cmn.co.kr/rss/google_sitemap.asp"
+  },
+  "home": {
+    "status": 200,
+    "error": null,
+    "final_url": "https://www.cmn.co.kr/main/",
+    "bytes": 161379,
+    "visible_text_chars": 19728,
+    "script_tags": 45,
+    "feed_links": [],
+    "bot_wall": null,
+    "title": ""
+  },
+  "feeds": [],
+  "pages": []
+}

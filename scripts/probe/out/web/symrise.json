@@ -1,0 +1,58 @@
+{
+  "key": "symrise",
+  "name": "Symrise",
+  "base": "https://www.symrise.com",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/newsroom/press-releases": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/newsroom/press-releases/rss.xml": {
+        "probe_ua": true,
+        "*": true
+      }
+    },
+    "crawl_delay": null,
+    "head": "# T3 10.4\nUser-agent: *\nDisallow: /typo3/\nDisallow: /*?type=*\nDisallow: /*?*&type=*\nDisallow: */1500/*\nDisallow: /go-symrise-com-files/\nDisallow: /fileadmin/diana_food/SMC_downloads/\nDisallow: /fileadmin/diana_food/4_Brochures_Files/\nDisallow: /fileadmin/symrise/e-learning/\nDisallow: /fileadmin/symrise/hr/\nDisallow: /fileadmin/symrise/Corporate/core_values\nDisallow: /fileadmin/symrise/Corporate/Code_of_Conduct\nDisallow: /securedl\n\n"
+  },
+  "feeds": [
+    {
+      "url": "https://www.symrise.com/newsroom/press-releases/rss.xml",
+      "status": 200,
+      "error": null,
+      "bot_wall": null,
+      "content_type": "application/xml; charset=utf-8",
+      "bytes": 533718,
+      "format": "rss",
+      "items": 579,
+      "first_item": {
+        "title": "Symrise opens new Scent Creative Center in Singapore to accelerate growth in Asia",
+        "link": "/newsroom/article/symrise-opens-new-scent-creative-center-in-singapore-to-accelerate-growth-in-asia/",
+        "date_fields": {
+          "pubDate": "Tue, 13 Oct 2026 11:36:15 +0200"
+        },
+        "description_chars": 302,
+        "content_encoded_chars": 0,
+        "author": null
+      },
+      "date_range": [
+        "Wed, 25 Aug 2010 00:00:00 +0200",
+        "Tue, 13 Oct 2026 11:36:15 +0200"
+      ],
+      "avg_description_chars": 216
+    }
+  ],
+  "article": {
+    "url": "https://www.symrise.com/newsroom/article/symrise-opens-new-scent-creative-center-in-singapore-to-accelerate-growth-in-asia/",
+    "status": 200,
+    "bot_wall": null,
+    "paragraph_text_chars": 9115,
+    "paywall_markers": [],
+    "is_accessible_for_free": null
+  },
+  "pages": []
+}

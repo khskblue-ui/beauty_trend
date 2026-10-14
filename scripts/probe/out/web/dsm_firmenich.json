@@ -1,0 +1,37 @@
+{
+  "key": "dsm_firmenich",
+  "name": "dsm-firmenich",
+  "base": "https://www.dsm-firmenich.com",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/en/home.html": {
+        "probe_ua": true,
+        "*": true
+      }
+    },
+    "crawl_delay": null,
+    "head": "User-agent: *\nDisallow: /informationcenter*[\\W][a-z]*.limit.[0-9]+.*[\\W][a-z]*.offset.[0-9]+.year.[0-9]+.html$\nDisallow: /informationcenter*[\\W][a-z]*.limit.[0-9]+.markets.dsm.categories.dsm.offset.[0-9]+.year.[0-9]+.html$\nDisallow: /dsm.cheap\nDisallow: /contact-us.html?li_fat_id=*\nDisallow: /?utm_source=*\nDisallow: /searchresults.html?mcvid=*\nDisallow: https://339-sxw-761.mktoweb.com/\nSitemap: https://www.dsm-firmenich.com/en/sitemap.xml\nSitemap: https://www.dsm-firmenich.com/pt-br/sitemap.xml\nSitemap: https://www.dsm-firmenich.com/es-mx/sitemap.xml\nSitemap: https://www.dsm-firmenich.com/ko-kr/sitemap.xml\nSitemap: https://www.dsm-firmenich.com/de-de/sitemap.xml\nSitemap: https://www.dsm-firmenich.com/fr-fr/sitemap.xml\nSitemap: https://www.dsm-firmenich.com/ja-jp/sitemap.xml\nSitemap: https:"
+  },
+  "feeds": [],
+  "pages": [
+    {
+      "url": "https://our-company.dsm-firmenich.com/en/our-company/news.html",
+      "status": 200,
+      "error": null,
+      "final_url": "https://our-company.dsm-firmenich.com/en/our-company/news.html",
+      "bot_wall": null,
+      "bytes": 580792,
+      "visible_text_chars": 16903,
+      "sha256_visible": "68f5b43c428ecc7b",
+      "dates_found": 34,
+      "first_dates": [
+        "14 October 2026",
+        "1 October 2026",
+        "29 September 2026"
+      ]
+    }
+  ]
+}

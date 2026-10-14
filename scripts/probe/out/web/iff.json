@@ -1,0 +1,49 @@
+{
+  "key": "iff",
+  "name": "IFF",
+  "base": "https://www.iff.com",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/news/": {
+        "probe_ua": true,
+        "*": true
+      }
+    },
+    "crawl_delay": null,
+    "head": "User-agent: *\r\nDisallow: /*?news*\r\nDisallow: /*?tag*\r\nDisallow: /*?application*\r\nDisallow: /*?_odor*\r\nDisallow: /*?tab*\r\nDisallow: /wp-admin/\r\nDisallow: /healthcheck\r\nDisallow: /cdn-cgi/l/email-protection\r\nAllow: /wp-admin/admin-ajax.php\r\nSitemap: https://www.iff.com/sitemap_index.xml\r\n"
+  },
+  "feeds": [],
+  "pages": [
+    {
+      "url": "https://www.iff.com/news/",
+      "status": 403,
+      "error": "HTTPError 403",
+      "final_url": "https://www.iff.com/news/",
+      "bot_wall": "cloudflare:challenge",
+      "bytes": 5576,
+      "visible_text_chars": 58,
+      "sha256_visible": "ae0b26c68939e821",
+      "dates_found": 0,
+      "first_dates": []
+    },
+    {
+      "url": "https://ir.iff.com/news-events/press-releases",
+      "status": 403,
+      "error": "HTTPError 403",
+      "final_url": "https://ir.iff.com/news-events/press-releases",
+      "bot_wall": null,
+      "bytes": 402,
+      "visible_text_chars": 230,
+      "sha256_visible": "bef6fb8344465df3",
+      "dates_found": 0,
+      "first_dates": []
+    }
+  ]
+}

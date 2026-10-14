@@ -1,0 +1,52 @@
+{
+  "key": "beautymatter",
+  "name": "BeautyMatter",
+  "base": "https://beautymatter.com",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/articles/": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/sitemap.xml": {
+        "probe_ua": true,
+        "*": true
+      }
+    },
+    "crawl_delay": null,
+    "head": "# Search engines\nUser-agent: Googlebot\nAllow: /\nDisallow: /admin/\nDisallow: /nova/\nDisallow: /account/\nDisallow: /login/\nDisallow: /register/\nDisallow: /checkout/\nDisallow: /api/\nDisallow: /preview/\nDisallow: /staging/\n\nUser-agent: Bingbot\nAllow: /\nDisallow: /admin/\nDisallow: /nova/\nDisallow: /account/\nDisallow: /login/\nDisallow: /register/\nDisallow: /checkout/\nDisallow: /api/\nDisallow: /preview/\nDisallow: /staging/\n\nUser-agent: Applebot\nAllow: /\nDisallow: /admin/\nDisallow: /nova/\nDisallow: /account/\nDisallow: /login/\nDisallow: /register/\nDisallow: /checkout/\nDisallow: /api/\nDisallow: /preview/\nDisallow: /staging/\n\n# AI search and citation engines\nUser-agent: OAI-SearchBot\nAllow: /\nDisallow: /admin/\nDisallow: /nova/\nDisallow: /account/\nDisallow: /login/\nDisallow: /register/\nDisallow: /chec"
+  },
+  "home": {
+    "status": 200,
+    "error": null,
+    "final_url": "https://beautymatter.com",
+    "bytes": 166524,
+    "visible_text_chars": 4777,
+    "script_tags": 13,
+    "feed_links": [],
+    "bot_wall": null,
+    "title": "Home | BeautyMatter"
+  },
+  "feeds": [],
+  "pages": [
+    {
+      "url": "https://beautymatter.com/sitemap.xml",
+      "status": 404,
+      "error": "HTTPError 404",
+      "final_url": "https://beautymatter.com/sitemap.xml",
+      "bot_wall": null,
+      "bytes": 17745,
+      "visible_text_chars": 496,
+      "sha256_visible": "a8df9aa2a91167e0",
+      "dates_found": 0,
+      "first_dates": []
+    }
+  ]
+}

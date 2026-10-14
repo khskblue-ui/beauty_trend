@@ -1,0 +1,33 @@
+# 0단계 프로브를 GitHub Actions 러너 IP에서 재실행해 차단 여부를 비교한다.
+# 수동 실행 전용. 결과 JSON은 아티팩트로 내려받는다.
+name: phase0-probe
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+      NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Web sources
+        run: python scripts/probe/web_probe.py
+      - name: EUR-Lex (CELLAR SPARQL)
+        run: python scripts/probe/eurlex_probe.py
+      - name: NAVER API HUB
+        if: ${{ env.NAVER_CLIENT_ID != '' }}
+        run: python scripts/probe/naver_probe.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: phase0-probe-out
+          path: scripts/probe/out/

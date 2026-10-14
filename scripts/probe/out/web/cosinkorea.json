@@ -1,0 +1,75 @@
+{
+  "key": "cosinkorea",
+  "name": "코스인코리아",
+  "base": "https://www.cosinkorea.com",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/data/rss/news.xml": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/news/article.html": {
+        "probe_ua": true,
+        "*": true
+      }
+    },
+    "crawl_delay": null,
+    "head": "User-agent: *\nAllow:/"
+  },
+  "home": {
+    "status": 200,
+    "error": null,
+    "final_url": "https://www.cosinkorea.com",
+    "bytes": 148841,
+    "visible_text_chars": 19977,
+    "script_tags": 64,
+    "feed_links": [
+      "https://www.cosinkorea.com/data/rss/news.xml"
+    ],
+    "bot_wall": null,
+    "title": "화장품 뷰티 전문 미디어 코스인코리아닷컴"
+  },
+  "feeds": [
+    {
+      "url": "https://www.cosinkorea.com/data/rss/news.xml",
+      "status": 200,
+      "error": null,
+      "bot_wall": null,
+      "content_type": "text/xml",
+      "bytes": 16404,
+      "format": "rss",
+      "items": 25,
+      "first_item": {
+        "title": "[1신] ‘2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스’ 개막... “글로벌 규제 방패 뚫을 창을 마련 기회”",
+        "link": "http://www.cosinkorea.com/news/article.html?no=58505",
+        "date_fields": {
+          "dc:date": "2026-10-14 15:44:31"
+        },
+        "description_chars": 163,
+        "content_encoded_chars": 0,
+        "author": null
+      },
+      "date_range": [
+        "2026-10-12 10:31:51",
+        "2026-10-14 15:44:31"
+      ],
+      "avg_description_chars": 167
+    }
+  ],
+  "article": {
+    "url": "http://www.cosinkorea.com/news/article.html?no=58505",
+    "status": 200,
+    "bot_wall": null,
+    "paragraph_text_chars": 4233,
+    "paywall_markers": [],
+    "is_accessible_for_free": null
+  },
+  "pages": []
+}

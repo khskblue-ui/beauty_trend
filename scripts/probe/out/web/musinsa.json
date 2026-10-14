@@ -1,0 +1,39 @@
+{
+  "key": "musinsa",
+  "name": "무신사뷰티",
+  "base": "https://www.musinsa.com",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/": {
+        "probe_ua": false,
+        "*": false
+      },
+      "/main/beauty/ranking": {
+        "probe_ua": false,
+        "*": false
+      },
+      "/ranking": {
+        "probe_ua": false,
+        "*": false
+      }
+    },
+    "crawl_delay": null,
+    "head": "##############################\n# MSS robots.txt\n# Last Updated: 2026.09.10\n##############################\n\n##############################\n# Group 1: Allowed\n# 검토를 거쳐 명단에 올린 봇. 성격 분류(프리뷰·검색엔진·AI 사용·AI 학습)는\n# shared/constants/userAgents.ts 주석에 있고 정책은 나누지 않는다.\n# 공통 Disallow 는 인증·개인화 경로와 앱 시트 전용 경로만 남긴다 (SHARED_DISALLOWED_PATHS 주석 참고).\n##############################\nUser-agent: Applebot\nUser-agent: facebookexternalhit\nUser-agent: Twitterbot\nUser-agent: OAI-SearchBot\nUser-agent: ChatGPT-User\nUser-agent: Claude-User\nUser-agent: Claude-SearchBot\nUser-agent: Perplexity-User\nUser-agent: Googlebot\nUser-agent: Googlebot-Image\nUser-agent: Storebot-Google\nUser-agent: Yeti\nUser-agent: NaverBot\nUser-agent: Daum\nUser-agent: Daumoa\nUser-agent: Bingbot\nUser-agent: ZumBot\nUser-agent: DuckDuckBot\nUser-agent: "
+  },
+  "home": {
+    "status": 200,
+    "error": null,
+    "final_url": "https://www.musinsa.com/main/beauty/ranking",
+    "bytes": 102119,
+    "visible_text_chars": 11,
+    "script_tags": 19,
+    "feed_links": [],
+    "bot_wall": null,
+    "title": ""
+  },
+  "feeds": [],
+  "pages": []
+}

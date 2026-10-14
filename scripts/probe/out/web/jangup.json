@@ -1,0 +1,73 @@
+{
+  "key": "jangup",
+  "name": "장업신문",
+  "base": "https://www.jangup.com",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/rss/allArticle.xml": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/news/articleView.html": {
+        "probe_ua": true,
+        "*": true
+      }
+    },
+    "crawl_delay": null,
+    "head": "User-agent: *\r\nDisallow: /admin/"
+  },
+  "home": {
+    "status": 200,
+    "error": null,
+    "final_url": "https://www.jangup.com",
+    "bytes": 101234,
+    "visible_text_chars": 5416,
+    "script_tags": 113,
+    "feed_links": [],
+    "bot_wall": null,
+    "title": "장업신문"
+  },
+  "feeds": [
+    {
+      "url": "https://www.jangup.com/rss/allArticle.xml",
+      "status": 200,
+      "error": null,
+      "bot_wall": null,
+      "content_type": "application/xml",
+      "bytes": 50748,
+      "format": "rss",
+      "items": 50,
+      "first_item": {
+        "title": "이미인, 내년 글로벌 뷰티 트렌드는 ‘메디컬 프로시저 더마’",
+        "link": "https://www.jangup.com/news/articleView.html?idxno=100146",
+        "date_fields": {
+          "pubDate": "2026-10-14 10:55:00"
+        },
+        "description_chars": 300,
+        "content_encoded_chars": 0,
+        "author": "윤경선 기자"
+      },
+      "date_range": [
+        "2026-10-08 10:31:18",
+        "2026-10-14 10:55:00"
+      ],
+      "avg_description_chars": 299
+    }
+  ],
+  "article": {
+    "url": "https://www.jangup.com/news/articleView.html?idxno=100146",
+    "status": 200,
+    "bot_wall": null,
+    "paragraph_text_chars": 2385,
+    "paywall_markers": [],
+    "is_accessible_for_free": null
+  },
+  "pages": []
+}

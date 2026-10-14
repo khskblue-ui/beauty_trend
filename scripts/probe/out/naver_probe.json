@@ -1,0 +1,198 @@
+[
+  {
+    "name": "news_search",
+    "url": "https://naverapihub.apigw.ntruss.com/search/v1/news?query=%ED%96%A5%EC%88%98&display=5&sort=date",
+    "status": 200,
+    "error": null,
+    "elapsed_s": 1.61,
+    "resp_headers": {
+      "Content-Type": "text/plain;charset=UTF-8",
+      "X-Ncp-Apigw-Response-Origin": "ENDPOINT",
+      "X-Ncp-Trace-Id": "6aohgcgrm6e1k3ie9p70sm8eb5"
+    },
+    "sample": {
+      "keys": [
+        "lastBuildDate",
+        "total",
+        "start",
+        "display",
+        "items"
+      ],
+      "total": 563731,
+      "items": [
+        {
+          "title": "김영광, 난리났다...공개 3일 만 '넷플릭스 TOP 3'→글로벌 호평 쏟아진...",
+          "originallink": "https://mhnse.com/news/articleView.html?idxno=1592417",
+          "link": "https://m.entertain.naver.com/article/445/0000476735",
+          "description": "미국 타임(TIME)은 &quot;두 주인공의 사랑 이야기가 만든 짜릿한 엔딩&quot;이라고 평했고, 인디아 투데이(India Today)는 &quot;경쾌한 로맨스와 코믹한 소동, <b>향수</b>를 자아내는 K-드라마&quot;라고 소개했다. 국내에서도 &quot;익숙한 맛에 색다른... ",
+          "pubDate": "Wed, 14 Oct 2026 22:01:00 +0900"
+        },
+        {
+          "title": "직접 플레이한 '시간의 오카리나' 리메이크, 젤다의 전설은 진짜 레전드...",
+          "originallink": "https://www.inven.co.kr/webzine/news/?news=322086",
+          "link": "https://m.sports.naver.com/esports/article/442/0000197728",
+          "description": "그렇기에 이러한 연출력과 애니메이션의 진화는, 향상된 그래픽과 함께 원작을 해보지 않았던 팬들이 별다른 <b>향수</b> 없이도 푹 빠져들 수 있는 현세대 게임으로 느끼도록 만든다. 주목은 그대로, 액션은 직관적으로점프와... ",
+          "pubDate": "Wed, 14 Oct 2026 22:01:00 +0900"
+        }
+      ]
+    }
+  },
+  {
+    "name": "datalab_search_trend",
+    "url": "https://naverapihub.apigw.ntruss.com/search-trend/v1/search",
+    "status": 200,
+    "error": null,
+    "elapsed_s": 0.86,
+    "resp_headers": {
+      "Content-Type": "text/plain;charset=UTF-8",
+      "X-Ncp-Apigw-Response-Origin": "ENDPOINT",
+      "X-Ncp-Trace-Id": "30cpi6krj6c9m66p3171i30p1n"
+    },
+    "sample": {
+      "startDate": "2026-07-01",
+      "endDate": "2026-09-30",
+      "timeUnit": "month",
+      "results": [
+        {
+          "title": "향수",
+          "keywords": [
+            "향수"
+          ],
+          "data": [
+            {
+              "period": "2026-07-01",
+              "ratio": 75.30665
+            },
+            {
+              "period": "2026-08-01",
+              "ratio": 76.24637
+            },
+            {
+              "period": "2026-09-01",
+              "ratio": 100
+            }
+          ]
+        },
+        {
+          "title": "니치향수",
+          "keywords": [
+            "니치향수",
+            "니치 향수"
+          ],
+          "data": [
+            {
+              "period": "2026-07-01",
+              "ratio": 18.11528
+            },
+            {
+              "period": "2026-08-01",
+              "ratio": 14.01544
+            },
+            {
+              "period": "2026-09-01",
+              "ratio": 13.19075
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "shopping_categories",
+    "url": "https://naverapihub.apigw.ntruss.com/shopping/v1/categories",
+    "status": 200,
+    "error": null,
+    "elapsed_s": 0.84,
+    "resp_headers": {
+      "Content-Type": "text/plain;charset=UTF-8",
+      "X-Ncp-Apigw-Response-Origin": "ENDPOINT",
+      "X-Ncp-Trace-Id": "64o9p6sq68phn64dpm6dgj6p9h"
+    },
+    "sample": {
+      "startDate": "2026-07-01",
+      "endDate": "2026-09-30",
+      "timeUnit": "month",
+      "results": [
+        {
+          "title": "화장품/미용",
+          "category": [
+            "50000002"
+          ],
+          "data": [
+            {
+              "period": "2026-07-01",
+              "ratio": 100
+            },
+            {
+              "period": "2026-08-01",
+              "ratio": 90.6667
+            },
+            {
+              "period": "2026-09-01",
+              "ratio": 89.55857
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "shopping_category_keywords",
+    "url": "https://naverapihub.apigw.ntruss.com/shopping/v1/category/keywords",
+    "status": 200,
+    "error": null,
+    "elapsed_s": 0.87,
+    "resp_headers": {
+      "Content-Type": "text/plain;charset=UTF-8",
+      "X-Ncp-Apigw-Response-Origin": "ENDPOINT",
+      "X-Ncp-Trace-Id": "66eb670smcc9h6cob5cli66or3"
+    },
+    "sample": {
+      "startDate": "2026-07-01",
+      "endDate": "2026-09-30",
+      "timeUnit": "month",
+      "results": [
+        {
+          "title": "향수",
+          "keyword": [
+            "향수"
+          ],
+          "data": [
+            {
+              "period": "2026-07-01",
+              "ratio": 100
+            },
+            {
+              "period": "2026-08-01",
+              "ratio": 90.60951
+            },
+            {
+              "period": "2026-09-01",
+              "ratio": 100
+            }
+          ]
+        },
+        {
+          "title": "바디미스트",
+          "keyword": [
+            "바디미스트"
+          ],
+          "data": [
+            {
+              "period": "2026-07-01",
+              "ratio": 55.30227
+            },
+            {
+              "period": "2026-08-01",
+              "ratio": 39.46977
+            },
+            {
+              "period": "2026-09-01",
+              "ratio": 30.67393
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

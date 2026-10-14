@@ -1,0 +1,57 @@
+{
+  "key": "gci",
+  "name": "Global Cosmetic Industry",
+  "base": "https://www.gcimagazine.com",
+  "robots": {
+    "status": 403,
+    "error": "HTTPError 403",
+    "bot_wall": "cloudflare:challenge"
+  },
+  "home": {
+    "status": 403,
+    "error": "HTTPError 403",
+    "final_url": "https://www.gcimagazine.com",
+    "bytes": 5612,
+    "visible_text_chars": 58,
+    "script_tags": 1,
+    "feed_links": [],
+    "bot_wall": "cloudflare:challenge",
+    "title": "Just a moment..."
+  },
+  "feeds": [
+    {
+      "url": "https://www.gcimagazine.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D",
+      "status": 200,
+      "error": null,
+      "bot_wall": null,
+      "content_type": "application/rss+xml; charset=utf-8",
+      "bytes": 23545,
+      "format": "rss",
+      "items": 25,
+      "first_item": {
+        "title": "Trend Alert: ICONS America Jelly Applicators-Blend. Blur. Beautify.",
+        "link": "https://www.gcimagazine.com/packaging/applicators/article/22976158/iconsamerica-trend-alert-icons-america-jelly-applicatorsblend-blur-beautify",
+        "date_fields": {
+          "pubDate": "Tue, 13 Oct 2026 09:57:46 -0500"
+        },
+        "description_chars": 143,
+        "content_encoded_chars": 0,
+        "author": null
+      },
+      "date_range": [
+        "Tue, 25 Aug 2026 09:00:44 -0500",
+        "Tue, 13 Oct 2026 09:57:46 -0500"
+      ],
+      "avg_description_chars": 102
+    }
+  ],
+  "article": {
+    "url": "https://www.gcimagazine.com/packaging/applicators/article/22976158/iconsamerica-trend-alert-icons-america-jelly-applicatorsblend-blur-beautify",
+    "status": 403,
+    "bot_wall": "cloudflare:challenge",
+    "paragraph_text_chars": 0,
+    "paywall_markers": [],
+    "is_accessible_for_free": null
+  },
+  "pages": []
+}

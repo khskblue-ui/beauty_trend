@@ -1,0 +1,23 @@
+{
+  "key": "oliveyoung",
+  "name": "올리브영",
+  "base": "https://www.oliveyoung.co.kr",
+  "robots": {
+    "status": 403,
+    "error": "HTTPError 403",
+    "bot_wall": "cloudflare:challenge"
+  },
+  "home": {
+    "status": 403,
+    "error": "HTTPError 403",
+    "final_url": "https://www.oliveyoung.co.kr/store/main/getBestList.do",
+    "bytes": 48991,
+    "visible_text_chars": 150,
+    "script_tags": 1,
+    "feed_links": [],
+    "bot_wall": "cloudflare:challenge",
+    "title": "잠시만 기다려 주세요 - 올리브영"
+  },
+  "feeds": [],
+  "pages": []
+}

@@ -1,0 +1,71 @@
+{
+  "key": "cosmeticsbusiness",
+  "name": "Cosmetics Business",
+  "base": "https://www.cosmeticsbusiness.com",
+  "robots": {
+    "status": 200,
+    "error": null,
+    "bot_wall": null,
+    "allowed": {
+      "/": {
+        "probe_ua": true,
+        "*": true
+      },
+      "/rss": {
+        "probe_ua": true,
+        "*": true
+      }
+    },
+    "crawl_delay": null,
+    "head": "User-agent: *\nAllow: /\n"
+  },
+  "home": {
+    "status": 200,
+    "error": null,
+    "final_url": "https://www.cosmeticsbusiness.com",
+    "bytes": 156584,
+    "visible_text_chars": 16917,
+    "script_tags": 6,
+    "feed_links": [],
+    "bot_wall": null,
+    "title": "Cosmetics Business"
+  },
+  "feeds": [
+    {
+      "url": "https://www.cosmeticsbusiness.com/rss",
+      "status": 200,
+      "error": null,
+      "bot_wall": null,
+      "content_type": "text/xml; charset=UTF-8",
+      "bytes": 12740,
+      "format": "rss",
+      "items": 19,
+      "first_item": {
+        "title": "Unilever is elevating its R&D hair care game in 2026. Here’s how…",
+        "link": "https://www.cosmeticsbusiness.com/unilever-is-elevating-its-hair-care-game",
+        "date_fields": {
+          "pubDate": "Wed, 14 Oct 2026 11:22:00 +0000"
+        },
+        "description_chars": 249,
+        "content_encoded_chars": 0,
+        "author": null
+      },
+      "date_range": [
+        "Mon, 12 Oct 2026 17:30:00 +0000",
+        "Wed, 14 Oct 2026 11:22:00 +0000"
+      ],
+      "avg_description_chars": 217
+    }
+  ],
+  "article": {
+    "url": "https://www.cosmeticsbusiness.com/unilever-is-elevating-its-hair-care-game",
+    "status": 200,
+    "bot_wall": null,
+    "paragraph_text_chars": 10347,
+    "paywall_markers": [
+      "premium content"
+    ],
+    "is_accessible_for_free": null
+  },
+  "pages": []
+}
