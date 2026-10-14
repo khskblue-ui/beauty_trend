@@ -13,6 +13,8 @@ from .normalize import Entities, cluster, load_month, similar
 from .util import kst_date, month_bounds, now_kst, prev_month
 
 log = logging.getLogger(__name__)
+# Bigram Jaccard above this = same news in two sections (2026-09: duplicate 0.38, unrelated ≤ 0.05)
+DUP_SENTENCE = 0.25
 
 
 def _known_entities(recs: list[dict], ents: Entities) -> set[str]:
@@ -98,7 +100,7 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
         kept = checked(f"market_{key}", write.sentences(task, cards, n, ledger), allowed)
         # different outlets can report the same news; drop near-duplicates of keyword sentences
         kw_texts = [k["sentence"]["text"] for k in kw_kept if k["sentence"]]
-        mk[key] = [s for s in kept if not any(similar(s["text"], t, 0.4) for t in kw_texts)]
+        mk[key] = [s for s in kept if not any(similar(s["text"], t, DUP_SENTENCE) for t in kw_texts)]
 
     # regulation & competitors: narrative is optional; the item table is code-generated
     rg = {}

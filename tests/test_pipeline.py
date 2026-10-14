@@ -103,3 +103,11 @@ def test_entity_check_accepts_alias_spelling():
     ents = Entities()
     assert static_checks(s, {"1"}, {"1": r}, {"심라이즈"}) == "entity:심라이즈"
     assert static_checks(s, {"1"}, {"1": r}, {"심라이즈"}, ents.variants) is None
+
+
+def test_duplicate_sentence_threshold_separates_september_pairs():
+    from trend.report import DUP_SENTENCE
+    kw = "한미사이언스는 자체 개발한 복합 원료를 적용해 인공색소와 향료를 넣지 않은 제품군을 선보였다."
+    dup = "한미사이언스가 개발한 복합 원료로 인공색소와 향료를 배제한 고기능성 제품을 선보이고 있다."
+    other = "다비디퓨저는 킹고스프링에서 투자를 유치하고 글로벌 시장에 진출한다."
+    assert similar(kw, dup, DUP_SENTENCE) and not similar(kw, other, DUP_SENTENCE)
