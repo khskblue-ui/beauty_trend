@@ -3,6 +3,7 @@
   collect [--only a,b] [--since YYYY-MM-DD] [--naver-pages N]
   enrich  [--month YYYY-MM] [--limit N]
   report  --month YYYY-MM [--dry-run]
+  render  --run-dir DIR [--no-pdf]   re-render a finished run with current templates (no LLM calls)
   health  [--days 7]
 """
 from __future__ import annotations
@@ -28,6 +29,9 @@ def main(argv=None) -> int:
     r.add_argument("--month", required=True)
     r.add_argument("--dry-run", action="store_true")
     r.add_argument("--no-pdf", action="store_true")
+    rr = sub.add_parser("render")
+    rr.add_argument("--run-dir", required=True)
+    rr.add_argument("--no-pdf", action="store_true")
     h = sub.add_parser("health")
     h.add_argument("--days", type=int, default=7)
     a = ap.parse_args(argv)
@@ -49,6 +53,11 @@ def main(argv=None) -> int:
         out = build(a.month, dry_run=a.dry_run, pdf=not a.no_pdf)
         print(json.dumps(out, ensure_ascii=False, indent=1))
         return 0 if out["status"] != "error" else 1
+    if a.cmd == "render":
+        from .report import rerender
+        paths = rerender(a.run_dir, pdf=not a.no_pdf)
+        print(json.dumps({k: str(v) for k, v in paths.items()}, ensure_ascii=False, indent=1))
+        return 0
     if a.cmd == "health":
         from .health import summarize
         text, alarm = summarize(a.days)

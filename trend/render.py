@@ -14,6 +14,9 @@ from .config import ROOT
 log = logging.getLogger(__name__)
 
 
+SOURCE_KICKER = {"accord": "부록", "signal": "부록", "chromatogram": "부록"}
+
+
 class Citations:
     """Assigns footnote numbers to documents in order of first citation."""
 
@@ -104,7 +107,7 @@ def bar_chart(rows: list[tuple[str, float]], width: int = 640, unit: str = "") -
 
 
 def line_paths(series: dict, anchor: str | None, width: int, height: int,
-               pad=(40, 16, 28, 110)) -> dict:
+               pad=(40, 16, 28, 110), gap: float = 15) -> dict:
     """SVG geometry for multi-line charts (vs-anchor ratios). pad = left, top, bottom, right."""
     terms = [t for t in series if t != anchor]
     if not terms:
@@ -122,16 +125,16 @@ def line_paths(series: dict, anchor: str | None, width: int, height: int,
         d = " ".join(f"{'M' if j == 0 else 'L'}{a:.1f},{b:.1f}" for j, (a, b) in enumerate(pts))
         lines.append({"term": t, "d": d, "pts": pts, "end": pts[-1] if pts else (pl, pt + h),
                       "last": series[t][-1][1]})
-    # End labels: keep ≥15px apart; if they run past the plot bottom, shift up.
+    # End labels: keep ≥gap px apart (≈1.3× label font size); if they run past the plot bottom, shift up.
     order = sorted(lines, key=lambda x: x["end"][1])
     for ln in order:
-        ly = max(ln["end"][1], last + 15)
+        ly = max(ln["end"][1], last + gap)
         ln["label_y"], last = ly, ly
     bottom = pt + h
     for ln in reversed(order):
         if ln["label_y"] > bottom:
             ln["label_y"] = bottom
-        bottom = ln["label_y"] - 15
+        bottom = ln["label_y"] - gap
     ticks = [{"y": Y(vmax * k / 3), "v": f"{vmax * k / 3:.2f}"} for k in range(4)]
     labels = [{"x": X(i), "p": p[2:]} for i, p in enumerate(periods)]
     return {"lines": lines, "ticks": ticks, "periods": labels, "x0": pl, "x1": pl + w,
@@ -236,13 +239,18 @@ def render_all(ctx: dict, out_dir: Path, pdf: bool = True) -> dict[str, Path]:
     mail = env.get_template("mail.txt.j2").render(**ctx)
     paths["mail"] = out_dir / "mail.txt"
     paths["mail"].write_text(mail, "utf-8")
-    for v in ctx["cfg"].get("motion_variants", []):
+    variants = ctx["cfg"].get("motion_variants", [])
+    if os.getenv("MOTION_VARIANTS"):  # e.g. "accord" to render one variant while testing
+        variants = [v for v in os.getenv("MOTION_VARIANTS").split(",") if v]
+    for v in variants:
         mc = Citations(ctx["by_id"])
         env.globals.update(cite=mc)
         doc = env.get_template(f"motion/{v}.html.j2").render(
             **ctx, cites=mc, events=events(ctx), viz=viz_data(ctx))
-        doc = doc.replace("<!--SOURCES-->", env.get_template("_sources.html.j2").render(
-            sources=mc.entries(ctx["links"])))
+        # sources come last so every citation number is already assigned
+        doc = doc.replace("<!--SOURCE_SLIDES-->", env.get_template("motion/_sources_slides.j2").render(
+            sources=mc.entries(ctx["links"]), month=ctx["month"], title=ctx["cfg"]["title"],
+            kicker=SOURCE_KICKER.get(v, "")))
         paths[f"motion_{v}"] = out_dir / f"report_{ctx['month']}_{v}.html"
         paths[f"motion_{v}"].write_text(doc, "utf-8")
     env.globals.update(cite=cites)

@@ -11,6 +11,8 @@
 | 매월 25일 09:47 KST | `report-monthly` | 이번 달 드라이런(유지보수자에게만) |
 | 매월 1일 09:47 KST | `report-monthly` | 전월 리포트 생성 → 품질 게이트 → 발행 또는 보류 |
 
+결과물: PDF(상사 제출용 문서) + 슬라이드형 모션 HTML(`templates/motion/`, 시안 A·B·C). 수집 현황·방법론은 유지보수자 메일에만 들어갑니다.
+
 월간 단계: `normalize`(중복 묶기·보도자료 태그·엔티티) → `aggregate`(숫자는 모두 코드) → `write`(Gemini, 문장마다 출처·원문 인용) → `verify`(인용 일치·숫자 금지·엔티티·근거 함의, 실패 문장 삭제) → `gate`(섹션 최소 기준, 핵심 과반 미달 시 보류) → `render`(HTML·PDF) → `deliver`(SMTP).
 
 ## 로컬 실행
@@ -20,7 +22,8 @@ pip install -r requirements.txt
 export DATA_DIR=./data                     # 기본값
 python -m trend collect                    # --only cosmorning,naver_news / --since 2026-09-01 --naver-pages 10
 python -m trend enrich --month 2026-09
-python -m trend report --month 2026-09 --dry-run   # --no-pdf, SKIP_LINK_CHECK=1
+python -m trend report --month 2026-09 --dry-run   # --no-pdf, SKIP_LINK_CHECK=1, MOTION_VARIANTS=accord
+python -m trend render --run-dir data/reports/2026-09/<실행>   # 템플릿만 바꿨을 때: LLM 호출 없이 다시 그리기(몇 초)
 python -m trend health --days 7
 python -m pytest -q
 ```

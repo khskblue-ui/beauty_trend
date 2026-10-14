@@ -1,7 +1,22 @@
-{# Content blocks shared by all motion variants. Same content, different staging.
-   Reader-facing copy follows docs/style_guide.md (tests/test_style.py checks it). #}
+{# Shared slides for the motion decks (A/B/C). Same content, each variant styles it.
+   Reader-facing copy follows docs/style_guide.md (tests/test_style.py checks it).
+   Rows per slide keep every slide inside the 1280×720 canvas. #}
+{% set ROWS = 9 %}{% set LIST_ROWS = 6 %}{% set SENTS = 5 %}{# listing titles are long English headlines → fewer rows #}
+
+{% macro slide(title, kicker='', desc='', cls='', page='') -%}
+<section class="slide {{ cls }}" data-title="{{ title }}{{ page }}">
+  <header class="s-head">{% if kicker %}<div class="s-kicker">{{ kicker }}</div>{% endif %}
+    <h2 class="rv">{{ title }}{% if page %}<span class="s-page">{{ page }}</span>{% endif %}</h2>
+    {% if desc %}<p class="s-desc rv">{{ desc }}</p>{% endif %}</header>
+  <div class="s-body">{{ caller() }}</div>
+  <footer class="s-foot"><span>{{ cfg.title }} · {{ month }}</span><span class="s-num"></span></footer>
+</section>
+{%- endmacro %}
+
+{% macro pg(loop) -%}{% if loop.length > 1 %} ({{ loop.index }}/{{ loop.length }}){% endif %}{%- endmacro %}
+
 {% macro sents(items, empty) -%}
-{% if items %}<ul class="sents">{% for s in items %}<li class="rv">{{ s.text }}{{ cite(s.doc_ids) }}</li>{% endfor %}</ul>
+{% if items %}<ul class="sents">{% for s in items %}<li class="rv" style="--i:{{ loop.index0 }}">{{ s.text }}{{ cite(s.doc_ids) }}</li>{% endfor %}</ul>
 {% else %}<p class="reduced rv">{{ empty }}</p>{% endif %}
 {%- endmacro %}
 
@@ -9,68 +24,115 @@
 {% if gate.sections[name].status == 'reduced' %}<p class="reduced rv">자료 부족 — {{ gate.sections[name].reason }}</p>{% endif %}
 {%- endmacro %}
 
-{% macro summary_list() -%}
-{% if summary %}<ol class="summary">{% for s in summary %}<li class="rv"><span>{{ s.text }}{{ cite(s.doc_ids) }}</span></li>{% endfor %}</ol>
-{% else %}<p class="reduced">출처로 확인된 문장이 없어 요약을 싣지 않았습니다.</p>{% endif %}
-{%- endmacro %}
-
 {% macro kw_explain(k) -%}
 {% if k.sentence %}{{ k.sentence.text }}{{ cite(k.sentence.doc_ids) }}
 {%- else %}<span class="reps">관련 기사: {% for r in k.reps %}{{ r.title }}{{ cite([r.doc_id]) }}{{ ' · ' if not loop.last }}{% endfor %}</span>{% endif %}
-{%- endmacro %}
-
-{% macro launches_table() -%}
-{% if agg.launches %}<div class="tw rv"><table><thead><tr><th>출시일</th><th>브랜드</th><th>제품</th><th>향 노트</th><th>출처</th></tr></thead><tbody>
-{% for x in agg.launches %}<tr><td class="mono">{{ x.launch_date }}</td><td>{{ x.brand or '—' }}</td><td>{{ x.name }}{% if x.press_release %} <span class="tag">보도자료</span>{% endif %}</td><td>{{ x.notes|join(', ') if x.notes else '—' }}</td><td>{{ cite([x.doc_id]) }}</td></tr>{% endfor %}
-</tbody></table></div>{% endif %}
-{{ reduced('launches') }}
-{%- endmacro %}
-
-{% macro notes_table() -%}
-{% if agg.notes.n %}<div class="tw rv"><table><thead><tr><th>브랜드</th><th>제품</th><th>향 노트</th><th>출처</th></tr></thead><tbody>
-{% for x in agg.notes['items'] %}<tr><td>{{ x.brand or '—' }}</td><td>{{ x.name }}</td><td>{{ x.notes|join(', ') }}</td><td>{{ cite([x.doc_id]) }}</td></tr>{% endfor %}
-</tbody></table></div>
-{% else %}<p class="reduced">이번 달 기사에는 향 노트를 밝힌 제품이 없었습니다.</p>{% endif %}
-{%- endmacro %}
-
-{% macro reg_tables() -%}
-{% set regs = agg.regulation.regulation %}{% set comps = agg.regulation.competitors %}
-<h3 class="rv">규제</h3>
-{{ sents(reg.regulation, '') if reg.regulation }}
-{% if regs %}<div class="tw rv"><table><thead><tr><th>날짜</th><th>기관</th><th>제목</th><th>출처</th></tr></thead><tbody>
-{% for c in regs %}<tr><td class="mono">{{ c.published }}</td><td>{{ c.source_name }}</td><td>{{ c.title }}</td><td>{{ cite(c.doc_ids[:1]) }}</td></tr>{% endfor %}
-</tbody></table></div>
-{% else %}<p class="rv">변경 없음. EU 화장품 규정, 식약처, 미국 연방관보(FDA), IFRA에 이번 달 새로 나온 공지가 없습니다.</p>{% endif %}
-<h3 class="rv">경쟁 향료사</h3>
-{{ sents(reg.competitors, '') if reg.competitors }}
-{% if comps %}<div class="tw rv"><table><thead><tr><th>날짜</th><th>회사</th><th>제목</th><th>출처</th></tr></thead><tbody>
-{% for c in comps %}<tr><td class="mono">{{ c.published }}</td><td>{{ c.source_name }}</td><td>{{ c.title }}</td><td>{{ cite(c.doc_ids[:1]) }}</td></tr>{% endfor %}
-</tbody></table></div>
-{% else %}<p class="rv">변경 없음. 지보단, 심라이즈, dsm-firmenich의 이번 달 발표가 없습니다. IFF는 사이트 접속이 막혀 빠져 있습니다.</p>{% endif %}
-<h3 class="rv">시행일 일정</h3>
-<ul class="cal">{% for c in agg.calendar %}<li class="rv"><span class="mono">{{ c.date }}</span> {{ c.item }} <a href="{{ c.source }}">원문</a></li>{% endfor %}</ul>
-{%- endmacro %}
-
-{% macro appendix() -%}
-<h3>출처</h3>
-<!--SOURCES-->
-<h3>수집 현황</h3>
-<div class="tw"><table><thead><tr><th>출처</th><th class="n">정상 수집일</th><th class="n">실패일</th><th class="n">이달 기사</th></tr></thead><tbody>
-{% for c in coverage %}<tr><td>{{ c.source }}</td><td class="n mono">{{ c.ok_days }}</td><td class="n mono">{{ c.fail_days }}</td><td class="n mono">{{ c.docs_in_month }}</td></tr>{% endfor %}
-</tbody></table></div>
-<h3>만든 방법</h3>
-<ul class="fine">
-  <li>국내외 업계지, 네이버 뉴스, 규제기관(EU·식약처·미국 연방관보·IFRA), 경쟁 향료사 발표를 매일 모았습니다. 날짜는 한국 시간 기준입니다.</li>
-  <li>기사마다 브랜드·출시일·향 노트를 AI({{ models.enrich.model }})로 뽑고, 뽑은 내용이 원문에 그대로 있는지 프로그램으로 다시 확인했습니다.</li>
-  <li>문장은 AI({{ models.write.model }})가 위 기사만 보고 썼으며, 문장마다 출처를 달았습니다. 표와 차트의 숫자는 프로그램이 직접 셌습니다.</li>
-  <li>출처와 맞지 않거나 확실하지 않은 문장은 뺐습니다. 이번 호에는 {{ verify_stats.total }}문장 가운데 {{ verify_stats.kept }}문장을 실었습니다.</li>
-  <li>소비자 반응과 평가는 다루지 않습니다. 리뷰와 SNS는 수집하지 않습니다.</li>
-</ul>
-<p class="fine">AI가 자동으로 만든 리포트입니다. 자사 제품 포트폴리오는 반영하지 않았습니다.</p>
 {%- endmacro %}
 
 {% macro banners() -%}
 {% if status == 'dry_run' %}<p class="banner">시험본 — 수신자에게 보내지 않았습니다</p>{% endif %}
 {% if status == 'hold' %}<p class="banner">발행 보류 — 핵심 섹션 {{ gate.core_total }}개 중 {{ gate.core_failed }}개가 기준에 못 미칩니다</p>{% endif %}
 {% if not has_prev %}<p class="banner">지난달 자료가 없어 전월 비교는 하지 않았습니다</p>{% endif %}
+{%- endmacro %}
+
+{# ---------- slides ---------- #}
+
+{% macro summary_slide(kicker) -%}
+{% call slide('이달의 요약', kicker, '키워드·시장·규제에서 한 줄씩 골랐습니다.', 'sl-summary') %}
+{% if summary %}<ol class="summary">{% for s in summary %}<li class="rv" style="--i:{{ loop.index0 }}"><span>{{ s.text }}{{ cite(s.doc_ids) }}</span></li>{% endfor %}</ol>
+{% else %}<p class="reduced">출처로 확인된 문장이 없어 요약을 싣지 않았습니다.</p>{% endif %}
+{% endcall %}
+{%- endmacro %}
+
+{% macro search_slide(kicker, colors) -%}
+{% if viz.search %}{% set g = line_paths(viz.search.series, viz.search.anchor, 1100, 400, (56, 16, 30, 150), 22) %}
+{% call slide("네이버 검색량 추이", kicker, "'" ~ viz.search.anchor ~ "' 검색량을 1로 놓고 비교한 월별 값입니다. 실제 검색 횟수는 아닙니다.", 'sl-search') %}
+<figure class="chart-wrap rv">
+  <svg class="chart" viewBox="0 0 {{ g.width }} {{ g.height }}" role="img" aria-label="키워드별 네이버 검색량 추이(상대값)">
+    {% for t in g.ticks %}<line class="grid" x1="{{ g.x0 }}" x2="{{ g.x1 }}" y1="{{ '%.1f'|format(t.y) }}" y2="{{ '%.1f'|format(t.y) }}"/><text class="tick" x="{{ g.x0 - 8 }}" y="{{ '%.1f'|format(t.y + 4) }}" text-anchor="end">{{ t.v }}</text>{% endfor %}
+    {% for p in g.periods %}<text class="tick" x="{{ '%.1f'|format(p.x) }}" y="{{ g.height - 6 }}" text-anchor="middle">{{ p.p }}</text>{% endfor %}
+    {% for l in g.lines %}<path class="draw" d="{{ l.d }}" stroke="{{ colors[loop.index0 % colors|length] }}"/>
+    <text class="lbl" x="{{ '%.1f'|format(l.end[0] + 10) }}" y="{{ '%.1f'|format(l.label_y + 5) }}" fill="{{ colors[loop.index0 % colors|length] }}">{{ l.term }}</text>{% endfor %}
+  </svg>
+  <figcaption class="note">네이버 데이터랩, {{ viz.search.series[viz.search.anchor][0][0] }} ~ {{ month }}</figcaption>
+</figure>
+{% endcall %}
+{% endif %}
+{%- endmacro %}
+
+{% macro notes_table_slides(kicker) -%}
+{% if agg.notes.n %}
+{% for chunk in agg.notes['items']|batch(ROWS) %}
+{% call slide('향 노트를 밝힌 제품', kicker, '' if not loop.first else '같은 제품을 다룬 기사가 여럿이어도 한 번만 실었습니다.', 'sl-table', pg(loop)) %}
+<table class="rv"><thead><tr><th>브랜드</th><th>제품</th><th>향 노트</th><th class="c">출처</th></tr></thead><tbody>
+{% for x in chunk %}<tr><td>{{ x.brand or '—' }}</td><td>{{ x.name }}</td><td>{{ x.notes|join(', ') }}</td><td class="c">{{ cite([x.doc_id]) }}</td></tr>{% endfor %}
+</tbody></table>
+{% endcall %}
+{% endfor %}
+{% endif %}
+{%- endmacro %}
+
+{% macro launch_slides(kicker) -%}
+{% set items = agg.launches %}
+{% for chunk in (items|batch(ROWS)|list or [[]]) %}
+{% call slide('신제품 출시', kicker, '출시일이 기사로 확인되고 분석 기간 안에 나온 제품입니다.' if loop.first else '', 'sl-table', pg(loop)) %}
+{% if chunk %}<table class="rv"><thead><tr><th>출시일</th><th>브랜드</th><th>제품</th><th>향 노트</th><th class="c">출처</th></tr></thead><tbody>
+{% for x in chunk %}<tr><td class="mono">{{ x.launch_date }}</td><td>{{ x.brand or '—' }}</td><td>{{ x.name }}{% if x.press_release %} <span class="tag">보도자료</span>{% endif %}</td><td>{{ x.notes|join(', ') if x.notes else '—' }}</td><td class="c">{{ cite([x.doc_id]) }}</td></tr>{% endfor %}
+</tbody></table>{% endif %}
+{% if loop.last %}{{ reduced('launches') }}{% endif %}
+{% endcall %}
+{% endfor %}
+{%- endmacro %}
+
+{% macro market_slides(kicker) -%}
+{% set kr = market.kr %}{% set gl = market['global'] %}
+{% if kr|length + gl|length <= SENTS %}
+{% call slide('시장 동향', kicker, '국내와 해외 소식입니다. 해외 소식 일부는 기사 제목·요약만 확인했습니다.', 'sl-market') %}
+<h3 class="rv">국내</h3>{{ sents(kr, '이번 달에는 출처로 확인된 국내 시장 소식이 없습니다.') }}
+<h3 class="rv">해외</h3>{{ sents(gl, '이번 달에는 출처로 확인된 해외 시장 소식이 없습니다.') }}
+{% endcall %}
+{% else %}
+{% call slide('시장 동향 — 국내', kicker, '', 'sl-market') %}{{ sents(kr, '이번 달에는 출처로 확인된 국내 시장 소식이 없습니다.') }}{% endcall %}
+{% call slide('시장 동향 — 해외', kicker, '일부는 기사 제목·요약만 확인했습니다.', 'sl-market') %}{{ sents(gl, '이번 달에는 출처로 확인된 해외 시장 소식이 없습니다.') }}{% endcall %}
+{% endif %}
+{{ reduced('market') if gate.sections.market.status == 'reduced' }}
+{%- endmacro %}
+
+{% macro listing_slides(title, kicker, sentences, rows, col2, empty) -%}
+{% if sentences %}
+{% call slide(title, kicker, '', 'sl-market') %}{{ sents(sentences, '') }}{% endcall %}
+{% endif %}
+{% for chunk in (rows|batch(LIST_ROWS)|list or [[]]) %}
+{% call slide(title ~ ' — 목록' if sentences else title, kicker, '', 'sl-table', pg(loop)) %}
+{% if chunk %}<table class="rv"><thead><tr><th>날짜</th><th>{{ col2 }}</th><th>제목</th><th class="c">출처</th></tr></thead><tbody>
+{% for c in chunk %}<tr><td class="mono">{{ c.published }}</td><td>{{ c.source_name }}</td><td>{{ c.title }}</td><td class="c">{{ cite(c.doc_ids[:1]) }}</td></tr>{% endfor %}
+</tbody></table>
+{% else %}<p class="rv empty">{{ empty }}</p>{% endif %}
+{% endcall %}
+{% endfor %}
+{%- endmacro %}
+
+{% macro reg_slides(kicker) -%}
+{{ listing_slides('규제', kicker, reg.regulation, agg.regulation.regulation, '기관',
+   '변경 없음. EU 화장품 규정, 식약처, 미국 연방관보(FDA), IFRA에 이번 달 새로 나온 공지가 없습니다.') }}
+{%- endmacro %}
+
+{% macro comp_slides(kicker) -%}
+{{ listing_slides('경쟁 향료사', kicker, reg.competitors, agg.regulation.competitors, '회사',
+   '변경 없음. 지보단, 심라이즈, dsm-firmenich의 이번 달 발표가 없습니다. IFF는 사이트 접속이 막혀 빠져 있습니다.') }}
+{%- endmacro %}
+
+{% macro calendar_slide(kicker) -%}
+{% call slide('시행일 일정', kicker, '이미 정해진 규제 기한입니다.', 'sl-cal') %}
+<ul class="cal">{% for c in viz.calendar %}<li class="rv"><span class="mono">{{ c.date }}</span><span>{{ c.item }}{% if c.days_left is defined %} · {{ c.days_left }}일 남음{% endif %} <a href="{{ c.source }}">원문</a></span></li>{% endfor %}</ul>
+{% endcall %}
+{%- endmacro %}
+
+{% macro deck_ui() -%}
+<nav class="deck-ui" aria-label="슬라이드 이동"><div class="bar"></div>
+  <button class="prev" type="button" aria-label="이전 슬라이드"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg></button>
+  <span class="count" aria-live="polite">1 / 1</span>
+  <button class="next" type="button" aria-label="다음 슬라이드"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></button>
+  <span class="hint">← → 키로 넘깁니다</span>
+</nav>
 {%- endmacro %}

@@ -1,0 +1,41 @@
+/* Shared slide-deck structure. Variants style the inside of .slide only.
+   1280×720 canvas scaled to the viewport; ≤760px → slides stacked vertically. */
+html,body{margin:0;height:100%}
+body{overflow:hidden;background:var(--stage)}
+.deck{position:fixed;inset:0 0 56px 0}
+.slide{position:absolute;left:50%;top:50%;width:1280px;height:720px;overflow:hidden;
+  transform:translate(-50%,-50%) scale(var(--s,1));transform-origin:50% 50%;
+  display:flex;flex-direction:column;visibility:hidden;opacity:0;
+  transition:opacity .45s ease,visibility 0s linear .45s}
+.slide.active{visibility:visible;opacity:1;transition:opacity .45s ease}
+.s-body{flex:1;min-height:0;position:relative}
+.s-num::before{content:attr(data-n)}
+
+/* controls */
+.deck-ui{position:fixed;left:0;right:0;bottom:0;height:56px;display:flex;align-items:center;justify-content:center;gap:14px;z-index:10}
+.deck-ui button{width:44px;height:44px;border-radius:50%;border:1px solid var(--ui-line);background:var(--ui-bg);color:var(--ui-ink);cursor:pointer;display:grid;place-items:center}
+.deck-ui button:hover{background:var(--ui-hover)}
+.deck-ui button:focus-visible{outline:2px solid var(--ui-ink);outline-offset:2px}
+.deck-ui button:disabled{opacity:.35;cursor:default}
+.deck-ui svg{width:18px;height:18px;stroke:currentColor;fill:none;stroke-width:2}
+.deck-ui .count{min-width:84px;text-align:center;font:500 14px/1 var(--mono);color:var(--ui-ink)}
+.deck-ui .bar{position:absolute;left:0;top:0;height:2px;background:var(--ui-ink);width:calc(var(--p,0) * 100%);transition:width .3s ease}
+.deck-ui .hint{position:absolute;right:20px;font:12px var(--sans);color:var(--ui-muted)}
+
+/* narrow screens: plain vertical reading, no scaling */
+@media (max-width:760px){
+  body{overflow:auto}
+  .deck{position:static}
+  .slide{position:relative;left:auto;top:auto;width:auto;height:auto;min-height:0;transform:none;
+    visibility:visible;opacity:1;margin:12px;border-radius:10px;transition:none}
+  .deck-ui{display:none}
+}
+@media (prefers-reduced-motion:reduce){.slide,.slide.active{transition:none}}
+@media print{
+  @page{size:1280px 720px;margin:0}
+  html,body{height:auto;overflow:visible;background:none}
+  .deck{position:static}
+  .slide{position:relative;left:auto;top:auto;transform:none;visibility:visible;opacity:1;
+    break-after:page;page-break-after:always;margin:0}
+  .deck-ui{display:none}
+}

@@ -147,18 +147,6 @@ td.n,th.n{text-align:right;white-space:nowrap}
 <h2><span class="num">9</span>부록</h2>
 <h3>출처</h3>
 <!--SOURCES-->
-<h3>수집 현황</h3>
-<table><thead><tr><th>출처</th><th class="n">정상 수집일</th><th class="n">실패일</th><th class="n">이달 기사</th><th>최근 오류</th></tr></thead><tbody>
-{% for c in coverage %}<tr><td>{{ c.source }}</td><td class="n">{{ c.ok_days }}</td><td class="n">{{ c.fail_days }}</td><td class="n">{{ c.docs_in_month }}</td><td class="note">{{ c.last_error or '' }}</td></tr>{% endfor %}
-</tbody></table>
-<h3>만든 방법</h3>
-<ul class="note">
-  <li>국내외 업계지, 네이버 뉴스, 규제기관(EU·식약처·미국 연방관보·IFRA), 경쟁 향료사 발표를 매일 모았습니다. 날짜는 한국 시간 기준입니다.</li>
-  <li>기사마다 브랜드·출시일·향 노트를 AI({{ models.enrich.model }})로 뽑고, 뽑은 내용이 원문에 그대로 있는지 프로그램으로 다시 확인했습니다.</li>
-  <li>문장은 AI({{ models.write.model }})가 위 기사만 보고 썼으며, 문장마다 출처를 달았습니다. 표와 차트의 숫자는 프로그램이 직접 셌습니다.</li>
-  <li>출처와 맞지 않거나 확실하지 않은 문장은 뺐습니다. 이번 호에는 {{ verify_stats.total }}문장 가운데 {{ verify_stats.kept }}문장을 실었습니다.</li>
-  <li>소비자 반응과 평가는 다루지 않습니다. 리뷰와 SNS는 수집하지 않습니다.</li>
-</ul>
 <p class="note">AI가 자동으로 만든 리포트입니다. 자사 제품 포트폴리오는 반영하지 않았습니다. 숫자는 공개 자료의 상대값이므로 중요한 내용은 원문으로 확인하시기 바랍니다.</p>
 </main>
 </body>

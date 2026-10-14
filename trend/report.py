@@ -159,6 +159,9 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
         "style": {"rewritten": sum(1 for r in slog if r["before"] != r["after"]),
                   "warnings": style_warnings},
     }
+    # everything templates need, so `trend render` can redo the HTML/PDF without LLM calls
+    store.write_json(run_dir.relative_to(store.data_dir()) / "context.json",
+                     {k: v for k, v in ctx.items() if k not in ("cfg", "models")})
     paths = render.render_all(ctx, run_dir, pdf=pdf)
 
     store.write_json(run_dir.relative_to(store.data_dir()) / "aggregate.json", agg)
@@ -181,3 +184,17 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
             "verify": {"total": total, "kept": kept_n},
             "style": {"rewritten": ctx["style"]["rewritten"], "warnings": style_warnings},
             "paths": {k: str(v) for k, v in paths.items()}}
+
+
+def rerender(run_dir: str | Path, pdf: bool = True) -> dict:
+    """Render a finished run again with the current templates and config.
+
+    Content (sentences, numbers, citations) comes from the run's context.json,
+    so nothing is re-written or re-verified.
+    """
+    run_dir = Path(run_dir)
+    ctx = store.read_json(run_dir / "context.json")
+    if ctx is None:
+        raise FileNotFoundError(f"{run_dir}/context.json (runs before 2026-10-15 have none)")
+    ctx.update(cfg=load("report"), models=load("models"))
+    return render.render_all(ctx, run_dir, pdf=pdf)

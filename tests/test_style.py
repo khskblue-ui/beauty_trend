@@ -106,3 +106,13 @@ def test_korean_prose_not_in_monospace(path):
     for sel in (".banner", ".reduced", ".summary li", "ul.sents li", ".spec dt", ".runlabel span"):
         for m in re.finditer(re.escape(sel) + r"\{([^}]*)\}", css):
             assert "var(--mono)" not in m.group(1), f"{sel} uses monospace in {path.name}"
+
+
+READER_TEMPLATES = [ROOT / "templates" / "report.html.j2"] + sorted((ROOT / "templates" / "motion").glob("*.j2"))
+
+
+@pytest.mark.parametrize("path", READER_TEMPLATES, ids=lambda p: p.name)
+def test_maintainer_sections_not_in_reader_output(path):
+    """수집 현황·만든 방법 go to the maintainer mail only (2026-10-15 request)."""
+    text = _visible_copy(path)
+    assert "수집 현황" not in text and "만든 방법" not in text
