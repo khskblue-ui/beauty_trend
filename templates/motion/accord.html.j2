@@ -21,6 +21,7 @@
   --ease:cubic-bezier(.2,.7,.1,1);
 }
 *{box-sizing:border-box}
+body{word-break:keep-all;overflow-wrap:anywhere}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.7 var(--sans);-webkit-font-smoothing:antialiased}
 a{color:inherit;text-decoration-color:var(--line);text-underline-offset:3px}
@@ -36,10 +37,16 @@ h1 em{font-style:normal;color:var(--heart)}
 .lede{font:400 18px/1.7 var(--serif);color:var(--muted);max-width:30em}
 .meta{margin-top:26px;display:grid;grid-template-columns:max-content 1fr;gap:6px 18px;font-size:13px;color:var(--muted)}
 .banner{display:inline-block;margin:14px 8px 0 0;padding:4px 10px;border:1px solid var(--line);border-radius:999px;font-size:12.5px;color:var(--muted);background:var(--paper-2)}
-.pyr{width:100%;max-width:420px;justify-self:center}
+.pyr{width:100%;max-width:480px;justify-self:center;overflow:visible}
+.pyr .legend line{stroke:var(--line)}
+.pyr .legend text{fill:var(--ink);font-size:12px}
+.pyr .legend .sub{fill:var(--muted);font-family:var(--sans);letter-spacing:0;font-size:12.5px}
 .pyr .band{transform-origin:50% 100%;transform-box:fill-box}
-.pyr text{font-family:var(--mono);font-size:12px;letter-spacing:.12em;fill:var(--paper)}
-.pyr .cnt{font-family:var(--serif);font-size:22px;letter-spacing:0;font-weight:700}
+.pyr text{font-family:var(--mono);font-size:12px;letter-spacing:.12em}
+.pyr .band text{fill:var(--paper)}
+.pyr .cnt{font-family:var(--serif);font-size:26px;letter-spacing:0;font-weight:700}
+.motion .pyr .legend{opacity:0;transition:opacity .8s ease 1.2s}
+.motion .pyr.in .legend{opacity:1}
 .motion .pyr .band{opacity:0;transform:translateY(18px) scaleY(.85);transition:opacity .9s var(--ease),transform 1.1s var(--ease)}
 .motion .pyr.in .band{opacity:1;transform:none}
 .motion .pyr.in .b-base{transition-delay:.05s}.motion .pyr.in .b-heart{transition-delay:.35s}.motion .pyr.in .b-top{transition-delay:.65s}
@@ -143,6 +150,7 @@ footer{padding:48px 0 80px}
   path.draw,.wisp{stroke-dashoffset:0!important}
 }
 </style>
+<script>/* set before first paint so start states render, then animate */if(!(window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches)&&'IntersectionObserver' in window)document.documentElement.classList.add('motion')</script>
 </head>
 <body>
 <header class="wrap hero">
@@ -158,17 +166,21 @@ footer{padding:48px 0 80px}
     </div>
     {{ b.banners() }}
   </div>
-  <svg class="pyr stage" viewBox="0 0 420 400" role="img" aria-label="탑 {{ nkw }}개, 하트 {{ nheart }}개, 베이스 {{ nbase }}개 항목으로 구성된 이달의 리포트 구조">
-    <path class="wisp draw" d="M210 96 C 196 70, 228 54, 210 28 S 222 4, 214 -6"/>
-    <path class="wisp draw" d="M188 100 C 170 76, 196 60, 180 36" style="stroke:var(--heart)"/>
-    <path class="wisp draw" d="M232 100 C 252 80, 226 62, 244 40" style="stroke:var(--base)"/>
-    <g class="band b-base"><path d="M30 392 L390 392 L322 270 L98 270 Z" fill="var(--base)"/>
-      <text x="210" y="322" text-anchor="middle">BASE · 규제·경쟁사·시행일</text><text class="cnt" x="210" y="356" text-anchor="middle">{{ nbase }}</text></g>
-    <g class="band b-heart"><path d="M104 262 L316 262 L262 168 L158 168 Z" fill="var(--heart)"/>
-      <text x="210" y="208" text-anchor="middle">HEART · 제품·노트·시장</text><text class="cnt" x="210" y="240" text-anchor="middle">{{ nheart }}</text></g>
-    <g class="band b-top"><path d="M164 160 L256 160 L210 100 Z" fill="var(--top)"/>
-      <text class="cnt" x="210" y="150" text-anchor="middle">{{ nkw }}</text></g>
-    <text x="270" y="128" style="fill:var(--top)">TOP · 키워드</text>
+  <svg class="pyr stage" viewBox="0 0 520 400" role="img" aria-label="탑 {{ nkw }}개, 하트 {{ nheart }}개, 베이스 {{ nbase }}개 항목으로 구성된 이달의 리포트 구조">
+    <path class="wisp draw" d="M160 96 C 146 70, 178 54, 160 28 S 172 4, 164 -6"/>
+    <path class="wisp draw" d="M138 100 C 120 76, 146 60, 130 36" style="stroke:var(--heart)"/>
+    <path class="wisp draw" d="M182 100 C 202 80, 176 62, 194 40" style="stroke:var(--base)"/>
+    <g class="band b-base"><path d="M10 392 L310 392 L254 270 L66 270 Z" fill="var(--base)"/>
+      <text class="cnt" x="160" y="342" text-anchor="middle">{{ nbase }}</text></g>
+    <g class="band b-heart"><path d="M71 262 L249 262 L204 168 L116 168 Z" fill="var(--heart)"/>
+      <text class="cnt" x="160" y="224" text-anchor="middle">{{ nheart }}</text></g>
+    <g class="band b-top"><path d="M120 160 L200 160 L160 100 Z" fill="var(--top)"/>
+      <text class="cnt" x="160" y="150" text-anchor="middle">{{ nkw }}</text></g>
+    <g class="legend">
+      <line x1="214" x2="330" y1="132" y2="132"/><text x="338" y="128">TOP</text><text class="sub" x="338" y="146">키워드</text>
+      <line x1="232" x2="330" y1="215" y2="215"/><text x="338" y="211">HEART</text><text class="sub" x="338" y="229">제품·노트·시장</text>
+      <line x1="285" x2="330" y1="331" y2="331"/><text x="338" y="327">BASE</text><text class="sub" x="338" y="345">규제·경쟁사·시행일</text>
+    </g>
   </svg>
 </header>
 
@@ -189,7 +201,7 @@ footer{padding:48px 0 80px}
   <h3 class="rv">이달의 키워드</h3>
   {% if gate.sections.keywords.status == 'ok' %}
   {% set kmax = (keywords|map(attribute='n_clusters')|max) if keywords else 1 %}
-  <ul class="kws">{% for k in keywords %}<li class="kw rv" style="--fill:{{ '%.2f'|format(k.n_clusters / kmax) }}"><strong>{{ k.term }}</strong><span class="kwn">근거 사건 <b data-count="{{ k.n_clusters }}">{{ k.n_clusters }}</b>건{% if agg.keywords.has_prev %} · 전월 {{ k.n_prev }}건{% endif %}</span><p>{{ k.sentence.text }}{{ cite(k.sentence.doc_ids) }}</p></li>{% endfor %}</ul>
+  <ul class="kws">{% for k in keywords %}<li class="kw rv" style="--fill:{{ '%.2f'|format(k.n_clusters / kmax) }}"><strong>{{ k.term }}</strong><span class="kwn">근거 사건 <b data-count="{{ k.n_clusters }}">{{ k.n_clusters }}</b>건{% if agg.keywords.has_prev %} · 전월 {{ k.n_prev }}건{% endif %}</span><p>{{ b.kw_explain(k) }}</p></li>{% endfor %}</ul>
   <p class="note">유리병의 채움 높이 = 이달 최다 키워드 대비 근거 사건 수.</p>
   {% else %}{{ b.reduced('keywords') }}{% endif %}
   {% if viz.search %}{% set g = line_paths(viz.search.series, viz.search.anchor, 760, 250) %}

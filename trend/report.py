@@ -72,13 +72,16 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
     kw_items = agg["keywords"]["items"]
     cards_by_term = {it["term"]: [cid_cards[c] for c in it["clusters"][:4]] for it in kw_items}
     kw_sents = write.keyword_notes(kw_items, cards_by_term, ledger)
+    # A keyword is a code fact (≥ N distinct clusters); the sentence is only an
+    # explanation. Keywords whose sentence fails verification stay, shown with
+    # their representative article titles instead.
     kw_kept = []
     for it in kw_items:
         cand = [s for s in kw_sents if s["term"] == it["term"]]
         allowed = {d for c in cards_by_term[it["term"]] for d in c["doc_ids"]}
         ok = checked("keywords", cand, allowed)
-        if ok:
-            kw_kept.append({**it, "sentence": ok[0]})
+        reps = [{"title": c["title"], "doc_id": c["doc_id"]} for c in cards_by_term[it["term"]][:2]]
+        kw_kept.append({**it, "sentence": ok[0] if ok else None, "reps": reps})
 
     # market
     mk = {}
@@ -96,10 +99,15 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
         allowed = {d for c in cards for d in c["doc_ids"]}
         rg[key] = checked(key, write.sentences(task, cards, 4, ledger), allowed)
 
-    summary = [s for s in (kw_kept[0]["sentence"] if kw_kept else None,
-                           mk["kr"][0] if mk["kr"] else (mk["global"][0] if mk["global"] else None),
-                           rg["regulation"][0] if rg["regulation"] else
-                           (rg["competitors"][0] if rg["competitors"] else None)) if s]
+    # 3-line summary: one verified sentence per area (keywords → market → regulation/
+    # competitors), skipping any sentence about an article already used.
+    summary, used = [], set()
+    for pool in ([k["sentence"] for k in kw_kept if k["sentence"]],
+                 mk["kr"] + mk["global"], rg["regulation"] + rg["competitors"]):
+        pick = next((s for s in pool if not used & set(s["doc_ids"])), None)
+        if pick:
+            summary.append(pick)
+            used |= set(pick["doc_ids"])
 
     reg_items = agg["regulation"]["regulation"] + agg["regulation"]["competitors"]
     g = gate.evaluate({
@@ -114,7 +122,9 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
     urls = ([c["url"] for c in reg_items] + [x["url"] for x in agg["launches"]]
             + [x["url"] for x in agg["notes"]["items"]]
             + [by_id[d]["url"] for s in summary + mk["kr"] + mk["global"] + rg["regulation"]
-               + rg["competitors"] + [k["sentence"] for k in kw_kept] for d in s["doc_ids"]])
+               + rg["competitors"] + [k["sentence"] for k in kw_kept if k["sentence"]]
+               for d in s["doc_ids"]]
+            + [by_id[r["doc_id"]]["url"] for k in kw_kept for r in k["reps"]])
     links = verify.link_status(urls) if os.getenv("SKIP_LINK_CHECK") != "1" else {}
 
     total = len(vlog)

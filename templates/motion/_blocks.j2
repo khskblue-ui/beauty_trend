@@ -13,8 +13,9 @@
 {% else %}<p class="reduced">검증을 통과한 문장이 없어 요약을 생략했습니다.</p>{% endif %}
 {%- endmacro %}
 
-{% macro keyword_rows() -%}
-{% for k in keywords %}<li class="kw rv"><strong>{{ k.term }}</strong><span class="kwn">근거 사건 <b>{{ k.n_clusters }}</b>건{% if agg.keywords.has_prev %} · 전월 {{ k.n_prev }}건{% endif %}</span><p>{{ k.sentence.text }}{{ cite(k.sentence.doc_ids) }}</p></li>{% endfor %}
+{% macro kw_explain(k) -%}
+{% if k.sentence %}{{ k.sentence.text }}{{ cite(k.sentence.doc_ids) }}
+{%- else %}<span class="reps">대표 기사: {% for r in k.reps %}{{ r.title }}{{ cite([r.doc_id]) }}{{ ' · ' if not loop.last }}{% endfor %}</span>{% endif %}
 {%- endmacro %}
 
 {% macro launches_table() -%}

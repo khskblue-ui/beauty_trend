@@ -122,9 +122,16 @@ def line_paths(series: dict, anchor: str | None, width: int, height: int,
         d = " ".join(f"{'M' if j == 0 else 'L'}{a:.1f},{b:.1f}" for j, (a, b) in enumerate(pts))
         lines.append({"term": t, "d": d, "pts": pts, "end": pts[-1] if pts else (pl, pt + h),
                       "last": series[t][-1][1]})
-    for ln in sorted(lines, key=lambda x: x["end"][1]):
+    # End labels: keep ≥15px apart; if they run past the plot bottom, shift up.
+    order = sorted(lines, key=lambda x: x["end"][1])
+    for ln in order:
         ly = max(ln["end"][1], last + 15)
         ln["label_y"], last = ly, ly
+    bottom = pt + h
+    for ln in reversed(order):
+        if ln["label_y"] > bottom:
+            ln["label_y"] = bottom
+        bottom = ln["label_y"] - 15
     ticks = [{"y": Y(vmax * k / 3), "v": f"{vmax * k / 3:.2f}"} for k in range(4)]
     labels = [{"x": X(i), "p": p[2:]} for i, p in enumerate(periods)]
     return {"lines": lines, "ticks": ticks, "periods": labels, "x0": pl, "x1": pl + w,

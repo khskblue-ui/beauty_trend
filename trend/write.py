@@ -12,7 +12,7 @@ from .config import load
 from .llm import LLMError, generate_json
 
 log = logging.getLogger(__name__)
-PROMPT_VERSION = "write-v1"
+PROMPT_VERSION = "write-v2"  # v2: one card per sentence (v1 merged cards → entailment drops)
 
 SENTENCES = {
     "type": "OBJECT",
@@ -38,7 +38,7 @@ KEYWORDS = {
 SYSTEM = """너는 향료 회사 영업 담당자가 상사에게 제출할 월간 업계 리포트의 문장을 쓴다.
 절대 규칙:
 1. 제공된 근거 카드에 있는 사실만 쓴다. 카드에 없는 배경지식·전망·평가·소비자 반응은 쓰지 않는다.
-2. 문장마다 근거 카드의 doc_id를 doc_ids에 넣고, quote에는 그 카드의 quote(또는 title) 중 문장을 뒷받침하는 부분을 한 글자도 바꾸지 말고 복사한다.
+2. 한 문장은 근거 카드 하나의 사실만 쓴다. 여러 카드의 사실을 한 문장에 합치지 않는다. doc_ids에는 그 카드의 doc_id 하나를 넣고, quote에는 같은 카드의 quote(또는 title)에서 문장 전체를 뒷받침하는 부분을 한 글자도 바꾸지 말고 복사한다.
 3. 숫자(아라비아 숫자)를 쓰지 않는다. 금액·비율·날짜·순위·개수는 모두 생략한다.
 4. "~할 것으로 보인다", "주목된다", "기대된다" 같은 해석·전망 표현을 쓰지 않는다. 사실을 평서문으로 쓴다.
 5. 한 문장은 80자 안팎의 한국어 보고서 문체(~했다/~이다)로 쓴다.

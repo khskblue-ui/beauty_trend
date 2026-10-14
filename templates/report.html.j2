@@ -77,7 +77,7 @@ td.n,th.n{text-align:right;white-space:nowrap}
   <tbody>
   {% for k in keywords %}
     <tr><td><strong>{{ k.term }}</strong></td><td class="n">{{ k.n_clusters }}</td>{% if agg.keywords.has_prev %}<td class="n">{{ k.n_prev }}</td>{% endif %}
-        <td>{{ k.sentence.text }}{{ cite(k.sentence.doc_ids) }}</td></tr>
+        <td>{% if k.sentence %}{{ k.sentence.text }}{{ cite(k.sentence.doc_ids) }}{% else %}<span class="note">대표 기사:</span> {% for r in k.reps %}{{ r.title }}{{ cite([r.doc_id]) }}{{ " · " if not loop.last }}{% endfor %}{% endif %}</td></tr>
   {% endfor %}
   </tbody>
 </table>

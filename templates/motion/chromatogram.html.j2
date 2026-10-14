@@ -17,6 +17,7 @@
   --ease:cubic-bezier(.3,.7,0,1);
 }
 *{box-sizing:border-box}
+body{word-break:keep-all;overflow-wrap:anywhere}
 body{margin:0;color:var(--ink);font:15.5px/1.7 var(--sans);-webkit-font-smoothing:antialiased;
   background-color:var(--bg);
   background-image:linear-gradient(var(--grid-2) 1px,transparent 1px),linear-gradient(90deg,var(--grid-2) 1px,transparent 1px);
@@ -143,6 +144,7 @@ footer{padding:40px 0 70px}
   .ms .stick::before{transform:none!important}.ms .stick::after{opacity:1!important}
 }
 </style>
+<script>/* set before first paint so start states render, then animate */if(!(window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches)&&'IntersectionObserver' in window)document.documentElement.classList.add('motion')</script>
 </head>
 <body>
 <header class="wrap">
@@ -198,7 +200,7 @@ footer{padding:40px 0 70px}
   <div>
     <h2>피크 해석 — 이달의 키워드</h2><p class="desc">각 피크가 어떤 사실과 함께 등장했는지.</p>
     {% if gate.sections.keywords.status == 'ok' %}
-    <ul class="sents">{% for k in keywords %}<li class="rv"><b>{{ k.term }}</b> <span class="mono note">· {{ k.n_clusters }}건</span><br>{{ k.sentence.text }}{{ cite(k.sentence.doc_ids) }}</li>{% endfor %}</ul>
+    <ul class="sents">{% for k in keywords %}<li class="rv"><b>{{ k.term }}</b> <span class="mono note">· {{ k.n_clusters }}건</span><br>{{ b.kw_explain(k) }}</li>{% endfor %}</ul>
     {% else %}{{ b.reduced('keywords') }}{% endif %}
     {% if viz.search %}
     <h3 class="rv">검출기 채널 — 네이버 검색 지수('{{ viz.search.anchor }}' = 1)</h3>
