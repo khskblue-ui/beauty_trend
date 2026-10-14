@@ -75,6 +75,15 @@ SOURCES = {
                   "feeds": ["https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml"],
                   "pages": ["https://www.fda.gov/cosmetics/cosmetics-laws-regulations/modernization-cosmetics-regulation-act-2022-mocra",
                             "https://www.fda.gov/cosmetics/cosmetics-news-events"]},
+    # FDA는 러너(Azure) IP에서 404를 반환함 → 미국 규제 변경은 Federal Register로 대체 검토.
+    # 짧은 시간에 여러 번 요청하면 IP가 차단되므로 하루 1회만 호출할 것.
+    "federal_register": {"name": "Federal Register (FDA, cosmetic product)",
+                         "base": "https://www.federalregister.gov", "home": False,
+                         "check_article": False,
+                         "check_paths": ["/api/v1/documents.rss"],
+                         "feeds": ["https://www.federalregister.gov/api/v1/documents.rss"
+                                   "?conditions%5Bagencies%5D%5B%5D=food-and-drug-administration"
+                                   "&conditions%5Bterm%5D=%22cosmetic+product%22&order=newest"]},
     # --- 경쟁 향료사 ---
     "givaudan": {"name": "Givaudan", "base": "https://www.givaudan.com", "home": False,
                  "check_paths": ["/rss", "/media/media-releases"],

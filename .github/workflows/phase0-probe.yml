@@ -4,6 +4,11 @@ name: phase0-probe
 
 on:
   workflow_dispatch:
+    inputs:
+      sources:
+        description: "web_probe 대상 키(공백 구분). 비우면 전체"
+        required: false
+        default: ""
 
 permissions:
   contents: read
@@ -22,7 +27,9 @@ jobs:
         with:
           python-version: "3.12"
       - name: Web sources
-        run: python scripts/probe/web_probe.py
+        env:
+          SOURCES: ${{ inputs.sources }}
+        run: python scripts/probe/web_probe.py $SOURCES
       - name: EUR-Lex (CELLAR SPARQL)
         run: python scripts/probe/eurlex_probe.py
       - name: NAVER API HUB
