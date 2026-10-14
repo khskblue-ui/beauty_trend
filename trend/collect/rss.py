@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import logging
+import urllib.parse
 import xml.etree.ElementTree as ET
 
 from .. import store
@@ -56,6 +57,8 @@ def collect(src: dict, client: Client, known: set[str]) -> Result:
     for it in items:
         if not it["link"] or not it["title"]:
             continue
+        # Some feeds (Symrise) use site-relative links.
+        it["link"] = urllib.parse.urljoin(src["url"], it["link"].strip())
         if keep and not any(k in it["title"] for k in keep):
             continue
         did = doc_id(it["link"])

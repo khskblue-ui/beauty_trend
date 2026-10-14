@@ -16,6 +16,22 @@ def test_parse_feed_rss_with_dc_date_and_content():
     assert it["date"] == "2026-10-14 17:48:55" and it["content"] == "full body"
 
 
+def test_rss_relative_links_become_absolute():
+    from trend.collect import rss
+
+    class FakeClient:
+        def request(self, url, **kw):
+            from trend.http import Response
+            return Response(url, 200, {}, b"""<rss><channel><item><title>Symrise news</title>
+                <link>/newsroom/article/x/</link><pubDate>Tue, 13 Oct 2026 11:36:15 +0200</pubDate>
+                </item></channel></rss>""")
+
+    src = {"id": "symrise", "name": "Symrise", "group": "competitor",
+           "url": "https://www.symrise.com/newsroom/press-releases/rss.xml"}
+    res = rss.collect(src, FakeClient(), set())
+    assert res.docs[0]["url"] == "https://www.symrise.com/newsroom/article/x/"
+
+
 def test_naver_relevance_filter():
     cfg = {"title_any": ["향수", "화장품"], "exclude_any": ["드라마", "향수를 자극"]}
     assert relevant("니치 향수 브랜드 출시", "", cfg)
