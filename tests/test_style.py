@@ -87,3 +87,10 @@ def test_polish_rewrites_only_wording(monkeypatch):
     assert out[0]["original"] == s[0]["text"]
     assert out[1] == s[1]                     # clean sentence untouched, no LLM call needed
     assert log[0]["remaining"] == []
+
+
+def test_repeat_word_rule():
+    hits = lint("국제향료협회와 인도네시아 식약청은 인도네시아에서 국제향료협회 표준 워크숍을 열었다.")
+    rep = [h for h in hits if h["id"] == "repeat_word"]
+    assert rep and "인도네시아" in rep[0]["hint"] and "국제향료협회" in rep[0]["hint"]
+    assert not [h for h in lint("지보단은 업계에서 처음으로 복수 인증을 받았다.") if h["id"] == "repeat_word"]

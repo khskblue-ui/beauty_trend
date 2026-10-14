@@ -38,6 +38,22 @@ def rules() -> list[dict]:
     return load("style")["sentence_rules"]
 
 
+PARTICLE = re.compile(r"(은|는|이|가|을|를|과|와|의|에|에서|에게|으로|로|도|만|까지|부터|이다|이며|하고)$")
+
+
+def repeated_words(text: str, min_len: int) -> list[str]:
+    """Content words (particles stripped) that occur more than once in a sentence."""
+    seen, dup = set(), []
+    for tok in re.findall(r"[가-힣A-Za-z]+", text):
+        w = PARTICLE.sub("", tok)
+        if len(w) < min_len:
+            continue
+        if w in seen and w not in dup:
+            dup.append(w)
+        seen.add(w)
+    return dup
+
+
 def lint(text: str) -> list[dict]:
     """Return the rules a sentence violates (id + hint)."""
     out = []
@@ -46,6 +62,8 @@ def lint(text: str) -> list[dict]:
             out.append({"id": r["id"], "hint": r["hint"]})
         elif "count_pattern" in r and len(re.findall(r["count_pattern"], text)) > r["max_count"]:
             out.append({"id": r["id"], "hint": r["hint"]})
+        elif "repeat_min_len" in r and (dup := repeated_words(text, r["repeat_min_len"])):
+            out.append({"id": r["id"], "hint": f"{r['hint']} 되풀이된 말: {', '.join(dup)}"})
     return out
 
 

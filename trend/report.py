@@ -87,11 +87,13 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
         reps = [{"title": c["title"], "doc_id": c["doc_id"]} for c in cards_by_term[it["term"]][:2]]
         kw_kept.append({**it, "sentence": ok[0] if ok else None, "reps": reps})
 
-    # market
+    # market — skip articles the keyword section already wrote about, so the
+    # same news does not appear twice in the report
+    kw_used = {d for k in kw_kept if k["sentence"] for d in k["sentence"]["doc_ids"]}
     mk = {}
     for key, task, n in (("kr", "국내 뷰티·향료 시장 동향을 요약한다.", 5),
                          ("global", "글로벌 뷰티·향료 시장 동향을 요약한다. 영어 근거는 한국어로 옮겨 쓴다.", 4)):
-        cards = agg["market"][key][:10]
+        cards = [c for c in agg["market"][key] if not kw_used & set(c["doc_ids"])][:10]
         allowed = {d for c in cards for d in c["doc_ids"]}
         mk[key] = checked(f"market_{key}", write.sentences(task, cards, n, ledger), allowed)
 
@@ -118,8 +120,8 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
         "keywords": {"n": len(kw_kept), "reason_if_low":
                      "서로 다른 보도에서 두 번 이상 다뤄진 키워드가 없습니다"},
         "launches": {"n": len(agg["launches"]), "reason_if_low":
-                     f"출시일이 기사로 확인된 신제품이 {len(agg['launches'])}건뿐이라"
-                     f"(기준 {cfg['sections']['launches']['min_items']}건) 목록만 싣습니다"},
+                     f"출시일이 기사로 확인된 신제품이 {len(agg['launches'])}건으로 "
+                     f"기준({cfg['sections']['launches']['min_items']}건)보다 적어 목록만 싣습니다"},
         "notes": {"n": agg["notes"]["n"]},
         "market": {"n": len(mk["kr"]) + len(mk["global"]), "reason_if_low":
                    "출처로 확인되는 시장 소식이 기준보다 적습니다"},
