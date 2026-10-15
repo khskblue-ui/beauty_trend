@@ -1,4 +1,4 @@
 <ol class="sources">
-{% for s in sources %}<li id="src-{{ s.n }}">{{ s.source }} · {{ s.date }} · <a href="{{ s.url }}">{{ s.title }}</a>{% if s.link == 'restricted' %} <span class="lk-restricted">(접근 제한)</span>{% elif s.link == 'unverified' %} <span class="lk-unverified">(링크 확인 필요)</span>{% endif %}</li>
+{% for s in sources %}<li id="src-{{ s.n }}"><a class="back" href="#cite-{{ s.n }}-1" aria-label="{{ s.n }}번 출처를 인용한 곳으로 돌아가기">{{ s.n }}</a> {{ s.source }} · {{ s.date }} · <a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.title }}</a>{% if s.link == 'restricted' %} <span class="lk-restricted">(접근 제한)</span>{% elif s.link == 'unverified' %} <span class="lk-unverified">(링크 확인 필요)</span>{% endif %}</li>
 {% endfor %}
 </ol>

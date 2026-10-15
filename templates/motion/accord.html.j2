@@ -23,7 +23,7 @@
     <div class="dv-text"><div class="dv-no rv">{{ no }}</div><h2 class="rv">{{ title }}</h2><p class="rv">{{ desc }}</p></div>
     <div class="stage dv-pyr">{{ pyramid(tier) }}</div>
   </div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ month }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 {%- endmacro -%}
 <!doctype html>
@@ -216,7 +216,7 @@ td.mono{white-space:nowrap}
     <div class="rv" style="--i:4">{{ b.banners() }}</div>
   </div>
   <div class="stage">{{ pyramid() }}</div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ month }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 
 {{ b.summary_slide('요약') }}
@@ -232,7 +232,7 @@ td.mono{white-space:nowrap}
   <ul class="kws">{% for k in keywords %}<li class="kw rv" style="--i:{{ loop.index0 }};--fill:{{ '%.2f'|format(k.n_clusters / kmax) }}"><strong>{{ k.term }}</strong><span class="kwn">관련 보도 <b data-count="{{ k.n_clusters }}">{{ k.n_clusters }}</b>건{% if agg.keywords.has_prev %} · 전월 {{ k.n_prev }}건{% endif %}</span><p>{{ b.kw_explain(k) }}</p></li>{% endfor %}</ul>
   {% else %}{{ b.reduced('keywords') }}{% endif %}
   </div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ month }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 
 {{ b.search_slide('탑 노트', ['var(--top)','var(--heart)','var(--base)','#6B5B8C']) }}
@@ -248,7 +248,7 @@ td.mono{white-space:nowrap}
       <li class="strip" style="--i:{{ loop.index0 }};--w:{{ '%.3f'|format(n.count / nmax) }}"><span class="nm">{{ n.note }}</span><span class="bar"></span><span class="ct">{{ n.count }}개</span></li>{% endfor %}
     </ul>
   </div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ month }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 {% endif %}
 {{ b.notes_table_slides('하트 노트') }}
@@ -258,7 +258,6 @@ td.mono{white-space:nowrap}
 {{ divider('base', '03', '베이스 노트 — 오래 영향을 주는 규제와 경쟁사', '규제기관 공지와 경쟁 향료사 발표입니다. 새로 나온 것이 없으면 "변경 없음"으로 적었습니다.') }}
 
 {{ b.reg_slides('베이스 노트') }}
-{{ b.comp_slides('베이스 노트') }}
 
 {% for c0 in viz.calendar if c0.elapsed is defined %}
 <section class="slide ch-base" data-title="시행일 일정">
@@ -273,7 +272,7 @@ td.mono{white-space:nowrap}
     <p class="rv" style="--i:1"><span class="big" data-count="{{ c0.days_left }}">{{ c0.days_left }}</span> <span class="hz-note">일 남았습니다.</span></p>
     <p class="hz-note rv" style="--i:2">채택일부터 기한까지 전체 기간의 {{ '%.0f'|format(c0.elapsed * 100) }}%가 지났습니다. <a href="{{ c0.source }}">원문</a></p>
   </div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ month }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 {% endfor %}
 

@@ -60,3 +60,39 @@ def test_extract_body_prefers_article_container():
             + "<p>" + "가" * 120 + "</p><p>" + "나" * 120 + "</p></article>")
     body = extract_body(html)
     assert body and body.startswith("가") and "menu" not in body
+
+
+def test_backfill_list_reads_dates_from_article_pages_and_stops_past_window(monkeypatch):
+    from datetime import date
+    from trend.collect import backfill
+
+    class R:
+        def __init__(self, text): self.text, self.ok, self.status, self.body = text, True, 200, text.encode()
+
+    pages = {
+        "https://t.test/list?page=1": '<a href="/news/articleView.html?idxno=3">a</a><a href="/news/articleView.html?idxno=2">b</a>',
+        "https://t.test/list?page=2": '<a href="/news/articleView.html?idxno=1">c</a>',
+        "https://t.test/list?page=3": '<a href="/news/articleView.html?idxno=0">d</a>',
+    }
+    arts = {3: "2026-10-05T10:00:00+09:00", 2: "2026-10-01T08:00:00+09:00", 1: "2026-09-29T08:00:00+09:00",
+            0: "2026-09-20T08:00:00+09:00"}
+
+    class C:
+        calls = []
+        def allowed(self, url): return True
+        def request(self, url, **kw):
+            self.calls.append(url)
+            if url in pages:
+                return R(pages[url])
+            n = int(url.rsplit("=", 1)[1])
+            return R(f'<meta property="og:title" content="기사 {n}"><meta property="article:published_time" content="{arts[n]}">')
+
+    monkeypatch.setattr(backfill.store, "save_body", lambda *a: None)
+    src = {"id": "t", "name": "T", "group": "kr_trade", "lang": "ko",
+           "archive": {"kind": "list", "url": "https://t.test/list?page={page}",
+                       "link_pattern": r"articleView\.html\?idxno=\d+$"}}
+    c = C()
+    res = backfill.collect(src, c, date(2026, 10, 1), date(2026, 10, 15), {})
+    assert sorted(d["title"] for d in res.docs) == ["기사 2", "기사 3"]
+    assert all(d["collected_via"] == "backfill" for d in res.docs)
+    assert "https://t.test/list?page=3" not in c.calls     # page 2 was entirely before the window

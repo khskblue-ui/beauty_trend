@@ -24,6 +24,8 @@ python -m trend collect                    # --only cosmorning,naver_news / --si
 python -m trend enrich --month 2026-09
 python -m trend report --month 2026-09 --dry-run   # --no-pdf, SKIP_LINK_CHECK=1, MOTION_VARIANTS=accord
 python -m trend render --run-dir data/reports/2026-09/<실행>   # 템플릿만 바꿨을 때: LLM 호출 없이 다시 그리기(몇 초)
+python -m trend report --month 2026-10 --until 2026-10-15 --dry-run   # 월중 중간 보고(전월 비교 없음)
+python -m trend collect --backfill-since 2026-10-01   # 피드에서 빠진 날을 업계지 지난 기사 목록에서 채우기
 python -m trend health --days 7
 python -m pytest -q
 ```

@@ -6,7 +6,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ month }} Signal Desk — {{ cfg.title }}</title>
+<title>{{ period.tag }} Signal Desk — {{ cfg.title }}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
@@ -31,7 +31,7 @@ a:focus-visible{outline:2px solid var(--k-launch);outline-offset:2px}
 .motion .slide{clip-path:inset(0 0 0 100%);transition:clip-path .55s var(--snap),visibility 0s linear .55s}
 .motion .slide.active{clip-path:inset(0);transition:clip-path .55s var(--snap)}
 .static .slide,.stacked .slide{clip-path:none}
-.slide::before{content:"뷰티·향료 업계 소식 · {{ month }}";display:block;margin:0 -72px 34px;padding:14px 72px;border-bottom:2px solid var(--rule);font:500 13px/1 var(--sans)}
+.slide::before{content:"뷰티·향료 업계 소식 · {{ period.tag }}";display:block;margin:0 -72px 34px;padding:14px 72px;border-bottom:2px solid var(--rule);font:500 13px/1 var(--sans)}
 .s-head{display:grid;grid-template-columns:120px 1fr;column-gap:24px;margin-bottom:22px}
 .s-kicker{grid-row:1/3;font:600 15px/1.2 var(--mono);color:var(--k-launch);padding-top:6px}
 .s-head h2{font:700 34px/1.25 var(--sans);margin:0;letter-spacing:-.01em}
@@ -169,17 +169,17 @@ td.mono{white-space:nowrap}
   <div class="mast">
     <div class="bignum rv"><small>{{ month[:4] }}</small>{{ month[5:] }}</div>
     <div>
-      <h1 class="rv" style="--i:1">{{ month[5:]|int }}월 업계 소식을 날짜순으로 모았습니다</h1>
+      <h1 class="rv" style="--i:1">{{ period.span }} 업계 소식을 날짜순으로 모았습니다</h1>
       <div class="stats rv" style="--i:2">
         <div class="stat"><b data-count="{{ agg.counts.docs }}">{{ agg.counts.docs }}</b><span>분석 기사</span></div>
         <div class="stat"><b data-count="{{ agg.counts.clusters }}">{{ agg.counts.clusters }}</b><span>같은 내용을 묶은 보도</span></div>
         <div class="stat"><b data-count="{{ viz.events|length }}">{{ viz.events|length }}</b><span>날짜별로 정리한 주요 소식</span></div>
       </div>
-      <p class="note rv" style="--i:3">분석 기간 {{ month }}-01 ~ 말일(한국 시간) · 네이버 데이터랩 {{ month }}까지 · 수출입 통계는 아직 싣지 않음 · 작성 {{ generated }}</p>
+      <p class="note rv" style="--i:3">분석 기간 {{ period.start }} ~ {{ period.end }}(한국 시간){% if period.interim %} · 월중 중간 보고라 전월 비교는 넣지 않음{% endif %} · 수출입 통계는 아직 싣지 않음 · 작성 {{ generated }}</p>
       <div class="rv" style="--i:4">{{ b.banners() }}</div>
     </div>
   </div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ month }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 
 {% set W = 1136 %}{% set H = 330 %}{% set L = 10 %}{% set R = 10 %}{% set step = (W - L - R) / viz.days %}{% set base = H - 30 %}
@@ -189,7 +189,7 @@ td.mono{white-space:nowrap}
   <div class="s-body">
     <ul class="legend rv">{% for k, n in viz.kinds.items() %}<li style="--c:{{ colors[k] }}"><i></i>{{ kname[k] }} {{ n }}건</li>{% endfor %}</ul>
     <svg class="month-strip stage" viewBox="0 0 {{ W }} {{ H }}" role="img" style="--n:{{ viz.days }};--w:{{ W - L - R }}px"
-         aria-label="{{ month }} 날짜별 주요 소식 수: {% for k, n in viz.kinds.items() %}{{ kname[k] }} {{ n }}건{{ ', ' if not loop.last }}{% endfor %}">
+         aria-label="{{ period.span }} 날짜별 주요 소식 수: {% for k, n in viz.kinds.items() %}{{ kname[k] }} {{ n }}건{{ ', ' if not loop.last }}{% endfor %}">
       {% for d in range(1, viz.days + 1) %}{% set x = L + step * (d - 0.5) %}
         <line class="tickl" x1="{{ '%.1f'|format(x) }}" x2="{{ '%.1f'|format(x) }}" y1="10" y2="{{ base }}"/>
         {% if d == 1 or d % 5 == 0 %}<text class="day" x="{{ '%.1f'|format(x) }}" y="{{ H - 8 }}" text-anchor="middle">{{ d }}</text>{% endif %}
@@ -202,7 +202,7 @@ td.mono{white-space:nowrap}
       <line class="scan" x1="{{ L }}" x2="{{ L }}" y1="6" y2="{{ base }}"/>
     </svg>
   </div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ month }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 
 {{ b.summary_slide('02') }}
@@ -217,7 +217,7 @@ td.mono{white-space:nowrap}
     <div><div class="track"><div class="val"></div></div><p>{{ b.kw_explain(k) }}</p></div></li>{% endfor %}</ul>
   {% else %}{{ b.reduced('keywords') }}{% endif %}
   </div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ month }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 
 {{ b.search_slide('04', ['var(--k-market)','var(--k-launch)','var(--k-reg)','var(--k-comp)']) }}
@@ -229,14 +229,13 @@ td.mono{white-space:nowrap}
   <div class="s-body">
     <ol class="rank stage">{% for n in viz.notes[:14] %}<li style="--i:{{ loop.index0 }};--w:{{ '%.3f'|format(n.count / nmax) }}"><span class="no">{{ '%02d'|format(loop.index) }}</span><span>{{ n.note }}</span><span class="tr"><i></i></span><span class="ct">{{ n.count }}개</span></li>{% endfor %}</ol>
   </div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ month }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 {% endif %}
 {{ b.notes_table_slides('05') }}
 {{ b.launch_slides('06') }}
 {{ b.market_slides('07') }}
 {{ b.reg_slides('08') }}
-{{ b.comp_slides('09') }}
 {{ b.calendar_slide('10') }}
 
 <!--SOURCE_SLIDES-->

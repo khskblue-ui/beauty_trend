@@ -5,6 +5,7 @@ import json
 import logging
 import os
 from collections import Counter, defaultdict
+from datetime import date
 from pathlib import Path
 
 from . import aggregate, gate, render, store, style, verify, write
@@ -49,19 +50,37 @@ def coverage(ym: str) -> list[dict]:
     return [{"source": s, **days[s], "docs_in_month": docs.get(s, 0)} for s in sorted(names)]
 
 
-def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
+def period(ym: str, until=None) -> dict:
+    """Analysis window. `until` inside the month = interim report (no prior-month comparison)."""
+    first, last = month_bounds(ym)
+    interim = bool(until and until < last)
+    end = until if interim else last
+    return {"start": first.isoformat(), "end": end.isoformat(), "interim": interim}
+
+
+def build(ym: str, dry_run: bool = False, pdf: bool = True, until=None) -> dict:
     cfg = load("report")
     run_dir = store.data_dir() / "reports" / ym / now_kst().strftime("%Y%m%dT%H%M")
     run_dir.mkdir(parents=True, exist_ok=True)
     ledger = str(run_dir / "llm_calls.jsonl")
 
-    recs = load_month(ym)
-    prev = load_month(prev_month(ym))
+    per = period(ym, until)
+    until = date.fromisoformat(per["end"])
+    recs = [r for r in load_month(ym) if kst_date(r.get("published_at")) <= until]
+    # an interim report has half a month — comparing it with a full month would mislead
+    prev = [] if per["interim"] else load_month(prev_month(ym))
     clusters, prev_clusters = cluster(recs), cluster(prev)
     by_id = {r["doc_id"]: r for r in recs}
     ents = Entities()
     known = _known_entities(recs, ents)
-    agg = aggregate.run(clusters, prev_clusters, ym)
+    agg = aggregate.run(clusters, prev_clusters, ym, until)
+    # product rows (notes, launches): brand required, then checked against the article
+    plog: list[dict] = []
+    notes_kept, rows = verify.verify_products(agg["notes"]["items"], "notes", by_id, ledger, ents.variants)
+    plog += rows
+    agg["notes"] = aggregate.notes_block(notes_kept)
+    agg["launches"], rows = verify.verify_products(agg["launches"], "launch", by_id, ledger, ents.variants)
+    plog += rows
     vlog: list[dict] = []
     slog: list[dict] = []
 
@@ -102,13 +121,13 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
         kw_texts = [k["sentence"]["text"] for k in kw_kept if k["sentence"]]
         mk[key] = [s for s in kept if not any(similar(s["text"], t, DUP_SENTENCE) for t in kw_texts)]
 
-    # regulation & competitors: narrative is optional; the item table is code-generated
-    rg = {}
-    for key, task in (("regulation", "이번 달 화장품·향료 규제 관련 공지·개정 사항을 정리한다."),
-                      ("competitors", "경쟁 향료사(지보단, dsm-firmenich, 심라이즈 등)의 이번 달 발표를 정리한다.")):
-        cards = agg["regulation"][key][:10]
-        allowed = {d for c in cards for d in c["doc_ids"]}
-        rg[key] = checked(key, write.sentences(task, cards, 4, ledger), allowed)
+    # regulation: official notices only (config regulation_sources); the item table is
+    # code-generated, the narrative is optional. Competitor news is not reported.
+    cards = agg["regulation"]["regulation"][:10]
+    allowed = {d for c in cards for d in c["doc_ids"]}
+    rg = {"regulation": checked("regulation", write.sentences(
+        "당국(식약처, EU, 미국 FDA)이 공식 발표·공시한 화장품·향료 규제 사항을 정리한다.",
+        cards, 4, ledger), allowed) if cards else [], "competitors": []}
 
     # 3-line summary: one verified sentence per area (keywords → market → regulation/
     # competitors), skipping any sentence about an article already used.
@@ -125,7 +144,7 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
         "keywords": {"n": len(kw_kept), "reason_if_low":
                      "서로 다른 보도에서 두 번 이상 다뤄진 키워드가 없습니다"},
         "launches": {"n": len(agg["launches"]), "reason_if_low":
-                     f"출시일이 기사로 확인된 신제품이 {len(agg['launches'])}건으로 "
+                     f"출시가 기사로 확인된 신제품이 {len(agg['launches'])}건으로 "
                      f"기준({cfg['sections']['launches']['min_items']}건)보다 적어 목록만 싣습니다"},
         "notes": {"n": agg["notes"]["n"]},
         "market": {"n": len(mk["kr"]) + len(mk["global"]), "reason_if_low":
@@ -149,7 +168,7 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
     style_warnings = [{"text": t, "rule": r} for t, r in style_warnings]
     status = "dry_run" if dry_run else ("hold" if g["hold"] else "publish")
     ctx = {
-        "cfg": cfg, "month": ym, "generated": now_kst().strftime("%Y-%m-%d %H:%M KST"),
+        "cfg": cfg, "month": ym, "period": per, "generated": now_kst().strftime("%Y-%m-%d %H:%M KST"),
         "status": status, "agg": agg, "gate": g, "summary": summary,
         "keywords": kw_kept, "market": mk, "reg": rg, "by_id": by_id, "links": links,
         "coverage": coverage(ym), "has_prev": bool(prev),
@@ -169,8 +188,9 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True) -> dict:
     store.write_json(run_dir.relative_to(store.data_dir()) / "gate.json", g)
     store.write_json(run_dir.relative_to(store.data_dir()) / "links.json", links)
     store.write_json(run_dir.relative_to(store.data_dir()) / "style_log.json", slog)
+    store.write_json(run_dir.relative_to(store.data_dir()) / "product_check_log.json", plog)
     store.write_json(run_dir.relative_to(store.data_dir()) / "run.json", {
-        "month": ym, "status": status, "models": load("models"),
+        "month": ym, "period": per, "status": status, "models": load("models"),
         "prompt_versions": {"write": write.PROMPT_VERSION, "style": style.PROMPT_VERSION},
         "docs": len(recs), "clusters": len(clusters), "prev_docs": len(prev),
         "paths": {k: str(v) for k, v in paths.items()},

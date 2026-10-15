@@ -61,6 +61,11 @@
     ui.wrap.style.setProperty('--p', (cur + 1) / slides.length);
     if (!fromHash && history.replaceState) history.replaceState(null, '', '#' + (cur + 1));
   }
+  function flash(el) {
+    if (!el) return;
+    el.classList.add('flash');
+    setTimeout(function () { el.classList.remove('flash'); }, 1600);
+  }
   function slideOf(id) {
     var el = id && document.getElementById(id);
     var s = el && el.closest('.slide');
@@ -82,6 +87,11 @@
       each(s.querySelectorAll('.s-num'), function (el) { el.dataset.n = (i + 1) + ' / ' + slides.length; });
     });
     prepDraw(document);
+    // outside links (sources, 원문) open in a new tab so the deck stays where it was
+    each(document.querySelectorAll('a[href^="http"]'), function (a) {
+      a.target = '_blank';
+      a.rel = 'noopener';
+    });
     ui.wrap = document.querySelector('.deck-ui');
     ui.prev = ui.wrap.querySelector('.prev');
     ui.next = ui.wrap.querySelector('.next');
@@ -112,12 +122,20 @@
       var dx = e.changedTouches[0].clientX - x0; x0 = null;
       if (Math.abs(dx) > 50) show(cur + (dx < 0 ? 1 : -1));
     });
-    // in-deck links (citations [n] → source slide)
+    // in-deck links: citation [n] → source slide; source number → back to where it was cited
+    var from = null;   // {src: 'src-n', slide: index, id: citation anchor id}
     document.addEventListener('click', function (e) {
       var a = e.target.closest && e.target.closest('a[href^="#"]');
       if (!a) return;
-      var i = slideOf(a.getAttribute('href').slice(1));
-      if (i >= 0) { e.preventDefault(); show(i); }
+      var target = a.getAttribute('href').slice(1);
+      if (a.classList.contains('back')) {
+        var li = a.closest('li');
+        if (from && li && from.src === li.id) target = from.id;   // return to the click origin
+      } else if (/^src-\d+$/.test(target) && a.id) {
+        from = { src: target, slide: cur, id: a.id };
+      }
+      var i = slideOf(target);
+      if (i >= 0) { e.preventDefault(); show(i); flash(document.getElementById(target)); }
     });
     addEventListener('hashchange', fromHash);
     addEventListener('beforeprint', function () { slides.forEach(reveal); });

@@ -1,4 +1,4 @@
-{{ cfg.title }} — {{ month }}
+{{ cfg.title }} — {{ period.tag }}
 {% if status == 'hold' %}
 [발행 보류] 핵심 섹션 {{ gate.core_total }}개 중 {{ gate.core_failed }}개가 기준에 못 미쳐 수신자에게 보내지 않았습니다. 유지보수자 확인이 필요합니다.
 {% endif %}

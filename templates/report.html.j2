@@ -8,7 +8,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ cfg.title }} {{ month }}</title>
+<title>{{ cfg.title }} {{ period.tag }}</title>
 <style>
 :root{--ink:#1d2329;--muted:#5d6670;--line:#dfe3e8;--accent:#2a6f97;--bg:#fff;--soft:#f5f7f9;--warn:#9a5b00;--warnbg:#fff4e0}
 *{box-sizing:border-box}
@@ -38,6 +38,8 @@ td.n,th.n{text-align:right;white-space:nowrap}
 .chart .grid{stroke:var(--line);stroke-width:1}.chart .tick{font-size:11px;fill:var(--muted)}
 .chart .label{font-size:12px;fill:var(--ink)}.chart .bar{fill:var(--accent)}
 .sources li{font-size:12px;margin:3px 0;word-break:break-all}
+.sources{list-style:none;padding-left:0}.sources .back{display:inline-block;min-width:2.4em;text-decoration:none}
+.sources .back::before{content:"↩ "}:target{background:#fff3b0}
 .lk-restricted,.lk-unverified{color:var(--warn);font-size:11px}
 @media (max-width:600px){main{padding:20px 16px 48px}h1{font-size:23px}table{font-size:12px}th,td{padding:5px 4px}}
 @media print{
@@ -45,6 +47,7 @@ td.n,th.n{text-align:right;white-space:nowrap}
   h2{break-after:avoid}table,tr,figure,li{break-inside:avoid}
   .cite a{color:var(--ink)}a{color:var(--ink);text-decoration:none}
   .sources a::after{content:" " attr(href);color:var(--muted)}
+  .sources a.back::after,.sources .back::before{content:none}
   .sources a{word-break:break-all}
 }
 </style>
@@ -55,8 +58,8 @@ td.n,th.n{text-align:right;white-space:nowrap}
 <section class="cover">
   <h1>{{ cfg.title }}</h1>
   <div class="meta">
-    <span>분석 기간</span><span>{{ agg.month }}-01 ~ {{ agg.month }} 말일(한국 시간)</span>
-    <span>자료 기준</span><span>기사·규제 {{ agg.month }} · 네이버 데이터랩 {{ agg.month }}까지(월별 상대값) · 수출입 통계는 아직 싣지 않음</span>
+    <span>분석 기간</span><span>{{ period.start }} ~ {{ period.end }}(한국 시간){% if period.interim %} · 월중 중간 보고라 전월 비교는 넣지 않음{% endif %}</span>
+    <span>자료 기준</span><span>기사·규제 {{ period.start }} ~ {{ period.end }} · 네이버 데이터랩 {{ period.end }}까지(월별 상대값) · 수출입 통계는 아직 싣지 않음</span>
     <span>분석 기사</span><span>{{ agg.counts.docs }}건(같은 내용을 하나로 묶으면 {{ agg.counts.clusters }}건)</span>
     <span>작성</span><span>{{ generated }}</span>
   </div>
@@ -85,7 +88,7 @@ td.n,th.n{text-align:right;white-space:nowrap}
 {% if agg.datalab.search %}
 <h3>네이버 검색량 추이 — '{{ agg.datalab.search.anchor }}' 대비</h3>
 {{ line_chart(agg.datalab.search.series, agg.datalab.search.anchor) }}
-<p class="note">네이버 데이터랩 월별 자료({{ agg.datalab.search.start }} ~ {{ agg.datalab.search.end }})입니다. '{{ agg.datalab.search.anchor }}' 검색량을 1로 놓고 비교한 값이라 실제 검색 횟수는 아닙니다.</p>
+<p class="note">집계 방법: 네이버 데이터랩 검색어 트렌드에 키워드와 '{{ agg.datalab.search.anchor }}'를 한 번에 넣어 월별 검색량 지수(PC·모바일, 전체 연령·성별)를 받고, 각 달의 키워드 지수를 같은 달 '{{ agg.datalab.search.anchor }}' 지수로 나눴습니다. 1이면 '{{ agg.datalab.search.anchor }}'만큼 검색됐다는 뜻이고, 실제 검색 횟수는 아닙니다. 기간은 {{ agg.datalab.search.start }} ~ {{ agg.datalab.search.end }}입니다.</p>
 {% endif %}
 {% else %}{{ reduced('keywords') }}{% endif %}
 
@@ -94,12 +97,13 @@ td.n,th.n{text-align:right;white-space:nowrap}
 <table>
   <thead><tr><th>출시일</th><th>브랜드</th><th>제품</th><th>향 노트</th><th>출처</th></tr></thead>
   <tbody>{% for x in agg.launches %}
-  <tr><td>{{ x.launch_date }}</td><td>{{ x.brand or '—' }}</td><td>{{ x.name }}{% if x.press_release %}<span class="tag">보도자료</span>{% endif %}</td>
+  <tr><td>{{ x.launch_date }}{% if x.date_basis == 'published' %}*{% endif %}</td><td>{{ x.brand or '—' }}</td><td>{{ x.name }}{% if x.press_release %}<span class="tag">보도자료</span>{% endif %}</td>
       <td>{{ x.notes|join(', ') if x.notes else '—' }}</td><td>{{ cite([x.doc_id]) }}</td></tr>
   {% endfor %}</tbody>
 </table>
 {% endif %}
-{% if S.launches.status != 'ok' %}{{ reduced('launches') }}{% else %}<p class="note">출시일이 기사로 확인되고 분석 기간 안에 나온 제품만 실었습니다.</p>{% endif %}
+{% if S.launches.status != 'ok' %}{{ reduced('launches') }}{% else %}<p class="note">분석 기간에 출시됐다고 기사로 확인된 제품만 실었습니다.</p>{% endif %}
+{% if agg.launches|selectattr('date_basis', 'equalto', 'published')|list %}<p class="note">* 기사에 출시일이 없어 기사 게재일을 적었습니다.</p>{% endif %}
 
 <h2><span class="num">4</span>{{ cfg.sections.notes.title }}</h2>
 {% if agg.notes.n %}
@@ -108,38 +112,31 @@ td.n,th.n{text-align:right;white-space:nowrap}
 <table><thead><tr><th>브랜드</th><th>제품</th><th>노트</th><th>출처</th></tr></thead><tbody>
 {% for x in agg.notes['items'] %}<tr><td>{{ x.brand or '—' }}</td><td>{{ x.name }}</td><td>{{ x.notes|join(', ') }}</td><td>{{ cite([x.doc_id]) }}</td></tr>{% endfor %}
 </tbody></table>
-{% else %}<p class="reduced">이번 달 기사에는 향 노트를 밝힌 제품이 없었습니다.</p>{% endif %}
+{% else %}<p class="reduced">분석 기간 기사에는 향 노트를 밝힌 제품이 없었습니다.</p>{% endif %}
 
 {% if S.customers.status != 'hidden' %}<h2><span class="num">5</span>{{ cfg.sections.customers.title }}</h2>{% endif %}
 
 <h2><span class="num">6</span>{{ cfg.sections.market.title }}</h2>
 <h3>국내</h3>
 {% if market.kr %}<ul class="sents">{% for s in market.kr %}<li>{{ s.text }}{{ cite(s.doc_ids) }}</li>{% endfor %}</ul>
-{% else %}<p class="reduced">이번 달에는 출처로 확인된 국내 시장 소식이 없습니다.</p>{% endif %}
+{% else %}<p class="reduced">분석 기간에는 출처로 확인된 국내 시장 소식이 없습니다.</p>{% endif %}
 <h3>해외 <span class="tag">일부는 기사 제목·요약 기준</span></h3>
 {% if market['global'] %}<ul class="sents">{% for s in market['global'] %}<li>{{ s.text }}{{ cite(s.doc_ids) }}</li>{% endfor %}</ul>
-{% else %}<p class="reduced">이번 달에는 출처로 확인된 해외 시장 소식이 없습니다.</p>{% endif %}
+{% else %}<p class="reduced">분석 기간에는 출처로 확인된 해외 시장 소식이 없습니다.</p>{% endif %}
 {% if S.market.status != 'ok' %}{{ reduced('market') }}{% endif %}
 
 <h2><span class="num">7</span>{{ cfg.sections.regulation.title }}</h2>
-{% set regs = agg.regulation.regulation %}{% set comps = agg.regulation.competitors %}
-<h3>규제</h3>
+{% set regs = agg.regulation.regulation %}
+<h3>공식 발표·공시</h3>
 {% if reg.regulation %}<ul class="sents">{% for s in reg.regulation %}<li>{{ s.text }}{{ cite(s.doc_ids) }}</li>{% endfor %}</ul>{% endif %}
 {% if regs %}
 <table><thead><tr><th>날짜</th><th>기관</th><th>제목</th><th>출처</th></tr></thead><tbody>
 {% for c in regs %}<tr><td>{{ c.published }}</td><td>{{ c.source_name }}{{ grade(c.evidence_grade) }}</td><td>{{ c.title }}</td><td>{{ cite(c.doc_ids[:1]) }}</td></tr>{% endfor %}
 </tbody></table>
-{% else %}<p>변경 없음. EU 화장품 규정, 식약처(보도자료·고시·행정예고), 미국 연방관보(FDA), IFRA에 이번 달 새로 나온 공지가 없습니다.</p>{% endif %}
-<h3>경쟁 향료사</h3>
-{% if reg.competitors %}<ul class="sents">{% for s in reg.competitors %}<li>{{ s.text }}{{ cite(s.doc_ids) }}</li>{% endfor %}</ul>{% endif %}
-{% if comps %}
-<table><thead><tr><th>날짜</th><th>회사</th><th>제목</th><th>출처</th></tr></thead><tbody>
-{% for c in comps %}<tr><td>{{ c.published }}</td><td>{{ c.source_name }}</td><td>{{ c.title }}</td><td>{{ cite(c.doc_ids[:1]) }}</td></tr>{% endfor %}
-</tbody></table>
-{% else %}<p>변경 없음. 지보단, 심라이즈, dsm-firmenich의 이번 달 발표가 없습니다. IFF는 사이트 접속이 막혀 빠져 있습니다.</p>{% endif %}
+{% else %}<p>변경 없음. 식약처(보도자료·고시·행정예고·개정 법령), EU 화장품 규정, 미국 연방관보(FDA)에 분석 기간 새로 나온 공시가 없습니다.</p>{% endif %}
 <h3>시행일 일정</h3>
 <table><thead><tr><th>날짜</th><th>내용</th></tr></thead><tbody>
-{% for c in agg.calendar %}<tr><td>{{ c.date }}</td><td>{{ c.item }} <a href="{{ c.source }}">원문</a></td></tr>{% endfor %}
+{% for c in agg.calendar %}<tr><td>{{ c.date }}</td><td>{{ c.item }} <a href="{{ c.source }}" target="_blank" rel="noopener">원문</a></td></tr>{% endfor %}
 </tbody></table>
 
 {% if S.signals.status != 'hidden' %}<h2><span class="num">8</span>{{ cfg.sections.signals.title }}</h2>{% endif %}

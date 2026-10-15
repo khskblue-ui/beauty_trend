@@ -19,20 +19,22 @@ def _post(path: str, body: dict) -> dict:
     return r.json()
 
 
-def _period(end_ym: str, months: int) -> tuple[str, str]:
+def _period(end_ym: str, months: int, until=None) -> tuple[str, str]:
     _, last = month_bounds(end_ym)
+    if until:   # interim report: the current month is counted up to `until`
+        last = min(last, until)
     y, m = last.year, last.month - months + 1
     while m <= 0:
         y, m = y - 1, m + 12
     return f"{y:04d}-{m:02d}-01", last.isoformat()
 
 
-def search_trend(terms: list[str], anchor: str, end_ym: str, months: int = 6) -> dict:
+def search_trend(terms: list[str], anchor: str, end_ym: str, months: int = 6, until=None) -> dict:
     """Monthly ratios for up to 4 terms + anchor in ONE request (same scale).
 
     Returns {term: [{period, ratio, vs_anchor}]} where vs_anchor = ratio / anchor ratio.
     """
-    start, end = _period(end_ym, months)
+    start, end = _period(end_ym, months, until)
     groups = [{"groupName": anchor, "keywords": [anchor]}] + [
         {"groupName": t, "keywords": [t]} for t in terms[:4]]
     d = _post("/search-trend/v1/search", {"startDate": start, "endDate": end,
@@ -47,8 +49,8 @@ def search_trend(terms: list[str], anchor: str, end_ym: str, months: int = 6) ->
     return {"start": start, "end": end, "anchor": anchor, "series": out}
 
 
-def shopping_category(category: str, name: str, end_ym: str, months: int = 6) -> dict:
-    start, end = _period(end_ym, months)
+def shopping_category(category: str, name: str, end_ym: str, months: int = 6, until=None) -> dict:
+    start, end = _period(end_ym, months, until)
     d = _post("/shopping/v1/categories", {"startDate": start, "endDate": end, "timeUnit": "month",
                                           "category": [{"name": name, "param": [category]}]})
     return {"start": start, "end": end,

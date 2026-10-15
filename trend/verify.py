@@ -103,6 +103,53 @@ def verify_sentences(sents: list[dict], allowed: set[str], recs: dict[str, dict]
     return kept, log_rows
 
 
+def _context(text: str, quote: str | None, width: int = 400) -> str:
+    """The quote with the text around it (the product name is often a sentence earlier)."""
+    t, q = _norm(text), _norm(quote)
+    i = t.find(q) if q else -1
+    if i < 0:
+        return t[: width * 2]
+    return t[max(0, i - width): i + len(q) + width]
+
+
+def verify_products(items: list[dict], kind: str, recs: dict[str, dict], ledger: str,
+                    variants=None) -> tuple[list[dict], list[dict]]:
+    """Product rows (notes / launches): brand required and named in the article, then
+    an entailment check that the article ties this brand + product to the claim.
+
+    kind "notes": claim = product uses these notes; "launch": claim = product launched.
+    """
+    from .enrich import source_text
+    rows, cand, pairs = [], [], []
+    for it in items:
+        rec = recs.get(it["doc_id"])
+        brand = (it.get("brand") or "").strip()
+        if not brand:
+            rows.append({**it, "kind": kind, "kept": False, "reason": "no_brand"})
+            continue
+        text = source_text(rec) if rec else ""
+        spellings = variants(brand) if variants else {brand}
+        if not any(_norm(s).lower() in _norm(text).lower() for s in spellings):
+            rows.append({**it, "kind": kind, "kept": False, "reason": "brand_not_in_article"})
+            continue
+        if kind == "notes":
+            claim = f"{brand}의 '{it['name']}' 제품에는 {', '.join(it['notes'])} 향 노트가 쓰였다."
+        else:
+            claim = f"{brand}이(가) '{it['name']}' 제품을 출시했다."
+        ev = f"{rec.get('title', '')}\n{_context(text, it.get('quote'))}"
+        cand.append(it)
+        pairs.append((claim, ev))
+    verdicts = [v for i in range(0, len(pairs), 20) for v in entailment(pairs[i:i + 20], ledger)]
+    kept = []
+    for it, v, (claim, _) in zip(cand, verdicts, pairs):
+        ok = v == "supported"
+        rows.append({**it, "kind": kind, "claim": claim, "kept": ok,
+                     "reason": None if ok else f"entailment:{v}"})
+        if ok:
+            kept.append(it)
+    return kept, rows
+
+
 def link_status(urls: list[str]) -> dict[str, str]:
     """ok | restricted (401/402/403/429/WAF challenge/no response) | unverified (other).
 

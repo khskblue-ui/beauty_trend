@@ -111,3 +111,99 @@ def test_duplicate_sentence_threshold_separates_september_pairs():
     dup = "한미사이언스가 개발한 복합 원료로 인공색소와 향료를 배제한 고기능성 제품을 선보이고 있다."
     other = "다비디퓨저는 킹고스프링에서 투자를 유치하고 글로벌 시장에 진출한다."
     assert similar(kw, dup, DUP_SENTENCE) and not similar(kw, other, DUP_SENTENCE)
+
+
+def _prod(name, brand="브랜드A", status="launched", ld=None, quote="신제품을 출시했다"):
+    return {"name": name, "brand": brand, "launch_date": ld, "launch_status": status,
+            "launch_quote": quote, "notes": [], "notes_quote": None}
+
+
+def test_launches_use_publish_date_when_article_reports_launch_without_date():
+    from datetime import date
+    from trend.aggregate import launches
+    from trend.normalize import Entities
+    docs = [rec("1", "브랜드A 향수 X 출시", date="2026-10-05T09:00:00+09:00", products=[_prod("X")]),
+            rec("2", "브랜드A 향수 Y 출시 예정", date="2026-10-06T09:00:00+09:00",
+                products=[_prod("Y", status="upcoming")]),
+            rec("3", "판매 순위", date="2026-10-07T09:00:00+09:00", products=[_prod("Z", status="unknown")]),
+            rec("4", "브랜드A 향수 W 출시", date="2026-10-20T09:00:00+09:00", products=[_prod("W")]),
+            rec("5", "브랜드A 향수 X 10월 2일 출시", date="2026-10-08T09:00:00+09:00",
+                products=[_prod("X", ld="2026-10-02")])]
+    out = launches(cluster(docs), "2026-10", Entities(), until=date(2026, 10, 15))
+    got = {x["name"]: (x["launch_date"], x["date_basis"]) for x in out}
+    # stated date wins over the publish-date stand-in; upcoming/unknown and after `until` drop
+    assert got == {"X": ("2026-10-02", "article")}
+    docs[4]["extraction"]["products"] = []
+    out = launches(cluster(docs), "2026-10", Entities(), until=date(2026, 10, 15))
+    assert [(x["name"], x["launch_date"], x["date_basis"]) for x in out] == [("X", "2026-10-05", "published")]
+
+
+def test_check_resets_launch_status_without_verbatim_quote():
+    ex = {"products": [_prod("B", quote="지어낸 문장")], "key_fact": None, "key_fact_quote": None,
+          "brands": []}
+    p = check(ex, "브랜드A가 B를 소개했다.")["products"][0]
+    assert p["launch_status"] == "unknown" and p["launch_quote"] is None
+
+
+def test_regulation_keeps_official_sources_only():
+    from trend.aggregate import regulation
+    docs = [dict(rec("1", "식약처 화장품 고시 개정"), group="regulation", source="mfds_notice"),
+            dict(rec("2", "IFRA news update"), group="regulation", source="ifra_news"),
+            dict(rec("3", "Symrise acquires"), group="competitor", source="symrise")]
+    out = regulation(cluster(docs), ["mfds_notice"])
+    assert [c["title"] for c in out["regulation"]] == ["식약처 화장품 고시 개정"]
+    assert out["competitors"] == []
+
+
+def test_interim_period():
+    from datetime import date
+    from trend.render import with_period
+    from trend.report import period
+    p = period("2026-10", date(2026, 10, 15))
+    assert p == {"start": "2026-10-01", "end": "2026-10-15", "interim": True}
+    assert period("2026-09", date(2026, 10, 1))["interim"] is False
+    ctx = with_period({"month": "2026-10", "period": p})
+    assert ctx["period"]["span"] == "10월 1~15일" and ctx["period"]["tag"] == "2026-10 중간"
+    assert with_period({"month": "2026-09"})["period"]["end"] == "2026-09-30"
+
+
+def test_press_release_goes_to_regulation_only_when_classified_regulation():
+    from trend.aggregate import market, regulation
+    base = dict(group="regulation", source="mfds_press", lang="ko")
+    docs = [dict(rec("1", "화장품 안전기준 고시 개정 예고", event_type="regulation"), **base),
+            dict(rec("2", "3분기 화장품 수출 역대 최대", event_type="market_trend", key_fact="수출 증가",
+                     key_fact_quote="q"), **base)]
+    cl = cluster(docs)
+    assert [c["title"] for c in regulation(cl, ["mfds_press"])["regulation"]] == ["화장품 안전기준 고시 개정 예고"]
+    assert [c["title"] for c in market(cl)["kr"]] == ["3분기 화장품 수출 역대 최대"]
+
+
+def test_product_rows_need_brand_in_article_and_entailment(monkeypatch):
+    from trend import verify
+    seen = []
+
+    def fake(pairs, ledger):
+        seen.extend(pairs)
+        return ["supported" if "베르가못" in claim else "uncertain" for claim, _ in pairs]
+
+    monkeypatch.setattr(verify, "entailment", fake)
+    monkeypatch.setattr("trend.enrich.store.load_body", lambda d: None)
+    r = rec("1", "딥티크 신제품 오르페옹 출시")
+    r["summary"] = "딥티크 오르페옹은 베르가못과 시더 노트로 구성됐다."
+    recs = {"1": r}
+    items = [{"brand": "", "name": "오르페옹", "notes": ["베르가못"], "doc_id": "1", "quote": "q"},
+             {"brand": "바이레도", "name": "오르페옹", "notes": ["베르가못"], "doc_id": "1", "quote": "q"},
+             {"brand": "딥티크", "name": "오르페옹", "notes": ["베르가못"], "doc_id": "1",
+              "quote": "베르가못과 시더 노트"},
+             {"brand": "딥티크", "name": "오르페옹", "notes": ["장미"], "doc_id": "1", "quote": "q"}]
+    kept, rows = verify.verify_products(items, "notes", recs, ledger=None)
+    assert [k["notes"] for k in kept] == [["베르가못"]]
+    assert [r_["reason"] for r_ in rows] == ["no_brand", "brand_not_in_article", None, "entailment:uncertain"]
+    assert "딥티크 오르페옹은 베르가못" in seen[0][1]        # evidence includes the article text
+
+
+def test_citation_anchors_are_unique_and_link_back():
+    from trend.render import Citations
+    c = Citations({"a": {}, "b": {}})
+    first, second = str(c(["a"])), str(c(["a", "b"]))
+    assert 'id="cite-1-1"' in first and 'id="cite-1-2"' in second and 'id="cite-2-1"' in second

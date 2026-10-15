@@ -23,6 +23,7 @@ class Citations:
     def __init__(self, by_id: dict, extra: dict | None = None):
         self.by_id = dict(by_id)
         self.order: list[str] = []
+        self.seen: dict[int, int] = {}   # citation number → how many times cited so far
         if extra:
             self.by_id.update(extra)
 
@@ -32,8 +33,12 @@ class Citations:
             if d not in self.order:
                 self.order.append(d)
             nums.append(self.order.index(d) + 1)
-        return Markup("".join(f'<sup class="cite"><a href="#src-{n}">[{n}]</a></sup>'
-                              for n in sorted(set(nums))))
+        out = []
+        for n in sorted(set(nums)):
+            k = self.seen[n] = self.seen.get(n, 0) + 1
+            # id lets the source list link back to where it was cited (first: cite-n-1)
+            out.append(f'<sup class="cite"><a id="cite-{n}-{k}" href="#src-{n}">[{n}]</a></sup>')
+        return Markup("".join(out))
 
     def entries(self, links: dict) -> list[dict]:
         out = []
@@ -179,9 +184,9 @@ def events(ctx: dict) -> list[dict]:
                         "title": f"{x['brand']} {x['name']}".strip(), "doc_id": x["doc_id"]})
     for c in agg["regulation"]["regulation"]:
         out.append({"day": c["published"], "kind": "regulation", "title": c["title"], "doc_id": c["doc_id"]})
-    for c in agg["regulation"]["competitors"]:
-        out.append({"day": c["published"], "kind": "competitor", "title": c["title"], "doc_id": c["doc_id"]})
-    return sorted((e for e in out if e["day"].startswith(agg["month"])), key=lambda e: e["day"])
+    end = ctx["period"]["end"]
+    return sorted((e for e in out if e["day"].startswith(agg["month"]) and e["day"] <= end),
+                  key=lambda e: e["day"])
 
 
 def viz_data(ctx: dict) -> dict:
@@ -201,16 +206,24 @@ def viz_data(ctx: dict) -> dict:
         "shopping": [[p["period"][:7], p["ratio"]] for p in shop["series"]] if shop else [],
         "events": events(ctx),
         "counts": agg["counts"],
-        "days": _days(agg["month"]),
+        "days": int(ctx["period"]["end"][8:]),
         "kinds": {k: sum(e["kind"] == k for e in events(ctx))
-                  for k in ("market", "launch", "regulation", "competitor")},
+                  for k in ("market", "launch", "regulation")},
         "calendar": [_horizon(c, ctx["generated"][:10]) for c in agg.get("calendar", [])],
     }
 
 
-def _days(ym: str) -> int:
+def with_period(ctx: dict) -> dict:
+    """Fill display fields of the analysis window (runs saved before 2026-10-15 lack it)."""
     from .util import month_bounds
-    return month_bounds(ym)[1].day
+    first, last = month_bounds(ctx["month"])
+    p = dict(ctx.get("period") or {"start": first.isoformat(), "end": last.isoformat(),
+                                   "interim": False})
+    end_day = int(p["end"][8:])
+    p["span"] = f"{first.month}월 {first.day}~{end_day}일" if p["interim"] else f"{first.month}월"
+    p["tag"] = f"{ctx['month']} 중간" if p["interim"] else ctx["month"]
+    ctx["period"] = p
+    return ctx
 
 
 def _horizon(c: dict, today: str) -> dict:
@@ -225,6 +238,7 @@ def _horizon(c: dict, today: str) -> dict:
 
 
 def render_all(ctx: dict, out_dir: Path, pdf: bool = True) -> dict[str, Path]:
+    ctx = with_period(dict(ctx))
     env = Environment(loader=FileSystemLoader(ROOT / "templates"),
                       autoescape=select_autoescape(["html", "j2"]))
     cites = Citations(ctx["by_id"])
@@ -249,7 +263,7 @@ def render_all(ctx: dict, out_dir: Path, pdf: bool = True) -> dict[str, Path]:
             **ctx, cites=mc, events=events(ctx), viz=viz_data(ctx))
         # sources come last so every citation number is already assigned
         doc = doc.replace("<!--SOURCE_SLIDES-->", env.get_template("motion/_sources_slides.j2").render(
-            sources=mc.entries(ctx["links"]), month=ctx["month"], title=ctx["cfg"]["title"],
+            sources=mc.entries(ctx["links"]), month=ctx["period"]["tag"], title=ctx["cfg"]["title"],
             kicker=SOURCE_KICKER.get(v, "")))
         paths[f"motion_{v}"] = out_dir / f"report_{ctx['month']}_{v}.html"
         paths[f"motion_{v}"].write_text(doc, "utf-8")

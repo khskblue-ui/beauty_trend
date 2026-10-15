@@ -193,6 +193,18 @@
 - Gemini: enrich `gemini-3.8-flash`, write `gemini-4-argon`.
 - 관세청: 서비스키를 받기 전까지 2차로 보류.
 
+## 7. 지난 기사 백필 경로(2026-10-15 확인)
+
+RSS는 며칠치만 보관한다(9월분 시험본에서 업계지 9월 기사 0건). 피드에서 빠진 기사를 채우는 경로를 소스별로 직접 확인했다(`collect --backfill-since`, `config/sources.yaml`의 `archive`).
+
+| 소스 | 경로 | robots | 날짜 |
+|---|---|---|---|
+| 장업신문·뷰티경제 | `/news/articleList.html?page=N&view_type=sm` | 허용 | 기사 `article:published_time` |
+| 코스모닝·코스인코리아 | `/news/article_list_all.html?page=N` | 허용 | 기사 JSON-LD `datePublished` |
+| Premium Beauty News | `/en/news/?debut_articles=N`(20개 단위, `<base href>` 기준 상대 링크) | 허용 | 기사 JSON-LD `datePublished` |
+| WWD Beauty | `/beauty-industry-news/feed/?paged=N` | 허용 | 피드 `pubDate`(제목·요약만) |
+| Cosmetics Business | `sitemap.xml`(약 14MB, 3.9만 URL) | 허용 | 기사 페이지에 게시일이 없어 `<lastmod>` 사용. 피드에 있던 19건 중 17건은 게시일과 같고 2건은 하루 차이(수정일이라 늦을 수 있음). `date_source: sitemap_lastmod`로 표시 |
+
 ## 미확인 항목
 
 1. 국내 업계지 5곳의 이용약관·저작권 정책(무단 전재 금지 조항이 자동 수집이나 요약 인용에 미치는 영향). robots.txt만 확인했다.

@@ -38,7 +38,9 @@ jobs:
       - name: Collect
         env:
           ONLY: ${{ inputs.only }}
-        run: python -m trend collect ${ONLY:+--only "$ONLY"}
+        # backfill: re-read the last 3 days of each source archive so a failed run
+        # or a feed that rotates quickly does not lose articles (known ones are skipped)
+        run: python -m trend collect ${ONLY:+--only "$ONLY"} --backfill-since "$(TZ=Asia/Seoul date -d '3 days ago' +%F)"
       - name: Enrich new documents
         run: python -m trend enrich
       - name: Upload article bodies (private, not committed)

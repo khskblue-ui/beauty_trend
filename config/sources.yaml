@@ -2,6 +2,7 @@
 # kind: rss | naver_news | page_diff | cellar | fedreg
 # fetch_body: 요약만 주는 RSS는 기사 페이지에서 본문을 가져온다(robots 허용 확인 후).
 # naive_tz: 날짜에 타임존이 없을 때 적용할 타임존.
+# archive: 피드가 며칠치만 보관하므로, 빠진 날을 채울 때 쓰는 지난 기사 목록(collect --backfill-since).
 
 rss:
   - id: cosmorning
@@ -11,6 +12,7 @@ rss:
     group: kr_trade
     fetch_body: true
     naive_tz: Asia/Seoul
+    archive: {kind: list, url: "https://www.cosmorning.com/news/article_list_all.html?page={page}", link_pattern: 'article\.html\?no=\d+$'}
   - id: jangup
     name: 장업신문
     url: https://www.jangup.com/rss/allArticle.xml
@@ -18,6 +20,7 @@ rss:
     group: kr_trade
     fetch_body: true
     naive_tz: Asia/Seoul
+    archive: {kind: list, url: "https://www.jangup.com/news/articleList.html?page={page}&view_type=sm", link_pattern: 'articleView\.html\?idxno=\d+$'}
   - id: thebk
     name: 뷰티경제
     url: https://cdn.thebk.co.kr/rss/gn_rss_allArticle.xml
@@ -25,6 +28,7 @@ rss:
     group: kr_trade
     fetch_body: false        # content:encoded로 전문 제공
     naive_tz: Asia/Seoul
+    archive: {kind: list, url: "https://www.thebk.co.kr/news/articleList.html?page={page}&view_type=sm", link_pattern: 'articleView\.html\?idxno=\d+$'}
   - id: cosinkorea
     name: 코스인코리아
     url: https://www.cosinkorea.com/data/rss/news.xml
@@ -32,6 +36,7 @@ rss:
     group: kr_trade
     fetch_body: true
     naive_tz: Asia/Seoul
+    archive: {kind: list, url: "https://www.cosinkorea.com/news/article_list_all.html?page={page}", link_pattern: 'article\.html\?no=\d+$'}
   - id: cosmeticsbusiness
     name: Cosmetics Business
     url: https://www.cosmeticsbusiness.com/rss
@@ -39,12 +44,15 @@ rss:
     group: global_trade
     fetch_body: false        # 프리미엄 기사 존재 → 요약만 사용
     evidence_grade: headline
+    # 기사 페이지에 게시일이 없어 사이트맵 lastmod를 날짜로 쓴다(date_source: sitemap_lastmod)
+    archive: {kind: sitemap, url: "https://www.cosmeticsbusiness.com/sitemap.xml", link_pattern: '^https://www\.cosmeticsbusiness\.com/[a-z0-9-]+$'}
   - id: premiumbeautynews
     name: Premium Beauty News
     url: https://www.premiumbeautynews.com/spip.php?page=backend
     lang: en
     group: global_trade
     fetch_body: true
+    archive: {kind: list, url: "https://www.premiumbeautynews.com/en/news/?debut_articles={offset}", step: 20, link_pattern: '^en/[a-z0-9-]+,\d+$'}
   - id: wwd
     name: WWD Beauty
     url: https://wwd.com/beauty-industry-news/feed/
@@ -52,6 +60,7 @@ rss:
     group: global_trade
     fetch_body: false        # 유료벽
     evidence_grade: headline
+    archive: {kind: feed, url: "https://wwd.com/beauty-industry-news/feed/?paged={page}"}
   - id: mfds_press
     name: 식약처 보도자료
     url: https://www.mfds.go.kr/www/rss/brd.do?brdId=ntc0021
@@ -125,7 +134,9 @@ naver_news:
   display: 100
   # 일반지 보완용. 업계지는 RSS로 직접 받는다.
   # '조향'은 자동차 조향(steering) 기사가 섞여 제외. '조향사'로 대체.
-  queries: [향료, 조향사, 니치 향수, 향수 신제품, 향수 출시, 화장품 신제품, 뷰티 신제품 출시, K뷰티 수출, 프레그런스 브랜드]
+  # 출시 관련 검색어는 신제품 섹션 커버리지용(2026-10-15 추가: 화장품 출시~니치 퍼퓸)
+  queries: [향료, 조향사, 니치 향수, 향수 신제품, 향수 출시, 화장품 신제품, 뷰티 신제품 출시, K뷰티 수출, 프레그런스 브랜드,
+            화장품 출시, 퍼퓸 출시, 향수 브랜드, 뷰티 브랜드 론칭, 바디미스트 출시, 니치 퍼퓸]
   # 관련성 1차 필터(LLM 호출 전): 제목에 title_any 중 하나가 있어야 저장. 최종 판정은 enrich.
   title_any: [화장품, 뷰티, 향료, 향수, 퍼퓸, 코스메틱, 프레그런스, 스킨케어, 메이크업, 조향사, 바디미스트, 디퓨저, 오드퍼퓸, 니치, K뷰티, 립, 쿠션, 세럼, 선크림]
   exclude_any: [드라마, 넷플릭스, 예능, 게임, 아이돌, 콘서트, 웹툰, 영화, 뮤지컬, 포토, 화보, 증권, 할인전, 페스타, 향수병, 향수를 자극, 향수를 불러]

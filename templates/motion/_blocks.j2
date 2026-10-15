@@ -9,7 +9,7 @@
     <h2 class="rv">{{ title }}{% if page %}<span class="s-page">{{ page }}</span>{% endif %}</h2>
     {% if desc %}<p class="s-desc rv">{{ desc }}</p>{% endif %}</header>
   <div class="s-body">{{ caller() }}</div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ month }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 {%- endmacro %}
 
@@ -44,6 +44,10 @@
 {% endcall %}
 {%- endmacro %}
 
+{% macro datalab_method() -%}
+집계 방법: 네이버 데이터랩 검색어 트렌드에 키워드와 '{{ viz.search.anchor }}'를 한 번에 넣어 월별 검색량 지수(PC·모바일, 전체 연령·성별)를 받고, 각 달의 키워드 지수를 같은 달 '{{ viz.search.anchor }}' 지수로 나눴습니다. 1이면 '{{ viz.search.anchor }}'만큼 검색됐다는 뜻입니다. 기간은 {{ viz.search.series[viz.search.anchor][0][0] }} ~ {{ period.end }}{% if period.interim %}이고, {{ period.end[5:7]|int }}월은 {{ period.end[8:]|int }}일까지만 셌습니다{% endif %}.
+{%- endmacro %}
+
 {% macro search_slide(kicker, colors) -%}
 {% if viz.search %}{% set g = line_paths(viz.search.series, viz.search.anchor, 1100, 400, (56, 16, 30, 150), 22) %}
 {% call slide("네이버 검색량 추이", kicker, "'" ~ viz.search.anchor ~ "' 검색량을 1로 놓고 비교한 월별 값입니다. 실제 검색 횟수는 아닙니다.", 'sl-search') %}
@@ -54,7 +58,7 @@
     {% for l in g.lines %}<path class="draw" d="{{ l.d }}" stroke="{{ colors[loop.index0 % colors|length] }}"/>
     <text class="lbl" x="{{ '%.1f'|format(l.end[0] + 10) }}" y="{{ '%.1f'|format(l.label_y + 5) }}" fill="{{ colors[loop.index0 % colors|length] }}">{{ l.term }}</text>{% endfor %}
   </svg>
-  <figcaption class="note">네이버 데이터랩, {{ viz.search.series[viz.search.anchor][0][0] }} ~ {{ month }}</figcaption>
+  <figcaption class="note">{{ datalab_method() }}</figcaption>
 </figure>
 {% endcall %}
 {% endif %}
@@ -75,9 +79,9 @@
 {% macro launch_slides(kicker) -%}
 {% set items = agg.launches %}
 {% for chunk in (items|batch(ROWS)|list or [[]]) %}
-{% call slide('신제품 출시', kicker, '출시일이 기사로 확인되고 분석 기간 안에 나온 제품입니다.' if loop.first else '', 'sl-table', pg(loop)) %}
+{% call slide('신제품 출시', kicker, '분석 기간에 출시됐다고 기사로 확인된 제품입니다. 날짜 옆 * 표시는 기사에 출시일이 없어 기사 게재일을 적은 것입니다.' if loop.first else '', 'sl-table', pg(loop)) %}
 {% if chunk %}<table class="rv"><thead><tr><th>출시일</th><th>브랜드</th><th>제품</th><th>향 노트</th><th class="c">출처</th></tr></thead><tbody>
-{% for x in chunk %}<tr><td class="mono">{{ x.launch_date }}</td><td>{{ x.brand or '—' }}</td><td>{{ x.name }}{% if x.press_release %} <span class="tag">보도자료</span>{% endif %}</td><td>{{ x.notes|join(', ') if x.notes else '—' }}</td><td class="c">{{ cite([x.doc_id]) }}</td></tr>{% endfor %}
+{% for x in chunk %}<tr><td class="mono">{{ x.launch_date }}{% if x.date_basis == 'published' %}*{% endif %}</td><td>{{ x.brand or '—' }}</td><td>{{ x.name }}{% if x.press_release %} <span class="tag">보도자료</span>{% endif %}</td><td>{{ x.notes|join(', ') if x.notes else '—' }}</td><td class="c">{{ cite([x.doc_id]) }}</td></tr>{% endfor %}
 </tbody></table>{% endif %}
 {% if loop.last %}{{ reduced('launches') }}{% endif %}
 {% endcall %}
@@ -88,12 +92,12 @@
 {% set kr = market.kr %}{% set gl = market['global'] %}
 {% if kr|length + gl|length <= SENTS %}
 {% call slide('시장 동향', kicker, '국내와 해외 소식입니다. 해외 소식 일부는 기사 제목·요약만 확인했습니다.', 'sl-market') %}
-<h3 class="rv">국내</h3>{{ sents(kr, '이번 달에는 출처로 확인된 국내 시장 소식이 없습니다.') }}
-<h3 class="rv">해외</h3>{{ sents(gl, '이번 달에는 출처로 확인된 해외 시장 소식이 없습니다.') }}
+<h3 class="rv">국내</h3>{{ sents(kr, '분석 기간에는 출처로 확인된 국내 시장 소식이 없습니다.') }}
+<h3 class="rv">해외</h3>{{ sents(gl, '분석 기간에는 출처로 확인된 해외 시장 소식이 없습니다.') }}
 {% endcall %}
 {% else %}
-{% call slide('시장 동향 — 국내', kicker, '', 'sl-market') %}{{ sents(kr, '이번 달에는 출처로 확인된 국내 시장 소식이 없습니다.') }}{% endcall %}
-{% call slide('시장 동향 — 해외', kicker, '일부는 기사 제목·요약만 확인했습니다.', 'sl-market') %}{{ sents(gl, '이번 달에는 출처로 확인된 해외 시장 소식이 없습니다.') }}{% endcall %}
+{% call slide('시장 동향 — 국내', kicker, '', 'sl-market') %}{{ sents(kr, '분석 기간에는 출처로 확인된 국내 시장 소식이 없습니다.') }}{% endcall %}
+{% call slide('시장 동향 — 해외', kicker, '일부는 기사 제목·요약만 확인했습니다.', 'sl-market') %}{{ sents(gl, '분석 기간에는 출처로 확인된 해외 시장 소식이 없습니다.') }}{% endcall %}
 {% endif %}
 {{ reduced('market') if gate.sections.market.status == 'reduced' }}
 {%- endmacro %}
@@ -114,17 +118,12 @@
 
 {% macro reg_slides(kicker) -%}
 {{ listing_slides('규제', kicker, reg.regulation, agg.regulation.regulation, '기관',
-   '변경 없음. EU 화장품 규정, 식약처, 미국 연방관보(FDA), IFRA에 이번 달 새로 나온 공지가 없습니다.') }}
-{%- endmacro %}
-
-{% macro comp_slides(kicker) -%}
-{{ listing_slides('경쟁 향료사', kicker, reg.competitors, agg.regulation.competitors, '회사',
-   '변경 없음. 지보단, 심라이즈, dsm-firmenich의 이번 달 발표가 없습니다. IFF는 사이트 접속이 막혀 빠져 있습니다.') }}
+   '변경 없음. 식약처, EU 화장품 규정, 미국 연방관보(FDA)에 분석 기간 새로 나온 공시가 없습니다.') }}
 {%- endmacro %}
 
 {% macro calendar_slide(kicker) -%}
 {% call slide('시행일 일정', kicker, '이미 정해진 규제 기한입니다.', 'sl-cal') %}
-<ul class="cal">{% for c in viz.calendar %}<li class="rv"><span class="mono">{{ c.date }}</span><span>{{ c.item }}{% if c.days_left is defined %} · {{ c.days_left }}일 남음{% endif %} <a href="{{ c.source }}">원문</a></span></li>{% endfor %}</ul>
+<ul class="cal">{% for c in viz.calendar %}<li class="rv"><span class="mono">{{ c.date }}</span><span>{{ c.item }}{% if c.days_left is defined %} · {{ c.days_left }}일 남음{% endif %} <a href="{{ c.source }}" target="_blank" rel="noopener">원문</a></span></li>{% endfor %}</ul>
 {% endcall %}
 {%- endmacro %}
 

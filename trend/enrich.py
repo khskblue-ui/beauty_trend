@@ -16,7 +16,7 @@ from .llm import LLMError, generate_json
 from .util import kst_date, utcnow_iso
 
 log = logging.getLogger(__name__)
-PROMPT_VERSION = "enrich-v1"
+PROMPT_VERSION = "enrich-v2"   # v2: launch_status (2026-10-15)
 CATEGORIES = ["fragrance", "skincare", "makeup", "hair", "body", "ingredient",
               "regulation", "business", "retail", "other"]
 EVENTS = ["product_launch", "business", "regulation", "market_trend", "ingredient",
@@ -39,11 +39,13 @@ SCHEMA = {
                 "name": {"type": "STRING"},
                 "brand": {"type": "STRING", "nullable": True},
                 "launch_date": {"type": "STRING", "nullable": True},
+                "launch_status": {"type": "STRING", "enum": ["launched", "upcoming", "unknown"]},
                 "launch_quote": {"type": "STRING", "nullable": True},
                 "notes": {"type": "ARRAY", "items": {"type": "STRING"}},
                 "notes_quote": {"type": "STRING", "nullable": True},
             },
-            "required": ["name", "brand", "launch_date", "launch_quote", "notes", "notes_quote"],
+            "required": ["name", "brand", "launch_date", "launch_status", "launch_quote", "notes",
+                         "notes_quote"],
         }},
         "key_fact": {"type": "STRING", "nullable": True},
         "key_fact_quote": {"type": "STRING", "nullable": True},
@@ -58,6 +60,8 @@ SYSTEM = """너는 향료 회사 영업팀을 위한 뷰티·향료 업계 기�
 - *_quote 필드에는 기사 원문을 한 글자도 바꾸지 말고 그대로 복사한다(200자 이내, 한 문장 위주). 근거가 없으면 null.
 - 향 노트(notes)는 기사에 향/노트/향조로 명시된 것만. 없으면 빈 배열.
 - launch_date는 기사에 출시일·출시 시점이 명시된 경우만 YYYY-MM-DD 또는 YYYY-MM. '최근', '이달' 같은 표현은 기사 게시일을 기준으로 해석하지 말고 null.
+- launch_status: 기사가 이 제품을 새로 출시했다고 보도하면(출시했다·선보였다·론칭했다·내놨다) launched, 출시 예정이면 upcoming, 기존 제품 소개·판매 순위·과거 출시 언급이면 unknown.
+- launch_quote: 출시(또는 출시 예정)를 말하는 원문 문장. launched·upcoming이면 반드시 채운다.
 - keywords: 이 기사가 보여 주는 업계 트렌드 용어 2~5개를 한국어 명사구로(예: '니치 향수', '비건 뷰티', '바디 미스트'). 브랜드명·회사명은 넣지 않는다.
 - relevant: 화장품·향수·향료·뷰티 산업과 직접 관련이면 true. '향수(鄕愁)' 같은 동음이의어나 무관한 기사면 false.
 - is_press_release: 특정 기업이 배포한 신제품·실적 홍보성 보도자료로 보이면 true.
@@ -85,9 +89,10 @@ def check(ex: dict, text: str) -> dict:
     products = []
     for p in ex.get("products", []):
         if not quote_ok(p.get("launch_quote"), text):
-            if p.get("launch_date"):
-                dropped.append(f"launch_date:{p['name']}")
+            if p.get("launch_date") or p.get("launch_status") in ("launched", "upcoming"):
+                dropped.append(f"launch:{p['name']}")
             p["launch_date"], p["launch_quote"] = None, None
+            p["launch_status"] = "unknown"
         if p.get("notes"):
             ok_quote = quote_ok(p.get("notes_quote"), text)
             kept = [n for n in p["notes"] if ok_quote and _norm(n) and _norm(n) in _norm(p["notes_quote"])]

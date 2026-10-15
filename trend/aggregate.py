@@ -72,21 +72,36 @@ def keywords(clusters: list[Cluster], prev: list[Cluster], cfg: dict,
     return {"has_prev": has_prev, "items": items[: cfg["max_items"]]}
 
 
-def launches(clusters: list[Cluster], ym: str, ents: Entities) -> list[dict]:
+def launches(clusters: list[Cluster], ym: str, ents: Entities, until=None) -> list[dict]:
+    """Products launched in the window, with a verbatim quote saying so.
+
+    date_basis "article": the article states the launch date.
+    date_basis "published": the article reports the launch as done ("출시했다")
+    without a date → the article's publish date stands in (marked in the report).
+    """
     first, last = month_bounds(ym)
+    if until:
+        last = min(last, until)
     out: list[dict] = []
     for c in clusters:
         for d in c.docs:
             for p in d["extraction"].get("products", []):
-                ld = p.get("launch_date")
-                if not ld or not p.get("launch_quote"):
+                ld, basis = p.get("launch_date"), "article"
+                if not p.get("launch_quote"):
                     continue
-                if not _in_month(ld, first, last):
-                    continue
+                if not (ld and _in_month(ld, first, last)):
+                    pub = kst_date(d.get("published_at"))
+                    if p.get("launch_status") != "launched" or ld or not (pub and first <= pub <= last):
+                        continue
+                    ld, basis = pub.isoformat(), "published"
                 brand = ents.canon(p.get("brand") or "")
-                if any(same_product(x, {"brand": brand, "name": p["name"]}) for x in out):
-                    continue
-                out.append({"brand": brand, "name": p["name"], "launch_date": ld,
+                dup = next((x for x in out if same_product(x, {"brand": brand, "name": p["name"]})), None)
+                if dup:
+                    if dup["date_basis"] == "published" and basis == "article":
+                        out.remove(dup)   # a stated date beats the publish-date stand-in
+                    else:
+                        continue
+                out.append({"brand": brand, "name": p["name"], "launch_date": ld, "date_basis": basis,
                             "notes": p.get("notes", []), "doc_id": d["doc_id"],
                             "quote": p["launch_quote"], "url": d["url"],
                             "source_name": d["source_name"],
@@ -132,6 +147,10 @@ def notes(clusters: list[Cluster], ents: Entities) -> dict:
                                   "notes": p["notes"], "quote": p["notes_quote"],
                                   "doc_id": d["doc_id"], "url": d["url"],
                                   "source_name": d["source_name"]})
+    return notes_block(items)
+
+
+def notes_block(items: list[dict]) -> dict:
     freq = Counter(_kw(n) for it in items for n in set(it["notes"]))
     return {"n": len(items), "items": items, "note_freq": freq.most_common(15)}
 
@@ -152,7 +171,8 @@ def _cluster_card(c: Cluster) -> dict:
 def market(clusters: list[Cluster], limit: int = 12) -> dict:
     """Clusters about business/market, ranked by coverage breadth."""
     cards = [_cluster_card(c) for c in clusters
-             if c.rep["group"] in ("kr_trade", "kr_news", "global_trade")
+             if (c.rep["group"] in ("kr_trade", "kr_news", "global_trade")
+                 or c.rep.get("source") in PRESS_BOARDS)
              and c.rep["extraction"].get("event_type") in MARKET_EVENTS
              and c.rep["extraction"].get("key_fact")]
     cards.sort(key=lambda x: (x["n_sources"], x["n_docs"], not x["press_release"]), reverse=True)
@@ -160,30 +180,41 @@ def market(clusters: list[Cluster], limit: int = 12) -> dict:
             "global": [x for x in cards if x["lang"] != "ko"][:limit]}
 
 
-def regulation(clusters: list[Cluster]) -> dict:
-    reg = [_cluster_card(c) for c in clusters if c.rep["group"] == "regulation"]
-    comp = [_cluster_card(c) for c in clusters if c.rep["group"] == "competitor"]
-    return {"regulation": sorted(reg, key=lambda x: x["published"]),
-            "competitors": sorted(comp, key=lambda x: x["published"])}
+# Press-release boards mix regulation with other news (export figures, events).
+PRESS_BOARDS = {"mfds_press"}
 
 
-def datalab_block(terms: list[str], ym: str, cfg: dict) -> dict:
+def regulation(clusters: list[Cluster], official: list[str]) -> dict:
+    """Official notices only (authorities in `official`); competitor news is not reported.
+
+    Notice/law boards are regulation by nature; a press release counts only when
+    enrich classified it as regulation (others may go to the market section).
+    """
+    reg = [_cluster_card(c) for c in clusters
+           if c.rep["group"] == "regulation" and c.rep.get("source") in official
+           and (c.rep.get("source") not in PRESS_BOARDS
+                or c.rep["extraction"].get("event_type") == "regulation")]
+    return {"regulation": sorted(reg, key=lambda x: x["published"]), "competitors": []}
+
+
+def datalab_block(terms: list[str], ym: str, cfg: dict, until=None) -> dict:
     out = {}
     try:
-        out["search"] = datalab.search_trend(terms, cfg["anchor_keyword"], ym, cfg["datalab_months"])
+        out["search"] = datalab.search_trend(terms, cfg["anchor_keyword"], ym, cfg["datalab_months"],
+                                             until)
     except RuntimeError as e:
         log.warning("datalab search failed: %s", e)
         out["search_error"] = str(e)
     try:
         out["shopping"] = datalab.shopping_category(cfg["shopping_category"], "화장품/미용", ym,
-                                                    cfg["datalab_months"])
+                                                    cfg["datalab_months"], until)
     except RuntimeError as e:
         log.warning("datalab shopping failed: %s", e)
         out["shopping_error"] = str(e)
     return out
 
 
-def run(clusters: list[Cluster], prev: list[Cluster], ym: str) -> dict:
+def run(clusters: list[Cluster], prev: list[Cluster], ym: str, until=None) -> dict:
     cfg = load("report")
     ents = Entities()
     kw = keywords(clusters, prev, cfg["sections"]["keywords"], cfg.get("keyword_stoplist"))
@@ -191,10 +222,10 @@ def run(clusters: list[Cluster], prev: list[Cluster], ym: str) -> dict:
         "month": ym,
         "counts": {"clusters": len(clusters), "docs": sum(len(c.docs) for c in clusters)},
         "keywords": kw,
-        "datalab": datalab_block([k["term"] for k in kw["items"]], ym, cfg) if kw["items"] else {},
-        "launches": launches(clusters, ym, ents),
+        "datalab": datalab_block([k["term"] for k in kw["items"]], ym, cfg, until) if kw["items"] else {},
+        "launches": launches(clusters, ym, ents, until),
         "notes": notes(clusters, ents),
         "market": market(clusters),
-        "regulation": regulation(clusters),
+        "regulation": regulation(clusters, cfg.get("regulation_sources", [])),
         "calendar": cfg.get("regulation_calendar", []),
     }
