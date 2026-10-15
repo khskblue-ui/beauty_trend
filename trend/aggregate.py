@@ -217,6 +217,18 @@ def regulation(clusters: list[Cluster], official: list[str]) -> dict:
     return {"regulation": sorted(reg, key=lambda x: x["published"]), "competitors": []}
 
 
+def shopping_block(cfg: dict, ym: str, until=None) -> dict:
+    """Weekly NAVER Shopping click trend for fixed scented-product terms (one request, one scale)."""
+    terms = cfg.get("shopping_terms") or []
+    if not terms:
+        return {}
+    try:
+        return datalab.shopping_keywords(terms, cfg["shopping_category"], ym, cfg["datalab_months"], until)
+    except RuntimeError as e:
+        log.warning("datalab shopping keywords failed: %s", e)
+        return {"error": str(e)}
+
+
 def datalab_block(terms: list[str], ym: str, cfg: dict, until=None) -> dict:
     out = {}
     try:
@@ -234,6 +246,61 @@ def datalab_block(terms: list[str], ym: str, cfg: dict, until=None) -> dict:
     return out
 
 
+def upcoming_events(clusters: list[Cluster], after, days: int = 60, limit: int = 20) -> list[dict]:
+    """Industry events dated in articles that end after `after` and start within `days`.
+
+    Dates and quotes were checked in enrich (verbatim quote holding the start day).
+    The same event reported by several outlets is listed once.
+    """
+    from datetime import date, timedelta
+    horizon = after + timedelta(days=days)
+    out: list[dict] = []
+    for c in clusters:
+        for d in c.docs:
+            for e in d["extraction"].get("events", []):
+                start = date.fromisoformat(e["start_date"])
+                end = date.fromisoformat(e["end_date"]) if e.get("end_date") else start
+                if end <= after or start > horizon:
+                    continue
+                dup = next((x for x in out if x["start"] == start.isoformat()
+                            and similar(_nospace(x["name"]), _nospace(e["name"]), 0.35)), None)
+                if dup:
+                    dup["n_docs"] += 1
+                    continue
+                out.append({"name": e["name"], "start": start.isoformat(),
+                            "end": end.isoformat() if end != start else None,
+                            "place": e.get("place"), "quote": e["quote"], "doc_id": d["doc_id"],
+                            "n_docs": 1})
+    return sorted(out, key=lambda x: x["start"])[:limit]
+
+
+def _ingredient_key(name: str) -> str:
+    """'그로우키(GROWKEY™)' and '그로우키' are one ingredient; spacing and case ignored."""
+    return _nospace(re.sub(r"\(.*?\)|[™®]", "", name))
+
+
+def ingredients(clusters: list[Cluster], min_clusters: int = 2, limit: int = 10) -> dict:
+    """Ingredients named in articles, ranked by how many distinct news items name them."""
+    seen: dict[str, set] = defaultdict(set)
+    label: dict[str, Counter] = defaultdict(Counter)
+    reps: dict[str, list] = defaultdict(list)
+    for c in clusters:
+        for d in c.docs:
+            for g in d["extraction"].get("ingredients", []):
+                k = _ingredient_key(g["name"])
+                if not k:
+                    continue
+                label[k][re.sub(r"\(.*?\)|[™®]", "", g["name"]).strip()] += 1
+                if c.cid not in seen[k]:
+                    seen[k].add(c.cid)
+                    if len(reps[k]) < 2:
+                        reps[k].append({"doc_id": d["doc_id"], "title": d["title"]})
+    items = [{"name": label[k].most_common(1)[0][0], "n": len(v), "reps": reps[k]}
+             for k, v in seen.items() if len(v) >= min_clusters]
+    items.sort(key=lambda x: x["n"], reverse=True)
+    return {"items": items[:limit], "n_named": len(seen)}
+
+
 def run(clusters: list[Cluster], prev: list[Cluster], ym: str, until=None) -> dict:
     cfg = load("report")
     ents = Entities()
@@ -248,4 +315,8 @@ def run(clusters: list[Cluster], prev: list[Cluster], ym: str, until=None) -> di
         "market": market(clusters),
         "regulation": regulation(clusters, cfg.get("regulation_sources", [])),
         "calendar": cfg.get("regulation_calendar", []),
+        "events": upcoming_events(clusters, until or month_bounds(ym)[1],
+                                  cfg["sections"]["events"].get("days", 60)),
+        "ingredients": ingredients(clusters, cfg["sections"]["ingredients"].get("min_clusters", 2)),
+        "shopping_terms": shopping_block(cfg, ym, until),
     }

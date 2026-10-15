@@ -96,6 +96,7 @@ a:focus-visible{outline:2px solid var(--k-launch);outline-offset:2px}
 .motion .kbar .val{transform:scaleX(0)}
 .motion .kbar.in .val{transform:scaleX(1)}
 .kbar p{margin:0;font-size:14.5px}
+.kbar p.reps{color:var(--muted);font-size:13.5px}
 .reps{color:var(--muted)}
 
 /* notes ranking */
@@ -222,10 +223,11 @@ td.mono{white-space:nowrap}
 </section>
 
 {{ b.search_slide('04', ['var(--k-market)','var(--k-launch)','var(--k-reg)','var(--k-comp)']) }}
+{{ b.shopping_slide('05', ['var(--k-market)','var(--k-launch)','var(--k-reg)','var(--k-comp)','var(--ink)']) }}
 
 {% if viz.notes %}{% set nmax = viz.notes|map(attribute='count')|max %}
 <section class="slide" data-title="향 노트 순위">
-  <header class="s-head"><div class="s-kicker">05</div><h2 class="rv">향 노트 순위</h2>
+  <header class="s-head"><div class="s-kicker">06</div><h2 class="rv">향 노트 순위</h2>
     <p class="s-desc rv">향 노트를 밝힌 제품 {{ agg.notes.n }}개 가운데 노트별로 몇 개 제품에 쓰였는지 셌습니다.</p></header>
   <div class="s-body">
     <ol class="rank stage">{% for n in viz.notes[:14] %}<li style="--i:{{ loop.index0 }};--w:{{ '%.3f'|format(n.count / nmax) }}"><span class="no">{{ '%02d'|format(loop.index) }}</span><span>{{ n.note }}</span><span class="tr"><i></i></span><span class="ct">{{ n.count }}개</span></li>{% endfor %}</ol>
@@ -233,11 +235,13 @@ td.mono{white-space:nowrap}
   <footer class="s-foot"><span>{{ cfg.title }} {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 {% endif %}
-{{ b.notes_table_slides('05') }}
-{{ b.launch_slides('06') }}
-{{ b.market_slides('07') }}
-{{ b.reg_slides('08') }}
-{{ b.calendar_slide('10') }}
+{{ b.notes_table_slides('06') }}
+{{ b.launch_slides('07') }}
+{{ b.ingredient_slide('08') }}
+{{ b.market_slides('09') }}
+{{ b.events_slides('10') }}
+{{ b.reg_slides('11') }}
+{{ b.calendar_slide('12') }}
 
 <!--SOURCE_SLIDES-->
 </main>

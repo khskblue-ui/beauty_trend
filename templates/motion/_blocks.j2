@@ -64,6 +64,44 @@
 {% endif %}
 {%- endmacro %}
 
+{% macro shopping_slide(kicker, colors) -%}
+{% set sh = agg.shopping_terms %}
+{% if sh and sh.series %}{% set g = line_paths(sh.series, None, 1100, 380, (56, 16, 30, 190), 22, 4) %}
+{% call slide(cfg.sections.shopping.title, kicker, '향이 중요한 제품 다섯 가지의 주별 클릭량입니다.', 'sl-search') %}
+<figure class="chart-wrap rv">
+  <svg class="chart" viewBox="0 0 {{ g.width }} {{ g.height }}" role="img" aria-label="향이 중요한 제품의 네이버 쇼핑 주별 클릭량">
+    {% for t in g.ticks %}<line class="grid" x1="{{ g.x0 }}" x2="{{ g.x1 }}" y1="{{ '%.1f'|format(t.y) }}" y2="{{ '%.1f'|format(t.y) }}"/><text class="tick" x="{{ g.x0 - 8 }}" y="{{ '%.1f'|format(t.y + 4) }}" text-anchor="end">{{ '%.0f'|format(t.v|float) }}</text>{% endfor %}
+    {% for p in g.periods %}<text class="tick" x="{{ '%.1f'|format(p.x) }}" y="{{ g.height - 6 }}" text-anchor="middle">{{ p.p }}</text>{% endfor %}
+    {% for l in g.lines %}{% set ch = sh.change.get(l.term) %}<path class="draw" d="{{ l.d }}" stroke="{{ colors[loop.index0 % colors|length] }}"/>
+    <text class="lbl" x="{{ '%.1f'|format(l.end[0] + 10) }}" y="{{ '%.1f'|format(l.label_y + 5) }}" fill="{{ colors[loop.index0 % colors|length] }}">{{ l.term }}{% if ch is not none %} {{ '%+.0f'|format(ch * 100) }}%{% endif %}</text>{% endfor %}
+  </svg>
+  <figcaption class="note">화장품/미용 분야 안의 클릭량이고, 가장 많은 주를 100으로 둔 값입니다. 이름 옆 숫자는 최근 4주를 그 앞 4주와 비교한 변화입니다(네이버 쇼핑인사이트, {{ sh.start }} ~ {{ sh.end }}).</figcaption>
+</figure>
+{% endcall %}
+{% endif %}
+{%- endmacro %}
+
+{% macro ingredient_slide(kicker) -%}
+{% set ig = agg.ingredients %}
+{% call slide(cfg.sections.ingredients.title, kicker, '기사에 이름이 나온 원료와 성분입니다. 숫자는 그 이름이 나온 소식의 수입니다.', 'sl-ingr') %}
+{% if ig['items'] %}{% set imax = ig['items'][0].n %}
+<ul class="kbars">{% for x in ig['items'][:7] %}<li class="kbar rv" style="--i:{{ loop.index0 }};--w:{{ '%.3f'|format(x.n / imax) }}"><div class="t">{{ x.name }}<small>관련 소식 {{ x.n }}건</small></div>
+  <div><div class="track"><div class="val"></div></div><p class="reps">{% for r in x.reps %}{{ r.title }}{{ cite([r.doc_id]) }}{{ ', ' if not loop.last }}{% endfor %}</p></div></li>{% endfor %}</ul>
+{% else %}<p class="reduced rv">분석 기간에 두 건 이상의 소식에 이름이 나온 원료나 성분이 없습니다.</p>{% endif %}
+{% endcall %}
+{%- endmacro %}
+
+{% macro events_slides(kicker) -%}
+{% for chunk in (agg.events|batch(ROWS)|list or [[]]) %}
+{% call slide(cfg.sections.events.title, kicker, (period.end ~ ' 이후 두 달 안에 열리는 행사입니다.') if loop.first else '', 'sl-table', pg(loop)) %}
+{% if chunk %}<table class="rv"><thead><tr><th>날짜</th><th>행사</th><th>장소</th><th class="c">출처</th></tr></thead><tbody>
+{% for e in chunk %}<tr><td class="mono">{{ e.start[5:] }}{% if e.end %} ~ {{ e.end[5:] }}{% endif %}</td><td>{{ e.name }}</td><td>{{ e.place or '-' }}</td><td class="c">{{ cite([e.doc_id]) }}</td></tr>{% endfor %}
+</tbody></table>
+{% else %}<p class="rv empty">기사에 날짜가 나온 다가오는 행사가 없습니다.</p>{% endif %}
+{% endcall %}
+{% endfor %}
+{%- endmacro %}
+
 {% macro notes_table_slides(kicker) -%}
 {% if agg.notes.n %}
 {% for chunk in agg.notes['items']|batch(ROWS) %}

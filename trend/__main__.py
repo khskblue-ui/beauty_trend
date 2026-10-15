@@ -1,7 +1,7 @@
 """CLI: python -m trend <command>.
 
   collect [--only a,b] [--since YYYY-MM-DD] [--naver-pages N] [--backfill-since YYYY-MM-DD]
-  enrich  [--month YYYY-MM] [--limit N]
+  enrich  [--month YYYY-MM] [--limit N] [--upgrade] [--workers N]
   report  --month YYYY-MM [--dry-run] [--until YYYY-MM-DD]   --until inside the month = interim report
   render  --run-dir DIR [--no-pdf]   re-render a finished run with current templates (no LLM calls)
   health  [--days 7]
@@ -27,6 +27,8 @@ def main(argv=None) -> int:
     e = sub.add_parser("enrich")
     e.add_argument("--month")
     e.add_argument("--limit", type=int)
+    e.add_argument("--upgrade", action="store_true", help="redo docs enriched with an older prompt")
+    e.add_argument("--workers", type=int, default=4)
     r = sub.add_parser("report")
     r.add_argument("--month", required=True)
     r.add_argument("--dry-run", action="store_true")
@@ -49,7 +51,7 @@ def main(argv=None) -> int:
         return 0
     if a.cmd == "enrich":
         from .enrich import enrich_pending
-        print(json.dumps(enrich_pending(a.month, a.limit), ensure_ascii=False))
+        print(json.dumps(enrich_pending(a.month, a.limit, a.workers, a.upgrade), ensure_ascii=False))
         return 0
     if a.cmd == "report":
         from .report import build

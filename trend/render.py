@@ -112,7 +112,7 @@ def bar_chart(rows: list[tuple[str, float]], width: int = 640, unit: str = "") -
 
 
 def line_paths(series: dict, anchor: str | None, width: int, height: int,
-               pad=(40, 16, 28, 110), gap: float = 15) -> dict:
+               pad=(40, 16, 28, 110), gap: float = 15, every: int = 1) -> dict:
     """SVG geometry for multi-line charts (vs-anchor ratios). pad = left, top, bottom, right."""
     terms = [t for t in series if t != anchor]
     if not terms:
@@ -141,7 +141,8 @@ def line_paths(series: dict, anchor: str | None, width: int, height: int,
             ln["label_y"] = bottom
         bottom = ln["label_y"] - gap
     ticks = [{"y": Y(vmax * k / 3), "v": f"{vmax * k / 3:.2f}"} for k in range(4)]
-    labels = [{"x": X(i), "p": p[2:]} for i, p in enumerate(periods)]
+    labels = [{"x": X(i), "p": p[2:] if every == 1 else p[5:]} for i, p in enumerate(periods)
+              if i % every == 0]
     return {"lines": lines, "ticks": ticks, "periods": labels, "x0": pl, "x1": pl + w,
             "y0": pt, "y1": pt + h, "width": width, "height": height}
 

@@ -16,6 +16,11 @@ sections:
   market:       {title: 시장 동향, core: true, min_items: 3}
   regulation:   {title: 규제, core: true}
   signals:      {title: 영업 참고 사항, core: false, hidden_without_customers: true}
+  events:       {title: 다가오는 업계 일정, core: false, days: 60}
+  ingredients:  {title: 원료와 성분, core: false, min_clusters: 2}
+  shopping:     {title: 네이버 쇼핑 클릭 추이, core: false}
+# 쇼핑 클릭 추이에 넣는 검색어: 향이 중요한 제품(화장품/미용 분야 안, 한 요청에 5개까지)
+shopping_terms: [향수, 바디미스트, 헤어미스트, 핸드크림, 바디로션]
 # 규제 섹션에는 당국이 공식 발표·공시한 것만 싣는다(2026-10-15 요청).
 # IFRA(업계 자율 기준)·경쟁 향료사 발표는 리포트에서 뺀다(수집은 계속).
 regulation_sources: [mfds_press, mfds_notice, mfds_preannounce, mfds_law, eu_cosmetics_reg, fda_fedreg]

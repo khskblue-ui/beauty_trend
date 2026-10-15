@@ -219,3 +219,35 @@ def test_launch_groups_keep_all_fragrance_and_rank_others_by_trade_press():
     assert len(g["fragrance"]) == 3
     assert [x["name"] for x in g["other"]] == ["M", "T"]      # trade press and wide coverage first, shown by date
     assert g["other_total"] == 3 and g["by_category_text"] == "스킨케어 2개, 메이크업 1개"
+
+
+def test_event_needs_verbatim_quote_with_the_start_day():
+    from trend.enrich import _event_ok
+    text = "코이코는 1일부터 3일까지 탕에랑에서 열리는 코스모뷰티 인도네시아에 참가한다."
+    q = "1일부터 3일까지 탕에랑에서 열리는 코스모뷰티 인도네시아에 참가한다."
+    ok = {"name": "코스모뷰티 인도네시아", "start_date": "2026-10-01", "end_date": "2026-10-03", "quote": q}
+    assert _event_ok(ok, text)
+    assert not _event_ok({**ok, "start_date": "2026-10-05"}, text)          # day not in the quote
+    assert not _event_ok({**ok, "end_date": "2026-09-30"}, text)            # ends before it starts
+    assert not _event_ok({**ok, "quote": "지어낸 문장 1일"}, text)
+
+
+def test_upcoming_events_window_and_dedupe():
+    from datetime import date
+    from trend.aggregate import upcoming_events
+    ev = lambda name, s, e=None: {"name": name, "start_date": s, "end_date": e, "place": None, "quote": "q"}
+    docs = [rec("1", "A", events=[ev("K-뷰티엑스포 코리아 2026", "2026-10-15", "2026-10-17"),
+                                  ev("지난 행사", "2026-10-02")]),
+            rec("2", "B", events=[ev("K뷰티엑스포 코리아", "2026-10-15", "2026-10-17"), ev("먼 행사", "2027-03-01")])]
+    out = upcoming_events(cluster(docs), date(2026, 10, 15), days=60)
+    assert [(x["name"], x["n_docs"]) for x in out] == [("K-뷰티엑스포 코리아 2026", 2)]
+
+
+def test_ingredients_group_spellings_and_count_news_items():
+    from trend.aggregate import ingredients
+    g = lambda n: {"name": n, "quote": n}
+    docs = [rec("1", "엑소좀 앰플 출시", ingredients=[g("엑소좀"), g("그로우키(GROWKEY™)")]),
+            rec("2", "엑소좀 원료 공급 확대", date="2026-09-20T09:00:00+09:00", ingredients=[g("Exosome"), g("엑소좀")]),
+            rec("3", "그로우키 원료 수상", date="2026-09-25T09:00:00+09:00", ingredients=[g("그로우키")])]
+    out = ingredients(cluster(docs), min_clusters=2)
+    assert [(x["name"], x["n"]) for x in out["items"]] == [("엑소좀", 2), ("그로우키", 2)]

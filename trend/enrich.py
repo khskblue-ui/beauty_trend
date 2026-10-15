@@ -16,7 +16,7 @@ from .llm import LLMError, generate_json
 from .util import kst_date, now_kst, utcnow_iso
 
 log = logging.getLogger(__name__)
-PROMPT_VERSION = "enrich-v2"   # v2: launch_status (2026-10-15)
+PROMPT_VERSION = "enrich-v3"   # v2: launch_status; v3: events, ingredients (2026-10-15)
 CATEGORIES = ["fragrance", "skincare", "makeup", "hair", "body", "ingredient",
               "regulation", "business", "retail", "other"]
 EVENTS = ["product_launch", "business", "regulation", "market_trend", "ingredient",
@@ -49,9 +49,26 @@ SCHEMA = {
         }},
         "key_fact": {"type": "STRING", "nullable": True},
         "key_fact_quote": {"type": "STRING", "nullable": True},
+        "events": {"type": "ARRAY", "items": {
+            "type": "OBJECT",
+            "properties": {
+                "name": {"type": "STRING"},
+                "start_date": {"type": "STRING"},
+                "end_date": {"type": "STRING", "nullable": True},
+                "place": {"type": "STRING", "nullable": True},
+                "quote": {"type": "STRING"},
+            },
+            "required": ["name", "start_date", "end_date", "place", "quote"],
+        }},
+        "ingredients": {"type": "ARRAY", "items": {
+            "type": "OBJECT",
+            "properties": {"name": {"type": "STRING"}, "quote": {"type": "STRING"}},
+            "required": ["name", "quote"],
+        }},
     },
     "required": ["relevant", "category", "event_type", "countries", "brands", "companies",
-                 "keywords", "is_press_release", "products", "key_fact", "key_fact_quote"],
+                 "keywords", "is_press_release", "products", "key_fact", "key_fact_quote",
+                 "events", "ingredients"],
 }
 
 SYSTEM = """너는 향료 회사 영업팀을 위한 뷰티·향료 업계 기사 분석기다.
@@ -66,7 +83,12 @@ SYSTEM = """너는 향료 회사 영업팀을 위한 뷰티·향료 업계 기�
 - relevant: 화장품·향수·향료·뷰티 산업과 직접 관련이면 true. '향수(鄕愁)' 같은 동음이의어나 무관한 기사면 false.
 - is_press_release: 특정 기업이 배포한 신제품·실적 홍보성 보도자료로 보이면 true.
 - countries: 관련 국가 ISO 3166-1 alpha-2 코드.
-- key_fact: 기사의 핵심 사실 한 문장을 한국어로 요약(숫자 금지). key_fact_quote는 그 근거 원문."""
+- key_fact: 기사의 핵심 사실 한 문장을 한국어로 요약(숫자 금지). key_fact_quote는 그 근거 원문.
+- events: 기사에 날짜가 적힌 업계 행사(박람회, 전시회, 신제품 발표회, 세미나, 시상식, 팝업스토어). 날짜가 없으면 넣지 않는다.
+  start_date와 end_date는 YYYY-MM-DD. 원문에 연도가 없으면 게시일의 연도로 쓴다. 하루 행사면 end_date는 null.
+  name은 원문의 행사 이름, place는 원문에 적힌 장소(없으면 null), quote는 날짜가 들어 있는 원문 문장.
+- ingredients: 기사에 이름이 나온 화장품 원료나 성분, 향료 원료(성분명, 소재명). '원료', '성분' 같은 일반어는 넣지 않는다.
+  name은 원문 표기 그대로, quote는 그 이름이 들어 있는 원문 문장."""
 
 
 def _norm(s: str) -> str:
@@ -82,6 +104,24 @@ def source_text(doc: dict) -> str:
     from .collect.article import clean_body
     body = clean_body(store.load_body(doc["doc_id"])) or ""
     return "\n".join(x for x in (doc["title"], doc.get("summary", ""), body) if x)
+
+
+GENERIC_INGREDIENT = {"원료", "성분", "소재", "천연 원료", "원료 소재", "유효 성분", "향료", "추출물"}
+
+
+def _event_ok(e: dict, text: str) -> bool:
+    """Verbatim quote, ISO dates, and the start day number written in the quote."""
+    from datetime import date
+    if not quote_ok(e.get("quote"), text) or not _norm(e.get("name")):
+        return False
+    try:
+        start = date.fromisoformat(e.get("start_date") or "")
+        if e.get("end_date"):
+            if date.fromisoformat(e["end_date"]) < start:
+                return False
+    except ValueError:
+        return False
+    return re.search(rf"(?<!\d){start.day}(?!\d)", e["quote"]) is not None
 
 
 def check(ex: dict, text: str) -> dict:
@@ -112,6 +152,10 @@ def check(ex: dict, text: str) -> dict:
             dropped.append("key_fact")
         ex["key_fact"], ex["key_fact_quote"] = None, None
     ex["brands"] = [b for b in ex.get("brands", []) if _norm(b).lower() in _norm(text).lower()]
+    ex["events"] = [e for e in ex.get("events", []) if _event_ok(e, text)]
+    ex["ingredients"] = [g for g in ex.get("ingredients", [])
+                         if quote_ok(g.get("quote"), text) and _norm(g.get("name")).lower() in _norm(g["quote"]).lower()
+                         and _norm(g["name"]) not in GENERIC_INGREDIENT]
     ex["dropped"] = dropped
     return ex
 
@@ -139,10 +183,16 @@ def doc_month(doc: dict) -> str:
 
 
 def enrich_pending(month: str | None = None, limit: int | None = None,
-                   workers: int = 4) -> dict:
-    """Enrich raw docs that have no enriched record yet (optionally one month)."""
+                   workers: int = 4, upgrade: bool = False) -> dict:
+    """Enrich raw docs that have no enriched record yet (optionally one month).
+
+    upgrade=True also redoes docs enriched with an older PROMPT_VERSION.
+    """
     root = store.data_dir() / "enriched"
-    done = {p.stem for p in root.glob("*/*.json")} if root.exists() else set()
+    done = set()
+    for p in (root.glob("*/*.json") if root.exists() else []):
+        if not upgrade or (store.read_json(p, {}) or {}).get("prompt_version") == PROMPT_VERSION:
+            done.add(p.stem)
     todo = [d for d in store.iter_raw() if d["doc_id"] not in done
             and (month is None or doc_month(d) == month)]
     todo = list({d["doc_id"]: d for d in todo}.values())[:limit]
