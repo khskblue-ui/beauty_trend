@@ -213,6 +213,13 @@ def viz_data(ctx: dict) -> dict:
     }
 
 
+def eul(word: str) -> str:
+    """Quoted word + object particle by its final consonant: 화장품 → '화장품'을, 뷰티 → '뷰티'를."""
+    last = word[-1] if word else ""
+    has_final = "가" <= last <= "힣" and (ord(last) - 0xAC00) % 28 != 0
+    return f"'{word}'{'을' if has_final else '를'}"
+
+
 def with_period(ctx: dict) -> dict:
     """Fill display fields of the analysis window (runs saved before 2026-10-15 lack it)."""
     from .util import month_bounds
@@ -243,6 +250,7 @@ def render_all(ctx: dict, out_dir: Path, pdf: bool = True) -> dict[str, Path]:
                       autoescape=select_autoescape(["html", "j2"]))
     cites = Citations(ctx["by_id"])
     from .aggregate import launch_groups
+    env.filters["eul"] = eul
     env.globals.update(cite=cites, line_chart=line_chart, bar_chart=bar_chart,
                        line_paths=line_paths, chromatogram=chromatogram, launch_groups=launch_groups)
     html_doc = env.get_template("report.html.j2").render(**ctx, cites=cites)

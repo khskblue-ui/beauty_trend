@@ -16,7 +16,7 @@
 {% macro pg(loop) -%}{% if loop.length > 1 %} ({{ loop.index }}/{{ loop.length }}){% endif %}{%- endmacro %}
 
 {% macro sents(items, empty) -%}
-{% if items %}<ul class="sents">{% for s in items %}<li class="rv" style="--i:{{ loop.index0 }}">{{ s.text }}{{ cite(s.doc_ids) }}</li>{% endfor %}</ul>
+{% if items %}<ul class="sents">{% for s in items %}<li class="rv" style="--i:{{ loop.index0 }}">{{ s.text }}{{ cite(s.doc_ids) }}{% if by_id[s.doc_ids[0]].evidence_grade == 'headline' %} <span class="tag">제목과 요약 기준</span>{% endif %}</li>{% endfor %}</ul>
 {% else %}<p class="reduced rv">{{ empty }}</p>{% endif %}
 {%- endmacro %}
 
@@ -32,20 +32,20 @@
 {% macro banners() -%}
 {% if status == 'dry_run' %}<p class="banner">시험본입니다. 수신자에게 보내지 않았습니다.</p>{% endif %}
 {% if status == 'hold' %}<p class="banner">발행 보류: 핵심 섹션 {{ gate.core_total }}개 중 {{ gate.core_failed }}개가 기준에 못 미칩니다</p>{% endif %}
-{% if not has_prev %}<p class="banner">지난달 자료가 없어 전월 비교는 하지 않았습니다</p>{% endif %}
+{% if not has_prev and not period.interim %}<p class="banner">지난달 자료가 없어 전월 비교는 하지 않았습니다.</p>{% endif %}
 {%- endmacro %}
 
 {# ---------- slides ---------- #}
 
 {% macro summary_slide(kicker) -%}
-{% call slide('이달의 요약', kicker, '키워드, 시장, 규제에서 한 줄씩 골랐습니다.', 'sl-summary') %}
+{% call slide('이달의 요약', kicker, '', 'sl-summary') %}
 {% if summary %}<ol class="summary">{% for s in summary %}<li class="rv" style="--i:{{ loop.index0 }}"><span>{{ s.text }}{{ cite(s.doc_ids) }}</span></li>{% endfor %}</ol>
 {% else %}<p class="reduced">출처로 확인된 문장이 없어 요약을 싣지 않았습니다.</p>{% endif %}
 {% endcall %}
 {%- endmacro %}
 
 {% macro datalab_method() -%}
-집계 방법: 네이버 데이터랩 검색어 트렌드에 키워드와 '{{ viz.search.anchor }}'를 한 번에 넣어 월별 검색량 지수(PC와 모바일 합계, 모든 연령과 성별)를 받고, 각 달의 키워드 지수를 같은 달 '{{ viz.search.anchor }}' 지수로 나눴습니다. 1이면 '{{ viz.search.anchor }}'만큼 검색됐다는 뜻입니다. 기간은 {{ viz.search.series[viz.search.anchor][0][0] }} ~ {{ period.end }}{% if period.interim %}이고, {{ period.end[5:7]|int }}월은 {{ period.end[8:]|int }}일까지만 셌습니다{% endif %}.
+집계 방법: 네이버 데이터랩 검색어 트렌드에 키워드와 {{ viz.search.anchor|eul }} 한 번에 넣어 월별 검색량 지수(PC와 모바일 합계, 모든 연령과 성별)를 받고, 각 달의 키워드 지수를 같은 달 '{{ viz.search.anchor }}' 지수로 나눴습니다. 1이면 '{{ viz.search.anchor }}'만큼 검색됐다는 뜻입니다. 기간은 {{ viz.search.series[viz.search.anchor][0][0] }} ~ {{ period.end }}{% if period.interim %}이고, {{ period.end[5:7]|int }}월은 {{ period.end[8:]|int }}일까지만 셌습니다{% endif %}.
 {%- endmacro %}
 
 {% macro search_slide(kicker, colors) -%}
@@ -77,14 +77,14 @@
 {%- endmacro %}
 
 {% macro launch_table(rows) -%}
-<table class="rv"><thead><tr><th>출시일</th><th>브랜드</th><th>제품</th><th>향 노트</th><th class="c">출처</th></tr></thead><tbody>
+<table class="rv"><thead><tr><th>날짜</th><th>브랜드</th><th>제품</th><th>향 노트</th><th class="c">출처</th></tr></thead><tbody>
 {% for x in rows %}<tr><td class="mono">{{ x.launch_date }}{% if x.date_basis == 'published' %}*{% endif %}</td><td>{{ x.brand or '-' }}</td><td>{{ x.name }}{% if x.press_release %} <span class="tag">보도자료</span>{% endif %}</td><td>{{ x.notes|join(', ') if x.notes else '-' }}</td><td class="c">{{ cite([x.doc_id]) }}</td></tr>{% endfor %}
 </tbody></table>
 {%- endmacro %}
 
 {% macro launch_slides(kicker) -%}
 {% set lg = launch_groups(agg.launches, cfg.sections.launches.other_max) %}
-{% set star = '날짜 옆 * 표시는 기사에 출시일이 없어 기사 게재일을 적은 것입니다.' %}
+{% set star = '날짜는 기사에 적힌 출시일이고, * 표시가 붙은 날짜는 출시일이 기사에 없어 기사가 나온 날을 적은 것입니다.' %}
 {% for chunk in (lg.fragrance|batch(ROWS)|list or [[]]) %}
 {% call slide('향수 신제품', kicker, '분석 기간에 출시됐다고 기사로 확인된 향수입니다. ' ~ star if loop.first else '', 'sl-table', pg(loop)) %}
 {% if chunk %}{{ launch_table(chunk) }}{% else %}<p class="rv empty">분석 기간에 출시가 확인된 향수가 없습니다.</p>{% endif %}
@@ -93,7 +93,7 @@
 {% endfor %}
 {% if lg.other %}
 {% for chunk in lg.other|batch(ROWS) %}
-{% call slide('그 밖의 신제품', kicker, ('전체 ' ~ lg.other_total ~ '개 가운데 ' ~ lg.other|length ~ '개입니다(' ~ lg.by_category_text ~ '). 전체 목록은 PDF에 있습니다.') if loop.first else '', 'sl-table', pg(loop)) %}
+{% call slide('향수 외 신제품', kicker, ('향수 외 신제품은 모두 ' ~ lg.other_total ~ '개입니다(' ~ lg.by_category_text ~ '). 여기에는 업계지가 보도한 제품을 중심으로 ' ~ lg.other|length ~ '개를 싣고, 전체 목록은 PDF에 있습니다.') if loop.first else '', 'sl-table', pg(loop)) %}
 {{ launch_table(chunk) }}
 {% endcall %}
 {% endfor %}
@@ -103,13 +103,13 @@
 {% macro market_slides(kicker) -%}
 {% set kr = market.kr %}{% set gl = market['global'] %}
 {% if kr|length + gl|length <= SENTS %}
-{% call slide('시장 동향', kicker, '국내와 해외 소식입니다. 해외 소식 일부는 기사 제목과 요약만 확인했습니다.', 'sl-market') %}
+{% call slide('시장 동향', kicker, '', 'sl-market') %}
 <h3 class="rv">국내</h3>{{ sents(kr, '분석 기간에는 출처로 확인된 국내 시장 소식이 없습니다.') }}
 <h3 class="rv">해외</h3>{{ sents(gl, '분석 기간에는 출처로 확인된 해외 시장 소식이 없습니다.') }}
 {% endcall %}
 {% else %}
 {% call slide('국내 시장 동향', kicker, '', 'sl-market') %}{{ sents(kr, '분석 기간에는 출처로 확인된 국내 시장 소식이 없습니다.') }}{% endcall %}
-{% call slide('해외 시장 동향', kicker, '일부는 기사 제목과 요약만 확인했습니다.', 'sl-market') %}{{ sents(gl, '분석 기간에는 출처로 확인된 해외 시장 소식이 없습니다.') }}{% endcall %}
+{% call slide('해외 시장 동향', kicker, '', 'sl-market') %}{{ sents(gl, '분석 기간에는 출처로 확인된 해외 시장 소식이 없습니다.') }}{% endcall %}
 {% endif %}
 {{ reduced('market') if gate.sections.market.status == 'reduced' }}
 {%- endmacro %}

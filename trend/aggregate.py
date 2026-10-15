@@ -114,7 +114,7 @@ def launches(clusters: list[Cluster], ym: str, ents: Entities, until=None) -> li
 
 TRADE_GROUPS = {"kr_trade", "global_trade"}
 CATEGORY_KO = {"skincare": "스킨케어", "makeup": "메이크업", "hair": "헤어", "body": "바디",
-               "retail": "유통", "ingredient": "원료", "fragrance": "향수"}
+               "ingredient": "원료", "fragrance": "향수"}
 
 
 def launch_groups(items: list[dict], other_max: int) -> dict:

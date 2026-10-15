@@ -12,7 +12,7 @@ from .config import load
 from .llm import LLMError, generate_json
 
 log = logging.getLogger(__name__)
-PROMPT_VERSION = "write-v4"  # v2: one card per sentence; v3: style rules; v4: plain-korean-writing rules
+PROMPT_VERSION = "write-v5"  # v2: one card per sentence; v3: style rules; v4: plain-korean-writing rules
 
 SENTENCES = {
     "type": "OBJECT",
@@ -46,7 +46,9 @@ SYSTEM = """너는 향료 회사 영업 담당자가 상사에게 제출할 월�
 7. 보도자료의 홍보 문구(혁신, 독보적, 본연의 등)는 옮기지 않는다. 회사가 한 일만 쓴다.
 8. 문장 첫머리에 누가 무엇을 했는지 이름을 댄다. 회사, 브랜드, 제품, 기관 이름을 '이 회사', '해당 제품'처럼 가리키는 말로 바꾸지 않는다.
 9. 사물이나 시장에 사람의 동작을 붙이지 않고, 은유로 돌려 말하지 않는다. 업계에서 쓰는 말은 그대로 쓴다.
-10. 같은 문장 틀을 여러 문장에 되풀이하지 않는다. 문장마다 그 사실에 맞는 동사를 고른다.
+10. 같은 문장 틀을 여러 문장에 되풀이하지 않는다. 문장마다 그 사실에 맞는 동사를 고른다. 목적을 붙이는 '~하려고'는 근거에 목적이 적혀 있을 때만 쓴다.
+11. 끝맺음은 근거의 시점에 맞춘다. 이미 한 일은 '~했다', 앞으로 할 일은 '~할 계획이다'처럼 쓴다. 현재형 '~한다'로 뭉뚱그리지 않는다.
+12. 행사나 광고 문구를 옮길 때는 작은따옴표로 묶는다.
 문체 규칙:
 """
 

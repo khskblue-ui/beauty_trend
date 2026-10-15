@@ -170,11 +170,11 @@ td.mono{white-space:nowrap}
   <div class="mast">
     <div class="bignum rv"><small>{{ month[:4] }}</small>{{ month[5:] }}</div>
     <div>
-      <h1 class="rv" style="--i:1">{{ period.span }} 업계 소식을 날짜순으로 모았습니다</h1>
+      <h1 class="rv" style="--i:1">{{ period.span }} 뷰티 향료 업계 소식</h1>
       <div class="stats rv" style="--i:2">
-        <div class="stat"><b data-count="{{ agg.counts.docs }}">{{ agg.counts.docs }}</b><span>분석 기사</span></div>
-        <div class="stat"><b data-count="{{ agg.counts.clusters }}">{{ agg.counts.clusters }}</b><span>같은 내용을 묶은 보도</span></div>
-        <div class="stat"><b data-count="{{ viz.events|length }}">{{ viz.events|length }}</b><span>날짜별로 정리한 주요 소식</span></div>
+        <div class="stat"><b data-count="{{ agg.counts.docs }}">{{ agg.counts.docs }}</b><span>분석한 기사</span></div>
+        <div class="stat"><b data-count="{{ agg.counts.clusters }}">{{ agg.counts.clusters }}</b><span>서로 다른 소식</span></div>
+        <div class="stat"><b data-count="{{ agg.launches|length }}">{{ agg.launches|length }}</b><span>출시가 확인된 신제품</span></div>
       </div>
       <p class="note rv" style="--i:3">분석 기간 {{ period.start }} ~ {{ period.end }}(한국 시간){% if period.interim %}, 월중 중간 보고라 전월 비교는 넣지 않음{% endif %}, 수출입 통계는 아직 싣지 않음, 작성 {{ generated }}</p>
       <div class="rv" style="--i:4">{{ b.banners() }}</div>
@@ -210,11 +210,11 @@ td.mono{white-space:nowrap}
 
 <section class="slide" data-title="이달의 키워드">
   <header class="s-head"><div class="s-kicker">03</div><h2 class="rv">이달의 키워드</h2>
-    <p class="s-desc rv">서로 다른 보도에서 두 번 이상 다뤄진 말입니다.</p></header>
+    <p class="s-desc rv">업계 기사에 자주 나온 용어입니다. 숫자는 그 용어가 나온 소식의 수이고, 같은 소식을 다룬 기사는 하나로 셌습니다.</p></header>
   <div class="s-body">
   {% if gate.sections.keywords.status == 'ok' %}
   {% set kmax = (keywords|map(attribute='n_clusters')|max) if keywords else 1 %}
-  <ul class="kbars">{% for k in keywords %}<li class="kbar rv" style="--i:{{ loop.index0 }};--w:{{ '%.3f'|format(k.n_clusters / kmax) }}"><div class="t">{{ k.term }}<small>관련 보도 <span class="mono" data-count="{{ k.n_clusters }}">{{ k.n_clusters }}</span>건{% if agg.keywords.has_prev %}, 전월 {{ k.n_prev }}건{% endif %}</small></div>
+  <ul class="kbars">{% for k in keywords %}<li class="kbar rv" style="--i:{{ loop.index0 }};--w:{{ '%.3f'|format(k.n_clusters / kmax) }}"><div class="t">{{ k.term }}<small>관련 소식 <span class="mono" data-count="{{ k.n_clusters }}">{{ k.n_clusters }}</span>건{% if agg.keywords.has_prev %}, 전월 {{ k.n_prev }}건{% endif %}</small></div>
     <div><div class="track"><div class="val"></div></div><p>{{ b.kw_explain(k) }}</p></div></li>{% endfor %}</ul>
   {% else %}{{ b.reduced('keywords') }}{% endif %}
   </div>
