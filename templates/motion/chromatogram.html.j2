@@ -200,7 +200,7 @@ td.mono{white-space:nowrap}
       <path class="trace draw" d="{{ gc.d }}"/>
       <line class="axis" x1="{{ gc.left }}" x2="{{ gc.right }}" y1="{{ gc.base + 1 }}" y2="{{ gc.base + 1 }}"/>
       {% for i in range(0, 11) %}{% set x = gc.left + (gc.right - gc.left) * i / 10 %}<line class="axis" x1="{{ '%.1f'|format(x) }}" x2="{{ '%.1f'|format(x) }}" y1="{{ gc.base + 1 }}" y2="{{ gc.base + 6 }}"/>{% endfor %}
-      <text class="tick" x="{{ gc.right }}" y="{{ gc.base + 24 }}" text-anchor="end">오른쪽으로 갈수록 보도가 많음</text>
+      <text class="tick" x="{{ gc.right }}" y="{{ gc.base + 24 }}" text-anchor="end">보도가 많은 순 →</text>
       {% for p in gc.peaks %}
         <g class="pk" style="--delay:{{ p.delay }}s">
           <line x1="{{ '%.1f'|format(p.x) }}" x2="{{ '%.1f'|format(p.x) }}" y1="{{ '%.1f'|format(p.y - 6) }}" y2="{{ '%.1f'|format(p.y - 20) }}"/>
