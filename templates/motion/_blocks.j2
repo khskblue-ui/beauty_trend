@@ -97,7 +97,7 @@
 {% if chunk %}<table class="rv"><thead><tr><th>날짜</th><th>행사</th><th>장소</th><th class="c">출처</th></tr></thead><tbody>
 {% for e in chunk %}<tr><td class="mono">{{ e.start[5:] }}{% if e.end %} ~ {{ e.end[5:] }}{% endif %}</td><td>{{ e.name }}</td><td>{{ e.place or '-' }}</td><td class="c">{{ cite([e.doc_id]) }}</td></tr>{% endfor %}
 </tbody></table>
-{% else %}<p class="rv empty">기사에 날짜가 나온 행사 가운데 두 달 안에 열리는 행사가 없습니다.</p>{% endif %}
+{% else %}<p class="rv empty">기사에 날짜가 나온 행사 가운데 현재 열리고 있거나 두 달 안에 열리는 행사가 없습니다.</p>{% endif %}
 {% endcall %}
 {% endfor %}
 {%- endmacro %}
