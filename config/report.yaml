@@ -8,7 +8,8 @@ datalab_months: 6
 shopping_category: "50000002"   # 화장품/미용
 sections:
   keywords:     {title: 이달의 키워드, core: true, min_clusters_per_item: 2, max_items: 5}
-  launches:     {title: 신제품 출시, core: true, min_items: 5}
+  # 슬라이드에는 향수 신제품을 모두, 나머지는 업계지 보도를 앞세워 other_max건까지(PDF는 전체)
+  launches:     {title: 신제품 출시, core: true, min_items: 5, other_max: 18}
   notes:        {title: 이달의 향 노트, core: false, chart_min_n: 30}
   customers:    {title: 고객사 동향, core: false, hidden_without_customers: true}
   market:       {title: 시장 동향, core: true, min_items: 3}
@@ -18,14 +19,15 @@ sections:
 # IFRA(업계 자율 기준)·경쟁 향료사 발표는 리포트에서 뺀다(수집은 계속).
 regulation_sources: [mfds_press, mfds_notice, mfds_preannounce, mfds_law, eu_cosmetics_reg, fda_fedreg]
 # 키워드 후보에서 뺄 일반어(카테고리명 수준). 트렌드 용어가 아니다.
-keyword_stoplist: [화장품, 뷰티, 향수, 향료, 스킨케어, 메이크업, 색조, 색조 화장품, 기초 화장품, 뷰티 브랜드, 화장품 브랜드, 신제품, 신제품 출시, 출시, 브랜드 론칭, 뷰티 트렌드, K뷰티, k-뷰티, 케이뷰티, 화장품 수출, 뷰티 산업, 화장품 산업, 퍼퓸, 프레그런스, 향기]
+keyword_stoplist: [화장품, 뷰티, 향수, 향료, 스킨케어, 메이크업, 색조, 색조 화장품, 기초 화장품, 뷰티 브랜드, 화장품 브랜드, 신제품, 신제품 출시, 출시, 브랜드 론칭, 뷰티 트렌드, K뷰티, k-뷰티, 케이뷰티, 화장품 수출, 뷰티 산업, 화장품 산업, 퍼퓸, 프레그런스, 향기,
+                   해외 진출, 글로벌 진출, 수출, 뷰티 박람회, 뷰티 엑스포, 박람회, 전시회, 해외 시장]   # 트렌드가 아닌 사업 일반어(2026-10 중간 보고)
 # 핵심 섹션 과반이 기준 미달이면 발행 보류
 hold_if_core_failed_ratio: 0.5
 # 고정 시행일 캘린더(규제 섹션 하단). 날짜는 원문으로 확인한 것만.
 regulation_calendar:
   - date: "2028-07-31"
     start: "2023-07-26"     # 규정 채택일(CELLAR 32023R1545 문서일)
-    item: "EU 2023/1545 알레르기 유발 향료 표시 확대 — 기존 유통품 판매 기한"
+    item: "EU 2023/1545 알레르기 유발 향료 표시 확대: 기존 유통품 판매 기한"
     source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1545"
 customers: []   # 보류 항목: 수신자에게서 받기 전까지 비워 둠 → 관련 섹션 숨김
 storage:

@@ -242,8 +242,9 @@ def render_all(ctx: dict, out_dir: Path, pdf: bool = True) -> dict[str, Path]:
     env = Environment(loader=FileSystemLoader(ROOT / "templates"),
                       autoescape=select_autoescape(["html", "j2"]))
     cites = Citations(ctx["by_id"])
+    from .aggregate import launch_groups
     env.globals.update(cite=cites, line_chart=line_chart, bar_chart=bar_chart,
-                       line_paths=line_paths, chromatogram=chromatogram)
+                       line_paths=line_paths, chromatogram=chromatogram, launch_groups=launch_groups)
     html_doc = env.get_template("report.html.j2").render(**ctx, cites=cites)
     # Source list is rendered last but must include all citations → second pass.
     html_doc = html_doc.replace("<!--SOURCES-->", env.get_template("_sources.html.j2").render(

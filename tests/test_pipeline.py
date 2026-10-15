@@ -207,3 +207,15 @@ def test_citation_anchors_are_unique_and_link_back():
     c = Citations({"a": {}, "b": {}})
     first, second = str(c(["a"])), str(c(["a", "b"]))
     assert 'id="cite-1-1"' in first and 'id="cite-1-2"' in second and 'id="cite-2-1"' in second
+
+
+def test_launch_groups_keep_all_fragrance_and_rank_others_by_trade_press():
+    from trend.aggregate import launch_groups
+    items = ([{"name": f"F{i}", "category": "fragrance", "group": "kr_news", "launch_date": "2026-10-01"} for i in range(3)]
+             + [{"name": "N", "category": "skincare", "group": "kr_news", "n_sources": 1, "launch_date": "2026-10-02"},
+                {"name": "T", "category": "makeup", "group": "kr_trade", "n_sources": 1, "launch_date": "2026-10-05"},
+                {"name": "M", "category": "skincare", "group": "kr_news", "n_sources": 3, "launch_date": "2026-10-03"}])
+    g = launch_groups(items, other_max=2)
+    assert len(g["fragrance"]) == 3
+    assert [x["name"] for x in g["other"]] == ["M", "T"]      # trade press and wide coverage first, shown by date
+    assert g["other_total"] == 3 and g["by_category_text"] == "스킨케어 2개, 메이크업 1개"

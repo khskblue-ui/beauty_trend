@@ -102,11 +102,30 @@ def launches(clusters: list[Cluster], ym: str, ents: Entities, until=None) -> li
                     else:
                         continue
                 out.append({"brand": brand, "name": p["name"], "launch_date": ld, "date_basis": basis,
+                            "category": d["extraction"].get("category"), "group": d["group"],
+                            "n_sources": len(c.sources),
                             "notes": p.get("notes", []), "doc_id": d["doc_id"],
                             "quote": p["launch_quote"], "url": d["url"],
                             "source_name": d["source_name"],
                             "press_release": c.press_release, "lang": d["lang"]})
     return sorted(out, key=lambda x: x["launch_date"])
+
+
+TRADE_GROUPS = {"kr_trade", "global_trade"}
+CATEGORY_KO = {"skincare": "스킨케어", "makeup": "메이크업", "hair": "헤어", "body": "바디",
+               "retail": "유통", "ingredient": "원료", "fragrance": "향수"}
+
+
+def launch_groups(items: list[dict], other_max: int) -> dict:
+    """Deck view of launches: every fragrance launch, then the other launches
+    ranked by trade-press coverage (trade press first, more outlets first)."""
+    frag = [x for x in items if x.get("category") == "fragrance"]
+    rest = [x for x in items if x.get("category") != "fragrance"]
+    ranked = sorted(rest, key=lambda x: (x.get("group") in TRADE_GROUPS, x.get("n_sources", 1)), reverse=True)
+    shown = sorted(ranked[:other_max], key=lambda x: x["launch_date"])
+    cats = Counter(CATEGORY_KO.get(x.get("category"), "기타") for x in rest).most_common()
+    return {"fragrance": frag, "other": shown, "other_total": len(rest),
+            "by_category_text": ", ".join(f"{k} {n}개" for k, n in cats)}
 
 
 def _in_month(ld: str, first, last) -> bool:

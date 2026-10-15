@@ -76,16 +76,28 @@
 {% endif %}
 {%- endmacro %}
 
+{% macro launch_table(rows) -%}
+<table class="rv"><thead><tr><th>출시일</th><th>브랜드</th><th>제품</th><th>향 노트</th><th class="c">출처</th></tr></thead><tbody>
+{% for x in rows %}<tr><td class="mono">{{ x.launch_date }}{% if x.date_basis == 'published' %}*{% endif %}</td><td>{{ x.brand or '-' }}</td><td>{{ x.name }}{% if x.press_release %} <span class="tag">보도자료</span>{% endif %}</td><td>{{ x.notes|join(', ') if x.notes else '-' }}</td><td class="c">{{ cite([x.doc_id]) }}</td></tr>{% endfor %}
+</tbody></table>
+{%- endmacro %}
+
 {% macro launch_slides(kicker) -%}
-{% set items = agg.launches %}
-{% for chunk in (items|batch(ROWS)|list or [[]]) %}
-{% call slide('신제품 출시', kicker, '분석 기간에 출시됐다고 기사로 확인된 제품입니다. 날짜 옆 * 표시는 기사에 출시일이 없어 기사 게재일을 적은 것입니다.' if loop.first else '', 'sl-table', pg(loop)) %}
-{% if chunk %}<table class="rv"><thead><tr><th>출시일</th><th>브랜드</th><th>제품</th><th>향 노트</th><th class="c">출처</th></tr></thead><tbody>
-{% for x in chunk %}<tr><td class="mono">{{ x.launch_date }}{% if x.date_basis == 'published' %}*{% endif %}</td><td>{{ x.brand or '-' }}</td><td>{{ x.name }}{% if x.press_release %} <span class="tag">보도자료</span>{% endif %}</td><td>{{ x.notes|join(', ') if x.notes else '-' }}</td><td class="c">{{ cite([x.doc_id]) }}</td></tr>{% endfor %}
-</tbody></table>{% endif %}
+{% set lg = launch_groups(agg.launches, cfg.sections.launches.other_max) %}
+{% set star = '날짜 옆 * 표시는 기사에 출시일이 없어 기사 게재일을 적은 것입니다.' %}
+{% for chunk in (lg.fragrance|batch(ROWS)|list or [[]]) %}
+{% call slide('향수 신제품', kicker, '분석 기간에 출시됐다고 기사로 확인된 향수입니다. ' ~ star if loop.first else '', 'sl-table', pg(loop)) %}
+{% if chunk %}{{ launch_table(chunk) }}{% else %}<p class="rv empty">분석 기간에 출시가 확인된 향수가 없습니다.</p>{% endif %}
 {% if loop.last %}{{ reduced('launches') }}{% endif %}
 {% endcall %}
 {% endfor %}
+{% if lg.other %}
+{% for chunk in lg.other|batch(ROWS) %}
+{% call slide('그 밖의 신제품', kicker, ('전체 ' ~ lg.other_total ~ '개 가운데 ' ~ lg.other|length ~ '개입니다(' ~ lg.by_category_text ~ '). 전체 목록은 PDF에 있습니다.') if loop.first else '', 'sl-table', pg(loop)) %}
+{{ launch_table(chunk) }}
+{% endcall %}
+{% endfor %}
+{% endif %}
 {%- endmacro %}
 
 {% macro market_slides(kicker) -%}

@@ -134,3 +134,13 @@ def test_maintainer_sections_not_in_reader_output(path):
     """수집 현황·만든 방법 go to the maintainer mail only (2026-10-15 request)."""
     text = _visible_copy(path)
     assert "수집 현황" not in text and "만든 방법" not in text
+
+
+def test_reader_copy_in_report_config_passes_rules():
+    """Section titles and calendar items in config/report.yaml are shown to readers too."""
+    from trend.config import load
+    cfg = load("report")
+    texts = [cfg["title"]] + [s["title"] for s in cfg["sections"].values()]
+    texts += [c["item"] for c in cfg.get("regulation_calendar", [])]
+    for t in texts:
+        assert not {h["id"] for h in lint(t)} & {"em_dash", "middle_dot"}, t
