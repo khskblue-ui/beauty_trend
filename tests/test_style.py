@@ -146,11 +146,12 @@ def test_reader_copy_in_report_config_passes_rules():
         assert not {h["id"] for h in lint(t)} & {"em_dash", "middle_dot"}, t
 
 
-SYMBOLS = re.compile("[←-⇿☀-➿⬀-⯿\U0001f000-\U0001faff]")
+# Emoji-style symbols only (↩ ↪ ⬅ ★ ✅ and pictographs). Text arrows like ← → are fine (2026-10-15).
+SYMBOLS = re.compile("[\u21a9\u21aa\u2600-\u27bf\u2b05-\u2b07\u2b1b\u2b1c\u2b50\u2b55\ufe0f\U0001f000-\U0001faff]")
 
 
 @pytest.mark.parametrize("path", TEMPLATES, ids=lambda p: p.name)
 def test_no_emoji_like_symbols_in_reader_copy(path):
-    """Arrows and pictographs (↩, ←, ★ ...) render as emoji on some phones (2026-10-15 request)."""
+    """No emoji-style pictographs in reader copy (2026-10-15 request); text arrows ← → stay."""
     css = re.findall(r'content:"([^"]*)"', path.read_text("utf-8"))
     assert not SYMBOLS.findall(_visible_copy(path) + " ".join(css))
