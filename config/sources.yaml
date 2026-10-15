@@ -52,7 +52,16 @@ rss:
     lang: en
     group: global_trade
     fetch_body: true
-    archive: {kind: list, url: "https://www.premiumbeautynews.com/en/news/?debut_articles={offset}", step: 20, link_pattern: '^en/[a-z0-9-]+,\d+$'}
+    # 목록에 페이지 넘김이 없어(debut_articles 무시) 분야별 목록을 합친다(분야마다 최근 30건)
+    archive:
+      kind: pages
+      link_pattern: '^en/[a-z0-9-]+,\d+$'
+      urls: [https://www.premiumbeautynews.com/en/news/, https://www.premiumbeautynews.com/en/markets-trends/,
+             https://www.premiumbeautynews.com/en/laws-and-regulations/, https://www.premiumbeautynews.com/en/innovation-new-products/,
+             https://www.premiumbeautynews.com/en/companies-industry/, https://www.premiumbeautynews.com/en/industry-buzz/,
+             https://www.premiumbeautynews.com/en/fragrance-innovation/, https://www.premiumbeautynews.com/en/ingredients-and-formulation/,
+             https://www.premiumbeautynews.com/en/packaging-design/, https://www.premiumbeautynews.com/en/environment/,
+             https://www.premiumbeautynews.com/en/science-rd/]
   - id: wwd
     name: WWD Beauty
     url: https://wwd.com/beauty-industry-news/feed/

@@ -6,6 +6,7 @@ articles for good. Each source may declare an `archive` (sources.yaml):
   kind: list     article list pages; `url` has {page}; links matching `link_pattern`
   kind: feed     paged feed; `url` has {page}
   kind: sitemap  sitemap.xml; date = <lastmod> (only for sites whose articles carry no date)
+  kind: pages    fixed list pages (`urls`, e.g. one per section) for sites without pagination
 
 Dates for `list` come from the article page (article:published_time / JSON-LD).
 robots.txt is checked for every page; pacing is the shared Client's.
@@ -157,6 +158,24 @@ def collect(src: dict, client: Client, since: date, until: date,
                 seen_dates = [d for d in dates if d]
                 if not dates or (seen_dates and max(seen_dates) < since):
                     break
+        elif kind == "pages":
+            links: list[str] = []
+            for url in arc["urls"]:
+                if not client.allowed(url):
+                    continue
+                r = client.request(url, headers={"Accept": "text/html"})
+                if not r.ok:
+                    continue
+                b = re.search(r'<base\s+href="([^"]+)"', r.text)
+                base = urllib.parse.urljoin(url, b.group(1)) if b else url
+                links += [urllib.parse.urljoin(base, h) for h in re.findall(r'href="([^"]+)"', r.text)
+                          if re.search(arc["link_pattern"], h)]
+            for ln in dict.fromkeys(links):
+                if doc_id(ln) in known:
+                    continue
+                doc, d = _article(src, client, ln)
+                if doc and _in_range(d, since, until):
+                    docs.append(doc)
         else:
             return Result(src["id"], False, error=f"unknown archive kind {kind}")
     except Exception as e:  # noqa: BLE001 — collectors never raise

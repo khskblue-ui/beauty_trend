@@ -201,7 +201,7 @@ RSS는 며칠치만 보관한다(9월분 시험본에서 업계지 9월 기사 0
 |---|---|---|---|
 | 장업신문·뷰티경제 | `/news/articleList.html?page=N&view_type=sm` | 허용 | 기사 `article:published_time` |
 | 코스모닝·코스인코리아 | `/news/article_list_all.html?page=N` | 허용 | 기사 JSON-LD `datePublished` |
-| Premium Beauty News | `/en/news/?debut_articles=N`(20개 단위, `<base href>` 기준 상대 링크) | 허용 | 기사 JSON-LD `datePublished` |
+| Premium Beauty News | 분야별 목록 10곳(`/en/markets-trends/` 등, 각 최근 30건). `debut_articles` 페이지 넘김은 무시되어 같은 화면이 나옴. 링크는 `<base href>` 기준 상대 경로 | 허용 | 기사 JSON-LD `datePublished` |
 | WWD Beauty | `/beauty-industry-news/feed/?paged=N` | 허용 | 피드 `pubDate`(제목·요약만) |
 | Cosmetics Business | `sitemap.xml`(약 14MB, 3.9만 URL) | 허용 | 기사 페이지에 게시일이 없어 `<lastmod>` 사용. 피드에 있던 19건 중 17건은 게시일과 같고 2건은 하루 차이(수정일이라 늦을 수 있음). `date_source: sitemap_lastmod`로 표시 |
 
