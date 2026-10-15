@@ -246,11 +246,30 @@ def datalab_block(terms: list[str], ym: str, cfg: dict, until=None) -> dict:
     return out
 
 
+# Store promotions are not industry events for a sales calendar.
+PROMO = re.compile(r"할인|프로모션|세일|기획전|특가|이벤트|광군절|블랙프라이데이|DAY|데이|위크|증정|판촉|"
+                   r"주주총회|사전 행사|인증식|수여식", re.I)
+
+
+def _event_key(name: str) -> str:
+    """'2026 K-뷰티 엑스포(K-BEAUTY EXPO)' and 'K-뷰티엑스포 코리아' → comparable core."""
+    s = re.sub(r"\(.*?\)|\d+|코리아|korea|제\s*\d+\s*회", "", name, flags=re.I).lower()
+    for en, ko in (("beauty", "뷰티"), ("expo", "엑스포"), ("fair", "페어"), ("show", "쇼")):
+        s = s.replace(en, ko)
+    return re.sub(r"[^가-힣a-z]", "", s)
+
+
+# Industry gatherings; other events stay only when two or more articles report them.
+INDUSTRY_EVENT = re.compile(r"엑스포|박람회|전시|페어|어워드|awards?|시상|expo|show|fair|설명회|세미나|"
+                            r"컨퍼런스|콘퍼런스|포럼|교육|과정|상담회|키메스|코스모|뷰티\s?월드|beautyworld|summit", re.I)
+
+
 def upcoming_events(clusters: list[Cluster], after, days: int = 60, limit: int = 20) -> list[dict]:
-    """Industry events dated in articles that end after `after` and start within `days`.
+    """Industry events dated in articles that start on or after `after`, within `days`.
 
     Dates and quotes were checked in enrich (verbatim quote holding the start day).
-    The same event reported by several outlets is listed once.
+    Store promotions are left out; one event reported by several outlets is listed
+    once (names compared without year, brackets and spacing).
     """
     from datetime import date, timedelta
     horizon = after + timedelta(days=days)
@@ -260,18 +279,21 @@ def upcoming_events(clusters: list[Cluster], after, days: int = 60, limit: int =
             for e in d["extraction"].get("events", []):
                 start = date.fromisoformat(e["start_date"])
                 end = date.fromisoformat(e["end_date"]) if e.get("end_date") else start
-                if end <= after or start > horizon:
+                if start < after or start > horizon or PROMO.search(e["name"]):
                     continue
-                dup = next((x for x in out if x["start"] == start.isoformat()
-                            and similar(_nospace(x["name"]), _nospace(e["name"]), 0.35)), None)
+                k = _event_key(e["name"])
+                dup = next((x for x in out if x["start"] == start.isoformat() and k and x["key"]
+                            and (k in x["key"] or x["key"] in k or similar(k, x["key"], 0.5))), None)
                 if dup:
                     dup["n_docs"] += 1
                     continue
-                out.append({"name": e["name"], "start": start.isoformat(),
+                out.append({"name": e["name"], "key": k, "start": start.isoformat(),
                             "end": end.isoformat() if end != start else None,
                             "place": e.get("place"), "quote": e["quote"], "doc_id": d["doc_id"],
                             "n_docs": 1})
-    return sorted(out, key=lambda x: x["start"])[:limit]
+    out = [x for x in out if x["n_docs"] >= 2 or INDUSTRY_EVENT.search(x["name"])]
+    out.sort(key=lambda x: (x["start"], -x["n_docs"]))
+    return out[:limit]
 
 
 def _ingredient_key(name: str) -> str:
@@ -293,9 +315,11 @@ def ingredients(clusters: list[Cluster], min_clusters: int = 2, limit: int = 10)
                 label[k][re.sub(r"\(.*?\)|[™®]", "", g["name"]).strip()] += 1
                 if c.cid not in seen[k]:
                     seen[k].add(c.cid)
-                    if len(reps[k]) < 2:
-                        reps[k].append({"doc_id": d["doc_id"], "title": d["title"]})
-    items = [{"name": label[k].most_common(1)[0][0], "n": len(v), "reps": reps[k]}
+                    reps[k].append({"doc_id": d["doc_id"], "title": d["title"],
+                                    "named": k in _nospace(d["title"])})
+    # representative articles: ones that name the ingredient in the title first
+    items = [{"name": label[k].most_common(1)[0][0], "n": len(v),
+              "reps": sorted(reps[k], key=lambda r: not r["named"])[:2]}
              for k, v in seen.items() if len(v) >= min_clusters]
     items.sort(key=lambda x: x["n"], reverse=True)
     return {"items": items[:limit], "n_named": len(seen)}

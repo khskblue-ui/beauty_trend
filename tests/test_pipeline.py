@@ -251,3 +251,14 @@ def test_ingredients_group_spellings_and_count_news_items():
             rec("3", "그로우키 원료 수상", date="2026-09-25T09:00:00+09:00", ingredients=[g("그로우키")])]
     out = ingredients(cluster(docs), min_clusters=2)
     assert [(x["name"], x["n"]) for x in out["items"]] == [("엑소좀", 2), ("그로우키", 2)]
+
+
+def test_upcoming_events_drop_promotions_and_merge_spellings():
+    from datetime import date
+    from trend.aggregate import upcoming_events
+    ev = lambda name, s, e=None: {"name": name, "start_date": s, "end_date": e, "place": None, "quote": "q"}
+    docs = [rec("1", "A", events=[ev("2026 K-뷰티 엑스포(K-BEAUTY EXPO)", "2026-10-15", "2026-10-17"),
+                                  ev("입점 기념 할인 행사", "2026-10-20"), ev("이미 시작한 팝업", "2026-10-10", "2026-10-30")]),
+            rec("2", "B", events=[ev("K-뷰티엑스포 코리아", "2026-10-15", "2026-10-17")])]
+    out = upcoming_events(cluster(docs), date(2026, 10, 15))
+    assert [(x["name"], x["n_docs"]) for x in out] == [("2026 K-뷰티 엑스포(K-BEAUTY EXPO)", 2)]

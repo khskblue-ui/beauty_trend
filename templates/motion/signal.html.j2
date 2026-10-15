@@ -13,7 +13,7 @@
 <style>
 :root{
   --bg:#F6F6F3; --ink:#111418; --muted:#545B63; --grid:#E1E1DA; --rule:#111418;
-  --k-market:#111418; --k-launch:#C2410C; --k-reg:#0B7285; --k-comp:#6741D9;
+  --k-market:#111418; --k-launch:#C2410C; --k-reg:#0B7285; --k-comp:#6741D9; --k-5:#A16207;
   --stage:#DCDCD5; --ui-bg:#F6F6F3; --ui-line:#B9B9B1; --ui-ink:#111418; --ui-muted:#545B63; --ui-hover:#ECECE6;
   --sans:"IBM Plex Sans KR","Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic","WenQuanYi Zen Hei",sans-serif;
   --mono:"IBM Plex Mono",ui-monospace,monospace;
@@ -223,7 +223,7 @@ td.mono{white-space:nowrap}
 </section>
 
 {{ b.search_slide('04', ['var(--k-market)','var(--k-launch)','var(--k-reg)','var(--k-comp)']) }}
-{{ b.shopping_slide('05', ['var(--k-market)','var(--k-launch)','var(--k-reg)','var(--k-comp)','var(--ink)']) }}
+{{ b.shopping_slide('05', ['var(--k-market)','var(--k-launch)','var(--k-reg)','var(--k-comp)','var(--k-5)']) }}
 
 {% if viz.notes %}{% set nmax = viz.notes|map(attribute='count')|max %}
 <section class="slide" data-title="향 노트 순위">

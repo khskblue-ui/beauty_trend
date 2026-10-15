@@ -205,6 +205,12 @@ RSS는 며칠치만 보관한다(9월분 시험본에서 업계지 9월 기사 0
 | WWD Beauty | `/beauty-industry-news/feed/?paged=N` | 허용 | 피드 `pubDate`(제목·요약만) |
 | Cosmetics Business | `sitemap.xml`(약 14MB, 3.9만 URL) | 허용 | 기사 페이지에 게시일이 없어 `<lastmod>` 사용. 피드에 있던 19건 중 17건은 게시일과 같고 2건은 하루 차이(수정일이라 늦을 수 있음). `date_source: sitemap_lastmod`로 표시 |
 
+## 8. 쇼핑인사이트 인기 검색어(2026-10-15 확인)
+
+- API(`/shopping/v1/category/keywords`)는 요청한 검색어(최대 5개)의 클릭 추이만 준다. 분야별 인기 검색어 순위는 API에 없다.
+- 순위가 보이는 데이터랩 웹 화면은 robots.txt가 `Disallow: /`(첫 화면만 허용)라 수집하지 않는다.
+- 그래서 리포트는 설정(`shopping_terms`)에 정한 제품 5개의 주별 클릭 추이를 싣는다. 반달 데이터가 낮아 보이지 않게 완결된 주까지만 받는다.
+
 ## 미확인 항목
 
 1. 국내 업계지 5곳의 이용약관·저작권 정책(무단 전재 금지 조항이 자동 수집이나 요약 인용에 미치는 영향). robots.txt만 확인했다.

@@ -150,6 +150,9 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True, until=None) -> dict:
         "market": {"n": len(mk["kr"]) + len(mk["global"]), "reason_if_low":
                    "출처로 확인되는 시장 소식이 기준보다 적습니다"},
         "regulation": {"n": len(reg_items)},
+        "events": {"n": len(agg["events"])},
+        "ingredients": {"n": len(agg["ingredients"]["items"])},
+        "shopping": {"n": len((agg.get("shopping_terms") or {}).get("series", {}))},
     }, cfg)
 
     urls = ([c["url"] for c in reg_items] + [x["url"] for x in agg["launches"]]

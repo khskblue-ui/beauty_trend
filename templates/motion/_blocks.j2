@@ -85,7 +85,7 @@
 {% set ig = agg.ingredients %}
 {% call slide(cfg.sections.ingredients.title, kicker, '기사에 이름이 나온 원료와 성분입니다. 숫자는 그 이름이 나온 소식의 수입니다.', 'sl-ingr') %}
 {% if ig['items'] %}{% set imax = ig['items'][0].n %}
-<ul class="kbars">{% for x in ig['items'][:7] %}<li class="kbar rv" style="--i:{{ loop.index0 }};--w:{{ '%.3f'|format(x.n / imax) }}"><div class="t">{{ x.name }}<small>관련 소식 {{ x.n }}건</small></div>
+<ul class="kbars">{% for x in ig['items'][:6] %}<li class="kbar rv" style="--i:{{ loop.index0 }};--w:{{ '%.3f'|format(x.n / imax) }}"><div class="t">{{ x.name }}<small>관련 소식 {{ x.n }}건</small></div>
   <div><div class="track"><div class="val"></div></div><p class="reps">{% for r in x.reps %}{{ r.title }}{{ cite([r.doc_id]) }}{{ ', ' if not loop.last }}{% endfor %}</p></div></li>{% endfor %}</ul>
 {% else %}<p class="reduced rv">분석 기간에 두 건 이상의 소식에 이름이 나온 원료나 성분이 없습니다.</p>{% endif %}
 {% endcall %}
