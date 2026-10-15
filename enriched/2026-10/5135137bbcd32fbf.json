@@ -1,0 +1,54 @@
+{
+ "doc_id": "5135137bbcd32fbf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=360440",
+ "title": "애경산업의 샤워메이트, '퍼퓸 바디워시' 출시",
+ "summary": "샤워메이트 퍼퓸 바디워시 |애경산업 애경산업의'샤워메이트'(SHOWER MATE)가 명품 향수 의 클래식한 무드를 담은 '퍼퓸 바디워시 2종'을 선보였다고 12일 밝혔다. 샤워메이트 퍼퓸 바디워시는 향수 처럼 풍성한 향기와 샤워...",
+ "published_at": "2026-10-13T06:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "샤워메이트",
+   "SHOWER MATE"
+  ],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "퍼퓸 바디워시",
+   "바디워시",
+   "향수 바디케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퍼퓸 바디워시",
+    "brand": "샤워메이트",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "애경산업의 샤워메이트가 명품 향수의 무드를 담은 퍼퓸 바디워시 신제품을 선보였다.",
+  "key_fact_quote": "애경산업의'샤워메이트'(SHOWER MATE)가 명품 향수 의 클래식한 무드를 담은 '퍼퓸 바디워시 2종'을 선보였다고 12일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:42+00:00",
+ "had_body": false
+}

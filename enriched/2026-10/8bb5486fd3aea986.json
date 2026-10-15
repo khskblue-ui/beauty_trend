@@ -1,0 +1,56 @@
+{
+ "doc_id": "8bb5486fd3aea986",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53650",
+ "title": "비관세장벽 높이는 K-화장품·뷰티 수출 대상국 1위 미국",
+ "summary": "2026년 글로벌 코스메틱 포커스 제 8호(미국·캐나다 편) 우리나라 화장품 수출 대상국가 1위 자리를 꿰찬 미국의 비관세장벽이 날이 갈수록 강화일로르 보이고 있다. 동시에 캐나다 역시 향료에 포함한 알레르겐 성분 표시 의무화 조치를 시행함에 따라 K-화장품·뷰티 수출 기업들의 대응력 강화가 절실해…",
+ "published_at": "2026-10-06T18:03:10+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "US",
+   "CA",
+   "KR"
+  ],
+  "brands": [
+   "Clean Skin Club",
+   "Revlon",
+   "L'Oréal",
+   "The Ordinary",
+   "e.l.f."
+  ],
+  "companies": [
+   "(재)대한화장품산업연구원",
+   "미국 FDA",
+   "캐나다 보건부",
+   "아마존",
+   "올리브영"
+  ],
+  "keywords": [
+   "비관세장벽",
+   "알레르겐 성분 표시",
+   "이상사례 모니터링",
+   "화장품 규정",
+   "라벨 표시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국의 비관세장벽 강화와 캐나다의 향료 알레르겐 성분 표시 의무화 조치로 인해 한국 화장품 수출 기업들의 규제 대응 필요성이 커지고 있다.",
+  "key_fact_quote": "우리나라 화장품 수출 대상국가 1위 자리를 꿰찬 미국의 비관세장벽이 날이 갈수록 강화일로르 보이고 있다. 동시에 캐나다 역시 향료에 포함한 알레르겐 성분 표시 의무화 조치를 시행함에 따라 K-화장품·뷰티 수출 기업들의 대응력 강화가 절실해지고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:42+00:00",
+ "had_body": true
+}

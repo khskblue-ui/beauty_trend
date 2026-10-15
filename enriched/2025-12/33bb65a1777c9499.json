@@ -1,0 +1,49 @@
+{
+ "doc_id": "33bb65a1777c9499",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/science-meets-wellbeing-chondractivtm-move-by-symrise-shows-clinical-results-for-joint-health-in-active-women-aged-40/",
+ "title": "Science meets wellbeing — Chondractiv™ Move by Symrise shows clinical results for joint health in active women aged 40+",
+ "summary": "– Four-in-one solution from hydrolyzed chicken cartilage and rosehip – Backed by market insights, clinical evidence and significant results – Targeted for perimenopausal and menopausal women with an active lifestyle",
+ "published_at": "2025-12-09T18:02:05+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Symrise"
+  ],
+  "keywords": [
+   "기능성 원료",
+   "관절 건강",
+   "웰빙 원료"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Chondractiv™ Move",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "심라이즈의 원료가 중장년 여성의 관절 건강에 대한 임상 결과를 입증했다.",
+  "key_fact_quote": "Chondractiv™ Move by Symrise shows clinical results for joint health in active women aged 40+",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:33+00:00",
+ "had_body": false
+}

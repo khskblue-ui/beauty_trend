@@ -1,0 +1,46 @@
+{
+ "doc_id": "9f60f66618e7b506",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dailian.co.kr/news/view/1701614/?sc=Naver",
+ "title": "K뷰티 열풍의 숨은 주역 '메이드 인 충북'…지역경제도 ‘활짝’",
+ "summary": "니베아, 에스티로더, 로레알 등 국내외 약 600개 고객사와 협업하고 있으며, 매월 약 320종, 연간 약 3800종의 신제품 을 개발한다. 연간 생산하는 화장품 종류만 1만2000여종에 달한다. 코스메카코리아는 현재 충북에서 3개...",
+ "published_at": "2026-10-15T07:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "니베아",
+   "에스티로더",
+   "로레알"
+  ],
+  "companies": [
+   "코스메카코리아"
+  ],
+  "keywords": [
+   "화장품 제조",
+   "케이뷰티",
+   "화장품 연구개발"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내외 다수의 고객사와 협업하며 신제품을 개발하는 화장품 제조 기업이 충북 지역 경제를 활성화하고 있다.",
+  "key_fact_quote": "니베아, 에스티로더, 로레알 등 국내외 약 600개 고객사와 협업하고 있으며, 매월 약 320종, 연간 약 3800종의 신제품 을 개발한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:46+00:00",
+ "had_body": false
+}

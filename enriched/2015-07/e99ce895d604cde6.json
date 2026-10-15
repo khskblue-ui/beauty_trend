@@ -1,0 +1,42 @@
+{
+ "doc_id": "e99ce895d604cde6",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/media/media-releases/2015/givaudan-expands-flavour-capabilities-japan",
+ "title": "Givaudan renforce ses capacités dans le domaine des arômes au Japon",
+ "summary": "Un investissement de 12 millions de francs suisses dans de nouvelles installations témoigne de l’engagement continu de Givaudan envers le marché japonais Givaudan, leader mondial des arôm 2015 Tokyo Investor News.pdf 2015 Tokyo Media Release_EN.pdf 2015 Tokyo Media Release_FR.pdf 2015 Tokyo Media Release_GE.pdf",
+ "published_at": "2015-07-08T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "JP",
+   "CH"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "향료 설비 투자",
+   "식품향료 역량 강화"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단이 새로운 시설 투자를 통해 일본 내 식품향료 역량을 강화한다.",
+  "key_fact_quote": "Givaudan renforce ses capacités dans le domaine des arômes au Japon Un investissement de 12 millions de francs suisses dans de nouvelles installations témoigne de l’engagement continu de Givaudan envers le marché japonais",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:21+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "64fb8ee3e93b8b10",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sidae.com/article/2026100902292195449",
+ "title": "코스맥스 증설 라인 풀가동, K뷰티 심장 뛴다",
+ "summary": "판교 연구소에서 신제품 제형을 개발하고 평택 공장에서 이를 양산해 고객사에 공급한다. 화장품 의 출발점은 경기 성남시 판교 코스맥스 R&I센터다. 본사 F동 1층 전시 공간에 들어서자 코스맥스가 개발한 다양한 화장품 ...",
+ "published_at": "2026-10-15T05:05:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 제조",
+   "화장품 제형 개발",
+   "생산 라인 증설"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스가 판교 연구소에서 개발한 신제품 제형을 평택 공장에서 양산하여 공급하며 증설 라인을 가동하고 있다.",
+  "key_fact_quote": "판교 연구소에서 신제품 제형을 개발하고 평택 공장에서 이를 양산해 고객사에 공급한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:46+00:00",
+ "had_body": false
+}

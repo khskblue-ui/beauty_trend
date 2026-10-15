@@ -1,0 +1,44 @@
+{
+ "doc_id": "eadca085bdfc6e02",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/four-chinese-companies-sign-the-ifra-iofi-sustainability-charter",
+ "title": "Four Chinese companies sign the IFRA – IOFI Sustainability Charter",
+ "summary": "The new signatories joined the Charter at the ESG Forum of the CAFFCI Annual Meeting and Expo in Nanjing, China.",
+ "published_at": "2026-09-18T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "IFRA",
+   "IOFI",
+   "CAFFCI"
+  ],
+  "keywords": [
+   "지속가능성 헌장",
+   "향료 규제",
+   "ESG 포럼"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "중국 기업들이 지속가능성 헌장에 서명하여 새롭게 합류했다.",
+  "key_fact_quote": "Four Chinese companies sign the IFRA – IOFI Sustainability Charter",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:29+00:00",
+ "had_body": false
+}

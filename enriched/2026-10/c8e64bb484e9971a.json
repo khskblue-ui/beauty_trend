@@ -1,0 +1,57 @@
+{
+ "doc_id": "c8e64bb484e9971a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.insight.co.kr/news/577585",
+ "title": "\"빼빼로 책갈피에 짱셔요 향수 까지\" 롯데웰푸드, 아이디어스 손잡고 굿...",
+ "summary": "짱셔요 향수 ·독서링·도자기 잔, 찰떡파이 왁뿌 슬라임, 롯샌 피크닉 보자기·거울 키링·클리커·우편물 및 캔 오프너 등이다. 오는 27일에는 칙촉 에어팟 케이스와 짱셔요 머들러, 찰떡파이 클리커를 추가로 출시 한다....",
+ "published_at": "2026-10-13T15:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "짱셔요",
+   "빼빼로",
+   "찰떡파이",
+   "롯샌",
+   "칙촉"
+  ],
+  "companies": [
+   "롯데웰푸드",
+   "아이디어스"
+  ],
+  "keywords": [
+   "굿즈",
+   "향수 협업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "짱셔요 향수",
+    "brand": "짱셔요",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "롯데웰푸드가 아이디어스와 협력하여 짱셔요 향수를 비롯한 다양한 굿즈를 선보인다.",
+  "key_fact_quote": "\"빼빼로 책갈피에 짱셔요 향수 까지\" 롯데웰푸드, 아이디어스 손잡고 굿...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:39+00:00",
+ "had_body": false
+}

@@ -1,0 +1,54 @@
+{
+ "doc_id": "c0a94633e596abe6",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53661",
+ "title": "어뮤즈, 동생 브랜드 ‘로듀’ 첫선",
+ "summary": "어뮤즈코리아가 로듀를 선보였다. 로듀(RAWDEW)는 어뮤즈의 자유롭고 감각적인 분위기를 반영했다. 여기에 쉽고 재치있는 이미지를 더했다. 가볍고 편하게 즐길 수 있는 뷰티 브랜드로 다가선다는 전략이다. 브랜드명은 ‘가공되지 않은’을 뜻하는 ‘RAW’와 ‘이슬’을 의미하는 ‘DEW’를 결합했다…",
+ "published_at": "2026-10-08T09:34:01+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어뮤즈",
+   "로듀"
+  ],
+  "companies": [
+   "어뮤즈코리아"
+  ],
+  "keywords": [
+   "립 밤",
+   "자매 브랜드",
+   "드롭 방식"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "로듀 비타 버터 립 밤",
+    "brand": "로듀",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "어뮤즈코리아가 첫 자매 브랜드인 로듀를 선보이고 첫 번째 제품으로 립 밤을 공개했다.",
+  "key_fact_quote": "어뮤즈코리아가 로듀를 선보였다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:31+00:00",
+ "had_body": true
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "02e6a7e102e5b2f3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244437",
+ "title": "스위스 뷰티업계 화두 ‘스킨 롱제비티’… 한국 22개사, 취리히 뷰티엑...",
+ "summary": "0 향수 326.6 324.4 325.1 색조 292.9 287.4 277.3 헤어케어 240.7 251.3 257.4 합계 2,057.3 2,046.4 2,045.3 주1: 소비자가... 신제품 출시주기가 빠른 K-Beauty의 특성은 소비시장에서는 강점으로 작용할 수 있지만, 수입업체 입장에서는...",
+ "published_at": "2026-10-12T18:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CH",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "스킨 롱제비티",
+   "K뷰티",
+   "신제품 출시주기"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "스위스 뷰티업계에서 스킨 롱제비티가 화두로 떠오르고 있다.",
+  "key_fact_quote": "스위스 뷰티업계 화두 ‘스킨 롱제비티’… 한국 22개사, 취리히 뷰티엑...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:19+00:00",
+ "had_body": false
+}

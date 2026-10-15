@@ -1,0 +1,71 @@
+{
+ "doc_id": "d7a3425b165978c3",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100121",
+ "title": "이너랩, ’이너랩데이’ 다이소 전용 신제품 3종 출시",
+ "summary": "셀트리온스킨큐어의 헬스케어 브랜드 이너랩(INNERLAB)이 합리적인 가격과 구성을 갖춘 실속 건강 라인 ‘이너랩데이(INNERLAB DAY)’의 신제품 3종을 새롭게 선보이며, 기존 베스트셀러 ‘다이어트 한 잔 슬림S프레소’ 제품을 포함해 분말 음료형 건강기능식품 총 4종으로 라인업을 확대한다.이너랩데이는 합리적인 가격과 간편한 섭취 방식, 직관적인 기능성을 앞세워 일상에서 부담 없이 건강관리를 시작할 수 있도록 기획된 실속 브랜드 라인이다. 지난 4월 선보인 ‘다이어트 한 잔 슬림S프레소’는 출시 직후 전국 다이소 주요 매장에서",
+ "published_at": "2026-10-13T09:53:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이너랩",
+   "INNERLAB",
+   "이너랩데이",
+   "INNERLAB DAY"
+  ],
+  "companies": [
+   "셀트리온스킨큐어"
+  ],
+  "keywords": [
+   "건강기능식품",
+   "분말 음료"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "식후 혈당 케어 혈당S프레소",
+    "brand": "이너랩",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "다이어트 한 잔 슬림S에이드 레몬파인애플맛",
+    "brand": "이너랩",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "다이어트 한 잔 슬림S에이드 피치플럼맛",
+    "brand": "이너랩",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "셀트리온스킨큐어의 헬스케어 브랜드 이너랩이 다이소 전용 건강기능식품 신제품을 선보이며 라인업을 확대했다.",
+  "key_fact_quote": "셀트리온스킨큐어의 헬스케어 브랜드 이너랩(INNERLAB)이 합리적인 가격과 구성을 갖춘 실속 건강 라인 ‘이너랩데이(INNERLAB DAY)’의 신제품 3종을 새롭게 선보이며, 기존 베스트셀러 ‘다이어트 한 잔 슬림S프레소’ 제품을 포함해 분말 음료형 건강기능식품 총 4종으로 라인업을 확대한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:54+00:00",
+ "had_body": true
+}

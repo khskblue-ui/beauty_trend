@@ -1,0 +1,53 @@
+{
+ "doc_id": "bf83a25d8879ffea",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20260918000226",
+ "title": "[2026 전남광주뷰티산업전] 유비유, 지리산 자연에서 영감을 받은 '들풀...",
+ "summary": "조향사 이자 아로마테라피스트의 전문성을 바탕으로 한국의 자연을 현대적인 향기 제품과 셀프케어 경험으로 풀어내고 있다. 이번 전시에서 소개하는 '유비유 들풀향차림 필로우미스트(Korean Botanical Pillow Mist)'는...",
+ "published_at": "2026-09-18T14:39:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "유비유"
+  ],
+  "companies": [
+   "유비유"
+  ],
+  "keywords": [
+   "필로우미스트",
+   "아로마테라피",
+   "셀프케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "유비유 들풀향차림 필로우미스트(Korean Botanical Pillow Mist)",
+    "brand": "유비유",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유비유는 뷰티산업전에서 지리산 자연에서 영감을 받은 들풀향차림 필로우미스트를 소개한다.",
+  "key_fact_quote": "이번 전시에서 소개하는 '유비유 들풀향차림 필로우미스트(Korean Botanical Pillow Mist)'는...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "d8b0a00baadbe335",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/media/media-releases/2026/pcf-dual-certification",
+ "title": "Givaudan achieves industry-first dual certification for its Product Carbon Footprint (PCF) programme",
+ "summary": "Givaudan today announced that its Product Carbon Footprint (PCF) programme has been certified by TÜV SÜD as compliant with the Together for Sustainability (TfS) PCF Verification and Programme Certi giv-2026-pcf-dual-certification-en.pdf giv-2026-pcf-dual-certification-fr.pdf giv-2026-pcf-dual-certification-de.pdf",
+ "published_at": "2026-09-21T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Givaudan",
+   "TÜV SÜD",
+   "Together for Sustainability"
+  ],
+  "keywords": [
+   "탄소 발자국",
+   "지속가능성 인증"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단은 자사의 제품 탄소 발자국 프로그램에 대해 업계 최초로 이중 인증을 획득했다고 발표했다.",
+  "key_fact_quote": "Givaudan achieves industry-first dual certification for its Product Carbon Footprint (PCF) programme",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:08+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "0da3c1846417bc41",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/media/media-releases/2015/2014-full-year-results-solid-performance-challenging-environment",
+ "title": "Résultats annuels 2014 - Une performance solide dans un environnement difficile",
+ "summary": "Chiffre d'affaires/ventes de 4,4 milliards de francs suisses, en hausse de 3.7% à périmètre constantLes marchés émergents ont progressé de 2014 FY Results Investor News.pdf 2014 FY Results Media Release_EN.pdf 2014 FY Results Media Release_FR.pdf 2014 FY Results Media Release_GE.pdf 2014 FY Results Presentation.pdf 2014 Annual Report.pdf 2014 Rapport Annuel.pdf 2014 Geschäftsbericht.pdf",
+ "published_at": "2015-01-29T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "CH"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "연간 실적",
+   "향료 기업 실적",
+   "매출 성장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단이 어려운 환경 속에서도 견고한 연간 실적과 매출 성장을 달성했다고 발표했다.",
+  "key_fact_quote": "Résultats annuels 2014 - Une performance solide dans un environnement difficile",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:17+00:00",
+ "had_body": false
+}

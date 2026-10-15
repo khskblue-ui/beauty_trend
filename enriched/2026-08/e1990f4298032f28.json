@@ -1,0 +1,50 @@
+{
+ "doc_id": "e1990f4298032f28",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/symrise-expands-natural-origin-skincare-portfolio-with-dragosiner-green-for-skin-longevity/",
+ "title": "Symrise expands natural-origin skincare portfolio with Dragosine® green for skin longevity",
+ "summary": "— 100% plant-derived L-carnosine for natural-origin skincare concepts — Supports skin longevity, prejuvenation, and visible skin improvement — Strengthens Symrise’s Care & Wellness portfolio with Dragosine® efficacy heritage and green biotechnology",
+ "published_at": "2026-08-04T22:49:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Symrise"
+  ],
+  "keywords": [
+   "천연 유래 스킨케어",
+   "그린 바이오기술",
+   "스킨 론제비티",
+   "식물 유래 성분"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Dragosine® green",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "심라이즈가 피부 장수와 개선을 돕는 식물 유래 스킨케어 원료를 선보이며 천연 포트폴리오를 확장했다.",
+  "key_fact_quote": "Symrise expands natural-origin skincare portfolio with Dragosine® green for skin longevity",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:18+00:00",
+ "had_body": false
+}

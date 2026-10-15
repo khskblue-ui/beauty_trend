@@ -1,0 +1,52 @@
+{
+ "doc_id": "a41c2741fc8852ce",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58485",
+ "title": "모아캠 ‘Onsen Enzyme’, 각질량 11.7% 줄이고 피부장벽 인자 최대 31% 증가",
+ "summary": "#Onsen Enzyme: 설악온천 유래 미생물 Protease를 이용한 저자극 각질 케어 소재 [코스인코리아닷컴 길태윤 기자] (주)모아캠이 설악온천수에서 분리한 미생물로 개발한 단백질분해효소 기반 화장품 원료 ‘Onsen Enzyme’이 각질 제거와 피부장벽 강화를 동시에 지원하는 저자…",
+ "published_at": "2026-10-12T17:04:51+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "모아캠"
+  ],
+  "keywords": [
+   "단백질분해효소",
+   "각질 케어",
+   "피부장벽 강화",
+   "화장품 원료"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Onsen Enzyme",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "모아캠이 설악온천수 미생물 유래 단백질분해효소를 기반으로 각질 제거와 피부장벽 강화를 동시에 돕는 저자극 화장품 원료를 개발했다.",
+  "key_fact_quote": "(주)모아캠이 설악온천수에서 분리한 미생물로 개발한 단백질분해효소 기반 화장품 원료 ‘Onsen Enzyme’이 각질 제거와 피부장벽 강화를 동시에 지원하는 저자극 각질 케어 소재로 주목받고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:29+00:00",
+ "had_body": true
+}

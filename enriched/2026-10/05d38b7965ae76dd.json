@@ -1,0 +1,53 @@
+{
+ "doc_id": "05d38b7965ae76dd",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53654",
+ "title": "LG 오휘 브랜드 앰배서더 배우 임지연 씨",
+ "summary": "LG생활건강의 디에이징(De-Aging) 솔루션 뷰티 브랜드 ‘오휘’가 배우 임지연 씨를 앰배서더로 발탁. 오휘는 1997년부터 축적한 연구와 노하우를 바탕으로 각 개인의 피부 타입과 노화 원인에 맞춘 과학 디에이징 솔루션을 제공하는 스킨케어 브랜드. 오휘는 임지연 씨가 최근 출연한 드라마 ‘멋진…",
+ "published_at": "2026-10-07T17:44:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오휘"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "디에이징",
+   "브랜드 앰배서더",
+   "탄력 앰플"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "프라임 어드밴서 오리지널 에너지 100 앰플",
+    "brand": "오휘",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "엘지생활건강의 스킨케어 브랜드 오휘가 배우 임지연을 앰배서더로 발탁했다.",
+  "key_fact_quote": "LG생활건강의 디에이징(De-Aging) 솔루션 뷰티 브랜드 ‘오휘’ 가 배우 임지연 씨 를 앰배서더로 발탁.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:37+00:00",
+ "had_body": true
+}

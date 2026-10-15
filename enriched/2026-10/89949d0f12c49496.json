@@ -1,0 +1,90 @@
+{
+ "doc_id": "89949d0f12c49496",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58493",
+ "title": "토니모리 본셉, ‘비타씨’ 색조 라인... 베이스·립스틱 신제품 10종 다이소 출시",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 토니모리 서브 브랜드 ‘본셉(BONCEPT)’이 판매 호조를 보이고 있는 ‘비타씨’ 라인을 색조 영역까지 확장하여 ‘비타씨 베이스 7종’과 ‘틴티드 글로우 립스틱 3종’ 등 총 10종의 신제품을 다이소를 통해 새롭게 출시했다. ‘비타씨 베이스’ 라인은 ‘비타씨 수…",
+ "published_at": "2026-10-13T10:51:35+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "본셉",
+   "BONCEPT",
+   "토니모리"
+  ],
+  "companies": [
+   "토니모리",
+   "다이소"
+  ],
+  "keywords": [
+   "색조 메이크업",
+   "베이스 메이크업",
+   "글로우 립스틱",
+   "톤업 베이스",
+   "가성비 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "비타씨 수딩 톤업 베이스",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "비타씨 밀착 광채 메이커",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "비타씨 에센스 비비",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "비타씨 슬림 커버 컨실러",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "틴티드 글로우 립스틱",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "토니모리 서브 브랜드 본셉이 비타씨 라인을 색조 영역으로 확장하여 베이스와 립스틱 신제품을 다이소에 출시했다.",
+  "key_fact_quote": "토니모리 서브 브랜드 ‘본셉(BONCEPT)’이 판매 호조를 보이고 있는 ‘비타씨’ 라인을 색조 영역까지 확장하여 ‘비타씨 베이스 7종’과 ‘틴티드 글로우 립스틱 3종’ 등 총 10종의 신제품을 다이소를 통해 새롭게 출시했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:21+00:00",
+ "had_body": true
+}

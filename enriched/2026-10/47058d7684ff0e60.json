@@ -1,0 +1,47 @@
+{
+ "doc_id": "47058d7684ff0e60",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=20261013133605804837600e7ec7_30",
+ "title": "자민경, 일본 후쿠오카 '인큐브 텐진점' K뷰티 팝업 참가",
+ "summary": "화장품 브랜드 자민경(JAMINKYUNG)이 일본 후쿠오카 번화가 텐진의 라이프스타일 편집숍 '인큐브(INCUBE) 텐진점... 자민경은 이번 행사에서 한국적 감성을 담은 에디션 제품을 메인으로 전시하고 신제품 도 함께 선보여 현지...",
+ "published_at": "2026-10-14T09:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "자민경",
+   "JAMINKYUNG"
+  ],
+  "companies": [
+   "인큐브",
+   "INCUBE"
+  ],
+  "keywords": [
+   "팝업 행사",
+   "편집숍",
+   "에디션 제품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "화장품 브랜드 자민경이 일본 후쿠오카 편집숍 인큐브 텐진점의 팝업 행사에 참가했다.",
+  "key_fact_quote": "화장품 브랜드 자민경(JAMINKYUNG)이 일본 후쿠오카 번화가 텐진의 라이프스타일 편집숍 '인큐브(INCUBE) 텐진점...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:57+00:00",
+ "had_body": false
+}

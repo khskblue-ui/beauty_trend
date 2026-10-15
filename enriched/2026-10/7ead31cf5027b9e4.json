@@ -1,0 +1,52 @@
+{
+ "doc_id": "7ead31cf5027b9e4",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53686",
+ "title": "코나드, 글로벌 무대 겨냥 색조 브랜드 ‘페블린’ 론칭",
+ "summary": "K-화장품·뷰티 수출 전문 기업 (주)코나드(대표 최대통)가 글로벌 시장을 겨냥한 색조 브랜드 ‘페블린’(Feeblin)을 론칭하고 본격 시장 공략에 나섰다. 2026년 FW 시즌을 앞두고 “매혹적인 핑크로 글로벌 여심을 물들인다”는 슬로건을 내걸고 11종 33품목을 선보인 것. (주)코나드는 페블린 브랜…",
+ "published_at": "2026-10-13T08:48:29+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "JP",
+   "US",
+   "AE",
+   "HK"
+  ],
+  "brands": [
+   "페블린",
+   "Feeblin"
+  ],
+  "companies": [
+   "코나드",
+   "(주)코나드"
+  ],
+  "keywords": [
+   "색조 화장품",
+   "키링 메이크업",
+   "K-뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코나드가 글로벌 시장을 겨냥한 새로운 색조 화장품 브랜드를 선보이며 본격적인 해외 진출에 나섰다.",
+  "key_fact_quote": "K-화장품·뷰티 수출 전문 기업 (주)코나드(대표 최대통)가 글로벌 시장을 겨냥한 색조 브랜드 ‘페블린’(Feeblin)을 론칭하고 본격 시장 공략에 나섰다.",
+  "dropped": [
+   "product:페블린 라인업"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:11+00:00",
+ "had_body": true
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "66f95073cb34790e",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/skin-care/aurelian-lis-depart-dermalogica-1239346021/",
+ "title": "Aurelian Lis to Depart Dermalogica",
+ "summary": "The chief executive officer, who joined the brand a decade ago, is stepping down in late December.",
+ "published_at": "2026-10-14T05:41:19+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Dermalogica"
+  ],
+  "companies": [
+   "Dermalogica"
+  ],
+  "keywords": [
+   "경영진 교체",
+   "스킨케어 브랜드 리더십"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "더말로지카의 최고경영자가 자리에서 물러난다.",
+  "key_fact_quote": "Aurelian Lis to Depart Dermalogica",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:09:12+00:00",
+ "had_body": false
+}

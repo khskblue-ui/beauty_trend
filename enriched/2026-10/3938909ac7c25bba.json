@@ -1,0 +1,111 @@
+{
+ "doc_id": "3938909ac7c25bba",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100145",
+ "title": "EOA, 무신사뷰티 ‘뷰티온누리약국’ 입점",
+ "summary": "글로벌 웰니스 그룹 더퓨처의 항노화 뷰티 전문 브랜드 EOA가 무신사뷰티 홍대점 내 ‘뷰티온누리약국’에 입점하며 젊은 소비자층과 외국인 관광객을 대상으로 오프라인 접점을 확대한다.EOA는 이번 입점을 통해 ▲풀텐자 ▲풀쎄라 프로 ▲풀써마 프로 등 대표 뷰티 디바이스 3종과 ▲NAD+ 리프팅 하이드로겔 마스크 ▲PowerGF 타이트 샷 앰플 ▲PowerGF 리페어 카밍 크림 ▲PowerGF 링클 포어 플럼핑 미스트 ▲EOA 콜라겐 시너지 부스팅젤 등을 선보인다.특히 뷰티온누리약국 내에는 EOA 제품을 독립적으로 경험할 수 있는 전용존",
+ "published_at": "2026-10-14T10:52:33+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "EOA"
+  ],
+  "companies": [
+   "더퓨처",
+   "무신사"
+  ],
+  "keywords": [
+   "항노화 뷰티",
+   "뷰티 디바이스",
+   "홈케어",
+   "오프라인 유통"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "풀텐자",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "풀쎄라 프로",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "풀써마 프로",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "NAD+ 리프팅 하이드로겔 마스크",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PowerGF 타이트 샷 앰플",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PowerGF 리페어 카밍 크림",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PowerGF 링클 포어 플럼핑 미스트",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "EOA 콜라겐 시너지 부스팅젤",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "항노화 뷰티 브랜드 EOA가 무신사뷰티 홍대점 내 뷰티온누리약국에 입점해 주요 제품을 선보인다.",
+  "key_fact_quote": "글로벌 웰니스 그룹 더퓨처의 항노화 뷰티 전문 브랜드 EOA가 무신사뷰티 홍대점 내 ‘뷰티온누리약국’에 입점하며 젊은 소비자층과 외국인 관광객을 대상으로 오프라인 접점을 확대한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:36+00:00",
+ "had_body": true
+}

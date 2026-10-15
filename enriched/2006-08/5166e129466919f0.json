@@ -1,0 +1,41 @@
+{
+ "doc_id": "5166e129466919f0",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/media/media-releases/2006/meaningful-scents-around-world",
+ "title": "Des parfums évocateurs aux quatre coins du monde",
+ "summary": "Markus Gautschi, responsable de la recherche en parfumerie, a présenté Roman Kaiser de manière très sympathique aux médias présents aujourd’hui à la conférence de presse à Zurich. Meaningful scents around the world EN.pdf",
+ "published_at": "2006-08-23T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "CH"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "조향 연구",
+   "기자회견"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "조향 연구 책임자 마르쿠스 가우치가 취리히 기자회견에서 로만 카이저를 언론에 소개했다.",
+  "key_fact_quote": "Markus Gautschi, responsable de la recherche en parfumerie, a présenté Roman Kaiser de manière très sympathique aux médias présents aujourd’hui à la conférence de presse à Zurich.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:13+00:00",
+ "had_body": false
+}

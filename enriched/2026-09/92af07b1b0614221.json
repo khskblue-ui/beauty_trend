@@ -1,0 +1,42 @@
+{
+ "doc_id": "92af07b1b0614221",
+ "source": "dsm_firmenich",
+ "source_name": "dsm-firmenich News",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://our-company.dsm-firmenich.com/en/our-company/news/trade-news/2026/dsm-firmenich-strengthens-commitment-to-indonesia-with-new-jakarta-office-and-karawang-manufacturing-expansion.html",
+ "title": "dsm-firmenich strengthens commitment to Indonesia with new Jakarta office and Karawang manufacturing expansion",
+ "summary": "",
+ "published_at": "2026-09-16T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "ID"
+  ],
+  "brands": [],
+  "companies": [
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "제조 시설 확장",
+   "해외 지사 설립",
+   "현지 투자"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "디에스엠-피르메니히가 신규 자카르타 사무소 개설 및 카라왕 제조 시설 확장을 통해 인도네시아 시장에 대한 투자를 강화한다.",
+  "key_fact_quote": "dsm-firmenich strengthens commitment to Indonesia with new Jakarta office and Karawang manufacturing expansion",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:44+00:00",
+ "had_body": false
+}

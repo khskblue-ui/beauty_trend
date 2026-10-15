@@ -1,0 +1,65 @@
+{
+ "doc_id": "49d33bf1975d3748",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sidae.com/article/2026101215122826537",
+ "title": "광주신세계, 화장품 매출 증가에 럭셔리 브랜드 잇단 입점",
+ "summary": "대표상품으로 손꼽히는 프라다의 시그니처 트라이앵글 패키지의 신제품 '립 젤리' 는 강력한 보습이 가능한 원-터치 멜팅 립 밤이다. 프라다 로고모양의 용기가 특징인 향수 도 선보인다. 싱그러운 네롤리와 앰버가 조화를...",
+ "published_at": "2026-10-12T15:47:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프라다"
+  ],
+  "companies": [
+   "광주신세계"
+  ],
+  "keywords": [
+   "럭셔리 뷰티",
+   "백화점 입점",
+   "립 밤",
+   "향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "립 젤리",
+    "brand": "프라다",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "향수",
+    "brand": "프라다",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "네롤리",
+     "앰버"
+    ],
+    "notes_quote": "싱그러운 네롤리와 앰버가 조화를..."
+   }
+  ],
+  "key_fact": "광주신세계가 화장품 매출 증가세에 맞춰 럭셔리 브랜드 신제품과 향수 등을 입점시키며 매장을 확대하고 있다.",
+  "key_fact_quote": "광주신세계, 화장품 매출 증가에 럭셔리 브랜드 잇단 입점",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:24+00:00",
+ "had_body": false
+}

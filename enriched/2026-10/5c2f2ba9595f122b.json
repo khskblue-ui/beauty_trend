@@ -1,0 +1,58 @@
+{
+ "doc_id": "5c2f2ba9595f122b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankookilbo.com/news/article/A2026101310080002035?did=NA",
+ "title": "블룸타이드, 민트 초코 콘셉트 가을 메이크업 컬렉션 출시",
+ "summary": "신제품 은 무신사 온라인에서 단독 선 출시 됐으며, 오는 21일까지 무신사 브랜드 기획전을 통해 소개된다. 블룸타이드는 립글로스와 립틴트, 블러셔 등을 선보이는 뷰티 브랜드로, 향후 중국과 일본, 태국 등 아시아...",
+ "published_at": "2026-10-14T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "CN",
+   "JP",
+   "TH"
+  ],
+  "brands": [
+   "블룸타이드"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "가을 메이크업",
+   "메이크업 컬렉션",
+   "립글로스",
+   "립틴트",
+   "블러셔"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "민트 초코 콘셉트 가을 메이크업 컬렉션",
+    "brand": "블룸타이드",
+    "launch_date": null,
+    "launch_quote": "신제품 은 무신사 온라인에서 단독 선 출시 됐으며, 오는 21일까지 무신사 브랜드 기획전을 통해 소개된다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "블룸타이드가 민트 초코 콘셉트의 가을 메이크업 컬렉션을 무신사 온라인에서 단독 선출시했다.",
+  "key_fact_quote": "신제품 은 무신사 온라인에서 단독 선 출시 됐으며, 오는 21일까지 무신사 브랜드 기획전을 통해 소개된다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:25+00:00",
+ "had_body": false
+}

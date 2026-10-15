@@ -1,0 +1,44 @@
+{
+ "doc_id": "50772dfad66f9567",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53653",
+ "title": "서울경제진흥원, 도쿄서 ‘K-뷰티 파크’ 운영",
+ "summary": "서울경제진흥원이 9월 30일부터 10월 6일까지 7일 동안 도쿄 이토요카도 오모리점에서 K-뷰티 파크를 운영했다. K-뷰티 파크는 서울 유망기업을 모아 소개하는 팝업스토어다. 일본 대표 유통 채널 ‘이토요카도(Ito-Yokado)’와 함께 기획했다. 참여기업은 16개사(뷰티 13개사, 푸드·이너뷰티 2개…",
+ "published_at": "2026-10-07T10:04:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "서울경제진흥원",
+   "이토요카도"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "해외 진출",
+   "리테일 채널"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "서울경제진흥원이 일본 도쿄의 대형 유통 채널에서 서울 유망 뷰티 기업들을 소개하는 팝업스토어를 운영했다.",
+  "key_fact_quote": "서울경제진흥원이 9월 30일부터 10월 6일까지 7일 동안 도쿄 이토요카도 오모리점에서 K-뷰티 파크를 운영했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:38+00:00",
+ "had_body": true
+}

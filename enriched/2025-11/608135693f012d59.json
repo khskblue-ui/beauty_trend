@@ -1,0 +1,40 @@
+{
+ "doc_id": "608135693f012d59",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/prediction-meets-taste-symrise-expands-symvision-aitm-to-proprietary-taste-development-tools/",
+ "title": "Prediction meets taste: Symrise expands Symvision AI™ to proprietary taste development tools",
+ "summary": "‒ Enables accelerated innovation with prediction of formulations for taste solutions ‒ Distinct toolset to leverage flavorist expertise and AI to accelerate targeted flavor design ‒ Data-driven prediction of sensory characteristics in prospective product formulations",
+ "published_at": "2025-11-11T20:50:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Symrise"
+  ],
+  "keywords": [
+   "인공지능 향료 개발",
+   "플레이버 디자인",
+   "포뮬러 예측"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "심라이즈가 맛 솔루션의 제형 예측 및 맞춤형 풍미 디자인을 촉진하기 위해 자사 인공지능 플랫폼을 독자적인 맛 개발 툴로 확장했다.",
+  "key_fact_quote": "Symrise expands Symvision AI™ to proprietary taste development tools",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:35+00:00",
+ "had_body": false
+}

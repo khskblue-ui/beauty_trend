@@ -1,0 +1,43 @@
+{
+ "doc_id": "44049c2cfe88580e",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/symrise-reports-solid-h1-2026-performance-with-accelerating-growth-momentum-in-q2/",
+ "title": "Symrise reports solid H1 2026 performance with accelerating growth momentum in Q2",
+ "summary": "– Organic sales growth accelerated to 4.5% in Q2 2026 (2.0% in H1 2026) – Adjusted EBITDA of €553 million and 21.8% adjusted EBITDA margin – Adjusted Business Free Cash Flow margin up 450 bps to 13.7% of sales – Planned acquisition of Floral Concept will strengthen position in Premium Naturals – Full year 2026 outlook reaffirmed",
+ "published_at": "2026-07-30T14:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "DE"
+  ],
+  "brands": [],
+  "companies": [
+   "Symrise",
+   "Floral Concept"
+  ],
+  "keywords": [
+   "상반기 실적",
+   "천연 원료",
+   "기업 인수"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "심라이즈는 상반기 실적 호조와 함께 성장 모멘텀을 보였으며 천연 원료 포트폴리오 강화를 위한 기업 인수를 추진하고 있다.",
+  "key_fact_quote": "Symrise reports solid H1 2026 performance with accelerating growth momentum in Q2",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:19+00:00",
+ "had_body": false
+}

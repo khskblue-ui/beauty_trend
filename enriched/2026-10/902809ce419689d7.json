@@ -1,0 +1,42 @@
+{
+ "doc_id": "902809ce419689d7",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=310700",
+ "title": "① Belgian Consumers See K-Beauty as More Than a Trend",
+ "summary": "Editor\\'s Note: As K-beauty continues to strengthen its presence across Europe, Beauty Economy conducted interviews with five consumers in Belgium to better understand how European consumers perceive Korean beauty products and what factors influence their purchasing decisions.In Part 1, we examine co",
+ "published_at": "2026-10-14T15:45:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "BE",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "한국 화장품",
+   "소비자 인식",
+   "스킨케어 트렌드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "벨기에 소비자들은 K-뷰티를 단순한 유행이 아닌 품질과 성분 혁신, 효능을 갖춘 제품군으로 인식하고 있다.",
+  "key_fact_quote": "The interviews reveal that Belgian consumers view K-beauty as a category built on quality, ingredient innovation, and strong value.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:46+00:00",
+ "had_body": true
+}

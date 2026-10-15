@@ -1,0 +1,50 @@
+{
+ "doc_id": "280f2e827e1bc4e9",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58482",
+ "title": "킨텍스, 1,088개 부스 역대 최대 ‘2026 K-뷰티엑스포 코리아’ 15일 개막",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 킨텍스가 오는 15일부터 17일까지 사흘간 킨텍스 제1전시장 3~5홀에서 국내 뷰티기업의 수출과 판로 개척을 지원하는 ‘2026 K-뷰티엑스포 코리아’를 개최한다고 12일 밝혔다. 올해 18회째를 맞는 전시회에는 15개국 679개사가 참가해 역대 최대인 1,088개 부스…",
+ "published_at": "2026-10-12T14:33:14+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "킨텍스",
+   "대한무역투자진흥공사",
+   "틱톡코리아",
+   "와디즈",
+   "롯데홈쇼핑",
+   "한화갤러리아",
+   "더우인",
+   "샤오홍슈",
+   "위스타트"
+  ],
+  "keywords": [
+   "뷰티 박람회",
+   "수출상담회",
+   "유통상담회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "국내 뷰티기업의 수출과 판로 개척을 지원하는 대규모 전시회인 케이뷰티엑스포 코리아가 킨텍스에서 개최된다.",
+  "key_fact_quote": "킨텍스가 오는 15일부터 17일까지 사흘간 킨텍스 제1전시장 3~5홀에서 국내 뷰티기업의 수출과 판로 개척을 지원하는 ‘2026 K-뷰티엑스포 코리아’를 개최한다고 12일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:32+00:00",
+ "had_body": true
+}

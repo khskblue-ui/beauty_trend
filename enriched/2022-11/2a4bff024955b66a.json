@@ -1,0 +1,38 @@
+{
+ "doc_id": "2a4bff024955b66a",
+ "source": "eu_cosmetics_reg",
+ "source_name": "EU 화장품 규정 1223/2009 개정",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2195",
+ "title": "Commission Regulation (EU) 2022/2195 of 10 November 2022 amending Regulation (EC) No 1223/2009 of the European Parliament and of the Council as regards the use of Butylated Hydroxytoluene, Acid Yellow 3, Homosalate and HAA299 in cosmetic products and correcting that Regulation as regards the use of Resorcinol in cosmetic products (Text with EEA relevance)",
+ "summary": "",
+ "published_at": "2022-11-10T09:00:00+09:00",
+ "date_source": "cellar",
+ "evidence_grade": "official",
+ "query": null,
+ "doc_type": null,
+ "celex": "32022R2195",
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 규제 개정",
+   "화장품 성분 규제",
+   "화장품 안전 기준"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유럽연합 집행위원회가 화장품 내 부틸레이티드 하이드록시톨루엔, 애씨드 옐로우, 호모살레이트, 레조르시놀 등의 사용 규정을 개정 및 정정했다.",
+  "key_fact_quote": "Commission Regulation (EU) 2022/2195 of 10 November 2022 amending Regulation (EC) No 1223/2009 of the European Parliament and of the Council as regards the use of Butylated Hydroxytoluene, Acid Yellow 3, Homosalate and HAA299 in cosmetic products and correcting that Regulation as regards the use of Resorcinol in cosmetic products",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:57+00:00",
+ "had_body": false
+}

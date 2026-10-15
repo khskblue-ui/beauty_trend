@@ -1,0 +1,51 @@
+{
+ "doc_id": "ef923978ad6159c5",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53694",
+ "title": "동화약품 ‘후시덤 흔적 리페어’ 다이소 출시",
+ "summary": "동화약품이 ‘후시덤 흔적 리페어’ 5종을 다이소에 출시했다. ‘후시덤 흔적 리페어’ 라인은 푸시디움 코키네움 발효여과물을 함유했다. 여기에 미백 기능성 성분인 나이아신아마이드를 제품에 따라 2%에서 최대 15%까지 배합했다. 제품은 △ 크림 토너 △ 나이아신 10 앰플 △ 나이아신 15 스팟크림 △…",
+ "published_at": "2026-10-14T09:40:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "후시덤"
+  ],
+  "companies": [
+   "동화약품",
+   "다이소"
+  ],
+  "keywords": [
+   "흔적 리페어",
+   "미백 기능성",
+   "스킨케어 라인"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "동화약품이 후시덤 흔적 리페어 라인을 다이소에 출시했다.",
+  "key_fact_quote": "동화약품이 ‘후시덤 흔적 리페어’ 5종을 다이소에 출시했다.",
+  "dropped": [
+   "product:후시덤 흔적 리페어 크림 토너",
+   "product:후시덤 흔적 리페어 나이아신 10 앰플",
+   "product:후시덤 흔적 리페어 나이아신 15 스팟크림",
+   "product:후시덤 흔적 리페어 캡슐 크림",
+   "product:후시덤 흔적 리페어 크림 마스크"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:03+00:00",
+ "had_body": true
+}

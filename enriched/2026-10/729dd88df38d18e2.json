@@ -1,0 +1,43 @@
+{
+ "doc_id": "729dd88df38d18e2",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58499",
+ "title": "AI 피부진단부터 헬스케어·의료관광까지…'K-뷰티 고부가가치 서비스 전환' 드라이브",
+ "summary": "[코스인코리아닷컴 김세화 기자]정부가 국내 화장품 산업을 AI·데이터·디바이스가 결합된 고부가가치 신(新)서비스로 확장하기 위해전방위 지원에 나선다. AI 데이터를 기반으로 한 맞춤형 화장품 개발과 뷰티 테크를 활성화하는 한편, 지역 상권과 미용 의료, 유통·관광 산업 등을 연계해 글로벌 경쟁…",
+ "published_at": "2026-10-14T09:47:01+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마",
+   "코스맥스"
+  ],
+  "keywords": [
+   "맞춤형 화장품",
+   "뷰티 테크",
+   "메디컬 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부가 국내 화장품 산업을 첨단 기술과 서비스가 결합된 고부가가치 생태계로 전환하기 위해 관련 지원 방안을 발표했다.",
+  "key_fact_quote": "정부가 국내 화장품 산업을 AI·데이터·디바이스가 결합된 고부가가치 신(新)서비스로 확장하기 위해 전방위 지원에 나선다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:17+00:00",
+ "had_body": true
+}

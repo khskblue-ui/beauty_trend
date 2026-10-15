@@ -1,0 +1,47 @@
+{
+ "doc_id": "df3bd62f21065927",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100134",
+ "title": "산업연구원, ‘2026 피부특성 정보은행 사업 결과 세미나’",
+ "summary": "(재)대한화장품산업연구원(원장 조신행, 이하 ‘연구원’)은 오는 11월 20일(금) 서울 강남구 스페이스쉐어 강남센터 주피터홀에서 국내 화장품 기업, 연구소 및 산업 관계자를 대상으로 '2026 피부특성 정보은행 사업 결과 세미나'를 개최한다고 밝혔다.이번 세미나에서는 올해 필리핀 현지 소비자를 대상으로 수집한 피부특성 및 화장품 이용행태 조사 결과와 브라질 뷰티 시장 트렌드 조사 결과를 발표하고, 연구원이 구축한 피부특성 정보제공 플랫폼(SGIP)의 주요 기능과 활용 방법을 소개할 예정이다.먼저 필리핀 현지 피부특성",
+ "published_at": "2026-10-14T09:45:34+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "PH",
+   "BR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원",
+   "더마프로",
+   "피앰아이"
+  ],
+  "keywords": [
+   "피부특성",
+   "화장품 이용행태",
+   "뷰티 시장 트렌드",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대한화장품산업연구원이 필리핀 소비자의 피부특성과 화장품 이용행태 및 브라질 뷰티 시장 트렌드 조사 결과를 공유하는 사업 결과 세미나를 개최한다.",
+  "key_fact_quote": "(재)대한화장품산업연구원(원장 조신행, 이하 ‘연구원’)은 오는 11월 20일(금) 서울 강남구 스페이스쉐어 강남센터 주피터홀에서 국내 화장품 기업, 연구소 및 산업 관계자를 대상으로 '2026 피부특성 정보은행 사업 결과 세미나'를 개최한다고 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:45+00:00",
+ "had_body": true
+}

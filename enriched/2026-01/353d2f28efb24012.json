@@ -1,0 +1,41 @@
+{
+ "doc_id": "353d2f28efb24012",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/symrise-ag-announces-inaugural-share-buy-back-program/",
+ "title": "Symrise AG Announces Inaugural Share Buy-back Program",
+ "summary": "— Supervisory Board authorizes repurchase of shares up to EUR 400 million — The program will be active between 1 February and 31 October, 2026",
+ "published_at": "2026-01-13T04:50:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "DE"
+  ],
+  "brands": [],
+  "companies": [
+   "Symrise AG"
+  ],
+  "keywords": [
+   "자사주 매입",
+   "향료 기업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "심라이즈가 자사주 매입 프로그램을 개시한다고 발표했다.",
+  "key_fact_quote": "Symrise AG Announces Inaugural Share Buy-back Program",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:32+00:00",
+ "had_body": false
+}

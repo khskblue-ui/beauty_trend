@@ -1,0 +1,48 @@
+{
+ "doc_id": "e5f0e96e58c0100f",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53697",
+ "title": "크로마엑스, ‘뷰티월드 두바이 2026’ 참여",
+ "summary": "크로마엑스가 6일부터 8일까지 아랍에미리트(UAE) 두바이에서 열린 ‘뷰티월드 두바이 2026’에 참가했다. 뷰티월드 두바이(Beautyworld Dubai)는 올해 30주년을 맞는 글로벌 화장품 박람회다. 세계 각국의 뷰티 브랜드와 유통업계 관계자들이 참가해 최신 뷰티 트렌드를 공유하고 새로운 비즈니…",
+ "published_at": "2026-10-14T11:07:03+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "event",
+  "countries": [
+   "AE"
+  ],
+  "brands": [
+   "다슈",
+   "DASHU",
+   "달리프",
+   "DALEAF"
+  ],
+  "companies": [
+   "크로마엑스"
+  ],
+  "keywords": [
+   "글로벌 화장품 박람회",
+   "헤어 케어",
+   "남성 그루밍",
+   "헤어 스타일링"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "크로마엑스가 뷰티월드 두바이에 참가해 헤어 브랜드 다슈와 달리프를 선보이며 중동 시장 진출을 모색했다.",
+  "key_fact_quote": "크로마엑스가 6일부터 8일까지 아랍에미리트(UAE) 두바이에서 열린 ‘뷰티월드 두바이 2026’에 참가했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:58+00:00",
+ "had_body": true
+}

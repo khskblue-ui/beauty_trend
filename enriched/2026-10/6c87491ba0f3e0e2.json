@@ -1,0 +1,58 @@
+{
+ "doc_id": "6c87491ba0f3e0e2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.namdonews.com/news/articleView.html?idxno=925854",
+ "title": "광주신세계, 호남 첫 '프라다 뷰티' 입점",
+ "summary": "특히 향수 컬렉션 '라르&라 마티에르'를 비롯해 앰버 플로럴 계열의 향을 담은 신제품 '뢰르 블루 오 드 퍼퓸'(30㎖·13만5천원) 등을 판매한다. 끌레드뽀 보떼는 기초 화장품과 메이크업 제품을 중심으로 고객 선택의 폭을...",
+ "published_at": "2026-10-12T16:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프라다 뷰티",
+   "끌레드뽀 보떼"
+  ],
+  "companies": [
+   "광주신세계"
+  ],
+  "keywords": [
+   "향수 컬렉션",
+   "앰버 플로럴",
+   "오 드 퍼퓸",
+   "기초 화장품",
+   "메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "뢰르 블루 오 드 퍼퓸",
+    "brand": "프라다 뷰티",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "앰버 플로럴"
+    ],
+    "notes_quote": "특히 향수 컬렉션 '라르&라 마티에르'를 비롯해 앰버 플로럴 계열의 향을 담은 신제품 '뢰르 블루 오 드 퍼퓸'(30㎖·13만5천원) 등을 판매한다."
+   }
+  ],
+  "key_fact": "광주신세계에 프라다 뷰티가 입점해 향수 컬렉션 신제품 등을 판매한다.",
+  "key_fact_quote": "광주신세계, 호남 첫 '프라다 뷰티' 입점 특히 향수 컬렉션 '라르&라 마티에르'를 비롯해 앰버 플로럴 계열의 향을 담은 신제품 '뢰르 블루 오 드 퍼퓸'(30㎖·13만5천원) 등을 판매한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:22+00:00",
+ "had_body": false
+}

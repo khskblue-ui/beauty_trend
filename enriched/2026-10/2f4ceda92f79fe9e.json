@@ -1,0 +1,78 @@
+{
+ "doc_id": "2f4ceda92f79fe9e",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100109",
+ "title": "샤워메이트, 명품 향수 클래식한 무드 담은 ‘퍼퓸 바디워시’",
+ "summary": "글로벌 토탈 뷰티 기업 애경산업의 토털 바디케어 브랜드 ‘샤워메이트’(SHOWER MATE)에서 명품 향수의 클래식한 무드를 담은 ‘퍼퓸 바디워시 2종’을 새롭게 선보였다.샤워메이트 퍼퓸 바디워시는 향수처럼 풍성한 향기를 즐기면서도 샤워 후 촉촉하고 편안한 피부를 가꿀 수 있도록 개발한 제품이다. 플로럴 향기에 부드러운 파우더리 잔향을 더해 샤워 후에도 은은하게 이어지는 향기를 구현했으며, 하루의 기분과 분위기에 따라 선택할 수 있도록 △하루의 시작을 화사하게 시작해 주는 ‘로지 피크닉’ △하루의 끝을 편안하게 마무리 해주는 ‘이브",
+ "published_at": "2026-10-13T09:23:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "샤워메이트",
+   "SHOWER MATE"
+  ],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "퍼퓸 바디워시",
+   "바디케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퍼퓸 바디워시",
+    "brand": "샤워메이트",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "플로럴",
+     "파우더리"
+    ],
+    "notes_quote": "플로럴 향기에 부드러운 파우더리 잔향을 더해 샤워 후에도 은은하게 이어지는 향기를 구현했으며"
+   },
+   {
+    "name": "샤워메이트 로지 피크닉 퍼퓸 바디워시",
+    "brand": "샤워메이트",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "플로럴",
+     "장미"
+    ],
+    "notes_quote": "샤워메이트 로지 피크닉 퍼퓸 바디워시는 햇살 아래 꽃이 만개한 공원처럼 화사하고 사랑스러운 플로럴 향을 담았다. 눈부시게 맑은 하늘 아래 펼쳐진 초록빛 들판과 부드러운 봄바람에 실려오는 햇살의 온기를 연상시키는 사랑스럽고 다정한 장미향으로 산뜻하고 기분 좋은 샤워 시간을 선사한다."
+   },
+   {
+    "name": "샤워메이트 이브닝 가능 퍼퓸 바디워시",
+    "brand": "샤워메이트",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "플로럴",
+     "아이리스"
+    ],
+    "notes_quote": "샤워메이트 이브닝 가능 퍼퓸 바디워시는 노을이 내려앉은 정원처럼 차분하고 우아한 플로럴 향을 담았다. 어스름한 저녁 공기 속으로 번지는 보랏빛 풍경과 고요한 정원에서 은은하게 피어오르는 듯한 깊고 우아한 아이리스향으로 하루의 끝에 편안한 휴식의 순간을 제공한다."
+   }
+  ],
+  "key_fact": "애경산업의 바디케어 브랜드 샤워메이트에서 명품 향수의 무드를 담은 퍼퓸 바디워시 신제품을 선보였다.",
+  "key_fact_quote": "글로벌 토탈 뷰티 기업 애경산업의 토털 바디케어 브랜드 ‘샤워메이트’(SHOWER MATE)에서 명품 향수의 클래식한 무드를 담은 ‘퍼퓸 바디워시 2종’을 새롭게 선보였다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:05+00:00",
+ "had_body": true
+}

@@ -1,0 +1,40 @@
+{
+ "doc_id": "e945921a4cefbfb8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610141329178560530",
+ "title": "' K - 뷰티 ' 화장품 넘어 서비스로…정부, AI진단ㆍ메디컬 뷰티 전방위 지...",
+ "summary": "오송에 ' K - 뷰티 아카데미'를 열어 연평균 1900명의 전문인력을 길러낼 계획이다. 외국인 간편결제용 표준 QR코드 설치 업장은 올해 4만개에서 내년 8만개로 두 배로 확대된다. 수출 지원책도 담겼다. 화장품 규제정보...",
+ "published_at": "2026-10-14T13:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 서비스",
+   "메디컬 뷰티",
+   "수출 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부가 화장품을 넘어 진단 및 메디컬 뷰티 서비스와 수출 지원 등 뷰티 산업 육성에 나선다.",
+  "key_fact_quote": "' K - 뷰티 ' 화장품 넘어 서비스로…정부, AI진단ㆍ메디컬 뷰티 전방위 지...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:44+00:00",
+ "had_body": false
+}

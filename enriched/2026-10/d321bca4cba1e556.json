@@ -1,0 +1,48 @@
+{
+ "doc_id": "d321bca4cba1e556",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312185",
+ "title": "French Pharmacy Chains Emerge as New Gateway for K-Beauty Brands in Europe",
+ "summary": "Independent Korean beauty brands are increasingly turning to French pharmacy networks as a strategic gateway into the European market.While many K-beauty companies initially expanded overseas through e-commerce platforms and exports, the latest market trend points toward securing trusted local distr",
+ "published_at": "2026-10-13T15:35:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "FR",
+   "KR"
+  ],
+  "brands": [
+   "LA NOUVELLE PEAU",
+   "IVEL Beauty"
+  ],
+  "companies": [
+   "Citypharma",
+   "Pharmacie Monge"
+  ],
+  "keywords": [
+   "약국 유통망",
+   "더모코스메틱",
+   "기능성 스킨케어",
+   "옴니채널"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 인디 뷰티 브랜드들이 신뢰도 확보와 유럽 시장 확장을 위해 프랑스 약국 유통망을 전략적 관문으로 활용하고 있다.",
+  "key_fact_quote": "Independent Korean beauty brands are increasingly turning to French pharmacy networks as a strategic gateway into the European market.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:09:08+00:00",
+ "had_body": true
+}

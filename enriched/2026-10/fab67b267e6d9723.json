@@ -1,0 +1,53 @@
+{
+ "doc_id": "fab67b267e6d9723",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100110",
+ "title": "한국먼디파마, '메디폼 EGF 스팟패치'",
+ "summary": "한국먼디파마(대표이사 조연진)의 상처 토탈 케어 브랜드 ‘메디폼®’이 연중 지속되는 높은 자외선 지수로 인해 예민해진 여드름성 피부를 집중 관리할 수 있는 ‘메디폼 EGF 스팟패치’를 공식 출시했다.사계절 내내 이어지는 높은 자외선 지수는 피부 자극을 유발해 피부를 예민하게 하고, 피지 분비량 증가와 함께 여드름 등 피부 트러블이 발생하기 쉬운 환경을 조성한다. 피부 트러블은 경우에 따라 색소침착과 흉터로 이어지기 쉬워, 초기에 적절하게 관리하는 것이 중요하다. 특히 피부가 민감한 타입이라면 자극 없이 고민 부위에 사용할 수 있는",
+ "published_at": "2026-10-13T09:24:11+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메디폼"
+  ],
+  "companies": [
+   "한국먼디파마"
+  ],
+  "keywords": [
+   "스팟 패치",
+   "여드름 케어",
+   "트러블 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "메디폼 EGF 스팟패치",
+    "brand": "메디폼",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "한국먼디파마의 메디폼이 예민해진 여드름성 피부를 집중 관리할 수 있는 스팟패치 신제품을 공식 출시했다.",
+  "key_fact_quote": "한국먼디파마(대표이사 조연진)의 상처 토탈 케어 브랜드 ‘메디폼®’이 연중 지속되는 높은 자외선 지수로 인해 예민해진 여드름성 피부를 집중 관리할 수 있는 ‘메디폼 EGF 스팟패치’를 공식 출시했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:03+00:00",
+ "had_body": true
+}

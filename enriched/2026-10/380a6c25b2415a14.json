@@ -1,0 +1,43 @@
+{
+ "doc_id": "380a6c25b2415a14",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58500",
+ "title": "KATRI시험연구원, EU 포장재 미지물질 대응 ‘비표적 첨단 분석센터’ 개소",
+ "summary": "[코스인코리아닷컴 길태윤 기자] KATRI시험연구원(원장 신동준)이 유럽연합(EU)의 식품접촉재료와 포장재 안전성 규제에 대응하는 ‘비표적 첨단 분석센터’를 지난 6일 개소했다고 12일 밝혔다. 새롭게 문을 연 센터는 제품에 잔존하거나 식품으로 이행되는 미지의 화학물질을 탐색·식별하고 위해…",
+ "published_at": "2026-10-14T10:49:11+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "EU"
+  ],
+  "brands": [],
+  "companies": [
+   "KATRI시험연구원"
+  ],
+  "keywords": [
+   "식품접촉재료",
+   "포장재 규제",
+   "비표적 분석"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "KATRI시험연구원이 유럽연합의 식품접촉재료와 포장재 규제에 대응하기 위해 비표적 첨단 분석센터를 개소했다.",
+  "key_fact_quote": "KATRI시험연구원(원장 신동준)이 유럽연합(EU)의 식품접촉재료와 포장재 안전성 규제에 대응하는 ‘비표적 첨단 분석센터’를 지난 6일 개소했다고 12일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:14+00:00",
+ "had_body": true
+}

@@ -1,0 +1,65 @@
+{
+ "doc_id": "72a6dd166044938b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100108",
+ "title": "에이페, 스칼프·래쉬 케어 제품 잇달아 성과",
+ "summary": "라이프솔루션 기반 D2C 미디어커머스 기업 어댑트(ADAPT, 대표 박정하)의 고기능 헤어 솔루션 브랜드 에이페(epais)가 스칼프·래쉬 케어 제품을 중심으로 글로벌 시장에서 성장세를 이어가고 있다.에이페의 대표 제품 ‘스칼프 부스팅 앰플’은 출시 10개월 만에 누적 판매량 100만 개를 돌파했다. 출시 7개월 차였던 지난 5월 50만 개를 기록한 이후 3개월 만에 50만 개를 추가 판매하며, 50만 개를 달성하는 판매 속도가 2배 이상 빨라졌다. 지난 5월에는 미국 아마존 ‘Scalp Treatments’ 카테고리 2위를 기록하",
+ "published_at": "2026-10-13T09:21:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "에이페",
+   "epais"
+  ],
+  "companies": [
+   "어댑트",
+   "ADAPT"
+  ],
+  "keywords": [
+   "스칼프 케어",
+   "래쉬 케어",
+   "두피 관리",
+   "속눈썹 세럼"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "스칼프 부스팅 앰플",
+    "brand": "에이페",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아이래쉬 에센셜 세럼",
+    "brand": "에이페",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "어댑트의 헤어 솔루션 브랜드 에이페가 스칼프 케어 및 래쉬 케어 제품을 중심으로 글로벌 시장에서 성장세를 이어가고 있다.",
+  "key_fact_quote": "라이프솔루션 기반 D2C 미디어커머스 기업 어댑트(ADAPT, 대표 박정하)의 고기능 헤어 솔루션 브랜드 에이페(epais)가 스칼프·래쉬 케어 제품을 중심으로 글로벌 시장에서 성장세를 이어가고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:04+00:00",
+ "had_body": true
+}

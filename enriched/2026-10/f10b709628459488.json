@@ -1,0 +1,57 @@
+{
+ "doc_id": "f10b709628459488",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302478",
+ "title": "빼빼로는 책갈피, 짱셔요는 향수 …롯데웰푸드, 굿즈 협업 확대",
+ "summary": "짱셔요 향수 ·독서링·도자기 잔, 찰떡파이 슬라임, 롯샌 피크닉 보자기·거울 키링 등 12종을 우선 선보인다. 오는 27일에는 칙촉 에어팟 케이스, 짱셔요 머들러, 찰떡파이 클리커 등 3종을 추가로 출시 할 예정이다....",
+ "published_at": "2026-10-13T09:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "짱셔요",
+   "빼빼로",
+   "찰떡파이",
+   "롯샌",
+   "칙촉"
+  ],
+  "companies": [
+   "롯데웰푸드"
+  ],
+  "keywords": [
+   "굿즈 협업",
+   "브랜드 향수",
+   "이색 굿즈"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "짱셔요 향수",
+    "brand": "짱셔요",
+    "launch_date": null,
+    "launch_quote": "짱셔요 향수 ·독서링·도자기 잔, 찰떡파이 슬라임, 롯샌 피크닉 보자기·거울 키링 등 12종을 우선 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "롯데웰푸드가 굿즈 협업을 확대하며 짱셔요 향수 등 다양한 상품을 선보인다.",
+  "key_fact_quote": "빼빼로는 책갈피, 짱셔요는 향수 …롯데웰푸드, 굿즈 협업 확대",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:41+00:00",
+ "had_body": false
+}

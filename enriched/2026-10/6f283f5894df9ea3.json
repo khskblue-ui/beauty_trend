@@ -1,0 +1,40 @@
+{
+ "doc_id": "6f283f5894df9ea3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.nongmin.com/article/20260929500335",
+ "title": "아내에게 선물한 명품 향수, 향이 오래가지 않는 이유",
+ "summary": "다만 부향률은 브랜드에 따라 또 조향사 에 따라 약간의 차이가 날 수 있다. 부향률이 가장 높아 밀도와 향이 가장 강한 것은 ‘퍼퓸(perfume)’이라고 한다. 퍼퓸은 약 30%의 부향률을 가지고 7시간 정도 지속되지만...",
+ "published_at": "2026-10-03T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "부향률",
+   "퍼퓸",
+   "향수 지속력"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "향수의 부향률과 지속력은 브랜드 및 조향사에 따라 차이가 있으며 퍼퓸은 부향률과 지속시간이 높다.",
+  "key_fact_quote": "다만 부향률은 브랜드에 따라 또 조향사 에 따라 약간의 차이가 날 수 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:46+00:00",
+ "had_body": false
+}

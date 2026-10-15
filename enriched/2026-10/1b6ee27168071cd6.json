@@ -1,0 +1,53 @@
+{
+ "doc_id": "1b6ee27168071cd6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.youthdaily.co.kr/news/article.html?no=228203",
+ "title": "스타 마케팅으로 '고객 접점 확대'…제약업계, 헬스·뷰티 리브랜딩 '잰...",
+ "summary": "특히 현장에는 딘시의 메인 모델인 배우 전여빈이 직접 방문해 공간을 둘러보고 신제품 을 테스트하며... 세정용 화장품 '아이쓱 눈꺼풀 클리너'의 새 모델로 글로벌 걸그룹 '에스파(aespa)'를 전격 발탁했다. JW중외제약은...",
+ "published_at": "2026-10-13T08:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "딘시"
+  ],
+  "companies": [
+   "JW중외제약"
+  ],
+  "keywords": [
+   "스타 마케팅",
+   "헬스 뷰티 리브랜딩",
+   "세정용 화장품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "아이쓱 눈꺼풀 클리너",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "제약업계가 스타 마케팅을 통해 헬스 및 뷰티 분야 리브랜딩을 추진하며 고객 접점을 넓히고 있다.",
+  "key_fact_quote": "스타 마케팅으로 '고객 접점 확대'…제약업계, 헬스·뷰티 리브랜딩 '잰...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:11+00:00",
+ "had_body": false
+}

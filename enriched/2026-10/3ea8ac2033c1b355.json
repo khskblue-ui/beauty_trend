@@ -1,0 +1,59 @@
+{
+ "doc_id": "3ea8ac2033c1b355",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100125",
+ "title": "CJ올리브영, 동남아 세포라 매장 입점 완료 K뷰티 소비 저변 확장",
+ "summary": "CJ올리브영(이하 올리브영)은 글로벌 뷰티플랫폼인 세포라(Sephora)와 손잡고 미국에 이어 말레이시아·싱가포르·태국·홍콩 등 아시아 4개 국가 및 지역의 주요 오프라인 매장과 온라인몰에 ‘올리브영 K뷰티에딧(OLIVE YOUNG K-Beauty Edit)’ 입점을 완료했다고 12일 밝혔다. 올리브영은 올해 1월 세포라와 공식 파트너십을 체결한 이후 단계적으로 협업을 추진해왔다. 올리브영의 오프라인 매장과 글로벌몰이 K뷰티 확산의 거점 역할을 수행하고, 세포라라는 대형 뷰티플랫폼의 검증된 유통망을 지렛대 삼아 매력적인 K뷰티 브랜",
+ "published_at": "2026-10-13T10:36:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "MY",
+   "SG",
+   "TH",
+   "HK",
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "리쥬란",
+   "아렌시아",
+   "토리든",
+   "닥터엘시아",
+   "마녀공장",
+   "바이오힐보",
+   "비플레인",
+   "하루하루원더",
+   "헤브블루"
+  ],
+  "companies": [
+   "CJ올리브영",
+   "세포라"
+  ],
+  "keywords": [
+   "글로벌 유통망",
+   "스킨케어 상품군",
+   "뷰티 플랫폼",
+   "팝업 이벤트"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "씨제이올리브영은 글로벌 뷰티플랫폼 세포라와 협력해 아시아 주요 국가와 지역의 매장 및 온라인몰에 올리브영 케이뷰티에딧 입점을 완료했다.",
+  "key_fact_quote": "CJ올리브영(이하 올리브영)은 글로벌 뷰티플랫폼인 세포라(Sephora)와 손잡고 미국에 이어 말레이시아·싱가포르·태국·홍콩 등 아시아 4개 국가 및 지역의 주요 오프라인 매장과 온라인몰에 ‘올리브영 K뷰티에딧(OLIVE YOUNG K-Beauty Edit)’ 입점을 완료했다고 12일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:51+00:00",
+ "had_body": true
+}

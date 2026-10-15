@@ -1,0 +1,40 @@
+{
+ "doc_id": "6b1cee4b0c10df2e",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/isamaya-ffrench-no-longer-affiliated-with-namesake-brand",
+ "title": "Isamaya Ffrench no longer affiliated with namesake beauty brand",
+ "summary": "The make-up artist has allegedly distanced herself from her own cosmetics brand, Isamaya Beauty, with rumours stating she has not been involved with the brand for more than a year",
+ "published_at": "2026-10-13T20:06:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Isamaya Beauty"
+  ],
+  "companies": [],
+  "keywords": [
+   "뷰티 브랜드",
+   "메이크업 아티스트",
+   "브랜드 결별"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "메이크업 아티스트 이사마야 프렌치가 자신의 이름을 딴 화장품 브랜드와 결별했다는 소식이 전해졌다.",
+  "key_fact_quote": "The make-up artist has allegedly distanced herself from her own cosmetics brand, Isamaya Beauty, with rumours stating she has not been involved with the brand for more than a year",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:46+00:00",
+ "had_body": false
+}

@@ -1,0 +1,55 @@
+{
+ "doc_id": "8a92b5c8b5881ef1",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53688",
+ "title": "제로이드, 미국서 피부장벽 기술 MLE® 알린다",
+ "summary": "제로이드가 12일부터 19일까지 미국 뉴욕 브루클린 하나하우스에서 열리는 ‘하우스 오브 케이 시즌 2 : 더 웰니스 에딧’에 참가한다. ‘하우스 오브 케이(Haus of K)’는 누리하우스가 개최한 K-컬처 행사다. ‘더 웰니스 에딧(The Wellness Edit)’을 주제로 △ 더마 코스메슈티컬 △ 웰니…",
+ "published_at": "2026-10-13T12:12:15+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "제로이드"
+  ],
+  "companies": [
+   "네오팜",
+   "누리하우스"
+  ],
+  "keywords": [
+   "더마 코스메슈티컬",
+   "피부장벽 기술",
+   "케이 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "인텐시브 크림",
+    "brand": "제로이드",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "제로이드가 미국 뉴욕에서 열리는 케이 컬처 행사에 참가해 독자적인 피부장벽 기술과 제품을 알린다.",
+  "key_fact_quote": "제로이드가 12일부터 19일까지 미국 뉴욕 브루클린 하나하우스에서 열리는 ‘하우스 오브 케이 시즌 2 : 더 웰니스 에딧’에 참가한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:06+00:00",
+ "had_body": true
+}

@@ -1,0 +1,53 @@
+{
+ "doc_id": "5f91c787fbabc6da",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/kure-bazaar-lance-biogel-keratine,28336",
+ "title": "Kure Bazaar lance Biogel Kératine, un semi permanent clean pensé pour les pros",
+ "summary": "Une fois encore, Kure Bazaar s'affirme en précurseur des formules bio-sourcées sur le segment des vernis à ongles. La marque dévoile Biogel Kératine, le premier gel semi-permanent formulé sans ingrédient controversé. Destiné en priorité aux professionnels, le produit est également disponible à l'achat en boutique. Biogel Kératine affiche une tenue de trois à quatre semaines et une dimension soin de l'ongle. Selon Christian David, fondateur de Kure Bazaar, le projet trouve son point de... - Sociétés & industrie",
+ "published_at": "2026-10-13T07:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Kure Bazaar"
+  ],
+  "companies": [
+   "Fiabila"
+  ],
+  "keywords": [
+   "클린 뷰티",
+   "네일 케어",
+   "바이오 네일"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Biogel Kératine",
+    "brand": "Kure Bazaar",
+    "launch_date": "2026-09",
+    "launch_quote": "Il a été lancé fin septembre 2026 à la Maison Kure Bazaar 165 rue Saint Honoré à Paris et au Bon Marché Rive Gauche sur un nouveau stand dédié.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "쿠어 바자는 논란이 되는 유해 성분을 배제하고 식물성 케라틴과 신기술 폴리머를 적용한 전문가용 클린 세미 퍼머넌트 젤 네일 제품을 선보였다.",
+  "key_fact_quote": "La marque dévoile Biogel Kératine, le premier gel semi-permanent formulé sans ingrédient controversé.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:03+00:00",
+ "had_body": true
+}

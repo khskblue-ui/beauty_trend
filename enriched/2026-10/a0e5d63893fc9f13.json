@@ -1,0 +1,53 @@
+{
+ "doc_id": "a0e5d63893fc9f13",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.segyebiz.com/newsView/20261013510886?OutUrl=naver",
+ "title": "잇소, ‘2026 K-뷰티엑스포 코리아’ 참가…순면 페이셜 타월 ‘소미’...",
+ "summary": "2026 K-뷰티엑스포 코리아는 화장품 과 스킨케어, 뷰티용품, 원료·패키징, OEM·ODM 등 뷰티 산업 전반을 아우르는 전문 전시회다. 제품 전시와 비즈니스 상담을 통해 뷰티 기업과 국내외 바이어를 연결하고 신제품 ...",
+ "published_at": "2026-10-13T11:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "잇소"
+  ],
+  "companies": [
+   "잇소"
+  ],
+  "keywords": [
+   "뷰티 산업 전반",
+   "전문 전시회",
+   "페이셜 타월"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "소미",
+    "brand": "잇소",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "잇소가 전문 뷰티 전시회인 케이뷰티엑스포 코리아에 참가하여 순면 페이셜 타월을 선보인다.",
+  "key_fact_quote": "잇소, ‘2026 K-뷰티엑스포 코리아’ 참가…순면 페이셜 타월 ‘소미’...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:07+00:00",
+ "had_body": false
+}

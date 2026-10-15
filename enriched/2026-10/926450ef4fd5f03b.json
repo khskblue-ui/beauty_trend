@@ -1,0 +1,54 @@
+{
+ "doc_id": "926450ef4fd5f03b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20099563?ref=naver",
+ "title": "쇼파드 퍼퓸, 국내 첫 ‘가드니아 타히아’ 출시…가든 컬렉션 확대",
+ "summary": "쇼파드 퍼퓸이 자연에서 영감을 받은 ‘가든 컬렉션’의 신제품 ‘가드니아 타히아’를 이달 국내에 처음 선보인다. 쇼파드 퍼퓸은 166년 전통의 스위스 럭셔리 브랜드 쇼파드의 향수 브랜드로, 자연에서 얻은 영감과 지속...",
+ "published_at": "2026-10-08T14:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "CH"
+  ],
+  "brands": [
+   "쇼파드 퍼퓸",
+   "쇼파드"
+  ],
+  "companies": [
+   "쇼파드"
+  ],
+  "keywords": [
+   "럭셔리 향수",
+   "가든 컬렉션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "가드니아 타히아",
+    "brand": "쇼파드 퍼퓸",
+    "launch_date": null,
+    "launch_quote": "쇼파드 퍼퓸이 자연에서 영감을 받은 ‘가든 컬렉션’의 신제품 ‘가드니아 타히아’를 이달 국내에 처음 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "쇼파드 퍼퓸이 자연에서 영감을 받은 가든 컬렉션의 신제품을 국내에 처음 선보인다.",
+  "key_fact_quote": "쇼파드 퍼퓸이 자연에서 영감을 받은 ‘가든 컬렉션’의 신제품 ‘가드니아 타히아’를 이달 국내에 처음 선보인다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:26+00:00",
+ "had_body": false
+}

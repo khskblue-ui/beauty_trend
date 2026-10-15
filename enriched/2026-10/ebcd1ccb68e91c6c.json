@@ -1,0 +1,46 @@
+{
+ "doc_id": "ebcd1ccb68e91c6c",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53652",
+ "title": "올리브영, 10월 ‘풀케어 샤워’ 프로모션 전개",
+ "summary": "올리브영이 10월 한 달 동인 헤어·보디케어 프로모션을 전개한다. 이번 행사는 ‘머리부터 발끝까지 나를 위한 풀케어 샤워 라인업’을 주제로 삼았다. 라이프스타일과 샤워 습관에 맞춘 헤어·보디 케어 제품을 제안한다. 올리브영은 9일부터 18일까지 ‘샤워 레시피 위크’를 운영한다. 이 기간 헤어·보…",
+ "published_at": "2026-10-07T09:44:27+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "헤어케어",
+   "보디케어",
+   "풀케어 샤워",
+   "에브리씽 샤워",
+   "사우나"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "올리브영이 샤워 전후 과정을 아우르는 헤어 및 보디케어 프로모션을 진행하며 새로운 샤워 관리 문화를 제안한다.",
+  "key_fact_quote": "올리브영이 10월 한 달 동인 헤어·보디케어 프로모션을 전개한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:44+00:00",
+ "had_body": true
+}

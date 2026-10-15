@@ -1,0 +1,42 @@
+{
+ "doc_id": "1c580f08095a6d38",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171621",
+ "title": "AI는 기업의 철학을 향으로 만들 수 있을까 [이선미의 퍼퓸테크]",
+ "summary": "마스터카드는 조향사 들과 협력해 브랜드가 추구하는 열정(Passion)과 낙관(Optimism)을 두 가지 향으로... 브랜드를 상징하는 이미지와 소재, 공간의 분위기를 분석해 AI가 향의 방향과 설계안을 제안하고, 조향사 가 이를...",
+ "published_at": "2026-10-08T06:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [
+   "마스터카드"
+  ],
+  "companies": [
+   "마스터카드"
+  ],
+  "keywords": [
+   "퍼퓸테크",
+   "인공지능 조향",
+   "브랜드 향기"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인공지능이 브랜드의 이미지와 공간 분위기를 분석하여 향의 설계안을 제안하고 조향사와 협력하는 시도가 이루어지고 있다.",
+  "key_fact_quote": "브랜드를 상징하는 이미지와 소재, 공간의 분위기를 분석해 AI가 향의 방향과 설계안을 제안하고, 조향사 가 이를...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:44+00:00",
+ "had_body": false
+}

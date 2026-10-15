@@ -1,0 +1,53 @@
+{
+ "doc_id": "3b4d0aac0d86f5f3",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58491",
+ "title": "바이오던스, 신제품 ‘캐비어 PDRN 캡슐 크림’ 올리브영 단독 론칭",
+ "summary": "[코스인코리아닷컴 길태윤 기자]글로벌 스킨케어 브랜드 바이오던스가 오는 10월 12일 신제품 ‘리쥬비네이팅 캐비어 PDRN 캡슐 크림’을 올리브영에서 선보인다. 이번 신제품은 기존 캐비어 PDRN 라인을 크림 카테고리로 확장했다. 캐비어와 PDRN 성분을 결합해 피부 속 밀도와 겉 장벽을 동시에 케…",
+ "published_at": "2026-10-13T10:41:15+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "바이오던스"
+  ],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "캡슐 크림",
+   "스킨케어 라인 확장",
+   "장벽 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리쥬비네이팅 캐비어 PDRN 캡슐 크림",
+    "brand": "바이오던스",
+    "launch_date": null,
+    "launch_quote": "글로벌 스킨케어 브랜드 바이오던스가 오는 10월 12일 신제품 ‘리쥬비네이팅 캐비어 PDRN 캡슐 크림’을 올리브영에서 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "바이오던스가 캐비어와 성분을 결합한 신제품 캡슐 크림을 올리브영에서 단독 론칭하며 스킨케어 제품군을 확장한다.",
+  "key_fact_quote": "글로벌 스킨케어 브랜드 바이오던스가 오는 10월 12일 신제품 ‘리쥬비네이팅 캐비어 PDRN 캡슐 크림’을 올리브영에서 선보인다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:24+00:00",
+ "had_body": true
+}

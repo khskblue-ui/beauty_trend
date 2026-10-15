@@ -1,0 +1,46 @@
+{
+ "doc_id": "d24f11e684e7d491",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/inflexion-entre-au-capital-de,28324",
+ "title": "Inflexion entre au capital de Manucurist, marque française de vernis green",
+ "summary": "La marque française de vernis green et de soins pour les ongles vient de conclure un accord avec Inflexion, fonds européen de capital-investissement spécialisé dans les entreprises de taille intermédiaire, qui devient actionnaire minoritaire. L'entrée du fonds Inflexion au capital de Manucurist doit permettre d'accompagner les fondateurs et l'équipe dirigeante dans l'accélération du développement international de l'entreprise, avec une attention particulière portée aux États-Unis et à... - Brèves",
+ "published_at": "2026-10-12T14:49:44+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "US"
+  ],
+  "brands": [
+   "Manucurist"
+  ],
+  "companies": [
+   "Inflexion",
+   "Alantra"
+  ],
+  "keywords": [
+   "친환경 네일",
+   "네일 케어",
+   "지분 투자"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유럽 사모펀드 인플렉션이 프랑스 친환경 네일 브랜드 마누키리스트의 소수 지분을 인수하며 글로벌 확장 지원에 나섰다.",
+  "key_fact_quote": "La marque française de vernis green et de soins pour les ongles vient de conclure un accord avec Inflexion, fonds européen de capital-investissement spécialisé dans les entreprises de taille intermédiaire, qui devient actionnaire minoritaire.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:12+00:00",
+ "had_body": true
+}

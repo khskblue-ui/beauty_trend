@@ -1,0 +1,42 @@
+{
+ "doc_id": "63b09f03e8d679dc",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/medias/company-news/2015/givaudan-annonce-des-changements-au-sein-du-comite-executif",
+ "title": "Givaudan annonce des changements au sein du Comité exécutif",
+ "summary": "Givaudan, leader mondial des parfums et des arômes, a annoncé aujourd’hui des changements au sein du Comité exécutif. 2015 New Head HR_EN.pdf 2015 New Head HR_FR.pdf 2015 New Head HR_GE.pdf Biography_Simon Halle-Smith.pdf Biography_Joe Fabbri.pdf",
+ "published_at": "2015-08-06T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "CH"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "향료 기업",
+   "집행위원회",
+   "인사 변동"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단이 집행위원회 내 인사 변경 사항을 발표했다.",
+  "key_fact_quote": "Givaudan, leader mondial des parfums et des arômes, a annoncé aujourd’hui des changements au sein du Comité exécutif.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:21+00:00",
+ "had_body": false
+}

@@ -1,0 +1,39 @@
+{
+ "doc_id": "50b73902cced5a9a",
+ "source": "dsm_firmenich",
+ "source_name": "dsm-firmenich News",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://our-company.dsm-firmenich.com/en/our-company/news/our-stories/2026/ai-is-unleashing-a-new-wave-of-creativity.html",
+ "title": "AI is unleashing a new wave of creativity",
+ "summary": "",
+ "published_at": "2026-09-14T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "인공지능 기술",
+   "창의성 혁신"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "인공지능이 새로운 창의성의 물결을 열어주고 있다.",
+  "key_fact_quote": "AI is unleashing a new wave of creativity",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:46+00:00",
+ "had_body": false
+}

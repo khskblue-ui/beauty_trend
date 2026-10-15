@@ -1,0 +1,84 @@
+{
+ "doc_id": "44a5dddf7c043743",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ekn.kr/web/view.php?key=20261012020494716",
+ "title": "[똑똑한뷰티] CJ올리브영, 스킨푸드, 리필드, LF 아떼, 아이오페, 무신사...",
+ "summary": "향은 전문 조향사 와 협업해 3종으로 구성했다. 석류와 블랙슈거 향을 결합한 '로우키 페이머스', 무화과와 자스민을 활용한 '마이 디폴트', 장미와 은방울꽃 향을 담은 '소프트 스포큰' 등이다. 토코보는 지그재그...",
+ "published_at": "2026-10-12T09:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "CJ올리브영",
+   "스킨푸드",
+   "리필드",
+   "아떼",
+   "아이오페",
+   "무신사",
+   "토코보"
+  ],
+  "companies": [
+   "CJ올리브영",
+   "LF"
+  ],
+  "keywords": [
+   "조향사 협업",
+   "향수 신제품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "로우키 페이머스",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "석류",
+     "블랙슈거"
+    ],
+    "notes_quote": "석류와 블랙슈거 향을 결합한 '로우키 페이머스'"
+   },
+   {
+    "name": "마이 디폴트",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "무화과",
+     "자스민"
+    ],
+    "notes_quote": "무화과와 자스민을 활용한 '마이 디폴트'"
+   },
+   {
+    "name": "소프트 스포큰",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "장미",
+     "은방울꽃"
+    ],
+    "notes_quote": "장미와 은방울꽃 향을 담은 '소프트 스포큰'"
+   }
+  ],
+  "key_fact": "전문 조향사와 협업하여 로우키 페이머스와 마이 디폴트 및 소프트 스포큰 등 여러 가지 향을 구성했다.",
+  "key_fact_quote": "향은 전문 조향사 와 협업해 3종으로 구성했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:44+00:00",
+ "had_body": false
+}

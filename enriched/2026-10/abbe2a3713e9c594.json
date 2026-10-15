@@ -1,0 +1,62 @@
+{
+ "doc_id": "abbe2a3713e9c594",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53664",
+ "title": "스킨1004, ‘테카™’ 하이드로겔 마스크",
+ "summary": "스킨1004가 하이드로겔 마스크 두가지를 출시했다. 하이드로겔 마스크는 센텔라 테카™와 히알루론산을 결합한 히알루-테카™를 함유했다. 민감한 피부를 건강하게 관리하고 피부 탄력을 강화한다. ‘마다가스카르 센텔라 테카™ 카페인 쿨링 겔 마스크’는 센텔라 테카™와 병풀 유래 PDRN으로 만들었다…",
+ "published_at": "2026-10-08T12:00:52+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "스킨1004"
+  ],
+  "companies": [
+   "스킨1004"
+  ],
+  "keywords": [
+   "하이드로겔 마스크",
+   "쿨링 마스크",
+   "보습 마스크",
+   "피부 탄력"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "마다가스카르 센텔라 테카™ 카페인 쿨링 겔 마스크",
+    "brand": "스킨1004",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마다가스카르 센텔라 히알루-테카™ 펩타이드 바운스 겔 마스크",
+    "brand": "스킨1004",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스킨일공공사가 피부 진정과 탄력 관리를 돕는 하이드로겔 마스크 신제품을 선보였다.",
+  "key_fact_quote": "스킨1004가 하이드로겔 마스크 두가지를 출시했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:31+00:00",
+ "had_body": true
+}

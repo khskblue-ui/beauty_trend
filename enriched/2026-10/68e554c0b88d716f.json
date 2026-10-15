@@ -1,0 +1,43 @@
+{
+ "doc_id": "68e554c0b88d716f",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53671",
+ "title": "美 FDA OTC 전 심사관이 3일 동안 싹 푼다",
+ "summary": "\"나도 FDA OTC 전문가!\" 미국 일반의약품(OTC) 규제 실무 전문가를 양성하는 3일 집중 교육이 열린다. 40년 간 미국 식품의약국(FDA) 심사관으로 활동한 OTC 전문가가 직접 실무 중심 강의를 진행한다. 미국시장 진출을 앞둔 K-뷰티 브랜드와 제조·유통사에게 꼭 필요한 핵심 정보를 전달하는 데 초점…",
+ "published_at": "2026-10-12T03:50:07+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "글로벌표준인증원"
+  ],
+  "keywords": [
+   "일반의약품 규제",
+   "인허가 전략",
+   "해외 진출 교육"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "글로벌표준인증원이 미국 일반의약품 시장 진출을 준비하는 뷰티 기업 등을 위해 전 미국 식품의약국 심사관이 진행하는 규제 실무 전문 교육을 실시한다.",
+  "key_fact_quote": "글로벌표준인증원(대표 전재금)은 10월 29일(목)부터 31일(토) 까지 3일간 ‘2026 FDA OTC 규제·실무 전문 교육’ 을 실시한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:21+00:00",
+ "had_body": true
+}

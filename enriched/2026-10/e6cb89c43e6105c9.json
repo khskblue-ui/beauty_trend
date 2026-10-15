@@ -1,0 +1,64 @@
+{
+ "doc_id": "e6cb89c43e6105c9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gpkorea.com/news/articleView.html?idxno=147384",
+ "title": "\"가을엔 더 짙고 깊게\"…불가리·샤넬·겔랑, 명품 향수 신작 경쟁",
+ "summary": "겔랑 공식 한국 사이트는 뢰르 블루 오 드 퍼퓸을 현재 향수 신제품 으로 소개하고 있다. 디올은 프라이빗 향수 컬렉션 '라 콜렉시옹 프리베'의 '디올 파라다이스'를 내놨다. 아몬드의 달콤하고 구르망한 매력을 앞세운 오...",
+ "published_at": "2026-10-08T12:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "불가리",
+   "샤넬",
+   "겔랑",
+   "디올"
+  ],
+  "companies": [],
+  "keywords": [
+   "명품 향수",
+   "오 드 퍼퓸",
+   "프라이빗 향수 컬렉션"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "뢰르 블루 오 드 퍼퓸",
+    "brand": "겔랑",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "디올 파라다이스",
+    "brand": "디올",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "아몬드"
+    ],
+    "notes_quote": "아몬드의 달콤하고 구르망한 매력을 앞세운 오..."
+   }
+  ],
+  "key_fact": "겔랑과 디올 등 명품 브랜드들이 가을을 맞아 향수 신제품을 선보이며 경쟁하고 있다.",
+  "key_fact_quote": "\"가을엔 더 짙고 깊게\"…불가리·샤넬·겔랑, 명품 향수 신작 경쟁",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:28+00:00",
+ "had_body": false
+}

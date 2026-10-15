@@ -1,0 +1,44 @@
+{
+ "doc_id": "b54e3fdcc1fdde20",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480140",
+ "title": "[르포] 美·日·유럽 향할 화장품 , 여기서···수출 강국 떠받치는 '제...",
+ "summary": "코스메카코리아는 매월 약 320종, 연간 약 3800종의 신제품 을 개발하고 있으며 실제 생산하는 화장품 은 연간 1만2000여 종에 달한다. 최근 코스메카코리아가 공을 들이는 분야는 제조 공정의 자동화다. 화장품 은 제품마다...",
+ "published_at": "2026-10-14T17:37:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "코스메카코리아"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "공정 자동화",
+   "화장품 제조"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스메카코리아는 다수의 신제품 개발 및 화장품 생산과 함께 제조 공정의 자동화에 주력하고 있다.",
+  "key_fact_quote": "코스메카코리아는 매월 약 320종, 연간 약 3800종의 신제품 을 개발하고 있으며 실제 생산하는 화장품 은 연간 1만2000여 종에 달한다. 최근 코스메카코리아가 공을 들이는 분야는 제조 공정의 자동화다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:49+00:00",
+ "had_body": false
+}

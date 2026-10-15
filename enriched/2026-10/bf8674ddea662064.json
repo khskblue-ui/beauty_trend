@@ -1,0 +1,56 @@
+{
+ "doc_id": "bf8674ddea662064",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/perfume-and-ai-berlin-packaging,28333",
+ "title": "Perfume and AI: Berlin Packaging and Ininum win award at Luxe Pack Monaco",
+ "summary": "The packaging solution developed by Berlin Packaging for Ininum's AI-powered smart perfume device won a Formes de Luxe Award in the Beauty Tech category at the 2026 edition of Luxe Pack Monaco. “Beauty tech is opening entirely new possibilities for how consumers interact with products and brands,” said Andrea Ucchino, Design Director EMEA at Berlin Packaging. “With Ininum, our challenge was to create a design capable of speaking authentically to all the worlds converging in this unique... - Industry buzz",
+ "published_at": "2026-10-12T19:11:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "MC"
+  ],
+  "brands": [
+   "Ininum"
+  ],
+  "companies": [
+   "Berlin Packaging",
+   "Ininum",
+   "Studio One Eleven"
+  ],
+  "keywords": [
+   "뷰티 테크",
+   "스마트 향수",
+   "맞춤형 향수",
+   "패키징 디자인"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "AI-powered smart perfume device",
+    "brand": "Ininum",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "베를린 패키징이 이니넘의 인공지능 기반 스마트 향수 기기를 위해 개발한 패키징 솔루션이 럭스 팩 모나코에서 뷰티 테크 부문 상을 수상했다.",
+  "key_fact_quote": "The packaging solution developed by Berlin Packaging for Ininum's AI-powered smart perfume device won a Formes de Luxe Award in the Beauty Tech category at the 2026 edition of Luxe Pack Monaco.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:08+00:00",
+ "had_body": true
+}

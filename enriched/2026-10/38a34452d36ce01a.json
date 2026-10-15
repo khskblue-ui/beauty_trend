@@ -1,0 +1,44 @@
+{
+ "doc_id": "38a34452d36ce01a",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312133",
+ "title": "China's K-Beauty Toner Market Remains Stable as Consumer Preferences Continue to Evolve",
+ "summary": "China\\'s K-beauty toner market remained relatively stable in the third quarter of 2026, suggesting that the category has entered a period of maturity following years of rapid growth and market fluctuations.An analysis of K-beauty toner sales on Tmall found that total third-quarter sales reached 31,70",
+ "published_at": "2026-10-13T15:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Tmall"
+  ],
+  "keywords": [
+   "토너 시장",
+   "피부 장벽 케어",
+   "저자극 스킨케어",
+   "보습 진정"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 내 한국산 토너 시장이 안정화 단계에 접어든 가운데 소비자들은 보습과 진정 및 저자극 기능성 제품을 중심으로 선택지를 다변화하고 있다.",
+  "key_fact_quote": "The latest Tmall data suggests that China's K-beauty toner market has entered a period of stability.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:09:08+00:00",
+ "had_body": true
+}

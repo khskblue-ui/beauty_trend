@@ -1,0 +1,44 @@
+{
+ "doc_id": "f637ce443f80ef48",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/ifra-discusses-responsible-fragrance-at-beautyworld-dubai",
+ "title": "IFRA discusses responsible fragrance at Beautyworld Dubai",
+ "summary": "Alexander Mohr, President of IFRA , joined the Next in Fragrance Conference at Beautyworld Dubai for a panel on regulations, ethics and the planet, alongside Ajmal Group and the Oud Grading Institute.",
+ "published_at": "2026-10-07T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "AE"
+  ],
+  "brands": [],
+  "companies": [
+   "IFRA",
+   "Ajmal Group",
+   "Oud Grading Institute"
+  ],
+  "keywords": [
+   "책임 있는 향수",
+   "향료 규제",
+   "뷰티 컨퍼런스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "국제향료협회 회장이 뷰티월드 두바이의 컨퍼런스에 참여하여 규제와 윤리 및 지구 환경을 주제로 패널 토론을 진행했다.",
+  "key_fact_quote": "Alexander Mohr, President of IFRA , joined the Next in Fragrance Conference at Beautyworld Dubai for a panel on regulations, ethics and the planet, alongside Ajmal Group and the Oud Grading Institute.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:25+00:00",
+ "had_body": false
+}

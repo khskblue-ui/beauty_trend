@@ -1,0 +1,51 @@
+{
+ "doc_id": "a4169cc274b81395",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=247150",
+ "title": "쿠오카 '말차 라떼', 2026 얼루어 베스트 오브 뷰티 '베스트 퍼퓸' 선정",
+ "summary": "올해 미국 니치 프래그런스 플랫폼 럭키센트(LuckyScent)에 공식 입점한 이후 쿠오카 제품 중 판매 1위를 기록하며 현지 향수 애호가들의 높은 관심을 확인했다. 전 세계적으로 주목받는 말차라는 친숙한 소재를...",
+ "published_at": "2026-10-02T18:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "쿠오카"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 프래그런스",
+   "베스트 퍼퓸"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "말차 라떼",
+    "brand": "쿠오카",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "쿠오카의 말차 라떼가 얼루어 베스트 오브 뷰티에서 베스트 퍼퓸으로 선정되었다.",
+  "key_fact_quote": "쿠오카 '말차 라떼', 2026 얼루어 베스트 오브 뷰티 '베스트 퍼퓸' 선정",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:06+00:00",
+ "had_body": false
+}

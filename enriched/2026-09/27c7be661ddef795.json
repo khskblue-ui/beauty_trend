@@ -1,0 +1,40 @@
+{
+ "doc_id": "27c7be661ddef795",
+ "source": "dsm_firmenich",
+ "source_name": "dsm-firmenich News",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://our-company.dsm-firmenich.com/en/our-company/news/trade-news/2026/dsm-firmenich-partners-with-boltz-on-ai-for-ingredient-discovery.html",
+ "title": "dsm-firmenich partners with Boltz on AI for ingredient discovery",
+ "summary": "",
+ "published_at": "2026-09-14T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "dsm-firmenich",
+   "Boltz"
+  ],
+  "keywords": [
+   "성분 발굴",
+   "인공지능 기술 제휴"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "디에스엠-피르메니히가 성분 발굴을 위해 볼츠와 인공지능 협력 관계를 맺었다.",
+  "key_fact_quote": "dsm-firmenich partners with Boltz on AI for ingredient discovery",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:49+00:00",
+ "had_body": false
+}

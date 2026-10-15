@@ -1,0 +1,41 @@
+{
+ "doc_id": "65c82a0c08464f23",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/media/media-releases/2015/responsible-growth-shared-success",
+ "title": "Une croissance responsable. Une Réussite partagée.",
+ "summary": "Givaudan vise à surperformer le marché et à générer un flux de trésorerie disponible solide et durable au cours des cinq prochaines années. Givaudan annonce ses ambitions pour les cinq proc GIV_2015-2020-ambition_EN.pdf GIV_2015_2020-ambition_FR.pdf GIV_2015_2020-ambition_GE.pdf GIV_2015_2020-Ambitions.pdf",
+ "published_at": "2015-08-27T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "CH"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "향료 기업 실적",
+   "지속가능 경영"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단은 향후 몇 년간 시장 평균을 상회하고 안정적인 잉여현금흐름을 창출하겠다는 성장 목표를 발표했다.",
+  "key_fact_quote": "Givaudan vise à surperformer le marché et à générer un flux de trésorerie disponible solide et durable au cours des cinq prochaines années.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:21+00:00",
+ "had_body": false
+}

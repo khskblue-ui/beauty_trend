@@ -1,0 +1,51 @@
+{
+ "doc_id": "8bdde41aef714a9b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100126",
+ "title": "설화수, 2026 가을 궁중문화축전 ‘경복궁 한복 연향’ 성료",
+ "summary": "글로벌 럭셔리 뷰티 브랜드 설화수가 지난 10월 9일부터 10일까지 열린 2026 가을 궁중문화축전 ‘경복궁 한복 연향’에 참여해 성황리에 행사를 마무리했다.‘경복궁 한복 연향’은 한복을 입고 경복궁의 아름다운 야경을 감상하며 다양한 전통문화를 체험하는 야간 복합 문화 프로그램이다. 이번 행사에는 회당 1,800명씩 총 3,600명이 참여했다. 약 800명의 외국인 관람객도 함께해 한국 전통문화에 대한 높은 관심을 확인할 수 있었다.설화수는 경복궁 경회루 인근에 브랜드 부스를 마련하고 행사 참가자들에게 특별한 경험을 선사했다. 방문",
+ "published_at": "2026-10-13T10:38:35+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [],
+  "keywords": [
+   "문화 마케팅",
+   "전통문화 체험",
+   "브랜드 부스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "윤조에센스",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "설화수는 가을 궁중문화축전 경복궁 한복 연향에 참여하여 브랜드 부스를 운영하고 대표 제품을 증정하는 등 행사를 마무리했다.",
+  "key_fact_quote": "글로벌 럭셔리 뷰티 브랜드 설화수가 지난 10월 9일부터 10일까지 열린 2026 가을 궁중문화축전 ‘경복궁 한복 연향’에 참여해 성황리에 행사를 마무리했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:50+00:00",
+ "had_body": true
+}

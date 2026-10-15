@@ -1,0 +1,42 @@
+{
+ "doc_id": "0314dc2bca01737f",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/annual-general-meeting-confirms-dividend-of-eur125-and-approves-all-proposed-resolutions/",
+ "title": "Annual General Meeting confirms dividend of €1.25 and approves all proposed resolutions",
+ "summary": "– CEO Dr Jean-Yves Parisot reports on solid growth and increased profitability in the 2025 financial year and progress in transformation – Dividend of €1.25 per share approved – Welcome to three new Supervisory Board members",
+ "published_at": "2026-05-07T19:49:17+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "DE"
+  ],
+  "brands": [],
+  "companies": [
+   "Symrise"
+  ],
+  "keywords": [
+   "연례 주주총회",
+   "배당금 승인",
+   "기업 실적"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "심라이즈 연례 주주총회에서 배당금을 확정하고 모든 안건을 승인했다.",
+  "key_fact_quote": "Annual General Meeting confirms dividend of €1.25 and approves all proposed resolutions",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:23+00:00",
+ "had_body": false
+}

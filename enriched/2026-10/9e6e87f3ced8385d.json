@@ -1,0 +1,62 @@
+{
+ "doc_id": "9e6e87f3ced8385d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.kwangju.co.kr/article.php?aid=1791777900804171280",
+ "title": "“화장품 수요 잡는다”…광주신세계, 럭셔리 뷰티 브랜드 대거 오픈",
+ "summary": "대표상품으로는 프라다의 시그니처 트라이앵글 패키지 립밤 신제품 인 ‘립 젤리’가 있다. 이 밖에 ‘패러독스 오 드 퍼퓸’ 등 프라다 특유의 향수 도 만나볼 수 있다. 프랑스 럭셔리 뷰티 브랜드인 겔랑에서는 립밤, 오일...",
+ "published_at": "2026-10-12T13:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프라다",
+   "겔랑"
+  ],
+  "companies": [
+   "광주신세계"
+  ],
+  "keywords": [
+   "럭셔리 뷰티",
+   "립밤",
+   "향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "립 젤리",
+    "brand": "프라다",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "패러독스 오 드 퍼퓸",
+    "brand": "프라다",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "광주신세계가 화장품 수요를 겨냥해 럭셔리 뷰티 브랜드를 대거 오픈한다.",
+  "key_fact_quote": "“화장품 수요 잡는다”…광주신세계, 럭셔리 뷰티 브랜드 대거 오픈",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:24+00:00",
+ "had_body": false
+}

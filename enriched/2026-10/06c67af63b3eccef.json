@@ -1,0 +1,50 @@
+{
+ "doc_id": "06c67af63b3eccef",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100135",
+ "title": "코트라, 롯데홈쇼핑과 파리 마레지구서 K-뷰티 팝업",
+ "summary": "지난 8월 미국 로스앤젤레스(LA) 쇼핑몰 ‘더 그로브’에서 22만 명의 방문객을 모은 K-뷰티 팝업이 세계 뷰티 산업의 본고장 프랑스 파리까지 흥행 열기를 확산시킨다.대한무역투자진흥공사(이하 코트라, 사장 강경성)는 롯데홈쇼핑(대표 김재겸)과 협업해 ‘유통기업 해외 진출 지원사업’의 일환으로 10월 10일부터 11월 30일까지 50여 일간 세계적인 패션·문화 유행의 중심지로 꼽히는 프랑스 파리 ‘마레지구’에서 K-뷰티 판촉매장을 운영한다고 전했다.이번 판촉에는 K-뷰티·라이프스타일 중소기업 33개사가 참여해 프랑스 및 유럽 시장",
+ "published_at": "2026-10-14T10:11:03+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "FR",
+   "US"
+  ],
+  "brands": [
+   "이설"
+  ],
+  "companies": [
+   "대한무역투자진흥공사",
+   "롯데홈쇼핑",
+   "세포라",
+   "노시베",
+   "하이브"
+  ],
+  "keywords": [
+   "팝업 매장",
+   "수출상담회",
+   "유통플랫폼"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대한무역투자진흥공사와 롯데홈쇼핑이 프랑스 파리 마레지구에서 국내 중소기업의 현지 진출을 지원하기 위한 케이뷰티 팝업 매장을 운영한다.",
+  "key_fact_quote": "대한무역투자진흥공사(이하 코트라, 사장 강경성)는 롯데홈쇼핑(대표 김재겸)과 협업해 ‘유통기업 해외 진출 지원사업’의 일환으로 10월 10일부터 11월 30일까지 50여 일간 세계적인 패션·문화 유행의 중심지로 꼽히는 프랑스 파리 ‘마레지구’에서 K-뷰티 판촉매장을 운영한다고 전했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:43+00:00",
+ "had_body": true
+}

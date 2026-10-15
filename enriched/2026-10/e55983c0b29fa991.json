@@ -1,0 +1,59 @@
+{
+ "doc_id": "e55983c0b29fa991",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.goodkyung.com/news/articleView.html?idxno=292291",
+ "title": "[굿모닝! 13일 식품업계 소식] 롯데웰푸드·농심·풀무원·삼립·동서식...",
+ "summary": "홀더 ▲짱셔요 향수 ▲짱셔요 독서링 ▲짱셔요 도자기 잔 ▲찰떡파이 왁뿌 슬라임 ▲롯샌 피크닉 보자기... 농심은 오는 27일 감바스의 풍미를 짜파게티에 접목한 봉지면 신제품 '감바스짜파게티'를 출시한다....",
+ "published_at": "2026-10-13T11:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "짱셔요",
+   "찰떡파이",
+   "롯샌",
+   "짜파게티"
+  ],
+  "companies": [
+   "롯데웰푸드",
+   "농심",
+   "풀무원",
+   "삼립",
+   "동서식품"
+  ],
+  "keywords": [
+   "브랜드 굿즈",
+   "콜라보 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "짱셔요 향수",
+    "brand": "짱셔요",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "식품업계 소식을 통해 짱셔요 향수 등 다양한 상품 및 신제품 출시 관련 내용이 전해졌다.",
+  "key_fact_quote": "홀더 ▲짱셔요 향수 ▲짱셔요 독서링 ▲짱셔요 도자기 잔 ▲찰떡파이 왁뿌 슬라임 ▲롯샌 피크닉 보자기...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:18+00:00",
+ "had_body": false
+}

@@ -1,0 +1,40 @@
+{
+ "doc_id": "da9dc749bc498431",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=90429",
+ "title": "AI로 피부 진단·맞춤 화장품까지… K - 뷰티 , 고부가 산업으로 키운다",
+ "summary": "해외 인허가·유통망 지원… K - 뷰티 수출 기반 확대 국내 의료기관과 뷰티기업의 해외 진출을 위한 지원 체계도 확대된다. 정부는 2027년부터 의약품과 의료기기 등을 중심으로 운영해 온 'K-바이오데스크'의 지원 대상에 K...",
+ "published_at": "2026-10-14T21:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "맞춤 화장품",
+   "수출 지원",
+   "피부 진단"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부가 국내 뷰티기업과 의료기관의 해외 진출을 돕기 위해 수출 지원 체계를 확대한다.",
+  "key_fact_quote": "국내 의료기관과 뷰티기업의 해외 진출을 위한 지원 체계도 확대된다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:32+00:00",
+ "had_body": false
+}

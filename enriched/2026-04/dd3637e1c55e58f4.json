@@ -1,0 +1,42 @@
+{
+ "doc_id": "dd3637e1c55e58f4",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/symrise-presents-health-active-probir-portfolios-at-vitafoods-europe-to-deliver-science-backed-wellness-solutions/",
+ "title": "Symrise presents Health Active & Probi® portfolios at Vitafoods Europe to deliver science‑backed wellness solutions",
+ "summary": "‒ Symrise is jointly exhibiting Health Active and Probi solutions for the first time following the launch of the Care & Wellness Division ‒ Product launches for sports and active nutrition, vascular health, and postbiotic solutions highlight scientific and innovation excellence ‒ Premier of the preconcept taste bar showcasing innovative applications to experience at the show ‒ First Exclusive Innovation Lunch to be hosted on May 5",
+ "published_at": "2026-04-29T13:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [],
+  "brands": [
+   "Probi"
+  ],
+  "companies": [
+   "Symrise"
+  ],
+  "keywords": [
+   "웰니스 솔루션",
+   "포스트바이오틱스",
+   "기능성 원료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "심라이즈는 케어 앤 웰니스 부문 출범 이후 비타푸즈 유럽 전시회에서 헬스 액티브 및 프로비 포트폴리오를 함께 선보인다.",
+  "key_fact_quote": "Symrise is jointly exhibiting Health Active and Probi solutions for the first time following the launch of the Care & Wellness Division",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:25+00:00",
+ "had_body": false
+}

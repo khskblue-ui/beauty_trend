@@ -1,0 +1,42 @@
+{
+ "doc_id": "8e2a236d7f25ad45",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/color-cosmetics/luneaster-relaunches-bluemercury-1239336244/",
+ "title": "Bluemercury Refreshes Lune+Aster",
+ "summary": "Bluemercury’s proprietary makeup brand Lune+Aster unveils new multitasking products and a fresh “Beauty, Uncomplicated” approach, marking the start of its broader evolution through 2027.",
+ "published_at": "2026-10-13T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Lune+Aster"
+  ],
+  "companies": [
+   "Bluemercury"
+  ],
+  "keywords": [
+   "메이크업 브랜드",
+   "멀티태스킹 제품",
+   "브랜드 리프레시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "블루머큐리의 자체 메이크업 브랜드인 룬앤아스터가 새로운 멀티태스킹 제품들과 간결한 뷰티 접근법을 공개했다.",
+  "key_fact_quote": "Bluemercury’s proprietary makeup brand Lune+Aster unveils new multitasking products and a fresh “Beauty, Uncomplicated” approach, marking the start of its broader evolution through 2027.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:09:17+00:00",
+ "had_body": false
+}

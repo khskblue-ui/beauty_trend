@@ -1,0 +1,44 @@
+{
+ "doc_id": "2d1b7df8705c91ea",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/exclusive-beautypro-acquires-supercover-to-bolster-colour-cosmetics",
+ "title": "Exclusive: BeautyPro acquires Supercover to bolster colour cosmetics offering",
+ "summary": "Make-up brand Supercover will relaunch with a redesigned website at supercover.co.uk, which British beauty company BeautyPro said will bring the brand's heritage forward for a new generation of consumers",
+ "published_at": "2026-10-13T20:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "Supercover"
+  ],
+  "companies": [
+   "BeautyPro"
+  ],
+  "keywords": [
+   "색조 화장품",
+   "브랜드 인수",
+   "메이크업 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "영국 뷰티 기업 뷰티프로가 색조 화장품 경쟁력을 강화하기 위해 메이크업 브랜드 슈퍼커버를 인수했다.",
+  "key_fact_quote": "BeautyPro acquires Supercover to bolster colour cosmetics offering",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:42+00:00",
+ "had_body": false
+}

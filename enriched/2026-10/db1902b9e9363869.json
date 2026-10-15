@@ -1,0 +1,46 @@
+{
+ "doc_id": "db1902b9e9363869",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100144",
+ "title": "모로칸오일, ‘올 인 원 리브인 컨디셔너’ 점보 사이즈 출시",
+ "summary": "프리미엄 헤어 & 바디 케어 브랜드 모로칸오일(Moroccanoil)이 '올 인 원 리브인 컨디셔너'를 기존 160ml에서 240ml로 증량한 점보 사이즈로 새롭게 선보인다고 14일 밝혔다.이번 신제품은 제품의 장점을 그대로 유지하면서 넉넉한 용량으로 실용적인 사용 경험을 제공할 수 있도록 했다.올 인 원 리브인 컨디셔너는 씻어내지 않는 리브인 타입의 헤어 컨디셔너로, 엉킨 모발을 즉각적으로 풀어주고 풍부한 수분과 영양을 공급해 최대 72시간 부드럽고 윤기 있는 머릿결을 유지하도록 돕는다. 또한 열 손상으로부터 모발을",
+ "published_at": "2026-10-14T10:50:59+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "모로칸오일",
+   "Moroccanoil"
+  ],
+  "companies": [],
+  "keywords": [
+   "헤어 케어",
+   "리브인 컨디셔너",
+   "홈 케어",
+   "점보 사이즈"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "모로칸오일이 용량을 증량한 올 인 원 리브인 컨디셔너 점보 사이즈 제품을 새롭게 선보였다.",
+  "key_fact_quote": "프리미엄 헤어 & 바디 케어 브랜드 모로칸오일(Moroccanoil)이 '올 인 원 리브인 컨디셔너'를 기존 160ml에서 240ml로 증량한 점보 사이즈로 새롭게 선보인다고 14일 밝혔다.",
+  "dropped": [
+   "product:올 인 원 리브인 컨디셔너 점보 사이즈"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:34+00:00",
+ "had_body": true
+}

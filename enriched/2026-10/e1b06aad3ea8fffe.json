@@ -1,0 +1,55 @@
+{
+ "doc_id": "e1b06aad3ea8fffe",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100138",
+ "title": "정샘물 뷰티, 피부 톤 맞춤 38개 쉐이드 매칭으로 현지화 공략",
+ "summary": "K-No.1 메이크업 아티스트 정샘물의 뷰티 철학과 노하우를 담은 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 미국 세포라(Sephora) 공식 입점을 기념해, 캘리포니아주 로스앤젤레스(LA)의 대표 쇼핑 명소인 '더 그로브(The Grove)'에서 10월 3일부터 4일까지 양일간 대형 팝업 스토어를 성공적으로 개최했다고 밝혔다.세포라 매장 앞 야외 광장에서 진행된 이번 팝업 스토어는 정샘물만의 독보적인 베이스 메이크업 전문성을 현지 소비자들이 직접 체험할 수 있도록 다채로운 참여형 프로그램으로 구성됐다.현장에서는",
+ "published_at": "2026-10-14T10:40:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "정샘물",
+   "JUNGSAEMMOOL"
+  ],
+  "companies": [
+   "세포라"
+  ],
+  "keywords": [
+   "베이스 메이크업",
+   "팝업 스토어",
+   "쉐이드 매칭"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "에센셜 스킨 누더 쿠션",
+    "brand": "정샘물",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 브랜드 정샘물이 미국 세포라 공식 입점을 기념하여 현지 쇼핑 명소에서 팝업 스토어를 개최하고 맞춤형 쉐이드 매칭 서비스를 선보였다.",
+  "key_fact_quote": "K-No.1 메이크업 아티스트 정샘물의 뷰티 철학과 노하우를 담은 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 미국 세포라(Sephora) 공식 입점을 기념해, 캘리포니아주 로스앤젤레스(LA)의 대표 쇼핑 명소인 '더 그로브(The Grove)'에서 10월 3일부터 4일까지 양일간 대형 팝업 스토어를 성공적으로 개최했다고 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:39+00:00",
+ "had_body": true
+}

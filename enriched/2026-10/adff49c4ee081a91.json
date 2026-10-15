@@ -1,0 +1,43 @@
+{
+ "doc_id": "adff49c4ee081a91",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/ifra-joins-the-15th-ifra-uk-fragrance-forum-in-london",
+ "title": "IFRA joins the 15 th IFRA UK Fragrance Forum in London",
+ "summary": "IFRA joined scientists, perfumers and industry experts at the Royal Institution in London for the 15 th IFRA UK Fragrance Forum, which explored our sense of smell in an increasingly digital world. IFRA President Alexander Mohr opened the afternoon session.",
+ "published_at": "2026-10-08T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "GB"
+  ],
+  "brands": [],
+  "companies": [
+   "IFRA",
+   "IFRA UK"
+  ],
+  "keywords": [
+   "향료 포럼",
+   "디지털 후각",
+   "후각 연구"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "국제향료협회가 런던에서 열린 향료 포럼에 참석해 디지털 환경에서의 후각을 다뤘다.",
+  "key_fact_quote": "IFRA joined scientists, perfumers and industry experts at the Royal Institution in London for the 15 th IFRA UK Fragrance Forum, which explored our sense of smell in an increasingly digital world.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:24+00:00",
+ "had_body": false
+}

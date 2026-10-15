@@ -1,0 +1,43 @@
+{
+ "doc_id": "335a1e807ac2936f",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/ifra-president-delivers-keynote-at-caffci-annual-meeting-and-expo-in-nanjing",
+ "title": "IFRA President delivers keynote at CAFFCI Annual Meeting and Expo in Nanjing",
+ "summary": "Alexander Mohr addressed the high-level fragrance and flavor forum on the global trends reshaping the industry and the growing weight of the Asia Pacific market.",
+ "published_at": "2026-09-18T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "IFRA",
+   "CAFFCI"
+  ],
+  "keywords": [
+   "향료 포럼",
+   "연례 총회",
+   "아시아 태평양 시장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "국제향료협회 회장이 난징에서 열린 연례 총회에 참석하여 산업 트렌드와 아시아 태평양 시장의 중요성에 대해 연설했다.",
+  "key_fact_quote": "Alexander Mohr addressed the high-level fragrance and flavor forum on the global trends reshaping the industry and the growing weight of the Asia Pacific market.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:29+00:00",
+ "had_body": false
+}

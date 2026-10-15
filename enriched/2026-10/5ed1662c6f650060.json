@@ -1,0 +1,67 @@
+{
+ "doc_id": "5ed1662c6f650060",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53677",
+ "title": "케데헌 작곡가 이재 \"나 이제 결혼해요\"",
+ "summary": "리쥬란코스메틱이 가수 겸 작곡가 이재(EJAE)와 웨딩 스킨케어 루틴을 소개했다. 이재는 ‘케이팝 데몬 헌터스’의 OST 골든(Golden)을 공동 작곡하고 가창에 참여했다. 골든은 미국 빌보드 메인 싱글 차트 ‘핫 100’ 1위에 오르며 전세계적으로 주목 받았다. 한국계 미국인인 이재는 11월 결혼을 앞…",
+ "published_at": "2026-10-12T13:23:32+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리쥬란코스메틱"
+  ],
+  "companies": [],
+  "keywords": [
+   "웨딩 스킨케어",
+   "앰플",
+   "피부관리"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "턴오버 앰플",
+    "brand": "리쥬란코스메틱",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "뉴트리티브 크림",
+    "brand": "리쥬란코스메틱",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "듀얼 이펙트 앰플",
+    "brand": "리쥬란코스메틱",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "리쥬란코스메틱이 작곡가 이재와 협업하여 웨딩 스킨케어 루틴을 소개했다.",
+  "key_fact_quote": "리쥬란코스메틱이 가수 겸 작곡가 이재(EJAE)와 웨딩 스킨케어 루틴을 소개했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:17+00:00",
+ "had_body": true
+}

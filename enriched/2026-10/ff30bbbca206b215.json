@@ -1,0 +1,47 @@
+{
+ "doc_id": "ff30bbbca206b215",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065564064023312",
+ "title": "K뷰티, 3분기 계절성 깨고 사상 최대 수출 경신…‘환율·용기 병목’ 딛...",
+ "summary": "LG생활건강은 원부자재 가격 상승과 미국 에이본 매각에 따른 일회성 비용 부담 속에서도 생활용품 신제품 흥행과 탈모케어 브랜드 닥터그루트의 북미 세포라 420개점 입점 효과가 화장품 부문의 변동성을 보완했다....",
+ "published_at": "2026-10-14T07:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "닥터그루트"
+  ],
+  "companies": [
+   "LG생활건강",
+   "세포라",
+   "에이본"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "탈모케어",
+   "해외 입점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 뷰티 산업이 분기 계절성을 깨고 역대 최대 수출 실적을 기록한 가운데 주요 기업은 생활용품과 탈모케어 브랜드의 북미 유통망 입점 효과로 화장품 부문의 변동성을 보완하고 있다.",
+  "key_fact_quote": "K뷰티, 3분기 계절성 깨고 사상 최대 수출 경신…‘환율·용기 병목’ 딛...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:59+00:00",
+ "had_body": false
+}

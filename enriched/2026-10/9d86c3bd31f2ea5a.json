@@ -1,0 +1,44 @@
+{
+ "doc_id": "9d86c3bd31f2ea5a",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100137",
+ "title": "아모레퍼시픽, 인도 첫 ‘밋유어뷰티 아카데미’ 성료",
+ "summary": "아모레퍼시픽이 주관하는 사회공헌 프로그램 ‘밋유어뷰티 아카데미(MEET YOUR BEAUTY ACADEMY)’가 10월 10일 인도에서 첫 현지 프로그램을 성공적으로 마무리했다. 한국국제협력단(KOICA)과 협력해 인도 델리 수도권(NCR) 지역에서 진행한 이번 프로그램은 현지 청년들의 뷰티 관련 실무 역량 강화와 경제적 자립 지원을 위해 마련됐으며, 총 65명이 교육을 수료했다.교육 과정은 ▲뷰티 ▲디지털 ▲취·창업 역량 강화 등 3개 트랙, 총 7회의 세션으로 운영됐다. 참가자들은 뷰티 산업과 K-뷰티에 대한 이해를 바탕으로 콘",
+ "published_at": "2026-10-14T10:35:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "IN"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽",
+   "한국국제협력단"
+  ],
+  "keywords": [
+   "뷰티 교육",
+   "사회공헌 프로그램",
+   "글로벌 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아모레퍼시픽이 인도 현지 청년들의 뷰티 실무 역량 강화와 경제적 자립을 돕는 교육 프로그램을 성공적으로 마쳤다.",
+  "key_fact_quote": "아모레퍼시픽이 주관하는 사회공헌 프로그램 ‘밋유어뷰티 아카데미(MEET YOUR BEAUTY ACADEMY)’가 10월 10일 인도에서 첫 현지 프로그램을 성공적으로 마무리했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:45+00:00",
+ "had_body": true
+}

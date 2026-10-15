@@ -1,0 +1,42 @@
+{
+ "doc_id": "62f0eae446218fd8",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/media/media-releases/2015/givaudan-inaugurates-new-active-cosmetic-ingredients-production-line",
+ "title": "Givaudan inaugure une nouvelle ligne de production d'ingrédients cosmétiques actifs à Pomacle, en France",
+ "summary": "Givaudan investit 11 millions de francs suisses dans l'extension d'une ligne de production d'ingrédients cosmétiques actifs (ACI) en France Givaudan poursuit le développement de son GIV_2015_pomacleInvestment_EN.pdf GIV_2015_pomacleInvestment_FR.pdf GIV_2015_pomacleInvestment_GE.pdf",
+ "published_at": "2015-10-05T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "화장품 활성 성분",
+   "생산 라인 증설",
+   "원료 생산"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단이 프랑스 포마클에 화장품 활성 성분을 생산하기 위한 신규 생산 라인을 개설했다.",
+  "key_fact_quote": "Givaudan inaugure une nouvelle ligne de production d'ingrédients cosmétiques actifs à Pomacle, en France",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:23+00:00",
+ "had_body": false
+}

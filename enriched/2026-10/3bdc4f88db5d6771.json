@@ -1,0 +1,42 @@
+{
+ "doc_id": "3bdc4f88db5d6771",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610121136567520106970",
+ "title": "[더벨][Company Watch] 구다이글로벌 영국 현지법인 설립…마케팅·유통...",
+ "summary": "영국 등 유럽은 성분 규정과 책임자 지정 등 화장품 규제가 까다롭고 물류도 세밀한 대응이 필요하다. 여러 채널에 신제품 을 선보이려면 파트너별로 상품 구성과 판촉 일정도 맞춰야 한다. 현지법인은 이런 실무를...",
+ "published_at": "2026-10-14T11:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "GB"
+  ],
+  "brands": [],
+  "companies": [
+   "구다이글로벌"
+  ],
+  "keywords": [
+   "현지법인 설립",
+   "화장품 규제",
+   "해외 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "구다이글로벌이 마케팅과 유통 대응을 위해 영국 현지법인을 설립했다.",
+  "key_fact_quote": "구다이글로벌 영국 현지법인 설립…마케팅·유통...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:54+00:00",
+ "had_body": false
+}

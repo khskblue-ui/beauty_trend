@@ -1,0 +1,43 @@
+{
+ "doc_id": "7cadba959c8e284d",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/medias/company-news/2015/givaudan-inaugure-singapour-un-centre-de-creation-de-parfums-une-ecole-0",
+ "title": "Givaudan inaugure à Singapour un centre de création de parfums, une Ecole de Parfumerie et un pôle de production",
+ "summary": "70 millions de CHF : l'investissement le plus important de la division Parfumerie de Givaudan à Singapour Siège du tout premier campus d’une Ecole de Parfumerie hors de France Giv_2015_SingaporeOpening_EN.pdf Giv_2015_SingaporeOpening_FR.pdf Giv_2015_SingaporeOpening_GE.pdf GIV_2015_FastFacts_Singapore.pdf",
+ "published_at": "2015-10-07T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "SG",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "향수 제조 센터",
+   "조향 학교",
+   "생산 기지"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단이 싱가포르에 향수 제조 센터와 조향 학교 및 생산 허브를 개장했다.",
+  "key_fact_quote": "Givaudan inaugure à Singapour un centre de création de parfums, une Ecole de Parfumerie et un pôle de production",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:24+00:00",
+ "had_body": false
+}

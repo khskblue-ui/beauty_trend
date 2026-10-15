@@ -1,0 +1,44 @@
+{
+ "doc_id": "da68980902ff8183",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312114",
+ "title": "미국, 1위 수출 시장…아마존코리아, 미·유럽 공략법 제시",
+ "summary": "미국이 한국 화장품의 최대 수출시장으로 부상한 가운데 아마존코리아가 K-뷰티를 대상으로 미국·유럽 시장 공략 전략과 글로벌 성장 기회를 공유하는 자리를 마련한다.식품의약품안전처에 따르면 2026년 상반기 화장품 수출액은 70억 달러(잠정)로 전년 동기 대비 27.3% 증가하며 역대 상반기 최대 실적을 기록했다. 특히 미국 수출액은 14억5000만 달러로 전체 수출의 20.7%를 차지하며 처음으로 20%를 넘어섰다.앞서 2025년 한국 화장품 수출액은 114억 달러를 기록하며 역대 최고치를 경신했다. 미국 수출액은 22억 달러를 돌파",
+ "published_at": "2026-10-13T14:45:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존코리아",
+   "아마존"
+  ],
+  "keywords": [
+   "글로벌 이커머스",
+   "수출 전략 세미나",
+   "해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아마존코리아가 미국과 유럽 시장 공략 방안을 공유하는 한국 뷰티 기업 대상 세미나를 개최한다.",
+  "key_fact_quote": "미국이 한국 화장품의 최대 수출시장으로 부상한 가운데 아마존코리아가 K-뷰티를 대상으로 미국·유럽 시장 공략 전략과 글로벌 성장 기회를 공유하는 자리를 마련한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:09:08+00:00",
+ "had_body": true
+}

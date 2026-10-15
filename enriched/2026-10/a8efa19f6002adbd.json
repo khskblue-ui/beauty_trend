@@ -1,0 +1,63 @@
+{
+ "doc_id": "a8efa19f6002adbd",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53673",
+ "title": "센카, 쿵야와 ‘폼 미친 거품 맛집’ 운영",
+ "summary": "센카(SENKA)가 9일부터 11일까지 3일 동안 넷마블 캐릭터 쿵야 레스토랑즈와 팝업 행사를 열었다. 이번 행사는 서울 성수 플레이엑스 스튜디오와 성수 AK 플라자에서 진행했다. ‘폼(foam) 미친 거품 맛집’을 내세워 클렌징 브랜드 센카의 특징을 알렸다. 쿵야 레스토랑즈의 세계관을 활용해 ‘퍼펙트…",
+ "published_at": "2026-10-12T08:24:12+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센카",
+   "SENKA"
+  ],
+  "companies": [
+   "넷마블"
+  ],
+  "keywords": [
+   "팝업 행사",
+   "캐릭터 협업",
+   "클렌징 폼",
+   "대용량 에디션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퍼펙트 휩",
+    "brand": "센카",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퍼펙트 휩 양파쿵야 대용량 에디션",
+    "brand": "센카",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "센카가 넷마블 캐릭터 쿵야 레스토랑즈와 협업하여 서울 성수에서 팝업 행사를 열고 에디션 제품을 선보였다.",
+  "key_fact_quote": "센카(SENKA)가 9일부터 11일까지 3일 동안 넷마블 캐릭터 쿵야 레스토랑즈와 팝업 행사를 열었다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:19+00:00",
+ "had_body": true
+}

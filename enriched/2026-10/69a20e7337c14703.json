@@ -1,0 +1,40 @@
+{
+ "doc_id": "69a20e7337c14703",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=202543",
+ "title": "K뷰티 , 현지화 전략 정교해진다... 연구원, 피부특성 정보은행 사업 결...",
+ "summary": "K - 뷰티 의 해외 시장 진출이 다변화하면서 현지 소비자의 피부 특성과 화장품 이용행태를 반영한 시장 전략의... 국내 화장품 업계에서도 해외 소비자 데이터와 시장 조사 결과를 제품 개발 및 수출 전략에 활용하려는...",
+ "published_at": "2026-10-14T22:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "피부 특성",
+   "현지화 전략",
+   "수출 전략"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해외 시장 진출 다변화에 따라 현지 소비자 피부 특성과 이용행태 데이터를 제품 개발과 수출 전략에 활용하는 움직임이 늘고 있다.",
+  "key_fact_quote": "국내 화장품 업계에서도 해외 소비자 데이터와 시장 조사 결과를 제품 개발 및 수출 전략에 활용하려는...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:30+00:00",
+ "had_body": false
+}

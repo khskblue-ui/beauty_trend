@@ -1,0 +1,40 @@
+{
+ "doc_id": "3153743c2f2c0014",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100136",
+ "title": "정부, ‘AI·융복합 K-뷰티 서비스’ 전방위 지원 나선다",
+ "summary": "정부가 10월 14일(목) 이형일 부총리 겸 재정경제부 장관 주재로 개최된 경제관계장관회의 겸 서비스산업발전 TF에서 ‘AI·융복합 K-뷰티 서비스 지원방안’을 발표하였다. 최근 각광받고 있는 화장품 제조 중심의 ‘K-뷰티’를 AI·데이터·디바이스 등이 결합된 ‘고부가가치 新서비스 산업’으로 확장하고, 피부․성형 등 메디컬 뷰티 글로벌 경쟁력도 제고하기 위해 마련하였다.최근 AI·융복합 확산에 따라 피부진단, 로봇조제 등 맞춤형 화장품 서비스 시장이 빠르게 성장하고, 메디컬 뷰티·피부관리·메이크업 등 서비스 간 융복합도 확대되고 있",
+ "published_at": "2026-10-14T10:27:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "맞춤형 화장품",
+   "메디컬 뷰티",
+   "화장품 안전성 평가제도"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "정부가 화장품 제조 중심 산업을 인공지능과 데이터가 결합된 고부가가치 신서비스 산업으로 확장하기 위한 지원방안을 발표했다.",
+  "key_fact_quote": "정부가 10월 14일(목) 이형일 부총리 겸 재정경제부 장관 주재로 개최된 경제관계장관회의 겸 서비스산업발전 TF에서 ‘AI·융복합 K-뷰티 서비스 지원방안’을 발표하였다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:42+00:00",
+ "had_body": true
+}

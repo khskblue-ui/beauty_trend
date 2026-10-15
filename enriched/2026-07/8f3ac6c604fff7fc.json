@@ -1,0 +1,41 @@
+{
+ "doc_id": "8f3ac6c604fff7fc",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/symrise-wins-worldwide-loreal-energy-award-for-circular-hydrogen-recycling-that-advances-decarbonization-in-cosmetics/",
+ "title": "Symrise wins worldwide L’Oréal Energy Award for circular hydrogen recycling that advances decarbonization in cosmetics",
+ "summary": "– L'Oréal honors \"Closing the Hydrogen Loop\" as a pioneering circular production model – Reduces fresh hydrogen demand by around 80% and improves process efficiency at scale – Supports reliable supply and lower carbon intensity for everyday cosmetic applications",
+ "published_at": "2026-07-01T16:40:35+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Symrise",
+   "L'Oréal"
+  ],
+  "keywords": [
+   "탈탄소화",
+   "순환 경제",
+   "화장품 원료 생산"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "심라이즈가 화장품 분야의 탈탄소화를 진전시키는 순환형 수소 재활용 모델로 로레알 에너지 어워드를 수상했다.",
+  "key_fact_quote": "Symrise wins worldwide L’Oréal Energy Award for circular hydrogen recycling that advances decarbonization in cosmetics",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:20+00:00",
+ "had_body": false
+}

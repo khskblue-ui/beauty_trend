@@ -1,0 +1,43 @@
+{
+ "doc_id": "836399ccfc676180",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sportsworldi.com/newsView/20261001511170",
+ "title": "세븐틴 정한, 향수 브랜드 새 얼굴 됐다…“글로벌 영향력 시너지”",
+ "summary": "그룹 세븐틴(SEVENTEEN) 정한이 니치 프래그런스 브랜드의 새로운 글로벌 브랜드 앰버서더로 발탁됐다. WAGTI(왁티)의 SW19은 정한을 글로벌 브랜드 앰버서더로 선정하고 함께한 첫 번째 캠페인을 공개한다고 1일 밝혔다....",
+ "published_at": "2026-10-01T13:51:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "SW19"
+  ],
+  "companies": [
+   "WAGTI"
+  ],
+  "keywords": [
+   "니치 향수",
+   "브랜드 앰버서더"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "향수 브랜드 SW19이 세븐틴 정한을 글로벌 브랜드 앰버서더로 발탁했다.",
+  "key_fact_quote": "WAGTI(왁티)의 SW19은 정한을 글로벌 브랜드 앰버서더로 선정하고 함께한 첫 번째 캠페인을 공개한다고 1일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:11+00:00",
+ "had_body": false
+}

@@ -1,0 +1,39 @@
+{
+ "doc_id": "04d3ec699c89a27b",
+ "source": "dsm_firmenich",
+ "source_name": "dsm-firmenich News",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://our-company.dsm-firmenich.com/en/our-company/news/our-stories/2025/why-plant-based-dairy-is-just-getting-started.html",
+ "title": "Why plant-based dairy is just getting started",
+ "summary": "",
+ "published_at": "2025-12-01T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "식물성 유제품",
+   "대체 유제품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식물성 유제품 분야의 성장이 본격적으로 시작되고 있음을 다룬다.",
+  "key_fact_quote": "Why plant-based dairy is just getting started",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,55 @@
+{
+ "doc_id": "0d0fdffc0f50c114",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53679",
+ "title": "트리코닉스 ‘스칼프 인퓨전 앰플’",
+ "summary": "트리코닉스가 두피와 모발을 동시에 관리하는 ‘스칼프 인퓨전 앰플’​을 선보였다. 이 제품은 시간과 외부 환경에 따라 달라지는 두피를 건강하게 가꿔준다. 모발 관리의 시작점인 두피에 수분과 영양을 공급한다. 또 두피 피지와 각질을 개선해 청결하게 유지한다. 트리코닉스는 두피의 탄력과 수분 균형에…",
+ "published_at": "2026-10-12T17:07:50+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "트리코닉스",
+   "TRICONIX"
+  ],
+  "companies": [
+   "뉴셀렉트",
+   "컨셉인"
+  ],
+  "keywords": [
+   "두피 케어",
+   "모발 관리",
+   "두피 앰플"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "스칼프 인퓨전 앰플",
+    "brand": "트리코닉스",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "트리코닉스가 두피와 모발을 동시에 관리할 수 있는 스칼프 인퓨전 앰플을 출시했다.",
+  "key_fact_quote": "트리코닉스가 두피와 모발을 동시에 관리하는 ‘스칼프 인퓨전 앰플’​을 선보였다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:13+00:00",
+ "had_body": true
+}

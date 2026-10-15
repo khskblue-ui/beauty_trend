@@ -1,0 +1,39 @@
+{
+ "doc_id": "15edd9bf893668f9",
+ "source": "mfds_press",
+ "source_name": "식약처 보도자료",
+ "group": "regulation",
+ "lang": "ko",
+ "url": "https://www.mfds.go.kr/brd/m_99/view.do?seq=50393",
+ "title": "'26년 3분기까지 화장품 수출 111억 달러, 역대 3분기 누계 최대치 기록",
+ "summary": "",
+ "published_at": "2026-10-02T17:36:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "수출 실적"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "화장품 누적 수출액이 역대 최대치를 경신했다.",
+  "key_fact_quote": "'26년 3분기까지 화장품 수출 111억 달러, 역대 3분기 누계 최대치 기록",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:22+00:00",
+ "had_body": false
+}

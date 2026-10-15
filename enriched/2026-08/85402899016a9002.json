@@ -1,0 +1,41 @@
+{
+ "doc_id": "85402899016a9002",
+ "source": "mfds_preannounce",
+ "source_name": "식약처 행정예고",
+ "group": "regulation",
+ "lang": "ko",
+ "url": "https://www.mfds.go.kr/brd/m_209/view.do?seq=44291",
+ "title": "화장품 표시·광고 실증에 관한 규정 일부개정고시안",
+ "summary": "",
+ "published_at": "2026-08-18T20:22:06+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "자외선 차단제",
+   "실증자료",
+   "행정예고",
+   "표시 광고 규정"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "자외선차단제의 자외선 차단 지수 및 자외선A 차단 등급 표시와 광고에 대한 실증자료로 기존 인체 적용시험 자료 외에 인체 외 시험 자료를 추가로 인정하도록 규정을 개정한다.",
+  "key_fact_quote": "자외선차단제의 자외선차단지수(SPF) 및 자외선A차단등급(PA) 표시·광고 실증자료로 그동안 인체 적용시험 자료만 인정되었으나, 국제적으로 인정하고 있는 인체 외 시험 자료를 추가하여 고시함으로써 영업자 또는 판매자가 행한 자외선차단지수(SPF) 및 자외선A차단등급(PA) 표시·광고 표현에 대해 인체 적용시험 또는 인체 외 시험 자료로서 실증할 수 있도록 하여 화장품의 품질을 확보하고 국제조화를 하고자 하는 것임",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:21+00:00",
+ "had_body": true
+}

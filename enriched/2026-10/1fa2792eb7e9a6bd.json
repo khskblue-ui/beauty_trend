@@ -1,0 +1,44 @@
+{
+ "doc_id": "1fa2792eb7e9a6bd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=247042",
+ "title": "아도르, 엔젤뮤게 향을 입은 새로운 헤어 퍼퓸 출시",
+ "summary": "그러면서 \"아도르는 독자적인 헤어 케어 노하우와 글로벌 프래그런스 하우스의 협업으로 모발에 섬세하게 안착하여 깊은 잔향을 유지하는 니치 향수 수준의 발향 성능을 고스란히 담아낸 하이엔드 레벨의 헤어 퍼퓸을...",
+ "published_at": "2026-10-05T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아도르"
+  ],
+  "companies": [],
+  "keywords": [
+   "헤어 퍼퓸",
+   "니치 향수",
+   "헤어 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아도르가 엔젤뮤게 향을 더한 새로운 헤어 퍼퓸을 선보였다.",
+  "key_fact_quote": "아도르, 엔젤뮤게 향을 입은 새로운 헤어 퍼퓸 출시",
+  "dropped": [
+   "product:엔젤뮤게 헤어 퍼퓸"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:05+00:00",
+ "had_body": false
+}

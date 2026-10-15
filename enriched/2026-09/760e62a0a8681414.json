@@ -1,0 +1,53 @@
+{
+ "doc_id": "760e62a0a8681414",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.joongang.co.kr/article/25462791",
+ "title": "다비디퓨저, 킹고스프링 LIPS 투자 유치",
+ "summary": "조향사 인 이도겸 대표가 직접 제품 개발에 참여하고 있으며 ‘스누피’, ‘인사이드 아웃’ 등 글로벌 캐릭터 및 콘텐트 기업과의 협업 제품을 지속 선보여 왔다. 현재 천연 향기 기반 핸드크림을 개발 중이며 올해...",
+ "published_at": "2026-09-17T18:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "다비디퓨저"
+  ],
+  "companies": [
+   "킹고스프링"
+  ],
+  "keywords": [
+   "투자 유치",
+   "천연 향기",
+   "캐릭터 협업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "핸드크림",
+    "brand": "다비디퓨저",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "다비디퓨저가 킹고스프링으로부터 투자를 유치했다.",
+  "key_fact_quote": "다비디퓨저, 킹고스프링 LIPS 투자 유치",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:58+00:00",
+ "had_body": false
+}

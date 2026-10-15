@@ -1,0 +1,43 @@
+{
+ "doc_id": "ad4be6d66ca5f03d",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/skin-care/galderma-acquire-zo-skin-health-for-1-5-billion-1239346256/",
+ "title": "Galderma to Acquire ZO Skin Health for $1.5 Billion",
+ "summary": "The move positions Galderma deeper into the dermatological skin care category.",
+ "published_at": "2026-10-14T16:37:44+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "ZO Skin Health"
+  ],
+  "companies": [
+   "Galderma",
+   "ZO Skin Health"
+  ],
+  "keywords": [
+   "피부과 스킨케어",
+   "인수 합병",
+   "더마코스메틱"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "갈더마가 피부과 스킨케어 분야에서의 입지를 강화하기 위해 지오 스킨 헬스를 인수한다.",
+  "key_fact_quote": "Galderma to Acquire ZO Skin Health for $1.5 Billion",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:09:12+00:00",
+ "had_body": false
+}

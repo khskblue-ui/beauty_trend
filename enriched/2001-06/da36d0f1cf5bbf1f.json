@@ -1,0 +1,48 @@
+{
+ "doc_id": "da36d0f1cf5bbf1f",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/media/media-releases/2001/givaudans-vastm-technology-wins-best-technological-breakthrough-year",
+ "title": "La technologie VAS de Givaudan remporte le prix de la meilleure avancée technologique de l'année",
+ "summary": "Le Virtual Aroma Synthesizer® (VAS) de Givaudan a remporté le prix de la « Meilleure avancée technologique de l’année » lors de la 29e cérémonie annuelle des Fragrance Foundation Awards, qui s’est Givaudan VAS™ technology wins best technological b... EN.pdf",
+ "published_at": "2001-06-07T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "향료 기술",
+   "어워드 수상"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Virtual Aroma Synthesizer® (VAS)",
+    "brand": "Givaudan",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "지보단의 가상 향 합성 기술이 프래그런스 파운데이션 어워즈에서 올해 최고의 기술 진보상을 수상했다.",
+  "key_fact_quote": "Le Virtual Aroma Synthesizer® (VAS) de Givaudan a remporté le prix de la « Meilleure avancée technologique de l’année » lors de la 29e cérémonie annuelle des Fragrance Foundation Awards",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:16+00:00",
+ "had_body": false
+}

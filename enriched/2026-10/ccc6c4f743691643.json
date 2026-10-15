@@ -1,0 +1,54 @@
+{
+ "doc_id": "ccc6c4f743691643",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/sol-de-janeiro-to-launch-vertical-micro-drama",
+ "title": "Sol de Janeiro to launch ‘vertical micro drama’ series with UK broadcaster Channel 4",
+ "summary": "Sol de Janeiro is challenging ‘what beauty content can be’ with The Guest List, a five-part series commissioned by Channel 4 that will appear on the UK broadcaster’s social channels and features characters that embody the fragrance brand’s new Intense Perfume Mists",
+ "published_at": "2026-10-14T20:41:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "Sol de Janeiro"
+  ],
+  "companies": [
+   "Sol de Janeiro",
+   "Channel 4"
+  ],
+  "keywords": [
+   "세로형 마이크로 드라마",
+   "향수 미스트",
+   "뷰티 콘텐츠 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Intense Perfume Mists",
+    "brand": "Sol de Janeiro",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "솔 데 자네이로는 영국 방송사 채널 사와 협력하여 신제품 향수 미스트를 반영한 세로형 마이크로 드라마 시리즈를 선보인다.",
+  "key_fact_quote": "Sol de Janeiro is challenging ‘what beauty content can be’ with The Guest List, a five-part series commissioned by Channel 4 that will appear on the UK broadcaster’s social channels and features characters that embody the fragrance brand’s new Intense Perfume Mists",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:35+00:00",
+ "had_body": false
+}

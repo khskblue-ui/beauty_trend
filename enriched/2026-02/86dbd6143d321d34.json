@@ -1,0 +1,39 @@
+{
+ "doc_id": "86dbd6143d321d34",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/cdp-recognizes-symrise-for-sustainability-results/",
+ "title": "CDP recognizes Symrise for sustainability results",
+ "summary": "– Symrise scores A- for Climate, A- for Water and B for Forest in 2025 CDP Ratings – Result reflects high level of transparency and constant sustainability dedication – Symrise demonstrates commitment to reducing environmental impacts",
+ "published_at": "2026-02-03T21:15:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Symrise"
+  ],
+  "keywords": [
+   "지속가능성",
+   "환경 평가"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "심라이즈가 탄소정보공개프로젝트로부터 지속가능성 성과를 인정받았다.",
+  "key_fact_quote": "CDP recognizes Symrise for sustainability results",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:32+00:00",
+ "had_body": false
+}

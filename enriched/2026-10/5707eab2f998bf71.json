@@ -1,0 +1,66 @@
+{
+ "doc_id": "5707eab2f998bf71",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/feu-vert-de-l-ue-a-l-acquisition,28344",
+ "title": "Feu vert de l'UE à l'acquisition de Kenvue (Neutrogena) par Kimberly-Clark",
+ "summary": "L'Union européenne a annoncé mardi, 13 octobre, avoir donné son feu vert au rachat, pour 48,7 milliards de dollars, de l'entreprise de santé Kenvue par le géant américain des biens de consommation Kimberly-Clark, en s'assurant que les produits d'hygiène féminine restent \"abordables\". Basée au Texas, Kimberly-Clark fabrique un large éventail de produits à base de papier et textile, avec des marques comme Huggies, Kleenex et Kotex. De son côté, Kenvue gère des marques de santé grand public,... - Brèves",
+ "published_at": "2026-10-14T15:02:52+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "CZ",
+   "EE",
+   "SK",
+   "IS",
+   "LI",
+   "NO",
+   "TR"
+  ],
+  "brands": [
+   "Neutrogena",
+   "Huggies",
+   "Kleenex",
+   "Kotex",
+   "Aveeno",
+   "Johnson’s Baby",
+   "OGX",
+   "Listerine",
+   "Tylenol",
+   "Nicorette",
+   "Lidie",
+   "Camelia",
+   "Record"
+  ],
+  "companies": [
+   "Kenvue",
+   "Kimberly-Clark",
+   "Dilek",
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "기업 인수",
+   "여성 위생용품",
+   "소비재 기업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유럽연합은 킴벌리클라크의 켄뷰 인수를 조건부로 승인했다.",
+  "key_fact_quote": "L'Union européenne a annoncé mardi, 13 octobre, avoir donné son feu vert au rachat, pour 48,7 milliards de dollars, de l'entreprise de santé Kenvue par le géant américain des biens de consommation Kimberly-Clark, en s'assurant que les produits d'hygiène féminine restent \"abordables\".",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:59+00:00",
+ "had_body": true
+}

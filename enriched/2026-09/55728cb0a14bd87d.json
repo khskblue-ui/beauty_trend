@@ -1,0 +1,42 @@
+{
+ "doc_id": "55728cb0a14bd87d",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/ifra-convenes-member-company-leadership-in-shanghai",
+ "title": "IFRA convenes member company leadership in Shanghai",
+ "summary": "Senior representatives from IFRA member companies across Greater China and North Asia met in Shanghai, China, on 16 September 2026 for a discussion on global trade dynamics and the association’s strategic priorities.",
+ "published_at": "2026-09-18T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "IFRA"
+  ],
+  "keywords": [
+   "국제향료협회",
+   "글로벌 무역",
+   "협회 전략 회의"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "국제향료협회가 글로벌 무역 역학 및 전략적 우선순위를 논의하기 위해 상하이에서 회원사 리더십 회의를 소집했다.",
+  "key_fact_quote": "Senior representatives from IFRA member companies across Greater China and North Asia met in Shanghai, China, on 16 September 2026 for a discussion on global trade dynamics and the association’s strategic priorities.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:30+00:00",
+ "had_body": false
+}

@@ -1,0 +1,54 @@
+{
+ "doc_id": "3c063e3b25ab7282",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100093",
+ "title": "어뮤즈에 ‘동생 브랜드’ 생겼다 첫 시스터 브랜드 ‘로듀’ 론칭",
+ "summary": "어뮤즈코리아가 브랜드 포트폴리오를 확장한다. (주)어뮤즈코리아는 어뮤즈의 첫 시스터 브랜드 ‘로듀(RAWDEW)’를 론칭했다고 이달 8일 밝혔다. 기존 어뮤즈의 자유롭고 감각적인 DNA는 유지하면서 보다 가볍고 편하게 즐길 수 있는 뷰티 브랜드로 기획했다.로듀는 일상 속 작은 뷰티 고민을 발견하고, 이를 위트 있는 방식으로 풀어냈다. 브랜드명은 ‘가공되지 않은’을 뜻하는 ‘RAW’와 ‘이슬’을 뜻하는 ‘DEW’를 결합했다. 복잡하게 꾸미거나 과하게 바꾸지 않아도 있는 그대로의 모습을 자연스럽게 표현할 수 있는 뷰티를 지향한다.정해진",
+ "published_at": "2026-10-08T10:34:01+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어뮤즈",
+   "로듀"
+  ],
+  "companies": [
+   "(주)어뮤즈코리아"
+  ],
+  "keywords": [
+   "립밤",
+   "시스터 브랜드",
+   "드롭 방식"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "로듀 비타 버터 립 밤",
+    "brand": "로듀",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "어뮤즈코리아가 첫 시스터 브랜드 로듀를 론칭하고 첫 제품으로 립밤을 선보였다.",
+  "key_fact_quote": "(주)어뮤즈코리아는 어뮤즈의 첫 시스터 브랜드 ‘로듀(RAWDEW)’를 론칭했다고 이달 8일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:15+00:00",
+ "had_body": true
+}

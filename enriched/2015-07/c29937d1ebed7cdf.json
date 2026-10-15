@@ -1,0 +1,42 @@
+{
+ "doc_id": "c29937d1ebed7cdf",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/media/media-releases/2015/2015-half-year-results",
+ "title": "Résultats semestriels 2015",
+ "summary": "Flux de trésorerie disponible en nette progression, en bonne voie pour atteindre les objectifs fixés pour 2015 Chiffre d'affaires/ventes de 2,2 milliards de CHF, en hausse de 2015 HYR Investor News.pdf 2015 HYR Media Release_EN.pdf 2015 HYR Media Release_FR.pdf 2015 HYR Media Release_GE.pdf 2015 HYR Presentation.pdf 2015 Half Year Report_EN.pdf 2015 Half Year Report_FR.pdf 2015 Half Year Report_GE.pdf",
+ "published_at": "2015-07-17T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "CH"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "상반기 실적",
+   "향료 기업 실적",
+   "재무 성과"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단은 잉여현금흐름이 큰 폭으로 증가하며 연간 목표 달성을 향해 순항하고 있다.",
+  "key_fact_quote": "Flux de trésorerie disponible en nette progression, en bonne voie pour atteindre les objectifs fixés pour 2015",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:21+00:00",
+ "had_body": false
+}

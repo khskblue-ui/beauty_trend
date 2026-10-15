@@ -1,0 +1,42 @@
+{
+ "doc_id": "ac15779015480961",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sports.khan.co.kr/article/202610071806013?pt=nv",
+ "title": "“언제 만날지 몰라 차에 싣고 다녀”…김우빈, 향수 광고 오작교 팬에...",
+ "summary": "종이가방 안에는 김우빈이 공식 앰버서더로 활약 중인 이탈리아 니치 향수 브랜드 아쿠아 디 파르마의 제품이 가득 담겨 있었다. 특히 김우빈의 세심하고 배려 깊은 면모는 여기서 그치지 않았다. A씨뿐만 아니라 현장에...",
+ "published_at": "2026-10-07T18:07:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "KR",
+   "IT"
+  ],
+  "brands": [
+   "아쿠아 디 파르마"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "앰버서더"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배우 김우빈이 자신이 앰버서더로 활동하는 니치 향수 브랜드 제품을 팬에게 선물했다.",
+  "key_fact_quote": "종이가방 안에는 김우빈이 공식 앰버서더로 활약 중인 이탈리아 니치 향수 브랜드 아쿠아 디 파르마의 제품이 가득 담겨 있었다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:00+00:00",
+ "had_body": false
+}

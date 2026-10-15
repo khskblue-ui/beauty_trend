@@ -1,0 +1,54 @@
+{
+ "doc_id": "997b517a129ed880",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58505",
+ "title": "[1신] ‘2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스’ 개막... “글로벌 규제 방패 뚫을 창을 마련 기회”",
+ "summary": "[코스인코리아닷컴 권태흥 기자]화장품 수출도 ‘슬기와 지혜’가 요구되고 있다. 국가별·지역별 화장품 규제에 슬기로운 대응력이 기업 경쟁력을 평가하는 새로운 지수가 되고 있다. 모순(矛盾)처럼 규제 방패를 법규 숙지와 순발력으로 피해가는 창(매뉴얼)이 요구되는 시점이다. 205개국으로 뻗어간…",
+ "published_at": "2026-10-14T15:44:31+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "GB",
+   "AU",
+   "NZ",
+   "FR",
+   "US",
+   "JP",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원",
+   "Kao Corporation",
+   "First Research",
+   "Essity",
+   "윈게이트코리아"
+  ],
+  "keywords": [
+   "수출 규제",
+   "화장품 안전성 평가",
+   "대체 시험법",
+   "위해성 평가"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한화장품산업연구원이 주요 수출국의 최신 화장품 규제 동향과 글로벌 안전성 평가 최신 동향을 다루는 수출 규제 대응 컨퍼런스를 개최했다.",
+  "key_fact_quote": "(재)대한화장품산업연구원(원장 조신행)이 10월 14일부터 15일까지 양일간 로얄호텔 서울 그랜드볼룸에서 개최한 ‘2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스’는 이런 점에서 시의적절한 정보를 제공하고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:10+00:00",
+ "had_body": true
+}

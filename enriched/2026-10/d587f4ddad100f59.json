@@ -1,0 +1,65 @@
+{
+ "doc_id": "d587f4ddad100f59",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=149244",
+ "title": "에디션 드 퍼퓸 프레데릭 말, 피스마이너스원 협업 전시 개최",
+ "summary": "뮤스크 라바줴는 조향사 모리스 루셀이 2000년 제작한 앰버 계열 향수로, 시나몬과 바닐라, 블랙 머스크 등을 주요 향 구성에 사용했다. 이번 협업에서는 기존 향수를 기반으로 한 '뮤스크 라바줴 피스마이너스원 에디션...",
+ "published_at": "2026-10-12T11:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에디션 드 퍼퓸 프레데릭 말",
+   "피스마이너스원"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 협업",
+   "앰버 향수",
+   "협업 전시"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "뮤스크 라바줴",
+    "brand": "에디션 드 퍼퓸 프레데릭 말",
+    "launch_date": "2000",
+    "launch_quote": "뮤스크 라바줴는 조향사 모리스 루셀이 2000년 제작한 앰버 계열 향수로, 시나몬과 바닐라, 블랙 머스크 등을 주요 향 구성에 사용했다.",
+    "notes": [
+     "앰버",
+     "시나몬",
+     "바닐라",
+     "블랙 머스크"
+    ],
+    "notes_quote": "뮤스크 라바줴는 조향사 모리스 루셀이 2000년 제작한 앰버 계열 향수로, 시나몬과 바닐라, 블랙 머스크 등을 주요 향 구성에 사용했다."
+   },
+   {
+    "name": "뮤스크 라바줴 피스마이너스원 에디션",
+    "brand": "에디션 드 퍼퓸 프레데릭 말",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에디션 드 퍼퓸 프레데릭 말이 피스마이너스원과 협업한 전시를 개최하며 협업 에디션을 선보였다.",
+  "key_fact_quote": "에디션 드 퍼퓸 프레데릭 말, 피스마이너스원 협업 전시 개최",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:40+00:00",
+ "had_body": false
+}

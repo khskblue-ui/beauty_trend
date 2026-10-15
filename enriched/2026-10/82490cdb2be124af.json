@@ -1,0 +1,47 @@
+{
+ "doc_id": "82490cdb2be124af",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312187",
+ "title": "외국인, 아모레·LG생건 비중 확대…코스맥스·콜마는 축소",
+ "summary": "최근 5거래일간 화장품 대형주 중 브랜드주에서는 외국인 지분율이 일제히 증가한 반면, ODM주에서는 감소세를 보였다. 중국 특수 약화 이후 수년간 시장의 관심이 ODM주에 집중됐다는 점을 감안하면 브랜드주에 대한 외국인 수급 회복 조짐이 나타나고 있다는 점에서 주목된다.특히 코스맥스는 외국인 지분율 감소 폭이 가장 컸음에도 주가는 가장 크게 상승했으며, APR은 외국인 지분율 증가 폭이 가장 높은 것으로 집계됐다.네이버증권 자료를 바탕으로 아모레퍼시픽, LG생활건강, 코스맥스, 한국콜마, APR 등 화장품 업종 대표 종목의 10월",
+ "published_at": "2026-10-12T19:45:16+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽",
+   "LG생활건강",
+   "코스맥스",
+   "한국콜마",
+   "APR"
+  ],
+  "keywords": [
+   "화장품 대형주",
+   "브랜드주",
+   "ODM주",
+   "외국인 지분율"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 대형주 중 브랜드 기업에 대한 외국인 지분율이 증가한 반면 제조업자개발생산 기업에서는 감소세를 보였다.",
+  "key_fact_quote": "최근 5거래일간 화장품 대형주 중 브랜드주에서는 외국인 지분율이 일제히 증가한 반면, ODM주에서는 감소세를 보였다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:09:10+00:00",
+ "had_body": true
+}

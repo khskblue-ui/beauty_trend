@@ -1,0 +1,55 @@
+{
+ "doc_id": "797134f39180b342",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/symrise-secures-patent-protection-for-symsaver-h-technology-in-china/",
+ "title": "Symrise secures patent protection for SymSave® H technology in China",
+ "summary": "— Strengthens protected multifunctional innovation in Symrise’s Care & Wellness portfolio — Granted by the China National Intellectual Property Administration (CNIPA) — Covers Hydroxyacetophenone–lipophilic compositions in aqueous formulations — Part of an international patent family spanning the US, Korea, Japan, Brazil, and India",
+ "published_at": "2026-07-02T18:36:59+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "CN",
+   "US",
+   "KR",
+   "JP",
+   "BR",
+   "IN"
+  ],
+  "brands": [],
+  "companies": [
+   "Symrise"
+  ],
+  "keywords": [
+   "화장품 원료 특허",
+   "다기능성 성분"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "SymSave® H",
+    "brand": "Symrise",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "심라이즈가 중국 국가지식산권국으로부터 자사의 기능성 원료 기술에 대한 특허를 취득했다.",
+  "key_fact_quote": "Symrise secures patent protection for SymSave® H technology in China",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:20+00:00",
+ "had_body": false
+}

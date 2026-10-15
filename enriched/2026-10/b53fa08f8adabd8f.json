@@ -1,0 +1,55 @@
+{
+ "doc_id": "b53fa08f8adabd8f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gukjenews.com/news/articleView.html?idxno=3720913",
+ "title": "라 바닐, 프랑스 향료 사 협업 헤어케어 3종 출시…성수동서 첫 팝업 운...",
+ "summary": "헤어케어 브랜드 라 바닐(LA VANILLE)이 프랑스 향료 사와 협업한 시그니처 향 '스킨 바닐라(SKIN VANILLA)'를 담은... 시그니처 향 스킨 바닐라는 대표가 프랑스 향료 사와 협업해 1년간 개발한 향이다. 시트러스한 바닐라에...",
+ "published_at": "2026-10-15T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "라 바닐"
+  ],
+  "companies": [],
+  "keywords": [
+   "헤어케어",
+   "향료 협업",
+   "시그니처 향",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "헤어케어 3종",
+    "brand": "라 바닐",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "시트러스한 바닐라"
+    ],
+    "notes_quote": "시그니처 향 스킨 바닐라는 대표가 프랑스 향료 사와 협업해 1년간 개발한 향이다. 시트러스한 바닐라에..."
+   }
+  ],
+  "key_fact": "헤어케어 브랜드 라 바닐이 프랑스 향료 사와 협업해 개발한 시그니처 향을 담은 신제품을 선보인다.",
+  "key_fact_quote": "헤어케어 브랜드 라 바닐(LA VANILLE)이 프랑스 향료 사와 협업한 시그니처 향 '스킨 바닐라(SKIN VANILLA)'를 담은...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:25+00:00",
+ "had_body": false
+}

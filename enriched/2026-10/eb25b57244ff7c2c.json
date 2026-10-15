@@ -1,0 +1,57 @@
+{
+ "doc_id": "eb25b57244ff7c2c",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312044",
+ "title": "티몰 뷰티 트렌드 3분기 리포트①: 마스크팩시장, 급락 후 횡보… 중국 브랜드 독주",
+ "summary": "[편집자 주] 뷰티경제는 2022년 7월부터 중국 최대 전자상거래 플랫폼 티몰(Tmall)의 뷰티 카테고리 판매 데이터를 추적 조사하며 시장 변화를 분석하고 있다.이번 기사에서는 2025년 3분기와 2026년 3분기 마스크팩 판매 데이터를 비교해 중국 소비자들의 구매 트렌드 변화와 브랜드 경쟁 구도의 흐름을 분석했다.급락 이후 \\'횡보\\' 국면 진입한 티몰 마스크팩 시장티몰 마스크팩 시장이 급격한 위축 이후 횡보 국면에 들어선 것으로 나타났다.본지가 티몰 마스크팩 카테고리 TOP10 브랜드의 판매량을 분석한 결과, 2024년 3분기 2",
+ "published_at": "2026-10-15T08:45:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "FR"
+  ],
+  "brands": [
+   "로레알",
+   "라로슈포제",
+   "푸얼자",
+   "OSM",
+   "KANS",
+   "프로야",
+   "자연당",
+   "Dr.Alva",
+   "가복미",
+   "FANBEAUTY",
+   "온박사",
+   "조물자",
+   "Voolga"
+  ],
+  "companies": [
+   "티몰"
+  ],
+  "keywords": [
+   "마스크팩",
+   "스킨케어",
+   "진정 리페어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "티몰 마스크팩 시장이 급격한 위축 이후 횡보 국면에 들어서며 중국 로컬 브랜드 중심의 지배력 강화와 진정 리페어 중심의 트렌드 변화가 나타나고 있다.",
+  "key_fact_quote": "티몰 마스크팩 시장이 급격한 위축 이후 횡보 국면에 들어선 것으로 나타났다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:39+00:00",
+ "had_body": true
+}

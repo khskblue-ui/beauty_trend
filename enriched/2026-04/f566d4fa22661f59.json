@@ -1,0 +1,43 @@
+{
+ "doc_id": "f566d4fa22661f59",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/symrise-celebrates-third-world-vanilla-day-with-global-activities/",
+ "title": "Symrise celebrates third World Vanilla Day with global activities",
+ "summary": "‒ Symrise brings the taste, scent, origin and diversity of vanilla to life worldwide ‒ From Holzminden to Madagascar: Symrise highlights responsibility and partnership along the value chain ‒ As a vanilla pioneer and strategic partner, Symrise is helping shape the future of vanilla",
+ "published_at": "2026-04-10T16:17:42+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "DE",
+   "MG"
+  ],
+  "brands": [],
+  "companies": [
+   "Symrise"
+  ],
+  "keywords": [
+   "바닐라 원료",
+   "향료 원료",
+   "원료 공급망"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "심라이즈가 글로벌 활동을 통해 세계 바닐라의 날을 기념하며 바닐라 가치 사슬 전반의 책임과 파트너십을 강조한다.",
+  "key_fact_quote": "Symrise celebrates third World Vanilla Day with global activities ‒ Symrise brings the taste, scent, origin and diversity of vanilla to life worldwide",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:27+00:00",
+ "had_body": false
+}

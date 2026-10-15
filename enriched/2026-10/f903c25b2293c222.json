@@ -1,0 +1,71 @@
+{
+ "doc_id": "f903c25b2293c222",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=395275",
+ "title": "천약선(주), 클린 뷰티 브랜드 '우이무이(uimui)' 런칭… '우이무이 골프...",
+ "summary": "K- 뷰티 수출 전초기지를 완벽히 구축한다는 구상이다. 12월, 고기능성 신제품 라인업 릴레이 런칭과... 12월 출시 될 우이무이 골프패치(우이무이 썬핏), 우이무이 시카바이옴 앰플, 우이무이 루미텐션 선세럼 등...",
+ "published_at": "2026-10-14T15:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "우이무이",
+   "uimui"
+  ],
+  "companies": [
+   "천약선(주)"
+  ],
+  "keywords": [
+   "클린 뷰티",
+   "골프패치",
+   "선세럼",
+   "앰플"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "우이무이 골프패치(우이무이 썬핏)",
+    "brand": "우이무이",
+    "launch_date": null,
+    "launch_quote": "12월 출시 될 우이무이 골프패치(우이무이 썬핏), 우이무이 시카바이옴 앰플, 우이무이 루미텐션 선세럼 등...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "우이무이 시카바이옴 앰플",
+    "brand": "우이무이",
+    "launch_date": null,
+    "launch_quote": "12월 출시 될 우이무이 골프패치(우이무이 썬핏), 우이무이 시카바이옴 앰플, 우이무이 루미텐션 선세럼 등...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "우이무이 루미텐션 선세럼",
+    "brand": "우이무이",
+    "launch_date": null,
+    "launch_quote": "12월 출시 될 우이무이 골프패치(우이무이 썬핏), 우이무이 시카바이옴 앰플, 우이무이 루미텐션 선세럼 등...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "천약선이 클린 뷰티 브랜드 우이무이를 런칭하고 신제품 라인업을 출시할 예정이다.",
+  "key_fact_quote": "천약선(주), 클린 뷰티 브랜드 '우이무이(uimui)' 런칭… '우이무이 골프...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:17+00:00",
+ "had_body": false
+}

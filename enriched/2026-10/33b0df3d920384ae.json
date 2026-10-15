@@ -1,0 +1,77 @@
+{
+ "doc_id": "33b0df3d920384ae",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100146",
+ "title": "이미인, 내년 글로벌 뷰티 트렌드는 ‘메디컬 프로시저 더마’",
+ "summary": "화장품 ODM 전문기업 이미인(IMINE)이 AI 분석을 통해 2027년 봄·여름 뷰티 트렌드로 ‘메디컬 프로시저 더마(MEDICAL PROCEDURE DERMA)’를 제시했다. 최근 글로벌 스킨케어 시장에서 에스테틱이나 미용 클리닉 등에서 사용하는 고기능 성분 제품을 일반 화장품에 접목한 메디컬 뷰티가 유행하고 있다. 내년에는 한 걸음 더 나아가 마스크팩, 하이드로겔, 아이패치와 같은 소재에 혁신을 더해 피부를 당기고, 누르고, 밀폐하고, 쿨링하는 미용 시술의 작용 원리를 제품을 통해 직접 구현하는 쪽으로 진화할 것이란 전망이다.",
+ "published_at": "2026-10-14T10:55:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "이미인",
+   "바이브컴퍼니"
+  ],
+  "keywords": [
+   "메디컬 프로시저 더마",
+   "스킨부스터",
+   "하이드로겔 마스크",
+   "홈케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "실펩타이드 하이드로겔 마스크",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "비타C 30% 빔 그라인딩 스틱",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "부항 하이드로겔 마스크",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "카트리지 다매마스크",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "화장품 전문기업 이미인이 차기 글로벌 뷰티 트렌드로 미용 시술 원리를 접목한 메디컬 프로시저 더마를 제시했다.",
+  "key_fact_quote": "화장품 ODM 전문기업 이미인(IMINE)이 AI 분석을 통해 2027년 봄·여름 뷰티 트렌드로 ‘메디컬 프로시저 더마(MEDICAL PROCEDURE DERMA)’를 제시했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:34+00:00",
+ "had_body": true
+}

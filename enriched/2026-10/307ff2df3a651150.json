@@ -1,0 +1,57 @@
+{
+ "doc_id": "307ff2df3a651150",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ngetnews.com/news/articleView.html?idxno=554454",
+ "title": "롯데웰푸드, 빼빼로 책갈피·짱셔요 향수 등 이색 굿즈 16종 출시",
+ "summary": "가장 먼저 13일 △빼빼로 책갈피 △패치워크 카드지갑 △가나 뾰족이 키링과 이어폰 줄감개 홀더 △짱셔요 향수 와 독서링·도자기 잔 △찰떡파이 왁뿌 슬라임 등을 출시 한다. 롯샌 피크닉 보자기와 거울 키링, 클릭커...",
+ "published_at": "2026-10-13T17:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "짱셔요",
+   "빼빼로",
+   "가나",
+   "찰떡파이",
+   "롯샌"
+  ],
+  "companies": [
+   "롯데웰푸드"
+  ],
+  "keywords": [
+   "이색 굿즈",
+   "브랜드 굿즈",
+   "향수 출시"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "짱셔요 향수",
+    "brand": "짱셔요",
+    "launch_date": null,
+    "launch_quote": "가장 먼저 13일 △빼빼로 책갈피 △패치워크 카드지갑 △가나 뾰족이 키링과 이어폰 줄감개 홀더 △짱셔요 향수 와 독서링·도자기 잔 △찰떡파이 왁뿌 슬라임 등을 출시 한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "롯데웰푸드가 짱셔요 향수를 포함한 이색 굿즈 제품들을 선보였다.",
+  "key_fact_quote": "롯데웰푸드, 빼빼로 책갈피·짱셔요 향수 등 이색 굿즈 16종 출시",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:38+00:00",
+ "had_body": false
+}

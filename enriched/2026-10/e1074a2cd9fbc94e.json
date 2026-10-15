@@ -1,0 +1,57 @@
+{
+ "doc_id": "e1074a2cd9fbc94e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609300118&t=NN",
+ "title": "정원자산관리, 니치 향수 감성의 오브페 ‘노바디노우즈 토일렛 퍼퓸’...",
+ "summary": "MOSI, AWA, NUBE 3종의 향은 10년 이상 경력의 수석 조향사 가 니치향수의 감성과 깊이감을 더해 조향했고 용기 디자인 역시 공간 내 실내 장식 오브제 역할을 할 수 있도록 기획됐다. 프래그런스 오일 레시피로 악취...",
+ "published_at": "2026-10-01T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오브페"
+  ],
+  "companies": [
+   "정원자산관리"
+  ],
+  "keywords": [
+   "니치 향수",
+   "토일렛 퍼퓸",
+   "프래그런스 오일"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "노바디노우즈 토일렛 퍼퓸",
+    "brand": "오브페",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "MOSI",
+     "AWA",
+     "NUBE"
+    ],
+    "notes_quote": "MOSI, AWA, NUBE 3종의 향은 10년 이상 경력의 수석 조향사 가 니치향수의 감성과 깊이감을 더해 조향했고 용기 디자인 역시 공간 내 실내 장식 오브제 역할을 할 수 있도록 기획됐다."
+   }
+  ],
+  "key_fact": "정원자산관리가 니치 향수 감성을 담은 오브페 브랜드의 토일렛 퍼퓸 제품을 선보였다.",
+  "key_fact_quote": "정원자산관리, 니치 향수 감성의 오브페 ‘노바디노우즈 토일렛 퍼퓸’...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:49+00:00",
+ "had_body": false
+}

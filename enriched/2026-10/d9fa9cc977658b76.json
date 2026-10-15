@@ -1,0 +1,44 @@
+{
+ "doc_id": "d9fa9cc977658b76",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsian.co.kr/news/articleView.html?idxno=97033",
+ "title": "[글로벌 트렌드] 아마존서 날개 단 K 뷰티 … 동국제약·에이피알, 연말 성...",
+ "summary": "에이피알은 미국과 유럽의 오프라인 유통망 확대, 현지 전용 제품 출시 , 팝업스토어 운영 등을 통해 소비자 접점을 넓혀왔다. 연말에도 신제품 과 프로모션으로 현지 수요 공략을 이어갈 방침이다. 에이피알의 뷰티 ...",
+ "published_at": "2026-10-14T10:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "동국제약",
+   "에이피알"
+  ],
+  "keywords": [
+   "글로벌 유통망",
+   "팝업스토어",
+   "해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 뷰티 기업들이 해외 오프라인 유통망 확대와 현지 전용 제품 출시를 통해 글로벌 시장 공략을 이어가고 있다.",
+  "key_fact_quote": "에이피알은 미국과 유럽의 오프라인 유통망 확대, 현지 전용 제품 출시 , 팝업스토어 운영 등을 통해 소비자 접점을 넓혀왔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:22+00:00",
+ "had_body": false
+}

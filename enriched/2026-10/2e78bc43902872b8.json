@@ -1,0 +1,42 @@
+{
+ "doc_id": "2e78bc43902872b8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480321",
+ "title": "서울 K - 뷰티 스타트업 8개사, 뉴욕서 미국 시장 공략 나선다",
+ "summary": "미국은 K - 뷰티 의 최대 수출 시장으로 떠올랐다. 식품의약품안전처에 따르면 지난해 미국으로의 화장품 수출 액은 21억8000만 달러로 중국을 제치고 1위를 차지했다. 올해 1~9월 수출 액도 23억5000만 달러로 전년 동기...",
+ "published_at": "2026-10-15T08:35:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "스타트업",
+   "해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국이 한국 화장품의 최대 수출 시장으로 부상했다.",
+  "key_fact_quote": "미국은 K - 뷰티 의 최대 수출 시장으로 떠올랐다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:25+00:00",
+ "had_body": false
+}

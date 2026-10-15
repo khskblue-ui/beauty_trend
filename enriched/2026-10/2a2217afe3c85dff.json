@@ -1,0 +1,42 @@
+{
+ "doc_id": "2a2217afe3c85dff",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/givaudan-q3-2026-symrise-scent-center-singapore-1239344586/",
+ "title": "Givaudan Stock Surges, Symrise Opens Scent Center in Singapore",
+ "summary": "Beauty’s key fragrance category continues to flex.",
+ "published_at": "2026-10-13T20:33:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "SG"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan",
+   "Symrise"
+  ],
+  "keywords": [
+   "향료 산업",
+   "향료 연구소"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지보단의 주가가 상승하고 심라이즈가 싱가포르에 향료 센터를 개소했다.",
+  "key_fact_quote": "Givaudan Stock Surges, Symrise Opens Scent Center in Singapore",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:09:15+00:00",
+ "had_body": false
+}

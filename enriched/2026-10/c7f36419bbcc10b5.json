@@ -1,0 +1,53 @@
+{
+ "doc_id": "c7f36419bbcc10b5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366736",
+ "title": "LF 오피신 유니버셀 불리, 휴대성 높인 롤온 타입 오일 향수 첫선",
+ "summary": "특히 '이리 드 말트'는 불리 클래식 오 트리쁠 향수 에서 가장 인기 있는 향으로 올해 1월부터 9월까지 불리 향수 판매량 1위를 차지한 바 있다. 이번 신제품 은 불리 네이버 스토어, LF몰, 카카오톡 선물하기를 비롯해...",
+ "published_at": "2026-10-07T09:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오피신 유니버셀 불리",
+   "불리"
+  ],
+  "companies": [
+   "LF"
+  ],
+  "keywords": [
+   "오일 향수",
+   "롤온 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "롤온 타입 오일 향수",
+    "brand": "오피신 유니버셀 불리",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "엘에프의 오피신 유니버셀 불리가 휴대성을 강화한 롤온 형태의 오일 향수를 새로 선보였다.",
+  "key_fact_quote": "LF 오피신 유니버셀 불리, 휴대성 높인 롤온 타입 오일 향수 첫선",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:30+00:00",
+ "had_body": false
+}

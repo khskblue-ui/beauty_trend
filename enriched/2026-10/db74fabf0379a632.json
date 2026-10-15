@@ -1,0 +1,45 @@
+{
+ "doc_id": "db74fabf0379a632",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53676",
+ "title": "‘동국제약→DK센텔리안’ 사명 바꾼다",
+ "summary": "동국제약(송준호)이 사명을 DK센텔리안으로 변경하고, 글로벌 헬스amp;뷰티 기업으로 도약한다는 비전을 선포했다. DK센텔리안(DK Centellian)은 국내 의약품에서 벗어나 치료와 예방을 아우르는 핼스amp;뷰티 분야로 사업을 확장한다는 의미를 담고 있다. 과학에 기반한 헬스와 뷰티 기…",
+ "published_at": "2026-10-12T12:24:52+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안"
+  ],
+  "companies": [
+   "동국제약",
+   "DK센텔리안"
+  ],
+  "keywords": [
+   "사명 변경",
+   "헬스앤뷰티",
+   "웰니스 트렌드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "동국제약이 사명을 디케이센텔리안으로 변경하고 글로벌 헬스앤뷰티 기업으로의 도약을 선포했다.",
+  "key_fact_quote": "동국제약(송준호)이 사명을 DK센텔리안으로 변경하고, 글로벌 헬스&뷰티 기업으로 도약한다는 비전을 선포했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:14+00:00",
+ "had_body": true
+}

@@ -1,0 +1,95 @@
+{
+ "doc_id": "ce995d94aafadaa0",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53687",
+ "title": "본셉, ‘비타씨’ 베이스·립스틱 다이소 출시",
+ "summary": "토니모리 본셉이 ‘비타씨’ 라인을 색조 영역까지 확장한다. 본셉은 다이소에 비타씨 베이스 7종과 틴티드 글로우 립스틱 3종 등 10종을 출시했다. 비타씨 베이스는 △ 수딩 톤업 베이스 △ 밀착 광채 메이커 △ 에센스 비비 △ 슬림 커버 컨실러 등으로 구성했다. 이들 제품은 미백·주름 개선 효과를 제공한…",
+ "published_at": "2026-10-13T09:49:48+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "본셉"
+  ],
+  "companies": [
+   "토니모리",
+   "다이소"
+  ],
+  "keywords": [
+   "색조 화장품",
+   "베이스 메이크업",
+   "글로우 립스틱",
+   "톤업 베이스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "비타씨 베이스",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "틴티드 글로우 립스틱",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "수딩 톤업 베이스",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "밀착 광채 메이커",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "에센스 비비",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "슬림 커버 컨실러",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "토니모리 본셉이 비타씨 라인을 색조 영역으로 확장하며 다이소에 베이스와 글로우 립스틱 제품을 출시했다.",
+  "key_fact_quote": "토니모리 본셉이 ‘비타씨’ 라인을 색조 영역까지 확장한다. 본셉은 다이소에 비타씨 베이스 7종과 틴티드 글로우 립스틱 3종 등 10종을 출시했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:08+00:00",
+ "had_body": true
+}

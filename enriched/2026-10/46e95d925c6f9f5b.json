@@ -1,0 +1,40 @@
+{
+ "doc_id": "46e95d925c6f9f5b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.peoplewatch.co.kr/article/view/ppw202610140013",
+ "title": "화장품 제조 넘어 AI 피부진단까지…정부, K뷰티 서비스 250억 투자",
+ "summary": "화장품을 만들어 수출 하던 K뷰티 산업이 인공지능(AI)을 활용한 피부진단과 맞춤형 화장품, 뷰티 디바이스를 결합한 서비스 산업으로 영역을 넓히고 있다. 14일 정부가 발표한 K뷰티 산업 지원방안에 따르면 정부는...",
+ "published_at": "2026-10-14T17:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 테크",
+   "맞춤형 화장품",
+   "피부진단"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부가 인공지능을 활용한 피부진단과 맞춤형 화장품 등을 아우르는 뷰티 서비스 산업 지원에 나선다.",
+  "key_fact_quote": "화장품 제조 넘어 AI 피부진단까지…정부, K뷰티 서비스 250억 투자",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:34+00:00",
+ "had_body": false
+}

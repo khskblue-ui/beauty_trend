@@ -1,0 +1,43 @@
+{
+ "doc_id": "29fd0fece7abdf3b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=228224",
+ "title": "한국 화장품의 프랑스 추격…세계 수출 1위 노린다",
+ "summary": "상반기 K뷰티 수출 액 25% 증가할 때, 프랑스는 0.6% 감소주력 '스킨케어' 격차 더 빠르게 좁혀져…\"2년 내 1위 도전\"\"미국 넘어 유럽 등 시장 다변화, 메가 브랜드 육성은 과제\" K뷰티가 세계 화장품 수출 1위 도약에...",
+ "published_at": "2026-10-14T22:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "FR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "스킨케어",
+   "시장 다변화",
+   "메가 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 화장품 수출이 성장세를 보이며 주력인 스킨케어 분야를 바탕으로 세계 수출 선두 자리를 노리고 있다.",
+  "key_fact_quote": "주력 '스킨케어' 격차 더 빠르게 좁혀져…\"2년 내 1위 도전\"",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:31+00:00",
+ "had_body": false
+}

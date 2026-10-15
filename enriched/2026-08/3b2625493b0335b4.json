@@ -1,0 +1,42 @@
+{
+ "doc_id": "3b2625493b0335b4",
+ "source": "mfds_notice",
+ "source_name": "식약처 고시전문",
+ "group": "regulation",
+ "lang": "ko",
+ "url": "https://www.mfds.go.kr/brd/m_211/view.do?seq=14985",
+ "title": "화장품 사용할 때의 주의사항 및 알레르기 유발성분 표시에 관한 규정 고시 전문(식품의약품안전처 고시 제2026-56호, 2026.8.5.)",
+ "summary": "",
+ "published_at": "2026-08-05T17:40:23+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "식품의약품안전처"
+  ],
+  "keywords": [
+   "알레르기 유발성분 표시",
+   "화장품 주의사항",
+   "식약처 고시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식품의약품안전처가 화장품 사용할 때의 주의사항 및 알레르기 유발성분 표시에 관한 규정 고시 전문을 공표했다.",
+  "key_fact_quote": "화장품 사용할 때의 주의사항 및 알레르기 유발성분 표시에 관한 규정 고시 전문(식품의약품안전처 고시 제2026-56호, 2026.8.5.)",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:17+00:00",
+ "had_body": false
+}

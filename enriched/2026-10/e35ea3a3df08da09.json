@@ -1,0 +1,42 @@
+{
+ "doc_id": "e35ea3a3df08da09",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/dsm-firmenich-flagship-fine-fragrance-hub-chelsea-1239344838/",
+ "title": "DSM-Firmenich Unveils Flagship Fine Fragrance Hub in Chelsea",
+ "summary": "Located in the Chelsea neighborhood, the 44,000-square-foot flagship space brings together perfumers, fragrance development teams and cutting-edge technology.",
+ "published_at": "2026-10-13T23:57:15+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "DSM-Firmenich"
+  ],
+  "keywords": [
+   "파인 프래그런스",
+   "향료 개발",
+   "플래그십 허브"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "디에스엠-피르메니히가 첼시에 조향사와 개발팀 및 첨단 기술을 한데 모은 플래그십 파인 프래그런스 허브를 공개했다.",
+  "key_fact_quote": "DSM-Firmenich Unveils Flagship Fine Fragrance Hub in Chelsea",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:09:15+00:00",
+ "had_body": false
+}

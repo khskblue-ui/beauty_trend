@@ -1,0 +1,43 @@
+{
+ "doc_id": "3d2873fbf23fd8b2",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312042",
+ "title": "티몰 K뷰티 3분기 종합 분석: 8개 품목 중 5개 성장했지만 회복세는 제한적",
+ "summary": "올해 3분기 중국 티몰(Tmall) 내 K뷰티 시장은 8개 주요 품목 가운데 5개 품목의 판매량이 증가하고 3개 품목이 감소해 상승세를 보였다.하지만 증가 품목 대부분이 지난해 급감에 따른 기저효과 성격을 띠고 있는 데다 감소 품목의 하락 폭이 더 크게 나타나면서 시장 전반은 \\'회복\\'으로 단정하기는 어렵다.본지가 중국 티몰 내 K뷰티 주요 품목의 올해 3분기 판매량을 지난해 같은 기간과 비교한 결과, 에센스와 클렌징폼, 쿠션, 토너, 선케어는 증가세를 기록한 반면 마스크팩과 베이스메이크업, 크림은 감소세가 이어졌다.마스크팩·베이스메",
+ "published_at": "2026-10-14T09:20:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "티몰"
+  ],
+  "keywords": [
+   "기능성 스킨케어",
+   "이커머스 트렌드",
+   "중국 뷰티 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 티몰 내 케이뷰티 시장은 일부 품목의 판매량이 늘었으나 주요 품목의 감소세와 기저효과로 인해 전반적인 회복보다는 선별적 반등 국면에 머물고 있다.",
+  "key_fact_quote": "결국 현재 중국 티몰 내 K뷰티 시장은 전체 시장이 동반 성장하는 회복 국면이라기보다, 일부 기능성 스킨케어 품목만 성장하는 '선별적 반등' 단계로 해석하는 것이 보다 적절하다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:57+00:00",
+ "had_body": true
+}

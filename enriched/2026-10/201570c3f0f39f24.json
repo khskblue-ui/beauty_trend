@@ -1,0 +1,43 @@
+{
+ "doc_id": "201570c3f0f39f24",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.breaknews.com/1242493",
+ "title": "광주신세계, 럭셔리 뷰티 브랜드 대거 보강… “화장품 매출 6.1% 증가”",
+ "summary": "이에 신세계는 스킨케어, 메이크업부터 프리미엄 향수 까지 다양한 코스메틱... 컬러로 출시 됐다. 심한성 광주신세계 잡화팀장은 “화장품은 단순한 뷰티 제품을 넘어...",
+ "published_at": "2026-10-13T05:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "광주신세계",
+   "신세계"
+  ],
+  "keywords": [
+   "럭셔리 뷰티",
+   "프리미엄 향수",
+   "코스메틱"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "광주신세계가 스킨케어와 메이크업 및 프리미엄 향수 등 럭셔리 뷰티 브랜드를 보강하며 화장품 매출 신장을 기록했다.",
+  "key_fact_quote": "광주신세계, 럭셔리 뷰티 브랜드 대거 보강… “화장품 매출 6.1% 증가”",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:44+00:00",
+ "had_body": false
+}

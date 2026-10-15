@@ -1,0 +1,44 @@
+{
+ "doc_id": "129e18e0ee86867b",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/cop30-honduras-and-suriname-partner-with-deutsche-bank-symrise-and-other-industry-players-to-mobilize-financial-support-for-rainforest-protection/",
+ "title": "COP30: Honduras and Suriname partner with Deutsche Bank, Symrise and other industry players to mobilize financial support for rainforest protection",
+ "summary": "",
+ "published_at": "2025-11-10T22:28:16+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "HN",
+   "SR"
+  ],
+  "brands": [],
+  "companies": [
+   "Symrise",
+   "Deutsche Bank"
+  ],
+  "keywords": [
+   "열대우림 보호",
+   "지속가능성",
+   "파트너십"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "온두라스와 수리남이 열대우림 보호를 위한 재정적 지원을 마련하기 위해 심라이즈 및 도이치방크 등 업계 파트너들과 협력한다.",
+  "key_fact_quote": "COP30: Honduras and Suriname partner with Deutsche Bank, Symrise and other industry players to mobilize financial support for rainforest protection",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:41+00:00",
+ "had_body": false
+}

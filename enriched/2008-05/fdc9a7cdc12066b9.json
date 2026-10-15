@@ -1,0 +1,39 @@
+{
+ "doc_id": "fdc9a7cdc12066b9",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/media/media-releases/2008/givaudans-chefs-council-2008-uncovering-flavours-future",
+ "title": "Givaudan's Chef's Council 2008",
+ "summary": "Dans le cadre d’un rassemblement sans précédent consacré à l’innovation gustative, le Givaudan’s Chef's Council se réunit à l’Alícia, à Mon St. Givaudan Chefs Council 2008 EN.pdf Givaudan Chefs Council 2008 FR.pdf Givaudan Chefs Council 2008 DE.pdf",
+ "published_at": "2008-05-14T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "event",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "미각 혁신",
+   "셰프 카운슬"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단은 미각 혁신을 주제로 셰프 카운슬 모임을 개최한다.",
+  "key_fact_quote": "Dans le cadre d’un rassemblement sans précédent consacré à l’innovation gustative, le Givaudan’s Chef's Council se réunit à l’Alícia, à Mon St.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:12+00:00",
+ "had_body": false
+}

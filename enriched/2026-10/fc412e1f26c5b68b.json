@@ -1,0 +1,42 @@
+{
+ "doc_id": "fc412e1f26c5b68b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300383",
+ "title": "양구군, 주민 창업 '전문조향사' 양성교육 12일 시작",
+ "summary": "교육에서는 향수의 구성과 향료 의 특성, 조합 과정 등 전문 조향에 필요한 이론과 실습을 중심으로 다룬다. 이어 26일부터 29일까지 진행되는 분석조향 전문과정에서는 양구군이 확보하고 있는 식물 에센셜오일의 과학적...",
+ "published_at": "2026-10-12T12:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "양구군"
+  ],
+  "keywords": [
+   "전문조향사",
+   "에센셜오일",
+   "조향 교육"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "양구군이 주민 창업을 지원하기 위한 전문조향사 양성교육을 시작한다.",
+  "key_fact_quote": "양구군, 주민 창업 '전문조향사' 양성교육 12일 시작",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:31+00:00",
+ "had_body": false
+}

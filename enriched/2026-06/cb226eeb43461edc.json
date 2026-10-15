@@ -1,0 +1,39 @@
+{
+ "doc_id": "cb226eeb43461edc",
+ "source": "dsm_firmenich",
+ "source_name": "dsm-firmenich News",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://our-company.dsm-firmenich.com/en/our-company/news/our-stories/2026/to-age-better-we-need-to-rethink-health-itself.html",
+ "title": "To age better, we need to rethink health itself",
+ "summary": "",
+ "published_at": "2026-06-25T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "건강 재정의",
+   "웰에이징"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "더 잘 나이 들기 위해서는 건강에 대한 재고가 필요하다고 언급되었다.",
+  "key_fact_quote": "To age better, we need to rethink health itself",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:47+00:00",
+ "had_body": false
+}

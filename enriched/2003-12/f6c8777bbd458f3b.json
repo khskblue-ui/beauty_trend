@@ -1,0 +1,41 @@
+{
+ "doc_id": "f6c8777bbd458f3b",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/media/media-releases/2003/share-buyback-200304-update-1",
+ "title": "Rachat d'actions 2003/04 – mise à jour n° 1",
+ "summary": "Du 30 juin 2003 au 19 décembre 2003, Givaudan SA a racheté 45 000 de ses propres actions (5.63% du programme) dans le cadre du programme de rachat annoncé le 18 jui Givaudan share buy back 2003/04 – update 1 EN.pdf",
+ "published_at": "2003-12-22T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "CH"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "자사주 매입",
+   "기업 재무"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단이 자사주 매입 프로그램에 따라 자체 주식을 매입했다.",
+  "key_fact_quote": "Du 30 juin 2003 au 19 décembre 2003, Givaudan SA a racheté 45 000 de ses propres actions (5.63% du programme) dans le cadre du programme de rachat annoncé le 18 jui",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:14+00:00",
+ "had_body": false
+}

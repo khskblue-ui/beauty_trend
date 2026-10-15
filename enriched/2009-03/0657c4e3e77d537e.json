@@ -1,0 +1,43 @@
+{
+ "doc_id": "0657c4e3e77d537e",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/medias/company-news/2009/givaudan-annonce-un-partenariat-visant-garantir-un-approvisionnement",
+ "title": "Givaudan annonce un partenariat visant à garantir un approvisionnement durable en benjoin provenant du Laos",
+ "summary": "Paris, France, le 18 mars 2009 – Givaudan a annoncé aujourd’hui la conclusion d’un partenariat axé sur l’approvisionnement durable en benjoin du Laos, dans le cadre de son programme Innovative Natu Partnership for sustainable supply of benzoin EN.pdf Partnership for sustainable supply of benzoin DE.pdf Partnership for sustainable supply of benzoin FR.pdf",
+ "published_at": "2009-03-18T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "LA"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "지속 가능한 공급",
+   "천연 원료",
+   "향료 원료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지바단은 라오스산 벤조인의 지속 가능한 공급을 보장하기 위한 파트너십 체결을 발표했다.",
+  "key_fact_quote": "Givaudan a annoncé aujourd’hui la conclusion d’un partenariat axé sur l’approvisionnement durable en benjoin du Laos, dans le cadre de son programme Innovative Natu",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:12+00:00",
+ "had_body": false
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "e790f9c9207ac520",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=202464",
+ "title": "화장품 성수기 개막, 내수 시장 소비자 접점 경쟁 확대",
+ "summary": "에디션' 출시 를 기념해 지난 9~11일 서울 성수동에서 무빙 팝업을 진행했다. '폼 미친 거품 맛집'을 콘셉트로... 실제로 오는 15일부터 서울 성수동 무비랜드에서 진행하는 팝업을 통해 향수 와 스킨·바디케어 제품을 직접...",
+ "published_at": "2026-10-12T22:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "팝업스토어",
+   "소비자 접점",
+   "향수",
+   "바디케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 성수기를 맞아 내수 시장에서 팝업 등을 통한 소비자 접점 확대 경쟁이 이어지고 있다.",
+  "key_fact_quote": "화장품 성수기 개막, 내수 시장 소비자 접점 경쟁 확대",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:44+00:00",
+ "had_body": false
+}

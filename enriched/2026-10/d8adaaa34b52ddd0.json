@@ -1,0 +1,87 @@
+{
+ "doc_id": "d8adaaa34b52ddd0",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53665",
+ "title": "후르디아, 유럽 27개국 뚫는다",
+ "summary": "웰코스 후르디아가 3일부터 4일까지 체코 프라하 프라고프카예술지구에서 열린 ‘노티노 K-Beauty 페스티벌’에 참가했다. ‘노티노 K-Beauty 페스티벌’(Notino K-Beauty Festival)은 유럽 이커머스기업 주최했다. 한국 뷰티 브랜드 약 30개를 모아 한 자리에서 소개했다. 이번 행사에는…",
+ "published_at": "2026-10-08T14:54:22+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "CZ",
+   "KR"
+  ],
+  "brands": [
+   "후르디아"
+  ],
+  "companies": [
+   "웰코스",
+   "노티노"
+  ],
+  "keywords": [
+   "롱제비티 스킨케어",
+   "케이뷰티 페스티벌",
+   "유럽 뷰티 시장"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "레티날 B3 엑소 레드 버블 팩 부스터",
+    "brand": "후르디아",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "레티날 B3 엑소 레드 360° 볼륨 샷 앰플",
+    "brand": "후르디아",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "레티날 B3 엑소 레드 360° 볼륨 샷 크림",
+    "brand": "후르디아",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "글로우쥬시잼",
+    "brand": "후르디아",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "블러리버터잼",
+    "brand": "후르디아",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "웰코스 후르디아가 체코 프라하에서 열린 노티노 뷰티 페스티벌에 참가해 스킨케어와 메이크업 제품을 선보이며 유럽 시장 공략에 나섰다.",
+  "key_fact_quote": "웰코스 후르디아가 3일부터 4일까지 체코 프라하 프라고프카예술지구에서 열린 ‘노티노 K-Beauty 페스티벌’에 참가했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:29+00:00",
+ "had_body": true
+}

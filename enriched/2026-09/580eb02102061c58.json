@@ -1,0 +1,53 @@
+{
+ "doc_id": "580eb02102061c58",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newspim.com/news/view/20260929000682",
+ "title": "정원자산관리, 화장품 브랜드 오브페 런칭",
+ "summary": "이 제품은 10년 이상 경력의 수석 조향사 가 조향한 3종의 향으로 구성됐다. 기존 토일렛 퍼퓸 제품과 달리 향수 컨셉의 용기로 디자인됐다. 부향률 60%의 프래그런스 오일 레시피를 사용했으며, 시간차를 두고 향기를...",
+ "published_at": "2026-09-29T13:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오브페"
+  ],
+  "companies": [
+   "정원자산관리"
+  ],
+  "keywords": [
+   "토일렛 퍼퓸",
+   "프래그런스 오일",
+   "화장품 브랜드 런칭"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "토일렛 퍼퓸",
+    "brand": "오브페",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "정원자산관리가 화장품 브랜드 오브페를 런칭하고 수석 조향사가 조향한 토일렛 퍼퓸 제품을 선보였다.",
+  "key_fact_quote": "정원자산관리, 화장품 브랜드 오브페 런칭",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:50+00:00",
+ "had_body": false
+}

@@ -1,0 +1,38 @@
+{
+ "doc_id": "c4cdb6b592c04fda",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/skin-and-body-care-products-meeting-needs-chemotherapy",
+ "title": "Skin and body care products meeting the needs of chemotherapy patients",
+ "summary": "October marks Breast Cancer Awareness Month, which raises awareness of early detection and education around the disease. But those living with cancer can also experience challenges with their skin health due to chemotherapy. Cosmetics Business rounds up the products that can support them",
+ "published_at": "2026-10-13T20:20:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "항암 스킨케어",
+   "바디케어",
+   "피부 건강"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화학요법 치료로 피부 문제를 겪는 암 환자들을 지원하는 스킨 및 바디케어 제품들을 조명한다.",
+  "key_fact_quote": "But those living with cancer can also experience challenges with their skin health due to chemotherapy. Cosmetics Business rounds up the products that can support them",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:42+00:00",
+ "had_body": false
+}

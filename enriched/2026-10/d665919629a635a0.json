@@ -1,0 +1,40 @@
+{
+ "doc_id": "d665919629a635a0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.breaknews.com/1242384",
+ "title": "양구군, 주민 전문 조향사 양성교육 본격 추진",
+ "summary": "교육에서는 향수의 구성과 향료 의 특성, 향료 간 조합 과정 등 전문 조향에 필요한 이론과 실습을 진행한다. 이어 26일부터 29일까지는 분석조향 전문과정을 운영할...",
+ "published_at": "2026-10-12T17:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "조향사 양성",
+   "전문 조향",
+   "향료 교육"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "양구군이 주민을 대상으로 전문 조향사 양성교육을 추진하여 전문 조향 이론과 실습 및 분석조향 전문과정을 운영한다.",
+  "key_fact_quote": "교육에서는 향수의 구성과 향료 의 특성, 향료 간 조합 과정 등 전문 조향에 필요한 이론과 실습을 진행한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:29+00:00",
+ "had_body": false
+}

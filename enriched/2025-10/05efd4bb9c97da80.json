@@ -1,0 +1,53 @@
+{
+ "doc_id": "05efd4bb9c97da80",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/symrise-wins-bsb-innovation-awardr-environment-for-its-best-in-class-pentylene-glycol-hydroliter-5-green/",
+ "title": "Symrise wins BSB Innovation Award® Environment for its best-in-class pentylene glycol Hydrolite® 5 green",
+ "summary": "‒ 2025 Award recognizes sustainable solution upcycled from certified sources ‒ High-quality ingredient now produced in Spain and the USA, strengthening supply chains",
+ "published_at": "2025-10-28T04:58:46+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "ES",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "Symrise"
+  ],
+  "keywords": [
+   "친환경 화장품 원료",
+   "업사이클링 원료",
+   "혁신상 수상",
+   "공급망 강화"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Hydrolite® 5 green",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "심라이즈의 펜틸렌 글라이콜 성분이 지속 가능한 업사이클링 솔루션으로 인정받아 환경 부문 혁신상을 수상했다.",
+  "key_fact_quote": "Symrise wins BSB Innovation Award® Environment for its best-in-class pentylene glycol Hydrolite® 5 green",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:37+00:00",
+ "had_body": false
+}

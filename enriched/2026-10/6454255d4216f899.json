@@ -1,0 +1,63 @@
+{
+ "doc_id": "6454255d4216f899",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.segye.com/newsView/20261013507505?OutUrl=naver",
+ "title": "고궁에 브랜드 입히고 전통미 살리고…K-뷰티, 전통문화 마케팅 강화",
+ "summary": "토니모리의 서브 브랜드 본셉은 기존 비타씨 스킨케어 라인을 색조 화장품 으로 확장했다. 비타씨 베이스 7종과 틴티드 글로우 립스틱 3종 등 총 10종을 다이소를 통해 출시했다. 이번 신제품 은 비타민C 성분을 내세운...",
+ "published_at": "2026-10-13T10:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "본셉",
+   "토니모리"
+  ],
+  "companies": [
+   "토니모리",
+   "다이소"
+  ],
+  "keywords": [
+   "색조 화장품",
+   "스킨케어 라인 확장",
+   "전통문화 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "비타씨 베이스",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "틴티드 글로우 립스틱",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "토니모리의 서브 브랜드 본셉이 비타씨 라인을 색조 화장품으로 확장하여 다이소를 통해 신제품을 출시했다.",
+  "key_fact_quote": "토니모리의 서브 브랜드 본셉은 기존 비타씨 스킨케어 라인을 색조 화장품 으로 확장했다. 비타씨 베이스 7종과 틴티드 글로우 립스틱 3종 등 총 10종을 다이소를 통해 출시했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:10+00:00",
+ "had_body": false
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "c8749fcfd2873f2d",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312224",
+ "title": "코스메카코리아, 성균관대와 차세대 바이오 화장품 소재 개발 추진",
+ "summary": "코스메카코리아와 성균관대학교가 ESG 경영 강화와 친환경 원료 수요 증가에 대응해 바이오 기반 화장품 소재 개발을 추진한다.코스메카코리아는 성균관대학교 연구팀과 차세대 화이트 바이오(White Bio) 소재를 활용한 신규 유화제 개발 및 생산 공정 고도화를 위한 공동 연구를 추진한다고 14일 밝혔다.유화제는 화장품 제형의 안정성과 사용감 등에 영향을 미치는 핵심 소재다. 최근 화장품 업계에서는 지속가능성에 대한 관심이 높아지면서 석유계 원료를 대체할 수 있는 바이오 소재 개발도 확대되는 추세다.업계에서는 바이오 기반 유화제 개발이",
+ "published_at": "2026-10-14T17:39:36+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스메카코리아"
+  ],
+  "keywords": [
+   "바이오 화장품 소재",
+   "화이트 바이오",
+   "친환경 원료",
+   "비이온성 유화제"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스메카코리아가 성균관대학교 연구팀과 함께 차세대 화이트 바이오 소재를 활용한 신규 유화제 개발 및 생산 공정 고도화를 위한 공동 연구를 추진한다.",
+  "key_fact_quote": "코스메카코리아는 성균관대학교 연구팀과 차세대 화이트 바이오(White Bio) 소재를 활용한 신규 유화제 개발 및 생산 공정 고도화를 위한 공동 연구를 추진한다고 14일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:44+00:00",
+ "had_body": true
+}

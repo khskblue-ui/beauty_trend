@@ -1,0 +1,45 @@
+{
+ "doc_id": "6d54c0507143c423",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kukinews.com/article/view/kuk202610140022",
+ "title": "뷰티업계, 캐릭터 IP 협업 확대…센슬, ‘퍼글러’ 에디션 출시",
+ "summary": "쿠키뉴스=심하연 기자 | 뷰티 브랜드들이 캐릭터 지식재산권(IP)을 활용한 협업 상품을 선보이는 가운데, 센슬(SENSEL)이 글로벌 캐릭터 ‘퍼글러(Fuggler)’와 손잡고 신제품 을 출시했다. 화장품 에 캐릭터 디자인을 적용하는...",
+ "published_at": "2026-10-14T09:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센슬",
+   "SENSEL"
+  ],
+  "companies": [],
+  "keywords": [
+   "캐릭터 협업",
+   "에디션 출시",
+   "캐릭터 지식재산권"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "뷰티 브랜드 센슬이 글로벌 캐릭터 퍼글러와 협업한 신제품 에디션을 출시했다.",
+  "key_fact_quote": "센슬(SENSEL)이 글로벌 캐릭터 ‘퍼글러(Fuggler)’와 손잡고 신제품 을 출시했다.",
+  "dropped": [
+   "product:퍼글러 에디션"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:57+00:00",
+ "had_body": false
+}

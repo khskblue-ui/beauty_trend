@@ -1,0 +1,47 @@
+{
+ "doc_id": "e6aa20810de7af7f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45266",
+ "title": "[ 신제품 오늘리뷰] 롯데칠성·삼립·배민·오뚜기·파스쿠찌",
+ "summary": "입힌 신제품 이 나왔다. 롯데칠성음료는 과즙 함량 20%의 '칠성사이다 RICH'를, 삼립은 대만 차 브랜드 '3:15pm'과... 등굣길에 사 먹던 길거리 토스트를 떠올리게 해 학창 시절의 향수 를 불러일으킨다. 배민은 오는 30일까지...",
+ "published_at": "2026-10-02T13:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "칠성사이다",
+   "3:15pm",
+   "파스쿠찌"
+  ],
+  "companies": [
+   "롯데칠성음료",
+   "삼립",
+   "배달의민족",
+   "오뚜기"
+  ],
+  "keywords": [
+   "식품 신제품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:35+00:00",
+ "had_body": false
+}

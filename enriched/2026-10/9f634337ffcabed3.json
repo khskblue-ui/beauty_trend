@@ -1,0 +1,44 @@
+{
+ "doc_id": "9f634337ffcabed3",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53670",
+ "title": "3분기 누적 화장품 수출 111억$…역대 최대치 기록",
+ "summary": "식품의약품안전처 공식 발표 우리나라 화장품 수출 실적의 상승세가 멈출 기미를 보이지 않고 있는 가운데 산업통상부의 월별 수출실적에 이어 식품의약품안전처(처장 오유경· www.mfds.go.kr )가 공식 발표를 통해 국가별·유형별 세부 내용을 재확인했다. lt;관련 기사: ‘달마다 수출 실적 경신…",
+ "published_at": "2026-10-11T20:28:58+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "기초화장품",
+   "색조화장품",
+   "인체세정용 제품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한민국의 삼분기 화장품 누적 수출액이 전년 동기 대비 증가하여 역대 최대 수출 실적을 경신했다.",
+  "key_fact_quote": "식약처는 “지난 3분기까지 화장품 누적 수출액이 전년 동기 대비 31.1% 증가한 111억 달러(잠정)를 기록했으며 3분기 누계 기준 역대 최대 수출 실적을 경신했다”고 밝히고 “이는 종전 최고치였던 2025년 연간 수출액(114억 달러)에 육박하는 규모로, 올해 9개월 만에 달성한 것”이라고 덧붙였다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:22+00:00",
+ "had_body": true
+}

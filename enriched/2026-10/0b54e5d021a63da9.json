@@ -1,0 +1,48 @@
+{
+ "doc_id": "0b54e5d021a63da9",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53700",
+ "title": "2026 K-뷰티엑스포 코리아 15일 개막 팡파르",
+ "summary": "킨텍스(대표이사 이민우)가 주최하는 ‘2026 K-뷰티엑스포 코리아’(이하 K-뷰티엑스포)가 내일(15일) 막을 올려 오는 17일(토)까지 사흘간 킨텍스에서 열린다. 올해 18회째를 맞이하는 이번 행사는 전 세계 15국가·679사(국내 597사·해외 82사)가 1천88부스로 참가해 역대 최대 규모다. 지난해 대…",
+ "published_at": "2026-10-14T16:09:26+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "킨텍스",
+   "코트라",
+   "틱톡코리아",
+   "와디즈",
+   "롯데홈쇼핑",
+   "한화갤러리아",
+   "위스타트"
+  ],
+  "keywords": [
+   "뷰티 박람회",
+   "수출상담회",
+   "유통상담회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "역대 최대 규모로 열리는 뷰티엑스포 코리아가 사흘간 킨텍스에서 개최된다.",
+  "key_fact_quote": "킨텍스(대표이사 이민우)가 주최하는 ‘2026 K-뷰티엑스포 코리아’(이하 K-뷰티엑스포)가 내일(15일) 막을 올려 오는 17일(토)까지 사흘간 킨텍스에서 열린다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:55+00:00",
+ "had_body": true
+}

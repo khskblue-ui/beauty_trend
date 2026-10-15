@@ -1,0 +1,42 @@
+{
+ "doc_id": "409adfd8d27bf066",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/wellness/ipsy-wellness-supplements-cymbiotika-lemme-1239345711/",
+ "title": "EXCLUSIVE: Ipsy Wants In on Wellness",
+ "summary": "The beauty box subscription service is introducing a curated wellness offering for the first time featuring a slate of supplement brands.",
+ "published_at": "2026-10-14T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Ipsy"
+  ],
+  "companies": [
+   "Ipsy"
+  ],
+  "keywords": [
+   "뷰티 박스 구독",
+   "웰니스 서비스",
+   "건강기능식품 큐레이션"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 박스 구독 서비스인 입시가 여러 보충제 브랜드를 포함한 큐레이션 웰니스 서비스를 처음으로 선보인다.",
+  "key_fact_quote": "The beauty box subscription service is introducing a curated wellness offering for the first time featuring a slate of supplement brands.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:09:12+00:00",
+ "had_body": false
+}

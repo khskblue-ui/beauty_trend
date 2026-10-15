@@ -1,0 +1,40 @@
+{
+ "doc_id": "177c30ca1019f22a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244505",
+ "title": "기능성·맞춤형으로 진화하는 모로코 스킨케어 시장, K-Beauty 기회 확대",
+ "summary": "화장품· 향수 ·퍼스널케어 관련 제품(HS 33기준, 원료 포함) 수입액은 약 6.5억 달러로, 수입제품이 현지... 이에 따라 더모코스메틱, 기능성 스킨케어, K-Beauty, 니치 화장품 등 다양한 분야가 성장하고 있으며...",
+ "published_at": "2026-10-06T09:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "MA"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "기능성 스킨케어",
+   "더모코스메틱",
+   "니치 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "모로코 스킨케어 시장이 기능성과 맞춤형을 중심으로 발전하며 국내 뷰티 분야의 진출 기회가 커지고 있다.",
+  "key_fact_quote": "기능성·맞춤형으로 진화하는 모로코 스킨케어 시장, K-Beauty 기회 확대",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:03+00:00",
+ "had_body": false
+}

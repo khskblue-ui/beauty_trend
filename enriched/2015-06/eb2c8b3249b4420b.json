@@ -1,0 +1,43 @@
+{
+ "doc_id": "eb2c8b3249b4420b",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/medias/company-news/2015/givaudan-double-sa-capacite-de-production-daromes-en-chine",
+ "title": "Givaudan double sa capacité de production d'arômes en Chine",
+ "summary": "Inauguration officielle d'une usine de production de 50 millions de francs suisses à Nantong Genève – Givaudan, leader mondial des parfums et des arômes, a inauguré aujou 2015 Nantong Investor News.pdf 2015 Nantong Media Release_CN.pdf 2015 Nantong Media Release_EN.pdf 2015 Nantong Media Release_FR.pdf 2015 Nantong Media Release_GE.pdf",
+ "published_at": "2015-06-30T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "CN",
+   "CH"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "향료 생산 시설",
+   "생산 능력 확대",
+   "공장 준공"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단이 중국 난퉁에 생산 공장을 공식 개장하며 중국 내 식품 향료 생산 능력을 대폭 확대했다.",
+  "key_fact_quote": "Givaudan double sa capacité de production d'arômes en Chine Inauguration officielle d'une usine de production de 50 millions de francs suisses à Nantong",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:19+00:00",
+ "had_body": false
+}

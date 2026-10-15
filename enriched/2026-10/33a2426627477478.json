@@ -1,0 +1,61 @@
+{
+ "doc_id": "33a2426627477478",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.cnbizm.com/news/articleView.html?idxno=317864",
+ "title": "뷰티 신제품 , 다이소몰서 만난다",
+ "summary": "더마코스메틱은 일반 화장품 보다 기능성과 전문성을 강조한 제품으로, '피부과학(Dermatology)'과 ' 화장품 (Cosmetics)'의 합성어다. 오픈 첫날인 12일에는 '더마 케어 라인업'인 '닥터CPU' 6종과 '더마푸라민' 8종, 그리고...",
+ "published_at": "2026-10-13T16:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "닥터CPU",
+   "더마푸라민"
+  ],
+  "companies": [
+   "다이소"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "더마 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "닥터CPU",
+    "brand": "닥터CPU",
+    "launch_date": null,
+    "launch_quote": "오픈 첫날인 12일에는 '더마 케어 라인업'인 '닥터CPU' 6종과 '더마푸라민' 8종, 그리고...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "더마푸라민",
+    "brand": "더마푸라민",
+    "launch_date": null,
+    "launch_quote": "오픈 첫날인 12일에는 '더마 케어 라인업'인 '닥터CPU' 6종과 '더마푸라민' 8종, 그리고...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "다이소몰에서 기능성과 전문성을 강조한 더마코스메틱 신제품들을 선보인다.",
+  "key_fact_quote": "뷰티 신제품 , 다이소몰서 만난다",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:03+00:00",
+ "had_body": false
+}

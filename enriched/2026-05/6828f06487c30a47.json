@@ -1,0 +1,42 @@
+{
+ "doc_id": "6828f06487c30a47",
+ "source": "mfds_notice",
+ "source_name": "식약처 고시전문",
+ "group": "regulation",
+ "lang": "ko",
+ "url": "https://www.mfds.go.kr/brd/m_211/view.do?seq=14969",
+ "title": "「화장품의 생산·수입 실적 및 원료목록 보고에 관한 규정」고시 전문(제2026-38호, 2026.5.13)",
+ "summary": "",
+ "published_at": "2026-05-14T10:59:23+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "식약처"
+  ],
+  "keywords": [
+   "화장품 규정",
+   "원료목록 보고",
+   "생산 실적 보고"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식품의약품안전처가 화장품의 생산 및 수입 실적과 원료목록 보고에 관한 규정 고시 전문을 공포했다.",
+  "key_fact_quote": "「화장품의 생산·수입 실적 및 원료목록 보고에 관한 규정」고시 전문(제2026-38호, 2026.5.13)",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:17+00:00",
+ "had_body": false
+}

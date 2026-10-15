@@ -1,0 +1,41 @@
+{
+ "doc_id": "b83d1963e9d1f382",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/medias/company-news/2015/chiffre-daffairesventes-du-premier-trimestre-2015",
+ "title": "Chiffre d'affaires/ventes du premier trimestre 2015",
+ "summary": "Des résultats commerciaux stables ; l’entreprise est confiante quant à sa capacité à générer un flux de trésorerie disponible de 14 à16%, e 2015 Q1 Investor News_EN.pdf 2015 Q1 Media Release_EN.pdf 2015 Q1 Media Release_FR.pdf 2015 Q1 Media Release_GE.pdf",
+ "published_at": "2015-04-10T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "CH"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "실적 발표",
+   "분기 매출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단이 안정적인 상업 실적을 달성하며 잉여 현금 흐름 창출 능력에 대한 자신감을 나타냈다.",
+  "key_fact_quote": "Des résultats commerciaux stables ; l’entreprise est confiante quant à sa capacité à générer un flux de trésorerie disponible de 14 à16%",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:19+00:00",
+ "had_body": false
+}

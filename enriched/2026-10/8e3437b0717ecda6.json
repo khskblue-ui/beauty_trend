@@ -1,0 +1,52 @@
+{
+ "doc_id": "8e3437b0717ecda6",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53660",
+ "title": "대봉LS, 산학협력 성과로 교육부장관상 수상",
+ "summary": "화장품·의약·바이오 소재 플랫폼 기업을 지향하는 대봉엘에스(대표 박진오)가 2026년 산학협력 우수사례 경진대회-기술협력 분야 교육부장관상을 수상했다. 인천대학교 생명공학전공 이원종 교수 연구팀과 공동 수행한 ‘적채 유래 엑소좀 연구’ 성과를 인정받았다. 이번 수상은 대학의 원천기술에 대…",
+ "published_at": "2026-10-08T07:25:07+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대봉엘에스",
+   "대봉LS"
+  ],
+  "keywords": [
+   "바이오 소재",
+   "화장품 소재",
+   "엑소좀"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "RedCabbage ExoSkin",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "대봉엘에스가 적채 유래 엑소좀 화장품 소재 연구 개발 성과를 인정받아 교육부장관상을 수상했다.",
+  "key_fact_quote": "화장품·의약·바이오 소재 플랫폼 기업을 지향하는 대봉엘에스(대표 박진오)가 2026년 산학협력 우수사례 경진대회-기술협력 분야 교육부장관상을 수상했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:33+00:00",
+ "had_body": true
+}

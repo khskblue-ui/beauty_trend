@@ -1,0 +1,43 @@
+{
+ "doc_id": "102ca60b71330ca8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=461895",
+ "title": "쿨쿨곰·쿨쿨냥 최대 혜택…프로젝트슬립, 카카오쇼핑라이브 진행",
+ "summary": "이미지=프로젝트슬립 수면 전문 브랜드 프로젝트슬립이 여름 무더위를 앞두고 냉감 수면용품 특가 방송을... 10명에게는 프레그런스 태그 카네이션 버전을 제공한다. 메인 판매 제품인 냉감인형 쿨쿨곰과 쿨쿨냥...",
+ "published_at": "2026-06-22T08:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "프레그런스 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프로젝트슬립"
+  ],
+  "companies": [
+   "프로젝트슬립"
+  ],
+  "keywords": [
+   "수면용품",
+   "라이브 방송"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "프로젝트슬립이 여름 무더위를 앞두고 냉감 수면용품 특가 라이브 방송을 진행한다.",
+  "key_fact_quote": "수면 전문 브랜드 프로젝트슬립이 여름 무더위를 앞두고 냉감 수면용품 특가 방송을...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:50+00:00",
+ "had_body": false
+}

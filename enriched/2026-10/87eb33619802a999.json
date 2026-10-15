@@ -1,0 +1,40 @@
+{
+ "doc_id": "87eb33619802a999",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12171526",
+ "title": "C뷰티·T뷰티 공세에…K색조 휘청?",
+ "summary": "올 상반기 국내 화장품 수출액이다. 지난해 사상 최대치인 55억1000만달러 연간 수출을 기록했는데, 올해는... 틱톡·샤오홍슈 등 소셜미디어(SNS)에서 유행하는 화장법을 빠르게 포착해 신제품 에 반영하고 다시...",
+ "published_at": "2026-10-14T21:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "색조 화장품",
+   "화장품 수출",
+   "소셜미디어 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국과 태국 뷰티의 공세 속에서 국내 화장품 업계가 소셜미디어 유행 화장법을 신제품에 빠르게 반영하며 대응하고 있다.",
+  "key_fact_quote": "틱톡·샤오홍슈 등 소셜미디어(SNS)에서 유행하는 화장법을 빠르게 포착해 신제품 에 반영하고 다시...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:48+00:00",
+ "had_body": false
+}

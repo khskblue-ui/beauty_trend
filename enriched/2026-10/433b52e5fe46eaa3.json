@@ -1,0 +1,70 @@
+{
+ "doc_id": "433b52e5fe46eaa3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=872583",
+ "title": "동화약품, 다이소 뷰티 공략 확대…후시덤 신제품 5종 출격",
+ "summary": "판테놀을 함유한 제품들이 출시 초기 품절을 기록했고, SOS 크림과 수분장벽 크림도 다이소 뷰티 부문 판매 상위권에 올랐다. 동화약품은 이번 신제품 을 통해 피부 장벽에서 흔적 관리까지 제품 영역을 확대한다는...",
+ "published_at": "2026-10-14T11:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "후시덤"
+  ],
+  "companies": [
+   "동화약품",
+   "다이소"
+  ],
+  "keywords": [
+   "다이소 뷰티",
+   "피부 장벽",
+   "흔적 관리"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "후시덤 신제품 5종",
+    "brand": "후시덤",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "SOS 크림",
+    "brand": "후시덤",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "수분장벽 크림",
+    "brand": "후시덤",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동화약품이 다이소 뷰티 시장 공략을 위해 후시덤 신제품을 출시하며 제품군을 확대한다.",
+  "key_fact_quote": "동화약품, 다이소 뷰티 공략 확대…후시덤 신제품 5종 출격",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:21+00:00",
+ "had_body": false
+}

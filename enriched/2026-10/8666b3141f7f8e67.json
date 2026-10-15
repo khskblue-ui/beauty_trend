@@ -1,0 +1,56 @@
+{
+ "doc_id": "8666b3141f7f8e67",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53656",
+ "title": "IFSCC 2026 K-화장품·뷰티 기업 활약상 집중 조명",
+ "summary": "지난달 28일부터 지난 1일(현지시각)까지 호주 퍼스 컨벤션amp;전시 센터에서 열린 제 36회 세계화장품학회 2026(IFSCC·International Federation of Societies of Cosmetic Chemists)에서도 최근 K-화장품·뷰티 기업들의 선전과 성과를 입증하듯 주목할 만한 논문을…",
+ "published_at": "2026-10-07T20:30:54+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "AU",
+   "KR",
+   "CN",
+   "ID",
+   "US",
+   "IT",
+   "TH"
+  ],
+  "brands": [
+   "리필드"
+  ],
+  "companies": [
+   "코스맥스",
+   "대봉엘에스",
+   "선진뷰티사이언스",
+   "콘스탄트",
+   "애경산업"
+  ],
+  "keywords": [
+   "세계화장품학회",
+   "지속가능 뷰티",
+   "업사이클링 화장품",
+   "자외선 차단 기술",
+   "엑소좀"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "세계화장품학회에서 국내 주요 화장품 및 원료 기업들이 지속가능 뷰티와 고기능성 제형 및 소재 기술 관련 연구 성과를 대거 발표했다.",
+  "key_fact_quote": "호주 퍼스 컨벤션&전시 센터에서 열린 제 36회 세계화장품학회 2026(IFSCC·International Federation of Societies of Cosmetic Chemists)에서도 최근 K-화장품·뷰티 기업들의 선전과 성과를 입증하듯 주목할 만한 논문을 발표(구두·포스터)했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:38+00:00",
+ "had_body": true
+}

@@ -1,0 +1,40 @@
+{
+ "doc_id": "d3a877280d28fab6",
+ "source": "mfds_preannounce",
+ "source_name": "식약처 행정예고",
+ "group": "regulation",
+ "lang": "ko",
+ "url": "https://www.mfds.go.kr/brd/m_209/view.do?seq=44290",
+ "title": "기능성화장품 심사에 관한 규정 일부개정고시안",
+ "summary": "",
+ "published_at": "2026-08-18T19:58:01+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "기능성화장품",
+   "자외선차단제",
+   "심사 규정"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식품의약품안전처가 자외선차단효과 신뢰성을 강화하기 위해 기능성화장품 심사 제출자료 요건을 추가하고 자료 면제 범위를 조정하는 규정 개정안을 행정예고했다.",
+  "key_fact_quote": "피부를 곱게 태워주거나 자외선으로부터 피부를 보호하는 데에 도움을 주는 기능성화장품의 심사 제출자료 범위를 강화하고, 자외선차단효과에 관한 시험자료 요건에 인체 외 시험자료도 인정하는 등 시험 요건을 효율적으로 관리하여 자외선차단효과에 대한 신뢰성을 강화하려는 것임",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:32+00:00",
+ "had_body": true
+}

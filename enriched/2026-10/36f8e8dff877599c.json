@@ -1,0 +1,55 @@
+{
+ "doc_id": "36f8e8dff877599c",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100114",
+ "title": "트리코닉스, 두피 안티에이징 케어 ‘스칼프 인퓨전 앰플’",
+ "summary": "컨셉인 산하 뉴셀렉트의 두피·모발 케어 브랜드 트리코닉스(TRICONIX)​가 일상 속 두피와 모발을 함께 관리할 수 있는 ‘스칼프 인퓨전 앰플’​을 선보였다.해당 제품은 모발 자체에 집중하기보다 모발이 자라는 기반인 두피까지 함께 관리하는 데 초점을 맞췄다. 트리코닉스는 모발 관리의 시작점을 모발이 아닌 두피에 두고, 시간과 외부 환경에 따라 달라지는 두피 컨디션에 주목했다.두피의 탄력과 수분 밸런스부터 피지와 각질까지 두피 환경 전반을 고려해 제품을 구성했으며, 성장 활성, 모낭 영양, 모발 탄력, 수분 밸런스, 흡수·전달​로",
+ "published_at": "2026-10-13T09:30:09+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "트리코닉스",
+   "TRICONIX"
+  ],
+  "companies": [
+   "컨셉인",
+   "뉴셀렉트"
+  ],
+  "keywords": [
+   "두피 안티에이징",
+   "두피 앰플",
+   "모발 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "스칼프 인퓨전 앰플",
+    "brand": "트리코닉스",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "트리코닉스가 두피와 모발을 함께 관리하는 안티에이징 앰플인 스칼프 인퓨전 앰플을 선보였다.",
+  "key_fact_quote": "컨셉인 산하 뉴셀렉트의 두피·모발 케어 브랜드 트리코닉스(TRICONIX)​가 일상 속 두피와 모발을 함께 관리할 수 있는 ‘스칼프 인퓨전 앰플’​을 선보였다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:57+00:00",
+ "had_body": true
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "4e602f643341ad5c",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/ifra-joins-effci-annual-conference-2026-in-athens",
+ "title": "IFRA joins EFfCI Annual Conference 2026 in Athens",
+ "summary": "IFRA took part in the EFfCI Annual Conference 2026 in Athens, with a presentation on regulation and innovation and a place on the conference’s ​ ‘ Four Musketeers’ panel on global and regional harmonization and dialogue between policymakers and industry.",
+ "published_at": "2026-09-30T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "GR"
+  ],
+  "brands": [],
+  "companies": [
+   "IFRA",
+   "EFfCI"
+  ],
+  "keywords": [
+   "향료 규제",
+   "글로벌 조화",
+   "화장품 원료 컨퍼런스",
+   "산업 정책 대화"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "국제향료협회가 아테네에서 열린 화장품 원료 협회 연례 컨퍼런스에 참가하여 규제와 혁신을 발표하고 글로벌 조화 패널 토론에 참여했다.",
+  "key_fact_quote": "IFRA took part in the EFfCI Annual Conference 2026 in Athens, with a presentation on regulation and innovation and a place on the conference’s ​ ‘ Four Musketeers’ panel on global and regional harmonization and dialogue between policymakers and industry.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:28+00:00",
+ "had_body": false
+}

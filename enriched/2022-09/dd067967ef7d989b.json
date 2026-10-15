@@ -1,0 +1,39 @@
+{
+ "doc_id": "dd067967ef7d989b",
+ "source": "eu_cosmetics_reg",
+ "source_name": "EU 화장품 규정 1223/2009 개정",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1531",
+ "title": "Commission Regulation (EU) 2022/1531 of 15 September 2022 amending Regulation (EC) No 1223/2009 of the European Parliament and of the Council as regards the use in cosmetic products of certain substances classified as carcinogenic, mutagenic or toxic for reproduction and correcting that Regulation (Text with EEA relevance)",
+ "summary": "",
+ "published_at": "2022-09-15T09:00:00+09:00",
+ "date_source": "cellar",
+ "evidence_grade": "official",
+ "query": null,
+ "doc_type": null,
+ "celex": "32022R1531",
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 규정",
+   "생식독성 물질",
+   "발암성 물질",
+   "화장품 성분 규제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유럽연합 집행위원회는 발암성, 변이원성 또는 생식독성으로 분류된 특정 물질의 화장품 내 사용과 관련하여 화장품 규정을 개정하였다.",
+  "key_fact_quote": "Commission Regulation (EU) 2022/1531 of 15 September 2022 amending Regulation (EC) No 1223/2009 of the European Parliament and of the Council as regards the use in cosmetic products of certain substances classified as carcinogenic, mutagenic or toxic for reproduction and correcting that Regulation (Text with EEA relevance)",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:58+00:00",
+ "had_body": false
+}

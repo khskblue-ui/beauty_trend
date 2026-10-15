@@ -1,0 +1,41 @@
+{
+ "doc_id": "4428b8ef9f515821",
+ "source": "mfds_press",
+ "source_name": "식약처 보도자료",
+ "group": "regulation",
+ "lang": "ko",
+ "url": "https://www.mfds.go.kr/brd/m_99/view.do?seq=50388",
+ "title": "[보도참고] ’25년 화장품 안전성 정보 보고 사례 발표",
+ "summary": "",
+ "published_at": "2026-10-01T07:58:29+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "식품의약품안전처"
+  ],
+  "keywords": [
+   "화장품 안전성",
+   "안전성 정보 보고"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "식약처에서 화장품 안전성 정보 보고 사례를 발표했다.",
+  "key_fact_quote": "[보도참고] ’25년 화장품 안전성 정보 보고 사례 발표",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:23+00:00",
+ "had_body": false
+}

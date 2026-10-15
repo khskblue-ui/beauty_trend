@@ -1,0 +1,41 @@
+{
+ "doc_id": "623dc5777a82b0e9",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/medias/company-news/2011/assemblee-generale-annuelle-2011",
+ "title": "Assemblée générale annuelle 2011",
+ "summary": "Genève, le 24 mars 2011 | L'assemblée générale annuelle de Givaudan SA, leader mondial des arômes et de la parfumerie, s'est tenue le 24 mars 2011. AGM 2011 EN.pdf AGM 2011 DE.pdf AGM 2011 FR.pdf",
+ "published_at": "2011-03-24T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "CH"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "향료 기업",
+   "정기 주총"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "향료 및 향수 기업 지보단이 연례 정기 주주총회를 개최했다.",
+  "key_fact_quote": "L'assemblée générale annuelle de Givaudan SA, leader mondial des arômes et de la parfumerie, s'est tenue le 24 mars 2011.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:15+00:00",
+ "had_body": false
+}

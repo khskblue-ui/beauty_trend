@@ -1,0 +1,53 @@
+{
+ "doc_id": "430689126fb7d367",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53702",
+ "title": "스몰랩, APS이노베이션서 33억원 투자 유치",
+ "summary": "스몰랩(대표 이정규)이 APS이노베이션으로부터 33억원 규모의 투자를 유치했다. 이번 투자로 APS이노베이션은 스몰랩 지분 7.2%를 확보했다. 용해성 마이크로니들 전문 기업 스몰랩(SMALLLAB)은 APS이노베이션과 손잡고 생산설비를 보강하고, 글로벌 영업망을 확장할 전략이다. APS이노베이션(…",
+ "published_at": "2026-10-14T17:48:55+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "CA",
+   "CN",
+   "VN",
+   "ID"
+  ],
+  "brands": [
+   "ELDEEN"
+  ],
+  "companies": [
+   "스몰랩",
+   "APS이노베이션",
+   "이래",
+   "이레엔지니어링"
+  ],
+  "keywords": [
+   "용해성 마이크로니들",
+   "마이크로니들 패치",
+   "화장품 충진 포장",
+   "화장품 OEM"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "용해성 마이크로니들 전문 기업 스몰랩이 에이피에스이노베이션으로부터 투자를 유치하고 생산설비 보강과 글로벌 영업망 확장에 나선다.",
+  "key_fact_quote": "스몰랩(대표 이정규)이 APS이노베이션으로부터 33억원 규모의 투자를 유치했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:51+00:00",
+ "had_body": true
+}

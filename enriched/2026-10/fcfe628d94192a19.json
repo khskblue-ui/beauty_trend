@@ -1,0 +1,41 @@
+{
+ "doc_id": "fcfe628d94192a19",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/ifra-global-fragrance-summit-2027-super-early-bird",
+ "title": "Register by 9 October for 10 % off the IFRA Global Fragrance Summit 2027",
+ "summary": "Registration is open for the IFRA Global Fragrance Summit 2027 , which takes place at The St. Regis Mumbai, India, on 23 – 24 June 2027 . Register by Friday, 9 October 2026 and save 10 % with the super-early-bird code GFS 27 -SUPEREARLY .",
+ "published_at": "2026-10-06T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "IN"
+  ],
+  "brands": [],
+  "companies": [
+   "IFRA"
+  ],
+  "keywords": [
+   "글로벌 향료 서밋",
+   "향료 산업 행사"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "국제향료협회가 인도 뭄바이에서 개최되는 글로벌 향료 서밋의 조기 등록 접수를 시작했다.",
+  "key_fact_quote": "Registration is open for the IFRA Global Fragrance Summit 2027 , which takes place at The St. Regis Mumbai, India, on 23 – 24 June 2027 .",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:26+00:00",
+ "had_body": false
+}

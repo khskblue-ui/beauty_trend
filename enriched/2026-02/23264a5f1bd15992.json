@@ -1,0 +1,41 @@
+{
+ "doc_id": "23264a5f1bd15992",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/american-authorities-closing-ongoing-antitrust-investigation-against-symrise/",
+ "title": "American Authorities closing ongoing Antitrust Investigation against Symrise",
+ "summary": "",
+ "published_at": "2026-02-09T20:16:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "Symrise"
+  ],
+  "keywords": [
+   "반독점 조사",
+   "규제 종결"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "미국 당국이 심라이즈를 상대로 진행 중이던 반독점 조사를 종결한다.",
+  "key_fact_quote": "American Authorities closing ongoing Antitrust Investigation against Symrise",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:31+00:00",
+ "had_body": false
+}

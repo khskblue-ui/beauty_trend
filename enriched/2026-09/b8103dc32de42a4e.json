@@ -1,0 +1,53 @@
+{
+ "doc_id": "b8103dc32de42a4e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764171",
+ "title": "피죤, 디퓨저 3종 리뉴얼…용량 200mL→500mL 2.5배 확대",
+ "summary": "사탕수수에서 추출한 에탄올을 사용했으며 글로벌 향료회사 전문 조향사 와 공동 개발한 향료를 적용했다. 국제향료협회(IFRA) 기준을 준수했으며 폼알데하이드와 메탄올, 글리옥살 등 유해 성분에 대한 불검출 시험도...",
+ "published_at": "2026-09-17T18:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피죤"
+  ],
+  "companies": [
+   "피죤"
+  ],
+  "keywords": [
+   "디퓨저",
+   "실내 방향제",
+   "향료 개발"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "디퓨저",
+    "brand": "피죤",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "피죤이 용량을 대폭 늘리고 전문 조향사와 개발한 향료를 적용한 디퓨저를 새롭게 선보였다.",
+  "key_fact_quote": "피죤, 디퓨저 3종 리뉴얼…용량 200mL→500mL 2.5배 확대",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:57+00:00",
+ "had_body": false
+}

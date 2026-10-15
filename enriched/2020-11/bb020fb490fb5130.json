@@ -1,0 +1,40 @@
+{
+ "doc_id": "bb020fb490fb5130",
+ "source": "eu_cosmetics_reg",
+ "source_name": "EU 화장품 규정 1223/2009 개정",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R1682",
+ "title": "Commission Regulation (EU) 2020/1682 of 12 November 2020 amending Annex III to Regulation (EC) No 1223/2009 of the European Parliament and of the Council on cosmetic products (Text with EEA relevance)",
+ "summary": "",
+ "published_at": "2020-11-12T09:00:00+09:00",
+ "date_source": "cellar",
+ "evidence_grade": "official",
+ "query": null,
+ "doc_type": null,
+ "celex": "32020R1682",
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "EU"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 규정",
+   "규제 개정",
+   "화장품 성분 규제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유럽연합 집행위원회가 화장품 규정 부속서를 개정하는 규정을 공포했다.",
+  "key_fact_quote": "Commission Regulation (EU) 2020/1682 of 12 November 2020 amending Annex III to Regulation (EC) No 1223/2009 of the European Parliament and of the Council on cosmetic products",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:11+00:00",
+ "had_body": false
+}

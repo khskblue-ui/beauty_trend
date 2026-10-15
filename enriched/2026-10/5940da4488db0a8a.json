@@ -1,0 +1,72 @@
+{
+ "doc_id": "5940da4488db0a8a",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312040",
+ "title": "3분기 티몰 K-뷰티 에센스 분석⑧: 판매량 37.4% 증가하며 회복세",
+ "summary": "[편집자 주] 뷰티경제는 2019년부터 중국 티몰 한국관 내 K뷰티 주요 품목의 판매 데이터를 지속적으로 추적·분석하고 있다. 매월 마스크팩, 선케어, 에센스, 크림 등 주요 카테고리의 판매 동향을 통해 중국 시장의 변화와 소비 트렌드를 진단한다.이번 기사에서는 2026년 3분기와 9월 티몰 한국관 에센스 시장의 판매 현황과 브랜드별 성과, 시장 변화 양상을 분석했다.■ K뷰티 에센스, 3분기 판매량 37.4% 증가중국 티몰 K뷰티 에센스 시장이 회복세를 나타냈다.본지가 티몰 내 K뷰티 에센스 톱 10 판매량을 분석한 결과, 202",
+ "published_at": "2026-10-13T14:40:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [
+   "토리든",
+   "라운드랩",
+   "스킨1004",
+   "아누아",
+   "나인위시스",
+   "브이티",
+   "달바",
+   "구달",
+   "아이소이",
+   "코스알엑스"
+  ],
+  "companies": [
+   "티몰"
+  ],
+  "keywords": [
+   "에센스",
+   "세럼",
+   "기능성 에센스",
+   "피부 장벽 케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "청귤 비타씨 잡티 케어 세럼",
+    "brand": "구달",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "블레미쉬 케어 업 세럼",
+    "brand": "아이소이",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "중국 티몰 내 한국 뷰티 에센스 시장이 판매량 증가세를 보이며 회복 흐름을 나타냈다.",
+  "key_fact_quote": "중국 티몰 K뷰티 에센스 시장이 회복세를 나타냈다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:09:10+00:00",
+ "had_body": true
+}

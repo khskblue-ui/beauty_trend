@@ -1,0 +1,44 @@
+{
+ "doc_id": "0d511b597df28f14",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/skin-care/gauge-capital-acquires-self-tanning-saltyface-1239345228/",
+ "title": "Gauge Capital Acquires Self-Tanning Brand Saltyface",
+ "summary": "Private equity firm Gauge Capital plans to expand Vancouver-based Saltyface’s reach and product offerings.",
+ "published_at": "2026-10-14T01:53:40+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "business",
+  "countries": [
+   "CA"
+  ],
+  "brands": [
+   "Saltyface"
+  ],
+  "companies": [
+   "Gauge Capital"
+  ],
+  "keywords": [
+   "셀프 태닝",
+   "사모펀드 인수",
+   "브랜드 확장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "사모펀드 운용사가 셀프 태닝 브랜드를 인수하여 제품군과 시장 확장을 추진한다.",
+  "key_fact_quote": "Private equity firm Gauge Capital plans to expand Vancouver-based Saltyface’s reach and product offerings.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:09:14+00:00",
+ "had_body": false
+}

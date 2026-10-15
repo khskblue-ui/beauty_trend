@@ -1,0 +1,41 @@
+{
+ "doc_id": "66259623598824f6",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/media/media-releases/2015/givaudan-acquires-induchem",
+ "title": "Givaudan rachète Induchem",
+ "summary": "Poursuit le développement de son activité d'ingrédients cosmétiques actifs fondés sur la science Givaudan a annoncé aujourd’hui avoir acquis 100% des acti GIV_2015_aci_EN.pdf GIV_2015_aci_FR.pdf GIV_2015_aci_GE.pdf",
+ "published_at": "2015-08-31T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Givaudan",
+   "Induchem"
+  ],
+  "keywords": [
+   "화장품 활성 성분",
+   "기업 인수",
+   "원료 사업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단이 과학 기반 화장품 활성 성분 사업을 확장하기 위해 인두켐을 인수한다고 발표했다.",
+  "key_fact_quote": "Givaudan rachète Induchem Poursuit le développement de son activité d'ingrédients cosmétiques actifs fondés sur la science",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:23+00:00",
+ "had_body": false
+}

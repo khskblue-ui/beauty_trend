@@ -1,0 +1,51 @@
+{
+ "doc_id": "8e44fc522451941d",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/lvmh-sales-edge-higher-boosted-by,28339",
+ "title": "LVMH sales edge higher boosted by Sephora and jewelry, despite fashion slide",
+ "summary": "LVMH, the world's leading luxury group, said on Monday, October 13, its sales edged higher in the third quarter despite a slowdown in China hitting its fashion and leather goods segment. The group, whose brands include Louis Vuitton, Dior, Celine and drinks maker Hennessy, took in 18.5 billion euros (US$20.6 billion) in the three months to the end of September, beating the consensus of analysts polled by Factset financial data firm. The 1.2 percent sales gain beat the marginal 0.1 percent... - Industry buzz",
+ "published_at": "2026-10-13T06:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "CN",
+   "FR"
+  ],
+  "brands": [
+   "Louis Vuitton",
+   "Dior",
+   "Celine",
+   "Hennessy",
+   "Sephora"
+  ],
+  "companies": [
+   "LVMH",
+   "L'Oréal",
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "뷰티 유통",
+   "향수 화장품 실적",
+   "선택적 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "엘브이엠에이치는 패션 및 가죽 제품 부문의 부진에도 불구하고 세포라가 포함된 유통 부문과 주얼리 사업의 성장에 힘입어 분기 매출이 소폭 증가했다고 밝혔다.",
+  "key_fact_quote": "LVMH, the world's leading luxury group, said on Monday, October 13, its sales edged higher in the third quarter despite a slowdown in China hitting its fashion and leather goods segment.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:04+00:00",
+ "had_body": true
+}

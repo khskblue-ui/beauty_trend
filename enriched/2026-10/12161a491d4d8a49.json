@@ -1,0 +1,44 @@
+{
+ "doc_id": "12161a491d4d8a49",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312134",
+ "title": "China's K-Beauty Essence Market Rebounds as Competition Broadens",
+ "summary": "China\\'s K-beauty essence market showed signs of recovery in the third quarter of 2026, supported by improving sales and a more diversified competitive landscape.An analysis of the top-selling K-beauty essence products on Tmall found that third-quarter sales increased from 20,600 units in 2025 to 28,",
+ "published_at": "2026-10-14T15:40:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Tmall"
+  ],
+  "keywords": [
+   "에센스 시장",
+   "피부 장벽 케어",
+   "기능성 스킨케어",
+   "보습 진정"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 내 한국산 에센스 시장이 판매량 개선과 경쟁 다각화에 힘입어 회복세를 보이고 있다.",
+  "key_fact_quote": "China's K-beauty essence market showed signs of recovery in the third quarter of 2026, supported by improving sales and a more diversified competitive landscape.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:46+00:00",
+ "had_body": true
+}

@@ -1,0 +1,97 @@
+{
+ "doc_id": "b5f0a090decaea07",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53662",
+ "title": "후르디아, ‘2026 뷰티월드 두바이’ 참가",
+ "summary": "후르디아가 6일부터 8일까지 두바이 월드트레이드센터에서 열린 ‘2026 뷰티월드 두바이’에 참가했다. 올해 30주년을 맞은 뷰티월드 두바이(Beautyworld Dubai)는 글로벌 브랜드가 모여 제품과 기술력을 선보이는 B2B 비즈니스 박람회다. 올해는 스킨케어·메이크업·향수 브랜드가 다양하게…",
+ "published_at": "2026-10-08T10:11:31+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "AE",
+   "KR",
+   "HK"
+  ],
+  "brands": [
+   "후르디아",
+   "FRUDIA"
+  ],
+  "companies": [
+   "웰코스"
+  ],
+  "keywords": [
+   "비건 뷰티",
+   "롱제비티",
+   "뷰티 박람회",
+   "스킨케어 루틴"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "레티날 B3 엑소 레드 360˚ 볼륨 샷 텐션 마스크",
+    "brand": "후르디아",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "글로우쥬시잼",
+    "brand": "후르디아",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "블러리버터잼",
+    "brand": "후르디아",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "레티날 B3 엑소 레드 버블 팩 부스터",
+    "brand": "후르디아",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "레티날 B3 엑소 레드 360° 볼륨 샷 앰플",
+    "brand": "후르디아",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "레티날 B3 엑소 레드 360° 볼륨 샷 크림",
+    "brand": "후르디아",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "후르디아가 두바이에서 열린 뷰티월드 두바이에 참가해 단독 부스를 열고 신규 스킨케어 라인을 포함한 제품들을 선보이며 글로벌 바이어 상담을 진행했다.",
+  "key_fact_quote": "후르디아가 6일부터 8일까지 두바이 월드트레이드센터에서 열린 ‘2026 뷰티월드 두바이’에 참가했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:33+00:00",
+ "had_body": true
+}

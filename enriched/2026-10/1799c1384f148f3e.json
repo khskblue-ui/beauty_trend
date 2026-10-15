@@ -1,0 +1,41 @@
+{
+ "doc_id": "1799c1384f148f3e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10902240?ref=naver",
+ "title": "“반도체 다음은 서비스산업”…‘관광· K - 뷰티 ’ 집중 육성",
+ "summary": "또 수출 1조달러 시대에 걸맞은 비즈니스 플랫폼을 구축하기 위해 2030년까지 국가·지역 대표 전시회를 5개... 또 재경부는 ‘AI·융복합 K - 뷰티 서비스 지원 방안’을 발표했다. 방안의 골자는 대한화장품산업연구원이...",
+ "published_at": "2026-10-14T11:33:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원"
+  ],
+  "keywords": [
+   "융복합 뷰티",
+   "서비스 산업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부가 서비스산업 육성을 위해 케이뷰티 서비스 지원 방안을 발표했다.",
+  "key_fact_quote": "또 재경부는 ‘AI·융복합 K - 뷰티 서비스 지원 방안’을 발표했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:46+00:00",
+ "had_body": false
+}

@@ -1,0 +1,51 @@
+{
+ "doc_id": "afffbb87a025959e",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/symrise-launches-cellexoratm-md-a-pioneering-healthspan-ingredient-for-premium-skincare/",
+ "title": "Symrise launches Cellexora™ MD, a pioneering healthspan ingredient for premium skincare",
+ "summary": "‒ Next‑generation plant‑derived true exosomes supporting long‑term skin regeneration, resilience, and vitality ‒ 100% natural origin ingredient combining scientific rigor with exceptional stability and reproducibility ‒ Responsibly upcycled from organic Italian apple side streams via a clean, traceable and sustainable process ‒ This new cosmetic ingredient joins the portfolio of Symrise's holistic care platform Care & Wellness",
+ "published_at": "2026-03-31T22:01:12+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "IT"
+  ],
+  "brands": [],
+  "companies": [
+   "Symrise"
+  ],
+  "keywords": [
+   "스킨케어 원료",
+   "식물 유래 엑소좀",
+   "업사이클링 원료"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Cellexora™ MD",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "심라이즈는 유기농 이탈리아 사과 부산물을 업사이클링하여 피부 재생과 탄력을 돕는 프리미엄 스킨케어 원료를 출시했다.",
+  "key_fact_quote": "Symrise launches Cellexora™ MD, a pioneering healthspan ingredient for premium skincare",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:28+00:00",
+ "had_body": false
+}

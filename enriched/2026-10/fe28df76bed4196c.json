@@ -1,0 +1,43 @@
+{
+ "doc_id": "fe28df76bed4196c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10902675?ref=naver",
+ "title": "코트라 ‘ K - 뷰티 글로벌 수출 상담회’…역대 최대 ‘60개국·220개사’ ...",
+ "summary": "오는 17일까지 사흘간 열리는 ‘2026 K - 뷰티 엑스포 코리아’와 연계한 행사로, K - 뷰티 의 수출 시장과 품목을 다변화하기 위해 킨텍스와 함께 마련했다. 이번 상담회에는 역대 최대 규모인 60개국 220여 개사의 해외 구매처가...",
+ "published_at": "2026-10-15T06:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코트라",
+   "킨텍스"
+  ],
+  "keywords": [
+   "뷰티 엑스포",
+   "수출 상담회",
+   "수출 시장 다변화"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코트라가 킨텍스와 함께 해외 구매처를 초청하여 역대 최대 규모의 뷰티 수출 상담회를 마련했다.",
+  "key_fact_quote": "이번 상담회에는 역대 최대 규모인 60개국 220여 개사의 해외 구매처가...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:28+00:00",
+ "had_body": false
+}

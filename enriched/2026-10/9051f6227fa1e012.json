@@ -1,0 +1,42 @@
+{
+ "doc_id": "9051f6227fa1e012",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100103",
+ "title": "코스메카코리아, 국내 최초 ISO 37002 도입",
+ "summary": "글로벌 화장품 OGM(글로벌 규격 생산) 전문기업 코스메카코리아(대표이사 조임래·박은희)가 국내 최초로 ISO 37002(내부신고 경영시스템) 검증을 도입했다고 8일 밝혔다.ISO 37002는 조직 내 부정행위와 법규·윤리 위반에 대한 신고를 안전하게 접수·처리하기 위한 국제 가이드라인으로, 신고 접수부터 평가·조사, 신고자 보호, 사후관리까지 전 과정의 관리 기준을 제시한다. 이번 도입은 제보 채널 운영을 넘어, 제보 이후의 처리 과정 전반을 회사의 공식 관리체계로 구축했다는 데 의미가 있다.코스메카코리아는 기존 제도를 전면 점검",
+ "published_at": "2026-10-12T09:00:39+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스메카코리아"
+  ],
+  "keywords": [
+   "내부신고 경영시스템",
+   "윤리경영",
+   "준법경영"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스메카코리아가 국내 최초로 내부신고 경영시스템 검증을 도입하며 조직 내 비윤리 행위 예방 및 신고자 보호 체계를 구축했다.",
+  "key_fact_quote": "글로벌 화장품 OGM(글로벌 규격 생산) 전문기업 코스메카코리아(대표이사 조임래·박은희)가 국내 최초로 ISO 37002(내부신고 경영시스템) 검증을 도입했다고 8일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:09+00:00",
+ "had_body": true
+}

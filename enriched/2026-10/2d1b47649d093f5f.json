@@ -1,0 +1,49 @@
+{
+ "doc_id": "2d1b47649d093f5f",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312220",
+ "title": "중국 광군절 개막 임박… 할인 간소화·장기 행사로 소비 경쟁 본격화",
+ "summary": "중국 최대 온라인 쇼핑 축제인 ‘솽스이(双11·광군절)’가 개막을 앞두고 있다.중국 주요 전자상거래 플랫폼인 타오바오와 티몰은 최근 올해 행사 일정과 판매자 모집 규정을 공개했다. 올해는 행사 기간이 확대된 가운데 할인 방식을 단순화한 것이 주요 특징으로 꼽힌다.특히 플랫폼은 기존 복합 할인 방식 대신 소비자가 구매 즉시 혜택을 받을 수 있는 ‘공식 즉시 할인(官方立减)’을 핵심 프로모션으로 도입했다. 이에 따라 하반기 최대 소비 성수기를 앞두고 화장품을 비롯한 주요 소비재 브랜드들의 마케팅 경쟁도 본격화될 전망이다.10월 15일",
+ "published_at": "2026-10-14T16:51:28+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "타오바오",
+   "티몰",
+   "징둥",
+   "JD.com",
+   "더우인",
+   "Douyin"
+  ],
+  "keywords": [
+   "온라인 쇼핑 축제",
+   "전자상거래 플랫폼",
+   "라이브커머스",
+   "스킨케어 세트",
+   "기능성 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 광군절을 앞두고 주요 전자상거래 플랫폼들이 할인 방식을 단순화하고 행사 기간을 확대한 가운데 화장품 업계의 판촉 경쟁이 본격화되고 있다.",
+  "key_fact_quote": "중국 최대 온라인 쇼핑 축제인 ‘솽스이(双11·광군절)’가 개막을 앞두고 있다.중국 주요 전자상거래 플랫폼인 타오바오와 티몰은 최근 올해 행사 일정과 판매자 모집 규정을 공개했다. 올해는 행사 기간이 확대된 가운데 할인 방식을 단순화한 것이 주요 특징으로 꼽힌다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:44+00:00",
+ "had_body": true
+}

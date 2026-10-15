@@ -1,0 +1,58 @@
+{
+ "doc_id": "43b0bf02d5878c29",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=770894",
+ "title": "에따 리브르 도랑쥬, 20주년 맞이 향수→프란시스 커정, 바디·헤어 케어...",
+ "summary": "조향사 니스린 그릴리가 완성한 향은 만다린과 핑크 페퍼로 시작해 피치, 오스만투스, 자스민 삼박으로 이어진다. 마지막에는 시더와 스티락스, 벤조인이 깊은 잔향을 남긴다. 패키지에도 '착시와 변화' 콘셉트를 적용했다....",
+ "published_at": "2026-10-04T08:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "에따 리브르 도랑쥬",
+   "프란시스 커정"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "향수 신제품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "20주년 맞이 향수",
+    "brand": "에따 리브르 도랑쥬",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "만다린",
+     "핑크 페퍼",
+     "피치",
+     "오스만투스",
+     "자스민 삼박",
+     "시더",
+     "스티락스",
+     "벤조인"
+    ],
+    "notes_quote": "조향사 니스린 그릴리가 완성한 향은 만다린과 핑크 페퍼로 시작해 피치, 오스만투스, 자스민 삼박으로 이어진다. 마지막에는 시더와 스티락스, 벤조인이 깊은 잔향을 남긴다."
+   }
+  ],
+  "key_fact": "에따 리브르 도랑쥬가 다양한 노트를 조합한 기념 향수를 선보인다.",
+  "key_fact_quote": "에따 리브르 도랑쥬, 20주년 맞이 향수→프란시스 커정, 바디·헤어 케어...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:47+00:00",
+ "had_body": false
+}

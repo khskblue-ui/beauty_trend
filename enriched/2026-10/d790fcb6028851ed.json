@@ -1,0 +1,43 @@
+{
+ "doc_id": "d790fcb6028851ed",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367187",
+ "title": "한국콜마, K뷰티 선케어 타고 북미 공략…현지 생산기지 수익화 '관건'",
+ "summary": "미국이 K뷰티 기초화장품을 수출 할 주요 거점으로 부상한 가운데 한국콜마는 선제적으로 미국 현지에서... 한국콜마와 구다이글로벌이 공동 개발한 선케어 제품들의 누적 판매는 1억개를 돌파하며 K -선케어 제품을...",
+ "published_at": "2026-10-14T17:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마",
+   "구다이글로벌"
+  ],
+  "keywords": [
+   "선케어",
+   "기초화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국콜마가 케이뷰티 선케어 인기에 힘입어 미국 현지 생산기지를 통해 북미 시장 공략에 나서고 있다.",
+  "key_fact_quote": "미국이 K뷰티 기초화장품을 수출 할 주요 거점으로 부상한 가운데 한국콜마는 선제적으로 미국 현지에서... 한국콜마와 구다이글로벌이 공동 개발한 선케어 제품들의 누적 판매는 1억개를 돌파하며 K -선케어 제품을...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:34+00:00",
+ "had_body": false
+}

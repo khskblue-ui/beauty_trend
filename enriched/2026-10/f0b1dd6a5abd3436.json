@@ -1,0 +1,44 @@
+{
+ "doc_id": "f0b1dd6a5abd3436",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244386",
+ "title": "인도 남부 IT 허브가 이끄는 미용·퍼스널케어(BPC) 트렌드와 K뷰티",
+ "summary": "고급 향료 는 프랑스, 독일 등 유럽, 미국 등에서 고단가로 수입, 프리미엄으로 포지셔닝 [자료: Global Trade Atals(2026.9.2.)] 「디지털 리터러시(Digital Literacy)」 - 검색에서 구매까지 바로 이어지는 높은 구매전환율...",
+ "published_at": "2026-10-12T12:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "IN",
+   "FR",
+   "DE",
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "미용 및 퍼스널케어",
+   "고급 향료",
+   "케이뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인도 남부 지역을 중심으로 고급 향료를 서구권에서 고가로 수입해 프리미엄으로 포지셔닝하고 있다.",
+  "key_fact_quote": "고급 향료 는 프랑스, 독일 등 유럽, 미국 등에서 고단가로 수입, 프리미엄으로 포지셔닝",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:31+00:00",
+ "had_body": false
+}

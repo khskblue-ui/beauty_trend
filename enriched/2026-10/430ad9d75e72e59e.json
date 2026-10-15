@@ -1,0 +1,48 @@
+{
+ "doc_id": "430ad9d75e72e59e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523658",
+ "title": "동화약품, 다이소서 '흔적 리페어' 제품 5종 출시 … 스킨케어 시장 공략...",
+ "summary": "[홍보팀] 동화약품이 피부 장벽 관리에 이어 피부 흔적과 색소침착 관리에 초점을 맞춘 신제품 을 출시 하며 뷰티 시장 제품군 확대에 나섰다. 14일 동화약품은 퍼스트 더마 브랜드 '후시덤(FUSIDERM)'의 신규 제품군인 '흔적...",
+ "published_at": "2026-10-14T10:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "후시덤",
+   "FUSIDERM"
+  ],
+  "companies": [
+   "동화약품",
+   "다이소"
+  ],
+  "keywords": [
+   "스킨케어",
+   "흔적 리페어",
+   "더마 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "동화약품이 퍼스트 더마 브랜드 후시덤의 신규 제품군을 선보이며 뷰티 시장 확대에 나섰다.",
+  "key_fact_quote": "동화약품이 피부 장벽 관리에 이어 피부 흔적과 색소침착 관리에 초점을 맞춘 신제품 을 출시 하며 뷰티 시장 제품군 확대에 나섰다.",
+  "dropped": [
+   "product:흔적 리페어 제품"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:22+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "f8c72592eff19182",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53701",
+ "title": "관세청, 화장품·문구·굿즈 위조품 28만개 적발",
+ "summary": "관세청이 8월부터 9월까지 두 달 동안 위조상품 28만개를 적발했다. 관세청(청장 이종욱)은 8월 3일부터 9월 30일까지 전국 34개 세관에서 ‘지식재산권 침해물품 집중단속기간’을 운영했다. 이 기간 국내로 들어오려던 위조상품 28만,733점을 통관단계에서 적발해 차단했다고 밝혔다. 이번에 적발된 위…",
+ "published_at": "2026-10-14T17:17:32+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수",
+   "달바",
+   "AHC"
+  ],
+  "companies": [],
+  "keywords": [
+   "위조상품 단속",
+   "지식재산권 침해",
+   "해외직구",
+   "위조 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "관세청이 집중단속기간 동안 화장품을 포함한 대규모 위조상품을 적발하고 단속을 강화하겠다고 밝혔다.",
+  "key_fact_quote": "이 기간 국내로 들어오려던 위조상품 28만,733점을 통관단계에서 적발해 차단했다고 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:52+00:00",
+ "had_body": true
+}

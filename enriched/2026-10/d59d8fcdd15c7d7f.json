@@ -1,0 +1,51 @@
+{
+ "doc_id": "d59d8fcdd15c7d7f",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58490",
+ "title": "유럽연합(EU) 포장재 규정, 유럽 21개국별 수출기업 대응법 한눈에",
+ "summary": "[코스인코리아닷컴 김민석 기자]2026년 8월 12일부터 유럽연합(EU)의 '포장 및 포장 폐기물 규정(PPWR)'이 본격 적용됨에 따라 수출 및 제조기업에 광범위한 영향이 예상되는 가운데, 실무 대응 지침서가 나왔다. 코트라(KOTRA)는 10월 12일 포장 및 포장 폐기물 규정(PPWR) 대응 지원을 위해 ‘유…",
+ "published_at": "2026-10-13T10:25:15+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "DE",
+   "AT",
+   "ES",
+   "HU",
+   "HR",
+   "FR",
+   "GB",
+   "CZ"
+  ],
+  "brands": [],
+  "companies": [
+   "KOTRA"
+  ],
+  "keywords": [
+   "포장 및 포장 폐기물 규정",
+   "확대생산자책임제도",
+   "친환경 포장",
+   "수출 규제"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "유럽연합의 포장 및 포장 폐기물 규정 본격 적용에 대응하여 코트라가 유럽 주요국별 시행 현황과 실무 대응 지침서를 발간했다.",
+  "key_fact_quote": "코트라(KOTRA)는 10월 12일 포장 및 포장 폐기물 규정(PPWR) 대응 지원을 위해 ‘유럽연합(EU) 포장 및 포장 폐기물 규정(PPWR) 국별 시행 현황(확대생산자책임제도(EPR)를 중심으로)’ 보고서를 발간했다고 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:25+00:00",
+ "had_body": true
+}

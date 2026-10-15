@@ -1,0 +1,58 @@
+{
+ "doc_id": "14a514f107090672",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1414252",
+ "title": "[신상브리핑] 도미노피자, 삼립, 동서식품, 농심, 롯데웰푸드, CU, 세븐일...",
+ "summary": "활용한 신제품 '블랙 트러플치즈 버거'를 출시한다. 이번 신제품 은 트러플 번, 트러플 치즈, 트러플 소스를... 13일부터 빼빼로 책갈피와 패치워크 카드지갑, 가나 키링과 이어폰 줄감개 홀더, 짱셔요 향수 ·독서링·도자기...",
+ "published_at": "2026-10-13T14:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "짱셔요"
+  ],
+  "companies": [
+   "도미노피자",
+   "삼립",
+   "동서식품",
+   "농심",
+   "롯데웰푸드",
+   "CU",
+   "세븐일레븐"
+  ],
+  "keywords": [
+   "캐릭터 굿즈",
+   "콜라보레이션 향수"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "짱셔요 향수",
+    "brand": "짱셔요",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "식품 및 유통 업계의 신제품 브리핑 중 짱셔요 향수 등의 굿즈 상품이 소개되었다.",
+  "key_fact_quote": "13일부터 빼빼로 책갈피와 패치워크 카드지갑, 가나 키링과 이어폰 줄감개 홀더, 짱셔요 향수 ·독서링·도자기...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:17+00:00",
+ "had_body": false
+}

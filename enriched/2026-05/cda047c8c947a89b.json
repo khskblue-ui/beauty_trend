@@ -1,0 +1,52 @@
+{
+ "doc_id": "cda047c8c947a89b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202605290550&t=NN",
+ "title": "뷰티 브랜드 ‘쿠오카(KUOCA)’, 서촌 플래그십 스토어 오픈",
+ "summary": "라이프스타일 뷰티 브랜드 쿠오카(KUOCA)가 성수 플래그십 스토어, 더현대 서울 스토어에 이어 서울 종로구... 이와 함께 유영국 화백의 대표작을 모티브로 한 ‘ 프레그런스 태그(FRAGRANCE TAG)’ 2종도 함께 출시된다....",
+ "published_at": "2026-05-29T17:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "프레그런스 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "쿠오카",
+   "KUOCA"
+  ],
+  "companies": [],
+  "keywords": [
+   "라이프스타일 뷰티",
+   "프레그런스 태그",
+   "플래그십 스토어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "프레그런스 태그(FRAGRANCE TAG)",
+    "brand": "쿠오카",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 브랜드 쿠오카가 서촌에 플래그십 스토어를 열고 프레그런스 태그 신제품을 선보인다.",
+  "key_fact_quote": "뷰티 브랜드 ‘쿠오카(KUOCA)’, 서촌 플래그십 스토어 오픈",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:53+00:00",
+ "had_body": false
+}

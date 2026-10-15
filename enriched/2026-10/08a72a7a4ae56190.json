@@ -1,0 +1,66 @@
+{
+ "doc_id": "08a72a7a4ae56190",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/eu-okays-kimberly-clark-bid-for,28345",
+ "title": "EU okays Kimberly-Clark bid for Neutrogena-owner Kenvue",
+ "summary": "The European Union on Tuesday, October 13, approved US consumer goods giant Kimberly-Clark USD 48.7-billion purchase of major health company Kenvue after it agreed to divest feminine hygiene brands in Europe to keep them affordable. Texas-based Kimberly-Clark manufactures a wide range of paper and fabric-based products, with brands including Huggies, Kleenex and Kotex. Kenvue, meanwhile, owns a broad portfolio of consumer health brands, including Neutrogena, Aveeno, Johnson's Baby, OGX and... - Industry buzz",
+ "published_at": "2026-10-14T15:07:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "CZ",
+   "EE",
+   "SK",
+   "IS",
+   "LI",
+   "NO",
+   "TR"
+  ],
+  "brands": [
+   "Huggies",
+   "Kleenex",
+   "Kotex",
+   "Neutrogena",
+   "Aveeno",
+   "Johnson's Baby",
+   "OGX",
+   "Listerine",
+   "Tylenol",
+   "Zyrtec",
+   "Nicorette",
+   "Lidie",
+   "Camelia",
+   "Record"
+  ],
+  "companies": [
+   "Kimberly-Clark",
+   "Kenvue",
+   "Dilek"
+  ],
+  "keywords": [
+   "기업 인수",
+   "퍼스널 케어",
+   "소비재 기업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유럽연합은 킴벌리클라크가 유럽 내 여성 위생용품 브랜드를 매각하는 조건으로 켄뷰 인수를 승인했다.",
+  "key_fact_quote": "The European Union on Tuesday, October 13, approved US consumer goods giant Kimberly-Clark USD 48.7-billion purchase of major health company Kenvue after it agreed to divest feminine hygiene brands in Europe to keep them affordable.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:59+00:00",
+ "had_body": true
+}

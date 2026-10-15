@@ -1,0 +1,55 @@
+{
+ "doc_id": "5533982772cad5c9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://swtvnews.com/news/newsview.php?ncode=1065587852051154",
+ "title": "‘력셔리 향수에 지드래곤 코드를’…프레데릭 말·피스마이너원, 한정...",
+ "summary": "[사진=에디션 드 퍼퓸 프레데릭 말] 이번 리미티드 에디션은 지난 2000년 세계적 조향사 모리스 루셀이 선보인 브랜드를 대표하는 앰버 계열 향수 ‘뮤스크 라바줴’의 원작 향조를 유지하면서, 피스마이너스원의 감성적...",
+ "published_at": "2026-10-14T13:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프레데릭 말",
+   "피스마이너스원",
+   "에디션 드 퍼퓸 프레데릭 말"
+  ],
+  "companies": [],
+  "keywords": [
+   "리미티드 에디션",
+   "앰버 계열 향수",
+   "협업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "뮤스크 라바줴",
+    "brand": "프레데릭 말",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "앰버"
+    ],
+    "notes_quote": "브랜드를 대표하는 앰버 계열 향수 ‘뮤스크 라바줴’의 원작 향조를 유지하면서"
+   }
+  ],
+  "key_fact": "프레데릭 말이 피스마이너스원과 협업하여 대표 향수 뮤스크 라바줴의 한정판 에디션을 선보인다.",
+  "key_fact_quote": "이번 리미티드 에디션은 지난 2000년 세계적 조향사 모리스 루셀이 선보인 브랜드를 대표하는 앰버 계열 향수 ‘뮤스크 라바줴’의 원작 향조를 유지하면서, 피스마이너스원의 감성적...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:36+00:00",
+ "had_body": false
+}

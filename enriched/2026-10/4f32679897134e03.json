@@ -1,0 +1,56 @@
+{
+ "doc_id": "4f32679897134e03",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53690",
+ "title": "정샘물뷰티, K-베이스로 미국 홀린다",
+ "summary": "정샘물뷰티가 3일부터 4일까지 미국 LA 더그로브 야외광장에서 팝업스토어를 운영했다. 이번 팝업스토어는 정샘물의 미국 세포라 입점을 기념하고, 베이스 메이크업의 전문성을 알리기 위해 마련했다. 정샘물뷰티는 방문객을 대상으로 1:1 맞춤형 퍼스널 쉐이드 매칭 서비스를 제공했다. 피부 톤 진단 후…",
+ "published_at": "2026-10-13T12:29:17+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "정샘물뷰티",
+   "정샘물"
+  ],
+  "companies": [
+   "정샘물뷰티",
+   "세포라"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "베이스 메이크업",
+   "쉐이드 매칭"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "에센셜 스킨 누더 쿠션",
+    "brand": "정샘물뷰티",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "정샘물뷰티가 미국 세포라 입점을 기념해 현지 팝업스토어를 열고 맞춤형 베이스 메이크업을 선보였다.",
+  "key_fact_quote": "정샘물뷰티가 3일부터 4일까지 미국 LA 더그로브 야외광장에서 팝업스토어를 운영했다. 이번 팝업스토어는 정샘물의 미국 세포라 입점을 기념하고, 베이스 메이크업의 전문성을 알리기 위해 마련했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:05+00:00",
+ "had_body": true
+}

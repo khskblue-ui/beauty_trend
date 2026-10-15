@@ -1,0 +1,57 @@
+{
+ "doc_id": "e036f70bf245d856",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58494",
+ "title": "글로벌 화장품용 나노캡슐 시장 24억달러(‘34) 전망... 다기능, 치료·웰빙 솔루션으로 주목",
+ "summary": "[코스인코리아닷컴 김민석 기자]미국 시장조사기관 트랜스페어런시 마켓 리서치(Transparency Market Research, TMR)의 ‘화장품용 나노캡슐 시장(Nanocapsules Market for Cosmetics)’ 보고서에 따르면 시장 규모가 13억 달러(한화 1조 7,420억 원, ’23년)…",
+ "published_at": "2026-10-13T10:55:31+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "DE",
+   "FR",
+   "CH",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "트랜스페어런시 마켓 리서치",
+   "바스프",
+   "로레알",
+   "디에스엠-피르메니히",
+   "클라리언트",
+   "크로다 인터내셔널",
+   "가트포세",
+   "루브리졸",
+   "애쉬랜드",
+   "코보 프로덕츠",
+   "지보단"
+  ],
+  "keywords": [
+   "나노캡슐",
+   "나노코스메슈티컬",
+   "전달 기술",
+   "캡슐화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "글로벌 화장품용 나노캡슐 시장이 활성 성분의 효능을 높이는 다기능 및 치료 지향적 수요 증가에 힘입어 꾸준히 확대될 전망이다.",
+  "key_fact_quote": "미국 시장조사기관 트랜스페어런시 마켓 리서치(Transparency Market Research, TMR)의 ‘화장품용 나노캡슐 시장(Nanocapsules Market for Cosmetics)’ 보고서에 따르면 시장 규모가 13억 달러(한화 1조 7,420억 원, ’23년) → 24억 달러(한화 3조 2,160억 원, ’34년)로 확대되어 연평균 6% 성장할 전망이다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:22+00:00",
+ "had_body": true
+}

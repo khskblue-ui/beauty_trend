@@ -1,0 +1,42 @@
+{
+ "doc_id": "9aff78bcab39edbc",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/focus-science-que-signifie-l-essor,28335",
+ "title": "Focus science : Que signifie l'essor du tourisme esthétique ?",
+ "summary": "Le tourisme esthétique connaît un essor important, porté par la recherche de prix plus abordables, de délais plus courts, voire d'interventions interdites dans certains pays. Toutefois, les complications postopératoires demeurent une source de préoccupation, souligne une étude publiée dans la revue Plastic, Reconstructive & Aesthetic Surgery. L'étude a analysé 58 articles concernant sur 1249 patients ayant subi une intervention de chirurgie esthétique à l'étranger et ayant ensuite été... - Science, R&D",
+ "published_at": "2026-10-12T20:37:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "TR",
+   "DO",
+   "IT"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "의료 관광",
+   "성형외과",
+   "웰니스 관광"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해외 성형 관광의 증가로 인해 수술 후 합병증이 발생하면서 본국 의료 시스템에 상당한 치료 부담을 초래하고 있다는 연구 결과가 발표되었다.",
+  "key_fact_quote": "\"Les complications survenant après une chirurgie esthétique à l’étranger représentent une charge de soins considérable pour les systèmes de santé\", écrivent les chercheurs.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:06+00:00",
+ "had_body": true
+}

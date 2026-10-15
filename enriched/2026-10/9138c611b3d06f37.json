@@ -1,0 +1,62 @@
+{
+ "doc_id": "9138c611b3d06f37",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53663",
+ "title": "Exihibition Report-UAE ‘뷰티월드 두바이 2026’ 현장 스케치",
+ "summary": "UAE ‘뷰티월드 두바이 2026’ 화장품전문지 공동 취재단 중동 지역의 계속되는 불안정과 긴장감 속에서도 K-화장품·뷰티 기업과 글로벌 화장품·뷰티 업계의 두바이 행은 멈춤이 없다. 참가기업과 바이어들 사이에서 현지 상황에 대한 우려가 적지 않았지만 주요 전시관에는 세계 각국의 업계 관계자들…",
+ "published_at": "2026-10-08T10:23:57+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "AE",
+   "KR",
+   "SA",
+   "QA",
+   "KW"
+  ],
+  "brands": [
+   "French Avenue",
+   "Afnan Perfumes",
+   "Lattafa Perfumes",
+   "Armaf"
+  ],
+  "companies": [
+   "(주)코이코",
+   "서울경제진흥원",
+   "Messe Frankfurt",
+   "Life Pharmacy",
+   "Golden Apple",
+   "Givaudan",
+   "dsm-firmenich",
+   "Symrise",
+   "Takasago",
+   "MANE"
+  ],
+  "keywords": [
+   "뷰티 박람회",
+   "K-뷰티",
+   "향료 기업",
+   "롱제비티",
+   "향수 레이어링"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "두바이에서 열린 뷰티월드 두바이 박람회에 많은 글로벌 및 국내 뷰티 기업들과 향료 기업들이 대거 참가해 활발한 비즈니스 교류를 진행했다.",
+  "key_fact_quote": "중동 지역의 계속되는 불안정과 긴장감 속에서도 K-화장품·뷰티 기업과 글로벌 화장품·뷰티 업계의 두바이 행은 멈춤이 없다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:28+00:00",
+ "had_body": true
+}

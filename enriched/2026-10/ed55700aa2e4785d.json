@@ -1,0 +1,60 @@
+{
+ "doc_id": "ed55700aa2e4785d",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/lvmh-en-legere-croissance-porte,28338",
+ "title": "LVMH en légère croissance, porté par Sephora, malgré un repli de la mode",
+ "summary": "Le numéro un mondial du luxe LVMH a publié lundi 13 octobre des ventes en petite hausse au troisième trimestre, portées notamment par la joaillerie et par la distribution sélective, mais son activité phare, la mode et la maroquinerie, s'est inscrite dans le rouge. De juillet à fin septembre, les ventes du propriétaire de Louis Vuitton, Dior, Celine, Moët & Chandon ou encore Hennessy ont atteint 18,5 milliards d'euros, soit une hausse de 1,2%, davantage qu'attendu par un consensus... - Brèves",
+ "published_at": "2026-10-13T05:56:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "CN",
+   "US",
+   "JP"
+  ],
+  "brands": [
+   "Louis Vuitton",
+   "Dior",
+   "Celine",
+   "Moët & Chandon",
+   "Hennessy",
+   "Fendi",
+   "Tiffany & Co.",
+   "Tag Heuer",
+   "Sephora",
+   "Le Bon Marché"
+  ],
+  "companies": [
+   "LVMH",
+   "Factset",
+   "Molly Tea",
+   "Bernstein",
+   "L'Oréal"
+  ],
+  "keywords": [
+   "뷰티 리테일",
+   "향수 및 화장품",
+   "선별 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "LVMH는 패션 부문의 부진에도 불구하고 세포라가 포함된 선별 유통 부문의 호조에 힘입어 삼분기 매출이 소폭 성장했다.",
+  "key_fact_quote": "Le numéro un mondial du luxe LVMH a publié lundi 13 octobre des ventes en petite hausse au troisième trimestre, portées notamment par la joaillerie et par la distribution sélective, mais son activité phare, la mode et la maroquinerie, s’est inscrite dans le rouge.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:05+00:00",
+ "had_body": true
+}

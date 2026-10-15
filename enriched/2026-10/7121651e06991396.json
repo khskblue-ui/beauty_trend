@@ -1,0 +1,43 @@
+{
+ "doc_id": "7121651e06991396",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58489",
+ "title": "대한화장품학회 추계학술대회 11월 27일 개최",
+ "summary": "[코스인코리아닷컴 길태윤 기자]대한화장품학회는 오는 11월 27일(금) 서울드래곤시티(용산) 그랜드볼룸 3F 한라홀에서 2026년 (사)대한화장품학회 제6차 정기총회 및 추계학술대회를 개최한다고 밝혔다. 이날 행사는 오전에 제6차 정기총회 및 초청 강연이 진행되며, 오후 세션에는 소재, 제형,평가…",
+ "published_at": "2026-10-13T10:20:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품학회",
+   "선진뷰티사이언스"
+  ],
+  "keywords": [
+   "화장품 학술대회",
+   "화장품 소재",
+   "피부 천연물 효능"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대한화장품학회가 정기총회와 함께 소재 및 제형 등을 다루는 추계학술대회를 개최한다.",
+  "key_fact_quote": "대한화장품학회는 오는 11월 27일(금) 서울드래곤시티(용산) 그랜드볼룸 3F 한라홀에서 2026년 (사)대한화장품학회 제6차 정기총회 및 추계학술대회를 개최한다고 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:24+00:00",
+ "had_body": true
+}

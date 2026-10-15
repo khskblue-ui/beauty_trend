@@ -1,0 +1,44 @@
+{
+ "doc_id": "492c3f3a9a9f0030",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100115",
+ "title": "네모인사이트(NEMOIN), ‘K-뷰티엑스포 2026’ 참가",
+ "summary": "불법유통방지 및 위조방지 보안 솔루션 전문 기업 네모인사이트(NEMOIN)가 국내 최대 규모의 B2B 뷰티 전문 산업박람회인 ‘K-beauty EXPO 2026’에 참가한다고 밝혔다.이번 박람회는 오는 10월 15일(목)부터 17일(토)까지 3일간 일산 킨텍스 제1전시장에서 개최되며, 네모인사이트(NEMOIN)는 전시장 내 부스번호 4E53에서 참관객들을 맞이할 예정이다.최근 글로벌 시장에서 K-뷰티의 위상이 높아짐에 따라 정교한 수법으로 유통되는 복제 제품과 불법유통 문제가 주요 현안으로 대두되고 있다. 이로 인해 브랜드 가치를",
+ "published_at": "2026-10-13T09:31:27+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "네모인사이트",
+   "NEMOIN"
+  ],
+  "keywords": [
+   "위조방지 솔루션",
+   "스마트패키징",
+   "정품인증",
+   "불법유통방지"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "네모인사이트가 뷰티 전문 산업박람회에 참가해 위조방지 및 불법유통방지를 위한 스마트패키징 보안 솔루션을 선보인다.",
+  "key_fact_quote": "불법유통방지 및 위조방지 보안 솔루션 전문 기업 네모인사이트(NEMOIN)가 국내 최대 규모의 B2B 뷰티 전문 산업박람회인 ‘K-beauty EXPO 2026’에 참가한다고 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:57+00:00",
+ "had_body": true
+}

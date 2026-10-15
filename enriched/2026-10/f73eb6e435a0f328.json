@@ -1,0 +1,58 @@
+{
+ "doc_id": "f73eb6e435a0f328",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100123",
+ "title": "엑소머, 3중층 포뮬러로 미스트 시장 공략",
+ "summary": "하이엔드 더마 코스메틱 브랜드 엑소머(EXOSOMORE)가 셀리노바 앰플과 BB크림에 이어 미스트 카테고리로 제품군을 확장한다. 엑소머는 세럼의 고기능성 성분과 미스트의 간편한 사용 방식을 결합한 신제품 ‘셀리노바 프라이머리 퍼밍 래디언스 세럼’을 10월 18일(일) 11시 15분 CJ온스타일을 통해 처음 공개한다.이번 신제품은 단순한 수분 공급에 머물던 미스트의 역할을 넘어 장벽‧보습‧탄력‧브라이트닝까지 하나의 루틴으로 설계한 ‘뿌리는 고기능 세럼’에 초점을 맞췄다.엑소머 ‘셀리노바 프라이머리 퍼밍 래디언스 세럼’은 ‘피부가 필요",
+ "published_at": "2026-10-13T09:57:50+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "엑소머",
+   "EXOSOMORE",
+   "엘피지오",
+   "LPHYSIO"
+  ],
+  "companies": [
+   "이희앤코",
+   "CJ온스타일"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "미스트 세럼",
+   "홈케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "셀리노바 프라이머리 퍼밍 래디언스 세럼",
+    "brand": "엑소머",
+    "launch_date": null,
+    "launch_quote": "엑소머는 세럼의 고기능성 성분과 미스트의 간편한 사용 방식을 결합한 신제품 ‘셀리노바 프라이머리 퍼밍 래디언스 세럼’을 10월 18일(일) 11시 15분 CJ온스타일을 통해 처음 공개한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더마 코스메틱 브랜드 엑소머가 세럼의 고기능성 성분과 미스트 방식을 결합한 신제품을 공개하며 미스트 시장에 진출한다.",
+  "key_fact_quote": "하이엔드 더마 코스메틱 브랜드 엑소머(EXOSOMORE)가 셀리노바 앰플과 BB크림에 이어 미스트 카테고리로 제품군을 확장한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:52+00:00",
+ "had_body": true
+}

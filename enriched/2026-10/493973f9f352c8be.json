@@ -1,0 +1,46 @@
+{
+ "doc_id": "493973f9f352c8be",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100130",
+ "title": "이너시그널, 핵심 유효 성분 'AMP2Na' 연구 결과 SCI급 국제학술지 게재",
+ "summary": "한국오츠카제약은 프리미엄 더마 스킨케어 브랜드 ‘이너시그널’의 핵심 유효 성분인 ‘AMP2Na(Disodium Adenosine Monophosphate)’의 피부 개선 효과에 대한 연구 결과가 SCI(과학기술논문인용색인지수)급 국제학술지 IJMS(International Journal of Molecular Sciences)에 게재됐다고 밝혔다.AMP는 종자나 구근, 대나무 마디, 모유 등 다양한 생물학적 조직에 존재하는 에너지 대사 관련 물질로 알려져 있다. 오츠카제약은 AMP2Na에 대한 연구를 바탕으로 독자적인 고농도 유화",
+ "published_at": "2026-10-13T12:48:10+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이너시그널"
+  ],
+  "companies": [
+   "한국오츠카제약",
+   "오츠카제약"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "피부 턴오버",
+   "피부 노화 개선",
+   "안티에이징"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국오츠카제약의 더마 스킨케어 브랜드 핵심 유효 성분의 피부 개선 효과 연구 결과가 국제학술지에 게재되었다.",
+  "key_fact_quote": "한국오츠카제약은 프리미엄 더마 스킨케어 브랜드 ‘이너시그널’의 핵심 유효 성분인 ‘AMP2Na(Disodium Adenosine Monophosphate)’의 피부 개선 효과에 대한 연구 결과가 SCI(과학기술논문인용색인지수)급 국제학술지 IJMS(International Journal of Molecular Sciences)에 게재됐다고 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:47+00:00",
+ "had_body": true
+}

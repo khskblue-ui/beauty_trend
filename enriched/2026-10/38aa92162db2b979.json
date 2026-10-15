@@ -1,0 +1,41 @@
+{
+ "doc_id": "38aa92162db2b979",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.00news.co.kr/news/articleView.html?idxno=107137",
+ "title": "화장품 넘어 AI·의료관광... K - 뷰티 새 판 짠다",
+ "summary": "합동 'AI·융복합 K - 뷰티 서비스 지원방안'을 발표했다. 이번 방안은 화장품 수출 과 외국인 뷰티 소비가 가파르게 늘어난 시점에 나왔다. 정부 통관 통계(잠정)에 따르면 올해 1~8월 화장품 수출 액은 96억3700만 달러로...",
+ "published_at": "2026-10-14T11:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "융복합 K뷰티",
+   "화장품 수출",
+   "의료관광",
+   "뷰티 소비"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부가 화장품 수출 증가세에 맞춰 인공지능과 융합한 뷰티 서비스 지원방안을 발표했다.",
+  "key_fact_quote": "합동 'AI·융복합 K - 뷰티 서비스 지원방안'을 발표했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:45+00:00",
+ "had_body": false
+}

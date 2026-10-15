@@ -1,0 +1,41 @@
+{
+ "doc_id": "79b9527946d8bd32",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/media/media-releases/2014/annual-general-meeting-2014",
+ "title": "Assemblée générale annuelle 2014",
+ "summary": "Toutes les propositions du Conseil d'administration ont été approuvées.13e augmentation consécutive du dividende : augmentation de 30.5% e par rapport AGM 2014 Release_EN.pdf AGM 2014 Release_DE.pdf AGM 2014 Release_FR.pdf",
+ "published_at": "2014-03-20T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "CH"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "연례 정기총회",
+   "배당금 인상"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단 연례 정기총회에서 이사회의 모든 안건이 승인되었으며 연속적인 배당금 인상이 결정되었다.",
+  "key_fact_quote": "Toutes les propositions du Conseil d'administration ont été approuvées.13e augmentation consécutive du dividende : augmentation de 30.5% e par rapport",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:08+00:00",
+ "had_body": false
+}

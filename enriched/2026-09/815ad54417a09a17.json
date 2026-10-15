@@ -1,0 +1,43 @@
+{
+ "doc_id": "815ad54417a09a17",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/ifra-strengthens-fragrance-safety-dialogue-with-anvisa",
+ "title": "IFRA strengthens fragrance safety dialogue with ANVISA",
+ "summary": "Two days of technical exchange in Brasília brought together regulators, fragrance experts and industry partners to explore perfumery, fragrance safety and science-based risk assessment.",
+ "published_at": "2026-09-01T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "BR"
+  ],
+  "brands": [],
+  "companies": [
+   "IFRA",
+   "ANVISA"
+  ],
+  "keywords": [
+   "향료 안전성",
+   "위해성 평가",
+   "규제 대화"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "국제향료협회가 브라질 국가위생감시국과 함께 향료 안전성 및 과학 기반 위해성 평가에 관한 기술적 교류를 진행하며 규제 대화를 강화했다.",
+  "key_fact_quote": "Two days of technical exchange in Brasília brought together regulators, fragrance experts and industry partners to explore perfumery, fragrance safety and science-based risk assessment.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:31+00:00",
+ "had_body": false
+}

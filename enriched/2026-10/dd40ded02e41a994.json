@@ -1,0 +1,69 @@
+{
+ "doc_id": "dd40ded02e41a994",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53692",
+ "title": "무신사 뷰티, 괴짜 캐릭터 ‘퍼글러’와 손잡았다",
+ "summary": "무신사뷰티가 12일부터 22일까지 뷰티 페스티벌을 열고 퍼글러 화장품을 선보인다. 무신사˟퍼글러 에디션에는 그라펜‧에스네이처‧자빈드서울‧토코보‧센텔리안24 등 뷰티 브랜드 12개가 참여했다. 이들 브랜드는 퍼글러의 대표 캐릭터인 ‘와이드 아이드 위어도’, ‘먼츠먼츠 믹스’, ‘맥구 믹스…",
+ "published_at": "2026-10-13T17:17:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사뷰티",
+   "그라펜",
+   "에스네이처",
+   "자빈드서울",
+   "토코보",
+   "센텔리안24",
+   "글맆",
+   "오드타입"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "캐릭터 협업",
+   "뷰티 페스티벌",
+   "콜라보레이션 에디션",
+   "블라인드 굿즈"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "글루 글로스 신컬러",
+    "brand": "글맆",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "소 터처블 워터 블러시",
+    "brand": "오드타입",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "무신사뷰티가 뷰티 페스티벌을 열고 여러 브랜드와 협업한 퍼글러 캐릭터 화장품을 선보인다.",
+  "key_fact_quote": "무신사뷰티가 12일부터 22일까지 뷰티 페스티벌을 열고 퍼글러 화장품을 선보인다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:03+00:00",
+ "had_body": true
+}

@@ -1,0 +1,65 @@
+{
+ "doc_id": "41a29c6bffe19b40",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/symrise-accelerates-innovation-and-champions-longevity-and-inner-beauty-at-in-cosmetics-global-2026/",
+ "title": "Symrise accelerates innovation and champions longevity and inner beauty at in-cosmetics global 2026",
+ "summary": "‒ Participation as a founding exhibitor in the Inner Beauty Zone presenting its Care & Wellness Division ‒ Launch of three cosmetic ingredients: Cellexora® MD, Mindera® Euca, and SymConcentrole® Barrier Boost ‒ Presentation of ‘Good Planets Are Hard to Find’ campaign, highlighting longevity and sustainability ‒ Experts to lead R&D Tours, Formulation Lab sessions, a technical seminar and more",
+ "published_at": "2026-04-14T20:12:19+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Symrise"
+  ],
+  "keywords": [
+   "화장품 원료",
+   "이너 뷰티",
+   "지속가능성"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Cellexora® MD",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Mindera® Euca",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "SymConcentrole® Barrier Boost",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "심라이즈가 인코스메틱스 글로벌 행사에서 이너 뷰티와 롱제비티를 강조하며 화장품 신원료를 선보인다.",
+  "key_fact_quote": "Symrise accelerates innovation and champions longevity and inner beauty at in-cosmetics global 2026",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:28+00:00",
+ "had_body": false
+}

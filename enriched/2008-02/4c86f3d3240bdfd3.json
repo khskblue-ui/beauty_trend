@@ -1,0 +1,43 @@
+{
+ "doc_id": "4c86f3d3240bdfd3",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/media/media-releases/2008/divestiture-st-louis-usa-based-food-ingredient-business-and-facility",
+ "title": "Cession de l'activité et du site de production d'ingrédients alimentaires situés à Saint-Louis (États-Unis)",
+ "summary": "Givaudan a annoncé aujourd’hui avoir cédé son activité d’ingrédients alimentaires et son site de production situés à Saint-Louis (États-Unis) à la Société Performance Chemicals & Ingredients Co Divestiture of St. Louis (USA) EN.pdf",
+ "published_at": "2008-02-14T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan",
+   "Performance Chemicals & Ingredients Co"
+  ],
+  "keywords": [
+   "식품 원료",
+   "생산 시설 매각",
+   "사업 매각"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단이 미국 세인트루이스에 위치한 식품 원료 사업 및 생산 시설을 매각했다고 발표했다.",
+  "key_fact_quote": "Givaudan a annoncé aujourd’hui avoir cédé son activité d’ingrédients alimentaires et son site de production situés à Saint-Louis (États-Unis) à la Société Performance Chemicals & Ingredients Co",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:11+00:00",
+ "had_body": false
+}

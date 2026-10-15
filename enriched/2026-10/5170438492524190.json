@@ -1,0 +1,61 @@
+{
+ "doc_id": "5170438492524190",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100106",
+ "title": "뉴트리 에버콜라겐, ‘인앤업 프라임·타임 프라임’ 신제품 2종",
+ "summary": "건강기능식품 전문기업 뉴트리(270870)는 독자 개발한 GPH 콜라겐에 리포좀 비타민·미네랄을 적용한 프리미엄 신제품 ‘에버콜라겐 인앤업 프라임’과 ‘에버콜라겐 타임 프라임’을 출시했다고 8일 밝혔다.에버콜라겐은 10년 연속 판매율·재구매율 1위를 기록하며 소비자의 꾸준한 선택으로 브랜드 경쟁력을 입증해 왔다. 이번 신제품은 이러한 성과를 바탕으로 축적해 온 콜라겐 연구 기술력을 집약한 제품으로, 체내 흡수율을 54배 높인 GPH 콜라겐에 리포좀 제형 기술을 더해 흡수 경쟁력을 한층 강화한 것이 핵심이다. 콜라겐은 물론 함께 배합",
+ "published_at": "2026-10-13T09:14:07+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에버콜라겐"
+  ],
+  "companies": [
+   "뉴트리"
+  ],
+  "keywords": [
+   "이너뷰티",
+   "먹는 콜라겐",
+   "건강기능식품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "에버콜라겐 인앤업 프라임",
+    "brand": "에버콜라겐",
+    "launch_date": null,
+    "launch_quote": "건강기능식품 전문기업 뉴트리(270870)는 독자 개발한 GPH 콜라겐에 리포좀 비타민·미네랄을 적용한 프리미엄 신제품 ‘에버콜라겐 인앤업 프라임’과 ‘에버콜라겐 타임 프라임’을 출시했다고 8일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "에버콜라겐 타임 프라임",
+    "brand": "에버콜라겐",
+    "launch_date": null,
+    "launch_quote": "건강기능식품 전문기업 뉴트리(270870)는 독자 개발한 GPH 콜라겐에 리포좀 비타민·미네랄을 적용한 프리미엄 신제품 ‘에버콜라겐 인앤업 프라임’과 ‘에버콜라겐 타임 프라임’을 출시했다고 8일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뉴트리는 흡수율을 높인 콜라겐과 리포좀 비타민 등을 결합한 신제품 에버콜라겐 인앤업 프라임과 타임 프라임을 선보였다.",
+  "key_fact_quote": "건강기능식품 전문기업 뉴트리(270870)는 독자 개발한 GPH 콜라겐에 리포좀 비타민·미네랄을 적용한 프리미엄 신제품 ‘에버콜라겐 인앤업 프라임’과 ‘에버콜라겐 타임 프라임’을 출시했다고 8일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:06+00:00",
+ "had_body": true
+}

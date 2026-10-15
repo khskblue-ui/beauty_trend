@@ -1,0 +1,38 @@
+{
+ "doc_id": "2a32630ff22b0447",
+ "source": "eu_cosmetics_reg",
+ "source_name": "EU 화장품 규정 1223/2009 개정",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0078",
+ "title": "Commission Regulation (EU) 2026/78 of 12 January 2026 amending Regulation (EC) No 1223/2009 of the European Parliament and of the Council as regards the use in cosmetic products of certain substances classified as carcinogenic, mutagenic or toxic for reproduction",
+ "summary": "",
+ "published_at": "2026-01-12T09:00:00+09:00",
+ "date_source": "cellar",
+ "evidence_grade": "official",
+ "query": null,
+ "doc_type": null,
+ "celex": "32026R0078",
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 규정 개정",
+   "생식독성 물질",
+   "발암성 물질 규제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유럽연합에서 화장품 내 발암성이나 변이원성 및 생식독성으로 분류된 특정 물질의 사용에 관한 화장품 규정을 개정했다.",
+  "key_fact_quote": "Commission Regulation (EU) 2026/78 of 12 January 2026 amending Regulation (EC) No 1223/2009 of the European Parliament and of the Council as regards the use in cosmetic products of certain substances classified as carcinogenic, mutagenic or toxic for reproduction",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:03:52+00:00",
+ "had_body": false
+}

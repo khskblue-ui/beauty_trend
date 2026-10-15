@@ -1,0 +1,41 @@
+{
+ "doc_id": "ef918bc6aeba5ac4",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/medias/company-news/2007/givaudan-nomme-un-nouveau-directeur-des-ressources-humaines",
+ "title": "Givaudan nomme un nouveau directeur des Ressources Humaines",
+ "summary": "Genève, Suisse – 3 décembre 2007 – Joe Fabbri prendra les fonctions de directeur des Ressources Humaines du groupe et deviendra membre du Comité exécutif de Givaudan à compter du 1er janvier 2008. New Head of Human Resources EN.pdf",
+ "published_at": "2007-12-03T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "CH"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "인사 선임",
+   "임원 인사"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단이 새로운 그룹 인사 책임자를 선임하여 집행위원회 위원으로 합류하도록 결정했다.",
+  "key_fact_quote": "Joe Fabbri prendra les fonctions de directeur des Ressources Humaines du groupe et deviendra membre du Comité exécutif de Givaudan à compter du 1er janvier 2008.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:15+00:00",
+ "had_body": false
+}

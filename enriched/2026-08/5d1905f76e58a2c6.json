@@ -1,0 +1,43 @@
+{
+ "doc_id": "5d1905f76e58a2c6",
+ "source": "mfds_law",
+ "source_name": "식약처 최근 개정 법령",
+ "group": "regulation",
+ "lang": "ko",
+ "url": "https://www.mfds.go.kr/brd/m_207/view.do?seq=15184",
+ "title": "화장품 사용할 때의 주의사항 및 알레르기 유발성분 표시에 관한 규정 일부개정고시(식품의약품안전처 고시 제2026-56호, 2026.8.5.)",
+ "summary": "",
+ "published_at": "2026-08-05T17:39:27+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "식품의약품안전처"
+  ],
+  "keywords": [
+   "화장품 규정",
+   "주의사항 표시",
+   "알레르기 유발성분",
+   "원료 규제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "씻어내지 않는 샴푸의 주의사항 기재 예외를 마련하고 옥시벤존 성분의 주의사항을 신설하는 화장품 규정 개정이 고시되었다.",
+  "key_fact_quote": "사용 후 바로 씻어내지 않을 수 있는 샴푸는 사용할 때의 주의사항 중 일부를 기재하지 않을 수 있도록 예외사항을 추가하고, 벤조페논-3(옥시벤존) 성분의 주의사항을 신설하는 등 현행 제도 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:15+00:00",
+ "had_body": true
+}

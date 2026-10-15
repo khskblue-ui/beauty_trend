@@ -1,0 +1,44 @@
+{
+ "doc_id": "4722355a2d0fdb9e",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58504",
+ "title": "코스메카코리아, 성균관대와 차세대 화이트 바이오 유화제 공동개발",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 글로벌 화장품 OGM(글로벌 규격 생산) 전문기업 코스메카코리아(대표이사 조임래·박은희)가 성균관대학교 양정운 교수 연구팀과 차세대 화이트 바이오 소재를 활용한 신규 유화제 개발과 대량생산 공정 고도화를 위한 공동 연구를 본격적으로 추진한다고 14일 밝혔다…",
+ "published_at": "2026-10-14T15:30:19+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스메카코리아",
+   "성균관대학교"
+  ],
+  "keywords": [
+   "화이트 바이오",
+   "친환경 소재",
+   "유화제",
+   "바이오 소재"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스메카코리아가 성균관대학교 연구팀과 함께 차세대 화이트 바이오 소재 기반 신규 유화제 개발 및 대량생산 공정 고도화 공동 연구를 추진한다.",
+  "key_fact_quote": "글로벌 화장품 OGM(글로벌 규격 생산) 전문기업 코스메카코리아(대표이사 조임래·박은희)가 성균관대학교 양정운 교수 연구팀과 차세대 화이트 바이오 소재를 활용한 신규 유화제 개발과 대량생산 공정 고도화를 위한 공동 연구를 본격적으로 추진한다고 14일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:17+00:00",
+ "had_body": true
+}

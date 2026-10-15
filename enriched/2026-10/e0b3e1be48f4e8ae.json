@@ -1,0 +1,79 @@
+{
+ "doc_id": "e0b3e1be48f4e8ae",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100140",
+ "title": "파마리서치, 대한미용비만재생학회서 토탈 에스테틱 솔루션 선봬",
+ "summary": "재생의학 전문기업 파마리서치(대표이사 손지훈)는 지난 11일 개최된 ‘대한미용비만재생의학회(KORA) 학술대회’에 참가해 자사 대표 에스테틱 라인업의 임상적 가치와 차별화된 B2B 플랫폼을 선보였다고 13일 밝혔다.파마리서치는 이번 학술대회에서 리쥬란(PN), 리쥬비엘(HA), 에버클(PLLA) 등 자사의 핵심 에스테틱 품목을 중심으로 심도 있는 학술 프로그램을 구성해 현장 의료진의 높은 관심을 이끌어냈다. 특히 최근 미용 의료계의 주요 화두와 연계된 최신 지견과 정교한 시술 프로토콜이 집중적으로 다뤄졌다.학술 강연에서는 각 분야",
+ "published_at": "2026-10-14T10:45:10+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리쥬란",
+   "리쥬비엘",
+   "에버클"
+  ],
+  "companies": [
+   "파마리서치"
+  ],
+  "keywords": [
+   "에스테틱 솔루션",
+   "피부 재생",
+   "필러 시술"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리쥬란",
+    "brand": "리쥬란",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "리쥬비엘",
+    "brand": "리쥬비엘",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "리쥬비엘 C",
+    "brand": "리쥬비엘",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "에버클",
+    "brand": "에버클",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "파마리서치는 대한미용비만재생의학회 학술대회에 참가해 주요 에스테틱 품목의 임상적 가치와 의료진 전용 유통 플랫폼을 선보였다.",
+  "key_fact_quote": "재생의학 전문기업 파마리서치(대표이사 손지훈)는 지난 11일 개최된 ‘대한미용비만재생의학회(KORA) 학술대회’에 참가해 자사 대표 에스테틱 라인업의 임상적 가치와 차별화된 B2B 플랫폼을 선보였다고 13일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:38+00:00",
+ "had_body": true
+}

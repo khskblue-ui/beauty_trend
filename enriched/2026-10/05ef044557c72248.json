@@ -1,0 +1,39 @@
+{
+ "doc_id": "05ef044557c72248",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.bizwatch.co.kr/article/consumer/2026/10/12/0031",
+ "title": "'K스킨케어' 열풍에 '디바이스'도 웃는다",
+ "summary": "디바이스는 화장품 과 달리 교체 주기가 길어 반복적인 구매를 기대하기 어렵다. 신제품 을 출시하더라도 기존 제품을 보유한 소비자의 추가 구매를 끌어내는 데 한계가 있을 수 있다는 의미다. 이에 따라 사용 단계별로...",
+ "published_at": "2026-10-13T07:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 디바이스",
+   "스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "스킨케어 열풍 속에 화장품과 교체 주기가 다른 뷰티 디바이스 시장의 특성과 한계가 주목받고 있다.",
+  "key_fact_quote": "디바이스는 화장품 과 달리 교체 주기가 길어 반복적인 구매를 기대하기 어렵다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:11+00:00",
+ "had_body": false
+}

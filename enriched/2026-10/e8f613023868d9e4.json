@@ -1,0 +1,75 @@
+{
+ "doc_id": "e8f613023868d9e4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/2026100663731",
+ "title": "대마·담배향…향수업계 '금기 마케팅'",
+ "summary": "돌체앤가바나의 향수 ‘라이트 블루’를 만든 조향사 올리비에 크레스프가 딸과 함께 세운 영국 향수업체 아크로는 2018년 담배 향의 ‘스모크’와 위스키 향의 ‘몰트’를 선보이기도 했다. 몰트는 위스키와 해조류...",
+ "published_at": "2026-10-06T17:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "아크로",
+   "돌체앤가바나"
+  ],
+  "companies": [
+   "아크로"
+  ],
+  "keywords": [
+   "금기 마케팅",
+   "이색 향수",
+   "담배 향"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "라이트 블루",
+    "brand": "돌체앤가바나",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스모크",
+    "brand": "아크로",
+    "launch_date": "2018",
+    "launch_quote": "영국 향수업체 아크로는 2018년 담배 향의 ‘스모크’와 위스키 향의 ‘몰트’를 선보이기도 했다.",
+    "notes": [
+     "담배"
+    ],
+    "notes_quote": "영국 향수업체 아크로는 2018년 담배 향의 ‘스모크’와 위스키 향의 ‘몰트’를 선보이기도 했다."
+   },
+   {
+    "name": "몰트",
+    "brand": "아크로",
+    "launch_date": "2018",
+    "launch_quote": "영국 향수업체 아크로는 2018년 담배 향의 ‘스모크’와 위스키 향의 ‘몰트’를 선보이기도 했다.",
+    "notes": [
+     "위스키",
+     "해조류"
+    ],
+    "notes_quote": "몰트는 위스키와 해조류..."
+   }
+  ],
+  "key_fact": "향수업계에서 대마와 담배 등 파격적인 소재를 활용한 향을 선보이고 있다.",
+  "key_fact_quote": "대마·담배향…향수업계 '금기 마케팅'",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:05:46+00:00",
+ "had_body": false
+}

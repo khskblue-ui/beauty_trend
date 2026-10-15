@@ -1,0 +1,41 @@
+{
+ "doc_id": "c1944f89637e3d9c",
+ "source": "givaudan",
+ "source_name": "Givaudan",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.givaudan.com/fr/medias/company-news/2015/givaudan-reaffirme-son-engagement-en-faveur-de-la-transparence-et-du",
+ "title": "Givaudan réaffirme son engagement en faveur de la transparence et du développement durable en adoptant les lignes directrices du référentiel G4",
+ "summary": "Givaudan a franchi une étape décisive en matière de reporting de développement durable en adoptant les lignes directrices G4. 2014 Sustainability Investor News.pdf 2014 Sustainability Media Release_EN.pdf 2014 Sustainability Media Release_FR.pdf 2014 Sustainability Media Release_GE.pdf",
+ "published_at": "2015-03-19T09:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "CH"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "지속가능성 보고",
+   "지속가능경영"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지보단은 지사 가이드라인을 도입하며 지속가능성 보고 및 투명성에 대한 노력을 재확인했다.",
+  "key_fact_quote": "Givaudan réaffirme son engagement en faveur de la transparence et du développement durable en adoptant les lignes directrices du référentiel G4",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:04:18+00:00",
+ "had_body": false
+}

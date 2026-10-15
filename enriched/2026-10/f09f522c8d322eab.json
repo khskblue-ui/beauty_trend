@@ -1,0 +1,43 @@
+{
+ "doc_id": "f09f522c8d322eab",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58497",
+ "title": "Corum, 펩타이드·Epi-On®·Azeclair® P 결합 ‘3중 정밀 재생’ 제시",
+ "summary": "#K-뷰티 미용 트렌드를 정밀 스킨케어로 구현: 세포 재생 및 미세환경 항상성유지를 위한 3중 모듈 정밀 재생 시스템 [코스인코리아닷컴 길태윤 기자] 대만 화장품 원료기업 Corum이 정밀 펩타이드와 후성유전학 조절제 Epi-On®, 피부 미세환경 안정화제 Azeclair® P를 결합한 ‘3중 모듈 정…",
+ "published_at": "2026-10-13T18:07:15+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "TW",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Corum"
+  ],
+  "keywords": [
+   "정밀 스킨케어",
+   "피부 재생",
+   "화장품 원료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대만 화장품 원료기업 코룸이 정밀 펩타이드와 후성유전학 조절제 및 피부 미세환경 안정화제를 결합한 삼중 모듈 정밀 재생 시스템을 제시했다.",
+  "key_fact_quote": "대만 화장품 원료기업 Corum이 정밀 펩타이드와 후성유전학 조절제 Epi-On®, 피부 미세환경 안정화제 Azeclair® P를 결합한 ‘3중 모듈 정밀 재생 시스템’을 제시했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:02:18+00:00",
+ "had_body": true
+}

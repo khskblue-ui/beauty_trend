@@ -1,0 +1,40 @@
+{
+ "doc_id": "eacf9f8c5a878ffe",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.imaeil.com/page/view/2026101416043960199",
+ "title": "AI 맞춤 화장품·메디컬 뷰티 키운다…지방 의료계 '수도권 쏠림' 숙제(...",
+ "summary": "다만 수출 액이나 방한 관광객 증가 목표 같은 수치는 제시되지 않았다. 주환욱 재경부 정책조정관은 \"구체적인 수치를 정한 건 아니다\"며 \"제조 중심인 K - 뷰티 를 고부가가치 서비스로 넓히기 위해 다각적인 대책을...",
+ "published_at": "2026-10-14T16:19:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "맞춤 화장품",
+   "메디컬 뷰티",
+   "인공지능 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부가 제조 중심인 산업 구조를 고부가가치 서비스로 확장하기 위해 인공지능 기반 맞춤 화장품과 메디컬 뷰티 육성 대책을 추진한다.",
+  "key_fact_quote": "주환욱 재경부 정책조정관은 \"구체적인 수치를 정한 건 아니다\"며 \"제조 중심인 K - 뷰티 를 고부가가치 서비스로 넓히기 위해 다각적인 대책을...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:07:35+00:00",
+ "had_body": false
+}

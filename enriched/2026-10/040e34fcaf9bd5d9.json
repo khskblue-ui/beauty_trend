@@ -1,0 +1,50 @@
+{
+ "doc_id": "040e34fcaf9bd5d9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210803",
+ "title": "동화약품 후시덤, 다이소서 '흔적 리페어' 5종 출시…더마 화장품 확대",
+ "summary": "신제품 은 크림 토너, 나이아신 10 앰플, 나이아신 15 스팟크림, 캡슐 크림, 크림 마스크로 구성됐다.... 특히 다이소는 소용량·저가격 제품을 통해 소비자의 구매 부담을 낮추는 유통 채널로 부상하면서 화장품 업체들의...",
+ "published_at": "2026-10-14T16:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "후시덤"
+  ],
+  "companies": [
+   "동화약품"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "스킨케어 라인",
+   "저가 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "동화약품의 후시덤 브랜드가 다이소에서 흔적 리페어 신제품 라인을 선보이며 더마 화장품 확대를 추진한다.",
+  "key_fact_quote": "동화약품 후시덤, 다이소서 '흔적 리페어' 5종 출시…더마 화장품 확대",
+  "dropped": [
+   "product:흔적 리페어 크림 토너",
+   "product:흔적 리페어 나이아신 10 앰플",
+   "product:흔적 리페어 나이아신 15 스팟크림",
+   "product:흔적 리페어 캡슐 크림",
+   "product:흔적 리페어 크림 마스크"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:06:52+00:00",
+ "had_body": false
+}

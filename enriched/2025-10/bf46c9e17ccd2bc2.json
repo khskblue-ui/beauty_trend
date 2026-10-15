@@ -1,0 +1,40 @@
+{
+ "doc_id": "bf46c9e17ccd2bc2",
+ "source": "symrise",
+ "source_name": "Symrise",
+ "group": "competitor",
+ "lang": "en",
+ "url": "https://www.symrise.com/newsroom/article/symrise-reports-third-quarter-2025-sales/",
+ "title": "Symrise Reports Third Quarter 2025 Sales",
+ "summary": "— Organic growth of 1.4% in Q3; organic growth of 2.6% in first nine months of 2025 — Acceleration of transformation — Successful placement of €800 million bond, issued with a term of 7 years and coupon rate of 3.25% — Updating guidance to reflect the current global demand environment: • Moderating 2025 organic growth to 2.3%-3.3% from 3.0%-5.0% • Reaffirming of EBITDA margin of ~21.5% and Business Free Cash Flow of ~14%",
+ "published_at": "2025-10-28T15:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Symrise"
+  ],
+  "keywords": [
+   "실적 발표",
+   "매출 성장",
+   "기업 가이던스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "심라이즈가 삼분기 실적을 발표하고 글로벌 수요 환경을 반영하여 연간 유기적 성장률 전망치를 조정했다.",
+  "key_fact_quote": "Updating guidance to reflect the current global demand environment: • Moderating 2025 organic growth to 2.3%-3.3% from 3.0%-5.0%",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-15T00:08:35+00:00",
+ "had_body": false
+}
