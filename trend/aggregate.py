@@ -15,7 +15,8 @@ MARKET_EVENTS = {"business", "market_trend", "retail", "event", "ingredient"}
 
 
 def _kw(s: str) -> str:
-    return re.sub(r"\s+", " ", s).strip().lower()
+    """Grouping key: spacing variants of a term are the same term (더마 코스메틱 = 더마코스메틱)."""
+    return re.sub(r"\s+", "", s).lower()
 
 
 def _nospace(s: str) -> str:

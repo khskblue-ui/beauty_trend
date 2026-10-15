@@ -82,9 +82,9 @@ def test_keywords_drop_query_echo_and_generic_terms():
     from trend.aggregate import doc_keywords
     d = rec("1", "t", keywords=["니치 향수", "비건 뷰티", "향수", "우디 향"])
     d["query"] = "니치 향수"
-    assert doc_keywords(d, {"향수"}) == {"비건 뷰티", "우디 향"}
+    assert doc_keywords(d, {"향수"}) == {"비건뷰티", "우디향"}   # keys ignore spacing; labels keep the common spelling
     d.pop("query")
-    assert "니치 향수" in doc_keywords(d, {"향수"})   # trade press: no query bias
+    assert "니치향수" in doc_keywords(d, {"향수"})   # trade press: no query bias
 
 
 def test_same_product_merges_name_variants_of_same_brand_only():

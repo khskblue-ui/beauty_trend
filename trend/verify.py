@@ -40,6 +40,9 @@ def _norm(s: str) -> str:
 def evidence_texts(rec: dict) -> list[str]:
     ex = rec["extraction"]
     texts = [rec.get("title", ""), rec.get("summary") or "", ex.get("key_fact_quote") or ""]
+    if rec.get("group") == "regulation":
+        # an official board's name says who issued it (titles often omit the agency)
+        texts.append(rec.get("source_name") or "")
     for p in ex.get("products", []):
         texts += [p.get("launch_quote") or "", p.get("notes_quote") or ""]
     return [t for t in texts if t]
