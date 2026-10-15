@@ -20,7 +20,8 @@ rss:
     group: kr_trade
     fetch_body: true
     naive_tz: Asia/Seoul
-    archive: {kind: list, url: "https://www.jangup.com/news/articleList.html?page={page}&view_type=sm", link_pattern: 'articleView\.html\?idxno=\d+$'}
+    # 목록이 page 번호를 무시해 날짜(sc_sdate/sc_edate)로 하루씩 받는다
+    archive: {kind: list, url: "https://www.jangup.com/news/articleList.html?sc_sdate={day}&sc_edate={day}&view_type=sm", link_pattern: 'articleView\.html\?idxno=\d+$'}
   - id: thebk
     name: 뷰티경제
     url: https://cdn.thebk.co.kr/rss/gn_rss_allArticle.xml
@@ -28,7 +29,8 @@ rss:
     group: kr_trade
     fetch_body: false        # content:encoded로 전문 제공
     naive_tz: Asia/Seoul
-    archive: {kind: list, url: "https://www.thebk.co.kr/news/articleList.html?page={page}&view_type=sm", link_pattern: 'articleView\.html\?idxno=\d+$'}
+    # 목록이 page 번호를 무시해 날짜(sc_sdate/sc_edate)로 하루씩 받는다
+    archive: {kind: list, url: "https://www.thebk.co.kr/news/articleList.html?sc_sdate={day}&sc_edate={day}&view_type=sm", link_pattern: 'articleView\.html\?idxno=\d+$'}
   - id: cosinkorea
     name: 코스인코리아
     url: https://www.cosinkorea.com/data/rss/news.xml

@@ -3,7 +3,8 @@
 RSS feeds keep only the last few days, so a missed day (or a late start) loses
 articles for good. Each source may declare an `archive` (sources.yaml):
 
-  kind: list     article list pages; `url` has {page}; links matching `link_pattern`
+  kind: list     article list pages; `url` has {page} (or {day}: one list per day, for
+                 sites that ignore the page number but filter by date); links matching `link_pattern`
   kind: feed     paged feed; `url` has {page}
   kind: sitemap  sitemap.xml; date = <lastmod> (only for sites whose articles carry no date)
   kind: pages    fixed list pages (`urls`, e.g. one per section) for sites without pagination
@@ -16,7 +17,7 @@ from __future__ import annotations
 import logging
 import re
 import urllib.parse
-from datetime import date
+from datetime import date, timedelta
 
 from .. import store
 from ..http import Client
@@ -127,8 +128,12 @@ def collect(src: dict, client: Client, since: date, until: date,
             # sidebars ("popular articles") repeat on every list page: open each link
             # once, and judge "past the window" only by links new on that page
             visited: dict[str, date | None] = {}
-            for page in range(arc.get("first_page", 1), arc.get("max_pages", 30) + 1):
-                url = arc["url"].format(page=page, offset=(page - 1) * arc.get("step", 0))
+            by_day = "{day}" in arc["url"]
+            pages = ([since + timedelta(days=i) for i in range((until - since).days + 1)] if by_day
+                     else range(arc.get("first_page", 1), arc.get("max_pages", 30) + 1))
+            for page in pages:
+                url = (arc["url"].format(day=page.isoformat()) if by_day else
+                       arc["url"].format(page=page, offset=(page - 1) * arc.get("step", 0)))
                 if not client.allowed(url):
                     return Result(src["id"], False, docs, error="robots disallow list page")
                 r = client.request(url, headers={"Accept": "text/html"})
@@ -139,7 +144,7 @@ def collect(src: dict, client: Client, since: date, until: date,
                 links = list(dict.fromkeys(urllib.parse.urljoin(base, h) for h in
                                            re.findall(r'href="([^"]+)"', r.text)
                                            if re.search(arc["link_pattern"], h)))
-                if not links:
+                if not links and not by_day:
                     break
                 dates = []
                 for ln in links:
@@ -156,7 +161,7 @@ def collect(src: dict, client: Client, since: date, until: date,
                 # stop once the links new on this page are all older than the window
                 # (or the page has nothing new: past the last page)
                 seen_dates = [d for d in dates if d]
-                if not dates or (seen_dates and max(seen_dates) < since):
+                if not by_day and (not dates or (seen_dates and max(seen_dates) < since)):
                     break
         elif kind == "pages":
             links: list[str] = []

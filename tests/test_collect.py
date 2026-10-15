@@ -135,3 +135,28 @@ def test_backfill_list_ignores_repeated_sidebar_links(monkeypatch):
     assert sorted(d["title"] for d in res.docs) == ["기사 1", "기사 99"]
     assert c.calls.count("https://t.test/news/articleView.html?idxno=99") == 1   # sidebar opened once
     assert "https://t.test/l?p=3" not in c.calls          # page 2's only new link is before the window
+
+
+def test_backfill_list_by_day_reads_one_list_per_day(monkeypatch):
+    from datetime import date
+    from trend.collect import backfill
+
+    class R:
+        def __init__(self, text): self.text, self.ok, self.status = text, True, 200
+
+    class C:
+        calls = []
+        def allowed(self, url): return True
+        def request(self, url, **kw):
+            self.calls.append(url)
+            if "sdate=" in url:
+                day = url.split("sdate=")[1][:10]
+                return R(f'<a href="/news/articleView.html?idxno={day[-2:]}">x</a>')
+            n = url.rsplit("=", 1)[1]
+            return R(f'<meta property="og:title" content="기사 {n}"><meta property="article:published_time" content="2026-10-{n}T09:00:00+09:00">')
+
+    monkeypatch.setattr(backfill.store, "save_body", lambda *a: None)
+    src = {"id": "t", "name": "T", "group": "kr_trade",
+           "archive": {"kind": "list", "url": "https://t.test/l?sdate={day}", "link_pattern": r"idxno=\d+$"}}
+    res = backfill.collect(src, C(), date(2026, 10, 1), date(2026, 10, 3), {})
+    assert sorted(d["title"] for d in res.docs) == ["기사 01", "기사 02", "기사 03"]
