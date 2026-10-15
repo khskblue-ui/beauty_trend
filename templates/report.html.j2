@@ -93,10 +93,10 @@ td.n,th.n{text-align:right;white-space:nowrap}
 {% else %}{{ reduced('keywords') }}{% endif %}
 {% set sh = agg.shopping_terms %}{% if sh and sh.series %}
 <h3>{{ cfg.sections.shopping.title }}</h3>
-<table><thead><tr><th>제품</th><th class="n">최근 4주 변화</th></tr></thead><tbody>
+<table><thead><tr><th>품목</th><th class="n">최근 4주 클릭 변화</th></tr></thead><tbody>
 {% for term in sh.series %}<tr><td>{{ term }}</td><td class="n">{% if sh.change.get(term) is not none %}{{ '%+.0f'|format(sh.change[term] * 100) }}%{% else %}-{% endif %}</td></tr>{% endfor %}
 </tbody></table>
-<p class="note">향이 중요한 제품 다섯 가지의 화장품/미용 분야 안 클릭량을 최근 4주와 그 앞 4주로 비교했습니다(네이버 쇼핑인사이트, {{ sh.start }} ~ {{ sh.end }}).</p>
+<p class="note">매달 같은 품목 다섯 가지의 화장품/미용 분야 안 클릭량입니다. 숫자는 최근 4주 클릭이 그 앞 4주보다 얼마나 늘거나 줄었는지입니다(네이버 쇼핑인사이트, {{ sh.start }} ~ {{ sh.end }}).</p>
 {% endif %}
 
 {% set sec.n = sec.n + 1 %}<h2><span class="num">{{ sec.n }}</span>{{ cfg.sections.launches.title }}</h2>
@@ -126,7 +126,7 @@ td.n,th.n{text-align:right;white-space:nowrap}
 <table><thead><tr><th>원료, 성분</th><th class="n">관련 소식</th><th>대표 기사</th></tr></thead><tbody>
 {% for x in agg.ingredients['items'] %}<tr><td><strong>{{ x.name }}</strong></td><td class="n">{{ x.n }}</td><td>{% for r in x.reps %}{{ r.title }}{{ cite([r.doc_id]) }}{{ ', ' if not loop.last }}{% endfor %}</td></tr>{% endfor %}
 </tbody></table>
-<p class="note">기사에 이름이 나온 원료와 성분입니다. 관련 소식은 그 이름이 나온 소식의 수입니다.</p>
+<p class="note">두 건 이상의 소식에 이름이 나온 원료와 성분입니다. 관련 소식은 그 이름이 나온 소식의 수입니다.</p>
 {% else %}<p class="reduced">분석 기간에 두 건 이상의 소식에 이름이 나온 원료나 성분이 없습니다.</p>{% endif %}
 
 {% if S.customers.status != 'hidden' %}{% set sec.n = sec.n + 1 %}<h2><span class="num">{{ sec.n }}</span>{{ cfg.sections.customers.title }}</h2>{% endif %}
@@ -145,8 +145,8 @@ td.n,th.n{text-align:right;white-space:nowrap}
 <table><thead><tr><th>날짜</th><th>행사</th><th>장소</th><th>출처</th></tr></thead><tbody>
 {% for e in agg.events %}<tr><td>{{ e.start }}{% if e.end %} ~ {{ e.end[5:] }}{% endif %}</td><td>{{ e.name }}</td><td>{{ e.place or '-' }}</td><td>{{ cite([e.doc_id]) }}</td></tr>{% endfor %}
 </tbody></table>
-<p class="note">{{ period.end }} 이후 두 달 안에 열리는 행사입니다.</p>
-{% else %}<p class="reduced">기사에 날짜가 나온 다가오는 행사가 없습니다.</p>{% endif %}
+<p class="note">기사에 날짜가 나온 행사 가운데 {{ period.end[5:7]|int }}월 {{ period.end[8:]|int }}일 현재 열리고 있거나 두 달 안에 열리는 행사입니다.</p>
+{% else %}<p class="reduced">기사에 날짜가 나온 행사 가운데 두 달 안에 열리는 행사가 없습니다.</p>{% endif %}
 
 {% set sec.n = sec.n + 1 %}<h2><span class="num">{{ sec.n }}</span>{{ cfg.sections.regulation.title }}</h2>
 {% set regs = agg.regulation.regulation %}
