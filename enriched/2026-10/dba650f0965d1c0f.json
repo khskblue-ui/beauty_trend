@@ -1,0 +1,46 @@
+{
+ "doc_id": "dba650f0965d1c0f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10902212?ref=naver",
+ "title": "컬리, 식품· 뷰티 넘어 ‘패션’ 육성…기업공개 재도전 포석",
+ "summary": "식품· 뷰티 에 이어 3040 여성을 타깃으로 한 패션 상품과 콘텐츠를 선보이고 있다. 흑자 전환 이후 무게가... 입점 브랜드 는 약 300개로, 최근 모델 한혜진의 패션 브랜드 ‘헤디트’를 단독 론칭 하기도 했다. 컬리는 올해...",
+ "published_at": "2026-10-14T11:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "헤디트"
+  ],
+  "companies": [
+   "컬리"
+  ],
+  "keywords": [
+   "패션 육성",
+   "단독 론칭",
+   "이커머스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "컬리가 식품과 뷰티에 이어 패션 상품과 콘텐츠를 선보이며 영역을 확장하고 있다.",
+  "key_fact_quote": "식품· 뷰티 에 이어 3040 여성을 타깃으로 한 패션 상품과 콘텐츠를 선보이고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:32+00:00",
+ "had_body": false
+}

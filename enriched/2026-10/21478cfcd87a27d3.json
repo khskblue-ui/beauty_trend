@@ -1,0 +1,45 @@
+{
+ "doc_id": "21478cfcd87a27d3",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/color-cosmetics/zaiie-palestinian-beauty-brand-makeup-1239347672/",
+ "title": "Meet Zaiie, a Makeup Veteran’s Vision for Palestinian-rooted Beauty",
+ "summary": "Founded by The Estée Lauder Cos. alum Reema Shihadeh, Zaiie looks to infuse high-performance products with hallmarks of Palestinian culture for a global audience.",
+ "published_at": "2026-10-15T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "PS"
+  ],
+  "brands": [
+   "Zaiie"
+  ],
+  "companies": [
+   "The Estée Lauder Cos."
+  ],
+  "keywords": [
+   "메이크업 뷰티",
+   "문화 기반 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에스티 로더 출신인 리마 시하데가 팔레스타인 문화에 뿌리를 둔 뷰티 브랜드 자이를 설립했다.",
+  "key_fact_quote": "Founded by The Estée Lauder Cos. alum Reema Shihadeh, Zaiie looks to infuse high-performance products with hallmarks of Palestinian culture for a global audience.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:40+00:00",
+ "had_body": false
+}

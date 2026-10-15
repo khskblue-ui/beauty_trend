@@ -1,0 +1,48 @@
+{
+ "doc_id": "fdb8ec9964dd07f3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261015_0003826649",
+ "title": "\"하지원 뷰티 부터 K팝까지\" CJ온스타일, 글로벌몰 열고 해외 공략",
+ "summary": "CJ온스타일은 셀렙샵의 첫 주자로 배우 하지원 전문관을 열고, 하지원이 론칭 한 뷰티 브랜드 '파우치24(POUCH24)' 상품을 선보이고 있다. 홍콩과 싱가포르에서 인지도가 높은 하지원의 콘텐츠를 활용해 현지 소비자에게...",
+ "published_at": "2026-10-15T08:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "HK",
+   "SG"
+  ],
+  "brands": [
+   "셀렙샵",
+   "파우치24"
+  ],
+  "companies": [
+   "CJ온스타일"
+  ],
+  "keywords": [
+   "글로벌몰",
+   "뷰티 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "CJ온스타일이 해외 시장 공략을 위해 글로벌몰을 열고 배우 하지원이 론칭한 뷰티 브랜드 파우치이십사 상품을 선보이고 있다.",
+  "key_fact_quote": "CJ온스타일은 셀렙샵의 첫 주자로 배우 하지원 전문관을 열고, 하지원이 론칭 한 뷰티 브랜드 '파우치24(POUCH24)' 상품을 선보이고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:30+00:00",
+ "had_body": false
+}

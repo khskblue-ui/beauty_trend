@@ -1,0 +1,44 @@
+{
+ "doc_id": "289c070f148dfc70",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://theviewers.co.kr/View.aspx?No=4263461",
+ "title": "크로마엑스, ‘뷰티월드 두바이 2026’ 참가… 중동 헤어 시장 공략 본격...",
+ "summary": "올해 개최 30주년을 맞은 뷰티월드 두바이는 글로벌 뷰티 브랜드 와 유통·판매업계 관계자들이 모여 최신 산업 동향을 공유하고 새로운 사업 기회를 발굴하는 국제 박람회다. 화장품과 헤어케어, 향수 등 다양한 뷰티...",
+ "published_at": "2026-10-14T15:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "event",
+  "countries": [
+   "AE"
+  ],
+  "brands": [],
+  "companies": [
+   "크로마엑스"
+  ],
+  "keywords": [
+   "헤어케어",
+   "뷰티 박람회",
+   "헤어 시장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "크로마엑스가 뷰티월드 두바이에 참가하여 중동 헤어 시장 공략에 본격적으로 나선다.",
+  "key_fact_quote": "크로마엑스, ‘뷰티월드 두바이 2026’ 참가… 중동 헤어 시장 공략 본격...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:22+00:00",
+ "had_body": false
+}

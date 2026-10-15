@@ -1,0 +1,45 @@
+{
+ "doc_id": "b2de87e14171764d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595116335874",
+ "title": "한국앤컴퍼니 모델솔루션, 뷰티 디바이스 사업 확대…'원스톱 ODM' 승부...",
+ "summary": "화장품 브랜드의 제품 기획부터 개발·생산까지 지원하는 제조업자개발생산(ODM) 사업을 새로운 성장동력으로... 자체 개발 조직이 없는 기업도 복잡한 제조 과정을 거치지 않고 뷰티 디바이스를 출시 할 수 있도록 돕는다....",
+ "published_at": "2026-10-15T15:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국앤컴퍼니",
+   "모델솔루션"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "원스톱 ODM",
+   "제조업자개발생산"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "모델솔루션이 화장품 브랜드를 위한 뷰티 디바이스 개발과 생산을 지원하는 제조업자개발생산 사업을 확대한다.",
+  "key_fact_quote": "화장품 브랜드의 제품 기획부터 개발·생산까지 지원하는 제조업자개발생산(ODM) 사업을 새로운 성장동력으로...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:00+00:00",
+ "had_body": false
+}

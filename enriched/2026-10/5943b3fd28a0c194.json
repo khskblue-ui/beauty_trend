@@ -1,0 +1,63 @@
+{
+ "doc_id": "5943b3fd28a0c194",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/galderma-rachete-le-californien-zo,28352",
+ "title": "Galderma rachète le californien ZO Skin Health pour 1,5 milliard de dollars",
+ "summary": "Le groupe suisse Galderma va racheter l'entreprise californienne ZO Skin Health sur la base d'une valeur d'entreprise de 1,5 milliard de dollars (1,3 milliard d'euros), a-t-il annoncé mercredi 14 octobre, lui permettant ainsi de se renforcer dans les soins médicalisés de la peau. Galderma a signé un accord prévoyant le rachat en numéraire de l'intégralité de ce fabricant de soins dermatologiques auprès de ses actionnaires, dont des fonds de la société d'investissement Blackstone et la... - Brèves",
+ "published_at": "2026-10-15T20:22:13+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "CH",
+   "US"
+  ],
+  "brands": [
+   "Cetaphil",
+   "Alastin"
+  ],
+  "companies": [
+   "Galderma",
+   "ZO Skin Health",
+   "Blackstone",
+   "Vontobel",
+   "L'Oréal",
+   "Nestlé",
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "피부 관리",
+   "의료 스킨케어",
+   "기업 인수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "스위스 갈더마가 메디컬 스킨케어 경쟁력 강화를 위해 미국 제오 스킨 헬스를 인수하기로 합의했다.",
+  "key_fact_quote": "Le groupe suisse Galderma va racheter l'entreprise californienne ZO Skin Health sur la base d'une valeur d'entreprise de 1,5 milliard de dollars (1,3 milliard d'euros), a-t-il annoncé mercredi 14 octobre, lui permettant ainsi de se renforcer dans les soins médicalisés de la peau.",
+  "events": [
+   {
+    "name": "salon in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:20+00:00",
+ "had_body": true
+}

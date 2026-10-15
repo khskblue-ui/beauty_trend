@@ -1,0 +1,47 @@
+{
+ "doc_id": "ca412dc56c9f561a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newslock.co.kr/news/articleView.html?idxno=138021",
+ "title": "휴메딕스 엘라비에, K - 뷰티 엑스포 참가…해외 판로 확대 나서",
+ "summary": "전문 바이어와 1대1 맞춤형 비즈니스 상담을 진행해 수출 및 유통 판로 확대도 추진한다. 휴메딕스 관계자는 \"글로벌 뷰티 트렌드를 이끄는 K - 뷰티 엑스포를 통해 엘라비에 코스메틱의 차별화된 기술력과 품질을...",
+ "published_at": "2026-10-15T15:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "엘라비에",
+   "엘라비에 코스메틱"
+  ],
+  "companies": [
+   "휴메딕스"
+  ],
+  "keywords": [
+   "뷰티 엑스포",
+   "해외 판로 확대",
+   "비즈니스 상담"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "휴메딕스 엘라비에가 뷰티 엑스포에 참가해 해외 판로 확대에 나선다.",
+  "key_fact_quote": "휴메딕스 엘라비에, K - 뷰티 엑스포 참가…해외 판로 확대 나서",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:43+00:00",
+ "had_body": false
+}

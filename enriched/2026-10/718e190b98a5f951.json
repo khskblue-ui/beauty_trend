@@ -1,0 +1,83 @@
+{
+ "doc_id": "718e190b98a5f951",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100157",
+ "title": "앰플엔, ‘메가팩토리’ 3개 지점 입점 약국 유통 채널 진출",
+ "summary": "코리아나화장품 브랜드 앰플엔이 창고형 약국 메가팩토리 3개 지점에 입점하며 오프라인 유통 채널 확대에 나섰다.앰플엔은 이번 입점을 통해 메가팩토리 성남점과 금천점, 광교점에서 총 21개 제품을 선보인다. 피부 고민에 따른 맞춤형 스킨케어 솔루션을 제안해 온 브랜드 특성을 바탕으로 약국 유통 채널까지 소비자 접점을 확대한다는 계획이다.메가팩토리는 의약품과 건강식품은 물론 화장품까지 한곳에서 구매할 수 있는 창고형 약국이다. 앰플엔은 기술력과 성분을 기반으로 한 더마코스메틱 브랜드의 특성을 살려 약국 유통 채널과의 소비자 접점을 확대해",
+ "published_at": "2026-10-15T10:02:02+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "앰플엔"
+  ],
+  "companies": [
+   "코리아나화장품"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "약국 화장품",
+   "스킨케어 솔루션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "하이퍼샷",
+    "brand": "앰플엔",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "세라마이드샷 앰플",
+    "brand": "앰플엔",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "펩타이드샷 앰플 투엑스 대용량",
+    "brand": "앰플엔",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코리아나화장품의 앰플엔이 창고형 약국 메가팩토리 지점들에 입점하며 약국 유통 채널에 진출했다.",
+  "key_fact_quote": "코리아나화장품 브랜드 앰플엔이 창고형 약국 메가팩토리 3개 지점에 입점하며 오프라인 유통 채널 확대에 나섰다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "특히 신제품 ‘하이퍼샷’ 라인 3종을 비롯해 올리브영 재구매 1위 제품인 ‘앰플엔 세라마이드샷 앰플’, 누적 판매량 300만 병을 기록한 ‘앰플엔 펩타이드샷 앰플 투엑스 대용량’ 등 브랜드의 대표 제품들을 만나볼 수 있다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "특히 신제품 ‘하이퍼샷’ 라인 3종을 비롯해 올리브영 재구매 1위 제품인 ‘앰플엔 세라마이드샷 앰플’, 누적 판매량 300만 병을 기록한 ‘앰플엔 펩타이드샷 앰플 투엑스 대용량’ 등 브랜드의 대표 제품들을 만나볼 수 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:43+00:00",
+ "had_body": true
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "b4b3660a3edd2539",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/15/2026101580157.html",
+ "title": "K - 뷰티 수출 신기록 정조준… KOTRA, 'K-뷰티엑스포 코리아'서 역대 최대...",
+ "summary": "K - 뷰티 중견기업 수출 액은 10년 새 20.8배 늘었고, 전체 화장품 수출 에서 차지하는 비중도 3.5%에서 19.1%로 대폭 뛰었다. 수출 기업 수 역시 가파르게 증가했다. 기초화장품을 수출 하는 중소기업은 2016년 2808곳에서 2025년...",
+ "published_at": "2026-10-15T20:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "KOTRA"
+  ],
+  "keywords": [
+   "수출 확대",
+   "화장품 수출",
+   "기초화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 수출에서 중견기업 수출액과 비중이 크게 늘고 기초화장품 수출 중소기업 수도 가파르게 증가했다.",
+  "key_fact_quote": "K - 뷰티 중견기업 수출 액은 10년 새 20.8배 늘었고, 전체 화장품 수출 에서 차지하는 비중도 3.5%에서 19.1%로 대폭 뛰었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:28+00:00",
+ "had_body": false
+}

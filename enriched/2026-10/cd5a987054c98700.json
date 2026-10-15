@@ -1,0 +1,68 @@
+{
+ "doc_id": "cd5a987054c98700",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58494",
+ "title": "글로벌 화장품용 나노캡슐 시장 24억달러(‘34) 전망... 다기능, 치료·웰빙 솔루션으로 주목",
+ "summary": "[코스인코리아닷컴 김민석 기자]미국 시장조사기관 트랜스페어런시 마켓 리서치(Transparency Market Research, TMR)의 ‘화장품용 나노캡슐 시장(Nanocapsules Market for Cosmetics)’ 보고서에 따르면 시장 규모가 13억 달러(한화 1조 7,420억 원, ’23년) → 24억 달러(한화 3조 2,160억 원, ’",
+ "published_at": "2026-10-13T11:01:03+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "DE",
+   "FR",
+   "CH",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Transparency Market Research",
+   "BASF SE",
+   "L'Oréal Groupe",
+   "DSM-Firmenich",
+   "CLARIANT",
+   "Croda International Plc",
+   "Gattefossé",
+   "The Lubrizol Corporation",
+   "Ashland Inc.",
+   "Kobo Products Inc.",
+   "Givaudan"
+  ],
+  "keywords": [
+   "나노캡슐",
+   "나노코스메슈티컬",
+   "캡슐화",
+   "화장품 제형 기술"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "글로벌 화장품용 나노캡슐 시장이 활성 성분 전달 효율과 안정성을 높이는 첨단 기술로서 주목받으며 지속적인 성장이 전망된다.",
+  "key_fact_quote": "나노캡슐(Nanocapsule)은 생리활성 물질을 운반하고 방출할 수 있는 나노미터 단위의 껍질로 핵(core)이 감싸진 형태로 피부 침투율과 안정성을 높이고 성분을 서서히 방출하는 전달 기술이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "고분자 나노캡슐",
+    "quote": "특히 고분자 나노캡슐은 생체 적합성과 생분해성을 갖추면서도 제어된 방출 및 효과적인 전달 기능을 제공할 수 있어 주목받고 있다."
+   },
+   {
+    "name": "나노소재",
+    "quote": "다만 △ 높은 생산 비용 △ 복잡한 제형 공정 △ 나노소재(Nanomaterial)에 대한 규제 심사가 제약 요인이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:03+00:00",
+ "had_body": true
+}

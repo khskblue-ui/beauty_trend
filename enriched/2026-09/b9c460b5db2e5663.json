@@ -1,0 +1,90 @@
+{
+ "doc_id": "b9c460b5db2e5663",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pressman.kr/news/articleView.html?idxno=103753",
+ "title": "'예쁜 화장품' 넘어… 기술로 승부한다",
+ "summary": "신세계인터내셔날이 수입·판매하는 로에베 퍼퓸 은 향의 선택지를 늘렸다. 니치 향수 라인 '크래프티드 컬렉션'에 필드 다이어리, 스위트 우드랜드, 로즈토피아, 스모키 레인, 버던트 그로브 등 5종을 추가했다. 신제품은...",
+ "published_at": "2026-09-22T10:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 퍼퓸",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "로에베 퍼퓸"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "니치 향수"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "필드 다이어리",
+    "brand": "로에베 퍼퓸",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "니치 향수 라인 '크래프티드 컬렉션'에 필드 다이어리, 스위트 우드랜드, 로즈토피아, 스모키 레인, 버던트 그로브 등 5종을 추가했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스위트 우드랜드",
+    "brand": "로에베 퍼퓸",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "니치 향수 라인 '크래프티드 컬렉션'에 필드 다이어리, 스위트 우드랜드, 로즈토피아, 스모키 레인, 버던트 그로브 등 5종을 추가했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "로즈토피아",
+    "brand": "로에베 퍼퓸",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "니치 향수 라인 '크래프티드 컬렉션'에 필드 다이어리, 스위트 우드랜드, 로즈토피아, 스모키 레인, 버던트 그로브 등 5종을 추가했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스모키 레인",
+    "brand": "로에베 퍼퓸",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "니치 향수 라인 '크래프티드 컬렉션'에 필드 다이어리, 스위트 우드랜드, 로즈토피아, 스모키 레인, 버던트 그로브 등 5종을 추가했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "버던트 그로브",
+    "brand": "로에베 퍼퓸",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "니치 향수 라인 '크래프티드 컬렉션'에 필드 다이어리, 스위트 우드랜드, 로즈토피아, 스모키 레인, 버던트 그로브 등 5종을 추가했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신세계인터내셔날이 수입 및 판매하는 로에베 퍼퓸이 니치 향수 라인 크래프티드 컬렉션에 신제품을 추가했다.",
+  "key_fact_quote": "신세계인터내셔날이 수입·판매하는 로에베 퍼퓸 은 향의 선택지를 늘렸다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:04+00:00",
+ "had_body": false
+}

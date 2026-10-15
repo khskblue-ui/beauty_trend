@@ -1,0 +1,42 @@
+{
+ "doc_id": "bdc21cdafcc88d60",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026101520325645291",
+ "title": "\"주문 쏟아지는데\"…화장품용기 '대란' 속타는 K뷰티",
+ "summary": "K뷰티 수출 이 사상 최대 행진을 이어가고 있지만 중소 브랜드들의 고민은 깊어지고 있다. 해외 주문이 늘어나는 속도를 용기와 뚜껑 등 부자재 공급이 따라가지 못하면서다. 원료 수급 불안에 용기 부족까지 겹쳐...",
+ "published_at": "2026-10-16T07:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 용기",
+   "부자재 공급",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해외 주문 증가 속도를 용기와 뚜껑 등 부자재 공급이 따라가지 못해 화장품 브랜드들의 어려움이 가중되고 있다.",
+  "key_fact_quote": "해외 주문이 늘어나는 속도를 용기와 뚜껑 등 부자재 공급이 따라가지 못하면서다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:21+00:00",
+ "had_body": false
+}

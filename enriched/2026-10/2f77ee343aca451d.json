@@ -1,0 +1,56 @@
+{
+ "doc_id": "2f77ee343aca451d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7314",
+ "title": "다이소, 뷰티 330종·밀폐 용기 30종…온라인서 상품군 확대",
+ "summary": "아성다이소가 더마·헤어케어 화장품 부터 식재료 보관용 밀폐 용기까지 상품군을 넓히며 가을철 소비... 지난 12일부터 15일까지 매일 오전 9시 신제품 을 공개하는 '뷰티 신상 라인업'에서는 닥터CPU, 더마푸라민, 더마펌...",
+ "published_at": "2026-10-15T16:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "닥터CPU",
+   "더마푸라민",
+   "더마펌"
+  ],
+  "companies": [
+   "아성다이소"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "헤어케어 화장품",
+   "뷰티 신상"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아성다이소가 더마 및 헤어케어 화장품을 포함한 상품군을 온라인에서 확대한다.",
+  "key_fact_quote": "아성다이소가 더마·헤어케어 화장품 부터 식재료 보관용 밀폐 용기까지 상품군을 넓히며 가을철 소비...",
+  "events": [
+   {
+    "name": "뷰티 신상 라인업",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-15",
+    "place": null,
+    "quote": "지난 12일부터 15일까지 매일 오전 9시 신제품 을 공개하는 '뷰티 신상 라인업'에서는 닥터CPU, 더마푸라민, 더마펌..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:59+00:00",
+ "had_body": false
+}

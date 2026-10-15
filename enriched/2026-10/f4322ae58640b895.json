@@ -1,0 +1,47 @@
+{
+ "doc_id": "f4322ae58640b895",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.metroseoul.co.kr/article/20261015500397",
+ "title": "스킨부스터로 남미 뚫는 에이피알, 화장품 늘리는 휴젤·파마리서치...'...",
+ "summary": "K뷰티 대표 주자인 에이피알이 전문 스킨부스터를 앞세워 중남미 시장 공략에 본격 나선다. 기존 보톡스... 방식의 수출 용 4등급 의료기기 허가를 받았다. 에이피알은 용도와 투여 방식에 따른 제품군을 바탕으로 현지의...",
+ "published_at": "2026-10-15T15:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알",
+   "휴젤",
+   "파마리서치"
+  ],
+  "keywords": [
+   "스킨부스터",
+   "의료기기",
+   "중남미 시장 공략",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에이피알이 전문 스킨부스터를 앞세워 중남미 시장 공략에 나선다.",
+  "key_fact_quote": "K뷰티 대표 주자인 에이피알이 전문 스킨부스터를 앞세워 중남미 시장 공략에 본격 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:45+00:00",
+ "had_body": false
+}

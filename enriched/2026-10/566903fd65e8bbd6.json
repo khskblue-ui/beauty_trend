@@ -1,0 +1,46 @@
+{
+ "doc_id": "566903fd65e8bbd6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7189100",
+ "title": "휴메딕스, K - 뷰티 엑스포서 엘라비에 전시·유통 상담 진행",
+ "summary": "올해 18회째인 K - 뷰티 엑스포에는 15개국 679개사가 참여한다. 휴메딕스는 일반 관람객과 국내외 수출 ·유통업계 관계자에게 엘라비에의 스킨케어 제품을 소개한다. 회사 측에 따르면 행사에 앞서 해외 바이어들의 제품...",
+ "published_at": "2026-10-15T14:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "엘라비에"
+  ],
+  "companies": [
+   "휴메딕스"
+  ],
+  "keywords": [
+   "뷰티 엑스포",
+   "스킨케어",
+   "수출 유통 상담"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "휴메딕스가 뷰티 박람회에 참가해 엘라비에 스킨케어 제품을 전시하고 유통 상담을 진행한다.",
+  "key_fact_quote": "휴메딕스, K - 뷰티 엑스포서 엘라비에 전시·유통 상담 진행",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:49+00:00",
+ "had_body": false
+}

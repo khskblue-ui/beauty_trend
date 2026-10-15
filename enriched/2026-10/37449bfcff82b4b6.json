@@ -1,0 +1,49 @@
+{
+ "doc_id": "37449bfcff82b4b6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.tf.co.kr/read/economy/2376730.htm",
+ "title": "'올영 천하' 흔드는 가성비 군단…다이소·무신사·오프뷰티 홍대서 격...",
+ "summary": "당시 해외에서는 의약품 위주에 화장품 ·생활용품을 더한 드럭스토어가 대세였으나, 올리브영은 화장품 과... 올리브영은 최근 모바일 앱에 신상품 큐레이션 코너 '올영신상'을 개설해 최근 3개월간 출시 된 300여개 유망...",
+ "published_at": "2026-10-16T00:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영",
+   "다이소",
+   "무신사",
+   "오프뷰티"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "드럭스토어",
+   "뷰티 리테일",
+   "신상품 큐레이션"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 모바일 앱에 유망 상품을 선보이는 신규 신상품 큐레이션 코너를 개설했다.",
+  "key_fact_quote": "올리브영은 최근 모바일 앱에 신상품 큐레이션 코너 '올영신상'을 개설해 최근 3개월간 출시 된 300여개 유망...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:57+00:00",
+ "had_body": false
+}

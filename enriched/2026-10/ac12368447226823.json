@@ -1,0 +1,73 @@
+{
+ "doc_id": "ac12368447226823",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100155",
+ "title": "SBA, 美 VC와 손잡고 서울 뷰티 스타트업 8개사와 뉴욕 공략",
+ "summary": "서울시와 서울경제진흥원(SBA)이 운영하는 서울시 대표 창업 지원기관 서울창업허브 공덕은 美 벤처캐피탈(VC) IgniteXL Ventures와 10월 15일(목)부터 18일(일)까지(현지시간) 미국 뉴욕 맨해튼 Iron 23에서 열리는 'KOOM Pop-ups 2026(KOOM Week 2026)'에 참가해 '서울관'을 운영한다고 밝혔다.KOOM Week는 한국인 창업가, 투자자, 혁신가들이 서로 돕고 함께 성장하기 위해 설립된 북미 최대 규모의 한인 창업 커뮤니티인 ‘UKF (United Korean",
+ "published_at": "2026-10-15T09:56:44+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "루미오",
+   "플러프",
+   "멜릭서",
+   "지피엘",
+   "체리엑스엑스",
+   "제로스테이트",
+   "유니스텔라",
+   "리브라헬스"
+  ],
+  "companies": [
+   "서울경제진흥원",
+   "서울창업허브",
+   "IgniteXL Ventures",
+   "UKF"
+  ],
+  "keywords": [
+   "비건 뷰티",
+   "색조 메이크업",
+   "해외 진출",
+   "뷰티 스타트업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "서울경제진흥원은 미국 벤처캐피털과 협력해 서울의 유망 뷰티 스타트업들과 함께 뉴욕 팝업 페스티벌에서 서울관을 운영하며 현지 시장 공략에 나섰다.",
+  "key_fact_quote": "서울시와 서울경제진흥원(SBA)이 운영하는 서울시 대표 창업 지원기관 서울창업허브 공덕은 美 벤처캐피탈(VC) IgniteXL Ventures와 10월 15일(목)부터 18일(일)까지(현지시간) 미국 뉴욕 맨해튼 Iron 23에서 열리는 'KOOM Pop-ups 2026(KOOM Week 2026)'에 참가해 '서울관'을 운영한다고 밝혔다.",
+  "events": [
+   {
+    "name": "KOOM Pop-ups 2026(KOOM Week 2026)",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-18",
+    "place": "미국 뉴욕 맨해튼 Iron 23",
+    "quote": "서울시와 서울경제진흥원(SBA)이 운영하는 서울시 대표 창업 지원기관 서울창업허브 공덕은 美 벤처캐피탈(VC) IgniteXL Ventures와 10월 15일(목)부터 18일(일)까지(현지시간) 미국 뉴욕 맨해튼 Iron 23에서 열리는 'KOOM Pop-ups 2026(KOOM Week 2026)'에 참가해 '서울관'을 운영한다고 밝혔다."
+   },
+   {
+    "name": "K-Beauty Mafia: NYC Happy Hour",
+    "start_date": "2026-10-13",
+    "end_date": null,
+    "place": "맨해튼",
+    "quote": "한편, 개막을 앞둔 13일(화, 현지시간)에는 참가기업과 美 투자자·바이어·인플루언서 등 약 35명이 참석하는K-Beauty Mafia: NYC Happy Hour'를 맨해튼에서 열어 브랜드 쇼케이스와 IR 네트워킹을 진행했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:43+00:00",
+ "had_body": true
+}

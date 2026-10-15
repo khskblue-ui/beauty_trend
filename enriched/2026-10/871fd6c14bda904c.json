@@ -1,0 +1,56 @@
+{
+ "doc_id": "871fd6c14bda904c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.mtn.co.kr/article/2026101510513574591",
+ "title": "[단독] 에이블리, 뷰티판 키운다…스킨케어 라인 '피노티' 론칭",
+ "summary": "그동안 쌓아온 고객 취향과 구매 데이터를 뷰티 상품 추천과 기획에 활용할 수 있어서다.온라인 화장품 ... 것”이라며 “피노티의 구체적인 제품 라인업과 출시 시점은 미정”이라고 전했다.김가현 머니투데이방송 MTN 기자",
+ "published_at": "2026-10-15T10:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피노티"
+  ],
+  "companies": [
+   "에이블리"
+  ],
+  "keywords": [
+   "스킨케어 라인",
+   "뷰티 상품 기획",
+   "온라인 화장품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "피노티",
+    "brand": "피노티",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "[단독] 에이블리, 뷰티판 키운다…스킨케어 라인 '피노티' 론칭",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이블리가 새로운 스킨케어 라인을 선보일 계획이다.",
+  "key_fact_quote": "[단독] 에이블리, 뷰티판 키운다…스킨케어 라인 '피노티' 론칭",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:07+00:00",
+ "had_body": false
+}

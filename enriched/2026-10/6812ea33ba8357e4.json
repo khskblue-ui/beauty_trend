@@ -1,0 +1,47 @@
+{
+ "doc_id": "6812ea33ba8357e4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.handmk.com/news/articleView.html?idxno=44085",
+ "title": "[업계잇-슈!] 화장품, 이제 어떻게 진피로 전달할 것인가 '그것이 문제로...",
+ "summary": "전달력이 만든 뷰티 디바이스 열풍 올리브영은 지난 3월 말 '어드밴스드 더마' 카테고리를 론칭 하며 '고기능... 국내 뷰티 소비의 구조적 변화가 있다. 소비자들은 브랜드 이름값보다 성분과 효능을 따지는 '성분...",
+ "published_at": "2026-10-14T13:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "어드밴스드 더마",
+   "고기능성화장품",
+   "더마 코스메틱"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 뷰티 소비 구조가 변화하며 화장품 전달력 중심의 뷰티 디바이스 열풍과 고기능성 카테고리 론칭이 이어지고 있다.",
+  "key_fact_quote": "전달력이 만든 뷰티 디바이스 열풍 올리브영은 지난 3월 말 '어드밴스드 더마' 카테고리를 론칭 하며 '고기능... 국내 뷰티 소비의 구조적 변화가 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:32+00:00",
+ "had_body": false
+}

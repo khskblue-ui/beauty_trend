@@ -1,0 +1,85 @@
+{
+ "doc_id": "5b954805279e239e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.peoplewatch.co.kr/article/view/ppw202610150003",
+ "title": "화장품 넘어 의료기기까지…김병훈의 에이피알, 글로벌 사업 영토 넓힌...",
+ "summary": "김병훈 에이피알 대표이사가 화장품 과 홈 뷰티 디바이스를 넘어 의료기기까지 사업 영역을 확대하며 글로벌... 베스트셀러인 제로모공패드와 PDRN 핑크 펩타이드 앰플, 콜라겐 젤크림 등이 판매 호조를 보였으며 신제품 과...",
+ "published_at": "2026-10-15T10:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "홈 뷰티 디바이스",
+   "의료기기 사업 확대",
+   "기능성 스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "제로모공패드",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PDRN 핑크 펩타이드 앰플",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "콜라겐 젤크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피알이 화장품과 홈 뷰티 디바이스에 이어 의료기기로 사업 영역을 확장하며 글로벌 시장을 공략하고 있다.",
+  "key_fact_quote": "김병훈 에이피알 대표이사가 화장품 과 홈 뷰티 디바이스를 넘어 의료기기까지 사업 영역을 확대하며 글로벌...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "베스트셀러인 제로모공패드와 PDRN 핑크 펩타이드 앰플, 콜라겐 젤크림 등이 판매 호조를 보였으며 신제품 과..."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "베스트셀러인 제로모공패드와 PDRN 핑크 펩타이드 앰플, 콜라겐 젤크림 등이 판매 호조를 보였으며 신제품 과..."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "베스트셀러인 제로모공패드와 PDRN 핑크 펩타이드 앰플, 콜라겐 젤크림 등이 판매 호조를 보였으며 신제품 과..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:09+00:00",
+ "had_body": false
+}

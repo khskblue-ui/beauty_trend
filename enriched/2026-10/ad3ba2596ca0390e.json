@@ -1,0 +1,97 @@
+{
+ "doc_id": "ad3ba2596ca0390e",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=310701",
+ "title": "② Why Belgian Consumers Keep Coming Back to K-Beauty",
+ "summary": "Editor\\'s Note: As K-beauty gains momentum across Europe, Beauty Economy interviewed five consumers in Belgium to better understand how they purchase and use Korean beauty products. In Part 2, we analyze purchasing behavior and the factors behind repeat purchases.K-Beauty Has Become Part of Daily Ski",
+ "published_at": "2026-10-15T08:35:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "BE",
+   "KR"
+  ],
+  "brands": [
+   "Beplain",
+   "Beauty of Joseon",
+   "Probioderm"
+  ],
+  "companies": [],
+  "keywords": [
+   "스킨케어 루틴",
+   "재구매 요인",
+   "소비자 리뷰",
+   "천연 성분"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Mung Bean Cleanser",
+    "brand": "Beplain",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Rice Sunscreen",
+    "brand": "Beauty of Joseon",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Probioderm cream",
+    "brand": "Probioderm",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "벨기에 소비자 대상 인터뷰 결과 한국 화장품은 단순한 호기심을 넘어 제품 효능과 성분 신뢰도 및 긍정적인 실사용 후기를 바탕으로 일상 스킨케어 루틴으로 정착하고 있다.",
+  "key_fact_quote": "The interviews suggest that K-beauty has moved beyond curiosity-driven purchases and become integrated into many consumers' daily skincare routines.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Mung Bean",
+    "quote": "One respondent recently purchased Beplain's Mung Bean Cleanser, explaining that strong reviews from both Korean and international consumers influenced the buying decision."
+   },
+   {
+    "name": "Rice",
+    "quote": "Another consumer chose Beauty of Joseon's Rice Sunscreen, attracted by the product's rice-based formulation and ingredient-focused positioning."
+   },
+   {
+    "name": "ginseng",
+    "quote": "Consumers expressed continued interest in ingredients such as ginseng, rice, and mung bean, which are often associated with Korean skincare."
+   },
+   {
+    "name": "rice",
+    "quote": "Consumers expressed continued interest in ingredients such as ginseng, rice, and mung bean, which are often associated with Korean skincare."
+   },
+   {
+    "name": "mung bean",
+    "quote": "Consumers expressed continued interest in ingredients such as ginseng, rice, and mung bean, which are often associated with Korean skincare."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:39+00:00",
+ "had_body": true
+}

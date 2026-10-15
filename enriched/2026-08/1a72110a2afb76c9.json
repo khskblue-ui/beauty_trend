@@ -1,0 +1,79 @@
+{
+ "doc_id": "1a72110a2afb76c9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=130365",
+ "title": "에이솔루션, 다이소 신규 라인 론칭 기념 '뷰티뿔 무빙 팝업' 연다",
+ "summary": "팝업에서는 '트러블 빅 스팟 패치 01 핑크 래빗'과 '02 원더랜드', '칼라민 바디 트러블 미스트 ', '칼라민 바디 ... 이번 다이소 신규 라인 출시 를 계기로 오프라인 체험과 유통 채널을 확대하며 소비자 접근성을 강화한다는...",
+ "published_at": "2026-08-21T09:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이솔루션"
+  ],
+  "companies": [
+   "다이소"
+  ],
+  "keywords": [
+   "바디 트러블 미스트",
+   "스팟 패치",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "트러블 빅 스팟 패치 01 핑크 래빗",
+    "brand": "에이솔루션",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에이솔루션, 다이소 신규 라인 론칭 기념 '뷰티뿔 무빙 팝업' 연다",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "02 원더랜드",
+    "brand": "에이솔루션",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에이솔루션, 다이소 신규 라인 론칭 기념 '뷰티뿔 무빙 팝업' 연다",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "칼라민 바디 트러블 미스트",
+    "brand": "에이솔루션",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에이솔루션, 다이소 신규 라인 론칭 기념 '뷰티뿔 무빙 팝업' 연다",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이솔루션이 다이소 신규 라인 출시를 기념해 팝업 행사를 연다.",
+  "key_fact_quote": "에이솔루션, 다이소 신규 라인 론칭 기념 '뷰티뿔 무빙 팝업' 연다",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "칼라민",
+    "quote": "팝업에서는 '트러블 빅 스팟 패치 01 핑크 래빗'과 '02 원더랜드', '칼라민 바디 트러블 미스트 ', '칼라민 바디 ... 이번 다이소 신규 라인 출시 를 계기로 오프라인 체험과 유통 채널을 확대하며 소비자 접근성을 강화한다는..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:57+00:00",
+ "had_body": false
+}

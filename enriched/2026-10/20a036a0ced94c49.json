@@ -1,0 +1,45 @@
+{
+ "doc_id": "20a036a0ced94c49",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/unconventional-beauty-spring-2027-paris-runways-1239336187/",
+ "title": "Unconventional Beauty From Spring 2027 Paris Runways",
+ "summary": "Hair and makeup at shows such as Yohji Yamamoto, Mugler and Rick Owens rocked otherworldly glam.",
+ "published_at": "2026-10-13T13:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Yohji Yamamoto",
+   "Mugler",
+   "Rick Owens"
+  ],
+  "companies": [],
+  "keywords": [
+   "런웨이 뷰티",
+   "헤어 메이크업 트렌드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "파리 런웨이 쇼에서 요지 야마모토, 뮈글러, 릭 오웬스 등의 브랜드가 파격적인 헤어와 메이크업 스타일을 선보였다.",
+  "key_fact_quote": "Hair and makeup at shows such as Yohji Yamamoto, Mugler and Rick Owens rocked otherworldly glam.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:42+00:00",
+ "had_body": false
+}

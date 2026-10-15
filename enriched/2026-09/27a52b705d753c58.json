@@ -1,0 +1,67 @@
+{
+ "doc_id": "27a52b705d753c58",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=768180",
+ "title": "로에베 퍼퓸 , 신규 향수 5종...에스쁘아, '페이크 쉐도우 컨투어 스틱' ...",
+ "summary": "사진=로에베 신세계인터내셔날이 수입·판매하는 스페인 럭셔리 브랜드 로에베 퍼퓸 이 니치 향수 라인 '크래프티드 컬렉션'에 신규 향수 5종을 추가하며 라인업을 확대한다. '크래프티드 컬렉션'은 자연과 창의성, 조향...",
+ "published_at": "2026-09-22T20:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 퍼퓸",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "ES"
+  ],
+  "brands": [
+   "로에베 퍼퓸",
+   "로에베",
+   "에스쁘아"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "니치 향수",
+   "럭셔리 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "크래프티드 컬렉션",
+    "brand": "로에베 퍼퓸",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "로에베 퍼퓸 이 니치 향수 라인 '크래프티드 컬렉션'에 신규 향수 5종을 추가하며 라인업을 확대한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "페이크 쉐도우 컨투어 스틱",
+    "brand": "에스쁘아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "로에베 퍼퓸이 니치 향수 라인 크래프티드 컬렉션에 신규 향수를 추가하며 라인업을 확대한다.",
+  "key_fact_quote": "신세계인터내셔날이 수입·판매하는 스페인 럭셔리 브랜드 로에베 퍼퓸 이 니치 향수 라인 '크래프티드 컬렉션'에 신규 향수 5종을 추가하며 라인업을 확대한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:02+00:00",
+ "had_body": false
+}

@@ -1,0 +1,68 @@
+{
+ "doc_id": "8e1680d4619b3b63",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58509",
+ "title": "[2신] ‘2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스’ 개막... “규제 대응은 제품 개발과 시장진출 핵심 경쟁력”",
+ "summary": "[코스인코리아닷컴 권태흥 기자](재)대한화장품산업연구원(원장 조신행)이 10월 14일부터 15일까지 양일간 로얄호텔 서울 그랜드볼룸에서 개최한 ‘2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스’에서 전문가 발표를 요약한다. EU·영국 화장품 규제 비교 및 영국의 최신 규제 동향_ 니코 쇼 누네즈(Nico Shaw Nunez) 규제·지속가능성 담",
+ "published_at": "2026-10-15T11:09:29+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "GB",
+   "FR",
+   "AU",
+   "NZ",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원",
+   "First Research",
+   "Essity",
+   "윈게이트코리아",
+   "코스메드"
+  ],
+  "keywords": [
+   "수출 규제",
+   "안전성 평가",
+   "규제 대응",
+   "제품정보파일"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한화장품산업연구원이 주최한 컨퍼런스에서 국내외 전문가들은 글로벌 시장 진출을 위한 화장품 규제 대응과 과학적 안전성 평가 관리체계 구축의 중요성을 제시했다.",
+  "key_fact_quote": "14일 컨퍼런스 첫날 발표에서 국내외 전문가들은 ▲ 글로벌 화장품 시장에서 규제 대응을 수출 과정의 부수적인 업무가 아니라 ▲ 제품 개발과 시장 진출 전략을 결정하는 핵심 경쟁력으로 인식해야 한다는 점을 전했다.",
+  "events": [
+   {
+    "name": "2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-15",
+    "place": "로얄호텔 서울 그랜드볼룸",
+    "quote": "(재)대한화장품산업연구원(원장 조신행)이 10월 14일부터 15일까지 양일간 로얄호텔 서울 그랜드볼룸에서 개최한 ‘2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스’에서 전문가 발표를 요약한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PFAS",
+    "quote": "▲ PFAS 규제가 화장품 원료와 공급망 관리의 새로운 과제로 부상하고 있다"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:49:48+00:00",
+ "had_body": true
+}

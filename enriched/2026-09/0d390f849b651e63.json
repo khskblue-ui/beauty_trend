@@ -1,0 +1,68 @@
+{
+ "doc_id": "0d390f849b651e63",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.esquirekorea.co.kr/article/1909695",
+ "title": "빨래만 했는데 향수 냄새 나는 '섬유유연제' 추천 7",
+ "summary": "우브에 니치 향 퍼퓸 섬유유연제 그린자스민 상품 자세히 보기 깨끗한 사람에게서 날 것 같은 향, 우브에 소피제라늄 첫 향에서는 그린하고 달콤한 비누향이 느껴지고, 이어 자스민과 제라늄이 중심을 잡고, 마지막에는...",
+ "published_at": "2026-09-15T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 퍼퓸",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "우브에"
+  ],
+  "companies": [],
+  "keywords": [
+   "섬유유연제",
+   "니치 향수",
+   "퍼퓸 섬유유연제"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "우브에 니치 향 퍼퓸 섬유유연제 그린자스민",
+    "brand": "우브에",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "소피제라늄",
+    "brand": "우브에",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "그린",
+     "달콤한 비누향",
+     "자스민",
+     "제라늄"
+    ],
+    "notes_quote": "첫 향에서는 그린하고 달콤한 비누향이 느껴지고, 이어 자스민과 제라늄이 중심을 잡고, 마지막에는..."
+   }
+  ],
+  "key_fact": "향수 같은 향기를 내는 섬유유연제 제품들이 소개되었다.",
+  "key_fact_quote": "빨래만 했는데 향수 냄새 나는 '섬유유연제' 추천 7",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:11+00:00",
+ "had_body": false
+}

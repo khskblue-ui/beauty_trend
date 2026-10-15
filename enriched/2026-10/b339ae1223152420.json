@@ -1,0 +1,47 @@
+{
+ "doc_id": "b339ae1223152420",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.dailypop.kr/news/articleView.html?idxno=103403",
+ "title": "제약 기반 뷰티 부터 글로벌 육성까지…K- 뷰티 , 시장 다변화·영토 확장...",
+ "summary": "국내 뷰티 및 제약·바이오 기업들이 제약 기반의 독자적인 기술력과 글로벌 상생 프로그램, 합리적인... (FUSIDERM)'의 신제품 인 '흔적 리페어' 라인 5종을 균일가 생활용품점 다이소에 정식 출시 했다. 피부 시술 대중화에...",
+ "published_at": "2026-10-15T09:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "FUSIDERM"
+  ],
+  "companies": [
+   "다이소"
+  ],
+  "keywords": [
+   "제약 기반 뷰티",
+   "K-뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 뷰티 및 제약·바이오 기업들이 독자적인 기술력을 기반으로 다변화에 나선 가운데 신제품 라인이 다이소에 정식 출시되었다.",
+  "key_fact_quote": "(FUSIDERM)'의 신제품 인 '흔적 리페어' 라인 5종을 균일가 생활용품점 다이소에 정식 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "product:흔적 리페어 라인 5종"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:19+00:00",
+ "had_body": false
+}

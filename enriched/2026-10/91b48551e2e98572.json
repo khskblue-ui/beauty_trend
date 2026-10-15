@@ -1,0 +1,57 @@
+{
+ "doc_id": "91b48551e2e98572",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58501",
+ "title": "대한화장품산업연구원, 필리핀 피부특성·브라질 뷰티시장 세미나 11월 개최",
+ "summary": "[코스인코리아닷컴 길태윤 기자] (재)대한화장품산업연구원(원장 조신행, 이하 연구원)이 오는 11월 20일 오후 1시부터 4시까지 서울 강남구 스페이스쉐어 강남센터 주피터홀에서 ‘2026 피부특성 정보은행 사업 결과 세미나’를 개최한다고 14일 밝혔다. 보건복지부가 후원하는 이번 세미나에서는 올해 필리핀 현지 소비자를 대상으로 수집한 피부특성과 화장품",
+ "published_at": "2026-10-14T12:10:22+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "PH",
+   "BR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원",
+   "더마프로",
+   "피앰아이",
+   "스텝위드"
+  ],
+  "keywords": [
+   "피부특성",
+   "뷰티시장 트렌드",
+   "화장품 이용행태"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대한화장품산업연구원이 필리핀 피부특성과 브라질 뷰티시장 조사 결과를 발표하는 세미나를 개최한다.",
+  "key_fact_quote": "(재)대한화장품산업연구원(원장 조신행, 이하 연구원)이 오는 11월 20일 오후 1시부터 4시까지 서울 강남구 스페이스쉐어 강남센터 주피터홀에서 ‘2026 피부특성 정보은행 사업 결과 세미나’를 개최한다고 14일 밝혔다.",
+  "events": [
+   {
+    "name": "2026 피부특성 정보은행 사업 결과 세미나",
+    "start_date": "2026-11-20",
+    "end_date": null,
+    "place": "서울 강남구 스페이스쉐어 강남센터 주피터홀",
+    "quote": "(재)대한화장품산업연구원(원장 조신행, 이하 연구원)이 오는 11월 20일 오후 1시부터 4시까지 서울 강남구 스페이스쉐어 강남센터 주피터홀에서 ‘2026 피부특성 정보은행 사업 결과 세미나’를 개최한다고 14일 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:49:56+00:00",
+ "had_body": true
+}

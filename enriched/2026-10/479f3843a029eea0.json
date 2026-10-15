@@ -1,0 +1,76 @@
+{
+ "doc_id": "479f3843a029eea0",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58509",
+ "title": "[2신] ‘2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스’ 개막... “규제 대응은 제품 개발과 시장진출 핵심 경쟁력”",
+ "summary": "[코스인코리아닷컴 권태흥 기자](재)대한화장품산업연구원(원장 조신행)이 10월 14일부터 15일까지 양일간 로얄호텔 서울 그랜드볼룸에서 개최한 ‘2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스’에서 전문가 발표를 요약한다. EU·영국 화장품 규제 비교 및 영국의 최신 규제 동향_ 니코 쇼 누…",
+ "published_at": "2026-10-15T10:24:39+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "GB",
+   "EU",
+   "FR",
+   "AU",
+   "NZ",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원",
+   "영국 화장품·향수·생활용품협회",
+   "프랑스 화장품산업협회 코스메드",
+   "퍼스트 리서치",
+   "한양대학교",
+   "에시티",
+   "윈게이트코리아"
+  ],
+  "keywords": [
+   "수출 규제",
+   "화장품 안전성 평가",
+   "위해성 평가",
+   "규제 대응",
+   "화장품 지침"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내외 규제 전문가들이 참석한 컨퍼런스에서 글로벌 화장품 규제 대응이 제품 개발과 시장 진출을 결정하는 핵심 경쟁력으로 제시되었다.",
+  "key_fact_quote": "14일 컨퍼런스 첫날 발표에서 국내외 전문가들은 ▲ 글로벌 화장품 시장에서 규제 대응을 수출 과정의 부수적인 업무가 아니라 ▲ 제품 개발과 시장 진출 전략을 결정하는 핵심 경쟁력으로 인식해야 한다는 점을 전했다.",
+  "events": [
+   {
+    "name": "2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-15",
+    "place": "로얄호텔 서울 그랜드볼룸",
+    "quote": "(재)대한화장품산업연구원(원장 조신행)이 10월 14일부터 15일까지 양일간 로얄호텔 서울 그랜드볼룸에서 개최한 ‘2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스’에서 전문가 발표를 요약한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PFAS",
+    "quote": "▲ PFAS 규제가 화장품 원료와 공급망 관리의 새로운 과제로 부상하고 있다 ▲ PPWR과 환경 관련 표시·광고 규제 강화로 화장품 기업의 규제 대응 범위가 포장재와 마케팅 활동까지 확대되고 있다 등의 핵심 내용을 짚었다."
+   },
+   {
+    "name": "천연 추출물",
+    "quote": "특히 향료와 천연 추출물 등에서 국가별 규제 차이를 확인해야 한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:49:39+00:00",
+ "had_body": true
+}

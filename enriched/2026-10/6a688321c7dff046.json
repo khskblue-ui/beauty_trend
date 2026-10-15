@@ -1,0 +1,44 @@
+{
+ "doc_id": "6a688321c7dff046",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53708",
+ "title": "애경산업, 시각장애인 대상 안전교육 실시",
+ "summary": "애경산업이 10월 15일 ‘흰지팡이날’을 맞아 시각장애 학생을 대상으로 안전교육을 실시했다. 또 제품 식별을 돕는 점자 태그와 스티커, 시각장애인 친화 제품 등을 전달했다.",
+ "published_at": "2026-10-15T16:50:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "안전교육",
+   "점자 태그",
+   "시각장애인 친화 제품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "애경산업이 흰지팡이날을 맞아 시각장애 학생을 대상으로 안전교육을 진행하고 점자 태그 및 친화 제품을 전달했다.",
+  "key_fact_quote": "애경산업이 10월 15일 ‘흰지팡이날’을 맞아 시각장애 학생을 대상으로 안전교육을 실시했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:23+00:00",
+ "had_body": false
+}

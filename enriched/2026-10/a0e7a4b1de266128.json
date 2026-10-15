@@ -1,0 +1,65 @@
+{
+ "doc_id": "a0e7a4b1de266128",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/former-printemps-ceo-jean-marc,28350",
+ "title": "Former Printemps CEO Jean-Marc Bellaiche takes the helm at Douglas",
+ "summary": "Germany-based Douglas Group has appointed Jean-Marc Bellaiche as Chief Executive Officer, effective 1 November 2026. The former Printemps chief will succeed Sander van der Laan, who is retiring after a 36-year career in retail, including four years leading the European premium beauty retailer. Bellaiche's appointment has been approved for a four-year term by the supervisory board of Douglas AG. The 56-year-old French executive brings extensive experience in luxury, beauty and retail. He... - Industry buzz / Europe",
+ "published_at": "2026-10-15T19:16:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "DE",
+   "FR"
+  ],
+  "brands": [
+   "Douglas",
+   "Nocibé",
+   "Parfumdreams",
+   "Niche Beauty"
+  ],
+  "companies": [
+   "Douglas Group",
+   "Douglas AG",
+   "Printemps Group",
+   "Boston Consulting Group",
+   "Tiffany & Co.",
+   "Contentsquare",
+   "Arianee",
+   "Sani/Ikos Group"
+  ],
+  "keywords": [
+   "뷰티 리테일",
+   "옴니채널",
+   "경영진 인사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "독일 더글라스 그룹이 프랭탕 출신의 장마르크 벨레슈를 신임 최고경영자로 임명했다.",
+  "key_fact_quote": "Germany-based Douglas Group has appointed Jean-Marc Bellaiche as Chief Executive Officer, effective 1 November 2026.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:22+00:00",
+ "had_body": true
+}

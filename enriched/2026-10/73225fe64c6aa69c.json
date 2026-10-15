@@ -1,0 +1,66 @@
+{
+ "doc_id": "73225fe64c6aa69c",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/jean-marc-bellaiche-ex-pdg-du,28351",
+ "title": "Jean-Marc Bellaiche, ex PDG du Printemps, aux commandes de Douglas",
+ "summary": "Le groupe Douglas a nommé Jean-Marc Bellaiche au poste de directeur général, à compter du 1er novembre 2026. L'ancien dirigeant du Printemps succédera à Sander van der Laan, qui prend sa retraite après 36 ans de carrière dans la distribution, dont quatre à la tête du distributeur européen de produits de beauté haut de gamme. La nomination de M. Bellaiche a été approuvée pour un mandat de quatre ans par le conseil de surveillance du groupe allemand. Le dirigeant français de 56 ans possède... - Brèves / Europe",
+ "published_at": "2026-10-15T19:20:44+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "DE",
+   "FR"
+  ],
+  "brands": [
+   "Douglas",
+   "Nocibé",
+   "Parfumdreams",
+   "Niche Beauty",
+   "Tiffany & Co."
+  ],
+  "companies": [
+   "Douglas",
+   "Printemps",
+   "Boston Consulting Group",
+   "Contentsquare",
+   "Arianee",
+   "Sani/Ikos",
+   "Douglas AG",
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "뷰티 유통",
+   "옴니채널",
+   "경영진 인사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "더글라스 그룹은 프랭탕 출신의 장마르크 벨레슈를 신임 총괄 대표로 선임하여 퇴임하는 산더 판 데르 란의 뒤를 잇게 했다.",
+  "key_fact_quote": "Le groupe Douglas a nommé Jean-Marc Bellaiche au poste de directeur général, à compter du 1er novembre 2026.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:21+00:00",
+ "had_body": true
+}

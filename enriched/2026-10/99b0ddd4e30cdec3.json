@@ -1,0 +1,70 @@
+{
+ "doc_id": "99b0ddd4e30cdec3",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58505",
+ "title": "[1신] ‘2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스’ 개막... “글로벌 규제 방패 뚫을 창을 마련 기회”",
+ "summary": "[코스인코리아닷컴 권태흥 기자]화장품 수출도 ‘슬기와 지혜’가 요구되고 있다. 국가별·지역별 화장품 규제에 슬기로운 대응력이 기업 경쟁력을 평가하는 새로운 지수가 되고 있다. 모순(矛盾)처럼 규제 방패를 법규 숙지와 순발력으로 피해가는 창(매뉴얼)이 요구되는 시점이다. 205개국으로 뻗어간 한국 화장품으로선 규제에 익숙해져야 한다. (재)대한화장품산업연",
+ "published_at": "2026-10-14T16:07:06+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "GB",
+   "AU",
+   "NZ",
+   "US",
+   "JP",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원",
+   "Kao Corporation",
+   "영국화장품협회",
+   "COSMED",
+   "First Research",
+   "Essity",
+   "윈게이트코리아"
+  ],
+  "keywords": [
+   "수출 규제",
+   "안전성 평가",
+   "대체 시험법",
+   "위해성 평가"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한화장품산업연구원이 주요 수출국의 화장품 규제 동향과 안전성 평가 대응 방안을 다루는 컨퍼런스를 개최했다.",
+  "key_fact_quote": "(재)대한화장품산업연구원(원장 조신행)이 10월 14일부터 15일까지 양일간 로얄호텔 서울 그랜드볼룸에서 개최한 ‘2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스’는 이런 점에서 시의적절한 정보를 제공하고 있다.",
+  "events": [
+   {
+    "name": "2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-15",
+    "place": "로얄호텔 서울 그랜드볼룸",
+    "quote": "(재)대한화장품산업연구원(원장 조신행)이 10월 14일부터 15일까지 양일간 로얄호텔 서울 그랜드볼룸에서 개최한 ‘2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스’는 이런 점에서 시의적절한 정보를 제공하고 있다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "식물추출물",
+    "quote": "이정표 실장은 안전성 평가 의무화에 대한 대응 전략으로 ① 평가 대상 물질이 식물추출물인 경우 성분 분석 자료 확보 ② 문헌 자료 및 기 평가자료 확보 ③ 해당원료의 in vitro 안저성 자료 확보: 피부자극 시험, 피부 감작시험, 유전독성 ④ 독성자료 부재 시 in silico 평가(TTC, Read Across 등) ⑤ 기존 평가 자료와 성분 조성 및 함량 비교 후 이에 근거한 안전성 평가 등을 제안했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:49:52+00:00",
+ "had_body": true
+}

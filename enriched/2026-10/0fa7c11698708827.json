@@ -1,0 +1,54 @@
+{
+ "doc_id": "0fa7c11698708827",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873001",
+ "title": "디올 뷰티 , 홀리데이 룩 출시",
+ "summary": "디올 뷰티 는 홀리데이 시즌을 맞아 진저브레드 하우스에서 영감을 받은 신제품 '디올 2026 홀리데이 룩... 루미나이저'가 출시 됐다. 메달리옹과 까나쥬 패턴을 새긴 시그니처 품목도 포함됐다. 2가지 색상의 아이 팔레트...",
+ "published_at": "2026-10-15T15:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "디올 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 룩",
+   "아이 팔레트",
+   "루미나이저"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "디올 2026 홀리데이 룩... 루미나이저",
+    "brand": "디올 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "디올 뷰티 는 홀리데이 시즌을 맞아 진저브레드 하우스에서 영감을 받은 신제품 '디올 2026 홀리데이 룩... 루미나이저'가 출시 됐다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디올 뷰티가 진저브레드 하우스에서 영감을 받은 홀리데이 신제품을 선보였다.",
+  "key_fact_quote": "디올 뷰티 는 홀리데이 시즌을 맞아 진저브레드 하우스에서 영감을 받은 신제품 '디올 2026 홀리데이 룩... 루미나이저'가 출시 됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:15+00:00",
+ "had_body": false
+}

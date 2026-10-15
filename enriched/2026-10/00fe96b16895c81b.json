@@ -1,0 +1,67 @@
+{
+ "doc_id": "00fe96b16895c81b",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58500",
+ "title": "KATRI시험연구원, EU 포장재 미지물질 대응 ‘비표적 첨단 분석센터’ 개소",
+ "summary": "[코스인코리아닷컴 길태윤 기자] KATRI시험연구원(원장 신동준)이 유럽연합(EU)의 식품접촉재료와 포장재 안전성 규제에 대응하는 ‘비표적 첨단 분석센터’를 지난 6일 개소했다고 12일 밝혔다. 새롭게 문을 연 센터는 제품에 잔존하거나 식품으로 이행되는 미지의 화학물질을 탐색·식별하고 위해성을 평가하는 전문 분석 거점이다. 국내 수출기업이 EU 규제에",
+ "published_at": "2026-10-14T10:50:25+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "EU"
+  ],
+  "brands": [],
+  "companies": [
+   "KATRI시험연구원"
+  ],
+  "keywords": [
+   "포장재 규제",
+   "비표적 분석",
+   "식품접촉재료",
+   "미지물질 분석"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "시험연구원이 유럽연합의 식품접촉재료와 포장재 규제에 대응하기 위해 비표적 첨단 분석센터를 열었다.",
+  "key_fact_quote": "KATRI시험연구원(원장 신동준)이 유럽연합(EU)의 식품접촉재료와 포장재 안전성 규제에 대응하는 ‘비표적 첨단 분석센터’를 지난 6일 개소했다고 12일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "미네랄오일류",
+    "quote": "식품접촉제품과 포장재에서 발생하는 NIAS는 물론 미네랄오일류(MOSH·MOAH), 원료와 완제품에 포함된 미지 불순물까지 추적할 수 있다."
+   },
+   {
+    "name": "MOSH",
+    "quote": "식품접촉제품과 포장재에서 발생하는 NIAS는 물론 미네랄오일류(MOSH·MOAH), 원료와 완제품에 포함된 미지 불순물까지 추적할 수 있다."
+   },
+   {
+    "name": "MOAH",
+    "quote": "식품접촉제품과 포장재에서 발생하는 NIAS는 물론 미네랄오일류(MOSH·MOAH), 원료와 완제품에 포함된 미지 불순물까지 추적할 수 있다."
+   },
+   {
+    "name": "과불화화합물",
+    "quote": "PPWR와 관련해서는 포장재의 중금속 함량과 식품접촉 포장재에 포함된 과불화화합물(PFAS) 등 유해물질을 분석하고 적합성 입증에 필요한 DoC와 TD 작성까지 돕는다."
+   },
+   {
+    "name": "PFAS",
+    "quote": "PPWR와 관련해서는 포장재의 중금속 함량과 식품접촉 포장재에 포함된 과불화화합물(PFAS) 등 유해물질을 분석하고 적합성 입증에 필요한 DoC와 TD 작성까지 돕는다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:01+00:00",
+ "had_body": true
+}

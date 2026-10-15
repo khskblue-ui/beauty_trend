@@ -1,0 +1,44 @@
+{
+ "doc_id": "f2a7283d588fa2b9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://zdnet.co.kr/view/?no=20261015091822",
+ "title": "틴트부터 러닝양말까지…이마트24, 헬스·뷰티·패션 특화점 선봬",
+ "summary": "이마트24가 화장품 과 운동복, 건강 상품을 핵심 상품군으로 내세운 편의점을 연다. 색조 화장품 을 직접... 단독 상품도 전국 점포에 순차적으로 출시 할 계획이다. 올데이케어랩점의 핵심은 헬스·뷰티·패션 상품을...",
+ "published_at": "2026-10-15T09:47:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "이마트24"
+  ],
+  "keywords": [
+   "헬스 뷰티 패션 특화점",
+   "편의점 화장품",
+   "색조 화장품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "이마트이십사는 화장품과 건강 상품 등을 핵심으로 내세운 헬스 뷰티 패션 특화점을 선보인다.",
+  "key_fact_quote": "이마트24가 화장품 과 운동복, 건강 상품을 핵심 상품군으로 내세운 편의점을 연다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:07+00:00",
+ "had_body": false
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "7212b02ec2d24f51",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.dealsitetv.com/articles/177025",
+ "title": "[유통24시] 이마트24, 헬스· 뷰티 ·패션 특화점포 '올데이케어랩점'​ 오...",
+ "summary": "◆이마트24, 헬스· 뷰티 ·패션 특화점포 '올데이케어랩점' 오픈 이마트24가 오는 16일 서울 종로구 신설동에... 이번 출시 로 테리아 제품군은 총 5개 라인업으로 확대됐다. 신제품 은 15일부터 전국 편의점과 아이코스...",
+ "published_at": "2026-10-15T11:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "이마트24"
+  ],
+  "keywords": [
+   "특화점포",
+   "헬스 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "이마트이십사는 서울 종로구 신설동에 헬스·뷰티·패션 특화점포인 올데이케어랩점을 개점한다.",
+  "key_fact_quote": "이마트24가 오는 16일 서울 종로구 신설동에...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:16+00:00",
+ "had_body": false
+}

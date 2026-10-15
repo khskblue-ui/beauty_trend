@@ -1,0 +1,43 @@
+{
+ "doc_id": "3237c91068c0a69a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/15/2026101580173.html",
+ "title": "K - 뷰티 수출 , 서울이 이끈다… 서울중기청, '2026 K-뷰티엑스포 코리아'...",
+ "summary": "열리는 '2026 K - 뷰티 엑스포 코리아'에 참가, 서울 소재 유망 뷰티 중소기업 8개사로 구성된 '서울중기청... B2B 뷰티 박람회다. 서울중기청은 이번 박람회 협력기관으로 참여해 수출 잠재력이 높은 서울지역 중소기업들의...",
+ "published_at": "2026-10-15T20:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "서울중기청"
+  ],
+  "keywords": [
+   "뷰티 박람회",
+   "수출 지원"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "서울중기청이 수출 잠재력이 높은 서울지역 유망 뷰티 중소기업들과 함께 박람회에 참가한다.",
+  "key_fact_quote": "서울중기청은 이번 박람회 협력기관으로 참여해 수출 잠재력이 높은 서울지역 중소기업들의...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:29+00:00",
+ "had_body": false
+}

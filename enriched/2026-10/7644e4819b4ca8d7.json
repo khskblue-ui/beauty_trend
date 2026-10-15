@@ -1,0 +1,44 @@
+{
+ "doc_id": "7644e4819b4ca8d7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261015010004994",
+ "title": "김병훈의 ' K뷰티 영토 확장'…에이피알, 스킨부스터로 중남미 공략",
+ "summary": "아시아투데이 장지영 기자 = 김병훈 에이피알 대표가 스킨부스터를 앞세워 글로벌 뷰티 시장 공략에 속도를... 대해서는 수출 용 4등급 의료기기 허가를 각각 획득했다. 이를 토대로 올해 상반기 일부 물량의 해외 공급을...",
+ "published_at": "2026-10-15T16:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "스킨부스터",
+   "의료기기",
+   "해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에이피알은 스킨부스터를 앞세워 글로벌 뷰티 시장 진출에 속도를 내고 있다.",
+  "key_fact_quote": "김병훈 에이피알 대표가 스킨부스터를 앞세워 글로벌 뷰티 시장 공략에 속도를...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:37+00:00",
+ "had_body": false
+}

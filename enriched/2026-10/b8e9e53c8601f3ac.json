@@ -1,0 +1,42 @@
+{
+ "doc_id": "b8e9e53c8601f3ac",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dailyt.co.kr/newsView/dlt202610160004",
+ "title": "AI가 피부 읽고 맞춤 화장품 조제 … K - 뷰티 , 서비스 산업으로 넓어진다",
+ "summary": "정부가 인공지능(AI) 피부진단과 맞춤형 화장품, 미용·관광·의료를 연결하는 K - 뷰티 서비스 육성에 나선다. 화장품 제조와 수출 을 기반으로 성장한 산업에 데이터 분석과 개인별 상담, 체험 서비스를 더해 사업 영역을...",
+ "published_at": "2026-10-16T08:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "맞춤형 화장품",
+   "AI 피부진단",
+   "뷰티 테크"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부가 인공지능 피부진단과 맞춤형 화장품 등을 연결하는 뷰티 서비스 육성에 나선다.",
+  "key_fact_quote": "정부가 인공지능(AI) 피부진단과 맞춤형 화장품, 미용·관광·의료를 연결하는 K - 뷰티 서비스 육성에 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:20+00:00",
+ "had_body": false
+}

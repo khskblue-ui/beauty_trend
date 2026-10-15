@@ -1,0 +1,47 @@
+{
+ "doc_id": "e45a14a826c76396",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=247685",
+ "title": "미학(MIHAK), 신세계 HYPERGROUND 뉴욕 팝업 참여... K- 향수 글로벌 접점...",
+ "summary": "통해 향수 를 비롯한 주요 프래그런스 라인업을 공개한다. 한국에서 출발한 미학의 고유한 향과 브랜드 정체성을 미국 현지 소비자들에게 직접 선보인다는 계획이다. 이번 뉴욕 팝업은 미학이 해외 현지 소비자와...",
+ "published_at": "2026-10-15T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "미학",
+   "MIHAK"
+  ],
+  "companies": [
+   "신세계"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "프래그런스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "향수 브랜드 미학이 신세계 뉴욕 팝업에 참여해 주요 프래그런스 라인업을 선보인다.",
+  "key_fact_quote": "한국에서 출발한 미학의 고유한 향과 브랜드 정체성을 미국 현지 소비자들에게 직접 선보인다는 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:20+00:00",
+ "had_body": false
+}

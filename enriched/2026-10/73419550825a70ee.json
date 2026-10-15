@@ -1,0 +1,73 @@
+{
+ "doc_id": "73419550825a70ee",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202610151831389717",
+ "title": "얼굴만 신경쓰면 정수리 섭섭해요[Weekend 뷰티]",
+ "summary": "롤온 선세럼과 선 미스트 두 가지 타입으로 출시 돼 간편하게 사용할 수 있다. 화장품 제조자개발생산(ODM) 기업 한국콜마는 2년여를 연구해 모발에 뭉치지 않는 두피 전용 선에센스를 개발했다. 두피 관리에 대한 관심이...",
+ "published_at": "2026-10-16T04:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "두피 케어",
+   "선 미스트",
+   "선케어",
+   "두피 선에센스"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "롤온 선세럼",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "롤온 선세럼과 선 미스트 두 가지 타입으로 출시 돼 간편하게 사용할 수 있다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "선 미스트",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "롤온 선세럼과 선 미스트 두 가지 타입으로 출시 돼 간편하게 사용할 수 있다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "두피 전용 선에센스",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "한국콜마가 모발에 뭉치지 않는 두피 전용 선에센스를 개발하는 등 두피 관리 관련 제품이 등장하고 있다.",
+  "key_fact_quote": "화장품 제조자개발생산(ODM) 기업 한국콜마는 2년여를 연구해 모발에 뭉치지 않는 두피 전용 선에센스를 개발했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:58+00:00",
+ "had_body": false
+}

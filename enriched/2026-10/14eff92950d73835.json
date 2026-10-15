@@ -1,0 +1,63 @@
+{
+ "doc_id": "14eff92950d73835",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/shiseido-takes-shein-to-court-in,28349",
+ "title": "Shiseido takes Shein to court in EUR 2.6 million distribution dispute",
+ "summary": "Shiseido is seeking more than EUR 2.6 million in damages from online retail giant Shein over the sale of its beauty products outside its authorized distribution network. The case could prove a landmark test of selective distribution agreements amid the rise of global e-commerce platforms. Beauté Prestige Internationale (BPI), a French subsidiary of Japanese cosmetics group Shiseido, has filed a lawsuit against online retail platform Shein, accusing it of selling its products outside its... - Laws & regulations / Europe",
+ "published_at": "2026-10-15T18:07:40+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "JP",
+   "IE"
+  ],
+  "brands": [
+   "Issey Miyake",
+   "Narciso Rodriguez",
+   "Zadig & Voltaire",
+   "Shiseido"
+  ],
+  "companies": [
+   "Shiseido",
+   "Beauté Prestige Internationale",
+   "Shein"
+  ],
+  "keywords": [
+   "선택적 유통망",
+   "온라인 마켓플레이스",
+   "럭셔리 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": [
+   "key_fact"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:22+00:00",
+ "had_body": true
+}

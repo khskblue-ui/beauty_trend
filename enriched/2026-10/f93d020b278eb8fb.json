@@ -1,0 +1,41 @@
+{
+ "doc_id": "f93d020b278eb8fb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.tvdaily.co.kr/read.php3?aid=17920625031805809002",
+ "title": "'KCM 아내' 방예원, 뷰티 브랜드 론칭 \"출산으로 멈췄던 꿈, 해내고 싶었...",
+ "summary": "방예원은 뷰티 브랜드 창업과 제품 개발 과정에 대해 \"2024년부터 준비를 시작했으나 출산으로 잠시 멈추게 됐다\"라며 \"아이들에게 끝까지 해내는 엄마의 모습을 보여주고 싶었고 남편에게도 제가 해내는 모습을...",
+ "published_at": "2026-10-15T20:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 브랜드",
+   "브랜드 론칭"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "방예원이 준비와 출산을 거쳐 뷰티 브랜드를 론칭했다.",
+  "key_fact_quote": "방예원은 뷰티 브랜드 창업과 제품 개발 과정에 대해 \"2024년부터 준비를 시작했으나 출산으로 잠시 멈추게 됐다\"라며 \"아이들에게 끝까지 해내는 엄마의 모습을 보여주고 싶었고 남편에게도 제가 해내는 모습을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:24+00:00",
+ "had_body": false
+}

@@ -1,0 +1,48 @@
+{
+ "doc_id": "18796d0430a56464",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.econovill.com/news/articleView.html?idxno=751237",
+ "title": "센트온 향수 브랜드 '센틀리에', 무신사 홍대 입점…젊은 세대·글로벌...",
+ "summary": "오드 퍼퓸 과 퍼퓸 핸드크림 등 총 15종이 판매·전시됐다. 직접 향을 맡고 비교하는 과정이 중요한 제품... 국내 K뷰티 트렌드가 스킨케어와 색조를 넘어 니치 향수와 라이프스타일 프래그런스로 넓어지는 가운데 성수동...",
+ "published_at": "2026-09-18T11:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 퍼퓸",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센틀리에"
+  ],
+  "companies": [
+   "센트온",
+   "무신사"
+  ],
+  "keywords": [
+   "니치 향수",
+   "라이프스타일 프래그런스",
+   "퍼퓸 핸드크림",
+   "K뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "센트온의 향수 브랜드 센틀리에가 무신사 홍대에 입점했다.",
+  "key_fact_quote": "센트온 향수 브랜드 '센틀리에', 무신사 홍대 입점…젊은 세대·글로벌...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:08+00:00",
+ "had_body": false
+}

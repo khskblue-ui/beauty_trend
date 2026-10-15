@@ -1,0 +1,81 @@
+{
+ "doc_id": "000b73ef5aa929ca",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=357742",
+ "title": "애경산업 에이솔루션, 다이소 신규 라인 알린다…성수서 '뷰티뿔 무빙 ...",
+ "summary": "출처=애경산업 애경산업의 피부 고민 솔루션 브랜드 에이솔루션(a solution)이 다이소 신규 라인 출시 를 기념해... 비롯해 '칼라민 바디 트러블 미스트 ', '칼라민 바디 수딩 젤 크림', '칼라민 바디 딥 필링 앰플', '칼라민 바디 ...",
+ "published_at": "2026-08-21T18:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이솔루션",
+   "a solution"
+  ],
+  "companies": [
+   "애경산업",
+   "다이소"
+  ],
+  "keywords": [
+   "바디 미스트",
+   "수딩 젤 크림",
+   "필링 앰플"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "칼라민 바디 트러블 미스트",
+    "brand": "에이솔루션",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "애경산업의 피부 고민 솔루션 브랜드 에이솔루션(a solution)이 다이소 신규 라인 출시 를 기념해... 비롯해 '칼라민 바디 트러블 미스트 ', '칼라민 바디 수딩 젤 크림', '칼라민 바디 딥 필링 앰플', '칼라민 바디 ...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "칼라민 바디 수딩 젤 크림",
+    "brand": "에이솔루션",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "애경산업의 피부 고민 솔루션 브랜드 에이솔루션(a solution)이 다이소 신규 라인 출시 를 기념해... 비롯해 '칼라민 바디 트러블 미스트 ', '칼라민 바디 수딩 젤 크림', '칼라민 바디 딥 필링 앰플', '칼라민 바디 ...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "칼라민 바디 딥 필링 앰플",
+    "brand": "에이솔루션",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "애경산업의 피부 고민 솔루션 브랜드 에이솔루션(a solution)이 다이소 신규 라인 출시 를 기념해... 비롯해 '칼라민 바디 트러블 미스트 ', '칼라민 바디 수딩 젤 크림', '칼라민 바디 딥 필링 앰플', '칼라민 바디 ...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "애경산업의 에이솔루션이 다이소 신규 라인 출시를 기념해 행사를 진행한다.",
+  "key_fact_quote": "애경산업의 피부 고민 솔루션 브랜드 에이솔루션(a solution)이 다이소 신규 라인 출시 를 기념해...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "칼라민",
+    "quote": "비롯해 '칼라민 바디 트러블 미스트 ', '칼라민 바디 수딩 젤 크림', '칼라민 바디 딥 필링 앰플', '칼라민 바디 ..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:53+00:00",
+ "had_body": false
+}

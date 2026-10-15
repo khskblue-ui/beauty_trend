@@ -1,0 +1,44 @@
+{
+ "doc_id": "40ae9e6d2219165d",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100154",
+ "title": "오설록, '차, 미식의 발견' 캠페인 전개",
+ "summary": "대한민국 대표 럭셔리 티(Tea) 브랜드 오설록이 '차, 미식의 발견(BEYOND TEA, INTO GOURMET)' 캠페인을 전개한다. 차를 마시는 경험을 넘어 요리의 재료와 음식 페어링으로 확장하며, 일상에서 차를 보다 다채롭게 즐길 수 있는 새로운 티 문화를 제안한다.이번 캠페인에서는 달큰한 배와 꿀의 풍미를 담은 '삼다 꿀배 티', 제주 영귤의 상큼한 향미가 돋보이는 '제주 삼다 영귤 티', 동백꽃과 열대과일의 풍미가 어우러진 '제주 동백꽃 티', 진한 홍차에 복숭아",
+ "published_at": "2026-10-15T09:51:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오설록"
+  ],
+  "companies": [],
+  "keywords": [
+   "티 문화",
+   "티 페어링",
+   "블렌디드 티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "오설록이 차를 요리 재료와 음식 페어링으로 확장해 즐기는 캠페인을 전개한다.",
+  "key_fact_quote": "대한민국 대표 럭셔리 티(Tea) 브랜드 오설록이 '차, 미식의 발견(BEYOND TEA, INTO GOURMET)' 캠페인을 전개한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:42+00:00",
+ "had_body": true
+}

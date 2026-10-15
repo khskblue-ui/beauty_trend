@@ -1,0 +1,85 @@
+{
+ "doc_id": "1de5d588c3526d8d",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53705",
+ "title": "“이젠 스킨부스터다” 새 카드 꺼낸 에이피알",
+ "summary": "에이피알(대표 김병훈)이 메디큐브 스킨부스터를 중남미 시장에 공급한다. 이 회사는 중남미를 시작으로 메디큐브 스킨부스터의 해외 유통을 확대한다고 밝혔다. 20일 칠레 산티아고에서 의료진·인플루언서 약 300명을 초청해 스킨부스터 론칭 행사와 대리점 인증식을 진행할 예정이다. 이어 11월부터 칠…",
+ "published_at": "2026-10-15T10:36:55+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CL",
+   "JP"
+  ],
+  "brands": [
+   "메디큐브",
+   "에이지알"
+  ],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "스킨부스터",
+   "의료기기",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "에이지알",
+    "brand": "메디큐브",
+    "launch_date": "2026-11",
+    "launch_status": "upcoming",
+    "launch_quote": "이어 11월부터 칠레 전역에 스킨부스터를 공식 출시하고 유통망을 확장할 전략이다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "에이지알 플러스 G",
+    "brand": "메디큐브",
+    "launch_date": "2026-11",
+    "launch_status": "upcoming",
+    "launch_quote": "이어 11월부터 칠레 전역에 스킨부스터를 공식 출시하고 유통망을 확장할 전략이다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피알이 메디큐브 스킨부스터 제품을 칠레를 시작으로 해외 시장에 공급하며 유통망을 확대한다.",
+  "key_fact_quote": "에이피알(대표 김병훈)이 메디큐브 스킨부스터를 중남미 시장에 공급한다. 이 회사는 중남미를 시작으로 메디큐브 스킨부스터의 해외 유통을 확대한다고 밝혔다.",
+  "events": [
+   {
+    "name": "스킨부스터 론칭 행사와 대리점 인증식",
+    "start_date": "2026-10-20",
+    "end_date": null,
+    "place": "칠레 산티아고",
+    "quote": "20일 칠레 산티아고에서 의료진·인플루언서 약 300명을 초청해 스킨부스터 론칭 행사와 대리점 인증식을 진행할 예정이다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "연어 DNA",
+    "quote": "연어 DNA에서 유래한 PN(폴리뉴클레오타이드) 소재를 기반으로 개발했다."
+   },
+   {
+    "name": "PN(폴리뉴클레오타이드)",
+    "quote": "연어 DNA에서 유래한 PN(폴리뉴클레오타이드) 소재를 기반으로 개발했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:32+00:00",
+ "had_body": true
+}

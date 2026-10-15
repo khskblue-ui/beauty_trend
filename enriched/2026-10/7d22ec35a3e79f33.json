@@ -1,0 +1,91 @@
+{
+ "doc_id": "7d22ec35a3e79f33",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100160",
+ "title": "바이오플러스, 브라질 3대 제약사 시메드와 필러 신제품 공식 론칭",
+ "summary": "메디컬 에스테틱 전문기업 바이오플러스(099430)는 지난 13일 서울 용산구 몬드리안 서울 이태원에서 브라질 제약사 시메드(Cimed)와 함께 10cc 대용량 필러 신제품의 공식 론칭 심포지엄을 개최했다고 15일 밝혔다.이번에 선보인 제품은 ‘밀리메트릭 프로 울트라(Milimetric PRO ULTRA)’와 ‘밀리메트릭 프로 울트라 X(Milimetric PRO ULTRA X)’다. 두 제품은 각각 10cc 용량의 필러로, 울트라 X는 울트라보다 단단한 물성이 특징이다. 바이오플러스는 브라질 국가위생감시국(ANVISA) 허가를 기",
+ "published_at": "2026-10-15T12:59:10+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "BR"
+  ],
+  "brands": [
+   "바이오플러스",
+   "휴그로"
+  ],
+  "companies": [
+   "바이오플러스",
+   "시메드"
+  ],
+  "keywords": [
+   "메디컬 에스테틱",
+   "대용량 필러",
+   "맞춤형 화장품",
+   "바이오 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "밀리메트릭 프로 울트라(Milimetric PRO ULTRA)",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "메디컬 에스테틱 전문기업 바이오플러스(099430)는 지난 13일 서울 용산구 몬드리안 서울 이태원에서 브라질 제약사 시메드(Cimed)와 함께 10cc 대용량 필러 신제품의 공식 론칭 심포지엄을 개최했다고 15일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "밀리메트릭 프로 울트라 X(Milimetric PRO ULTRA X)",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "메디컬 에스테틱 전문기업 바이오플러스(099430)는 지난 13일 서울 용산구 몬드리안 서울 이태원에서 브라질 제약사 시메드(Cimed)와 함께 10cc 대용량 필러 신제품의 공식 론칭 심포지엄을 개최했다고 15일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "젤 밀리메트릭 프로(Gel Milimetric PRO)",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "바이오플러스가 브라질 제약사 시메드와 대용량 필러 신제품 공식 론칭 심포지엄을 열고 현지 시장 공략과 협력을 강화한다.",
+  "key_fact_quote": "메디컬 에스테틱 전문기업 바이오플러스(099430)는 지난 13일 서울 용산구 몬드리안 서울 이태원에서 브라질 제약사 시메드(Cimed)와 함께 10cc 대용량 필러 신제품의 공식 론칭 심포지엄을 개최했다고 15일 밝혔다.",
+  "events": [
+   {
+    "name": "BioPlus x CIMED Launch Symposium",
+    "start_date": "2026-10-13",
+    "end_date": null,
+    "place": "서울 용산구 몬드리안 서울 이태원",
+    "quote": "메디컬 에스테틱 전문기업 바이오플러스(099430)는 지난 13일 서울 용산구 몬드리안 서울 이태원에서 브라질 제약사 시메드(Cimed)와 함께 10cc 대용량 필러 신제품의 공식 론칭 심포지엄을 개최했다고 15일 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "휴그로(HUGRO)",
+    "quote": "서울 강남구에 위치한 휴그로센터는 자체 개발 바이오 원료 ‘휴그로(HUGRO)’를 활용해 피부 분석부터 맞춤형 화장품 제작, 스파까지 제공하는 맞춤형 바이오 뷰티 통합 플랫폼이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:39+00:00",
+ "had_body": true
+}

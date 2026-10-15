@@ -1,0 +1,58 @@
+{
+ "doc_id": "2ac7ef6fc29842c8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026101510410262341",
+ "title": "'큐텐이 픽한 K 뷰티 브랜드 '…팁토우, 日 세븐일레븐 전국 입점",
+ "summary": "지난해 7월 론칭 한 팁토우 틴트 라인은 출시 직후부터 국내 시장에서 '가성비 뷰티 템'으로 크게 인기를... 일본 최대 편의점 채널에서 검증된 대중성을 바탕으로, 향후 팁토우가 단순한 온라인 K 뷰티 브랜드 를 넘어 일본...",
+ "published_at": "2026-10-15T10:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "팁토우"
+  ],
+  "companies": [
+   "큐텐",
+   "세븐일레븐"
+  ],
+  "keywords": [
+   "가성비 뷰티",
+   "편의점 입점",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "팁토우 틴트 라인",
+    "brand": "팁토우",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 브랜드 팁토우가 일본 세븐일레븐 전국 매장에 입점했다.",
+  "key_fact_quote": "'큐텐이 픽한 K 뷰티 브랜드 '…팁토우, 日 세븐일레븐 전국 입점",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:28+00:00",
+ "had_body": false
+}

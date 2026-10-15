@@ -1,0 +1,55 @@
+{
+ "doc_id": "58b2842d053c69ad",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/thomas-saujet-luxe-fragrance-lalique-1239333882/",
+ "title": "Thomas Saujet’s Luxe Fragrance Debut: Lalique Bottles, 60 Percent Concentrations, and a Dash of Mediterranean Glamour",
+ "summary": "Saujet, the haute parfumerie fragrance house, will launch on Oct. 20 with a pop-up in Neiman Marcus Beverly Hills.",
+ "published_at": "2026-10-13T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Saujet",
+   "Lalique"
+  ],
+  "companies": [
+   "Neiman Marcus"
+  ],
+  "keywords": [
+   "오트 파퓨머리",
+   "럭셔리 향수",
+   "팝업스토어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "오트 파퓨머리 향수 하우스인 소제가 니만 마커스 베벌리힐스 팝업스토어를 통해 브랜드를 선보인다.",
+  "key_fact_quote": "Saujet, the haute parfumerie fragrance house, will launch on Oct. 20 with a pop-up in Neiman Marcus Beverly Hills.",
+  "events": [
+   {
+    "name": "Saujet pop-up",
+    "start_date": "2026-10-20",
+    "end_date": null,
+    "place": "Neiman Marcus Beverly Hills",
+    "quote": "Saujet, the haute parfumerie fragrance house, will launch on Oct. 20 with a pop-up in Neiman Marcus Beverly Hills."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:42+00:00",
+ "had_body": false
+}

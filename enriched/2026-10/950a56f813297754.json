@@ -1,0 +1,43 @@
+{
+ "doc_id": "950a56f813297754",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069663",
+ "title": "엑스엠디, 화장품 WMS 'PlayWMS'로 LOT·유통기한·FEFO 출고 지원",
+ "summary": "이에 따라 의류 브랜드 가 향수 와 화장품 등으로 취급 품목을 확대할 경우 상품 특성에 따른 재고관리 기준이 필요하다. PlayWMS는 입고 예정 데이터를 바탕으로 실제 입고 수량을 확인하고, 창고 내 보관 위치인...",
+ "published_at": "2026-10-15T13:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "엑스엠디"
+  ],
+  "keywords": [
+   "화장품 물류",
+   "재고관리 시스템"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "엑스엠디가 화장품 재고 관리를 위해 유통기한과 선입선출 출고를 지원하는 솔루션을 제공한다.",
+  "key_fact_quote": "엑스엠디, 화장품 WMS 'PlayWMS'로 LOT·유통기한·FEFO 출고 지원",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:18+00:00",
+ "had_body": false
+}

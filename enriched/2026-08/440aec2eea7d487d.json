@@ -1,0 +1,80 @@
+{
+ "doc_id": "440aec2eea7d487d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065588864503368",
+ "title": "“다이소 신상, 성수서 先체험”…에이솔루션, ‘뷰티뿔’ 팝업 승부",
+ "summary": "에이솔루션이 다이소 신규 라인 출시 를 계기로 오프라인 소비자 접점을 확대한다. 성수동에서 체험형... 현장에서는 ▲트러블 빅 스팟 패치 01 핑크 래빗 ▲트러블 빅 스팟 패치 02 원더랜드 ▲칼라민 바디 트러블 미스트 ...",
+ "published_at": "2026-08-21T14:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이솔루션"
+  ],
+  "companies": [
+   "다이소"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "트러블 케어",
+   "바디 미스트",
+   "스팟 패치"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "트러블 빅 스팟 패치 01 핑크 래빗",
+    "brand": "에이솔루션",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에이솔루션이 다이소 신규 라인 출시 를 계기로 오프라인 소비자 접점을 확대한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "트러블 빅 스팟 패치 02 원더랜드",
+    "brand": "에이솔루션",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에이솔루션이 다이소 신규 라인 출시 를 계기로 오프라인 소비자 접점을 확대한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "칼라민 바디 트러블 미스트",
+    "brand": "에이솔루션",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에이솔루션이 다이소 신규 라인 출시 를 계기로 오프라인 소비자 접점을 확대한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이솔루션이 다이소 신규 라인 출시를 계기로 성수동에서 팝업을 열어 소비자 접점 확대에 나선다.",
+  "key_fact_quote": "에이솔루션이 다이소 신규 라인 출시 를 계기로 오프라인 소비자 접점을 확대한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "칼라민",
+    "quote": "현장에서는 ▲트러블 빅 스팟 패치 01 핑크 래빗 ▲트러블 빅 스팟 패치 02 원더랜드 ▲칼라민 바디 트러블 미스트 ..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:57+00:00",
+ "had_body": false
+}

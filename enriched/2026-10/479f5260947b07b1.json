@@ -1,0 +1,41 @@
+{
+ "doc_id": "479f5260947b07b1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newspim.com/news/view/20261015001289",
+ "title": "[유럽 특징주] 유럽車 승부수는 향수 자극하는 '레트로'… 2CV·골프 되살...",
+ "summary": "가격 경쟁력에서는 중국 업체에 밀리지만 오랜 브랜드 역사와 소비자들의 향수 를 앞세워 경쟁력 회복에... 창안자동차(Changan)는 유럽에서 내년 중반 첫 현지 생산 차량을 출시 하는 방안을 추진 중이며, 2028년까지...",
+ "published_at": "2026-10-15T19:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "창안자동차(Changan)"
+  ],
+  "keywords": [
+   "레트로 마케팅",
+   "유럽 자동차"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유럽 완성차 업체들이 오랜 브랜드 역사와 소비자의 향수를 자극하는 레트로 전략으로 경쟁력 회복을 모색하고 있다.",
+  "key_fact_quote": "가격 경쟁력에서는 중국 업체에 밀리지만 오랜 브랜드 역사와 소비자들의 향수 를 앞세워 경쟁력 회복에...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:52+00:00",
+ "had_body": false
+}

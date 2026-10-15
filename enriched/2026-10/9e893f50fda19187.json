@@ -1,0 +1,46 @@
+{
+ "doc_id": "9e893f50fda19187",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100150",
+ "title": "무협, EU 포장재 규제 대응 원스톱 지원 체계 가동",
+ "summary": "한국무역협회(KITA, 회장 윤진식)는 EU의 포장 및 포장폐기물 규정(이하 PPWR) 시행에 대응해 수출기업을 원스톱으로 지원하는 ‘PPWR 종합지원 패키지’를 운영한다고 14일 밝혔다. 아울러 대내외 전문가로 구성된 태스크포스(TF)를 출범해 기업 지원의 실효성을 높일 계획이다.PPWR은 EU 역내 과도한 포장재 폐기물 발생을 억제하고 재활용을 촉진하기 위해 도입된 규정으로, 지난 8월부터 본격 시행됐다. 이에 따라 EU에 수출되는 제품에는 기준치를 초과하는 인체 유해 물질 및 중금속이 포함된 포장재의 사용이 제한된다. 또한,",
+ "published_at": "2026-10-15T09:42:58+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "EU"
+  ],
+  "brands": [],
+  "companies": [
+   "한국무역협회"
+  ],
+  "keywords": [
+   "포장재 규제",
+   "포장폐기물 규정",
+   "환경 규제",
+   "수출 지원"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국무역협회가 유럽연합의 포장 및 포장폐기물 규정 시행에 대응하여 수출기업을 지원하는 종합지원 패키지를 가동한다.",
+  "key_fact_quote": "한국무역협회(KITA, 회장 윤진식)는 EU의 포장 및 포장폐기물 규정(이하 PPWR) 시행에 대응해 수출기업을 원스톱으로 지원하는 ‘PPWR 종합지원 패키지’를 운영한다고 14일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:46+00:00",
+ "had_body": true
+}

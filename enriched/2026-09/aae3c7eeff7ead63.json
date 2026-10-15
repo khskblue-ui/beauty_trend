@@ -1,0 +1,89 @@
+{
+ "doc_id": "aae3c7eeff7ead63",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ibabynews.com/news/articleView.html?idxno=154305",
+ "title": "[뷰티 트렌드] 네오팜 더마비, 올리브영X산리오캐릭터즈 협업 캠페인 참...",
+ "summary": "컬크림'이 출시 이후 2026년 8월까지 누적 판매량 202만 개를 기록했으며, '데일리 비타 플렉스 올인원 바디 워... 콜라겐 펩타이드 세럼과 콜라겐 펩타이드 젤리 세럼 미스트 구매 고객을 대상으로 각각 다른 디자인의...",
+ "published_at": "2026-09-07T17:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더마비",
+   "산리오캐릭터즈"
+  ],
+  "companies": [
+   "네오팜",
+   "올리브영"
+  ],
+  "keywords": [
+   "바디 케어",
+   "콜라보레이션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "컬크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "데일리 비타 플렉스 올인원 바디 워...",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "콜라겐 펩타이드 세럼",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "콜라겐 펩타이드 젤리 세럼 미스트",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "네오팜 더마비가 올리브영과 산리오캐릭터즈 협업 캠페인에 참여한다.",
+  "key_fact_quote": "[뷰티 트렌드] 네오팜 더마비, 올리브영X산리오캐릭터즈 협업 캠페인 참...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "콜라겐 펩타이드",
+    "quote": "콜라겐 펩타이드 세럼과 콜라겐 펩타이드 젤리 세럼 미스트 구매 고객을 대상으로 각각 다른 디자인의..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:46+00:00",
+ "had_body": false
+}

@@ -1,0 +1,61 @@
+{
+ "doc_id": "1be75f099dbe3c45",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.paxetv.com/news/articleView.html?idxno=279974",
+ "title": "에이솔루션, 다이소 전용 제품 확대…저가 뷰티시장 공략",
+ "summary": "새롭게 선보인 '칼라민 바디 트러블 케어'는 패치와 미스트 , 수딩 젤 크림, 필링 앰플 등 6종으로 구성됐으며 다이소를 통해 판매됩니다. 에이솔루션은 신제품 출시 와 함께 서울 성수동에서 체험형 팝업을 운영하는 등...",
+ "published_at": "2026-08-21T09:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이솔루션"
+  ],
+  "companies": [
+   "다이소"
+  ],
+  "keywords": [
+   "저가 뷰티",
+   "바디 케어",
+   "바디 트러블 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "칼라민 바디 트러블 케어",
+    "brand": "에이솔루션",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "새롭게 선보인 '칼라민 바디 트러블 케어'는 패치와 미스트 , 수딩 젤 크림, 필링 앰플 등 6종으로 구성됐으며 다이소를 통해 판매됩니다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이솔루션이 다이소 전용 바디 트러블 케어 제품을 새롭게 선보이며 저가 뷰티 시장 공략에 나섰다.",
+  "key_fact_quote": "새롭게 선보인 '칼라민 바디 트러블 케어'는 패치와 미스트 , 수딩 젤 크림, 필링 앰플 등 6종으로 구성됐으며 다이소를 통해 판매됩니다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "칼라민",
+    "quote": "새롭게 선보인 '칼라민 바디 트러블 케어'는 패치와 미스트 , 수딩 젤 크림, 필링 앰플 등 6종으로 구성됐으며 다이소를 통해 판매됩니다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:57+00:00",
+ "had_body": false
+}

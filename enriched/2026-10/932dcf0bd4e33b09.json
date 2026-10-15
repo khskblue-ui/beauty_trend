@@ -1,0 +1,59 @@
+{
+ "doc_id": "932dcf0bd4e33b09",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53707",
+ "title": "비긴스 바이 정샘물, 글로벌 서포터즈 발대식",
+ "summary": "비긴스 바이 정샘물이 13일 첫 번째 글로벌 서포터즈인 ‘BeginS BFF(Best Friend Forever)’ 발대식을 개최했다. ‘BeginS BFF’은 비긴스와 평생 함께할 베스트 프렌드라는 의미를 담았다. 서포터즈는 K-뷰티를 사랑하고 감각적인 숏폼 콘텐츠를 제작하는 재한 외국인을 대상으로 모집했…",
+ "published_at": "2026-10-15T16:26:46+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "RU",
+   "VN",
+   "ES",
+   "JP"
+  ],
+  "brands": [
+   "비긴스 바이 정샘물",
+   "비긴스"
+  ],
+  "companies": [
+   "정샘물"
+  ],
+  "keywords": [
+   "글로벌 서포터즈",
+   "숏폼 콘텐츠",
+   "서포터즈 발대식"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "비긴스 바이 정샘물이 재한 외국인을 대상으로 한 글로벌 서포터즈 발대식을 개최했다.",
+  "key_fact_quote": "비긴스 바이 정샘물이 13일 첫 번째 글로벌 서포터즈인 ‘BeginS BFF(Best Friend Forever)’ 발대식을 개최했다.",
+  "events": [
+   {
+    "name": "‘BeginS BFF(Best Friend Forever)’ 발대식",
+    "start_date": "2026-10-13",
+    "end_date": null,
+    "place": null,
+    "quote": "비긴스 바이 정샘물이 13일 첫 번째 글로벌 서포터즈인 ‘BeginS BFF(Best Friend Forever)’ 발대식을 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:24+00:00",
+ "had_body": true
+}

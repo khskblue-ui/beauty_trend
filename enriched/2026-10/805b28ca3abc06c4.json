@@ -1,0 +1,47 @@
+{
+ "doc_id": "805b28ca3abc06c4",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312254",
+ "title": "주가로 읽는 K-뷰티: 중견 ODM株 조정 국면...외국인은 코스메카·제닉 선택",
+ "summary": "최근 중견 화장품 ODM 업종 전반이 약세를 보인 가운데 외국인 투자자들의 선택은 엇갈렸다.15일 네이버증권에 따르면 국내 중견 화장품 ODM 5개 종목의 최근 일주일간(10월 7일~14일) 주가와 외국인 보유율을 비교한 결과, 코스메카코리아와 제닉에는 외국인 자금이 유입된 반면 한국화장품제조에서는 외국인 보유율이 감소한 것으로 나타났다.중견 ODM 5개사 주가 모두 약세조사 대상 5개 기업의 주가는 모두 하락했다.제닉은 2만1800원에서 1만8900원으로 13.3% 하락하며 가장 큰 낙폭을 기록했다. 코스메카코리아는 11만7000",
+ "published_at": "2026-10-15T19:13:36+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스메카코리아",
+   "제닉",
+   "한국화장품제조",
+   "잉글우드랩",
+   "씨앤씨인터내셔널"
+  ],
+  "keywords": [
+   "화장품 제조",
+   "화장품 수급"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중견 화장품 제조 기업들의 주가가 전반적으로 하락하는 조정 국면 속에서 외국인 투자자들의 수급 흐름은 기업별로 엇갈렸다.",
+  "key_fact_quote": "최근 중견 화장품 ODM 업종 전반이 약세를 보인 가운데 외국인 투자자들의 선택은 엇갈렸다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:24+00:00",
+ "had_body": true
+}

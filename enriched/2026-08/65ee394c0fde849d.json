@@ -1,0 +1,67 @@
+{
+ "doc_id": "65ee394c0fde849d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ibabynews.com/news/articleView.html?idxno=153894",
+ "title": "[뷰티 트렌드] 서영석 의원, K-뷰티 경쟁력 강화 위한 화장품법 개정안...",
+ "summary": "'튜닝엑스'는 앰플 크림과 부스팅 에센스, 크림 미스트 등으로 구성된 안티에이징 스킨케어 라인이다.... ◇ 몽클로스, 올리브영서 헤어케어 이어 바디 케어까지 확장…'컴포트 핸드크림' 출시 몽클로스 ▲컴포트...",
+ "published_at": "2026-08-21T15:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "몽클로스",
+   "튜닝엑스"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "바디 케어",
+   "핸드크림",
+   "안티에이징 스킨케어",
+   "화장품법 개정안"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "컴포트 핸드크림",
+    "brand": "몽클로스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "몽클로스, 올리브영서 헤어케어 이어 바디 케어까지 확장…'컴포트 핸드크림' 출시",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "튜닝엑스",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "몽클로스가 올리브영에서 바디 케어 제품인 컴포트 핸드크림을 출시했다.",
+  "key_fact_quote": "몽클로스, 올리브영서 헤어케어 이어 바디 케어까지 확장…'컴포트 핸드크림' 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:55+00:00",
+ "had_body": false
+}

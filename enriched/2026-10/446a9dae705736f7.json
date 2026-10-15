@@ -1,0 +1,47 @@
+{
+ "doc_id": "446a9dae705736f7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7308",
+ "title": "[ 뷰티 돋보기] CJ ONE은 '회원 확대'·오설록은 '티 요리법 활용'…에이...",
+ "summary": "뷰티 디바이스 역시 지난해 행사 대비 매출 성장세를 보였다. 에이피알은 이번 실적을 바탕으로 블랙프라이데이와 크리스마스 등 연말 쇼핑 성수기에 맞춰 신제품 출시 와 현지 판촉 활동을 이어갈 계획이다.",
+ "published_at": "2026-10-15T16:09:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오설록",
+   "CJ ONE"
+  ],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "쇼핑 성수기",
+   "신제품 출시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에이피알은 뷰티 디바이스 매출 성장세를 바탕으로 연말 쇼핑 성수기에 맞춰 신제품 출시와 판촉 활동을 이어갈 계획이다.",
+  "key_fact_quote": "에이피알은 이번 실적을 바탕으로 블랙프라이데이와 크리스마스 등 연말 쇼핑 성수기에 맞춰 신제품 출시 와 현지 판촉 활동을 이어갈 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:13+00:00",
+ "had_body": false
+}

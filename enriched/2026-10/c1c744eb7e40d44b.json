@@ -1,0 +1,57 @@
+{
+ "doc_id": "c1c744eb7e40d44b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100152",
+ "title": "크로마엑스, ‘뷰티월드 두바이 2026’ 참여… 중동 헤어 시장 공략",
+ "summary": "글로벌 뷰티 기업 크로마엑스가 아랍에미리트(UAE) 두바이에서 열린 글로벌 뷰티 박람회 ‘뷰티월드 두바이 2026(Beautyworld Dubai 2026)’에 참가해 해외 유통 파트너들과 사업 협력 방안을 논의 및 체결하며 중동 시장 확대를 위한 실질적인 성과를 거뒀다.크로마엑스는 지난 10월 6일부터 8일까지 아랍에미리트(UAE) 두바이 월드트레이드센터에서 개최된 ‘뷰티월드 두바이 2026’에 참가해 자사의 대표 헤어 브랜드 다슈(DASHU)와 달리프(DALEAF) 를 선보였다고 밝혔다.올해 30주년을 맞은 뷰티월드 두바이는 세",
+ "published_at": "2026-10-15T09:48:45+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "event",
+  "countries": [
+   "AE"
+  ],
+  "brands": [
+   "다슈",
+   "DASHU",
+   "달리프",
+   "DALEAF"
+  ],
+  "companies": [
+   "크로마엑스"
+  ],
+  "keywords": [
+   "헤어케어",
+   "헤어 스타일링",
+   "남성 그루밍"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "크로마엑스가 뷰티월드 두바이 박람회에 참가해 헤어 브랜드 다슈와 달리프를 선보이고 중동 시장 확대를 위한 성과를 거두었다.",
+  "key_fact_quote": "글로벌 뷰티 기업 크로마엑스가 아랍에미리트(UAE) 두바이에서 열린 글로벌 뷰티 박람회 ‘뷰티월드 두바이 2026(Beautyworld Dubai 2026)’에 참가해 해외 유통 파트너들과 사업 협력 방안을 논의 및 체결하며 중동 시장 확대를 위한 실질적인 성과를 거뒀다.",
+  "events": [
+   {
+    "name": "뷰티월드 두바이 2026",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-08",
+    "place": "아랍에미리트(UAE) 두바이 월드트레이드센터",
+    "quote": "크로마엑스는 지난 10월 6일부터 8일까지 아랍에미리트(UAE) 두바이 월드트레이드센터에서 개최된 ‘뷰티월드 두바이 2026’에 참가해 자사의 대표 헤어 브랜드 다슈(DASHU)와 달리프(DALEAF) 를 선보였다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:48+00:00",
+ "had_body": true
+}

@@ -1,0 +1,49 @@
+{
+ "doc_id": "5e969e691210eed2",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100149",
+ "title": "K-뷰티·푸드 등 K-소비재...10년간 수출액 4.2배↑",
+ "summary": "최근 수출이 반도체뿐만 아니라 바이오헬스·화장품·농수산식품 등 주요 소비재도 역대 8월 최고 실적을 내는 등 호조를 이어가고 있다(산업통상부 ‘8월 수출입동향’). 이 같은 성장세를 이어가기 위해서는 지역별 맞춤형 수출전략과 함께 중소기업의 안착·성장을 뒷받침하는 ‘성장 사다리’를 강화해야 한다는 주장이 나왔다.대한상공회의소(회장 최태원)가 14일 발표한 ‘K-소비재 수출 10년 동향 분석’에 따르면, 푸드·뷰티·바이오 대표 7개 품목의 올해 1~8월 수출액은 155.9억 달러로, 2016년 1~8월(37.4억 달러)의 4.2배에",
+ "published_at": "2026-10-15T09:34:13+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN",
+   "HK",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "대한상공회의소"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "K-뷰티",
+   "중소기업",
+   "기초화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한상공회의소 분석 결과 한국 소비재 수출이 크게 증가한 가운데 뷰티 품목군은 중국 집중도에서 벗어나 미국과 유럽 등으로 다변화되며 중소 및 중견기업 중심으로 성장세를 나타냈다.",
+  "key_fact_quote": "수출이 늘어나는 동안 시장의 구조 변화도 있었다. 변화 폭이 가장 큰 품목군은 K-뷰티였다. 2016년 1~8월에는 수출의 74.2%가 중국·홍콩으로 향했으나, 이후 미국 수출이 15.3배, 유럽 수출이 43.9배 늘면서 올해는 중국·홍콩, 미국, 유럽의 비중이 각각 20% 안팎으로 비슷해졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:48+00:00",
+ "had_body": true
+}

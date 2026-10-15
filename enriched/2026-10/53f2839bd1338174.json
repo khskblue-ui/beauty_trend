@@ -1,0 +1,44 @@
+{
+ "doc_id": "53f2839bd1338174",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58512",
+ "title": "‘전시산업 발전 로드맵 2030’... 2030년 화장품+K-컬처 비즈니스 플랫폼 구축",
+ "summary": "[코스인코리아닷컴 김민석 기자]산업통상부(장관 김정관)는 2030년까지의 전시산업 중장기 발전계획을 담은 ‘전시산업 발전 로드맵 2030’을 10월 14일, 경제관계장관회의에서 발표했다. 이번 로드맵은 수출 1조 달러 시대의 수출 지원체계 혁신과 킨텍스 제3전시장(‘28.11, 총 17만㎡), 잠실 마이…",
+ "published_at": "2026-10-15T13:03:35+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "산업통상부"
+  ],
+  "keywords": [
+   "소비재 전시회",
+   "K-컬처",
+   "비즈니스 플랫폼"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "정부가 화장품 등 소비재 전시회에 문화 콘텐츠를 접목하는 내용을 포함한 전시산업 중장기 발전계획을 발표했다.",
+  "key_fact_quote": "산업통상부(장관 김정관)는 2030년까지의 전시산업 중장기 발전계획을 담은 ‘전시산업 발전 로드맵 2030’을 10월 14일, 경제관계장관회의에서 발표했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:49:38+00:00",
+ "had_body": true
+}

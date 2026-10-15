@@ -1,0 +1,61 @@
+{
+ "doc_id": "c88bb99ec549c9b3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gokorea.kr/news/articleView.html?idxno=881346",
+ "title": "AZH, 15일 고양 킨텍스 K-뷰티 엑스포 참가",
+ "summary": "화장품 을 비롯해 에스테틱, 의료, 스마트뷰티 분야 제품과 트렌드가 소개된다. AZH는 메인 부스에서 이번 엑스포의 'MD's Pick Top 10'에 선정된 '실키 에센스 헤어오일' 등 주요 제품군을 전시한다. 신제품 은 콘셉트별로...",
+ "published_at": "2026-10-15T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "AZH"
+  ],
+  "companies": [],
+  "keywords": [
+   "뷰티 엑스포",
+   "헤어오일"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "실키 에센스 헤어오일",
+    "brand": "AZH",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "AZH가 고양 킨텍스에서 열리는 뷰티 엑스포에 참가해 주요 제품군을 전시한다.",
+  "key_fact_quote": "AZH, 15일 고양 킨텍스 K-뷰티 엑스포 참가",
+  "events": [
+   {
+    "name": "K-뷰티 엑스포",
+    "start_date": "2026-10-15",
+    "end_date": null,
+    "place": "고양 킨텍스",
+    "quote": "AZH, 15일 고양 킨텍스 K-뷰티 엑스포 참가"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:08+00:00",
+ "had_body": false
+}

@@ -1,0 +1,51 @@
+{
+ "doc_id": "00cda5f0500850df",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.tournews21.com/news/articleView.html?idxno=145839",
+ "title": "국립공원 골칫거리 '생태계교란식물', 화장품 원료로 대변신",
+ "summary": "국립공원의 생태계를 위협하던 외래식물이 화장품 원료로 다시 태어난다. 무분별한 확산으로 토종 식물의... 활용한 신제품 개발과 제작을 추진할 계획이다. 그동안 생태계교란식물 관리는 확산을 막기 위한 제거와 폐기...",
+ "published_at": "2026-10-16T04:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "생태계교란식물",
+   "화장품 원료",
+   "신제품 개발"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국립공원의 생태계를 위협하던 생태계교란 외래식물이 화장품 원료로 활용되어 신제품 개발이 추진된다.",
+  "key_fact_quote": "국립공원의 생태계를 위협하던 외래식물이 화장품 원료로 다시 태어난다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "외래식물",
+    "quote": "국립공원의 생태계를 위협하던 외래식물이 화장품 원료로 다시 태어난다."
+   },
+   {
+    "name": "생태계교란식물",
+    "quote": "국립공원 골칫거리 '생태계교란식물', 화장품 원료로 대변신"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:56+00:00",
+ "had_body": false
+}

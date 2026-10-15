@@ -1,0 +1,57 @@
+{
+ "doc_id": "edc5847a443c2d4a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=246580",
+ "title": "더프트앤도프트, '무신사 뷰티 홍대' 입점… 오프라인 향 경험 확장",
+ "summary": "바디 로션, 바디 퍼퓸 미스트 등 주요 퍼스널 케어 제품군을 선보인다. 대표 라인업인 '인리치드 퍼퓸... 향으로 출시 됐다. 브랜드 관계자는 \"홍대는 국내 2030 세대와 외국인 관광객이 함께 찾는 상권\"이라며 \"향을 직접...",
+ "published_at": "2026-09-23T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더프트앤도프트"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "퍼스널 케어",
+   "바디 로션",
+   "바디 퍼퓸 미스트",
+   "오프라인 매장 입점"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "인리치드 퍼퓸",
+    "brand": "더프트앤도프트",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "대표 라인업인 '인리치드 퍼퓸... 향으로 출시 됐다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더프트앤도프트가 오프라인 향 경험 확장을 위해 무신사 뷰티 홍대에 입점했다.",
+  "key_fact_quote": "더프트앤도프트, '무신사 뷰티 홍대' 입점… 오프라인 향 경험 확장",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:39+00:00",
+ "had_body": false
+}

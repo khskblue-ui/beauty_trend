@@ -1,0 +1,54 @@
+{
+ "doc_id": "d92fdf373280d0f7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.weeklytoday.com/news/articleView.html?idxno=795295",
+ "title": "[위클리오늘] 스타필드, 로에베 퍼퓸 (9.21)",
+ "summary": "로에베 퍼퓸 (LOEWE Perfumes)이 자연에서 영감을 받은 '크래프티드 컬렉션(Crafted Collection)'에 신규 향수 5종을 추가했다고 21일 밝혔다. 자연 소재와 조향 기술을 결합한 니치 향수 라인으로 과일과 꽃, 나무, 향신료 등...",
+ "published_at": "2026-09-21T10:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 퍼퓸",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "로에베 퍼퓸",
+   "LOEWE Perfumes"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "신규 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "크래프티드 컬렉션",
+    "brand": "로에베 퍼퓸",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "로에베 퍼퓸 (LOEWE Perfumes)이 자연에서 영감을 받은 '크래프티드 컬렉션(Crafted Collection)'에 신규 향수 5종을 추가했다고 21일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "로에베 퍼퓸이 크래프티드 컬렉션에 신규 향수를 추가했다.",
+  "key_fact_quote": "로에베 퍼퓸 (LOEWE Perfumes)이 자연에서 영감을 받은 '크래프티드 컬렉션(Crafted Collection)'에 신규 향수 5종을 추가했다고 21일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:06+00:00",
+ "had_body": false
+}

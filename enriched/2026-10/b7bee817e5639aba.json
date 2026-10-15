@@ -1,0 +1,61 @@
+{
+ "doc_id": "b7bee817e5639aba",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=333832",
+ "title": "네오메디칼제약, PDRN 함유 핸드크림 론칭…K- 뷰티 라인업 확대",
+ "summary": "구강용품 및 의약외품 전문기업 네오메디칼제약(대표:이상돈)이 신제품 '네오케어 핸드크림(NEOCARE Hand Cream)'을 출시 하며 K- 뷰티 사업 확대에 속도를 내고 있다.네오메디칼제약은 오는 10월 15일부터 17일까지 경기도...",
+ "published_at": "2026-10-16T08:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "네오케어"
+  ],
+  "companies": [
+   "네오메디칼제약"
+  ],
+  "keywords": [
+   "핸드크림",
+   "의약외품",
+   "케이뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "네오케어 핸드크림(NEOCARE Hand Cream)",
+    "brand": "네오케어",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "구강용품 및 의약외품 전문기업 네오메디칼제약(대표:이상돈)이 신제품 '네오케어 핸드크림(NEOCARE Hand Cream)'을 출시 하며 K- 뷰티 사업 확대에 속도를 내고 있다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "네오메디칼제약이 성분을 함유한 신제품 핸드크림을 출시했다.",
+  "key_fact_quote": "구강용품 및 의약외품 전문기업 네오메디칼제약(대표:이상돈)이 신제품 '네오케어 핸드크림(NEOCARE Hand Cream)'을 출시 하며 K- 뷰티 사업 확대에 속도를 내고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "네오메디칼제약, PDRN 함유 핸드크림 론칭…K- 뷰티 라인업 확대"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:09+00:00",
+ "had_body": false
+}

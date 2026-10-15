@@ -1,0 +1,66 @@
+{
+ "doc_id": "acaaeeac68df794c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=201255",
+ "title": "스킨케어, '롱제비티·더마·고기능성' 무장... 가을 전쟁 시작 [최기자...",
+ "summary": "본지는 스킨케어, 메이크업, 바디 , 헤어 등 화장품 트렌드를 품목별로 분석해 금주의 추천 화장품을... 니오라코리아는 세라마이드와 판테놀 등을 함유한 '이리스 미스트 '를 출시 했다. 스킨케어와 메이크업 후 모두...",
+ "published_at": "2026-09-04T22:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "니오라코리아"
+  ],
+  "companies": [
+   "니오라코리아"
+  ],
+  "keywords": [
+   "롱제비티",
+   "더마 화장품",
+   "고기능성 스킨케어",
+   "미스트"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "이리스 미스트",
+    "brand": "니오라코리아",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "니오라코리아는 세라마이드와 판테놀 등을 함유한 '이리스 미스트 '를 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "니오라코리아가 세라마이드와 판테놀을 함유한 이리스 미스트를 출시했다.",
+  "key_fact_quote": "니오라코리아는 세라마이드와 판테놀 등을 함유한 '이리스 미스트 '를 출시 했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "니오라코리아는 세라마이드와 판테놀 등을 함유한 '이리스 미스트 '를 출시 했다."
+   },
+   {
+    "name": "판테놀",
+    "quote": "니오라코리아는 세라마이드와 판테놀 등을 함유한 '이리스 미스트 '를 출시 했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:48+00:00",
+ "had_body": false
+}

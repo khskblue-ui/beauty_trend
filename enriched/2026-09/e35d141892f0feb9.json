@@ -1,0 +1,59 @@
+{
+ "doc_id": "e35d141892f0feb9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.esquirekorea.co.kr/article/1909764",
+ "title": "가을이 오면 무신사 '10만원 이하' 무화과 향수 5",
+ "summary": "하지만 남들이 흔히 쓰는 플로럴 향이나 비누 향은 왠지 심심하고, 너무 무거운 니치 향수는 부담스러워... 시사오 오 드 퍼퓸 '피그 레이어' 10ml / 39,000원 달콤한 무화과와 부드러운 코코넛 향의 조화. / 이미지 출처...",
+ "published_at": "2026-09-16T18:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 퍼퓸",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "시사오"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "무화과 향수",
+   "니치 향수",
+   "오 드 퍼퓸"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "오 드 퍼퓸 '피그 레이어'",
+    "brand": "시사오",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "무화과",
+     "코코넛"
+    ],
+    "notes_quote": "달콤한 무화과와 부드러운 코코넛 향의 조화."
+   }
+  ],
+  "key_fact": "가을을 맞아 무신사에서 판매 중인 무화과 향수를 소개한다.",
+  "key_fact_quote": "가을이 오면 무신사 '10만원 이하' 무화과 향수 5",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:10+00:00",
+ "had_body": false
+}

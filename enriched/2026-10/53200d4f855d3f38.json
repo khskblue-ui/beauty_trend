@@ -1,0 +1,70 @@
+{
+ "doc_id": "53200d4f855d3f38",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=765651",
+ "title": "애경산업 샤워메이트, 플로럴 향 담은 ' 퍼퓸 바디워시' 2종 출시",
+ "summary": "애경산업은 12일 장미향의 '로지 피크닉'과 아이리스향의 '이브닝 가든'을 출시 했다고 밝혔다. ▲샤워메이트 퍼퓸 바디워시 2종. 사진=애경산업 로지 피크닉은 장미향을 중심으로 플로럴 향을, 이브닝 가든은 아이리스향을...",
+ "published_at": "2026-10-12T13:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "퍼퓸 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "샤워메이트"
+  ],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "퍼퓸 바디워시",
+   "플로럴 향",
+   "바디 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "로지 피크닉",
+    "brand": "샤워메이트",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "애경산업은 12일 장미향의 '로지 피크닉'과 아이리스향의 '이브닝 가든'을 출시 했다고 밝혔다.",
+    "notes": [
+     "장미향",
+     "플로럴 향"
+    ],
+    "notes_quote": "로지 피크닉은 장미향을 중심으로 플로럴 향을, 이브닝 가든은 아이리스향을..."
+   },
+   {
+    "name": "이브닝 가든",
+    "brand": "샤워메이트",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "애경산업은 12일 장미향의 '로지 피크닉'과 아이리스향의 '이브닝 가든'을 출시 했다고 밝혔다.",
+    "notes": [
+     "아이리스향"
+    ],
+    "notes_quote": "로지 피크닉은 장미향을 중심으로 플로럴 향을, 이브닝 가든은 아이리스향을..."
+   }
+  ],
+  "key_fact": "애경산업의 샤워메이트가 플로럴 향을 담은 퍼퓸 바디워시 신제품을 선보였다.",
+  "key_fact_quote": "애경산업 샤워메이트, 플로럴 향 담은 ' 퍼퓸 바디워시' 2종 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:12+00:00",
+ "had_body": false
+}

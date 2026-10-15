@@ -1,0 +1,41 @@
+{
+ "doc_id": "51f82cb608f46564",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/behind-the-scents-podcast-how-perfumers-learn-to-smell",
+ "title": "Behind the Scents podcast: How perfumers learn to smell",
+ "summary": "In the third episode of the IFRA Behind the Scents Podcast, Master Perfumer Stephen Nicoll explains how a perfumer’s nose is trained – and why curiosity matters as much as talent.",
+ "published_at": "2026-10-15T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "IFRA"
+  ],
+  "keywords": [
+   "조향사 교육",
+   "향수 팟캐스트"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "국제향료협회의 팟캐스트 세 번째 에피소드에서 마스터 조향사 스티븐 니콜이 조향사의 후각 훈련 과정과 호기심의 중요성에 대해 설명한다.",
+  "key_fact_quote": "In the third episode of the IFRA Behind the Scents Podcast, Master Perfumer Stephen Nicoll explains how a perfumer’s nose is trained – and why curiosity matters as much as talent.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:32+00:00",
+ "had_body": false
+}

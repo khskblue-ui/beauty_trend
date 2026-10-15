@@ -1,0 +1,71 @@
+{
+ "doc_id": "07b26ed6f3b7d631",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/bogart-cede-a-son-principal,28354",
+ "title": "Bogart cède à son principal actionnaire sa filiale en Israël",
+ "summary": "Le groupe français Bogart (Jacques Bogart, Ted Lapidus, Carven, parfumeries April et DI Drugstores, HC Parfümerie, Fann, etc.) a annoncé la cession de 100% du capital de sa filiale israélienne April Cosmetics and Perfumes Store Chain Ltd à April Holding D.K Ltd, une société détenue par David Konckier, PDG et principal actionnaire de Bogart. L'opération, approuvée par le conseil d'administration le 12 octobre 2026, vise notamment à renforcer la structure financière du groupe et à favoriser une... - Brèves / Afrique / Moyen Orient",
+ "published_at": "2026-10-16T06:08:12+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "IL",
+   "HK"
+  ],
+  "brands": [
+   "Jacques Bogart",
+   "Ted Lapidus",
+   "Carven",
+   "April",
+   "DI Drugstores",
+   "HC Parfümerie",
+   "Fann",
+   "Marionnaud"
+  ],
+  "companies": [
+   "Bogart",
+   "April Cosmetics and Perfumes Store Chain Ltd",
+   "April Holding D.K Ltd",
+   "Jacques Bogart International B.V.",
+   "Bogart SA",
+   "PwC",
+   "BDO",
+   "CK Hutchison",
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "뷰티 리테일",
+   "지분 매각",
+   "퍼퓨머리"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "프랑스 보가트 그룹이 재무 구조 강화와 자원 배분을 위해 이스라엘 자회사 지분 전량을 최대 주주가 보유한 회사에 매각하기로 결정했다.",
+  "key_fact_quote": "Le groupe français Bogart (Jacques Bogart, Ted Lapidus, Carven, parfumeries April et DI Drugstores, HC Parfümerie, Fann, etc.) a annoncé la cession de 100% du capital de sa filiale israélienne April Cosmetics and Perfumes Store Chain Ltd à April Holding D.K Ltd, une société détenue par David Konckier, PDG et principal actionnaire de Bogart.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:19+00:00",
+ "had_body": true
+}

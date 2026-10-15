@@ -1,0 +1,96 @@
+{
+ "doc_id": "f85a68a7559a898b",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58496",
+ "title": "‘제약’ 떼는 동국제약, 센텔리안24 앞세워 글로벌 뷰티·헬스 시장에 도전장",
+ "summary": "[코스인코리아닷컴 김세화 기자]58년 역사의 동국제약이 사명 변경을 추진한다. 새 사명은 회사의 대표 더마코스메틱 브랜드 ‘센텔리안24’에서 차용한 ‘DK 센텔리안’이다. 의약품을 기반으로 성장해 온 동국제약이 헬스앤뷰티 사업을 확대하며 글로벌 시장 공략에 나선 가운데, 이 같은 변화가 기업의 정체성 확장으로 이어질지 주목된다. 13일 금융감독원 전자공",
+ "published_at": "2026-10-14T15:10:07+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안24",
+   "마데카솔",
+   "마데카 프라임"
+  ],
+  "companies": [
+   "동국제약",
+   "위드닉스",
+   "리봄화장품",
+   "상상인증권",
+   "얼타뷰티",
+   "돈키호테",
+   "실리콘투",
+   "예스스타일",
+   "아시아 뷰티홀세일"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "뷰티 디바이스",
+   "헬스앤뷰티",
+   "홈케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "마데카 프라임",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동국제약이 헬스앤뷰티 사업 확장과 글로벌 시장 공략에 맞춰 사명을 센텔리안 브랜드명을 활용한 디케이 센텔리안으로 변경하는 안건을 추진한다.",
+  "key_fact_quote": "58년 역사의 동국제약이 사명 변경을 추진한다. 새 사명은 회사의 대표 더마코스메틱 브랜드 ‘센텔리안24’에서 차용한 ‘DK 센텔리안’이다.",
+  "events": [
+   {
+    "name": "정관 변경을 위한 임시주주총회",
+    "start_date": "2026-11-27",
+    "end_date": null,
+    "place": null,
+    "quote": "정관 변경을 위한 임시주주총회는 오는 11월 27일 열릴 예정이다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "병풀",
+    "quote": "마데카솔을 통해 축적한 병풀 연구와 센텔라아시아티카 정량 추출물(TECA) 기술을 바탕으로 의약품에서 피부 관리 영역까지 사업을 확장한 것이다."
+   },
+   {
+    "name": "센텔라아시아티카 정량 추출물",
+    "quote": "마데카솔을 통해 축적한 병풀 연구와 센텔라아시아티카 정량 추출물(TECA) 기술을 바탕으로 의약품에서 피부 관리 영역까지 사업을 확장한 것이다."
+   },
+   {
+    "name": "TECA",
+    "quote": "마데카솔을 통해 축적한 병풀 연구와 센텔라아시아티카 정량 추출물(TECA) 기술을 바탕으로 의약품에서 피부 관리 영역까지 사업을 확장한 것이다."
+   },
+   {
+    "name": "폴리데옥시리보뉴클레오티드",
+    "quote": "폴리데옥시리보뉴클레오티드(PDRN) 등 기능성 소재를 활용한 제품을 선보이는 한편, 뷰티 디바이스 ‘마데카 프라임’을 통해 홈케어 시장에도 진출했다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "폴리데옥시리보뉴클레오티드(PDRN) 등 기능성 소재를 활용한 제품을 선보이는 한편, 뷰티 디바이스 ‘마데카 프라임’을 통해 홈케어 시장에도 진출했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:49:55+00:00",
+ "had_body": true
+}

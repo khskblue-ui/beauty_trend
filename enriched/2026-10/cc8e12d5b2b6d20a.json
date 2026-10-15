@@ -1,0 +1,42 @@
+{
+ "doc_id": "cc8e12d5b2b6d20a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dt.co.kr/article/12089362?ref=naver",
+ "title": "한국공학대 GTEP사업단, 시흥 기업과 말레이시아 뷰티 시장 개척",
+ "summary": "진출과 수출 확대를 위한 기반을 마련했다. 전시회에 참가한 김지혜 학생은 “현지 소비자와 바이어를 대상으로 제품 시연과 상담을 진행하며 말레이시아 뷰티 시장의 수요와 구매 결정 요인을 파악하고, K - 뷰티 ...",
+ "published_at": "2026-10-15T16:09:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MY"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 시장",
+   "수출 확대"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국공학대 사업단이 지역 기업과 함께 말레이시아 뷰티 시장 개척 및 수출 확대를 위한 기반을 마련했다.",
+  "key_fact_quote": "한국공학대 GTEP사업단, 시흥 기업과 말레이시아 뷰티 시장 개척\n진출과 수출 확대를 위한 기반을 마련했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:40+00:00",
+ "had_body": false
+}

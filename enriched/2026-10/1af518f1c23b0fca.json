@@ -1,0 +1,43 @@
+{
+ "doc_id": "1af518f1c23b0fca",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-brands-breast-cancer-awareness-donation-1239319696/",
+ "title": "The Breast Cancer Awareness Initiatives Beauty Brands Are Running This Month",
+ "summary": "From La Bonne Brosse to Lys Beauty and beyond, several brands are running promotions in October to support breast cancer research and treatment.",
+ "published_at": "2026-10-13T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [
+   "La Bonne Brosse",
+   "Lys Beauty"
+  ],
+  "companies": [],
+  "keywords": [
+   "유방암 인식의 달",
+   "뷰티 브랜드 프로모션",
+   "사회공헌 캠페인"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 브랜드들이 유방암 연구 및 치료를 지원하기 위해 시월 프로모션을 진행하고 있다.",
+  "key_fact_quote": "From La Bonne Brosse to Lys Beauty and beyond, several brands are running promotions in October to support breast cancer research and treatment.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:42+00:00",
+ "had_body": false
+}

@@ -1,0 +1,61 @@
+{
+ "doc_id": "0b4d7dfb29e4cfdc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.metroseoul.co.kr/article/20261012500150",
+ "title": "애경산업, 샤워메이트 ' 퍼퓸 바디워시'...\"입는 향기, 채우는 보습\"",
+ "summary": "샤워메이트는 풍성한 플로럴 향과 부드러운 파우더리 잔향이 샤워 후에도 은은하게 유지되는 ' 퍼퓸 바디워시'를 출시 한다고 12일 밝혔다. 취향에 따라 선택할 수 있도록 2종으로 구성했다. 화사한 장미 향의 산뜻함을...",
+ "published_at": "2026-10-12T10:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "퍼퓸 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "샤워메이트"
+  ],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "퍼퓸 바디워시",
+   "플로럴 향",
+   "바디 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퍼퓸 바디워시",
+    "brand": "샤워메이트",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "샤워메이트는 풍성한 플로럴 향과 부드러운 파우더리 잔향이 샤워 후에도 은은하게 유지되는 ' 퍼퓸 바디워시'를 출시 한다고 12일 밝혔다.",
+    "notes": [
+     "플로럴",
+     "파우더리"
+    ],
+    "notes_quote": "샤워메이트는 풍성한 플로럴 향과 부드러운 파우더리 잔향이 샤워 후에도 은은하게 유지되는 ' 퍼퓸 바디워시'를 출시 한다고 12일 밝혔다."
+   }
+  ],
+  "key_fact": "애경산업의 샤워메이트가 플로럴 향과 파우더리 잔향을 담은 퍼퓸 바디워시를 출시했다.",
+  "key_fact_quote": "샤워메이트는 풍성한 플로럴 향과 부드러운 파우더리 잔향이 샤워 후에도 은은하게 유지되는 ' 퍼퓸 바디워시'를 출시 한다고 12일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "notes:퍼퓸 바디워시"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:13+00:00",
+ "had_body": false
+}

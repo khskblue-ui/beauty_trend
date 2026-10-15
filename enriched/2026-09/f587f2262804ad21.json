@@ -1,0 +1,73 @@
+{
+ "doc_id": "f587f2262804ad21",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026090109382616777",
+ "title": "우슬(USUL), 야채 향수 3종 무료 시향…“토마토·피망·당근꽃은 어떤 ...",
+ "summary": "니치 프래그런스 브랜드 우슬(USUL)이 첫 번째 야채 컬렉션(THE VEGETABLE COLLECTION)을 고객이 직접 경험할 수... 신청자에게는 디스커버리 세트와 퍼퓸 핸드 세럼 크림 전용 5% 할인 쿠폰도 제공한다. 우슬(USUL)의 야채...",
+ "published_at": "2026-09-03T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 퍼퓸",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "우슬",
+   "USUL"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "디스커버리 세트",
+   "핸드 세럼"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "야채 컬렉션",
+    "brand": "우슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "디스커버리 세트",
+    "brand": "우슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퍼퓸 핸드 세럼 크림",
+    "brand": "우슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "니치 프래그런스 브랜드 우슬이 야채 컬렉션을 직접 경험할 수 있는 무료 시향 이벤트를 진행한다.",
+  "key_fact_quote": "니치 프래그런스 브랜드 우슬(USUL)이 첫 번째 야채 컬렉션(THE VEGETABLE COLLECTION)을 고객이 직접 경험할 수...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:16+00:00",
+ "had_body": false
+}

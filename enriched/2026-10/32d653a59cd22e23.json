@@ -1,0 +1,53 @@
+{
+ "doc_id": "32d653a59cd22e23",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.cctimes.kr/news/articleView.html?idxno=932355",
+ "title": "오송화장품 뷰티 엑스포 22일 막 오른다",
+ "summary": "일본 대형 유통기업을 비롯한 국내외 바이어 200명이 참가해 K - 뷰티 기업들과 수출 상담을 진행한다. 15일 도에 따르면 충북도와 청주시가 공동 주최하고 오송바이오진흥재단이 주관하는 이번 엑스포는 22일부터...",
+ "published_at": "2026-10-15T21:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "오송바이오진흥재단"
+  ],
+  "keywords": [
+   "화장품 엑스포",
+   "뷰티 엑스포",
+   "수출 상담"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "충북도와 청주시가 주최하는 오송화장품 뷰티 엑스포가 개최되어 국내외 바이어들과 케이뷰티 기업 간의 수출 상담이 진행된다.",
+  "key_fact_quote": "충북도와 청주시가 공동 주최하고 오송바이오진흥재단이 주관하는 이번 엑스포는 22일부터...",
+  "events": [
+   {
+    "name": "오송화장품 뷰티 엑스포",
+    "start_date": "2026-10-22",
+    "end_date": null,
+    "place": null,
+    "quote": "오송화장품 뷰티 엑스포 22일 막 오른다"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:26+00:00",
+ "had_body": false
+}

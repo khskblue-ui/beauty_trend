@@ -1,0 +1,61 @@
+{
+ "doc_id": "acc40ed80cf82744",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=310696",
+ "title": "[K-뷰티 벨기에 리포트③] 벨기에 시장에서 K-뷰티는 무엇을 해야 하나?",
+ "summary": "벨기에 소비자들은 K-뷰티의 품질과 성분 경쟁력을 높이 평가했다. 그러나 동시에 K-뷰티가 벨기에 시장에서 지속적으로 성장하기 위해서는 해결해야 할 과제도 존재하는 것으로 나타났다.뷰티경제가 벨기에 현지인 5명을 대상으로 실시한 인터뷰 결과를 분석한 결과, 벨기에 시장 공략을 위한 K-뷰티의 과제는 ▲마케팅 중심 이미지 탈피 ▲브랜드 다양성 확대 ▲현지 소비자와의 신뢰 구축 등 세 가지로 요약된다.\\\"한국 화장품은 좋다\\\"는 평가지만 \\\"모든 브랜드가 인정받는 것은 아니다\\\"인터뷰 참가자들은 공통적으로 한국 화장품의 품질을 높게 평가했다.",
+ "published_at": "2026-10-15T09:05:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "BE",
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "설화수",
+   "뷰티 오브 조선"
+  ],
+  "companies": [],
+  "keywords": [
+   "성분 스토리텔링",
+   "효능 검증",
+   "인디 브랜드",
+   "소비자 리뷰"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "벨기에 소비자들은 한국 화장품의 품질과 성분을 높이 평가하지만 한류 이미지보다 실제 효능과 성분 설명 및 사용자 후기를 중시해 제품을 선택하고 있다.",
+  "key_fact_quote": "벨기에 소비자를 인터뷰 결과 현지 소비자들은 K-뷰티에 대해 긍정적으로 평가하면서도 국가 이미지보다 성분, 사용감, 가격 대비 품질, 실제 사용자 후기를 중심으로 제품을 선택하는 것으로 나타났다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "인삼",
+    "quote": "특히 인삼과 쌀, 녹두 등 한국 화장품에 자주 활용되는 원료에 대해 높은 관심을 나타냈다."
+   },
+   {
+    "name": "쌀",
+    "quote": "특히 인삼과 쌀, 녹두 등 한국 화장품에 자주 활용되는 원료에 대해 높은 관심을 나타냈다."
+   },
+   {
+    "name": "녹두",
+    "quote": "특히 인삼과 쌀, 녹두 등 한국 화장품에 자주 활용되는 원료에 대해 높은 관심을 나타냈다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:37+00:00",
+ "had_body": true
+}

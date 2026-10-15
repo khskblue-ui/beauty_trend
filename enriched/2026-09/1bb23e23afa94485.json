@@ -1,0 +1,83 @@
+{
+ "doc_id": "1bb23e23afa94485",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ekn.kr/web/view.php?key=20260907025031368",
+ "title": "[똑똑한케어] 이니스프리, 마녀공장, 리필드, 무신사 뷰티, 뉴스킨",
+ "summary": "'그린티 밀크 에센스'와 휴대용 '그린티 세라마이드 미스트 (이하 그린티 밀크 미스트 )', 미스트 키링을 함께... 뉴스킨은 지난 2001년 갈바닉 스파 시스템 출시 를 시작으로 홈 뷰티 시장을 개척하며 페이스와 바디 피부를...",
+ "published_at": "2026-09-07T11:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이니스프리",
+   "마녀공장",
+   "리필드",
+   "무신사 뷰티",
+   "뉴스킨"
+  ],
+  "companies": [],
+  "keywords": [
+   "에센스",
+   "미스트",
+   "갈바닉 스파"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "그린티 밀크 에센스",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "그린티 세라마이드 미스트",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "갈바닉 스파 시스템",
+    "brand": "뉴스킨",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 브랜드들의 제품 및 뉴스킨 갈바닉 스파 시스템 등 뷰티 케어 관련 동향을 소개한다.",
+  "key_fact_quote": "뉴스킨은 지난 2001년 갈바닉 스파 시스템 출시 를 시작으로 홈 뷰티 시장을 개척하며 페이스와 바디 피부를...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "'그린티 밀크 에센스'와 휴대용 '그린티 세라마이드 미스트 (이하 그린티 밀크 미스트 )', 미스트 키링을 함께..."
+   }
+  ],
+  "dropped": [
+   "launch:갈바닉 스파 시스템"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:49+00:00",
+ "had_body": false
+}

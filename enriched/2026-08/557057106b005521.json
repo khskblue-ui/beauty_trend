@@ -1,0 +1,68 @@
+{
+ "doc_id": "557057106b005521",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ibabynews.com/news/articleView.html?idxno=153761",
+ "title": "[뷰티 트렌드] 몽클로스, 아쿠아틱 우디 향 담은 '컴포트 핸드크림 레인...",
+ "summary": "2016년 처음 출시 된 바디 홀릭 포션 바디 미스트 는 올리브영, 에이블리, 쿠팡 등 주요 뷰티·커머스 채널에서 각종 어워즈를 수상하며 꾸준한 인기를 이어왔다. 마녀가 조제한 물약을 연상시키는 '포션' 콘셉트를 바탕으로...",
+ "published_at": "2026-08-18T15:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "몽클로스",
+   "바디 홀릭"
+  ],
+  "companies": [],
+  "keywords": [
+   "바디 미스트",
+   "핸드크림",
+   "뷰티 트렌드"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "컴포트 핸드크림 레인",
+    "brand": "몽클로스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "아쿠아틱 우디"
+    ],
+    "notes_quote": "[뷰티 트렌드] 몽클로스, 아쿠아틱 우디 향 담은 '컴포트 핸드크림 레인..."
+   },
+   {
+    "name": "포션 바디 미스트",
+    "brand": "바디 홀릭",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "바디 홀릭 포션 바디 미스트가 주요 뷰티 커머스 채널에서 어워즈를 수상하며 꾸준한 인기를 이어오고 있다.",
+  "key_fact_quote": "2016년 처음 출시 된 바디 홀릭 포션 바디 미스트 는 올리브영, 에이블리, 쿠팡 등 주요 뷰티·커머스 채널에서 각종 어워즈를 수상하며 꾸준한 인기를 이어왔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "launch:포션 바디 미스트"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:00+00:00",
+ "had_body": false
+}

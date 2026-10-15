@@ -1,0 +1,46 @@
+{
+ "doc_id": "0a1f6ded88590286",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312043",
+ "title": "China’s Tmall Signals a New Era for K-Beauty: Growth Returns, but Polarization Deepens",
+ "summary": "China’s K-beauty market may be showing signs of stabilization, but the latest sales data from Tmall suggests that the industry is entering a period of structural transformation rather than a broad-based recovery.An analysis of eight major K-beauty categories on Tmall during the third quarter of 2026",
+ "published_at": "2026-10-15T10:55:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Tmall"
+  ],
+  "keywords": [
+   "기능성 스킨케어",
+   "케이뷰티",
+   "마스크팩",
+   "베이스 메이크업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 티몰에서 케이뷰티는 시트 마스크와 베이스 메이크업 등의 전통 품목이 부진한 반면 기능성 스킨케어가 성장하며 양극화된 구조적 변화를 겪고 있다.",
+  "key_fact_quote": "The result is an increasingly polarized market in which functional skincare is gaining momentum while legacy categories struggle to maintain relevance.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:34+00:00",
+ "had_body": true
+}

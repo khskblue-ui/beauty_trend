@@ -1,0 +1,70 @@
+{
+ "doc_id": "536f78ddc4139882",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/bogart-sells-israeli-subsidiary-to,28355",
+ "title": "Bogart sells Israeli subsidiary to its main shareholder",
+ "summary": "The French Bogart Group (Jacques Bogart, Ted Lapidus, Carven, April, DI Drugstores, HC Parfümerie, etc.) has announced the sale of 100% of its Israeli subsidiary, April Cosmetics and Perfumes Store Chain Ltd, to April Holding D.K. Ltd., a company owned by Bogart Chairman and CEO and majority shareholder David Konckier. Approved by the board of directors on October 12, 2026, the transaction is intended to strengthen the group's financial position and improve resource allocation. The sale was... - Industry buzz / Africa / Middle East",
+ "published_at": "2026-10-16T06:11:45+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "IL",
+   "HK"
+  ],
+  "brands": [
+   "Jacques Bogart",
+   "Ted Lapidus",
+   "Carven",
+   "April",
+   "DI Drugstores",
+   "HC Parfümerie",
+   "Marionnaud"
+  ],
+  "companies": [
+   "Bogart Group",
+   "Bogart SA",
+   "Jacques Bogart International B.V.",
+   "April Cosmetics and Perfumes Store Chain Ltd",
+   "April Holding D.K. Ltd.",
+   "CK Hutchison",
+   "PwC",
+   "BDO",
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "자회사 매각",
+   "향수 유통",
+   "뷰티 리테일"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "프랑스 보가트 그룹이 재무 구조 강화 및 자원 배분 개선을 위해 이스라엘 자회사 지분 전량을 대주주 소유 회사에 매각했다.",
+  "key_fact_quote": "The French Bogart Group (Jacques Bogart, Ted Lapidus, Carven, April, DI Drugstores, HC Parfümerie, etc.) has announced the sale of 100% of its Israeli subsidiary, April Cosmetics and Perfumes Store Chain Ltd, to April Holding D.K. Ltd., a company owned by Bogart Chairman and CEO and majority shareholder David Konckier.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:18+00:00",
+ "had_body": true
+}

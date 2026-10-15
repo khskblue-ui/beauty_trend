@@ -1,0 +1,51 @@
+{
+ "doc_id": "f77edaeedcff5b5e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://magazine.hankyung.com/business/article/202610154490b",
+ "title": "셀린스템, '2026 K - 뷰티 엑스포 코리아' 참가… 엑소좀 기술로 국내외 공...",
+ "summary": "만나는 바이어, 소비자와의 접점을 늘리고, 완제품 수출 과 OEM/ODM 협력을 두 축으로 K -바이오 뷰티 브랜드로서 입지를 다져 나가겠다\"고 밝혔다. 한편 셀린스템 부스는 행사 기간 매일 오전 10시부터 오후 5시까지 운영된다.",
+ "published_at": "2026-10-15T16:21:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "셀린스템"
+  ],
+  "companies": [
+   "셀린스템"
+  ],
+  "keywords": [
+   "바이오 뷰티",
+   "엑소좀 기술",
+   "완제품 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "셀린스템이 엑스포에 참가해 바이어와 소비자 접점을 늘리며 바이오 뷰티 브랜드로서 입지를 다지겠다고 밝혔다.",
+  "key_fact_quote": "만나는 바이어, 소비자와의 접점을 늘리고, 완제품 수출 과 OEM/ODM 협력을 두 축으로 K -바이오 뷰티 브랜드로서 입지를 다져 나가겠다\"고 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "엑소좀",
+    "quote": "셀린스템, '2026 K - 뷰티 엑스포 코리아' 참가… 엑소좀 기술로 국내외 공..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:38+00:00",
+ "had_body": false
+}

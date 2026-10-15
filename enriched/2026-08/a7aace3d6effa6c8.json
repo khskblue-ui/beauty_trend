@@ -1,0 +1,61 @@
+{
+ "doc_id": "a7aace3d6effa6c8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.smartbizn.com/news/articleView.html?idxno=150863",
+ "title": "뷰티업계, '제품력' 앞세워 소비자 접점 넓힌다",
+ "summary": "자연주의 뷰티 브랜드 SHIRO는 여름 한정 제품 'SALT & WAVES 바디 미스트 엑스트라 쿨'을 출시 했다. 레몬과 베르가모트, 솔트에 플로럴 향을 더해 향과 청량감을 동시에 느낄 수 있도록 한 것이 특징이다. 푸치 코리아가...",
+ "published_at": "2026-08-10T18:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "SHIRO"
+  ],
+  "companies": [
+   "푸치 코리아"
+  ],
+  "keywords": [
+   "자연주의 뷰티",
+   "바디 미스트",
+   "여름 한정 제품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "SALT & WAVES 바디 미스트 엑스트라 쿨",
+    "brand": "SHIRO",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "자연주의 뷰티 브랜드 SHIRO는 여름 한정 제품 'SALT & WAVES 바디 미스트 엑스트라 쿨'을 출시 했다.",
+    "notes": [
+     "레몬",
+     "베르가모트",
+     "솔트",
+     "플로럴"
+    ],
+    "notes_quote": "레몬과 베르가모트, 솔트에 플로럴 향을 더해 향과 청량감을 동시에 느낄 수 있도록 한 것이 특징이다."
+   }
+  ],
+  "key_fact": "뷰티 브랜드 시로가 여름 한정으로 바디 미스트 신제품을 출시했다.",
+  "key_fact_quote": "자연주의 뷰티 브랜드 SHIRO는 여름 한정 제품 'SALT & WAVES 바디 미스트 엑스트라 쿨'을 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:00+00:00",
+ "had_body": false
+}

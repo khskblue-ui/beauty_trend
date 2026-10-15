@@ -1,0 +1,68 @@
+{
+ "doc_id": "99d8cef136ef9bde",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sateconomy.co.kr/news/view/1065576638465567",
+ "title": "[오늘의유통] 아성다이소, 뷰티를 '신상 채널'로…330종 앞세워 더마·헤...",
+ "summary": "애경산업은 바디케어 브랜드 샤워메이트를 통해 ' 퍼퓸 바디워시' 2종을 출시 했다. 로지 피크닉과 이브닝 가든 두 가지 향으로 구성하고 히알루론산과 식물성 오일을 적용해 향과 보습을 동시에 강조했다. 애경산업은...",
+ "published_at": "2026-10-12T10:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "퍼퓸 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "샤워메이트"
+  ],
+  "companies": [
+   "애경산업",
+   "아성다이소"
+  ],
+  "keywords": [
+   "퍼퓸 바디워시",
+   "바디케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "퍼퓸 바디워시",
+    "brand": "샤워메이트",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "애경산업은 바디케어 브랜드 샤워메이트를 통해 ' 퍼퓸 바디워시' 2종을 출시 했다.",
+    "notes": [
+     "로지 피크닉",
+     "이브닝 가든"
+    ],
+    "notes_quote": "로지 피크닉과 이브닝 가든 두 가지 향으로 구성하고 히알루론산과 식물성 오일을 적용해 향과 보습을 동시에 강조했다."
+   }
+  ],
+  "key_fact": "애경산업의 샤워메이트가 퍼퓸 바디워시 신제품을 선보였다.",
+  "key_fact_quote": "애경산업은 바디케어 브랜드 샤워메이트를 통해 ' 퍼퓸 바디워시' 2종을 출시 했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "로지 피크닉과 이브닝 가든 두 가지 향으로 구성하고 히알루론산과 식물성 오일을 적용해 향과 보습을 동시에 강조했다."
+   },
+   {
+    "name": "식물성 오일",
+    "quote": "로지 피크닉과 이브닝 가든 두 가지 향으로 구성하고 히알루론산과 식물성 오일을 적용해 향과 보습을 동시에 강조했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:13+00:00",
+ "had_body": false
+}

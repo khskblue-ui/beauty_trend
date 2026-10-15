@@ -1,0 +1,60 @@
+{
+ "doc_id": "ff773a0f3e988b6c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=201251",
+ "title": "\"향수의 계절이 돌아왔다\"... 프래그런스 출시 봇물 [최기자의 화장품 ...",
+ "summary": "프랑스 니치 퍼퓸 브랜드 마티에 프리미에르는 9월의 계절감과 핵심 원료인 튜베로즈를 앞세운 '프렌치 플라워 오 드 퍼퓸'을 제안했다. 이번 신제품은 프랑스 그라스에 위치한 에코서트 인증 자사 농장에서 9월 수확한...",
+ "published_at": "2026-09-04T21:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 퍼퓸",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "FR",
+   "KR"
+  ],
+  "brands": [
+   "마티에 프리미에르"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 퍼퓸",
+   "향수 신제품",
+   "에코서트 인증"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "프렌치 플라워 오 드 퍼퓸",
+    "brand": "마티에 프리미에르",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "프랑스 니치 퍼퓸 브랜드 마티에 프리미에르는 9월의 계절감과 핵심 원료인 튜베로즈를 앞세운 '프렌치 플라워 오 드 퍼퓸'을 제안했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "마티에 프리미에르가 튜베로즈를 핵심 원료로 한 향수 신제품을 제안했다.",
+  "key_fact_quote": "프랑스 니치 퍼퓸 브랜드 마티에 프리미에르는 9월의 계절감과 핵심 원료인 튜베로즈를 앞세운 '프렌치 플라워 오 드 퍼퓸'을 제안했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "튜베로즈",
+    "quote": "프랑스 니치 퍼퓸 브랜드 마티에 프리미에르는 9월의 계절감과 핵심 원료인 튜베로즈를 앞세운 '프렌치 플라워 오 드 퍼퓸'을 제안했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:15+00:00",
+ "had_body": false
+}

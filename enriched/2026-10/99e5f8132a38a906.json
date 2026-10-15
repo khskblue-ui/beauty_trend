@@ -1,0 +1,63 @@
+{
+ "doc_id": "99e5f8132a38a906",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100151",
+ "title": "에뛰드, 사뿐하게 드로잉 & 밀착력은 UP",
+ "summary": "즐거운 화장놀이 문화를 전파하는 글로벌 메이크업 브랜드 '에뛰드’에서 사각사각한 제형으로 자연스러운 애교살과 입체감을 연출할 수 있는 신제품 ‘사각사각 아이라이터’를 출시한다.신제품 ‘사각사각 아이라이터’는 우드 펜슬 특유의 제형감과 또렷한 발색은 살리면서, 부드러운 발림성과 밀착력을 높인 새로운 텍스처의 멀티 아이 스틱이다. 파우더와 왁스를 최적의 비율로 배합해 텁텁하게 뭉치지 않고 원하는 부위에 드로잉하듯 맑게 컬러를 쌓을 수 있으며, 피부에 얇고 편안하게 밀착돼 시간이 지나도 깔끔한 아이 메이크업을 유지할 수 있다.이번",
+ "published_at": "2026-10-14T09:44:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에뛰드"
+  ],
+  "companies": [],
+  "keywords": [
+   "아이라이터",
+   "멀티 아이 스틱",
+   "애교살 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "사각사각 아이라이터",
+    "brand": "에뛰드",
+    "launch_date": "2026-10-14",
+    "launch_status": "launched",
+    "launch_quote": "즐거운 화장놀이 문화를 전파하는 글로벌 메이크업 브랜드 '에뛰드’에서 사각사각한 제형으로 자연스러운 애교살과 입체감을 연출할 수 있는 신제품 ‘사각사각 아이라이터’를 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에뛰드가 애교살과 입체감을 연출할 수 있는 신제품 사각사각 아이라이터를 선보인다.",
+  "key_fact_quote": "즐거운 화장놀이 문화를 전파하는 글로벌 메이크업 브랜드 '에뛰드’에서 사각사각한 제형으로 자연스러운 애교살과 입체감을 연출할 수 있는 신제품 ‘사각사각 아이라이터’를 출시한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "파우더",
+    "quote": "파우더와 왁스를 최적의 비율로 배합해 텁텁하게 뭉치지 않고 원하는 부위에 드로잉하듯 맑게 컬러를 쌓을 수 있으며, 피부에 얇고 편안하게 밀착돼 시간이 지나도 깔끔한 아이 메이크업을 유지할 수 있다."
+   },
+   {
+    "name": "왁스",
+    "quote": "파우더와 왁스를 최적의 비율로 배합해 텁텁하게 뭉치지 않고 원하는 부위에 드로잉하듯 맑게 컬러를 쌓을 수 있으며, 피부에 얇고 편안하게 밀착돼 시간이 지나도 깔끔한 아이 메이크업을 유지할 수 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:50+00:00",
+ "had_body": true
+}

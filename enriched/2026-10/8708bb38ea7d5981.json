@@ -1,0 +1,57 @@
+{
+ "doc_id": "8708bb38ea7d5981",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100163",
+ "title": "전쟁 중에도 K-뷰티는 살아있다, K-뷰티 시장 공략 본격화",
+ "summary": "사단법인 한국뷰티산업무역협회(KOBITA, 이하 코비타)는 10월 14일부터 17일까지 러시아 모스크바 크로커스 엑스포(Crocus Expo)에서 진행 중인 ‘2026 인터참 러시아(InterCHARM 2026)’에서 KOTRA 국고지원 한국관을 운영하며 국내 뷰티기업의 러시아 시장 진출과 수출 판로 확대를 지원하고 있다고 밝혔다.올해로 33회를 맞이한 인터참 러시아는 러시아를 대표하는 향수·화장품 산업 전문 전시회로, 화장품과 향수, 원료 및 패키징, 미용기기, 에스테틱, 살롱·클리닉용 제품 등 뷰티산업 전반을 아우르는 국제 B2",
+ "published_at": "2026-10-16T08:36:40+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "RU"
+  ],
+  "brands": [],
+  "companies": [
+   "한국뷰티산업무역협회",
+   "KOTRA",
+   "코이코",
+   "러시아 향수·화장품협회"
+  ],
+  "keywords": [
+   "화장품 전시회",
+   "해외 수출 지원",
+   "기능성 스킨케어",
+   "업무협약"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국뷰티산업무역협회가 러시아 모스크바에서 열린 인터참 러시아 전시회에서 한국관을 운영하고 현지 향수·화장품협회와 업무협약을 체결했다.",
+  "key_fact_quote": "사단법인 한국뷰티산업무역협회(KOBITA, 이하 코비타)는 10월 14일부터 17일까지 러시아 모스크바 크로커스 엑스포(Crocus Expo)에서 진행 중인 ‘2026 인터참 러시아(InterCHARM 2026)’에서 KOTRA 국고지원 한국관을 운영하며 국내 뷰티기업의 러시아 시장 진출과 수출 판로 확대를 지원하고 있다고 밝혔다.",
+  "events": [
+   {
+    "name": "2026 인터참 러시아",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-17",
+    "place": "러시아 모스크바 크로커스 엑스포(Crocus Expo)",
+    "quote": "사단법인 한국뷰티산업무역협회(KOBITA, 이하 코비타)는 10월 14일부터 17일까지 러시아 모스크바 크로커스 엑스포(Crocus Expo)에서 진행 중인 ‘2026 인터참 러시아(InterCHARM 2026)’에서 KOTRA 국고지원 한국관을 운영하며 국내 뷰티기업의 러시아 시장 진출과 수출 판로 확대를 지원하고 있다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:34+00:00",
+ "had_body": true
+}

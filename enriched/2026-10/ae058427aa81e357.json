@@ -1,0 +1,67 @@
+{
+ "doc_id": "ae058427aa81e357",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312248",
+ "title": "아모레퍼시픽, 브랜드·인재 육성 투 트랙으로 인도 공략",
+ "summary": "아모레퍼시픽이 인도 시장을 공략하면서 브랜드 진출과 현지 인재 육성이라는 투 트랙 전략을 새롭게 시도하고 있다. 아모레퍼시픽은 최근 사회공헌 프로그램인 \\'밋 유어 뷰티 아카데미(MEET YOUR BEAUTY ACADEMY)\\'의 첫 인도 현지 과정을 3개월여만에 마무리하고 총 65명의 수료생을 배출했다고 밝혔다.아모레퍼시픽은 지난 8월 브랜드 마몽드를 인도 최대 뷰티·라이프스타일 플랫폼인 나이카(Nykaa)에 공식 입점시키며 현지 사업 확대에 나섰다. 마몽드는 \\'로즈 HA\\'와 \\'피어니 BHA\\' 라인을 중심으로 젠지(Gen Z)와 밀레",
+ "published_at": "2026-10-15T17:14:05+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "IN"
+  ],
+  "brands": [
+   "마몽드"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "나이카",
+   "한국국제협력단"
+  ],
+  "keywords": [
+   "글로벌 시장 진출",
+   "인재 육성"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "로즈 HA",
+    "brand": "마몽드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "피어니 BHA",
+    "brand": "마몽드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아모레퍼시픽은 브랜드 진출과 현지 인재 육성을 병행하는 투 트랙 전략으로 인도 시장을 공략하고 있다.",
+  "key_fact_quote": "아모레퍼시픽이 인도 시장을 공략하면서 브랜드 진출과 현지 인재 육성이라는 투 트랙 전략을 새롭게 시도하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:27+00:00",
+ "had_body": true
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "653b1d9b9b579a70",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.e2news.com/news/articleView.html?idxno=335122",
+ "title": "원데이즈유, '2026 K - 뷰티 엑스포 코리아' 참가…글로벌 바이어 공략 본...",
+ "summary": "열리는 '2026 K - 뷰티 엑스포 코리아'에 참가한다고 밝혔다. 이번 전시에서는 별도의 B2B 상담존을 운영해 해외 바이어와의 수출 상담에 집중하고, 신규 국가 및 유통 채널 진출을 추진한다. 원데이즈유는 사전 매칭된 해외...",
+ "published_at": "2026-10-15T16:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "원데이즈유"
+  ],
+  "companies": [],
+  "keywords": [
+   "뷰티 엑스포",
+   "수출 상담",
+   "해외 바이어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "원데이즈유가 뷰티 엑스포에 참가해 해외 바이어와의 상담 및 신규 국가 진출을 추진한다.",
+  "key_fact_quote": "이번 전시에서는 별도의 B2B 상담존을 운영해 해외 바이어와의 수출 상담에 집중하고, 신규 국가 및 유통 채널 진출을 추진한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:38+00:00",
+ "had_body": false
+}

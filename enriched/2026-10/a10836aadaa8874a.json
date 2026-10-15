@@ -1,0 +1,60 @@
+{
+ "doc_id": "a10836aadaa8874a",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53706",
+ "title": "이옴, 가수 겸 배우 도경수 모델 발탁",
+ "summary": "이옴이 가수 겸 배우 도경수를 브랜드 모델로 발탁했다. 이옴(EIOM)은 피부 마이크로바이옴에 초점을 맞춘 더마 스킨케어 브랜드다. 피부 환경을 전반적으로 개선하는 화장품을 개발한다. 이 브랜드는 도경수의 깨끗하고 건강한 이미지에 주목했다. 그의 차분하고 자연스러운 분위기를 내세워 이옴을 알릴 전…",
+ "published_at": "2026-10-15T16:22:29+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이옴",
+   "EIOM"
+  ],
+  "companies": [],
+  "keywords": [
+   "더마 스킨케어",
+   "마이크로바이옴",
+   "패치 마스크"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "트러블 바이옴 패치 마스크",
+    "brand": "이옴",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더마 스킨케어 브랜드 이옴이 가수 겸 배우 도경수를 브랜드 모델로 발탁했다.",
+  "key_fact_quote": "이옴이 가수 겸 배우 도경수를 브랜드 모델로 발탁했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "티트리 바이옴",
+    "quote": "티트리 바이옴이 피부를 진정시키고 탄력을 강화한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:27+00:00",
+ "had_body": true
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "7c44862fafbbdaa3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169830",
+ "title": "당신의 가을은 어떤 향인가요? [이선미의 퍼퓸 테크]",
+ "summary": "특히 가격대가 높은 니치 향수에서는 시향지와 피부 위의 발향·잔향, 매장 공간의 분위기 같은 경험이 구매... 이른바 ' 퍼퓸 테크(Perfume Tech)'는 향수 산업에 AI와 데이터, 디지털 인터페이스, 개인화 기술이 결합한 새로운...",
+ "published_at": "2026-09-10T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 퍼퓸",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "퍼퓸 테크",
+   "니치 향수",
+   "개인화 기술"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "향수 산업에 인공지능과 데이터 및 디지털 기술이 결합한 퍼퓸 테크가 주목받고 있다.",
+  "key_fact_quote": "이른바 ' 퍼퓸 테크(Perfume Tech)'는 향수 산업에 AI와 데이터, 디지털 인터페이스, 개인화 기술이 결합한 새로운...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:13+00:00",
+ "had_body": false
+}

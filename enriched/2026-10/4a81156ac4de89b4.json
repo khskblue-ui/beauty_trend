@@ -1,0 +1,53 @@
+{
+ "doc_id": "4a81156ac4de89b4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=618973",
+ "title": "휴메딕스 '엘라비에', K - 뷰티 엑스포 참가…해외 바이어 접점 넓힌다",
+ "summary": "올해로 18회를 맞은 K - 뷰티 엑스포에는 15개국 679개 기업이 참여하며, 전시는 오는 17일까지 이어진다. 휴메딕스는 이번 행사에서 일반 관람객뿐 아니라 국내외 수출 ·유통 관계자들을 대상으로 엘라비에의 제품군을...",
+ "published_at": "2026-10-15T15:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "엘라비에"
+  ],
+  "companies": [
+   "휴메딕스"
+  ],
+  "keywords": [
+   "뷰티 엑스포",
+   "해외 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "휴메딕스가 뷰티 엑스포에 참가해 엘라비에 브랜드의 해외 바이어 접점을 확대한다.",
+  "key_fact_quote": "휴메딕스 '엘라비에', K - 뷰티 엑스포 참가…해외 바이어 접점 넓힌다",
+  "events": [
+   {
+    "name": "K - 뷰티 엑스포",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": null,
+    "quote": "올해로 18회를 맞은 K - 뷰티 엑스포에는 15개국 679개 기업이 참여하며, 전시는 오는 17일까지 이어진다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:45+00:00",
+ "had_body": false
+}

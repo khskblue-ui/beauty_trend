@@ -1,0 +1,62 @@
+{
+ "doc_id": "7713a57053fe90f0",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100153",
+ "title": "이옴, 도경수 새 모델로 발탁…마이크로바이옴 기반 피부 케어 알린다",
+ "summary": "뉴셀렉트의 더마 스킨케어 브랜드 이옴(EIOM)이 가수 겸 배우 도경수(D.O.)를 새로운 브랜드 모델로 발탁했다고 밝혔다.이옴은 피부 속 생태계로 불리는 ‘마이크로바이옴’에 주목하는 더마 스킨케어 브랜드다. 트러블과 유수분 불균형 등 다양한 피부 고민을 개별적으로 관리하는 데 그치지 않고, 피부 환경 전반의 균형을 고려한 솔루션을 제안하고 있다.깨끗하고 건강한 이미지와 차분하고 자연스러운 분위기를 갖춘 도경수는 이옴이 추구하는 방향성과 잘 어우러진다는 판단에 따라 모델로 발탁됐다. 이를 바탕으로 도경수와 함께 피부 환경의 균형을",
+ "published_at": "2026-10-15T09:50:05+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이옴",
+   "EIOM"
+  ],
+  "companies": [
+   "뉴셀렉트"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "마이크로바이옴",
+   "트러블 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "트러블 바이옴 패치 마스크",
+    "brand": "이옴",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더마 스킨케어 브랜드 이옴이 도경수를 새로운 브랜드 모델로 발탁했다.",
+  "key_fact_quote": "뉴셀렉트의 더마 스킨케어 브랜드 이옴(EIOM)이 가수 겸 배우 도경수(D.O.)를 새로운 브랜드 모델로 발탁했다고 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "티트리 바이옴",
+    "quote": "해당 제품은 티트리 바이옴을 기반으로 피부 환경을 세심하게 관리할 수 있도록 설계한 제품으로, 피부 고민과 함께 피부 환경의 균형까지 고려한 이옴의 트러블 케어 솔루션을 담았다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:45+00:00",
+ "had_body": true
+}

@@ -1,0 +1,75 @@
+{
+ "doc_id": "b5cfcf28f4ebb6cf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44668",
+ "title": "[오늘의 뷰티] 무신사 뷰티·바이오던스·보다나·네오팜·대봉엘에스",
+ "summary": "보다나와 네오팜은 각각 트리트먼트, 바디 케어 제품 등 한정 기획 상품으로 수요 공략에 나섰고... 콜라겐 펩타이드 세럼과 콜라겐 펩타이드 젤리 세럼 미스트 구매 고객을 대상으로 각각 다른 디자인의 키캡 키링을...",
+ "published_at": "2026-09-07T16:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "보다나",
+   "네오팜",
+   "무신사 뷰티",
+   "바이오던스"
+  ],
+  "companies": [
+   "대봉엘에스",
+   "네오팜",
+   "보다나"
+  ],
+  "keywords": [
+   "한정 기획 상품",
+   "바디 케어",
+   "콜라겐 펩타이드"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "콜라겐 펩타이드 세럼",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "콜라겐 펩타이드 젤리 세럼 미스트",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 기업들이 트리트먼트와 바디 케어 제품 등 한정 기획 상품을 선보이며 수요 공략에 나섰다.",
+  "key_fact_quote": "보다나와 네오팜은 각각 트리트먼트, 바디 케어 제품 등 한정 기획 상품으로 수요 공략에 나섰고...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "콜라겐 펩타이드",
+    "quote": "콜라겐 펩타이드 세럼과 콜라겐 펩타이드 젤리 세럼 미스트 구매 고객을 대상으로 각각 다른 디자인의 키캡 키링을..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:48+00:00",
+ "had_body": false
+}

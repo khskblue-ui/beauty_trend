@@ -1,0 +1,59 @@
+{
+ "doc_id": "3cad31bfc2379572",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=201543",
+ "title": "추석 선물도 이제는 '뷰티 시대' [최기자의 화장품 털기]",
+ "summary": "본지는 스킨케어, 메이크업, 바디 , 헤어 등 화장품 트렌드를 품목별로 분석해 금주의 추천 화장품을 소개한다... 이니스프리는 '그린티 세라마이드 밀크 듀오 세트'를 출시 했다. 그린티 밀크 에센스와 휴대용 밀크 미스트 ...",
+ "published_at": "2026-09-11T15:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이니스프리"
+  ],
+  "companies": [],
+  "keywords": [
+   "추석 선물",
+   "스킨케어 트렌드",
+   "화장품 세트"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "그린티 세라마이드 밀크 듀오 세트",
+    "brand": "이니스프리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이니스프리는 '그린티 세라마이드 밀크 듀오 세트'를 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이니스프리가 추석 선물 시즌에 맞춰 듀오 세트를 선보였다.",
+  "key_fact_quote": "이니스프리는 '그린티 세라마이드 밀크 듀오 세트'를 출시 했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "이니스프리는 '그린티 세라마이드 밀크 듀오 세트'를 출시 했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:46+00:00",
+ "had_body": false
+}

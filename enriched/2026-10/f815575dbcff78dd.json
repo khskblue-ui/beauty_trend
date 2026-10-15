@@ -1,0 +1,52 @@
+{
+ "doc_id": "f815575dbcff78dd",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312239",
+ "title": "세계 60개국 의학 석학 1200명 대구 집결… ‘세계신경재활총회’ 막 올랐다",
+ "summary": "전 세계 뇌신경재활 분야의 최고 권위 전문가들과 석학들이 한자리에 모이는 ‘2026 제14차 세계신경재활총회(WCNR 2026)’가 대구에서 화려한 막을 올렸다.15일 대구광역시에 따르면 세계신경재활연맹(WFNR)이 주최하고 국내외 관련 학회가 주관하는 이번 총회는 전날인 14일부터 오는 17일까지 나흘간 대구 엑스코(EXCO)에서 개최된다.2년마다 대륙을 순회하며 열리는 세계신경재활총회는 전 세계 신경재활 의료진과 과학자들이 참여해 최신 의료기술과 연구 동향을 공유하는 이 분야 최대 규모의 국제 행사다.이번 대구 총회에는 전 세계",
+ "published_at": "2026-10-15T11:26:01+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "AbbVie",
+   "zebris Medical GmbH",
+   "EVER Pharma",
+   "인터텍",
+   "코트라스"
+  ],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [
+   {
+    "name": "2026 제14차 세계신경재활총회(WCNR 2026)",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-17",
+    "place": "대구 엑스코(EXCO)",
+    "quote": "15일 대구광역시에 따르면 세계신경재활연맹(WFNR)이 주최하고 국내외 관련 학회가 주관하는 이번 총회는 전날인 14일부터 오는 17일까지 나흘간 대구 엑스코(EXCO)에서 개최된다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:32+00:00",
+ "had_body": true
+}

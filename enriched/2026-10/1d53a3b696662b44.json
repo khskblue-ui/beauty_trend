@@ -1,0 +1,43 @@
+{
+ "doc_id": "1d53a3b696662b44",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.cstimes.com/news/articleView.html?idxno=724145",
+ "title": "학생이 직접 뛴 현장 마케팅…한국공학대, 시흥 기업과 말레이시아 뷰티 ...",
+ "summary": "동남아시아 뷰티 시장에서 가시적인 수출 성과를 냈다. 한국공학대 GTEP사업단은 지난 9월 29일부터 10월... 파악하고, K - 뷰티 제품의 해외 시장 경쟁력과 진출 가능성을 확인할 수 있었다\"고 전했다. 한국공학대 GTEP...",
+ "published_at": "2026-10-16T00:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MY"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 시장",
+   "수출 성과",
+   "해외 시장 경쟁력"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국공학대 사업단이 지역 기업과 함께 동남아시아 뷰티 시장에서 수출 성과를 거두었다.",
+  "key_fact_quote": "동남아시아 뷰티 시장에서 가시적인 수출 성과를 냈다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:26+00:00",
+ "had_body": false
+}

@@ -1,0 +1,71 @@
+{
+ "doc_id": "1889cbb98b82657f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609070911102830853",
+ "title": "[뷰티톡톡] 아모레퍼시픽ㆍ콜마비앤에이치ㆍ이니스프리ㆍ애경산업ㆍ레...",
+ "summary": "에센스 본품과 휴대용 미스트 , 미스트 키링을 한 세트로 묶었다. 9월 7일부터 이니스프리 공식... 6종을 출시 한다. 케라시스 샴푸, 샤워메이트 바디 워시, 2080 치약 등을 조합한 ‘마음 14호’ ‘오브제 12호·25호’...",
+ "published_at": "2026-09-07T09:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이니스프리",
+   "케라시스",
+   "샤워메이트",
+   "2080"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "콜마비앤에이치",
+   "애경산업"
+  ],
+  "keywords": [
+   "에센스",
+   "휴대용 미스트",
+   "바디 워시",
+   "샴푸"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "마음 14호",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "6종을 출시 한다. 케라시스 샴푸, 샤워메이트 바디 워시, 2080 치약 등을 조합한 ‘마음 14호’ ‘오브제 12호·25호’...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "오브제 12호·25호",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "6종을 출시 한다. 케라시스 샴푸, 샤워메이트 바디 워시, 2080 치약 등을 조합한 ‘마음 14호’ ‘오브제 12호·25호’...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 기업들이 세트 상품과 신제품 출시 소식을 전했다.",
+  "key_fact_quote": "6종을 출시 한다. 케라시스 샴푸, 샤워메이트 바디 워시, 2080 치약 등을 조합한 ‘마음 14호’ ‘오브제 12호·25호’...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,80 @@
+{
+ "doc_id": "3e88b4822c52edc0",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58515",
+ "title": "에이피알, PN 스킨부스터 2종 칠레 첫 공급 중남미 시장 공략",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 글로벌 뷰티 기업 에이피알(대표이사 김병훈)이 연어 DNA 유래 폴리뉴클레오타이드(PN)를 기반으로 개발한 메디큐브 스킨부스터 2종을 칠레에 공급하며 중남미 메디컬 뷰티 시장 공략에 나선다고 15일 밝혔다. 칠레에 선보이는 제품은 피부에 바르는 ‘에이지알(AGE-R)’과 피하 주입 방식의 ‘에이지알 플러스 G(AGE-R",
+ "published_at": "2026-10-15T15:22:28+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "CL",
+   "JP"
+  ],
+  "brands": [
+   "메디큐브",
+   "에이지알"
+  ],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "스킨부스터",
+   "메디컬 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "에이지알",
+    "brand": "메디큐브",
+    "launch_date": "2026-11",
+    "launch_status": "upcoming",
+    "launch_quote": "에이피알은 올해 상반기 일부 해외 물량을 출하한 데 이어 오는 11월 칠레에서 두 제품을 공식 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "에이지알 플러스 G",
+    "brand": "메디큐브",
+    "launch_date": "2026-11",
+    "launch_status": "upcoming",
+    "launch_quote": "에이피알은 올해 상반기 일부 해외 물량을 출하한 데 이어 오는 11월 칠레에서 두 제품을 공식 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피알이 연어 디엔에이 유래 성분을 기반으로 개발한 메디큐브 스킨부스터 제품을 칠레에 공급하며 중남미 메디컬 뷰티 시장 진출에 나선다.",
+  "key_fact_quote": "글로벌 뷰티 기업 에이피알(대표이사 김병훈)이 연어 DNA 유래 폴리뉴클레오타이드(PN)를 기반으로 개발한 메디큐브 스킨부스터 2종을 칠레에 공급하며 중남미 메디컬 뷰티 시장 공략에 나선다고 15일 밝혔다.",
+  "events": [
+   {
+    "name": "사전 행사",
+    "start_date": "2026-10-20",
+    "end_date": null,
+    "place": "칠레 산티아고",
+    "quote": "현지 시장에 제품을 알리기 위한 사전 행사도 오는 20일 칠레 산티아고에서 마련하며 클리닉 관계자와 의료진 및 인플루언서 약 300명을 초청해 공식 유통 인증서를 전달하고 제품 특성과 활용 방안을 소개할 예정이다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "연어 DNA 유래 폴리뉴클레오타이드(PN)",
+    "quote": "글로벌 뷰티 기업 에이피알(대표이사 김병훈)이 연어 DNA 유래 폴리뉴클레오타이드(PN)를 기반으로 개발한 메디큐브 스킨부스터 2종을 칠레에 공급하며 중남미 메디컬 뷰티 시장 공략에 나선다고 15일 밝혔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:49:44+00:00",
+ "had_body": true
+}

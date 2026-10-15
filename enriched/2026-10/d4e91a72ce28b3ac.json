@@ -1,0 +1,46 @@
+{
+ "doc_id": "d4e91a72ce28b3ac",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Economy/article/all/20261015/134847450/2",
+ "title": "美 VC가 고른 서울 뷰티 스타트업 8곳, 뉴욕서 ‘현지 검증’",
+ "summary": "실제로 한국무역협회가 8월 무역업체 1090곳을 조사한 결과, 약 70%가 수출 의 가장 큰 어려움으로 바이어 발굴을 꼽았다. 김종우 SBA 창업본부장은 “ K - 뷰티 의 경쟁은 이제 ‘얼마나 알려졌는가’에서 ‘현지에서...",
+ "published_at": "2026-10-15T15:23:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "한국무역협회",
+   "SBA"
+  ],
+  "keywords": [
+   "뷰티 스타트업",
+   "케이뷰티",
+   "해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 벤처캐피털이 선정한 서울의 뷰티 스타트업들이 뉴욕 현지에서 검증을 받으며 해외 시장 진출에 나선다.",
+  "key_fact_quote": "美 VC가 고른 서울 뷰티 스타트업 8곳, 뉴욕서 ‘현지 검증’",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:45+00:00",
+ "had_body": false
+}

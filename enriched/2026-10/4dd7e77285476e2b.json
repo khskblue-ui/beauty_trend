@@ -1,0 +1,74 @@
+{
+ "doc_id": "4dd7e77285476e2b",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312232",
+ "title": "발효화장품의 진화…원료 스토리에서 효능 입증으로",
+ "summary": "과거 화장품 시장에서는 특정 식물이나 희귀 원료, 자연 유래 성분을 강조하는 스토리텔링이 주요 마케팅 전략으로 활용됐다.그러나 최근 소비자들은 원료 자체보다 실제 피부 개선 효과와 이를 뒷받침하는 임상 데이터에 주목하면서 시장은 과학적 검증과 효능 입증 중심으로 빠르게 재편되고 있다.실제 본지가 진행한 벨기에 소비자 인터뷰에서도 이러한 흐름이 감지됐다. 응답자들은 인삼, 쌀, 녹두 등 K-뷰티 원료에 높은 관심을 보였지만 해당 성분의 작용 원리와 효능에 대한 이해는 제한적인 것으로 나타났다.이에 따라 업계에서는 원료 마케팅을 넘어",
+ "published_at": "2026-10-15T10:52:48+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "BE"
+  ],
+  "brands": [
+   "숨37°"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "발효 화장품",
+   "바이오 스킨케어",
+   "임상 데이터"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "5세대 시크릿 에센스",
+    "brand": "숨37°",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "발효 화장품 시장이 원료 스토리텔링 중심에서 벗어나 과학적 근거와 효능 입증 중심으로 진화하고 있다.",
+  "key_fact_quote": "발효 화장품 시장이 원료 스토리텔링에서 과학적 효능 입증 중심으로 진화하고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "인삼",
+    "quote": "응답자들은 인삼, 쌀, 녹두 등 K-뷰티 원료에 높은 관심을 보였지만 해당 성분의 작용 원리와 효능에 대한 이해는 제한적인 것으로 나타났다."
+   },
+   {
+    "name": "쌀",
+    "quote": "응답자들은 인삼, 쌀, 녹두 등 K-뷰티 원료에 높은 관심을 보였지만 해당 성분의 작용 원리와 효능에 대한 이해는 제한적인 것으로 나타났다."
+   },
+   {
+    "name": "녹두",
+    "quote": "응답자들은 인삼, 쌀, 녹두 등 K-뷰티 원료에 높은 관심을 보였지만 해당 성분의 작용 원리와 효능에 대한 이해는 제한적인 것으로 나타났다."
+   },
+   {
+    "name": "세라마이드",
+    "quote": "숨37°는 이번 5세대 시크릿 에센스에 8,700시간 발효 노하우와 독자 균주 기술, 90% 발효 원액, 멜팅 세라마이드 기술 등을 적용했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:36+00:00",
+ "had_body": true
+}

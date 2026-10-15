@@ -1,0 +1,67 @@
+{
+ "doc_id": "fcd67f49821d9f73",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dailian.co.kr/news/view/1697413/?sc=Naver",
+ "title": "탈모 잡을 ‘한 끗’ 찾아라…치열한 뷰티업계 차별화 경쟁 [머리 위의...",
+ "summary": "제품 출시 가 잇따르고 있다. 아모레퍼시픽 라보에이치는 선세럼과 선 미스트 를 선보이며 얼굴 중심이었던... 한국콜마는 2022년 헤어· 바디 케어를 담당하는 퍼스널케어연구소를 독립시킨 이후 연구인력을 약 30% 늘렸다....",
+ "published_at": "2026-10-08T05:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라보에이치"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "한국콜마"
+  ],
+  "keywords": [
+   "탈모 케어",
+   "헤어케어",
+   "선세럼",
+   "선 미스트"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "선세럼",
+    "brand": "라보에이치",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아모레퍼시픽 라보에이치는 선세럼과 선 미스트 를 선보이며 얼굴 중심이었던...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "선 미스트",
+    "brand": "라보에이치",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아모레퍼시픽 라보에이치는 선세럼과 선 미스트 를 선보이며 얼굴 중심이었던...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티업계가 탈모 케어 시장에서 경쟁력을 확보하기 위해 차별화된 제품 출시와 연구 역량 강화에 나서고 있다.",
+  "key_fact_quote": "탈모 잡을 ‘한 끗’ 찾아라…치열한 뷰티업계 차별화 경쟁 [머리 위의...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:34+00:00",
+ "had_body": false
+}

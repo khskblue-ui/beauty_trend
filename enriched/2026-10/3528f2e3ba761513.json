@@ -1,0 +1,43 @@
+{
+ "doc_id": "3528f2e3ba761513",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45516",
+ "title": "이마트24 '올데이케어랩' 오픈... 헬스·뷰티·패션 한곳에",
+ "summary": "이마트24 올데이케어랩점 전경./사진=이마트24 이마트24가 화장품 을 직접 발라보고 러닝용 양말과 건강... 이 밖에도 브라탑과 우양산, 메쉬망 파우치 등 활용도가 높은 상품을 함께 출시 해 운동부터 일상까지 다양한...",
+ "published_at": "2026-10-15T11:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "이마트24"
+  ],
+  "keywords": [
+   "헬스앤뷰티",
+   "편의점 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "이마트이십사가 화장품과 헬스 및 패션 상품을 한곳에 모은 매장인 올데이케어랩을 열었다.",
+  "key_fact_quote": "이마트24 '올데이케어랩' 오픈... 헬스·뷰티·패션 한곳에",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:05+00:00",
+ "had_body": false
+}

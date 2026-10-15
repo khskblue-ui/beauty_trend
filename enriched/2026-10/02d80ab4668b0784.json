@@ -1,0 +1,45 @@
+{
+ "doc_id": "02d80ab4668b0784",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=714210",
+ "title": "코스맥스, 마켓발견과 협약··· 화장품 연구 폐자원 재활용 추진",
+ "summary": "코스맥스가 화장품 연구 과정에서 발생하는 폐자원을 예술작품과 교육용 소재로 재활용하는 사업을... 코스맥스 연구혁신(R&I)센터에서는 연간 8000개 이상의 신제품 이 개발되고 있으며, 이 과정에서 실험 소모품과...",
+ "published_at": "2026-10-16T08:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "마켓발견"
+  ],
+  "keywords": [
+   "폐자원 재활용",
+   "업사이클링",
+   "친환경"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 마켓발견과 협약을 맺고 화장품 연구 과정에서 발생하는 폐자원을 재활용하는 사업을 추진한다.",
+  "key_fact_quote": "코스맥스가 화장품 연구 과정에서 발생하는 폐자원을 예술작품과 교육용 소재로 재활용하는 사업을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:54+00:00",
+ "had_body": false
+}

@@ -1,0 +1,81 @@
+{
+ "doc_id": "85e3ab6ef15da8ca",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.donga.com/109472/",
+ "title": "[KIDP 울산] 행복바라기 “클린뷰티 브랜드 ‘르다일’, 덜어내는 화장...",
+ "summary": "그 결과 2017년 울산의 대나무와 법제 유황을 배합한 ‘대나무 유황 비누’를 처음 출시 했고, ‘어성초 비누’... 파우더클렌저(페이스, 바디 ), 파우더샴푸, 미스트 로 구성한 트래블키트와 이번에 리브랜딩한 로고 및...",
+ "published_at": "2026-09-04T15:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "르다일"
+  ],
+  "companies": [
+   "행복바라기"
+  ],
+  "keywords": [
+   "클린뷰티",
+   "파우더클렌저",
+   "파우더샴푸",
+   "트래블키트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "대나무 유황 비누",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "어성초 비누",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "행복바라기가 클린뷰티 브랜드 르다일을 통해 리브랜딩 및 트래블키트 구성을 선보였다.",
+  "key_fact_quote": "[KIDP 울산] 행복바라기 “클린뷰티 브랜드 ‘르다일’, 덜어내는 화장...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "대나무",
+    "quote": "그 결과 2017년 울산의 대나무와 법제 유황을 배합한 ‘대나무 유황 비누’를 처음 출시 했고, ‘어성초 비누’..."
+   },
+   {
+    "name": "법제 유황",
+    "quote": "그 결과 2017년 울산의 대나무와 법제 유황을 배합한 ‘대나무 유황 비누’를 처음 출시 했고, ‘어성초 비누’..."
+   },
+   {
+    "name": "어성초",
+    "quote": "그 결과 2017년 울산의 대나무와 법제 유황을 배합한 ‘대나무 유황 비누’를 처음 출시 했고, ‘어성초 비누’..."
+   }
+  ],
+  "dropped": [
+   "launch:대나무 유황 비누"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:51+00:00",
+ "had_body": false
+}

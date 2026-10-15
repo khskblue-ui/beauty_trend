@@ -1,0 +1,39 @@
+{
+ "doc_id": "fcef062910020dc3",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/editors-favorite-beauty-products-1239259360/",
+ "title": "Beauty Inc Editors on Their Favorite Fall Launches",
+ "summary": "Our editors choose their standout beauty launches of the month.",
+ "published_at": "2026-10-13T03:54:04+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "가을 뷰티 신제품",
+   "에디터 추천 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 전문 에디터들이 이달의 인상적인 가을 뷰티 신제품들을 선정했다.",
+  "key_fact_quote": "Our editors choose their standout beauty launches of the month.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:43+00:00",
+ "had_body": false
+}

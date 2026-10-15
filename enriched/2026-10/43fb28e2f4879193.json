@@ -1,0 +1,68 @@
+{
+ "doc_id": "43fb28e2f4879193",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/10/15/2026101501335.html",
+ "title": "[ 뷰티 업계 이모저모] 이옴, 도경수 브랜드 모델 발탁 外",
+ "summary": "다이소를 통해 선보인 신제품 은 베이스 메이크업 제품 7종과 ‘틴티드 글로우 립스틱’ 3종 등 총... ■센슬, 퍼글러 협업 립세럼 출시 뷰티 브랜드 센슬(SENSEL)이 글로벌 캐릭터 퍼글러(Fuggler)와 협업한 ‘퀵 부스트...",
+ "published_at": "2026-10-15T10:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이옴",
+   "센슬",
+   "퍼글러"
+  ],
+  "companies": [
+   "다이소"
+  ],
+  "keywords": [
+   "베이스 메이크업",
+   "립스틱",
+   "립세럼",
+   "캐릭터 협업"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "틴티드 글로우 립스틱",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "다이소를 통해 선보인 신제품 은 베이스 메이크업 제품 7종과 ‘틴티드 글로우 립스틱’ 3종 등 총...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퀵 부스트",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "■센슬, 퍼글러 협업 립세럼 출시 뷰티 브랜드 센슬(SENSEL)이 글로벌 캐릭터 퍼글러(Fuggler)와 협업한 ‘퀵 부스트...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 브랜드 센슬이 글로벌 캐릭터 퍼글러와 협업한 립세럼을 출시했다.",
+  "key_fact_quote": "■센슬, 퍼글러 협업 립세럼 출시 뷰티 브랜드 센슬(SENSEL)이 글로벌 캐릭터 퍼글러(Fuggler)와 협업한 ‘퀵 부스트...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:51:18+00:00",
+ "had_body": false
+}

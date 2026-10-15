@@ -1,0 +1,83 @@
+{
+ "doc_id": "aaa9248c2b36648e",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58497",
+ "title": "Corum, 펩타이드·Epi-On®·Azeclair® P 결합 ‘3중 정밀 재생’ 제시",
+ "summary": "#K-뷰티 미용 트렌드를 정밀 스킨케어로 구현: 세포 재생 및 미세환경 항상성유지를 위한 3중 모듈 정밀 재생 시스템 [코스인코리아닷컴 길태윤 기자] 대만 화장품 원료기업 Corum이 정밀 펩타이드와 후성유전학 조절제 Epi-On®, 피부 미세환경 안정화제 Azeclair® P를 결합한 ‘3중 모듈 정밀 재생 시스템’을 제시했다. 레이저 절제술 후 Epi",
+ "published_at": "2026-10-13T18:13:57+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "TW",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Corum"
+  ],
+  "keywords": [
+   "정밀 스킨케어",
+   "피부 재생",
+   "펩타이드",
+   "피부장벽"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대만 원료기업 Corum이 정밀 펩타이드와 후성유전학 조절제, 피부 미세환경 안정화제를 결합한 삼중 모듈 정밀 재생 시스템을 제시했다.",
+  "key_fact_quote": "대만 화장품 원료기업 Corum이 정밀 펩타이드와 후성유전학 조절제 Epi-On®, 피부 미세환경 안정화제 Azeclair® P를 결합한 ‘3중 모듈 정밀 재생 시스템’을 제시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Epi-On®",
+    "quote": "대만 화장품 원료기업 Corum이 정밀 펩타이드와 후성유전학 조절제 Epi-On®, 피부 미세환경 안정화제 Azeclair® P를 결합한 ‘3중 모듈 정밀 재생 시스템’을 제시했다."
+   },
+   {
+    "name": "Azeclair® P",
+    "quote": "대만 화장품 원료기업 Corum이 정밀 펩타이드와 후성유전학 조절제 Epi-On®, 피부 미세환경 안정화제 Azeclair® P를 결합한 ‘3중 모듈 정밀 재생 시스템’을 제시했다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "PDRN과 엑소좀은 피부 재생 분야에서 주목받고 있으나 국소용 화장품에 적용할 때 분자 침투와 신호 안정성, 성분의 균일성 등을 고려해야 한다."
+   },
+   {
+    "name": "팔미토일펜타펩타이드-4",
+    "quote": "팔미토일펜타펩타이드-4인 Quintup™ MB·CC-MB를 적용한 시험에서는 TGF-β1 발현이 22%, COL1A1이 74%, FN1이 30%, COL4A1이 92% 증가했다."
+   },
+   {
+    "name": "팔미토일트라이펩타이드-1",
+    "quote": "팔미토일트라이펩타이드-1인 Tricoll™ MB·CC-MB는 프로콜라겐 구조의 조립과 안정화에 관여하는 HSP47 단백질 발현을 촉진했다."
+   },
+   {
+    "name": "포타슘아젤로일다이글라이시네이트",
+    "quote": "세 번째 모듈인 Azeclair® P는 유효 성분을 최소 90% 함유한 순수 분말 형태의 포타슘아젤로일다이글라이시네이트다."
+   },
+   {
+    "name": "콜레스테롤",
+    "quote": "콜레스테롤과 지방산 합성에 관여하는 HMGCR과 FASN 발현도 각각 132%, 118% 높였다."
+   },
+   {
+    "name": "지방산",
+    "quote": "콜레스테롤과 지방산 합성에 관여하는 HMGCR과 FASN 발현도 각각 132%, 118% 높였다."
+   },
+   {
+    "name": "스쿠알렌 과산화물",
+    "quote": "스쿠알렌 과산화물로 산화 스트레스를 유도한 조건에서는 염증성 사이토카인인 IL-6와 IL-8을 줄이고 COX-2 발현을 억제했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:03+00:00",
+ "had_body": true
+}

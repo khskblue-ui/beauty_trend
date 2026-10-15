@@ -1,0 +1,80 @@
+{
+ "doc_id": "167a074cc099fae4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.munhwa.com/article/11611095?ref=naver",
+ "title": "다이소에 신상 출시 한 애경산업의 에이솔루션, 성수동서 ‘뷰티뿔 무빙...",
+ "summary": "피부 고민 솔루션 브랜드 에이솔루션(a solution)은 다이소 신규 라인 출시 를 기념해 ‘뷰티뿔 무빙 팝업’을... 신제품은 ‘트러블 빅 스팟 패치’ 2종을 비롯해 ‘칼라민 바디 트러블 미스트 ’, ‘칼라민 바디 수딩 젤...",
+ "published_at": "2026-08-21T17:25:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이솔루션",
+   "a solution"
+  ],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "바디 미스트",
+   "수딩 젤",
+   "스팟 패치"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "트러블 빅 스팟 패치",
+    "brand": "에이솔루션",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신제품은 ‘트러블 빅 스팟 패치’ 2종을 비롯해 ‘칼라민 바디 트러블 미스트 ’, ‘칼라민 바디 수딩 젤...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "칼라민 바디 트러블 미스트",
+    "brand": "에이솔루션",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신제품은 ‘트러블 빅 스팟 패치’ 2종을 비롯해 ‘칼라민 바디 트러블 미스트 ’, ‘칼라민 바디 수딩 젤...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "칼라민 바디 수딩 젤",
+    "brand": "에이솔루션",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신제품은 ‘트러블 빅 스팟 패치’ 2종을 비롯해 ‘칼라민 바디 트러블 미스트 ’, ‘칼라민 바디 수딩 젤...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "애경산업 에이솔루션이 다이소 신규 라인 출시를 기념해 팝업 행사를 진행하고 신제품을 선보였다.",
+  "key_fact_quote": "피부 고민 솔루션 브랜드 에이솔루션(a solution)은 다이소 신규 라인 출시 를 기념해 ‘뷰티뿔 무빙 팝업’을...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "칼라민",
+    "quote": "신제품은 ‘트러블 빅 스팟 패치’ 2종을 비롯해 ‘칼라민 바디 트러블 미스트 ’, ‘칼라민 바디 수딩 젤..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:54+00:00",
+ "had_body": false
+}

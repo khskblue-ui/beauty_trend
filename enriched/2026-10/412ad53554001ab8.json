@@ -1,0 +1,44 @@
+{
+ "doc_id": "412ad53554001ab8",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/pdrn-skin-care-what-the-science-really-says",
+ "title": "PDRN skin care: What the science really says about 2026’s hottest ingredient",
+ "summary": "For the second article in Cosmetics Business’ ‘Bench to bottle’ series, Rinki Pramanik investigates the science behind PDRN, and if this trending ingredient is just an attractive INCI name, or offers meaningful results",
+ "published_at": "2026-10-14T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "스킨케어 성분",
+   "화장품 과학 트렌드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인기 스킨케어 성분으로 떠오른 피디알엔의 과학적 효능과 실질적 결과에 대해 검증을 다룬다.",
+  "key_fact_quote": "For the second article in Cosmetics Business’ ‘Bench to bottle’ series, Rinki Pramanik investigates the science behind PDRN, and if this trending ingredient is just an attractive INCI name, or offers meaningful results",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "PDRN skin care: What the science really says about 2026’s hottest ingredient"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:20+00:00",
+ "had_body": false
+}

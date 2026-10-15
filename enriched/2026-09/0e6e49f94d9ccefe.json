@@ -1,0 +1,56 @@
+{
+ "doc_id": "0e6e49f94d9ccefe",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kpenews.com/View.aspx?No=4227305",
+ "title": "[Beauty+] 커버로션 출시 한 비레디·마이 뷰티 포뮬러 선봬는 신세계면세...",
+ "summary": "퍼퓸 미스트 등 가을 메이크업과 향을 완성할 수 있도록 구성했다. 기획전 기간에는 참여 브랜드별 구매 조건에 따라 다양한 사은품도 제공한다. 헤어 스크런치와 파우치부터 미니 퍼프, 브러시, 바디 스프레이 등...",
+ "published_at": "2026-09-15T11:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비레디"
+  ],
+  "companies": [
+   "신세계면세점"
+  ],
+  "keywords": [
+   "퍼퓸 미스트",
+   "가을 메이크업",
+   "바디 스프레이"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "커버로션",
+    "brand": "비레디",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "[Beauty+] 커버로션 출시 한 비레디·마이 뷰티 포뮬러 선봬는 신세계면세...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신세계면세점이 메이크업과 향 관련 제품 기획전을 선보이고 다양한 사은품 혜택을 마련했다.",
+  "key_fact_quote": "퍼퓸 미스트 등 가을 메이크업과 향을 완성할 수 있도록 구성했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:44+00:00",
+ "had_body": false
+}

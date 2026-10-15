@@ -1,0 +1,55 @@
+{
+ "doc_id": "d267a44fb1bd37e1",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/glow-recipe-buldak-lip-balm-1239347007/",
+ "title": "Glow Recipe Launches Buldak-Inspired Lip Balms",
+ "summary": "The skin care brand has imagined two limited-edition iterations of its Glass Balms in partnership with the viral Korean spicy noodle brand.",
+ "published_at": "2026-10-15T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "Glow Recipe",
+   "Buldak"
+  ],
+  "companies": [],
+  "keywords": [
+   "립밤",
+   "콜라보레이션",
+   "한정판 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Glass Balms",
+    "brand": "Glow Recipe",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Glow Recipe Launches Buldak-Inspired Lip Balms",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "글로우 레시피가 한국의 매운 볶음면 브랜드 불닭과 협업하여 한정판 립밤을 선보였다.",
+  "key_fact_quote": "The skin care brand has imagined two limited-edition iterations of its Glass Balms in partnership with the viral Korean spicy noodle brand.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:39+00:00",
+ "had_body": false
+}

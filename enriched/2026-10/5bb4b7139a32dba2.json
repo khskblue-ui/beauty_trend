@@ -1,0 +1,54 @@
+{
+ "doc_id": "5bb4b7139a32dba2",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/skin-care/barefaced-expands-medical-skin-care-rx-launch-1239346491/",
+ "title": "Barefaced Expands Into Prescription Medical Skin Care With Barefaced Rx Launch",
+ "summary": "The new platform offers clinician-guided prescription treatments tailored to address a wide range of skin concerns.",
+ "published_at": "2026-10-15T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Barefaced",
+   "Barefaced Rx"
+  ],
+  "companies": [
+   "Barefaced"
+  ],
+  "keywords": [
+   "처방 스킨케어",
+   "메디컬 스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Barefaced Rx",
+    "brand": "Barefaced",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Barefaced Expands Into Prescription Medical Skin Care With Barefaced Rx Launch",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "베어페이스드가 맞춤형 처방 치료를 제공하는 베어페이스드 알엑스를 출시하며 처방 메디컬 스킨케어로 영역을 확장했다.",
+  "key_fact_quote": "Barefaced Expands Into Prescription Medical Skin Care With Barefaced Rx Launch",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:53:38+00:00",
+ "had_body": false
+}

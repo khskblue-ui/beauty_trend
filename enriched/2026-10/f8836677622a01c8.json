@@ -1,0 +1,47 @@
+{
+ "doc_id": "f8836677622a01c8",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/lvmh-q3-2026-beauty-growth-sephora-dior-guerlain",
+ "title": "LVMH’s Q3 2026 beauty growth led by Sephora, Parfums Christian Dior and Guerlain",
+ "summary": "LVMH’s beauty retailer Sephora experienced strong growth during Q3 2026, with momentum across geographies and brands, including from exclusive launches such as Hailey Bieber’s Rhode, which entered its European stores",
+ "published_at": "2026-10-13T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Sephora",
+   "Parfums Christian Dior",
+   "Guerlain",
+   "Rhode"
+  ],
+  "companies": [
+   "LVMH"
+  ],
+  "keywords": [
+   "뷰티 리테일",
+   "실적 성장",
+   "독점 론칭"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "세포라와 주요 뷰티 브랜드들이 독점 론칭과 지역별 성장에 힘입어 분기 성장을 견인했다.",
+  "key_fact_quote": "LVMH’s beauty retailer Sephora experienced strong growth during Q3 2026, with momentum across geographies and brands, including from exclusive launches such as Hailey Bieber’s Rhode, which entered its European stores",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:50:17+00:00",
+ "had_body": false
+}

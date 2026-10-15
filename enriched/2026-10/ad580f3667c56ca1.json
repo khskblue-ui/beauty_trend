@@ -1,0 +1,43 @@
+{
+ "doc_id": "ad580f3667c56ca1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.joongang.co.kr/article/25469658",
+ "title": "시오라, 성수동 팝업스토어 오픈…슬로우에이징 스킨케어 선보여",
+ "summary": "최근 뷰티 시장에서는 복잡한 스킨케어 단계를 줄이는 ‘스킵케어(Skip-care)’와 피부 노화를 미리 관리하는... 시오라는 올해 4월 론칭 한 스킨케어 브랜드 로 'TRUE TO THE ESSENTIALS(피부를 위한 본질에 집중하다)'라는 철학을...",
+ "published_at": "2026-10-14T15:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "시오라"
+  ],
+  "companies": [],
+  "keywords": [
+   "슬로우에이징",
+   "스킵케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "스킨케어 브랜드 시오라가 성수동에 팝업스토어를 열고 슬로우에이징 제품을 선보였다.",
+  "key_fact_quote": "시오라, 성수동 팝업스토어 오픈…슬로우에이징 스킨케어 선보여",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T23:52:30+00:00",
+ "had_body": false
+}
