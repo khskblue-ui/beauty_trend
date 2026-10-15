@@ -78,6 +78,40 @@
     show(i >= 0 ? i : 0, true);
   }
 
+  // Document format: every section visible, each plays its motion once when scrolled into view.
+  // Citation [n] → source entry; the source number returns to the citation last clicked.
+  function docMode() {
+    slides.forEach(function (s) { s.classList.add('active'); s.removeAttribute('aria-hidden'); });
+    if (reduce || !('IntersectionObserver' in window)) {
+      root.classList.add('static');
+      slides.forEach(reveal);
+    } else {
+      var io = new IntersectionObserver(function (es) {
+        es.forEach(function (e) { if (e.isIntersecting) { reveal(e.target); io.unobserve(e.target); } });
+      }, { threshold: 0.12 });
+      slides.forEach(function (s) { io.observe(s); });
+    }
+    var from = null;
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('a[href^="#"]');
+      if (!a) return;
+      var target = a.getAttribute('href').slice(1);
+      if (a.classList.contains('back')) {
+        var li = a.closest('li');
+        if (from && li && from.src === li.id) target = from.id;
+      } else if (/^src-\d+$/.test(target) && a.id) {
+        from = { src: target, id: a.id };
+      }
+      var el = document.getElementById(target);
+      if (!el) return;
+      e.preventDefault();
+      reveal(el.closest('.slide') || el);
+      el.scrollIntoView({ block: 'center', behavior: reduce ? 'auto' : 'smooth' });
+      flash(el);
+    });
+    addEventListener('beforeprint', function () { slides.forEach(reveal); });
+  }
+
   document.addEventListener('DOMContentLoaded', function () {
     slides = Array.prototype.slice.call(document.querySelectorAll('.slide'));
     slides.forEach(function (s, i) {
@@ -97,6 +131,7 @@
     ui.next = ui.wrap.querySelector('.next');
     ui.count = ui.wrap.querySelector('.count');
 
+    if (root.classList.contains('doc')) return docMode();
     if (reduce) root.classList.add('static');      // still paged, just no animation
     if (narrowQ.matches) {                          // phones: plain vertical reading
       root.classList.add('stacked');

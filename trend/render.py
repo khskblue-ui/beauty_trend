@@ -257,17 +257,20 @@ def render_all(ctx: dict, out_dir: Path, pdf: bool = True) -> dict[str, Path]:
     variants = ctx["cfg"].get("motion_variants", [])
     if os.getenv("MOTION_VARIANTS"):  # e.g. "accord" to render one variant while testing
         variants = [v for v in os.getenv("MOTION_VARIANTS").split(",") if v]
-    for v in variants:
+    # each variant as a slide deck, plus (motion_doc) the same sections as a scrolling document
+    jobs = [(v, False) for v in variants] + [(v, True) for v in variants if ctx["cfg"].get("motion_doc")]
+    for v, doc_mode in jobs:
         mc = Citations(ctx["by_id"])
         env.globals.update(cite=mc)
         doc = env.get_template(f"motion/{v}.html.j2").render(
-            **ctx, cites=mc, events=events(ctx), viz=viz_data(ctx))
+            **ctx, cites=mc, events=events(ctx), viz=viz_data(ctx), doc_mode=doc_mode)
         # sources come last so every citation number is already assigned
         doc = doc.replace("<!--SOURCE_SLIDES-->", env.get_template("motion/_sources_slides.j2").render(
             sources=mc.entries(ctx["links"]), month=ctx["period"]["tag"], title=ctx["cfg"]["title"],
             kicker=SOURCE_KICKER.get(v, "")))
-        paths[f"motion_{v}"] = out_dir / f"report_{ctx['month']}_{v}.html"
-        paths[f"motion_{v}"].write_text(doc, "utf-8")
+        key = f"motion_{v}_doc" if doc_mode else f"motion_{v}"
+        paths[key] = out_dir / f"report_{ctx['month']}_{v}{'_doc' if doc_mode else ''}.html"
+        paths[key].write_text(doc, "utf-8")
     env.globals.update(cite=cites)
     if pdf:
         try:
