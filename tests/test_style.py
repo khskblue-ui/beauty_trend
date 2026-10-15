@@ -144,3 +144,13 @@ def test_reader_copy_in_report_config_passes_rules():
     texts += [c["item"] for c in cfg.get("regulation_calendar", [])]
     for t in texts:
         assert not {h["id"] for h in lint(t)} & {"em_dash", "middle_dot"}, t
+
+
+SYMBOLS = re.compile("[←-⇿☀-➿⬀-⯿\U0001f000-\U0001faff]")
+
+
+@pytest.mark.parametrize("path", TEMPLATES, ids=lambda p: p.name)
+def test_no_emoji_like_symbols_in_reader_copy(path):
+    """Arrows and pictographs (↩, ←, ★ ...) render as emoji on some phones (2026-10-15 request)."""
+    css = re.findall(r'content:"([^"]*)"', path.read_text("utf-8"))
+    assert not SYMBOLS.findall(_visible_copy(path) + " ".join(css))

@@ -26,7 +26,7 @@ body{overflow:hidden;background:var(--stage)}
 .sl-sources ol.sources{list-style:none;padding-left:0}
 .sources .back{display:inline-block;min-width:3.2em;font:600 13px/1.4 var(--sans);text-decoration:none;color:inherit;
   border:1px solid currentColor;border-radius:999px;padding:0 8px;margin-right:6px;opacity:.75;text-align:center}
-.sources .back::before{content:"↩ "}
+.sources .back::before{content:"‹ "}
 .sources .back:hover,.sources .back:focus-visible{opacity:1}
 .cite a.flash,.sources li.flash{outline:3px solid currentColor;outline-offset:2px;border-radius:3px;transition:outline-color 1.2s}
 

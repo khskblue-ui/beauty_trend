@@ -45,12 +45,12 @@
 {%- endmacro %}
 
 {% macro datalab_method() -%}
-집계 방법: 네이버 데이터랩 검색어 트렌드에 키워드와 {{ viz.search.anchor|eul }} 한 번에 넣어 월별 검색량 지수(PC와 모바일 합계, 모든 연령과 성별)를 받고, 각 달의 키워드 지수를 같은 달 '{{ viz.search.anchor }}' 지수로 나눴습니다. 1이면 '{{ viz.search.anchor }}'만큼 검색됐다는 뜻입니다. 기간은 {{ viz.search.series[viz.search.anchor][0][0] }} ~ {{ period.end }}{% if period.interim %}이고, {{ period.end[5:7]|int }}월은 {{ period.end[8:]|int }}일까지만 셌습니다{% endif %}.
+검색어는 이달의 키워드입니다. '{{ viz.search.anchor }}' 검색량을 1로 둔 값입니다(네이버 데이터랩, {{ viz.search.series[viz.search.anchor][0][0] }} ~ {{ period.end }}).
 {%- endmacro %}
 
 {% macro search_slide(kicker, colors) -%}
 {% if viz.search %}{% set g = line_paths(viz.search.series, viz.search.anchor, 1100, 400, (56, 16, 30, 150), 22) %}
-{% call slide("네이버 검색량 추이", kicker, "'" ~ viz.search.anchor ~ "' 검색량을 1로 놓고 비교한 월별 값입니다. 실제 검색 횟수는 아닙니다.", 'sl-search') %}
+{% call slide("네이버 검색량 추이", kicker, '', 'sl-search') %}
 <figure class="chart-wrap rv">
   <svg class="chart" viewBox="0 0 {{ g.width }} {{ g.height }}" role="img" aria-label="키워드별 네이버 검색량 추이(상대값)">
     {% for t in g.ticks %}<line class="grid" x1="{{ g.x0 }}" x2="{{ g.x1 }}" y1="{{ '%.1f'|format(t.y) }}" y2="{{ '%.1f'|format(t.y) }}"/><text class="tick" x="{{ g.x0 - 8 }}" y="{{ '%.1f'|format(t.y + 4) }}" text-anchor="end">{{ t.v }}</text>{% endfor %}
@@ -144,6 +144,6 @@
   <button class="prev" type="button" aria-label="이전 슬라이드"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg></button>
   <span class="count" aria-live="polite">1 / 1</span>
   <button class="next" type="button" aria-label="다음 슬라이드"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></button>
-  <span class="hint">← → 키로 넘깁니다</span>
+  <span class="hint">방향키로 넘깁니다</span>
 </nav>
 {%- endmacro %}

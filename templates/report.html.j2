@@ -39,7 +39,7 @@ td.n,th.n{text-align:right;white-space:nowrap}
 .chart .label{font-size:12px;fill:var(--ink)}.chart .bar{fill:var(--accent)}
 .sources li{font-size:12px;margin:3px 0;word-break:break-all}
 .sources{list-style:none;padding-left:0}.sources .back{display:inline-block;min-width:2.4em;text-decoration:none}
-.sources .back::before{content:"↩ "}:target{background:#fff3b0}
+.sources .back::before{content:"‹ "}:target{background:#fff3b0}
 .lk-restricted,.lk-unverified{color:var(--warn);font-size:11px}
 @media (max-width:600px){main{padding:20px 16px 48px}h1{font-size:23px}table{font-size:12px}th,td{padding:5px 4px}}
 @media print{
@@ -88,7 +88,7 @@ td.n,th.n{text-align:right;white-space:nowrap}
 {% if agg.datalab.search %}
 <h3>네이버 검색량 추이('{{ agg.datalab.search.anchor }}' 대비)</h3>
 {{ line_chart(agg.datalab.search.series, agg.datalab.search.anchor) }}
-<p class="note">집계 방법: 네이버 데이터랩 검색어 트렌드에 키워드와 {{ agg.datalab.search.anchor|eul }} 한 번에 넣어 월별 검색량 지수(PC와 모바일 합계, 모든 연령과 성별)를 받고, 각 달의 키워드 지수를 같은 달 '{{ agg.datalab.search.anchor }}' 지수로 나눴습니다. 1이면 '{{ agg.datalab.search.anchor }}'만큼 검색됐다는 뜻이고, 실제 검색 횟수는 아닙니다. 기간은 {{ agg.datalab.search.start }} ~ {{ agg.datalab.search.end }}입니다.</p>
+<p class="note">검색어는 이달의 키워드입니다. '{{ agg.datalab.search.anchor }}' 검색량을 1로 둔 값입니다(네이버 데이터랩, {{ agg.datalab.search.start[:7] }} ~ {{ agg.datalab.search.end }}).</p>
 {% endif %}
 {% else %}{{ reduced('keywords') }}{% endif %}
 
