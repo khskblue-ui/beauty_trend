@@ -13,7 +13,7 @@ from concurrent.futures import ThreadPoolExecutor
 from . import store
 from .config import load
 from .llm import LLMError, generate_json
-from .util import kst_date, utcnow_iso
+from .util import kst_date, now_kst, utcnow_iso
 
 log = logging.getLogger(__name__)
 PROMPT_VERSION = "enrich-v2"   # v2: launch_status (2026-10-15)
@@ -146,7 +146,7 @@ def enrich_pending(month: str | None = None, limit: int | None = None,
     todo = [d for d in store.iter_raw() if d["doc_id"] not in done
             and (month is None or doc_month(d) == month)]
     todo = list({d["doc_id"]: d for d in todo}.values())[:limit]
-    ledger = str(store.data_dir() / "llm_ledger" / f"{utcnow_iso()[:7]}.jsonl")
+    ledger = str(store.data_dir() / "llm_ledger" / f"{now_kst():%Y-%m}.jsonl")
     ok = fail = 0
     with ThreadPoolExecutor(max_workers=workers) as pool:
         for d, rec in zip(todo, pool.map(lambda x: enrich_doc(x, ledger), todo)):

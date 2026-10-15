@@ -10,6 +10,11 @@
 - 유지보수자가 결과물의 어색한 표현을 지적하면: 해당 문구를 고치고, 같은 유형이 다시 나오지 않도록 `config/style.yaml`에 규칙(또는 `copy_banned` 항목)을 추가하고, `tests/test_style.py`에 그 예문을 넣는다.
 - LLM 문장 고쳐 쓰기(`trend/style.py`)는 표현만 바꾼다. doc_ids·quote는 그대로이고, 고친 문장도 verify를 다시 거친다. 이 순서를 바꾸지 않는다.
 
+## 시각 표기
+
+- 유지보수자에게 시각을 말할 때는 KST로 적는다(예: 23:40 KST). 컨테이너 시계는 UTC이므로 `TZ=Asia/Seoul date`로 확인한다.
+- 리포트, 로그, 파일 이름의 날짜도 KST 기준이다(`trend/util.py`의 `now_kst`, `kst_date`).
+
 ## 사실·숫자
 
 - 숫자는 코드가 계산해 표·차트에만 넣는다. LLM 문장에는 숫자를 쓰지 않는다(verify가 걸러 냄).
