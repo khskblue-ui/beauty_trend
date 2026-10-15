@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ month }} Chromatogram — {{ cfg.title }}</title>
+<title>{{ cfg.title }} {{ period.tag }}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
@@ -215,7 +215,7 @@ td.mono{white-space:nowrap}
     </svg>
     <figcaption>봉우리 위 숫자가 관련 보도 수입니다. 곡선 모양과 잔물결은 그림 효과일 뿐 자료가 아닙니다.</figcaption>
   </figure>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 
 {{ b.summary_slide('01') }}
@@ -228,7 +228,7 @@ td.mono{white-space:nowrap}
   <ul class="kwl">{% for k in keywords %}<li class="rv" style="--i:{{ loop.index0 }}"><div><b>{{ k.term }}</b><small>보도 {{ k.n_clusters }}건</small></div><p>{{ b.kw_explain(k) }}</p></li>{% endfor %}</ul>
   {% else %}{{ b.reduced('keywords') }}{% endif %}
   </div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 
 {% if viz.search %}
@@ -241,12 +241,12 @@ td.mono{white-space:nowrap}
       {% set g = line_paths({t: pts}, None, 600, 52, (4, 4, 4, 4)) %}{% set lastv = pts[-1][1] %}
       <div class="ch rv" style="--i:{{ loop.index0 }}"><span class="nm">{{ t }}</span>
         <svg viewBox="0 0 600 52" preserveAspectRatio="none" aria-hidden="true">{% for l in g.lines %}<path class="draw" d="{{ l.d }}"/>{% endfor %}</svg>
-        <span class="v">{{ '%.2f'|format(lastv) if lastv is not none else '—' }}<small>{{ pts[-1][0] }}</small></span></div>
+        <span class="v">{{ '%.2f'|format(lastv) if lastv is not none else '-' }}<small>{{ pts[-1][0] }}</small></span></div>
       {% endfor %}
     </div>
     <p class="note rv">네이버 데이터랩, {{ viz.search.series[viz.search.anchor][0][0] }} ~ {{ month }}. 오른쪽 숫자는 {{ month }} 값이며 실제 검색 횟수가 아닙니다.</p>
   </div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 {% endif %}
 
@@ -257,17 +257,17 @@ td.mono{white-space:nowrap}
   <div class="s-body">
     <div class="ms stage"><ul>{% for n in viz.notes[:14] %}<li style="--i:{{ loop.index0 }}"><span class="nm">{{ n.note }}</span><span class="stick" style="--w:{{ '%.3f'|format(n.count / nmax) }}"></span><span class="ct">{{ n.count }}</span></li>{% endfor %}</ul></div>
   </div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 {% for chunk in agg.notes['items']|batch(9) %}
 <section class="slide" data-title="향 노트를 밝힌 제품{{ b.pg(loop) }}">
   <header class="s-head"><div class="s-kicker">04</div><h2 class="rv">향 노트를 밝힌 제품<span class="s-page">{{ b.pg(loop) }}</span></h2></header>
   <div class="s-body">
     <ul class="specimens">{% for x in chunk %}
-      <li class="spec rv" style="--i:{{ loop.index0 }}"><dl><dt>브랜드</dt><dd>{{ x.brand or '—' }}</dd><dt>제품</dt><dd>{{ x.name }}</dd><dt>향 노트</dt><dd>{{ x.notes|join(', ') }}</dd><dt>출처</dt><dd>{{ cite([x.doc_id]) }}</dd></dl></li>{% endfor %}
+      <li class="spec rv" style="--i:{{ loop.index0 }}"><dl><dt>브랜드</dt><dd>{{ x.brand or '-' }}</dd><dt>제품</dt><dd>{{ x.name }}</dd><dt>향 노트</dt><dd>{{ x.notes|join(', ') }}</dd><dt>출처</dt><dd>{{ cite([x.doc_id]) }}</dd></dl></li>{% endfor %}
     </ul>
   </div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 {% endfor %}
 {% endif %}

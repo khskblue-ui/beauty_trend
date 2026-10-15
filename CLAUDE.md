@@ -5,6 +5,7 @@
 ## 문체 (매번 지킬 것)
 
 - 리포트에 나가는 한국어(템플릿 문구, 프롬프트, 메일)는 `docs/style_guide.md`를 따른다. 규칙 정본은 `config/style.yaml`.
+- `plain-korean-writing` 스킬 규칙도 따른다(줄표, 가운뎃점 금지 등). 결과물을 내기 전에 독자가 보는 글을 스킬의 `check_plain_korean.py`로 검사해 거부를 0으로 만든다.
 - 템플릿이나 문구를 바꾼 뒤 `python -m pytest -q`를 돌려 `tests/test_style.py`가 통과해야 한다.
 - 유지보수자가 결과물의 어색한 표현을 지적하면: 해당 문구를 고치고, 같은 유형이 다시 나오지 않도록 `config/style.yaml`에 규칙(또는 `copy_banned` 항목)을 추가하고, `tests/test_style.py`에 그 예문을 넣는다.
 - LLM 문장 고쳐 쓰기(`trend/style.py`)는 표현만 바꾼다. doc_ids·quote는 그대로이고, 고친 문장도 verify를 다시 거친다. 이 순서를 바꾸지 않는다.

@@ -70,7 +70,25 @@ def test_template_copy_passes_sentence_rules(path):
     hits = {h["id"] for h in lint(_visible_copy(path))}
     # hype/promo/cliché wording must never appear in fixed copy
     assert not hits & {"hype", "promo", "tonghae", "double_particle", "cliche_verb",
-                       "hayeo", "mit", "jasa", "translated_verb", "geot_natanatda"}
+                       "hayeo", "mit", "jasa", "translated_verb", "geot_natanatda",
+                       "em_dash", "middle_dot", "day_words", "written_only", "thing_moves"}
+
+
+@pytest.mark.parametrize("path", TEMPLATES, ids=lambda p: p.name)
+def test_css_content_text_has_no_dash_or_middle_dot(path):
+    """Text drawn by CSS (content:"...") is read too (plain-korean-writing, 2026-10-15)."""
+    for s in re.findall(r'content:"([^"]*)"', path.read_text("utf-8")):
+        assert not re.search(r"[—―·]", s), s
+
+
+@pytest.mark.parametrize("text,rule", [
+    ("심라이즈는 그라스 공장을 열었다 — 원료 생산을 늘렸다.", "em_dash"),
+    ("지보단·심라이즈가 신제품을 냈다.", "middle_dot"),
+    ("행사는 사흘 동안 열렸다.", "day_words"),
+    ("두 회사의 실적을 견줘 보면 차이가 크다.", "written_only"),
+])
+def test_plain_korean_rules(text, rule):
+    assert rule in {h["id"] for h in lint(text)}
 
 
 def test_polish_rewrites_only_wording(monkeypatch):

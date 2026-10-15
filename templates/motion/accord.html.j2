@@ -3,7 +3,7 @@
 {%- set nheart = agg.launches|length + agg.notes.n + market.kr|length + market['global']|length -%}
 {%- set nbase = agg.regulation.regulation|length + agg.regulation.competitors|length + agg.calendar|length -%}
 {%- macro pyramid(active='', size='') -%}
-<svg class="pyr {{ size }} {{ 'act-' ~ active if active }}" viewBox="0 0 520 400" role="img" aria-label="이달 리포트 구성: 탑 키워드 {{ nkw }}개, 하트 제품·시장 {{ nheart }}개, 베이스 규제·경쟁사 {{ nbase }}개">
+<svg class="pyr {{ size }} {{ 'act-' ~ active if active }}" viewBox="0 0 520 400" role="img" aria-label="이달 리포트 구성: 탑 키워드 {{ nkw }}개, 하트 제품, 시장 {{ nheart }}개, 베이스 규제, 경쟁사 {{ nbase }}개">
   <path class="wisp draw" d="M160 96 C 146 70, 178 54, 160 28 S 172 4, 164 -6"/>
   <path class="wisp draw" d="M138 100 C 120 76, 146 60, 130 36" style="stroke:var(--heart)"/>
   <path class="wisp draw" d="M182 100 C 202 80, 176 62, 194 40" style="stroke:var(--base)"/>
@@ -12,8 +12,8 @@
   <g class="band b-top"><path d="M120 160 L200 160 L160 100 Z" fill="var(--top)"/><text class="cnt" x="160" y="150" text-anchor="middle">{{ nkw }}</text></g>
   <g class="legend">
     <line x1="214" x2="330" y1="132" y2="132"/><text x="338" y="128">TOP</text><text class="sub" x="338" y="148">키워드</text>
-    <line x1="232" x2="330" y1="215" y2="215"/><text x="338" y="211">HEART</text><text class="sub" x="338" y="231">제품·노트·시장</text>
-    <line x1="285" x2="330" y1="331" y2="331"/><text x="338" y="327">BASE</text><text class="sub" x="338" y="347">규제·경쟁사·시행일</text>
+    <line x1="232" x2="330" y1="215" y2="215"/><text x="338" y="211">HEART</text><text class="sub" x="338" y="231">제품, 노트, 시장</text>
+    <line x1="285" x2="330" y1="331" y2="331"/><text x="338" y="327">BASE</text><text class="sub" x="338" y="347">규제, 경쟁사, 시행일</text>
   </g>
 </svg>
 {%- endmacro -%}
@@ -23,7 +23,7 @@
     <div class="dv-text"><div class="dv-no rv">{{ no }}</div><h2 class="rv">{{ title }}</h2><p class="rv">{{ desc }}</p></div>
     <div class="stage dv-pyr">{{ pyramid(tier) }}</div>
   </div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 {%- endmacro -%}
 <!doctype html>
@@ -31,7 +31,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ month }} Accord — {{ cfg.title }}</title>
+<title>{{ cfg.title }} {{ period.tag }}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600;700&family=Noto+Sans+KR:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -204,24 +204,24 @@ td.mono{white-space:nowrap}
 
 <section class="slide sl-cover" data-title="표지">
   <div>
-    <div class="kicker rv">월간 뷰티·향료 리포트 · {{ month }}</div>
+    <div class="kicker rv">월간 뷰티, 향료 리포트, {{ month }}</div>
     <h1 class="rv" style="--i:1">{{ month[5:]|int }}월 업계, <em>먼저 뜬 것</em>과 오래 남을 것</h1>
-    <p class="lede rv" style="--i:2">향수의 탑·하트·베이스 노트 순서로 정리했습니다. 탑에는 이달 많이 다뤄진 키워드, 하트에는 신제품·향 노트·시장 소식, 베이스에는 오래 영향을 주는 규제와 시행일을 담았습니다.</p>
+    <p class="lede rv" style="--i:2">향수의 탑, 하트, 베이스 노트 순서로 정리했습니다. 탑에는 이달 많이 다뤄진 키워드, 하트에는 신제품, 향 노트, 시장 소식, 베이스에는 오래 영향을 주는 규제와 시행일을 담았습니다.</p>
     <div class="meta rv" style="--i:3">
       <span>분석 기간</span><span class="mono">{{ month }}-01 ~ {{ month }} 말일</span>
       <span>분석 기사</span><span><b class="mono" data-count="{{ agg.counts.docs }}">{{ agg.counts.docs }}</b>건(같은 내용을 하나로 묶으면 <b class="mono" data-count="{{ agg.counts.clusters }}">{{ agg.counts.clusters }}</b>건)</span>
-      <span>자료 기준</span><span>기사·규제 {{ month }} · 네이버 데이터랩 {{ month }}까지 · 수출입 통계는 아직 싣지 않음</span>
+      <span>자료 기준</span><span>기사, 규제 {{ month }}, 네이버 데이터랩 {{ month }}까지, 수출입 통계는 아직 싣지 않음</span>
       <span>작성</span><span class="mono">{{ generated }}</span>
     </div>
     <div class="rv" style="--i:4">{{ b.banners() }}</div>
   </div>
   <div class="stage">{{ pyramid() }}</div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 
 {{ b.summary_slide('요약') }}
 
-{{ divider('top', '01', '탑 노트 — 먼저 뜬 키워드', '서로 다른 보도에서 두 번 이상 다뤄진 말만 골랐습니다. 가장 먼저 눈에 띄는 이달의 변화입니다.') }}
+{{ divider('top', '01', '탑 노트: 먼저 뜬 키워드', '서로 다른 보도에서 두 번 이상 다뤄진 말만 골랐습니다. 가장 먼저 눈에 띄는 이달의 변화입니다.') }}
 
 <section class="slide ch-top" data-title="이달의 키워드">
   <header class="s-head"><div class="s-kicker">탑 노트</div><h2 class="rv">이달의 키워드</h2>
@@ -229,15 +229,15 @@ td.mono{white-space:nowrap}
   <div class="s-body">
   {% if gate.sections.keywords.status == 'ok' %}
   {% set kmax = (keywords|map(attribute='n_clusters')|max) if keywords else 1 %}
-  <ul class="kws">{% for k in keywords %}<li class="kw rv" style="--i:{{ loop.index0 }};--fill:{{ '%.2f'|format(k.n_clusters / kmax) }}"><strong>{{ k.term }}</strong><span class="kwn">관련 보도 <b data-count="{{ k.n_clusters }}">{{ k.n_clusters }}</b>건{% if agg.keywords.has_prev %} · 전월 {{ k.n_prev }}건{% endif %}</span><p>{{ b.kw_explain(k) }}</p></li>{% endfor %}</ul>
+  <ul class="kws">{% for k in keywords %}<li class="kw rv" style="--i:{{ loop.index0 }};--fill:{{ '%.2f'|format(k.n_clusters / kmax) }}"><strong>{{ k.term }}</strong><span class="kwn">관련 보도 <b data-count="{{ k.n_clusters }}">{{ k.n_clusters }}</b>건{% if agg.keywords.has_prev %}, 전월 {{ k.n_prev }}건{% endif %}</span><p>{{ b.kw_explain(k) }}</p></li>{% endfor %}</ul>
   {% else %}{{ b.reduced('keywords') }}{% endif %}
   </div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 
 {{ b.search_slide('탑 노트', ['var(--top)','var(--heart)','var(--base)','#6B5B8C']) }}
 
-{{ divider('heart', '02', '하트 노트 — 한 달을 채운 제품과 시장', '출시일이 기사로 확인된 신제품, 향 노트를 밝힌 제품, 국내외 시장 소식입니다.') }}
+{{ divider('heart', '02', '하트 노트: 한 달을 채운 제품과 시장', '출시일이 기사로 확인된 신제품, 향 노트를 밝힌 제품, 국내외 시장 소식입니다.') }}
 
 {% if viz.notes %}{% set nmax = viz.notes|map(attribute='count')|max %}
 <section class="slide ch-heart" data-title="향 노트별 제품 수">
@@ -248,14 +248,14 @@ td.mono{white-space:nowrap}
       <li class="strip" style="--i:{{ loop.index0 }};--w:{{ '%.3f'|format(n.count / nmax) }}"><span class="nm">{{ n.note }}</span><span class="bar"></span><span class="ct">{{ n.count }}개</span></li>{% endfor %}
     </ul>
   </div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 {% endif %}
 {{ b.notes_table_slides('하트 노트') }}
 {{ b.launch_slides('하트 노트') }}
 {{ b.market_slides('하트 노트') }}
 
-{{ divider('base', '03', '베이스 노트 — 오래 영향을 주는 규제와 경쟁사', '규제기관 공지와 경쟁 향료사 발표입니다. 새로 나온 것이 없으면 "변경 없음"으로 적었습니다.') }}
+{{ divider('base', '03', '베이스 노트: 오래 영향을 주는 규제', '규제기관 공지와 경쟁 향료사 발표입니다. 새로 나온 것이 없으면 "변경 없음"으로 적었습니다.') }}
 
 {{ b.reg_slides('베이스 노트') }}
 
@@ -272,7 +272,7 @@ td.mono{white-space:nowrap}
     <p class="rv" style="--i:1"><span class="big" data-count="{{ c0.days_left }}">{{ c0.days_left }}</span> <span class="hz-note">일 남았습니다.</span></p>
     <p class="hz-note rv" style="--i:2">채택일부터 기한까지 전체 기간의 {{ '%.0f'|format(c0.elapsed * 100) }}%가 지났습니다. <a href="{{ c0.source }}">원문</a></p>
   </div>
-  <footer class="s-foot"><span>{{ cfg.title }} · {{ period.tag }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ cfg.title }} {{ period.tag }}</span><span class="s-num"></span></footer>
 </section>
 {% endfor %}
 

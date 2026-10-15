@@ -79,7 +79,8 @@ def quote_ok(quote: str | None, text: str) -> bool:
 
 
 def source_text(doc: dict) -> str:
-    body = store.load_body(doc["doc_id"]) or ""
+    from .collect.article import clean_body
+    body = clean_body(store.load_body(doc["doc_id"])) or ""
     return "\n".join(x for x in (doc["title"], doc.get("summary", ""), body) if x)
 
 

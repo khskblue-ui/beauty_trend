@@ -96,3 +96,10 @@ def test_backfill_list_reads_dates_from_article_pages_and_stops_past_window(monk
     assert sorted(d["title"] for d in res.docs) == ["기사 2", "기사 3"]
     assert all(d["collected_via"] == "backfill" for d in res.docs)
     assert "https://t.test/list?page=3" not in c.calls     # page 2 was entirely before the window
+
+
+def test_clean_body_drops_site_notices_and_footers():
+    from trend.collect.article import clean_body
+    t = ("잠깐! 현재 Internet Explorer 8이하 버전을 이용중이십니다.\n유씨엘이 바디케어 트렌드북을 발표했다.\n"
+         "사업자등록번호: 000 | © 2016 Copyright All Rights Reserved 코스모닝")
+    assert clean_body(t) == "유씨엘이 바디케어 트렌드북을 발표했다."

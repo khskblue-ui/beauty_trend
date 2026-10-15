@@ -14,7 +14,7 @@ from .config import load
 from .llm import LLMError, generate_json
 
 log = logging.getLogger(__name__)
-PROMPT_VERSION = "style-v1"
+PROMPT_VERSION = "style-v2"   # v2: plain-korean-writing rules
 
 REWRITE = {
     "type": "OBJECT",
@@ -28,10 +28,11 @@ REWRITE = {
 REWRITE_SYSTEM = """너는 국내 업계 리포트의 교열 기자다. 문장을 자연스러운 한국어 보도 문장으로 고친다.
 규칙:
 - 사실(주체, 대상, 행동, 시점)은 바꾸지 않는다. 새 정보를 더하지 않고, 근거에 없는 말을 넣지 않는다.
+- [지적]에 걸린 말만 고친다. 걸리지 않은 부분은 그대로 둔다.
 - 숫자를 쓰지 않는다.
 - 각 문장에 붙은 [지적]을 모두 해결한다.
 - ~했다/~이다로 끝나는 짧은 평서문. 한 문장 80자 안팎.
-- 회사·브랜드·제품 이름은 그대로 둔다."""
+- 회사, 브랜드, 제품 이름은 그대로 둔다. 가운뎃점과 줄표를 쓰지 않는다."""
 
 
 def rules() -> list[dict]:

@@ -112,8 +112,8 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True, until=None) -> dict:
     # same news does not appear twice in the report
     kw_used = {d for k in kw_kept if k["sentence"] for d in k["sentence"]["doc_ids"]}
     mk = {}
-    for key, task, n in (("kr", "국내 뷰티·향료 시장 동향을 요약한다.", 5),
-                         ("global", "글로벌 뷰티·향료 시장 동향을 요약한다. 영어 근거는 한국어로 옮겨 쓴다.", 4)):
+    for key, task, n in (("kr", "국내 뷰티와 향료 시장 동향을 요약한다.", 5),
+                         ("global", "글로벌 뷰티와 향료 시장 동향을 요약한다. 영어 근거는 한국어로 옮겨 쓴다.", 4)):
         cards = [c for c in agg["market"][key] if not kw_used & set(c["doc_ids"])][:10]
         allowed = {d for c in cards for d in c["doc_ids"]}
         kept = checked(f"market_{key}", write.sentences(task, cards, n, ledger), allowed)
@@ -126,7 +126,7 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True, until=None) -> dict:
     cards = agg["regulation"]["regulation"][:10]
     allowed = {d for c in cards for d in c["doc_ids"]}
     rg = {"regulation": checked("regulation", write.sentences(
-        "당국(식약처, EU, 미국 FDA)이 공식 발표·공시한 화장품·향료 규제 사항을 정리한다.",
+        "당국(식약처, EU, 미국 FDA)이 공식 발표하거나 공시한 화장품, 향료 규제 사항을 정리한다.",
         cards, 4, ledger), allowed) if cards else [], "competitors": []}
 
     # 3-line summary: one verified sentence per area (keywords → market → regulation/

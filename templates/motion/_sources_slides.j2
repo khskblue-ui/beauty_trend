@@ -5,10 +5,10 @@
     <h2 class="rv">출처{% if loop.length > 1 %}<span class="s-page"> ({{ loop.index }}/{{ loop.length }})</span>{% endif %}</h2></header>
   <div class="s-body">
     <ol class="sources" start="{{ chunk[0].n }}">
-    {% for s in chunk %}<li id="src-{{ s.n }}" class="rv"><a class="back" href="#cite-{{ s.n }}-1" aria-label="{{ s.n }}번 출처를 인용한 곳으로 돌아가기">{{ s.n }}</a> <span class="src-meta">{{ s.source }} · {{ s.date }}</span> <a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.title }}</a>{% if s.link == 'restricted' %} <span class="lk">(접근 제한)</span>{% elif s.link == 'unverified' %} <span class="lk">(링크 확인 필요)</span>{% endif %}</li>
+    {% for s in chunk %}<li id="src-{{ s.n }}" class="rv"><a class="back" href="#cite-{{ s.n }}-1" aria-label="{{ s.n }}번 출처를 인용한 곳으로 돌아가기">{{ s.n }}</a> <span class="src-meta">{{ s.source }}, {{ s.date }}</span> <a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.title }}</a>{% if s.link == 'restricted' %} <span class="lk">(접근 제한)</span>{% elif s.link == 'unverified' %} <span class="lk">(링크 확인 필요)</span>{% endif %}</li>
     {% endfor %}</ol>
     {% if loop.last %}<p class="ai-note">AI가 자동으로 만든 리포트입니다. 자사 제품 포트폴리오는 반영하지 않았습니다.</p>{% endif %}
   </div>
-  <footer class="s-foot"><span>{{ title }} · {{ month }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ title }}, {{ month }}</span><span class="s-num"></span></footer>
 </section>
 {% endfor %}

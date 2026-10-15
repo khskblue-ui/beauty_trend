@@ -13,6 +13,17 @@ CONTAINERS = [
     r'<div[^>]*class="[^"]*(?:article_txt|news_body|article-body|entry-content)[^"]*"[^>]*>(.*?)</div>\s*<',
 ]
 STRIP = re.compile(r"<(script|style|figure|figcaption|table|iframe)[^>]*>.*?</\1>", re.S | re.I)
+# Site notices and footers that the paragraph fallback picks up (seen on cosinkorea, cosmorning)
+BOILERPLATE = re.compile(r"Internet Explorer|최신 브라우저|All Rights Reserved|Copyright|사업자등록번호|"
+                         r"인터넷신문 등록|청소년보호책임자|무단전재|무단 전재", re.I)
+
+
+def clean_body(text: str | None) -> str | None:
+    """Drop notice/footer lines; returns None when nothing is left."""
+    if not text:
+        return text
+    lines = [ln for ln in text.split("\n") if not BOILERPLATE.search(ln)]
+    return "\n".join(lines).strip() or None
 
 
 def extract_body(html: str, min_chars: int = 200) -> str | None:
@@ -20,10 +31,10 @@ def extract_body(html: str, min_chars: int = 200) -> str | None:
     for pat in CONTAINERS:
         m = re.search(pat, html, re.S | re.I)
         if m:
-            text = _paragraphs(m.group(1)) or clean_text(m.group(1))
+            text = clean_body(_paragraphs(m.group(1)) or clean_text(m.group(1))) or ""
             if len(text) >= min_chars:
                 return text
-    text = _paragraphs(html)
+    text = clean_body(_paragraphs(html)) or ""
     return text if len(text) >= min_chars else None
 
 
