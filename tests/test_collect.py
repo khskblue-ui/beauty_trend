@@ -103,3 +103,35 @@ def test_clean_body_drops_site_notices_and_footers():
     t = ("잠깐! 현재 Internet Explorer 8이하 버전을 이용중이십니다.\n유씨엘이 바디케어 트렌드북을 발표했다.\n"
          "사업자등록번호: 000 | © 2016 Copyright All Rights Reserved 코스모닝")
     assert clean_body(t) == "유씨엘이 바디케어 트렌드북을 발표했다."
+
+
+def test_backfill_list_ignores_repeated_sidebar_links(monkeypatch):
+    from datetime import date
+    from trend.collect import backfill
+
+    class R:
+        def __init__(self, text): self.text, self.ok, self.status = text, True, 200
+
+    side = '<a href="/news/articleView.html?idxno=99">popular</a>'
+    pages = {f"https://t.test/l?p={i}": side + f'<a href="/news/articleView.html?idxno={i}">x</a>' for i in (1, 2, 3)}
+    dates = {99: "2026-10-14T09:00:00+09:00", 1: "2026-10-03T09:00:00+09:00",
+             2: "2026-09-20T09:00:00+09:00", 3: "2026-09-10T09:00:00+09:00"}
+
+    class C:
+        calls = []
+        def allowed(self, url): return True
+        def request(self, url, **kw):
+            self.calls.append(url)
+            if url in pages:
+                return R(pages[url])
+            n = int(url.rsplit("=", 1)[1])
+            return R(f'<meta property="og:title" content="기사 {n}"><meta property="article:published_time" content="{dates[n]}">')
+
+    monkeypatch.setattr(backfill.store, "save_body", lambda *a: None)
+    src = {"id": "t", "name": "T", "group": "kr_trade",
+           "archive": {"kind": "list", "url": "https://t.test/l?p={page}", "link_pattern": r"idxno=\d+$"}}
+    c = C()
+    res = backfill.collect(src, c, date(2026, 10, 1), date(2026, 10, 15), {})
+    assert sorted(d["title"] for d in res.docs) == ["기사 1", "기사 99"]
+    assert c.calls.count("https://t.test/news/articleView.html?idxno=99") == 1   # sidebar opened once
+    assert "https://t.test/l?p=3" not in c.calls          # page 2's only new link is before the window

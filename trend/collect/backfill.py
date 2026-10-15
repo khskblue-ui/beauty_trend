@@ -123,6 +123,9 @@ def collect(src: dict, client: Client, since: date, until: date,
                 if doc:
                     docs.append(doc)
         elif kind == "list":
+            # sidebars ("popular articles") repeat on every list page: open each link
+            # once, and judge "past the window" only by links new on that page
+            visited: dict[str, date | None] = {}
             for page in range(arc.get("first_page", 1), arc.get("max_pages", 30) + 1):
                 url = arc["url"].format(page=page, offset=(page - 1) * arc.get("step", 0))
                 if not client.allowed(url):
@@ -139,16 +142,20 @@ def collect(src: dict, client: Client, since: date, until: date,
                     break
                 dates = []
                 for ln in links:
-                    if doc_id(ln) in known:
-                        dates.append(known[doc_id(ln)])
+                    if ln in visited:
                         continue
-                    doc, d = _article(src, client, ln)
+                    if doc_id(ln) in known:
+                        d = known[doc_id(ln)]
+                    else:
+                        doc, d = _article(src, client, ln)
+                        if doc and _in_range(d, since, until):
+                            docs.append(doc)
+                    visited[ln] = d
                     dates.append(d)
-                    if doc and _in_range(d, since, until):
-                        docs.append(doc)
-                # stop once a whole page of new links is older than the window
+                # stop once the links new on this page are all older than the window
+                # (or the page has nothing new: past the last page)
                 seen_dates = [d for d in dates if d]
-                if seen_dates and max(seen_dates) < since:
+                if not dates or (seen_dates and max(seen_dates) < since):
                     break
         else:
             return Result(src["id"], False, error=f"unknown archive kind {kind}")
