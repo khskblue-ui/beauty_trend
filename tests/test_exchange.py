@@ -69,3 +69,13 @@ def test_entailment_pending_is_not_a_verdict(data_dir):
     kept, rows = verify_sentences([{"text": "가나다", "doc_ids": ["d"], "quote": "가나다"}], {"d"},
                                   {"d": {"title": "가나다", "extraction": {}}}, set(), None)
     assert kept == [] and rows[0]["reason"] == "entailment:pending"
+
+
+def test_entailment_evidence_includes_the_article_title(data_dir, monkeypatch):
+    from trend import verify
+    seen = []
+    monkeypatch.setattr(verify, "entailment", lambda pairs, ledger: seen.extend(pairs) or ["supported"] * len(pairs))
+    s = {"text": "CJ올리브영은 입점을 마쳤다.", "doc_ids": ["d"], "quote": "입점을 마쳤다"}
+    rec = {"title": "CJ올리브영, 세포라 매장 입점을 마쳤다", "extraction": {}}
+    kept, _ = verify.verify_sentences([s], {"d"}, {"d": rec}, set(), None)
+    assert kept and "(기사 제목) CJ올리브영, 세포라 매장 입점을 마쳤다" in seen[0][1] and "입점을 마쳤다" in seen[0][1]

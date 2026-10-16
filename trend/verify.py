@@ -98,7 +98,12 @@ def verify_sentences(sents: list[dict], allowed: set[str], recs: dict[str, dict]
             log_rows.append({**s, "kept": False, "reason": reason})
         else:
             survivors.append(s)
-    verdicts = entailment([(s["text"], s["quote"]) for s in survivors], ledger)
+    # evidence = the cited articles' titles + the quote: the subject (company, brand) is
+    # usually in the title, not in the quoted sentence
+    def evidence(s):
+        titles = " / ".join(recs[i].get("title", "") for i in s["doc_ids"] if i in recs)
+        return f"(기사 제목) {titles}\n(인용) {s['quote']}"
+    verdicts = entailment([(s["text"], evidence(s)) for s in survivors], ledger)
     kept = []
     for s, v in zip(survivors, verdicts):
         ok = v == "supported"
