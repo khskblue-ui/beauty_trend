@@ -130,7 +130,10 @@ def export(role: str, out: Path, limit: int | None = None) -> int:
         "how_to_answer": ("For each item, follow systems[item.system] and answer item.prompt with ONE JSON "
                           "value that matches schemas[item.schema]. Write a JSON list "
                           "[{\"id\": item.id, \"data\": <answer>}] to the answers file. Copy quotes "
-                          "character for character from the prompt text; never invent them."),
+                          "character for character from the prompt text; never invent them. Fill list "
+                          "fields exhaustively: every product, every dated event and every named "
+                          "ingredient the article states, each with its own verbatim quote. Use the "
+                          "article's own spelling for names (code checks the name appears in the text)."),
         "systems": systems, "schemas": schemas, "items": items}, ensure_ascii=False, indent=1), "utf-8")
     return len(items)
 
