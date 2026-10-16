@@ -12,7 +12,7 @@ import re
 
 from .config import load
 from .http import Client
-from .llm import LLMError, generate_json
+from .llm import LLMError, PendingLLM, generate_json
 
 log = logging.getLogger(__name__)
 DIGIT = re.compile(r"\d")
@@ -78,6 +78,8 @@ def entailment(pairs: list[tuple[str, str]], ledger: str) -> list[str]:
     body = "\n\n".join(f"#{i}\n[근거] {q}\n[문장] {t}" for i, (t, q) in enumerate(pairs))
     try:
         call = generate_json(load("models")["verify"], body, ENTAIL, ENTAIL_SYSTEM, ledger)
+    except PendingLLM:
+        return ["pending"] * len(pairs)      # session backend: answer not in yet (not a verdict)
     except LLMError as e:
         log.error("entailment failed: %s", e)
         return ["uncertain"] * len(pairs)
@@ -115,16 +117,38 @@ def _context(text: str, quote: str | None, width: int = 400) -> str:
     return t[max(0, i - width): i + len(q) + width]
 
 
+def _check_key(it: dict, kind: str) -> str:
+    return "|".join([it["doc_id"], kind, it.get("brand") or "", it["name"], ",".join(it.get("notes") or [])])
+
+
+def _check_cache() -> tuple[dict, "Path"]:
+    from . import store
+    path = store.data_dir() / "checks" / "products.json"
+    return store.read_json(path, {}) or {}, path
+
+
 def verify_products(items: list[dict], kind: str, recs: dict[str, dict], ledger: str,
                     variants=None) -> tuple[list[dict], list[dict]]:
     """Product rows (notes / launches): brand required and named in the article, then
     an entailment check that the article ties this brand + product to the claim.
 
     kind "notes": claim = product uses these notes; "launch": claim = product launched.
+    Verdicts are cached in DATA_DIR/checks/products.json (committed; no article text).
+    The daily session checks new articles while their bodies are on disk
+    (`trend check-products`); the monthly report reuses those verdicts.
     """
+    from . import store
     from .enrich import source_text
+    cache, cache_path = _check_cache()
     rows, cand, pairs = [], [], []
+    todo = []
     for it in items:
+        hit = cache.get(_check_key(it, kind))
+        if hit:
+            rows.append({**it, "kind": kind, "kept": hit["kept"], "reason": hit["reason"], "cached": True})
+        else:
+            todo.append(it)
+    for it in todo:
         rec = recs.get(it["doc_id"])
         brand = (it.get("brand") or "").strip()
         if not brand:
@@ -143,13 +167,15 @@ def verify_products(items: list[dict], kind: str, recs: dict[str, dict], ledger:
         cand.append(it)
         pairs.append((claim, ev))
     verdicts = [v for i in range(0, len(pairs), 20) for v in entailment(pairs[i:i + 20], ledger)]
-    kept = []
     for it, v, (claim, _) in zip(cand, verdicts, pairs):
         ok = v == "supported"
         rows.append({**it, "kind": kind, "claim": claim, "kept": ok,
                      "reason": None if ok else f"entailment:{v}"})
-        if ok:
-            kept.append(it)
+    for r in rows:
+        if not r.get("cached") and r["reason"] != "entailment:pending":
+            cache[_check_key(r, kind)] = {"kept": r["kept"], "reason": r["reason"]}
+    store._write_json(cache_path, cache)
+    kept = [it for it in items if any(r["kept"] and _check_key(r, kind) == _check_key(it, kind) for r in rows)]
     return kept, rows
 
 
@@ -173,3 +199,20 @@ def link_status(urls: list[str]) -> dict[str, str]:
 
 def dump(rows) -> str:
     return json.dumps(rows, ensure_ascii=False, indent=1)
+
+
+def check_products(recs: list[dict], ledger: str | None = None) -> dict:
+    """Daily: verdicts for the notes/launch claims of new articles while their bodies are
+    on disk. Already-cached claims are skipped; pending answers are not cached."""
+    from .aggregate import product_claims
+    from .normalize import Entities
+    ents = Entities()
+    by_id = {r["doc_id"]: r for r in recs}
+    totals = {"notes": 0, "launch": 0}
+    pending = 0
+    for kind in ("notes", "launch"):
+        items = [it for r in recs for it in product_claims(r, ents)[kind]]
+        _, rows = verify_products(items, kind, by_id, ledger, ents.variants)
+        totals[kind] = len(items)
+        pending += sum(r["reason"] == "entailment:pending" for r in rows)
+    return {"claims": totals, "waiting_for_answers": pending}

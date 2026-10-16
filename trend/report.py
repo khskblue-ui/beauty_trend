@@ -66,6 +66,8 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True, until=None) -> dict:
 
     per = period(ym, until)
     until = date.fromisoformat(per["end"])
+    from . import exchange
+    exchange.reset()
     recs = [r for r in load_month(ym) if kst_date(r.get("published_at")) <= until]
     # an interim report has half a month — comparing it with a full month would mislead
     prev = [] if per["interim"] else load_month(prev_month(ym))
@@ -181,6 +183,13 @@ def build(ym: str, dry_run: bool = False, pdf: bool = True, until=None) -> dict:
         "style": {"rewritten": sum(1 for r in slog if r["before"] != r["after"]),
                   "warnings": style_warnings},
     }
+    # session backend: some model answers are not in yet → stop before rendering; the
+    # session answers the open requests and runs the same command again
+    waiting = exchange.pending_ids()
+    if waiting:
+        store.write_json(run_dir.relative_to(store.data_dir()) / "pending.json", sorted(waiting))
+        return {"status": "pending", "run_dir": str(run_dir), "waiting_for_answers": len(waiting)}
+
     # everything templates need, so `trend render` can redo the HTML/PDF without LLM calls
     store.write_json(run_dir.relative_to(store.data_dir()) / "context.json",
                      {k: v for k, v in ctx.items() if k not in ("cfg", "models")})
@@ -221,3 +230,17 @@ def rerender(run_dir: str | Path, pdf: bool = True) -> dict:
         raise FileNotFoundError(f"{run_dir}/context.json (runs before 2026-10-15 have none)")
     ctx.update(cfg=load("report"), models=load("models"))
     return render.render_all(ctx, run_dir, pdf=pdf)
+
+
+def deliver_run(run_dir: str | Path) -> dict:
+    """Mail a finished run (made by the work session, rendered by Actions)."""
+    from . import deliver
+    run_dir = Path(run_dir)
+    ctx = store.read_json(run_dir / "context.json")
+    if ctx is None:
+        raise FileNotFoundError(f"{run_dir}/context.json")
+    ym = ctx["month"]
+    paths = {k: run_dir / n for k, n in (("pdf", f"report_{ym}.pdf"), ("html", f"report_{ym}.html"),
+                                          ("mail", "mail.txt")) if (run_dir / n).exists()}
+    deliver.send(ctx["status"], ym, paths, ctx["summary"], ctx["gate"])
+    return {"status": ctx["status"], "month": ym, "sent": deliver.configured()}

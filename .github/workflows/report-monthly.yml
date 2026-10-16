@@ -1,20 +1,18 @@
-# 매월 1일: 전월 리포트 발행. 매월 25일: 이번 달 드라이런(유지보수자에게만).
+# 월간 리포트 발송. 리포트 문장 작성과 검증은 Claude 작업 세션이 하고(docs/session_routine.md),
+# 세션이 data 브랜치에 커밋한 실행(READY 표시)을 여기서 PDF로 만들어 메일로 보낸다. 모델 호출 없음.
+# 매월 25일: 이번 달 시험본(유지보수자에게만). 매월 1일: 전월 정식본.
 name: report-monthly
 
 on:
   schedule:
-    - cron: "47 0 1 * *"    # 1일 09:47 KST — 전월분 발행
-    - cron: "47 0 25 * *"   # 25일 09:47 KST — 이번 달 드라이런
+    - cron: "47 4 1 * *"    # 1일 13:47 KST (세션은 오전에 끝낸다)
+    - cron: "47 4 25 * *"   # 25일 13:47 KST
   workflow_dispatch:
     inputs:
       month:
         description: "YYYY-MM (비우면 일정 규칙대로)"
         required: false
         default: ""
-      dry_run:
-        description: "드라이런(유지보수자에게만 발송)"
-        type: boolean
-        default: true
 
 permissions:
   contents: write
@@ -26,12 +24,9 @@ concurrency:
 jobs:
   report:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 30
     env:
       DATA_DIR: data
-      NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
-      NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
-      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       DELIVER: "1"
       SMTP_HOST: ${{ secrets.SMTP_HOST }}
       SMTP_PORT: ${{ secrets.SMTP_PORT }}
@@ -55,30 +50,28 @@ jobs:
         id: m
         env:
           IN_MONTH: ${{ inputs.month }}
-          IN_DRY: ${{ inputs.dry_run }}
-          EVENT: ${{ github.event_name }}
         run: |
           day=$(TZ=Asia/Seoul date +%d)
-          if [ -n "$IN_MONTH" ]; then month="$IN_MONTH"; dry="$IN_DRY"
-          elif [ "$day" = "01" ]; then month=$(TZ=Asia/Seoul date -d "$(TZ=Asia/Seoul date +%Y-%m-01) -1 day" +%Y-%m); dry=false
-          else month=$(TZ=Asia/Seoul date +%Y-%m); dry=true
+          if [ -n "$IN_MONTH" ]; then month="$IN_MONTH"
+          elif [ "$day" = "01" ]; then month=$(TZ=Asia/Seoul date -d "$(TZ=Asia/Seoul date +%Y-%m-01) -1 day" +%Y-%m)
+          else month=$(TZ=Asia/Seoul date +%Y-%m)
           fi
-          [ "$EVENT" = "workflow_dispatch" ] && [ -z "$IN_DRY" ] && dry=true
           echo "month=$month" >> "$GITHUB_OUTPUT"
-          echo "flag=$([ "$dry" = "true" ] && echo --dry-run)" >> "$GITHUB_OUTPUT"
-      - name: Enrich pending
-        run: python -m trend enrich --month ${{ steps.m.outputs.month }}
-      - name: Build report
-        run: python -m trend report --month ${{ steps.m.outputs.month }} ${{ steps.m.outputs.flag }}
+      - name: Find the run the session marked READY
+        id: run
+        run: |
+          run=$(ls -d data/reports/${{ steps.m.outputs.month }}/*/ 2>/dev/null | sort | while read d; do [ -f "$d/READY" ] && echo "$d"; done | tail -1)
+          if [ -z "$run" ]; then
+            echo "::error::세션이 만든 ${{ steps.m.outputs.month }} 리포트(READY)가 없습니다. docs/session_routine.md 월간 절차를 확인하세요."
+            exit 1
+          fi
+          echo "dir=$run" >> "$GITHUB_OUTPUT"
+      - name: Render PDF and HTML
+        run: python -m trend render --run-dir "${{ steps.run.outputs.dir }}"
+      - name: Deliver
+        run: python -m trend deliver --run-dir "${{ steps.run.outputs.dir }}"
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: report-${{ steps.m.outputs.month }}-${{ github.run_id }}
-          path: data/reports/${{ steps.m.outputs.month }}/
-      - name: Commit run record (PDF stays in the artifact)
-        if: always()
-        run: |
-          cd data
-          git add -A -- . ':!reports/**/*.pdf'
-          git diff --cached --quiet || git commit -qm "report ${{ steps.m.outputs.month }}"
-          git push origin data
+          path: ${{ steps.run.outputs.dir }}

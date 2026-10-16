@@ -1,6 +1,8 @@
-"""Gemini REST client with JSON-schema output, validation, retries and a usage ledger.
+"""Model calls with JSON-schema output, validation and a usage ledger.
 
-Key: GEMINI_API_KEY (sent as x-goog-api-key) when set; otherwise none (proxy env).
+Backends (config/models.yaml, per stage):
+  session  the work session's Claude answers request files (trend/exchange.py); no API cost
+  gemini   Gemini REST API. Key: GEMINI_API_KEY (x-goog-api-key) when set; else none (proxy env)
 """
 from __future__ import annotations
 
@@ -20,6 +22,11 @@ _client = Client(min_interval=0.2, timeout=180, retries=3)
 
 class LLMError(RuntimeError):
     pass
+
+
+class PendingLLM(LLMError):
+    """Session backend: the request is written, its answer is not in yet. Callers treat it
+    like a failed call for this run (nothing is invented); the next run picks the answer up."""
 
 
 @dataclass
@@ -72,6 +79,8 @@ def validate(obj, schema: dict, path: str = "$") -> list[str]:
 def generate_json(stage_cfg: dict, prompt: str, schema: dict, system: str | None = None,
                   ledger: str | None = None) -> Call:
     """Call stage model (fallback on 404/5xx exhaustion); retry on schema violations."""
+    if stage_cfg.get("backend", "gemini") == "session":
+        return _session(stage_cfg, prompt, schema, system, ledger)
     last = None
     for model in (stage_cfg["model"], stage_cfg.get("fallback")):
         if not model:
@@ -92,6 +101,22 @@ def generate_json(stage_cfg: dict, prompt: str, schema: dict, system: str | None
             last = LLMError(f"schema: {errs[:3]}")
             log.warning("%s schema violation (attempt %d): %s", model, attempt + 1, errs[:3])
     raise LLMError(str(last))
+
+
+def _session(stage_cfg: dict, prompt: str, schema: dict, system: str | None, ledger: str | None) -> Call:
+    from . import exchange
+    role = stage_cfg.get("role", "write")
+    data, by = exchange.ask(role, prompt, schema, system)
+    if not by:
+        raise PendingLLM(f"pending {role} request")
+    errs = validate(data, schema)
+    rid = exchange.request_id(role, system, prompt, schema)
+    if errs:
+        exchange.reject(rid, str(errs[:3]))
+        raise PendingLLM(f"answer {rid} invalid: {errs[:3]}")
+    _log(ledger, f"claude-session:{role}", {}, ok=True, errors=[], request=rid, answered_by=by,
+         chars_in=len(prompt) + len(system or ""))
+    return Call(f"claude-session:{by}", data, {}, 1)
 
 
 def _call(model, prompt, schema, system, thinking_budget) -> Call:

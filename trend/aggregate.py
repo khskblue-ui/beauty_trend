@@ -148,10 +148,26 @@ def same_product(a: dict, b: dict) -> bool:
     return na in nb or nb in na or similar(na, nb, 0.6)
 
 
+def product_claims(rec: dict, ents: Entities) -> dict[str, list[dict]]:
+    """Notes and launch claims of one article, shaped like the rows of notes()/launches(),
+    so the daily product check and the monthly report share verdicts."""
+    out: dict[str, list[dict]] = {"notes": [], "launch": []}
+    for p in rec["extraction"].get("products", []):
+        brand = ents.canon(p.get("brand") or "")
+        if p.get("notes") and p.get("notes_quote"):
+            out["notes"].append({"brand": brand, "name": p["name"], "notes": p["notes"],
+                                 "quote": p["notes_quote"], "doc_id": rec["doc_id"]})
+        if p.get("launch_quote") and (p.get("launch_date") or p.get("launch_status") == "launched"):
+            out["launch"].append({"brand": brand, "name": p["name"], "quote": p["launch_quote"],
+                                  "doc_id": rec["doc_id"]})
+    return out
+
+
 def notes(clusters: list[Cluster], ents: Entities) -> dict:
     """Products whose notes are explicitly stated (quote-verified in enrich).
 
-    Near-duplicate products are merged; the merged entry keeps the union of notes.
+    Near-duplicate products are listed once, with the first article's notes and quote
+    (notes from another article would otherwise be cited to the wrong source).
     """
     items: list[dict] = []
     for c in clusters:
@@ -161,7 +177,6 @@ def notes(clusters: list[Cluster], ents: Entities) -> dict:
                     cand = {"brand": ents.canon(p.get("brand") or ""), "name": p["name"]}
                     dup = next((it for it in items if same_product(it, cand)), None)
                     if dup:
-                        dup["notes"] += [n for n in p["notes"] if n not in dup["notes"]]
                         continue
                     items.append({"brand": ents.canon(p.get("brand") or ""), "name": p["name"],
                                   "notes": p["notes"], "quote": p["notes_quote"],

@@ -178,8 +178,9 @@ def test_press_release_goes_to_regulation_only_when_classified_regulation():
     assert [c["title"] for c in market(cl)["kr"]] == ["3분기 화장품 수출 역대 최대"]
 
 
-def test_product_rows_need_brand_in_article_and_entailment(monkeypatch):
+def test_product_rows_need_brand_in_article_and_entailment(monkeypatch, tmp_path):
     from trend import verify
+    monkeypatch.setenv("DATA_DIR", str(tmp_path))
     seen = []
 
     def fake(pairs, ledger):
@@ -289,5 +290,8 @@ def test_enrich_copies_near_duplicates_and_stops_on_big_estimates(monkeypatch, t
     assert b["copied_from"] == "a" and b["extraction"]["keywords"] == ["니치 향수"]
     assert b["extraction"]["products"] == []                          # claims need this article's own quotes
     monkeypatch.setattr(enrich, "PROMPT_VERSION", "enrich-v99")         # a new prompt: everything is stale
+    real_load = enrich.load
+    monkeypatch.setattr(enrich, "load", lambda n: {**real_load(n), "enrich": {**real_load(n)["enrich"], "backend": "gemini"}}
+                        if n == "models" else real_load(n))                 # the cost gate is for the paid API
     stopped = enrich.enrich_pending("2026-10", upgrade=True)             # redo needs --yes
     assert stopped["ran"] is False and stopped["estimate"]["docs"] == 2

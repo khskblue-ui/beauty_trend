@@ -12,7 +12,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 from . import store
 from .config import load
-from .llm import LLMError, generate_json
+from .llm import LLMError, PendingLLM, generate_json
 from .util import kst_date, now_kst, utcnow_iso
 
 log = logging.getLogger(__name__)
@@ -166,6 +166,8 @@ def enrich_doc(doc: dict, ledger: str | None = None) -> dict | None:
               f"[제목] {doc['title']}\n[본문]\n{text[:6000]}")
     try:
         call = generate_json(load("models")["enrich"], prompt, SCHEMA, SYSTEM, ledger)
+    except PendingLLM:
+        return "pending"
     except LLMError as e:
         log.warning("enrich failed %s: %s", doc["doc_id"], e)
         return None
@@ -267,14 +269,18 @@ def enrich_pending(month: str | None = None, limit: int | None = None,
             calls.append(d)
             idx.add(d)
     est = estimate(len(calls))
-    if (upgrade or est["krw"] > load("models")["enrich"].get("confirm_over_krw", 3000)) and not yes:
+    paid = load("models")["enrich"].get("backend", "gemini") != "session"
+    if paid and (upgrade or est["krw"] > load("models")["enrich"].get("confirm_over_krw", 3000)) and not yes:
         return {"pending": len(todo), "llm_calls": len(calls), "copies": len(copies),
                 "estimate": est, "ran": False, "note": "예상 금액이 기준을 넘어 멈춤. --yes로 실행"}
     ledger = str(store.data_dir() / "llm_ledger" / f"{now_kst():%Y-%m}.jsonl")
-    ok = fail = 0
+    ok = fail = waiting = 0
     done_recs: dict[str, dict] = {}
     with ThreadPoolExecutor(max_workers=workers) as pool:
         for d, rec in zip(calls, pool.map(lambda x: enrich_doc(x, ledger), calls)):
+            if rec == "pending":          # session backend: request written, answer not in yet
+                waiting += 1
+                continue
             if rec is None:
                 fail += 1
                 continue
@@ -290,4 +296,4 @@ def enrich_pending(month: str | None = None, limit: int | None = None,
         store.write_json(f"enriched/{doc_month(d)}/{d['doc_id']}.json", copy_record(d, rec))
         copied += 1
     return {"pending": len(todo), "enriched": ok, "copied": copied, "failed": fail,
-            "estimate": est, "ran": True}
+            "waiting_for_answers": waiting, "estimate": est if paid else None, "ran": True}

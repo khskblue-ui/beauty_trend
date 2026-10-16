@@ -1,9 +1,9 @@
-# 매일 수집 + enrich. 결과(본문 제외)는 data 브랜치에 커밋, 본문은 비공개 아티팩트.
+# 예비용 수집(수동 실행만). 2026-10-16부터 매일 수집과 정리는 Claude 작업 세션이 맡는다
+# (docs/session_routine.md). 같은 기사를 Actions가 먼저 받으면 세션에 본문이 없어 정리 품질이
+# 떨어지므로 일정 실행은 끈다. 모델 호출(enrich)도 하지 않는다.
 name: collect-daily
 
 on:
-  schedule:
-    - cron: "17 21 * * *"   # 06:17 KST
   workflow_dispatch:
     inputs:
       only:
@@ -26,7 +26,6 @@ jobs:
       DATA_DIR: data
       NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
       NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
-      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: ./.github/actions/data-branch
@@ -41,8 +40,6 @@ jobs:
         # backfill: re-read the last 3 days of each source archive so a failed run
         # or a feed that rotates quickly does not lose articles (known ones are skipped)
         run: python -m trend collect ${ONLY:+--only "$ONLY"} --backfill-since "$(TZ=Asia/Seoul date -d '3 days ago' +%F)"
-      - name: Enrich new documents
-        run: python -m trend enrich
       - name: Upload article bodies (private, not committed)
         uses: actions/upload-artifact@v4
         with:
