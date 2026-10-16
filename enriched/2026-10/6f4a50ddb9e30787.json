@@ -1,0 +1,45 @@
+{
+ "doc_id": "6f4a50ddb9e30787",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newspim.com/news/view/20261014000159",
+ "title": "지방공항 5대 관광권에 4100억 투입…관광·전시· 뷰티 키운다",
+ "summary": "7%포인트(p) 높인 데 대해 \"이는 세계 및 주요 선진국 평균 상향폭을 크게 상회하는 것으로, 반도체 수출 ... [사진=CJ올리브영 제공] K - 뷰티 분야에서는 피부 데이터뱅크를 AI 학습에 적합한 형태로 개편하고 맞춤형...",
+ "published_at": "2026-10-14T08:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "맞춤형 화장품",
+   "인공지능 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부 또는 관련 기관이 지방공항 관광권 육성과 함께 뷰티 분야에서 피부 데이터뱅크 개편 및 맞춤형 서비스 지원을 추진한다.",
+  "key_fact_quote": "K - 뷰티 분야에서는 피부 데이터뱅크를 AI 학습에 적합한 형태로 개편하고 맞춤형...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:31+00:00",
+ "had_body": false
+}

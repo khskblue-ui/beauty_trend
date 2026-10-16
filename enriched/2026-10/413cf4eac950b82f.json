@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "business",
+  "category": "fragrance",
   "event_type": "business",
   "countries": [
    "CH"
@@ -26,17 +26,18 @@
   ],
   "keywords": [
    "파인 프래그런스",
-   "향료 업계 실적",
-   "매출 성장"
+   "향료 산업"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "스위스 향료 기업 지보단이 파인 프래그런스 부문의 성장에 힘입어 예상보다 좋은 실적을 거두었다.",
+  "key_fact": "지보단의 매출이 파인 프래그런스 부문의 성장에 힘입어 예상치를 상회했다.",
   "key_fact_quote": "The Swiss flavours and fragrance company reported better-than-expected revenue for January to September 2026, driven by growth in its fine fragrances arm",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:53+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:02+00:00",
  "had_body": false
 }

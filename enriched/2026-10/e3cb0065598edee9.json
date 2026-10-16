@@ -1,0 +1,55 @@
+{
+ "doc_id": "e3cb0065598edee9",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100054",
+ "title": "아모레퍼시픽, 세계화장품학회서 AI기반 미래뷰티 연구성과 공개",
+ "summary": "아모레퍼시픽이 세계 최대 화장품 학회인 'IFSCC Congress 2026'에서 AI와 디지털 기술을 활용한 피부과학 및 소비자 연구 성과를 발표했다. 현장에서 피부 노화 예측, 디지털 사용감 평가, 글로벌 소비자 연구 등을 공개하며 예측과 정량화, 데이터 기반 소비자 이해로 확장하는 미래 뷰티 연구 방향을 제시했다.올해 IFSCC(International Federation of Societies of Cosmetic Chemists)는 'Solving the Sustainable Beauty Equatio",
+ "published_at": "2026-10-02T09:47:47+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "AU",
+   "BR",
+   "MX"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "피부과학",
+   "더마코스메틱",
+   "열노화"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아모레퍼시픽이 세계 최대 화장품 학회에서 인공지능과 디지털 기술을 활용한 피부과학 및 소비자 연구 성과를 발표했다.",
+  "key_fact_quote": "아모레퍼시픽이 세계 최대 화장품 학회인 'IFSCC Congress 2026'에서 AI와 디지털 기술을 활용한 피부과학 및 소비자 연구 성과를 발표했다.",
+  "events": [
+   {
+    "name": "IFSCC Congress 2026",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-01",
+    "place": "호주 퍼스(Perth)",
+    "quote": "올해 IFSCC(International Federation of Societies of Cosmetic Chemists)는 'Solving the Sustainable Beauty Equation'을 주제로 호주 퍼스(Perth)에서 9월 28일부터 10월 1일(현지시간)까지 진행됐다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:12+00:00",
+ "had_body": true
+}

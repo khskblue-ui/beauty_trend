@@ -6,11 +6,11 @@
  "lang": "ko",
  "url": "http://www.newsdream.kr/news/articleView.html?idxno=119477",
  "title": "LF 불리, 펜 타입 롤온 오일 향수 국내 첫 출시…휴대성∙지속력 강화",
- "summary": "신제품 은 오일 제형 향수 '윌 더블먼트 컨센트레'와 전용 케이스 '르 스틸로 아 빌 오도리페랑'으로 구성됐다. 두 제품을 결합하면 펜 형태의 '센티드 펜'이 완성되며, 롤온 팁을 통해 손목이나 목덜미 등에 문질러 바를 수...",
+ "summary": "향료 농도와 에몰리언트 성분을 강화해 피부 밀착력과 보습감을 높였으며, 잔향이 최대 8시간가량 지속되는 것이 특징이다. 향은 기존 클래식 오 트리쁠 라인의 대표 제품인 '이리 드 말트', '앙브르 드 마다가스카르...",
  "published_at": "2026-10-07T09:02:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "향수 신제품",
+ "query": "향료",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -29,33 +29,33 @@
   "keywords": [
    "롤온 오일 향수",
    "오일 향수",
-   "센티드 펜"
+   "펜 타입 향수"
   ],
   "is_press_release": true,
   "products": [
    {
-    "name": "윌 더블먼트 컨센트레",
+    "name": "펜 타입 롤온 오일 향수",
     "brand": "불리",
     "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "르 스틸로 아 빌 오도리페랑",
-    "brand": "불리",
-    "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "LF 불리, 펜 타입 롤온 오일 향수 국내 첫 출시…휴대성∙지속력 강화",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "엘에프 불리가 펜 타입 롤온 오일 향수를 국내에 처음으로 선보인다.",
+  "key_fact": "LF가 전개하는 불리가 휴대성과 지속력을 강화한 펜 타입의 롤온 오일 향수를 국내에 처음 선보였다.",
   "key_fact_quote": "LF 불리, 펜 타입 롤온 오일 향수 국내 첫 출시…휴대성∙지속력 강화",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "에몰리언트",
+    "quote": "향료 농도와 에몰리언트 성분을 강화해 피부 밀착력과 보습감을 높였으며, 잔향이 최대 8시간가량 지속되는 것이 특징이다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:35+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:36+00:00",
  "had_body": false
 }

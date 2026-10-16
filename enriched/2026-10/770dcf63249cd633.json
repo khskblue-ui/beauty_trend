@@ -15,29 +15,43 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "business",
+  "category": "fragrance",
   "event_type": "business",
   "countries": [
-   "CH"
+   "CH",
+   "FR",
+   "ES"
   ],
   "brands": [],
   "companies": [
    "Givaudan",
-   "Eurofragance"
+   "Eurofragance",
+   "dsm-firmenich"
   ],
   "keywords": [
-   "파인 향수",
-   "향료 산업",
-   "실적 발표"
+   "향수 산업",
+   "파인 프래그런스",
+   "기능성 향료",
+   "향료 기업"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "지보단이 향수 부문의 견인에 힘입어 시장 기대치를 상회하는 분기 매출 성장을 기록했다.",
-  "key_fact_quote": "Le fabricant suisse de parfums, arômes et ingrédients Givaudan a publié mardi 13 octobre un chiffre d’affaires sur neuf mois meilleur qu’attendu.",
+  "key_fact": "지보단이 파인 프래그런스 부문의 강세에 힘입어 시장 기대치를 웃도는 개월 실적을 기록했다.",
+  "key_fact_quote": "Le fabricant suisse de parfums, arômes et ingrédients Givaudan a publié mardi 13 octobre un chiffre d'affaires sur neuf mois meilleur qu'attendu.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:57+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:59+00:00",
  "had_body": true
 }

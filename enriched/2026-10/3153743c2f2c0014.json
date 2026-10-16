@@ -15,8 +15,8 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "regulation",
-  "event_type": "regulation",
+  "category": "business",
+  "event_type": "business",
   "countries": [
    "KR"
   ],
@@ -25,16 +25,27 @@
   "keywords": [
    "맞춤형 화장품",
    "메디컬 뷰티",
-   "화장품 안전성 평가제도"
+   "초개인화 뷰티",
+   "피부진단"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "정부가 화장품 제조 중심 산업을 인공지능과 데이터가 결합된 고부가가치 신서비스 산업으로 확장하기 위한 지원방안을 발표했다.",
+  "key_fact": "정부는 화장품 산업을 인공지능과 데이터가 결합된 고부가가치 서비스 산업으로 확장하기 위한 지원방안을 발표했다.",
   "key_fact_quote": "정부가 10월 14일(목) 이형일 부총리 겸 재정경제부 장관 주재로 개최된 경제관계장관회의 겸 서비스산업발전 TF에서 ‘AI·융복합 K-뷰티 서비스 지원방안’을 발표하였다.",
+  "events": [
+   {
+    "name": "경제관계장관회의 겸 서비스산업발전 TF",
+    "start_date": "2026-10-14",
+    "end_date": null,
+    "place": null,
+    "quote": "정부가 10월 14일(목) 이형일 부총리 겸 재정경제부 장관 주재로 개최된 경제관계장관회의 겸 서비스산업발전 TF에서 ‘AI·융복합 K-뷰티 서비스 지원방안’을 발표하였다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:42+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:54+00:00",
  "had_body": true
 }

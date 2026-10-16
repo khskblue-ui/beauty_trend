@@ -1,0 +1,63 @@
+{
+ "doc_id": "6c4eff081530ba58",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.yna.co.kr/view/AKR20261001042200030?input=1195m",
+ "title": "에이지투웨니스, '스킨 퍼스트 메이크업'으로 브랜드 개편",
+ "summary": "방문객은 대표 제품인 '시그니처 에센스 팩트'와 신제품 '스킨 퍼스트 히든 프렙 파운데이션 팩트'를 비롯해 립과 블러셔 등 다양한 색조 화장품 을 체험할 수 있다. 인공지능(AI)을 활용해 피부에 어울리는 색상을 찾는...",
+ "published_at": "2026-10-01T09:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이지투웨니스"
+  ],
+  "companies": [],
+  "keywords": [
+   "색조 화장품",
+   "파운데이션 팩트",
+   "브랜드 개편"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "시그니처 에센스 팩트",
+    "brand": "에이지투웨니스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스킨 퍼스트 히든 프렙 파운데이션 팩트",
+    "brand": "에이지투웨니스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이지투웨니스가 스킨 퍼스트 메이크업으로 브랜드를 개편했다.",
+  "key_fact_quote": "에이지투웨니스, '스킨 퍼스트 메이크업'으로 브랜드 개편",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:31+00:00",
+ "had_body": false
+}

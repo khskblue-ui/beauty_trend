@@ -21,22 +21,35 @@
    "KR"
   ],
   "brands": [],
-  "companies": [
-   "양구군"
-  ],
+  "companies": [],
   "keywords": [
+   "조향 교육",
    "전문조향사",
-   "에센셜오일",
-   "조향 교육"
+   "에센셜오일"
   ],
   "is_press_release": true,
   "products": [],
   "key_fact": "양구군이 주민 창업을 지원하기 위한 전문조향사 양성교육을 시작한다.",
   "key_fact_quote": "양구군, 주민 창업 '전문조향사' 양성교육 12일 시작",
+  "events": [
+   {
+    "name": "분석조향 전문과정",
+    "start_date": "2026-10-26",
+    "end_date": "2026-10-29",
+    "place": null,
+    "quote": "이어 26일부터 29일까지 진행되는 분석조향 전문과정에서는 양구군이 확보하고 있는 식물 에센셜오일의 과학적..."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "에센셜오일",
+    "quote": "이어 26일부터 29일까지 진행되는 분석조향 전문과정에서는 양구군이 확보하고 있는 식물 에센셜오일의 과학적..."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:31+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:26+00:00",
  "had_body": false
 }

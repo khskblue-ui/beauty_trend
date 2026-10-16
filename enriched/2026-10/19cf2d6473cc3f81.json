@@ -1,0 +1,48 @@
+{
+ "doc_id": "19cf2d6473cc3f81",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etoday.co.kr/news/view/2633285",
+ "title": "톤28, 롯데월드몰 팝업에 1만 명 방문… 전국에서 홈 뷰티 디바이스 1천...",
+ "summary": "지난 9월 UNPACK을 통해 선공개한 신제품 이 2시간 만에 품절된 데 이어 이번 오프라인 팝업에서도 목표... 팝업에서는 ‘디바이스를 이긴 톤28의 블루펩타이드’라는 메시지를 활용한 ‘ 뷰티 디바이스 반납...",
+ "published_at": "2026-10-07T11:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "톤28"
+  ],
+  "companies": [],
+  "keywords": [
+   "팝업스토어",
+   "홈 뷰티 디바이스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "톤이십팔이 롯데월드몰 팝업스토어에서 홈 뷰티 디바이스 반납 행사를 진행하며 많은 방문객을 모았다.",
+  "key_fact_quote": "톤28, 롯데월드몰 팝업에 1만 명 방문… 전국에서 홈 뷰티 디바이스 1천...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "블루펩타이드",
+    "quote": "팝업에서는 ‘디바이스를 이긴 톤28의 블루펩타이드’라는 메시지를 활용한 ‘ 뷰티 디바이스 반납..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:57+00:00",
+ "had_body": false
+}

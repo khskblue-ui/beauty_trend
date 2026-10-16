@@ -29,8 +29,8 @@
   ],
   "keywords": [
    "럭셔리 뷰티",
-   "립밤",
-   "향수"
+   "향수",
+   "립밤"
   ],
   "is_press_release": true,
   "products": [
@@ -38,7 +38,8 @@
     "name": "립 젤리",
     "brand": "프라다",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "대표상품으로는 프라다의 시그니처 트라이앵글 패키지 립밤 신제품 인 ‘립 젤리’가 있다.",
     "notes": [],
     "notes_quote": null
    },
@@ -46,17 +47,20 @@
     "name": "패러독스 오 드 퍼퓸",
     "brand": "프라다",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "광주신세계가 화장품 수요를 겨냥해 럭셔리 뷰티 브랜드를 대거 오픈한다.",
+  "key_fact": "광주신세계가 화장품 수요를 잡기 위해 럭셔리 뷰티 브랜드를 대거 오픈한다.",
   "key_fact_quote": "“화장품 수요 잡는다”…광주신세계, 럭셔리 뷰티 브랜드 대거 오픈",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:24+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:33+00:00",
  "had_body": false
 }

@@ -1,0 +1,67 @@
+{
+ "doc_id": "e622dea4a3aa6285",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58453",
+ "title": "대한화장품학회, ‘피부 건강과 미용을 위한 통합 과학(Holistic Beauty Science)’ 포럼",
+ "summary": "[코스인코리아닷컴 권태흥 기자]대한화장품학회는 지난 9월 8일 더플라자호텔 다이아몬드홀에서 ‘피부 건강과 미용을 위한 통합 과학(Holistic Beauty Science)’를 주제로 포럼을 개최했다. 이번 포럼은 2026년 화장품의 날 및 글로벌 화장품 규제기관장 회의(GCORAS) 출범 행사의 일환으로 K-뷰티의 과학적 실증 기반을 확인할 수 있는 자리",
+ "published_at": "2026-10-06T17:39:48+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품학회",
+   "선진뷰티사이언스",
+   "한국콜마",
+   "지에프씨생명과학",
+   "엘지생활건강",
+   "서울대학교병원"
+  ],
+  "keywords": [
+   "홀리스틱 뷰티",
+   "크림 미스트",
+   "스킨 프랩",
+   "나노 유화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한화장품학회는 피부 건강과 미용을 위한 통합 과학을 주제로 포럼을 열고 홀리스틱 뷰티와 크림 미스트의 콜로이드 과학 기술 등을 논의했다.",
+  "key_fact_quote": "대한화장품학회는 지난 9월 8일 더플라자호텔 다이아몬드홀에서 ‘피부 건강과 미용을 위한 통합 과학(Holistic Beauty Science)’를 주제로 포럼을 개최했다.",
+  "events": [
+   {
+    "name": "‘피부 건강과 미용을 위한 통합 과학(Holistic Beauty Science)’ 포럼",
+    "start_date": "2026-09-08",
+    "end_date": null,
+    "place": "더플라자호텔 다이아몬드홀",
+    "quote": "대한화장품학회는 지난 9월 8일 더플라자호텔 다이아몬드홀에서 ‘피부 건강과 미용을 위한 통합 과학(Holistic Beauty Science)’를 주제로 포럼을 개최했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "식물 유래 세포외소포체",
+    "quote": "차세대 화장품 소재로서의 식물 유래 세포외소포체: 피부장벽 과학에서 코스메틱 혁신까지_ 지에프씨생명과학 김미정 연구소장"
+   },
+   {
+    "name": "콜라겐",
+    "quote": "또 정신적 스트레스를 받으면 코르티솔(Cortisol) 호르몬이 분비되어 피부 장벽을 약화시키고 콜라겐 분해 및 피지 분비를 촉진한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:31+00:00",
+ "had_body": true
+}

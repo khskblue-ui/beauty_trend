@@ -6,56 +6,35 @@
  "lang": "ko",
  "url": "https://www.sportsworldi.com/newsView/20260923512085",
  "title": "이너퍼퓸 시대의 역설…“이너퍼퓸 사용의 주의점은”",
- "summary": "얼굴뿐만 아니라 몸 관리에까지 관심이 확대되면서 향수와 유사한 형태로 미스트 형태로 뿌리거나 오일을... 팬티라이너를 출시 했다. 어라운드 바디 는 2018년부터 위생용품만 연구·개발해온 곳으로 2023년 금속유기골격체...",
+ "summary": "향료 알레르겐 규제 강화 흐름 속, 원인 차단형 소재 적용 제품 등장 닥터지혜(Dr.JIHE) \"냄새는 관리의 문제가... 유럽연합은 2023년 화장품 규정을 개정해 표시 의무 대상 향료 알레르겐을 기존 26종에서 80여 종으로...",
  "published_at": "2026-09-23T14:30:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "바디미스트 출시",
+ "query": "향료",
  "doc_type": null,
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "body",
-  "event_type": "market_trend",
-  "countries": [
-   "KR"
-  ],
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [],
   "brands": [
-   "어라운드 바디"
+   "닥터지혜",
+   "Dr.JIHE"
   ],
-  "companies": [
-   "어라운드 바디"
-  ],
+  "companies": [],
   "keywords": [
    "이너퍼퓸",
-   "팬티라이너",
-   "바디 관리"
+   "향료 알레르겐 규제"
   ],
   "is_press_release": false,
-  "products": [
-   {
-    "name": "팬티라이너",
-    "brand": "어라운드 바디",
-    "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "팬티라이너를 출시 했다.",
-    "notes": [],
-    "notes_quote": null
-   }
-  ],
-  "key_fact": "몸 관리에 대한 관심 확대로 이너퍼퓸 관련 제품이 주목받고 있다.",
-  "key_fact_quote": "얼굴뿐만 아니라 몸 관리에까지 관심이 확대되면서 향수와 유사한 형태로 미스트 형태로 뿌리거나 오일을...",
-  "events": [],
-  "ingredients": [
-   {
-    "name": "금속유기골격체",
-    "quote": "어라운드 바디 는 2018년부터 위생용품만 연구·개발해온 곳으로 2023년 금속유기골격체..."
-   }
-  ],
+  "products": [],
+  "key_fact": "유럽연합의 화장품 규정 개정 등 향료 알레르겐 규제 강화 흐름 속에서 원인 차단형 소재를 적용한 제품이 등장하고 있다.",
+  "key_fact_quote": "향료 알레르겐 규제 강화 흐름 속, 원인 차단형 소재 적용 제품 등장",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:39+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:15:56+00:00",
  "had_body": false
 }

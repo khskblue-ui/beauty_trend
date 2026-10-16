@@ -1,0 +1,44 @@
+{
+ "doc_id": "11ad8ad671aa5170",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/kiehl-s-opens-european-flagship-in-london",
+ "title": "Kiehl’s opens European flagship in the heart of London",
+ "summary": "The L'Oréal-owned skin care brand’s 1,300sqft store has been built on Carnaby Street, London, UK, and features ‘Derma Readers’ – advanced skin analysis devices",
+ "published_at": "2026-10-01T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "GB"
+  ],
+  "brands": [],
+  "companies": [
+   "L'Oréal"
+  ],
+  "keywords": [
+   "플래그십 스토어",
+   "스킨케어",
+   "피부 분석"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "키엘이 영국 런던 카너비 스트리트에 유럽 플래그십 매장을 열었다.",
+  "key_fact_quote": "Kiehl’s opens European flagship in the heart of London",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:22+00:00",
+ "had_body": false
+}

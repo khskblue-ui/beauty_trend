@@ -1,0 +1,54 @@
+{
+ "doc_id": "b02dde29ab8eaf36",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/sb-founded/6307888",
+ "title": "\"가짜 K - 뷰티 ·푸드, 가격까지 베꼈다\"…중기부·지재처, 보호망 구축",
+ "summary": "중소벤처기업부와 지식재산처가 수출 기업의 피해를 줄이기 위해 해외 거점을 연결하고 공동 대응에 나선다.... 정부가 제시한 피해 사례에서 K - 뷰티 브랜드 조선미녀의 '맑은 쌀 선크림' 위조품은 제품 외관뿐 아니라 용기...",
+ "published_at": "2026-10-02T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "조선미녀"
+  ],
+  "companies": [],
+  "keywords": [
+   "위조품 대응",
+   "수출 기업 보호",
+   "지식재산 보호"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "맑은 쌀 선크림",
+    "brand": "조선미녀",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "정부 부처들이 수출 기업의 피해를 줄이고 위조품에 공동 대응하기 위해 보호망 구축에 나섰다.",
+  "key_fact_quote": "중소벤처기업부와 지식재산처가 수출 기업의 피해를 줄이기 위해 해외 거점을 연결하고 공동 대응에 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:55+00:00",
+ "had_body": false
+}

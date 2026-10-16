@@ -1,0 +1,51 @@
+{
+ "doc_id": "b9b222df4106de66",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gukjenews.com/news/articleView.html?idxno=3706800",
+ "title": "르셀르, 향수 부터 공간 향기까지… '디어 화이트 멀티퍼퓸' 출시",
+ "summary": "이번 신제품 은 피부와 머릿결, 패브릭, 공간 등 다양한 용도로 사용할 수 있는 50ml 멀티퍼퓸이다. 손목과 목에 향수 처럼 사용하거나 머릿결과 옷에 가볍게 분사할 수 있으며, 침실과 드레스룸 등 머무는 공간에도 향기를...",
+ "published_at": "2026-09-28T09:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "르셀르"
+  ],
+  "companies": [],
+  "keywords": [
+   "멀티퍼퓸",
+   "향수",
+   "공간 향기"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "디어 화이트 멀티퍼퓸",
+    "brand": "르셀르",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "르셀르가 피부와 머릿결 및 공간 등에 다양하게 사용할 수 있는 디어 화이트 멀티퍼퓸을 출시했다.",
+  "key_fact_quote": "르셀르, 향수 부터 공간 향기까지… '디어 화이트 멀티퍼퓸' 출시",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:56+00:00",
+ "had_body": false
+}

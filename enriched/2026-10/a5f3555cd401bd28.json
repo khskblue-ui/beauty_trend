@@ -1,0 +1,66 @@
+{
+ "doc_id": "a5f3555cd401bd28",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53644",
+ "title": "[코스모닝] 어노브 ‘하이드라코트 글로우 헤어 마스크’",
+ "summary": "어노브(UNOVE)가 ‘하이드라코트 글로우 헤어 마스크’를 선보인다. 이 제품은 얇고 건조한 모발에 수분을 집중 공급한다. 히알루론산 8종과 단백질 복합체가 푸석한 모발을 촉촉하고 윤기있게 가꾼다. 고농축 수분밤 제형이 밀착해 모발 표면을 매끄럽게 정돈한다. 향은 어노브를 대표하는 로지 아우라(Rosy Aura)를 적용했다. 우아한 장미와 싱그러운 베리 향",
+ "published_at": "2026-10-06T16:14:37+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어노브",
+   "UNOVE"
+  ],
+  "companies": [],
+  "keywords": [
+   "헤어 마스크",
+   "수분밤"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "하이드라코트 글로우 헤어 마스크",
+    "brand": "어노브",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "어노브(UNOVE)가 ‘하이드라코트 글로우 헤어 마스크’를 선보인다.",
+    "notes": [
+     "장미",
+     "베리"
+    ],
+    "notes_quote": "향은 어노브를 대표하는 로지 아우라(Rosy Aura)를 적용했다. 우아한 장미와 싱그러운 베리 향기가 은은하고 감각적인 잔향을 남긴다."
+   }
+  ],
+  "key_fact": "어노브가 모발에 수분을 공급하고 로지 아우라 향을 적용한 헤어 마스크를 선보인다.",
+  "key_fact_quote": "어노브(UNOVE)가 ‘하이드라코트 글로우 헤어 마스크’를 선보인다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "히알루론산 8종과 단백질 복합체가 푸석한 모발을 촉촉하고 윤기있게 가꾼다."
+   },
+   {
+    "name": "단백질 복합체",
+    "quote": "히알루론산 8종과 단백질 복합체가 푸석한 모발을 촉촉하고 윤기있게 가꾼다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:30+00:00",
+ "had_body": true
+}

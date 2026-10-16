@@ -15,12 +15,11 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "skincare",
+  "category": "business",
   "event_type": "market_trend",
   "countries": [
    "BE",
-   "KR",
-   "CN"
+   "KR"
   ],
   "brands": [
    "설화수",
@@ -29,13 +28,12 @@
   "companies": [],
   "keywords": [
    "성분 스토리텔링",
-   "효능 검증",
-   "인디 브랜드",
-   "소비자 리뷰"
+   "소비자 리뷰",
+   "인디 브랜드"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "벨기에 소비자들은 한국 화장품의 품질과 성분을 높이 평가하지만 한류 이미지보다 실제 효능과 성분 설명 및 사용자 후기를 중시해 제품을 선택하고 있다.",
+  "key_fact": "벨기에 소비자들은 한국 화장품의 품질과 성분을 긍정적으로 평가하지만 한류 이미지보다 실제 효능과 검증된 사용자 후기를 중심으로 제품을 선택하는 것으로 나타났다.",
   "key_fact_quote": "벨기에 소비자를 인터뷰 결과 현지 소비자들은 K-뷰티에 대해 긍정적으로 평가하면서도 국가 이미지보다 성분, 사용감, 가격 대비 품질, 실제 사용자 후기를 중심으로 제품을 선택하는 것으로 나타났다.",
   "events": [],
   "ingredients": [
@@ -56,6 +54,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:37+00:00",
+ "enriched_at": "2026-10-15T15:27:26+00:00",
  "had_body": true
 }

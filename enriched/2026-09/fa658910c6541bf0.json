@@ -1,0 +1,39 @@
+{
+ "doc_id": "fa658910c6541bf0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.job-post.co.kr/news/articleView.html?idxno=227972",
+ "title": "향수 만들며 업무 스트레스 '쉼표'…용산구, 직원 청렴교육도 바꿨다",
+ "summary": "참여자들은 전문 조향사 의 설명을 들으며 자신이 선호하는 향과 현재의 감정 상태를 살펴보고 여러 향을 직접 조합해 자신만의 향수를 완성했다. 향을 선택하고 조합하는 과정에는 '쉼·회복·배려·존중·신뢰'라는 의미를...",
+ "published_at": "2026-09-17T13:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "향수 만들기",
+   "청렴 교육"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "용산구가 직원 청렴교육의 일환으로 조향사와 함께 향수를 만드는 프로그램을 진행했다.",
+  "key_fact_quote": "참여자들은 전문 조향사 의 설명을 들으며 자신이 선호하는 향과 현재의 감정 상태를 살펴보고 여러 향을 직접 조합해 자신만의 향수를 완성했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:44+00:00",
+ "had_body": false
+}

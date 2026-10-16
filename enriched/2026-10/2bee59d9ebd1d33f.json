@@ -1,0 +1,44 @@
+{
+ "doc_id": "2bee59d9ebd1d33f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261001000188",
+ "title": "[2026 전남광주뷰티산업전] 스킨핏, AI 피부진단 기반 맞춤형 뷰티 솔루...",
+ "summary": "메이크업 △ 향수 ·아로마 △미용기기·에스테틱 △뷰티 디바이스·뷰티테크 △화장품 원료·패키징 등이다. 참가 기업에게는 해외 바이어 및 유통 관계자와의 비즈니스 상담, 제품 및 브랜드 홍보, 세미나, 기업 간...",
+ "published_at": "2026-10-01T11:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "스킨핏"
+  ],
+  "keywords": [
+   "맞춤형 뷰티",
+   "뷰티테크",
+   "피부진단"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "전남광주뷰티산업전에서 스킨핏이 인공지능 피부진단 기반의 맞춤형 뷰티 솔루션을 소개한다.",
+  "key_fact_quote": "[2026 전남광주뷰티산업전] 스킨핏, AI 피부진단 기반 맞춤형 뷰티 솔루...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:16+00:00",
+ "had_body": false
+}

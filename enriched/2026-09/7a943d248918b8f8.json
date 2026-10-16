@@ -1,0 +1,54 @@
+{
+ "doc_id": "7a943d248918b8f8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kbsm.net/news/view.php?idx=534797",
+ "title": "레드벨벳 웬디, 글램미(GLAMME)서 아프리모 '더바디' 향수 소개",
+ "summary": "'더바디'는 머스크 향료 를 기반으로 한 향수로, 여성용과 남성용으로 각각 출시됐다. 웬디는 여성용에 대해 \"머스크향에 복숭아 향이 섞이면서 발효된 진한 복숭아 와인 같은 농밀한 향이 느껴진다\"고 설명했고, 남성용에...",
+ "published_at": "2026-09-18T09:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아프리모"
+  ],
+  "companies": [],
+  "keywords": [
+   "머스크 향수",
+   "여성용 향수",
+   "남성용 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "더바디",
+    "brand": "아프리모",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "머스크",
+     "복숭아"
+    ],
+    "notes_quote": "'더바디'는 머스크 향료 를 기반으로 한 향수로, 여성용과 남성용으로 각각 출시됐다. 웬디는 여성용에 대해 \"머스크향에 복숭아 향이 섞이면서 발효된 진한 복숭아 와인 같은 농밀한 향이 느껴진다\"고 설명했고, 남성용에..."
+   }
+  ],
+  "key_fact": "레드벨벳 웬디가 방송에서 아프리모의 머스크 기반 향수인 더바디를 소개했다.",
+  "key_fact_quote": "레드벨벳 웬디, 글램미(GLAMME)서 아프리모 '더바디' 향수 소개",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:16:24+00:00",
+ "had_body": false
+}

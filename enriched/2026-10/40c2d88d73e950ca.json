@@ -1,0 +1,66 @@
+{
+ "doc_id": "40c2d88d73e950ca",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.econovill.com/news/articleView.html?idxno=752632",
+ "title": "한미사이언스, 스킨케어 라인업 확대…'레티노에이트크림' 출시",
+ "summary": "이번에 출시 된 '레티노에이트크림'은 차세대 레티노이드 유도체 'HPR'(Hydroxypinacolone Retinoate)이 적용됐다.... 고기능성 화장품 수요도 함께 확대되고 있다\"고 진단했다. 이어 \"외국인 관광객의 피부과 방문과 약국 이용이...",
+ "published_at": "2026-10-02T16:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한미사이언스"
+  ],
+  "keywords": [
+   "스킨케어",
+   "고기능성 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "레티노에이트크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "한미사이언스, 스킨케어 라인업 확대…'레티노에이트크림' 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "한미사이언스가 스킨케어 라인업을 확대하며 신제품 크림을 출시했다.",
+  "key_fact_quote": "한미사이언스, 스킨케어 라인업 확대…'레티노에이트크림' 출시",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레티노이드 유도체",
+    "quote": "이번에 출시 된 '레티노에이트크림'은 차세대 레티노이드 유도체 'HPR'(Hydroxypinacolone Retinoate)이 적용됐다."
+   },
+   {
+    "name": "HPR",
+    "quote": "이번에 출시 된 '레티노에이트크림'은 차세대 레티노이드 유도체 'HPR'(Hydroxypinacolone Retinoate)이 적용됐다."
+   },
+   {
+    "name": "Hydroxypinacolone Retinoate",
+    "quote": "이번에 출시 된 '레티노에이트크림'은 차세대 레티노이드 유도체 'HPR'(Hydroxypinacolone Retinoate)이 적용됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:43+00:00",
+ "had_body": false
+}

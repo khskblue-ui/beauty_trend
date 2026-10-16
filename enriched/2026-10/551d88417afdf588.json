@@ -1,0 +1,47 @@
+{
+ "doc_id": "551d88417afdf588",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=280111",
+ "title": "친환경 뷰티에 글로벌 ODM 더했다…웅진휴캄·코스맥스 '시너지'",
+ "summary": "친환경 뷰티 화장품 기업 웅진휴캄이 최근 글로벌 화장품 연구·개발·생산(ODM) 기업 코스맥스와 화장품 ... 지난달 웅진은 자체 모빌리티 플랫폼에 AI를 접목한 'WDMS AI'를 정식 출시 했다. 차량 스펙과 정비 데이터...",
+ "published_at": "2026-10-13T14:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "웅진휴캄"
+  ],
+  "companies": [
+   "웅진휴캄",
+   "코스맥스",
+   "웅진"
+  ],
+  "keywords": [
+   "친환경 뷰티",
+   "화장품 ODM"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "친환경 뷰티 화장품 기업 웅진휴캄이 글로벌 화장품 ODM 기업 코스맥스와 협력을 추진한다.",
+  "key_fact_quote": "친환경 뷰티 화장품 기업 웅진휴캄이 최근 글로벌 화장품 연구·개발·생산(ODM) 기업 코스맥스와 화장품 ...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:57+00:00",
+ "had_body": false
+}

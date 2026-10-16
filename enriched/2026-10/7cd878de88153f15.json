@@ -24,12 +24,12 @@
    "아이오페"
   ],
   "companies": [
-   "아모레퍼시픽"
+   "아이오페"
   ],
   "keywords": [
    "더마 크림",
-   "피부 장벽 회복",
-   "다운타임 케어"
+   "스킨케어",
+   "장벽 회복"
   ],
   "is_press_release": true,
   "products": [
@@ -37,17 +37,33 @@
     "name": "어드밴스드덤 프로 리페어링 밴디지 크림",
     "brand": "아이오페",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "클리니컬 그레이드 스킨케어 브랜드 아이오페가 손상된 피부의 빠른 회복을 돕는 신제품 ‘어드밴스드덤 프로 리페어링 밴디지 크림’을 줄시한다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "아이오페가 손상된 피부 장벽의 회복과 시술 후 다운타임 케어를 돕는 신제품 크림을 선보인다.",
+  "key_fact": "아이오페가 손상된 피부 장벽 회복을 돕는 더마 크림 신제품을 출시했다.",
   "key_fact_quote": "클리니컬 그레이드 스킨케어 브랜드 아이오페가 손상된 피부의 빠른 회복을 돕는 신제품 ‘어드밴스드덤 프로 리페어링 밴디지 크림’을 줄시한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "EGF",
+    "quote": "여기에 EGF와 PDRN, 베타글루칸 등 리페어 액티브 성분도 담아 피부 장벽의 빠른 회복을 돕는다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "여기에 EGF와 PDRN, 베타글루칸 등 리페어 액티브 성분도 담아 피부 장벽의 빠른 회복을 돕는다."
+   },
+   {
+    "name": "베타글루칸",
+    "quote": "여기에 EGF와 PDRN, 베타글루칸 등 리페어 액티브 성분도 담아 피부 장벽의 빠른 회복을 돕는다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:49+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:59+00:00",
  "had_body": true
 }

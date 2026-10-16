@@ -1,0 +1,46 @@
+{
+ "doc_id": "945ab5b3b7f24d35",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.e-science.co.kr/news/articleView.html?idxno=135696",
+ "title": "다비디퓨저, 킹고스프링 투자 유치…향기 넘어 핸드크림·유럽 유통으로",
+ "summary": "식물성 발효주정을 기초 원료로 사용하고 조향사 이도겸 씨가 제품의 향을 직접 설계하는 방식으로 브랜드... 이도겸 조향사 는 \"조향 기술을 토대로 제품 완성도를 높이고 국내외 소비자가 일상에서 경험할 수 있는 향기...",
+ "published_at": "2026-09-17T14:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "다비디퓨저"
+  ],
+  "companies": [
+   "다비디퓨저",
+   "킹고스프링"
+  ],
+  "keywords": [
+   "투자 유치",
+   "핸드크림",
+   "조향 기술",
+   "디퓨저"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "다비디퓨저가 킹고스프링으로부터 투자를 유치하며 핸드크림 출시와 유럽 유통 등 사업 확장에 나선다.",
+  "key_fact_quote": "다비디퓨저, 킹고스프링 투자 유치…향기 넘어 핸드크림·유럽 유통으로",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:43+00:00",
+ "had_body": false
+}

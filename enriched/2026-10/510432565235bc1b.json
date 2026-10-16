@@ -1,0 +1,45 @@
+{
+ "doc_id": "510432565235bc1b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://magazine.hankyung.com/business/article/202610138629b",
+ "title": "아키그룹, 쇼피코리아 공식 파트너사 선정…K-뷰티·한국 병원 동남아 ...",
+ "summary": "이번 선정을 계기로 아키그룹은 한국 화장품 브랜드의 온라인 판매부터 오프라인 유통, 한국 병원의 글로벌... 상품 출시 를 준비하고 있다. 영어와 중국어는 물론 말레이시아어(바하사) 및 무슬림 고객을 고려한...",
+ "published_at": "2026-10-13T13:11:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아키그룹",
+   "쇼피코리아"
+  ],
+  "keywords": [
+   "온라인 유통",
+   "오프라인 유통",
+   "글로벌 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아키그룹이 쇼피코리아의 공식 파트너사로 선정되어 한국 화장품 브랜드의 동남아 유통 및 글로벌 진출을 지원한다.",
+  "key_fact_quote": "이번 선정을 계기로 아키그룹은 한국 화장품 브랜드의 온라인 판매부터 오프라인 유통, 한국 병원의 글로벌... 상품 출시 를 준비하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:00+00:00",
+ "had_body": false
+}

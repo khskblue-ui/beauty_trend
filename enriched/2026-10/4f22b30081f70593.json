@@ -1,0 +1,42 @@
+{
+ "doc_id": "4f22b30081f70593",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.breaknews.com/1243193",
+ "title": "푸드· 뷰티 ·바이오 수출 155억 달러 돌파..역대 최고 실적 행진",
+ "summary": "브레이크뉴스 정민우 기자= 푸드· 뷰티 ·바이오 등 K -소비재 3대 품목 수출 액이 지난 10년간 4배 이상 급증하며 역대 최대 실적 행진을 이어가고 있다. 미국과 유럽...",
+ "published_at": "2026-10-15T13:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "소비재 수출",
+   "뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티를 포함한 소비재 품목의 수출액이 급증하며 최대 실적을 기록하고 있다.",
+  "key_fact_quote": "푸드· 뷰티 ·바이오 등 K -소비재 3대 품목 수출 액이 지난 10년간 4배 이상 급증하며 역대 최대 실적 행진을 이어가고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:32+00:00",
+ "had_body": false
+}

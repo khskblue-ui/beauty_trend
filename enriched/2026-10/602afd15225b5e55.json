@@ -23,18 +23,20 @@
   "brands": [
    "센슬",
    "퍼글러",
-   "SENSEL",
-   "Fuggler"
+   "아모레퍼시픽",
+   "애경산업",
+   "에이피알"
   ],
   "companies": [
+   "센슬",
    "아모레퍼시픽",
    "애경산업",
    "에이피알"
   ],
   "keywords": [
    "캐릭터 콜라보",
-   "에디션 출시",
-   "뷰티 단독 론칭"
+   "단독 론칭",
+   "에디션 출시"
   ],
   "is_press_release": true,
   "products": [
@@ -42,17 +44,20 @@
     "name": "센슬 퀵 부스트 핑크 윙·퍼글러 에디션",
     "brand": "센슬",
     "launch_date": null,
+    "launch_status": "launched",
     "launch_quote": "뷰티 브랜드 센슬(SENSEL)은 글로벌 캐릭터 퍼글러(Fuggler)와 협업한 신제품 '센슬 퀵 부스트 핑크 윙·퍼글러 에디션'을 지난 12일 무신사...",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "뷰티 브랜드 센슬이 글로벌 캐릭터 퍼글러와 협업한 신제품 에디션을 무신사 뷰티를 통해 선보였다.",
+  "key_fact": "뷰티 브랜드 센슬이 글로벌 캐릭터 퍼글러와 협업한 신제품을 무신사 뷰티에 단독 론칭했다.",
   "key_fact_quote": "뷰티 브랜드 센슬(SENSEL)은 글로벌 캐릭터 퍼글러(Fuggler)와 협업한 신제품 '센슬 퀵 부스트 핑크 윙·퍼글러 에디션'을 지난 12일 무신사...",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:24+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:37+00:00",
  "had_body": false
 }

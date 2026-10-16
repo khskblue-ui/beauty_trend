@@ -1,0 +1,47 @@
+{
+ "doc_id": "e81a181dfef3554d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202610103369O",
+ "title": "시몬스, 롯데백화점 인천점에 ‘ 뷰티 레스트 블랙 팝업스토어’ 오픈",
+ "summary": "프레임 신제품 ‘비쓰리(B3)’와 트윈슈퍼싱글(TSS) 전용 프레임 ‘하우티’ 등을 전시한다. 2016년 출시 된 뷰티 레스트 블랙은 시몬스의 최상위 매트리스 라인이다. 국내 주요 특급호텔 스위트룸에 적용된 제품으로...",
+ "published_at": "2026-10-11T09:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "시몬스"
+  ],
+  "companies": [
+   "시몬스",
+   "롯데백화점"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "매트리스",
+   "침대 프레임"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "시몬스가 롯데백화점 인천점에 최상위 매트리스 라인 팝업스토어를 연다.",
+  "key_fact_quote": "시몬스, 롯데백화점 인천점에 ‘ 뷰티 레스트 블랙 팝업스토어’ 오픈",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:47+00:00",
+ "had_body": false
+}

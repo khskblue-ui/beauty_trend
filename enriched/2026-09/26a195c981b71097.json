@@ -1,0 +1,54 @@
+{
+ "doc_id": "26a195c981b71097",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=768548",
+ "title": "비더스킨, 추석 모공케어 세트 3종 특별전...이옴, 플럼핑 립 세럼 출시",
+ "summary": "사진=뉴셀렉트 뉴셀렉트가 전개하는 뷰티 브랜드 이옴이 입술 각질과 거칠음을 정돈하고 볼륨감 있는 립 컨디션을 연출하는 '이옴 보타이드 NAD 플럼핑 립 세럼'을 출시 했다. 신제품 은 보툴리눔 유래 펩타이드와 딥...",
+ "published_at": "2026-09-24T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비더스킨",
+   "이옴"
+  ],
+  "companies": [
+   "뉴셀렉트"
+  ],
+  "keywords": [
+   "립 세럼",
+   "플럼핑 립",
+   "모공케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "이옴 보타이드 NAD 플럼핑 립 세럼",
+    "brand": "이옴",
+    "launch_date": null,
+    "launch_quote": "뉴셀렉트가 전개하는 뷰티 브랜드 이옴이 입술 각질과 거칠음을 정돈하고 볼륨감 있는 립 컨디션을 연출하는 '이옴 보타이드 NAD 플럼핑 립 세럼'을 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 브랜드 이옴이 입술 케어와 볼륨감을 연출하는 플럼핑 립 세럼 신제품을 출시했다.",
+  "key_fact_quote": "뉴셀렉트가 전개하는 뷰티 브랜드 이옴이 입술 각질과 거칠음을 정돈하고 볼륨감 있는 립 컨디션을 연출하는 '이옴 보타이드 NAD 플럼핑 립 세럼'을 출시 했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:33+00:00",
+ "had_body": false
+}

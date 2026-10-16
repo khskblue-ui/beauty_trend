@@ -1,0 +1,54 @@
+{
+ "doc_id": "10a71e8a6adb4f53",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=868569",
+ "title": "소노시즌, 뷰티 ·퍼스널 케어 진출",
+ "summary": "소노시즌 '피톤치드 리츄얼 페이셜 클렌저' /소노트리니티그룹 제공 | 서울=한스경제 김종효 기자 | 소노트리니티그룹 소노스퀘어의 라이프스타일 브랜드 소노시즌이 신제품 을 출시 하며 뷰티 ·퍼스널 케어 영역으로...",
+ "published_at": "2026-09-29T08:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "소노시즌"
+  ],
+  "companies": [
+   "소노트리니티그룹",
+   "소노스퀘어"
+  ],
+  "keywords": [
+   "퍼스널 케어",
+   "페이셜 클렌저",
+   "피톤치드"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "피톤치드 리츄얼 페이셜 클렌저",
+    "brand": "소노시즌",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "소노시즌이 페이셜 클렌저 신제품을 출시하며 뷰티 및 퍼스널 케어 분야로 진출했다.",
+  "key_fact_quote": "소노트리니티그룹 소노스퀘어의 라이프스타일 브랜드 소노시즌이 신제품 을 출시 하며 뷰티 ·퍼스널 케어 영역으로...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:22+00:00",
+ "had_body": false
+}

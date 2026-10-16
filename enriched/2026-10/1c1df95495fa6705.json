@@ -1,0 +1,44 @@
+{
+ "doc_id": "1c1df95495fa6705",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2476740",
+ "title": "신상 화장품 도 무신사서 먼저···\"10·30 업고 선론칭 월 100개\"",
+ "summary": "화장품 론칭의 '첫 무대'로 무신사가 떠오르고 있다. 2일 무신사에 따르면 지난 1월부터 지난달까지 기준... 무신사는 자체 콘텐츠 제작과 온라인 판매, 오프라인 팝업을 연계해 신제품 을 알릴 수 있다는 점도 선론칭...",
+ "published_at": "2026-10-02T17:35:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "선론칭",
+   "신상 화장품",
+   "오프라인 팝업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 론칭의 첫 무대로 무신사가 주목받고 있다.",
+  "key_fact_quote": "화장품 론칭의 '첫 무대'로 무신사가 떠오르고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:11+00:00",
+ "had_body": false
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "840d5f06d2452b53",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261014_0003825202",
+ "title": "화장품 매출 46% 쑤욱…신세계免, 첫 '신면세일' 통했다",
+ "summary": "이번 행사에서는 화장품과 향수 가 가장 높은 성장률을 기록했다. 해당 상품군의 일평균 매출은 행사 전 대비 46% 증가했다. 국산 화장품 매출도 16% 늘었다. 브랜드 별로는 연작이 34%, 어뮤즈가 21% 증가했다. 패션잡화...",
+ "published_at": "2026-10-14T10:13:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "연작",
+   "어뮤즈"
+  ],
+  "companies": [
+   "신세계면세점"
+  ],
+  "keywords": [
+   "면세점 세일",
+   "화장품 매출",
+   "향수 매출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "신세계면세점 행사에서 화장품과 향수 품목이 높은 성장률을 보였다.",
+  "key_fact_quote": "이번 행사에서는 화장품과 향수 가 가장 높은 성장률을 기록했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:58+00:00",
+ "had_body": false
+}

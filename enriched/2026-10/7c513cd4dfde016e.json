@@ -1,0 +1,62 @@
+{
+ "doc_id": "7c513cd4dfde016e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.metroseoul.co.kr/article/20261007500375",
+ "title": "아모레퍼시픽, '해피바스' 산양유...\"온 가족 보습 뷰티 \"",
+ "summary": "고보습 뷰티 를 제안한다. 아모레퍼시픽은 해피바스 신제품 으로 오리지널 컬렉션 '산양유 바디워시'와 '산양유 바디로션'을 출시 했다고 7일 밝혔다. '산양유 바디워시'는 산양유 성분에 시어버터와 코코넛 오일을 결합해...",
+ "published_at": "2026-10-07T15:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "해피바스"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "보습 뷰티",
+   "바디워시",
+   "바디로션"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아모레퍼시픽의 해피바스가 산양유 바디워시와 산양유 바디로션 신제품을 출시했다.",
+  "key_fact_quote": "아모레퍼시픽은 해피바스 신제품 으로 오리지널 컬렉션 '산양유 바디워시'와 '산양유 바디로션'을 출시 했다고 7일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "산양유",
+    "quote": "'산양유 바디워시'는 산양유 성분에 시어버터와 코코넛 오일을 결합해..."
+   },
+   {
+    "name": "시어버터",
+    "quote": "'산양유 바디워시'는 산양유 성분에 시어버터와 코코넛 오일을 결합해..."
+   },
+   {
+    "name": "코코넛 오일",
+    "quote": "'산양유 바디워시'는 산양유 성분에 시어버터와 코코넛 오일을 결합해..."
+   }
+  ],
+  "dropped": [
+   "product:오리지널 컬렉션 산양유 바디워시",
+   "product:오리지널 컬렉션 산양유 바디로션"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:57+00:00",
+ "had_body": false
+}

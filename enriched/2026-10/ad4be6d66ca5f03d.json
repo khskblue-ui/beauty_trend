@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "skincare",
+  "category": "business",
   "event_type": "business",
   "countries": [],
   "brands": [
@@ -27,17 +27,18 @@
   ],
   "keywords": [
    "피부과 스킨케어",
-   "인수 합병",
-   "더마코스메틱"
+   "기업 인수"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "갈더마가 피부과 스킨케어 분야에서의 입지를 강화하기 위해 지오 스킨 헬스를 인수한다.",
+  "key_fact": "갈더마가 더마 스킨케어 부문 강화를 위해 지오 스킨 헬스를 인수한다.",
   "key_fact_quote": "Galderma to Acquire ZO Skin Health for $1.5 Billion",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:09:12+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:41+00:00",
  "had_body": false
 }

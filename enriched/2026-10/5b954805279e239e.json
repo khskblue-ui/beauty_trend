@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "skincare",
+  "category": "business",
   "event_type": "business",
   "countries": [
    "KR"
@@ -26,8 +26,8 @@
   ],
   "keywords": [
    "홈 뷰티 디바이스",
-   "의료기기 사업 확대",
-   "기능성 스킨케어"
+   "의료기기",
+   "스킨케어"
   ],
   "is_press_release": false,
   "products": [
@@ -59,7 +59,7 @@
     "notes_quote": null
    }
   ],
-  "key_fact": "에이피알이 화장품과 홈 뷰티 디바이스에 이어 의료기기로 사업 영역을 확장하며 글로벌 시장을 공략하고 있다.",
+  "key_fact": "에이피알이 화장품과 홈 뷰티 디바이스를 넘어 의료기기까지 사업 영역을 확장하며 글로벌 사업을 넓히고 있다.",
   "key_fact_quote": "김병훈 에이피알 대표이사가 화장품 과 홈 뷰티 디바이스를 넘어 의료기기까지 사업 영역을 확대하며 글로벌...",
   "events": [],
   "ingredients": [
@@ -80,6 +80,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:51:09+00:00",
+ "enriched_at": "2026-10-15T15:24:03+00:00",
  "had_body": false
 }

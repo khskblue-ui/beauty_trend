@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "ingredient",
-  "event_type": "ingredient",
+  "event_type": "market_trend",
   "countries": [],
   "brands": [],
   "companies": [
@@ -24,16 +24,28 @@
   ],
   "keywords": [
    "천연 실리콘 대체제",
-   "뷰티 원료"
+   "클린 뷰티",
+   "화장품 원료"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "천연 실리콘 대체제가 뷰티 업계에서 주목받고 있다.",
+  "key_fact": "천연 실리콘 대체재가 뷰티 산업에서 주목받고 있다.",
   "key_fact_quote": "Why natural silicone alternatives are gaining ground in beauty",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Natural silicone alternatives",
+    "quote": "Natural silicone alternatives offer the beauty industry an opportunity to move the silicones conversation on from ‘free from’ to ‘better with’, writes Andrei Slipchenko, Director of Regulatory and IP Strategy at SMEY"
+   },
+   {
+    "name": "silicones",
+    "quote": "Natural silicone alternatives offer the beauty industry an opportunity to move the silicones conversation on from ‘free from’ to ‘better with’, writes Andrei Slipchenko, Director of Regulatory and IP Strategy at SMEY"
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:39+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:00+00:00",
  "had_body": false
 }

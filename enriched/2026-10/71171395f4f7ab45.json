@@ -1,0 +1,53 @@
+{
+ "doc_id": "71171395f4f7ab45",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.metroseoul.co.kr/article/20261012500198",
+ "title": "킨텍스, 15~17일 K - 뷰티 엑스포 개최…15개국 679개사 참가",
+ "summary": "올해는 역대 최대 규모인 1088개 부스가 마련되며, 60개국 220개 해외 바이어 기업을 초청해 국내 뷰티 기업의 수출 과 판로 개척을 지원한다. 킨텍스는 12일 올해 18회째를 맞는 K - 뷰티 엑스포에 국내 기업 597개사와 해외...",
+ "published_at": "2026-10-12T12:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "킨텍스"
+  ],
+  "keywords": [
+   "뷰티 엑스포",
+   "해외 바이어",
+   "판로 개척",
+   "뷰티 박람회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "킨텍스에서 국내 뷰티 기업의 수출과 판로 개척을 지원하는 뷰티 엑스포가 개최된다.",
+  "key_fact_quote": "킨텍스는 12일 올해 18회째를 맞는 K - 뷰티 엑스포에 국내 기업 597개사와 해외...",
+  "events": [
+   {
+    "name": "K - 뷰티 엑스포",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": "킨텍스",
+    "quote": "킨텍스, 15~17일 K - 뷰티 엑스포 개최…15개국 679개사 참가"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:09+00:00",
+ "had_body": false
+}

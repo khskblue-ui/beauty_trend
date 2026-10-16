@@ -1,0 +1,52 @@
+{
+ "doc_id": "6a32c0b3d823deb8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://byline.network/?p=9004111222619403",
+ "title": "올리브영 천국 홍대 앞에 던진 무신사 뷰티의 승부수",
+ "summary": "대표적인 예시로는 일본 스나이델뷰티, 중국 색조 브랜드 플라워노즈·인투유(INTO YOU)·아즈텍(AZTK), 프랑스 니치 향수 브랜드 에따 리브르 도랑쥬가 있습니다. 이들 브랜드도 실제 오프라인에서 소비자를 만나기...",
+ "published_at": "2026-09-11T18:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP",
+   "CN",
+   "FR"
+  ],
+  "brands": [
+   "스나이델뷰티",
+   "플라워노즈",
+   "인투유",
+   "아즈텍",
+   "에따 리브르 도랑쥬"
+  ],
+  "companies": [
+   "올리브영",
+   "무신사"
+  ],
+  "keywords": [
+   "색조 브랜드",
+   "니치 향수 브랜드",
+   "오프라인 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티가 홍대 상권에서 다양한 글로벌 색조 및 니치 향수 브랜드를 선보이며 오프라인 접점을 확대하고 있다.",
+  "key_fact_quote": "대표적인 예시로는 일본 스나이델뷰티, 중국 색조 브랜드 플라워노즈·인투유(INTO YOU)·아즈텍(AZTK), 프랑스 니치 향수 브랜드 에따 리브르 도랑쥬가 있습니다. 이들 브랜드도 실제 오프라인에서 소비자를 만나기...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:22+00:00",
+ "had_body": false
+}

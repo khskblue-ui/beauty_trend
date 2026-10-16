@@ -1,0 +1,62 @@
+{
+ "doc_id": "5b56cbaec9622af3",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100078",
+ "title": "K-뷰티 베트남 시장 공략 본격화, 호치민 판매장 개소",
+ "summary": "한국보건산업진흥원(원장 고상백, 이하 진흥원)은 10월 4일(일, 현지시간) 베트남 호치민의 복합문화공간 ‘더 뉴 플레이그라운드(The New Playground)’에 K-뷰티 상설 판매장 '위디(WEEDY)'를 개소할 예정이라고 밝혔다.이번 판매장 개소는「2026년 중소화장품 해외진출 지원사업」의 일환으로 추진된다. K-뷰티에 대한 관심이 높고 온라인 유통시장이 빠르게 성장하고 있는 베트남에 국내 화장품 기업의 안정적인 유통 거점을 마련하고, 현지 소비자 및 바이어와의 접점을 확대하기 위해 기획됐다.K-뷰티 호치민",
+ "published_at": "2026-10-02T09:41:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "VN"
+  ],
+  "brands": [
+   "위디"
+  ],
+  "companies": [
+   "한국보건산업진흥원"
+  ],
+  "keywords": [
+   "상설 판매장",
+   "해외진출 지원사업",
+   "수출상담회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국보건산업진흥원이 베트남 호치민 복합문화공간에 국내 중소 화장품 기업의 유통 거점 역할을 할 상설 판매장 위디를 개소한다.",
+  "key_fact_quote": "한국보건산업진흥원(원장 고상백, 이하 진흥원)은 10월 4일(일, 현지시간) 베트남 호치민의 복합문화공간 ‘더 뉴 플레이그라운드(The New Playground)’에 K-뷰티 상설 판매장 '위디(WEEDY)'를 개소할 예정이라고 밝혔다.",
+  "events": [
+   {
+    "name": "K-뷰티 상설 판매장 '위디(WEEDY)' 개소식",
+    "start_date": "2026-10-04",
+    "end_date": null,
+    "place": "베트남 호치민의 복합문화공간 ‘더 뉴 플레이그라운드(The New Playground)’",
+    "quote": "한국보건산업진흥원(원장 고상백, 이하 진흥원)은 10월 4일(일, 현지시간) 베트남 호치민의 복합문화공간 ‘더 뉴 플레이그라운드(The New Playground)’에 K-뷰티 상설 판매장 '위디(WEEDY)'를 개소할 예정이라고 밝혔다."
+   },
+   {
+    "name": "K-뷰티 나이트 인 베트남",
+    "start_date": "2026-10-03",
+    "end_date": null,
+    "place": null,
+    "quote": "판매장 개소에 앞서 10월 3일(토)에는 연계행사인 「K-뷰티 나이트 인 베트남」을 개최한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:16+00:00",
+ "had_body": true
+}

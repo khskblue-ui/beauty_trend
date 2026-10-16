@@ -1,0 +1,56 @@
+{
+ "doc_id": "c79c66db34a5f37d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sentv.co.kr/article/view/sentv202610080179",
+ "title": "신라면세점, 화장품 매출 두 자릿수 성장…단독 뷰티 상품 확대",
+ "summary": "주요 화장품 브랜드와 협업해 단독 구성 상품을 선보이며 고객 선택의 폭을 넓히고 있다. 메이크업 브랜드 메이크업포에버는 신라면세점 전용으로 '아티스트 컬러 글로우 립 밤'의 신규 컬러 2종을 출시 한다. '페스티벌...",
+ "published_at": "2026-10-08T17:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메이크업포에버"
+  ],
+  "companies": [
+   "신라면세점"
+  ],
+  "keywords": [
+   "면세점 전용 상품",
+   "단독 구성 상품",
+   "립 밤"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아티스트 컬러 글로우 립 밤",
+    "brand": "메이크업포에버",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "메이크업 브랜드 메이크업포에버는 신라면세점 전용으로 '아티스트 컬러 글로우 립 밤'의 신규 컬러 2종을 출시 한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신라면세점은 주요 화장품 브랜드와 협업해 단독 구성 상품을 선보이며 고객 선택의 폭을 넓히고 있다.",
+  "key_fact_quote": "주요 화장품 브랜드와 협업해 단독 구성 상품을 선보이며 고객 선택의 폭을 넓히고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:14+00:00",
+ "had_body": false
+}

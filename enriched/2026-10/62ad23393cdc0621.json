@@ -1,0 +1,65 @@
+{
+ "doc_id": "62ad23393cdc0621",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1413744",
+ "title": "광주신세계, 럭셔리 코스메틱 라인업 대폭 강화",
+ "summary": "프랑스 럭셔리 뷰티 브랜드 '겔랑'은 립밤부터 오일 세럼, 향수 까지 다채로운 제품군을 구성했다. 원료 본연의 향을 강조한 '라르&라 마티에르' 라인과 함께 깊고 우아한 잔향이 특징인 'NEW 뢰르 블루 오 드 퍼퓸'을...",
+ "published_at": "2026-10-12T13:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "겔랑"
+  ],
+  "companies": [
+   "광주신세계"
+  ],
+  "keywords": [
+   "럭셔리 뷰티",
+   "향수 라인업",
+   "코스메틱 매장"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "라르&라 마티에르",
+    "brand": "겔랑",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "NEW 뢰르 블루 오 드 퍼퓸",
+    "brand": "겔랑",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "광주신세계는 프랑스 뷰티 브랜드 겔랑 등의 입점을 통해 럭셔리 화장품 라인업을 강화하고 향수를 비롯한 다채로운 제품군을 선보인다.",
+  "key_fact_quote": "광주신세계, 럭셔리 코스메틱 라인업 대폭 강화\n프랑스 럭셔리 뷰티 브랜드 '겔랑'은 립밤부터 오일 세럼, 향수 까지 다채로운 제품군을 구성했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:03+00:00",
+ "had_body": false
+}

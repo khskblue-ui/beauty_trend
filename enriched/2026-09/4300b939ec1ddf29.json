@@ -1,0 +1,53 @@
+{
+ "doc_id": "4300b939ec1ddf29",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.segye.com/newsView/20260929504147?OutUrl=naver",
+ "title": "일상으로 확장하는 뷰티…이종 브랜드 협업 ‘활발’ [트렌드]",
+ "summary": "눈가 등 주름이 고민되는 부위를 집중적으로 관리할 수 있도록 개발했으며, 향료 를 첨가하지 않았다. 세르본은 오는 10월 9일 롯데홈쇼핑 ‘광클절’ 방송을 통해 신제품을 처음 선보이고 안티에이징 제품군을 지속해서...",
+ "published_at": "2026-09-30T09:41:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "세르본"
+  ],
+  "companies": [
+   "롯데홈쇼핑"
+  ],
+  "keywords": [
+   "안티에이징",
+   "무향 화장품",
+   "이종 브랜드 협업"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "신제품",
+    "brand": "세르본",
+    "launch_date": "2026-10-09",
+    "launch_quote": "세르본은 오는 10월 9일 롯데홈쇼핑 ‘광클절’ 방송을 통해 신제품을 처음 선보이고",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "세르본이 향료를 첨가하지 않고 주름 부위를 관리하는 안티에이징 신제품을 방송을 통해 선보인다.",
+  "key_fact_quote": "세르본은 오는 10월 9일 롯데홈쇼핑 ‘광클절’ 방송을 통해 신제품을 처음 선보이고 안티에이징 제품군을 지속해서...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:15:48+00:00",
+ "had_body": false
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "bbdc6ecbffdf1cee",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sportschosun.com/entertainment/2026-10-10/202610100100065680004249",
+ "title": "'66세' 정보석, 알고보니 화장품 CEO..은지원 요청에 ' 신제품 개발'까지...",
+ "summary": "그는 \"지금 제가 신제품 개발 중\"이라며 새로운 제품을 준비하고 있다고 밝혔다. 이를 들은 은지원은 \"화장이 되면서 화장품 이 되는 건 없냐\"고 재치 있는 질문을 던졌다. 화장과 스킨케어를 동시에 해결할 수 있는 제품이...",
+ "published_at": "2026-10-10T23:37:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "신제품 개발",
+   "스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배우 정보석이 화장품 신제품을 개발 중이라고 밝혔다.",
+  "key_fact_quote": "그는 \"지금 제가 신제품 개발 중\"이라며 새로운 제품을 준비하고 있다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:37+00:00",
+ "had_body": false
+}

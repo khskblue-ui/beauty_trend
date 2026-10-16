@@ -1,0 +1,62 @@
+{
+ "doc_id": "5010d4361ddfc9a6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.iminju.net/news/articleView.html?idxno=169974",
+ "title": "앳홈, 모공 관리 초점 '톰 NMN' 세럼·크림 출시",
+ "summary": "라인 신제품 2종을 출시했다. 신제품 은 'NMN 10X 포텐좀™ 포어 리프팅 세럼'(30ml)과 'NMN 10X 포텐좀™ 포어... 두 제품은 모두 미백·주름 개선 2중 기능성 화장품 이다. 인체적용시험을 통해 세로·가로·사선 모공과...",
+ "published_at": "2026-09-23T12:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "톰"
+  ],
+  "companies": [
+   "앳홈"
+  ],
+  "keywords": [
+   "모공 관리",
+   "세럼",
+   "크림",
+   "기능성 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "NMN 10X 포텐좀™ 포어 리프팅 세럼",
+    "brand": "톰",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "NMN 10X 포텐좀™ 포어",
+    "brand": "톰",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "앳홈이 모공 관리에 초점을 맞춘 기능성 세럼과 크림 신제품을 출시했다.",
+  "key_fact_quote": "앳홈, 모공 관리 초점 '톰 NMN' 세럼·크림 출시",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:46+00:00",
+ "had_body": false
+}

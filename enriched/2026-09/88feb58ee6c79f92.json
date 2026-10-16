@@ -1,0 +1,53 @@
+{
+ "doc_id": "88feb58ee6c79f92",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=118589",
+ "title": "JW중외제약, 화장품 영역 진출…'아이쓱 눈꺼풀 클리너' 2종 출시",
+ "summary": "민감한 눈가 피부를 고려해 인공 향료 와 색소를 배제하고 피부 자극 테스트를 거쳤다. 해당 제품은 전국 약국 채널을 통해 공급된다. JW중외제약은 최근 '프렌즈'의 브랜드 아이덴티티(BI)를 개편하며 인공눈물과...",
+ "published_at": "2026-09-21T09:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프렌즈"
+  ],
+  "companies": [
+   "JW중외제약"
+  ],
+  "keywords": [
+   "눈꺼풀 클리너",
+   "무향 화장품",
+   "약국 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아이쓱 눈꺼풀 클리너",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "JW중외제약이 화장품 영역에 진출하며 아이쓱 눈꺼풀 클리너를 출시했다.",
+  "key_fact_quote": "JW중외제약, 화장품 영역 진출…'아이쓱 눈꺼풀 클리너' 2종 출시",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:16:14+00:00",
+ "had_body": false
+}

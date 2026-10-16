@@ -1,0 +1,59 @@
+{
+ "doc_id": "1ed67698ac4a26ef",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=576984&class=17&grp=",
+ "title": "\"얼굴만 챙기나요\"…뷰티업계, 환절기 바디케어 공략",
+ "summary": "산양유는 염소에서 얻는 유성 원료로 지방과 단백질, 유당, 미네랄 등을 함유하고 있으며 화장품 에서는 피부에 보습감과 부드러운 사용감을 더하는 원료로 활용된다. 해피바스는 이번 신제품 에 산양유를 적용해 건조한...",
+ "published_at": "2026-10-07T15:15:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "해피바스"
+  ],
+  "companies": [],
+  "keywords": [
+   "바디케어",
+   "산양유 화장품",
+   "보습"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "신제품",
+    "brand": "해피바스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "해피바스는 이번 신제품 에 산양유를 적용해 건조한...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티업계가 환절기를 맞아 바디케어 시장 공략에 나서고 있다.",
+  "key_fact_quote": "\"얼굴만 챙기나요\"…뷰티업계, 환절기 바디케어 공략",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "산양유",
+    "quote": "산양유는 염소에서 얻는 유성 원료로 지방과 단백질, 유당, 미네랄 등을 함유하고 있으며 화장품 에서는 피부에 보습감과 부드러운 사용감을 더하는 원료로 활용된다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:00+00:00",
+ "had_body": false
+}

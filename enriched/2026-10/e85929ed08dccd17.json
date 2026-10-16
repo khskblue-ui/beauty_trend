@@ -1,0 +1,45 @@
+{
+ "doc_id": "e85929ed08dccd17",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thebigdata.co.kr/view.php?ud=202610021507373576bbceadc3c9_23",
+ "title": "CJ올리브영, K 뷰티 흐름 전하는 한·영·일 뉴스룸 선봬…소비자 관심도...",
+ "summary": "K 뷰티 에딧'을 론칭 하는 등 글로벌 온·오프라인 영토를 넓히고 있다. CJ올리브영은 글로벌 소비자의 관심도 단순 제품 구매를 넘어 최신 뷰티 트렌드와 신생 브랜드 스토리 등 K 뷰티 자체를 깊이 이해하려는 정보...",
+ "published_at": "2026-10-02T15:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "CJ올리브영"
+  ],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "K 뷰티",
+   "뷰티 트렌드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "CJ올리브영이 한국 뷰티 트렌드를 전하는 다국어 뉴스룸을 선보이며 글로벌 소통을 강화한다.",
+  "key_fact_quote": "CJ올리브영, K 뷰티 흐름 전하는 한·영·일 뉴스룸 선봬…소비자 관심도...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:53+00:00",
+ "had_body": false
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "9aede4dfd0dfe576",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7177",
+ "title": "[패션뷰티 돋보기] CJ올리브영은 해외로·아이오페는 더마·이랜드는 겨...",
+ "summary": "뷰티·패션업계가 해외 유통망 확대와 기능성 화장품 출시, 겨울 신상품 판매 등으로 시장 공략에 나서고... 신제품 은 피부과 시술 후 자극받은 피부의 회복 기간을 고려해 개발됐다. 특허 출원 기술인 'Active-Bandage...",
+ "published_at": "2026-10-12T14:35:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오페"
+  ],
+  "companies": [
+   "CJ올리브영",
+   "이랜드"
+  ],
+  "keywords": [
+   "기능성 화장품",
+   "더마 코스메틱"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티와 패션업계가 해외 유통망 확장 및 기능성 화장품 출시를 통해 시장 공략에 나서고 있다.",
+  "key_fact_quote": "뷰티·패션업계가 해외 유통망 확대와 기능성 화장품 출시, 겨울 신상품 판매 등으로 시장 공략에 나서고...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:39+00:00",
+ "had_body": false
+}

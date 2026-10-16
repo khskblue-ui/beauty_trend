@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "hair",
+  "category": "ingredient",
   "event_type": "ingredient",
   "countries": [
    "KR"
@@ -27,9 +27,9 @@
    "엔엠"
   ],
   "keywords": [
-   "탈모 케어",
-   "두피 케어",
-   "화장품 신소재"
+   "천연물",
+   "탈모 완화",
+   "두피 케어"
   ],
   "is_press_release": true,
   "products": [
@@ -37,17 +37,20 @@
     "name": "두피 케어 신제품",
     "brand": "플로라랩",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "upcoming",
+    "launch_quote": "엔엠은 해당 신소재를 자체 뷰티 브랜드 '플로라랩'의 두피 케어 신제품 에 적용해 시장에 공급할 예정이다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "엔엠이 신약개발 인공지능 스크리닝 기술을 화장품에 적용해 발굴한 신소재를 자체 뷰티 브랜드 두피 케어 신제품에 적용해 출시할 계획이다.",
+  "key_fact": "엔엠이 신약개발 인공지능 스크리닝 기술을 화장품 분야에 적용해 국내 자생 천연물에서 발굴한 탈모 관련 신소재를 두피 케어 제품에 적용한다.",
   "key_fact_quote": "엔엠은 해당 신소재를 자체 뷰티 브랜드 '플로라랩'의 두피 케어 신제품 에 적용해 시장에 공급할 예정이다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:04+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:05+00:00",
  "had_body": false
 }

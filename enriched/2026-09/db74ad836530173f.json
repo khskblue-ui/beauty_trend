@@ -1,0 +1,53 @@
+{
+ "doc_id": "db74ad836530173f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://swtvnews.com/news/newsview.php?ncode=1065572506572144",
+ "title": "샤넬, ‘코코 마드모아젤 크러쉬 압솔뤼’ 향수 출시",
+ "summary": "샤넬은 코코 마드모아젤 컬렉션에서 6년 만에 프루티 앰버 프래그런스 향수 신제품 ‘코코 마드모아젤 크러쉬 압솔뤼’ 출시와 함께 뮤지션 그레이시 에이브럼스를 모델로 한 신규 캠페인을 공개했다고 1일 밝혔다. ‘코코...",
+ "published_at": "2026-09-01T11:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "샤넬"
+  ],
+  "companies": [
+   "샤넬"
+  ],
+  "keywords": [
+   "프루티 앰버",
+   "향수 신제품",
+   "신규 캠페인"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "코코 마드모아젤 크러쉬 압솔뤼",
+    "brand": "샤넬",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "프루티 앰버"
+    ],
+    "notes_quote": "샤넬은 코코 마드모아젤 컬렉션에서 6년 만에 프루티 앰버 프래그런스 향수 신제품 ‘코코 마드모아젤 크러쉬 압솔뤼’ 출시와 함께 뮤지션 그레이시 에이브럼스를 모델로 한 신규 캠페인을 공개했다고 1일 밝혔다."
+   }
+  ],
+  "key_fact": "샤넬이 새로운 프루티 앰버 향수 신제품 출시와 함께 모델을 앞세운 신규 캠페인을 공개했다.",
+  "key_fact_quote": "샤넬은 코코 마드모아젤 컬렉션에서 6년 만에 프루티 앰버 프래그런스 향수 신제품 ‘코코 마드모아젤 크러쉬 압솔뤼’ 출시와 함께 뮤지션 그레이시 에이브럼스를 모델로 한 신규 캠페인을 공개했다고 1일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:59+00:00",
+ "had_body": false
+}

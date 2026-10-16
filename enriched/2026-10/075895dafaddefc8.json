@@ -18,19 +18,24 @@
   "category": "makeup",
   "event_type": "product_launch",
   "countries": [
-   "FR"
+   "FR",
+   "HK"
   ],
   "brands": [
-   "Kure Bazaar"
+   "Kure Bazaar",
+   "Fiabila",
+   "dsm-firmenich"
   ],
   "companies": [
-   "Fiabila"
+   "Kure Bazaar",
+   "Fiabila",
+   "dsm-firmenich"
   ],
   "keywords": [
-   "바이오 기반 포뮬러",
+   "바이오소싱",
    "클린 뷰티",
-   "네일 케어",
-   "세미 퍼머넌트 젤"
+   "세미 퍼머넌트 젤",
+   "네일 케어"
   ],
   "is_press_release": false,
   "products": [
@@ -38,17 +43,63 @@
     "name": "Biogel Keratine",
     "brand": "Kure Bazaar",
     "launch_date": "2026-09",
-    "launch_quote": "It was launched in late September 2026 at Maison Kure Bazaar, 165 rue Saint Honoré, in central Paris, as well as at the Bon Marché department store, at a new dedicated corner.",
+    "launch_status": "launched",
+    "launch_quote": "The brand has unveiled Biogel Keratine, the first semi-permanent gel free from any controversial ingredients.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Biogel Cleaner",
+    "brand": "Kure Bazaar",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Biogel Remover",
+    "brand": "Kure Bazaar",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "쿠어 바자는 유해 논란 성분을 배제하고 식물성 케라틴을 결합한 전문가용 클린 세미 퍼머넌트 젤 바이오젤 케라틴을 공개했다.",
+  "key_fact": "쿠어 바자는 유해 논란 성분을 배제하고 식물성 케라틴과 비타민을 함유한 전문가용 클린 세미 퍼머넌트 젤 네일 제품을 선보였다.",
   "key_fact_quote": "The brand has unveiled Biogel Keratine, the first semi-permanent gel free from any controversial ingredients.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "TPO",
+    "quote": "“We had already been working on a professional formula for a few years, because I dreamed of offering in our stores the long-wear and shine performance of a professional semi-permanent gel that would not be a hybrid product and would offer a clean, TPO- and HEMA-free formula."
+   },
+   {
+    "name": "HEMA",
+    "quote": "“We had already been working on a professional formula for a few years, because I dreamed of offering in our stores the long-wear and shine performance of a professional semi-permanent gel that would not be a hybrid product and would offer a clean, TPO- and HEMA-free formula."
+   },
+   {
+    "name": "plant-based keratin",
+    "quote": "The formula combines plant-based keratin and antioxidant vitamin E to strengthen and protect the nail structure, and is based on the exclusive PO-X technology based on the use of next generation, non-aggressive, non-sensitizing oligomers."
+   },
+   {
+    "name": "vitamin E",
+    "quote": "The formula combines plant-based keratin and antioxidant vitamin E to strengthen and protect the nail structure, and is based on the exclusive PO-X technology based on the use of next generation, non-aggressive, non-sensitizing oligomers."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:02+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:06+00:00",
  "had_body": true
 }

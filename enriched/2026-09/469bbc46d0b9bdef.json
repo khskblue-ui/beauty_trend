@@ -1,0 +1,51 @@
+{
+ "doc_id": "469bbc46d0b9bdef",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.e2news.com/news/articleView.html?idxno=333868",
+ "title": "디올 뷰티, 골드빛 광채 담은 '쟈도르 쉬머링 헤어 미스트' 선봬",
+ "summary": "이번 헤어 미스트 출시를 통해 향수 를 넘어 일상에서 다양하게 활용할 수 있는 제품군을 확대했다. 신제품 은 디올 뷰티 온라인 부티크와 전국 백화점 크리스챤 디올 뷰티 매장, 디올 뷰티 부티크 등 66개 오프라인 매장을...",
+ "published_at": "2026-09-03T14:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "디올 뷰티",
+   "크리스챤 디올 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "헤어 미스트",
+   "향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "쟈도르 쉬머링 헤어 미스트",
+    "brand": "디올 뷰티",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디올 뷰티가 골드빛 광채를 담은 헤어 미스트 신제품을 선보이며 제품군을 확대했다.",
+  "key_fact_quote": "디올 뷰티, 골드빛 광채 담은 '쟈도르 쉬머링 헤어 미스트' 선봬",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:45+00:00",
+ "had_body": false
+}

@@ -1,0 +1,52 @@
+{
+ "doc_id": "4a3020c7eb2aabd1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=119586",
+ "title": "신라면세점, 개별여행객 뷰티 수요 증가에 단독 기획 상품 확대",
+ "summary": "카페인')을 출시 했다. 해당 제품은 국내 면세점 중 신라면세점 서울점과 신라인터넷면세점에서만 단독 유통된다. 온라인 채널인 신라인터넷면세점에서는 국내 기초 화장품 브랜드의 단독 기획 세트를 선보인다. 설화수는...",
+ "published_at": "2026-10-08T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "신라면세점",
+   "설화수"
+  ],
+  "companies": [
+   "신라면세점"
+  ],
+  "keywords": [
+   "면세점 뷰티",
+   "단독 기획 상품",
+   "기초 화장품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "신라면세점은 개별여행객의 뷰티 수요 증가에 맞춰 단독 기획 상품을 확대한다.",
+  "key_fact_quote": "신라면세점, 개별여행객 뷰티 수요 증가에 단독 기획 상품 확대",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "카페인",
+    "quote": "카페인')을 출시 했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:25+00:00",
+ "had_body": false
+}

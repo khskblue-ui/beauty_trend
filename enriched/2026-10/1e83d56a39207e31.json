@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "skincare",
-  "event_type": "event",
+  "event_type": "business",
   "countries": [
    "KR"
   ],
@@ -27,7 +27,8 @@
   "keywords": [
    "스킨케어",
    "슬로우에이징",
-   "팝업"
+   "팝업 운영",
+   "피부 컨디셔닝"
   ],
   "is_press_release": true,
   "products": [
@@ -41,7 +42,7 @@
     "notes_quote": null
    }
   ],
-  "key_fact": "스킨케어 브랜드 시오라가 성수동에서 팝업을 운영하며 제품군 확대와 해외 유통 파트너십을 추진한다.",
+  "key_fact": "스킨케어 브랜드 시오라가 성수동에서 팝업을 운영하며 제품군을 확장하고 해외 유통 파트너십을 추진한다.",
   "key_fact_quote": "스킨케어 브랜드 시오라, 성수동 팝업 운영...'슬로우에이징 부스터 앰...",
   "events": [],
   "ingredients": [],
@@ -49,6 +50,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:28+00:00",
+ "enriched_at": "2026-10-15T15:26:19+00:00",
  "had_body": false
 }

@@ -1,0 +1,45 @@
+{
+ "doc_id": "307475ace9f4ae72",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202609171282O",
+ "title": "다비디퓨저, 킹고스프링 LIPS 투자 유치…국내외 시장 진출 확대 추진",
+ "summary": "이도겸 대표이사가 조향사 로 제품 개발에 직접 참여하며, 고객의 취향과 브랜드 콘셉트에 맞춘 커스터마이징 제품과 캐릭터 콘텐츠 협업 제품 등을 선보여 왔다. 회사 측에 따르면 자사몰을 통한 재구매 비율이 높은...",
+ "published_at": "2026-09-17T14:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "다비디퓨저"
+  ],
+  "companies": [
+   "다비디퓨저",
+   "킹고스프링"
+  ],
+  "keywords": [
+   "디퓨저",
+   "투자 유치",
+   "커스터마이징 향수"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "다비디퓨저가 투자를 유치하며 국내외 시장 진출 확대를 추진한다.",
+  "key_fact_quote": "다비디퓨저, 킹고스프링 LIPS 투자 유치…국내외 시장 진출 확대 추진",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:42+00:00",
+ "had_body": false
+}

@@ -1,0 +1,52 @@
+{
+ "doc_id": "7203c00e46726fa3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44592",
+ "title": "시로, '제로 페어 오 드 퍼퓸' 한정 출시... 남은 향료에 새 가치 더했다",
+ "summary": "/사진=시로 자연주의 뷰티 브랜드 SHIRO(시로)가 창고에 남아 있던 향료에 새로운 조합을 더해 한정판 향수 로 선보인다. 시로는 자원을 낭비하지 않고 새로운 가치를 찾는 '제로 컬렉션'의 신제품 '제로 페어 오 드...",
+ "published_at": "2026-09-03T16:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "SHIRO",
+   "시로"
+  ],
+  "companies": [
+   "시로"
+  ],
+  "keywords": [
+   "자연주의 뷰티",
+   "한정판 향수",
+   "업사이클링"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "제로 페어 오 드 퍼퓸",
+    "brand": "시로",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "자연주의 뷰티 브랜드 시로가 남아 있던 향료를 조합한 제로 컬렉션의 한정판 향수 신제품을 선보인다.",
+  "key_fact_quote": "자연주의 뷰티 브랜드 SHIRO(시로)가 창고에 남아 있던 향료에 새로운 조합을 더해 한정판 향수 로 선보인다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:41+00:00",
+ "had_body": false
+}

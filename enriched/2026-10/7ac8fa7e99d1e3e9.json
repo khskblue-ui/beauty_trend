@@ -1,0 +1,45 @@
+{
+ "doc_id": "7ac8fa7e99d1e3e9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kbmaeil.com/article/20261011500527",
+ "title": "대구 뷰티 기업, 일본 박람회서 361만 달러 수출 상담 성과",
+ "summary": "이번 박람회 참가는 대구시가 지원하고 대구TP가 수행하는 ‘ K - 뷰티 수출 컨소시엄 활성화 지원사업’의 하나로 추진됐다. 지역 뷰티기업의 해외 판로를 넓히고 일본 현지 유통망 진입을 지원하기 위해 마련됐다....",
+ "published_at": "2026-10-11T15:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "대구테크노파크"
+  ],
+  "keywords": [
+   "뷰티 수출",
+   "해외 판로 개척",
+   "수출 컨소시엄"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대구 뷰티 기업들이 일본 박람회에 참가해 대규모 수출 상담 성과를 거두었다.",
+  "key_fact_quote": "대구 뷰티 기업, 일본 박람회서 361만 달러 수출 상담 성과",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:18+00:00",
+ "had_body": false
+}

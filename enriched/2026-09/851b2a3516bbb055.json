@@ -1,0 +1,45 @@
+{
+ "doc_id": "851b2a3516bbb055",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etoday.co.kr/news/view/2629842",
+ "title": "CU, 페리페라와 함께 자체 IP 활용 뷰티 상품 첫 선",
+ "summary": "편의점이 자체 IP를 뷰티 브랜드에 제공해 상품화하는 사례로, 업계 최초다. CU의 CI·BI와 캐릭터 등 IP를 제공, 페리페라가 상품 기획과 출시 를 맡아 기획된 이번 신제품 은 올리브영, 지그재그, 무신사 등 국내 주요...",
+ "published_at": "2026-09-28T11:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "CU",
+   "페리페라"
+  ],
+  "companies": [
+   "CU",
+   "페리페라"
+  ],
+  "keywords": [
+   "자체 IP 활용",
+   "뷰티 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "편의점 씨유가 페리페라와 협업해 자체 지식재산권을 활용한 뷰티 상품을 최초로 선보인다.",
+  "key_fact_quote": "CU, 페리페라와 함께 자체 IP 활용 뷰티 상품 첫 선",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:29+00:00",
+ "had_body": false
+}

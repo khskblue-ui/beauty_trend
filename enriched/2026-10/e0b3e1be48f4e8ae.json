@@ -29,24 +29,27 @@
    "파마리서치"
   ],
   "keywords": [
-   "에스테틱 솔루션",
+   "에스테틱",
+   "재생의학",
    "피부 재생",
-   "필러 시술"
+   "필러"
   ],
   "is_press_release": true,
   "products": [
    {
     "name": "리쥬란",
-    "brand": "리쥬란",
+    "brand": null,
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    },
    {
     "name": "리쥬비엘",
-    "brand": "리쥬비엘",
+    "brand": null,
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -55,25 +58,62 @@
     "name": "리쥬비엘 C",
     "brand": "리쥬비엘",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    },
    {
     "name": "에버클",
-    "brand": "에버클",
+    "brand": null,
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "파마리서치는 대한미용비만재생의학회 학술대회에 참가해 주요 에스테틱 품목의 임상적 가치와 의료진 전용 유통 플랫폼을 선보였다.",
+  "key_fact": "파마리서치가 학술대회에 참가해 에스테틱 라인업의 임상적 가치와 유통 플랫폼을 선보였다.",
   "key_fact_quote": "재생의학 전문기업 파마리서치(대표이사 손지훈)는 지난 11일 개최된 ‘대한미용비만재생의학회(KORA) 학술대회’에 참가해 자사 대표 에스테틱 라인업의 임상적 가치와 차별화된 B2B 플랫폼을 선보였다고 13일 밝혔다.",
+  "events": [
+   {
+    "name": "대한미용비만재생의학회(KORA) 학술대회",
+    "start_date": "2026-10-11",
+    "end_date": null,
+    "place": null,
+    "quote": "재생의학 전문기업 파마리서치(대표이사 손지훈)는 지난 11일 개최된 ‘대한미용비만재생의학회(KORA) 학술대회’에 참가해 자사 대표 에스테틱 라인업의 임상적 가치와 차별화된 B2B 플랫폼을 선보였다고 13일 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PN",
+    "quote": "파마리서치는 이번 학술대회에서 리쥬란(PN), 리쥬비엘(HA), 에버클(PLLA) 등 자사의 핵심 에스테틱 품목을 중심으로 심도 있는 학술 프로그램을 구성해 현장 의료진의 높은 관심을 이끌어냈다."
+   },
+   {
+    "name": "HA",
+    "quote": "파마리서치는 이번 학술대회에서 리쥬란(PN), 리쥬비엘(HA), 에버클(PLLA) 등 자사의 핵심 에스테틱 품목을 중심으로 심도 있는 학술 프로그램을 구성해 현장 의료진의 높은 관심을 이끌어냈다."
+   },
+   {
+    "name": "PLLA",
+    "quote": "파마리서치는 이번 학술대회에서 리쥬란(PN), 리쥬비엘(HA), 에버클(PLLA) 등 자사의 핵심 에스테틱 품목을 중심으로 심도 있는 학술 프로그램을 구성해 현장 의료진의 높은 관심을 이끌어냈다."
+   },
+   {
+    "name": "폴리뉴클레오티드",
+    "quote": "김 원장은 급격한 체중 감량으로 인해 발생하는 안면 볼륨 손실 및 피부 탄력 저하에 대응해, 리쥬란의 주성분인 PN(폴리뉴클레오티드)이 제공하는 근본적인 피부 재생과 환경 개선 메커니즘을 상세히 설명했다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "김 원장은 히알루론산(HA) 필러 ‘리쥬비엘’ 라인 중 점탄성이 가장 우수한 ‘리쥬비엘 C’의 우수한 물성과 고순도 원료를 기반으로, 형태 변형 없이 견고한 지지력을 유지하는 정교한 시술 노하우를 공유해 호응을 얻었다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "이 원장은 에버클이 자가 콜라겐 생성을 촉진해 자연스러운 안면부 볼륨과 피부결 개선을 동시에 이끌어내는 임상 케이스를 발표해 이목을 집중시켰다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:38+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:53+00:00",
  "had_body": true
 }

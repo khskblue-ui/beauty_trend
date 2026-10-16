@@ -24,14 +24,13 @@
    "EOA"
   ],
   "companies": [
-   "더퓨처",
-   "무신사"
+   "더퓨처"
   ],
   "keywords": [
    "항노화 뷰티",
-   "뷰티 디바이스",
-   "홈케어",
-   "오프라인 유통"
+   "홈케어 뷰티 디바이스",
+   "파머시 뷰티",
+   "스킨케어"
   ],
   "is_press_release": true,
   "products": [
@@ -39,6 +38,7 @@
     "name": "풀텐자",
     "brand": "EOA",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -47,6 +47,7 @@
     "name": "풀쎄라 프로",
     "brand": "EOA",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -55,6 +56,7 @@
     "name": "풀써마 프로",
     "brand": "EOA",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -63,6 +65,7 @@
     "name": "NAD+ 리프팅 하이드로겔 마스크",
     "brand": "EOA",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -71,6 +74,7 @@
     "name": "PowerGF 타이트 샷 앰플",
     "brand": "EOA",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -79,6 +83,7 @@
     "name": "PowerGF 리페어 카밍 크림",
     "brand": "EOA",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -87,6 +92,7 @@
     "name": "PowerGF 링클 포어 플럼핑 미스트",
     "brand": "EOA",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -95,17 +101,45 @@
     "name": "EOA 콜라겐 시너지 부스팅젤",
     "brand": "EOA",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "항노화 뷰티 브랜드 EOA가 무신사뷰티 홍대점 내 뷰티온누리약국에 입점해 주요 제품을 선보인다.",
+  "key_fact": "더퓨처의 항노화 뷰티 전문 브랜드 EOA가 무신사뷰티 홍대점 내 뷰티온누리약국에 입점했다.",
   "key_fact_quote": "글로벌 웰니스 그룹 더퓨처의 항노화 뷰티 전문 브랜드 EOA가 무신사뷰티 홍대점 내 ‘뷰티온누리약국’에 입점하며 젊은 소비자층과 외국인 관광객을 대상으로 오프라인 접점을 확대한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PowerGF",
+    "quote": "스킨케어 제품군은 EOA의 시그니처 성분 ‘PowerGF’를 적용한 것이 특징이다."
+   },
+   {
+    "name": "시카",
+    "quote": "‘PowerGF 리페어 카밍 크림’은 PowerGF 캡슐과 시카 수딩젤의 듀얼 제형으로 피부 진정과 보습을 돕는다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "‘PowerGF 링클 포어 플럼핑 미스트’는 PowerGF와 펩타이드, 시카 PDRN 등을 담은 미스트 타입 제품이다."
+   },
+   {
+    "name": "시카 PDRN",
+    "quote": "‘PowerGF 링클 포어 플럼핑 미스트’는 PowerGF와 펩타이드, 시카 PDRN 등을 담은 미스트 타입 제품이다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "여기에 ‘NAD+ 리프팅 하이드로겔 마스크’와 ‘EOA 콜라겐 시너지 부스팅젤’도 무신사뷰티 홍대점 에서 만나볼 수 있어 뷰티 디바이스부터 스킨케어까지 EOA의 주요 홈케어 제품군을 한 공간에서 경험할 수 있다."
+   },
+   {
+    "name": "NAD+",
+    "quote": "여기에 ‘NAD+ 리프팅 하이드로겔 마스크’와 ‘EOA 콜라겐 시너지 부스팅젤’도 무신사뷰티 홍대점 에서 만나볼 수 있어 뷰티 디바이스부터 스킨케어까지 EOA의 주요 홈케어 제품군을 한 공간에서 경험할 수 있다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:36+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:52+00:00",
  "had_body": true
 }

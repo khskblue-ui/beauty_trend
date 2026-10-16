@@ -1,0 +1,68 @@
+{
+ "doc_id": "d6d1f67a04fe00b9",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58464",
+ "title": "라티튜드81, 푸에르토리코 방문단과 교류... '현지 PB 브랜드 사업화' 추진",
+ "summary": "[코스인코리아닷컴 길태윤 기자]라티튜드81(LATITUDE 81)은 오늘(10월 7일) 충남테크노파크에서 푸에르토리코 방문단과 교류를 갖고 해외 거래선에 자제 브랜드(PB) 사업화에 나선다고 밝혔다. 양사는 한국의 연구·제조 인프라와 라티튜드81의 제품 개발 노하우를 기반으로, 푸에르토리코의 현지 고객에게 맞는 브랜드를 기획하고 시장 진입 전략을 구체화",
+ "published_at": "2026-10-07T15:19:02+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "PR"
+  ],
+  "brands": [],
+  "companies": [
+   "라티튜드81",
+   "BJY"
+  ],
+  "keywords": [
+   "PB 브랜드",
+   "화장품 제조",
+   "화장품 원료",
+   "두피 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "라티튜드팔십일이 푸에르토리코 방문단과 교류를 진행하며 현지 맞춤형 화장품 자체 브랜드 사업화를 추진한다.",
+  "key_fact_quote": "라티튜드81(LATITUDE 81)은 오늘(10월 7일) 충남테크노파크에서 푸에르토리코 방문단과 교류를 갖고 해외 거래선에 자제 브랜드(PB) 사업화에 나선다고 밝혔다.",
+  "events": [
+   {
+    "name": "푸에르토리코 방문단과의 교류",
+    "start_date": "2026-10-07",
+    "end_date": null,
+    "place": "충남테크노파크",
+    "quote": "라티튜드81(LATITUDE 81)은 오늘(10월 7일) 충남테크노파크에서 푸에르토리코 방문단과 교류를 갖고 해외 거래선에 자제 브랜드(PB) 사업화에 나선다고 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "펩타리프트(Pepta Lift)",
+    "quote": "원료 분야는 협력사 BJY의 펩타리프트(Pepta Lift), 펩타그로우(Pepta Grow), EGF 시리즈를 소개하고, 각 원료의 연구 배경과 제품 개발에 적용할 수 있는 전략도 제시할 예정이다."
+   },
+   {
+    "name": "펩타그로우(Pepta Grow)",
+    "quote": "원료 분야는 협력사 BJY의 펩타리프트(Pepta Lift), 펩타그로우(Pepta Grow), EGF 시리즈를 소개하고, 각 원료의 연구 배경과 제품 개발에 적용할 수 있는 전략도 제시할 예정이다."
+   },
+   {
+    "name": "EGF",
+    "quote": "원료 분야는 협력사 BJY의 펩타리프트(Pepta Lift), 펩타그로우(Pepta Grow), EGF 시리즈를 소개하고, 각 원료의 연구 배경과 제품 개발에 적용할 수 있는 전략도 제시할 예정이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:25+00:00",
+ "had_body": true
+}

@@ -27,9 +27,8 @@
    "잇소"
   ],
   "keywords": [
-   "뷰티 산업 전반",
-   "전문 전시회",
-   "페이셜 타월"
+   "순면 페이셜 타월",
+   "뷰티 전시회"
   ],
   "is_press_release": true,
   "products": [
@@ -37,17 +36,20 @@
     "name": "소미",
     "brand": "잇소",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "잇소가 전문 뷰티 전시회인 케이뷰티엑스포 코리아에 참가하여 순면 페이셜 타월을 선보인다.",
+  "key_fact": "잇소가 전문 뷰티 전시회인 케이뷰티엑스포 코리아에 참가한다.",
   "key_fact_quote": "잇소, ‘2026 K-뷰티엑스포 코리아’ 참가…순면 페이셜 타월 ‘소미’...",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:07+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:10+00:00",
  "had_body": false
 }

@@ -1,0 +1,44 @@
+{
+ "doc_id": "e8c5dddeb70849b7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gukjenews.com/news/articleView.html?idxno=3720556",
+ "title": "서울중기청, 10월 고양 킨텍스서 뷰티 중소기업 공동전시관 운영",
+ "summary": "2026년 8월 기준, 서울 소재 화장품 수출 중소기업은 3824개사로 전국의 42.2%를 차지하며, 수출 액은 38억 2900만 달러로 전국의 57.4%에 달한다. 서울중기청은 K - 뷰티 의 글로벌 위상에 맞춰 서울지역 유망 뷰티 중소기업의...",
+ "published_at": "2026-10-13T22:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "서울중기청"
+  ],
+  "keywords": [
+   "뷰티 중소기업",
+   "공동전시관",
+   "화장품 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "서울중기청이 고양 킨텍스에서 서울지역 유망 뷰티 중소기업을 위한 공동전시관을 운영한다.",
+  "key_fact_quote": "서울중기청, 10월 고양 킨텍스서 뷰티 중소기업 공동전시관 운영",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:42+00:00",
+ "had_body": false
+}

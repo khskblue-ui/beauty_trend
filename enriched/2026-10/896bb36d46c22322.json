@@ -16,28 +16,29 @@
  "extraction": {
   "relevant": true,
   "category": "skincare",
-  "event_type": "regulation",
+  "event_type": "market_trend",
   "countries": [
-   "KR"
+   "KR",
+   "EU"
   ],
   "brands": [
    "라누벨뽀"
   ],
-  "companies": [
-   "라누벨뽀"
-  ],
+  "companies": [],
   "keywords": [
    "화장품 등록",
-   "유럽 진출"
+   "뷰티 트렌드"
   ],
   "is_press_release": false,
   "products": [],
   "key_fact": "라누벨뽀 제품들이 유럽연합 화장품 신고 포털에 등록을 마쳤다.",
   "key_fact_quote": "라누벨뽀에 따르면 현재 유럽연합 화장품 신고 포털(CPNP)에 등록을 마친 제품은 총 16종이다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:01+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:02+00:00",
  "had_body": false
 }

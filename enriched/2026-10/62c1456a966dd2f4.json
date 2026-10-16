@@ -1,0 +1,59 @@
+{
+ "doc_id": "62c1456a966dd2f4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=227997",
+ "title": "K뷰티, 브랜드를 넘어 '성분' 경쟁",
+ "summary": "실제 VAIM은 피부과 시술 소재로 알려진 PDLLA를 활용한 스킨케어 브랜드를 선보였으며, 국내 화장품 시장에서도 엑소좀과 PDRN을 함께 적용한 제품들이 출시 되고 있다. 특정 성분을 앞세우려는 움직임도 나타난다....",
+ "published_at": "2026-10-01T22:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "VAIM"
+  ],
+  "companies": [
+   "VAIM"
+  ],
+  "keywords": [
+   "성분 화장품",
+   "스킨케어 브랜드",
+   "피부과 시술 소재"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 화장품 시장에서 피부과 시술 소재나 특정 성분을 활용한 스킨케어 제품 출시와 성분 경쟁이 활발해지고 있다.",
+  "key_fact_quote": "실제 VAIM은 피부과 시술 소재로 알려진 PDLLA를 활용한 스킨케어 브랜드를 선보였으며, 국내 화장품 시장에서도 엑소좀과 PDRN을 함께 적용한 제품들이 출시 되고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDLLA",
+    "quote": "실제 VAIM은 피부과 시술 소재로 알려진 PDLLA를 활용한 스킨케어 브랜드를 선보였으며, 국내 화장품 시장에서도 엑소좀과 PDRN을 함께 적용한 제품들이 출시 되고 있다."
+   },
+   {
+    "name": "엑소좀",
+    "quote": "실제 VAIM은 피부과 시술 소재로 알려진 PDLLA를 활용한 스킨케어 브랜드를 선보였으며, 국내 화장품 시장에서도 엑소좀과 PDRN을 함께 적용한 제품들이 출시 되고 있다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "실제 VAIM은 피부과 시술 소재로 알려진 PDLLA를 활용한 스킨케어 브랜드를 선보였으며, 국내 화장품 시장에서도 엑소좀과 PDRN을 함께 적용한 제품들이 출시 되고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:45+00:00",
+ "had_body": false
+}

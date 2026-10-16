@@ -30,7 +30,7 @@
   "keywords": [
    "더마 코스메틱",
    "스킨케어 루틴",
-   "웨딩 케어"
+   "PDRN 스킨케어"
   ],
   "is_press_release": true,
   "products": [
@@ -38,6 +38,7 @@
     "name": "턴오버 앰플",
     "brand": "리쥬란코스메틱",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -46,6 +47,7 @@
     "name": "뉴트리티브 크림",
     "brand": "리쥬란코스메틱",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -54,6 +56,7 @@
     "name": "듀얼 이펙트 앰플",
     "brand": "리쥬란코스메틱",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -61,10 +64,21 @@
   ],
   "key_fact": "리쥬란코스메틱이 가수 겸 작곡가 이재와 협업하여 웨딩 준비 스킨케어 루틴 콘텐츠를 공개했다.",
   "key_fact_quote": "파마리서치(대표이사 손지훈)의 프리미엄 더마 코스메틱 브랜드 ‘리쥬란코스메틱’은 가수 겸 작곡가 이재(EJAE)와 협업해 리쥬란코스메틱과 함께하는 웨딩 준비 스킨케어 루틴을 공개했다고 12일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "c-PDRN",
+    "quote": "리쥬란코스메틱의 화장품 특화 성분 c-PDRN도 소개하며 충분한 보습과 꾸준한 관리로 건강하고 자연스러운 피부를 완성하고, 메이크업 전 피부 컨디션을 정돈하는 과정을 담았다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "꾸준한 피부 관리와 일상 속 제품 활용을 담은 콘텐츠로 PDRN 스킨케어에 대한 관심을 실제 사용 경험으로 연결하고, 미국을 비롯한 주요 시장에서 다양한 마케팅 캠페인을 통해 브랜드 인지도와 친밀도를 높여 나갈 것"
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:59+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:06+00:00",
  "had_body": true
 }

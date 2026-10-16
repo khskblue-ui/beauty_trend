@@ -1,0 +1,52 @@
+{
+ "doc_id": "5473bf040eb51d04",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423873",
+ "title": "PDRN 다음은 블루펩타이드·아젤라익산···K뷰티, '성분 경쟁' 본격화",
+ "summary": "◇ 1kg에 1800만원···톤28, '블루 펩타이드' 화장품 선보여 22일 업계에 따르면 뷰티 브랜드 톤28은 출범 10주년을 맞아 새로운 안티에이징 라인 '더 퍼스트 블루 펩타이드'를 선보였다. 이번 신제품 에는 구리 이온과...",
+ "published_at": "2026-09-22T17:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "톤28"
+  ],
+  "companies": [],
+  "keywords": [
+   "성분 경쟁",
+   "블루 펩타이드",
+   "안티에이징 라인",
+   "아젤라익산"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "더 퍼스트 블루 펩타이드",
+    "brand": "톤28",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 브랜드 톤이십팔이 출범 십 주년을 맞아 새로운 안티에이징 라인을 선보였다.",
+  "key_fact_quote": "22일 업계에 따르면 뷰티 브랜드 톤28은 출범 10주년을 맞아 새로운 안티에이징 라인 '더 퍼스트 블루 펩타이드'를 선보였다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:59+00:00",
+ "had_body": false
+}

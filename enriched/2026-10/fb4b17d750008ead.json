@@ -1,0 +1,44 @@
+{
+ "doc_id": "fb4b17d750008ead",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.civicnews.com/news/articleView.html?idxno=40462",
+ "title": "\"이게 다이소 거라고?\"…천 원대부터 유명 브랜드까지, 다이소 뷰티가 ...",
+ "summary": "색조 화장품 등 다양한 뷰티 제품을 찾기 위해 다이소를 방문하는 소비자들도 늘고 있다. 특히 SNS에서는... 다이소몰은 최근 뷰티 신상품을 오전 9시에 공개하는 등 온라인에서도 신제품 과 인기 제품을 선보이고 있다....",
+ "published_at": "2026-10-06T09:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "다이소"
+  ],
+  "keywords": [
+   "뷰티 제품",
+   "색조 화장품",
+   "다이소 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "다양한 뷰티 제품을 찾기 위해 다이소를 찾는 소비자가 증가하고 있다.",
+  "key_fact_quote": "색조 화장품 등 다양한 뷰티 제품을 찾기 위해 다이소를 방문하는 소비자들도 늘고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:03+00:00",
+ "had_body": false
+}

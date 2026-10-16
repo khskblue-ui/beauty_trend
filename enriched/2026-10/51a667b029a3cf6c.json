@@ -28,8 +28,7 @@
   ],
   "keywords": [
    "세럼 비비",
-   "베이스 메이크업",
-   "선론칭"
+   "베이스 메이크업"
   ],
   "is_press_release": true,
   "products": [
@@ -37,17 +36,20 @@
     "name": "원더 베지 컴포트 세럼 비비 SPF50+ PA++++",
     "brand": "허스텔러",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "패션· 뷰티 쇼핑 플랫폼 지그재그를 통해 신제품 ‘원더 베지 컴포트 세럼 비비 SPF50+ PA++++’를 선론칭했다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "허스텔러가 쇼핑 플랫폼을 통해 신제품 베이스 메이크업 제품을 먼저 선보였다.",
+  "key_fact": "허스텔러가 쇼핑 플랫폼을 통해 신제품 베이스 메이크업 제품을 선론칭했다.",
   "key_fact_quote": "패션· 뷰티 쇼핑 플랫폼 지그재그를 통해 신제품 ‘원더 베지 컴포트 세럼 비비 SPF50+ PA++++’를 선론칭했다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:19+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:33+00:00",
  "had_body": false
 }

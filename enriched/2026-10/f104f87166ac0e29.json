@@ -14,7 +14,7 @@
  "doc_type": null,
  "celex": null,
  "extraction": {
-  "relevant": true,
+  "relevant": false,
   "category": "business",
   "event_type": "business",
   "countries": [
@@ -30,12 +30,14 @@
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "애경산업이 충청남도 및 관계기관과 함께 충남 자립준비청년의 주거환경 개선과 생활 기반 마련을 위해 지원금을 지정기탁했다.",
+  "key_fact": "애경산업이 충남도청에서 충청남도 및 관계기관과 함께 충남 자립준비청년 지원사업 전달식을 열고 주거환경 개선과 생활 기반 마련을 위한 기탁을 진행했다.",
   "key_fact_quote": "‘사랑(愛)과 존경(敬)’의 기업 애경산업은 충남도청에서 충청남도 및 관계기관과 함께 ‘충남 자립준비청년 지원사업’ 3차년도 전달식을 진행하며, 자립준비청년의 주거환경 개선과 생활 기반 마련을 위해 총 1억원을 지정기탁했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:34+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:46+00:00",
  "had_body": true
 }

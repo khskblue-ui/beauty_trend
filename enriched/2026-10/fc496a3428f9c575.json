@@ -16,25 +16,24 @@
  "extraction": {
   "relevant": false,
   "category": "other",
-  "event_type": "event",
+  "event_type": "other",
   "countries": [
    "KR",
    "LA"
   ],
   "brands": [],
   "companies": [],
-  "keywords": [
-   "새마을세계화",
-   "해외 나눔"
-  ],
-  "is_press_release": true,
+  "keywords": [],
+  "is_press_release": false,
   "products": [],
-  "key_fact": "칠곡군 어린이들이 준비한 장난감과 손편지가 라오스 농사이 마을 어린이들에게 전달된다.",
-  "key_fact_quote": "경북 칠곡군이 어린이들이 준비한 장난감과 손편지로 라오스에 새마을운동의 나눔과 협동 정신을 전한다.",
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:56+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:24+00:00",
  "had_body": true
 }

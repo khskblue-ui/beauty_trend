@@ -1,0 +1,67 @@
+{
+ "doc_id": "ada2bcc1429839a4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.edaily.co.kr/News/Read?newsId=04011446645575856&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+ "title": "니치 프래그런스 브랜드 ‘우슬(USUL)’ 공식 론칭",
+ "summary": "니치 프래그런스 브랜드 우슬(USUL)의 첫 향수 라인 ‘야채 컬렉션(THE VEGETABLE COLLECTION)’. 토마토·피망·당근꽃을 재해석한 야생토마토, 그린페퍼, 캐롯블로썸 3종으로 구성됐다. (사진=우슬) ‘야채 컬렉션’...",
+ "published_at": "2026-09-01T13:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "우슬",
+   "USUL"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "프래그런스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "야생토마토",
+    "brand": "우슬",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "그린페퍼",
+    "brand": "우슬",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "캐롯블로썸",
+    "brand": "우슬",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "니치 프래그런스 브랜드 우슬이 공식 론칭하며 첫 향수 라인인 야채 컬렉션을 선보였다.",
+  "key_fact_quote": "니치 프래그런스 브랜드 ‘우슬(USUL)’ 공식 론칭",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:53+00:00",
+ "had_body": false
+}

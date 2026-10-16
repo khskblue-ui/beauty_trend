@@ -1,0 +1,46 @@
+{
+ "doc_id": "94cc853e0874b689",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://economist.co.kr/article/view/ecn202609300005",
+ "title": "밀려드는 K뷰티 주문…코스맥스는 中·동남아 증설, 한국콜마는 세종",
+ "summary": "해외 고객사와 수출 물량을 늘리는 국내 고객사의 주문이 동시에 증가하면서 국내 생산 수요도 커지고 있다. 한국콜마 관계자는 “전 세계적으로 ‘메이드 인 코리아’ K - 뷰티 의 위상이 높아진 만큼 글로벌 수요에...",
+ "published_at": "2026-10-03T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "한국콜마"
+  ],
+  "keywords": [
+   "생산 수요",
+   "생산 설비 증설",
+   "글로벌 수요"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해외 및 국내 고객사의 주문 증가로 생산 수요가 확대되자 주요 제조사들이 국내외 공장 증설에 나서고 있다.",
+  "key_fact_quote": "해외 고객사와 수출 물량을 늘리는 국내 고객사의 주문이 동시에 증가하면서 국내 생산 수요도 커지고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:31+00:00",
+ "had_body": false
+}

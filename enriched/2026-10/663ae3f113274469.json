@@ -31,7 +31,7 @@
    "스칼프케어",
    "두피 케어",
    "탈모케어",
-   "뷰티컬리"
+   "더마 스칼프"
   ],
   "is_press_release": true,
   "products": [
@@ -39,6 +39,7 @@
     "name": "cADPR™ 부스터 토닉",
     "brand": "리필드",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -47,6 +48,7 @@
     "name": "cADPR 엑소좀 77 스칼프 앰플",
     "brand": "리필드",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -55,17 +57,34 @@
     "name": "cADPR™ 스칼프 클렌저",
     "brand": "리필드",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "부스터 토닉 트리플 기획",
+    "brand": "리필드",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "특히, ‘cADPR™ 부스터 토닉’ 본품(70ml)과 리필(70ml) 2개로 구성된 ‘부스터 토닉 트리플 기획’을 컬리 단독으로 선보여 소비자들이 부담 없이 충분한 시간 동안 탈모케어를 경험할 수 있는 기회도 마련했다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "콘스탄트의 스칼프 사이언스 브랜드 리필드가 컬리의 뷰티 전문 채널인 뷰티컬리에 공식 입점했다.",
+  "key_fact": "콘스탄트의 스칼프 사이언스 브랜드 리필드가 프리미엄 뷰티 소비자와의 접점 확대를 위해 컬리의 뷰티 전문 버티컬 채널 뷰티컬리에 공식 입점했다.",
   "key_fact_quote": "콘스탄트(대표 정근식)가 운영하는 스칼프 사이언스 브랜드 리필드가 컬리에 공식 입점했다고 12일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "cADPR™",
+    "quote": "리필드는 SCI(E)급 연구로 검증된 독자 특허 성분인 cADPR™과 과학적 근거에 기반한 스칼프 사이언스 브랜드로서의 제품력을 인정받아 뷰티컬리로부터 입점 제안을 받았다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:00+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:08+00:00",
  "had_body": true
 }

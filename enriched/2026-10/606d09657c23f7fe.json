@@ -1,0 +1,44 @@
+{
+ "doc_id": "606d09657c23f7fe",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477492",
+ "title": "어뉴엠, ' K - 뷰티 엑스포 코리아' 참가···B2B 상담 운영",
+ "summary": "열리는 '2026 K - 뷰티 엑스포 코리아'에 참가한다. 어뉴엠은 이번 박람회에서 스킨케어와 웰니스 라인을... 대상으로 수출 및 납품 관련 B2B 상담을 진행한다. 일반 관람객에게도 제품을 소개할 예정이다. 어뉴엠은 천연 유래...",
+ "published_at": "2026-10-07T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "어뉴엠"
+  ],
+  "keywords": [
+   "스킨케어",
+   "웰니스",
+   "뷰티 엑스포"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "어뉴엠이 뷰티 엑스포 코리아에 참가하여 스킨케어와 웰니스 라인을 선보이고 비투비 상담을 진행한다.",
+  "key_fact_quote": "어뉴엠은 이번 박람회에서 스킨케어와 웰니스 라인을... 대상으로 수출 및 납품 관련 B2B 상담을 진행한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:59+00:00",
+ "had_body": false
+}

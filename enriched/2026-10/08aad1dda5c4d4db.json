@@ -1,0 +1,92 @@
+{
+ "doc_id": "08aad1dda5c4d4db",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100019",
+ "title": "디오디너리, ‘소프트 립 세트’",
+ "summary": "글로벌 스킨케어 브랜드 디오디너리(The Ordinary)가 10월 1일 입술 각질 케어부터 풍부한 보습까지 매끄럽고 촉촉한 입술을 완성해 줄 신제품 ‘소프트 립 세트 (The Soft Lip Set)’를 출시한다. 이번 신제품은 올리브영 온라인몰에서 단독으로 선보인다.‘소프트 립 세트’는 PHA와 스쿠알란 성분의 완벽한 시너지를 통해 립 케어에 효과적인 스킨케어 유효 성분을 담아 기획됐다. 건조해지기 쉬운 계절을 맞아 입술 피부 본연의 건강함을 가꿔주며, 민감해지기 쉬운 입술을 편안하게 케어하여 매끄럽고 촉촉한 입술 피부를 완성해",
+ "published_at": "2026-10-01T10:21:44+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "디오디너리",
+   "The Ordinary"
+  ],
+  "companies": [],
+  "keywords": [
+   "스킨케어",
+   "립 케어",
+   "각질 케어",
+   "립 세럼",
+   "립밤"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "소프트 립 세트 (The Soft Lip Set)",
+    "brand": "디오디너리",
+    "launch_date": "2026-10-01",
+    "launch_status": "launched",
+    "launch_quote": "글로벌 스킨케어 브랜드 디오디너리(The Ordinary)가 10월 1일 입술 각질 케어부터 풍부한 보습까지 매끄럽고 촉촉한 입술을 완성해 줄 신제품 ‘소프트 립 세트 (The Soft Lip Set)’를 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PHA 5% 엑스폴리에이팅 립 세럼",
+    "brand": "디오디너리",
+    "launch_date": "2026-10-01",
+    "launch_status": "launched",
+    "launch_quote": "세트에 포함된 ‘PHA 5% 엑스폴리에이팅 립 세럼’은 입술 각질을 순하게 정돈해 주는 립 전용 각질 세럼이다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스쿠알란 + 아미노 애시즈 립 밤",
+    "brand": "디오디너리",
+    "launch_date": "2026-10-01",
+    "launch_status": "launched",
+    "launch_quote": "함께 구성된 ‘스쿠알란 + 아미노 애시즈 립 밤’은 스쿠알란 성분의 강력한 고보습 효과로 건조해진 입술을 깊이 있게 케어해 준다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디오디너리가 각질 케어와 보습 기능을 갖춘 립 세트 신제품을 올리브영 온라인몰에서 단독 출시한다.",
+  "key_fact_quote": "글로벌 스킨케어 브랜드 디오디너리(The Ordinary)가 10월 1일 입술 각질 케어부터 풍부한 보습까지 매끄럽고 촉촉한 입술을 완성해 줄 신제품 ‘소프트 립 세트 (The Soft Lip Set)’를 출시한다. 이번 신제품은 올리브영 온라인몰에서 단독으로 선보인다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PHA",
+    "quote": "‘소프트 립 세트’는 PHA와 스쿠알란 성분의 완벽한 시너지를 통해 립 케어에 효과적인 스킨케어 유효 성분을 담아 기획됐다."
+   },
+   {
+    "name": "스쿠알란",
+    "quote": "‘소프트 립 세트’는 PHA와 스쿠알란 성분의 완벽한 시너지를 통해 립 케어에 효과적인 스킨케어 유효 성분을 담아 기획됐다."
+   },
+   {
+    "name": "엑토인",
+    "quote": "PHA 성분이 각질을 부드럽게 제거하고, 수분 유지력이 뛰어난 엑토인 성분이 수분을 촘촘히 채워주어 촉촉하고 매끈한 입술 바탕을 가꿔준다."
+   },
+   {
+    "name": "아미노 애시즈",
+    "quote": "함께 구성된 ‘스쿠알란 + 아미노 애시즈 립 밤’은 스쿠알란 성분의 강력한 고보습 효과로 건조해진 입술을 깊이 있게 케어해 준다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:05+00:00",
+ "had_body": true
+}

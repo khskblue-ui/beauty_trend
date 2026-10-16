@@ -1,0 +1,46 @@
+{
+ "doc_id": "812d7f6e76cccd3f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=120072",
+ "title": "휴메딕스, '2026 K - 뷰티 엑스포' 참가… '엘라비에' 해외 판로 개척",
+ "summary": "맞춤형 수출 상담 세션을 마련했다. 유통 채널 다변화와 해외 신규 계약 체결에 주력한다는 방침이다. 휴메딕스 관계자는 \" K - 뷰티 엑스포를 통해 세분화된 스킨케어 라인업과 연구개발(R&D) 기술력을 시장에 입증할 것...",
+ "published_at": "2026-10-15T13:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "엘라비에"
+  ],
+  "companies": [
+   "휴메딕스"
+  ],
+  "keywords": [
+   "스킨케어 라인업",
+   "수출 상담",
+   "뷰티 엑스포"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "휴메딕스는 뷰티 박람회에 참가해 브랜드 해외 판로 개척에 나선다.",
+  "key_fact_quote": "휴메딕스, '2026 K - 뷰티 엑스포' 참가… '엘라비에' 해외 판로 개척",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:32+00:00",
+ "had_body": false
+}

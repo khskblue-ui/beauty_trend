@@ -31,23 +31,37 @@
    "Cosmetic Valley",
    "Greentech",
    "Centdegrés",
-   "Choose Paris Region",
    "dsm-firmenich"
   ],
   "keywords": [
-   "화장품 전시회",
-   "뷰티 혁신",
+   "화장품 박람회",
+   "지속가능 뷰티",
    "뉴트리코스메틱",
-   "지속가능성"
+   "생명공학"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "국제 화장품 전시회 코스메틱 삼육공이 긍정적 영향을 미치는 혁신과 재생을 주제로 파리에서 개최된다.",
+  "key_fact": "화장품 산업 전시회 코스메틱 삼육공이 재생을 주제로 파리에서 개최된다.",
   "key_fact_quote": "Cosmetic 360 revient les 14 et 15 octobre 2026 au Carrousel du Louvre, à Paris, pour une édition qui réunira 260 exposants français et internationaux.",
+  "events": [
+   {
+    "name": "Cosmetic 360",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-15",
+    "place": "Carrousel du Louvre, à Paris",
+    "quote": "Cosmetic 360 revient les 14 et 15 octobre 2026 au Carrousel du Louvre, à Paris, pour une édition qui réunira 260 exposants français et internationaux."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "rose à parfum",
+    "quote": "Le Maroc sera également présent avec notamment une association de valorisation de la rose à parfum, ainsi que quelques acteurs du continent américain comme le Pérou, engagé dans la culture régénérative en Amazonie en lien avec le thème de l’édition."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:08+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:06+00:00",
  "had_body": true
 }

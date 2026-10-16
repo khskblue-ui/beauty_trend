@@ -1,0 +1,44 @@
+{
+ "doc_id": "f804ee61ee87fa82",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.imaeil.com/page/view/2026100710254948888",
+ "title": "화장품주 동반 강세… K뷰티 수출 호조 기대 부각",
+ "summary": "K뷰티 수출 호조 기대가 부각되면서 한국화장품제조를 비롯한 화장품주가 장 초반 동반 강세다. 7일 한국거래소에 따르면 오전 10시22분 기준 한국화장품제조는 전 거래일 대비 14.56% 오른 1만7230원에 거래되고...",
+ "published_at": "2026-10-07T10:59:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국화장품제조",
+   "한국거래소"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "화장품주 강세"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 뷰티 수출 호조에 대한 기대로 관련 화장품주가 동반 강세를 보이고 있다.",
+  "key_fact_quote": "K뷰티 수출 호조 기대가 부각되면서 한국화장품제조를 비롯한 화장품주가 장 초반 동반 강세다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:56+00:00",
+ "had_body": false
+}

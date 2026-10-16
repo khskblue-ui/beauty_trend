@@ -1,0 +1,47 @@
+{
+ "doc_id": "cfed6243844e0351",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/skin-care/loreal-paris-saint-germain-partnership-kicks-off-1239333125/",
+ "title": "L’Oréal Kicks Off Partnership With Paris Saint-Germain",
+ "summary": "The tie-in will include several L’Oréal brands, starting with Vichy Laboratoires.",
+ "published_at": "2026-10-09T00:12:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Vichy Laboratoires"
+  ],
+  "companies": [
+   "L’Oréal",
+   "Paris Saint-Germain"
+  ],
+  "keywords": [
+   "스폰서십",
+   "파트너십 마케팅",
+   "뷰티 파트너십"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "로레알이 파리 생제르맹과의 파트너십을 시작하며 비시 라보라토리를 시작으로 여러 브랜드를 포함할 예정이다.",
+  "key_fact_quote": "L’Oréal Kicks Off Partnership With Paris Saint-Germain\nThe tie-in will include several L’Oréal brands, starting with Vichy Laboratoires.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:23+00:00",
+ "had_body": false
+}

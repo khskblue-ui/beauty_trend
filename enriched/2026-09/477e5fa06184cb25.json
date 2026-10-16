@@ -1,0 +1,40 @@
+{
+ "doc_id": "477e5fa06184cb25",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/healthyLife/column_view.jsp?idx=12002",
+ "title": "명절 후 거칠어진 손 관리법 [서동혜의 화장품 Z파일]",
+ "summary": "손등뿐만 아니라 손가락 사이와 손톱 주변, 손가락 마디까지 꼼꼼하게 바르고 핸드크림은 로션 타입보다는 향료 가 없고 저자극성인 크림이나 연고 제형의 보습제를 사용해준다. 낮 동안 수시로 핸드크림을 바르기 쉽지...",
+ "published_at": "2026-09-28T10:13:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "손 관리",
+   "핸드크림",
+   "저자극성 보습제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "명절 후 거칠어진 손 관리 시 향료가 없고 저자극성인 크림이나 연고 제형의 핸드크림 사용이 권장된다.",
+  "key_fact_quote": "손등뿐만 아니라 손가락 사이와 손톱 주변, 손가락 마디까지 꼼꼼하게 바르고 핸드크림은 로션 타입보다는 향료 가 없고 저자극성인 크림이나 연고 제형의 보습제를 사용해준다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:15:52+00:00",
+ "had_body": false
+}

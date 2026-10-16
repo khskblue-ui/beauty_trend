@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": false,
-  "category": "other",
+  "category": "business",
   "event_type": "event",
   "countries": [
    "KR"
@@ -23,18 +23,17 @@
   "brands": [],
   "companies": [
    "스마트제조혁신협회",
-   "바른ICT연구소",
-   "중소벤처기업부",
-   "중소벤처기업진흥공단"
+   "중소벤처기업진흥공단",
+   "바른ICT연구소"
   ],
   "keywords": [
-   "제조 인공지능",
-   "스마트팩토리",
-   "채용 연계"
+   "스마트제조",
+   "인턴십 매칭",
+   "제조 인력 양성"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "스마트제조혁신협회가 제조 인공지능 전문 인재의 실무 경험 확대와 취업 연계를 위한 매칭 데이 행사를 개최했다.",
+  "key_fact": "스마트제조혁신협회가 제조 인재의 현장 실무 경험 확대와 취업 연계를 지원하는 매칭 행사를 마무리했다.",
   "key_fact_quote": "스마트제조혁신협회(회장 강철규· www.smiba.or.kr )가 지난 8일 연세대학교 백양누리에서 제조AI 전문인재의 현장실무 경험 확대와 취업연계를 위한 ‘2026 스마트제조 전문인력 육성사업–제조AI 솔루션 인턴십 Job Matching Day’를 마무리했다.",
   "events": [
    {
@@ -50,6 +49,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:50:27+00:00",
+ "enriched_at": "2026-10-15T15:22:25+00:00",
  "had_body": true
 }

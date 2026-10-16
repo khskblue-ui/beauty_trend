@@ -15,11 +15,11 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "body",
-  "event_type": "event",
+  "category": "other",
+  "event_type": "business",
   "countries": [
-   "AE",
-   "KR"
+   "KR",
+   "AE"
   ],
   "brands": [
    "뷰센"
@@ -29,28 +29,18 @@
   ],
   "keywords": [
    "글로벌 시장 진출",
-   "뷰티 박람회"
+   "수출 확대"
   ],
   "is_press_release": true,
-  "products": [
-   {
-    "name": "뷰센",
-    "brand": "뷰센",
-    "launch_date": null,
-    "launch_status": "unknown",
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   }
-  ],
-  "key_fact": "오스템파마가 박람회 참가를 성공적으로 마무리하며 중동 및 북아프리카 시장 진출을 본격화한다.",
-  "key_fact_quote": "오스템파마, '2026 뷰티 월드 두바이' 성료…MENA 시장 진출 본격화",
+  "products": [],
+  "key_fact": "오스템파마가 중동 및 글로벌 시장 수출 확대를 본격화하고 있다.",
+  "key_fact_quote": "수출 을 확대할 계획이다.",
   "events": [],
   "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:51:54+00:00",
+ "enriched_at": "2026-10-15T15:24:30+00:00",
  "had_body": false
 }

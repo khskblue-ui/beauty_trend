@@ -30,12 +30,22 @@
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "국제향료협회가 인도 뭄바이에서 개최되는 글로벌 향료 서밋의 조기 등록 접수를 시작했다.",
+  "key_fact": "인도 뭄바이에서 개최되는 글로벌 향료 정상회의의 조기 등록 할인이 진행된다.",
   "key_fact_quote": "Registration is open for the IFRA Global Fragrance Summit 2027 , which takes place at The St. Regis Mumbai, India, on 23 – 24 June 2027 .",
+  "events": [
+   {
+    "name": "IFRA Global Fragrance Summit 2027",
+    "start_date": "2027-06-23",
+    "end_date": "2027-06-24",
+    "place": "The St. Regis Mumbai, India",
+    "quote": "Registration is open for the IFRA Global Fragrance Summit 2027 , which takes place at The St. Regis Mumbai, India, on 23 – 24 June 2027 ."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:26+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:44+00:00",
  "had_body": false
 }

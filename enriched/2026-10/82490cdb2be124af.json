@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "business",
-  "event_type": "market_trend",
+  "event_type": "business",
   "countries": [
    "KR"
   ],
@@ -31,17 +31,18 @@
   "keywords": [
    "화장품 대형주",
    "브랜드주",
-   "ODM주",
-   "외국인 지분율"
+   "화장품 수급"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "화장품 대형주 중 브랜드 기업에 대한 외국인 지분율이 증가한 반면 제조업자개발생산 기업에서는 감소세를 보였다.",
+  "key_fact": "화장품 대형주 가운데 브랜드주에서는 외국인 지분율이 증가한 반면 제조사 개발 생산 기업에서는 감소세를 보였다.",
   "key_fact_quote": "최근 5거래일간 화장품 대형주 중 브랜드주에서는 외국인 지분율이 일제히 증가한 반면, ODM주에서는 감소세를 보였다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:09:10+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:37+00:00",
  "had_body": true
 }

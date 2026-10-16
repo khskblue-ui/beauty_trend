@@ -1,0 +1,50 @@
+{
+ "doc_id": "7edd7a9a8d720145",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.inews24.com/view/2000940",
+ "title": "뷰애드, 신규 스킨케어 브랜드 및 첫 제품 라인 공개",
+ "summary": "함께 출시 된 '퓨어 하이드라 모이스처 핏 마스크'는 젤리처럼 부드럽고 촉촉한 촉감의 시트를 적용해 피부에... 한편 향수 수입 유통사로 시작한 뷰애드는 마스크팩 제조판매로 스킨케어 분야에 뛰어든지 3년 만에 세계...",
+ "published_at": "2026-09-02T10:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "뷰애드"
+  ],
+  "keywords": [
+   "스킨케어 브랜드",
+   "마스크팩"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퓨어 하이드라 모이스처 핏 마스크",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰애드가 신규 스킨케어 브랜드를 선보이며 마스크팩 신제품을 출시했다.",
+  "key_fact_quote": "함께 출시 된 '퓨어 하이드라 모이스처 핏 마스크'는 젤리처럼 부드럽고 촉촉한 촉감의 시트를 적용해 피부에...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:36+00:00",
+ "had_body": false
+}

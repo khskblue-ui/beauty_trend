@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "skincare",
+  "category": "business",
   "event_type": "regulation",
   "countries": [
    "KR"
@@ -24,17 +24,19 @@
   "companies": [],
   "keywords": [
    "맞춤형 화장품",
-   "인공지능 피부진단",
-   "해외 진출 지원"
+   "피부 진단",
+   "융복합 뷰티"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "정부가 인공지능 기반 맞춤형 화장품과 피부진단 육성을 통해 뷰티 서비스의 해외 진출 지원 방안을 발표했다.",
-  "key_fact_quote": "정부, AI 피부진단·맞춤형 화장품 육성… K뷰티 글로벌 진출 지원",
+  "key_fact": "정부가 맞춤형 화장품 개발 지원과 기업의 해외 진출 강화를 담은 육성 방안을 발표했다.",
+  "key_fact_quote": "담은 'AI·융복합 K - 뷰티 서비스 지원방안'을 발표했다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:47+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:27+00:00",
  "had_body": false
 }

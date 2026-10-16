@@ -1,0 +1,44 @@
+{
+ "doc_id": "b535a2aaf37c1055",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260923010008861",
+ "title": "K뷰티 공략 속도내는 코웨이…'힐러비' 외형·수익성장 고삐",
+ "summary": "화장품 사업의 체급을 키우는 것도 풀어야 할 숙제다. 오프라인과 해외 판매를 확대하고 제품군 다변화를 통해 매출 기반을 넓히는 동시에 수익성까지 끌어올려야 한다.코웨이 관계자는 \"올해는 신제품 라인업을...",
+ "published_at": "2026-09-29T06:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "힐러비"
+  ],
+  "companies": [
+   "코웨이"
+  ],
+  "keywords": [
+   "화장품 사업",
+   "해외 판매 확대",
+   "제품군 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코웨이가 화장품 사업 체급을 키우며 외형과 수익성 성장에 속도를 내고 있다.",
+  "key_fact_quote": "K뷰티 공략 속도내는 코웨이…'힐러비' 외형·수익성장 고삐",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:02+00:00",
+ "had_body": false
+}

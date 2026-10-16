@@ -22,13 +22,13 @@
    "FR"
   ],
   "brands": [
-   "라 바닐"
+   "라 바닐",
+   "LA VANILLE"
   ],
   "companies": [],
   "keywords": [
    "헤어케어",
    "향료 협업",
-   "시그니처 향",
    "팝업스토어"
   ],
   "is_press_release": true,
@@ -37,19 +37,23 @@
     "name": "헤어케어 3종",
     "brand": "라 바닐",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "라 바닐, 프랑스 향료 사 협업 헤어케어 3종 출시…성수동서 첫 팝업 운...",
     "notes": [
-     "시트러스한 바닐라"
+     "바닐라",
+     "시트러스"
     ],
-    "notes_quote": "시그니처 향 스킨 바닐라는 대표가 프랑스 향료 사와 협업해 1년간 개발한 향이다. 시트러스한 바닐라에..."
+    "notes_quote": "시트러스한 바닐라에..."
    }
   ],
-  "key_fact": "헤어케어 브랜드 라 바닐이 프랑스 향료 사와 협업해 개발한 시그니처 향을 담은 신제품을 선보인다.",
+  "key_fact": "헤어케어 브랜드 라 바닐이 프랑스 향료 사와 협업한 시그니처 향을 담은 신제품을 출시했다.",
   "key_fact_quote": "헤어케어 브랜드 라 바닐(LA VANILLE)이 프랑스 향료 사와 협업한 시그니처 향 '스킨 바닐라(SKIN VANILLA)'를 담은...",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:25+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:49+00:00",
  "had_body": false
 }

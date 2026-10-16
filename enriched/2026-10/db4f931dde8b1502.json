@@ -1,0 +1,46 @@
+{
+ "doc_id": "db4f931dde8b1502",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ddaily.co.kr/page/view/2026101211182539664",
+ "title": "올리브영, 동남아 세포라 'K 뷰티 에딧' 입점 완료",
+ "summary": "K 뷰티 에딧' 입점을 완료했다고 발표했다. 앞서 올리브영은 올해 1월 세포라와 공식 파트너십을 체결한 이후 단계적으로 협업을 추진해왔다. 이를 통해 지난 8월 미국 세포라에 브랜드 들을 론칭 했다. 올리브영은 이번...",
+ "published_at": "2026-10-12T11:27:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영",
+   "세포라"
+  ],
+  "keywords": [
+   "유통 파트너십",
+   "글로벌 진출",
+   "뷰티 리테일"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "올리브영이 동남아 세포라의 케이 뷰티 에딧 입점을 완료했다.",
+  "key_fact_quote": "올리브영, 동남아 세포라 'K 뷰티 에딧' 입점 완료 K 뷰티 에딧' 입점을 완료했다고 발표했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:33+00:00",
+ "had_body": false
+}

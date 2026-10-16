@@ -20,33 +20,28 @@
   "countries": [
    "KR"
   ],
-  "brands": [
-   "토니모리",
-   "잇츠한불",
-   "에이블씨엔씨",
-   "한국화장품",
-   "애경산업"
-  ],
+  "brands": [],
   "companies": [
-   "토니모리",
    "잇츠한불",
    "에이블씨엔씨",
    "한국화장품",
+   "토니모리",
    "애경산업"
   ],
   "keywords": [
-   "중견 화장품 기업",
-   "화장품 수출",
-   "외국인 수급"
+   "중견 화장품",
+   "화장품 수출"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "중견 화장품 기업 주가는 종목별로 뚜렷한 차별화 양상을 나타냈다.",
+  "key_fact": "중견 화장품 기업들의 주가와 외국인 수급이 종목별로 뚜렷한 차별화 양상을 나타냈다.",
   "key_fact_quote": "최근 5거래일간 5개 중견 화장품 기업의 주가는 종목별로 뚜렷한 차별화 양상을 나타냈다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:58+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:26+00:00",
  "had_body": true
 }

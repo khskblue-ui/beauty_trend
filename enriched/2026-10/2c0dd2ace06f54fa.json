@@ -1,0 +1,43 @@
+{
+ "doc_id": "2c0dd2ace06f54fa",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=311783",
+ "title": "“广告能带来第一次购买，但回购决定品牌未来” - 뷰티경제",
+ "summary": "来自山东省的22岁大学生王子怡，每月在化妆品上的花费约500元。与过去相比，她如今更关注国产品牌以及欧美品牌，对韩妆的兴趣则有所下降。王子怡表示，韩妆在社交媒体上的曝光度非常高。“",
+ "published_at": "2026-10-09T10:35:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "재구매",
+   "중국 화장품 시장",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 소비자가 한국 화장품보다 중국 로컬 브랜드와 구미 브랜드를 더 주목하면서 한국 뷰티에 대한 관심이 감소하고 있다.",
+  "key_fact_quote": "与过去相比，她如今更关注国产品牌以及欧美品牌，对韩妆的兴趣则有所下降。",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:03+00:00",
+ "had_body": false
+}

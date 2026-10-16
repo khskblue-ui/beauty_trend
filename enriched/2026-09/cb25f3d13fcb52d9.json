@@ -1,0 +1,42 @@
+{
+ "doc_id": "cb25f3d13fcb52d9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://zdnet.co.kr/view/?no=20260923150731",
+ "title": "사랑하는 사람 떠올리니 나만의 향수가…SKT의 이색 실험",
+ "summary": "이모션 랩에서는 사랑하는 대상을 바라볼 때 나타나는 뇌파와 여러 향료 를 맡을 때의 뇌파를 비교해 가장 유사한 향료 세 가지를 찾아준다. 이를 배합해 세상에 하나뿐인 향수를 만드는 방식이다. 단순한 향수 만들기...",
+ "published_at": "2026-09-23T16:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "SKT"
+  ],
+  "keywords": [
+   "맞춤형 향수",
+   "향료 배합",
+   "뇌파 분석"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "사랑하는 대상을 바라볼 때와 여러 향료를 맡을 때의 뇌파를 비교하여 유사한 향료를 배합하는 맞춤형 향수 제작 실험이 진행되었다.",
+  "key_fact_quote": "이모션 랩에서는 사랑하는 대상을 바라볼 때 나타나는 뇌파와 여러 향료 를 맡을 때의 뇌파를 비교해 가장 유사한 향료 세 가지를 찾아준다. 이를 배합해 세상에 하나뿐인 향수를 만드는 방식이다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:15:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,49 @@
+{
+ "doc_id": "575582c9582c368c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.banronbodo.com/news/articleView.html?idxno=33099",
+ "title": "'K-뷰티' 경쟁 나선 유통업계...현대百·무신사도 전문 매장 오픈",
+ "summary": "이지듀·마데카파마시아 등 제약사의 기술력을 바탕으로 한 브랜드 와 피부과 전문의가 개발한 포레덤·주닥... 지상 1~2층은 색조· 향수 ·스킨케어·헤어·바디 등으로 채워 다양한 뷰티 수요를 아우르도록 했다. 무신사...",
+ "published_at": "2026-10-01T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이지듀",
+   "마데카파마시아",
+   "포레덤",
+   "주닥"
+  ],
+  "companies": [
+   "현대百",
+   "무신사"
+  ],
+  "keywords": [
+   "뷰티 전문 매장",
+   "제약사 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유통업계가 전문 매장을 선보이며 K-뷰티 경쟁에 나서고 있다.",
+  "key_fact_quote": "'K-뷰티' 경쟁 나선 유통업계...현대百·무신사도 전문 매장 오픈",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:16+00:00",
+ "had_body": false
+}

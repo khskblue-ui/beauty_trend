@@ -1,0 +1,47 @@
+{
+ "doc_id": "c060b4d7e658a2fc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Economy/article/all/20260922/134717292/1",
+ "title": "본투스탠드아웃, 발망·펜할리곤스 제치고 伊 예술 향수 상 수상",
+ "summary": "이탈리아는 니치 향수 소비층이 두터운 시장으로 꼽힌다. 현지 매체 팜비앙코(Pambianco)에 따르면 이탈리아 니치 향수 시장 규모는 약 4억 유로로 전체 향수 시장의 3분의 1 수준이다. 코스메티카 이탈리아...",
+ "published_at": "2026-09-22T10:59:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "IT"
+  ],
+  "brands": [
+   "본투스탠드아웃",
+   "발망",
+   "펜할리곤스"
+  ],
+  "companies": [
+   "팜비앙코",
+   "코스메티카 이탈리아"
+  ],
+  "keywords": [
+   "니치 향수",
+   "예술 향수",
+   "향수 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "본투스탠드아웃이 다른 유명 브랜드를 제치고 이탈리아 예술 향수 상을 수상했다.",
+  "key_fact_quote": "본투스탠드아웃, 발망·펜할리곤스 제치고 伊 예술 향수 상 수상",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:03+00:00",
+ "had_body": false
+}

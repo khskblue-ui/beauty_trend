@@ -1,0 +1,45 @@
+{
+ "doc_id": "6c9d97113949f50e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.jbnews.com/news/articleView.html?idxno=1512655",
+ "title": "[동행취재 上] 일본 시장 향한 청주 화장품 기업…오사카서 교류 첫발",
+ "summary": "주요 화장품 수 출시 장인 일본에서 현지 기업의 사업 방식을 살펴보고 지역 기업의 기술과 제품을 알리기 위해서다. 청주시 화장품 기업협회(회장 이경숙, 이하 청화협) 회원사들은 지난달 29일 일본 오사카에 위치한 밀본...",
+ "published_at": "2026-10-01T13:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "청주시 화장품 기업협회",
+   "밀본"
+  ],
+  "keywords": [
+   "해외 진출",
+   "화장품 교류"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "청주시 화장품 기업협회 회원사들이 일본 오사카를 방문해 현지 기업과 교류를 시작했다.",
+  "key_fact_quote": "주요 화장품 수 출시 장인 일본에서 현지 기업의 사업 방식을 살펴보고 지역 기업의 기술과 제품을 알리기 위해서다. 청주시 화장품 기업협회(회장 이경숙, 이하 청화협) 회원사들은 지난달 29일 일본 오사카에 위치한 밀본...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:48+00:00",
+ "had_body": false
+}

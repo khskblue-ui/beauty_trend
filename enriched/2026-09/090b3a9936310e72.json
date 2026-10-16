@@ -1,0 +1,53 @@
+{
+ "doc_id": "090b3a9936310e72",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=861163",
+ "title": "마티에 프리미에르, 튜베로즈 향수 '프렌치 플라워' 출시",
+ "summary": "마티에 프리미에르 | 서울=한스경제 김종효 기자 | 마티에 프리미에르는 9월을 맞아 시그니처 향수 프렌치... 프렌치 플라워는 100ml, 50ml, 6ml 용량으로 출시 된다. 커스텀 세트, 디스커버리 세트도 마련했다. 핸드 & 바디 로션...",
+ "published_at": "2026-09-01T11:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "마티에 프리미에르"
+  ],
+  "companies": [],
+  "keywords": [
+   "튜베로즈 향수",
+   "시그니처 향수",
+   "디스커버리 세트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "프렌치 플라워",
+    "brand": "마티에 프리미에르",
+    "launch_date": null,
+    "launch_quote": "마티에 프리미에르는 9월을 맞아 시그니처 향수 프렌치... 프렌치 플라워는 100ml, 50ml, 6ml 용량으로 출시 된다.",
+    "notes": [
+     "튜베로즈"
+    ],
+    "notes_quote": "마티에 프리미에르, 튜베로즈 향수 '프렌치 플라워' 출시"
+   }
+  ],
+  "key_fact": "마티에 프리미에르가 튜베로즈 향수 프렌치 플라워를 출시한다.",
+  "key_fact_quote": "마티에 프리미에르, 튜베로즈 향수 '프렌치 플라워' 출시",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:38+00:00",
+ "had_body": false
+}

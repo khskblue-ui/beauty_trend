@@ -1,0 +1,47 @@
+{
+ "doc_id": "8b767459f9b6e679",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871803",
+ "title": "스킨1004, ' 뷰티 월드 두바이 2026' 참가 완료… 중동 시장 확장",
+ "summary": "| 서울=한스경제 김종효 기자 | 크레이버코퍼레이션의 스킨케어 브랜드 스킨1004가 뷰티 월드 두바이 2026... 지난해 중동 뷰티 플랫폼 부티카(Boutiqaat)에 공식 론칭 했고 얼타 뷰티 (Ulta Beauty) 중동 지점에 입점했으며...",
+ "published_at": "2026-10-12T16:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "AE",
+   "KR"
+  ],
+  "brands": [
+   "스킨1004"
+  ],
+  "companies": [
+   "크레이버코퍼레이션"
+  ],
+  "keywords": [
+   "중동 시장 확장",
+   "스킨케어 브랜드",
+   "뷰티 플랫폼 입점"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "스킨케어 브랜드 스킨천사가 중동 뷰티 박람회 참가를 마치고 현지 시장 확장에 나섰다.",
+  "key_fact_quote": "스킨1004, ' 뷰티 월드 두바이 2026' 참가 완료… 중동 시장 확장",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:29+00:00",
+ "had_body": false
+}

@@ -6,11 +6,11 @@
  "lang": "ko",
  "url": "https://www.sportsseoul.com/news/read/1637972?ref=naver",
  "title": "아도르, ‘헤어 퍼퓸’ 2종 출시 앞두고 방탄소년단 지민 티저 공개",
- "summary": "미세한 안개 분사 제형으로 모발에 끈적임 없이 고르게 밀착되며, 바디 에도 사용할 수 있는 멀티 유즈 포뮬러로 제작됐다. 한편, 아도르 헤어 퍼퓸 2종은 올리브영 단독 선런칭을 통해 출시 되며, 출시 기념 할인...",
+ "summary": "자사 헤어 미스트 제품 대비 2배 이상 높은 향료 비율을 사용했으며, 오드 뚜왈렛(Eau de Toilette) 레벨로 설계해 보다 깊고 풍부한 니치 향을 구현했다. 또한 제품 개발에는 아도르가 19년간 축적해온 헤어케어 연구개발...",
  "published_at": "2026-09-28T14:18:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "바디미스트 출시",
+ "query": "향료",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -26,8 +26,8 @@
   "companies": [],
   "keywords": [
    "헤어 퍼퓸",
-   "멀티 유즈",
-   "올리브영 선런칭"
+   "니치 향",
+   "오드 뚜왈렛"
   ],
   "is_press_release": true,
   "products": [
@@ -35,20 +35,17 @@
     "name": "헤어 퍼퓸",
     "brand": "아도르",
     "launch_date": null,
-    "launch_status": "upcoming",
-    "launch_quote": "아도르, ‘헤어 퍼퓸’ 2종 출시 앞두고 방탄소년단 지민 티저 공개",
+    "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "아도르가 모발과 바디에 사용할 수 있는 헤어 퍼퓸 출시를 앞두고 티저를 공개하며 올리브영 단독 선런칭을 예고했다.",
-  "key_fact_quote": "한편, 아도르 헤어 퍼퓸 2종은 올리브영 단독 선런칭을 통해 출시 되며, 출시 기념 할인...",
-  "events": [],
-  "ingredients": [],
+  "key_fact": "아도르가 깊고 풍부한 니치 향을 구현한 헤어 퍼퓸 출시를 앞두고 티저를 공개했다.",
+  "key_fact_quote": "아도르, ‘헤어 퍼퓸’ 2종 출시 앞두고 방탄소년단 지민 티저 공개",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:36+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:15:51+00:00",
  "had_body": false
 }

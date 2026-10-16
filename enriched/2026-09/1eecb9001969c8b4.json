@@ -1,0 +1,58 @@
+{
+ "doc_id": "1eecb9001969c8b4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=227509",
+ "title": "향수 부터 한정판 립까지…에르메스 뷰티, 가을 신제품 출시",
+ "summary": "신세계인터내셔날(코스메틱1부문 서민성)이 수입·판매하는 에르메스(Hermès) 뷰티가 가을 시즌을 맞아 향수 와 한정판 립 컬렉션을 신규 출시했다. 이번 신제품 은 인삼 뿌리와 은행잎에서 영감을 얻은 화사한 우디...",
+ "published_at": "2026-09-08T18:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에르메스",
+   "Hermès"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "가을 신제품",
+   "한정판 립 컬렉션",
+   "우디 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "향수",
+    "brand": "에르메스",
+    "launch_date": null,
+    "launch_quote": "에르메스(Hermès) 뷰티가 가을 시즌을 맞아 향수 와 한정판 립 컬렉션을 신규 출시했다.",
+    "notes": [
+     "인삼 뿌리",
+     "은행잎",
+     "화사한 우디"
+    ],
+    "notes_quote": "이번 신제품 은 인삼 뿌리와 은행잎에서 영감을 얻은 화사한 우디..."
+   }
+  ],
+  "key_fact": "신세계인터내셔날이 수입·판매하는 에르메스 뷰티가 가을 시즌을 맞아 향수와 한정판 립 컬렉션을 새롭게 출시했다.",
+  "key_fact_quote": "신세계인터내셔날(코스메틱1부문 서민성)이 수입·판매하는 에르메스(Hermès) 뷰티가 가을 시즌을 맞아 향수 와 한정판 립 컬렉션을 신규 출시했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:30+00:00",
+ "had_body": false
+}

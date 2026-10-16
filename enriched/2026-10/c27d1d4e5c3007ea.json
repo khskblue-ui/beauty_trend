@@ -1,0 +1,67 @@
+{
+ "doc_id": "c27d1d4e5c3007ea",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.kdfnews.com/news/articleView.html?idxno=189034",
+ "title": "신라면세점, FIT 화장품 매출 두 자릿수↑…단독 상품 확대",
+ "summary": "신라면세점이 개별여행객(FIT)을 중심으로 화장품 매출이 두 자릿수 성장하면서 브랜드 협업을 통한 단독... 신라인터넷면세점에서는 설화수와 에스트라의 단독 세트도 출시 한다. 설화수는 윤조에센스 90ml 듀오와...",
+ "published_at": "2026-10-08T14:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수",
+   "에스트라"
+  ],
+  "companies": [
+   "신라면세점",
+   "신라인터넷면세점"
+  ],
+  "keywords": [
+   "면세점 화장품",
+   "단독 세트",
+   "기획 세트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "윤조에센스 90ml 듀오",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "신라인터넷면세점에서는 설화수와 에스트라의 단독 세트도 출시 한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "단독 세트",
+    "brand": "에스트라",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "신라인터넷면세점에서는 설화수와 에스트라의 단독 세트도 출시 한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신라면세점이 개별여행객 중심 화장품 매출 신장에 맞춰 브랜드 협업 단독 상품 출시를 확대한다.",
+  "key_fact_quote": "신라면세점이 개별여행객(FIT)을 중심으로 화장품 매출이 두 자릿수 성장하면서 브랜드 협업을 통한 단독...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:19+00:00",
+ "had_body": false
+}

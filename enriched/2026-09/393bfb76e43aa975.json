@@ -1,0 +1,41 @@
+{
+ "doc_id": "393bfb76e43aa975",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=227630",
+ "title": "[창간기획] 세계를 사로잡은 K뷰티, 역사는 계속된다",
+ "summary": "로드숍과 면세점을 중심으로 마스크팩 등을 필두로 한 한국 화장품 의 중국 수출이 급증하며 'K뷰티'라는... 덕분에 브랜드는 제품 기획·브랜딩·마케팅에 집중하고 시장 반응에 따라 빠르게 신제품 을 내놓을 수 있다.",
+ "published_at": "2026-09-14T22:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "마스크팩",
+   "K뷰티",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 화장품의 중국 수출 증가와 신속한 제품 기획을 바탕으로 K뷰티의 흐름이 이어지고 있다.",
+  "key_fact_quote": "로드숍과 면세점을 중심으로 마스크팩 등을 필두로 한 한국 화장품 의 중국 수출이 급증하며 'K뷰티'라는... 덕분에 브랜드는 제품 기획·브랜딩·마케팅에 집중하고 시장 반응에 따라 빠르게 신제품 을 내놓을 수 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:03+00:00",
+ "had_body": false
+}

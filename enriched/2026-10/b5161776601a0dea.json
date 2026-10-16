@@ -1,0 +1,45 @@
+{
+ "doc_id": "b5161776601a0dea",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/lancome-womens-mental-health-program-im-fine-launch-1239319661/",
+ "title": "EXCLUSIVE: Lancôme Is Launching the ‘I’m Fine’ Women’s Mental Health Program",
+ "summary": "The initiative will first be introduced this month in the U.S., Canada, Mexico and Europe.",
+ "published_at": "2026-10-08T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "CA",
+   "MX"
+  ],
+  "brands": [
+   "Lancôme"
+  ],
+  "companies": [],
+  "keywords": [
+   "여성 멘탈 헬스",
+   "사회 공헌 프로그램"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "랑콤이 여성 정신 건강을 지원하는 프로그램을 시작한다.",
+  "key_fact_quote": "Lancôme Is Launching the ‘I’m Fine’ Women’s Mental Health Program",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:25+00:00",
+ "had_body": false
+}

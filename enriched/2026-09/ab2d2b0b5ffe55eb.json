@@ -1,0 +1,49 @@
+{
+ "doc_id": "ab2d2b0b5ffe55eb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207669",
+ "title": "SHIRO, 남은 향료 다시 조합했다... '제로 페어' 한정 판매",
+ "summary": "새로운 향수 로 다시 태어난다. 자연주의 뷰티 브랜드 SHIRO가 제품 생산 과정에서 남은 향료와 자재를 새로운 제품으로 연결하는 'ZERO COLLECTION'을 통해서다. 신제품 을 만드는 데 새로운 원료만 투입하는 대신 기존...",
+ "published_at": "2026-09-03T17:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "SHIRO"
+  ],
+  "companies": [],
+  "keywords": [
+   "업사이클링 향수",
+   "자연주의 뷰티",
+   "제로 웨이스트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "제로 페어",
+    "brand": "SHIRO",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "자연주의 뷰티 브랜드가 제품 생산 과정에서 남은 향료와 자재를 조합한 한정 제품을 선보인다.",
+  "key_fact_quote": "자연주의 뷰티 브랜드 SHIRO가 제품 생산 과정에서 남은 향료와 자재를 새로운 제품으로 연결하는 'ZERO COLLECTION'을 통해서다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:38+00:00",
+ "had_body": false
+}

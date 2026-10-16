@@ -1,0 +1,49 @@
+{
+ "doc_id": "1b5c3e3b1341a2ef",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10899912?ref=naver",
+ "title": "코트라·롯데홈쇼핑, 파리 마레지구서 K - 뷰티 팝업…중기 33곳 유럽 공략",
+ "summary": "팝업 매장은 롯데홈쇼핑이 자체 기획한 신규 K -브랜드 수출 플랫폼 ‘이설’(Eeseol)의 이름으로 열린다. 한류의 중심에 있는 K -팝과 K - 뷰티 의 협업으로 현지 소비자를 공략한다는 구상이다. 개장 첫 주말에는 배우...",
+ "published_at": "2026-10-13T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "이설",
+   "Eeseol"
+  ],
+  "companies": [
+   "코트라",
+   "롯데홈쇼핑"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "수출 플랫폼",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코트라와 롯데홈쇼핑이 프랑스 파리 마레지구에서 국내 중소기업의 유럽 시장 진출을 지원하는 뷰티 팝업 매장을 연다.",
+  "key_fact_quote": "코트라·롯데홈쇼핑, 파리 마레지구서 K - 뷰티 팝업…중기 33곳 유럽 공략",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:59+00:00",
+ "had_body": false
+}

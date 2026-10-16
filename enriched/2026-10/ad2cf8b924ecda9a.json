@@ -1,0 +1,70 @@
+{
+ "doc_id": "ad2cf8b924ecda9a",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53622",
+ "title": "[코스모닝] 유씨엘이 내다본 2027년 스킨케어 트렌드는?",
+ "summary": "화장품 ODM·OEM 전문기업 유씨엘(대표 이지원)이 급변하는 화장품·뷰티 시장의 차세대 이정표를 담은 ‘2027 스킨케어 트렌드북’을 발간하고 고객사 맞춤형 지원을 강화를 선언했다. 유씨엘은 트렌드북을 통해 스킨케어 시장이 단순한 효능 경쟁을 넘어 소비자의 피부 컨디션과 사용 상황에 맞는 솔루션과 경험을 설계하는 방향으로 진화하고 있다는 분석을 내놨다.",
+ "published_at": "2026-10-01T06:48:46+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "유씨엘"
+  ],
+  "keywords": [
+   "스킨케어 트렌드",
+   "더마 회복 케어",
+   "리추얼 케어",
+   "컨디션 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "화장품 전문기업 유씨엘이 향후 시장의 차세대 이정표를 분석한 스킨케어 트렌드북을 발간했다.",
+  "key_fact_quote": "화장품 ODM·OEM 전문기업 유씨엘(대표 이지원)이 급변하는 화장품·뷰티 시장의 차세대 이정표를 담은 ‘2027 스킨케어 트렌드북’을 발간하고 고객사 맞춤형 지원을 강화를 선언했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "판테놀",
+    "quote": "판테놀 5%와 PDLLA·엑토인 등을 활용해 클리닉에서 익숙한 관리 개념을 일상적인 홈케어로 확장한 부분에 주목할 필요가 있다."
+   },
+   {
+    "name": "PDLLA",
+    "quote": "판테놀 5%와 PDLLA·엑토인 등을 활용해 클리닉에서 익숙한 관리 개념을 일상적인 홈케어로 확장한 부분에 주목할 필요가 있다."
+   },
+   {
+    "name": "엑토인",
+    "quote": "판테놀 5%와 PDLLA·엑토인 등을 활용해 클리닉에서 익숙한 관리 개념을 일상적인 홈케어로 확장한 부분에 주목할 필요가 있다."
+   },
+   {
+    "name": "NAD",
+    "quote": "롱제비티와 뉴로 웰니스 흐름에 맞춰 △ NAD 기반 ‘Cellular Energy Crystal Serum’ △ 피로하고 칙칙해 보이는 눈가를 위한 ‘Vitamin K Neuro Eye Gel-Cream’ 을 제안한다."
+   },
+   {
+    "name": "곤약",
+    "quote": "유씨엘은 △ 곤약과 실리카를 활용해 모공 노폐물과 각질을 부드럽게 관리하는 ‘Blue Pore Slush Cleanser’ △ 피부에 닿으면 버블이 생성되는 ‘Bubble Pop Pack Cleanser’ 를 제안했다."
+   },
+   {
+    "name": "실리카",
+    "quote": "유씨엘은 △ 곤약과 실리카를 활용해 모공 노폐물과 각질을 부드럽게 관리하는 ‘Blue Pore Slush Cleanser’ △ 피부에 닿으면 버블이 생성되는 ‘Bubble Pop Pack Cleanser’ 를 제안했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:45+00:00",
+ "had_body": true
+}

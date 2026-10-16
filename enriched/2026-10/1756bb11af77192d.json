@@ -1,0 +1,56 @@
+{
+ "doc_id": "1756bb11af77192d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=872207",
+ "title": "엑소머, 미스트형 신제품 '셀리노바 프라이머리 퍼밍 래디언스 세럼' 출...",
+ "summary": "신제품 은 18일 CJ온스타일 방송에서 공식 론칭된다. 이번 제품은 기존 셀리노바 앰플과 BB크림에 이어 미스트... 10월 18일 진행되는 CJ온스타일 론칭 방송에는 뷰티 쇼호스트 조윤주가 함께한다. 조윤주 쇼호스트는 지난...",
+ "published_at": "2026-10-13T10:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "엑소머",
+   "셀리노바"
+  ],
+  "companies": [
+   "CJ온스타일"
+  ],
+  "keywords": [
+   "미스트 세럼",
+   "홈쇼핑 론칭"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "셀리노바 프라이머리 퍼밍 래디언스 세럼",
+    "brand": "셀리노바",
+    "launch_date": "2026-10-18",
+    "launch_status": "upcoming",
+    "launch_quote": "신제품 은 18일 CJ온스타일 방송에서 공식 론칭된다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "엑소머가 미스트형 신제품인 셀리노바 프라이머리 퍼밍 래디언스 세럼을 홈쇼핑 방송을 통해 공식 론칭한다.",
+  "key_fact_quote": "신제품 은 18일 CJ온스타일 방송에서 공식 론칭된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:39+00:00",
+ "had_body": false
+}

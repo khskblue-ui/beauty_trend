@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "skincare",
+  "category": "business",
   "event_type": "event",
   "countries": [
    "MX"
@@ -27,16 +27,18 @@
   "keywords": [
    "더마코스메틱",
    "유통망 확장",
-   "해외 진출"
+   "뷰티 박람회"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "에스아이디메디코스가 멕시코 현지 유통망 확장을 위해 델마코스메티카 참가를 성공적으로 마무리했다.",
+  "key_fact": "에스아이디메디코스가 멕시코 박람회 참가를 마치고 현지 유통망 확장을 위한 협의를 이어갈 계획이다.",
   "key_fact_quote": "SID MEDICOS concludes participation in Dermacosmética 2026, expanding connections with potential distributors in Mexico",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:39+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:11:58+00:00",
  "had_body": false
 }

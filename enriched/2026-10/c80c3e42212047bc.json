@@ -1,0 +1,54 @@
+{
+ "doc_id": "c80c3e42212047bc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.cstimes.com/news/articleView.html?idxno=723677",
+ "title": "60개국 바이어 1만 명 몰린다…킨텍스, ' K - 뷰티 엑스포 코리아' 15일 개막",
+ "summary": "킨텍스가 국내 최대 뷰티 산업 전문 전시회인 '2026 K - 뷰티 엑스포 코리아'를 오는 10월 15일부터 17일까지... 이번 전시의 핵심은 실질적인 수출 성과 창출이다. 코트라(KOTRA) 해외 무역관을 통해 엄선된 60개국 220개사...",
+ "published_at": "2026-10-13T07:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "킨텍스",
+   "코트라",
+   "KOTRA"
+  ],
+  "keywords": [
+   "뷰티 산업 전문 전시회",
+   "뷰티 엑스포",
+   "수출 성과"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "킨텍스가 국내 최대 뷰티 산업 전문 전시회인 엑스포를 개최하여 실질적인 수출 성과 창출에 나선다.",
+  "key_fact_quote": "킨텍스가 국내 최대 뷰티 산업 전문 전시회인 '2026 K - 뷰티 엑스포 코리아'를 오는 10월 15일부터 17일까지... 이번 전시의 핵심은 실질적인 수출 성과 창출이다.",
+  "events": [
+   {
+    "name": "2026 K - 뷰티 엑스포 코리아",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": null,
+    "quote": "킨텍스가 국내 최대 뷰티 산업 전문 전시회인 '2026 K - 뷰티 엑스포 코리아'를 오는 10월 15일부터 17일까지... 이번 전시의 핵심은 실질적인 수출 성과 창출이다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:57+00:00",
+ "had_body": false
+}

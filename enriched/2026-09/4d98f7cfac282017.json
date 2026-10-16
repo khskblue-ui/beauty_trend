@@ -1,0 +1,40 @@
+{
+ "doc_id": "4d98f7cfac282017",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=201957",
+ "title": "\"고순도·고함량으로 승부\"... 가을 스킨케어, '성분 스펙' 경쟁 [최기자...",
+ "summary": "추석 연휴 주간인 9월 4주차에도 화장품 업계의 하반기 겨냥 스킨케어 신제품 출시는 이어졌다. 특히 가을철 건조한 날씨에 대비한 장벽·보습 제품을 비롯해 탄력과 모공, 트러블 등 피부 고민별 제품이 잇따라 출시돼...",
+ "published_at": "2026-09-24T11:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "가을 스킨케어",
+   "보습 제품",
+   "피부 장벽"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 업계가 가을철 건조한 날씨에 대비해 장벽 및 보습과 피부 고민별 스킨케어 신제품을 출시하고 있다.",
+  "key_fact_quote": "특히 가을철 건조한 날씨에 대비한 장벽·보습 제품을 비롯해 탄력과 모공, 트러블 등 피부 고민별 제품이 잇따라 출시돼...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:36+00:00",
+ "had_body": false
+}

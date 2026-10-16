@@ -1,0 +1,45 @@
+{
+ "doc_id": "3384ee54eefa63dc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609211536412920106218",
+ "title": "[더벨][앳홈 성장전략 점검] 미닉스로 키운 몸집, 톰 더해 가전·뷰티에...",
+ "summary": "화장품 원료와 제형 등 새롭게 필요한 전문성은 내부 상품기획 조직과 외부 연구·제조사 협업을 통해... 앳홈은 더벨에 보낸 서면답변에서 투자금을 제조 역량 강화와 신제품 ·연구개발(R&D), 글로벌 사업 확대 등에...",
+ "published_at": "2026-09-23T15:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "미닉스",
+   "톰"
+  ],
+  "companies": [
+   "앳홈"
+  ],
+  "keywords": [
+   "화장품 원료",
+   "연구개발",
+   "글로벌 사업 확대"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "앳홈은 내부 상품기획 조직과 외부 협업을 통해 화장품 원료 및 제형 전문성을 확보하며 투자금을 제조 역량 강화와 연구개발 등에 활용하고 있다.",
+  "key_fact_quote": "화장품 원료와 제형 등 새롭게 필요한 전문성은 내부 상품기획 조직과 외부 연구·제조사 협업을 통해... 앳홈은 더벨에 보낸 서면답변에서 투자금을 제조 역량 강화와 신제품 ·연구개발(R&D), 글로벌 사업 확대 등에...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:41+00:00",
+ "had_body": false
+}

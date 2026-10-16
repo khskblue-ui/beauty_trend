@@ -1,0 +1,53 @@
+{
+ "doc_id": "34f63ea09b4fe743",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599905684359",
+ "title": "피죤, ‘디퓨저’ 200mL→500mL로 키웠다…대표 향 3종 리뉴얼",
+ "summary": "향료 품질과 안전성도 강화했다. 리뉴얼 제품에는 사탕수수에서 추출한 에탄올을 사용해 알코올 특유의 향을 줄이고 자극을 낮췄다. 글로벌 향료 회사의 전문 조향사와 연구를 통해 개발한 향료 를 적용했으며...",
+ "published_at": "2026-09-17T17:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피죤"
+  ],
+  "companies": [
+   "피죤"
+  ],
+  "keywords": [
+   "디퓨저",
+   "리뉴얼",
+   "실내 방향제"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "디퓨저",
+    "brand": "피죤",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "피죤이 용량을 키우고 향료 품질과 안전성을 강화한 디퓨저 대표 제품을 새롭게 선보였다.",
+  "key_fact_quote": "피죤, ‘디퓨저’ 200mL→500mL로 키웠다…대표 향 3종 리뉴얼",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:16:33+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "e51dd8dc355ff4ee",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244236",
+ "title": "헤이그 축제 흔든 K-뷰티, 깐깐한 '더치(Dutch)'의 실용주의 취향 저격",
+ "summary": "성분과 효능 중심으로 재편되는 네덜란드 화장품 시장 트렌드 네덜란드 뷰티 및 퍼스널케어 시장은... 트렌드세터들에게 신제품 을 빠르게 알리는 핵심 테스트베드 역할을 수행하며, 홀랜드앤바렛(Holland...",
+ "published_at": "2026-10-01T10:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "NL",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "홀랜드앤바렛(Holland"
+  ],
+  "keywords": [
+   "화장품 시장 트렌드",
+   "퍼스널케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "네덜란드 화장품 시장이 성분과 효능 중심으로 재편되는 가운데 케이뷰티가 주목받고 있다.",
+  "key_fact_quote": "성분과 효능 중심으로 재편되는 네덜란드 화장품 시장 트렌드",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:28+00:00",
+ "had_body": false
+}

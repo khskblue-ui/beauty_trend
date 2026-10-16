@@ -1,0 +1,66 @@
+{
+ "doc_id": "153ef34fa6db8ec3",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58475",
+ "title": "[10월 2주 화장품 주가] 10월 7일 화장품업종 강세장 연출... 한국화장품제조 +11.9 상승 1위",
+ "summary": "[코스인코리아닷컴 김민석 기자]이번 주는 개천절, 한글날 연휴로 3거래일만 개장했다. 특이한 점은 10월 7일 화장품 주가가 강세를 보여 눈길을 끌었다. 환율은 석 달만에 200원 떨어지며 1342원을 기록했다.(10월 8일) 이에 대해 증권가는 ▲ K-뷰티 수출의 역대 실적 달성 ▲ 10월 아마존 프라임 빅딜 데이 기대감 ▲ 중국 국경절 연휴 인바운드",
+ "published_at": "2026-10-09T20:57:34+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN",
+   "US"
+  ],
+  "brands": [
+   "토니모리",
+   "마녀공장"
+  ],
+  "companies": [
+   "한국화장품제조",
+   "펌텍코리아",
+   "코스맥스",
+   "코스메카코리아",
+   "에이피알",
+   "한국콜마",
+   "아모레퍼시픽",
+   "토니모리",
+   "마녀공장"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "화장품 주가",
+   "K-뷰티",
+   "화장품 ODM"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "케이뷰티 수출 호조와 글로벌 쇼핑 행사 기대감 등으로 인해 화장품 업종 주가가 강세를 보였다.",
+  "key_fact_quote": "특이한 점은 10월 7일 화장품 주가가 강세를 보여 눈길을 끌었다.",
+  "events": [
+   {
+    "name": "중국 국경절 연휴",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-07",
+    "place": null,
+    "quote": "또한 중국 국경절 연휴(10/1~10/7)로 방한 외국인(특히 중화권) 관광객의 국내 H&B 스토어 및 면세점 소비가 급증한 점이 유통·브랜드사에 긍정적인 모멘텀으로 작용했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:14+00:00",
+ "had_body": true
+}

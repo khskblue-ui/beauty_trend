@@ -1,0 +1,75 @@
+{
+ "doc_id": "b33db76bb19961e4",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100018",
+ "title": "설화수, 글로벌 아티스트 CJ 헨드리와 참여형 전시 ‘시크릿 가든’ 선보여",
+ "summary": "홀리스틱 뷰티를 추구하는 글로벌 럭셔리 뷰티 브랜드 설화수가 글로벌 아티스트 CJ 헨드리(CJ Hendry)와 협업한 참여형 전시 ‘시크릿 가든(Secret Garden)’을 선보인다. 자음생크림 60주년 캠페인 ‘Beauty Crafted in Time(시간으로 빚어낸 아름다움)’의 일환으로 마련된 이번 전시는 10월 1일부터 8일까지 서울 성수동 어브 스튜디오에서 진행된다.시크릿 가든은 탁월한 장인적 표현과 대담한 상상력으로 독창적인 예술 세계를 구축해온 글로벌 아티스트 CJ 헨드리와 60년의 헤리티지를 지닌 설화수의 협업으로",
+ "published_at": "2026-10-01T10:10:10+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리스틱 뷰티",
+   "참여형 전시",
+   "아트 협업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "자음생크림",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "설화수가 자음생크림 육십 주년 캠페인의 일환으로 아티스트 시제이 헨드리와 협업한 참여형 전시를 서울 성수동에서 진행한다.",
+  "key_fact_quote": "홀리스틱 뷰티를 추구하는 글로벌 럭셔리 뷰티 브랜드 설화수가 글로벌 아티스트 CJ 헨드리(CJ Hendry)와 협업한 참여형 전시 ‘시크릿 가든(Secret Garden)’을 선보인다.",
+  "events": [
+   {
+    "name": "시크릿 가든(Secret Garden)",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-08",
+    "place": "서울 성수동 어브 스튜디오",
+    "quote": "자음생크림 60주년 캠페인 ‘Beauty Crafted in Time(시간으로 빚어낸 아름다움)’의 일환으로 마련된 이번 전시는 10월 1일부터 8일까지 서울 성수동 어브 스튜디오에서 진행된다."
+   },
+   {
+    "name": "미디어데이",
+    "start_date": "2026-09-30",
+    "end_date": null,
+    "place": null,
+    "quote": "한편, 전시 개막에 앞서 9월 30일 열린 미디어데이에는 설화수 글로벌 앰버서더 임윤아를 비롯한 주요 인사들이 참석했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "인삼",
+    "quote": "설화수가 60년간 이어온 인삼 연구와 장인 정신, 시간의 축적을 통해 완성되는 아름다움의 가치를 CJ 헨드리의 예술적 시선으로 재해석한 전시다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:05+00:00",
+ "had_body": true
+}

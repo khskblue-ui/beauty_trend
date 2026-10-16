@@ -1,0 +1,60 @@
+{
+ "doc_id": "f30469ab6bd96dbb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.insight.co.kr/news/577383",
+ "title": "버려지는 감자가 고기능 화장품 으로... 스킨푸드, 평창군과 업사이클링...",
+ "summary": "협업에 참여한 평창군 이장은 \"평창의 맑은 공기와 큰 일교차 속에서 자란 감자가 화장품 원료로 새롭게 활용돼 지역 활성화와 평창 홍보에 기여할 수 있어 뜻깊다\"고 말했다.스킨푸드 관계자는 \" 신제품 감자...",
+ "published_at": "2026-10-12T15:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "스킨푸드"
+  ],
+  "companies": [
+   "스킨푸드"
+  ],
+  "keywords": [
+   "업사이클링 뷰티",
+   "로컬 원료"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "감자",
+    "brand": "스킨푸드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스킨푸드가 평창군과 협업하여 버려지는 감자를 화장품 원료로 활용한다.",
+  "key_fact_quote": "버려지는 감자가 고기능 화장품 으로... 스킨푸드, 평창군과 업사이클링...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "감자",
+    "quote": "평창의 맑은 공기와 큰 일교차 속에서 자란 감자가 화장품 원료로 새롭게 활용돼 지역 활성화와 평창 홍보에 기여할 수 있어 뜻깊다"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:23+00:00",
+ "had_body": false
+}

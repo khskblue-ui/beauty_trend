@@ -1,0 +1,53 @@
+{
+ "doc_id": "2c05985a3c218136",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111063",
+ "title": "대구TP, 일본 오사카 뷰티 박람회서 361만 달러 수출 상담 성과",
+ "summary": "대구테크노파크는 대구시 ' K - 뷰티 수출 컨소시엄 활성화 지원사업'의 일환으로 지난 9월 30일부터 10월 2일까지 일본 오사카에서 열린 '2026 일본 코스메 오사카&테크 박람회'에 지역 뷰티기업 4곳의 참가를 지원해 총 361만...",
+ "published_at": "2026-10-08T12:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "대구테크노파크"
+  ],
+  "keywords": [
+   "뷰티 박람회",
+   "수출 상담",
+   "수출 지원사업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대구테크노파크가 지원한 지역 뷰티기업들이 일본 오사카 뷰티 박람회에서 상당한 규모의 수출 상담 성과를 거두었다.",
+  "key_fact_quote": "대구TP, 일본 오사카 뷰티 박람회서 361만 달러 수출 상담 성과",
+  "events": [
+   {
+    "name": "2026 일본 코스메 오사카&테크 박람회",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-02",
+    "place": "일본 오사카",
+    "quote": "대구테크노파크는 대구시 ' K - 뷰티 수출 컨소시엄 활성화 지원사업'의 일환으로 지난 9월 30일부터 10월 2일까지 일본 오사카에서 열린 '2026 일본 코스메 오사카&테크 박람회'에 지역 뷰티기업 4곳의 참가를 지원해 총 361만..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:40+00:00",
+ "had_body": false
+}

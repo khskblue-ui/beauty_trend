@@ -1,0 +1,56 @@
+{
+ "doc_id": "2e072a588137936b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261008000254",
+ "title": "어뮤즈코리아, 시스터 브랜드 '로듀' 론칭…첫 제품 '립 밤 8종' 출시",
+ "summary": "과하게 꾸미지 않아도 있는 그대로를 자연스럽게 표현할 수 있는 뷰티 를 지향한다. 로듀는 정해진 제품군을 한꺼번에 내놓지 않고 신제품 을 순차적으로 공개하는 '드롭(Drop)' 방식으로 운영한다. 기능뿐 아니라 색상...",
+ "published_at": "2026-10-08T14:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "로듀"
+  ],
+  "companies": [
+   "어뮤즈코리아"
+  ],
+  "keywords": [
+   "립밤",
+   "신규 브랜드 론칭",
+   "드롭 방식"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "립 밤 8종",
+    "brand": "로듀",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "어뮤즈코리아, 시스터 브랜드 '로듀' 론칭…첫 제품 '립 밤 8종' 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "어뮤즈코리아가 새로운 시스터 브랜드를 선보이며 첫 제품으로 립밤 라인을 출시했다.",
+  "key_fact_quote": "어뮤즈코리아, 시스터 브랜드 '로듀' 론칭…첫 제품 '립 밤 8종' 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:50+00:00",
+ "had_body": false
+}

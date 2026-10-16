@@ -1,0 +1,44 @@
+{
+ "doc_id": "bc010b1425bca32a",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/hair/ayurvedic-hair-care-fable-mane-ceo-1239298023/",
+ "title": "EXCLUSIVE: Fable & Mane Names New CEO",
+ "summary": "Cécile Budge, most recently chief operating officer at the brand's holding company, Nirvana Brands, will enter the role.",
+ "published_at": "2026-10-01T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Fable & Mane"
+  ],
+  "companies": [
+   "Nirvana Brands"
+  ],
+  "keywords": [
+   "최고경영자 선임",
+   "헤어케어 브랜드",
+   "뷰티 인사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "페이블 앤 메인이 신임 최고경영자로 세실 버지를 선임했다.",
+  "key_fact_quote": "Cécile Budge, most recently chief operating officer at the brand's holding company, Nirvana Brands, will enter the role.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:31+00:00",
+ "had_body": false
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "241264f9e05bdf22",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6852131_37012.html",
+ "title": "\"원하는대로 제작\"‥' 화장품 파운드리'로 질주",
+ "summary": "세계 화장품 ODM 매출 상위 3곳 중 두 곳이 한국 기업. 덕분에 자체 연구소나 생산설비나 없는 중소기업도 아이디어만 있으면 6개월 만에 신제품 을 내놓을 수 있습니다. [문정원/한국콜마 홍보팀장] \"해외 같은 경우에는 사실...",
+ "published_at": "2026-09-16T07:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "화장품 파운드리",
+   "화장품 ODM"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 기업들이 세계 화장품 제조자개발생산 시장에서 두각을 나타내며 아이디어를 가진 중소기업의 제품 출시를 지원하고 있다.",
+  "key_fact_quote": "세계 화장품 ODM 매출 상위 3곳 중 두 곳이 한국 기업. 덕분에 자체 연구소나 생산설비나 없는 중소기업도 아이디어만 있으면 6개월 만에 신제품 을 내놓을 수 있습니다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:46+00:00",
+ "had_body": false
+}

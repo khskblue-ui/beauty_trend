@@ -1,0 +1,59 @@
+{
+ "doc_id": "e56852b7f58a2a68",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hg-times.com/news/articleView.html?idxno=305079",
+ "title": "LG생활건강, 추석 화장품·생활용품 선물세트 선보여",
+ "summary": "이번 추석 선물용 바디케어 세트는 우디 바닐라 향의 샤워젤과 바디로션 구성으로 프랑스 향료 회사인 로베르테(Robertet)와 공동 개발한 향을 담아 샤워와 보습만으로 행복을 가치를 선사할 수 있도록 패키징했다. 벨먼...",
+ "published_at": "2026-09-07T16:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "벨먼"
+  ],
+  "companies": [
+   "LG생활건강",
+   "로베르테",
+   "Robertet"
+  ],
+  "keywords": [
+   "바디케어 선물세트",
+   "향료 개발",
+   "바디로션",
+   "샤워젤"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "바디케어 세트",
+    "brand": "벨먼",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "우디 바닐라"
+    ],
+    "notes_quote": "이번 추석 선물용 바디케어 세트는 우디 바닐라 향의 샤워젤과 바디로션 구성으로 프랑스 향료 회사인 로베르테(Robertet)와 공동 개발한 향을 담아 샤워와 보습만으로 행복을 가치를 선사할 수 있도록 패키징했다."
+   }
+  ],
+  "key_fact": "엘지생활건강이 로베르테와 공동 개발한 우디 바닐라 향을 담은 추석 선물용 바디케어 세트를 선보였다.",
+  "key_fact_quote": "이번 추석 선물용 바디케어 세트는 우디 바닐라 향의 샤워젤과 바디로션 구성으로 프랑스 향료 회사인 로베르테(Robertet)와 공동 개발한 향을 담아 샤워와 보습만으로 행복을 가치를 선사할 수 있도록 패키징했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:31+00:00",
+ "had_body": false
+}

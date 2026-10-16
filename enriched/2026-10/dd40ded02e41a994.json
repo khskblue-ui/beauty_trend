@@ -16,9 +16,10 @@
  "extraction": {
   "relevant": true,
   "category": "retail",
-  "event_type": "event",
+  "event_type": "product_launch",
   "countries": [
-   "KR"
+   "KR",
+   "GB"
   ],
   "brands": [
    "무신사뷰티",
@@ -36,16 +37,25 @@
   "keywords": [
    "캐릭터 협업",
    "뷰티 페스티벌",
-   "콜라보레이션 에디션",
-   "블라인드 굿즈"
+   "에디션 화장품"
   ],
   "is_press_release": true,
   "products": [
    {
+    "name": "무신사˟퍼글러 에디션",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이들 브랜드는 퍼글러의 대표 캐릭터인 ‘와이드 아이드 위어도’, ‘먼츠먼츠 믹스’, ‘맥구 믹스’등을 활용한 제품 18종을 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
     "name": "글루 글로스 신컬러",
     "brand": "글맆",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "메이크업 브랜드 글맆은 ‘우가부가 화이트’ 캐릭터로 디자인한 글루 글로스 신컬러를 개발했다.",
     "notes": [],
     "notes_quote": null
    },
@@ -53,17 +63,28 @@
     "name": "소 터처블 워터 블러시",
     "brand": "오드타입",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "무신사 자체 브랜드인 오드타입은 버튼믹스 캐릭터로 꾸민 ‘소 터처블 워터 블러시’를 내놨다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "무신사뷰티가 뷰티 페스티벌을 열고 여러 브랜드와 협업한 퍼글러 캐릭터 화장품을 선보인다.",
+  "key_fact": "무신사뷰티가 뷰티 브랜드를 모아 캐릭터 퍼글러와 협업한 제품을 선보이며 뷰티 페스티벌을 개최한다.",
   "key_fact_quote": "무신사뷰티가 12일부터 22일까지 뷰티 페스티벌을 열고 퍼글러 화장품을 선보인다.",
+  "events": [
+   {
+    "name": "뷰티 페스티벌",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-22",
+    "place": null,
+    "quote": "무신사뷰티가 12일부터 22일까지 뷰티 페스티벌을 열고 퍼글러 화장품을 선보인다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:03:03+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:13+00:00",
  "had_body": true
 }

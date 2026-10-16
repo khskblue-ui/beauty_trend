@@ -24,61 +24,67 @@
    "CJ올리브영",
    "스킨푸드",
    "리필드",
+   "LF 아떼",
    "아떼",
    "아이오페",
-   "무신사",
    "토코보"
   ],
   "companies": [
    "CJ올리브영",
-   "LF"
+   "LF",
+   "무신사"
   ],
   "keywords": [
    "조향사 협업",
-   "향수 신제품"
+   "향 제품"
   ],
-  "is_press_release": false,
+  "is_press_release": true,
   "products": [
    {
     "name": "로우키 페이머스",
     "brand": null,
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [
      "석류",
      "블랙슈거"
     ],
-    "notes_quote": "석류와 블랙슈거 향을 결합한 '로우키 페이머스'"
+    "notes_quote": "석류와 블랙슈거 향을 결합한 '로우키 페이머스', 무화과와 자스민을 활용한 '마이 디폴트', 장미와 은방울꽃 향을 담은 '소프트 스포큰' 등이다."
    },
    {
     "name": "마이 디폴트",
     "brand": null,
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [
      "무화과",
      "자스민"
     ],
-    "notes_quote": "무화과와 자스민을 활용한 '마이 디폴트'"
+    "notes_quote": "석류와 블랙슈거 향을 결합한 '로우키 페이머스', 무화과와 자스민을 활용한 '마이 디폴트', 장미와 은방울꽃 향을 담은 '소프트 스포큰' 등이다."
    },
    {
     "name": "소프트 스포큰",
     "brand": null,
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [
      "장미",
      "은방울꽃"
     ],
-    "notes_quote": "장미와 은방울꽃 향을 담은 '소프트 스포큰'"
+    "notes_quote": "석류와 블랙슈거 향을 결합한 '로우키 페이머스', 무화과와 자스민을 활용한 '마이 디폴트', 장미와 은방울꽃 향을 담은 '소프트 스포큰' 등이다."
    }
   ],
-  "key_fact": "전문 조향사와 협업하여 로우키 페이머스와 마이 디폴트 및 소프트 스포큰 등 여러 가지 향을 구성했다.",
+  "key_fact": "전문 조향사와 협업하여 다양한 향으로 구성된 제품들을 선보인다.",
   "key_fact_quote": "향은 전문 조향사 와 협업해 3종으로 구성했다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:44+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:20+00:00",
  "had_body": false
 }

@@ -1,0 +1,57 @@
+{
+ "doc_id": "6e9ed089c2cb3ee6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news2day.co.kr/article/20261008500222",
+ "title": "숨37°·해피바스·타임·닥스, 패션 뷰티 FW 신제품 출시 이어져",
+ "summary": "LG생활건강 숨37°, 8700시간 발효 담은 ‘시크릿 에센스’ 5세대 출시 아모레퍼시픽 해피바스, 산양유 활용한... 패션· 뷰티 업계가 가을·겨울 시즌을 겨냥한 신제품 과 컬렉션을 잇따라 선보이고 있다. 장시간 발효...",
+ "published_at": "2026-10-08T15:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "숨37°",
+   "해피바스",
+   "타임",
+   "닥스"
+  ],
+  "companies": [
+   "LG생활건강",
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "가을 겨울 신제품",
+   "발효 에센스",
+   "바디케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 및 패션 업계가 가을과 겨울 시즌을 겨냥한 신제품을 연이어 선보이고 있다.",
+  "key_fact_quote": "패션· 뷰티 업계가 가을·겨울 시즌을 겨냥한 신제품 과 컬렉션을 잇따라 선보이고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "산양유",
+    "quote": "아모레퍼시픽 해피바스, 산양유 활용한..."
+   }
+  ],
+  "dropped": [
+   "product:시크릿 에센스 5세대"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:51+00:00",
+ "had_body": false
+}

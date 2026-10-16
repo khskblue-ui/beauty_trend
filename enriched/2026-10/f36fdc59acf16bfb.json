@@ -1,0 +1,45 @@
+{
+ "doc_id": "f36fdc59acf16bfb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.youthdaily.co.kr/news/article.html?no=227995",
+ "title": "\"글로벌 최다 구두발표\"...코스맥스, 세계화장품학회서 연구 32건 발표",
+ "summary": "올해 구두발표는 기초 연구와 메이크업, 선케어, 헤어케어, 향료 등 5개 분야에서 이뤄졌다. 선케어... 메이크업 분야에서는 고온 환경에서 파운데이션 지속성을 높이기 위한 온도 감응형 요변성 연구를, 향료 ...",
+ "published_at": "2026-10-06T15:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "세계화장품학회",
+   "구두발표",
+   "연구 성과",
+   "향료 연구"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 세계화장품학회에서 다수의 연구 성과를 구두 발표했다.",
+  "key_fact_quote": "\"글로벌 최다 구두발표\"...코스맥스, 세계화장품학회서 연구 32건 발표",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:43+00:00",
+ "had_body": false
+}

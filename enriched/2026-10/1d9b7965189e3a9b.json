@@ -1,0 +1,47 @@
+{
+ "doc_id": "1d9b7965189e3a9b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.greened.kr/news/articleView.html?idxno=351632",
+ "title": "라루셀, 현대백화점 판교점 '코오드' 입점…더마 뷰티 오프라인 접점 확...",
+ "summary": "라루셀 운영사인 ㈜바이오코스는 약 50평 규모로 60여 개 더마 뷰티 브랜드 가 입점한 코오드 매장을 통해 주요 스킨케어 제품을 선보인다. 2021년 론칭 한 라루셀은 임신·출산기 여성의 건조함, 민감성, 색소침착, 튼살 등...",
+ "published_at": "2026-10-07T18:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라루셀"
+  ],
+  "companies": [
+   "바이오코스",
+   "현대백화점"
+  ],
+  "keywords": [
+   "더마 뷰티",
+   "오프라인 접점",
+   "스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "라루셀 운영사 바이오코스가 현대백화점 판교점 편집매장에 입점해 주요 스킨케어 제품을 선보인다.",
+  "key_fact_quote": "라루셀 운영사인 ㈜바이오코스는 약 50평 규모로 60여 개 더마 뷰티 브랜드 가 입점한 코오드 매장을 통해 주요 스킨케어 제품을 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:46+00:00",
+ "had_body": false
+}

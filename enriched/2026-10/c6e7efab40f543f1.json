@@ -1,0 +1,49 @@
+{
+ "doc_id": "c6e7efab40f543f1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dongponews.net/news/articleView.html?idxno=60910",
+ "title": "글로벌 K-뷰티 기업 '키스그룹'...뉴욕 한인사회와 '아름다운 동행'",
+ "summary": "선물백에는 네일과 뷰티, 향수 등 키스뷰티그룹 제품이 담겼으며 세트당 제품 가격은 36달러50센트, 전체... KISS와 imPRESS, FALSCARA 등 다양한 브랜드 를 보유하고 있으며 현재 뉴욕주 포트워싱턴에 본사를 두고 있다. 회사...",
+ "published_at": "2026-10-06T15:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "KISS",
+   "imPRESS",
+   "FALSCARA"
+  ],
+  "companies": [
+   "키스그룹",
+   "키스뷰티그룹"
+  ],
+  "keywords": [
+   "글로벌 뷰티",
+   "K뷰티 기업",
+   "한인사회 공헌"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "키스그룹이 한인사회 선물백에 네일과 뷰티 및 향수 제품을 전달했다.",
+  "key_fact_quote": "선물백에는 네일과 뷰티, 향수 등 키스뷰티그룹 제품이 담겼으며 세트당 제품 가격은 36달러50센트, 전체...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:11+00:00",
+ "had_body": false
+}

@@ -1,0 +1,57 @@
+{
+ "doc_id": "8742be49e9cdfc80",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/trending-at-boots-why-the-retailer,28308",
+ "title": "Trending at Boots: Why the retailer is responding to beauty trends in real-time",
+ "summary": "UK retailer major Boots is heavily invested in tracking real-time global trends to provide relevant beauty offerings – all within extremely short turnaround times – though curation remains key, say execs. Today, Boots keeps on top of trends via traditional data platforms and reports but also AI-led platforms that scan TikTok, Instagram, Google and even Reddit. “Tracking trends is the easy bit. The hardest bit is identifying when the right time to respond to that trend is,” said Grace...",
+ "published_at": "2026-10-06T09:11:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "Biodance"
+  ],
+  "companies": [
+   "Boots"
+  ],
+  "keywords": [
+   "소셜 트렌드",
+   "K-뷰티",
+   "큐레이션",
+   "리테일 전략"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "sheet masks",
+    "brand": "Biodance",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "영국 유통업체 부츠는 뷰티 트렌드를 실시간으로 추적하여 빠르게 제품을 도입하고 큐레이션 역량을 강화하는 리테일 전략을 펼치고 있다.",
+  "key_fact_quote": "UK retailer major Boots is heavily invested in tracking real-time global trends to provide relevant beauty offerings – all within extremely short turnaround times – though curation remains key, say execs.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:13+00:00",
+ "had_body": true
+}

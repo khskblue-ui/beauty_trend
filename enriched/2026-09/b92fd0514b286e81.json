@@ -1,0 +1,51 @@
+{
+ "doc_id": "b92fd0514b286e81",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=204496",
+ "title": "프리미엄부터 실속형까지…뷰티업계, 풍성한 추석 선물 '한보따리'",
+ "summary": "프리미엄 화장품 부터 가격 부담을 낮춘 실속형 제품까지 다양한 구성을 선보이며 선택지를 넓히고 있다.... LG생활건강은 프리미엄 신제품 으로 구성된 '생활의 품격 트리니티' 선물세트도 마련했다. 이번 세트는 프리미엄...",
+ "published_at": "2026-09-16T16:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "추석 선물세트",
+   "프리미엄 화장품",
+   "실속형 제품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "생활의 품격 트리니티",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티업계가 프리미엄부터 실속형까지 다양한 구성의 추석 선물세트를 선보이고 있다.",
+  "key_fact_quote": "프리미엄 화장품 부터 가격 부담을 낮춘 실속형 제품까지 다양한 구성을 선보이며 선택지를 넓히고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:35+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "6e21131ba04d8e3a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://magazine.hankyung.com/job-joy/article/202610127236d",
+ "title": "[서원대학교 2026년 창업도약패키지 선정기업] AI 기반 가정용 뷰티 디바...",
+ "summary": "중장기적으로는 K - 뷰티 와 AI 기술을 결합한 글로벌 홈 뷰티 브랜드로 성장하는 것이 목표”라고 소개했다.... 세계적인 뷰티 박람회와 수출 상담회에 참여하며 해외 바이어들과 접점을 만들었고, 북미권 수출 을 위한 법인...",
+ "published_at": "2026-10-12T21:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "서원대학교"
+  ],
+  "keywords": [
+   "글로벌 홈 뷰티",
+   "뷰티 디바이스",
+   "수출 상담회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해당 기업은 기술과 결합한 글로벌 홈 뷰티 브랜드로 성장하겠다는 목표를 제시했다.",
+  "key_fact_quote": "중장기적으로는 K - 뷰티 와 AI 기술을 결합한 글로벌 홈 뷰티 브랜드로 성장하는 것이 목표”라고 소개했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:59+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "5c8548f7046b600a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.edaily.co.kr/News/Read?newsId=02620726645612920&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+ "title": "하이퍼코퍼레이션, 로지텍·K뷰티·숏폼 쿠폰 사업 확대…4Q 흑전 기대",
+ "summary": "월간 활성 이용자 수(MAU)는 2023년 12월 출시 초기 약 16만명에서 올해 1월 833만명으로 증가했다. 이 연구원은... 하이퍼코퍼레이션은 지난 7월 화장품 ·미용기기 제조기업 큐비스트를 인수해 자체 브랜드 판매와 기업 간...",
+ "published_at": "2026-10-14T08:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "하이퍼코퍼레이션",
+   "큐비스트"
+  ],
+  "keywords": [
+   "화장품 제조",
+   "미용기기",
+   "자체 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "하이퍼코퍼레이션이 화장품 및 미용기기 제조기업인 큐비스트를 인수하여 자체 브랜드 판매를 확대하고 있다.",
+  "key_fact_quote": "하이퍼코퍼레이션은 지난 7월 화장품 ·미용기기 제조기업 큐비스트를 인수해 자체 브랜드 판매와 기업 간...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:54+00:00",
+ "had_body": false
+}

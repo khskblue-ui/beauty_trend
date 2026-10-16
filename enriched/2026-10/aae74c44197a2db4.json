@@ -1,0 +1,64 @@
+{
+ "doc_id": "aae74c44197a2db4",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58431",
+ "title": "코스맥스, 2,200만건 빅데이터 기반 ‘AI 원형탈모 예측 모델’ 개발",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 글로벌 화장품 연구·개발·생산(ODM) 기업 코스맥스가 한국과 일본의 국가 건강검진 빅데이터 약 2,200만건을 활용한 비침습 방식의 ‘AI 원형탈모 예측 모델’을 개발하고 특허 출원을 완료했다고 지난달 30일 밝혔다. 기존 탈모 예측은 유전자 검사나 마이크로바이옴 분석을 위해 생체 시료를 직접 채취하는 방식이 주로 활용",
+ "published_at": "2026-10-01T22:12:37+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "바이닉"
+  ],
+  "companies": [
+   "코스맥스",
+   "사이언스코",
+   "후지신",
+   "트라이넥스"
+  ],
+  "keywords": [
+   "맞춤형 헤어케어",
+   "원형탈모 예측 모델",
+   "초개인화 뷰티",
+   "인공지능 뷰티 솔루션"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 대규모 건강검진 빅데이터를 기반으로 비침습 방식의 인공지능 원형탈모 예측 모델을 개발해 특허 출원을 완료했다.",
+  "key_fact_quote": "글로벌 화장품 연구·개발·생산(ODM) 기업 코스맥스가 한국과 일본의 국가 건강검진 빅데이터 약 2,200만건을 활용한 비침습 방식의 ‘AI 원형탈모 예측 모델’을 개발하고 특허 출원을 완료했다고 지난달 30일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "소이액트",
+    "quote": "문진 결과 위험도가 낮게 예측되면 탈모 완화 비고시 기능성 소재인 ‘소이액트(SOYACT)’ 기반 제품을 제안하고 위험도가 높은 경우에는 프리미엄 성분 ‘가녹실(GANOXYL)’을 함유한 솔루션으로 연결한다."
+   },
+   {
+    "name": "가녹실",
+    "quote": "문진 결과 위험도가 낮게 예측되면 탈모 완화 비고시 기능성 소재인 ‘소이액트(SOYACT)’ 기반 제품을 제안하고 위험도가 높은 경우에는 프리미엄 성분 ‘가녹실(GANOXYL)’을 함유한 솔루션으로 연결한다."
+   },
+   {
+    "name": "코어링크-에스",
+    "quote": "코스맥스는 서울대학교와 협력해 모발의 시스틴 결합을 복구하고 손상모의 인장 강도를 120% 이상 개선하는 신소재 ‘코어링크-에스(Corelink-S)’를 개발했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:46+00:00",
+ "had_body": true
+}

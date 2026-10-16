@@ -23,17 +23,19 @@
   "brands": [],
   "companies": [],
   "keywords": [
-   "지역 경제 활성화",
-   "공공기관 유치"
+   "지역 경제",
+   "지방 소멸"
   ],
-  "is_press_release": false,
+  "is_press_release": true,
   "products": [],
-  "key_fact": "의성군이 인구 감소와 지역 경제 위기를 타개하기 위해 법무부의 신규 교정시설 조성 부지 공모에 유치 신청서를 제출했다.",
-  "key_fact_quote": "의성군은 법무부가 추진하는 ‘교정시설 조성 부지 선정 공모’에 공식 유치 신청서를 제출하고, 본격적인 유치 절차에 착수했다고 14일 밝혔다.",
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:46+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:18+00:00",
  "had_body": true
 }

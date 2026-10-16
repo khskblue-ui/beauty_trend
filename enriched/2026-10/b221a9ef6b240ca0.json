@@ -1,0 +1,64 @@
+{
+ "doc_id": "b221a9ef6b240ca0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisacast.kr/news/articleView.html?idxno=100816",
+ "title": "코웨이, 리엔케이, K- 뷰티 기술력 호평…美 코스트코 입점 '유통망 강화...",
+ "summary": "리엔케이는 '셀레스티얼 콜라겐 크림' 론칭 을 시작으로 향후 미국 시장 내 제품 포트폴리오를 지속적으로... 리엔케이는 베스트 라이프 솔루션 기업 코웨이의 코스메틱 자회사 '힐러비'의 뷰티 브랜드 이다. [시사캐스트]",
+ "published_at": "2026-10-08T14:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "리엔케이"
+  ],
+  "companies": [
+   "코웨이",
+   "힐러비",
+   "코스트코"
+  ],
+  "keywords": [
+   "콜라겐 크림",
+   "해외 진출",
+   "유통망 확장"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "셀레스티얼 콜라겐 크림",
+    "brand": "리엔케이",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "리엔케이는 '셀레스티얼 콜라겐 크림' 론칭 을 시작으로 향후 미국 시장 내 제품 포트폴리오를 지속적으로...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코웨이의 자회사 힐러비의 뷰티 브랜드 리엔케이가 콜라겐 크림 론칭을 시작으로 미국 코스트코에 입점하며 유통망을 강화한다.",
+  "key_fact_quote": "코웨이, 리엔케이, K- 뷰티 기술력 호평…美 코스트코 입점 '유통망 강화...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "콜라겐",
+    "quote": "리엔케이는 '셀레스티얼 콜라겐 크림' 론칭 을 시작으로 향후 미국 시장 내 제품 포트폴리오를 지속적으로..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:40+00:00",
+ "had_body": false
+}

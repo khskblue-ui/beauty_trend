@@ -1,0 +1,43 @@
+{
+ "doc_id": "5ec1d884de2db8f4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=65749",
+ "title": "\"해외 매출 80%\"…퍼플랩스 헬스케어, '글로벌 이너 뷰티 '로 체질 전환 가...",
+ "summary": "퍼플랩스 헬스케어가 해외 매출 비중을 80% 수준까지 끌어올리며 글로벌 이너 뷰티 ·웰니스 시장에서 입지를 빠르게 넓히고 있다. 국내 중심이던 사업 구조를 글로벌 시장 중심으로 전환하며 ' K -웰니스' 대표 브랜드로...",
+ "published_at": "2026-10-14T10:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "퍼플랩스 헬스케어"
+  ],
+  "keywords": [
+   "이너 뷰티",
+   "웰니스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "퍼플랩스 헬스케어가 해외 매출 비중을 크게 끌어올리며 글로벌 이너 뷰티 및 웰니스 시장 중심으로 사업 구조를 전환하고 있다.",
+  "key_fact_quote": "퍼플랩스 헬스케어가 해외 매출 비중을 80% 수준까지 끌어올리며 글로벌 이너 뷰티 ·웰니스 시장에서 입지를 빠르게 넓히고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:28+00:00",
+ "had_body": false
+}

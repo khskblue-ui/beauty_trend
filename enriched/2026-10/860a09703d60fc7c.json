@@ -1,0 +1,43 @@
+{
+ "doc_id": "860a09703d60fc7c",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/skin-care/biologique-recherche-ceo-has-exited-sources-1239332827/",
+ "title": "Biologique Recherche’s CEO Has Exited, Sources Say",
+ "summary": "Rupert Schmid and Pierre-Louis Delapalme are believed to have returned as the skin care brand’s interim chief executive officers following Jean-Guillaume Trottier's departure.",
+ "published_at": "2026-10-08T19:24:44+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Biologique Recherche"
+  ],
+  "companies": [
+   "Biologique Recherche"
+  ],
+  "keywords": [
+   "경영진 교체",
+   "스킨케어 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "스킨케어 브랜드 비올로직 호셰쉬의 대표가 사임함에 따라 이전 경영진들이 임시 공동 대표로 복귀한 것으로 알려졌다.",
+  "key_fact_quote": "Rupert Schmid and Pierre-Louis Delapalme are believed to have returned as the skin care brand’s interim chief executive officers following Jean-Guillaume Trottier's departure.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:26+00:00",
+ "had_body": false
+}

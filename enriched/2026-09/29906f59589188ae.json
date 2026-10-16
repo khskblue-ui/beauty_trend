@@ -1,0 +1,41 @@
+{
+ "doc_id": "29906f59589188ae",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=264378",
+ "title": "[A 증시어택] 반도체·뷰티·AI·바이오...10월 코스닥 노리는 강소기업...",
+ "summary": "△진코스텍, 하이드로겔 앞세워 글로벌 뷰티시장 공략=하이드로겔 소재 기반 화장품 제조기업 진코스텍이... 한층 강화하겠다\"며 \"지속적인 신제품 상용화를 통해 재생의료 분야에서 경쟁력을 높여가겠다\"고 말했다.",
+ "published_at": "2026-09-29T09:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "진코스텍"
+  ],
+  "keywords": [
+   "하이드로겔",
+   "화장품 제조"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "하이드로겔 소재 화장품 제조기업인 진코스텍이 글로벌 뷰티시장 공략과 상장을 추진한다.",
+  "key_fact_quote": "하이드로겔 소재 기반 화장품 제조기업 진코스텍이... 한층 강화하겠다",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:00+00:00",
+ "had_body": false
+}

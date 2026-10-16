@@ -1,0 +1,41 @@
+{
+ "doc_id": "548ef139d344a2b2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=393690",
+ "title": "[빅데이터투데이] 아기 화장품 2026년 9월 브랜드평판 랭킹... 1위 몽디에...",
+ "summary": "한국기업평판연구소(소장 구창환)는 신제품 런칭센터와 공동으로 국내 소비자에게 사랑받는 아기 화장품 브랜드 26개를 대상으로 2026년 8월 23일부터 9월 23일까지 수집된 빅데이터 16,662,128건을 분석해 이같은...",
+ "published_at": "2026-09-23T10:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국기업평판연구소"
+  ],
+  "keywords": [
+   "아기 화장품",
+   "브랜드평판"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국기업평판연구소가 아기 화장품 브랜드를 대상으로 브랜드평판 빅데이터를 분석했다.",
+  "key_fact_quote": "한국기업평판연구소(소장 구창환)는 신제품 런칭센터와 공동으로 국내 소비자에게 사랑받는 아기 화장품 브랜드 26개를 대상으로 2026년 8월 23일부터 9월 23일까지 수집된 빅데이터 16,662,128건을 분석해 이같은...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:52+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "a5d2bee039a7aa38",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=244048",
+ "title": "사우디아라비아 색조 화장품 시장동향",
+ "summary": "특히 짧은 유행 주기를 반영한 신제품 과 한정판, 온라인 플랫폼 전용 제품 출시가 확대되는 추세다. 화장품 시장 규모(2020-2030)> (단위: 백만 달러) 주: 소매 판매액 기준 [자료: Euromonitor...",
+ "published_at": "2026-10-08T18:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "SA"
+  ],
+  "brands": [],
+  "companies": [
+   "Euromonitor"
+  ],
+  "keywords": [
+   "색조 화장품",
+   "한정판",
+   "온라인 전용 제품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "사우디아라비아 색조 화장품 시장에서는 짧은 유행 주기를 반영한 신제품과 한정판 및 온라인 플랫폼 전용 제품 출시가 늘어나는 추세를 보이고 있다.",
+  "key_fact_quote": "특히 짧은 유행 주기를 반영한 신제품 과 한정판, 온라인 플랫폼 전용 제품 출시가 확대되는 추세다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:45+00:00",
+ "had_body": false
+}

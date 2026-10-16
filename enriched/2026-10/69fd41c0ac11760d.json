@@ -1,0 +1,54 @@
+{
+ "doc_id": "69fd41c0ac11760d",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58440",
+ "title": "[10월 1주 화장품 주가] 3분기 누계 화장품 수출 111억달러... 실적 발표 앞두고 기대감↑",
+ "summary": "[코스인코리아닷컴 김민석 기자]2026년 10월 1주 차 국내 주가지수(7,003.74)로 5거래일만에 7,000선을 회복했다. 코스닥도 10월 1일 4.48 급등하며 5거래일 연속 상승하며 893.29로 마감했다. 9월 화장품 수출은 15.1억달러로 역대 월간 신기록을 경신하며 호조를 이어갔다. 3분기 누계 수출은 111억달러로 ‘25년 실적(114억",
+ "published_at": "2026-10-03T18:24:24+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "JP",
+   "CN",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마",
+   "코스맥스",
+   "코스메카코리아",
+   "아마존",
+   "얼타",
+   "세포라"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "인디 브랜드",
+   "생산라인 증설",
+   "기업경기전망지수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 수출 호조와 글로벌 인디브랜드의 수주 급증에 대응해 주요 제조사들의 대규모 공장 증설 투자가 이어지고 있다.",
+  "key_fact_quote": "글로벌 인디브랜드 확산 및 수주 물량 급증으로 공장 가동률이 한계치에 다다르면서 ODM사들의 대규모 시설 투자와 증설 프로젝트가 진행되고 있다는 소식이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:14+00:00",
+ "had_body": true
+}

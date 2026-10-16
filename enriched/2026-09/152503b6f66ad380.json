@@ -1,0 +1,39 @@
+{
+ "doc_id": "152503b6f66ad380",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20260917_0003794718",
+ "title": "아웃도어의 계절…경량 패딩부터 텐트까지[패션· 뷰티 HOT신상]",
+ "summary": "환절기 큰 일교차에 기온 변화에 대응할 수 있는 경량 아우터부터 텐트까지 다양한 아이템들이 출시 되며... 23일까지 전국 온·오프라인 매장에서 이번 신제품 2종을 구매하는 고객에게 기본 10% 할인과 10% 추가 할인...",
+ "published_at": "2026-09-19T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "아웃도어 신제품",
+   "경량 패딩"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "환절기를 맞아 큰 일교차에 대응할 수 있는 아웃도어 신제품들이 출시되었다.",
+  "key_fact_quote": "환절기 큰 일교차에 기온 변화에 대응할 수 있는 경량 아우터부터 텐트까지 다양한 아이템들이 출시 되며...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:54+00:00",
+ "had_body": false
+}

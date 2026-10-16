@@ -1,0 +1,40 @@
+{
+ "doc_id": "ecae175d37bd6460",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1410874",
+ "title": "'브라운·로즈'가 돌아왔다…뷰티업계, 가을 맞아 색조 경쟁",
+ "summary": "30일 업계에 따르면 최근 주요 화장품 브랜드들은 립과 아이섀도, 블러셔 등을 중심으로 가을 색조 신제품 과 신규 컬러를 잇달아 선보이고 있다. 실제로 가을이 시작되는 9월에는 색조 제품에 대한 소비자 관심도 높아진다....",
+ "published_at": "2026-09-30T14:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "가을 색조",
+   "메이크업 트렌드",
+   "립 메이크업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 업계가 가을을 맞아 브라운과 로즈 계열의 색조 신제품을 잇달아 선보이고 있다.",
+  "key_fact_quote": "30일 업계에 따르면 최근 주요 화장품 브랜드들은 립과 아이섀도, 블러셔 등을 중심으로 가을 색조 신제품 과 신규 컬러를 잇달아 선보이고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:45+00:00",
+ "had_body": false
+}

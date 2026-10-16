@@ -18,8 +18,8 @@
   "category": "skincare",
   "event_type": "event",
   "countries": [
-   "AE",
-   "KR"
+   "KR",
+   "AE"
   ],
   "brands": [
    "리겐에스"
@@ -29,16 +29,18 @@
   ],
   "keywords": [
    "메디컬 코스메틱",
-   "해외 전시회"
+   "뷰티 전시회"
   ],
   "is_press_release": true,
   "products": [],
   "key_fact": "바이오웰스팜이 뷰티 월드 두바이에 참가하여 리겐에스의 해외 시장 확대를 도모한다.",
   "key_fact_quote": "바이오웰스팜, '2026 뷰티 월드 두바이' 참가…리겐에스 해외 시장 확대...",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:42+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:25+00:00",
  "had_body": false
 }

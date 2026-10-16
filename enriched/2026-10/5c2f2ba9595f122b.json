@@ -31,7 +31,6 @@
   ],
   "keywords": [
    "가을 메이크업",
-   "메이크업 컬렉션",
    "립글로스",
    "립틴트",
    "블러셔"
@@ -42,17 +41,20 @@
     "name": "민트 초코 콘셉트 가을 메이크업 컬렉션",
     "brand": "블룸타이드",
     "launch_date": null,
-    "launch_quote": "신제품 은 무신사 온라인에서 단독 선 출시 됐으며, 오는 21일까지 무신사 브랜드 기획전을 통해 소개된다.",
+    "launch_status": "launched",
+    "launch_quote": "블룸타이드, 민트 초코 콘셉트 가을 메이크업 컬렉션 출시",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "블룸타이드가 민트 초코 콘셉트의 가을 메이크업 컬렉션을 무신사 온라인에서 단독 선출시했다.",
+  "key_fact": "블룸타이드가 민트 초코를 콘셉트로 한 가을 메이크업 컬렉션을 무신사 온라인에서 단독 선 출시했다.",
   "key_fact_quote": "신제품 은 무신사 온라인에서 단독 선 출시 됐으며, 오는 21일까지 무신사 브랜드 기획전을 통해 소개된다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:25+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:37+00:00",
  "had_body": false
 }

@@ -1,0 +1,41 @@
+{
+ "doc_id": "e0ef51fbceda2fb8",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312068",
+ "title": "China's Beauty Consumers Are Choosing Efficacy Over Legacy - 뷰티경제",
+ "summary": "Chinese consumers are increasingly prioritizing product efficacy over brand heritage, resh",
+ "published_at": "2026-10-06T11:20:45+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "소비 트렌드",
+   "제품 효능"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 뷰티 소비자들이 브랜드 헤리티지보다 제품 효능을 점차 우선시하고 있다.",
+  "key_fact_quote": "Chinese consumers are increasingly prioritizing product efficacy over brand heritage, resh",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:50+00:00",
+ "had_body": false
+}

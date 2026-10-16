@@ -1,0 +1,62 @@
+{
+ "doc_id": "ee1ef138eac5f20c",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100041",
+ "title": "디어드라세나, 현대백화점 판교점 팝업스토어 오픈",
+ "summary": "자연에서 찾은 원료와 천연 에센셜 오일을 기반으로 헤어·바디·아로마 제품을 선보이는 내추럴 라이프스타일 케어 브랜드 ‘디어드라세나(DEAR DRACENA)’가 9월 30일부터 10월 8일까지 현대백화점 판교점 1층에서 팝업스토어를 진행한다.이번 현대백화점 판교점 팝업스토어는 지난 봄 더현대 서울에서 시작해 현대백화점 압구정본점으로 이어진 디어드라세나 팝업의 세 번째 공간이다. 디어드라세나는 기존 서울 주요 거점에 이어 경기 남부권의 핵심 쇼핑 거점인 판교로 고객 접점을 확장하며, 브랜드가 지속적으로 전해온 ‘Somewhere to",
+ "published_at": "2026-10-02T09:12:37+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "디어드라세나",
+   "DEAR DRACENA"
+  ],
+  "companies": [
+   "현대백화점"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "라이프스타일 케어",
+   "천연 에센셜 오일",
+   "바디 케어",
+   "헤어 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "내추럴 라이프스타일 케어 브랜드 디어드라세나가 현대백화점 판교점에서 팝업스토어를 진행한다.",
+  "key_fact_quote": "자연에서 찾은 원료와 천연 에센셜 오일을 기반으로 헤어·바디·아로마 제품을 선보이는 내추럴 라이프스타일 케어 브랜드 ‘디어드라세나(DEAR DRACENA)’가 9월 30일부터 10월 8일까지 현대백화점 판교점 1층에서 팝업스토어를 진행한다.",
+  "events": [
+   {
+    "name": "디어드라세나 현대백화점 판교점 팝업스토어",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-08",
+    "place": "현대백화점 판교점 1층",
+    "quote": "자연에서 찾은 원료와 천연 에센셜 오일을 기반으로 헤어·바디·아로마 제품을 선보이는 내추럴 라이프스타일 케어 브랜드 ‘디어드라세나(DEAR DRACENA)’가 9월 30일부터 10월 8일까지 현대백화점 판교점 1층에서 팝업스토어를 진행한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "천연 에센셜 오일",
+    "quote": "자연에서 찾은 원료와 천연 에센셜 오일을 기반으로 헤어·바디·아로마 제품을 선보이는 내추럴 라이프스타일 케어 브랜드 ‘디어드라세나(DEAR DRACENA)’가 9월 30일부터 10월 8일까지 현대백화점 판교점 1층에서 팝업스토어를 진행한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:25+00:00",
+ "had_body": true
+}

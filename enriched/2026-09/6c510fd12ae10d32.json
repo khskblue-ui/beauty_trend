@@ -1,0 +1,66 @@
+{
+ "doc_id": "6c510fd12ae10d32",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=764912",
+ "title": "에르메스 뷰티, 향수 &한정판 립 컬렉션...로에비타, 멜라이트 비타민 앰...",
+ "summary": "사진=에르메스 뷰티 신세계인터내셔날이 수입·판매하는 에르메스 뷰티가 가을 시즌을 맞아 향수 와 한정판 립 컬렉션을 신규 출시했다. 이번 신제품 은 인삼 뿌리와 은행잎에서 영감을 얻은 화사한 우디 향수 부터 북극의...",
+ "published_at": "2026-09-09T22:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에르메스 뷰티",
+   "로에비타"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "가을 신제품",
+   "우디 향수",
+   "한정판 립 컬렉션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "우디 향수",
+    "brand": "에르메스 뷰티",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "우디"
+    ],
+    "notes_quote": "인삼 뿌리와 은행잎에서 영감을 얻은 화사한 우디 향수"
+   },
+   {
+    "name": "한정판 립 컬렉션",
+    "brand": "에르메스 뷰티",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에르메스 뷰티가 가을 시즌을 맞아 새로운 향수와 한정판 립 컬렉션을 선보였다.",
+  "key_fact_quote": "신세계인터내셔날이 수입·판매하는 에르메스 뷰티가 가을 시즌을 맞아 향수 와 한정판 립 컬렉션을 신규 출시했다.",
+  "dropped": [
+   "product:멜라이트 비타민 앰플"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:26+00:00",
+ "had_body": false
+}

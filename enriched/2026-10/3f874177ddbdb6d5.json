@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": false,
   "category": "other",
-  "event_type": "event",
+  "event_type": "other",
   "countries": [
    "KR"
   ],
@@ -25,16 +25,18 @@
   "keywords": [
    "외국인 유학생",
    "지역 상생",
-   "정주 환경"
+   "간담회"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "경산시는 지역 내 외국인 유학생 증가에 대응하여 대학 관계자들과 간담회를 열고 공존 및 정착 방안을 논의했다.",
-  "key_fact_quote": "경산시는 13일 시청 본관 소회의실에서 관내 10개 대학의 외국인 유학생 담당 관계자들과 함께 ‘외국인 유학생과 지역사회 공존방안 마련을 위한 경산시-대학 관계자 지역현안 간담회’를 개최했다고 밝혔다.",
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:09:04+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:31+00:00",
  "had_body": true
 }

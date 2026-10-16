@@ -1,0 +1,51 @@
+{
+ "doc_id": "c0044310642185d0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/08/2026100880101.html",
+ "title": "K-뷰티, LA에 뜬다…롯데백화점, 7개 브랜드 팝업",
+ "summary": "팝업에는 스킨케어와 향수 브랜드 가 참여한다. 아로마티카, 센텔리안24, 비비앙, 헤트라스 등과 롯데백화점의 K-뷰티 편집숍 더캐스트가 대표 상품을 판매한다. 현지에서는 인공지능(AI) 피부 진단과 스킨케어 제품 추천...",
+ "published_at": "2026-10-08T11:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "아로마티카",
+   "센텔리안24",
+   "비비앙",
+   "헤트라스",
+   "더캐스트"
+  ],
+  "companies": [
+   "롯데백화점"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "스킨케어",
+   "향수 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "롯데백화점이 로스앤젤레스에서 국내 뷰티 및 향수 브랜드가 참여하는 팝업스토어를 연다.",
+  "key_fact_quote": "K-뷰티, LA에 뜬다…롯데백화점, 7개 브랜드 팝업",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:07+00:00",
+ "had_body": false
+}

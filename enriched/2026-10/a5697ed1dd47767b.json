@@ -1,0 +1,52 @@
+{
+ "doc_id": "a5697ed1dd47767b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610070957439570707",
+ "title": "K뷰티 대표기업, 3분기 만에 작년 실적 초과 달성 전망",
+ "summary": "에이피알ㆍ달바글로벌 누적 매출ㆍ영업익 작년 연간 상회 코스맥스ㆍ한국콜마ㆍ코스메카도 육박 9월 수출 역대 최대, 미국 매출이 견인…4분기 아마존 할인 행사 기대 [대한경제=문수아 기자] K뷰티 대표...",
+ "published_at": "2026-10-08T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "달바"
+  ],
+  "companies": [
+   "에이피알",
+   "달바글로벌",
+   "코스맥스",
+   "한국콜마",
+   "코스메카",
+   "아마존"
+  ],
+  "keywords": [
+   "실적 호조",
+   "수출 증가",
+   "뷰티 기업 실적"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 뷰티 기업들이 미국 중심의 수출 호조에 힘입어 작년 실적을 조기에 초과 달성할 것으로 예상된다.",
+  "key_fact_quote": "에이피알ㆍ달바글로벌 누적 매출ㆍ영업익 작년 연간 상회 코스맥스ㆍ한국콜마ㆍ코스메카도 육박 9월 수출 역대 최대, 미국 매출이 견인…4분기 아마존 할인 행사 기대",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:50+00:00",
+ "had_body": false
+}

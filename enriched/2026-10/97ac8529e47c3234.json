@@ -1,0 +1,58 @@
+{
+ "doc_id": "97ac8529e47c3234",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ngetnews.com/news/articleView.html?idxno=554026",
+ "title": "지그재그, '직잭 뷰티 ' 인디 브랜드 육성 통했다…밈즈 거래액 120배↑",
+ "summary": "제품은 론칭 당일인 5월 25일 직잭 뷰티 판매 랭킹 1위에 올랐다. 색조 브랜드 '모렛'도 지난 4월 '슬릭 핏 블러셔'를 단독 선 론칭 하고 라이브 방송을 진행했다. 선 론칭 과 라이브 방송을 진행한 4일간 거래액은 직전 동기간...",
+ "published_at": "2026-10-02T16:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "밈즈",
+   "모렛"
+  ],
+  "companies": [
+   "지그재그"
+  ],
+  "keywords": [
+   "인디 브랜드",
+   "라이브 방송",
+   "선론칭",
+   "색조 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "슬릭 핏 블러셔",
+    "brand": "모렛",
+    "launch_date": "2026-04",
+    "launch_status": "launched",
+    "launch_quote": "색조 브랜드 '모렛'도 지난 4월 '슬릭 핏 블러셔'를 단독 선 론칭 하고 라이브 방송을 진행했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "지그재그의 직잭 뷰티 인디 브랜드 육성을 통해 입점 브랜드들의 성과가 나타나고 있다.",
+  "key_fact_quote": "지그재그, '직잭 뷰티 ' 인디 브랜드 육성 통했다…밈즈 거래액 120배↑",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:53+00:00",
+ "had_body": false
+}

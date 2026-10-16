@@ -1,0 +1,41 @@
+{
+ "doc_id": "4a026bcceaa7af04",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=728345",
+ "title": "K-뷰티 주문 밀려든다… ODM업계, 공장 늘리는 까닭",
+ "summary": "실제 글로벌 화장품 시장에서 신제품 출시주기는 과거보다 짧아졌다. 국내 ODM업체들은 제품 기획부터 제형 개발과 생산까지 걸리는 시간을 줄이고 다품종 소량생산에 대응하면서 신흥 브랜드의 주문을 흡수한다....",
+ "published_at": "2026-09-23T11:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "글로벌 화장품 시장",
+   "다품종 소량생산",
+   "화장품 제조사",
+   "신흥 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "글로벌 화장품 출시 주기가 짧아진 가운데 국내 화장품 제조사들이 생산 및 개발 기간을 단축하며 신흥 브랜드의 주문을 흡수하고 있다.",
+  "key_fact_quote": "국내 ODM업체들은 제품 기획부터 제형 개발과 생산까지 걸리는 시간을 줄이고 다품종 소량생산에 대응하면서 신흥 브랜드의 주문을 흡수한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:46+00:00",
+ "had_body": false
+}

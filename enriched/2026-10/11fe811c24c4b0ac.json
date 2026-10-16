@@ -1,0 +1,45 @@
+{
+ "doc_id": "11fe811c24c4b0ac",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.economytalk.kr/news/articleView.html?idxno=424528",
+ "title": "화장품 수출 액 역대 최대 눈앞… 패션업계도 ' K뷰티 ' 지원사격",
+ "summary": "패션가 ' K뷰티 지원사격'… LF·신세계인터 '해외 진출' 속도 뷰티 시장 호황 속에 패션업계가 자체 뷰티 브랜드를 전면에 내세워 K뷰티 글로벌 수출 에 화력을 보태고 있다. 기존 패션 사업의 한계를 넘어 뷰티 ...",
+ "published_at": "2026-10-09T07:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "LF",
+   "신세계인터"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "K뷰티",
+   "패션업계 뷰티 사업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 시장의 호황 속에 패션업계가 자체 브랜드를 내세워 글로벌 수출에 나서고 있다.",
+  "key_fact_quote": "뷰티 시장 호황 속에 패션업계가 자체 뷰티 브랜드를 전면에 내세워 K뷰티 글로벌 수출 에 화력을 보태고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:26+00:00",
+ "had_body": false
+}

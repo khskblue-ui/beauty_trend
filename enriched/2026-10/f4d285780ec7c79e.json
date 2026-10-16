@@ -1,0 +1,49 @@
+{
+ "doc_id": "f4d285780ec7c79e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12171784",
+ "title": "K 뷰티 , 새 브랜드 만들어 영토 확장",
+ "summary": "조선미녀·티르티르 등을 보유한 구다이글로벌은 가수 지드래곤(GD)의 패션 브랜드 피스마이너스원과 손잡고 글로벌 뷰티 시장 공략에 나선다. 8일 어뮤즈는 첫 자매 브랜드 '로듀(RAWDEW)'를 공식 론칭 했다고 밝혔다....",
+ "published_at": "2026-10-08T17:29:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "조선미녀",
+   "티르티르",
+   "피스마이너스원",
+   "어뮤즈",
+   "로듀"
+  ],
+  "companies": [
+   "구다이글로벌"
+  ],
+  "keywords": [
+   "뷰티 시장 공략",
+   "브랜드 론칭"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 뷰티 기업들이 신규 브랜드를 선보이며 글로벌 시장 공략에 나서고 있다.",
+  "key_fact_quote": "K 뷰티 , 새 브랜드 만들어 영토 확장",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:37+00:00",
+ "had_body": false
+}

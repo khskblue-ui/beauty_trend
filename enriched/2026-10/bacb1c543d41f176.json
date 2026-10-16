@@ -1,0 +1,42 @@
+{
+ "doc_id": "bacb1c543d41f176",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1411946",
+ "title": "3분기 화장품 수출 액 111억달러…전년 대비 31.1%↑",
+ "summary": "식약처는 \"앞으로도 세계시장에서 K - 뷰티 의 위상이 더욱 높아질 수 있도록 규제기관 간 양자·다자 협력 강화와 국가별 규제정보 제공, 할랄 인증 컨설팅 지원 등 수출 업계 지원을 지속하겠다\"고 밝혔다.",
+ "published_at": "2026-10-02T20:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "할랄 인증",
+   "규제정보"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식약처는 화장품 수출 업계를 지원하기 위해 규제 협력 강화와 정보 제공 등을 지속하겠다고 밝혔다.",
+  "key_fact_quote": "식약처는 \"앞으로도 세계시장에서 K - 뷰티 의 위상이 더욱 높아질 수 있도록 규제기관 간 양자·다자 협력 강화와 국가별 규제정보 제공, 할랄 인증 컨설팅 지원 등 수출 업계 지원을 지속하겠다\"고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:34+00:00",
+ "had_body": false
+}

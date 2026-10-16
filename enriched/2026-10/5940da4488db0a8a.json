@@ -37,8 +37,8 @@
    "티몰"
   ],
   "keywords": [
-   "에센스",
-   "세럼",
+   "에센스 시장",
+   "K뷰티",
    "기능성 에센스",
    "피부 장벽 케어"
   ],
@@ -48,6 +48,7 @@
     "name": "청귤 비타씨 잡티 케어 세럼",
     "brand": "구달",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -56,17 +57,20 @@
     "name": "블레미쉬 케어 업 세럼",
     "brand": "아이소이",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "중국 티몰 내 한국 뷰티 에센스 시장이 판매량 증가세를 보이며 회복 흐름을 나타냈다.",
+  "key_fact": "중국 티몰 내 K뷰티 에센스 시장이 전년 동기 대비 회복세를 나타내며 상위 브랜드 집중도가 완화되고 경쟁이 다변화되고 있다.",
   "key_fact_quote": "중국 티몰 K뷰티 에센스 시장이 회복세를 나타냈다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:09:10+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:38+00:00",
  "had_body": true
 }

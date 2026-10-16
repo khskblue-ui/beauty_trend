@@ -1,0 +1,67 @@
+{
+ "doc_id": "7bcdd28b876bf111",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58481",
+ "title": "화장품도 배달앱으로 사는 시대... 배민, ‘오프뷰티’ 입점으로 뷰티 영토 확장",
+ "summary": "[코스인코리아닷컴 김세화 기자] 국내 배달앱 시장 1위 배달의민족(이하 배민)이 할인형 화장품 전문점 입점을 통해 뷰티 즉시배송 서비스를 확대하면서 기존 뷰티 전문 유통업체와 배달 플랫폼 간 경쟁도 주목받고 있다. 상품 구성과 가격 경쟁력에 집중해온 화장품 유통 시장에서 소비자가 원하는 상품을…",
+ "published_at": "2026-10-12T13:38:19+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오프뷰티",
+   "롬앤",
+   "닥터지",
+   "텐제로",
+   "조선미녀",
+   "아리따움",
+   "러쉬",
+   "시코르",
+   "홀리카홀리카",
+   "탑텐",
+   "자주",
+   "올리브영",
+   "뷰티컬리",
+   "로켓럭셔리"
+  ],
+  "companies": [
+   "우아한형제들",
+   "대명화학",
+   "큐앤드비인터내셔날",
+   "쿠팡",
+   "쿠팡이츠",
+   "CJ올리브영",
+   "컬리"
+  ],
+  "keywords": [
+   "뷰티 즉시배송",
+   "퀵커머스",
+   "뷰티 아웃렛",
+   "옴니채널",
+   "당일배송"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배달의민족이 도심형 뷰티 아웃렛을 입점시키며 뷰티 즉시배송 서비스를 확대함에 따라 뷰티 유통업체와 배달 플랫폼 간의 배송 경쟁이 본격화되고 있다.",
+  "key_fact_quote": "국내 배달앱 시장 1위 배달의민족(이하 배민)이 할인형 화장품 전문점 입점을 통해 뷰티 즉시배송 서비스를 확대하면서 기존 뷰티 전문 유통업체와 배달 플랫폼 간 경쟁도 주목받고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:11:55+00:00",
+ "had_body": true
+}

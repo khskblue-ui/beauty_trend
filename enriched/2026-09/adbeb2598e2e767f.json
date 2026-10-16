@@ -1,0 +1,55 @@
+{
+ "doc_id": "adbeb2598e2e767f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=762930",
+ "title": "에뛰드부터 에따 리브르 도랑쥬, 가을 맞이 뷰티 신제품 '눈길'",
+ "summary": "향수 는 무신사, 29CM, 카카오톡 선물하기를 비롯해 갤러리아 EAST와 롯데백화점 일산점에서 운영되는 오프라인 팝업을 통해 만나볼 수 있다. 사진=니오라코리아 니오라코리아가 오는 2일 신제품 '이리스 미스트'를 국내 정식...",
+ "published_at": "2026-09-01T22:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에뛰드",
+   "에따 리브르 도랑쥬",
+   "니오라코리아"
+  ],
+  "companies": [
+   "니오라코리아"
+  ],
+  "keywords": [
+   "가을 신제품",
+   "미스트",
+   "팝업 스토어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "이리스 미스트",
+    "brand": "니오라코리아",
+    "launch_date": null,
+    "launch_quote": "니오라코리아가 오는 2일 신제품 '이리스 미스트'를 국내 정식...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "니오라코리아가 신제품 미스트를 국내에 정식 출시한다.",
+  "key_fact_quote": "니오라코리아가 오는 2일 신제품 '이리스 미스트'를 국내 정식...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:53+00:00",
+ "had_body": false
+}

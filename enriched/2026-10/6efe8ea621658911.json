@@ -1,0 +1,47 @@
+{
+ "doc_id": "6efe8ea621658911",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sidae.com/article/2026100110565772043",
+ "title": "설화수 8억 판 컬리…뷰티도 선별 경쟁",
+ "summary": "뷰티 사업에서는 신제품 단독 선출시와 전용 기획세트를 통해 차별화를 꾀하고 있다. 라이브 방송에서는... 컬리가 장보기 시장에서 구축한 '잘 고르고 빠르게 배송하는' 경험을 뷰티에 접목하며 프리미엄 화장품 의...",
+ "published_at": "2026-10-01T11:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "컬리"
+  ],
+  "keywords": [
+   "프리미엄 화장품",
+   "단독 선출시",
+   "전용 기획세트",
+   "뷰티 플랫폼"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "컬리가 신제품 단독 선출시와 전용 기획세트 등을 앞세워 뷰티 사업 차별화에 나서고 있다.",
+  "key_fact_quote": "뷰티 사업에서는 신제품 단독 선출시와 전용 기획세트를 통해 차별화를 꾀하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:26+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "a88b912718ef29ed",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.bloter.net/news/articleView.html?idxno=674636",
+ "title": "저가이미지 벗은 C뷰티 美 안착…K뷰티 경쟁 부담 커질까",
+ "summary": "K뷰티가 닦아놓은 글로벌 뷰티 시장에 중국 화장품 (C뷰티)이 몰려오기 시작했다. 중국 내수와 온라인을... 강한 발색과 화려한 패키지, 빠른 신제품 출시를 앞세워 Z세대 소비자를 공략한다. 메이크업 과정과 패키지...",
+ "published_at": "2026-09-29T16:11:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "글로벌 뷰티 시장",
+   "색조 화장품",
+   "신제품 출시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 뷰티 브랜드들이 강한 발색과 화려한 패키지를 앞세워 글로벌 및 미국 뷰티 시장에 진출하며 한국 뷰티와의 경쟁 부담이 커지고 있다.",
+  "key_fact_quote": "K뷰티가 닦아놓은 글로벌 뷰티 시장에 중국 화장품 (C뷰티)이 몰려오기 시작했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:56+00:00",
+ "had_body": false
+}

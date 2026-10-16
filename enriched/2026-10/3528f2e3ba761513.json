@@ -20,17 +20,19 @@
   "countries": [
    "KR"
   ],
-  "brands": [],
+  "brands": [
+   "이마트24"
+  ],
   "companies": [
    "이마트24"
   ],
   "keywords": [
-   "헬스앤뷰티",
-   "편의점 뷰티"
+   "헬스 앤 뷰티",
+   "화장품 유통"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "이마트이십사가 화장품과 헬스 및 패션 상품을 한곳에 모은 매장인 올데이케어랩을 열었다.",
+  "key_fact": "이마트이십사는 헬스와 뷰티 및 패션을 결합한 매장인 올데이케어랩을 오픈했다.",
   "key_fact_quote": "이마트24 '올데이케어랩' 오픈... 헬스·뷰티·패션 한곳에",
   "events": [],
   "ingredients": [],
@@ -38,6 +40,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:05+00:00",
+ "enriched_at": "2026-10-15T15:24:46+00:00",
  "had_body": false
 }

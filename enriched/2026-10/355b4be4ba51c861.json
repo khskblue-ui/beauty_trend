@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "regulation",
-  "event_type": "regulation",
+  "event_type": "event",
   "countries": [],
   "brands": [],
   "companies": [
@@ -24,18 +24,27 @@
    "Chemical Watch"
   ],
   "keywords": [
-   "향료 표준",
-   "화장품 규제",
-   "국제 컨퍼런스"
+   "향료 규제",
+   "화장품 규제"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "국제향료협회 과학 전문가들이 글로벌 화장품 규제 컨퍼런스에서 협회 표준 개정안을 발표할 예정이다.",
+  "key_fact": "국제향료협회의 과학 전문가들이 글로벌 화장품 규제 콘퍼런스에서 개정안을 발표할 예정이다.",
   "key_fact_quote": "Two scientific experts from the International Fragrance Association ( IFRA ) will present the 52 nd Amendment to the IFRA Standards at Global Cosmetics Regulations 2026 , a virtual conference organized by Chemical Watch on Tuesday, 24 November 2026 .",
+  "events": [
+   {
+    "name": "Global Cosmetics Regulations 2026",
+    "start_date": "2026-11-24",
+    "end_date": null,
+    "place": null,
+    "quote": "Two scientific experts from the International Fragrance Association ( IFRA ) will present the 52 nd Amendment to the IFRA Standards at Global Cosmetics Regulations 2026 , a virtual conference organized by Chemical Watch on Tuesday, 24 November 2026 ."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:26+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:43+00:00",
  "had_body": false
 }

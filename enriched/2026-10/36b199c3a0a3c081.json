@@ -1,0 +1,44 @@
+{
+ "doc_id": "36b199c3a0a3c081",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510977650",
+ "title": "K -화장품, 3분기까지 수출 111억 달러…역대 3분기 누계 최대",
+ "summary": "식약처 바이오생약국은 “앞으로도 세계시장에서 K - 뷰티 의 위상이 더욱 높아질 수 있도록 규제기관 간 양자·다자 협력 강화와 국가별 규제정보 제공, 할랄 인증 컨설팅 지원 등 수출 업계 지원을...",
+ "published_at": "2026-10-05T12:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "식품의약품안전처"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "규제 협력",
+   "할랄 인증"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국 화장품 수출이 역대 분기 누계 최대치를 기록했다.",
+  "key_fact_quote": "K -화장품, 3분기까지 수출 111억 달러…역대 3분기 누계 최대",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:25+00:00",
+ "had_body": false
+}

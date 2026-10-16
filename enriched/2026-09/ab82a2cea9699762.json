@@ -1,0 +1,47 @@
+{
+ "doc_id": "ab82a2cea9699762",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sports.hankooki.com/news/articleView.html?idxno=6939441",
+ "title": "[현장] 올리브영과는 다르다…약국 들인 무신사 뷰티, 홍대 첫 단독 매...",
+ "summary": "ⓒ김나연 기자 1층과 2층은 여느 뷰티 편집숍처럼 색조와 향수 , 스킨케어 상품군이 이어진다. 1층은 고객의... 프래그런스 존은 신진· 니치 브랜드를 중심으로 구성했다. 고객들이 자신의 취향에 맞는 향을 찾고 새로운...",
+ "published_at": "2026-09-10T15:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사 뷰티",
+   "올리브영"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "뷰티 편집숍",
+   "프래그런스 존",
+   "니치 브랜드",
+   "스킨케어",
+   "색조"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티가 홍대에 첫 단독 매장을 열고 신진 및 니치 브랜드를 중심으로 프래그런스 존 등을 구성했다.",
+  "key_fact_quote": "프래그런스 존은 신진· 니치 브랜드를 중심으로 구성했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:29+00:00",
+ "had_body": false
+}

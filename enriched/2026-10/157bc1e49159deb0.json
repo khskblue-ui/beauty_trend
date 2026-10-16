@@ -1,0 +1,52 @@
+{
+ "doc_id": "157bc1e49159deb0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ttlnews.com/news/articleView.html?idxno=3150896",
+ "title": "다이소몰, 'Daiso-DAY 뷰티 신상' 행사 개최…330여 종 신상 선보여",
+ "summary": "신흥 화장품 유통 채널로 급부상했다. 아성다이소는 온라인 플랫폼 다이소몰을 통해 기초 더마 케어와 헤어, 색조 부문 330여 종의 신제품 을 10월 12일부터 16일까지 선보이며 가을 뷰티 시장 공략에 나섰다. 고기능성...",
+ "published_at": "2026-10-12T15:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아성다이소"
+  ],
+  "keywords": [
+   "화장품 유통 채널",
+   "더마 케어",
+   "색조 화장품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아성다이소는 온라인 플랫폼 다이소몰을 통해 신제품을 선보이는 뷰티 기획 행사를 열고 가을 뷰티 시장 공략에 나섰다.",
+  "key_fact_quote": "아성다이소는 온라인 플랫폼 다이소몰을 통해 기초 더마 케어와 헤어, 색조 부문 330여 종의 신제품 을 10월 12일부터 16일까지 선보이며 가을 뷰티 시장 공략에 나섰다.",
+  "events": [
+   {
+    "name": "Daiso-DAY 뷰티 신상",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-16",
+    "place": "다이소몰",
+    "quote": "아성다이소는 온라인 플랫폼 다이소몰을 통해 기초 더마 케어와 헤어, 색조 부문 330여 종의 신제품 을 10월 12일부터 16일까지 선보이며 가을 뷰티 시장 공략에 나섰다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:22+00:00",
+ "had_body": false
+}

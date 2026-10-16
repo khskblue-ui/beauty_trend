@@ -1,0 +1,42 @@
+{
+ "doc_id": "64994051b87db63c",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312019",
+ "title": "K-Beauty 3.0 in the U.S.: From Visibility to Understanding - 뷰티경제",
+ "summary": "K-beauty is entering a new chapter in the United States.South Korea's cosmetics exports re",
+ "published_at": "2026-10-03T14:15:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "글로벌 시장 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 뷰티 산업이 미국 시장에서 새로운 국면을 맞이하고 있다.",
+  "key_fact_quote": "K-beauty is entering a new chapter in the United States.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:39+00:00",
+ "had_body": false
+}

@@ -1,0 +1,98 @@
+{
+ "doc_id": "ddff85a89a490548",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/granado-offers-the-world-an,28290",
+ "title": "“Granado offers the world an authentic Brazil,” says Sissi Freeman",
+ "summary": "Brazilian beauty brand Granado is continuing its international expansion. Now present in the UK, France, Spain, Portugal and the US, the brand is bringing a distinctive vision of Brazilian perfumery to international markets. We spoke with Sissi Freeman, Marketing and Sales Director, during the Paris presentation in June of Yes, Nós Temos Banana! Premium Beauty News - Where does the Granado brand stand today? Sissi Freeman - With projected revenue of approximately BRL 1.9 billion in 2025,...",
+ "published_at": "2026-10-02T18:30:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "BR",
+   "FR",
+   "GB",
+   "US",
+   "ES",
+   "PT",
+   "IT"
+  ],
+  "brands": [
+   "Granado",
+   "Phebo",
+   "Care Natural Beauty"
+  ],
+  "companies": [
+   "Granado Group",
+   "Mane"
+  ],
+  "keywords": [
+   "브라질 향수",
+   "니치 향수",
+   "향수 론칭"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Yes, Nós Temos Banana!",
+    "brand": "Granado",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "We spoke with Sissi Freeman, Marketing and Sales Director, during the Paris presentation in June of Yes, Nós Temos Banana!",
+    "notes": [
+     "iris",
+     "cedar",
+     "green notes",
+     "sandalwood",
+     "fig"
+    ],
+    "notes_quote": "We arrived at a formula built around iris, including Elixiris, a Mane ingredient derived from the co-extraction of iris and cedar, alongside green notes, sandalwood and fig."
+   }
+  ],
+  "key_fact": "브라질 뷰티 브랜드 그라나도가 신제품 향수를 선보이며 글로벌 시장 확장을 지속하고 있다.",
+  "key_fact_quote": "Brazilian beauty brand Granado is continuing its international expansion.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "banana",
+    "quote": "During this collaboration, we felt that banana was the perfect ingredient for Granado ."
+   },
+   {
+    "name": "iris",
+    "quote": "We arrived at a formula built around iris, including Elixiris, a Mane ingredient derived from the co-extraction of iris and cedar, alongside green notes, sandalwood and fig."
+   },
+   {
+    "name": "Elixiris",
+    "quote": "We arrived at a formula built around iris, including Elixiris, a Mane ingredient derived from the co-extraction of iris and cedar, alongside green notes, sandalwood and fig."
+   },
+   {
+    "name": "cedar",
+    "quote": "We arrived at a formula built around iris, including Elixiris, a Mane ingredient derived from the co-extraction of iris and cedar, alongside green notes, sandalwood and fig."
+   },
+   {
+    "name": "sandalwood",
+    "quote": "We arrived at a formula built around iris, including Elixiris, a Mane ingredient derived from the co-extraction of iris and cedar, alongside green notes, sandalwood and fig."
+   },
+   {
+    "name": "fig",
+    "quote": "We arrived at a formula built around iris, including Elixiris, a Mane ingredient derived from the co-extraction of iris and cedar, alongside green notes, sandalwood and fig."
+   }
+  ],
+  "dropped": [
+   "notes:Yes, Nós Temos Banana!"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:17+00:00",
+ "had_body": true
+}

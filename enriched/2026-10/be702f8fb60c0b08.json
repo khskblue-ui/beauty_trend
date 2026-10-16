@@ -1,0 +1,46 @@
+{
+ "doc_id": "be702f8fb60c0b08",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.atstar1.com/news/articleView.html?idxno=6039406",
+ "title": "지드래곤·이정재, 뷰티 브랜드 낸다… 화장품 사업 뛰어든 K-스타들",
+ "summary": "4분기 출시 하는 것을 목표로 하고 있으며, 일본·미국 틱톡샵을 통한 글로벌 진출도 노린다. 아티스트컴퍼니는 애드테크 플랫폼 사업 부문을 매각하고 화장품 ·웰니스로 사업 축을 옮기는 '올인' 카드를 던졌다. 브랜드에는...",
+ "published_at": "2026-10-09T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "아티스트컴퍼니"
+  ],
+  "keywords": [
+   "뷰티 브랜드",
+   "화장품 사업",
+   "웰니스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "연예인들이 뷰티 브랜드를 선보이며 화장품 및 웰니스 사업에 진출하고 있다.",
+  "key_fact_quote": "지드래곤·이정재, 뷰티 브랜드 낸다… 화장품 사업 뛰어든 K-스타들",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:12+00:00",
+ "had_body": false
+}

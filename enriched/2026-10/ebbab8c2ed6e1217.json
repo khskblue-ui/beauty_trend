@@ -1,0 +1,44 @@
+{
+ "doc_id": "ebbab8c2ed6e1217",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572767155789",
+ "title": "K - 뷰티 수출 2030년 194억달러 전망…\"중국 지나 미국·유럽, 이제 중동...",
+ "summary": "결국 K - 뷰티 의 향후 성장은 수출 액 자체보다 개별 브랜드가 글로벌 시장에서 얼마나 오래 살아남느냐에 달렸다는 평가다. 성장축이 중동·중남미로 확산되고 히어로 제품 중심의 인기가 브랜드 전체의 반복 구매로...",
+ "published_at": "2026-10-06T09:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "글로벌 시장",
+   "수출 성장",
+   "히어로 제품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "케이뷰티의 향후 성장은 개별 브랜드가 글로벌 시장에서 지속적으로 생존하는 것에 달려 있다는 평가가 나온다.",
+  "key_fact_quote": "결국 K - 뷰티 의 향후 성장은 수출 액 자체보다 개별 브랜드가 글로벌 시장에서 얼마나 오래 살아남느냐에 달렸다는 평가다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:20+00:00",
+ "had_body": false
+}

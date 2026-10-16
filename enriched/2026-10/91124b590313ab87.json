@@ -1,0 +1,58 @@
+{
+ "doc_id": "91124b590313ab87",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53642",
+ "title": "[코스모닝] 큐텐재팬, 日 시부야에 샘플 하우스 오픈",
+ "summary": "큐텐재팬이 1일 도쿄 시부야에 체험형 공간 ‘샘플 하우스’를 열었다. 샘플 하우스(Sample House)는 K-뷰티를 비롯한 100여개 브랜드를 소개하는 공간이다. 뷰티와 건강기능식품을 중심으로 구성했다. 큐텐재팬은 팝업스토어 성과와 라이브커머스 실적을 바탕으로 입점 브랜드를 선정했다. 현재 아누아‧메디큐브‧코스알엑스 등을 선보이고 있다. 큐텐재팬 회원에",
+ "published_at": "2026-10-06T10:15:43+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "아누아",
+   "메디큐브",
+   "코스알엑스"
+  ],
+  "companies": [
+   "큐텐재팬"
+  ],
+  "keywords": [
+   "체험형 매장",
+   "플래그십 스토어",
+   "팝업스토어",
+   "오프라인 채널"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "큐텐재팬이 일본 도쿄 시부야에 한국 뷰티 브랜드 등을 소개하는 체험형 공간인 샘플 하우스를 열었다.",
+  "key_fact_quote": "큐텐재팬이 1일 도쿄 시부야에 체험형 공간 ‘샘플 하우스’를 열었다.",
+  "events": [
+   {
+    "name": "샘플 하우스",
+    "start_date": "2026-10-01",
+    "end_date": null,
+    "place": "도쿄 시부야",
+    "quote": "큐텐재팬이 1일 도쿄 시부야에 체험형 공간 ‘샘플 하우스’를 열었다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:32+00:00",
+ "had_body": true
+}

@@ -1,0 +1,77 @@
+{
+ "doc_id": "d85009439cdece26",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100101",
+ "title": "대봉엘에스, IFSCC 2026서 차세대 화장품 소재·제형 연구 4편 공개",
+ "summary": "글로벌 화장품·의약·의료기기 소재 융합 테크기업 대봉엘에스(대표 박진오)가 호주 퍼스에서 열린 ‘IFSCC 2026’에서 포스터 발표 4편을 진행하며 지속가능한 화장품 소재와 피부 전달·제형 기술 연구성과를 공개했다.IFSCC는 세계 화장품·피부과학 분야의 대표적인 국제 학술대회로 올해는 ‘Solving the Sustainable Beauty Equation(지속가능한 뷰티 방정식의 해법)’을 주제로 열렸다. 대봉엘에스는 이번 학회에서 친환경 원료 발굴부터 유효성분의 피부 전달, 피부장벽 개선 제형, 인체 적용 효능 검증까지 이어",
+ "published_at": "2026-10-07T08:53:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR",
+   "AU"
+  ],
+  "brands": [],
+  "companies": [
+   "대봉엘에스"
+  ],
+  "keywords": [
+   "업사이클링",
+   "친환경 추출공법",
+   "피부 전달 기술",
+   "하이드로겔"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "DB JINO Algi Bio Cell Cream MD",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "대봉엘에스가 세계 화장품 학술대회에서 차세대 화장품 소재와 피부 전달 및 제형 기술에 관한 연구성과를 공개했다.",
+  "key_fact_quote": "글로벌 화장품·의약·의료기기 소재 융합 테크기업 대봉엘에스(대표 박진오)가 호주 퍼스에서 열린 ‘IFSCC 2026’에서 포스터 발표 4편을 진행하며 지속가능한 화장품 소재와 피부 전달·제형 기술 연구성과를 공개했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "당근잎",
+    "quote": "먼저 농업 부산물로 버려지던 당근잎을 Bacillus coagulans로 발효해 개발한 소재의 피지 조절과 모공, 여드름 및 피부 진정 효능을 평가했다."
+   },
+   {
+    "name": "당근잎 발효물",
+    "quote": "2% 당근잎 발효물 함유 세럼을 2주간 사용한 결과 얼굴 피지 분비량이 약 27% 감소했으며, 모공 수와 부피, 면적도 각각 개선됐다."
+   },
+   {
+    "name": "어성초",
+    "quote": "어성초 연구에서는 친환경 아임계수 추출공법을 적용해 주요 성분과 미백 관련 작용기전을 분석했다."
+   },
+   {
+    "name": "EGF",
+    "quote": "피부 전달기술 분야에서는 분자량이 큰 EGF(올리고펩타이드-1)에 트랜스퍼좀(Transfersome) 기술을 적용해 약 50nm 크기의 나노 입자로 피부 흡수와 생체이용률을 개선했다."
+   },
+   {
+    "name": "올리고펩타이드-1",
+    "quote": "피부 전달기술 분야에서는 분자량이 큰 EGF(올리고펩타이드-1)에 트랜스퍼좀(Transfersome) 기술을 적용해 약 50nm 크기의 나노 입자로 피부 흡수와 생체이용률을 개선했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:45+00:00",
+ "had_body": true
+}

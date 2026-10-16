@@ -1,0 +1,61 @@
+{
+ "doc_id": "0d8b4621d34698a7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kr.aving.net/news/articleView.html?idxno=1814485",
+ "title": "서스테이너블랩, Try Everything 2026서 업사이클 뷰티 '이든' 선보여… ...",
+ "summary": "부스에서 회사는 맥주 양조 부산물에서 추출한 비건 단백질을 넣어 두피와 피부에 도움을 주는 고체 클렌저와, 사과 부산물을 활용해 스트레스 완화를 돕는 신제품 향수 를 소개했다. 샤워와 여행, 주거 공간에서...",
+ "published_at": "2026-09-15T19:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이든"
+  ],
+  "companies": [
+   "서스테이너블랩"
+  ],
+  "keywords": [
+   "업사이클 뷰티",
+   "비건 뷰티",
+   "업사이클링 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "고체 클렌저",
+    "brand": "이든",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "신제품 향수",
+    "brand": "이든",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "서스테이너블랩이 행사 부스에서 맥주 양조 및 사과 부산물을 활용한 업사이클 뷰티 브랜드 이든의 제품들을 선보였다.",
+  "key_fact_quote": "서스테이너블랩, Try Everything 2026서 업사이클 뷰티 '이든' 선보여… ...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:15+00:00",
+ "had_body": false
+}

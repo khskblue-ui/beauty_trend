@@ -1,0 +1,64 @@
+{
+ "doc_id": "cef73c37d2ca7abe",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ziksir.com/news/articleView.html?idxno=149437",
+ "title": "이마트24, 헬스·뷰티·패션 특화점 '올데이케어랩' 오픈",
+ "summary": "브랜드 '로듀'가 출시 한 '비타 버터 립밤'은 국내 편의점 가운데 이마트24에서 단독 판매한다. 이 밖에도 투에이엔과 딘토, 토니모리 등의 색조 제품과 이즈앤트리·메디힐·더샘·잇츠스킨 등 6개 브랜드의 기초 화장품 약...",
+ "published_at": "2026-10-15T09:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "로듀",
+   "투에이엔",
+   "딘토",
+   "토니모리",
+   "이즈앤트리",
+   "메디힐",
+   "더샘",
+   "잇츠스킨"
+  ],
+  "companies": [
+   "이마트24"
+  ],
+  "keywords": [
+   "특화점",
+   "색조 제품",
+   "기초 화장품",
+   "립밤"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "비타 버터 립밤",
+    "brand": "로듀",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "브랜드 '로듀'가 출시 한 '비타 버터 립밤'은 국내 편의점 가운데 이마트24에서 단독 판매한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이마트이십사는 헬스·뷰티·패션 특화 매장을 열고 뷰티 브랜드 제품 판매에 나선다.",
+  "key_fact_quote": "이마트24, 헬스·뷰티·패션 특화점 '올데이케어랩' 오픈",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:49+00:00",
+ "had_body": false
+}

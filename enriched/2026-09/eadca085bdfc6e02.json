@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "ingredient",
-  "event_type": "business",
+  "event_type": "event",
   "countries": [
    "CN"
   ],
@@ -28,17 +28,16 @@
   ],
   "keywords": [
    "지속가능성 헌장",
-   "향료 규제",
    "ESG 포럼"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "중국 기업들이 지속가능성 헌장에 서명하여 새롭게 합류했다.",
+  "key_fact": "중국 기업들이 난징에서 열린 행사에서 향료 관련 지속가능성 헌장에 서명했다.",
   "key_fact_quote": "Four Chinese companies sign the IFRA – IOFI Sustainability Charter",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:29+00:00",
+ "enriched_at": "2026-10-14T14:15:36+00:00",
  "had_body": false
 }

@@ -1,0 +1,44 @@
+{
+ "doc_id": "0969d17b18716528",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261013_0003824019",
+ "title": "경북 뷰티 ·식품, 중국 선전 세계한인경제인대회서 인기",
+ "summary": "경북도는 이곳에 뷰티 ·식품·소비재 분야의 제품을 소개하는 경북 공동관을 운영해 수출 상담 547건... 대회 부대행사인 '글로벌 스타트업 대회'에서는 경산의 화장품 기업 ㈜네이처포가 K - 뷰티 분야 1등을 차지했다....",
+ "published_at": "2026-10-13T14:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "네이처포"
+  ],
+  "keywords": [
+   "수출 상담",
+   "공동관"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "경북 뷰티 기업들이 중국 선전에서 열린 세계한인경제인대회에서 성과를 거두었다.",
+  "key_fact_quote": "경북 뷰티 ·식품, 중국 선전 세계한인경제인대회서 인기",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:46+00:00",
+ "had_body": false
+}

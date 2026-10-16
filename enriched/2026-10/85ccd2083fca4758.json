@@ -1,0 +1,68 @@
+{
+ "doc_id": "85ccd2083fca4758",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45387",
+ "title": "코웨이 '리엔케이', 美 코스트코 입점해 K- 화장품 알린다",
+ "summary": "이번 입점과 함께 리엔케이는 신제품 '셀레스티얼 콜라겐 크림'도 새롭게 선보였다. 이 제품은 정제수를 100... 한편, 힐러비 소속 브랜드로는 ▲영국 V&A 뮤지엄의 라이선스 화장품 브랜드 'V&A뷰티' ▲세포 과학 기반의 셀...",
+ "published_at": "2026-10-08T14:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "GB"
+  ],
+  "brands": [
+   "리엔케이",
+   "V&A뷰티"
+  ],
+  "companies": [
+   "코웨이",
+   "힐러비"
+  ],
+  "keywords": [
+   "콜라겐 크림",
+   "유통망 확장"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "셀레스티얼 콜라겐 크림",
+    "brand": "리엔케이",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번 입점과 함께 리엔케이는 신제품 '셀레스티얼 콜라겐 크림'도 새롭게 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코웨이의 리엔케이가 미국 코스트코에 입점하며 신제품을 선보였다.",
+  "key_fact_quote": "코웨이 '리엔케이', 美 코스트코 입점해 K- 화장품 알린다",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "콜라겐",
+    "quote": "이번 입점과 함께 리엔케이는 신제품 '셀레스티얼 콜라겐 크림'도 새롭게 선보였다."
+   },
+   {
+    "name": "정제수",
+    "quote": "이 제품은 정제수를 100..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:50+00:00",
+ "had_body": false
+}

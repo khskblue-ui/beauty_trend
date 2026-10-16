@@ -1,0 +1,53 @@
+{
+ "doc_id": "1adae8e14db30e34",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://magazine.hankyung.com/money/article/202609305492c",
+ "title": "비비안 웨스트우드 ‘부두아’ 향수 국내 출시",
+ "summary": "옅은 핑크빛 향수 가 비치는 유리 보틀 상단에는 하우스의 상징인 골드 오브(Orb)를 얹었다. 부두아 오 드 퍼퓸은 비비안웨스트우드 매장에서 판매한다. 특별히 출시 를 기념해 신세계백화점 강남점, 갤러리아백화점...",
+ "published_at": "2026-10-01T08:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비비안 웨스트우드"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 출시",
+   "오 드 퍼퓸"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "부두아 오 드 퍼퓸",
+    "brand": "비비안 웨스트우드",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "비비안 웨스트우드 ‘부두아’ 향수 국내 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "비비안 웨스트우드가 부두아 향수를 국내에 출시한다.",
+  "key_fact_quote": "비비안 웨스트우드 ‘부두아’ 향수 국내 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:51+00:00",
+ "had_body": false
+}

@@ -18,12 +18,13 @@
   "category": "regulation",
   "event_type": "regulation",
   "countries": [
-   "KR"
+   "KR",
+   "SG",
+   "VN",
+   "MX"
   ],
   "brands": [],
   "companies": [
-   "한국보건산업진흥원",
-   "한국관광공사",
    "한국콜마",
    "코스맥스"
   ],
@@ -31,18 +32,26 @@
    "맞춤형 화장품",
    "뷰티 테크",
    "메디컬 뷰티",
-   "피부진단"
+   "화장품 안전성 평가제도"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "정부는 국내 화장품 산업을 인공지능과 데이터 및 디바이스가 결합된 고부가가치 서비스로 확장하기 위한 지원 방안을 발표했다.",
+  "key_fact": "정부가 국내 화장품 산업을 첨단 기술과 서비스가 결합된 고부가가치 생태계로 전환하기 위해 관련 지원 방안을 발표했다.",
   "key_fact_quote": "정부가 국내 화장품 산업을 AI·데이터·디바이스가 결합된 고부가가치 신(新)서비스로 확장하기 위해 전방위 지원에 나선다.",
-  "events": [],
+  "events": [
+   {
+    "name": "경제관계장관회의 겸 서비스산업발전 태스크포스(TF)",
+    "start_date": "2026-10-14",
+    "end_date": null,
+    "place": null,
+    "quote": "14일 이형일 경제부총리 겸 재정경제부 장관은 경제관계장관회의 겸 서비스산업발전 태스크포스(TF)에서 이 같은 내용을 담은 ‘AI 융복합 K뷰티 서비스 지원 방안’을 발표했다."
+   }
+  ],
   "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:49:49+00:00",
+ "enriched_at": "2026-10-15T15:20:56+00:00",
  "had_body": true
 }

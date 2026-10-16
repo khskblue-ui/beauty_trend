@@ -1,0 +1,40 @@
+{
+ "doc_id": "52c07cfa088c44d0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/09/15/2026091502468.html",
+ "title": "아기 선크림 고를 때, ‘딱 한 가지’ 꼭 확인해야 할 것은?",
+ "summary": "자외선 차단제는 가급적 무 향료 , 무알코올, 방부제를 최소화한 크림, 로션을 고른다. 아토피피부염을 앓는... ▲무기자차인지 ▲크림·로션형인지 ▲ 향료 사용이 최소화됐는지를 우선 살폈다. 선스틱·선쿠션은 대부분...",
+ "published_at": "2026-09-16T08:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "아기 선크림",
+   "무향료",
+   "자외선 차단제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아기 자외선 차단제는 향료와 알코올이 배제되고 방부제가 최소화된 제형을 고르는 것이 권장된다.",
+  "key_fact_quote": "자외선 차단제는 가급적 무 향료 , 무알코올, 방부제를 최소화한 크림, 로션을 고른다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:03+00:00",
+ "had_body": false
+}

@@ -1,0 +1,102 @@
+{
+ "doc_id": "c449e7ccdb99919b",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58458",
+ "title": "대한화장품학회 포럼 ③ LG생활건강 현창환 책임연구원, 뷰티 디바이스와 피부 생체 과학이 완성하는 K-더마테크 발표",
+ "summary": "[코스인코리아닷컴 권태흥 기자]최근 뷰티 디바이스가 화장품업계의 새로운 먹거리로 주목받고 있다. 그런 와중에 LG생활건강은 LG전자로부터 LG프라엘(Pra.L)을 이관받아 ‘테크니컬 스킨케어’(Beauty Advanced by Tech) 브랜드로 재탄생했다. 그 주인공이 LG생활건강 뷰티테크연구팀 현창환 책임연구원이다. 그는 ‘뷰티 디바이스와 피부 생체",
+ "published_at": "2026-10-08T10:38:19+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "LG Pra.L"
+  ],
+  "companies": [
+   "LG생활건강",
+   "LG전자"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "스킨 롱제비티",
+   "슬로우 에이징",
+   "홈케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "갈바닉 부스터",
+    "brand": "LG Pra.L",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "LG Pra.L은 이 가운데 3대 제품 솔루션을 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "써마샷 얼티밋",
+    "brand": "LG Pra.L",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "LG Pra.L은 이 가운데 3대 제품 솔루션을 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "멜라빔 토닝(2026)",
+    "brand": "LG Pra.L",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "LG Pra.L은 이 가운데 3대 제품 솔루션을 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "대한화장품학회 포럼에서 엘지생활건강과 서울대 연구진이 뷰티 디바이스와 피부 생체 과학을 접목한 기술 및 피부 장수 연구 동향을 발표했다.",
+  "key_fact_quote": "대한화장품학회 포럼 ③ LG생활건강 현창환 책임연구원, 뷰티 디바이스와 피부 생체 과학이 완성하는 K-더마테크 발표",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "갈바닉 부스터의 고객 포인트는 흡수 촉진(갈바닉), 주름개선(갈바닉, 히알루론산), 립 플럼핑(진동, 갈바닉) 등에 중점을 뒀다."
+   },
+   {
+    "name": "비타민C",
+    "quote": "실제 비타민C 앰플의 단순 도포 대비 갈바닉+진동은 in vitro 피부흡수율 최대 300% 증가했다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "RF 열에너지 기반 피부탄력 관리 제품으로 전자기파를 발생시켜 진피 및 피하층에 열을 생성하고 이를 통해 조절된 열 손상 및 콜라겐 재형성을 유도한다."
+   },
+   {
+    "name": "코티솔",
+    "quote": "하지만 수면 아래 분자 기전으로 보면 △ 장벽 붕괴·국소 코티솔(cortisol) △ 세포 노화 △ ECM 분해 △ inflammaging·균총이상 △ 미토콘트리아·NAD+감소 △ 후성유전 나이 가속 등이라고 할 수 있다”라고 말했다."
+   },
+   {
+    "name": "NAD+",
+    "quote": "하지만 수면 아래 분자 기전으로 보면 △ 장벽 붕괴·국소 코티솔(cortisol) △ 세포 노화 △ ECM 분해 △ inflammaging·균총이상 △ 미토콘트리아·NAD+감소 △ 후성유전 나이 가속 등이라고 할 수 있다”라고 말했다."
+   },
+   {
+    "name": "엘라스틴",
+    "quote": "그런데 노화나 광자극으로 인해 미토콘드리아 기능이 떨어지면 과도한 활성산소(ROS)가 배출되어 진피 기질(콜라겐, 엘라스틴) 분해 효소(MMP)를 활성화시킨다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:23+00:00",
+ "had_body": true
+}

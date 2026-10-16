@@ -1,0 +1,62 @@
+{
+ "doc_id": "2f29fb261f729a7d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/living/2026/10/01/2026100110062772739",
+ "title": "구다이글로벌, K이너 뷰티 '이세비' 론칭 …스파클링 드링크 선봬",
+ "summary": "글로벌 뷰티 기업 구다이글로벌이 K이너 뷰티 브랜드 '이세비(eseve)'를 새롭게 선보인다. 기존 한방차와 농축액 중심이던 이너 뷰티 드링크와 차별화한 레몬 스파클링 음료다. 이세비의 주력 제품 '에어리 페이스 드링크...",
+ "published_at": "2026-10-01T11:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이세비",
+   "eseve"
+  ],
+  "companies": [
+   "구다이글로벌"
+  ],
+  "keywords": [
+   "이너 뷰티",
+   "스파클링 드링크",
+   "이너 뷰티 드링크"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "에어리 페이스 드링크",
+    "brand": "이세비",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "글로벌 뷰티 기업 구다이글로벌이 K이너 뷰티 브랜드 '이세비(eseve)'를 새롭게 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "구다이글로벌이 케이 이너 뷰티 브랜드 이세비를 론칭하고 스파클링 음료 제품을 선보였다.",
+  "key_fact_quote": "글로벌 뷰티 기업 구다이글로벌이 K이너 뷰티 브랜드 '이세비(eseve)'를 새롭게 선보인다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레몬",
+    "quote": "기존 한방차와 농축액 중심이던 이너 뷰티 드링크와 차별화한 레몬 스파클링 음료다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:04+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "e13aad72ff10893d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=227807",
+ "title": "\"새 화장품 경쟁자는 홈케어 디바이스…'톤28', 기능성 차별화 주력\"",
+ "summary": "안티에이징 신제품 을 선보인다. 레티놀과 PDRN 등 특정 성분을 중심으로 경쟁이 이어지고 있는 화장품 시장에서 새로운 원료를 앞세워 차별화에 나선다. 이 회사 정마리아 대표는 화장품 시장의 새로운 경쟁자로 '홈케어...",
+ "published_at": "2026-09-21T22:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "톤28"
+  ],
+  "companies": [
+   "톤28"
+  ],
+  "keywords": [
+   "안티에이징",
+   "홈케어 디바이스",
+   "기능성 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "톤이십팔은 화장품 시장에서 새로운 원료를 앞세운 안티에이징 신제품으로 기능성 차별화에 나선다.",
+  "key_fact_quote": "안티에이징 신제품 을 선보인다. 레티놀과 PDRN 등 특정 성분을 중심으로 경쟁이 이어지고 있는 화장품 시장에서 새로운 원료를 앞세워 차별화에 나선다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:03+00:00",
+ "had_body": false
+}

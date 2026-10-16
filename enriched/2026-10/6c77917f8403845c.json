@@ -1,0 +1,40 @@
+{
+ "doc_id": "6c77917f8403845c",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/estee-lauder-product-innovation-makeup-skin-fragrance-1239221249/",
+ "title": "How the Estée Lauder Cos. Keeps the Spirit of Innovation Alive",
+ "summary": "The company, which is celebrating 80 years in business, has created some of beauty's most recognizable heroes — and plans to inaugurate many more.",
+ "published_at": "2026-10-09T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Estée Lauder Cos."
+  ],
+  "keywords": [
+   "뷰티 혁신"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에스티 로더 컴퍼니즈는 오랜 사업 역사를 바탕으로 대표적인 뷰티 제품들을 선보이며 혁신을 이어가고 있다.",
+  "key_fact_quote": "The company, which is celebrating 80 years in business, has created some of beauty's most recognizable heroes — and plans to inaugurate many more.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:16+00:00",
+ "had_body": false
+}

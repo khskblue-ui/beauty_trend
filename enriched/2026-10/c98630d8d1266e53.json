@@ -1,0 +1,47 @@
+{
+ "doc_id": "c98630d8d1266e53",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Economy/article/all/20261008/134812516/2",
+ "title": "롯데百, LA서 K뷰티 팝업… 신진 브랜드 해외진출 지원",
+ "summary": "글로벌 K존은 뷰티 ·패션·식품 등 한국의 라이프스타일을 소개하는 문화 수출 플랫폼으로, 올해 LA, 뉴욕, 파리 등 6개 도시에 문을 연다. 팝업에는 스킨케어와 향수 등 국내 7개 브랜드가 참여한다. 롯데백화점의 K뷰티 ...",
+ "published_at": "2026-10-09T01:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데백화점"
+  ],
+  "keywords": [
+   "K뷰티",
+   "팝업스토어",
+   "신진 브랜드",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "롯데백화점이 해외 주요 도시에서 한국 라이프스타일을 소개하는 팝업스토어를 운영하며 국내 뷰티 브랜드의 해외 진출을 지원한다.",
+  "key_fact_quote": "롯데백화점의 K뷰티 ...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:27+00:00",
+ "had_body": false
+}

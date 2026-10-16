@@ -1,0 +1,46 @@
+{
+ "doc_id": "db7259b5186b2b1a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492082",
+ "title": "무신사, 패션 고객 뷰티 로 연결… 신제품 첫 공개 채널 강화",
+ "summary": "무신사 뷰티 전체 구매 고객 가운데 10~30대 비중은 약 80%다. 신제품 출시 초기에 젊은 소비자와 빠르게 접점을 만들고 시장 반응을 확인할 수 있다는 점이 강점으로 작용하고 있다는 게 회사 측 설명이다. 상품 특성과...",
+ "published_at": "2026-10-02T08:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사 뷰티"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "뷰티 플랫폼",
+   "신제품 론칭 채널",
+   "패션 뷰티 연계"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "무신사는 젊은 소비자층을 바탕으로 패션 고객을 뷰티로 연결하며 신제품 첫 공개 채널을 강화하고 있다.",
+  "key_fact_quote": "신제품 출시 초기에 젊은 소비자와 빠르게 접점을 만들고 시장 반응을 확인할 수 있다는 점이 강점으로 작용하고 있다는 게 회사 측 설명이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:09+00:00",
+ "had_body": false
+}

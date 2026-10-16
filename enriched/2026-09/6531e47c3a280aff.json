@@ -1,0 +1,41 @@
+{
+ "doc_id": "6531e47c3a280aff",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=133236",
+ "title": "식품부터 뷰티·리빙까지...유통업계, 가을 맞아 신제품 출시 잇따라",
+ "summary": "사탕수수에서 추출한 에탄올을 사용해 알코올 향을 줄였으며 글로벌 향료 회사의 전문 조향사와 연구를 통해 개발한 향료 를 사용했다. 국제 향료 협회(IFRA) 기준을 준수했으며 폼알데하이드, 메탄올, 글리옥살 등 유해...",
+ "published_at": "2026-09-17T09:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "가을 신제품",
+   "조향 연구",
+   "알코올 저감",
+   "글로벌 향료"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유통업계가 가을을 맞아 전문 조향사와 개발한 향료 및 알코올 향을 줄인 신제품 출시를 이어가고 있다.",
+  "key_fact_quote": "사탕수수에서 추출한 에탄올을 사용해 알코올 향을 줄였으며 글로벌 향료 회사의 전문 조향사와 연구를 통해 개발한 향료 를 사용했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:16:50+00:00",
+ "had_body": false
+}

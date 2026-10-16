@@ -23,17 +23,27 @@
   "brands": [],
   "companies": [],
   "keywords": [
-   "식품 박람회",
-   "푸드 페스티벌"
+   "식품박람회",
+   "푸드페스티벌"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": null,
-  "key_fact_quote": null,
+  "key_fact": "경상북도 식품박람회와 구미푸드페스티벌이 구미 박정희체육관에서 동시 개최된다.",
+  "key_fact_quote": "구미시는 오는 16일부터 18일까지 사흘간 구미 박정희체육관에서 ‘경북에서 시작되는 식품한류산업의 미래’를 주제로 '제18회 경상북도 식품박람회'가 열린다고 14일 밝혔다.",
+  "events": [
+   {
+    "name": "제18회 경상북도 식품박람회",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-18",
+    "place": "구미 박정희체육관",
+    "quote": "구미시는 오는 16일부터 18일까지 사흘간 구미 박정희체육관에서 ‘경북에서 시작되는 식품한류산업의 미래’를 주제로 '제18회 경상북도 식품박람회'가 열린다고 14일 밝혔다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:48+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:22+00:00",
  "had_body": true
 }

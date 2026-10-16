@@ -15,8 +15,8 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "fragrance",
-  "event_type": "event",
+  "category": "retail",
+  "event_type": "business",
   "countries": [
    "HK",
    "KR"
@@ -27,17 +27,20 @@
   ],
   "keywords": [
    "니치 향수",
+   "면세 시장",
    "향수 마켓",
    "체험형 매장"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "신라면세점이 홍콩국제공항에서 체험형 매장을 운영하며 글로벌 면세 니치 향수 시장 공략에 나섰다.",
+  "key_fact": "신라면세점이 홍콩국제공항에서 글로벌 면세 니치 향수 시장 공략에 나섰다.",
   "key_fact_quote": "신라면세점이 홍콩국제공항에서 글로벌 면세 니치 향수 시장 공략에 강드라이브를 건다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:58+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:21+00:00",
  "had_body": false
 }

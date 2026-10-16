@@ -1,0 +1,69 @@
+{
+ "doc_id": "6fcb1788673d463f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=247325",
+ "title": "네이처글로리, '안티 헤어 로스 2dDR 에센스' 출시 예정...\"스킨케어부터...",
+ "summary": "그러면서 \" 신제품 의 핵심 연구 소재는 2dDR(2-deoxy-D-ribose)이다. DNA를 구성하는 당의 일종\"이라며 \"디옥시리보스(Deoxyribose)로 소개되며, 대한 화장품 협회 성분사전상 한글 성분명은 '디옥시리보오스'\"라고 설명했다....",
+ "published_at": "2026-10-07T14:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "네이처글로리"
+  ],
+  "companies": [
+   "네이처글로리"
+  ],
+  "keywords": [
+   "헤어케어",
+   "탈모 케어",
+   "기능성 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "안티 헤어 로스 2dDR 에센스",
+    "brand": "네이처글로리",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "네이처글로리, '안티 헤어 로스 2dDR 에센스' 출시 예정...\"스킨케어부터...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "네이처글로리가 디옥시리보오스를 핵심 소재로 한 신제품 에센스를 선보일 예정이다.",
+  "key_fact_quote": "네이처글로리, '안티 헤어 로스 2dDR 에센스' 출시 예정...\"스킨케어부터...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "2dDR(2-deoxy-D-ribose)",
+    "quote": "그러면서 \" 신제품 의 핵심 연구 소재는 2dDR(2-deoxy-D-ribose)이다."
+   },
+   {
+    "name": "디옥시리보스(Deoxyribose)",
+    "quote": "DNA를 구성하는 당의 일종\"이라며 \"디옥시리보스(Deoxyribose)로 소개되며, 대한 화장품 협회 성분사전상 한글 성분명은 '디옥시리보오스'\"라고 설명했다...."
+   },
+   {
+    "name": "디옥시리보오스",
+    "quote": "DNA를 구성하는 당의 일종\"이라며 \"디옥시리보스(Deoxyribose)로 소개되며, 대한 화장품 협회 성분사전상 한글 성분명은 '디옥시리보오스'\"라고 설명했다...."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:02+00:00",
+ "had_body": false
+}

@@ -16,24 +16,23 @@
  "extraction": {
   "relevant": false,
   "category": "other",
-  "event_type": "event",
+  "event_type": "other",
   "countries": [
    "KR"
   ],
   "brands": [],
   "companies": [],
-  "keywords": [
-   "초광역 협력",
-   "지방자치단체 상생"
-  ],
-  "is_press_release": true,
+  "keywords": [],
+  "is_press_release": false,
   "products": [],
-  "key_fact": "경북 경주시가 해오름동맹 출범 주년을 맞아 울산 및 포항과의 초광역 협력을 강화하고 시민 체감형 공동 상생 사업 확대를 논의했다.",
-  "key_fact_quote": "경북 경주시가 해오름동맹 출범 10주년을 맞아 울산·포항과의 초광역 협력을 한층 강화하고 시민들이 일상에서 체감할 수 있는 공동 상생 사업 확대에 속도를 낸다.",
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:09:03+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:30+00:00",
  "had_body": true
 }

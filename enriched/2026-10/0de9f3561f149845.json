@@ -1,0 +1,46 @@
+{
+ "doc_id": "0de9f3561f149845",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12168809",
+ "title": "“여긴 대부분 재구매 고객이야”…온라인몰, 이제 ‘K뷰티’ 먼저 모신...",
+ "summary": "K뷰티 인기에 판매경쟁력 강화 쿠팡, 더마 화장품 전문관 론칭 G마켓, 올해 2백개 브랜드 유치 컨퍼런스 열어... 11번가는 매주 수요일 뷰티 전용 라이브 방송을 통해 신제품 과 단독 구성 상품을 판매하고 있다. 향후 이...",
+ "published_at": "2026-10-06T06:03:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "쿠팡",
+   "G마켓",
+   "11번가"
+  ],
+  "keywords": [
+   "온라인몰",
+   "더마 화장품",
+   "라이브 방송"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "온라인 쇼핑몰들이 K뷰티 인기에 맞춰 전문관을 선보이거나 브랜드를 유치하며 판매 경쟁력 강화에 나서고 있다.",
+  "key_fact_quote": "K뷰티 인기에 판매경쟁력 강화 쿠팡, 더마 화장품 전문관 론칭 G마켓, 올해 2백개 브랜드 유치 컨퍼런스 열어...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:05+00:00",
+ "had_body": false
+}

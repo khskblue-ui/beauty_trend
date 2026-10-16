@@ -1,0 +1,52 @@
+{
+ "doc_id": "ddbf3ec7545c4f65",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58439",
+ "title": "화장품 수출 3분기 누계 111억달러... 상위 10개국에 유럽 3개국 차지",
+ "summary": "[코스인코리아닷컴 김민석 기자]2일 식약처에 따르면 3분기 수출액은 41.7억달러로 전분기보다 7.5 증가함으로써 분기별로 지속적인 성장세를 이어가고 있음을 보여줬다. 이로써 화장품 수출은 3분기 누계 111억달러를 기록하며 역대 최대 실적을 경신했다. 이는 ‘25년 수출액(114억달러)에 육박하는 수치로 불과 9개월만에 달성한 것이다. 국가별 3분기",
+ "published_at": "2026-10-03T20:37:35+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN",
+   "JP",
+   "GB",
+   "NL",
+   "PL",
+   "CA",
+   "RU",
+   "VN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "기초 화장품",
+   "색조화장품",
+   "인체세정용"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 누적 수출액이 분기별 성장세를 이어가며 역대 최대 실적을 경신했다.",
+  "key_fact_quote": "이로써 화장품 수출은 3분기 누계 111억달러를 기록하며 역대 최대 실적을 경신했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:39+00:00",
+ "had_body": true
+}

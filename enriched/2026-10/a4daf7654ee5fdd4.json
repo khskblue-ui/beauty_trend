@@ -1,0 +1,42 @@
+{
+ "doc_id": "a4daf7654ee5fdd4",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312091",
+ "title": "주가로 읽는 K-뷰티: 중견주, 주가는 약세·외국인 수급은 차별화 - 뷰티경제",
+ "summary": "국내 화장품 중견기업들의 주가가 9월 한 달간 전반적인 조정 국면을 보인 가운데 외국인 투자자들은 종목별로 차별화된 매매 패턴을 보였다.본지가 네이버증권 데이터를",
+ "published_at": "2026-10-06T19:01:11+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 주가",
+   "외국인 수급",
+   "중견 화장품 기업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 화장품 중견기업들의 주가가 조정 국면을 보인 가운데 외국인 투자자들은 종목별로 차별화된 매매 양상을 나타냈다.",
+  "key_fact_quote": "국내 화장품 중견기업들의 주가가 9월 한 달간 전반적인 조정 국면을 보인 가운데 외국인 투자자들은 종목별로 차별화된 매매 패턴을 보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:45+00:00",
+ "had_body": false
+}

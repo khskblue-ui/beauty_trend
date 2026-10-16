@@ -1,0 +1,88 @@
+{
+ "doc_id": "e69eb8917c5f69e1",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100091",
+ "title": "정샘물 뷰티, 미국 LA 세포라도 홀렸다",
+ "summary": "K-No.1 메이크업 아티스트 정샘물의 뷰티 철학과 노하우를 담은 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 미국 세포라(Sephora) 공식 입점을 기념해, 캘리포니아주 로스앤젤레스(LA) 현지에서 인플루언서 마스터클래스를 개최했다고 밝혔다.이번 행사는 LA에 위치한 세포라 스튜디오(Sephora Studio)에서 현지 유력 뷰티 인플루언서 30여 명을 초청한 가운데 정샘물 뷰티만의 특별한 체험형 프로그램으로 포문을 열었다. 현장에서는 정샘물 메이크업 아티스트가 직접 단상에 올라 K-뷰티의 핵심 트렌드인 ‘글래스 스킨(Glas",
+ "published_at": "2026-10-08T10:29:22+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "정샘물",
+   "JUNGSAEMMOOL"
+  ],
+  "companies": [
+   "세포라",
+   "Sephora"
+  ],
+  "keywords": [
+   "글래스 스킨",
+   "퍼스널 쉐이드 매칭",
+   "인플루언서 마케팅",
+   "쿠션 블러쉬",
+   "베이스 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "에센셜 물크림",
+    "brand": "정샘물",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "에센셜 스킨 누더 쿠션",
+    "brand": "정샘물",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "쿠션 블러쉬",
+    "brand": "정샘물",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "메탈 립글로스",
+    "brand": "정샘물",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 브랜드 정샘물이 미국 세포라 공식 입점을 기념해 로스앤젤레스 현지에서 인플루언서 마스터클래스를 개최했다.",
+  "key_fact_quote": "K-No.1 메이크업 아티스트 정샘물의 뷰티 철학과 노하우를 담은 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 미국 세포라(Sephora) 공식 입점을 기념해, 캘리포니아주 로스앤젤레스(LA) 현지에서 인플루언서 마스터클래스를 개최했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:46+00:00",
+ "had_body": true
+}

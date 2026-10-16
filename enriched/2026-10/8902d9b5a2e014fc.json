@@ -1,0 +1,46 @@
+{
+ "doc_id": "8902d9b5a2e014fc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sports.hankooki.com/news/articleView.html?idxno=6941335",
+ "title": "뷰티셀렉션, 이상훈 COO·신건식 CCO 영입… 글로벌 확장 전략 가속화",
+ "summary": "4월 출시 이후 올해 8월까지 누적 3억 5천만 장이 생산됐고 바이오던스는 현재 전 세계 90개국에서... 이 COO는 화장품 업계에서 25년 이상 ODM, 브랜드 마케팅, 영업, SCM을 두루 거쳤고 한국콜마에서 12년간 ODM 영업을...",
+ "published_at": "2026-10-07T15:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "바이오던스"
+  ],
+  "companies": [
+   "뷰티셀렉션",
+   "한국콜마"
+  ],
+  "keywords": [
+   "글로벌 확장",
+   "인재 영입"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "뷰티셀렉션이 글로벌 확장 전략 가속화를 위해 최고운영책임자와 최고고객책임자를 영입했다.",
+  "key_fact_quote": "뷰티셀렉션, 이상훈 COO·신건식 CCO 영입… 글로벌 확장 전략 가속화",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:33+00:00",
+ "had_body": false
+}

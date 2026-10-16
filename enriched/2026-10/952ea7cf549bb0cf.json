@@ -1,0 +1,57 @@
+{
+ "doc_id": "952ea7cf549bb0cf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.srtimes.kr/news/articleView.html?idxno=213848",
+ "title": "신세계인터 어뮤즈, '자연스런 피부결' 최적화 쿠션·블러쉬 잇달아 출...",
+ "summary": "글로벌 화장품 제조자개발생산(ODM) 기업 코스맥스와 오랜 연구 끝에 개발한 세계 최초의 '세럼 도우' 제형이... 8월 말 출시한 신제품 '듀 세럼 리퀴드 블러쉬'는 블러셔를 안한 듯한 안티블러셔 메이크업 트렌드가...",
+ "published_at": "2026-10-02T09:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어뮤즈"
+  ],
+  "companies": [
+   "신세계인터",
+   "코스맥스"
+  ],
+  "keywords": [
+   "쿠션",
+   "리퀴드 블러쉬",
+   "안티블러셔 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "듀 세럼 리퀴드 블러쉬",
+    "brand": "어뮤즈",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "8월 말 출시한 신제품 '듀 세럼 리퀴드 블러쉬'는 블러셔를 안한 듯한 안티블러셔 메이크업 트렌드가...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "어뮤즈가 코스맥스와 협력 개발한 제형을 적용한 쿠션과 블러쉬 등 신제품을 선보였다.",
+  "key_fact_quote": "신세계인터 어뮤즈, '자연스런 피부결' 최적화 쿠션·블러쉬 잇달아 출...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:22+00:00",
+ "had_body": false
+}

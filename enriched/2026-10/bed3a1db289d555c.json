@@ -27,8 +27,9 @@
   ],
   "keywords": [
    "다이소 뷰티",
-   "흔적 케어",
-   "피부 장벽"
+   "피부 장벽 관리",
+   "색소침착 관리",
+   "리페어 케어"
   ],
   "is_press_release": true,
   "products": [
@@ -36,17 +37,20 @@
     "name": "후시덤 흔적 리페어",
     "brand": null,
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "다이소 뷰티 시장 공략에 속도를 낸다.기존 피부 장벽 관리 중심의 제품에 피부 흔적과 색소침착 관리... 다이소에 출시 했다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "동화약품이 다이소 전용 신제품 라인을 출시하며 유통 채널 공략에 속도를 낸다.",
+  "key_fact": "동화약품이 다이소 뷰티 시장 공략 확대를 위해 피부 흔적과 색소침착을 관리하는 신제품을 선보였다.",
   "key_fact_quote": "동화약품, 다이소 뷰티 시장 공략 확대..‘후시덤 흔적 리페어’ 5종 출...",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:24+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:36+00:00",
  "had_body": false
 }

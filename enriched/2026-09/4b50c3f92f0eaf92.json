@@ -1,0 +1,53 @@
+{
+ "doc_id": "4b50c3f92f0eaf92",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=105833",
+ "title": "1912년 겔랑이 탄생시킨 향수 '뢰르 블루'...송혜교와 헤리티지 잇는다",
+ "summary": "뢰르 블루 오 드 퍼퓸은 낮과 밤 사이 짙은 푸른빛 하늘을 감싸는 '블루 아워'에서 영감을 받은 앰버 플로럴 향수 다. 부드러우면서도 깊이 있는 향으로 블루 아워의 분위기를 표현했다. 신제품 은 1912년 자크 겔랑이...",
+ "published_at": "2026-09-01T17:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "겔랑"
+  ],
+  "companies": [
+   "겔랑"
+  ],
+  "keywords": [
+   "앰버 플로럴 향수",
+   "오 드 퍼퓸",
+   "헤리티지 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "뢰르 블루 오 드 퍼퓸",
+    "brand": "겔랑",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "앰버 플로럴"
+    ],
+    "notes_quote": "뢰르 블루 오 드 퍼퓸은 낮과 밤 사이 짙은 푸른빛 하늘을 감싸는 '블루 아워'에서 영감을 받은 앰버 플로럴 향수 다."
+   }
+  ],
+  "key_fact": "겔랑이 과거 헤리티지를 잇는 앰버 플로럴 계열의 신제품 향수 뢰르 블루 오 드 퍼퓸을 소개했다.",
+  "key_fact_quote": "뢰르 블루 오 드 퍼퓸은 낮과 밤 사이 짙은 푸른빛 하늘을 감싸는 '블루 아워'에서 영감을 받은 앰버 플로럴 향수 다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:56+00:00",
+ "had_body": false
+}

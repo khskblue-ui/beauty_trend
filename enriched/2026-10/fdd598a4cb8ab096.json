@@ -27,14 +27,15 @@
   "keywords": [
    "리미티드 에디션",
    "머스크 향",
-   "협업 향수"
+   "협업 제품"
   ],
-  "is_press_release": true,
+  "is_press_release": false,
   "products": [
    {
     "name": "뮤스크 라바줴",
     "brand": null,
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [
      "머스크"
@@ -42,12 +43,14 @@
     "notes_quote": "관능적이고 깊이 있는 머스크 향에 브랜드 고유의..."
    }
   ],
-  "key_fact": "조향사 모리스 루셀의 대표작과 피스마이너스원이 협업한 리미티드 에디션 향수가 선보여진다.",
+  "key_fact": "조향사 모리스 루셀의 뮤스크 라바줴와 피스마이너스원의 협업 리미티드 에디션 제품이 공개된다.",
   "key_fact_quote": "이번 협업 제품은 세계적인 조향사 모리스 루셀의 아이코닉한 명작 '뮤스크 라바줴'에 피스마이너스원 특유의 독창적인 미학과 시선을 결합한 리미티드 에디션이다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:34+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:13+00:00",
  "had_body": false
 }

@@ -1,0 +1,82 @@
+{
+ "doc_id": "0062ce0ee0e06152",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53643",
+ "title": "[코스모닝] 샤르드 ‘히알 플럼핑 더블 캡슐 크림’",
+ "summary": "샤르드가 ‘히알 플럼핑 더블 캡슐 크림’을 출시했다. 이 제품은 수분 공급과 볼륨 관리에 초점을 맞췄다. 보습 효과를 제공하는 세라마이드와 수분을 머금는 엑토인을 캡슐 형태로 담았다. 피부에 풍부한 수분을 채워 촉촉하고 탄탄하게 가꿔준다. 저분자 히알루론산 발효물을 68% 함유해 건조한 피부를 윤기있게 유지한다. 이온 복합체와 포도당·콜레스테롤·지방산을 배",
+ "published_at": "2026-10-06T15:50:33+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "샤르드",
+   "CHARDE"
+  ],
+  "companies": [
+   "뉴셀렉트"
+  ],
+  "keywords": [
+   "캡슐 크림",
+   "슬로우에이징",
+   "스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "히알 플럼핑 더블 캡슐 크림",
+    "brand": "샤르드",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "샤르드가 ‘히알 플럼핑 더블 캡슐 크림’을 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "샤르드가 수분 공급과 볼륨 관리에 초점을 맞춘 캡슐 크림을 선보였다.",
+  "key_fact_quote": "샤르드가 ‘히알 플럼핑 더블 캡슐 크림’을 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "보습 효과를 제공하는 세라마이드와 수분을 머금는 엑토인을 캡슐 형태로 담았다."
+   },
+   {
+    "name": "엑토인",
+    "quote": "보습 효과를 제공하는 세라마이드와 수분을 머금는 엑토인을 캡슐 형태로 담았다."
+   },
+   {
+    "name": "저분자 히알루론산 발효물",
+    "quote": "저분자 히알루론산 발효물을 68% 함유해 건조한 피부를 윤기있게 유지한다."
+   },
+   {
+    "name": "포도당",
+    "quote": "이온 복합체와 포도당·콜레스테롤·지방산을 배합해 수분을 지키고 영양을 전달한다."
+   },
+   {
+    "name": "콜레스테롤",
+    "quote": "이온 복합체와 포도당·콜레스테롤·지방산을 배합해 수분을 지키고 영양을 전달한다."
+   },
+   {
+    "name": "지방산",
+    "quote": "이온 복합체와 포도당·콜레스테롤·지방산을 배합해 수분을 지키고 영양을 전달한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:31+00:00",
+ "had_body": true
+}

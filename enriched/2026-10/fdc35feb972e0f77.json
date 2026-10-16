@@ -1,0 +1,59 @@
+{
+ "doc_id": "fdc35feb972e0f77",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.smartbizn.com/news/articleView.html?idxno=155726",
+ "title": "향수도 '갈아 끼운다'···불리, 롤온 오일 향수 국내 첫선",
+ "summary": "향료 농도와 에몰리언트 성분을 높여 피부에 촉촉하게 발리면서 향이 최대 8시간 지속되도록 했다. 향이 넓게 퍼지기보다 가까운 거리에서 은은하게 느껴지는 것도 기존 분사형 향수와 다른 사용 경험이다. 지난달 18일...",
+ "published_at": "2026-10-07T09:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "불리"
+  ],
+  "companies": [],
+  "keywords": [
+   "롤온 오일 향수",
+   "오일 향수",
+   "분사형 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "롤온 오일 향수",
+    "brand": "불리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "향수도 '갈아 끼운다'···불리, 롤온 오일 향수 국내 첫선",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "불리가 롤온 오일 향수를 국내에 처음 선보였다.",
+  "key_fact_quote": "향수도 '갈아 끼운다'···불리, 롤온 오일 향수 국내 첫선",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "에몰리언트",
+    "quote": "향료 농도와 에몰리언트 성분을 높여 피부에 촉촉하게 발리면서 향이 최대 8시간 지속되도록 했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:32+00:00",
+ "had_body": false
+}

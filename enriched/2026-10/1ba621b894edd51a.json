@@ -29,41 +29,53 @@
   "keywords": [
    "퍼퓸 바디워시",
    "플로럴 향",
-   "파우더리 잔향"
+   "장미향"
   ],
   "is_press_release": true,
   "products": [
    {
+    "name": "퍼퓸 바디워시",
+    "brand": "샤워메이트",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "애경산업 샤워메이트, 명품 향수 입힌 '퍼퓸 바디워시' 2종 출시",
+    "notes": [
+     "플로럴 향",
+     "파우더리 계열"
+    ],
+    "notes_quote": "신제품 은 플로럴 향에 파우더리 계열의 잔향을 더한 것이 특징이다."
+   },
+   {
     "name": "로지 피크닉",
     "brand": "샤워메이트",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "애경산업 샤워메이트, 명품 향수 입힌 '퍼퓸 바디워시' 2종 출시",
     "notes": [
-     "플로럴",
-     "파우더리",
      "장미향"
     ],
-    "notes_quote": "신제품 은 플로럴 향에 파우더리 계열의 잔향을 더한 것이 특징이다. 향에 따라 장미향의 '로지 피크닉'과 아이리스향의 '이브닝 가든' 가운데 선택할 수 있다."
+    "notes_quote": "향에 따라 장미향의 '로지 피크닉'과 아이리스향의 '이브닝 가든' 가운데 선택할 수 있다."
    },
    {
     "name": "이브닝 가든",
     "brand": "샤워메이트",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "애경산업 샤워메이트, 명품 향수 입힌 '퍼퓸 바디워시' 2종 출시",
     "notes": [
-     "플로럴",
-     "파우더리",
      "아이리스향"
     ],
-    "notes_quote": "신제품 은 플로럴 향에 파우더리 계열의 잔향을 더한 것이 특징이다. 향에 따라 장미향의 '로지 피크닉'과 아이리스향의 '이브닝 가든' 가운데 선택할 수 있다."
+    "notes_quote": "향에 따라 장미향의 '로지 피크닉'과 아이리스향의 '이브닝 가든' 가운데 선택할 수 있다."
    }
   ],
-  "key_fact": "애경산업 샤워메이트가 명품 향수 향을 담은 퍼퓸 바디워시 신제품을 선보였다.",
+  "key_fact": "애경산업의 샤워메이트가 플로럴 향과 파우더리 잔향을 특징으로 하는 퍼퓸 바디워시 신제품을 선보였다.",
   "key_fact_quote": "애경산업 샤워메이트, 명품 향수 입힌 '퍼퓸 바디워시' 2종 출시",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:21+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:33+00:00",
  "had_body": false
 }

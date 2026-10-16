@@ -1,0 +1,49 @@
+{
+ "doc_id": "eae88168d5f68b95",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=812974",
+ "title": "[이슈] 무신사 뷰티 홍대 '흥행 성공'...K뷰티 팬들 \"즐거운 고민\"",
+ "summary": "C뷰티 '인투유'와 'AZTK'가 국내에 처음 발을 들였고 프랑스 니치 향수 '에따 리브르 도랑쥬', 국내 '셀바티고'는 단독으로 걸었다. 오프라인에서 보기 어려운 브랜드를 조명하는 '브랜드 하이라이팅 존'의 첫 주자는...",
+ "published_at": "2026-09-14T16:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR",
+   "CN"
+  ],
+  "brands": [
+   "인투유",
+   "AZTK",
+   "에따 리브르 도랑쥬",
+   "셀바티고"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "니치 향수",
+   "오프라인 매장",
+   "뷰티 리테일"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티 홍대가 흥행에 성공한 가운데 다양한 국내외 뷰티 및 향수 브랜드를 선보였다.",
+  "key_fact_quote": "[이슈] 무신사 뷰티 홍대 '흥행 성공'...K뷰티 팬들 \"즐거운 고민\"",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:19+00:00",
+ "had_body": false
+}

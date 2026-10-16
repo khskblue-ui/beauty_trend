@@ -1,0 +1,54 @@
+{
+ "doc_id": "a663850262f66d3a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4024521",
+ "title": "디올 뷰티, 'NEW 쟈도르 쉬머링 헤어 미스트' 출시",
+ "summary": "| 내외경제TV=주현웅 기자 | 크리스챤 디올 뷰티가 대표 향수 라인업인 '쟈도르'의 시그니처 향과 골드빛 펄감을 더한 신제품 'NEW 쟈도르 쉬머링 헤어 미스트'를 정식 출시했다. 1999년 첫 출시된 쟈도르 라인은 이번...",
+ "published_at": "2026-09-03T14:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "디올 뷰티",
+   "크리스챤 디올 뷰티",
+   "쟈도르"
+  ],
+  "companies": [
+   "크리스챤 디올"
+  ],
+  "keywords": [
+   "헤어 미스트",
+   "쉬머링 미스트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "NEW 쟈도르 쉬머링 헤어 미스트",
+    "brand": "크리스챤 디올 뷰티",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "크리스챤 디올 뷰티가 쟈도르의 시그니처 향과 골드빛 펄감을 더한 헤어 미스트를 정식 출시했다.",
+  "key_fact_quote": "크리스챤 디올 뷰티가 대표 향수 라인업인 '쟈도르'의 시그니처 향과 골드빛 펄감을 더한 신제품 'NEW 쟈도르 쉬머링 헤어 미스트'를 정식 출시했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:43+00:00",
+ "had_body": false
+}

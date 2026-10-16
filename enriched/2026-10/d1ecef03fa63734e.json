@@ -1,0 +1,53 @@
+{
+ "doc_id": "d1ecef03fa63734e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dailian.co.kr/news/view/1697210/?sc=Naver",
+ "title": "베트남 호치민에 K - 뷰티 상설 판매장…국내 화장품 17개사 입점",
+ "summary": "실제 수출 로 이어지도록 지원한다. 2일 한국보건산업진흥원에 따르면 오는 4일 베트남 호치민의 복합문화공간 '더 뉴 플레이그라운드(The New Playground)'에 K - 뷰티 상설 판매장 '위디(WEEDY)'가 문을 연다. 판매장은 약 65...",
+ "published_at": "2026-10-02T09:27:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "VN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국보건산업진흥원"
+  ],
+  "keywords": [
+   "상설 판매장",
+   "해외 진출 지원",
+   "수출 지원"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "베트남 호치민의 복합문화공간에 국내 화장품 기업들이 입점하는 상설 판매장이 문을 연다.",
+  "key_fact_quote": "2일 한국보건산업진흥원에 따르면 오는 4일 베트남 호치민의 복합문화공간 '더 뉴 플레이그라운드(The New Playground)'에 K - 뷰티 상설 판매장 '위디(WEEDY)'가 문을 연다.",
+  "events": [
+   {
+    "name": "K - 뷰티 상설 판매장 '위디(WEEDY)' 개장",
+    "start_date": "2026-10-04",
+    "end_date": null,
+    "place": "베트남 호치민의 복합문화공간 '더 뉴 플레이그라운드(The New Playground)'",
+    "quote": "2일 한국보건산업진흥원에 따르면 오는 4일 베트남 호치민의 복합문화공간 '더 뉴 플레이그라운드(The New Playground)'에 K - 뷰티 상설 판매장 '위디(WEEDY)'가 문을 연다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:50+00:00",
+ "had_body": false
+}

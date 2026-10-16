@@ -1,0 +1,46 @@
+{
+ "doc_id": "2a0f02f8a88d5145",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=228089",
+ "title": "독일, 핀란드서 등장한 ' K뷰티 '…韓 정체성으로 흥행",
+ "summary": "배경에는 세계적인 K뷰티 열풍이 자리하고 있다. 산업통상자원부가 지난 1일 발표한 '2026년 9월 수출 입... 모든 화장품은 한국에서 생산하며, 공식 홈페이지에서 ' K뷰티 루틴( K -Beauty routine)'을 브랜드의 핵심...",
+ "published_at": "2026-10-07T22:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "DE",
+   "FI",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "산업통상자원부"
+  ],
+  "keywords": [
+   "K뷰티",
+   "화장품 수출",
+   "뷰티 루틴"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "세계적인 열풍 속에서 한국적 정체성을 내세운 뷰티 브랜드들이 해외에서 주목받고 있다.",
+  "key_fact_quote": "배경에는 세계적인 K뷰티 열풍이 자리하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:52+00:00",
+ "had_body": false
+}

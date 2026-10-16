@@ -6,48 +6,39 @@
  "lang": "ko",
  "url": "https://www.mediapen.com/news/view/1128881",
  "title": "[오늘의 언박싱] 롯데마트 ‘첫수확 찰진8곡’·신라면세점 화장품 단독...",
- "summary": "에스트라는 ‘아토베리어365 크림’ 듀오와 크림 미스트 를 묶은 ‘민감피부 수분충전 세트’를 출시 한다.... 풀 바디 와인이다. 패키지에는 몬테스를 상징하는 천사 심볼과 블랙 레이블, 골드 컬러를 적용했다. 롯데마트와...",
+ "summary": "식품·유통업계가 8일 선보인 신제품 과 신제품 을 소개한다. 롯데마트·슈퍼 ‘첫수확 찰진8곡’(왼쪽)과 신라면세점 화장품 단독 세트·컬러 상품(오른쪽)./사진=각 사 제공 롯데마트·슈퍼가 올해 수확한 국산 햇곡 8종을...",
  "published_at": "2026-10-08T17:24:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "바디미스트 출시",
+ "query": "화장품 신제품",
  "doc_type": null,
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "skincare",
+  "category": "retail",
   "event_type": "product_launch",
   "countries": [
    "KR"
   ],
-  "brands": [
-   "에스트라"
+  "brands": [],
+  "companies": [
+   "롯데마트",
+   "신라면세점"
   ],
-  "companies": [],
   "keywords": [
-   "수분충전 세트",
-   "크림 미스트"
+   "면세점 화장품",
+   "단독 세트"
   ],
-  "is_press_release": false,
-  "products": [
-   {
-    "name": "민감피부 수분충전 세트",
-    "brand": "에스트라",
-    "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "에스트라는 ‘아토베리어365 크림’ 듀오와 크림 미스트 를 묶은 ‘민감피부 수분충전 세트’를 출시 한다.",
-    "notes": [],
-    "notes_quote": null
-   }
-  ],
-  "key_fact": "에스트라가 민감피부 수분충전 세트를 출시한다.",
-  "key_fact_quote": "에스트라는 ‘아토베리어365 크림’ 듀오와 크림 미스트 를 묶은 ‘민감피부 수분충전 세트’를 출시 한다.",
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "신라면세점이 화장품 단독 세트 및 컬러 상품 신제품을 선보였다.",
+  "key_fact_quote": "롯데마트·슈퍼 ‘첫수확 찰진8곡’(왼쪽)과 신라면세점 화장품 단독 세트·컬러 상품(오른쪽)./사진=각 사 제공",
   "events": [],
   "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:35+00:00",
+ "enriched_at": "2026-10-15T15:15:45+00:00",
  "had_body": false
 }

@@ -1,0 +1,86 @@
+{
+ "doc_id": "d88e338ad5a3ac1e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=209547",
+ "title": "이원블루션, 대구에 '라보나리 뷰티 &웰니스 라운지' 오픈…체험형 고객...",
+ "summary": "센터에서는 성균관대학교 생명공학대학과 공동 연구개발(R&D)을 통해 탄생한 라보나리 신제품 도 선보인다. 올 하반기에는 앰플, 크림, 미스트, 선세럼, 페이스&넥 마스크팩 등 5종을 순차적으로 출시 할 예정이며, 페이스&넥...",
+ "published_at": "2026-09-28T11:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라보나리"
+  ],
+  "companies": [
+   "이원블루션",
+   "성균관대학교"
+  ],
+  "keywords": [
+   "뷰티 라운지",
+   "체험형 매장",
+   "스킨케어 라인"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "앰플",
+    "brand": "라보나리",
+    "launch_date": null,
+    "launch_quote": "올 하반기에는 앰플, 크림, 미스트, 선세럼, 페이스&넥 마스크팩 등 5종을 순차적으로 출시 할 예정이며",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "크림",
+    "brand": "라보나리",
+    "launch_date": null,
+    "launch_quote": "올 하반기에는 앰플, 크림, 미스트, 선세럼, 페이스&넥 마스크팩 등 5종을 순차적으로 출시 할 예정이며",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미스트",
+    "brand": "라보나리",
+    "launch_date": null,
+    "launch_quote": "올 하반기에는 앰플, 크림, 미스트, 선세럼, 페이스&넥 마스크팩 등 5종을 순차적으로 출시 할 예정이며",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "선세럼",
+    "brand": "라보나리",
+    "launch_date": null,
+    "launch_quote": "올 하반기에는 앰플, 크림, 미스트, 선세럼, 페이스&넥 마스크팩 등 5종을 순차적으로 출시 할 예정이며",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "페이스&넥 마스크팩",
+    "brand": "라보나리",
+    "launch_date": null,
+    "launch_quote": "올 하반기에는 앰플, 크림, 미스트, 선세럼, 페이스&넥 마스크팩 등 5종을 순차적으로 출시 할 예정이며",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이원블루션이 대구에 체험형 매장을 열고 라보나리 신제품을 순차적으로 출시할 예정이다.",
+  "key_fact_quote": "이원블루션, 대구에 '라보나리 뷰티 &웰니스 라운지' 오픈…체험형 고객...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:30+00:00",
+ "had_body": false
+}

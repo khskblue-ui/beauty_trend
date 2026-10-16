@@ -32,18 +32,33 @@
    "색조 화장품",
    "베이스 메이크업",
    "립 제품",
-   "다이소 전용 화장품"
+   "균일가 유통"
   ],
   "is_press_release": true,
-  "products": [],
-  "key_fact": "토니모리의 본셉 브랜드가 다이소 전용 색조 신제품을 출시하며 제품군을 확장했다.",
-  "key_fact_quote": "기초 화장품 에서 쌓은 비타씨 라인 인지도를 바탕으로 본셉이 베이스 메이크업과 립 제품까지 제품군을... 등 신제품 10종을 다이소에 출시했다고 13일 밝혔다.",
-  "dropped": [
-   "product:비타씨 라인 베이스 메이크업과 립 제품 등 신제품 10종"
-  ]
+  "products": [
+   {
+    "name": "다이소 전용 색조 10종",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "등 신제품 10종을 다이소에 출시했다고 13일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "토니모리의 본셉이 다이소 전용 색조 신제품을 출시했다.",
+  "key_fact_quote": "토니모리 본셉, 다이소 전용 색조 10종 선봬… 비타씨 라인 메이크업으...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "비타씨",
+    "quote": "기초 화장품 에서 쌓은 비타씨 라인 인지도를 바탕으로 본셉이 베이스 메이크업과 립 제품까지 제품군을..."
+   }
+  ],
+  "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:02+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:02+00:00",
  "had_body": false
 }

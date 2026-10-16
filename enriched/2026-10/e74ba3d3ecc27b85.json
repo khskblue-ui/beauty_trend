@@ -1,0 +1,66 @@
+{
+ "doc_id": "e74ba3d3ecc27b85",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/lipoid-kosmetik-launches-depigmentation-factor-skin-friendly-lightening",
+ "title": "Lipoid Kosmetik launches depigmentation factor - Skin-friendly lightening with liposomal precision",
+ "summary": "Lipoid Kosmetik is a leading manufacturer of high-quality botanical extracts, actives and natural phospholipid products for the cosmetic and personal care industry. With a clear insight into our consumers’ needs, Lipoid Kosmetik presents Depigmentation Factor, a COSMOS- and NATRUE-approved cosmetic active that combines a full-spectrum bearberry leaf extract with a liposomal carrier system for effective, skin-friendly pigmentation care",
+ "published_at": "2026-10-12T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Lipoid Kosmetik"
+  ],
+  "keywords": [
+   "화장품 원료",
+   "색소침착 케어",
+   "리포좀",
+   "미백 활성 성분"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Depigmentation Factor",
+    "brand": "Lipoid Kosmetik",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Lipoid Kosmetik launches depigmentation factor - Skin-friendly lightening with liposomal precision",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "리포이드 코스메틱이 리포좀 전달 기술과 베어베리 잎 추출물을 결합한 색소침착 완화 화장품 활성 성분을 출시했다.",
+  "key_fact_quote": "With a clear insight into our consumers’ needs, Lipoid Kosmetik presents Depigmentation Factor, a COSMOS- and NATRUE-approved cosmetic active that combines a full-spectrum bearberry leaf extract with a liposomal carrier system for effective, skin-friendly pigmentation care",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Depigmentation Factor",
+    "quote": "With a clear insight into our consumers’ needs, Lipoid Kosmetik presents Depigmentation Factor, a COSMOS- and NATRUE-approved cosmetic active that combines a full-spectrum bearberry leaf extract with a liposomal carrier system for effective, skin-friendly pigmentation care"
+   },
+   {
+    "name": "bearberry leaf extract",
+    "quote": "With a clear insight into our consumers’ needs, Lipoid Kosmetik presents Depigmentation Factor, a COSMOS- and NATRUE-approved cosmetic active that combines a full-spectrum bearberry leaf extract with a liposomal carrier system for effective, skin-friendly pigmentation care"
+   },
+   {
+    "name": "phospholipid",
+    "quote": "Lipoid Kosmetik is a leading manufacturer of high-quality botanical extracts, actives and natural phospholipid products for the cosmetic and personal care industry."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:59+00:00",
+ "had_body": false
+}

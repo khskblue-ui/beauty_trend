@@ -26,21 +26,32 @@
   ],
   "companies": [
    "Inflexion",
-   "Alantra"
+   "Alantra",
+   "dsm-firmenich"
   ],
   "keywords": [
-   "친환경 네일",
+   "친환경 네일케어",
    "네일 케어",
    "지분 투자"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "유럽 사모펀드 인플렉션이 프랑스 친환경 네일 브랜드 마누키리스트의 소수 지분을 인수하며 글로벌 확장 지원에 나섰다.",
+  "key_fact": "유럽 사모펀드 인플렉션이 프랑스 친환경 매니큐어 및 네일케어 브랜드 마누키리스트의 소수 지분을 인수하며 해외 시장 확장을 지원한다.",
   "key_fact_quote": "La marque française de vernis green et de soins pour les ongles vient de conclure un accord avec Inflexion, fonds européen de capital-investissement spécialisé dans les entreprises de taille intermédiaire, qui devient actionnaire minoritaire.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:12+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:12+00:00",
  "had_body": true
 }

@@ -1,0 +1,60 @@
+{
+ "doc_id": "4500dd1d5b113ca2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/general-industry/6312682",
+ "title": "日에서는 '금목서 미스트'…K-뷰티, 국가별 전용 제품 승부수",
+ "summary": "달바 관계자는 \"각 국가별로 특화된 전용 제품을 출시 하는 전략을 통해 시장별로 제품을 대응하고 있다\"며 \"일본의 경우 금목서가 유명하고 친숙한 꽃으로 향수 나 핸드크림, 헤어오일 등에도 향을 적용한 제품이 많이...",
+ "published_at": "2026-10-11T06:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "달바"
+  ],
+  "companies": [],
+  "keywords": [
+   "국가별 전용 제품",
+   "금목서 미스트",
+   "현지화 전략"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "금목서 미스트",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 브랜드 달바는 국가별로 특화된 전용 제품을 선보이는 전략으로 시장에 대응하고 있다.",
+  "key_fact_quote": "달바 관계자는 \"각 국가별로 특화된 전용 제품을 출시 하는 전략을 통해 시장별로 제품을 대응하고 있다\"며 \"일본의 경우 금목서가 유명하고 친숙한 꽃으로 향수 나 핸드크림, 헤어오일 등에도 향을 적용한 제품이 많이...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "금목서",
+    "quote": "일본의 경우 금목서가 유명하고 친숙한 꽃으로 향수 나 핸드크림, 헤어오일 등에도 향을 적용한 제품이 많이..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:49+00:00",
+ "had_body": false
+}

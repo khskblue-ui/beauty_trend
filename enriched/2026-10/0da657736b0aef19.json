@@ -1,0 +1,44 @@
+{
+ "doc_id": "0da657736b0aef19",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoul.co.kr/news/society/health-medical/2026/10/02/20261002500091?wlog_tag3=naver",
+ "title": "K - 뷰티 , 베트남 시장 공략 본격화…호치민에 상설 판매장 ‘위디(WEEDY)’...",
+ "summary": "실질적인 수출 계약으로 이어질 수 있도록 지원을 아끼지 않을 예정이다. 고상백 한국보건산업진흥원장은 “베트남은 K - 뷰티 에 대한 선호도가 높고 아세안 시장 진출을 위한 매우 중요한 지리적·경제적 거점”이라며...",
+ "published_at": "2026-10-02T11:05:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN"
+  ],
+  "brands": [],
+  "companies": [
+   "한국보건산업진흥원"
+  ],
+  "keywords": [
+   "상설 판매장",
+   "해외 시장 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국보건산업진흥원이 베트남 시장 진출 지원을 위한 상설 판매장을 마련하며 시장 공략을 본격화했다.",
+  "key_fact_quote": "K - 뷰티 , 베트남 시장 공략 본격화…호치민에 상설 판매장 ‘위디(WEEDY)’...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:47+00:00",
+ "had_body": false
+}

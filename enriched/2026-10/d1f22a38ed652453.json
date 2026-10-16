@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "other",
+  "category": "business",
   "event_type": "event",
   "countries": [
    "KR"
@@ -37,7 +37,7 @@
     "name": "키메스 부산",
     "start_date": "2026-10-23",
     "end_date": null,
-    "place": "부산",
+    "place": null,
     "quote": "'키메스 부산' 이달 23일 개막…\"의료 AI·로봇·메디컬 뷰티 총망라\""
    }
   ],
@@ -46,6 +46,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:51:51+00:00",
+ "enriched_at": "2026-10-15T15:24:27+00:00",
  "had_body": false
 }

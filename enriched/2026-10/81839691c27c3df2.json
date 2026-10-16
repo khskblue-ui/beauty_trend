@@ -1,0 +1,44 @@
+{
+ "doc_id": "81839691c27c3df2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=262935",
+ "title": "코스맥스, 세계화장품학회서 구두발표 10건···\"참여 기업 중 최다\"",
+ "summary": "지난해 5건에서 두 배로 늘었으며 기초 연구부터 선케어, 헤어케어, 메이크업, 향료 까지 연구 분야도... 구두발표는 △기초 연구 3건 △선케어 3건 △헤어케어 2건 △메이크업 1건 △ 향료 1건 등으로 구성됐다. 이 가운데...",
+ "published_at": "2026-10-06T15:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 연구",
+   "학술 발표",
+   "화장품 기술"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 세계화장품학회에서 최다 건수의 구두발표를 진행하며 기초 연구부터 향료까지 다양한 연구 분야를 선보였다.",
+  "key_fact_quote": "코스맥스, 세계화장품학회서 구두발표 10건···\"참여 기업 중 최다\"",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:43+00:00",
+ "had_body": false
+}

@@ -23,19 +23,27 @@
   "brands": [],
   "companies": [],
   "keywords": [
-   "야간 문화공연",
-   "지역 축제"
+   "지역 축제",
+   "야간 문화공연"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": null,
-  "key_fact_quote": null,
-  "events": [],
+  "key_fact": "경주시가 교촌홍보관 앞마당에서 가을밤 음악 축제인 교촌버스킹을 개최한다.",
+  "key_fact_quote": "경주시는 오는 16일부터 24일까지 매주 금·토요일 경주 교촌홍보관 앞마당에서 '2026 교촌버스킹'을 개최한다고 15일 밝혔다.",
+  "events": [
+   {
+    "name": "2026 교촌버스킹",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-24",
+    "place": "경주 교촌홍보관 앞마당",
+    "quote": "경주시는 오는 16일부터 24일까지 매주 금·토요일 경주 교촌홍보관 앞마당에서 '2026 교촌버스킹'을 개최한다고 15일 밝혔다."
+   }
+  ],
   "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:34+00:00",
+ "enriched_at": "2026-10-15T15:27:25+00:00",
  "had_body": true
 }

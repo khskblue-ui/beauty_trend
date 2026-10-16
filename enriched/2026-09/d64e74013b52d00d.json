@@ -1,0 +1,46 @@
+{
+ "doc_id": "d64e74013b52d00d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=133108",
+ "title": "에스트라, 9월 더마 화장품 브랜드평판 1위...라로슈포제, 닥터지가 뒤이...",
+ "summary": "한국기업평판연구소는 16일 신제품 런칭센터와 함께 더마 화장품 브랜드 27개에 대한 브랜드 빅데이터 6,199,637개를 분석했다고 밝혔다. 1위 에스트라는 참여지수 188,201, 소통지수 421,337, 커뮤니티지수 30,435를...",
+ "published_at": "2026-09-16T10:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에스트라",
+   "라로슈포제",
+   "닥터지"
+  ],
+  "companies": [
+   "한국기업평판연구소"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "브랜드평판",
+   "빅데이터 분석"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국기업평판연구소의 더마 화장품 브랜드평판 빅데이터 분석 결과 에스트라가 일위를 기록했다.",
+  "key_fact_quote": "에스트라, 9월 더마 화장품 브랜드평판 1위...라로슈포제, 닥터지가 뒤이...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:44+00:00",
+ "had_body": false
+}

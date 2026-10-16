@@ -6,52 +6,37 @@
  "lang": "ko",
  "url": "https://www.marieclairekorea.com/beauty/2026/10/mc-10-newnew-beauty/?utm_source=naver&utm_medium=partnership",
  "title": "10월의 뷰티 신제품 #1",
- "summary": "7 MARC JACOBS 데이지 헤어 앤 바디 미스트 #바닐라 구르망. 끈적이지 않고 산뜻하게 마무리되어 수시로 뿌리기에 알맞은 미스트 . 각기 다른 네 가지 프루티 노트 4종으로 출시 한다. 150ml, 4만9천원. TOM FORD BEAUTY...",
+ "summary": "잘 말린 토바코 잎과 짙은 다크 초콜릿이 어우러진 따뜻하고 달콤한 구르망 향수 . 오렌지가 묵직한 느낌을 가볍게 깨우고, 시간이 지날수록 스모키한 우디 향과 초콜릿의 깊은 달콤함이 남는다. 100ml, 58만8천원....",
  "published_at": "2026-09-22T14:46:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "바디미스트 출시",
+ "query": "향수 신제품",
  "doc_type": null,
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "body",
+  "category": "fragrance",
   "event_type": "product_launch",
   "countries": [
    "KR"
   ],
-  "brands": [
-   "MARC JACOBS",
-   "TOM FORD BEAUTY"
-  ],
+  "brands": [],
   "companies": [],
   "keywords": [
-   "헤어 앤 바디 미스트",
+   "구르망 향수",
    "뷰티 신제품",
-   "프루티 노트"
+   "우디 향수"
   ],
   "is_press_release": false,
-  "products": [
-   {
-    "name": "데이지 헤어 앤 바디 미스트 #바닐라 구르망",
-    "brand": "MARC JACOBS",
-    "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "각기 다른 네 가지 프루티 노트 4종으로 출시 한다.",
-    "notes": [
-     "프루티 노트"
-    ],
-    "notes_quote": "각기 다른 네 가지 프루티 노트 4종으로 출시 한다."
-   }
-  ],
-  "key_fact": "마크 제이콥스에서 데이지 헤어 앤 바디 미스트를 네 가지 프루티 노트로 선보인다.",
-  "key_fact_quote": "7 MARC JACOBS 데이지 헤어 앤 바디 미스트 #바닐라 구르망. 끈적이지 않고 산뜻하게 마무리되어 수시로 뿌리기에 알맞은 미스트 . 각기 다른 네 가지 프루티 노트 4종으로 출시 한다.",
-  "events": [],
-  "ingredients": [],
-  "dropped": []
+  "products": [],
+  "key_fact": "토바코와 초콜릿 및 오렌지와 우디 향이 어우러진 달콤한 신제품 구르망 향수가 소개되었다.",
+  "key_fact_quote": "잘 말린 토바코 잎과 짙은 다크 초콜릿이 어우러진 따뜻하고 달콤한 구르망 향수 .",
+  "dropped": [
+   "product:미상"
+  ]
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:39+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:00+00:00",
  "had_body": false
 }

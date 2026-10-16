@@ -1,0 +1,45 @@
+{
+ "doc_id": "b2fe7b814a9af239",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoultimes.news/news/article.html?no=2000100654",
+ "title": "롯데백화점, 미국 LA서 K-뷰티 팝업…국내 브랜드 해외 진출 지원",
+ "summary": "화장품과 향수 브랜드 를 소개하는 ‘K-컬처 뷰티앤패션 팝업’을 운영한다고 8일 밝혔다. 문화체육관광부가 추진하는 ‘글로벌 K-존(Global K-Zone)’의 LA 개관을 기념해 마련됐다. 롯데백화점은 유통업체 가운데 유일하게...",
+ "published_at": "2026-10-08T09:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데백화점"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "해외 진출",
+   "뷰티앤패션"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "롯데백화점이 미국 로스앤젤레스에서 국내 뷰티 및 향수 브랜드를 소개하는 팝업 행사를 운영한다.",
+  "key_fact_quote": "화장품과 향수 브랜드 를 소개하는 ‘K-컬처 뷰티앤패션 팝업’을 운영한다고 8일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:07+00:00",
+ "had_body": false
+}

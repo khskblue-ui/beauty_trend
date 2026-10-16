@@ -1,0 +1,96 @@
+{
+ "doc_id": "c6e0636372b4c743",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100044",
+ "title": "네오팜, 제로이드 오프라인 접점 확대 …홍대부터 러닝 페스티벌까지",
+ "summary": "뷰티&헬스케어 기업 네오팜(대표 김양수)의 메디컬 스킨케어 브랜드 ‘제로이드(ZEROID)’가 10월 다양한 오프라인 행사를 잇달아 진행하며 소비자 접점 확대에 나선다고 2일 밝혔다.제로이드는 외국인 관광객과 1030세대가 즐겨 찾는 K뷰티 핵심 상권인 홍대에서 캐릭터 협업 팝업과 무빙 팝업을 운영하고, ‘에스엠타운 런클럽 26(SMTOWN RUN CLUB 26)’에도 참가한다. 소비자들이 제품을 직접 경험할 기회를 늘려 브랜드 인지도를 강화한다는 전략이다.먼저 오는 31일까지 올리브영 홍대 타운에서 남씨 작가의 인기 캐릭터 ‘누렁",
+ "published_at": "2026-10-02T09:18:43+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "제로이드",
+   "ZEROID"
+  ],
+  "companies": [
+   "네오팜"
+  ],
+  "keywords": [
+   "메디컬 스킨케어",
+   "더마 코스메틱",
+   "팝업스토어",
+   "캐릭터 협업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "인텐시브 크림",
+    "brand": "제로이드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "인텐시브 로션",
+    "brand": "제로이드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "포밍 클렌저",
+    "brand": "제로이드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "네오팜의 메디컬 스킨케어 브랜드 제로이드가 다양한 오프라인 행사를 진행하며 소비자 접점 확대에 나선다.",
+  "key_fact_quote": "뷰티&헬스케어 기업 네오팜(대표 김양수)의 메디컬 스킨케어 브랜드 ‘제로이드(ZEROID)’가 10월 다양한 오프라인 행사를 잇달아 진행하며 소비자 접점 확대에 나선다고 2일 밝혔다.",
+  "events": [
+   {
+    "name": "에스엠타운 런클럽 26(SMTOWN RUN CLUB 26)",
+    "start_date": "2026-10-03",
+    "end_date": null,
+    "place": "인천 영종도 왕산마리나항",
+    "quote": "이에 앞서 오는 3일 인천 영종도 왕산마리나항에서 열리는 ‘에스엠타운 런클럽 26(SMTOWN RUN CLUB 26)’에도 협찬사로 브랜드 부스를 운영한다."
+   },
+   {
+    "name": "무빙 팝업",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-11",
+    "place": "올리브영 홍대공항철도역점 앞",
+    "quote": "이어 오는 9일부터 11일까지는 올리브영 홍대공항철도역점 앞에서 무빙 팝업을 연다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "디펜사마이드™",
+    "quote": "주요 제품에는 건강한 피부의 지질 구조를 유사하게 모사한 네오팜의 독자 피부장벽 기술 MLE®와 피부를 보호하는 데 도움을 주는 디펜사마이드™를 적용하고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:24+00:00",
+ "had_body": true
+}

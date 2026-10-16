@@ -1,0 +1,41 @@
+{
+ "doc_id": "e39d98a8a77c9e87",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.insight.co.kr/news/576865",
+ "title": "\"누나 덕에 광고 찍었어\"... 김우빈, 차 트렁크에 ' 향수 선물' 싣고 다닌...",
+ "summary": "이 에피소드가 온라인에서 큰 화제가 되면서 김우빈은 해당 향수 브랜드 의 광고 모델로 발탁되는 행운을 얻었다. 광고 촬영까지 하게 된 김우빈은 팬에게 고마운 마음을 표현하기 위해 자신의 돈으로 향수를 구입했고...",
+ "published_at": "2026-10-07T15:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "향수 모델",
+   "향수 선물"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배우 김우빈이 향수 브랜드 광고 모델로 발탁된 후 팬에게 고마움을 전하기 위해 향수를 구입했다.",
+  "key_fact_quote": "이 에피소드가 온라인에서 큰 화제가 되면서 김우빈은 해당 향수 브랜드 의 광고 모델로 발탁되는 행운을 얻었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:10+00:00",
+ "had_body": false
+}

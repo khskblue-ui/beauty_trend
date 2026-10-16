@@ -1,0 +1,46 @@
+{
+ "doc_id": "eb1315eb8fbf393c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=575753&class=17&grp=",
+ "title": "‘성분뷰티’ 뜨자…토니모리, NAD+ 신제품 으로 다이소 공략",
+ "summary": "화장품 을 고를 때 성분과 효능을 꼼꼼히 따지는 소비자가 늘면서 토니모리가 차세대 스킨케어 성분을 앞세운 신제품 으로 시장 공략에 나섰다. 자체 연구개발(R&D)·생산 역량을 바탕으로 고기능 제품을 개발하고...",
+ "published_at": "2026-09-15T18:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "토니모리",
+   "다이소"
+  ],
+  "companies": [
+   "토니모리",
+   "다이소"
+  ],
+  "keywords": [
+   "성분뷰티",
+   "차세대 스킨케어 성분",
+   "고기능 제품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "토니모리가 차세대 스킨케어 성분을 앞세운 신제품으로 시장 공략에 나섰다.",
+  "key_fact_quote": "화장품 을 고를 때 성분과 효능을 꼼꼼히 따지는 소비자가 늘면서 토니모리가 차세대 스킨케어 성분을 앞세운 신제품 으로 시장 공략에 나섰다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:52+00:00",
+ "had_body": false
+}

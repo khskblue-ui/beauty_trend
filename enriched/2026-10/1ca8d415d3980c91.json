@@ -1,0 +1,68 @@
+{
+ "doc_id": "1ca8d415d3980c91",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58421",
+ "title": "코스메틱저널코리아(CJK) 제138호 2026년 10월호 발간",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 국내 대표 화장품 연구개발(R&D) 마케팅 전문 저널 코스메틱저널코리아(CJK) 2026년 10월호를 제작해 배포하고 있다. 코스메틱저널코리아(CJK)는 2023년 11월 독일 SOFW Journal과 업무제휴를 체결하고 2024년 1월호부터 SOFW Journal 한국판을 제작하고 있다. 독일 SOFW Jour",
+ "published_at": "2026-10-01T10:29:55+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "DE"
+  ],
+  "brands": [],
+  "companies": [
+   "코스인",
+   "SOFW Journal",
+   "코리아코스팩",
+   "태남메디코스",
+   "대한화장품학회",
+   "GCORAS"
+  ],
+  "keywords": [
+   "연구개발 저널",
+   "화장품 전문지",
+   "바이오 신소재",
+   "정밀 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "화장품 연구개발 마케팅 전문 저널 코스메틱저널코리아가 최신 제형 기술과 업계 동향을 담은 호를 발간해 배포하고 있다.",
+  "key_fact_quote": "국내 대표 화장품 연구개발(R&D) 마케팅 전문 저널 코스메틱저널코리아(CJK) 2026년 10월호를 제작해 배포하고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "글라이코리피드",
+    "quote": "[퍼스널케어] 피부 장수를 위한 클렌징: 글라이코리피드와 글루코사이드의 시너지적 접근"
+   },
+   {
+    "name": "글루코사이드",
+    "quote": "[퍼스널케어] 피부 장수를 위한 클렌징: 글라이코리피드와 글루코사이드의 시너지적 접근"
+   },
+   {
+    "name": "프로판다이올벤조에이트",
+    "quote": "현대 제품 보호의 영웅들 7. 프로판다이올벤조에이트"
+   },
+   {
+    "name": "효소",
+    "quote": "[연구개발뉴스] 제형에 통합된 활성 성분으로서의 화장품용 효소: 작용 메커니즘, 전달 및 기능적 근거"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:52+00:00",
+ "had_body": true
+}

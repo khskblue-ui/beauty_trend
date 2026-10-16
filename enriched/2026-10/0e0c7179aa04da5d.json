@@ -18,24 +18,25 @@
   "category": "retail",
   "event_type": "market_trend",
   "countries": [
-   "US",
-   "KR"
+   "KR",
+   "US"
   ],
   "brands": [],
   "companies": [],
   "keywords": [
-   "K뷰티",
    "소비재 수출",
-   "현지 거점"
+   "해외 진출"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "국내 소비재 기업들이 수출 확대를 넘어 현지 거점 마련과 인테리어 및 뷰티 제품을 내세운 공간 등으로 해외 시장을 공략하고 있다.",
-  "key_fact_quote": "우리 소비재 기업의 목표는 수출 확대에 그치지 않는다.",
+  "key_fact": "국내 소비재 기업들이 해외 거점에 공장을 짓고 물류 시스템을 혁신하는 등 시장 진출을 강화하는 가운데 현지에서 한국 뷰티 제품이 주목받고 있다.",
+  "key_fact_quote": "우리 소비재 기업의 목표는 수출 확대에 그치지 않는다. 현지 거점에 공장을 짓고, 혁신 물류 시스템을...",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:40+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:42+00:00",
  "had_body": false
 }

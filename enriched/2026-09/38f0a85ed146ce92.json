@@ -1,0 +1,54 @@
+{
+ "doc_id": "38f0a85ed146ce92",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44819",
+ "title": "[오늘의 패션&뷰티] 현대백화점·가히·프레비츠·몽클로스",
+ "summary": "닥나무가 오랜 정성을 거쳐 견고한 한지로 거듭나듯, 철갑상어의 강인한 생명력이 고기능성 캐비아 화장품 으로 이어지는 과정을 예술적으로 풀어냈다. 특히 캐비아를 연상시키는 보랏빛 생화와 신제품 '캐비아 PDRN EGF...",
+ "published_at": "2026-09-14T14:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "가히",
+   "프레비츠",
+   "몽클로스"
+  ],
+  "companies": [
+   "현대백화점"
+  ],
+  "keywords": [
+   "고기능성 화장품",
+   "캐비아 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "캐비아 PDRN EGF",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "철갑상어의 생명력을 담은 고기능성 캐비아 화장품 신제품이 소개되었다.",
+  "key_fact_quote": "닥나무가 오랜 정성을 거쳐 견고한 한지로 거듭나듯, 철갑상어의 강인한 생명력이 고기능성 캐비아 화장품 으로 이어지는 과정을 예술적으로 풀어냈다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:07+00:00",
+ "had_body": false
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "24fd46a2dd2dabcb",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=311995",
+ "title": "K-Beauty Exports Reach 98% of Last Year's Total in Just Nine Months - 뷰티경제",
+ "summary": "South Korea's beauty industry is on track for another record-breaking year, with cosmetic",
+ "published_at": "2026-10-02T09:50:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 화장품 수출이 호조를 보이며 역대 최고 실적을 향해 순항하고 있다.",
+  "key_fact_quote": "South Korea's beauty industry is on track for another record-breaking year, with cosmetic",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:39+00:00",
+ "had_body": false
+}

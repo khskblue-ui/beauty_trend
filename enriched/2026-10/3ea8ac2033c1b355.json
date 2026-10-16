@@ -18,12 +18,12 @@
   "category": "retail",
   "event_type": "business",
   "countries": [
+   "KR",
+   "US",
    "MY",
    "SG",
    "TH",
-   "HK",
-   "US",
-   "KR"
+   "HK"
   ],
   "brands": [
    "리쥬란",
@@ -41,19 +41,28 @@
    "세포라"
   ],
   "keywords": [
-   "글로벌 유통망",
-   "스킨케어 상품군",
-   "뷰티 플랫폼",
-   "팝업 이벤트"
+   "K뷰티",
+   "팝업 이벤트",
+   "피부 진단"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "씨제이올리브영은 글로벌 뷰티플랫폼 세포라와 협력해 아시아 주요 국가와 지역의 매장 및 온라인몰에 올리브영 케이뷰티에딧 입점을 완료했다.",
+  "key_fact": "CJ올리브영이 세포라와 협력하여 말레이시아, 싱가포르, 태국, 홍콩의 세포라 매장과 온라인몰에 올리브영 K뷰티에딧 입점을 완료했다.",
   "key_fact_quote": "CJ올리브영(이하 올리브영)은 글로벌 뷰티플랫폼인 세포라(Sephora)와 손잡고 미국에 이어 말레이시아·싱가포르·태국·홍콩 등 아시아 4개 국가 및 지역의 주요 오프라인 매장과 온라인몰에 ‘올리브영 K뷰티에딧(OLIVE YOUNG K-Beauty Edit)’ 입점을 완료했다고 12일 밝혔다.",
+  "events": [
+   {
+    "name": "팝업 이벤트",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-14",
+    "place": "싱가포르의 랜드마크급 프리미엄 복합쇼핑몰인 ‘아이온 오차드(ION Orchard)’",
+    "quote": "동남아 및 홍콩에서 초기 인지도를 극대화하기 위해, 지난 8일부터 오는 14일까지 일주일 간 싱가포르의 랜드마크급 프리미엄 복합쇼핑몰인 ‘아이온 오차드(ION Orchard)’에서 팝업 이벤트를 진행한다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:51+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:59+00:00",
  "had_body": true
 }

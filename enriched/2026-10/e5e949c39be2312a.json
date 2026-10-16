@@ -1,0 +1,45 @@
+{
+ "doc_id": "e5e949c39be2312a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.kdfnews.com/news/articleView.html?idxno=188783",
+ "title": "무신사, 브랜드 출시 채널의 변화...패션·뷰티 신상품 첫선",
+ "summary": "가방 브랜드가 옷을 내놓고, 화장품 브랜드는 신제품 을 먼저 공개한다. 무신사가 이스트팩의 국내 첫 의류 컬렉션 판매를 시작했다. 뷰티 부문에서는 올해 1~9월 월평균 100여개 상품을 단독으로 선보였다. 패션에서는...",
+ "published_at": "2026-10-02T10:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이스트팩"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "단독 상품",
+   "뷰티 신상품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 브랜드들의 신상품 출시 채널로 활용되며 패션 및 뷰티 단독 상품을 선보이고 있다.",
+  "key_fact_quote": "무신사, 브랜드 출시 채널의 변화...패션·뷰티 신상품 첫선",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:20+00:00",
+ "had_body": false
+}

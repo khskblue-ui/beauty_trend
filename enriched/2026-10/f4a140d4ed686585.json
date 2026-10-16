@@ -1,0 +1,59 @@
+{
+ "doc_id": "f4a140d4ed686585",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=228123",
+ "title": "톤28, 팝업에 1만 명 몰려…'블루펩타이드 고체 세럼' 품절",
+ "summary": "지난 9월 UNPACK과 신제품 선공개 2시간 만의 품절에 이어 오프라인 팝업까지 목표 대비 154%의 성과를... '톤28'은 카퍼펩타이드 GHK-Cu를 핵심 성분으로 한 블루펩타이드 라인의 경쟁 상대로 다른 화장품 이 아닌 '홈...",
+ "published_at": "2026-10-08T11:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "톤28"
+  ],
+  "companies": [],
+  "keywords": [
+   "고체 세럼",
+   "블루펩타이드",
+   "오프라인 팝업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "블루펩타이드 고체 세럼",
+    "brand": "톤28",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "톤이십팔의 팝업스토어에 많은 인원이 몰리며 신제품 고체 세럼이 품절을 기록했다.",
+  "key_fact_quote": "톤28, 팝업에 1만 명 몰려…'블루펩타이드 고체 세럼' 품절",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "카퍼펩타이드 GHK-Cu",
+    "quote": "'톤28'은 카퍼펩타이드 GHK-Cu를 핵심 성분으로 한 블루펩타이드 라인의 경쟁 상대로 다른 화장품 이 아닌 '홈..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:50+00:00",
+ "had_body": false
+}

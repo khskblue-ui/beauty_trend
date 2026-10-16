@@ -1,0 +1,45 @@
+{
+ "doc_id": "b2b36facf9e8b1d5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.cbci.co.kr/news/articleView.html?idxno=607278",
+ "title": "더마 화장품 브랜드평판 9월 빅데이터 분석결과…1위 에스트라·2위 라로...",
+ "summary": "이번 조사는 한국기업평판연구소와 신제품 런칭센터가 2026년 8월 16일부터 2026년 9월 16일까지 수집한 더마 화장품 브랜드 27개의 빅데이터 6,199,637개를 대상으로 진행됐다. 지난 8월 집계된 빅데이터 6,182...",
+ "published_at": "2026-09-16T10:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에스트라"
+  ],
+  "companies": [
+   "한국기업평판연구소",
+   "신제품 런칭센터"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "브랜드평판",
+   "빅데이터 분석"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "더마 화장품 브랜드평판 빅데이터 분석 결과 에스트라가 일위를 기록했다.",
+  "key_fact_quote": "더마 화장품 브랜드평판 9월 빅데이터 분석결과…1위 에스트라·2위 라로...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:43+00:00",
+ "had_body": false
+}

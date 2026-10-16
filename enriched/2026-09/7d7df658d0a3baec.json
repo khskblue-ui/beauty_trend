@@ -1,0 +1,53 @@
+{
+ "doc_id": "7d7df658d0a3baec",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gokorea.kr/news/articleView.html?idxno=880068",
+ "title": "고윤정, 파리 샤넬 향수 행사에 한국 대표로 참석…마리끌레르 디지털 ...",
+ "summary": "배우 고윤정이 17일 프랑스 파리에서 열린 샤넬의 새 향수 출시 행사에 한국 대표로 참석했다. 행사 이름은 '코코 마드모아젤 파티'다. 파리의 공연장 르 트리아농에서 열렸다. 샤넬이 내놓은 향수 '코코 마드모아젤 크러쉬...",
+ "published_at": "2026-09-30T14:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "FR",
+   "KR"
+  ],
+  "brands": [
+   "샤넬"
+  ],
+  "companies": [
+   "샤넬"
+  ],
+  "keywords": [
+   "향수 출시 행사",
+   "향수 파티"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "코코 마드모아젤 크러쉬",
+    "brand": "샤넬",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "배우 고윤정이 프랑스 파리에서 열린 샤넬의 신제품 향수 출시 행사에 한국 대표로 참석했다.",
+  "key_fact_quote": "배우 고윤정이 17일 프랑스 파리에서 열린 샤넬의 새 향수 출시 행사에 한국 대표로 참석했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:02+00:00",
+ "had_body": false
+}

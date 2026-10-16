@@ -1,0 +1,54 @@
+{
+ "doc_id": "8269e917b97b2938",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1103788",
+ "title": "다이소몰, 12~16일 뷰티 신상 330여 종 선보인다",
+ "summary": "이번 행사는 매일 오전 9시 신제품 을 공개하는 '뷰티 신상 라인업'과 가을 메이크업 제품을 추천하는 'MD PICK'으로 구성했다. 피부 관리부터 헤어 케어, 색조 화장품 까지 다양한 제품을 합리적인 가격에 만나볼 수...",
+ "published_at": "2026-10-12T10:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "다이소몰"
+  ],
+  "keywords": [
+   "뷰티 신상",
+   "가을 메이크업",
+   "색조 화장품",
+   "피부 관리",
+   "헤어 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "다이소몰이 여러 뷰티 신제품을 선보이는 행사를 진행한다.",
+  "key_fact_quote": "다이소몰, 12~16일 뷰티 신상 330여 종 선보인다",
+  "events": [
+   {
+    "name": "뷰티 신상 행사",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-16",
+    "place": null,
+    "quote": "다이소몰, 12~16일 뷰티 신상 330여 종 선보인다"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:35+00:00",
+ "had_body": false
+}

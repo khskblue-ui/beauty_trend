@@ -1,0 +1,56 @@
+{
+ "doc_id": "e2be0be2ac41464a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.onews.tv/news/articleView.html?idxno=287363",
+ "title": "피죤, 핑크로즈·블루비앙카 등 시그니처 향 담은 리뉴얼 디퓨저 공개",
+ "summary": "사탕수수 유래 에탄올을 원료로 사용하여 특유의 자극적인 알코올 냄새를 줄였으며, 글로벌 향료 전문 기업과의 협업을 거쳐 국제 향료 협회(IFRA) 기준을 준수했다. 아울러 폼알데하이드, 메탄올, 글리옥살 등 주요 유해...",
+ "published_at": "2026-09-17T09:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피죤"
+  ],
+  "companies": [
+   "피죤"
+  ],
+  "keywords": [
+   "디퓨저",
+   "홈 프래그런스",
+   "리뉴얼"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "디퓨저",
+    "brand": "피죤",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "핑크로즈",
+     "블루비앙카"
+    ],
+    "notes_quote": "피죤, 핑크로즈·블루비앙카 등 시그니처 향 담은 리뉴얼 디퓨저 공개"
+   }
+  ],
+  "key_fact": "피죤이 핑크로즈와 블루비앙카 등 자사 시그니처 향을 담은 리뉴얼 디퓨저를 공개했다.",
+  "key_fact_quote": "피죤, 핑크로즈·블루비앙카 등 시그니처 향 담은 리뉴얼 디퓨저 공개",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:16:47+00:00",
+ "had_body": false
+}

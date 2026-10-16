@@ -1,0 +1,62 @@
+{
+ "doc_id": "3a6f33c964beac5f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321496",
+ "title": "오피신 유니버셀 불리, 롤온 오일 향수 국내 첫 출시",
+ "summary": "향료 농도와 에몰리언트 성분을 높여 촉촉함과 최대 8시간의 향 지속력이 특징이다. 이번에 출시한 향은 △이리 드 말트 △앙브르 드 마다가스카르 △멕시크 튜베로즈 등 3가지다. 이와 함께 전용 케이스 '르 스틸로 아 빌...",
+ "published_at": "2026-10-07T09:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오피신 유니버셀 불리"
+  ],
+  "companies": [],
+  "keywords": [
+   "롤온 향수",
+   "오일 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "롤온 오일 향수",
+    "brand": "오피신 유니버셀 불리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "오피신 유니버셀 불리, 롤온 오일 향수 국내 첫 출시",
+    "notes": [
+     "이리 드 말트",
+     "앙브르 드 마다가스카르",
+     "멕시크 튜베로즈"
+    ],
+    "notes_quote": "이번에 출시한 향은 △이리 드 말트 △앙브르 드 마다가스카르 △멕시크 튜베로즈 등 3가지다."
+   }
+  ],
+  "key_fact": "오피신 유니버셀 불리가 롤온 오일 향수를 국내에 처음 선보였다.",
+  "key_fact_quote": "오피신 유니버셀 불리, 롤온 오일 향수 국내 첫 출시",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "에몰리언트",
+    "quote": "향료 농도와 에몰리언트 성분을 높여 촉촉함과 최대 8시간의 향 지속력이 특징이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:34+00:00",
+ "had_body": false
+}

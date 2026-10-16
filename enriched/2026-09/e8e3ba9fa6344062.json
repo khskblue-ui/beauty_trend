@@ -1,0 +1,40 @@
+{
+ "doc_id": "e8e3ba9fa6344062",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.esquirekorea.co.kr/article/1908375",
+ "title": "익숙한 이름부터 새로운 얼굴까지 'K뷰티'의 모든 것, 향수 편",
+ "summary": "유해 성분을 철저히 배제하고 바나베 피용, 모리스 루셀, 도미니크 로피옹 등 세계적인 조향사 들과 협업한 향으로 빠르게 입소문을 탔다. 향수로 시작해 보디와 핸드, 헤어 케어로 영역을 확장해 미니멀한 용기와...",
+ "published_at": "2026-09-01T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "향수",
+   "헤어 케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유해 성분을 배제하고 세계적인 조향사들과 협업한 향으로 입소문을 타며 향수에서 보디 및 헤어 케어 등으로 영역을 넓히고 있다.",
+  "key_fact_quote": "유해 성분을 철저히 배제하고 바나베 피용, 모리스 루셀, 도미니크 로피옹 등 세계적인 조향사 들과 협업한 향으로 빠르게 입소문을 탔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:55+00:00",
+ "had_body": false
+}

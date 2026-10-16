@@ -1,0 +1,60 @@
+{
+ "doc_id": "98b6006276f90208",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58450",
+ "title": "‘일본 법인설립 및 경영컨설팅 온라인 설명회' 10월 20일 개최... 1:1 전문가 상담회도 진행",
+ "summary": "[코스인코리아닷컴 김민석 기자]KOTRA 도쿄무역관은 오는 10월 20일(화) 14:00~17:00 ‘일본 법인설립 및 경영컨설팅 온라인 설명회’를 웨비나로 개최한다고 밝혔다. 일본 진출을 준비 중인 기업을 대상으로 법인설립 · 세무회계 ·노무 · 지식재산 전반을 다루는 온라인 설명회다. 이어 10월 21일에는 기업별 맞춤형 1:1 전문가 상담회도 진행",
+ "published_at": "2026-10-06T15:14:53+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "KOTRA"
+  ],
+  "keywords": [
+   "법인설립",
+   "경영컨설팅",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대한무역투자진흥공사 도쿄무역관이 일본 진출을 준비하는 기업들을 위해 법인설립 및 경영컨설팅 관련 온라인 설명회와 상담회를 개최한다.",
+  "key_fact_quote": "KOTRA 도쿄무역관은 오는 10월 20일(화) 14:00~17:00 ‘일본 법인설립 및 경영컨설팅 온라인 설명회’를 웨비나로 개최한다고 밝혔다.",
+  "events": [
+   {
+    "name": "일본 법인설립 및 경영컨설팅 온라인 설명회",
+    "start_date": "2026-10-20",
+    "end_date": null,
+    "place": "웨비나",
+    "quote": "KOTRA 도쿄무역관은 오는 10월 20일(화) 14:00~17:00 ‘일본 법인설립 및 경영컨설팅 온라인 설명회’를 웨비나로 개최한다고 밝혔다."
+   },
+   {
+    "name": "기업별 맞춤형 1:1 전문가 상담회",
+    "start_date": "2026-10-21",
+    "end_date": null,
+    "place": "온라인",
+    "quote": "이어 10월 21일에는 기업별 맞춤형 1:1 전문가 상담회도 진행한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:35+00:00",
+ "had_body": true
+}

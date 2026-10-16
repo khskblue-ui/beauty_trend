@@ -1,0 +1,79 @@
+{
+ "doc_id": "205753dd89a0dbfb",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58434",
+ "title": "[인사이트코리아 기획연재 ④] 직감도 AI도 답은 준다 — 책임은 누가 지는가",
+ "summary": "글·자료 | 인사이트코리아 INCENCIA AI 올리브영 토너 매대 앞에 서 본다. 수십 종이 꽂혀 있고, 뒤집어 성분표를 보면 나이아신아마이드·판테놀·병풀추출물이 반복된다. 용기 모양도, 카피의 문법도 서로 닮았다. 온라인몰의 선택지는 더 늘어난다. 그런데 이 많은 제품 중 이름을 남기는 브랜드는 손에 꼽는다. 질문 두 개가 남는다. 이렇게 많은데 왜",
+ "published_at": "2026-10-02T14:51:44+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "올리브영",
+   "Glossier",
+   "Play"
+  ],
+  "companies": [
+   "인사이트코리아",
+   "Ipsos",
+   "Greenbook"
+  ],
+  "keywords": [
+   "컨셉 테스트",
+   "신제품 개발",
+   "합성패널",
+   "스킨케어 트렌드",
+   "ODM"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "플레이",
+    "brand": "Glossier",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [
+   {
+    "name": "나이아신아마이드",
+    "quote": "뒤집어 성분표를 보면 나이아신아마이드·판테놀·병풀추출물이 반복된다."
+   },
+   {
+    "name": "판테놀",
+    "quote": "뒤집어 성분표를 보면 나이아신아마이드·판테놀·병풀추출물이 반복된다."
+   },
+   {
+    "name": "병풀추출물",
+    "quote": "뒤집어 성분표를 보면 나이아신아마이드·판테놀·병풀추출물이 반복된다."
+   }
+  ],
+  "dropped": [
+   "launch:플레이",
+   "key_fact"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:45+00:00",
+ "had_body": true
+}

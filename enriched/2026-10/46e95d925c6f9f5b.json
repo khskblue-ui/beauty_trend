@@ -16,25 +16,27 @@
  "extraction": {
   "relevant": true,
   "category": "business",
-  "event_type": "business",
+  "event_type": "regulation",
   "countries": [
    "KR"
   ],
   "brands": [],
   "companies": [],
   "keywords": [
-   "뷰티 테크",
    "맞춤형 화장품",
-   "피부진단"
+   "피부진단",
+   "뷰티 디바이스"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "정부가 인공지능을 활용한 피부진단과 맞춤형 화장품 등을 아우르는 뷰티 서비스 산업 지원에 나선다.",
-  "key_fact_quote": "화장품 제조 넘어 AI 피부진단까지…정부, K뷰티 서비스 250억 투자",
+  "key_fact": "정부가 화장품 제조를 넘어 피부진단과 맞춤형 화장품 등 뷰티 서비스 산업 육성을 위한 지원방안을 발표했다.",
+  "key_fact_quote": "화장품을 만들어 수출 하던 K뷰티 산업이 인공지능(AI)을 활용한 피부진단과 맞춤형 화장품, 뷰티 디바이스를 결합한 서비스 산업으로 영역을 넓히고 있다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:34+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:19+00:00",
  "had_body": false
 }

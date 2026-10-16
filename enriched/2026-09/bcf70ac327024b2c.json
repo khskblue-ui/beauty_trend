@@ -1,0 +1,54 @@
+{
+ "doc_id": "bcf70ac327024b2c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20260917_0003793316",
+ "title": "집안 곳곳에 빨래향 은은하게…피죤, 디퓨저 3종 리뉴얼 출시",
+ "summary": "글로벌 향료 회사의 전문 조향사와 연구를 통해 개발한 향료 를 사용해 국제 향료 협회(IFRA) 기준을 준수했다. 폼알데하이드, 메탄올, 글리옥살 등 유해 성분에 대한 불검출 시험도 완료했다. 피죤 관계자는 \"소비자들이...",
+ "published_at": "2026-09-17T10:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피죤"
+  ],
+  "companies": [
+   "피죤"
+  ],
+  "keywords": [
+   "디퓨저",
+   "홈 프래그런스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "디퓨저",
+    "brand": "피죤",
+    "launch_date": null,
+    "launch_quote": "피죤, 디퓨저 3종 리뉴얼 출시",
+    "notes": [
+     "빨래향"
+    ],
+    "notes_quote": "집안 곳곳에 빨래향 은은하게…피죤, 디퓨저 3종 리뉴얼 출시"
+   }
+  ],
+  "key_fact": "피죤이 전문 조향사와 협력 개발한 향료를 적용한 디퓨저를 리뉴얼 출시했다.",
+  "key_fact_quote": "집안 곳곳에 빨래향 은은하게…피죤, 디퓨저 3종 리뉴얼 출시",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:16:44+00:00",
+ "had_body": false
+}

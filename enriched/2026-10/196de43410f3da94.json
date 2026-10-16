@@ -1,0 +1,44 @@
+{
+ "doc_id": "196de43410f3da94",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.bloter.net/news/articleView.html?idxno=675243",
+ "title": "[ 뷰티 강소주 조명] 제이투케이바이오, 고부가 원료 효과…영업익 4배",
+ "summary": "K뷰티 수출 호조가 브랜드와 제조사를 넘어 화장품 원료 업체로 확산하고 있다. 제이투케이바이오는 고객사 확대와 고부가 기능성 소재 비중 증가에 힘입어 상반기 영업이익이 전년 동기 대비 4배 넘게 늘었다....",
+ "published_at": "2026-10-08T09:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "제이투케이바이오"
+  ],
+  "keywords": [
+   "화장품 원료",
+   "기능성 소재",
+   "케이뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제이투케이바이오는 고객사 확대와 고부가 기능성 소재 비중 증가로 상반기 영업이익이 크게 늘었다.",
+  "key_fact_quote": "제이투케이바이오는 고객사 확대와 고부가 기능성 소재 비중 증가에 힘입어 상반기 영업이익이 전년 동기 대비 4배 넘게 늘었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:44+00:00",
+ "had_body": false
+}

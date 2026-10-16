@@ -1,0 +1,61 @@
+{
+ "doc_id": "594d5d5cece3cd44",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.vegannews.co.kr/news/article.html?no=389737",
+ "title": "소노시즌, 비건 인증 클렌징 티슈로 뷰티 제품군 확대",
+ "summary": "클렌저’를 출시 했다. 회사는 지난 29일 공식 발표를 통해 리츄얼 라인에 피부용 클렌징 티슈를 추가하고 뷰티 ·퍼스널 케어 분야로 제품군을 넓힌다고 밝혔다. 소노시즌에 따르면 신제품 은 한국비건인증원의 비건 인증을...",
+ "published_at": "2026-09-30T23:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "소노시즌"
+  ],
+  "companies": [
+   "소노시즌"
+  ],
+  "keywords": [
+   "비건 뷰티",
+   "클렌징 티슈",
+   "퍼스널 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "클렌저",
+    "brand": "소노시즌",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "피부용 클렌징 티슈",
+    "brand": "소노시즌",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "소노시즌이 비건 인증을 받은 클렌징 티슈 제품을 추가하며 뷰티와 퍼스널 케어 분야로 제품군을 넓힌다.",
+  "key_fact_quote": "회사는 지난 29일 공식 발표를 통해 리츄얼 라인에 피부용 클렌징 티슈를 추가하고 뷰티 ·퍼스널 케어 분야로 제품군을 넓힌다고 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:12+00:00",
+ "had_body": false
+}

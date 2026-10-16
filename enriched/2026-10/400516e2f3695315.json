@@ -39,17 +39,52 @@
   ],
   "keywords": [
    "더마코스메틱",
+   "뷰티 디바이스",
    "헬스앤뷰티",
-   "뷰티 디바이스"
+   "기능성 소재",
+   "화장품 수출"
   ],
   "is_press_release": false,
-  "products": [],
-  "key_fact": "동국제약이 헬스앤뷰티 사업 확장 및 글로벌 시장 공략을 위해 사명을 브랜드명을 반영한 디케이 센텔리안으로 변경하는 안건을 의결했다.",
+  "products": [
+   {
+    "name": "마데카 프라임",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동국제약이 화장품과 헬스앤뷰티 사업 확장 및 글로벌 시장 공략에 맞춰 사명을 디케이 센텔리안으로 변경하는 안건을 의결했다.",
   "key_fact_quote": "13일 금융감독원 전자공시시스템에 따르면 동국제약은 전날 이사회를 열어 사명을 ‘DK 센텔리안(DK Centellian)’으로 변경하는 안건을 심의·의결했다.",
+  "events": [
+   {
+    "name": "임시주주총회",
+    "start_date": "2026-11-27",
+    "end_date": null,
+    "place": null,
+    "quote": "정관 변경을 위한 임시주주총회는 오는 11월 27일 열릴 예정이다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "병풀",
+    "quote": "마데카솔을 통해 축적한 병풀 연구와 센텔라아시아티카 정량 추출물(TECA) 기술을 바탕으로 의약품에서 피부 관리 영역까지 사업을 확장한 것이다."
+   },
+   {
+    "name": "센텔라아시아티카 정량 추출물(TECA)",
+    "quote": "마데카솔을 통해 축적한 병풀 연구와 센텔라아시아티카 정량 추출물(TECA) 기술을 바탕으로 의약품에서 피부 관리 영역까지 사업을 확장한 것이다."
+   },
+   {
+    "name": "폴리데옥시리보뉴클레오티드(PDRN)",
+    "quote": "폴리데옥시리보뉴클레오티드(PDRN) 등 기능성 소재를 활용한 제품을 선보이는 한편, 뷰티 디바이스 ‘마데카 프라임’을 통해 홈케어 시장에도 진출했다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:18+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:11:47+00:00",
  "had_body": true
 }

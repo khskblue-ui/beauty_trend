@@ -1,0 +1,70 @@
+{
+ "doc_id": "fee77929582b699a",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58435",
+ "title": "'무(無)계면활성제' 화장품 등장 초읽기... ‘초음파 집속기술’ 디브렉스(DEBREX)에 제조사들 '반색'",
+ "summary": "[코스인코리아닷컴 권태흥 기자]무(無)계면활성제 분산·유화는 가능할까? 9월 30일부터 10월 2일까지 코엑스에서 열린 제14회 국제첨단소재기술대전에 참가한 스타트업 ㈜퍼스트랩(Fust Lab)의 디브렉스(DEBREX)가 그런 가능성을 보여줌으로써 업계 관계자들의 시선을 모았다. 계면활성제는 화장품 제조에서 세정, 유화의 목적으로 사용된다. 다만 가려움",
+ "published_at": "2026-10-02T14:26:12+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "디브렉스"
+  ],
+  "companies": [
+   "퍼스트랩",
+   "코스맥스",
+   "LG생활건강"
+  ],
+  "keywords": [
+   "무계면활성제",
+   "초음파 집속기술",
+   "물리적 나노 유화",
+   "클린 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "퍼스트랩이 초음파 집속 기술을 통해 화학 계면활성제 없이도 물과 기름을 나노 단위로 유화 및 분산할 수 있는 기술을 선보였다.",
+  "key_fact_quote": "이에 비해 퍼스트랩의 디브렉스는 300-700kHz급 중주파 초음파를 360º 방향에서 발생시킨 초음파 에너지가 반응기 내부 유로에 집속되는 구조다. 계면활성제나 첨가제 없이도 물과 기름을 나노(nm) 단위로 균일하게 유화·분산시킬 수 있다",
+  "events": [
+   {
+    "name": "제14회 국제첨단소재기술대전",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-02",
+    "place": "코엑스",
+    "quote": "9월 30일부터 10월 2일까지 코엑스에서 열린 제14회 국제첨단소재기술대전에 참가한 스타트업 ㈜퍼스트랩(Fust Lab)의 디브렉스(DEBREX)가 그런 가능성을 보여줌으로써 업계 관계자들의 시선을 모았다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "레티놀",
+    "quote": "➋ 불필요한 첨가물이 줄어들고 유효 성분(레티놀, 세라마이드, 스쿠알란 등)이 나노 입자 크기로 줄어들어 피부에 효과적으로 흡수"
+   },
+   {
+    "name": "세라마이드",
+    "quote": "➋ 불필요한 첨가물이 줄어들고 유효 성분(레티놀, 세라마이드, 스쿠알란 등)이 나노 입자 크기로 줄어들어 피부에 효과적으로 흡수"
+   },
+   {
+    "name": "스쿠알란",
+    "quote": "➋ 불필요한 첨가물이 줄어들고 유효 성분(레티놀, 세라마이드, 스쿠알란 등)이 나노 입자 크기로 줄어들어 피부에 효과적으로 흡수"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:44+00:00",
+ "had_body": true
+}

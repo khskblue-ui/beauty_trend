@@ -6,11 +6,11 @@
  "lang": "ko",
  "url": "https://www.ekn.kr/web/view.php?key=20261007024083199",
  "title": "[똑똑한케어] CJ올리브영, 케어드, 뷰티셀렉션, 어뮤즈, 해피바스, LF 오...",
- "summary": "신제품 은 오일 향수 '윌 더블먼트 컨센트레'와 전용 케이스 '르 스틸로 아 빌 오도리페랑'으로 구성됐다. 두 제품을 결합하면 펜 형태의 '센티드 펜'이 완성돼 손목이나 목덜미 등에 굴려 향을 사용할 수 있다. 전용...",
+ "summary": "향료 농도와 에몰리언트 성분을 높였으며 향은 최대 8시간 지속된다는 게 LF 측 설명이다. 제품은 '이리 드 말트', '앙브르 드 마다가스카르', '멕시크 튜베로즈' 등 3가지 향으로 구성됐다. LF에 따르면 '이리 드 말트'는...",
  "published_at": "2026-10-07T11:00:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "향수 신제품",
+ "query": "향료",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -20,43 +20,64 @@
   "countries": [
    "KR"
   ],
-  "brands": [],
+  "brands": [
+   "LF"
+  ],
   "companies": [
    "LF",
    "CJ올리브영",
    "케어드",
    "뷰티셀렉션",
-   "어뮤즈"
+   "어뮤즈",
+   "아모레퍼시픽"
   ],
   "keywords": [
-   "오일 향수",
-   "센티드 펜"
+   "향수",
+   "프래그런스"
   ],
   "is_press_release": true,
   "products": [
    {
-    "name": "윌 더블먼트 컨센트레",
+    "name": "이리 드 말트",
     "brand": null,
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    },
    {
-    "name": "르 스틸로 아 빌 오도리페랑",
+    "name": "앙브르 드 마다가스카르",
     "brand": null,
     "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "멕시크 튜베로즈",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "오일 향수와 전용 케이스를 결합해 사용하는 형태의 펜 타입 신제품이 선보였다.",
-  "key_fact_quote": "신제품 은 오일 향수 '윌 더블먼트 컨센트레'와 전용 케이스 '르 스틸로 아 빌 오도리페랑'으로 구성됐다.",
+  "key_fact": "LF가 향료 농도와 에몰리언트 성분을 높여 지속 시간을 강화한 세 가지 향 구성의 제품을 소개했다.",
+  "key_fact_quote": "제품은 '이리 드 말트', '앙브르 드 마다가스카르', '멕시크 튜베로즈' 등 3가지 향으로 구성됐다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "에몰리언트",
+    "quote": "향료 농도와 에몰리언트 성분을 높였으며 향은 최대 8시간 지속된다는 게 LF 측 설명이다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:30+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:33+00:00",
  "had_body": false
 }

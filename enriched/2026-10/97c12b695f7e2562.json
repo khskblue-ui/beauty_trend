@@ -25,19 +25,28 @@
    "Canadian Cosmetic Cluster"
   ],
   "keywords": [
-   "뷰티 혁신",
-   "인디 뷰티",
-   "화장품 시상식",
-   "멘토링 프로그램"
+   "뷰티 어워드",
+   "인디 브랜드",
+   "화장품 혁신"
   ],
-  "is_press_release": false,
+  "is_press_release": true,
   "products": [],
-  "key_fact": "캐나다 코스메틱 클러스터가 뷰티 업계 혁신을 장려하고 수상자에게 실질적인 개발 지원을 제공하는 국제 시상식을 출범했다.",
-  "key_fact_quote": "Le Canadian Cosmetic Cluster a lancé la première édition des Canadian Cosmetic Cluster Awards, un projet international visant à valoriser l'innovation dans l'industrie de la beauté et à offrir aux lauréats un soutien concret pour accélérer leur développement.",
+  "key_fact": "캐나다 코스메틱 클러스터가 뷰티 산업의 혁신을 촉진하고 수상자들에게 멘토링과 실질적인 개발 지원을 제공하는 뷰티 어워드를 론칭했다.",
+  "key_fact_quote": "Le Canadian Cosmetic Cluster a lancé la première édition des Canadian Cosmetic Cluster Awards , un projet international visant à valoriser l’innovation dans l’industrie de la beauté et à offrir aux lauréats un soutien concret pour accélérer leur développement.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:01+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:01+00:00",
  "had_body": true
 }

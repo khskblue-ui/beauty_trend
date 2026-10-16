@@ -28,9 +28,8 @@
    "무신사"
   ],
   "keywords": [
-   "콜라보레이션 에디션",
-   "립케어",
-   "단독 출시"
+   "립 케어",
+   "콜라보레이션"
   ],
   "is_press_release": true,
   "products": [
@@ -38,17 +37,20 @@
     "name": "센슬 퀵 부스트 핑크 윙·퍼글러 에디션",
     "brand": "센슬",
     "launch_date": null,
+    "launch_status": "launched",
     "launch_quote": "센슬은 지난 12일 퍼글러 협업 제품인 '센슬 퀵 부스트 핑크 윙·퍼글러 에디션'을 무신사 뷰티 에서 단독 출시 했다고 14일 밝혔다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "센슬이 퍼글러와 협업한 신제품 에디션을 무신사 뷰티에서 단독 출시했다.",
+  "key_fact": "센슬이 퍼글러와 협업한 에디션 제품을 무신사 뷰티에서 단독 출시했다.",
   "key_fact_quote": "센슬은 지난 12일 퍼글러 협업 제품인 '센슬 퀵 부스트 핑크 윙·퍼글러 에디션'을 무신사 뷰티 에서 단독 출시 했다고 14일 밝혔다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:21+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:35+00:00",
  "had_body": false
 }

@@ -1,0 +1,44 @@
+{
+ "doc_id": "aa9c7e76648b40d6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261013_0003824102",
+ "title": "\"방콕 어딜 가도 K - 뷰티 \" 태국 매대 점령한 한국 화장품, 그 이면엔",
+ "summary": "이 같은 K - 뷰티 의 인기는 수출 실적으로도 확인된다. 14일 관세청에 따르면 지난해 한국의 대태국 화장품 관련 품목 수출 액은 2억4930만달러로 전년(2억2184만달러) 대비 12.4% 증가했다. 2022년(1억5322만달러)과 비교하면 3년...",
+ "published_at": "2026-10-14T05:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "관세청"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "수출 실적"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "태국 내 한국 화장품의 인기로 인해 대태국 화장품 수출액이 증가세를 보이고 있다.",
+  "key_fact_quote": "14일 관세청에 따르면 지난해 한국의 대태국 화장품 관련 품목 수출 액은 2억4930만달러로 전년(2억2184만달러) 대비 12.4% 증가했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:44+00:00",
+ "had_body": false
+}

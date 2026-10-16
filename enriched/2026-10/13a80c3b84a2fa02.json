@@ -1,0 +1,61 @@
+{
+ "doc_id": "13a80c3b84a2fa02",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/olehenriksen-to-open-sweet-inspired-scandiland-pop-up",
+ "title": "Olehenriksen to open sweet-inspired Scandiland pop-up in New York",
+ "summary": "The pop-up event in New York, US, takes inspiration from the beauty brand’s Scandinavian heritage as Olehenriksen’s celebrates the launch of its newest Pout Preserve Peptide Lip Treatment, Scandi Candy",
+ "published_at": "2026-10-08T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Olehenriksen"
+  ],
+  "companies": [
+   "Olehenriksen"
+  ],
+  "keywords": [
+   "립 트리트먼트",
+   "팝업스토어",
+   "스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Pout Preserve Peptide Lip Treatment, Scandi Candy",
+    "brand": "Olehenriksen",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Olehenriksen’s celebrates the launch of its newest Pout Preserve Peptide Lip Treatment, Scandi Candy",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "올레헨릭센이 신제품 립 트리트먼트 출시를 기념하여 뉴욕에서 팝업스토어를 엽니다.",
+  "key_fact_quote": "The pop-up event in New York, US, takes inspiration from the beauty brand’s Scandinavian heritage as Olehenriksen’s celebrates the launch of its newest Pout Preserve Peptide Lip Treatment, Scandi Candy",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Peptide",
+    "quote": "Olehenriksen’s celebrates the launch of its newest Pout Preserve Peptide Lip Treatment, Scandi Candy"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:04+00:00",
+ "had_body": false
+}

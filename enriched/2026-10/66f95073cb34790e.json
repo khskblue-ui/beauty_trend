@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "skincare",
+  "category": "business",
   "event_type": "business",
   "countries": [],
   "brands": [
@@ -25,17 +25,19 @@
    "Dermalogica"
   ],
   "keywords": [
-   "경영진 교체",
-   "스킨케어 브랜드 리더십"
+   "경영진 인사",
+   "뷰티 브랜드"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "더말로지카의 최고경영자가 자리에서 물러난다.",
-  "key_fact_quote": "Aurelian Lis to Depart Dermalogica",
+  "key_fact": "더말로지카의 최고경영자 오렐리앙 리스가 연말에 사임한다.",
+  "key_fact_quote": "The chief executive officer, who joined the brand a decade ago, is stepping down in late December.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:09:12+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:40+00:00",
  "had_body": false
 }

@@ -1,0 +1,45 @@
+{
+ "doc_id": "5351cb2d593ac733",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-trends-fashion-week-spring-2027-1239333632/",
+ "title": "Three Beauty Trends That Took Over Fashion Month",
+ "summary": "From New York to Paris, Milan and London catwalks, beauty took bold and beautiful turns.",
+ "published_at": "2026-10-10T03:54:05+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "FR",
+   "IT",
+   "GB"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 트렌드",
+   "패션위크",
+   "런웨이 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뉴욕부터 파리, 밀라노, 런던 캣워크에 이르기까지 패션의 달 전반에 걸쳐 대담하고 아름다운 뷰티 트렌드가 부각되었다.",
+  "key_fact_quote": "From New York to Paris, Milan and London catwalks, beauty took bold and beautiful turns.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:16+00:00",
+ "had_body": false
+}

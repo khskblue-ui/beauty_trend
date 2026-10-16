@@ -1,0 +1,42 @@
+{
+ "doc_id": "5ee4875539daf48c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.iminju.net/news/articleView.html?idxno=169368",
+ "title": "K-뷰티 '가품 주의보'…글로벌 성장세에 브랜드 보호 과제로",
+ "summary": "관세청에 따르면 지난해 통관 단계에서 적발된 국내 브랜드의 화장품 가품은 4만1903점에 달했다. 이는 전체... 신제품 이 정식 출시된 뒤 불과 수 시간에서 수일 만에 가품 판매 페이지가 등장하는 사례도 확인되고 있다....",
+ "published_at": "2026-09-21T09:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "관세청"
+  ],
+  "keywords": [
+   "위조 상품",
+   "브랜드 보호",
+   "케이뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 브랜드 화장품의 가품이 적발되는 등 글로벌 성장세 속 브랜드 보호가 과제로 떠오르고 있다.",
+  "key_fact_quote": "K-뷰티 '가품 주의보'…글로벌 성장세에 브랜드 보호 과제로",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:13+00:00",
+ "had_body": false
+}

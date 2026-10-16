@@ -1,0 +1,42 @@
+{
+ "doc_id": "8237322b5c24005e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gokorea.kr/news/articleView.html?idxno=881203",
+ "title": "한국 소비재 수출 4.2배 급증, 미국·유럽에서 K - 뷰티 와 K -푸드 열풍",
+ "summary": "K-푸드와 K - 뷰티 수출 에 있어 중소 및 중견기업이 차지하는 비중은 각각 93.1%와 91.3%에 이른다. 반면, 대기업이 주도하는 K-바이오 분야는 대규모 투자가 필수적이어서 대기업 비중이 72.8%로 높게 나타났다. 화장품을...",
+ "published_at": "2026-10-13T12:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "소비재 수출",
+   "K-뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국과 유럽 등에서 뷰티와 푸드 열풍이 불며 한국 소비재 수출이 크게 증가하고 있으며 뷰티 수출에서는 중소 및 중견기업의 비중이 압도적으로 높다.",
+  "key_fact_quote": "K-푸드와 K - 뷰티 수출 에 있어 중소 및 중견기업이 차지하는 비중은 각각 93.1%와 91.3%에 이른다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:51+00:00",
+ "had_body": false
+}

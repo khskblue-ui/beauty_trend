@@ -1,0 +1,43 @@
+{
+ "doc_id": "43d13f706c177101",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20260910000075",
+ "title": "[11번가 테마쇼핑] 김·홍삼·화장품까지…추석 선물도 '슈팅배송'으로...",
+ "summary": "'풍년보감 6년근 고려홍삼정 올데이굿타임 홍삼스틱'(10g×100포)은 국내산 6년근 홍삼에 당귀·영지 등 식물성 혼합추출물을 더했으며, 화학방부제·인공 향료 ·감미료를 넣지 않았다. 3만원대에는 식품부터 건강 간식, 차...",
+ "published_at": "2026-09-10T11:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "풍년보감"
+  ],
+  "companies": [
+   "11번가"
+  ],
+  "keywords": [
+   "추석 선물",
+   "슈팅배송"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:20+00:00",
+ "had_body": false
+}

@@ -1,0 +1,62 @@
+{
+ "doc_id": "ed996ad9e249bb9e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sports.hankooki.com/news/articleView.html?idxno=6938855",
+ "title": "[뷰티 새소식] 라네즈, 마뗑킴과 컬래버레이션 컬렉션 출시… 디올 하우...",
+ "summary": "겔랑이 새로운 향수 '뢰르 블루 오 드 퍼퓸'을 런칭했다. 디올 하우스의 대표 남성 향수 라인 소바쥬가 NEW... 특히 이번 신제품 의 시그니처 노트는 채취와 추출 과정이 매우 길고 까다로워 더욱 희소하고 매력적인...",
+ "published_at": "2026-09-02T03:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라네즈",
+   "마뗑킴",
+   "디올",
+   "겔랑"
+  ],
+  "companies": [],
+  "keywords": [
+   "신제품 출시",
+   "향수 런칭",
+   "남성 향수"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "뢰르 블루 오 드 퍼퓸",
+    "brand": "겔랑",
+    "launch_date": null,
+    "launch_quote": "겔랑이 새로운 향수 '뢰르 블루 오 드 퍼퓸'을 런칭했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "소바쥬",
+    "brand": "디올",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "겔랑이 새로운 향수를 런칭하고 디올이 소바쥬 라인의 신제품을 선보인다.",
+  "key_fact_quote": "겔랑이 새로운 향수 '뢰르 블루 오 드 퍼퓸'을 런칭했다. 디올 하우스의 대표 남성 향수 라인 소바쥬가 NEW...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:53+00:00",
+ "had_body": false
+}

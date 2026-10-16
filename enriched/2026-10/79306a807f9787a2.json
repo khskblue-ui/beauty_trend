@@ -1,0 +1,70 @@
+{
+ "doc_id": "79306a807f9787a2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=617672",
+ "title": "HLB펩 '랩센', 루마니아 간다…유럽 스킨케어 시장 첫 진출",
+ "summary": "HLB펩은 올해 초 출시 한 '펩타이드 카밍 세럼'을 비롯해 '펩타이드 리페어 마이크로 버블 에센스', '펩타이드... 랩센은 이를 화장품 에 접목해 선보인 프리미엄 더마 스킨케어 브랜드로, HLB펩이 자체 개발해 특허 출원한...",
+ "published_at": "2026-10-07T15:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "RO"
+  ],
+  "brands": [
+   "랩센"
+  ],
+  "companies": [
+   "HLB펩"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "펩타이드 카밍 세럼",
+    "brand": "랩센",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "펩타이드 리페어 마이크로 버블 에센스",
+    "brand": "랩센",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "HLB펩의 프리미엄 더마 스킨케어 브랜드 랩센이 루마니아에 진출하며 유럽 스킨케어 시장 진출을 시작한다.",
+  "key_fact_quote": "HLB펩 '랩센', 루마니아 간다…유럽 스킨케어 시장 첫 진출",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "펩타이드",
+    "quote": "HLB펩은 올해 초 출시 한 '펩타이드 카밍 세럼'을 비롯해 '펩타이드 리페어 마이크로 버블 에센스', '펩타이드... 랩센은 이를 화장품 에 접목해 선보인 프리미엄 더마 스킨케어 브랜드로, HLB펩이 자체 개발해 특허 출원한..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:34+00:00",
+ "had_body": false
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "803e80e805545fba",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1413914",
+ "title": "사명에 '센텔리안' 담는 동국제약…글로벌 화장품 사업에 힘 싣는다",
+ "summary": "새 사명에 포함된 '센텔리안'은 동국제약이 2015년 출시 한 더마코스메틱 브랜드 '센텔리안24'에도 사용된 명칭이다. 화장품 을 포함한 헬스케어 사업의 성장세는 실적에서도 확인된다. 올해 상반기 동국제약의 헬스케어...",
+ "published_at": "2026-10-12T16:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안24"
+  ],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "화장품 사업",
+   "사명 변경"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "동국제약이 글로벌 화장품 사업 강화를 위해 사명에 자사 더마코스메틱 브랜드 명칭인 센텔리안을 포함한다.",
+  "key_fact_quote": "사명에 '센텔리안' 담는 동국제약…글로벌 화장품 사업에 힘 싣는다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:04+00:00",
+ "had_body": false
+}

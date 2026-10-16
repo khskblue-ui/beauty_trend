@@ -1,0 +1,49 @@
+{
+ "doc_id": "6e919c9658b76d28",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=576029&class=17&grp=",
+ "title": "유통가 ‘뷰티전쟁’…다이소·무신사, 올리브영 독주 흔들까",
+ "summary": "중국 색조 브랜드 인투유와 AZTK를 비롯해 프랑스 니치 향수 브랜드 에따 리브르 도랑쥬와 국내 향수 브랜드 셀바티고 등이 입점했으며 신규 브랜드와 주목받는 제품을 별도로 소개하는 공간도 마련했다. 여기에...",
+ "published_at": "2026-09-19T08:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "인투유",
+   "AZTK",
+   "에따 리브르 도랑쥬",
+   "셀바티고"
+  ],
+  "companies": [
+   "다이소",
+   "무신사",
+   "올리브영"
+  ],
+  "keywords": [
+   "뷰티 유통",
+   "니치 향수",
+   "색조 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유통업계의 뷰티 경쟁 속에 색조 및 향수 브랜드 입점이 이어지고 있다.",
+  "key_fact_quote": "중국 색조 브랜드 인투유와 AZTK를 비롯해 프랑스 니치 향수 브랜드 에따 리브르 도랑쥬와 국내 향수 브랜드 셀바티고 등이 입점했으며 신규 브랜드와 주목받는 제품을 별도로 소개하는 공간도 마련했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:13+00:00",
+ "had_body": false
+}

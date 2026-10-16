@@ -1,0 +1,73 @@
+{
+ "doc_id": "b565b2ee6a773eda",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.asiatime.co.kr/article/20261005500050",
+ "title": "[단독]‘할랄 뷰티’ 뚫은 코라운드, 억 단위 투자 유치",
+ "summary": "김 CEO는 “코라운드는 이달 말 클렌저, 세럼, 크림 등 신제품 라인업을 국내외 시장에 동시 출시한다”며 “아울러 화장품 할랄 인증 의무화가 본격화되는 인도네시아 시장의 현지 유통망을 넓히고, 말레이시아를 넘어...",
+ "published_at": "2026-10-05T13:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "ID",
+   "MY"
+  ],
+  "brands": [],
+  "companies": [
+   "코라운드"
+  ],
+  "keywords": [
+   "할랄 뷰티",
+   "할랄 인증"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "클렌저",
+    "brand": "코라운드",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "김 CEO는 “코라운드는 이달 말 클렌저, 세럼, 크림 등 신제품 라인업을 국내외 시장에 동시 출시한다”며 “아울러 화장품 할랄 인증 의무화가 본격화되는 인도네시아 시장의 현지 유통망을 넓히고, 말레이시아를 넘어...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "세럼",
+    "brand": "코라운드",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "김 CEO는 “코라운드는 이달 말 클렌저, 세럼, 크림 등 신제품 라인업을 국내외 시장에 동시 출시한다”며 “아울러 화장품 할랄 인증 의무화가 본격화되는 인도네시아 시장의 현지 유통망을 넓히고, 말레이시아를 넘어...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "크림",
+    "brand": "코라운드",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "김 CEO는 “코라운드는 이달 말 클렌저, 세럼, 크림 등 신제품 라인업을 국내외 시장에 동시 출시한다”며 “아울러 화장품 할랄 인증 의무화가 본격화되는 인도네시아 시장의 현지 유통망을 넓히고, 말레이시아를 넘어...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코라운드가 투자를 유치하고 신제품 라인업을 출시하며 할랄 뷰티 시장 유통망 확장에 나선다.",
+  "key_fact_quote": "‘할랄 뷰티’ 뚫은 코라운드, 억 단위 투자 유치",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:07+00:00",
+ "had_body": false
+}

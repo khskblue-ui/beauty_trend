@@ -6,40 +6,38 @@
  "lang": "ko",
  "url": "https://www.etnews.com/20260921000327",
  "title": "[2026 전남광주뷰티산업전] 광주여대, R&D 기반 혁신 시제품 수혜기업 제...",
- "summary": "제품의 제형 및 사용 목적뿐만 아니라 패키지 디자인, 제품 촬영, 홍보 콘텐츠 등을 연계해 실제 시장 출시 및... 자연주의 바디 케어, 기능성 마스크팩, 수분·광채 케어 미스트 , 손상모·시술모 전용 헤어케어 등 다양한...",
+ "summary": "제품의 제형 및 사용 목적뿐만 아니라 패키지 디자인, 제품 촬영, 홍보 콘텐츠 등을 연계해 실제 시장 출시 및... 주요 전시 품목은 △기초·색조화장품 △스킨케어·바디케어 △헤어·두피케어 △네일·메이크업 △ 향수 ...",
  "published_at": "2026-09-25T09:01:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "바디미스트 출시",
+ "query": "향수 출시",
  "doc_type": null,
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "other",
+  "category": "business",
   "event_type": "event",
   "countries": [
    "KR"
   ],
   "brands": [],
   "companies": [
-   "광주여자대학교"
+   "광주여대"
   ],
   "keywords": [
-   "바디 케어",
-   "기능성 마스크팩",
-   "헤어케어",
-   "미스트"
+   "뷰티산업전",
+   "기초 화장품",
+   "색조 화장품",
+   "향수"
   ],
-  "is_press_release": true,
+  "is_press_release": false,
   "products": [],
-  "key_fact": "광주여대가 전남광주뷰티산업전에서 연구개발 기반 혁신 시제품 수혜기업 제품을 선보인다.",
+  "key_fact": "전남광주뷰티산업전에서 광주여대가 혁신 시제품 수혜기업 제품을 선보이며 다양한 뷰티 품목이 전시된다.",
   "key_fact_quote": "[2026 전남광주뷰티산업전] 광주여대, R&D 기반 혁신 시제품 수혜기업 제...",
-  "events": [],
-  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:36+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:05+00:00",
  "had_body": false
 }

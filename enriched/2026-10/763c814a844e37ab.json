@@ -1,0 +1,43 @@
+{
+ "doc_id": "763c814a844e37ab",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.huffingtonpost.kr/article/261120",
+ "title": "[허프 트렌드] 캪틴큐 돌아오고, 플스1은 레고로 부활 : 구세대 향수 와...",
+ "summary": "세대는 향수 를 느끼고, 젊은 세대는 새로운 취향을 발견한다. 추억의 상품은 세대 간 간극을 좁히는 공통의 언어가 될 수 있을까. 12일 유통업계에 따르면 롯데칠성음료는 2015년 단종한 양주 캪틴큐를 11년 만에 재 출시 ...",
+ "published_at": "2026-10-12T11:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데칠성음료"
+  ],
+  "keywords": [
+   "레트로 트렌드",
+   "추억 상품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "과거 단종되었던 제품들이 다시 출시되며 세대 간 취향과 향수를 자극하고 있다.",
+  "key_fact_quote": "세대는 향수 를 느끼고, 젊은 세대는 새로운 취향을 발견한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:47+00:00",
+ "had_body": false
+}

@@ -1,0 +1,80 @@
+{
+ "doc_id": "18c7b2dfe65497b0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449227",
+ "title": "토니모리 '본셉' 색조 제품군 확장, 다이소서 베이스·립 신제품 10종 출...",
+ "summary": "토니모리는 13일 본셉이 다이소에서 '비타씨 베이스' 7종과 '틴티드 글로우 립스틱' 3종 등 신제품 을 출시 했... 본셉은 토니모리가 2024년 4월 다이소에 선보인 전용 뷰티 브랜드다. 레티놀과 비타민C, D-판테놀 등을 활용한...",
+ "published_at": "2026-10-13T17:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "토니모리",
+   "본셉"
+  ],
+  "companies": [
+   "토니모리",
+   "다이소"
+  ],
+  "keywords": [
+   "색조 화장품",
+   "베이스 메이크업",
+   "립스틱"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "비타씨 베이스",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "토니모리는 13일 본셉이 다이소에서 '비타씨 베이스' 7종과 '틴티드 글로우 립스틱' 3종 등 신제품 을 출시 했...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "틴티드 글로우 립스틱",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "토니모리는 13일 본셉이 다이소에서 '비타씨 베이스' 7종과 '틴티드 글로우 립스틱' 3종 등 신제품 을 출시 했...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "토니모리의 다이소 전용 브랜드 본셉이 베이스와 립스틱 신제품을 출시하며 색조 제품군을 확장했다.",
+  "key_fact_quote": "토니모리는 13일 본셉이 다이소에서 '비타씨 베이스' 7종과 '틴티드 글로우 립스틱' 3종 등 신제품 을 출시 했...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레티놀",
+    "quote": "레티놀과 비타민C, D-판테놀 등을 활용한..."
+   },
+   {
+    "name": "비타민C",
+    "quote": "레티놀과 비타민C, D-판테놀 등을 활용한..."
+   },
+   {
+    "name": "D-판테놀",
+    "quote": "레티놀과 비타민C, D-판테놀 등을 활용한..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:42+00:00",
+ "had_body": false
+}

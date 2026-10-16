@@ -1,0 +1,52 @@
+{
+ "doc_id": "f054c27231b6162c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.viva100.com/article/20260930501131",
+ "title": "뷰티는 의료로, 제약은 화장품 으로⋯ 무너지는 업종간 경계",
+ "summary": "유한양행은 올해 비타민 연구 기술을 활용한 스킨케어 브랜드 ‘더이유’를 선보였고, 한미사이언스도 자체 개발 원료를 적용한 더마코스메틱 브랜드 ‘아데시’를 출시 했다. 약국과 화장품 의 거리도 좁혀지고 있다....",
+ "published_at": "2026-10-01T06:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더이유",
+   "아데시"
+  ],
+  "companies": [
+   "유한양행",
+   "한미사이언스"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "스킨케어 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제약사들이 독자 기술과 원료를 바탕으로 뷰티 브랜드를 선보이며 뷰티와 제약 간의 업종 경계가 허물어지고 있다.",
+  "key_fact_quote": "유한양행은 올해 비타민 연구 기술을 활용한 스킨케어 브랜드 ‘더이유’를 선보였고, 한미사이언스도 자체 개발 원료를 적용한 더마코스메틱 브랜드 ‘아데시’를 출시 했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "비타민",
+    "quote": "유한양행은 올해 비타민 연구 기술을 활용한 스킨케어 브랜드 ‘더이유’를 선보였고, 한미사이언스도 자체 개발 원료를 적용한 더마코스메틱 브랜드 ‘아데시’를 출시 했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:50+00:00",
+ "had_body": false
+}

@@ -26,8 +26,8 @@
   ],
   "keywords": [
    "럭셔리 화장품",
-   "메이크업",
-   "향수"
+   "멜팅 립밤",
+   "향수 라인업"
   ],
   "is_press_release": true,
   "products": [
@@ -35,17 +35,20 @@
     "name": "립 젤리",
     "brand": null,
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "대표 품목인 '립 젤리'(10g, 5만7000원)는 시그니처 트라이앵글 패키지를 적용한 신제품 으로 체온에 부드럽게 녹아드는 원-터치 멜팅 립밤이다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "광주신세계가 럭셔리 수요 공략을 위해 메이크업과 향수를 포함한 화장품 라인업 확장에 나섰다.",
+  "key_fact": "광주신세계가 메이크업과 향수 등 화장품 구성을 넓히며 럭셔리 수요 공략에 나섰다.",
   "key_fact_quote": "\"럭셔리 수요 잡아라\"…광주신세계, 화장품 라인업 확장 나서",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:24+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:33+00:00",
  "had_body": false
 }

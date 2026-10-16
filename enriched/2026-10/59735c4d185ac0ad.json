@@ -1,0 +1,53 @@
+{
+ "doc_id": "59735c4d185ac0ad",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.m-i.kr/news/articleView.html?idxno=2003843",
+ "title": "신라면세점, 화장품 매출 두 자릿수 성장…단독 상품 확대",
+ "summary": "세트'를 출시 한다. 구매 고객에게는 아토베리어365 크림 30ml를 추가 제공한다. 신라면세점은 앞으로도 고객 선호도와 구매 수요를 반영한 단독 상품을 지속 확대해 화장품 카테고리의 경쟁력을 높일 계획이다....",
+ "published_at": "2026-10-08T09:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신라면세점"
+  ],
+  "keywords": [
+   "면세점 화장품",
+   "단독 상품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아토베리어365 크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신라면세점은 화장품 부문 경쟁력을 높이기 위해 단독 상품을 확대하고 있다.",
+  "key_fact_quote": "신라면세점은 앞으로도 고객 선호도와 구매 수요를 반영한 단독 상품을 지속 확대해 화장품 카테고리의 경쟁력을 높일 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:26+00:00",
+ "had_body": false
+}

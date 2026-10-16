@@ -1,0 +1,58 @@
+{
+ "doc_id": "53eae72d10b65207",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026100116491788360",
+ "title": "AGE20'S 전면 '리브랜딩'…애경산업 화장품 드라이브 시동",
+ "summary": "태광그룹에 편입된 애경산업이 대표 화장품 브랜드 AGE20'S(에이지투웨니스)를 전면 재정비한다. '에센스... 지난달 출시 한 '스킨 퍼스트 히든 프렙 파운데이션 팩트'도 프렙 에센스와 파운데이션을 결합해 이 같은...",
+ "published_at": "2026-10-01T16:59:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "AGE20'S",
+   "에이지투웨니스"
+  ],
+  "companies": [
+   "태광그룹",
+   "애경산업"
+  ],
+  "keywords": [
+   "리브랜딩",
+   "파운데이션 팩트",
+   "프렙 에센스"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "스킨 퍼스트 히든 프렙 파운데이션 팩트",
+    "brand": "AGE20'S",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "지난달 출시 한 '스킨 퍼스트 히든 프렙 파운데이션 팩트'도 프렙 에센스와 파운데이션을 결합해 이 같은...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "애경산업이 대표 화장품 브랜드인 에이지투웨니스를 전면 재정비하며 화장품 사업에 드라이브를 건다.",
+  "key_fact_quote": "태광그룹에 편입된 애경산업이 대표 화장품 브랜드 AGE20'S(에이지투웨니스)를 전면 재정비한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:45+00:00",
+ "had_body": false
+}

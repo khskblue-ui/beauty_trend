@@ -1,0 +1,64 @@
+{
+ "doc_id": "838816723ff2dff3",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58449",
+ "title": "트럼프 관세에도 미국 브랜드사들 공급망 이동에 어려움... 한국산 점유율은 상승",
+ "summary": "[코스인코리아닷컴 김민석 기자]대한화장품산업연구원에 따르면 미국 화장품 시장이 제조 공급망 재편, 시술과 제품의 경계 해체, 마케팅 접점 이동 등 생산과 공간·미디어에서 동시 변화가 일어나고 있다는 분석이다. 미국 정부가 자국 제조업 회복을 명분으로 관세를 강화했지만, 정작 화장품 시장에서는 미국산 제품 입지가 좁아지고 있다는 소식이다. 시장조사기관 닐슨",
+ "published_at": "2026-10-06T14:46:18+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "KR",
+   "CN",
+   "VN",
+   "IN"
+  ],
+  "brands": [
+   "SkinSpirit",
+   "Nordstrom"
+  ],
+  "companies": [
+   "대한화장품산업연구원",
+   "닐슨아이큐",
+   "뷰티 인디펜던트",
+   "미국메디컬스파협회"
+  ],
+  "keywords": [
+   "공급망 재편",
+   "관세 정책",
+   "K뷰티 수출",
+   "메디컬 에스테틱"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 정부의 관세 강화에도 미국 화장품 제조사들의 수입 원자재 및 부자재 의존으로 인해 생산 이전이 어려움을 겪는 반면 한국산 점유율은 오히려 상승세를 보이고 있다.",
+  "key_fact_quote": "미국 정부가 자국 제조업 회복을 명분으로 관세를 강화했지만, 정작 화장품 시장에서는 미국산 제품 입지가 좁아지고 있다는 소식이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "알루미늄",
+    "quote": "알루미늄에도 관세가 붙어 에어리스 펌프와 튜브 공급처를 바꿔야 하는 상황인데, 용기를 교체하면 배합까지 다시 손질해야 하는 문제가 나타났다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "PDRN처럼 재생을 앞세운 기업이라면 현지 시술 체인에 전문가용 제품 공급을 제안해볼만 하다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:36+00:00",
+ "had_body": true
+}

@@ -21,16 +21,16 @@
    "KR"
   ],
   "brands": [
-   "짱셔요",
-   "빼빼로",
-   "아이디어스"
+   "짱셔요"
   ],
   "companies": [
-   "롯데웰푸드"
+   "롯데웰푸드",
+   "아이디어스"
   ],
   "keywords": [
    "굿즈 협업",
-   "향수 콜라보"
+   "캐릭터 향수",
+   "브랜드 협업"
   ],
   "is_press_release": true,
   "products": [
@@ -38,6 +38,7 @@
     "name": "짱셔요 향수",
     "brand": "짱셔요",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -45,10 +46,12 @@
   ],
   "key_fact": "롯데웰푸드가 아이디어스와 협업해 짱셔요 향수 등 다양한 굿즈를 선보인다.",
   "key_fact_quote": "빼빼로 책갈피·짱셔요 향수 …롯데웰푸드, 아이디어스와 굿즈 협업",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:42+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:44+00:00",
  "had_body": false
 }

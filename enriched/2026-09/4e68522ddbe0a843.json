@@ -6,11 +6,11 @@
  "lang": "ko",
  "url": "https://www.meconomynews.com/news/articleView.html?idxno=201793",
  "title": "가을 메이크업, 개성 살리고 피부 부담은 줄였다 [최기자의 화장품 털기...",
- "summary": "조향사 모리스 루셀이 완성한 앰버 머스크 계열 향수로, 베르가못·만다린·라벤더가 밝고 깨끗한 첫 향을... 사탕수수 유래 에탄올을 사용했으며, 글로벌 향료 회사 전문 조향사 와 개발한 향료를 적용하고 국제향료협회...",
+ "summary": "사탕수수 유래 에탄올을 사용했으며, 글로벌 향료 회사 전문 조향사와 개발한 향료 를 적용하고 국제 향료 협회(IFRA) 기준을 준수했다. 폼알데하이드·메탄올·글리옥살 등 유해 성분 불검출 시험도 완료했다. [최 기자's...",
  "published_at": "2026-09-19T00:36:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "조향사",
+ "query": "향료",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -21,33 +21,23 @@
    "KR"
   ],
   "brands": [],
-  "companies": [],
+  "companies": [
+   "국제 향료 협회"
+  ],
   "keywords": [
-   "앰버 머스크",
-   "향료 개발"
+   "가을 메이크업",
+   "사탕수수 유래 에탄올",
+   "전문 조향사",
+   "국제 향료 협회 기준"
   ],
   "is_press_release": false,
-  "products": [
-   {
-    "name": "앰버 머스크 계열 향수",
-    "brand": null,
-    "launch_date": null,
-    "launch_quote": null,
-    "notes": [
-     "앰버 머스크",
-     "베르가못",
-     "만다린",
-     "라벤더"
-    ],
-    "notes_quote": "조향사 모리스 루셀이 완성한 앰버 머스크 계열 향수로, 베르가못·만다린·라벤더가 밝고 깨끗한 첫 향을..."
-   }
-  ],
-  "key_fact": "조향사 모리스 루셀이 조향하고 베르가못과 만다린 등을 적용한 향수가 소개되었다.",
-  "key_fact_quote": "조향사 모리스 루셀이 완성한 앰버 머스크 계열 향수로, 베르가못·만다린·라벤더가 밝고 깨끗한 첫 향을...",
+  "products": [],
+  "key_fact": "사탕수수 유래 에탄올과 글로벌 향료 회사 전문 조향사가 개발한 향료를 적용하고 유해 성분 불검출 시험을 완료한 제품이 소개되었다.",
+  "key_fact_quote": "사탕수수 유래 에탄올을 사용했으며, 글로벌 향료 회사 전문 조향사와 개발한 향료 를 적용하고 국제 향료 협회(IFRA) 기준을 준수했다.",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:55+00:00",
+ "enriched_at": "2026-10-14T14:16:21+00:00",
  "had_body": false
 }

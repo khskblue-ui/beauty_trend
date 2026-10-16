@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "skincare",
+  "category": "business",
   "event_type": "business",
   "countries": [
    "KR"
@@ -23,18 +23,20 @@
   "brands": [],
   "companies": [],
   "keywords": [
-   "AI 생산라인",
-   "화장품 처방",
-   "품질 공정"
+   "생산라인",
+   "품질 공정",
+   "스마트 팩토리"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "인공지능을 통해 기존 화장품 처방을 분석하여 생산 과정의 품질 및 공정 문제를 사전 점검한다.",
+  "key_fact": "화장품 제조 공정에 인공지능을 도입하여 처방을 분석하고 품질과 공정 문제를 사전에 예방한다.",
   "key_fact_quote": "신제품 의 전성분을 기존 처방과 비교해 과거 비슷한 제품을 생산하면서 발생했던 품질·공정 문제를 찾아내는 방식이다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:50+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:54+00:00",
  "had_body": false
 }

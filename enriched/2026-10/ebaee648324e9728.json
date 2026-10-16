@@ -1,0 +1,45 @@
+{
+ "doc_id": "ebaee648324e9728",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ngetnews.com/news/articleView.html?idxno=554054",
+ "title": "CJ올리브영, K 뷰티 직접 알린다…한·영·일 공식 뉴스룸 론칭",
+ "summary": "CJ올리브영은 기업 홈페이지를 전면 개편하고 공식 뉴스룸 '에디토리얼 바이 올리브영(editorial by OLIVE YOUNG)'을 론칭 한다고 2일 밝혔다. 국내외 사업 현장과 한국 뷰티 트렌드, 입점 브랜드 의 성장 과정 등을 자체...",
+ "published_at": "2026-10-02T17:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "공식 뉴스룸",
+   "뷰티 트렌드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "씨제이올리브영이 기업 홈페이지를 전면 개편하고 자체 공식 뉴스룸을 개설했다.",
+  "key_fact_quote": "CJ올리브영은 기업 홈페이지를 전면 개편하고 공식 뉴스룸 '에디토리얼 바이 올리브영(editorial by OLIVE YOUNG)'을 론칭 한다고 2일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:51+00:00",
+ "had_body": false
+}

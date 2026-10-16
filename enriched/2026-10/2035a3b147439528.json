@@ -39,6 +39,7 @@
     "name": "마다가스카르 센텔라 앰플",
     "brand": "스킨1004",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -47,6 +48,7 @@
     "name": "마다가스카르 센텔라 라이트 클렌징 오일",
     "brand": "스킨1004",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -55,6 +57,7 @@
     "name": "히알루-시카 워터핏 선세럼",
     "brand": "스킨1004",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -63,17 +66,37 @@
     "name": "스킨1004 마다가스카르 센텔라 아젤라익 애씨드 10 부스팅 샷 앰플",
     "brand": "스킨1004",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "크레이버코퍼레이션의 스킨케어 브랜드 스킨천사가 뷰티월드 두바이 박람회에 참가해 주요 제품군을 선보이고 중동 시장 내 사업 확장을 추진했다.",
+  "key_fact": "크레이버코퍼레이션의 스킨케어 브랜드 스킨천사가 뷰티월드 두바이 참가를 마무리하며 중동 시장 내 유통망 확대와 사업 다각화를 추진했다.",
   "key_fact_quote": "글로벌 뷰티 밸류체인 기업 크레이버코퍼레이션(이하 크레이버, 대표 전항일)이 전개하는 원료주의 스킨케어 브랜드 스킨1004(스킨천사)가 ‘뷰티월드 두바이 2026(Beautyworld Dubai 2026)’ 참가를 성공적으로 마무리했다.",
+  "events": [
+   {
+    "name": "뷰티월드 두바이 2026(Beautyworld Dubai 2026)",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-08",
+    "place": "아랍에미리트(UAE) 두바이 월드트레이드센터",
+    "quote": "지난 6일부터 8일까지 아랍에미리트(UAE) 두바이 월드트레이드센터에서 열린 ‘뷰티월드 두바이’는 올해 30주년을 맞은 글로벌 뷰티 비즈니스 행사다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "센텔라",
+    "quote": "스킨1004는 센텔라를 중심으로 구축해 온 브랜드 헤리티지를 바탕으로 아젤라익산 등 새로운 성분까지 제품 영역을 넓히며, 다양한 스킨케어 니즈에 대응할 수 있는 포트폴리오를 구축해 나가고 있다."
+   },
+   {
+    "name": "아젤라익산",
+    "quote": "스킨1004는 센텔라를 중심으로 구축해 온 브랜드 헤리티지를 바탕으로 아젤라익산 등 새로운 성분까지 제품 영역을 넓히며, 다양한 스킨케어 니즈에 대응할 수 있는 포트폴리오를 구축해 나가고 있다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:48+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:01+00:00",
  "had_body": true
 }

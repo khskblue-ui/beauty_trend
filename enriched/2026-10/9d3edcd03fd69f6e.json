@@ -1,0 +1,57 @@
+{
+ "doc_id": "9d3edcd03fd69f6e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=135622",
+ "title": "유한양행 비건 뷰티 '딘시', 전여빈 참석 현대百 판교점 팝업스토어 성...",
+ "summary": "딘시는 유한양행의 제약·바이오 기술력을 접목한 비건 뷰티 브랜드다. 이번 팝업 공간에서는 환절기 피부 관리를 겨냥해 출시 된 신제품 슬로우에이징 세럼 3종을 포함해 선케어, 스킨케어 등 주요 제품군을 선보였다....",
+ "published_at": "2026-10-12T12:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "딘시"
+  ],
+  "companies": [
+   "유한양행"
+  ],
+  "keywords": [
+   "비건 뷰티",
+   "슬로우에이징",
+   "팝업스토어",
+   "세럼"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "슬로우에이징 세럼",
+    "brand": "딘시",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번 팝업 공간에서는 환절기 피부 관리를 겨냥해 출시 된 신제품 슬로우에이징 세럼 3종을 포함해 선케어, 스킨케어 등 주요 제품군을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유한양행의 비건 뷰티 브랜드 딘시가 현대백화점 판교점에서 팝업스토어를 열고 신제품 슬로우에이징 세럼 등을 선보였다.",
+  "key_fact_quote": "이번 팝업 공간에서는 환절기 피부 관리를 겨냥해 출시 된 신제품 슬로우에이징 세럼 3종을 포함해 선케어, 스킨케어 등 주요 제품군을 선보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:44+00:00",
+ "had_body": false
+}

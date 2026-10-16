@@ -1,0 +1,41 @@
+{
+ "doc_id": "182ff1e3dd6946e5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1103224",
+ "title": "백종헌 의원 대표발의 '화장품·약사·정신건강복지법' 개정안 국회 본...",
+ "summary": "등 K - 뷰티 수출 기업 전방위 지원 약사법 개정안 • GMP(의약품 제조·품질관리) 적합판정 '6개월 이내 효력정지' 제도 신설 • 위반 행위의 경중에 따른 차등 제재 구조 확립 • 단순 기재 오류와 고의적 허위 작성 간 제재...",
+ "published_at": "2026-10-03T09:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품법 개정안",
+   "수출 기업 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "백종헌 의원이 대표발의한 화장품 관련 법 개정안이 국회 본회의와 연계되어 수출 기업 지원을 다룬다.",
+  "key_fact_quote": "백종헌 의원 대표발의 '화장품·약사·정신건강복지법' 개정안 국회 본...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:31+00:00",
+ "had_body": false
+}

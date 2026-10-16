@@ -1,0 +1,44 @@
+{
+ "doc_id": "df6bf0fca1624ef8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261002000229",
+ "title": "화장품 수출 111억달러로 역대 최대…3분기 만에 지난해 연간치 육박",
+ "summary": "식약처 관계자는 “세계시장에서 K뷰티 위상이 더욱 높아질 수 있도록 규제기관 간 양자·다자 협력을 강화하고 국가별 규제정보 제공, 할랄 인증 컨설팅 등 수출 업계 지원을 지속하겠다”고 말했다.",
+ "published_at": "2026-10-02T17:57:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "식품의약품안전처"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "K뷰티",
+   "할랄 인증"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 수출이 역대 최대치를 기록하며 지난 한 해 동안의 실적에 근접했다.",
+  "key_fact_quote": "화장품 수출 111억달러로 역대 최대…3분기 만에 지난해 연간치 육박",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:38+00:00",
+ "had_body": false
+}

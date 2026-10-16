@@ -1,0 +1,47 @@
+{
+ "doc_id": "091349c0e1904e5b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://thetracker.co.kr/View.aspx?No=4250345",
+ "title": "참치 다음은 화장품…동원이 40년 된 ‘참존’ 고른 이유",
+ "summary": "최근 K뷰티 의 해외 성장세 역시 화장품 사업 진출을 검토할 수 있는 시장 환경으로 꼽힌다. 국내 화장품 기업들이 북미와 유럽 등으로 판매처를 넓히면서 식품과 함께 대표적인 수출 소비재로 자리 잡고 있다. 다만...",
+ "published_at": "2026-10-02T15:55:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "참존"
+  ],
+  "companies": [
+   "동원",
+   "참존"
+  ],
+  "keywords": [
+   "K뷰티",
+   "화장품 사업 진출",
+   "수출 소비재"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해외 성장세를 보이는 뷰티 시장 환경 속에서 동원이 참존 인수를 통해 화장품 사업 진출을 검토하고 있다.",
+  "key_fact_quote": "최근 K뷰티 의 해외 성장세 역시 화장품 사업 진출을 검토할 수 있는 시장 환경으로 꼽힌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:42+00:00",
+ "had_body": false
+}

@@ -1,0 +1,88 @@
+{
+ "doc_id": "4ee670d90c457c4a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.e2news.com/news/articleView.html?idxno=334801",
+ "title": "아무아쥬, 현대백화점 무역센터점 팝업 운영…향수·브랜드 체험 공간 ...",
+ "summary": "향료 농도는 42%이며 6주간 숙성한다. 오버츄어 41은 기존 오버츄어 우먼을 재해석해 사프란과 칼바도스, 로즈를 중심으로 패출리, 레더, 앰버 어코드 등을 더했다. 41%의 향료 농도와 6주간의 숙성 기간을 적용했다. 두...",
+ "published_at": "2026-10-02T15:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아무아쥬"
+  ],
+  "companies": [
+   "현대백화점"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "브랜드 체험",
+   "고농도 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "오버츄어 41",
+    "brand": "아무아쥬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "사프란",
+     "칼바도스",
+     "로즈",
+     "패출리",
+     "레더",
+     "앰버 어코드"
+    ],
+    "notes_quote": "오버츄어 41은 기존 오버츄어 우먼을 재해석해 사프란과 칼바도스, 로즈를 중심으로 패출리, 레더, 앰버 어코드 등을 더했다."
+   }
+  ],
+  "key_fact": "아무아쥬가 현대백화점 무역센터점에서 향수와 브랜드 체험을 위한 팝업 공간을 운영한다.",
+  "key_fact_quote": "아무아쥬, 현대백화점 무역센터점 팝업 운영…향수·브랜드 체험 공간 ...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "사프란",
+    "quote": "오버츄어 41은 기존 오버츄어 우먼을 재해석해 사프란과 칼바도스, 로즈를 중심으로 패출리, 레더, 앰버 어코드 등을 더했다."
+   },
+   {
+    "name": "칼바도스",
+    "quote": "오버츄어 41은 기존 오버츄어 우먼을 재해석해 사프란과 칼바도스, 로즈를 중심으로 패출리, 레더, 앰버 어코드 등을 더했다."
+   },
+   {
+    "name": "로즈",
+    "quote": "오버츄어 41은 기존 오버츄어 우먼을 재해석해 사프란과 칼바도스, 로즈를 중심으로 패출리, 레더, 앰버 어코드 등을 더했다."
+   },
+   {
+    "name": "패출리",
+    "quote": "오버츄어 41은 기존 오버츄어 우먼을 재해석해 사프란과 칼바도스, 로즈를 중심으로 패출리, 레더, 앰버 어코드 등을 더했다."
+   },
+   {
+    "name": "레더",
+    "quote": "오버츄어 41은 기존 오버츄어 우먼을 재해석해 사프란과 칼바도스, 로즈를 중심으로 패출리, 레더, 앰버 어코드 등을 더했다."
+   },
+   {
+    "name": "앰버 어코드",
+    "quote": "오버츄어 41은 기존 오버츄어 우먼을 재해석해 사프란과 칼바도스, 로즈를 중심으로 패출리, 레더, 앰버 어코드 등을 더했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:11+00:00",
+ "had_body": false
+}

@@ -30,12 +30,20 @@
   "products": [],
   "key_fact": null,
   "key_fact_quote": null,
-  "events": [],
+  "events": [
+   {
+    "name": "2026 김천김밥축제",
+    "start_date": "2026-10-23",
+    "end_date": "2026-10-25",
+    "place": "직지문화공원, 사명대사공원, 친환경생태공원 일원",
+    "quote": "올해로 3회째를 맞이한 김천김밥축제는 오는 23일부터 25일까지 사흘간 직지문화공원, 사명대사공원, 친환경생태공원 일원에서 펼쳐진다."
+   }
+  ],
   "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:25+00:00",
+ "enriched_at": "2026-10-15T15:27:19+00:00",
  "had_body": true
 }

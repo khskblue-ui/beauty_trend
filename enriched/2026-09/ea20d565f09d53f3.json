@@ -1,0 +1,56 @@
+{
+ "doc_id": "ea20d565f09d53f3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202609093135O",
+ "title": "한국 화장품 , '톤핏선' 수출 공급 계약 체결…중앙아시아 진출 본격화",
+ "summary": "맞춘 신제품 전략을 이번 계약 성사의 주요 요인으로 꼽았다. 유통을 담당하는 MK Distribution은 카자흐스탄과 키르기스스탄 지역 내 뷰티 유통망을 통해 현지 공급을 전담할 예정이다. 한국 화장품 은 이번...",
+ "published_at": "2026-09-16T13:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "KZ",
+   "KG"
+  ],
+  "brands": [
+   "톤핏선"
+  ],
+  "companies": [
+   "한국화장품",
+   "MK Distribution"
+  ],
+  "keywords": [
+   "수출 공급 계약",
+   "중앙아시아 진출",
+   "뷰티 유통망"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "톤핏선",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "한국 화장품이 톤핏선의 수출 공급 계약을 체결하며 중앙아시아 시장 진출을 본격화한다.",
+  "key_fact_quote": "한국 화장품 , '톤핏선' 수출 공급 계약 체결…중앙아시아 진출 본격화",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:41+00:00",
+ "had_body": false
+}

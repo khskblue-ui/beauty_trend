@@ -1,0 +1,44 @@
+{
+ "doc_id": "4025c5eff3507467",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494203",
+ "title": "K뷰티 인디브랜드 성장에 용기 수요 확대… 펌텍코리아 증설 효과 주목",
+ "summary": "국내 화장품 산업의 성장세가 대형 브랜드를 넘어 인디브랜드로 확산하면서 화장품 용기와 패키징 업체에도... 신규 브랜드가 시장에 진입하거나 기존 브랜드가 새로운 제품군을 출시 하면 용기와 펌프, 튜브 등 관련 부품에...",
+ "published_at": "2026-10-11T16:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "펌텍코리아"
+  ],
+  "keywords": [
+   "인디 브랜드",
+   "화장품 용기",
+   "패키징"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 화장품 인디브랜드의 성장에 힘입어 화장품 용기와 패키징 부품의 수요가 확대되고 있다.",
+  "key_fact_quote": "국내 화장품 산업의 성장세가 대형 브랜드를 넘어 인디브랜드로 확산하면서 화장품 용기와 패키징 업체에도...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:10+00:00",
+ "had_body": false
+}

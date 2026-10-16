@@ -1,0 +1,42 @@
+{
+ "doc_id": "2296d15f989bbab4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsian.co.kr/news/articleView.html?idxno=97011",
+ "title": "K - 뷰티 , 화장품 넘어 AI·의료·관광으로…정부, 신성장 시장 키운다",
+ "summary": "해외 인허가와 수출 현장 대응을 지원하는 ' K -바이오데스크'의 지원 범위를 내년 K뷰티 까지 넓히고, 법률·회계·인허가뿐 아니라 현지 사업 운영과 정착을 위한 맞춤형 컨설팅도 제공한다. 이번 대책은 K - 뷰티 의 경쟁력을...",
+ "published_at": "2026-10-14T08:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "신성장 시장",
+   "해외 인허가"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부가 해외 인허가 및 수출 대응 지원 범위를 뷰티 분야까지 넓히고 맞춤형 컨설팅을 제공하며 산업 육성에 나선다.",
+  "key_fact_quote": "해외 인허가와 수출 현장 대응을 지원하는 ' K -바이오데스크'의 지원 범위를 내년 K뷰티 까지 넓히고, 법률·회계·인허가뿐 아니라 현지 사업 운영과 정착을 위한 맞춤형 컨설팅도 제공한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:32+00:00",
+ "had_body": false
+}

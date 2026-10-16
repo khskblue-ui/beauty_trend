@@ -30,7 +30,8 @@
   ],
   "keywords": [
    "럭셔리 향수",
-   "가든 컬렉션"
+   "가든 컬렉션",
+   "신제품 출시"
   ],
   "is_press_release": true,
   "products": [
@@ -38,17 +39,20 @@
     "name": "가드니아 타히아",
     "brand": "쇼파드 퍼퓸",
     "launch_date": null,
+    "launch_status": "launched",
     "launch_quote": "쇼파드 퍼퓸이 자연에서 영감을 받은 ‘가든 컬렉션’의 신제품 ‘가드니아 타히아’를 이달 국내에 처음 선보인다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "쇼파드 퍼퓸이 자연에서 영감을 받은 가든 컬렉션의 신제품을 국내에 처음 선보인다.",
+  "key_fact": "쇼파드 퍼퓸이 가든 컬렉션 신제품인 가드니아 타히아를 국내에 출시했다.",
   "key_fact_quote": "쇼파드 퍼퓸이 자연에서 영감을 받은 ‘가든 컬렉션’의 신제품 ‘가드니아 타히아’를 이달 국내에 처음 선보인다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:26+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:36+00:00",
  "had_body": false
 }

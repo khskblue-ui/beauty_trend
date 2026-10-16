@@ -1,0 +1,45 @@
+{
+ "doc_id": "e242f037d0a07b10",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.g-enews.com/view.php?ud=202610021442437667740eacf404_1",
+ "title": "코스맥스 생산량 2년새 46%↑…K뷰티 인디브랜드가 키웠다",
+ "summary": "미국과 유럽을 겨냥한 스킨케어 주문이 늘면서 기초 화장품 이 생산 확대를 이끌고 있다. 금융감독원에... 제조사가 제품 개발부터 생산까지 맡기 때문에 자체 연구시설과 공장이 없는 브랜드도 신제품 을 출시할 수 있다....",
+ "published_at": "2026-10-05T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "인디브랜드",
+   "스킨케어",
+   "기초 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인디브랜드의 해외 스킨케어 주문 증가에 힘입어 코스맥스의 기초 화장품 생산 확대가 이어지고 있다.",
+  "key_fact_quote": "미국과 유럽을 겨냥한 스킨케어 주문이 늘면서 기초 화장품 이 생산 확대를 이끌고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:06+00:00",
+ "had_body": false
+}

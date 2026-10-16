@@ -1,0 +1,41 @@
+{
+ "doc_id": "0852b47c980b91b4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mhj21.com/news/articleView.html?idxno=254131",
+ "title": "[2026년 10월 1주] 이주의 코스메틱 뉴스",
+ "summary": "주문액이 출시 첫 주 대비 978% 증가하며 높은 소비자 반응을 얻고 있다. 해외에서도 제품력을 인정받고 있다. 미국 패션· 뷰티 전문 매체 '하퍼스 바자(Harper's Bazaar)'는 최근 '전문가가 엄선한 성숙한 피부를 위한 최고의...",
+ "published_at": "2026-10-01T11:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "성숙한 피부",
+   "코스메틱 뉴스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해외 매체에서 성숙한 피부를 위한 제품으로 선정되며 긍정적인 반응을 얻고 있다.",
+  "key_fact_quote": "미국 패션· 뷰티 전문 매체 '하퍼스 바자(Harper's Bazaar)'는 최근 '전문가가 엄선한 성숙한 피부를 위한 최고의...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:13+00:00",
+ "had_body": false
+}

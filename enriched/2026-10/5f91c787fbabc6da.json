@@ -29,7 +29,8 @@
   "keywords": [
    "클린 뷰티",
    "네일 케어",
-   "바이오 네일"
+   "세미 퍼머넌트 젤",
+   "바이오 기반"
   ],
   "is_press_release": false,
   "products": [
@@ -37,17 +38,45 @@
     "name": "Biogel Kératine",
     "brand": "Kure Bazaar",
     "launch_date": "2026-09",
+    "launch_status": "launched",
     "launch_quote": "Il a été lancé fin septembre 2026 à la Maison Kure Bazaar 165 rue Saint Honoré à Paris et au Bon Marché Rive Gauche sur un nouveau stand dédié.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "쿠어 바자는 논란이 되는 유해 성분을 배제하고 식물성 케라틴과 신기술 폴리머를 적용한 전문가용 클린 세미 퍼머넌트 젤 네일 제품을 선보였다.",
+  "key_fact": "쿠어 바자는 유해 논란 성분을 배제하고 식물성 케라틴 등을 함유한 전문가용 클린 세미 퍼머넌트 젤 네일 제품을 선보였다.",
   "key_fact_quote": "La marque dévoile Biogel Kératine, le premier gel semi-permanent formulé sans ingrédient controversé.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "kératine d’origine végétale",
+    "quote": "La formule associe d’une part de la kératine d’origine végétale et de la vitamine E antioxydante pour renforcer et protéger la structure de l’ongle, et repose surtout sur la technologie exclusive PO-X , basée sur l’utilisation de d’oligomères de nouvelle génération, non agressifs et non sensibilisants."
+   },
+   {
+    "name": "vitamine E",
+    "quote": "La formule associe d’une part de la kératine d’origine végétale et de la vitamine E antioxydante pour renforcer et protéger la structure de l’ongle, et repose surtout sur la technologie exclusive PO-X , basée sur l’utilisation de d’oligomères de nouvelle génération, non agressifs et non sensibilisants."
+   },
+   {
+    "name": "TPO",
+    "quote": "« Nous travaillions déjà depuis plusieurs années sur une formule professionnelle, car je rêvais de pouvoir proposer dans nos lieux, la performance de tenue et de brillance d’un gel semi permanent professionnel, qui ne soit pas un produit hybride et qui offre une formule clean, sans TPO, ni HEMA."
+   },
+   {
+    "name": "HEMA",
+    "quote": "« Nous travaillions déjà depuis plusieurs années sur une formule professionnelle, car je rêvais de pouvoir proposer dans nos lieux, la performance de tenue et de brillance d’un gel semi permanent professionnel, qui ne soit pas un produit hybride et qui offre une formule clean, sans TPO, ni HEMA."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:03+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:05+00:00",
  "had_body": true
 }

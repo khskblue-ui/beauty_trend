@@ -1,0 +1,52 @@
+{
+ "doc_id": "b64ff56621be9197",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsway.co.kr/news/view?ud=2026101412345759397",
+ "title": "헬스·뷰티 성장에 1조 클럽 눈앞…동국제약, 44년 만에 새 간판",
+ "summary": "동국제약은 마데카솔과 인사돌 등 일반의약품을 기반으로 성장해 왔으며, 2015년 마데카솔에 사용되는 병풀 유래 성분을 활용해 화장품 브랜드 센텔리안24를 출시 했다. 의약품 분야에서 축적한 원료 전문성을...",
+ "published_at": "2026-10-15T07:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안24",
+   "마데카솔",
+   "인사돌"
+  ],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "제약사 화장품",
+   "더마코스메틱"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "동국제약은 의약품 원료 전문성을 바탕으로 화장품 브랜드를 출시하는 등 헬스 및 뷰티 사업의 성장을 이어가고 있다.",
+  "key_fact_quote": "동국제약은 마데카솔과 인사돌 등 일반의약품을 기반으로 성장해 왔으며, 2015년 마데카솔에 사용되는 병풀 유래 성분을 활용해 화장품 브랜드 센텔리안24를 출시 했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "병풀 유래 성분",
+    "quote": "2015년 마데카솔에 사용되는 병풀 유래 성분을 활용해 화장품 브랜드 센텔리안24를 출시 했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:51+00:00",
+ "had_body": false
+}

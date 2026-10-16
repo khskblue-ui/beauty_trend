@@ -1,0 +1,44 @@
+{
+ "doc_id": "2a8f1f4cd1786232",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sentv.co.kr/article/view/sentv202609280050",
+ "title": "솔루엠헬스케어·지디케이 화장품 ·제이앤피메디·케어드, 더마 스킨케어...",
+ "summary": "단기적인 신제품 출시를 넘어 글로벌 경쟁력을 갖춘 프리미엄 K-더마 브랜드를 단계적으로 육성할 방침이다. 참여 기업별 명확한 역할 분담도 확정했다. 지디케이 화장품 은 제품 R&D 및 첨단 OEM·ODM 생산을 전담한다....",
+ "published_at": "2026-09-28T11:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "솔루엠헬스케어",
+   "지디케이 화장품",
+   "제이앤피메디",
+   "케어드"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "프리미엄 K-더마"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "기업들이 협력하여 글로벌 경쟁력을 갖춘 프리미엄 케이더마 브랜드를 육성할 방침이다.",
+  "key_fact_quote": "단기적인 신제품 출시를 넘어 글로벌 경쟁력을 갖춘 프리미엄 K-더마 브랜드를 단계적으로 육성할 방침이다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:19+00:00",
+ "had_body": false
+}

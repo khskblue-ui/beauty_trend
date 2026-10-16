@@ -1,0 +1,66 @@
+{
+ "doc_id": "41bab0ec333d2157",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kr.aving.net/news/articleView.html?idxno=1815374",
+ "title": "건조해지는 계절, 세럼을 뿌린다… 엑소머 '셀리노바 프라이머리 퍼밍 ...",
+ "summary": "이희앤코의 하이엔드 더마 코스메틱 브랜드 엑소머(EXOSOMORE)는 신제품 '셀리노바 프라이머리 퍼밍 래디언스... 공식 론칭 방송에는 뷰티 쇼호스트 조윤주가 참여한다. 조윤주는 지난 3월 셀리노바 앰플, 6월 엑소머...",
+ "published_at": "2026-10-13T10:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "엑소머",
+   "EXOSOMORE"
+  ],
+  "companies": [
+   "이희앤코"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "세럼",
+   "앰플"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "셀리노바 프라이머리 퍼밍 래디언스",
+    "brand": "엑소머",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이희앤코의 하이엔드 더마 코스메틱 브랜드 엑소머(EXOSOMORE)는 신제품 '셀리노바 프라이머리 퍼밍 래디언스... 공식 론칭 방송에는 뷰티 쇼호스트 조윤주가 참여한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "셀리노바 앰플",
+    "brand": "엑소머",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이희앤코의 더마 코스메틱 브랜드 엑소머가 신제품 셀리노바 세럼의 공식 론칭 방송을 진행한다.",
+  "key_fact_quote": "이희앤코의 하이엔드 더마 코스메틱 브랜드 엑소머(EXOSOMORE)는 신제품 '셀리노바 프라이머리 퍼밍 래디언스... 공식 론칭 방송에는 뷰티 쇼호스트 조윤주가 참여한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:27+00:00",
+ "had_body": false
+}

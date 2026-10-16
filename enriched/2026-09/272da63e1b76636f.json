@@ -1,0 +1,51 @@
+{
+ "doc_id": "272da63e1b76636f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.polinews.co.kr/news/articleView.html?idxno=743253",
+ "title": "스킨케어에 베이스 기능 결합… 남성 전용 '올인원' 제품군 형성",
+ "summary": "남성 화장품 에서 피부 관리와 피부 표현을 함께 할 수 있는 제품이 나오고 있다. 보습이나 자외선 차단에... 비레디에 따르면 신제품 은 피부에 얇고 균일하게 밀착되도록 설계됐으며, 자사 파운데이션과 비교해 밀착...",
+ "published_at": "2026-09-16T16:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비레디"
+  ],
+  "companies": [],
+  "keywords": [
+   "남성 화장품",
+   "올인원 화장품",
+   "베이스 메이크업"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "신제품",
+    "brand": "비레디",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "남성 화장품 시장에서 스킨케어와 피부 표현 베이스 기능을 결합한 올인원 신제품이 출시되고 있다.",
+  "key_fact_quote": "스킨케어에 베이스 기능 결합… 남성 전용 '올인원' 제품군 형성 남성 화장품 에서 피부 관리와 피부 표현을 함께 할 수 있는 제품이 나오고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:37+00:00",
+ "had_body": false
+}

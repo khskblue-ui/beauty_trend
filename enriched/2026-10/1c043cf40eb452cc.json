@@ -25,22 +25,50 @@
   ],
   "companies": [
    "한국오츠카제약",
-   "오츠카제약"
+   "오츠카제약",
+   "글로벌의학연구소"
   ],
   "keywords": [
    "피부 노화 개선",
    "에너지 대사",
    "피부 턴오버",
-   "인체적용시험"
+   "항노화 성분"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "한국오츠카제약이 에너지 대사 관련 물질인 성분의 피부 노화 개선 효과를 규명한 연구 논문을 국제학술지에 게재했다.",
+  "key_fact": "한국오츠카제약이 독자 성분의 피부 개선 효과 연구 논문을 국제학술지에 게재하며 피부 노화 개선 효능을 입증했다.",
   "key_fact_quote": "한국오츠카제약이 ‘AMP2Na(Disodium Adenosine Monophosphate)’의 피부 개선 효과 연구 논문을 SCI(과학기술논문인용색인지수)급 국제학술지 IJMS(International Journal of Molecular Sciences)에 게재했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "AMP2Na",
+    "quote": "한국오츠카제약이 ‘AMP2Na(Disodium Adenosine Monophosphate)’의 피부 개선 효과 연구 논문을 SCI(과학기술논문인용색인지수)급 국제학술지 IJMS(International Journal of Molecular Sciences)에 게재했다."
+   },
+   {
+    "name": "Disodium Adenosine Monophosphate",
+    "quote": "한국오츠카제약이 ‘AMP2Na(Disodium Adenosine Monophosphate)’의 피부 개선 효과 연구 논문을 SCI(과학기술논문인용색인지수)급 국제학술지 IJMS(International Journal of Molecular Sciences)에 게재했다."
+   },
+   {
+    "name": "AMP",
+    "quote": "AMP는 종자나 구근, 대나무 마디, 모유 등 다양한 생물학적 조직에 존재하는 에너지 대사 관련 물질이다."
+   },
+   {
+    "name": "AMP2NaOT",
+    "quote": "오츠카제약은 AMP2Na에 독자적인 고농도 유화 배합 기술을 적용한 ‘AMP2NaOT’를 개발했다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "인체 피부조직 시험에서는 △ 멜라닌 축적 감소 △ 콜라겐‧엘라스틴 보호 △ 피부장벽 관련 단백질 발현 증가 등이 나타났다."
+   },
+   {
+    "name": "엘라스틴",
+    "quote": "인체 피부조직 시험에서는 △ 멜라닌 축적 감소 △ 콜라겐‧엘라스틴 보호 △ 피부장벽 관련 단백질 발현 증가 등이 나타났다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:03:25+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:22+00:00",
  "had_body": true
 }

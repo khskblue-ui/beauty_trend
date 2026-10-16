@@ -1,0 +1,40 @@
+{
+ "doc_id": "75134af363e9f9e8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=311785",
+ "title": "[뷰티 신상] '기능성 토털 뷰티' 경쟁으로 중심축 이동",
+ "summary": "최근 국내 뷰티 시장이 단순한 신제품 출시 경쟁에서 벗어나 피부 컨디션 관리와 사용 편의성을 동시에... 결국 K-뷰티 시장은 '꾸미는 화장품 '에서 '관리하는 화장품 '으로 진화하고 있으며, 앞으로는 다양한 기능을...",
+ "published_at": "2026-09-21T10:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "기능성 화장품",
+   "토털 뷰티",
+   "피부 컨디션 관리"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 뷰티 시장이 단순한 신제품 출시 경쟁에서 벗어나 기능성 토털 뷰티 및 관리 중심 화장품으로 진화하고 있다.",
+  "key_fact_quote": "결국 K-뷰티 시장은 '꾸미는 화장품 '에서 '관리하는 화장품 '으로 진화하고 있으며, 앞으로는 다양한 기능을...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:10+00:00",
+ "had_body": false
+}

@@ -1,0 +1,58 @@
+{
+ "doc_id": "53e4a141c319f0de",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58425",
+ "title": "대봉엘에스, 적채 엑소좀 상용화 성과로 교육부장관상 수상",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 바이오 소재 플랫폼 기업 대봉엘에스(대표 박진오)가 인천대학교와 공동으로 추진한 적채 유래 엑소좀 소재의 연구개발과 상용화 성과를 인정받아 ‘2026년 산학협력 우수사례 경진대회’ 기술협력 분야 장려상인 교육부장관상을 수상했다고 1일 밝혔다. 교육부가 주최하고 한국연구재단이 주관하는 이번 경진대회는 대학과 기업, 연구기관",
+ "published_at": "2026-10-01T12:32:15+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대봉엘에스"
+  ],
+  "keywords": [
+   "바이오 소재",
+   "식물 유래 엑소좀",
+   "화장품 원료",
+   "산학협력"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대봉엘에스는 적채 유래 엑소좀 소재 연구개발과 상용화 성과를 인정받아 산학협력 우수사례 경진대회에서 교육부장관상을 수상했다.",
+  "key_fact_quote": "바이오 소재 플랫폼 기업 대봉엘에스(대표 박진오)가 인천대학교와 공동으로 추진한 적채 유래 엑소좀 소재의 연구개발과 상용화 성과를 인정받아 ‘2026년 산학협력 우수사례 경진대회’ 기술협력 분야 장려상인 교육부장관상을 수상했다고 1일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "적채 유래 엑소좀",
+    "quote": "바이오 소재 플랫폼 기업 대봉엘에스(대표 박진오)가 인천대학교와 공동으로 추진한 적채 유래 엑소좀 소재의 연구개발과 상용화 성과를 인정받아 ‘2026년 산학협력 우수사례 경진대회’ 기술협력 분야 장려상인 교육부장관상을 수상했다고 1일 밝혔다."
+   },
+   {
+    "name": "적채(Red Cabbage) 유래 세포외소포체(Extracellular Vesicle, EV)",
+    "quote": "이 과정에서 적채(Red Cabbage) 유래 세포외소포체(Extracellular Vesicle, EV)를 활용한 화장품 원료 ‘RedCabbage ExoSkin’을 개발했다."
+   },
+   {
+    "name": "RedCabbage ExoSkin",
+    "quote": "이 과정에서 적채(Red Cabbage) 유래 세포외소포체(Extracellular Vesicle, EV)를 활용한 화장품 원료 ‘RedCabbage ExoSkin’을 개발했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:49+00:00",
+ "had_body": true
+}

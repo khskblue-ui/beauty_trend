@@ -1,0 +1,43 @@
+{
+ "doc_id": "7526fb9530ea4bfa",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=311512",
+ "title": "中 스킨케어 시장, 복잡한 루틴에서 간편 케어로…'미스트' 부상",
+ "summary": "따라서 한국 뷰티 들이 중국 시장에서 다시 도약하기 위해서는 한국 브랜드의 강점인 기능성 성분과 제형... 미스트 신제품 을 출시 하며 시장 공략에 나섰다. 올해 출시 된 미스트 신제품 만 30종을 넘어선 것으로 나타났다....",
+ "published_at": "2026-10-07T17:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "스킨케어 시장",
+   "간편 케어",
+   "미스트"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 스킨케어 시장에서 복잡한 루틴 대신 간편 케어 트렌드와 함께 미스트 제품이 부상하고 있다.",
+  "key_fact_quote": "中 스킨케어 시장, 복잡한 루틴에서 간편 케어로…'미스트' 부상",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:54+00:00",
+ "had_body": false
+}

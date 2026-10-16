@@ -1,0 +1,46 @@
+{
+ "doc_id": "2a3a5a1edfaf3708",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261008010002583",
+ "title": "신규 브랜드부터 중남미까지…천주혁·김병훈, K뷰티 영토 확장 '공격 경...",
+ "summary": "공식 출시 목표는 2027년 상반기다. 한국 시장에 먼저 진출한 뒤 미국과 일본 등 주요 해외 시장으로 사업을... 기존 화장품 브랜드와의 차별화를 시도하고 있다.김병훈 대표가 이끄는 에이피알은 해외 유통망 확대에...",
+ "published_at": "2026-10-08T15:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "K뷰티",
+   "신규 브랜드",
+   "해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 뷰티 기업들이 신규 브랜드 론칭 및 해외 유통망 확대를 통해 글로벌 시장 공략에 속도를 내고 있다.",
+  "key_fact_quote": "신규 브랜드부터 중남미까지…천주혁·김병훈, K뷰티 영토 확장 '공격 경...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:15+00:00",
+ "had_body": false
+}

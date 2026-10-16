@@ -1,0 +1,56 @@
+{
+ "doc_id": "a220829100665912",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202609201845421710",
+ "title": "화장품 만들고 우주 나가고… 제약 3·4세 ‘영토확장’ 분주",
+ "summary": "동화약품은 최근 후시딘을 활용한 더마 화장품 '후시다인'에 이어 활명수 브랜드를 확장한 탄산음료 '소다활' 등 신제품 을 잇달아 선보이며 기존 브랜드의 외연 확대에 나섰다. 해외 시장에서도 성장동력을 찾고 있다....",
+ "published_at": "2026-09-20T18:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "후시다인",
+   "후시딘",
+   "활명수",
+   "소다활"
+  ],
+  "companies": [
+   "동화약품"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "브랜드 확장",
+   "사업 다각화"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "후시다인",
+    "brand": "후시다인",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동화약품은 후시딘을 활용한 더마 화장품 후시다인 등을 선보이며 기존 브랜드의 외연 확대에 나섰다.",
+  "key_fact_quote": "동화약품은 최근 후시딘을 활용한 더마 화장품 '후시다인'에 이어 활명수 브랜드를 확장한 탄산음료 '소다활' 등 신제품 을 잇달아 선보이며 기존 브랜드의 외연 확대에 나섰다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:15+00:00",
+ "had_body": false
+}

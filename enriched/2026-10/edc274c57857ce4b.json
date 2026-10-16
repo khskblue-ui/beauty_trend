@@ -1,0 +1,56 @@
+{
+ "doc_id": "edc274c57857ce4b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.youthdaily.co.kr/news/article.html?no=228097",
+ "title": "어뮤즈코리아, 신규 뷰티 브랜드 '로듀' 론칭…립밤 8종 출시",
+ "summary": "있는 뷰티 제품을 선보이는 브랜드다. 브랜드명은 '가공되지 않은'을 뜻하는 'RAW'와 '이슬'을 뜻하는 'DEW'를 결합했다. 제품은 신제품 을 순차적으로 공개하는 '드롭(Drop)' 방식으로 출시 한다. 제품별로 색상과 제형, 사용...",
+ "published_at": "2026-10-08T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "로듀"
+  ],
+  "companies": [
+   "어뮤즈코리아"
+  ],
+  "keywords": [
+   "신규 브랜드 론칭",
+   "립밤",
+   "드롭 출시"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "립밤",
+    "brand": "로듀",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "어뮤즈코리아, 신규 뷰티 브랜드 '로듀' 론칭…립밤 8종 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "어뮤즈코리아가 신규 뷰티 브랜드 로듀를 선보이며 립밤 제품군을 출시했다.",
+  "key_fact_quote": "어뮤즈코리아, 신규 뷰티 브랜드 '로듀' 론칭…립밤 8종 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:53+00:00",
+ "had_body": false
+}

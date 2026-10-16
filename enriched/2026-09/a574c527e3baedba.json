@@ -1,0 +1,48 @@
+{
+ "doc_id": "a574c527e3baedba",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.allurekorea.com/2026/09/04/%ec%9a%94%ec%a6%98-%ed%99%94%ec%9e%a5%ed%92%88-%ec%97%ac%ea%b8%b0%ec%84%9c-%ec%82%ac%ec%9a%94-%eb%8b%a4%ec%9d%b4%ec%86%8c-%eb%b7%b0%ed%8b%b0-vs-%ec%98%a4%ed%94%84%eb%b7%b0%ed%8b%b0-vs-%eb%a9%94/?utm_source=naver&utm_medium=partnership",
+ "title": "요즘 화장품, 여기서 사요! 다이소 뷰티 vs. 오프뷰티 vs. 메디킹덤뷰티",
+ "summary": "@daisolife www.daisomall.co.kr 여성들의 생활필수품인 생리대 역시 합리적인 가격대로 선보였으며, 조 말론 런던이나 르 라보 등 니치 향수 브랜드를 연상시키는 향으로 입소문 난 프래그런스 제품도 빼놓을 수 없죠. 다이소...",
+ "published_at": "2026-09-04T17:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "조 말론 런던",
+   "르 라보",
+   "다이소 뷰티",
+   "오프뷰티",
+   "메디킹덤뷰티"
+  ],
+  "companies": [
+   "다이소"
+  ],
+  "keywords": [
+   "니치 향수",
+   "프래그런스 제품",
+   "뷰티 채널"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "다이소 등 주요 유통 채널에서 니치 향수 브랜드를 연상시키는 향을 가진 가성비 프래그런스 제품 등이 인기를 끌고 있다.",
+  "key_fact_quote": "조 말론 런던이나 르 라보 등 니치 향수 브랜드를 연상시키는 향으로 입소문 난 프래그런스 제품도 빼놓을 수 없죠.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:49+00:00",
+ "had_body": false
+}

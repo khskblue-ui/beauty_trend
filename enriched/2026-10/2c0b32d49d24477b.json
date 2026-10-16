@@ -1,0 +1,43 @@
+{
+ "doc_id": "2c0b32d49d24477b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/09/2026100900046.html",
+ "title": "경북도, 말레이시아 뷰티 시장 첫 진출…80만 달러 수출 계약",
+ "summary": "뉴데일리 강승탁 기자 = 경북 뷰티 기업들이 말레이시아 시장 첫 공략에서 수출 계약 성과를 냈다.... 경북도와 경산시는 현장에 ‘경북 K - 뷰티 공동관’을 운영하고 도내 유망 뷰티 기업 6개 사의 제품 홍보와 바이어...",
+ "published_at": "2026-10-09T11:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MY"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "수출 계약",
+   "뷰티 시장",
+   "공동관"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "경북도 내 뷰티 기업들이 말레이시아 시장에 진출하여 수출 계약 성과를 거두었다.",
+  "key_fact_quote": "경북 뷰티 기업들이 말레이시아 시장 첫 공략에서 수출 계약 성과를 냈다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:24+00:00",
+ "had_body": false
+}

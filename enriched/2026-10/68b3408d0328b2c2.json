@@ -1,0 +1,44 @@
+{
+ "doc_id": "68b3408d0328b2c2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=202189",
+ "title": "K뷰티 유럽 진출 거점, 파리까지 넓어진다",
+ "summary": "중소 브랜드 '유럽 진출 교두보' 역할 K - 뷰티 의 유럽 수출 확대도 이 같은 현지 거점 구축의 배경으로 꼽힌다. 한국보건산업진흥원에 따르면 2026년 상반기 국내 중소기업의 화장품 유럽 수출 액은 12억6000만 달러로 전년...",
+ "published_at": "2026-10-02T16:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "FR",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국보건산업진흥원"
+  ],
+  "keywords": [
+   "유럽 진출",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유럽 수출 확대에 따라 중소 브랜드를 위한 거점이 파리까지 넓어지고 있다.",
+  "key_fact_quote": "중소 브랜드 '유럽 진출 교두보' 역할 K - 뷰티 의 유럽 수출 확대도 이 같은 현지 거점 구축의 배경으로 꼽힌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:40+00:00",
+ "had_body": false
+}

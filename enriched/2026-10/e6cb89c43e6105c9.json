@@ -21,16 +21,16 @@
    "KR"
   ],
   "brands": [
-   "불가리",
-   "샤넬",
    "겔랑",
-   "디올"
+   "디올",
+   "불가리",
+   "샤넬"
   ],
   "companies": [],
   "keywords": [
    "명품 향수",
-   "오 드 퍼퓸",
-   "프라이빗 향수 컬렉션"
+   "가을 향수",
+   "구르망 향수"
   ],
   "is_press_release": false,
   "products": [
@@ -38,6 +38,7 @@
     "name": "뢰르 블루 오 드 퍼퓸",
     "brand": "겔랑",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -46,19 +47,27 @@
     "name": "디올 파라다이스",
     "brand": "디올",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "디올은 프라이빗 향수 컬렉션 '라 콜렉시옹 프리베'의 '디올 파라다이스'를 내놨다.",
     "notes": [
      "아몬드"
     ],
     "notes_quote": "아몬드의 달콤하고 구르망한 매력을 앞세운 오..."
    }
   ],
-  "key_fact": "겔랑과 디올 등 명품 브랜드들이 가을을 맞아 향수 신제품을 선보이며 경쟁하고 있다.",
+  "key_fact": "겔랑과 디올 등 주요 명품 브랜드들이 가을을 맞아 향수 신제품을 선보이며 경쟁에 나서고 있다.",
   "key_fact_quote": "\"가을엔 더 짙고 깊게\"…불가리·샤넬·겔랑, 명품 향수 신작 경쟁",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "아몬드",
+    "quote": "아몬드의 달콤하고 구르망한 매력을 앞세운 오..."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:28+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:37+00:00",
  "had_body": false
 }

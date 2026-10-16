@@ -17,24 +17,28 @@
   "relevant": true,
   "category": "business",
   "event_type": "market_trend",
-  "countries": [],
+  "countries": [
+   "KR"
+  ],
   "brands": [],
   "companies": [
    "IMF"
   ],
   "keywords": [
    "소비 양극화",
-   "K뷰티 수출",
-   "가격 경쟁력"
+   "기초 화장품",
+   "스킨케어"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "뷰티산업은 소비자의 구매력 변화에 영향을 받으며 제품군별 구매주기와 필수성에 따라 반응이 달라질 수 있다.",
+  "key_fact": "뷰티산업은 소비자의 구매력 변화에 영향을 받으며 제품군과 가격대 등에 따라 반응이 다르게 나타날 수 있다.",
   "key_fact_quote": "뷰티산업은 패션과 마찬가지로 소비자의 구매력 변화에 영향을 받지만 제품별 구매주기와 가격대, 필수성에 따라 반응이 달라질 수 있다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:28+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:40+00:00",
  "had_body": false
 }

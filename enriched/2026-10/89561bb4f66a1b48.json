@@ -1,0 +1,55 @@
+{
+ "doc_id": "89561bb4f66a1b48",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fashionbiz.co.kr/article/230115",
+ "title": "랜딩인터내셔널, 美 노드스트롬에 K 뷰티 12개 브랜드 론칭",
+ "summary": "랜딩인터내셔널의 K 뷰티 리테일 플랫폼 ‘K 뷰티 월드(K-Beauty World)’를 통해 총 12개 브랜드 , 200여 품목을 노드스트롬에 론칭 했다. 코스노리, 에이피엘비, 에잇그로우, 청미정, 헤어플러스, 원씽, 피캄, 야다, 린제이...",
+ "published_at": "2026-10-08T09:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "코스노리",
+   "에이피엘비",
+   "에잇그로우",
+   "청미정",
+   "헤어플러스",
+   "원씽",
+   "피캄",
+   "야다",
+   "린제이"
+  ],
+  "companies": [
+   "랜딩인터내셔널",
+   "노드스트롬"
+  ],
+  "keywords": [
+   "K뷰티 리테일 플랫폼",
+   "글로벌 유통망 확장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "랜딩인터내셔널이 자체 플랫폼을 통해 다수의 한국 뷰티 브랜드를 미국 노드스트롬 백화점에 선보였다.",
+  "key_fact_quote": "랜딩인터내셔널의 K 뷰티 리테일 플랫폼 ‘K 뷰티 월드(K-Beauty World)’를 통해 총 12개 브랜드 , 200여 품목을 노드스트롬에 론칭 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:44+00:00",
+ "had_body": false
+}

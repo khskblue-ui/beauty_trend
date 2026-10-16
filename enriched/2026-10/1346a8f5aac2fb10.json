@@ -1,0 +1,51 @@
+{
+ "doc_id": "1346a8f5aac2fb10",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202610016704i",
+ "title": "\"스케줄 없을 땐 이것만 발라요\" 전도연이 밝힌 스킨케어 루틴",
+ "summary": "인공 색소나 향료 , 화학 방부제 등 유해 성분은 배제한 대신 바이오 신물질 ‘클렙스’(CLEPS)를 92.8% 고함량으로 함유했다. 클렙스는 희귀 미생물 세리포리아 락세라타에서 유래한 물질로, 세포의 당 소모를 활성화해...",
+ "published_at": "2026-10-01T09:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "바이오 신물질",
+   "스킨케어 루틴",
+   "화학 방부제 배제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인공 성분을 배제하고 세리포리아 락세라타 유래 바이오 신물질 클렙스를 고함량 함유한 스킨케어 성분이 소개되었다.",
+  "key_fact_quote": "인공 색소나 향료 , 화학 방부제 등 유해 성분은 배제한 대신 바이오 신물질 ‘클렙스’(CLEPS)를 92.8% 고함량으로 함유했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "클렙스",
+    "quote": "인공 색소나 향료 , 화학 방부제 등 유해 성분은 배제한 대신 바이오 신물질 ‘클렙스’(CLEPS)를 92.8% 고함량으로 함유했다."
+   },
+   {
+    "name": "세리포리아 락세라타",
+    "quote": "클렙스는 희귀 미생물 세리포리아 락세라타에서 유래한 물질로, 세포의 당 소모를 활성화해..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:14+00:00",
+ "had_body": false
+}

@@ -1,0 +1,62 @@
+{
+ "doc_id": "adc53444241d048e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202609281400197067",
+ "title": "이선주 LG생활건강 대표, 멕시코서 K뷰티 알렸다",
+ "summary": "멕시코는 인구 약 1억3000만명으로 브라질에 이어 중남미에서 두 번째로 큰 화장품 시장이다. 지난해 한국... 미감수 클렌징 베스트셀러 3종과 신제품 스킨케어 '미감수 레디' 3종을 소개하고 제품을 직접 체험할 수 있는...",
+ "published_at": "2026-09-28T14:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "MX",
+   "KR"
+  ],
+  "brands": [
+   "미감수"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "스킨케어",
+   "클렌징",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "미감수 클렌징",
+    "brand": "미감수",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미감수 레디",
+    "brand": "미감수",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "LG생활건강 대표가 멕시코에서 제품을 소개하며 한국 화장품을 알렸다.",
+  "key_fact_quote": "이선주 LG생활건강 대표, 멕시코서 K뷰티 알렸다",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:13+00:00",
+ "had_body": false
+}

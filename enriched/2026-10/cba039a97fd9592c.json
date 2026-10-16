@@ -1,0 +1,44 @@
+{
+ "doc_id": "cba039a97fd9592c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=2026093009412185756cf2d78c68_30",
+ "title": "반려동물 간식 브랜드 츌립, 한국에서 제품 생산 판매 진행",
+ "summary": "식품의약품안전처·산업통상자원부와 농림축산식품부에 따르면 2025년 K - 뷰티 (22억 달러)와 K -푸드+(18억 달러, 잠정)는 모두 미국이 최대 수출 국이었다. 펫푸드도 같은 흐름을 탈 수 있을지 관심이 모인다. 미국...",
+ "published_at": "2026-10-03T09:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "츌립"
+  ],
+  "companies": [],
+  "keywords": [
+   "펫푸드",
+   "수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "반려동물 간식 브랜드 츌립이 한국에서 제품 생산 및 판매를 진행하며 관련 수출 흐름에 관심이 쏠리고 있다.",
+  "key_fact_quote": "반려동물 간식 브랜드 츌립, 한국에서 제품 생산 판매 진행",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:44+00:00",
+ "had_body": false
+}

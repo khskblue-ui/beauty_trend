@@ -1,0 +1,54 @@
+{
+ "doc_id": "7978fa881d5fd675",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/tate-mcrae-fragrance-scent-beauty-1239285455/",
+ "title": "EXCLUSIVE: Tate McRae Launches First Fragrance With Scent Beauty",
+ "summary": "Named Tate 01, the scent, promoted as a \"second skin,\" is dropping direct-to-consumer first before entering Ulta Beauty's online and in-store assortment on Oct. 16 and Oct. 25, respectively.",
+ "published_at": "2026-10-01T23:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Tate McRae"
+  ],
+  "companies": [
+   "Scent Beauty",
+   "Ulta Beauty"
+  ],
+  "keywords": [
+   "셀럽 향수",
+   "향수 출시"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Tate 01",
+    "brand": "Tate McRae",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "EXCLUSIVE: Tate McRae Launches First Fragrance With Scent Beauty",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "테이트 맥레이가 센트 뷰티와 협업하여 첫 향수를 선보인다.",
+  "key_fact_quote": "EXCLUSIVE: Tate McRae Launches First Fragrance With Scent Beauty",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:30+00:00",
+ "had_body": false
+}

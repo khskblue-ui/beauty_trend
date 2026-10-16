@@ -1,0 +1,63 @@
+{
+ "doc_id": "5c320acd20ef1240",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.smarttoday.co.kr/ko-kr/articles/112160",
+ "title": "\"메이크업도 스킨케어처럼\" 성수동에 등장한 AGE20’S의 새로운 실험",
+ "summary": "|스마트투데이=최아랑 기자| 화장품 브랜드 ‘AGE20’S’(에이지투웨니스)가 ‘Skin First Makeup’(스킨... 현장에서는 브랜드 대표 제품인 ‘시그니처 에센스 팩트’와 신제품 ‘스킨 퍼스트 히든 프렙 파운데이션...",
+ "published_at": "2026-10-01T09:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "AGE20’S"
+  ],
+  "companies": [],
+  "keywords": [
+   "스킨케어 메이크업",
+   "에센스 팩트",
+   "파운데이션"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "시그니처 에센스 팩트",
+    "brand": "AGE20’S",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스킨 퍼스트 히든 프렙 파운데이션",
+    "brand": "AGE20’S",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "현장에서는 브랜드 대표 제품인 ‘시그니처 에센스 팩트’와 신제품 ‘스킨 퍼스트 히든 프렙 파운데이션...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "화장품 브랜드 에이지투웨니스가 메이크업 제품을 선보이며 오프라인 현장 경험을 제공한다.",
+  "key_fact_quote": "\"메이크업도 스킨케어처럼\" 성수동에 등장한 AGE20’S의 새로운 실험",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:32+00:00",
+ "had_body": false
+}

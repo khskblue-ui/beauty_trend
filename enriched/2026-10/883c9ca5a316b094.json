@@ -1,0 +1,46 @@
+{
+ "doc_id": "883c9ca5a316b094",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.tf.co.kr/read/economy/2374124.htm",
+ "title": "신세계인터내셔날, 어뮤즈 이어 '로듀' 론칭 …\"자연스러운 뷰티 \"",
+ "summary": "어뮤즈의 첫 시스터 브랜드 인 '로듀(RAWDEW)'를 론칭 , 가볍고 편하게 즐기는 뷰티 브랜드 를 내놓았다. 8일 신세계인터내셔날에 따르면 로듀는 일상 속 작은 뷰티 고민을 발견하고, 이를 위트 있는 방식으로 풀어낸다....",
+ "published_at": "2026-10-08T09:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어뮤즈",
+   "로듀",
+   "RAWDEW"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "뷰티 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "신세계인터내셔날이 어뮤즈의 시스터 브랜드인 로듀를 새롭게 선보였다.",
+  "key_fact_quote": "어뮤즈의 첫 시스터 브랜드 인 '로듀(RAWDEW)'를 론칭 , 가볍고 편하게 즐기는 뷰티 브랜드 를 내놓았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:45+00:00",
+ "had_body": false
+}

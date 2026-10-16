@@ -1,0 +1,56 @@
+{
+ "doc_id": "2ce2dc33adf36e3d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bizwnews.com/news/articleView.html?idxno=148679",
+ "title": "유한양행 비건 뷰티 브랜드 '딘시', 전여빈과 함께한 팝업 이벤트 마련",
+ "summary": "전여빈은 팝업 공간을 둘러보며 신제품 세럼 3종과 주요 베스트셀러 제품을 직접 테스트하고 브랜드에 대한 애정과 신뢰를 드러냈다. 전여빈 씨는 \"평소 피부 건강을 위해 애용해 온 딘시 제품과 새롭게 출시 된...",
+ "published_at": "2026-10-13T10:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "딘시"
+  ],
+  "companies": [
+   "유한양행"
+  ],
+  "keywords": [
+   "비건 뷰티",
+   "세럼",
+   "팝업 이벤트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "세럼",
+    "brand": "딘시",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "전여빈은 팝업 공간을 둘러보며 신제품 세럼 3종과 주요 베스트셀러 제품을 직접 테스트하고 브랜드에 대한 애정과 신뢰를 드러냈다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유한양행의 비건 뷰티 브랜드 딘시가 배우 전여빈과 함께한 팝업 이벤트를 마련했다.",
+  "key_fact_quote": "유한양행 비건 뷰티 브랜드 '딘시', 전여빈과 함께한 팝업 이벤트 마련",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:39+00:00",
+ "had_body": false
+}

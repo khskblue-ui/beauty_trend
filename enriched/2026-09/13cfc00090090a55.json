@@ -6,41 +6,37 @@
  "lang": "ko",
  "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244312",
  "title": "세계 3위 브라질 뷰티 시장, 빠르게 변하는 소비 트렌드",
- "summary": "신제품이 출시 됐다. 이는 미국, 중국, 인도에 이어 세계 4위에 해당한다. 이미 세계 3위 규모의 소비시장을... 여기에 바디 로션과 바디미스트 , 헤어퍼퓸까지 연결되면 한 병의 향수를 고르는 것에서 나아가 여러...",
+ "summary": "Mintel GNPD에 따르면 2025년 브라질에서는 메이크업, 스킨케어, 헤어케어, 목욕용품, 향수 등을 중심으로 총 7359개의 신제품 이 출시됐다. 이는 미국, 중국, 인도에 이어 세계 4위에 해당한다. 이미 세계 3위 규모의...",
  "published_at": "2026-09-29T10:23:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "바디미스트 출시",
+ "query": "향수 신제품",
  "doc_type": null,
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "fragrance",
+  "category": "business",
   "event_type": "market_trend",
   "countries": [
-   "BR",
-   "US",
-   "CN",
-   "IN"
+   "BR"
   ],
   "brands": [],
-  "companies": [],
+  "companies": [
+   "Mintel"
+  ],
   "keywords": [
-   "바디 로션",
-   "바디미스트",
-   "헤어퍼퓸",
-   "향수"
+   "뷰티 시장",
+   "소비 트렌드",
+   "신제품 출시"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "브라질 뷰티 시장에서 향수뿐만 아니라 바디 및 헤어 제품으로 소비 트렌드가 확장되고 있다.",
-  "key_fact_quote": "여기에 바디 로션과 바디미스트 , 헤어퍼퓸까지 연결되면 한 병의 향수를 고르는 것에서 나아가 여러...",
-  "events": [],
-  "ingredients": [],
+  "key_fact": "브라질에서는 메이크업과 스킨케어 및 향수 등을 중심으로 다수의 신제품이 출시되며 시장이 활발하게 움직이고 있다.",
+  "key_fact_quote": "Mintel GNPD에 따르면 2025년 브라질에서는 메이크업, 스킨케어, 헤어케어, 목욕용품, 향수 등을 중심으로 총 7359개의 신제품 이 출시됐다.",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:36+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:53+00:00",
  "had_body": false
 }

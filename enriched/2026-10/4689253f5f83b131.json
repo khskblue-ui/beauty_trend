@@ -1,0 +1,62 @@
+{
+ "doc_id": "4689253f5f83b131",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=135606",
+ "title": "동국제약, 'DK 센텔리안'으로 사명 변경...글로벌 '헬스&뷰티' 정조준",
+ "summary": "마데카솔의 핵심 원료인 센텔라아시아티카 정량추출물(TECA) 기술을 화장품 에 접목한 '마데카 크림'이... 항노화·더마 기술을 결합한 신제품 라인업을 강화해 해외 매출 비중을 대폭 끌어올릴 방침이다. [팝콘뉴스]",
+ "published_at": "2026-10-12T10:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안",
+   "마데카"
+  ],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "헬스앤뷰티",
+   "더마 화장품",
+   "항노화"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "마데카 크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동국제약이 사명을 디케이 센텔리안으로 변경하고 글로벌 헬스앤뷰티 시장 공략에 나선다.",
+  "key_fact_quote": "동국제약, 'DK 센텔리안'으로 사명 변경...글로벌 '헬스&뷰티' 정조준",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "센텔라아시아티카 정량추출물(TECA)",
+    "quote": "마데카솔의 핵심 원료인 센텔라아시아티카 정량추출물(TECA) 기술을 화장품 에 접목한 '마데카 크림'이... 항노화·더마 기술을 결합한 신제품 라인업을 강화해 해외 매출 비중을 대폭 끌어올릴 방침이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:34+00:00",
+ "had_body": false
+}

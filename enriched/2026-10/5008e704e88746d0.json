@@ -35,8 +35,9 @@
   "products": [
    {
     "name": "로우키 페이머스(Lowkey Famous)",
-    "brand": "리필드",
+    "brand": null,
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [
      "석류",
@@ -47,8 +48,9 @@
    },
    {
     "name": "마이...",
-    "brand": "리필드",
+    "brand": null,
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [
      "무화과",
@@ -58,12 +60,14 @@
     "notes_quote": "무화과와 자스민이 어우러진 화이트 머스크 계열의 '마이..."
    }
   ],
-  "key_fact": "전문 조향사와 협업하여 완성한 시그니처 향 제품 라인업을 선보인다.",
+  "key_fact": "리필드가 컬리에 입점하며 전문 조향사와 협업한 시그니처 향 제품 라인업을 선보인다.",
   "key_fact_quote": "향은 전문 조향사 와 협업해 완성한 3가지 시그니처 향으로 구성됐다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:39+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:17+00:00",
  "had_body": false
 }

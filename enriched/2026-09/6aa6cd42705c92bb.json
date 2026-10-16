@@ -1,0 +1,52 @@
+{
+ "doc_id": "6aa6cd42705c92bb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.delighti.co.kr/news/articleView.html?idxno=122058",
+ "title": "동국제약, 탄력·볼륨 개선 '마데카 스타톡 세럼 올 타이트' 출시",
+ "summary": "센텔리안24는 동국제약이 2015년 출시한 더마코스메틱 브랜드로, 상처치료제 '마데카솔' 등에 활용되는 병풀 유래 성분 연구 기술을 화장품 에 접목해 제품군을 확대하고 있다. 센텔리안24 관계자는 \" 신제품 은 얼굴...",
+ "published_at": "2026-09-17T15:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안24"
+  ],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "탄력 볼륨 세럼"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "마데카 스타톡 세럼 올 타이트",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동국제약의 더마코스메틱 브랜드 센텔리안이십사가 탄력과 볼륨을 개선하는 신제품 세럼을 출시했다.",
+  "key_fact_quote": "동국제약, 탄력·볼륨 개선 '마데카 스타톡 세럼 올 타이트' 출시",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:27+00:00",
+ "had_body": false
+}

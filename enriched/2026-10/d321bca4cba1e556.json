@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "skincare",
+  "category": "retail",
   "event_type": "market_trend",
   "countries": [
    "FR",
@@ -37,12 +37,23 @@
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "한국 인디 뷰티 브랜드들이 신뢰도 확보와 유럽 시장 확장을 위해 프랑스 약국 유통망을 전략적 관문으로 활용하고 있다.",
+  "key_fact": "한국 인디 뷰티 브랜드들이 유럽 시장 진출의 전략적 거점으로 프랑스 약국 유통망을 적극 활용하고 있다.",
   "key_fact_quote": "Independent Korean beauty brands are increasingly turning to French pharmacy networks as a strategic gateway into the European market.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "niacinamide",
+    "quote": "while IVEL Beauty focuses on high-concentration niacinamide and hyaluronic acid formulations, supported by vegan positioning and sustainable packaging initiatives."
+   },
+   {
+    "name": "hyaluronic acid",
+    "quote": "while IVEL Beauty focuses on high-concentration niacinamide and hyaluronic acid formulations, supported by vegan positioning and sustainable packaging initiatives."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:09:08+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:38+00:00",
  "had_body": true
 }

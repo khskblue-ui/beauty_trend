@@ -27,18 +27,33 @@
   "keywords": [
    "약국 화장품",
    "앰플",
-   "피디알엔"
+   "더마 코스메틱"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "뷰티 브랜드 가히가 캐비아 피디알엔 앰플을 앞세워 약국 유통망에 진출했다.",
+  "key_fact": "뷰티 브랜드 가히가 캐비아 성분을 활용한 앰플을 선보이며 약국 유통망에 진출했다.",
   "key_fact_quote": "뷰티 브랜드 가히, 약국 유통망 진출…'캐비아 PDRN' 앰플로 시장 공략",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "신제품 의 핵심 원료인 PDRN(폴리디옥시리보뉴클레오티드)의 추출원도 기존과 차별화했다."
+   },
+   {
+    "name": "폴리디옥시리보뉴클레오티드",
+    "quote": "신제품 의 핵심 원료인 PDRN(폴리디옥시리보뉴클레오티드)의 추출원도 기존과 차별화했다."
+   },
+   {
+    "name": "연어 정소 추출물",
+    "quote": "시중 PDRN 화장품 상당수가 연어 정소 추출물을 사용하는 것과 달리..."
+   }
+  ],
   "dropped": [
    "product:캐비아 PDRN 앰플"
   ]
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:45+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:03+00:00",
  "had_body": false
 }

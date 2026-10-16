@@ -1,0 +1,48 @@
+{
+ "doc_id": "9235086927cf7bf1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.dailypop.kr/news/articleView.html?idxno=103154",
+ "title": "글로벌 영토 넓히는 K-뷰티·패션…유통가는 가을맞이 특가전으로 고객...",
+ "summary": "이번 학회에서 코스맥스는 기초, 선케어, 헤어케어, 메이크업, 향료 등 화장품 R&D 핵심 분야 전반을 다뤘다. 응용 연구 'Top 10'에 선정된 '마이크로바이옴 생균 캡슐화 플랫폼'을 비롯해 유변학·홀로그래피 분석을...",
+ "published_at": "2026-10-07T13:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "마이크로바이옴",
+   "화장품 연구개발"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스는 학회에서 마이크로바이옴 생균 캡슐화 플랫폼을 비롯한 화장품 연구개발 전반의 성과를 다뤘다.",
+  "key_fact_quote": "이번 학회에서 코스맥스는 기초, 선케어, 헤어케어, 메이크업, 향료 등 화장품 R&D 핵심 분야 전반을 다뤘다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "마이크로바이옴 생균",
+    "quote": "응용 연구 'Top 10'에 선정된 '마이크로바이옴 생균 캡슐화 플랫폼'을 비롯해 유변학·홀로그래피 분석을..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:31+00:00",
+ "had_body": false
+}

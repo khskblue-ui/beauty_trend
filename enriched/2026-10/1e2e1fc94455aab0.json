@@ -23,7 +23,7 @@
   ],
   "brands": [
    "바이오플러스",
-   "시메드"
+   "밀리메트릭"
   ],
   "companies": [
    "바이오플러스",
@@ -37,8 +37,8 @@
   "is_press_release": true,
   "products": [
    {
-    "name": "밀리메트릭 프로 울트라(Milimetric PRO ULTRA)",
-    "brand": "바이오플러스",
+    "name": "밀리메트릭 프로 울트라",
+    "brand": null,
     "launch_date": null,
     "launch_status": "launched",
     "launch_quote": "바이오플러스는 지난 13일 서울 용산구 몬드리안 서울 이태원에서 ‘BioPlus x CIMED Launch Symposium’을 열어 ‘밀리메트릭 프로 울트라(Milimetric PRO ULTRA)’와 ‘밀리메트릭 프로 울트라 X(Milimetric PRO ULTRA X)’를 처음 선보였다.",
@@ -46,8 +46,8 @@
     "notes_quote": null
    },
    {
-    "name": "밀리메트릭 프로 울트라 X(Milimetric PRO ULTRA X)",
-    "brand": "바이오플러스",
+    "name": "밀리메트릭 프로 울트라 X",
+    "brand": null,
     "launch_date": null,
     "launch_status": "launched",
     "launch_quote": "바이오플러스는 지난 13일 서울 용산구 몬드리안 서울 이태원에서 ‘BioPlus x CIMED Launch Symposium’을 열어 ‘밀리메트릭 프로 울트라(Milimetric PRO ULTRA)’와 ‘밀리메트릭 프로 울트라 X(Milimetric PRO ULTRA X)’를 처음 선보였다.",
@@ -55,7 +55,7 @@
     "notes_quote": null
    }
   ],
-  "key_fact": "바이오플러스가 브라질 제약사 시메드와 협력해 대용량 필러 신제품을 공식 선보이며 현지 시장 공략에 나섰다.",
+  "key_fact": "바이오플러스가 브라질 제약사 시메드와 협력해 대용량 필러 신제품을 론칭하고 현지 메디컬 에스테틱 시장 공략에 나섰다.",
   "key_fact_quote": "바이오플러스(대표이사 정현규)가 브라질 3대 제약사 시메드(Cimed)와 협력해 10cc 대용량 필러 2종을 공식 론칭하고 현지 메디컬 에스테틱 시장 공략에 속도를 낸다고 15일 밝혔다.",
   "events": [
    {
@@ -71,6 +71,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:49:45+00:00",
+ "enriched_at": "2026-10-15T15:20:52+00:00",
  "had_body": true
 }

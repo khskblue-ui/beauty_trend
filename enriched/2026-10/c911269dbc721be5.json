@@ -1,0 +1,43 @@
+{
+ "doc_id": "c911269dbc721be5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.peoplewatch.co.kr/article/view/ppw202610060016",
+ "title": "연구원 1300명·매출 5% R&D…코스맥스, '화장품 올림픽' 최다 발표",
+ "summary": "올해 연구 주제도 스킨케어에서 메이크업, 선케어, 헤어케어, 향료 까지 확대됐다. 가장 많은 구두발표가... 향료 분야에서는 향을 보다 오래 유지하기 위한 연구 결과를 소개했다. 해외 연구조직의 참여도 확대됐다....",
+ "published_at": "2026-10-06T16:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 연구개발",
+   "향 지속력 연구"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 연구 범위를 스킨케어에서 향료 분야 등으로 확대하며 연구 성과를 발표했다.",
+  "key_fact_quote": "올해 연구 주제도 스킨케어에서 메이크업, 선케어, 헤어케어, 향료 까지 확대됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:41+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "27c6260a7493bcb8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026092910185696001",
+ "title": "\"이거 한국에서 사 온 건데\" 중국인들 몰려오더니… K뷰티 에 中 빗장 열...",
+ "summary": "최근 수출 반등은 유의미한 변화\"라며 \"글로벌 2위 화장품 시장이 다시 열리는 셈\"이라고 평가했다. 중국 내 언론 보도에서도 확인된다. 최근 K뷰티 의 중국 시장 재진출을 조명하는 현지 기사들이 속속 등장하고 있다....",
+ "published_at": "2026-10-05T10:53:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "시장 재진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 화장품의 중국 수출이 반등하며 현지 시장이 다시 열리고 있다.",
+  "key_fact_quote": "최근 수출 반등은 유의미한 변화\"라며 \"글로벌 2위 화장품 시장이 다시 열리는 셈\"이라고 평가했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:26+00:00",
+ "had_body": false
+}

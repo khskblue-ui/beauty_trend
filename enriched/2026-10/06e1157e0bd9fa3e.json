@@ -1,0 +1,45 @@
+{
+ "doc_id": "06e1157e0bd9fa3e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.job-post.co.kr/news/articleView.html?idxno=231104",
+ "title": "한국화장품제조 12.37% 급등…거래대금 905억원 집중",
+ "summary": "한국화장품제조는 화장품 생산과 개발을 담당하며 브랜드사 주문과 수출 수요에 실적이 연동된다. 색조와... K뷰티 수요가 이어져도 수주와 납품, 대금 회수가 실제 현금흐름으로 연결되는지 확인해야 한다. 직전...",
+ "published_at": "2026-10-07T14:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국화장품제조"
+  ],
+  "keywords": [
+   "화장품 생산",
+   "수출 수요",
+   "색조 화장품",
+   "케이뷰티 수요"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 생산과 개발을 맡고 있는 한국화장품제조의 주가가 대규모 거래대금과 함께 급등세를 나타냈다.",
+  "key_fact_quote": "한국화장품제조 12.37% 급등…거래대금 905억원 집중",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:54+00:00",
+ "had_body": false
+}

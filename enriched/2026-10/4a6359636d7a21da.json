@@ -1,0 +1,54 @@
+{
+ "doc_id": "4a6359636d7a21da",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477557",
+ "title": "서울경제진흥원, 도쿄에 ' K - 뷰티 파크' 열었다, 서울 유망기업 일본시장...",
+ "summary": "진출과 수출 확대에 나섰다. SBA는 '글로벌 리테일 채널 진출사업'의 일환으로 \"9월 30일부터 10월 6일까지 일본 도쿄 이토요카도 오모리점 1층 이벤트 공간에서 서울 유망기업 단독 팝업스토어 ' K -Beauty Park( K - 뷰티 파크)'를...",
+ "published_at": "2026-10-07T08:15:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "서울경제진흥원",
+   "SBA"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "해외 진출",
+   "글로벌 리테일"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "서울경제진흥원이 서울 유망 뷰티 기업의 일본 시장 진출을 돕기 위해 도쿄에서 단독 팝업스토어를 개최했다.",
+  "key_fact_quote": "SBA는 '글로벌 리테일 채널 진출사업'의 일환으로 \"9월 30일부터 10월 6일까지 일본 도쿄 이토요카도 오모리점 1층 이벤트 공간에서 서울 유망기업 단독 팝업스토어 ' K -Beauty Park( K - 뷰티 파크)'를...",
+  "events": [
+   {
+    "name": "K-Beauty Park(K-뷰티 파크)",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-06",
+    "place": "일본 도쿄 이토요카도 오모리점 1층 이벤트 공간",
+    "quote": "SBA는 '글로벌 리테일 채널 진출사업'의 일환으로 \"9월 30일부터 10월 6일까지 일본 도쿄 이토요카도 오모리점 1층 이벤트 공간에서 서울 유망기업 단독 팝업스토어 ' K -Beauty Park( K - 뷰티 파크)'를..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:02+00:00",
+ "had_body": false
+}

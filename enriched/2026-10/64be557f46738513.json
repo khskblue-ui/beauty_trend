@@ -1,0 +1,64 @@
+{
+ "doc_id": "64be557f46738513",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480161",
+ "title": "\"먹는 사과에서 바르는 뷰티로\"… 군위 특화사과 '골든볼', 화장품 '포모...",
+ "summary": "이번 화장품 출시 는 지역 농산물의 단순 1차 가공이나 생과 판매를 넘어, 첨단 바이오 소재 산업과 융합해 고부가가치를 창출하는 농업 혁신 프로젝트의 결실이다.앞서 군위군농업기술센터는 지난 5월 20일 ㈜셀시악스와...",
+ "published_at": "2026-10-14T18:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "㈜셀시악스",
+   "군위군농업기술센터"
+  ],
+  "keywords": [
+   "바이오 소재",
+   "농업 혁신",
+   "지역 특화"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "포모...",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번 화장품 출시 는 지역 농산물의 단순 1차 가공이나 생과 판매를 넘어, 첨단 바이오 소재 산업과 융합해 고부가가치를 창출하는 농업 혁신 프로젝트의 결실이다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "군위 특화사과를 활용한 화장품이 바이오 소재 산업 융합을 통해 출시되었다.",
+  "key_fact_quote": "이번 화장품 출시 는 지역 농산물의 단순 1차 가공이나 생과 판매를 넘어, 첨단 바이오 소재 산업과 융합해 고부가가치를 창출하는 농업 혁신 프로젝트의 결실이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "골든볼",
+    "quote": "\"먹는 사과에서 바르는 뷰티로\"… 군위 특화사과 '골든볼', 화장품 '포모..."
+   },
+   {
+    "name": "사과",
+    "quote": "\"먹는 사과에서 바르는 뷰티로\"… 군위 특화사과 '골든볼', 화장품 '포모..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:52+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "1df68d27f263a664",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53630",
+ "title": "[코스모닝] 보건산업진흥원 부서장급 발령",
+ "summary": "△ R&D사업지원단장 김영호",
+ "published_at": "2026-10-02T08:15:14+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국보건산업진흥원"
+  ],
+  "keywords": [
+   "인사 발령"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국보건산업진흥원이 부서장급 인사를 단행했다.",
+  "key_fact_quote": "[코스모닝] 보건산업진흥원 부서장급 발령 △ R&D사업지원단장 김영호",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:35+00:00",
+ "had_body": true
+}

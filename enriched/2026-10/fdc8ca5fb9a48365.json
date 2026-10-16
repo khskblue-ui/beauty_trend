@@ -1,0 +1,55 @@
+{
+ "doc_id": "fdc8ca5fb9a48365",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58461",
+ "title": "CJ올리브영, 10월 한 달간 헤어·바디케어 ‘풀케어 샤워’ 프로모션",
+ "summary": "[코스인코리아닷컴 길태윤 기자]CJ올리브영(이하 올리브영)이 샤워를 단순한 ‘세정’을 넘어 나를 위한 관리의 시간으로 즐기는 흐름에 발맞춰 ‘HAVE AN EVERYTHING SHOWER’를 주제로 10월 한 달간 헤어·바디케어 프로모션을 전개한다. 이번 프로모션은 ‘머리부터 발끝까지 나를 위한 풀케어 샤워 라인업’을 메시지로, 개인의 라이프스타일과 샤",
+ "published_at": "2026-10-07T10:54:28+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "헤어케어",
+   "바디케어",
+   "웰니스",
+   "셀프케어 루틴"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "씨제이올리브영은 샤워를 단순 세정이 아닌 자기관리의 시간으로 즐기는 흐름에 맞춰 헤어와 바디케어 프로모션을 전개한다.",
+  "key_fact_quote": "CJ올리브영(이하 올리브영)이 샤워를 단순한 ‘세정’을 넘어 나를 위한 관리의 시간으로 즐기는 흐름에 발맞춰 ‘HAVE AN EVERYTHING SHOWER’를 주제로 10월 한 달간 헤어·바디케어 프로모션을 전개한다.",
+  "events": [
+   {
+    "name": "샤워 레시피 위크",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-18",
+    "place": null,
+    "quote": "특히, 올리브영은 오는 10월 9일부터 18일까지 ‘나만의 힐링 루틴 완성’을 콘셉트로 ‘샤워 레시피 위크’를 운영하며 헤어·바디 카테고리 주요 상품을 추가 할인한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:27+00:00",
+ "had_body": true
+}

@@ -1,0 +1,58 @@
+{
+ "doc_id": "500179602ba20ee8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477976",
+ "title": "'K 뷰티 ' 어뮤즈, 美 타겟·노드스트롬 찍고 파리 패션위크 진출",
+ "summary": "K 뷰티 브랜드 어뮤즈(AMUSE)가 파리 패션위크 백스테이지에 데뷔했다. 어뮤즈는 지난 4일 파리패션위크에서... 지난 2021년 자신의 브랜드 를 론칭 했으며, 2024년에는 신진 디자이너를 발굴하는 'LVMH 프라이즈' 최종...",
+ "published_at": "2026-10-07T17:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "FR"
+  ],
+  "brands": [
+   "어뮤즈",
+   "AMUSE"
+  ],
+  "companies": [
+   "타겟",
+   "노드스트롬",
+   "LVMH"
+  ],
+  "keywords": [
+   "글로벌 진출",
+   "패션위크 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "어뮤즈가 파리 패션위크 백스테이지에 데뷔하며 글로벌 활동을 넓혔다.",
+  "key_fact_quote": "K 뷰티 브랜드 어뮤즈(AMUSE)가 파리 패션위크 백스테이지에 데뷔했다.",
+  "events": [
+   {
+    "name": "파리 패션위크",
+    "start_date": "2026-10-04",
+    "end_date": null,
+    "place": null,
+    "quote": "어뮤즈는 지난 4일 파리패션위크에서..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:47+00:00",
+ "had_body": false
+}

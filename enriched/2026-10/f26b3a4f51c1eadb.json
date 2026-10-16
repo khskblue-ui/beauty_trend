@@ -31,31 +31,44 @@
    "퍼퓸 바디워시",
    "바디케어"
   ],
-  "is_press_release": false,
+  "is_press_release": true,
   "products": [
-   {
-    "name": "퍼퓸 바디워시",
-    "brand": "샤워메이트",
-    "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
    {
     "name": "마다가스카르 센텔라 아젤라익 애씨드 10 부스팅 샷 앰플",
     "brand": null,
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "활용한 신제품 '마다가스카르 센텔라 아젤라익 애씨드 10 부스팅 샷 앰플'도 현지 방문객들의 관심을...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퍼퓸 바디워시",
+    "brand": "샤워메이트",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "샤워메이트, '퍼퓸 바디워시' 출시 애경산업의 토털 바디케어 브랜드 샤워메이트는 명품 향수 의 클래식한...",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "애경산업의 바디케어 브랜드 샤워메이트가 명품 향수의 느낌을 담은 퍼퓸 바디워시를 선보였다.",
+  "key_fact": "애경산업의 바디케어 브랜드 샤워메이트가 퍼퓸 바디워시를 출시했다.",
   "key_fact_quote": "샤워메이트, '퍼퓸 바디워시' 출시 애경산업의 토털 바디케어 브랜드 샤워메이트는 명품 향수 의 클래식한...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "아젤라익 애씨드",
+    "quote": "활용한 신제품 '마다가스카르 센텔라 아젤라익 애씨드 10 부스팅 샷 앰플'도 현지 방문객들의 관심을..."
+   },
+   {
+    "name": "센텔라",
+    "quote": "활용한 신제품 '마다가스카르 센텔라 아젤라익 애씨드 10 부스팅 샷 앰플'도 현지 방문객들의 관심을..."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:22+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:33+00:00",
  "had_body": false
 }

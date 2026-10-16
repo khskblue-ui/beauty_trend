@@ -1,0 +1,49 @@
+{
+ "doc_id": "1fda17c69bbc4fa7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20260910_0003783518",
+ "title": "\"약국부터 K뷰티 1만2000개까지\" 무신사 뷰티, 홍대에 첫 단독 매장",
+ "summary": "중국 뷰티 브랜드 '인투유'와 'AZTK'가 국내 최초로 입점하며 프랑스 니치 향수 브랜드 '에따 리브르 도랑쥬', 국내 니치 향수 브랜드 '셀바티고' 등도 단독으로 선보인다. 오프라인에서 접하기 어려운 브랜드를 소개하는...",
+ "published_at": "2026-09-10T08:17:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN",
+   "FR"
+  ],
+  "brands": [
+   "인투유",
+   "AZTK",
+   "에따 리브르 도랑쥬",
+   "셀바티고"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 매장",
+   "니치 향수",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티가 홍대에 첫 단독 매장을 열고 국내외 뷰티 및 니치 향수 브랜드를 선보인다.",
+  "key_fact_quote": "\"약국부터 K뷰티 1만2000개까지\" 무신사 뷰티, 홍대에 첫 단독 매장",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:44+00:00",
+ "had_body": false
+}

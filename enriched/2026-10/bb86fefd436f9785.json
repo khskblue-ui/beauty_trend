@@ -1,0 +1,61 @@
+{
+ "doc_id": "bb86fefd436f9785",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.lawissue.co.kr/view.php?ud=202610070848142936204ead0791_12",
+ "title": "LF 불리, 롤온 오일 향수 국내 첫선",
+ "summary": "향료 농도와 에몰리언트 성분을 높인 제형으로 최대 8시간 향이 지속되며, 피부 가까이에서 은은하게 향을... 회사 측은 “이번 제품은 오일 베이스 제형과 롤온 방식을 결합한 것이 특징으로, 향료 농도와 지속 시간 등...",
+ "published_at": "2026-10-07T08:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "불리"
+  ],
+  "companies": [
+   "LF"
+  ],
+  "keywords": [
+   "롤온 향수",
+   "오일 향수",
+   "오일 베이스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "롤온 오일 향수",
+    "brand": "불리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "LF 불리, 롤온 오일 향수 국내 첫선",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "불리가 오일 베이스 제형과 롤온 방식을 결합한 롤온 오일 향수를 국내에 선보였다.",
+  "key_fact_quote": "LF 불리, 롤온 오일 향수 국내 첫선",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "에몰리언트",
+    "quote": "향료 농도와 에몰리언트 성분을 높인 제형으로 최대 8시간 향이 지속되며, 피부 가까이에서 은은하게 향을..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:36+00:00",
+ "had_body": false
+}

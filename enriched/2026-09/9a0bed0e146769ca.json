@@ -1,0 +1,54 @@
+{
+ "doc_id": "9a0bed0e146769ca",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065608210471546",
+ "title": "'두껍고 묻는' 남성 메이크업 줄였다…바레디, '24H 커버로션' 선봬",
+ "summary": "아모레퍼시픽 남성 화장품 브랜드 비레디가 남성 베이스메이크업의 두꺼운 사용감과 묻어남을 줄이는 데... [사진=아모레퍼시픽] 비레디는 신제품 ‘트루 톤 커버로션 24H 롱웨어’를 출시한다고 15일 밝혔다. 이번...",
+ "published_at": "2026-09-15T19:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비레디",
+   "바레디"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "남성 화장품",
+   "베이스 메이크업",
+   "커버로션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "트루 톤 커버로션 24H 롱웨어",
+    "brand": "비레디",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아모레퍼시픽의 남성 화장품 브랜드 비레디가 베이스 메이크업의 사용감과 묻어남을 개선한 커버로션 신제품을 선보인다.",
+  "key_fact_quote": "비레디는 신제품 ‘트루 톤 커버로션 24H 롱웨어’를 출시한다고 15일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:49+00:00",
+ "had_body": false
+}

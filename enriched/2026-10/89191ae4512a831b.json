@@ -1,0 +1,46 @@
+{
+ "doc_id": "89191ae4512a831b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586967750815",
+ "title": "LA서 22만명 몰린 K - 뷰티 , 이번엔 파리 공략…중소기업 33곳 유럽 진출",
+ "summary": "프랑스 뷰티 ·개인위생용품 시장은 지난해 기준 약 150억~160억 유로(22조~24조원) 규모로, 최근 현지 주요 화장품 매장과 약국 등을 중심으로 한국 화장품 취급이 확대되고 있다. 이번 팝업은 롯데홈쇼핑의 K -브랜드 수출 ...",
+ "published_at": "2026-10-13T13:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데홈쇼핑"
+  ],
+  "keywords": [
+   "팝업",
+   "수출 지원",
+   "화장품 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "프랑스 뷰티 및 개인위생용품 시장에서 한국 화장품 취급이 확대되는 가운데 국내 중소기업들의 유럽 진출을 위한 팝업 행사가 추진된다.",
+  "key_fact_quote": "프랑스 뷰티 ·개인위생용품 시장은 지난해 기준 약 150억~160억 유로(22조~24조원) 규모로, 최근 현지 주요 화장품 매장과 약국 등을 중심으로 한국 화장품 취급이 확대되고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:48+00:00",
+ "had_body": false
+}

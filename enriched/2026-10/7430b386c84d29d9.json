@@ -1,0 +1,53 @@
+{
+ "doc_id": "7430b386c84d29d9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10893057?ref=naver",
+ "title": "‘서울 3대 랜드마크’ 한강·남산·북촌 담은 화장품 나왔다",
+ "summary": "최근 출시 했다고 5일 밝혔다. 제품은 패드 3종, 세럼 3종, 아이패치 1종으로 구성됐다. 서울의 대표 랜드마크... 메디힐은 서울 에디션 출시 에 앞서 서울 사랑의열매에 기부했다. 기부금은 내년 서울국제정원박람회...",
+ "published_at": "2026-10-05T08:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메디힐"
+  ],
+  "companies": [],
+  "keywords": [
+   "서울 에디션",
+   "스킨케어 에디션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "서울 에디션",
+    "brand": "메디힐",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "최근 출시 했다고 5일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "메디힐이 서울의 대표 랜드마크를 담은 서울 에디션 화장품을 출시했다.",
+  "key_fact_quote": "‘서울 3대 랜드마크’ 한강·남산·북촌 담은 화장품 나왔다 최근 출시 했다고 5일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:40+00:00",
+ "had_body": false
+}

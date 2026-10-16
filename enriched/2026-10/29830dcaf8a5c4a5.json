@@ -1,0 +1,47 @@
+{
+ "doc_id": "29830dcaf8a5c4a5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.metroseoul.co.kr/article/20261015500055",
+ "title": "오스템파마, '2026 뷰티 월드 중동' 참가...\"K덴탈, 북아프리카로 확산\"",
+ "summary": "현지 주요 헬스앤 뷰티 매장, 대형 유통 채널, 이커머스 입점 등을 추진해 카타르, 쿠웨이트 등 인근 국가로 수출 을 넓힐 계획이다. 오스템파마 관계자는 \"뷰센은 품질을 갖춘 글로벌 브랜드\"라며 \"앞으로도 차별화된...",
+ "published_at": "2026-10-15T09:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "QA",
+   "KW"
+  ],
+  "brands": [
+   "뷰센"
+  ],
+  "companies": [
+   "오스템파마"
+  ],
+  "keywords": [
+   "덴탈 케어",
+   "헬스앤뷰티",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "오스템파마가 뷰티 월드 중동에 참가해 카타르와 쿠웨이트 등 인근 국가로 수출 확대를 추진한다.",
+  "key_fact_quote": "현지 주요 헬스앤 뷰티 매장, 대형 유통 채널, 이커머스 입점 등을 추진해 카타르, 쿠웨이트 등 인근 국가로 수출 을 넓힐 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:36+00:00",
+ "had_body": false
+}

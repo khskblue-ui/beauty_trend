@@ -23,8 +23,8 @@
   ],
   "brands": [
    "에포나",
-   "EPONA",
    "베르티",
+   "EPONA",
    "VERTTY"
   ],
   "companies": [
@@ -32,18 +32,28 @@
    "Kmarket"
   ],
   "keywords": [
-   "프리미엄 스킨케어",
+   "스킨케어",
    "비건 클린 뷰티",
    "해외 진출"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "다름인터내셔널의 스킨케어 브랜드 에포나와 베르티가 탄자니아에서 공식 런칭 행사를 열고 아프리카 시장 진출을 본격화했다.",
+  "key_fact": "다름인터내셔널의 스킨케어 브랜드 에포나와 비건 클린 뷰티 브랜드 베르티가 탄자니아에서 공식 런칭 행사를 열고 아프리카 시장에 진출했다.",
   "key_fact_quote": "㈜다름인터내셔널의 프리미엄 스킨케어 브랜드 에포나(EPONA)와 비건 클린 뷰티 브랜드 베르티(VERTTY)가 지난 10월 1일 탄자니아 Kmarket에서 첫 공식 런칭 행사를 개최하며 현지 시장 진출을 본격화했다.",
+  "events": [
+   {
+    "name": "에포나·베르티 첫 공식 런칭 행사",
+    "start_date": "2026-10-01",
+    "end_date": null,
+    "place": "탄자니아 Kmarket",
+    "quote": "㈜다름인터내셔널의 프리미엄 스킨케어 브랜드 에포나(EPONA)와 비건 클린 뷰티 브랜드 베르티(VERTTY)가 지난 10월 1일 탄자니아 Kmarket에서 첫 공식 런칭 행사를 개최하며 현지 시장 진출을 본격화했다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:07+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:14+00:00",
  "had_body": true
 }

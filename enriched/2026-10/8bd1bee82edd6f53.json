@@ -1,0 +1,45 @@
+{
+ "doc_id": "8bd1bee82edd6f53",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.econovill.com/news/articleView.html?idxno=753079",
+ "title": "동국제약, '1조 클럽' 진입 노린다… 화장품 사업 영역 확장 순항 중",
+ "summary": "인사돌, 마데카솔, 센시아 등 일반의약품(OTC) 부문에서 두각을 나타내온 동국제약이 화장품 부문에서도... 2015년 4월 센텔리안24 브랜드 론칭과 함께 출시 된 후 지속적인 제품 리뉴얼과 라인업 확장을 거듭했으며...",
+ "published_at": "2026-10-08T11:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안24"
+  ],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "화장품 사업 확장",
+   "제약사 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "동국제약이 화장품 사업 영역을 확장하며 성장을 이어가고 있다.",
+  "key_fact_quote": "동국제약, '1조 클럽' 진입 노린다… 화장품 사업 영역 확장 순항 중",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:20+00:00",
+ "had_body": false
+}

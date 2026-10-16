@@ -1,0 +1,39 @@
+{
+ "doc_id": "dff760e115e1f6dc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ekn.kr/web/view.php?key=20260915026444914",
+ "title": "[진격의 K-뷰티②] 한류 열풍에 트렌디한 마케팅까지…‘인기몰이’ 이...",
+ "summary": "신제품 은 끊임없이 나온다. 소비자가 제품을 처음 접하는 곳도 TV 광고나 잡지가 아니라 틱톡과 유튜브, 인스타그램이다. 마음에 들면 바로 아마존에서 살 수 있다. 국내 화장품 업체들이 의도했든 그렇지 않았든 현재...",
+ "published_at": "2026-09-15T17:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "소셜 미디어 마케팅",
+   "이커머스 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "소비자가 소셜 미디어를 통해 화장품 신제품을 접하고 온라인 플랫폼에서 구매하는 트렌드가 이어지고 있다.",
+  "key_fact_quote": "소비자가 제품을 처음 접하는 곳도 TV 광고나 잡지가 아니라 틱톡과 유튜브, 인스타그램이다. 마음에 들면 바로 아마존에서 살 수 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:53+00:00",
+ "had_body": false
+}

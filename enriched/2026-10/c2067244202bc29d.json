@@ -16,25 +16,27 @@
  "extraction": {
   "relevant": true,
   "category": "business",
-  "event_type": "regulation",
+  "event_type": "business",
   "countries": [
    "KR"
   ],
   "brands": [],
   "companies": [],
   "keywords": [
-   "K-뷰티 서비스",
-   "융복합 지원",
-   "뷰티 산업 육성"
+   "K-뷰티",
+   "뷰티 서비스",
+   "인공지능 융복합"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "정부가 내수와 수출 및 일자리 창출을 이끌 성장 엔진으로 뷰티 서비스를 집중 육성하겠다는 전략을 마련했다.",
+  "key_fact": "정부는 내수와 수출 및 일자리 창출을 이끌 차세대 성장 동력으로 K-뷰티 서비스를 집중 육성하기로 했다.",
   "key_fact_quote": "올해 한국경제 성장 주역이 ‘반도체’였다면 앞으로 내수와 수출 , 일자리 창출을 동시에 이끌 제2의 성장 엔진으로 ‘ K - 뷰티 서비스’를 집중 육성하겠다는 전략이다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:43+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:26+00:00",
  "had_body": false
 }

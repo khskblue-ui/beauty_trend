@@ -5,12 +5,12 @@
  "group": "kr_news",
  "lang": "ko",
  "url": "https://www.koreaittimes.com/news/articleView.html?idxno=157869",
- "title": "향수 도 '갈아 쓴다'… 불리, 휴대성 앞세운 롤온 오일 향수 선봬",
- "summary": "이번 신제품 의 핵심은 향수 와 전용 케이스를 결합해 사용하는 '센티드 펜'이다. 오일 향수 '윌 더블먼트 컨센트레'를 전용 케이스 '르 스틸로 아 빌 오도리페랑'에 넣으면 펜처럼 휴대하면서 필요한 순간마다 손목이나...",
+ "title": "향수도 '갈아 쓴다'… 불리, 휴대성 앞세운 롤온 오일 향수 선봬",
+ "summary": "불리가 처음 선보이는 오일 베이스 향수인 윌 더블먼트 컨센트레는 향료 농도와 에몰리언트 성분을 높여 보습감과 향의 지속력을 강화했다. 제품에 따르면 향은 최대 8시간 지속된다. 첫 라인업은 불리의 대표 향 세 가지로...",
  "published_at": "2026-10-07T10:38:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "향수 신제품",
+ "query": "향료",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -25,9 +25,9 @@
   ],
   "companies": [],
   "keywords": [
-   "롤온 오일 향수",
    "오일 향수",
-   "센티드 펜"
+   "롤온 향수",
+   "휴대용 향수"
   ],
   "is_press_release": true,
   "products": [
@@ -35,25 +35,25 @@
     "name": "윌 더블먼트 컨센트레",
     "brand": "불리",
     "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "르 스틸로 아 빌 오도리페랑",
-    "brand": "불리",
-    "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "불리가 처음 선보이는 오일 베이스 향수인 윌 더블먼트 컨센트레는 향료 농도와 에몰리언트 성분을 높여 보습감과 향의 지속력을 강화했다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "불리가 휴대성을 높인 롤온 형태의 오일 향수 신제품을 선보였다.",
-  "key_fact_quote": "불리, 휴대성 앞세운 롤온 오일 향수 선봬",
+  "key_fact": "불리가 휴대성을 높인 오일 베이스의 롤온 향수 신제품을 선보였다.",
+  "key_fact_quote": "불리가 처음 선보이는 오일 베이스 향수인 윌 더블먼트 컨센트레는 향료 농도와 에몰리언트 성분을 높여 보습감과 향의 지속력을 강화했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "에몰리언트",
+    "quote": "불리가 처음 선보이는 오일 베이스 향수인 윌 더블먼트 컨센트레는 향료 농도와 에몰리언트 성분을 높여 보습감과 향의 지속력을 강화했다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:30+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:31+00:00",
  "had_body": false
 }

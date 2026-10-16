@@ -37,17 +37,25 @@
     "name": "프라임 어드밴서 오리지널 에너지 100 앰플",
     "brand": "오휘",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "엘지생활건강의 스킨케어 브랜드 오휘가 배우 임지연을 앰배서더로 발탁했다.",
+  "key_fact": "LG생활건강의 브랜드 오휘가 배우 임지연을 브랜드 앰배서더로 발탁했다.",
   "key_fact_quote": "LG생활건강의 디에이징(De-Aging) 솔루션 뷰티 브랜드 ‘오휘’ 가 배우 임지연 씨 를 앰배서더로 발탁.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "H-PDRN 90TM",
+    "quote": "오리지널 100 앰플은 4.7배 더 깊이 흡수되는 ‘H-PDRN 90TM’을 한 병에 90% 이상 고함량으로 담은 중안부 입체 탄력 앰플."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:03:37+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:38+00:00",
  "had_body": true
 }

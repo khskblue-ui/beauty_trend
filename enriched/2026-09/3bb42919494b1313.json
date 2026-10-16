@@ -1,0 +1,42 @@
+{
+ "doc_id": "3bb42919494b1313",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1410467",
+ "title": "중국·미국 이어 유럽까지…K뷰티, 영토 넓힌다",
+ "summary": "올해 상반기 국내 화장품 의 유럽 수출액이 반기 기준 처음으로 북미를 넘어선 가운데, 국내 기업들도... 등도 신제품 과 디지털 마케팅을 통해 시장 확대에 나서고 있다. 인디 브랜드의 움직임도 활발하다....",
+ "published_at": "2026-09-29T17:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "해외 시장 확대",
+   "인디 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 화장품의 유럽 수출액이 북미를 넘어서며 기업들이 신제품과 마케팅을 통해 시장 확대에 나서고 있다.",
+  "key_fact_quote": "올해 상반기 국내 화장품 의 유럽 수출액이 반기 기준 처음으로 북미를 넘어선 가운데, 국내 기업들도... 등도 신제품 과 디지털 마케팅을 통해 시장 확대에 나서고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:54+00:00",
+ "had_body": false
+}

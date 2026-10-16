@@ -1,0 +1,52 @@
+{
+ "doc_id": "c293b8cb53cb49a5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202610111333244755",
+ "title": "\"화장품 본고장서 K뷰티 알린다\"... 롯데홈쇼핑, 프랑스 파리서 '이설' ...",
+ "summary": "롯데홈쇼핑이 화장품의 본고장인 프랑스 파리에서 팝업스토어를 열고 K뷰티 와 라이프스타일 브랜드의 유럽 시장 진출을 지원한다. 11일 업계에 따르면 롯데홈쇼핑은 다음달 30일까지 프랑스 파리 마레지구에서 수출 ...",
+ "published_at": "2026-10-11T13:57:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "FR",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데홈쇼핑"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "유럽 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "롯데홈쇼핑이 프랑스 파리에서 팝업스토어를 운영하여 케이뷰티 브랜드의 유럽 진출을 지원한다.",
+  "key_fact_quote": "롯데홈쇼핑이 화장품의 본고장인 프랑스 파리에서 팝업스토어를 열고 K뷰티 와 라이프스타일 브랜드의 유럽 시장 진출을 지원한다.",
+  "events": [
+   {
+    "name": "팝업스토어",
+    "start_date": "2026-10-11",
+    "end_date": "2026-11-30",
+    "place": "프랑스 파리 마레지구",
+    "quote": "11일 업계에 따르면 롯데홈쇼핑은 다음달 30일까지 프랑스 파리 마레지구에서 수출 ..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:19+00:00",
+ "had_body": false
+}

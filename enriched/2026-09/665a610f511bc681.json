@@ -1,0 +1,70 @@
+{
+ "doc_id": "665a610f511bc681",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=359107",
+ "title": "한미사이언스의 화장품 아데시, 김포현대프리미엄아울렛서 팝업",
+ "summary": "전하고 신제품 3종을 선보인다고 16일 밝혔다. 이번 행사를 주관하는 KESTA는 오프라인 팝업 공간을... 특히 이번 팝업에서는 ADESII의 튜브형 신제품 3종 △PLA 리프팅 세럼 △피토 글로우 앰플 △펩타이드 넥앤...",
+ "published_at": "2026-09-16T14:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아데시",
+   "ADESII"
+  ],
+  "companies": [
+   "한미사이언스",
+   "KESTA"
+  ],
+  "keywords": [
+   "오프라인 팝업",
+   "스킨케어 신제품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "PLA 리프팅 세럼",
+    "brand": "ADESII",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "피토 글로우 앰플",
+    "brand": "ADESII",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "펩타이드 넥앤",
+    "brand": "ADESII",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "한미사이언스의 화장품 브랜드 아데시가 현대프리미엄아울렛에서 팝업 행사를 열고 튜브형 신제품들을 선보인다.",
+  "key_fact_quote": "한미사이언스의 화장품 아데시, 김포현대프리미엄아울렛서 팝업 전하고 신제품 3종을 선보인다고 16일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:39+00:00",
+ "had_body": false
+}

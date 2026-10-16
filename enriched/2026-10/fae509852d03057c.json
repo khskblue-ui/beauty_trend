@@ -1,0 +1,59 @@
+{
+ "doc_id": "fae509852d03057c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/local/gyeonggi/6316539",
+ "title": "킨텍스, '2026 K - 뷰티 엑스포 코리아' 15~17일 개최",
+ "summary": "한편 지난해 9월 11~13일 열린 '2025 K - 뷰티 엑스포 코리아' 행사에는 12개국, 512개 사가 참여한 가운데 4만여 명(해외 참관객 1만 명)이 행사장을 방문했다. 이 행사로 수출 상담 1780건, 상담액 1억3800만 달러를...",
+ "published_at": "2026-10-12T10:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "킨텍스"
+  ],
+  "keywords": [
+   "뷰티 엑스포",
+   "뷰티 박람회",
+   "수출 상담"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "킨텍스에서 케이 뷰티 엑스포 코리아 행사가 개최된다.",
+  "key_fact_quote": "킨텍스, '2026 K - 뷰티 엑스포 코리아' 15~17일 개최",
+  "events": [
+   {
+    "name": "2026 K - 뷰티 엑스포 코리아",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": "킨텍스",
+    "quote": "킨텍스, '2026 K - 뷰티 엑스포 코리아' 15~17일 개최"
+   },
+   {
+    "name": "2025 K - 뷰티 엑스포 코리아",
+    "start_date": "2025-09-11",
+    "end_date": "2025-09-13",
+    "place": null,
+    "quote": "한편 지난해 9월 11~13일 열린 '2025 K - 뷰티 엑스포 코리아' 행사에는 12개국, 512개 사가 참여한 가운데 4만여 명(해외 참관객 1만 명)이 행사장을 방문했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:12+00:00",
+ "had_body": false
+}

@@ -1,0 +1,51 @@
+{
+ "doc_id": "802e97e0cbb07431",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=208313",
+ "title": "[뷰티 패션 Pick] 소비 변화 읽고 제품 개발 방식 다변화",
+ "summary": "화장품 브랜드 비레디는 기존 3 in 1 제품에 파우더 기능을 더한 4 in 1 '트루 톤 커버로션 24H 롱웨어'를 선보였다. 비레디는 2023년 3 in 1 '트루 톤 로션'을 처음 선보인 이후 커버로션 제품군을 이어왔으며, 이번 신제품 은...",
+ "published_at": "2026-09-15T15:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비레디"
+  ],
+  "companies": [],
+  "keywords": [
+   "커버로션",
+   "남성 화장품",
+   "올인원 화장품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "트루 톤 커버로션 24H 롱웨어",
+    "brand": "비레디",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "화장품 브랜드 비레디가 파우더 기능을 더한 신제품 커버로션을 선보였다.",
+  "key_fact_quote": "화장품 브랜드 비레디는 기존 3 in 1 제품에 파우더 기능을 더한 4 in 1 '트루 톤 커버로션 24H 롱웨어'를 선보였다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:55+00:00",
+ "had_body": false
+}

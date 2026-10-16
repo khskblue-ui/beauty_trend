@@ -32,17 +32,32 @@
   ],
   "keywords": [
    "뷰티 패키징",
-   "기업 인수",
-   "친환경 패키징"
+   "럭셔리 패키징",
+   "친환경 디자인"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "프랑스의 피엠 스튜디오 그룹이 뷰티 및 주류 산업 전문 패키징 업체인 티앤티 그룹을 인수하여 패키징 역량을 강화했다.",
+  "key_fact": "프랑스의 피엠 스튜디오 그룹이 뷰티 및 럭셔리 패키징 역량을 강화하기 위해 티앤티 그룹을 인수했다.",
   "key_fact_quote": "PM Studio Group, a specialist in gifting, secondary packaging, and bespoke accessories, is expanding its beauty and luxury packaging offering with the acquisition of TNT Group.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "recycled zamak",
+    "quote": "The company is also a pioneer in the use of recycled zamak ."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:59+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:01+00:00",
  "had_body": true
 }

@@ -1,0 +1,46 @@
+{
+ "doc_id": "5db8e09e3a535ce3",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312176",
+ "title": "경북도, 안동에 1750억 투입 ‘헴프 의약품 산업거점’ 조성 - 뷰티경제",
+ "summary": "경상북도가 총사업비 약 1750억 원을 투입해 안동에 헴프 재배부터 원료·완제의약품 제조, 품질·안전관리까지 아우르는 특수관리 의약품 산업거점을 조성한다.경상북도",
+ "published_at": "2026-10-12T15:22:52+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "의약품 산업거점",
+   "헴프 재배"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "경상북도가 안동에 헴프 기반 특수관리 의약품 산업거점을 조성한다.",
+  "key_fact_quote": "경상북도가 총사업비 약 1750억 원을 투입해 안동에 헴프 재배부터 원료·완제의약품 제조, 품질·안전관리까지 아우르는 특수관리 의약품 산업거점을 조성한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "헴프",
+    "quote": "경상북도가 총사업비 약 1750억 원을 투입해 안동에 헴프 재배부터 원료·완제의약품 제조, 품질·안전관리까지 아우르는 특수관리 의약품 산업거점을 조성한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:09+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "c9be39776b1ea09a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kpenews.com/View.aspx?No=4229769",
+ "title": "한미사이언스 아데시, 글로벌 뷰티 공략..케스타 팝업 참여",
+ "summary": "한미사이언스가 독자 기술로 개발한 혁신 복합 원료 ‘H-EGTI’를 기반으로 인공색소와 향료 를 배제했다. 피부 본연의 건강함에 집중한 고기능성 라인업을 선보이고 있다. 이번 팝업을 통해 선보인 미백·주름...",
+ "published_at": "2026-09-16T14:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아데시"
+  ],
+  "companies": [
+   "한미사이언스"
+  ],
+  "keywords": [
+   "고기능성 스킨케어",
+   "무향료 화장품",
+   "뷰티 팝업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한미사이언스의 아데시가 인공색소와 향료를 배제한 고기능성 라인업을 기반으로 케스타 팝업에 참여해 글로벌 뷰티 시장을 공략한다.",
+  "key_fact_quote": "한미사이언스 아데시, 글로벌 뷰티 공략..케스타 팝업 참여",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:16:59+00:00",
+ "had_body": false
+}

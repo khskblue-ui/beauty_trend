@@ -1,0 +1,52 @@
+{
+ "doc_id": "465c1efee627d2ca",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kado.net/news/articleView.html?idxno=2077963",
+ "title": "도 경제진흥원, 뷰티 기업 해외시장 진출 지원사격",
+ "summary": "강원도 경제진흥원은 15일부터 17일까지 사흘간 경기도 고양시 킨텍스 제1전시장에서 열리는 '2026 K - 뷰티 ... 등 뷰티 산업 전반 제품과 기술을 선보이는 자리다. 강원도가 지원한 이번 사업은 수출 준비·초보기업의...",
+ "published_at": "2026-10-14T00:09:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "강원도 경제진흥원"
+  ],
+  "keywords": [
+   "해외시장 진출",
+   "뷰티 박람회",
+   "수출 지원"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "강원도 경제진흥원이 뷰티 기업의 해외시장 진출을 지원한다.",
+  "key_fact_quote": "도 경제진흥원, 뷰티 기업 해외시장 진출 지원사격",
+  "events": [
+   {
+    "name": "2026 K - 뷰티",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": "경기도 고양시 킨텍스 제1전시장",
+    "quote": "강원도 경제진흥원은 15일부터 17일까지 사흘간 경기도 고양시 킨텍스 제1전시장에서 열리는 '2026 K - 뷰티 ... 등 뷰티 산업 전반 제품과 기술을 선보이는 자리다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:42+00:00",
+ "had_body": false
+}

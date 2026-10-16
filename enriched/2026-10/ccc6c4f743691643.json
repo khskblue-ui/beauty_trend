@@ -38,17 +38,20 @@
     "name": "Intense Perfume Mists",
     "brand": "Sol de Janeiro",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "솔 데 자네이로는 영국 방송사 채널 사와 협력하여 신제품 향수 미스트를 반영한 세로형 마이크로 드라마 시리즈를 선보인다.",
+  "key_fact": "솔 데 자네이로는 영국 방송사 채널 사와 손잡고 새로운 향수 미스트를 의인화한 캐릭터들이 등장하는 세로형 마이크로 드라마 시리즈를 선보인다.",
   "key_fact_quote": "Sol de Janeiro is challenging ‘what beauty content can be’ with The Guest List, a five-part series commissioned by Channel 4 that will appear on the UK broadcaster’s social channels and features characters that embody the fragrance brand’s new Intense Perfume Mists",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:35+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:55+00:00",
  "had_body": false
 }

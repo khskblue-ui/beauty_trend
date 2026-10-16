@@ -21,8 +21,9 @@
    "KR"
   ],
   "brands": [
-   "어뮤즈",
-   "로듀"
+   "로듀",
+   "RAWDEW",
+   "어뮤즈"
   ],
   "companies": [
    "어뮤즈코리아"
@@ -38,17 +39,45 @@
     "name": "로듀 비타 버터 립 밤",
     "brand": "로듀",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "‘로듀 비타 버터 립 밤’은 로듀의 첫 번째 제품이다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "어뮤즈코리아가 첫 자매 브랜드인 로듀를 선보이고 첫 번째 제품으로 립 밤을 공개했다.",
+  "key_fact": "어뮤즈코리아가 신규 자매 브랜드 로듀를 선보이고 첫 제품으로 립 밤을 공개했다.",
   "key_fact_quote": "어뮤즈코리아가 로듀를 선보였다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "비타민 C",
+    "quote": "비타민 C·E·B5(D-판테놀)와 시어버터 성분이 입술에 수분과 영양을 공급한다."
+   },
+   {
+    "name": "시어버터",
+    "quote": "비타민 C·E·B5(D-판테놀)와 시어버터 성분이 입술에 수분과 영양을 공급한다."
+   },
+   {
+    "name": "판테놀",
+    "quote": "판테놀·나이아신아마이드·시카·PDRN 등을 함유해 입술을 건강하고 촉촉하게 가꾼다."
+   },
+   {
+    "name": "나이아신아마이드",
+    "quote": "판테놀·나이아신아마이드·시카·PDRN 등을 함유해 입술을 건강하고 촉촉하게 가꾼다."
+   },
+   {
+    "name": "시카",
+    "quote": "판테놀·나이아신아마이드·시카·PDRN 등을 함유해 입술을 건강하고 촉촉하게 가꾼다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "판테놀·나이아신아마이드·시카·PDRN 등을 함유해 입술을 건강하고 촉촉하게 가꾼다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:03:31+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:35+00:00",
  "had_body": true
 }

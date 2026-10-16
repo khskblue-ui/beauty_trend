@@ -1,0 +1,46 @@
+{
+ "doc_id": "fd0e7349a2f7bb78",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494330",
+ "title": "3분기 실적 앞두고 화장품주 휘청…코스메카코리아·에이피알은 상승",
+ "summary": "K뷰티 수출 성장 기대는 이어지고 있지만, 3분기 실적 발표를 앞두고 높아진 시장 눈높이와 밸류에이션 부담이 투자심리를 위축시키는 모습이다. 최근 K뷰티 인디 브랜드와 화장품 제조업자개발생산(ODM) 기업을 중심으로...",
+ "published_at": "2026-10-12T10:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스메카코리아",
+   "에이피알"
+  ],
+  "keywords": [
+   "화장품주",
+   "K뷰티 수출",
+   "인디 브랜드",
+   "제조업자개발생산"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 업계의 수출 성장 기대에도 불구하고 실적 발표를 앞두고 높아진 시장 눈높이와 밸류에이션 부담으로 투자심리가 위축되고 있다.",
+  "key_fact_quote": "K뷰티 수출 성장 기대는 이어지고 있지만, 3분기 실적 발표를 앞두고 높아진 시장 눈높이와 밸류에이션 부담이 투자심리를 위축시키는 모습이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:12+00:00",
+ "had_body": false
+}

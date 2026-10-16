@@ -36,17 +36,20 @@
     "name": "네오케어 핸드크림",
     "brand": "네오케어",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "약국 유통 및 구강용품 전문기업 네오메디칼제약(대표 이상돈)이 신제품 '네오케어 핸드크림(NEOCARE Hand Cream)'을 출시 하고 약국 뷰티 제품군 확대에 나선다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "네오메디칼제약이 신제품 네오케어 핸드크림을 출시하며 약국 뷰티 시장 확대에 나선다.",
+  "key_fact": "네오메디칼제약이 약국 뷰티 제품군 확대를 위해 신제품 핸드크림을 출시했다.",
   "key_fact_quote": "약국 유통 및 구강용품 전문기업 네오메디칼제약(대표 이상돈)이 신제품 '네오케어 핸드크림(NEOCARE Hand Cream)'을 출시 하고 약국 뷰티 제품군 확대에 나선다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:17+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:31+00:00",
  "had_body": false
 }

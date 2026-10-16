@@ -1,0 +1,48 @@
+{
+ "doc_id": "cf21a11754c1c374",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/sephora-marks-spencer-uk-strategy-president-catherine-spindler-1239297743/",
+ "title": "Inside Sephora’s Marks & Spencer and U.K. Strategy",
+ "summary": "In an interview, Catherine Spindler, president of Europe and Middle East operations at Sephora, details the retailer's plans for the market.",
+ "published_at": "2026-10-01T03:10:03+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "Sephora",
+   "Marks & Spencer"
+  ],
+  "companies": [
+   "Sephora",
+   "Marks & Spencer"
+  ],
+  "keywords": [
+   "뷰티 리테일",
+   "유통 전략",
+   "해외 시장 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "세포라의 유럽 및 중동 운영 총괄 사장이 영국 시장 및 막스앤스펜서 관련 유통 전략과 계획을 인터뷰를 통해 공개했다.",
+  "key_fact_quote": "In an interview, Catherine Spindler, president of Europe and Middle East operations at Sephora, details the retailer's plans for the market.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:34+00:00",
+ "had_body": false
+}

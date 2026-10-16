@@ -1,0 +1,45 @@
+{
+ "doc_id": "91295812147fa5dc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ziksir.com/news/articleView.html?idxno=149483",
+ "title": "오스템파마, ' 뷰티 월드 두바이' 참가…중동·북아프리카 구강케어 공략",
+ "summary": "열린 '2026 뷰티 월드 두바이'에 참가해 180여개 바이어사와 구체적인 수출 상담을 진행했다고 15일 밝혔다.... 오스템파마 관계자는 \"차별화된 기능성과 치과 기반 기술력을 바탕으로 중동을 비롯한 글로벌 시장에서 K ...",
+ "published_at": "2026-10-15T13:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "event",
+  "countries": [
+   "AE",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "오스템파마"
+  ],
+  "keywords": [
+   "구강케어",
+   "수출 상담",
+   "뷰티 박람회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "오스템파마가 뷰티 월드 두바이에 참가하여 바이어들과 수출 상담을 진행하며 중동 및 북아프리카 구강케어 시장 공략에 나섰다.",
+  "key_fact_quote": "열린 '2026 뷰티 월드 두바이'에 참가해 180여개 바이어사와 구체적인 수출 상담을 진행했다고 15일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:30+00:00",
+ "had_body": false
+}

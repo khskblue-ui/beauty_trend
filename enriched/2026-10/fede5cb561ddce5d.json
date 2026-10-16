@@ -1,0 +1,47 @@
+{
+ "doc_id": "fede5cb561ddce5d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ajunews.com/view/20261007172457837",
+ "title": "라루셀, 현대백화점 판교점 '코오드' 입점...오프라인 더마뷰티 접점 확...",
+ "summary": "2021년 출시 된 라루셀은 임신과 출산 과정에서 나타날 수 있는 건조함과 민감성, 색소침착, 튼살 등 여성의... 바이오코스는 일반 화장품 을 임산부용으로 별도 구분하는 방식이 아니라 제품 기획 단계부터 민감한 피부를...",
+ "published_at": "2026-10-07T18:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라루셀"
+  ],
+  "companies": [
+   "바이오코스",
+   "현대백화점"
+  ],
+  "keywords": [
+   "더마뷰티",
+   "임산부 화장품",
+   "오프라인 유통"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "라루셀이 현대백화점 판교점 편집숍에 입점하여 오프라인 접점을 확대한다.",
+  "key_fact_quote": "라루셀, 현대백화점 판교점 '코오드' 입점...오프라인 더마뷰티 접점 확...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:31+00:00",
+ "had_body": false
+}

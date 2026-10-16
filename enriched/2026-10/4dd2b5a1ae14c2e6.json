@@ -1,0 +1,46 @@
+{
+ "doc_id": "4dd2b5a1ae14c2e6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=772450",
+ "title": "신세계免, 두피도 피부처럼 '스킨케어화'...관련 매출 65%↑",
+ "summary": "신세계면세점은 바이브랩을 비롯해 기능과 사용 경험을 차별화한 두피·헤어케어 브랜드 를 지속 발굴해 기존 화장품· 향수 중심의 뷰티 포트폴리오를 웰니스와 헤어케어 영역까지 넓혀간다는 계획이다.",
+ "published_at": "2026-10-11T09:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "바이브랩"
+  ],
+  "companies": [
+   "신세계면세점"
+  ],
+  "keywords": [
+   "두피케어",
+   "헤어케어",
+   "웰니스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "신세계면세점이 두피 및 헤어케어 브랜드를 지속 발굴해 기존 뷰티 포트폴리오를 웰니스와 헤어케어 영역까지 넓힌다.",
+  "key_fact_quote": "신세계면세점은 바이브랩을 비롯해 기능과 사용 경험을 차별화한 두피·헤어케어 브랜드 를 지속 발굴해 기존 화장품· 향수 중심의 뷰티 포트폴리오를 웰니스와 헤어케어 영역까지 넓혀간다는 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:05+00:00",
+ "had_body": false
+}

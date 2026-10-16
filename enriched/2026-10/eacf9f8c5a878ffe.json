@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "skincare",
+  "category": "business",
   "event_type": "market_trend",
   "countries": [
    "KR"
@@ -24,17 +24,18 @@
   "companies": [],
   "keywords": [
    "맞춤 화장품",
-   "메디컬 뷰티",
-   "인공지능 뷰티"
+   "메디컬 뷰티"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "정부가 제조 중심인 산업 구조를 고부가가치 서비스로 확장하기 위해 인공지능 기반 맞춤 화장품과 메디컬 뷰티 육성 대책을 추진한다.",
+  "key_fact": "제조 중심의 뷰티 산업을 고부가가치 서비스로 확장하기 위해 맞춤 화장품과 메디컬 뷰티 육성 대책을 추진한다.",
   "key_fact_quote": "주환욱 재경부 정책조정관은 \"구체적인 수치를 정한 건 아니다\"며 \"제조 중심인 K - 뷰티 를 고부가가치 서비스로 넓히기 위해 다각적인 대책을...",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:35+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:21+00:00",
  "had_body": false
 }

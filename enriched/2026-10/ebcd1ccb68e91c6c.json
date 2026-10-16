@@ -29,18 +29,27 @@
   "keywords": [
    "헤어케어",
    "보디케어",
-   "풀케어 샤워",
    "에브리씽 샤워",
    "사우나"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "올리브영이 샤워 전후 과정을 아우르는 헤어 및 보디케어 프로모션을 진행하며 새로운 샤워 관리 문화를 제안한다.",
+  "key_fact": "올리브영이 샤워 습관과 라이프스타일에 맞춘 헤어 및 보디케어 프로모션을 전개한다.",
   "key_fact_quote": "올리브영이 10월 한 달 동인 헤어·보디케어 프로모션을 전개한다.",
+  "events": [
+   {
+    "name": "샤워 레시피 위크",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-18",
+    "place": null,
+    "quote": "올리브영은 9일부터 18일까지 ‘샤워 레시피 위크’를 운영한다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:03:44+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:39+00:00",
  "had_body": true
 }

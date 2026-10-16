@@ -1,0 +1,75 @@
+{
+ "doc_id": "38182b92e271a8f6",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58451",
+ "title": "붉가시나무 도토리 껍질, 피부재생·상처 회복 효과 확인... 국제화장품원료집 등재",
+ "summary": "[코스인코리아닷컴 김민석 기자]산림청 국립산림과학원(원장 김용관)은 붉가시나무(Quercus acuta) 도토리 껍질이 피부 재생과 항산화 효과가 뛰어난 것을 확인하고, 피부 개선을 위한 우수한 기능성 천연 소재로서의 활용 가능성을 입증했다고 밝혔다. 붉가시나무는 목재가 붉은색을 띠어 붙여진 이름으로, 주로 제주도와 전라남도, 경상남도 등 남부 지방에",
+ "published_at": "2026-10-06T15:50:20+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "산림청",
+   "국립산림과학원"
+  ],
+  "keywords": [
+   "천연 소재",
+   "국제화장품원료집",
+   "피부 재생",
+   "항산화"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "국립산림과학원은 붉가시나무 도토리 껍질의 피부 재생 및 상처 회복 효과를 확인하고 국제화장품원료집 등재를 완료했다.",
+  "key_fact_quote": "산림청 국립산림과학원(원장 김용관)은 붉가시나무(Quercus acuta) 도토리 껍질이 피부 재생과 항산화 효과가 뛰어난 것을 확인하고, 피부 개선을 위한 우수한 기능성 천연 소재로서의 활용 가능성을 입증했다고 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "붉가시나무 도토리 껍질 추출물",
+    "quote": "그 결과, 붉가시나무 도토리 껍질 추출물은 ▲ 강력한 항산화 작용과 ▲ 피부 세포 활성화 효과를 보였다."
+   },
+   {
+    "name": "폴리페놀",
+    "quote": "이어 주요 성분인 폴리페놀 함량 분석 및 시제품 제작까지 완료했다고 설명했다."
+   },
+   {
+    "name": "프로토카테츄산(Protocatechuic acid)",
+    "quote": "주요 활성 성분 분석 (LC-MS/MS)에서 QAABE 내에는 프로토카테츄산(Protocatechuic acid), 카테킨(Catechin), 갈산(Gallic acid), 에피카테킨(Epicatechin), 엘라그산(Ellagic acid) 등 항산화 및 상처 치유 효능이 뛰어난 폴리페놀 성분들이 다량 함유되어 있음이 확인되었다."
+   },
+   {
+    "name": "카테킨(Catechin)",
+    "quote": "주요 활성 성분 분석 (LC-MS/MS)에서 QAABE 내에는 프로토카테츄산(Protocatechuic acid), 카테킨(Catechin), 갈산(Gallic acid), 에피카테킨(Epicatechin), 엘라그산(Ellagic acid) 등 항산화 및 상처 치유 효능이 뛰어난 폴리페놀 성분들이 다량 함유되어 있음이 확인되었다."
+   },
+   {
+    "name": "갈산(Gallic acid)",
+    "quote": "주요 활성 성분 분석 (LC-MS/MS)에서 QAABE 내에는 프로토카테츄산(Protocatechuic acid), 카테킨(Catechin), 갈산(Gallic acid), 에피카테킨(Epicatechin), 엘라그산(Ellagic acid) 등 항산화 및 상처 치유 효능이 뛰어난 폴리페놀 성분들이 다량 함유되어 있음이 확인되었다."
+   },
+   {
+    "name": "에피카테킨(Epicatechin)",
+    "quote": "주요 활성 성분 분석 (LC-MS/MS)에서 QAABE 내에는 프로토카테츄산(Protocatechuic acid), 카테킨(Catechin), 갈산(Gallic acid), 에피카테킨(Epicatechin), 엘라그산(Ellagic acid) 등 항산화 및 상처 치유 효능이 뛰어난 폴리페놀 성분들이 다량 함유되어 있음이 확인되었다."
+   },
+   {
+    "name": "엘라그산(Ellagic acid)",
+    "quote": "주요 활성 성분 분석 (LC-MS/MS)에서 QAABE 내에는 프로토카테츄산(Protocatechuic acid), 카테킨(Catechin), 갈산(Gallic acid), 에피카테킨(Epicatechin), 엘라그산(Ellagic acid) 등 항산화 및 상처 치유 효능이 뛰어난 폴리페놀 성분들이 다량 함유되어 있음이 확인되었다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:35+00:00",
+ "had_body": true
+}

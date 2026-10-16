@@ -6,63 +6,50 @@
  "lang": "ko",
  "url": "https://sateconomy.co.kr/news/view/1065576638465567",
  "title": "[오늘의유통] 아성다이소, 뷰티를 '신상 채널'로…330종 앞세워 더마·헤...",
- "summary": "애경산업은 바디케어 브랜드 샤워메이트를 통해 ' 퍼퓸 바디워시' 2종을 출시 했다. 로지 피크닉과 이브닝 가든 두 가지 향으로 구성하고 히알루론산과 식물성 오일을 적용해 향과 보습을 동시에 강조했다. 애경산업은...",
+ "summary": "색조와 기초 화장품 에 이어 더마·헤어케어까지 상품군을 세분화하고 매일 신제품 을 공개하는 방식으로 뷰티 소비자의 방문 빈도를 높이는 전략이다. 12일 아성다이소에 따르면 다이소몰은 오는 16일까지 'Daiso-DAY 10월...",
  "published_at": "2026-10-12T10:40:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "퍼퓸 출시",
+ "query": "화장품 신제품",
  "doc_type": null,
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "body",
-  "event_type": "product_launch",
+  "category": "retail",
+  "event_type": "market_trend",
   "countries": [
    "KR"
   ],
   "brands": [
-   "샤워메이트"
+   "다이소몰"
   ],
   "companies": [
-   "애경산업",
    "아성다이소"
   ],
   "keywords": [
-   "퍼퓸 바디워시",
-   "바디케어"
+   "더마케어",
+   "헤어케어",
+   "색조 화장품",
+   "기초 화장품"
   ],
   "is_press_release": false,
-  "products": [
+  "products": [],
+  "key_fact": "아성다이소가 뷰티 상품군을 다각화하고 신제품을 주기적으로 공개하며 소비자 공략에 나섰다.",
+  "key_fact_quote": "색조와 기초 화장품 에 이어 더마·헤어케어까지 상품군을 세분화하고 매일 신제품 을 공개하는 방식으로 뷰티 소비자의 방문 빈도를 높이는 전략이다.",
+  "events": [
    {
-    "name": "퍼퓸 바디워시",
-    "brand": "샤워메이트",
-    "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "애경산업은 바디케어 브랜드 샤워메이트를 통해 ' 퍼퓸 바디워시' 2종을 출시 했다.",
-    "notes": [
-     "로지 피크닉",
-     "이브닝 가든"
-    ],
-    "notes_quote": "로지 피크닉과 이브닝 가든 두 가지 향으로 구성하고 히알루론산과 식물성 오일을 적용해 향과 보습을 동시에 강조했다."
+    "name": "Daiso-DAY 10월",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-16",
+    "place": "다이소몰",
+    "quote": "12일 아성다이소에 따르면 다이소몰은 오는 16일까지 'Daiso-DAY 10월..."
    }
   ],
-  "key_fact": "애경산업의 샤워메이트가 퍼퓸 바디워시 신제품을 선보였다.",
-  "key_fact_quote": "애경산업은 바디케어 브랜드 샤워메이트를 통해 ' 퍼퓸 바디워시' 2종을 출시 했다.",
-  "events": [],
-  "ingredients": [
-   {
-    "name": "히알루론산",
-    "quote": "로지 피크닉과 이브닝 가든 두 가지 향으로 구성하고 히알루론산과 식물성 오일을 적용해 향과 보습을 동시에 강조했다."
-   },
-   {
-    "name": "식물성 오일",
-    "quote": "로지 피크닉과 이브닝 가든 두 가지 향으로 구성하고 히알루론산과 식물성 오일을 적용해 향과 보습을 동시에 강조했다."
-   }
-  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:13+00:00",
+ "enriched_at": "2026-10-15T15:15:39+00:00",
  "had_body": false
 }

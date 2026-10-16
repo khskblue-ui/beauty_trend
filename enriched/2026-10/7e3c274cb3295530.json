@@ -1,0 +1,45 @@
+{
+ "doc_id": "7e3c274cb3295530",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312031",
+ "title": "3분기 티몰 K-뷰티 선케어 분석②: 급감 후 반등 신호 - 뷰티경제",
+ "summary": "[편집자 주] 뷰티경제는 2019년부터 중국 티몰 한국관 내 K뷰티 주요 품목의 판매 데이터를 지속적으로 추적·분석하고 있다. 매월 마스크팩, 선케어, 에센스,",
+ "published_at": "2026-10-06T10:15:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "티몰"
+  ],
+  "keywords": [
+   "선케어",
+   "K뷰티",
+   "판매 데이터"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 티몰 한국관 내 케이뷰티 선케어 제품의 판매 동향을 추적 분석하였다.",
+  "key_fact_quote": "[편집자 주] 뷰티경제는 2019년부터 중국 티몰 한국관 내 K뷰티 주요 품목의 판매 데이터를 지속적으로 추적·분석하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:50+00:00",
+ "had_body": false
+}

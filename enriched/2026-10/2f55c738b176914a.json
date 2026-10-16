@@ -1,0 +1,56 @@
+{
+ "doc_id": "2f55c738b176914a",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/french-packaging-maker-pinard,28294",
+ "title": "French packaging maker Pinard Beauty Pack taps Meiyume for US expansion",
+ "summary": "French manufacturer Pinard Beauty Pack, which specializes in plastic bottles for the beauty industry, has entered into a distribution partnership with turnkey beauty solutions provider Meiyume. Under the agreement, Meiyume will distribute Pinard Beauty Pack's solutions in the US, expanding its offering to prestige beauty brands in the market. Against a backdrop of continued growth in the US beauty market and rising demand for more premium solutions, the partnership is designed to broaden...",
+ "published_at": "2026-10-04T00:31:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "Pinard Beauty Pack",
+   "Meiyume",
+   "Circana",
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "뷰티 패키징",
+   "프레스티지 뷰티",
+   "화장품 용기"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "프랑스 패키징 제조업체 피나르 뷰티 팩이 미국 시장 확장을 위해 메이윰과 유통 파트너십을 체결했다.",
+  "key_fact_quote": "French manufacturer Pinard Beauty Pack, which specializes in plastic bottles for the beauty industry, has entered into a distribution partnership with turnkey beauty solutions provider Meiyume.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:17+00:00",
+ "had_body": true
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "e5c5022b282b5c06",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.medisobizanews.com/news/articleView.html?idxno=143058",
+ "title": "44년 만에 명찰 바꾼 동국제약 … '제약' 빼고 ' 화장품 ' 분 바르다",
+ "summary": "출시 당시 의약품 사업의 전문성을 활용한 신규 화장품 브랜드였던 센텔리안24가 약 10년 만에 기업의 성장을 이끄는 핵심 브랜드로 자리 잡은 셈이다. 판매 채널 변화 역시 헬스케어 사업 성장과 사명 변경을 연결하는...",
+ "published_at": "2026-10-13T04:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안24"
+  ],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "헬스케어 사업",
+   "화장품 브랜드",
+   "사명 변경"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "동국제약이 화장품 브랜드의 성장에 힘입어 사명 변경을 추진한다.",
+  "key_fact_quote": "출시 당시 의약품 사업의 전문성을 활용한 신규 화장품 브랜드였던 센텔리안24가 약 10년 만에 기업의 성장을 이끄는 핵심 브랜드로 자리 잡은 셈이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:03+00:00",
+ "had_body": false
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "61807967990b8aed",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=202335",
+ "title": "K뷰티 , 현지 유통·체험·콘텐츠로 브랜드 알리기 총력전",
+ "summary": "선보이면서 수출 전략도 다양해지고 있다. 업계에서는 K - 뷰티 의 해외 진출이 단순히 '어느 국가에 진출했는가'를 넘어 현지에서 얼마나 많은 소비자 접점을 확보하고 브랜드를 지속적으로 소비하게 만들 수 있는가를...",
+ "published_at": "2026-10-08T00:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "해외 진출",
+   "소비자 접점",
+   "현지 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 브랜드들이 해외 진출 시 단순 진출을 넘어 현지 소비자 접점 확보와 지속적인 소비 유도에 집중하고 있다.",
+  "key_fact_quote": "업계에서는 K - 뷰티 의 해외 진출이 단순히 '어느 국가에 진출했는가'를 넘어 현지에서 얼마나 많은 소비자 접점을 확보하고 브랜드를 지속적으로 소비하게 만들 수 있는가를...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:51+00:00",
+ "had_body": false
+}

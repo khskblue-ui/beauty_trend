@@ -1,0 +1,83 @@
+{
+ "doc_id": "e727b35fe88aca12",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100043",
+ "title": "에쿠와, 글로우픽 ‘진정 세럼’ 부문 월간 랭킹 1위",
+ "summary": "민감성 피부를 위한 더마 스킨케어 브랜드 에쿠와(AEQUWA)가 대표 제품 ‘카밍 아줄렌 세럼’이 뷰티 플랫폼 글로우픽의 ‘진정 세럼’ 부문 월간 랭킹 1위를 기록했다고 지난 10월 1일 밝혔다.에쿠와 카밍 아줄렌 세럼은 글로우픽이 9월 집계한 월간 랭킹에서 진정 세럼 부문 전체 1위에 올랐다. 민감하고 쉽게 붉어지는 피부를 고려해 개발된 제품으로, 에쿠와가 브랜드 초기부터 집중해 온 대표 제품이다.글로우픽은 누적 500만 건 이상의 소비자 리뷰 데이터를 기반으로 화장품 랭킹과 어워드를 제공하는 뷰티 플랫폼이다. 실제 제품을 사용한",
+ "published_at": "2026-10-02T09:16:56+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "에쿠와",
+   "AEQUWA"
+  ],
+  "companies": [
+   "엘리드"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "진정 세럼",
+   "민감성 피부"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "카밍 아줄렌 세럼",
+    "brand": "에쿠와",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에쿠와의 카밍 아줄렌 세럼이 글로우픽 진정 세럼 부문 월간 랭킹에서 일위를 기록했다.",
+  "key_fact_quote": "민감성 피부를 위한 더마 스킨케어 브랜드 에쿠와(AEQUWA)가 대표 제품 ‘카밍 아줄렌 세럼’이 뷰티 플랫폼 글로우픽의 ‘진정 세럼’ 부문 월간 랭킹 1위를 기록했다고 지난 10월 1일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "아줄렌",
+    "quote": "핵심 성분인 아줄렌을 비롯해 판테놀, 마데카소사이드 등 피부 진정을 고려한 성분을 배합했다."
+   },
+   {
+    "name": "판테놀",
+    "quote": "핵심 성분인 아줄렌을 비롯해 판테놀, 마데카소사이드 등 피부 진정을 고려한 성분을 배합했다."
+   },
+   {
+    "name": "마데카소사이드",
+    "quote": "핵심 성분인 아줄렌을 비롯해 판테놀, 마데카소사이드 등 피부 진정을 고려한 성분을 배합했다."
+   },
+   {
+    "name": "에탄올",
+    "quote": "에탄올, 인공향료, 인공색소, 오일 성분 등을 배제하고 진정 성분 중심의 포뮬러를 구축한 것도 특징이다."
+   },
+   {
+    "name": "인공향료",
+    "quote": "에탄올, 인공향료, 인공색소, 오일 성분 등을 배제하고 진정 성분 중심의 포뮬러를 구축한 것도 특징이다."
+   },
+   {
+    "name": "인공색소",
+    "quote": "에탄올, 인공향료, 인공색소, 오일 성분 등을 배제하고 진정 성분 중심의 포뮬러를 구축한 것도 특징이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:23+00:00",
+ "had_body": true
+}

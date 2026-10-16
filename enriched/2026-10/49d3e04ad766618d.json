@@ -1,0 +1,59 @@
+{
+ "doc_id": "49d3e04ad766618d",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100056",
+ "title": "아모레퍼시픽, ‘2026 세계면세박람회’서 글로벌 파트너십 강화",
+ "summary": "아모레퍼시픽이 9월 27일부터 10월 1일까지 프랑스 칸에서 열린 ‘2026 세계면세박람회(TFWA World Exhibition & Conference)’에 참가해 글로벌 면세 파트너십 강화에 나섰다. 2012년 첫 참가 이후 올해로 13회째다.세계면세협회(TFWA, Tax Free World Association)가 주관하는 세계면세박람회는 글로벌 브랜드와 주요 유통사, 공항, 항공사 등 면세 업계 관계자들이 한자리에 모여 새로운 사업 기회와 협력 방안을 논의하는 세계 최대 규모의 면세 비즈니스 행사다.아모레퍼시픽은 이번 박람회",
+ "published_at": "2026-10-02T09:52:15+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "FR",
+   "KR"
+  ],
+  "brands": [
+   "라네즈",
+   "설화수",
+   "헤라",
+   "에스트라"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "면세 비즈니스",
+   "글로벌 면세 파트너십",
+   "더마 뷰티",
+   "트래블 리테일"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아모레퍼시픽은 세계면세박람회에 참가해 글로벌 면세 파트너십을 강화하고 브랜드 포트폴리오를 선보였다.",
+  "key_fact_quote": "아모레퍼시픽이 9월 27일부터 10월 1일까지 프랑스 칸에서 열린 ‘2026 세계면세박람회(TFWA World Exhibition & Conference)’에 참가해 글로벌 면세 파트너십 강화에 나섰다.",
+  "events": [
+   {
+    "name": "2026 세계면세박람회(TFWA World Exhibition & Conference)",
+    "start_date": "2026-09-27",
+    "end_date": "2026-10-01",
+    "place": "프랑스 칸",
+    "quote": "아모레퍼시픽이 9월 27일부터 10월 1일까지 프랑스 칸에서 열린 ‘2026 세계면세박람회(TFWA World Exhibition & Conference)’에 참가해 글로벌 면세 파트너십 강화에 나섰다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:13+00:00",
+ "had_body": true
+}

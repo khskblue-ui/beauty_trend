@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "fragrance",
-  "event_type": "product_launch",
+  "event_type": "event",
   "countries": [
    "KR",
    "FR"
@@ -48,12 +48,12 @@
     "notes_quote": null
    }
   ],
-  "key_fact": "하민서 조향사가 쌀과 누룩 그리고 막걸리에서 영감을 받아 향수를 제작했다.",
+  "key_fact": "빌라 에르바티움이 쌀과 누룩 및 막걸리에서 영감을 받아 제작한 향수를 선보였다.",
   "key_fact_quote": "쌀막걸리는 서울시 공식 향수 '센트 오브 서울(Scent of Seoul)'을 만든 하민서 조향사 가 쌀과 누룩, 막걸리에서 영감을 받아 제작한 향수다.",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:53+00:00",
+ "enriched_at": "2026-10-14T14:17:38+00:00",
  "had_body": false
 }

@@ -18,12 +18,12 @@
   "category": "retail",
   "event_type": "business",
   "countries": [
+   "KR",
+   "US",
    "MY",
    "SG",
    "TH",
-   "HK",
-   "US",
-   "KR"
+   "HK"
   ],
   "brands": [
    "닥터엘시아",
@@ -45,18 +45,21 @@
    "세포라"
   ],
   "keywords": [
-   "글로벌 진출",
-   "K-뷰티 큐레이션",
-   "스킨케어"
+   "K뷰티",
+   "스킨케어",
+   "글로벌 유통",
+   "팝업 행사"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "올리브영이 세포라와 협업해 동남아시아 및 홍콩 세포라 매장과 온라인몰에 브랜드를 선보이며 글로벌 시장 확장에 나섰다.",
-  "key_fact_quote": "올리브영은 미국에 이어 말레이시아·싱가포르·태국·홍콩 세포라에 진출했다. 아시아 4개국에 있는 세포라 매장과 온라인몰에 ‘올리브영 K뷰티에딧(OLIVE YOUNG K-Beauty Edit)’이 입점했다.",
+  "key_fact": "올리브영이 세포라와 협업하여 동남아 및 홍콩 매장에 국내 뷰티 브랜드를 입점시키고 시장 공략에 나섰다.",
+  "key_fact_quote": "올리브영은 미국에 이어 말레이시아·싱가포르·태국·홍콩 세포라에 진출했다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:03:17+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:25+00:00",
  "had_body": true
 }

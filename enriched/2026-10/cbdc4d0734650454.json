@@ -1,0 +1,45 @@
+{
+ "doc_id": "cbdc4d0734650454",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=770135",
+ "title": "롱샷, 스웨덴 뷰티 브랜드 '라부르켓' 파트너 발탁",
+ "summary": "프래그런스, 향수 등을 선보이고 있으며 스웨덴의 사우나 문화를 주요 헤리티지로 삼아 웰니스 라이프스타일을 제안하고 있다. 라부르켓은 브랜드 가 추구하는 꾸밈없는 진정성과 스웨덴의 '함께하는 삶(Being together)'의...",
+ "published_at": "2026-10-01T08:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "SE"
+  ],
+  "brands": [
+   "라부르켓"
+  ],
+  "companies": [
+   "롱샷"
+  ],
+  "keywords": [
+   "스웨덴 뷰티",
+   "웰니스 라이프스타일"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "롱샷이 스웨덴 뷰티 브랜드 라부르켓의 파트너로 발탁되었다.",
+  "key_fact_quote": "롱샷, 스웨덴 뷰티 브랜드 '라부르켓' 파트너 발탁",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:17+00:00",
+ "had_body": false
+}

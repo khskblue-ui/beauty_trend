@@ -1,0 +1,41 @@
+{
+ "doc_id": "5aa3f4dbb60f4870",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012229",
+ "title": "정보석, 빵집 이어 화장품 CEO '남자의 변신은 무죄'",
+ "summary": "배우 정보석이 제빵 사업에 이어 화장품 브랜드까지 론칭하며 끊임없는 도전에 나선다. 10일 밤 방송되는 KBS2... 그는 데뷔 41년 차 배우이자 신제품 개발부터 마케팅까지 직접 챙기는 열혈 CEO로 변신, 가족 앞에서는...",
+ "published_at": "2026-10-10T10:15:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 브랜드",
+   "신제품 개발"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배우 정보석이 제빵 사업에 이어 화장품 브랜드를 새롭게 선보이며 사업 영역을 넓혔다.",
+  "key_fact_quote": "배우 정보석이 제빵 사업에 이어 화장품 브랜드까지 론칭하며 끊임없는 도전에 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:42+00:00",
+ "had_body": false
+}

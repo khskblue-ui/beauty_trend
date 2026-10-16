@@ -1,0 +1,49 @@
+{
+ "doc_id": "b371dbfd95568228",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.g-enews.com/view.php?ud=202610081615366174740eacf404_1",
+ "title": "아모레 ‘더마 1조’ 겨냥·에이피알 멕시코 진출…K뷰티 영토 확장",
+ "summary": "회사는 주력 제품 판매 호조와 신제품 확대, 온·오프라인 유통망 확충이 화장품 사업 성장을 이끌었다고 설명했다. 미국에서는 얼타뷰티에서 쌓은 판매 실적이 대형 유통업체 진출로 이어졌다. 회사에 따르면 지난해...",
+ "published_at": "2026-10-11T09:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MX",
+   "US"
+  ],
+  "brands": [
+   "얼타뷰티"
+  ],
+  "companies": [
+   "아모레",
+   "에이피알"
+  ],
+  "keywords": [
+   "화장품 사업 성장",
+   "유통망 확충",
+   "해외 시장 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 사업의 성장은 주력 제품 호조와 유통망 확충이 이끌었으며 해외 시장 진출로 이어지고 있다.",
+  "key_fact_quote": "회사는 주력 제품 판매 호조와 신제품 확대, 온·오프라인 유통망 확충이 화장품 사업 성장을 이끌었다고 설명했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:38+00:00",
+ "had_body": false
+}

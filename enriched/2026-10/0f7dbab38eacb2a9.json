@@ -21,16 +21,14 @@
    "KR"
   ],
   "brands": [
-   "노스테",
-   "NOSTE"
+   "노스테"
   ],
   "companies": [
    "스킨큐어"
   ],
   "keywords": [
    "더마 코스메틱",
-   "화장품 박람회",
-   "수출 상담"
+   "천연 유기농 화장품"
   ],
   "is_press_release": true,
   "products": [
@@ -38,6 +36,7 @@
     "name": "셀라이크 모이스춰 수딩 아토 크림",
     "brand": "노스테",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -46,6 +45,7 @@
     "name": "세보 포어 타이트닝 토너",
     "brand": "노스테",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -54,6 +54,7 @@
     "name": "리쥬베네이팅 크림",
     "brand": "노스테",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -62,17 +63,28 @@
     "name": "무기자차 썬로션",
     "brand": "노스테",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "스킨큐어가 케이뷰티엑스포 코리아에 참가해 더마 코스메틱 브랜드 노스테의 전 제품군을 선보이고 수출 상담을 진행한다.",
+  "key_fact": "스킨큐어가 케이뷰티엑스포 코리아에 참가해 더마 코스메틱 브랜드 노스테의 전 제품군을 선보이고 상담을 진행한다.",
   "key_fact_quote": "천연·유기농 화장품 전문기업 스킨큐어가 오는 15일부터 17일까지 일산 킨텍스 제1전시장에서 열리는 ‘K-뷰티엑스포 코리아 2026’에 참가해 더마 코스메틱 브랜드 노스테(NOSTE)의 전 제품군을 공개한다고 12일 밝혔다.",
+  "events": [
+   {
+    "name": "K-뷰티엑스포 코리아 2026",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": "일산 킨텍스 제1전시장",
+    "quote": "천연·유기농 화장품 전문기업 스킨큐어가 오는 15일부터 17일까지 일산 킨텍스 제1전시장에서 열리는 ‘K-뷰티엑스포 코리아 2026’에 참가해 더마 코스메틱 브랜드 노스테(NOSTE)의 전 제품군을 공개한다고 12일 밝혔다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:28+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:11:53+00:00",
  "had_body": true
 }

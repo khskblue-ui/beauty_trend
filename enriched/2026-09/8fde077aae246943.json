@@ -1,0 +1,46 @@
+{
+ "doc_id": "8fde077aae246943",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.mkhealth.co.kr/news/articleView.html?idxno=80032",
+ "title": "약국 품은 '무신사 뷰티 홍대'…K뷰티 성지 될까",
+ "summary": "프랑스 니치 향수 브랜드 '에따 리브르 도랑쥬'와 국내 니치 향수 브랜드 '셀바티고' 등도 단독으로 선보였다. 제품을 직접 테스트할 수 있는 '터치업 바'와 패션·뷰티 협업존 등 체험 공간도 마련했다. 무신사 뷰티는...",
+ "published_at": "2026-09-12T16:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "에따 리브르 도랑쥬",
+   "셀바티고"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "니치 향수",
+   "뷰티 매장",
+   "체험 공간"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티 홍대 매장에서 다양한 니치 향수 브랜드와 체험 공간을 선보인다.",
+  "key_fact_quote": "프랑스 니치 향수 브랜드 '에따 리브르 도랑쥬'와 국내 니치 향수 브랜드 '셀바티고' 등도 단독으로 선보였다. 제품을 직접 테스트할 수 있는 '터치업 바'와 패션·뷰티 협업존 등 체험 공간도 마련했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:21+00:00",
+ "had_body": false
+}

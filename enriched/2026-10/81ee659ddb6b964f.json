@@ -33,8 +33,8 @@
    "아마존"
   ],
   "keywords": [
-   "글로벌 이커머스",
-   "스킨케어 수출",
+   "스킨케어",
+   "이커머스 프로모션",
    "뷰티 디바이스"
   ],
   "is_press_release": true,
@@ -43,6 +43,7 @@
     "name": "제로모공패드",
     "brand": "메디큐브",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -51,6 +52,7 @@
     "name": "PDRN 핑크 펩타이드 앰플",
     "brand": "메디큐브",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -59,6 +61,7 @@
     "name": "PDRN 핑크 콜라겐 겔 마스크",
     "brand": "메디큐브",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -67,6 +70,7 @@
     "name": "콜라겐 젤크림",
     "brand": "메디큐브",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -75,6 +79,7 @@
     "name": "PDRN 핑크 콜라겐 볼륨 멀티밤",
     "brand": "메디큐브",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -83,17 +88,41 @@
     "name": "EGF NAD 퍼밍 겔 마스크",
     "brand": "메디큐브",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "에이피알의 뷰티 브랜드 메디큐브가 아마존 행사에서 미국과 유럽 전 국가 기준 역대 최대 일매출을 기록했다.",
+  "key_fact": "에이피알의 메디큐브가 아마존 할인 행사에서 미국과 유럽 전 국가 기준 역대 최대 일매출을 기록했다.",
   "key_fact_quote": "에이피알(대표이사 김병훈)의 뷰티 브랜드 메디큐브가 아마존 ‘프라임 빅딜데이즈’에 참여한 미국과 유럽 전 국가에서 역대 최대 일매출을 기록하며 연말 쇼핑 성수기 공략에 속도를 낸다고 14일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "판매를 이끈 품목은 브랜드 대표 제품인 ‘제로모공패드’를 비롯해 ▲ PDRN 핑크 펩타이드 앰플 ▲ PDRN 핑크 콜라겐 겔 마스크 ▲ 콜라겐 젤크림 등이다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "판매를 이끈 품목은 브랜드 대표 제품인 ‘제로모공패드’를 비롯해 ▲ PDRN 핑크 펩타이드 앰플 ▲ PDRN 핑크 콜라겐 겔 마스크 ▲ 콜라겐 젤크림 등이다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "판매를 이끈 품목은 브랜드 대표 제품인 ‘제로모공패드’를 비롯해 ▲ PDRN 핑크 펩타이드 앰플 ▲ PDRN 핑크 콜라겐 겔 마스크 ▲ 콜라겐 젤크림 등이다."
+   },
+   {
+    "name": "EGF",
+    "quote": "‘PDRN 핑크 콜라겐 볼륨 멀티밤’과 ‘EGF NAD 퍼밍 겔 마스크’도 순위권에 진입하며 새로운 판매 품목으로 자리 잡았고 뷰티 디바이스 부문 역시 미국과 유럽에서 전년 행사보다 높은 매출을 나타냈다."
+   },
+   {
+    "name": "NAD",
+    "quote": "‘PDRN 핑크 콜라겐 볼륨 멀티밤’과 ‘EGF NAD 퍼밍 겔 마스크’도 순위권에 진입하며 새로운 판매 품목으로 자리 잡았고 뷰티 디바이스 부문 역시 미국과 유럽에서 전년 행사보다 높은 매출을 나타냈다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:13+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:11:45+00:00",
  "had_body": true
 }

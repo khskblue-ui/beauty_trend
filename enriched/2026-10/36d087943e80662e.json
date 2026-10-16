@@ -1,0 +1,130 @@
+{
+ "doc_id": "36d087943e80662e",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58468",
+ "title": "더마코스메틱에 뛰어든 제약사, 엇갈린 성적표... ‘자본’보다 ‘기술 전환’이 승부처",
+ "summary": "[코스인코리아닷컴 김세화 기자] 새로운 성장동력을 찾는 제약사들이 연구개발(R&D) 역량과 성분 기술, 브랜드 인지도를 앞세워 더마코스메틱 시장으로 영역을 넓히고 있다. 하지만 평가는 엇갈린다. 화장품 기업 인수와 대규모 자금 투입에도 적자의 늪을 벗어나지 못한 제약사가 있는 반면, 의약품 R&D 성분을 화장품의 독자적인 경쟁력으로 이식해",
+ "published_at": "2026-10-08T17:53:45+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN",
+   "US",
+   "JP",
+   "HK",
+   "TW",
+   "TH"
+  ],
+  "brands": [
+   "한스킨",
+   "활명",
+   "후시드 크림",
+   "센텔리안24",
+   "이지듀",
+   "파티온"
+  ],
+  "companies": [
+   "에스디생명공학",
+   "대원제약",
+   "유한양행",
+   "코스온",
+   "유한코스메틱",
+   "셀트리온",
+   "셀트리온스킨큐어",
+   "셀트리온지에스씨",
+   "동화약품",
+   "동국제약",
+   "리봄화장품",
+   "위드닉스",
+   "대웅제약",
+   "동아제약"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "스킨케어",
+   "K-뷰티"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "후시드 크림",
+    "brand": "동화약품",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마데카크림",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "이지에프 엑스(EGFx)",
+    "brand": "이지듀",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "올해 선보인 핵심 라인 ‘이지에프 엑스(EGFx)’는 출시 6개월 만에 누적 매출 50억 원을 돌파했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "노스카나인 트러블 세럼",
+    "brand": "파티온",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "제약사들의 더마코스메틱 시장 진출 성과는 단순 자본 투입보다 본업의 연구개발 기술과 성분을 화장품 경쟁력으로 정교하게 전환했는지 여부에 따라 엇갈리고 있다.",
+  "key_fact_quote": "의약품 사업에서 축적한 기술과 성분, 브랜드 자산을 화장품의 차별화된 제품력으로 얼마나 정교하게 전환해내느냐가 성패를 가르는 결정적 잣대가 되고 있다는 평가다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "생약 성분",
+    "quote": "동화약품은 2017년 활명수의 생약 성분을 활용한 스킨케어 브랜드 ‘활명’을 출시했다."
+   },
+   {
+    "name": "후시딘 유래 성분",
+    "quote": "이후 동화약품은 2021년부터 후시딘 유래 성분을 활용한 ‘후시드 크림’ 등을 선보이며 사업 방향을 다시 잡았다."
+   },
+   {
+    "name": "병풀 관련 성분",
+    "quote": "주력 제품인 마데카크림에는 상처치료제 마데카솔을 통해 오랫동안 축적해온 병풀 관련 성분과 기술이 활용됐다."
+   },
+   {
+    "name": "상피세포성장인자",
+    "quote": "대웅제약의 더마코스메틱 브랜드 ‘이지듀’는 자체 개발한 고활성 상피세포성장인자 ‘DW-EGF’를 핵심 차별화 요소로 내세우고 있다."
+   },
+   {
+    "name": "DW-EGF",
+    "quote": "대웅제약의 더마코스메틱 브랜드 ‘이지듀’는 자체 개발한 고활성 상피세포성장인자 ‘DW-EGF’를 핵심 차별화 요소로 내세우고 있다."
+   }
+  ],
+  "dropped": [
+   "launch:후시드 크림"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:22+00:00",
+ "had_body": true
+}

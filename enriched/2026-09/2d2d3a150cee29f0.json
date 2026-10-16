@@ -1,0 +1,53 @@
+{
+ "doc_id": "2d2d3a150cee29f0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.globalepic.co.kr/view.php?ud=20260929121329413948439a4874_29",
+ "title": "휴메딕스 ‘엘라비에 리투오 코스메틱’ 3개월 만에 약국 300곳 입점",
+ "summary": "단순한 화장품 을 넘어 의약외품 수준의 기능성을 표방하는 제품으로, 전문적인 피부 케어를 추구하는... 이는 단순히 신제품 에 대한 호기심에 그친 것이 아니라 실제 구매와 재구매로 이어지는 충성도 높은 수요임을...",
+ "published_at": "2026-09-29T12:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "엘라비에 리투오 코스메틱"
+  ],
+  "companies": [
+   "휴메딕스"
+  ],
+  "keywords": [
+   "약국 화장품",
+   "기능성 화장품",
+   "피부 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "엘라비에 리투오 코스메틱",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "휴메딕스의 화장품 제품이 단기간에 다수의 약국에 입점했다.",
+  "key_fact_quote": "휴메딕스 ‘엘라비에 리투오 코스메틱’ 3개월 만에 약국 300곳 입점",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:03+00:00",
+ "had_body": false
+}

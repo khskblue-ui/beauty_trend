@@ -1,0 +1,53 @@
+{
+ "doc_id": "ad1a7087e4ee0b07",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=208402",
+ "title": "롱테이크, 헤어케어부터 퍼퓸까지... '로즈리메인즈' 3종 선봬",
+ "summary": "헤어케어부터 향수 까지 동일한 우디 로즈향을 적용한 제품군을 선보이며 향 제품 라인업을 확대한다. 롱테이크는 '로즈리메인즈 에어리실키' 라인 3종을 선보였다고 밝혔다. 신제품 은 샴푸와 헤어오일, 퍼퓸 등 3종으로...",
+ "published_at": "2026-09-11T15:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "롱테이크"
+  ],
+  "companies": [],
+  "keywords": [
+   "헤어케어",
+   "우디 로즈향",
+   "향수 라인업 확대"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "로즈리메인즈 에어리실키",
+    "brand": "롱테이크",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "우디 로즈향"
+    ],
+    "notes_quote": "헤어케어부터 향수 까지 동일한 우디 로즈향을 적용한 제품군을 선보이며 향 제품 라인업을 확대한다."
+   }
+  ],
+  "key_fact": "롱테이크가 동일한 우디 로즈향을 적용한 헤어케어 및 퍼퓸 신제품 라인을 선보였다.",
+  "key_fact_quote": "롱테이크는 '로즈리메인즈 에어리실키' 라인 3종을 선보였다고 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:23+00:00",
+ "had_body": false
+}

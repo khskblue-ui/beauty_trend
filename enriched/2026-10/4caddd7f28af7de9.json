@@ -1,0 +1,43 @@
+{
+ "doc_id": "4caddd7f28af7de9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=247437",
+ "title": "나인테일즈, 2026 트렌드 글로벌 스타 어워즈 '올해의 코스메틱 브랜드...",
+ "summary": "바탕으로 K -메디컬 코스메틱 시장에서 입지를 다져온 브랜드\"라며 \"특히 안티에이징 영역을 중심으로 제품 라인업을 확장하며 성장해 왔다\"고 전했다. 그러면서 \"이번 수상은 나인테일즈가 국내 시장을 넘어 글로벌 뷰티 ...",
+ "published_at": "2026-10-08T14:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "나인테일즈"
+  ],
+  "companies": [],
+  "keywords": [
+   "메디컬 코스메틱",
+   "안티에이징"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "나인테일즈가 트렌드 글로벌 스타 어워즈에서 올해의 코스메틱 브랜드 부문을 수상했다.",
+  "key_fact_quote": "나인테일즈, 2026 트렌드 글로벌 스타 어워즈 '올해의 코스메틱 브랜드...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:33+00:00",
+ "had_body": false
+}

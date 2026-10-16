@@ -1,0 +1,40 @@
+{
+ "doc_id": "a1064671b01f35cf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170841",
+ "title": "보이지 않는 감각이 브랜드를 만들 때 [이선미의 퍼퓸테크]",
+ "summary": "K-향수 산업이 글로벌 무대에서 한 차원 더 도약하기 위해서는 방대한 향료 데이터베이스와 인공지능(AI) 기반 조향, 스마트 공간 제어 기술을 융합하는 퍼퓸테크 생태계 구축이 필요하다. 한국 특유의 자연과 지역적 서사...",
+ "published_at": "2026-09-24T09:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "퍼퓸테크",
+   "K-향수",
+   "인공지능 조향"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 향수 산업의 글로벌 도약을 위해 방대한 데이터베이스와 인공지능 기반 조향 및 스마트 제어 기술을 융합하는 퍼퓸테크 생태계 구축이 요구된다.",
+  "key_fact_quote": "K-향수 산업이 글로벌 무대에서 한 차원 더 도약하기 위해서는 방대한 향료 데이터베이스와 인공지능(AI) 기반 조향, 스마트 공간 제어 기술을 융합하는 퍼퓸테크 생태계 구축이 필요하다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:15:53+00:00",
+ "had_body": false
+}

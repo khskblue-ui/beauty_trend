@@ -1,0 +1,50 @@
+{
+ "doc_id": "47248dba7c096ed7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026101218034562478",
+ "title": "무신사 뷰티 , 라네즈·마뗑킴 협업 립 틴트 단독 선 론칭",
+ "summary": "무신사 뷰티 가 아모레퍼시픽의 뷰티 브랜드 '라네즈'와 국내 디자이너 브랜드 '마뗑킴'이 협업한 '주스팝 박스 립 틴트'의 신규 색상 '모노 튠'을 12일 단독 선 론칭 했다고 밝혔다. 모노 튠은 입술의 산도(pH)에 반응해...",
+ "published_at": "2026-10-12T18:03:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라네즈",
+   "마뗑킴"
+  ],
+  "companies": [
+   "무신사",
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "협업 컬렉션",
+   "립 틴트",
+   "선론칭"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "무신사 뷰티가 라네즈와 마뗑킴이 협업한 립 틴트 신규 색상을 단독으로 먼저 선보였다.",
+  "key_fact_quote": "무신사 뷰티 가 아모레퍼시픽의 뷰티 브랜드 '라네즈'와 국내 디자이너 브랜드 '마뗑킴'이 협업한 '주스팝 박스 립 틴트'의 신규 색상 '모노 튠'을 12일 단독 선 론칭 했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "product:주스팝 박스 립 틴트 신규 색상 모노 튠"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:28+00:00",
+ "had_body": false
+}

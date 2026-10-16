@@ -26,26 +26,29 @@
   ],
   "keywords": [
    "스킨케어 트리트먼트",
-   "페이셜 케어",
-   "체중 감량 피부 관리"
+   "피부 탄력 관리",
+   "체중 감량 피부 케어"
   ],
-  "is_press_release": false,
+  "is_press_release": true,
   "products": [
    {
     "name": "GLP-1 Volmira Facial",
     "brand": "Silver Mirror",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "Silver Mirror Launches GLP-1 Volmira Facial to Address Skin Concerns Amid Weight Loss",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "실버 미러가 급격한 체중 감량으로 인한 피부 처짐과 칙칙함을 개선하기 위한 페이셜 트리트먼트를 출시했다.",
-  "key_fact_quote": "Silver Mirror Launches GLP-1 Volmira Facial to Address Skin Concerns Amid Weight Loss",
+  "key_fact": "실버 미러가 급격한 체중 감량으로 인한 피부 처짐과 칙칙함을 개선하기 위한 새로운 페이셜 트리트먼트를 선보였다.",
+  "key_fact_quote": "The seven-step treatment is designed to combat skin laxity and dullness associated with rapid weight loss, offering a noninvasive solution for GLP-1 medication users.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:09:12+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:37+00:00",
  "had_body": false
 }

@@ -1,0 +1,53 @@
+{
+ "doc_id": "8995f32b83a0202a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankookilbo.com/news/article/A2026101210110005063?did=NA",
+ "title": "K - 뷰티 의 모든 것... ‘ K - 뷰티 엑스포 코리아’ 15~17일 사흘 간 킨텍스서...",
+ "summary": "K - 뷰티 의 모든 것을 한 눈에 볼 수 있는 ‘ K - 뷰티 엑스포 코리아’가 킨텍스에서 열린다. 킨텍스는 이달... 우선 ‘해외 바이어 초청 1대 1 수출 상담회’에는 코트라 해외 무역관을 통해 선별한 60개국 220개사 바이어가...",
+ "published_at": "2026-10-12T10:41:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "킨텍스",
+   "코트라"
+  ],
+  "keywords": [
+   "뷰티 박람회",
+   "수출 상담회",
+   "케이뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "케이뷰티의 모든 것을 한눈에 볼 수 있는 케이뷰티 엑스포 코리아가 킨텍스에서 사흘간 열린다.",
+  "key_fact_quote": "K - 뷰티 의 모든 것을 한 눈에 볼 수 있는 ‘ K - 뷰티 엑스포 코리아’가 킨텍스에서 열린다.",
+  "events": [
+   {
+    "name": "K - 뷰티 엑스포 코리아",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": "킨텍스",
+    "quote": "‘ K - 뷰티 엑스포 코리아’ 15~17일 사흘 간 킨텍스서..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:11+00:00",
+ "had_body": false
+}

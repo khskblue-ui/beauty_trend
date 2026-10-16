@@ -1,0 +1,43 @@
+{
+ "doc_id": "cd6d15b0609fe05c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202610138682g",
+ "title": "K뷰티 ·푸드 인기에 '쑥쑥'… 수출 액, 10년 만에 4.2배",
+ "summary": "14일 대한상공회의소가 발표한 ' K -소비재 수출 10년 동향 분석'에 따르면 올해 1~8월 주요 소비재 수출 액은... 푸드와 뷰티 수출 은 중소·중견기업이 주도했다. 올해 수출 액에서 중소·중견기업이 차지한 비중은 K푸드...",
+ "published_at": "2026-10-13T13:41:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한상공회의소"
+  ],
+  "keywords": [
+   "소비재 수출",
+   "중소기업 주도"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한상공회의소 분석 결과 뷰티와 푸드 등의 소비재 수출이 크게 증가했으며 중소 및 중견기업이 수출을 주도했다.",
+  "key_fact_quote": "푸드와 뷰티 수출 은 중소·중견기업이 주도했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:48+00:00",
+ "had_body": false
+}

@@ -1,0 +1,66 @@
+{
+ "doc_id": "63bdecd23855a05a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610061136112880104381",
+ "title": "[더벨][애경산업 뷰티 리빌딩] 태광 편입 후 뷰티 재편 밑그림…‘매출...",
+ "summary": "애경산업이 화장품 사업을 키우기 위해 주력 브랜드 에이지투웨니스의 성장 전략을 다시 짠다. 올해 제시한... 시그니처 에센스 팩트와 신제품 파운데이션 팩트뿐 아니라 립과 블러셔 등 포인트 메이크업 제품도 함께...",
+ "published_at": "2026-10-12T17:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이지투웨니스"
+  ],
+  "companies": [
+   "애경산업",
+   "태광"
+  ],
+  "keywords": [
+   "포인트 메이크업",
+   "파운데이션 팩트",
+   "뷰티 재편"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "시그니처 에센스 팩트",
+    "brand": "에이지투웨니스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "신제품 파운데이션 팩트",
+    "brand": "에이지투웨니스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "애경산업이 화장품 사업 육성을 위해 주력 브랜드의 성장 전략을 재정비한다.",
+  "key_fact_quote": "애경산업이 화장품 사업을 키우기 위해 주력 브랜드 에이지투웨니스의 성장 전략을 다시 짠다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:21+00:00",
+ "had_body": false
+}

@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "skincare",
+  "category": "business",
   "event_type": "business",
   "countries": [
    "KR"
@@ -23,18 +23,20 @@
   "brands": [],
   "companies": [],
   "keywords": [
-   "맞춤 화장품",
-   "수출 지원",
-   "피부 진단"
+   "맞춤형 화장품",
+   "피부 진단",
+   "수출 지원"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "정부가 국내 뷰티기업과 의료기관의 해외 진출을 돕기 위해 수출 지원 체계를 확대한다.",
+  "key_fact": "정부는 국내 의료기관과 뷰티기업의 해외 진출을 지원하기 위해 지원 체계를 확대한다.",
   "key_fact_quote": "국내 의료기관과 뷰티기업의 해외 진출을 위한 지원 체계도 확대된다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:32+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:19+00:00",
  "had_body": false
 }

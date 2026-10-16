@@ -1,0 +1,61 @@
+{
+ "doc_id": "f986c0b6ecedd28d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ppss.kr/news/articleView.html?idxno=312756",
+ "title": "LG생활건강, '닥터그루트·더페이스샵'으로 멕시코 K-뷰티 열풍…5,000명...",
+ "summary": "멕시코는 1억 3,000만 명이 넘는 인구 규모를 보유한 중남미의 핵심 화장품 시장으로 꼽힌다. 최근 현지에서... '더페이스샵'은 전세계 누적 판매 5,000만 개를 기록한 대표 클렌징 라인 '미감수'와 신제품 '미감수 레디' 등을...",
+ "published_at": "2026-09-30T15:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "MX"
+  ],
+  "brands": [
+   "닥터그루트",
+   "더페이스샵"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "클렌징 라인",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "미감수",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미감수 레디",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "엘지생활건강이 주요 브랜드를 앞세워 멕시코 화장품 시장을 공략하고 있다.",
+  "key_fact_quote": "LG생활건강, '닥터그루트·더페이스샵'으로 멕시코 K-뷰티 열풍…5,000명...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:44+00:00",
+ "had_body": false
+}

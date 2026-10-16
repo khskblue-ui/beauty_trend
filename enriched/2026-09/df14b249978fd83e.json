@@ -6,11 +6,11 @@
  "lang": "ko",
  "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=332762",
  "title": "센트온, K-뷰티 프래그런스 시장 정조준… 무신사 뷰티 홍대 입점",
- "summary": "인디· 니치 향수의 경쟁력이 화두로 떠올랐다.이러한 시장 흐름 속에서 20여 년간 국내 공간 향기마케팅... 오드 퍼퓸 5종(30·50ml)을 집중 배치해 방문객이 브랜드의 첫인상을 직관적으로 체감할 수 있도록 구성했다”며...",
+ "summary": "후각은 인간의 감각 중 감정과 기억을 가장 직관적으로 자극하는 감각 소비재인 만큼, 글로벌 뷰티 시장에서도 독창적인 조향 역량을 갖춘 인디· 니치 향수 의 경쟁력이 화두로 떠올랐다.이러한 시장 흐름 속에서 20여...",
  "published_at": "2026-09-18T12:18:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "니치 퍼퓸",
+ "query": "니치 향수",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -24,33 +24,22 @@
    "센트온"
   ],
   "companies": [
-   "센트온"
+   "센트온",
+   "무신사"
   ],
   "keywords": [
+   "프래그런스",
    "니치 향수",
-   "인디 향수",
-   "오드 퍼퓸"
+   "인디 향수"
   ],
   "is_press_release": true,
-  "products": [
-   {
-    "name": "오드 퍼퓸 5종",
-    "brand": "센트온",
-    "launch_date": null,
-    "launch_status": "unknown",
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   }
-  ],
-  "key_fact": "센트온이 무신사 뷰티 홍대에 입점했다.",
+  "products": [],
+  "key_fact": "센트온이 프래그런스 시장을 겨냥해 무신사 뷰티 홍대에 입점했다.",
   "key_fact_quote": "센트온, K-뷰티 프래그런스 시장 정조준… 무신사 뷰티 홍대 입점",
-  "events": [],
-  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:08+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:15+00:00",
  "had_body": false
 }

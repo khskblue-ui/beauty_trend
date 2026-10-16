@@ -1,0 +1,43 @@
+{
+ "doc_id": "f95ea251f37ac68c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=333612",
+ "title": "美 소비자 25.7% 연말연시 선물 화장품‧ 향수 로..",
+ "summary": "7%가 올해 홀리데이 시즌((11월 초~12월 말)과 연말연시를 위한 선물로 화장품, 그루밍 제품 또는 향수 를... 5%는 가격이 저렴한 브랜드 또는 상품을, 26.9%는 할인점, 상시 할인매장(off-price) 또는 염가매장(dollar stores)을...",
+ "published_at": "2026-10-13T06:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "연말 선물",
+   "홀리데이 시즌",
+   "그루밍 제품",
+   "할인매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 소비자의 상당수가 연말연시 선물로 화장품이나 그루밍 제품 또는 향수를 선택할 계획이다.",
+  "key_fact_quote": "7%가 올해 홀리데이 시즌((11월 초~12월 말)과 연말연시를 위한 선물로 화장품, 그루밍 제품 또는 향수 를...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:01+00:00",
+ "had_body": false
+}

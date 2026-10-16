@@ -29,18 +29,41 @@
   "keywords": [
    "헤어 제품",
    "팝업스토어",
-   "합작 조향"
+   "브랜드 런칭"
   ],
   "is_press_release": true,
-  "products": [],
-  "key_fact": "헤어 브랜드 라바닐이 프랑스 향료사와 협력해 조향한 헤어 제품을 출시하고 성수동에서 팝업스토어를 연다.",
+  "products": [
+   {
+    "name": "스킨 바닐라",
+    "brand": "라바닐",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "헤어 브랜드 라바닐(LA VANILLE)이 프랑스 향료 사와 협력해 조향한 ‘스킨 바닐라’ 헤어 제품 3종을 출시하고, 10월 15일부터 27일까지 성수동에서 브랜드 런칭 팝업스토어를 연다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "헤어 브랜드 라바닐이 프랑스 향료 사와 협력하여 조향한 헤어 신제품을 출시하며 성수동에서 브랜드 런칭 팝업스토어를 진행한다.",
   "key_fact_quote": "헤어 브랜드 라바닐(LA VANILLE)이 프랑스 향료 사와 협력해 조향한 ‘스킨 바닐라’ 헤어 제품 3종을 출시하고, 10월 15일부터 27일까지 성수동에서 브랜드 런칭 팝업스토어를 연다.",
-  "dropped": [
-   "product:스킨 바닐라 헤어 제품 3종"
-  ]
+  "events": [
+   {
+    "name": "브랜드 런칭 팝업스토어",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-27",
+    "place": "성수동",
+    "quote": "10월 15일부터 27일까지 성수동에서 브랜드 런칭 팝업스토어를 연다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "바닐라",
+    "quote": "라바닐은 바닐라의 부드러운 질감과..."
+   }
+  ],
+  "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:26+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:53+00:00",
  "had_body": false
 }

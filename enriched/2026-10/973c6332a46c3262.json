@@ -1,0 +1,49 @@
+{
+ "doc_id": "973c6332a46c3262",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202610089921g",
+ "title": "조선미녀·티르티르 키운 구다이글로벌, 지드래곤과 뷰티 브랜드 만든다",
+ "summary": "영역을 화장품 으로 확장한다. 뷰티 기업 구다이글로벌은 피스마이너스원과 함께 새로운 뷰티 브랜드 ‘피스마이너스원뷰티(PEACEMINUSONE BEAUTY)’를 선보인다고 8일 밝혔다. 공식 출시 는 2027년 상반기를 목표로 하고 있다....",
+ "published_at": "2026-10-08T08:49:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "조선미녀",
+   "티르티르",
+   "피스마이너스원뷰티",
+   "PEACEMINUSONE BEAUTY",
+   "피스마이너스원"
+  ],
+  "companies": [
+   "구다이글로벌"
+  ],
+  "keywords": [
+   "뷰티 브랜드",
+   "화장품 브랜드 론칭"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "구다이글로벌이 피스마이너스원과 협력하여 새로운 뷰티 브랜드를 선보인다.",
+  "key_fact_quote": "뷰티 기업 구다이글로벌은 피스마이너스원과 함께 새로운 뷰티 브랜드 ‘피스마이너스원뷰티(PEACEMINUSONE BEAUTY)’를 선보인다고 8일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:28+00:00",
+ "had_body": false
+}

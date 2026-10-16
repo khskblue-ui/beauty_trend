@@ -1,0 +1,44 @@
+{
+ "doc_id": "ef522547c5fc810e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=576801&class=17&grp=",
+ "title": "K - 뷰티 수출 '15억달러' 돌파…글로벌 판로 다변화 가속화 [뷰티풀위크...",
+ "summary": "전통적인 화장품 강국이 포진한 유럽 시장에서도 국내 중소 화장품 기업을 위한 판매거점이 확대되는 동시에 K - 뷰티 수출 도 빠르게 늘고 있다. 중소벤처기업부에 따르면 올해 상반기 국내 중소기업 화장품의 유럽...",
+ "published_at": "2026-10-03T07:03:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "중소벤처기업부"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "글로벌 판로 다변화",
+   "유럽 시장 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유럽 시장에서 국내 중소 화장품 기업의 판매 거점이 확대되며 수출이 증가하고 있다.",
+  "key_fact_quote": "전통적인 화장품 강국이 포진한 유럽 시장에서도 국내 중소 화장품 기업을 위한 판매거점이 확대되는 동시에 K - 뷰티 수출 도 빠르게 늘고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:32+00:00",
+ "had_body": false
+}

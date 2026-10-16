@@ -1,0 +1,59 @@
+{
+ "doc_id": "fe4e78246be83edc",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100042",
+ "title": "코스무어, 화장품 글로벌 인증 통합 플랫폼 공개",
+ "summary": "화장품 글로벌 인증 서비스 브랜드 '코스무어(Cosmure, 대표 정연광)'가 통합 플랫폼(www.cosmure.com)을 공개했다. 범용 AI 위에 EU·영국·미국 화장품 규제 원문, 52개국 성분 데이터베이스, 수년간 축적한 인증 실무 판정 기준을 입힌 규제 전문 AI가 한 축이다. 다른 한 축은 한국·네덜란드·영국·미국 4개국 자체 법인을 기반으로 한 등록·책임자(RP)·포장규제(PPWR) 대응 서비스로, 이 둘을 한 곳에 모았다. 코스무어는 이 시스템으로 200여 개 고객사의 미국·EU·영국 화장품 등록 실무를",
+ "published_at": "2026-10-02T09:15:11+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "NL",
+   "GB",
+   "US"
+  ],
+  "brands": [
+   "코스무어"
+  ],
+  "companies": [
+   "코스무어",
+   "스킨미소",
+   "Cosmure EU B.V.",
+   "Cosmure UK Ltd.",
+   "Cosmure LLC"
+  ],
+  "keywords": [
+   "글로벌 화장품 규제",
+   "화장품 인증 플랫폼",
+   "성분 데이터베이스",
+   "포장폐기물 규정"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "화장품 글로벌 인증 서비스 브랜드 코스무어가 규제 전문 인공지능과 자체 법인 기반 대응 서비스를 결합한 통합 플랫폼을 공개했다.",
+  "key_fact_quote": "화장품 글로벌 인증 서비스 브랜드 '코스무어(Cosmure, 대표 정연광)'가 통합 플랫폼(www.cosmure.com)을 공개했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레티놀",
+    "quote": "나노물질 금지(EU 2024/858), 레티놀 농도 상한(EU 2024/996), 향료 알레르겐 확대(EU 2023/1545) 등 최근 개정도 반영돼 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:28+00:00",
+ "had_body": true
+}

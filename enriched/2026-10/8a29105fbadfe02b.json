@@ -1,0 +1,53 @@
+{
+ "doc_id": "8a29105fbadfe02b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100057",
+ "title": "이미지컬러하우스, 경성대학교 퍼스널 컬러 특강 진행",
+ "summary": "(사)한국뷰티스타일리스트직업기능협회(회장 안미려) 산하 기관인 이미지컬러하우스(Image Color House)가 지난 9월 21일(월) 경성대학교 예술종합대학 패션디자인학과 학생들을 대상으로 퍼스널 컬러 특강을 진행했다.이번 특강은 패션디자인을 전공하는 학생들이 퍼스널 컬러의 기본 원리를 이해하고, 색채를 패션과 뷰티 및 이미지 스타일링에 활용할 수 있도록 이론과 실습을 연계한 과정으로 마련됐다.강의는 (사)한국뷰티스타일리스트직업기능협회 최민령 부회장과 신미선 교육이사가 퍼스널 컬러의 기초 이론을 시작으로 사계절 컬러의 특징과 1",
+ "published_at": "2026-10-02T09:55:20+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국뷰티스타일리스트직업기능협회",
+   "이미지컬러하우스"
+  ],
+  "keywords": [
+   "퍼스널 컬러",
+   "스타일링",
+   "메이크업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "이미지컬러하우스가 경성대학교 패션디자인학과 학생들을 대상으로 퍼스널 컬러 특강을 진행했다.",
+  "key_fact_quote": "(사)한국뷰티스타일리스트직업기능협회(회장 안미려) 산하 기관인 이미지컬러하우스(Image Color House)가 지난 9월 21일(월) 경성대학교 예술종합대학 패션디자인학과 학생들을 대상으로 퍼스널 컬러 특강을 진행했다.",
+  "events": [
+   {
+    "name": "퍼스널 컬러 특강",
+    "start_date": "2026-09-21",
+    "end_date": null,
+    "place": "경성대학교",
+    "quote": "(사)한국뷰티스타일리스트직업기능협회(회장 안미려) 산하 기관인 이미지컬러하우스(Image Color House)가 지난 9월 21일(월) 경성대학교 예술종합대학 패션디자인학과 학생들을 대상으로 퍼스널 컬러 특강을 진행했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:10+00:00",
+ "had_body": true
+}

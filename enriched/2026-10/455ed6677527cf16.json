@@ -1,0 +1,44 @@
+{
+ "doc_id": "455ed6677527cf16",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://magazine.hankyung.com/business/article/202610077440b",
+ "title": "K 뷰티 어뮤즈, 파리 패션위크에 떴다",
+ "summary": "K 뷰티 브랜드 어뮤즈가 세계 패션의 중심 파리에서 열린 패션위크 백스테이지에 정식 데뷔했다. 어뮤즈는... 2021년 자신의 브랜드 를 론칭 한 후 프랑카 소자니 어워드, 카메라 모다 패션 트러스트에서 수상했으며, 특히...",
+ "published_at": "2026-10-07T09:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "어뮤즈"
+  ],
+  "companies": [],
+  "keywords": [
+   "패션위크 백스테이지",
+   "케이뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "뷰티 브랜드 어뮤즈가 파리 패션위크 백스테이지에 정식 데뷔했다.",
+  "key_fact_quote": "K 뷰티 브랜드 어뮤즈가 세계 패션의 중심 파리에서 열린 패션위크 백스테이지에 정식 데뷔했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:49+00:00",
+ "had_body": false
+}

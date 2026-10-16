@@ -1,0 +1,45 @@
+{
+ "doc_id": "f88a2bfb4b91fca7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/12/2026101280049.html",
+ "title": "세계가 주목하는 K - 뷰티 한자리에… 679개 기업 모이는 ‘ K - 뷰티 엑스포...",
+ "summary": "해외 참가기업과 초청 바이어의 참여를 지속적으로 확대하는 한편, 글로벌 네트워크를 강화해 국내 뷰티 기업의 수출 과 유통시장 진출을 뒷받침할 방침이다. 이민우 킨텍스 대표이사는 “ K - 뷰티 엑스포의 성장은 국내...",
+ "published_at": "2026-10-12T18:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "킨텍스"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "뷰티 엑스포",
+   "해외 수출",
+   "유통시장 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "국내 뷰티 기업의 수출과 유통시장 진출을 뒷받침하기 위해 글로벌 네트워크를 강화하고 케이뷰티 엑스포를 지속 확대할 방침이다.",
+  "key_fact_quote": "해외 참가기업과 초청 바이어의 참여를 지속적으로 확대하는 한편, 글로벌 네트워크를 강화해 국내 뷰티 기업의 수출 과 유통시장 진출을 뒷받침할 방침이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:00+00:00",
+ "had_body": false
+}

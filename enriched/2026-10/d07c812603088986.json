@@ -6,40 +6,40 @@
  "lang": "ko",
  "url": "https://www.harpersbazaar.co.kr/article/1910542",
  "title": "“무슨 향수 써요?” 질문을 부르는 7가지 향수",
- "summary": "Dior 라 콜렉시옹 프리베 쟈스망 데 쟝주 에스프리 드 퍼퓸 기존 오 드 퍼퓸 이 밝고 산뜻한 구르망... Parfums De Marly 알테어 엑스클루시브 2023년 출시 이후 마니아 층을 이룬 ‘알테어’의 향을 바탕으로 탄생한...",
+ "summary": "Chanel 코코 마드모아젤 크러쉬 압솔뤼 오 드 빠르펭 코코 마드모아젤의 프루티 앰버 향수 . 리치의... Parfums De Marly 알테어 엑스클루시브 2023년 출시 이후 마니아 층을 이룬 ‘알테어’의 향을 바탕으로 탄생한...",
  "published_at": "2026-10-05T08:00:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "퍼퓸 출시",
+ "query": "향수 출시",
  "doc_type": null,
  "celex": null,
  "extraction": {
   "relevant": true,
   "category": "fragrance",
-  "event_type": "other",
+  "event_type": "market_trend",
   "countries": [],
   "brands": [
-   "Dior",
+   "Chanel",
    "Parfums De Marly"
   ],
   "companies": [],
   "keywords": [
-   "향수",
-   "에스프리 드 퍼퓸",
-   "오 드 퍼퓸"
+   "프루티 앰버 향수",
+   "니치 향수"
   ],
   "is_press_release": false,
   "products": [
    {
-    "name": "라 콜렉시옹 프리베 쟈스망 데 쟝주 에스프리 드 퍼퓸",
-    "brand": "Dior",
+    "name": "코코 마드모아젤 크러쉬 압솔뤼 오 드 빠르펭",
+    "brand": "Chanel",
     "launch_date": null,
     "launch_status": "unknown",
     "launch_quote": null,
     "notes": [
-     "구르망"
+     "프루티 앰버",
+     "리치"
     ],
-    "notes_quote": "기존 오 드 퍼퓸 이 밝고 산뜻한 구르망..."
+    "notes_quote": "Chanel 코코 마드모아젤 크러쉬 압솔뤼 오 드 빠르펭 코코 마드모아젤의 프루티 앰버 향수 . 리치의..."
    },
    {
     "name": "알테어 엑스클루시브",
@@ -51,7 +51,7 @@
     "notes_quote": null
    }
   ],
-  "key_fact": "주변의 관심을 끄는 여러 향수 제품들을 소개한다.",
+  "key_fact": "질문을 유도하는 매력적인 여러 향수 제품들이 소개되었다.",
   "key_fact_quote": "“무슨 향수 써요?” 질문을 부르는 7가지 향수",
   "events": [],
   "ingredients": [],
@@ -59,6 +59,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:16+00:00",
+ "enriched_at": "2026-10-15T15:14:52+00:00",
  "had_body": false
 }

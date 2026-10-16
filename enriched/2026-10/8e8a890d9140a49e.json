@@ -1,0 +1,63 @@
+{
+ "doc_id": "8e8a890d9140a49e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.lawissue.co.kr/view.php?ud=20261001232049868204ead0791_12",
+ "title": "바임, 전문 관리 후 피부 고려한 선크림 신제품 선보여",
+ "summary": "주름개선과 미백, 자외선차단을 포함한 3중 기능성 화장품 으로 보고됐다. 제품에는 나이아신아마이드와 항산화 성분을 포함한 ‘멜라 제로 콤플렉스’가 적용됐다. 용량은 50ml다. 회사 측은 \"전문 관리 직후에는 피부...",
+ "published_at": "2026-10-01T23:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "바임"
+  ],
+  "keywords": [
+   "선크림",
+   "자외선차단",
+   "기능성 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "선크림 신제품",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "바임, 전문 관리 후 피부 고려한 선크림 신제품 선보여",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "바임이 전문 관리 후 피부를 고려한 선크림 신제품을 선보였다.",
+  "key_fact_quote": "바임, 전문 관리 후 피부 고려한 선크림 신제품 선보여",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "나이아신아마이드",
+    "quote": "제품에는 나이아신아마이드와 항산화 성분을 포함한 ‘멜라 제로 콤플렉스’가 적용됐다."
+   },
+   {
+    "name": "멜라 제로 콤플렉스",
+    "quote": "제품에는 나이아신아마이드와 항산화 성분을 포함한 ‘멜라 제로 콤플렉스’가 적용됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:26+00:00",
+ "had_body": false
+}

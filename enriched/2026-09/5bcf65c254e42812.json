@@ -1,0 +1,53 @@
+{
+ "doc_id": "5bcf65c254e42812",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bizwnews.com/news/articleView.html?idxno=146983",
+ "title": "JW중외제약, '프렌즈' 영역 화장품까지 확대…'아이쓱 클리너' 2종 출시",
+ "summary": "향료 와 색소는 사용하지 않았으며 눈가 피부에 사용하는 제품이라는 점을 고려해 피부 자극 테스트도 마쳤다고 회사 측은 전했다. 앞서 회사는 프렌즈의 통합 브랜드 아이덴티티(BI)를 새롭게 공개하고 기존 점안제...",
+ "published_at": "2026-09-22T09:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프렌즈"
+  ],
+  "companies": [
+   "JW중외제약"
+  ],
+  "keywords": [
+   "클리너",
+   "무향료 화장품",
+   "저자극 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아이쓱 클리너",
+    "brand": "프렌즈",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "JW중외제약이 프렌즈 브랜드의 영역을 화장품까지 넓히며 아이쓱 클리너를 출시했다.",
+  "key_fact_quote": "JW중외제약, '프렌즈' 영역 화장품까지 확대…'아이쓱 클리너' 2종 출시",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:16:04+00:00",
+ "had_body": false
+}

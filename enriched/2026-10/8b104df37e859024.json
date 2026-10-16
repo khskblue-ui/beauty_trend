@@ -1,0 +1,55 @@
+{
+ "doc_id": "8b104df37e859024",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=54968",
+ "title": "윈세프, 뷰티 가전 라인업 확대··· 신제품 '에어컬' 헤어스타일러 선...",
+ "summary": "선보이며 뷰티 가전 제품군 확대에 나선다. 윈세프는 드라이부터 컬링, 볼륨 스타일링까지 다양한 기능을 결합한 5 in 1 헤어스타일러 '에어컬(Air Curl)'을 출시 했다고 밝혔다. 이번 신제품 은 기존 헤어 가전 제품군을...",
+ "published_at": "2026-10-07T08:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "윈세프"
+  ],
+  "companies": [
+   "윈세프"
+  ],
+  "keywords": [
+   "뷰티 가전",
+   "헤어스타일러"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "에어컬(Air Curl)",
+    "brand": "윈세프",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "윈세프는 드라이부터 컬링, 볼륨 스타일링까지 다양한 기능을 결합한 5 in 1 헤어스타일러 '에어컬(Air Curl)'을 출시 했다고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "윈세프가 다기능 헤어스타일러 신제품 에어컬을 출시하며 뷰티 가전 제품군 확대에 나섰다.",
+  "key_fact_quote": "윈세프는 드라이부터 컬링, 볼륨 스타일링까지 다양한 기능을 결합한 5 in 1 헤어스타일러 '에어컬(Air Curl)'을 출시 했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:59+00:00",
+ "had_body": false
+}

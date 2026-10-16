@@ -1,0 +1,76 @@
+{
+ "doc_id": "42c8801286d3d37a",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100074",
+ "title": "이브로쉐, 무신사 협업 ‘두피 정화 연구소’ 팝업 진행",
+ "summary": "프랑스 뷰티 브랜드 ‘이브로쉐(Yves Rocher)’가 10월 7일부터 11일까지 5일간 서울 성수동 무신사 엠프티 성수에서 코스모폴리탄 트레일러 팝업 ‘이브로쉐 두피 정화 연구소’를 진행한다.이번 팝업은 이브로쉐의 두피·모발 케어 철학을 직접 경험할 수 있도록 구성한 체험형 공간이다. 자연에서 답을 찾고 이를 과학적으로 증명하는 이브로쉐의 ‘New Wave of Hair Care’ 메시지를 바탕으로, 자신의 두피 상태와 고민에 맞는 헤어케어 제품을 살펴보고 체험할 수 있도록 마련됐다.이브로쉐는 지난 4월 혼성그룹 올데이 프로젝트",
+ "published_at": "2026-10-06T10:05:34+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "이브로쉐",
+   "Yves Rocher"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "헤어케어",
+   "헤어식초",
+   "팝업스토어",
+   "두피 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "라즈베리 샤인 헤어식초",
+    "brand": "이브로쉐",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "알개 퓨리파잉 헤어식초",
+    "brand": "이브로쉐",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이브로쉐가 무신사와 협업하여 서울 성수동에서 두피 및 모발 케어 철학을 경험할 수 있는 팝업스토어를 진행한다.",
+  "key_fact_quote": "프랑스 뷰티 브랜드 ‘이브로쉐(Yves Rocher)’가 10월 7일부터 11일까지 5일간 서울 성수동 무신사 엠프티 성수에서 코스모폴리탄 트레일러 팝업 ‘이브로쉐 두피 정화 연구소’를 진행한다.",
+  "events": [
+   {
+    "name": "이브로쉐 두피 정화 연구소",
+    "start_date": "2026-10-07",
+    "end_date": "2026-10-11",
+    "place": "서울 성수동 무신사 엠프티 성수",
+    "quote": "프랑스 뷰티 브랜드 ‘이브로쉐(Yves Rocher)’가 10월 7일부터 11일까지 5일간 서울 성수동 무신사 엠프티 성수에서 코스모폴리탄 트레일러 팝업 ‘이브로쉐 두피 정화 연구소’를 진행한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:29+00:00",
+ "had_body": true
+}

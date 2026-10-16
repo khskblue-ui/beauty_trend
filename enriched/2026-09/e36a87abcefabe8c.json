@@ -1,0 +1,44 @@
+{
+ "doc_id": "e36a87abcefabe8c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kormedi.com/?p=2869281",
+ "title": "“립밤 계속 발라도 입술이 쩍쩍”… 가을철 입술 제대로 관리하려면?",
+ "summary": "미국피부과학회는 이미 갈라진 입술에는 향료 나 멘톨, 캄포르 등 일부 성분이 자극을 줄 수 있다고 설명한다. 대신 바셀린처럼 자극이 적고 점도가 높은 제품은 입술 표면에 막을 만들어 수분이 빠져나가는 것을 막는 데...",
+ "published_at": "2026-09-19T13:05:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "ingredient",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "바셀린"
+  ],
+  "companies": [
+   "미국피부과학회"
+  ],
+  "keywords": [
+   "립밤",
+   "입술 보습",
+   "화장품 자극 성분"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "갈라진 입술에는 향료나 멘톨 등의 성분이 자극을 줄 수 있어 자극이 적고 점도가 높은 제품을 사용하는 것이 도움이 된다.",
+  "key_fact_quote": "미국피부과학회는 이미 갈라진 입술에는 향료 나 멘톨, 캄포르 등 일부 성분이 자극을 줄 수 있다고 설명한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:16:19+00:00",
+ "had_body": false
+}

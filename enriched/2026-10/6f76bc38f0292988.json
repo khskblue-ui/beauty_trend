@@ -1,0 +1,62 @@
+{
+ "doc_id": "6f76bc38f0292988",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.4th.kr/news/articleView.html?idxno=2119417",
+ "title": "리엔케이, 미국 코스트코 진출…코웨이, 화장품 반등 모색",
+ "summary": "포쓰저널 이남주 기자 리엔케이 신제품 '셀레스티얼 콜라겐 크림' /2026.10.08. 코웨이 코웨이가 화장품 브랜드 리엔케이의 미국 코스트코 오프라인 입점을 계기로 해외 판매 기반을 넓힌다. 방문판매 중심으로 성장한 뒤...",
+ "published_at": "2026-10-08T12:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "리엔케이"
+  ],
+  "companies": [
+   "코웨이",
+   "코스트코"
+  ],
+  "keywords": [
+   "오프라인 입점",
+   "해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "셀레스티얼 콜라겐 크림",
+    "brand": "리엔케이",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "리엔케이 신제품 '셀레스티얼 콜라겐 크림' /2026.10.08.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코웨이가 화장품 브랜드 리엔케이의 미국 코스트코 오프라인 입점을 계기로 해외 판매 기반을 확대한다.",
+  "key_fact_quote": "코웨이가 화장품 브랜드 리엔케이의 미국 코스트코 오프라인 입점을 계기로 해외 판매 기반을 넓힌다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "콜라겐",
+    "quote": "리엔케이 신제품 '셀레스티얼 콜라겐 크림' /2026.10.08."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:50+00:00",
+ "had_body": false
+}

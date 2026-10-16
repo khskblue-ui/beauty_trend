@@ -1,0 +1,57 @@
+{
+ "doc_id": "be8348af564fd2ae",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=245876",
+ "title": "아무아쥬, 향수 서사 패키지·캠페인까지 확장…'디시전 42·오버츄어 41...",
+ "summary": "아무아쥬는 이러한 서사를 향료 구성에만 머물지 않고 보틀과 패키지, 캠페인 스틸과 영상으로도 이어갔다. 향수처럼 눈에 보이지 않는 감각을 다루는 제품은 향을 구성하는 원료와 함께 색상이나 소재, 이미지...",
+ "published_at": "2026-09-10T16:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "아무아쥬"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수",
+   "보틀 패키지",
+   "캠페인"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "디시전 42",
+    "brand": "아무아쥬",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "오버츄어 41",
+    "brand": "아무아쥬",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아무아쥬는 향수 서사를 향료 구성뿐만 아니라 보틀과 패키지, 캠페인 영상 등으로 확장했다.",
+  "key_fact_quote": "아무아쥬는 이러한 서사를 향료 구성에만 머물지 않고 보틀과 패키지, 캠페인 스틸과 영상으로도 이어갔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:18+00:00",
+ "had_body": false
+}

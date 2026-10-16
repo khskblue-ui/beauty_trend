@@ -1,0 +1,47 @@
+{
+ "doc_id": "a01ab9684b8a80e2",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/how-estee-lauder-inspired-her-granddaughters-into-entrepreneurialism-1239257916/",
+ "title": "How Estée Lauder Induced Her Granddaughters Aerin and Jane Into a Life of Entrepreneurialism",
+ "summary": "Aerin Lauder's lifestyle business turns 15 next year, while Jane Lauder recently launched a venture capital fund in the pet-care space.",
+ "published_at": "2026-10-09T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Aerin Lauder",
+   "Estée Lauder"
+  ],
+  "companies": [
+   "Estée Lauder"
+  ],
+  "keywords": [
+   "라이프스타일 비즈니스",
+   "벤처 캐피털",
+   "기업가 정신"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에스티 로더의 손녀인 에어린 로더의 라이프스타일 사업과 제인 로더의 벤처 캐피털 펀드 등 손녀들의 사업 행보가 조명되었다.",
+  "key_fact_quote": "Aerin Lauder's lifestyle business turns 15 next year, while Jane Lauder recently launched a venture capital fund in the pet-care space.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:18+00:00",
+ "had_body": false
+}

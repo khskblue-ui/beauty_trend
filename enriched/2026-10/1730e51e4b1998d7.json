@@ -1,0 +1,48 @@
+{
+ "doc_id": "1730e51e4b1998d7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.m-i.kr/news/articleView.html?idxno=2003818",
+ "title": "롯데백화점, 美 LA서 K - 뷰티 팝업…국내 브랜드 해외 진출 지원",
+ "summary": "글로벌 K -존은 재외한국문화원을 거점으로 뷰티 ·패션·식품 등 한국의 라이프스타일을 소개하는 문화 수출 플랫폼이다. 올해 LA를 비롯해 뉴욕, 파리, 베이징, 상하이, 도쿄 등 6개 도시에 조성된다. 롯데백화점은 이번...",
+ "published_at": "2026-10-08T08:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "FR",
+   "CN",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데백화점"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "팝업스토어",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "롯데백화점이 국내 브랜드의 해외 진출을 지원하기 위해 미국 로스앤젤레스에서 뷰티 팝업을 연다.",
+  "key_fact_quote": "롯데백화점, 美 LA서 K - 뷰티 팝업…국내 브랜드 해외 진출 지원",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:47+00:00",
+ "had_body": false
+}

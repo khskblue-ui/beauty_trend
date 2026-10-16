@@ -1,0 +1,51 @@
+{
+ "doc_id": "41782f4de78a2537",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.economytalk.kr/news/articleView.html?idxno=424154",
+ "title": "[진단] 홍대 무신사·건대 다이소… '올리브영 천하' 뷰티 판 흔드나",
+ "summary": "중국 C뷰티 브랜드 '인투유', 'AZTK'를 국내 최초 입점시키고 프랑스 니치 향수 '에따 리브르 도랑쥬'를 단독 배치하는 한편, 입점 브랜드의 70%를 인디 브랜드로 구성해 K뷰티 성공 공식을 그대로 차용했다. 전문성과...",
+ "published_at": "2026-09-16T17:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN",
+   "FR"
+  ],
+  "brands": [
+   "인투유",
+   "AZTK",
+   "에따 리브르 도랑쥬"
+  ],
+  "companies": [
+   "무신사",
+   "다이소",
+   "올리브영"
+  ],
+  "keywords": [
+   "니치 향수",
+   "뷰티 유통",
+   "인디 브랜드",
+   "C뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사와 다이소 등이 해외 뷰티 브랜드와 인디 브랜드를 입점시키며 올리브영 중심의 뷰티 유통 시장에 도전하고 있다.",
+  "key_fact_quote": "중국 C뷰티 브랜드 '인투유', 'AZTK'를 국내 최초 입점시키고 프랑스 니치 향수 '에따 리브르 도랑쥬'를 단독 배치하는 한편, 입점 브랜드의 70%를 인디 브랜드로 구성해 K뷰티 성공 공식을 그대로 차용했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:17+00:00",
+ "had_body": false
+}

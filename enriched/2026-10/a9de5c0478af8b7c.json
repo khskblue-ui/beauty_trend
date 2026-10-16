@@ -1,0 +1,42 @@
+{
+ "doc_id": "a9de5c0478af8b7c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kbsm.net/news/view.php?idx=536662",
+ "title": "경산 K - 뷰티 , 말레이시아서 수출 계약 성과…동남아 시장 공략 본격화",
+ "summary": "경산시가 지역 뷰티 기업과 함께 말레이시아 시장에 진출해 수출 상담 320만 달러, 수출 계약 80만5000 달러의 성과를 거두며 K - 뷰티 의 해외시장 확대 가능성을 확인했다.경산시는 지난 9월 29일부터 10월 1일까지 말레이시아...",
+ "published_at": "2026-10-06T13:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MY"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "해외 진출",
+   "수출 계약"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "경산시가 지역 뷰티 기업들과 함께 말레이시아 시장에서 수출 계약 및 상담 성과를 거두었다.",
+  "key_fact_quote": "경산시가 지역 뷰티 기업과 함께 말레이시아 시장에 진출해 수출 상담 320만 달러, 수출 계약 80만5000 달러의 성과를 거두며 K - 뷰티 의 해외시장 확대 가능성을 확인했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:13+00:00",
+ "had_body": false
+}

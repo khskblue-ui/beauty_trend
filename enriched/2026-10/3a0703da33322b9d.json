@@ -1,0 +1,43 @@
+{
+ "doc_id": "3a0703da33322b9d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ngonews.kr/news/articleView.html?idxno=239895",
+ "title": "\"중국 바이어 잡아라\"…인천 중소기업 25곳, 선전서 K - 뷰티 · K -푸드 승부",
+ "summary": "최근 중국을 비롯한 해외 시장에서 K - 뷰티 와 K -푸드에 대한 관심이 높아지고 있는 만큼, 인천시는 이번 전시를 지역 기업의 브랜드를 알리고 실제 수출 상담과 신규 거래처를 확보하는 기회로 활용할 계획이다. 이번...",
+ "published_at": "2026-10-06T10:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "해외 시장 수출",
+   "수출 상담",
+   "지역 기업 지원"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "인천시가 해외 시장 공략을 위해 중국 선전에서 지역 중소기업들과 함께 뷰티 및 푸드 관련 수출 상담 기회를 마련한다.",
+  "key_fact_quote": "최근 중국을 비롯한 해외 시장에서 K - 뷰티 와 K -푸드에 대한 관심이 높아지고 있는 만큼, 인천시는 이번 전시를 지역 기업의 브랜드를 알리고 실제 수출 상담과 신규 거래처를 확보하는 기회로 활용할 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:18+00:00",
+ "had_body": false
+}

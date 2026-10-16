@@ -1,0 +1,49 @@
+{
+ "doc_id": "d8cb589ca69b2f9f",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312165",
+ "title": "브이티, 외국인 이탈·주가 부진 속 198억원 자사주 전량 소각 - 뷰티경제",
+ "summary": "니들샷 브랜드로 성장 기대를 모았던 브이티가 외국인 투자자 이탈과 주가 급락이 이어지는 가운데 약 198억 원 규모의 자사주 전량 소각을 결정했다.브이티코스메틱(",
+ "published_at": "2026-10-12T10:44:34+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "브이티",
+   "니들샷",
+   "브이티코스메틱"
+  ],
+  "companies": [
+   "브이티",
+   "브이티코스메틱"
+  ],
+  "keywords": [
+   "자사주 소각",
+   "외국인 투자자 이탈",
+   "주가 부진"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "브이티가 외국인 투자자 이탈과 주가 급락 속에서 자사주 전량 소각을 결정했다.",
+  "key_fact_quote": "니들샷 브랜드로 성장 기대를 모았던 브이티가 외국인 투자자 이탈과 주가 급락이 이어지는 가운데 약 198억 원 규모의 자사주 전량 소각을 결정했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:13+00:00",
+ "had_body": false
+}

@@ -1,0 +1,83 @@
+{
+ "doc_id": "b95ff3760737d4c6",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53632",
+ "title": "[코스모닝] 앳킨슨, 배우 박정민 브랜드 모델 발탁",
+ "summary": "영국 향수 브랜드 앳킨슨이 배우 박정민을 모델로 발탁했다. 앳킨슨(Atkinsons)은 1799년 영국 런던에서 탄생했다. 200년 넘게 독창적인 조향과 고유한 스토리텔링을 선보였다. 이 브랜드는 박정민과 손잡고 니치향수를 알릴 전략이다. 박정민은 자신만의 색깔과 문장을 가진 배우다. 글과 책을 통해 자신만의 이야기를 수집하고 표현한다. 앳킨슨은 향의 서사",
+ "published_at": "2026-10-02T09:24:39+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [
+   "앳킨슨",
+   "Atkinsons"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치향수",
+   "향수 화보",
+   "브랜드 모델"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "스파이스 오브 런던",
+    "brand": "앳킨슨",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미스틱 문라이트",
+    "brand": "앳킨슨",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "샤인 디스파이트 에브리띵",
+    "brand": "앳킨슨",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미드나잇 센티드 드림",
+    "brand": "앳킨슨",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "영국 향수 브랜드 앳킨슨이 배우 박정민을 브랜드 모델로 발탁했다.",
+  "key_fact_quote": "영국 향수 브랜드 앳킨슨이 배우 박정민을 모델로 발탁했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:37+00:00",
+ "had_body": true
+}

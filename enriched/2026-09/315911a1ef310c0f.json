@@ -1,0 +1,43 @@
+{
+ "doc_id": "315911a1ef310c0f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20260921000271",
+ "title": "[2026 전남광주뷰티산업전] 에스에이치엔코, 천연 미네랄 해수 분말 기반...",
+ "summary": "도 출시 해 판매하고 있다. SH&Co는 앞으로도 천연 미네랄 해수 분말과 마이크로니들 기술의 결합을 통해 피부... 주요 전시 품목은 △기초·색조화장품 △스킨케어·바디케어 △헤어·두피케어 △네일·메이크업 △ 향수 ...",
+ "published_at": "2026-09-24T09:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에스에이치엔코",
+   "SH&Co"
+  ],
+  "keywords": [
+   "뷰티산업전",
+   "천연 미네랄",
+   "마이크로니들"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에스에이치엔코가 천연 미네랄 해수 분말과 마이크로니들 기술을 결합한 뷰티 제품을 선보인다.",
+  "key_fact_quote": "SH&Co는 앞으로도 천연 미네랄 해수 분말과 마이크로니들 기술의 결합을 통해 피부...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:05+00:00",
+ "had_body": false
+}

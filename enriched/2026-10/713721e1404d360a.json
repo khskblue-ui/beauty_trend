@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "business",
-  "event_type": "business",
+  "event_type": "event",
   "countries": [
    "AE"
   ],
@@ -27,11 +27,11 @@
   "keywords": [
    "퍼스널케어",
    "뷰티 시장",
-   "기능성 제품"
+   "중동 공략"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "오스템파마가 뷰티 월드 두바이에 참가하여 중동 시장 공략에 나선다.",
+  "key_fact": "오스템파마가 중동 및 아프리카 뷰티 시장 공략을 위해 뷰티 월드 두바이에 참가한다.",
   "key_fact_quote": "오스템파마 뷰티 월드 두바이 참가 중동 공략",
   "events": [],
   "ingredients": [],
@@ -39,6 +39,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:51:32+00:00",
+ "enriched_at": "2026-10-15T15:24:15+00:00",
  "had_body": false
 }

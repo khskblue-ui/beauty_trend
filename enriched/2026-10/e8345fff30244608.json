@@ -1,0 +1,42 @@
+{
+ "doc_id": "e8345fff30244608",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=364612",
+ "title": "K - 뷰티 에 AI 접목 정부가 나선다",
+ "summary": "이번 대책은 K - 뷰티 수출 이 사상 최대 실적을 이어가는 가운데 나왔다. 식품의약품안전처에 따르면 올해 상반기 화장품 수출액은 전년 동기 대비 27.3% 증가한 70억 달러(잠정)로 역대 상반기 중 최대였다. 미국은 지난해...",
+ "published_at": "2026-10-14T09:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "뷰티 산업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "케이 뷰티 수출이 사상 최대 실적을 이어가는 가운데 정부가 인공지능 접목을 위한 대책을 마련했다.",
+  "key_fact_quote": "K - 뷰티 에 AI 접목 정부가 나선다\n이번 대책은 K - 뷰티 수출 이 사상 최대 실적을 이어가는 가운데 나왔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:29+00:00",
+ "had_body": false
+}

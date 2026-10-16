@@ -1,0 +1,47 @@
+{
+ "doc_id": "bceb51ad662a37e4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/23/2026092300125.html",
+ "title": "[단독] 에이블씨엔씨, 미샤·어퓨 화장품 가격 최대 28.6% 인상",
+ "summary": "고세코리아가 운영하는 일본 화장품 브랜드 데코르테는 10월1일부터 국내 판매 가격을 평균 8%가량 올린다. 신제품 등을 제외한 대부분 제품이 가격 조정 대상이며 제품별 인상 폭에는 차이가 있다. 데코르테는...",
+ "published_at": "2026-09-23T16:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "미샤",
+   "어퓨",
+   "데코르테"
+  ],
+  "companies": [
+   "에이블씨엔씨",
+   "고세코리아"
+  ],
+  "keywords": [
+   "화장품 가격 인상",
+   "가격 조정"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 브랜드들이 국내 판매 가격 조정을 단행한다.",
+  "key_fact_quote": "고세코리아가 운영하는 일본 화장품 브랜드 데코르테는 10월1일부터 국내 판매 가격을 평균 8%가량 올린다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:41+00:00",
+ "had_body": false
+}

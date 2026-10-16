@@ -1,0 +1,47 @@
+{
+ "doc_id": "a1cb907b474e4cc8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.tf.co.kr/read/economy/2374180.htm",
+ "title": "구다이글로벌, 내년 상반기 '피스마이너스원 뷰티 ' 론칭 …글로벌도 공략",
+ "summary": "새 뷰티 브랜드 인 '피스마이너스원 뷰티 (PEACEMINUSONE BEAUTY)'를 선보인다. 구다이글로벌은 오는 2027년 상반기를 목표로, 피스마이너스원 뷰티 를 론칭 하겠다고 8일 밝혔다....",
+ "published_at": "2026-10-08T10:15:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피스마이너스원 뷰티",
+   "PEACEMINUSONE BEAUTY"
+  ],
+  "companies": [
+   "구다이글로벌"
+  ],
+  "keywords": [
+   "뷰티 브랜드",
+   "브랜드 론칭",
+   "글로벌 공략"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "구다이글로벌이 새 뷰티 브랜드 피스마이너스원 뷰티를 선보이며 글로벌 시장 공략에 나선다.",
+  "key_fact_quote": "구다이글로벌은 오는 2027년 상반기를 목표로, 피스마이너스원 뷰티 를 론칭 하겠다고 8일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:42+00:00",
+ "had_body": false
+}

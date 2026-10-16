@@ -1,0 +1,45 @@
+{
+ "doc_id": "10b400bdc84631a9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10898011?ref=naver",
+ "title": "시몬스, 현대백화점 킨텍스점 7층 팝업스토어 오픈…‘ 뷰티 레스트 블랙...",
+ "summary": "시몬스의 최상위 매트리스 컬렉션인 뷰티 레스트 블랙의 전 제품이 놓여, 방문객이 이를 한꺼번에 집중해서 체험할 수 있다. 프레임은 2026년 F/W 시즌 신제품 ‘비쓰리(B3)’와 인기 모델 ‘아를라’, ‘라시드’를 함께...",
+ "published_at": "2026-10-10T12:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "시몬스"
+  ],
+  "companies": [
+   "시몬스"
+  ],
+  "keywords": [
+   "침대 매트리스",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:46+00:00",
+ "had_body": false
+}

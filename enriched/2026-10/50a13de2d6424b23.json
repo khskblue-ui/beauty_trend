@@ -1,0 +1,91 @@
+{
+ "doc_id": "50a13de2d6424b23",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160267742781560",
+ "title": "자민경, ‘프로폴리스 글라-톡 캡슐’ 스킨케어 3종 출시",
+ "summary": "화장품 브랜드 자민경이 ‘프로폴리스 글라-톡 캡슐 라인’ 3종을 출시하고, 12일~18일 기념 할인 행사를 진행한다. 신제품 은 캡슐 앰플과 캡슐 크림, 캡슐 겔 마스크로 구성됐다. 자민경은 프로폴리스 추출물에 콜라겐...",
+ "published_at": "2026-10-12T09:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "자민경"
+  ],
+  "companies": [],
+  "keywords": [
+   "스킨케어",
+   "프로폴리스",
+   "캡슐 앰플",
+   "캡슐 크림"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "프로폴리스 글라-톡 캡슐 라인",
+    "brand": "자민경",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "화장품 브랜드 자민경이 ‘프로폴리스 글라-톡 캡슐 라인’ 3종을 출시하고, 12일~18일 기념 할인 행사를 진행한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "캡슐 앰플",
+    "brand": "자민경",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신제품 은 캡슐 앰플과 캡슐 크림, 캡슐 겔 마스크로 구성됐다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "캡슐 크림",
+    "brand": "자민경",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신제품 은 캡슐 앰플과 캡슐 크림, 캡슐 겔 마스크로 구성됐다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "캡슐 겔 마스크",
+    "brand": "자민경",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신제품 은 캡슐 앰플과 캡슐 크림, 캡슐 겔 마스크로 구성됐다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "자민경이 프로폴리스 성분을 담은 신규 스킨케어 라인을 출시했다.",
+  "key_fact_quote": "화장품 브랜드 자민경이 ‘프로폴리스 글라-톡 캡슐 라인’ 3종을 출시하고, 12일~18일 기념 할인 행사를 진행한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "프로폴리스 추출물",
+    "quote": "자민경은 프로폴리스 추출물에 콜라겐..."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "자민경은 프로폴리스 추출물에 콜라겐..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:40+00:00",
+ "had_body": false
+}

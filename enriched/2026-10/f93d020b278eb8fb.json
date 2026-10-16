@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "business",
+  "category": "skincare",
   "event_type": "business",
   "countries": [
    "KR"
@@ -24,11 +24,12 @@
   "companies": [],
   "keywords": [
    "뷰티 브랜드",
-   "브랜드 론칭"
+   "브랜드 론칭",
+   "제품 개발"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "방예원이 준비와 출산을 거쳐 뷰티 브랜드를 론칭했다.",
+  "key_fact": "방예원이 뷰티 브랜드를 론칭하며 창업과 제품 개발 과정을 밝혔다.",
   "key_fact_quote": "방예원은 뷰티 브랜드 창업과 제품 개발 과정에 대해 \"2024년부터 준비를 시작했으나 출산으로 잠시 멈추게 됐다\"라며 \"아이들에게 끝까지 해내는 엄마의 모습을 보여주고 싶었고 남편에게도 제가 해내는 모습을...",
   "events": [],
   "ingredients": [],
@@ -36,6 +37,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:24+00:00",
+ "enriched_at": "2026-10-15T15:26:17+00:00",
  "had_body": false
 }

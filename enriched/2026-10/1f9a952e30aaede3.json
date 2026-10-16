@@ -1,0 +1,58 @@
+{
+ "doc_id": "1f9a952e30aaede3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45347",
+ "title": "[오늘의 뷰티] 배민·CJ올리브영·프레비츠",
+ "summary": "7일, 필요한 화장품 을 바로 받아보는 쇼핑부터 머리부터 발끝까지 돌보는 샤워, 가을철 선케어까지 뷰티... 신제품 아쿠아 릴리프 선세럼 듀이 클리어 리뷰 이벤트도 진행한다. 행사 기간 중 리뷰 작성 시 텍스트 리뷰...",
+ "published_at": "2026-10-07T15:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "배민",
+   "CJ올리브영",
+   "프레비츠"
+  ],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "선케어",
+   "선세럼",
+   "리뷰 이벤트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아쿠아 릴리프 선세럼 듀이 클리어",
+    "brand": "프레비츠",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신제품 아쿠아 릴리프 선세럼 듀이 클리어 리뷰 이벤트도 진행한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 업계에서 선케어 신제품 출시 및 리뷰 이벤트를 진행한다.",
+  "key_fact_quote": "신제품 아쿠아 릴리프 선세럼 듀이 클리어 리뷰 이벤트도 진행한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:58+00:00",
+ "had_body": false
+}

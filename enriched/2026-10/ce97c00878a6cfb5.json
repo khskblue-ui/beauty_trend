@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "makeup",
+  "category": "skincare",
   "event_type": "business",
   "countries": [
    "JP",
@@ -25,33 +25,25 @@
    "누니"
   ],
   "companies": [
-   "미미박스"
+   "미미박스",
+   "라쿠텐",
+   "로프트"
   ],
   "keywords": [
    "립오일",
-   "오프라인 유통",
-   "케이뷰티"
+   "오프라인 입점",
+   "해외 진출"
   ],
   "is_press_release": true,
-  "products": [
-   {
-    "name": "립오일",
-    "brand": "누니",
-    "launch_date": null,
-    "launch_status": "unknown",
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   }
-  ],
-  "key_fact": "미미박스의 브랜드 누니가 일본 라쿠텐 립오일 부문에서 정상을 차지하고 현지 오프라인 매장에 입점했다.",
-  "key_fact_quote": "미미박스 누니, 일본 라쿠텐 립오일 랭킹 1위…로프트 입점으로 오프라...",
+  "products": [],
+  "key_fact": "미미박스의 누니가 일본 온라인 플랫폼에서 호응을 얻으며 오프라인 매장 입점을 통해 현지 유통을 확대한다.",
+  "key_fact_quote": "미미박스는 현지 유통 파트너와 협력해 온라인에서 확인한 수요를 오프라인 구매로 연결한다는 전략이다.",
   "events": [],
   "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:51:19+00:00",
+ "enriched_at": "2026-10-15T15:24:08+00:00",
  "had_body": false
 }

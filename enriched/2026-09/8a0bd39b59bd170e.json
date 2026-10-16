@@ -1,0 +1,44 @@
+{
+ "doc_id": "8a0bd39b59bd170e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=118088",
+ "title": "다이소몰, 'Daiso-DAY 9월 신상' 개최…뷰티 신규 라인 등 200여 종 선봬",
+ "summary": "균일가 생활용품점 아성다이소가 자체 온라인 쇼핑몰 '다이소몰'에서 인기 재입고 상품과 가을 시즌 신제품 ... 특히 다이소의 핵심 인기 카테고리로 자리 잡은 화장품 라인업을 대폭 확대했다. VT코스메틱은 피부 톤...",
+ "published_at": "2026-09-14T11:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "VT코스메틱"
+  ],
+  "companies": [
+   "아성다이소"
+  ],
+  "keywords": [
+   "뷰티 신규 라인",
+   "화장품 라인업",
+   "온라인 쇼핑몰 행사"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아성다이소는 온라인 쇼핑몰을 통해 화장품 라인업을 대폭 확대한 기획 행사를 진행한다.",
+  "key_fact_quote": "균일가 생활용품점 아성다이소가 자체 온라인 쇼핑몰 '다이소몰'에서 인기 재입고 상품과 가을 시즌 신제품 ... 특히 다이소의 핵심 인기 카테고리로 자리 잡은 화장품 라인업을 대폭 확대했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:09+00:00",
+ "had_body": false
+}

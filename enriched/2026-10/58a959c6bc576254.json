@@ -1,0 +1,44 @@
+{
+ "doc_id": "58a959c6bc576254",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/01/2026100100125.html",
+ "title": "K뷰티 수출 신기록 '용기' 수급에 발목 … 콜마, 납품 지연→분기 실적...",
+ "summary": "국내 화장품 제조업자개발생산(ODM) 업체가 개발·생산을 맡고 브랜드는 사회관계망서비스(SNS) 마케팅과 유통망 확보에 집중한다. 자체 공장을 갖추지 않아도 신제품 을 빠르게 출시하고 해외 주문에 대응할 수 있는...",
+ "published_at": "2026-10-01T11:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "콜마"
+  ],
+  "keywords": [
+   "제조업자개발생산",
+   "화장품 용기",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 용기 수급 문제로 콜마의 납품이 지연되며 분기 실적에 영향을 미치고 있다.",
+  "key_fact_quote": "K뷰티 수출 신기록 '용기' 수급에 발목 … 콜마, 납품 지연→분기 실적...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:27+00:00",
+ "had_body": false
+}

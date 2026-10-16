@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "business",
+  "category": "other",
   "event_type": "event",
   "countries": [
    "KR"
@@ -25,16 +25,18 @@
   "keywords": [
    "맞춤형 화장품",
    "향수 만들기",
-   "뷰티엑스포"
+   "피부 진단"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "오송뷰티엑스포 개막을 앞두고 충북 화장품 제조 현장과 함께 맞춤형 화장품 및 향수 만들기 등의 체험 프로그램 운영 계획이 소개되었다.",
+  "key_fact": "개막을 앞둔 오송뷰티엑스포에서 일반 관람객을 위한 체험 프로그램 등이 운영된다.",
   "key_fact_quote": "일반 관람객을 위한 AI 피부 진단, 맞춤형 화장품· 향수 만들기 등 체험 프로그램도 함께 운영한다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:16+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:51+00:00",
  "had_body": false
 }

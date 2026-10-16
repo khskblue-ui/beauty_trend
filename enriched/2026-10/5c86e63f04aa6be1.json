@@ -1,0 +1,45 @@
+{
+ "doc_id": "5c86e63f04aa6be1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.econovill.com/news/articleView.html?idxno=753240",
+ "title": "세포라 손잡은 CJ올리브영 동남아 공략…'K 뷰티 ' 영토 넓힌다",
+ "summary": "K 뷰티 에딧' 매대를 공식 론칭 했다. 또 뉴욕 타임스퀘어 플래그십매장의 메인 옥외광고판 등을 활용해... K 뷰티 브랜드 가 글로벌 메이저 리테일 채널에 진입할 수 있는 기회를 확대하고 있다\"라면서 \"시장별 소비자...",
+ "published_at": "2026-10-12T15:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "세포라",
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "글로벌 리테일",
+   "해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "씨제이올리브영이 세포라와 협력하여 글로벌 메이저 리테일 채널 진입 기회를 확대하고 해외 시장 공략에 나섰다.",
+  "key_fact_quote": "세포라 손잡은 CJ올리브영 동남아 공략…'K 뷰티 ' 영토 넓힌다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:30+00:00",
+ "had_body": false
+}

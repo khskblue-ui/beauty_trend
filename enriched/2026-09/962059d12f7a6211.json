@@ -1,0 +1,43 @@
+{
+ "doc_id": "962059d12f7a6211",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.segyebiz.com/newsView/20260917516097?OutUrl=naver",
+ "title": "에이피알, ‘에이지알’ 뷰티 디바이스 누적 800만 대…해외 비중 60% 넘...",
+ "summary": "에이피알은 뷰티 디바이스를 K- 뷰티 의 핵심 성장 동력으로 삼고 브랜드 출시 이후 관련 사업을 꾸준히 키워왔다. 전담 R&D 조직을 두고 자체 생산 체계를 마련하는 등 경쟁력을 다졌으며 지금까지 총 16종의 신제품 을...",
+ "published_at": "2026-09-17T16:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이지알"
+  ],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "케이뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에이피알은 뷰티 디바이스를 성장 동력으로 삼아 자체 연구개발 및 생산 체계를 바탕으로 다수의 신제품을 선보이며 관련 사업을 확장하고 있다.",
+  "key_fact_quote": "에이피알은 뷰티 디바이스를 K- 뷰티 의 핵심 성장 동력으로 삼고 브랜드 출시 이후 관련 사업을 꾸준히 키워왔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:24:03+00:00",
+ "had_body": false
+}

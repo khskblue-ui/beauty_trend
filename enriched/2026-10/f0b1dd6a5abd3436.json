@@ -15,30 +15,31 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "fragrance",
+  "category": "business",
   "event_type": "market_trend",
   "countries": [
    "IN",
    "FR",
    "DE",
-   "US",
-   "KR"
+   "US"
   ],
   "brands": [],
   "companies": [],
   "keywords": [
-   "미용 및 퍼스널케어",
+   "미용 퍼스널케어",
    "고급 향료",
    "케이뷰티"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "인도 남부 지역을 중심으로 고급 향료를 서구권에서 고가로 수입해 프리미엄으로 포지셔닝하고 있다.",
+  "key_fact": "인도 남부 지역에서 고급 향료를 유럽과 미국 등에서 고단가로 수입하며 프리미엄 시장으로 자리잡고 있다.",
   "key_fact_quote": "고급 향료 는 프랑스, 독일 등 유럽, 미국 등에서 고단가로 수입, 프리미엄으로 포지셔닝",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:31+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:26+00:00",
  "had_body": false
 }

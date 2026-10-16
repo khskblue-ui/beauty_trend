@@ -1,0 +1,64 @@
+{
+ "doc_id": "a3679c1b60acffb2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=770339",
+ "title": "클라랑스, 젤리 립 오일 출시 …디오디너리, 소프트 립 케어 세트 선봬",
+ "summary": "가을철 건조한 날씨를 앞두고 뷰티 업계가 보습과 각질 케어는 물론 소장 재미까지 더한 립 제품을 잇달아... 있는 신제품 '소프트 립 세트'를 출시 한다. 제품은 올리브영 공식 온라인몰에서 단독으로 선보인다. '소프트 립...",
+ "published_at": "2026-10-01T19:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "클라랑스",
+   "디오디너리"
+  ],
+  "companies": [],
+  "keywords": [
+   "립 오일",
+   "립 케어 세트",
+   "립 보습"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "젤리 립 오일",
+    "brand": "클라랑스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "클라랑스, 젤리 립 오일 출시 …디오디너리, 소프트 립 케어 세트 선봬",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "소프트 립 세트",
+    "brand": "디오디너리",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "있는 신제품 '소프트 립 세트'를 출시 한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 업계가 가을철 건조한 날씨를 맞아 보습과 각질 케어 기능을 갖춘 립 신제품을 선보인다.",
+  "key_fact_quote": "가을철 건조한 날씨를 앞두고 뷰티 업계가 보습과 각질 케어는 물론 소장 재미까지 더한 립 제품을 잇달아...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:10+00:00",
+ "had_body": false
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "fd75495533c37ef0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/it-science/game-review/6300607",
+ "title": "한국 '덕후'가 해석한 日 서브컬처의 ' 향수 ' 성공할 수 있을까",
+ "summary": "애니메이션의 ' 향수 '를 불러일으키는 것을 목표로 한다고 강조했다. 일본인이 아닌 한국인이 그 시절의... 콘텐츠 출시 속도에 대해 임 디렉터는 \"플레이어블 캐릭터는 출시 쯤에는 30여 명 정도로 생각하고 있다\"며...",
+ "published_at": "2026-09-27T07:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "서브컬처",
+   "애니메이션",
+   "콘텐츠"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:03+00:00",
+ "had_body": false
+}

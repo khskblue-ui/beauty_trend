@@ -1,0 +1,41 @@
+{
+ "doc_id": "925cf752ba7c4bc2",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=311887",
+ "title": "K-Beauty Children's Cosmetics Exports Surge as Demand Expands Across Asia - 뷰티경제",
+ "summary": "South Korea's children's cosmetics exports recorded one of the fastest growth rates among",
+ "published_at": "2026-10-01T16:30:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "어린이 화장품",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 어린이 화장품의 수출이 아시아 전역의 수요 확대로 급증하고 있다.",
+  "key_fact_quote": "K-Beauty Children's Cosmetics Exports Surge as Demand Expands Across Asia",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:28+00:00",
+ "had_body": false
+}

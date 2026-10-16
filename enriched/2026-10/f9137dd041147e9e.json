@@ -1,0 +1,43 @@
+{
+ "doc_id": "f9137dd041147e9e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.g-enews.com/view.php?ud=2026100614212127657d9ce08d08_1",
+ "title": "경산 화장품 6개사, 말레이시아 첫 참가서 11억원 수출 계약",
+ "summary": "경산 화장품 기업들은 말레이시아 첫 단체 참가에서 약 11억원의 수출 계약을 따냈다. #경산 #경산화장품 # K뷰티 , #말레이시아 # 수출 계약 #화장품 수출 , #경산기업 # 뷰티 엑스포 #경산시 심현보 글로벌이코노믹 기자",
+ "published_at": "2026-10-06T17:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MY"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "수출 계약",
+   "뷰티 엑스포"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "경산 지역 화장품 기업들이 말레이시아 행사 첫 단체 참가에서 수출 계약을 체결했다.",
+  "key_fact_quote": "경산 화장품 기업들은 말레이시아 첫 단체 참가에서 약 11억원의 수출 계약을 따냈다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:08+00:00",
+ "had_body": false
+}

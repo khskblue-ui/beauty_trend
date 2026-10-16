@@ -5,12 +5,12 @@
  "group": "kr_news",
  "lang": "ko",
  "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169830",
- "title": "당신의 가을은 어떤 향인가요? [이선미의 퍼퓸 테크]",
- "summary": "특히 가격대가 높은 니치 향수에서는 시향지와 피부 위의 발향·잔향, 매장 공간의 분위기 같은 경험이 구매... 이른바 ' 퍼퓸 테크(Perfume Tech)'는 향수 산업에 AI와 데이터, 디지털 인터페이스, 개인화 기술이 결합한 새로운...",
+ "title": "당신의 가을은 어떤 향인가요? [이선미의 퍼퓸테크]",
+ "summary": "향료 명으로 취향을 설명하기 어려운 소비자는, 예를 들어 첫 여행지 호텔 로비의 공기나 정장을 입는 날의... 향료 지식이 많지 않아도 자신의 삶을 언어로 말할 수 있다면, 누구나 취향 탐색의 주체가 될 수 있다. 따라서...",
  "published_at": "2026-09-10T06:00:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "니치 퍼퓸",
+ "query": "향료",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -23,20 +23,17 @@
   "brands": [],
   "companies": [],
   "keywords": [
-   "퍼퓸 테크",
-   "니치 향수",
-   "개인화 기술"
+   "향료 지식",
+   "취향 탐색"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "향수 산업에 인공지능과 데이터 및 디지털 기술이 결합한 퍼퓸 테크가 주목받고 있다.",
-  "key_fact_quote": "이른바 ' 퍼퓸 테크(Perfume Tech)'는 향수 산업에 AI와 데이터, 디지털 인터페이스, 개인화 기술이 결합한 새로운...",
-  "events": [],
-  "ingredients": [],
+  "key_fact": "소비자는 전문적인 향료 명칭을 몰라도 자신의 삶과 경험을 언어로 표현함으로써 향 취향 탐색의 주체가 될 수 있다.",
+  "key_fact_quote": "향료 지식이 많지 않아도 자신의 삶을 언어로 말할 수 있다면, 누구나 취향 탐색의 주체가 될 수 있다.",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:13+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:24+00:00",
  "had_body": false
 }

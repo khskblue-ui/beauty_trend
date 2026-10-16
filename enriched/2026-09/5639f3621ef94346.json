@@ -1,0 +1,47 @@
+{
+ "doc_id": "5639f3621ef94346",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.widedaily.com/news/articleView.html?idxno=300892",
+ "title": "무신사 뷰티, 홍대에 첫 단독 매장 오픈…약국 결합한 '파머시 뷰티' 선...",
+ "summary": "메이크업과 향수 중심의 1층에서는 중국 인기 브랜드인 '인투유'와 'AZTK'를 국내 최초로 만나볼 수 있으며, 국내외 유명 니치 향수 들도 단독 입점했다. 이와 함께 화장품을 직접 발라볼 수 있는 터치업 바와 컬러 렌즈...",
+ "published_at": "2026-09-10T10:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "무신사 뷰티",
+   "인투유",
+   "AZTK"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "파머시 뷰티",
+   "니치 향수",
+   "오프라인 매장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "무신사 뷰티가 홍대에 약국과 결합한 첫 단독 오프라인 매장을 열고 메이크업과 향수 브랜드를 선보인다.",
+  "key_fact_quote": "무신사 뷰티, 홍대에 첫 단독 매장 오픈…약국 결합한 '파머시 뷰티' 선...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:38+00:00",
+ "had_body": false
+}

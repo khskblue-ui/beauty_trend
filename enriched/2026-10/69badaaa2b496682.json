@@ -1,0 +1,46 @@
+{
+ "doc_id": "69badaaa2b496682",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=394433",
+ "title": "베이스드온, '2026 무한도전 Run in LA' 공식 뷰티 스폰서 참여",
+ "summary": "글로벌 수출 기반을 구축하고 있다. 베이스드온 관계자는 \"'2026 무한도전 Run in LA'는 러닝을 매개로 다양한 사람들이 함께 참여하고 K -컬처를 경험할 수 있는 행사\"라며 \"공식 뷰티 스폰서로서 참가자들에게 제품을 직접...",
+ "published_at": "2026-10-02T12:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "베이스드온"
+  ],
+  "companies": [
+   "베이스드온"
+  ],
+  "keywords": [
+   "뷰티 스폰서",
+   "스포츠 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "베이스드온이 러닝 행사의 공식 뷰티 스폰서로 참여한다.",
+  "key_fact_quote": "베이스드온, '2026 무한도전 Run in LA' 공식 뷰티 스폰서 참여",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:43+00:00",
+ "had_body": false
+}

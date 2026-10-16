@@ -1,0 +1,47 @@
+{
+ "doc_id": "6d0808c2f471c0f4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10892265?ref=naver",
+ "title": "K - 뷰티 수출 1위, 중국 아닌 ‘이 나라’였다…15조 잭팟",
+ "summary": "것”이라며 “국가별 규제정보 제공, 할랄 인증 컨설팅 지원 등을 추진하겠다”고 말했다. 한편 아모레퍼시픽, LG생활건강, 에이피알 등 국내 화장품 브랜드들은 수출 국가를 늘리는 등 K - 뷰티 성장에 힘쓰고 있다.",
+ "published_at": "2026-10-02T18:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽",
+   "LG생활건강",
+   "에이피알"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "화장품 수출",
+   "할랄 인증"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 주요 화장품 기업들이 수출 다변화를 통해 케이뷰티 성장을 이끌고 있다.",
+  "key_fact_quote": "한편 아모레퍼시픽, LG생활건강, 에이피알 등 국내 화장품 브랜드들은 수출 국가를 늘리는 등 K - 뷰티 성장에 힘쓰고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:38+00:00",
+ "had_body": false
+}

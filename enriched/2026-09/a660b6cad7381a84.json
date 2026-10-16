@@ -1,0 +1,42 @@
+{
+ "doc_id": "a660b6cad7381a84",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.joongangenews.com/news/articleView.html?idxno=549569",
+ "title": "코스맥스그룹, K뷰티 이끌 신입 뽑는다…R&I·해외영업 등 대규모 공채",
+ "summary": "공식 인스타그램에서도 임직원 이야기와 신제품 , 하반기 채용 관련 콘텐츠를 제공하고 있다. 코스맥스그룹 관계자는 \"K-뷰티가 세계 화장품 산업의 새로운 기준을 세우며 혁신을 이끄는 지금 그 흐름을 함께 만들어갈...",
+ "published_at": "2026-09-21T10:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스그룹"
+  ],
+  "keywords": [
+   "채용",
+   "공개 채용",
+   "화장품 산업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스그룹이 연구 및 해외영업 등 다양한 직무에서 신입사원 대규모 공개 채용을 진행한다.",
+  "key_fact_quote": "코스맥스그룹, K뷰티 이끌 신입 뽑는다…R&I·해외영업 등 대규모 공채",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:11+00:00",
+ "had_body": false
+}

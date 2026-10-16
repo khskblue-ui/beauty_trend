@@ -1,0 +1,53 @@
+{
+ "doc_id": "d21484befb33a242",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.rapportian.com/news/articleView.html?idxno=240591",
+ "title": "스페클립스, 인도네시아서 미용·치료 의료기기 '피코케이' 출시",
+ "summary": "이번 행사는 뷰티 월드 창립 25주년을 기념한 고객 사은행사와 신제품 출시 행사로 마련됐으며, 현지 산업 관계자와 의료진 등 약 600명이 참석했다. 이 자리에는 홍정환 대표를 비롯한 스페클립스 주요 임직원도 참석해...",
+ "published_at": "2026-09-21T11:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "ID"
+  ],
+  "brands": [
+   "피코케이"
+  ],
+  "companies": [
+   "스페클립스",
+   "뷰티 월드"
+  ],
+  "keywords": [
+   "미용 의료기기",
+   "치료 의료기기"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "피코케이",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스페클립스가 인도네시아에서 미용 및 치료 의료기기 피코케이를 출시했다.",
+  "key_fact_quote": "스페클립스, 인도네시아서 미용·치료 의료기기 '피코케이' 출시",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:47+00:00",
+ "had_body": false
+}

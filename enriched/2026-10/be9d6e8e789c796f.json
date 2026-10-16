@@ -1,0 +1,53 @@
+{
+ "doc_id": "be9d6e8e789c796f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.g-enews.com/view.php?ud=202610051052289105e7e8286d56_1",
+ "title": "\"유럽 홀린 K뷰티 \"… 수출 62% 뛰자 파리·밀라노 진격",
+ "summary": "바이어와의 수출 상담을 진행했다. 이어 독일 슈투트가르트에서는 9월 28일 대형 쇼핑몰 밀라네오에 상설 매장인 '네모 스토어 x K - 뷰티 온'을 열었다. 지난 2025년 임시 매장의 우수한 성과를 발판 삼아 상시 판매 체제로...",
+ "published_at": "2026-10-05T10:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "DE",
+   "FR",
+   "IT"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "상설 매장",
+   "뷰티 수출",
+   "수출 상담"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유럽 시장에서 한국 뷰티 제품의 인기가 높아지면서 독일 쇼핑몰에 상설 매장을 열었다.",
+  "key_fact_quote": "이어 독일 슈투트가르트에서는 9월 28일 대형 쇼핑몰 밀라네오에 상설 매장인 '네모 스토어 x K - 뷰티 온'을 열었다.",
+  "events": [
+   {
+    "name": "네모 스토어 x K - 뷰티 온 오픈",
+    "start_date": "2026-09-28",
+    "end_date": null,
+    "place": "독일 슈투트가르트 대형 쇼핑몰 밀라네오",
+    "quote": "이어 독일 슈투트가르트에서는 9월 28일 대형 쇼핑몰 밀라네오에 상설 매장인 '네모 스토어 x K - 뷰티 온'을 열었다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:26+00:00",
+ "had_body": false
+}

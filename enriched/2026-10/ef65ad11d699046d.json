@@ -1,0 +1,84 @@
+{
+ "doc_id": "ef65ad11d699046d",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100012",
+ "title": "바이오힐보, ‘판테셀 리페어 시카 크림 미스트’로 환절기 공략",
+ "summary": "바이오힐보(BIOHEAL BOH)가 '판테셀 리페어 시카 크림 미스트'를 앞세워 가을 환절기 뷰티시장 공략에 속도를 내고 있다.최근 K뷰티 시장에서는 보습과 피부 진정 관리에 도움을 주는 것으로 알려진 '판테놀(Provitamin B5)' 성분에 대한 관심이 높아지고 있다. 올리브영 데이터에 따르면, 9월 한 달간 올리브영 온라인몰 내 ‘판테놀’ 키워드 검색량은 전년 동기 대비 101% 증가했다.바이오힐보는 이러한 소비자 수요에 맞춰 판테놀 성분을 미스트 제형으로 구현한 '판테셀 리페어 시카 크림",
+ "published_at": "2026-10-01T09:48:06+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "바이오힐보",
+   "BIOHEAL BOH"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "크림 미스트",
+   "보습 관리",
+   "피부 진정"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "판테셀 리페어 시카 크림 미스트",
+    "brand": "바이오힐보",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "바이오힐보는 이러한 소비자 수요에 맞춰 판테놀 성분을 미스트 제형으로 구현한 '판테셀 리페어 시카 크림 미스트'를 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "100ml 기내용 트리플 세트",
+    "brand": "바이오힐보",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "지난 6월 바이오힐보는 기내 액체류 반입 기준을 고려해 휴대 편의성을 높인 ‘100ml 기내용 트리플 세트’를 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "바이오힐보가 환절기를 겨냥해 판테놀 성분을 미스트 형태로 구현한 스킨케어 제품을 선보이며 국내외에서 주목받고 있다.",
+  "key_fact_quote": "바이오힐보(BIOHEAL BOH)가 '판테셀 리페어 시카 크림 미스트'를 앞세워 가을 환절기 뷰티시장 공략에 속도를 내고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "판테놀",
+    "quote": "최근 K뷰티 시장에서는 보습과 피부 진정 관리에 도움을 주는 것으로 알려진 '판테놀(Provitamin B5)' 성분에 대한 관심이 높아지고 있다."
+   },
+   {
+    "name": "Provitamin B5",
+    "quote": "최근 K뷰티 시장에서는 보습과 피부 진정 관리에 도움을 주는 것으로 알려진 '판테놀(Provitamin B5)' 성분에 대한 관심이 높아지고 있다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "이에 바이오힐보는 판테놀과 펩타이드, 병풀 추출물 성분을 배합한 크림을 '초미세 안개 분사' 형태의 미스트로 구현해 장소와 시간에 구애받지 않고 간편하게 보습 관리를 할 수 있도록 했다."
+   },
+   {
+    "name": "병풀 추출물",
+    "quote": "이에 바이오힐보는 판테놀과 펩타이드, 병풀 추출물 성분을 배합한 크림을 '초미세 안개 분사' 형태의 미스트로 구현해 장소와 시간에 구애받지 않고 간편하게 보습 관리를 할 수 있도록 했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:11+00:00",
+ "had_body": true
+}

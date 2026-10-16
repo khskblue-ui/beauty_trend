@@ -18,7 +18,8 @@
   "category": "hair",
   "event_type": "event",
   "countries": [
-   "AE"
+   "AE",
+   "KR"
   ],
   "brands": [
    "다슈",
@@ -32,17 +33,26 @@
   "keywords": [
    "글로벌 화장품 박람회",
    "헤어 케어",
-   "남성 그루밍",
-   "헤어 스타일링"
+   "남성 그루밍"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "크로마엑스가 뷰티월드 두바이에 참가해 헤어 브랜드 다슈와 달리프를 선보이며 중동 시장 진출을 모색했다.",
-  "key_fact_quote": "크로마엑스가 6일부터 8일까지 아랍에미리트(UAE) 두바이에서 열린 ‘뷰티월드 두바이 2026’에 참가했다.",
+  "key_fact": "크로마엑스가 뷰티월드 두바이 박람회에 참가해 헤어 브랜드 다슈와 달리프를 선보였다.",
+  "key_fact_quote": "크로마엑스는 이번 행사에서 헤어 브랜드 다슈(DASHU)와 달리프(DALEAF)를 선보였다.",
+  "events": [
+   {
+    "name": "뷰티월드 두바이 2026",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-08",
+    "place": "아랍에미리트(UAE) 두바이",
+    "quote": "크로마엑스가 6일부터 8일까지 아랍에미리트(UAE) 두바이에서 열린 ‘뷰티월드 두바이 2026’에 참가했다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:58+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:08+00:00",
  "had_body": true
 }

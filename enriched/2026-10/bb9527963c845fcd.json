@@ -1,0 +1,43 @@
+{
+ "doc_id": "bb9527963c845fcd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sportschosun.com/life/2026-10-08/202610080100057890003696",
+ "title": "연구 개발 역량 강화에 트렌드 리딩까지…K뷰티, 글로벌 공략 본격화",
+ "summary": "올해 연구는 스킨케어와 기반기술을 비롯해 메이크업, 선케어, 헤어케어, 향료 등 화장품 연구개발의 핵심 분야 전반에 걸쳐 이뤄졌다. 특히 자외선 차단 분야에서만 3건의 연구 결과를 발표하며 글로벌 선케어...",
+ "published_at": "2026-10-08T16:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "연구개발",
+   "글로벌 공략",
+   "선케어",
+   "향료"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 뷰티 업계가 스킨케어와 향료 등 핵심 분야 연구개발 역량을 강화하며 해외 시장 공략에 나서고 있다.",
+  "key_fact_quote": "올해 연구는 스킨케어와 기반기술을 비롯해 메이크업, 선케어, 헤어케어, 향료 등 화장품 연구개발의 핵심 분야 전반에 걸쳐 이뤄졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:31+00:00",
+ "had_body": false
+}

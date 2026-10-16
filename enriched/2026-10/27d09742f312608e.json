@@ -15,32 +15,30 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "retail",
+  "category": "skincare",
   "event_type": "business",
   "countries": [
    "KR"
   ],
-  "brands": [
-   "머큐어"
-  ],
+  "brands": [],
   "companies": [
-   "머큐어 앰배서더 서울 홍대"
+   "머큐어 홍대"
   ],
   "keywords": [
    "K-뷰티 관광",
    "뷰티 패키지",
-   "의료 관광"
+   "피부 관리"
   ],
-  "is_press_release": false,
+  "is_press_release": true,
   "products": [],
-  "key_fact": "외국인 관광객을 겨냥하여 호텔 숙박과 피부과 진료를 연계한 뷰티 패키지 상품이 출시되었다.",
-  "key_fact_quote": "화장품 을 사고 피부 관리를 받는 것이 외국인 관광객의 서울 여행 일정으로 자리 잡으면서, 숙박과 뷰티를 한 동선에 묶은 상품이 나온 것이다.",
+  "key_fact": "머큐어 홍대가 외국인 관광객을 겨냥해 피부과와 손잡고 숙박과 뷰티를 결합한 상품을 출시했다.",
+  "key_fact_quote": "K-뷰티 관광객 잡는다… 머큐어 홍대, 피부과 손잡고 숙박 상품 출시",
   "events": [],
   "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:04+00:00",
+ "enriched_at": "2026-10-15T15:24:44+00:00",
  "had_body": false
 }

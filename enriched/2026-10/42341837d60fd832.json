@@ -1,0 +1,46 @@
+{
+ "doc_id": "42341837d60fd832",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/dua-lipa-augustinus-bader-brand-first-permanent-boutique-1239301471/",
+ "title": "EXCLUSIVE: Dua Lipa’s Brand With Augustinus Bader Gets First Permanent Boutique",
+ "summary": "Dua Powered by Augustinus Bader Science’s store is by the Palais-Royal in Paris.",
+ "published_at": "2026-10-02T13:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Dua Powered by Augustinus Bader Science",
+   "Augustinus Bader"
+  ],
+  "companies": [
+   "Augustinus Bader"
+  ],
+  "keywords": [
+   "단독 매장",
+   "부티크 오픈"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "두아 리파와 아우구스티누스 바더가 함께한 브랜드가 파리 팔레 루아얄 인근에 첫 단독 매장을 오픈한다.",
+  "key_fact_quote": "Dua Powered by Augustinus Bader Science’s store is by the Palais-Royal in Paris.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:32+00:00",
+ "had_body": false
+}

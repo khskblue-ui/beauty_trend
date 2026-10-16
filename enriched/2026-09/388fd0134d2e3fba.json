@@ -1,0 +1,58 @@
+{
+ "doc_id": "388fd0134d2e3fba",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=763480",
+ "title": "시로·킬리안 파리·디올 뷰티, 가을 향수 3선 주목",
+ "summary": "사진=크리스챤 디올 뷰티 크리스챤 디올 뷰티가 대표 남성 향수 라인 '소바쥬'의 신제품 '소바쥬 엑스트레'를 출시했다고 31일 밝혔다. '소바쥬 엑스트레'는 디올이 남성을 위해 처음 선보이는 엑스트레 퍼퓸으로, 기존...",
+ "published_at": "2026-09-03T20:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "시로",
+   "킬리안 파리",
+   "디올 뷰티",
+   "크리스챤 디올 뷰티",
+   "소바쥬",
+   "디올"
+  ],
+  "companies": [
+   "크리스챤 디올 뷰티"
+  ],
+  "keywords": [
+   "가을 향수",
+   "남성 향수",
+   "엑스트레 퍼퓸"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "소바쥬 엑스트레",
+    "brand": "크리스챤 디올 뷰티",
+    "launch_date": null,
+    "launch_quote": "크리스챤 디올 뷰티가 대표 남성 향수 라인 '소바쥬'의 신제품 '소바쥬 엑스트레'를 출시했다고 31일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "크리스챤 디올 뷰티가 대표 남성 향수 라인의 신제품을 출시했다.",
+  "key_fact_quote": "크리스챤 디올 뷰티가 대표 남성 향수 라인 '소바쥬'의 신제품 '소바쥬 엑스트레'를 출시했다고 31일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:42+00:00",
+ "had_body": false
+}

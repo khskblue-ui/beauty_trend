@@ -1,0 +1,47 @@
+{
+ "doc_id": "77861381b4d0238a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fashionbiz.co.kr/article/229371",
+ "title": "무신사, 홍대에 뷰티 첫 단독매장… 약국 품은 '파머시 뷰티' 선봬",
+ "summary": "주요 브랜드로는 C뷰티 브랜드 '인투유'와 'AZTK'가 국내 최초로 입점하며, 프랑스 니치 향수 브랜드 '에따 리브르 도랑쥬'와 국내 니치 향수 브랜드 '셀바티고' 등을 단독으로 선보인다. 오프라인에서 쉽게 접하기 어려운...",
+ "published_at": "2026-09-10T09:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "인투유",
+   "AZTK",
+   "에따 리브르 도랑쥬",
+   "셀바티고"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "파머시 뷰티",
+   "단독 매장",
+   "니치 향수"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "무신사가 홍대에 첫 단독 뷰티 매장을 열고 파머시 뷰티와 다양한 니치 향수 브랜드를 선보인다.",
+  "key_fact_quote": "무신사, 홍대에 뷰티 첫 단독매장… 약국 품은 '파머시 뷰티' 선봬",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:40+00:00",
+ "had_body": false
+}

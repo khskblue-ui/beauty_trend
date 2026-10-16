@@ -30,20 +30,46 @@
   ],
   "keywords": [
    "클렌징 폼",
-   "캐릭터 콜라보",
-   "무빙 팝업스토어",
-   "뷰티 마케팅"
+   "무빙팝업",
+   "캐릭터 콜라보"
   ],
   "is_press_release": true,
-  "products": [],
-  "key_fact": "클렌징 브랜드 센카가 쿵야 레스토랑즈와의 콜라보 에디션 출시를 기념해 진행한 무빙팝업 행사를 성황리에 마쳤다.",
+  "products": [
+   {
+    "name": "퍼펙트 휩 양파쿵야 에디션",
+    "brand": "센카",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "클렌징 전문 브랜드 ‘센카(SENKA)’가 넷마블 엠엔비 ‘쿵야 레스토랑즈’와의 콜라보 에디션 출시를 기념해 진행한 센카X얼루어 뷰티로드 무빙팝업을 성황리에 마쳤다고 12일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퍼펙트 휩 3종",
+    "brand": "센카",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "센카가 캐릭터 양파쿵야와의 콜라보 에디션 출시를 기념해 운영한 무빙팝업을 성황리에 마쳤다.",
   "key_fact_quote": "클렌징 전문 브랜드 ‘센카(SENKA)’가 넷마블 엠엔비 ‘쿵야 레스토랑즈’와의 콜라보 에디션 출시를 기념해 진행한 센카X얼루어 뷰티로드 무빙팝업을 성황리에 마쳤다고 12일 밝혔다.",
-  "dropped": [
-   "product:퍼펙트 휩 3종 양파쿵야 에디션"
-  ]
+  "events": [
+   {
+    "name": "센카X얼루어 뷰티로드 무빙팝업",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-11",
+    "place": "성수 플레이엑스 스튜디오와 성수 AK플라자",
+    "quote": "센카의 베스트셀러 ‘퍼펙트 휩 3종’과 ‘쿵야 레스토랑즈’ 세계관을 활용해 ‘폼(foam) 미친 거품 맛집’ 콘셉트로 얼루어코리아와 함께 진행한 무빙팝업은 10월 9일부터 11일까지 3일간 성수 플레이엑스 스튜디오와 성수 AK플라자에서 진행됐다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:00+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:08+00:00",
  "had_body": true
 }

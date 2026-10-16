@@ -25,19 +25,101 @@
    "유씨엘"
   ],
   "keywords": [
-   "바디케어 트렌드",
+   "바디케어",
+   "트렌드북",
    "고기능 바디케어",
-   "바디 리추얼",
-   "롱제비티 바디케어"
+   "바디 리추얼"
   ],
   "is_press_release": true,
-  "products": [],
-  "key_fact": "유씨엘이 고기능화와 프리미엄화 흐름에 맞춘 바디케어 트렌드북을 발표하고 차별화된 제품 솔루션을 제안했다.",
+  "products": [
+   {
+    "name": "Sticky Acne Body Wash",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Matcha Sherbet Scrub Wash",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PDRN Revital Body Cream",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "NMN Cell Core Body Butter",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Running Glide Stick Balm",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Body Refresh Cooling Mist",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유씨엘이 고기능화와 프리미엄화 흐름에 맞춰 바디케어 트렌드북을 발표하고 맞춤형 제품 솔루션을 제시했다.",
   "key_fact_quote": "화장품 ODM OEM 전문기업 유씨엘(대표 이지원)이 고기능화와 프리미엄화가 빠르게 진행되는 바디케어 시장 흐름에 맞춰 ‘2027 바디케어 트렌드북’을 발표하고 차별화된 제품 솔루션을 제시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "제주 당근잎 발효 추출물",
+    "quote": "이처럼 바디 피부 고민이 세분화되는 흐름에 맞춰 유씨엘은 제주 당근잎 발효 추출물을 적용한 잼 텍스처의 ‘Sticky Acne Body Wash’와 팩·스크럽·워시를 결합한 ‘Matcha Sherbet Scrub Wash’를 제안했다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "페이셜 스킨케어의 고기능 성분이 전신으로 이동하는 흐름도 빨라지고 있다. PDRN·NAD+·엑소좀 등 바이오 액티브를 활용한 Metabolic Body Beauty가 부상하며, 유씨엘은 액정 젤 기술과 세라마이드 캡슐을 적용한 ‘PDRN Revital Body Cream’과 NMN·NAD+를 담은 ‘NMN Cell Core Body Butter’를 제안했다."
+   },
+   {
+    "name": "NAD+",
+    "quote": "페이셜 스킨케어의 고기능 성분이 전신으로 이동하는 흐름도 빨라지고 있다. PDRN·NAD+·엑소좀 등 바이오 액티브를 활용한 Metabolic Body Beauty가 부상하며, 유씨엘은 액정 젤 기술과 세라마이드 캡슐을 적용한 ‘PDRN Revital Body Cream’과 NMN·NAD+를 담은 ‘NMN Cell Core Body Butter’를 제안했다."
+   },
+   {
+    "name": "엑소좀",
+    "quote": "페이셜 스킨케어의 고기능 성분이 전신으로 이동하는 흐름도 빨라지고 있다. PDRN·NAD+·엑소좀 등 바이오 액티브를 활용한 Metabolic Body Beauty가 부상하며, 유씨엘은 액정 젤 기술과 세라마이드 캡슐을 적용한 ‘PDRN Revital Body Cream’과 NMN·NAD+를 담은 ‘NMN Cell Core Body Butter’를 제안했다."
+   },
+   {
+    "name": "세라마이드",
+    "quote": "유씨엘은 액정 젤 기술과 세라마이드 캡슐을 적용한 ‘PDRN Revital Body Cream’과 NMN·NAD+를 담은 ‘NMN Cell Core Body Butter’를 제안했다."
+   },
+   {
+    "name": "NMN",
+    "quote": "유씨엘은 액정 젤 기술과 세라마이드 캡슐을 적용한 ‘PDRN Revital Body Cream’과 NMN·NAD+를 담은 ‘NMN Cell Core Body Butter’를 제안했다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:20+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:23+00:00",
  "had_body": true
 }

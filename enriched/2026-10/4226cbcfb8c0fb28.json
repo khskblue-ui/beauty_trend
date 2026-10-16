@@ -1,0 +1,45 @@
+{
+ "doc_id": "4226cbcfb8c0fb28",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.cts.tv/news/view?ncate=&dpid=342777",
+ "title": "향수 에 담은 선교 비전…'나흐(nahes)' 이세한 대표",
+ "summary": "지난해부터 시작한 향수 브랜드 ‘나흐(nahes)’로 아프리카 가나에 우물을 세우고 센터를 지으며 선교도 이어가고 있습니다. [이세한 대표 / 향수 ‘나흐(nahes)’] 몇 퍼센트라고 정해놓지는 않았어요 왜냐하면 저는 그냥...",
+ "published_at": "2026-10-02T05:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GH"
+  ],
+  "brands": [
+   "나흐",
+   "nahes"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 브랜드",
+   "선교 비전"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "이세한 대표가 향수 브랜드를 통해 선교 활동을 이어가고 있다.",
+  "key_fact_quote": "지난해부터 시작한 향수 브랜드 ‘나흐(nahes)’로 아프리카 가나에 우물을 세우고 센터를 지으며 선교도 이어가고 있습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:14+00:00",
+ "had_body": false
+}

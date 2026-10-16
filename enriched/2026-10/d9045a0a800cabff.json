@@ -1,0 +1,96 @@
+{
+ "doc_id": "d9045a0a800cabff",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58455",
+ "title": "네오팜 제로이드, 홍대·영종도 잇는 오프라인 체험 마케팅 확대",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 네오팜(대표 김양수)의 메디컬 스킨케어 브랜드 제로이드(ZEROID)가 홍대 팝업과 러닝 페스티벌, 무빙 팝업을 잇달아 마련하며 병·의원 중심으로 쌓아온 브랜드 전문성을 일상 속 소비자 경험으로 확장한다고 지난 2일 밝혔다. 이번 오프라인 마케팅의 중심에는 외국인 관광객과 1030세대가 즐겨 찾는 홍대 상권이 자리한다.",
+ "published_at": "2026-10-06T18:53:32+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "제로이드",
+   "ZEROID"
+  ],
+  "companies": [
+   "네오팜"
+  ],
+  "keywords": [
+   "메디컬 스킨케어",
+   "오프라인 체험 마케팅",
+   "팝업스토어",
+   "피부 장벽"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "인텐시브 크림",
+    "brand": "제로이드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "인텐시브 로션",
+    "brand": "제로이드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "포밍 클렌저",
+    "brand": "제로이드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "네오팜의 스킨케어 브랜드 제로이드가 팝업과 페스티벌 등 오프라인 마케팅을 확대하며 일상 속 소비자 경험을 강화한다.",
+  "key_fact_quote": "네오팜(대표 김양수)의 메디컬 스킨케어 브랜드 제로이드(ZEROID)가 홍대 팝업과 러닝 페스티벌, 무빙 팝업을 잇달아 마련하며 병·의원 중심으로 쌓아온 브랜드 전문성을 일상 속 소비자 경험으로 확장한다고 지난 2일 밝혔다.",
+  "events": [
+   {
+    "name": "에스엠타운 런클럽 26(SMTOWN RUN CLUB 26)",
+    "start_date": "2026-10-03",
+    "end_date": null,
+    "place": "인천 영종도 왕산마리나항",
+    "quote": "제로이드는 지난 3일 인천 영종도 왕산마리나항에서 열린 ‘에스엠타운 런클럽 26(SMTOWN RUN CLUB 26)’에 협찬사로 참여해 활동적인 라이프스타일을 추구하는 소비자들과 만났다."
+   },
+   {
+    "name": "무빙 팝업",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-11",
+    "place": "올리브영 홍대공항철도역점 앞",
+    "quote": "오는 9일부터 11일까지는 올리브영 홍대공항철도역점 앞에서 무빙 팝업을 이어간다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "디펜사마이드™",
+    "quote": "주요 제품에는 건강한 피부의 지질 구조를 유사하게 재현한 네오팜의 독자 피부 장벽 기술 MLE®와 피부 보호에 도움을 주는 디펜사마이드™를 적용했으며 지난 2024년 올리브영 입점을 발판으로 일반 소비자가 일상에서 제품을 만날 수 있는 유통 기반도 넓혀가는 중이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:32+00:00",
+ "had_body": true
+}

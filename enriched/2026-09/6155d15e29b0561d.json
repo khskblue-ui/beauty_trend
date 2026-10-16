@@ -1,0 +1,57 @@
+{
+ "doc_id": "6155d15e29b0561d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=861136",
+ "title": "샤넬, 6년 만에 신 향수 '크러쉬 압솔뤼' 선봬",
+ "summary": "샤넬 | 서울=한스경제 김종효 기자 | 샤넬은 6년 만에 코코 마드모아젤 컬렉션에서 새로운 향수 '코코 마드모아젤 크러쉬 압솔뤼'를 출시했다고 1일 밝혔다. 이번 신제품 은 프루티 앰버 프래그런스로, 자몽과 리치의 상큼한...",
+ "published_at": "2026-09-01T16:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "샤넬",
+   "코코 마드모아젤"
+  ],
+  "companies": [
+   "샤넬"
+  ],
+  "keywords": [
+   "신제품 향수",
+   "프루티 앰버 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "코코 마드모아젤 크러쉬 압솔뤼",
+    "brand": "샤넬",
+    "launch_date": null,
+    "launch_quote": "샤넬은 6년 만에 코코 마드모아젤 컬렉션에서 새로운 향수 '코코 마드모아젤 크러쉬 압솔뤼'를 출시했다고 1일 밝혔다.",
+    "notes": [
+     "프루티 앰버",
+     "자몽",
+     "리치"
+    ],
+    "notes_quote": "이번 신제품 은 프루티 앰버 프래그런스로, 자몽과 리치의 상큼한..."
+   }
+  ],
+  "key_fact": "샤넬이 새로운 향수 코코 마드모아젤 크러쉬 압솔뤼를 선보였다.",
+  "key_fact_quote": "샤넬은 6년 만에 코코 마드모아젤 컬렉션에서 새로운 향수 '코코 마드모아젤 크러쉬 압솔뤼'를 출시했다고 1일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:57+00:00",
+ "had_body": false
+}

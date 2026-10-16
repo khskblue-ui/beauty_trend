@@ -1,0 +1,56 @@
+{
+ "doc_id": "c219d09f6e365e26",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/new-study-shows-a-10-azelaic-acid-formulation-using",
+ "title": "New study shows a 10% azelaic acid formulation using Azepur99",
+ "summary": "The peer-reviewed clinical study conducted by Skinome Research AB has evaluated the efficacy and tolerability of a minimalist anhydrous concentrate combining 10% azelaic acid with 0.1% retinal in blemish-prone skin. Azepur99 supplied by Azeco Cosmeceuticals was the azelaic acid used in the evaluated formulation",
+ "published_at": "2026-10-05T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Skinome Research AB",
+   "Azeco Cosmeceuticals"
+  ],
+  "keywords": [
+   "임상 연구",
+   "스킨케어 제형",
+   "트러블 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "새로운 임상 연구에서 아젤라산과 레티날을 결합한 미니멀 무수 농축 제형의 효능과 내약성을 평가했다.",
+  "key_fact_quote": "The peer-reviewed clinical study conducted by Skinome Research AB has evaluated the efficacy and tolerability of a minimalist anhydrous concentrate combining 10% azelaic acid with 0.1% retinal in blemish-prone skin.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "azelaic acid",
+    "quote": "The peer-reviewed clinical study conducted by Skinome Research AB has evaluated the efficacy and tolerability of a minimalist anhydrous concentrate combining 10% azelaic acid with 0.1% retinal in blemish-prone skin."
+   },
+   {
+    "name": "Azepur99",
+    "quote": "Azepur99 supplied by Azeco Cosmeceuticals was the azelaic acid used in the evaluated formulation"
+   },
+   {
+    "name": "retinal",
+    "quote": "The peer-reviewed clinical study conducted by Skinome Research AB has evaluated the efficacy and tolerability of a minimalist anhydrous concentrate combining 10% azelaic acid with 0.1% retinal in blemish-prone skin."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:14+00:00",
+ "had_body": false
+}

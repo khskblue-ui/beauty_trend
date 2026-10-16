@@ -1,0 +1,44 @@
+{
+ "doc_id": "821d86d75ff1a1bc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7187522",
+ "title": "코스맥스, 세계화장품학회서 연구 성과 32건 발표",
+ "summary": "올해 코스맥스의 구두 발표는 기초 연구를 비롯해 메이크업, 선케어, 헤어케어, 향료 등 화장품 연구개발의... 메이크업 분야에서는 ▲온도 감응형 요변성 연구, 향료 분야에서는 ▲저장소 매개 방출 연구를 각각...",
+ "published_at": "2026-10-06T11:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "연구 성과",
+   "향료 연구",
+   "화장품 연구개발"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 세계화장품학회에서 메이크업과 향료 등을 포함한 화장품 연구 성과를 발표했다.",
+  "key_fact_quote": "코스맥스, 세계화장품학회서 연구 성과 32건 발표",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:50+00:00",
+ "had_body": false
+}

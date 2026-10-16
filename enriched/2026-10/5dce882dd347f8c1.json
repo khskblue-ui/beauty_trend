@@ -1,0 +1,55 @@
+{
+ "doc_id": "5dce882dd347f8c1",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53641",
+ "title": "[코스모닝] 코스모코스, 4중 기능성 선스틱 개발 출시",
+ "summary": "(주)코스모코스(대표이사 이정훈)가 자외선 차단과 미백, 주름개선, 지속내수성을 갖춘 4중 기능성 선스틱을 개발하는데 성공했다고 밝혔다. 이번에 선보이는 신규 제형은 자외선 차단은 물론 미백과 주름개선 효과를 동시에 갖췄으며 차단 효과가 오래 유지되도록 지속내수성을 강화한 것이 특징. 특히 코스모코스는 제품 개발 과정에서 자외선 A·B 차단지수와 지속내수성",
+ "published_at": "2026-10-06T09:19:08+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스모코스"
+  ],
+  "keywords": [
+   "선스틱",
+   "기능성 화장품",
+   "지속내수성",
+   "선케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "4중 기능성 선스틱",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "(주)코스모코스(대표이사 이정훈)가 자외선 차단과 미백, 주름개선, 지속내수성 을 갖춘 4중 기능성 선스틱 을 개발하는데 성공했다고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코스모코스가 자외선 차단과 미백 및 주름개선에 지속내수성을 더한 다기능 선스틱 개발에 성공했다.",
+  "key_fact_quote": "(주)코스모코스(대표이사 이정훈)가 자외선 차단과 미백, 주름개선, 지속내수성 을 갖춘 4중 기능성 선스틱 을 개발하는데 성공했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:33+00:00",
+ "had_body": true
+}

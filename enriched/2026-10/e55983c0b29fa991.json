@@ -14,46 +14,31 @@
  "doc_type": null,
  "celex": null,
  "extraction": {
-  "relevant": true,
-  "category": "fragrance",
-  "event_type": "product_launch",
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
   "countries": [
    "KR"
   ],
-  "brands": [
-   "짱셔요",
-   "찰떡파이",
-   "롯샌",
-   "짜파게티"
-  ],
+  "brands": [],
   "companies": [
    "롯데웰푸드",
-   "농심",
-   "풀무원",
-   "삼립",
-   "동서식품"
+   "농심"
   ],
   "keywords": [
-   "브랜드 굿즈",
-   "콜라보 향수"
+   "식품 신제품",
+   "굿즈"
   ],
-  "is_press_release": true,
-  "products": [
-   {
-    "name": "짱셔요 향수",
-    "brand": "짱셔요",
-    "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   }
-  ],
-  "key_fact": "식품업계 소식을 통해 짱셔요 향수 등 다양한 상품 및 신제품 출시 관련 내용이 전해졌다.",
-  "key_fact_quote": "홀더 ▲짱셔요 향수 ▲짱셔요 독서링 ▲짱셔요 도자기 잔 ▲찰떡파이 왁뿌 슬라임 ▲롯샌 피크닉 보자기...",
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:18+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:28+00:00",
  "had_body": false
 }

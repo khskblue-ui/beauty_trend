@@ -1,0 +1,55 @@
+{
+ "doc_id": "691e53c6daaa5c9e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44939",
+ "title": "[신제품 오늘리뷰] 삼립·오뚜기·지평주조·대상·던킨·톰·피죤",
+ "summary": "유크림 100%로 만든 뉴질랜드산 앵커버터를 사용해 깊고 진한 풍미를 살렸으며, 합성 향료 와 합성보존료... 글로벌 향료 회사의 전문 조향사와 연구를 통해 개발한 향료 를 사용했으며, 국제 향료 협회(IFRA) 기준을 준수해...",
+ "published_at": "2026-09-17T14:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피죤",
+   "삼립",
+   "오뚜기",
+   "지평주조",
+   "대상",
+   "던킨",
+   "톰"
+  ],
+  "companies": [
+   "피죤",
+   "삼립",
+   "오뚜기",
+   "지평주조",
+   "대상",
+   "던킨",
+   "톰"
+  ],
+  "keywords": [
+   "글로벌 향료",
+   "합성 향료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "기업들이 글로벌 향료 회사의 조향사와 협업하여 개발한 향료를 적용하거나 합성 향료를 배제한 신제품을 선보였다.",
+  "key_fact_quote": "글로벌 향료 회사의 전문 조향사와 연구를 통해 개발한 향료 를 사용했으며, 국제 향료 협회(IFRA) 기준을 준수해...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:16:39+00:00",
+ "had_body": false
+}

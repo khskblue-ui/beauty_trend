@@ -24,15 +24,17 @@
    "유쏘풀",
    "YOUSSOFUL"
   ],
-  "companies": [],
+  "companies": [
+   "유쏘풀"
+  ],
   "keywords": [
    "한정 향수",
-   "공간 테마 향수"
+   "공간 콘셉트"
   ],
   "is_press_release": true,
   "products": [
    {
-    "name": "블랙 히비스커스(Black Hibiscus)",
+    "name": "블랙 히비스커스",
     "brand": "유쏘풀",
     "launch_date": null,
     "launch_status": "launched",
@@ -41,7 +43,7 @@
     "notes_quote": null
    }
   ],
-  "key_fact": "유쏘풀이 한남점의 공간 테마를 반영한 전용 단독 신제품 향수를 정식 출시했다.",
+  "key_fact": "유쏘풀이 공간 테마를 반영한 한남점 전용 단독 신제품 향수를 출시했다.",
   "key_fact_quote": "유쏘풀(YOUSSOFUL)이 지난 1일 한남점 전용 단독 신제품 '블랙 히비스커스(Black Hibiscus)'를 정식 출시했다.",
   "events": [],
   "ingredients": [],
@@ -49,6 +51,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:50:53+00:00",
+ "enriched_at": "2026-10-15T15:23:53+00:00",
  "had_body": false
 }

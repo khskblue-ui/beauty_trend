@@ -1,0 +1,42 @@
+{
+ "doc_id": "0390a56c8857ba07",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.edaily.co.kr/News/Read?newsId=04408326645581104&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+ "title": "“만들고 나르고 바쁘다 바빠”…K뷰티 열풍에 생산·물류 ‘확장전’",
+ "summary": "해외에서 K뷰티를 찾는 수요가 빠르게 늘면서 국내 화장품 업계가 밀려드는 주문에 대응하기 위한 생산... 아모레퍼시픽은 메이크업 제품 생산에 AI 기반 색상 보정 시스템을 적용하고 신제품 에 적합한 생산라인을...",
+ "published_at": "2026-09-17T15:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "생산라인 확장",
+   "인공지능 색상 보정",
+   "화장품 물류"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해외 수요 증가에 따라 국내 화장품 업계가 생산 및 물류 대응을 확장하고 있으며 아모레퍼시픽은 메이크업 제품 생산 시스템을 개선하고 있다.",
+  "key_fact_quote": "해외에서 K뷰티를 찾는 수요가 빠르게 늘면서 국내 화장품 업계가 밀려드는 주문에 대응하기 위한 생산... 아모레퍼시픽은 메이크업 제품 생산에 AI 기반 색상 보정 시스템을 적용하고 신제품 에 적합한 생산라인을...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:26+00:00",
+ "had_body": false
+}

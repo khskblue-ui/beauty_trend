@@ -1,0 +1,102 @@
+{
+ "doc_id": "8190f52f47852f88",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58456",
+ "title": "라비우스, 방선균 유래 붉은색소 적용한 비건 색조 화장품 4종 개발",
+ "summary": "[코스인코리아닷컴 길태윤 기자]㈜에이스엠자임의 화장품 브랜드 라비우스(RABIUS)가 방선균(토양 미생물) 유래 붉은색소를 적용한 비건 색조 화장품 라인을 선보였다. 스트렙토마이체스 루브로비누스 발효추출물(Streptomyces Rubrovinus Ferment Extract)을 핵심 원료 콘셉트로 적용하고, 방선균의 붉은색 색소 성분 Isarubrol",
+ "published_at": "2026-10-06T18:57:58+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라비우스",
+   "RABIUS"
+  ],
+  "companies": [
+   "㈜에이스엠자임",
+   "에이스엠자임"
+  ],
+  "keywords": [
+   "비건 색조 화장품",
+   "클린 뷰티",
+   "비건 뷰티",
+   "바이오 색소"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "립스틱",
+    "brand": "라비우스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "립스틱과 컨실러, 크림 블러셔 등 3종이 출시됐다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "컨실러",
+    "brand": "라비우스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "립스틱과 컨실러, 크림 블러셔 등 3종이 출시됐다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "크림 블러셔",
+    "brand": "라비우스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "립스틱과 컨실러, 크림 블러셔 등 3종이 출시됐다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이스엠자임의 화장품 브랜드 라비우스가 토양 미생물인 방선균 유래 붉은색소를 적용한 비건 색조 화장품 라인을 선보였다.",
+  "key_fact_quote": "㈜에이스엠자임의 화장품 브랜드 라비우스(RABIUS)가 방선균(토양 미생물) 유래 붉은색소를 적용한 비건 색조 화장품 라인을 선보였다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "스트렙토마이체스 루브로비누스 발효추출물",
+    "quote": "스트렙토마이체스 루브로비누스 발효추출물(Streptomyces Rubrovinus Ferment Extract)을 핵심 원료 콘셉트로 적용하고, 방선균의 붉은색 색소 성분 Isarubrolone C·F를 활용한 색조 화장품이다."
+   },
+   {
+    "name": "Streptomyces Rubrovinus Ferment Extract",
+    "quote": "스트렙토마이체스 루브로비누스 발효추출물(Streptomyces Rubrovinus Ferment Extract)을 핵심 원료 콘셉트로 적용하고, 방선균의 붉은색 색소 성분 Isarubrolone C·F를 활용한 색조 화장품이다."
+   },
+   {
+    "name": "Isarubrolone C·F",
+    "quote": "스트렙토마이체스 루브로비누스 발효추출물(Streptomyces Rubrovinus Ferment Extract)을 핵심 원료 콘셉트로 적용하고, 방선균의 붉은색 색소 성분 Isarubrolone C·F를 활용한 색조 화장품이다."
+   },
+   {
+    "name": "이사루브롤론 C·F",
+    "quote": "이사루브롤론 C·F는 방선균의 대사 과정에서 추출되는 다환실 트로폴로알칼로이드(polycyclic tropoloalkaloid) 계열의 천연 생활성 물질이다."
+   },
+   {
+    "name": "다환실 트로폴로알칼로이드",
+    "quote": "이사루브롤론 C·F는 방선균의 대사 과정에서 추출되는 다환실 트로폴로알칼로이드(polycyclic tropoloalkaloid) 계열의 천연 생활성 물질이다."
+   },
+   {
+    "name": "polycyclic tropoloalkaloid",
+    "quote": "이사루브롤론 C·F는 방선균의 대사 과정에서 추출되는 다환실 트로폴로알칼로이드(polycyclic tropoloalkaloid) 계열의 천연 생활성 물질이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:31+00:00",
+ "had_body": true
+}

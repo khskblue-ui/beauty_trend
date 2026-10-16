@@ -1,0 +1,45 @@
+{
+ "doc_id": "0bbc203e4ca4f2e5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068948",
+ "title": "여기종, ' K - 뷰티 ' 여성스타트업 일본 진출 지원…10개사 참여",
+ "summary": "전시로 K - 뷰티 여성스타트업의 잠재력을 알리고 일본 진출 가능성을 확인했다\"고 말했다. 이어 \"우수한 제품력을 갖춘 여성스타트업이 글로벌 시장에 안착할 수 있도록 전시회 참가를 넘어 실질적인 수출 성과로 이어지는...",
+ "published_at": "2026-10-06T10:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "여기종"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "여성스타트업",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "여기종이 여성스타트업의 일본 시장 진출을 지원하기 위해 전시 참가를 도왔다.",
+  "key_fact_quote": "전시로 K - 뷰티 여성스타트업의 잠재력을 알리고 일본 진출 가능성을 확인했다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:16+00:00",
+ "had_body": false
+}

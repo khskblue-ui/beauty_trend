@@ -1,0 +1,39 @@
+{
+ "doc_id": "ce8c20c9ad53101f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/distribution/6295412",
+ "title": "[패션& 뷰티 ] 한 벌보다 '조합'…올가을 패션업계, 레이어드에 꽂혔다",
+ "summary": "가을 신제품 으로 롱슬리브와 카디건, 스커트 등 10종을 선보였다. 단독으로 입거나 다른 제품과 겹쳐 입을 수 있도록 활용도를 높였다. 특히 '레이어드 롱슬리브 티셔츠'는 출시 직후 자사몰 베스트 아이템에 올랐다....",
+ "published_at": "2026-09-19T07:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "패션 트렌드",
+   "레이어드 룩"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "패션 업계에서 단독 또는 겹쳐 입을 수 있는 레이어드 가을 신제품이 인기를 얻고 있다.",
+  "key_fact_quote": "단독으로 입거나 다른 제품과 겹쳐 입을 수 있도록 활용도를 높였다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:54+00:00",
+ "had_body": false
+}

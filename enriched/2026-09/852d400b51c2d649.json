@@ -1,0 +1,58 @@
+{
+ "doc_id": "852d400b51c2d649",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45106",
+ "title": "[오늘의 뷰티] 아모레퍼시픽·LG생활건강·애경산업·아이소이·무신사",
+ "summary": "애경산업은 '2026 세계 화장품 학회'에서 화장품 소재 및 처방기술과 관련된 연구성과 3건을 포스터... 3종과 신제품 스킨케어 미감수 레디 3종을 선보이며 현지 고객을 사로잡았다. LG생활건강은 멕시코 K-엑스포에서...",
+ "published_at": "2026-09-28T13:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MX"
+  ],
+  "brands": [
+   "미감수 레디"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "LG생활건강",
+   "애경산업",
+   "아이소이",
+   "무신사"
+  ],
+  "keywords": [
+   "스킨케어",
+   "화장품 소재",
+   "처방기술"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "미감수 레디",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "애경산업이 세계 화장품 학회에서 연구성과를 발표하고 엘지생활건강이 멕시코 행사에서 신제품 스킨케어를 선보였다.",
+  "key_fact_quote": "애경산업은 '2026 세계 화장품 학회'에서 화장품 소재 및 처방기술과 관련된 연구성과 3건을 포스터... 3종과 신제품 스킨케어 미감수 레디 3종을 선보이며 현지 고객을 사로잡았다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:17+00:00",
+ "had_body": false
+}

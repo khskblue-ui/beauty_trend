@@ -1,0 +1,49 @@
+{
+ "doc_id": "6137c2da323d3eb7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/distribution/6285762",
+ "title": "무신사 뷰티 홍대 11일 오픈…약국 전문성 더해 차별화",
+ "summary": "C뷰티 브랜드 '인투유'와 'AZTK'가 국내 최초로 입점하며 프랑스 니치 향수 브랜드 '에따 리브르 도랑쥬'와 국내 니치 향수 브랜드 '셀바티고' 등을 단독으로 선보인다. 2층에서는 스킨케어를 중심으로 헤어·바디·맨즈...",
+ "published_at": "2026-09-10T08:45:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "인투유",
+   "AZTK",
+   "에따 리브르 도랑쥬",
+   "셀바티고"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "니치 향수",
+   "스킨케어",
+   "오프라인 매장",
+   "뷰티 리테일"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "무신사 뷰티가 홍대에 매장을 열고 니치 향수 및 글로벌 뷰티 브랜드를 단독 입점시켜 선보인다.",
+  "key_fact_quote": "C뷰티 브랜드 '인투유'와 'AZTK'가 국내 최초로 입점하며 프랑스 니치 향수 브랜드 '에따 리브르 도랑쥬'와 국내 니치 향수 브랜드 '셀바티고' 등을 단독으로 선보인다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:43+00:00",
+ "had_body": false
+}

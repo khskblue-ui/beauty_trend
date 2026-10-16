@@ -32,28 +32,29 @@
   ],
   "companies": [
    "코이코",
+   "서울경제진흥원",
    "메세 프랑크푸르트",
+   "KOTRA",
+   "Life Pharmacy",
+   "Golden Apple",
    "Givaudan",
    "dsm-firmenich",
    "Symrise",
    "Takasago",
    "MANE",
-   "Life Pharmacy",
-   "Golden Apple",
-   "서울경제진흥원",
-   "KOTRA"
+   "BeautyMatter"
   ],
   "keywords": [
    "뷰티 박람회",
-   "K-뷰티",
+   "향수 산업",
+   "향료 기업",
    "롱제비티",
-   "니치 향수",
-   "향료 기업"
+   "더마코스메틱"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "중동 최대 뷰티 전시회인 뷰티월드 두바이가 30주년을 맞아 대규모로 개최되었으며 향수 및 기능성 K-뷰티에 대한 현지 바이어들의 관심이 집중되었다.",
-  "key_fact_quote": "행사는 10월 6일부터 8일까지 3일간 두바이월드트레이드센터(DWTC)에서 진행된다. 코스메틱 과 스킨케어, 향수, 헤어·네일·살롱, 퍼스널케어, 뷰티테크, 공급망·서비스, 패키징 등 뷰티산업 전반으로 구성됐다.",
+  "key_fact": "뷰티월드 두바이가 두바이월드트레이드센터에서 개최되어 중동 향수 산업과 한국 뷰티 제품을 포함한 글로벌 뷰티 트렌드를 조명했다.",
+  "key_fact_quote": "행사는 10월 6일부터 8일까지 3일간 두바이월드트레이드센터(DWTC)에서 진행된다.",
   "events": [
    {
     "name": "뷰티월드 두바이",
@@ -70,7 +71,7 @@
     "quote": "본 전시 개막을 하루 앞둔 10월 5일 오후 7시 열린 개회사에서는 지난 30년의 변화가 구체적 인 숫자로 소개됐다."
    },
    {
-    "name": "커팅식",
+    "name": "공식 개막 커팅식",
     "start_date": "2026-10-06",
     "end_date": null,
     "place": null,
@@ -103,6 +104,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:50:39+00:00",
+ "enriched_at": "2026-10-15T15:22:47+00:00",
  "had_body": true
 }

@@ -1,0 +1,53 @@
+{
+ "doc_id": "2c6021b0e594f0ad",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/living/2026/10/11/2026101109362463656",
+ "title": "롯데홈쇼핑, 중소 K패션· 뷰티 와 파리 입성…33개 업체 유럽 진출 지원",
+ "summary": "롯데홈쇼핑이 다음달 30일까지 프랑스 파리 마레지구에서 K브랜드 수출 플랫폼 '이설(Eeseol)' 팝업스토어를 열고 국내 중소기업의 유럽 시장 진출을 지원한다고 11일 밝혔다. 파리 팝업은 글로벌 패션· 뷰티 브랜드가...",
+ "published_at": "2026-10-11T10:27:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데홈쇼핑"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "해외 진출",
+   "수출 플랫폼"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "롯데홈쇼핑이 프랑스 파리에서 팝업스토어를 운영하며 국내 중소 패션 및 뷰티 기업의 유럽 시장 진출을 지원한다.",
+  "key_fact_quote": "롯데홈쇼핑이 다음달 30일까지 프랑스 파리 마레지구에서 K브랜드 수출 플랫폼 '이설(Eeseol)' 팝업스토어를 열고 국내 중소기업의 유럽 시장 진출을 지원한다고 11일 밝혔다.",
+  "events": [
+   {
+    "name": "K브랜드 수출 플랫폼 '이설(Eeseol)' 팝업스토어",
+    "start_date": "2026-10-11",
+    "end_date": "2026-11-30",
+    "place": "프랑스 파리 마레지구",
+    "quote": "롯데홈쇼핑이 다음달 30일까지 프랑스 파리 마레지구에서 K브랜드 수출 플랫폼 '이설(Eeseol)' 팝업스토어를 열고 국내 중소기업의 유럽 시장 진출을 지원한다고 11일 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:20+00:00",
+ "had_body": false
+}

@@ -1,0 +1,104 @@
+{
+ "doc_id": "e2cad4e018a7b43f",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100090",
+ "title": "후르디아, 유럽 최대 온라인 뷰티 리테일러 노티노 K-FEST 참가",
+ "summary": "㈜웰코스(대표 김영돈)의 브랜드 후르디아(FRUDIA)가 유럽 최대 온라인 뷰티 리테일러 노티노(Notino)가 체코 프라하에서 개최한 ‘Notino K-Beauty Festival(K-FEST)’에 참가하며 유럽 시장 내 소비자 접점을 확대했다.노티노는 체코에서 출발해 유럽 27개국에서 사업을 전개하고 있는 유럽 대표 뷰티·웰니스 이커머스 기업이다. 유럽 전역에서 폭넓은 소비자 기반과 유통 네트워크를 확보하고 있으며, 글로벌 뷰티 브랜드와 유럽 소비자를 연결하는 주요 유통 플랫폼으로 자리 잡고 있다.이번 K-FEST는 노티노가 처",
+ "published_at": "2026-10-08T10:26:39+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "CZ",
+   "KR"
+  ],
+  "brands": [
+   "후르디아",
+   "FRUDIA"
+  ],
+  "companies": [
+   "웰코스",
+   "노티노"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "스킨케어",
+   "립 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "레티날 B3 엑소 레드 버블 팩 부스터",
+    "brand": "후르디아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "레티날 B3 엑소 레드 360° 볼륨 샷 앰플",
+    "brand": "후르디아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "레티날 B3 엑소 레드 360° 볼륨 샷 크림",
+    "brand": "후르디아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "글로우쥬시잼",
+    "brand": "후르디아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "블러리버터잼",
+    "brand": "후르디아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "웰코스의 브랜드 후르디아가 체코 프라하에서 열린 노티노의 케이뷰티 페스티벌에 참가해 유럽 시장 내 소비자 접점을 확대했다.",
+  "key_fact_quote": "㈜웰코스(대표 김영돈)의 브랜드 후르디아(FRUDIA)가 유럽 최대 온라인 뷰티 리테일러 노티노(Notino)가 체코 프라하에서 개최한 ‘Notino K-Beauty Festival(K-FEST)’에 참가하며 유럽 시장 내 소비자 접점을 확대했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레티날",
+    "quote": "전시 제품은 스킨케어 첫 단계에서 사용하는 ‘레티날 B3 엑소 레드 버블 팩 부스터’, 탄력과 볼륨 케어를 위한 ‘레티날 B3 엑소 레드 360° 볼륨 샷 앰플’, 피부를 탄탄하게 가꿔주는 ‘레티날 B3 엑소 레드 360° 볼륨 샷 크림’으로 구성됐다."
+   },
+   {
+    "name": "B3",
+    "quote": "전시 제품은 스킨케어 첫 단계에서 사용하는 ‘레티날 B3 엑소 레드 버블 팩 부스터’, 탄력과 볼륨 케어를 위한 ‘레티날 B3 엑소 레드 360° 볼륨 샷 앰플’, 피부를 탄탄하게 가꿔주는 ‘레티날 B3 엑소 레드 360° 볼륨 샷 크림’으로 구성됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:48+00:00",
+ "had_body": true
+}

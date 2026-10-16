@@ -1,0 +1,40 @@
+{
+ "doc_id": "86c9c187f246e07b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Economy/article/all/20260923/134725482/2",
+ "title": "“약국 제품이 더 효과 좋을 것 같아”…외국인 몰리는 ‘K뷰티 약국’...",
+ "summary": "둔 화장품 사진을 보여주며 이같이 말했다. 한국을 찾기 전 틱톡에서 해당 제품을 접한 뒤 직접 구매하기... H&B스토어가 신제품 과 브랜드를 발견하고 비교하는 공간이라면, 약국은 피부 고민과 성분, 전문성에 대한...",
+ "published_at": "2026-09-25T19:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "약국 화장품",
+   "더마코스메틱",
+   "피부 고민"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "외국인 관광객들이 피부 고민과 성분 및 전문성을 기대하며 약국에서 화장품을 구매하고 있다.",
+  "key_fact_quote": "H&B스토어가 신제품 과 브랜드를 발견하고 비교하는 공간이라면, 약국은 피부 고민과 성분, 전문성에 대한...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:33+00:00",
+ "had_body": false
+}

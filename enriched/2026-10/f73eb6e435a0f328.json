@@ -19,13 +19,13 @@
   "event_type": "product_launch",
   "countries": [
    "KR",
-   "FR"
+   "FR",
+   "US",
+   "JP"
   ],
   "brands": [
    "엑소머",
-   "EXOSOMORE",
-   "엘피지오",
-   "LPHYSIO"
+   "엘피지오"
   ],
   "companies": [
    "이희앤코",
@@ -34,25 +34,89 @@
   "keywords": [
    "더마 코스메틱",
    "미스트 세럼",
-   "홈케어"
+   "3중층 포뮬러",
+   "펩타이드",
+   "안티에이징"
   ],
   "is_press_release": true,
   "products": [
    {
     "name": "셀리노바 프라이머리 퍼밍 래디언스 세럼",
     "brand": "엑소머",
-    "launch_date": null,
+    "launch_date": "2026-10-18",
+    "launch_status": "upcoming",
     "launch_quote": "엑소머는 세럼의 고기능성 성분과 미스트의 간편한 사용 방식을 결합한 신제품 ‘셀리노바 프라이머리 퍼밍 래디언스 세럼’을 10월 18일(일) 11시 15분 CJ온스타일을 통해 처음 공개한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "셀리노바 앰플",
+    "brand": "엑소머",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "BB크림",
+    "brand": "엑소머",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "더마 코스메틱 브랜드 엑소머가 세럼의 고기능성 성분과 미스트 방식을 결합한 신제품을 공개하며 미스트 시장에 진출한다.",
+  "key_fact": "더마 코스메틱 브랜드 엑소머가 세럼의 고기능성 성분과 미스트의 편의성을 결합한 다층 포뮬러 신제품을 선보인다.",
   "key_fact_quote": "하이엔드 더마 코스메틱 브랜드 엑소머(EXOSOMORE)가 셀리노바 앰플과 BB크림에 이어 미스트 카테고리로 제품군을 확장한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "햄프씨드 오일",
+    "quote": "장벽 강화 레이어에는 피부를 부드럽게 감싸는 햄프씨드 오일, 수분 보습 레이어에는 프랑스 피레네 산맥 유래 온천수와 퓨로란(Purolan® IHD)을 적용해 수분감과 매끄러운 사용감을 구현했으며, 탄력·브라이트닝 레이어에는 뮤냅시스(MUNAPSYS™)와 시노비아(Synovea® HR) 등 고기능성 성분을 담았다."
+   },
+   {
+    "name": "온천수",
+    "quote": "장벽 강화 레이어에는 피부를 부드럽게 감싸는 햄프씨드 오일, 수분 보습 레이어에는 프랑스 피레네 산맥 유래 온천수와 퓨로란(Purolan® IHD)을 적용해 수분감과 매끄러운 사용감을 구현했으며, 탄력·브라이트닝 레이어에는 뮤냅시스(MUNAPSYS™)와 시노비아(Synovea® HR) 등 고기능성 성분을 담았다."
+   },
+   {
+    "name": "퓨로란(Purolan® IHD)",
+    "quote": "장벽 강화 레이어에는 피부를 부드럽게 감싸는 햄프씨드 오일, 수분 보습 레이어에는 프랑스 피레네 산맥 유래 온천수와 퓨로란(Purolan® IHD)을 적용해 수분감과 매끄러운 사용감을 구현했으며, 탄력·브라이트닝 레이어에는 뮤냅시스(MUNAPSYS™)와 시노비아(Synovea® HR) 등 고기능성 성분을 담았다."
+   },
+   {
+    "name": "뮤냅시스(MUNAPSYS™)",
+    "quote": "장벽 강화 레이어에는 피부를 부드럽게 감싸는 햄프씨드 오일, 수분 보습 레이어에는 프랑스 피레네 산맥 유래 온천수와 퓨로란(Purolan® IHD)을 적용해 수분감과 매끄러운 사용감을 구현했으며, 탄력·브라이트닝 레이어에는 뮤냅시스(MUNAPSYS™)와 시노비아(Synovea® HR) 등 고기능성 성분을 담았다."
+   },
+   {
+    "name": "시노비아(Synovea® HR)",
+    "quote": "장벽 강화 레이어에는 피부를 부드럽게 감싸는 햄프씨드 오일, 수분 보습 레이어에는 프랑스 피레네 산맥 유래 온천수와 퓨로란(Purolan® IHD)을 적용해 수분감과 매끄러운 사용감을 구현했으며, 탄력·브라이트닝 레이어에는 뮤냅시스(MUNAPSYS™)와 시노비아(Synovea® HR) 등 고기능성 성분을 담았다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "여기에 콜라겐 부스팅까지 고려해 표정주름과 노화로 인한 주름을 동시에 관리하도록 설계, 관련 연구의 SCI급 논문 발표와 유럽‧미국‧일본 등 주요 국가의 특허 등록도 원료의 기술력을 뒷받침한다."
+   },
+   {
+    "name": "EGF",
+    "quote": "여기에 EGF를 포함한 7종의 시너지 펩타이드를 더한 복합적인 탄력 케어의 시너지 효과를 높였다."
+   },
+   {
+    "name": "시노비아 헥실레조시놀(Synovea® HR)",
+    "quote": "셀리노바 앰플에 적용해온 시노비아 헥실레조시놀(Synovea® HR)을 비롯해 나이아신아마이드와 Hydro-GF3 등을 담아, 기존 앰플의 성분 설계를 분사형 세럼으로 확장시켰다."
+   },
+   {
+    "name": "나이아신아마이드",
+    "quote": "셀리노바 앰플에 적용해온 시노비아 헥실레조시놀(Synovea® HR)을 비롯해 나이아신아마이드와 Hydro-GF3 등을 담아, 기존 앰플의 성분 설계를 분사형 세럼으로 확장시켰다."
+   },
+   {
+    "name": "Hydro-GF3",
+    "quote": "셀리노바 앰플에 적용해온 시노비아 헥실레조시놀(Synovea® HR)을 비롯해 나이아신아마이드와 Hydro-GF3 등을 담아, 기존 앰플의 성분 설계를 분사형 세럼으로 확장시켰다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:52+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:07+00:00",
  "had_body": true
 }

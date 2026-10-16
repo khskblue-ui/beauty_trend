@@ -1,0 +1,64 @@
+{
+ "doc_id": "a0a6c94b93931561",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ekn.kr/web/view.php?key=20260930026070351",
+ "title": "[똑똑한뷰티] 바이오던스, 한율, 닥터그루트, 에이블씨엔씨 신유정 대표...",
+ "summary": "신제품 은 '쑥판텐 인텐시브 리페어 진정 캡슐 크림'과 '쑥판텐 인텐시브 리페어 수분드레싱 진정 버블 세럼... ◇ 대봉엘에스, 해양 미세조류 활용 화장품 원료 상용화 대봉엘에스가 해양 미세조류 유글레나에서 유래한...",
+ "published_at": "2026-09-30T11:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "바이오던스",
+   "한율",
+   "닥터그루트"
+  ],
+  "companies": [
+   "에이블씨엔씨",
+   "대봉엘에스"
+  ],
+  "keywords": [
+   "진정 크림",
+   "버블 세럼",
+   "화장품 원료"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "쑥판텐 인텐시브 리페어 진정 캡슐 크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "쑥판텐 인텐시브 리페어 수분드레싱 진정 버블 세럼",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "쑥판텐 성분을 활용한 진정 크림과 버블 세럼 등 신제품 소식과 함께 해양 미세조류를 활용한 화장품 원료 상용화 소식이 전해졌다.",
+  "key_fact_quote": "신제품 은 '쑥판텐 인텐시브 리페어 진정 캡슐 크림'과 '쑥판텐 인텐시브 리페어 수분드레싱 진정 버블 세럼... ◇ 대봉엘에스, 해양 미세조류 활용 화장품 원료 상용화",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:48+00:00",
+ "had_body": false
+}

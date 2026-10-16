@@ -18,8 +18,8 @@
   "category": "business",
   "event_type": "business",
   "countries": [
-   "CN",
-   "FR"
+   "FR",
+   "CN"
   ],
   "brands": [
    "Louis Vuitton",
@@ -30,22 +30,31 @@
   ],
   "companies": [
    "LVMH",
-   "L'Oréal",
-   "dsm-firmenich"
+   "L'Oréal"
   ],
   "keywords": [
-   "뷰티 유통",
-   "향수 화장품 실적",
-   "선택적 유통"
+   "럭셔리 뷰티",
+   "화장품 유통",
+   "향수 및 화장품"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "엘브이엠에이치는 패션 및 가죽 제품 부문의 부진에도 불구하고 세포라가 포함된 유통 부문과 주얼리 사업의 성장에 힘입어 분기 매출이 소폭 증가했다고 밝혔다.",
+  "key_fact": "엘브이엠에이치는 중국 시장 둔화로 패션 부문이 타격을 입었으나 세포라와 주얼리 등의 성장에 힘입어 분기 매출이 소폭 상승했다.",
   "key_fact_quote": "LVMH, the world's leading luxury group, said on Monday, October 13, its sales edged higher in the third quarter despite a slowdown in China hitting its fashion and leather goods segment.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:04+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:05+00:00",
  "had_body": true
 }

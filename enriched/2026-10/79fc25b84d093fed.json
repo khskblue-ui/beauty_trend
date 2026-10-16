@@ -1,0 +1,58 @@
+{
+ "doc_id": "79fc25b84d093fed",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100066",
+ "title": "이베이재팬, 도쿄에 첫 오프라인 체험 공간 ‘샘플 하우스’ 오픈",
+ "summary": "온라인 오픈마켓 ‘큐텐재팬(Qoo10.jp)’을 운영하는 글로벌 이커머스 기업 이베이재팬(eBay Japan·구자현 대표이사)이 10월 1일 도쿄 시부야에 첫 오프라인 체험형 공간 ‘샘플 하우스(Sample House)’를 오픈했다.일본 최신 트렌드의 중심지인 시부야에서 화제의 상품을 직접 체험하고, 실제 샘플까지 받아볼 수 있는 상설 매장이다. K뷰티를 포함해 현지에서 주목받는 100여개 브랜드의 제품을 한자리에서 직접 만날 수 있다. 초반에는 뷰티, 건강식품 위주로 운영하며, 향후 일반식품, 엔터테인먼트 상품 등으로 체험 영역을",
+ "published_at": "2026-10-06T09:53:01+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "Anua",
+   "medicube",
+   "COSRX"
+  ],
+  "companies": [
+   "이베이재팬",
+   "eBay Japan"
+  ],
+  "keywords": [
+   "체험형 매장",
+   "오프라인 거점",
+   "라이브 커머스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "이베이재팬이 일본 도쿄 시부야에 케이뷰티 등 화제 상품을 직접 체험하고 샘플을 받을 수 있는 첫 오프라인 상설 매장 샘플 하우스를 오픈했다.",
+  "key_fact_quote": "온라인 오픈마켓 ‘큐텐재팬(Qoo10.jp)’을 운영하는 글로벌 이커머스 기업 이베이재팬(eBay Japan·구자현 대표이사)이 10월 1일 도쿄 시부야에 첫 오프라인 체험형 공간 ‘샘플 하우스(Sample House)’를 오픈했다.",
+  "events": [
+   {
+    "name": "샘플 하우스",
+    "start_date": "2026-10-01",
+    "end_date": null,
+    "place": "도쿄 시부야",
+    "quote": "온라인 오픈마켓 ‘큐텐재팬(Qoo10.jp)’을 운영하는 글로벌 이커머스 기업 이베이재팬(eBay Japan·구자현 대표이사)이 10월 1일 도쿄 시부야에 첫 오프라인 체험형 공간 ‘샘플 하우스(Sample House)’를 오픈했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:33+00:00",
+ "had_body": true
+}

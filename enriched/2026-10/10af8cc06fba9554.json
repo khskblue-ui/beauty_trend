@@ -1,0 +1,67 @@
+{
+ "doc_id": "10af8cc06fba9554",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/merit-launches-second-fragrance-new-wave",
+ "title": "Merit expands its presence in fragrance with second scent launch, New Wave",
+ "summary": "The minimalist beauty brand is extending its fragrance offering with New Wave L’Extrait de Parfum, which claims to break ‘the traditional rules of perfumery’ by reimagining a classic Ambre 83 structure. It follows on from the success of Merit’s first fragrance launch, Retrospect",
+ "published_at": "2026-10-08T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Merit"
+  ],
+  "companies": [
+   "Merit"
+  ],
+  "keywords": [
+   "향수 신제품",
+   "엑스트레 드 퍼퓸"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "New Wave L’Extrait de Parfum",
+    "brand": "Merit",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "The minimalist beauty brand is extending its fragrance offering with New Wave L’Extrait de Parfum, which claims to break ‘the traditional rules of perfumery’ by reimagining a classic Ambre 83 structure.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Retrospect",
+    "brand": "Merit",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 브랜드 메릿이 두 번째 향수인 뉴 웨이브 엑스트레 드 퍼퓸을 선보이며 향수 라인업을 확장한다.",
+  "key_fact_quote": "Merit expands its presence in fragrance with second scent launch, New Wave",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Ambre 83",
+    "quote": "The minimalist beauty brand is extending its fragrance offering with New Wave L’Extrait de Parfum, which claims to break ‘the traditional rules of perfumery’ by reimagining a classic Ambre 83 structure."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:03+00:00",
+ "had_body": false
+}

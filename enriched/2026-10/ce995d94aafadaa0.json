@@ -24,11 +24,9 @@
    "본셉"
   ],
   "companies": [
-   "토니모리",
-   "다이소"
+   "토니모리"
   ],
   "keywords": [
-   "색조 화장품",
    "베이스 메이크업",
    "글로우 립스틱",
    "톤업 베이스"
@@ -39,15 +37,8 @@
     "name": "비타씨 베이스",
     "brand": "본셉",
     "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "틴티드 글로우 립스틱",
-    "brand": "본셉",
-    "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "본셉은 다이소에 비타씨 베이스 7종과 틴티드 글로우 립스틱 3종 등 10종을 출시했다.",
     "notes": [],
     "notes_quote": null
    },
@@ -55,7 +46,8 @@
     "name": "수딩 톤업 베이스",
     "brand": "본셉",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "비타씨 베이스는 △ 수딩 톤업 베이스 △ 밀착 광채 메이커 △ 에센스 비비 △ 슬림 커버 컨실러 등으로 구성했다.",
     "notes": [],
     "notes_quote": null
    },
@@ -63,7 +55,8 @@
     "name": "밀착 광채 메이커",
     "brand": "본셉",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "비타씨 베이스는 △ 수딩 톤업 베이스 △ 밀착 광채 메이커 △ 에센스 비비 △ 슬림 커버 컨실러 등으로 구성했다.",
     "notes": [],
     "notes_quote": null
    },
@@ -71,7 +64,8 @@
     "name": "에센스 비비",
     "brand": "본셉",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "비타씨 베이스는 △ 수딩 톤업 베이스 △ 밀착 광채 메이커 △ 에센스 비비 △ 슬림 커버 컨실러 등으로 구성했다.",
     "notes": [],
     "notes_quote": null
    },
@@ -79,17 +73,42 @@
     "name": "슬림 커버 컨실러",
     "brand": "본셉",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "비타씨 베이스는 △ 수딩 톤업 베이스 △ 밀착 광채 메이커 △ 에센스 비비 △ 슬림 커버 컨실러 등으로 구성했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "틴티드 글로우 립스틱",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "본셉은 다이소에 비타씨 베이스 7종과 틴티드 글로우 립스틱 3종 등 10종을 출시했다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "토니모리 본셉이 비타씨 라인을 색조 영역으로 확장하며 다이소에 베이스와 글로우 립스틱 제품을 출시했다.",
-  "key_fact_quote": "토니모리 본셉이 ‘비타씨’ 라인을 색조 영역까지 확장한다. 본셉은 다이소에 비타씨 베이스 7종과 틴티드 글로우 립스틱 3종 등 10종을 출시했다.",
+  "key_fact": "토니모리 본셉이 비타씨 라인을 색조 영역으로 확장하며 다이소에 베이스 및 립스틱 제품을 출시했다.",
+  "key_fact_quote": "토니모리 본셉이 ‘비타씨’ 라인을 색조 영역까지 확장한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "순수 비타민C",
+    "quote": "순수 비타민C와 비타민나무수, 나이아신아마이드 등이 피부를 맑고 자연스럽게 연출한다."
+   },
+   {
+    "name": "비타민나무수",
+    "quote": "순수 비타민C와 비타민나무수, 나이아신아마이드 등이 피부를 맑고 자연스럽게 연출한다."
+   },
+   {
+    "name": "나이아신아마이드",
+    "quote": "순수 비타민C와 비타민나무수, 나이아신아마이드 등이 피부를 맑고 자연스럽게 연출한다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:03:08+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:16+00:00",
  "had_body": true
 }

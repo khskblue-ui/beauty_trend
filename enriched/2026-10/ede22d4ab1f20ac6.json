@@ -1,0 +1,57 @@
+{
+ "doc_id": "ede22d4ab1f20ac6",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100033",
+ "title": "(사)한메직협, ‘페이스 오브 몽골리아 2026’ 심사위원 참여",
+ "summary": "(사)한국메이크업전문가직업교류협회 안미려 회장이 아시아모델페스티벌 ‘페이스 오브 아시아’의 몽골 국가별 모델 선발 프로그램인 ‘페이스 오브 몽골리아(Face of Mongolia) 2026’ 20주년 기념행사에 심사위원으로 참여하며 한국과 몽골 간 뷰티·모델 분야의 국제교류에 힘을 보탰다.이번 행사는 아시아모델페스티벌조직위원회(회장 양의식)가 주최하고 몽골 모델스 아카데미 대표 빌군(Bilguun Otgonbaatar)이 주관했으며, 몽골의 신인 모델을 발굴하고 한국을 비롯한 아시아 각국의 모델·패션·뷰티 분야 전문가들이 함께하는",
+ "published_at": "2026-10-01T13:37:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "MN"
+  ],
+  "brands": [],
+  "companies": [
+   "한국메이크업전문가직업교류협회",
+   "아시아모델페스티벌조직위원회",
+   "몽골 모델스 아카데미",
+   "NK 바이오테크",
+   "베라셀라",
+   "GDACS"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "메이크업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국메이크업전문가직업교류협회 안미려 회장이 페이스 오브 몽골리아 행사에 심사위원으로 참여해 메이크업 시연과 시상을 진행하며 한국과 몽골 간 뷰티 교류에 힘썼다.",
+  "key_fact_quote": "(사)한국메이크업전문가직업교류협회 안미려 회장이 아시아모델페스티벌 ‘페이스 오브 아시아’의 몽골 국가별 모델 선발 프로그램인 ‘페이스 오브 몽골리아(Face of Mongolia) 2026’ 20주년 기념행사에 심사위원으로 참여하며 한국과 몽골 간 뷰티·모델 분야의 국제교류에 힘을 보탰다.",
+  "events": [
+   {
+    "name": "페이스 오브 아시아(Face of Asia)",
+    "start_date": "2026-11-20",
+    "end_date": null,
+    "place": "한국",
+    "quote": "선발된 4명의 모델은 오는 11월 20일 한국에서 개최되는 ‘페이스 오브 아시아(Face of Asia)’에 몽골 대표로 참가해 아시아 27개국에서 선발된 모델들과 함께 무대에 오른다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:55+00:00",
+ "had_body": true
+}

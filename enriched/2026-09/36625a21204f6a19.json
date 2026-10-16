@@ -6,11 +6,11 @@
  "lang": "ko",
  "url": "https://www.fashionbiz.co.kr/article/229782",
  "title": "알브레히트 뒤러, PERSONA II’ 론칭... 하이엔드 니치 퍼퓸 시장에 등장",
- "summary": "알브레히트 뒤러가 안경과 향수를 하나의 패키지에 담은 F/W 컬렉션 ‘PERSONA II’를 론칭했다. PERSONA II와 함께 선보이는 향은 ‘1498’과 ‘1500’ 두 가지다. 알브레히트 뒤러가 1498년과 1500년에 남긴...",
+ "summary": "알브레히트 뒤러가 안경과 향수 를 하나의 패키지에 담은 F/W 컬렉션 ‘PERSONA II’를 론칭했다. PERSONA II와 함께 선보이는 향은 ‘1498’과 ‘1500’ 두 가지다. 알브레히트 뒤러가 1498년과 1500년에 남긴...",
  "published_at": "2026-09-23T13:48:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "니치 퍼퓸",
+ "query": "니치 향수",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -26,8 +26,7 @@
   "companies": [],
   "keywords": [
    "하이엔드 니치 퍼퓸",
-   "패키지 컬렉션",
-   "니치 향수"
+   "컬렉션 론칭"
   ],
   "is_press_release": true,
   "products": [
@@ -35,8 +34,7 @@
     "name": "PERSONA II",
     "brand": "알브레히트 뒤러",
     "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "알브레히트 뒤러가 안경과 향수를 하나의 패키지에 담은 F/W 컬렉션 ‘PERSONA II’를 론칭했다.",
+    "launch_quote": null,
     "notes": [],
     "notes_quote": null
    },
@@ -44,8 +42,7 @@
     "name": "1498",
     "brand": "알브레히트 뒤러",
     "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "PERSONA II와 함께 선보이는 향은 ‘1498’과 ‘1500’ 두 가지다.",
+    "launch_quote": null,
     "notes": [],
     "notes_quote": null
    },
@@ -53,20 +50,17 @@
     "name": "1500",
     "brand": "알브레히트 뒤러",
     "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "PERSONA II와 함께 선보이는 향은 ‘1498’과 ‘1500’ 두 가지다.",
+    "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "알브레히트 뒤러가 안경과 향수로 구성된 신규 컬렉션을 선보이며 하이엔드 니치 퍼퓸 시장에 진출했다.",
-  "key_fact_quote": "알브레히트 뒤러가 안경과 향수를 하나의 패키지에 담은 F/W 컬렉션 ‘PERSONA II’를 론칭했다.",
-  "events": [],
-  "ingredients": [],
+  "key_fact": "알브레히트 뒤러가 안경과 향수를 하나의 패키지에 담은 신규 컬렉션을 선보이며 하이엔드 니치 퍼퓸 시장에 진출했다.",
+  "key_fact_quote": "알브레히트 뒤러가 안경과 향수 를 하나의 패키지에 담은 F/W 컬렉션 ‘PERSONA II’를 론칭했다.",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:01+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:00+00:00",
  "had_body": false
 }

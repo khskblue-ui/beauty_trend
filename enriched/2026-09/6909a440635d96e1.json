@@ -1,0 +1,44 @@
+{
+ "doc_id": "6909a440635d96e1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10869222?ref=naver",
+ "title": "홍대 등장한 ‘K-뷰티 놀이터’…신진 브랜드·약국까지 통째로 [르포]",
+ "summary": "프랑스 니치 향수 브랜드 ‘에따 리브르 도랑쥬’, 국내 니치 향수 브랜드 ‘셀바티고’ 등도 단독 입점했다. 국내 시장에서 찾기 어려운 어둡고 파격적인 색상의 색조 메이크업 상품들도 다수 볼 수 있었다. 매장에서...",
+ "published_at": "2026-09-10T14:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "에따 리브르 도랑쥬",
+   "셀바티고"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "색조 메이크업",
+   "뷰티 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "홍대에 신진 브랜드와 니치 향수 브랜드 등이 단독 입점한 뷰티 매장이 마련되었다.",
+  "key_fact_quote": "프랑스 니치 향수 브랜드 ‘에따 리브르 도랑쥬’, 국내 니치 향수 브랜드 ‘셀바티고’ 등도 단독 입점했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:34+00:00",
+ "had_body": false
+}

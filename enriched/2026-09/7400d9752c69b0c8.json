@@ -1,0 +1,51 @@
+{
+ "doc_id": "7400d9752c69b0c8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kr.aving.net/news/articleView.html?idxno=1814817",
+ "title": "\"타지 않고, 냉장 없이, 냄새 없이\"… 소중한습관, 화장품 넘어 첫 식품...",
+ "summary": "별도의 우유 원료나 향료 , 당류, 안정제, 보존제는 첨가하지 않았다. \"바르는 것도, 먹는 것도 소중한 습관... 제품에는 우유 원료와 향료 , 당류, 안정제, 보존제를 넣지 않았다. 제품명 '퓨어 100'은 사용한 원료가 100...",
+ "published_at": "2026-09-28T16:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "소중한습관"
+  ],
+  "companies": [],
+  "keywords": [
+   "식품 진출",
+   "무첨가",
+   "원료 차별화"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퓨어 100",
+    "brand": "소중한습관",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "소중한습관이 화장품 영역을 넘어 향료나 보존제 등을 첨가하지 않은 첫 식품 제품을 선보였다.",
+  "key_fact_quote": "\"타지 않고, 냉장 없이, 냄새 없이\"… 소중한습관, 화장품 넘어 첫 식품...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:15:49+00:00",
+ "had_body": false
+}

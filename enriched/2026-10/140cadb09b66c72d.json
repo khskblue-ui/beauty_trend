@@ -1,0 +1,45 @@
+{
+ "doc_id": "140cadb09b66c72d",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312029",
+ "title": "3분기 티몰 K-뷰티 마스크팩 분석①: 판매량 2년 새 74% 감소...수요 둔화 장기화 우려 - 뷰티경제",
+ "summary": "[편집자 주] 뷰티경제는 2019년부터 중국 티몰 한국관 내 K뷰티 주요 품목의 판매 데이터를 지속적으로 추적·분석하고 있다. 매월 마스크팩, 선케어, 에센스,",
+ "published_at": "2026-10-05T15:30:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "티몰"
+  ],
+  "keywords": [
+   "마스크팩",
+   "K뷰티",
+   "판매 데이터"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 전자상거래 플랫폼 내 한국 화장품 마스크팩의 판매량이 크게 줄어들며 수요 둔화 장기화에 대한 우려가 커지고 있다.",
+  "key_fact_quote": "3분기 티몰 K-뷰티 마스크팩 분석①: 판매량 2년 새 74% 감소...수요 둔화 장기화 우려 - 뷰티경제",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:40+00:00",
+ "had_body": false
+}

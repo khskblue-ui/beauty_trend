@@ -31,43 +31,18 @@
    "바디워시"
   ],
   "is_press_release": true,
-  "products": [
-   {
-    "name": "퍼퓸 바디워시",
-    "brand": "샤워메이트",
-    "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "애경산업 샤워메이트는 ' 퍼퓸 바디워시' 2종을 신규 출시 했다고 12일 밝혔다.",
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "로지 피크닉",
-    "brand": "샤워메이트",
-    "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "샤워메이트 퍼퓸 바디워시는 '로지 피크닉'과 '이브닝 가든...",
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "이브닝 가든",
-    "brand": "샤워메이트",
-    "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "샤워메이트 퍼퓸 바디워시는 '로지 피크닉'과 '이브닝 가든...",
-    "notes": [],
-    "notes_quote": null
-   }
-  ],
-  "key_fact": "애경산업 샤워메이트가 퍼퓸 바디워시 신제품을 선보였다.",
+  "products": [],
+  "key_fact": "애경산업의 샤워메이트 브랜드가 새로운 퍼퓸 바디워시 제품을 선보였다.",
   "key_fact_quote": "애경산업 샤워메이트는 ' 퍼퓸 바디워시' 2종을 신규 출시 했다고 12일 밝혔다.",
   "events": [],
   "ingredients": [],
-  "dropped": []
+  "dropped": [
+   "product:퍼퓸 바디워시 로지 피크닉",
+   "product:퍼퓸 바디워시 이브닝 가든"
+  ]
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:10+00:00",
+ "enriched_at": "2026-10-15T15:25:52+00:00",
  "had_body": false
 }

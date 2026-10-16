@@ -1,0 +1,47 @@
+{
+ "doc_id": "7cc79afeb4baec84",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=770903",
+ "title": "쓰리시스, 스킨케어 브랜드 '야무' 론칭...AGE20'S, 리브랜딩 본격화",
+ "summary": "뷰티 업계가 신규 브랜드 론칭과 리브랜딩을 앞세워 소비자 접점 확대에 나서고 있다. 뷰티 전문 기업... 결합한 신제품 을 출시 하며 새 브랜드 방향성을 제품과 마케팅 전반에 반영하고 있다. 팝업에서는 AI 퍼스널...",
+ "published_at": "2026-10-04T09:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "야무",
+   "AGE20'S"
+  ],
+  "companies": [
+   "쓰리시스"
+  ],
+  "keywords": [
+   "스킨케어 브랜드",
+   "리브랜딩",
+   "신규 브랜드 론칭"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 업계가 신규 브랜드 론칭과 리브랜딩을 앞세워 소비자 접점 확대에 나서고 있다.",
+  "key_fact_quote": "뷰티 업계가 신규 브랜드 론칭과 리브랜딩을 앞세워 소비자 접점 확대에 나서고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:01+00:00",
+ "had_body": false
+}

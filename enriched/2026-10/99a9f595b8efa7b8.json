@@ -1,0 +1,73 @@
+{
+ "doc_id": "99a9f595b8efa7b8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sportsseoul.com/news/read/1641108?ref=naver",
+ "title": "엑소머, ‘뿌리는 세럼’으로 미스트 시장 공략…3중층 포뮬러 적용",
+ "summary": "하이엔드 더마 코스메틱 브랜드 엑소머(EXOSOMORE)가 셀리노바 앰플과 BB크림에 이어 미스트형 세럼을... 공식 론칭 한다. 뷰티 쇼호스트 조윤주가 출연해 제품의 특징과 사용 경험을 소개할 예정이다. 조윤주는 지난 3월...",
+ "published_at": "2026-10-13T18:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "엑소머",
+   "EXOSOMORE"
+  ],
+  "companies": [],
+  "keywords": [
+   "더마 코스메틱",
+   "미스트형 세럼",
+   "미스트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "미스트형 세럼",
+    "brand": "엑소머",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "하이엔드 더마 코스메틱 브랜드 엑소머(EXOSOMORE)가 셀리노바 앰플과 BB크림에 이어 미스트형 세럼을... 공식 론칭 한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "셀리노바 앰플",
+    "brand": "엑소머",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "BB크림",
+    "brand": "엑소머",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더마 코스메틱 브랜드 엑소머가 앰플과 비비크림에 이어 미스트형 세럼을 공식 론칭한다.",
+  "key_fact_quote": "하이엔드 더마 코스메틱 브랜드 엑소머(EXOSOMORE)가 셀리노바 앰플과 BB크림에 이어 미스트형 세럼을... 공식 론칭 한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:26+00:00",
+ "had_body": false
+}

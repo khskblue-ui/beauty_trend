@@ -1,0 +1,45 @@
+{
+ "doc_id": "b37402d553aa146a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.sbs.co.kr/article_hub/20000338191?division=NAVER",
+ "title": "1~9월 K뷰티 수출 111억달러…작년 연간 실적 육박",
+ "summary": "미국 수출이 40% 넘게 증가한 반면, 중국 비중은 14%대로 떨어지면서 미국 중심으로 K뷰티 수출 시장이 재편되는 모습입니다. 오늘(2일) 식품의약품안전처는 국내 화장품의 3분기 누계 수출액이 1년 전보다 31.1...",
+ "published_at": "2026-10-02T18:17:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "식품의약품안전처"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 화장품 수출액이 크게 증가한 가운데 미국 수출 비중이 늘고 중국 비중은 감소하며 수출 시장이 재편되고 있다.",
+  "key_fact_quote": "미국 수출이 40% 넘게 증가한 반면, 중국 비중은 14%대로 떨어지면서 미국 중심으로 K뷰티 수출 시장이 재편되는 모습입니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:38+00:00",
+ "had_body": false
+}

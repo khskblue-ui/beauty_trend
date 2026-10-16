@@ -1,0 +1,45 @@
+{
+ "doc_id": "23086fdebbcd6fe1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261006000085",
+ "title": "여기종, K - 뷰티 여성스타트업 일본 판로 개척 지원",
+ "summary": "여성기업종합지원센터가 K - 뷰티 여성스타트업 10개사의 일본 시장 판로 개척을 지원했다고 6일 밝혔다.... 현지 뷰티 업계 관계자와 비즈니스 미팅을 열어 일본 시장 진출 가능성을 점검하고 현지 유통 방식에 맞춘 수출 ...",
+ "published_at": "2026-10-06T10:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "여성기업종합지원센터"
+  ],
+  "keywords": [
+   "해외 진출",
+   "뷰티 스타트업",
+   "판로 개척"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "여성기업종합지원센터가 국내 여성 스타트업의 일본 뷰티 시장 판로 개척과 수출을 지원했다.",
+  "key_fact_quote": "여성기업종합지원센터가 K - 뷰티 여성스타트업 10개사의 일본 시장 판로 개척을 지원했다고 6일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:18+00:00",
+ "had_body": false
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "2005ee270e592b61",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/entertain/broadcast-tv/6315508",
+ "title": "66세 정보석, 화장품 회사 대표 됐다…아내는 매니저·아들은 제빵소 운...",
+ "summary": "회사에는 디자인 팀장인 직원 한 명이 근무하고 있으며, 두 사람은 홍보 방향과 화장품 모델을 두고 의견을 주고받는다. 열정 넘치는 대표와 할 말은 하는 MZ 팀장의 현실 직장 케미도 웃음을 안긴다. 이어 신제품 개발...",
+ "published_at": "2026-10-10T10:51:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 회사",
+   "신제품 개발"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배우 정보석이 화장품 회사 대표로 활동하는 근황을 전했다.",
+  "key_fact_quote": "66세 정보석, 화장품 회사 대표 됐다…아내는 매니저·아들은 제빵소 운...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:42+00:00",
+ "had_body": false
+}

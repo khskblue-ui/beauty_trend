@@ -1,0 +1,43 @@
+{
+ "doc_id": "74323c9e4572d1e8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newspim.com/news/view/20260910000555",
+ "title": "'뷰티 매장안에 약국'…무신사 뷰티의 '홍대 첫 단독점' 실험",
+ "summary": "무신사는 색조· 향수 처럼 개인의 취향과 정체성을 드러내는 영역을 '추구미'로, 피부·두피 등 구체적인... 특히 온라인과 오프라인을 별도 채널로 운영하기보다 브랜드의 신상품 출시 나 프로모션 때 오프라인 공간과...",
+ "published_at": "2026-09-10T11:07:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사 뷰티"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 매장",
+   "단독점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티가 뷰티 매장 안에 약국을 결합한 홍대 첫 단독 매장을 실험한다.",
+  "key_fact_quote": "'뷰티 매장안에 약국'…무신사 뷰티의 '홍대 첫 단독점' 실험",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:29+00:00",
+ "had_body": false
+}

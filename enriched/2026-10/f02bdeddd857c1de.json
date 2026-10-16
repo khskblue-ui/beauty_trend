@@ -1,0 +1,85 @@
+{
+ "doc_id": "f02bdeddd857c1de",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100031",
+ "title": "라부르켓, 첫 브랜드 파트너로 보이그룹 ‘롱샷’ 발탁",
+ "summary": "신세계인터내셔날이 수입·판매하는 스웨디시 내추럴 웰니스 라이프스타일 브랜드 라부르켓(L:A BRUKET)이 보이그룹 ‘롱샷(LNGSHOT)’을 첫 브랜드 파트너로 발탁하고 고객들과의 접점 확대에 나선다고 1일 밝혔다.롱샷은 가수 겸 프로듀서 박재범이 처음 선보인 아이돌 그룹으로 올해 1월 데뷔 후 빠르게 글로벌 팬덤을 넓혀가고 있다. 지난 7월 ‘KMA 2026(KM 차트 어워즈 2026)’에서 신인상과 글로벌 라이징 스타상을 수상했으며, 8월에는 데뷔 타이틀곡 ‘Moonwalkin’(문워킨)’이 글로벌 음원 플랫폼 스포티파이 누적",
+ "published_at": "2026-10-01T13:21:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "SE"
+  ],
+  "brands": [
+   "라부르켓",
+   "L:A BRUKET"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "내추럴 웰니스",
+   "홈 프래그런스",
+   "향수",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "NEW 퍼퓸 컬렉션(오버나투르, 블릭스트, 디지르)",
+    "brand": "라부르켓",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "센트 & 스팀 키트(Scent & Steam Kit)",
+    "brand": "라부르켓",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신세계인터내셔날의 라부르켓이 보이그룹 롱샷을 첫 브랜드 파트너로 선정하고 성수동 팝업스토어 등 마케팅 활동을 전개한다.",
+  "key_fact_quote": "신세계인터내셔날이 수입·판매하는 스웨디시 내추럴 웰니스 라이프스타일 브랜드 라부르켓(L:A BRUKET)이 보이그룹 ‘롱샷(LNGSHOT)’을 첫 브랜드 파트너로 발탁하고 고객들과의 접점 확대에 나선다고 1일 밝혔다.",
+  "events": [
+   {
+    "name": "라부르켓 X 센트(Scent, 향기) 사우나 팝업",
+    "start_date": "2026-10-15",
+    "end_date": null,
+    "place": "서울 성수동 소재 무비랜드",
+    "quote": "오는 15일부터는 감도 높은 협업으로 주목받고 있는 서울 성수동 소재 무비랜드에서 ‘라부르켓 X 센트(Scent, 향기) 사우나 팝업’을 운영한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "해초",
+    "quote": "스웨덴 청정해협의 해초, 바다 소금 등 자연 유래 성분을 활용한 스킨∙바디케어, 홈 프래그런스, 향수 등을 선보이고 있으며, 스웨덴의 사우나 문화를 주요 헤리티지로 삼아 웰니스 라이프스타일을 제안하고 있다."
+   },
+   {
+    "name": "바다 소금",
+    "quote": "스웨덴 청정해협의 해초, 바다 소금 등 자연 유래 성분을 활용한 스킨∙바디케어, 홈 프래그런스, 향수 등을 선보이고 있으며, 스웨덴의 사우나 문화를 주요 헤리티지로 삼아 웰니스 라이프스타일을 제안하고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:57+00:00",
+ "had_body": true
+}

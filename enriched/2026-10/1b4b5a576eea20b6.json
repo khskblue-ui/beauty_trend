@@ -24,14 +24,11 @@
    "디오프러스",
    "DEOPROCE"
   ],
-  "companies": [
-   "올리브영"
-  ],
+  "companies": [],
   "keywords": [
    "선케어",
-   "하이브리드 선크림",
-   "피부장벽 케어",
-   "고기능 스킨케어"
+   "선크림",
+   "하이브리드 선크림"
   ],
   "is_press_release": true,
   "products": [
@@ -39,17 +36,29 @@
     "name": "UV 디펜스 PDRN 선크림",
     "brand": "디오프러스",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "디오프러스의 자외선 차단 및 피부장벽 케어 선크림이 올리브영 선케어 카테고리 랭킹 정상을 기록했다.",
+  "key_fact": "스킨케어 브랜드 디오프러스의 자외선 차단 제품이 올리브영 선케어 카테고리 정상에 올랐다.",
   "key_fact_quote": "스킨케어 브랜드 디오프러스(DEOPROCE)의 ‘UV 디펜스 PDRN 선크림’이 올리브영 선케어 카테고리 1위를 기록했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "‘UV 디펜스 PDRN 선크림’은 SPF50+ PA++++의 자외선 차단 기능에 PDRN 장벽 케어를 더한 차세대 하이브리드 선크림이다."
+   },
+   {
+    "name": "로즈 PDRN",
+    "quote": "99% 고순도 로즈 PDRN을 함유했으며, 가볍고 매끈하게 밀착돼 메이크업 전에도 부담 없이 사용할 수 있다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:48+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:00+00:00",
  "had_body": true
 }

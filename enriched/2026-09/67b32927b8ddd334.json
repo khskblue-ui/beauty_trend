@@ -1,0 +1,40 @@
+{
+ "doc_id": "67b32927b8ddd334",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169736",
+ "title": "﻿4653억·8225억·1조1000억 위안… 숫자로 읽는 중국 화장품 시장 [박지...",
+ "summary": "향수 , 색조와 고급 스킨케어는 직접 사용해 보는 경험이 중요하다. 피부 진단과 메이크업 서비스, 매장... 젊은 소비자는 색조와 신제품 발견을 이끌고, 중장년층은 항노화와 민감성 관리에서 높은 객단가를 만들 수 있다....",
+ "published_at": "2026-09-09T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "고급 스킨케어",
+   "항노화",
+   "민감성 관리"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 화장품 시장에서 향수와 색조 및 고급 스킨케어는 직접 경험이 중요하며 세대별로 선호하는 품목에 차이가 나타난다.",
+  "key_fact_quote": "향수 , 색조와 고급 스킨케어는 직접 사용해 보는 경험이 중요하다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:29+00:00",
+ "had_body": false
+}

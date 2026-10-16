@@ -1,0 +1,44 @@
+{
+ "doc_id": "11e4a796f4743c56",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=20260902085022725546a9e4dd7f_30",
+ "title": "불가리, '옴니아 아메시스트' 첫 오 드 퍼퓸 출시",
+ "summary": "불가리(BVLGARI)는 향수 '옴니아 아메시스트' 컬렉션의 첫 오 드 퍼퓸을 2일 출시한다. 옴니아 아메시스트 오 드... 신제품 조향은 마스터 퍼퓨머 알베르토 모리야스가 맡았다. 기존 오 드 뚜왈렛이 가벼운 향을 중심으로...",
+ "published_at": "2026-09-02T08:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "불가리",
+   "BVLGARI"
+  ],
+  "companies": [],
+  "keywords": [
+   "오 드 퍼퓸",
+   "신제품 조향"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "불가리가 옴니아 아메시스트 컬렉션의 첫 오 드 퍼퓸 신제품을 선보인다.",
+  "key_fact_quote": "불가리(BVLGARI)는 향수 '옴니아 아메시스트' 컬렉션의 첫 오 드 퍼퓸을 2일 출시한다.",
+  "dropped": [
+   "product:옴니아 아메시스트 오 드 퍼퓸"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:51+00:00",
+ "had_body": false
+}

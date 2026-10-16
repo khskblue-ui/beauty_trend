@@ -1,0 +1,45 @@
+{
+ "doc_id": "ffa88f817d78efec",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/industry/business-venture/2026/10/02/Z6K4FR2OJNCPHEJENNOCP7JF2A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "한국벤처투자, 아모레퍼시픽홀딩스와 화장품 기업 육성 맞손",
+ "summary": "6월에는 오픈 이노베이션 벤처 펀드를 활용해 아모레퍼시픽홀딩스가 신제품 을 공동 개발하고 투자한 인디 브랜드 기업에 공동 투자했다. 이번 협력은 화장품 산업에 전문성을 갖춘 대기업이 유망 기업을 찾아 추천하고...",
+ "published_at": "2026-10-02T13:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국벤처투자",
+   "아모레퍼시픽홀딩스"
+  ],
+  "keywords": [
+   "오픈 이노베이션",
+   "인디 브랜드",
+   "벤처 펀드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국벤처투자와 아모레퍼시픽홀딩스가 화장품 기업 육성을 위해 협력하기로 했다.",
+  "key_fact_quote": "한국벤처투자, 아모레퍼시픽홀딩스와 화장품 기업 육성 맞손",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:16+00:00",
+ "had_body": false
+}

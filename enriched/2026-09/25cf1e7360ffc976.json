@@ -1,0 +1,41 @@
+{
+ "doc_id": "25cf1e7360ffc976",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=243813",
+ "title": "'C-프래그런스'의 부상, 고속 성장하는 중국 향수 ·향료 시장",
+ "summary": "살롱 향수 와 니치 브랜드(小众品牌)가 잇따라 등장하고 있다. 이에 따라 기존 대형 브랜드가 주도하던 고착된 시장 구도도 한층 다양해지고 있다. 향기 제품의 형태 역시 향수 에서 기초 스킨케어, 퍼스널 케어 영역까지...",
+ "published_at": "2026-09-02T10:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "살롱 향수",
+   "니치 향수",
+   "퍼스널 케어",
+   "기초 스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 향수 및 향료 시장에서 살롱 향수와 니치 브랜드가 등장하며 시장 구도가 다양해지고 있다.",
+  "key_fact_quote": "살롱 향수 와 니치 브랜드(小众品牌)가 잇따라 등장하고 있다. 이에 따라 기존 대형 브랜드가 주도하던 고착된 시장 구도도 한층 다양해지고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:50+00:00",
+ "had_body": false
+}

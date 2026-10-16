@@ -1,0 +1,53 @@
+{
+ "doc_id": "e33d46fe360e730d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fashionbiz.co.kr/article/229940",
+ "title": "스웨덴 뷰티 '라부르켓', 첫 브랜드 파트너로 롱샷 발탁",
+ "summary": "청정해협의 해초, 바다 소금 등 자연 유래 성분을 활용한 스킨·보디케어, 홈 프래그런스, 향수 등을 선보이며, 스웨덴 사우나 문화를 헤리티지로 웰니스 라이프스타일을 제안한다. 브랜드 의 꾸밈없는 진정성과...",
+ "published_at": "2026-10-01T10:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "SE"
+  ],
+  "brands": [
+   "라부르켓"
+  ],
+  "companies": [],
+  "keywords": [
+   "자연 유래 성분",
+   "홈 프래그런스",
+   "웰니스 라이프스타일"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "스웨덴 뷰티 브랜드 라부르켓이 첫 브랜드 파트너로 롱샷을 발탁했다.",
+  "key_fact_quote": "스웨덴 뷰티 '라부르켓', 첫 브랜드 파트너로 롱샷 발탁",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "해초",
+    "quote": "청정해협의 해초, 바다 소금 등 자연 유래 성분을 활용한 스킨·보디케어, 홈 프래그런스, 향수 등을 선보이며, 스웨덴 사우나 문화를 헤리티지로 웰니스 라이프스타일을 제안한다."
+   },
+   {
+    "name": "바다 소금",
+    "quote": "청정해협의 해초, 바다 소금 등 자연 유래 성분을 활용한 스킨·보디케어, 홈 프래그런스, 향수 등을 선보이며, 스웨덴 사우나 문화를 헤리티지로 웰니스 라이프스타일을 제안한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:17+00:00",
+ "had_body": false
+}

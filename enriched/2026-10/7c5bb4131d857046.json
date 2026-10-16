@@ -1,0 +1,92 @@
+{
+ "doc_id": "7c5bb4131d857046",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100016",
+ "title": "라보에이치, 몬치치 콜라보 에디션 출시",
+ "summary": "두피 스킨케어 전문 브랜드 라보에이치(LABO-H)가 글로벌 인기 캐릭터 ‘몬치치’와 협업한 한정판 에디션을 출시한다. 몬치치 특유의 복슬복슬하고 풍성한 헤어와 레트로한 감성을 라보에이치의 ‘두피강화 클리닉’ 라인에 접목하고, 다양한 한정 굿즈를 함께 선보인다.올리브영 어워즈 샴푸 부문에서 4년 연속 1위를 수상한 라보에이치는 이번 협업을 통해 ‘풍성한 헤어’라는 몬치치의 상징적인 이미지를 두피 케어 메시지와 연결했다. 콜라보 에디션에서는 몬치치가 라보에이치의 브랜드 컬러를 반영한 초록색 턱받이를 착용한 모습으로 등장해 협업의 개성",
+ "published_at": "2026-10-01T10:03:46+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라보에이치",
+   "몬치치"
+  ],
+  "companies": [],
+  "keywords": [
+   "두피 스킨케어",
+   "캐릭터 콜라보",
+   "두피 케어",
+   "한정판 에디션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "두피강화 샴푸",
+    "brand": "라보에이치",
+    "launch_date": "2026-10-01",
+    "launch_status": "launched",
+    "launch_quote": "두피 스킨케어 전문 브랜드 라보에이치(LABO-H)가 글로벌 인기 캐릭터 ‘몬치치’와 협업한 한정판 에디션을 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "캡슐 트리트먼트",
+    "brand": "라보에이치",
+    "launch_date": "2026-10-01",
+    "launch_status": "launched",
+    "launch_quote": "두피 스킨케어 전문 브랜드 라보에이치(LABO-H)가 글로벌 인기 캐릭터 ‘몬치치’와 협업한 한정판 에디션을 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "헤어라인 앰플",
+    "brand": "라보에이치",
+    "launch_date": "2026-10-01",
+    "launch_status": "launched",
+    "launch_quote": "두피 스킨케어 전문 브랜드 라보에이치(LABO-H)가 글로벌 인기 캐릭터 ‘몬치치’와 협업한 한정판 에디션을 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스케일러",
+    "brand": "라보에이치",
+    "launch_date": "2026-10-01",
+    "launch_status": "launched",
+    "launch_quote": "두피 스킨케어 전문 브랜드 라보에이치(LABO-H)가 글로벌 인기 캐릭터 ‘몬치치’와 협업한 한정판 에디션을 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "두피 스킨케어 브랜드 라보에이치가 캐릭터 몬치치와 협업한 한정판 에디션을 출시했다.",
+  "key_fact_quote": "두피 스킨케어 전문 브랜드 라보에이치(LABO-H)가 글로벌 인기 캐릭터 ‘몬치치’와 협업한 한정판 에디션을 출시한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "단백질",
+    "quote": "캡슐 트리트먼트는 실리콘 오일 없이 단백질과 비타민 성분을 담아 두피와 모발에 영양을 공급한다."
+   },
+   {
+    "name": "비타민",
+    "quote": "캡슐 트리트먼트는 실리콘 오일 없이 단백질과 비타민 성분을 담아 두피와 모발에 영양을 공급한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:07+00:00",
+ "had_body": true
+}

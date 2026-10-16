@@ -5,12 +5,12 @@
  "group": "kr_news",
  "lang": "ko",
  "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=365835",
- "title": "신세계인터 로에베 퍼퓸 , '크래프티드 컬렉션' 신규 향수 5종 출시",
- "summary": "'크래프티드 컬렉션'은 자연과 창의성, 조향 기술을 바탕으로 하나의 공예품을 완성하듯 향을 빚어내는 로에베 퍼퓸 의 니치 향수 라인이다. 과일과 꽃, 나무, 향신료 등 서로 다른 원료의 특징을 섬세하게 살려 각각의...",
+ "title": "신세계인터 로에베 퍼퓸, '크래프티드 컬렉션' 신규 향수 5종 출시",
+ "summary": "'크래프티드 컬렉션'은 자연과 창의성, 조향 기술을 바탕으로 하나의 공예품을 완성하듯 향을 빚어내는 로에베 퍼퓸의 니치 향수 라인이다. 과일과 꽃, 나무, 향신료 등 서로 다른 원료의 특징을 섬세하게 살려 각각의...",
  "published_at": "2026-09-21T09:28:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "니치 퍼퓸",
+ "query": "니치 향수",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -24,7 +24,7 @@
    "로에베 퍼퓸"
   ],
   "companies": [
-   "신세계인터"
+   "신세계인터내셔날"
   ],
   "keywords": [
    "니치 향수",
@@ -36,20 +36,17 @@
     "name": "크래프티드 컬렉션",
     "brand": "로에베 퍼퓸",
     "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "신세계인터 로에베 퍼퓸 , '크래프티드 컬렉션' 신규 향수 5종 출시",
+    "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "신세계인터의 로에베 퍼퓸이 니치 향수 라인 크래프티드 컬렉션 신규 향수 제품군을 출시했다.",
-  "key_fact_quote": "신세계인터 로에베 퍼퓸 , '크래프티드 컬렉션' 신규 향수 5종 출시",
-  "events": [],
-  "ingredients": [],
+  "key_fact": "신세계인터내셔날의 로에베 퍼퓸이 니치 향수 라인인 크래프티드 컬렉션 신규 향수들을 출시했다.",
+  "key_fact_quote": "신세계인터 로에베 퍼퓸, '크래프티드 컬렉션' 신규 향수 5종 출시",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:07+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:11+00:00",
  "had_body": false
 }

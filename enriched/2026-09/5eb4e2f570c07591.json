@@ -1,0 +1,39 @@
+{
+ "doc_id": "5eb4e2f570c07591",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sportsseoul.com/news/read/1637348?ref=naver",
+ "title": "피부 처짐에 충격…슈, 화장품 만든다더니 직접 공개한 ‘요즘 얼굴’",
+ "summary": "최근 화장품 신제품 을 준비하고 있다는 근황도 함께 전했다. 슈는 최근 자신의 SNS에 “정말 오랜만에 셀카”라는 글과 함께 사진 여러 장을 올렸다. 그는 “요즘 새로운 서프라이즈 작업 중이다. 뭘까요?”라며 “진심을...",
+ "published_at": "2026-09-24T10:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 신제품",
+   "피부 관리"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "슈가 새로운 화장품 신제품을 준비하고 있다는 근황을 전했다.",
+  "key_fact_quote": "최근 화장품 신제품 을 준비하고 있다는 근황도 함께 전했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:35+00:00",
+ "had_body": false
+}

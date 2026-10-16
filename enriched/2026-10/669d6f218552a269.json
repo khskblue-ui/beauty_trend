@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "retail",
-  "event_type": "event",
+  "event_type": "market_trend",
   "countries": [
    "KR"
   ],
@@ -26,17 +26,26 @@
   ],
   "keywords": [
    "더마코스메틱",
-   "뷰티 신상품",
-   "기능성 화장품"
+   "뷰티 기획전"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "다이소몰이 행사를 통해 다수의 뷰티 신상품과 더마코스메틱 제품을 선보인다.",
+  "key_fact": "다이소몰에서 뷰티 신제품을 선보이는 행사를 진행하며 더마코스메틱 제품 등을 공개한다.",
   "key_fact_quote": "다이소몰, 뷰티 신상품 330여종 쏟아낸다…'Daiso-DAY' 진행",
+  "events": [
+   {
+    "name": "Daiso-DAY",
+    "start_date": "2026-10-12",
+    "end_date": null,
+    "place": null,
+    "quote": "첫날인 12일에는 피부 관리 기능과 전문성을 강조한 더마코스메틱 제품들이 등장했다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:12+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:16+00:00",
  "had_body": false
 }

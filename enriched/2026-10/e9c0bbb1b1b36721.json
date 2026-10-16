@@ -1,0 +1,64 @@
+{
+ "doc_id": "e9c0bbb1b1b36721",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/kromboost-protein-bioactive-for-hair-longevity",
+ "title": "Kromboost: Protein bioactive for hair longevity",
+ "summary": "Kromboost is Provital's bioactive, upcycled hydrolyzed barley protein active, sourced from local malt rootlets. Rich in peptides, polyphenols and serine, it strengthens hair, boosts hydration and shields dyed colour from heat damage. Ex vivo studies show up to 152% less breakage and 199% better colour retention in leave-on, plus 166% in just one 3-minute rinse-off wash. Cosmos approved, Halal and Vegan certified, 100% natural origin. Used at 2%.",
+ "published_at": "2026-10-01T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Provital"
+  ],
+  "keywords": [
+   "업사이클링 원료",
+   "헤어케어",
+   "비건 뷰티",
+   "단백질 활성 성분"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "프로비탈은 모발 강화와 염색모 보호 효능을 가진 보리 단백질 기반 업사이클링 활성 성분을 선보였다.",
+  "key_fact_quote": "Kromboost is Provital's bioactive, upcycled hydrolyzed barley protein active, sourced from local malt rootlets.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Kromboost",
+    "quote": "Kromboost is Provital's bioactive, upcycled hydrolyzed barley protein active, sourced from local malt rootlets."
+   },
+   {
+    "name": "hydrolyzed barley protein",
+    "quote": "Kromboost is Provital's bioactive, upcycled hydrolyzed barley protein active, sourced from local malt rootlets."
+   },
+   {
+    "name": "peptides",
+    "quote": "Rich in peptides, polyphenols and serine, it strengthens hair, boosts hydration and shields dyed colour from heat damage."
+   },
+   {
+    "name": "polyphenols",
+    "quote": "Rich in peptides, polyphenols and serine, it strengthens hair, boosts hydration and shields dyed colour from heat damage."
+   },
+   {
+    "name": "serine",
+    "quote": "Rich in peptides, polyphenols and serine, it strengthens hair, boosts hydration and shields dyed colour from heat damage."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:23+00:00",
+ "had_body": false
+}

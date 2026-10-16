@@ -1,0 +1,58 @@
+{
+ "doc_id": "f8364c3c33be1dd6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=765538",
+ "title": "동아제약, 합병 전후 해외상표 6종 대거 출원…뷰티·웰니스로 글로벌 ...",
+ "summary": "상표별 지정상품은 화장품 과 건강식품 분야에 집중됐다. 'DA.LNPICO_TONE-UP'은 색소침착 제거와 미백, 피부... 국내에선 지난 2월 스틱혈 샐러드로 '퓨레카'를 출시 했다. 'REFRESH ENERGY'의 지정상품은 캔디와 젤리형...",
+ "published_at": "2026-10-12T06:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "DA.LNPICO_TONE-UP",
+   "퓨레카",
+   "REFRESH ENERGY"
+  ],
+  "companies": [
+   "동아제약"
+  ],
+  "keywords": [
+   "해외상표 출원",
+   "미백 화장품",
+   "뷰티 웰니스"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "퓨레카",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "국내에선 지난 2월 스틱혈 샐러드로 '퓨레카'를 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동아제약이 화장품과 건강식품 분야를 중심으로 해외 상표를 출원했다.",
+  "key_fact_quote": "상표별 지정상품은 화장품 과 건강식품 분야에 집중됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:10+00:00",
+ "had_body": false
+}

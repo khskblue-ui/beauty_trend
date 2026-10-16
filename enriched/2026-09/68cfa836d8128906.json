@@ -1,0 +1,50 @@
+{
+ "doc_id": "68cfa836d8128906",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gokorea.kr/news/articleView.html?idxno=879612",
+ "title": "오드카리브, 아이브 이서 모델 발탁해 헤어퍼퓸 신제품 출시",
+ "summary": "오일 신제품 '로즈 로제(Rose Rosée)'를 출시 했다. 오드카리브는 이서를 모델로 공개하기 전 모델을 밝히지... 오드카리브는 무신사 뷰티 에 입점한 데 이어 온누리약국 오프라인 매장에도 제품을 들여놓았다. 오드카리브...",
+ "published_at": "2026-09-23T15:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오드카리브"
+  ],
+  "companies": [],
+  "keywords": [
+   "헤어퍼퓸",
+   "헤어 오일"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "로즈 로제(Rose Rosée)",
+    "brand": "오드카리브",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "오드카리브가 모델을 발탁하고 신제품 로즈 로제를 출시했다.",
+  "key_fact_quote": "오드카리브, 아이브 이서 모델 발탁해 헤어퍼퓸 신제품 출시",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:35+00:00",
+ "had_body": false
+}

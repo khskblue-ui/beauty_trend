@@ -1,0 +1,55 @@
+{
+ "doc_id": "e4ea39f442c1dc8b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.segyebiz.com/newsView/20260930518296?OutUrl=naver",
+ "title": "스킨냅스, 뷰티 큐레이션 에이아우라 통해 피코 박스 출시",
+ "summary": "사진=스킨냅스 스킨냅스가 뷰티 큐레이션 서비스 ‘에이아우라(Aaura)’를 통해 개인별 피부 코드에 맞춘 화장품 체험 박스 ‘피코 박스(PIKO BOX)’를 출시 했다고 1일 밝혔다. 업체에 따르면 스킨냅스는 피부를 뜻하는...",
+ "published_at": "2026-10-01T09:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이아우라"
+  ],
+  "companies": [
+   "스킨냅스"
+  ],
+  "keywords": [
+   "뷰티 큐레이션",
+   "화장품 체험 박스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "피코 박스(PIKO BOX)",
+    "brand": "에이아우라",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "스킨냅스가 뷰티 큐레이션 서비스 ‘에이아우라(Aaura)’를 통해 개인별 피부 코드에 맞춘 화장품 체험 박스 ‘피코 박스(PIKO BOX)’를 출시 했다고 1일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스킨냅스가 뷰티 큐레이션 서비스를 통해 개인별 피부 코드 맞춤 화장품 체험 박스를 출시했다.",
+  "key_fact_quote": "스킨냅스가 뷰티 큐레이션 서비스 ‘에이아우라(Aaura)’를 통해 개인별 피부 코드에 맞춘 화장품 체험 박스 ‘피코 박스(PIKO BOX)’를 출시 했다고 1일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:50+00:00",
+ "had_body": false
+}

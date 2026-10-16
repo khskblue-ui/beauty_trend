@@ -15,8 +15,8 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "retail",
-  "event_type": "market_trend",
+  "category": "fragrance",
+  "event_type": "product_launch",
   "countries": [
    "KR"
   ],
@@ -29,7 +29,6 @@
   "keywords": [
    "럭셔리 코스메틱",
    "향수",
-   "오 드 퍼퓸",
    "립 젤리"
   ],
   "is_press_release": false,
@@ -38,7 +37,8 @@
     "name": "립 젤리",
     "brand": "프라다",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "세련된 감각과 실험적인 미학을 담아낸 프라다만의 시그니처 ‘트라이앵글 패키지’ 립 젤리와 로고 모양의 향수 , 플로럴 앰버리 계열의 ‘패러독스 오 드 퍼퓸’ 등 눈길을 끄는 신제품 으로 관심을 끈다.",
     "notes": [],
     "notes_quote": null
    },
@@ -46,19 +46,22 @@
     "name": "패러독스 오 드 퍼퓸",
     "brand": "프라다",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "세련된 감각과 실험적인 미학을 담아낸 프라다만의 시그니처 ‘트라이앵글 패키지’ 립 젤리와 로고 모양의 향수 , 플로럴 앰버리 계열의 ‘패러독스 오 드 퍼퓸’ 등 눈길을 끄는 신제품 으로 관심을 끈다.",
     "notes": [
      "플로럴 앰버리"
     ],
     "notes_quote": "플로럴 앰버리 계열의 ‘패러독스 오 드 퍼퓸’ 등 눈길을 끄는 신제품 으로 관심을 끈다."
    }
   ],
-  "key_fact": "럭셔리 코스메틱과 프라다의 신제품 향수 및 립 제품이 광주신세계에 선보인다.",
-  "key_fact_quote": "럭셔리 코스메틱, 광주신세계에 상륙",
+  "key_fact": "프라다의 럭셔리 코스메틱 제품들이 광주신세계에 입점하며 향수와 립 젤리 등 신제품을 선보인다.",
+  "key_fact_quote": "세련된 감각과 실험적인 미학을 담아낸 프라다만의 시그니처 ‘트라이앵글 패키지’ 립 젤리와 로고 모양의 향수 , 플로럴 앰버리 계열의 ‘패러독스 오 드 퍼퓸’ 등 눈길을 끄는 신제품 으로 관심을 끈다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:26+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:39+00:00",
  "had_body": false
 }

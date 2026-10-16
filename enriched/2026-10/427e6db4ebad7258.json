@@ -1,0 +1,45 @@
+{
+ "doc_id": "427e6db4ebad7258",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://thetracker.co.kr/View.aspx?No=4254974",
+ "title": "K뷰티 수출 늘자 ODM도 커졌다…코스맥스·한국콜마, 글로벌 생산 경쟁",
+ "summary": "코스맥스와 한국콜마가 국내 화장품 수출 확대의 생산단에서 차지하는 비중이 커지고 있다는 의미다. ODM은 브랜드사가 자체 연구소와 생산공장을 갖추지 않아도 신제품 을 내놓을 수 있도록 제형 개발부터 생산까지...",
+ "published_at": "2026-10-07T16:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "한국콜마"
+  ],
+  "keywords": [
+   "화장품 제조자개발생산",
+   "화장품 수출",
+   "글로벌 생산"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 수출 확대에 따라 국내 제조업자개발생산 기업들의 생산 비중과 글로벌 경쟁이 확대되고 있다.",
+  "key_fact_quote": "코스맥스와 한국콜마가 국내 화장품 수출 확대의 생산단에서 차지하는 비중이 커지고 있다는 의미다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:57+00:00",
+ "had_body": false
+}

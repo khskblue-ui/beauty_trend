@@ -1,0 +1,54 @@
+{
+ "doc_id": "50f9636d85a9e7b1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726965",
+ "title": "자외선은 막고 피부톤은 밝게…다자연, '비타 톤업 선크림' 출시",
+ "summary": "자연주의 화장품 브랜드 다자연이 자외선 차단과 피부 톤 보정을 한 번에 겨냥한 신제품 을 내놨다. 다자연은 혼합자차 제품인 '비타 톤업 선크림'을 출시했다고 7일 밝혔다. 신제품 은 SPF50+ PA++++의 자외선 차단 기능을...",
+ "published_at": "2026-10-07T11:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "다자연"
+  ],
+  "companies": [],
+  "keywords": [
+   "톤업 선크림",
+   "혼합자차",
+   "자외선 차단"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "비타 톤업 선크림",
+    "brand": "다자연",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "다자연은 혼합자차 제품인 '비타 톤업 선크림'을 출시했다고 7일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "다자연이 자외선 차단과 피부 톤 보정을 동시에 돕는 신제품 선크림을 선보였다.",
+  "key_fact_quote": "다자연은 혼합자차 제품인 '비타 톤업 선크림'을 출시했다고 7일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:02+00:00",
+ "had_body": false
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "3d1ca1fa2fe2189e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=228539",
+ "title": "아기화장품 2026년 9월 브랜드평판...몽디에스, 아토팜, 바이오더마 順",
+ "summary": "아기 화장품은 성인용 제품에 비해 자극이 훨씬 적고 향료 도 적다. 한국의 저출산 위기에도 아기 화장품 시장은 급속도로 성장하고 있다. 아이를 위해 돈을 아끼지 않는 요즘 젊은 부모들의 소비문화가...",
+ "published_at": "2026-09-23T12:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "몽디에스",
+   "아토팜",
+   "바이오더마"
+  ],
+  "companies": [],
+  "keywords": [
+   "아기 화장품",
+   "브랜드평판"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "저출산 상황에서도 아기 화장품 시장은 젊은 부모들의 소비에 힘입어 빠르게 성장하고 있다.",
+  "key_fact_quote": "한국의 저출산 위기에도 아기 화장품 시장은 급속도로 성장하고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:15:56+00:00",
+ "had_body": false
+}

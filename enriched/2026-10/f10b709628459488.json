@@ -22,18 +22,14 @@
   ],
   "brands": [
    "짱셔요",
-   "빼빼로",
-   "찰떡파이",
-   "롯샌",
-   "칙촉"
+   "롯데웰푸드"
   ],
   "companies": [
    "롯데웰푸드"
   ],
   "keywords": [
-   "굿즈 협업",
-   "브랜드 향수",
-   "이색 굿즈"
+   "브랜드 굿즈",
+   "향수 콜라보"
   ],
   "is_press_release": true,
   "products": [
@@ -41,6 +37,7 @@
     "name": "짱셔요 향수",
     "brand": "짱셔요",
     "launch_date": null,
+    "launch_status": "launched",
     "launch_quote": "짱셔요 향수 ·독서링·도자기 잔, 찰떡파이 슬라임, 롯샌 피크닉 보자기·거울 키링 등 12종을 우선 선보인다.",
     "notes": [],
     "notes_quote": null
@@ -48,10 +45,12 @@
   ],
   "key_fact": "롯데웰푸드가 굿즈 협업을 확대하며 짱셔요 향수 등 다양한 상품을 선보인다.",
   "key_fact_quote": "빼빼로는 책갈피, 짱셔요는 향수 …롯데웰푸드, 굿즈 협업 확대",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:41+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:43+00:00",
  "had_body": false
 }

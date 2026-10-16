@@ -27,8 +27,8 @@
    "한국먼디파마"
   ],
   "keywords": [
-   "스팟 패치",
-   "여드름 케어",
+   "스팟패치",
+   "여드름성 피부 관리",
    "트러블 케어"
   ],
   "is_press_release": true,
@@ -37,17 +37,37 @@
     "name": "메디폼 EGF 스팟패치",
     "brand": "메디폼",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "한국먼디파마(대표이사 조연진)의 상처 토탈 케어 브랜드 ‘메디폼®’이 연중 지속되는 높은 자외선 지수로 인해 예민해진 여드름성 피부를 집중 관리할 수 있는 ‘메디폼 EGF 스팟패치’를 공식 출시했다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "한국먼디파마의 메디폼이 예민해진 여드름성 피부를 집중 관리할 수 있는 스팟패치 신제품을 공식 출시했다.",
+  "key_fact": "한국먼디파마의 메디폼이 여드름성 피부 집중 관리를 위한 신제품 스팟패치를 공식 출시했다.",
   "key_fact_quote": "한국먼디파마(대표이사 조연진)의 상처 토탈 케어 브랜드 ‘메디폼®’이 연중 지속되는 높은 자외선 지수로 인해 예민해진 여드름성 피부를 집중 관리할 수 있는 ‘메디폼 EGF 스팟패치’를 공식 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "재조합 인간 상피세포 성장인자",
+    "quote": "이번 신제품은 재조합 인간 상피세포 성장인자(rhEGF solution 10ppm(rh-Oligopeptide-1 0.1ppm))와 피부 톤 케어에 효과적인 글루타치온(1,000ppm)을 동시에 함유했다."
+   },
+   {
+    "name": "rhEGF solution",
+    "quote": "이번 신제품은 재조합 인간 상피세포 성장인자(rhEGF solution 10ppm(rh-Oligopeptide-1 0.1ppm))와 피부 톤 케어에 효과적인 글루타치온(1,000ppm)을 동시에 함유했다."
+   },
+   {
+    "name": "rh-Oligopeptide-1",
+    "quote": "이번 신제품은 재조합 인간 상피세포 성장인자(rhEGF solution 10ppm(rh-Oligopeptide-1 0.1ppm))와 피부 톤 케어에 효과적인 글루타치온(1,000ppm)을 동시에 함유했다."
+   },
+   {
+    "name": "글루타치온",
+    "quote": "이번 신제품은 재조합 인간 상피세포 성장인자(rhEGF solution 10ppm(rh-Oligopeptide-1 0.1ppm))와 피부 톤 케어에 효과적인 글루타치온(1,000ppm)을 동시에 함유했다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:03+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:12+00:00",
  "had_body": true
 }

@@ -1,0 +1,40 @@
+{
+ "doc_id": "31fa9c1d372f0856",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244096",
+ "title": "중국 6.3조 원 규모의 립 메이크업 시장, ‘정밀화 성장’ 시대의 서막",
+ "summary": "개성화 커스터마이징 출시 (60.5%), 포장 아이디어 다양화(55.5%), 연구개발 혁신 강화(41.1%)는 소비자가... 립글로스와 향수 가 주요 콜라보 카테고리로 자리 잡았다. 소비자의 구매 의사결정 측면에서 IP 자체의 매력과...",
+ "published_at": "2026-09-17T13:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "립 메이크업",
+   "커스터마이징",
+   "향수 콜라보"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 립 메이크업 시장에서 립글로스와 향수가 주요 콜라보레이션 카테고리로 부각되고 있다.",
+  "key_fact_quote": "립글로스와 향수 가 주요 콜라보 카테고리로 자리 잡았다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:17+00:00",
+ "had_body": false
+}

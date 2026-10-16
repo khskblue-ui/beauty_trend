@@ -1,0 +1,45 @@
+{
+ "doc_id": "55d8214c38ced685",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=208680",
+ "title": "다비디퓨저, 킹고스프링서 LIPS 투자 유치 ... 글로벌시장 진출 가속화",
+ "summary": "대표이사이자 조향사 인 이도겸 대표가 제품 개발에 직접 참여해 커스터마이징 디퓨저 영역에서 경쟁력을 다져왔으며, 스누피, 인사이드 아웃 등 주요 IP 및 브랜드와의 협업을 지속해 왔다. 회사 측에 따르면 자사몰...",
+ "published_at": "2026-09-17T09:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "다비디퓨저"
+  ],
+  "companies": [
+   "다비디퓨저",
+   "킹고스프링"
+  ],
+  "keywords": [
+   "디퓨저",
+   "투자 유치",
+   "글로벌 시장 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "다비디퓨저가 킹고스프링으로부터 투자를 유치하며 글로벌 시장 진출에 속도를 낸다.",
+  "key_fact_quote": "다비디퓨저, 킹고스프링서 LIPS 투자 유치 ... 글로벌시장 진출 가속화",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:44+00:00",
+ "had_body": false
+}

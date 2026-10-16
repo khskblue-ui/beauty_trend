@@ -26,25 +26,28 @@
   ],
   "keywords": [
    "크리에이터 협업",
-   "메이크업 신제품"
+   "메이크업"
   ],
   "is_press_release": true,
   "products": [
    {
     "name": "신제품",
     "brand": null,
-    "launch_date": null,
+    "launch_date": "2026-10-14",
+    "launch_status": "launched",
     "launch_quote": "신제품 은 10월 14일 패션 플랫폼 지그재그에서 먼저 공개된다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "뷰티 크리에이터 진뉴와 협업한 신제품이 패션 플랫폼을 통해 먼저 공개된다.",
+  "key_fact": "뷰티 크리에이터와 협업하여 개발된 신제품이 패션 플랫폼을 통해 선공개된다.",
   "key_fact_quote": "신제품 은 10월 14일 패션 플랫폼 지그재그에서 먼저 공개된다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:20+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:34+00:00",
  "had_body": false
 }

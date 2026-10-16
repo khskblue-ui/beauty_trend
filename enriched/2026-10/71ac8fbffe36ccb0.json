@@ -1,0 +1,66 @@
+{
+ "doc_id": "71ac8fbffe36ccb0",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58445",
+ "title": "코스맥스, IFSCC 2026에서 '최다' 기록… 구두 10건·포스터 22건 등 총 32건 발표",
+ "summary": "[코스인코리아닷컴 길태윤 기자]코스맥스는 9월 28일부터 10월 1일(현지 시간)까지 호주 퍼스 컨벤션 및 전시 센터에서 열린 제36회 세계화장품학회(IFSCC)에서 구두발표 10건과 포스터 발표 22건 등 총 32건의 연구 결과를 선보였다고 6일 밝혔다. 코스맥스는 올해 우수 응용 연구 'Top 10'에 선정되는 성과도 거뒀다. IFSCC는 전 세계",
+ "published_at": "2026-10-06T11:08:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "AU",
+   "CN",
+   "ID",
+   "US",
+   "IT",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "코스맥스차이나",
+   "코스맥스인도네시아"
+  ],
+  "keywords": [
+   "세계화장품학회",
+   "마이크로바이옴",
+   "자외선 차단제",
+   "향기 지속성"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스는 세계화장품학회에서 다수의 연구 결과를 발표하며 글로벌 기술 경쟁력을 입증했다.",
+  "key_fact_quote": "코스맥스는 9월 28일부터 10월 1일(현지 시간)까지 호주 퍼스 컨벤션 및 전시 센터에서 열린 제36회 세계화장품학회(IFSCC)에서 구두발표 10건과 포스터 발표 22건 등 총 32건의 연구 결과를 선보였다고 6일 밝혔다.",
+  "events": [
+   {
+    "name": "제36회 세계화장품학회(IFSCC)",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-01",
+    "place": "호주 퍼스 컨벤션 및 전시 센터",
+    "quote": "코스맥스는 9월 28일부터 10월 1일(현지 시간)까지 호주 퍼스 컨벤션 및 전시 센터에서 열린 제36회 세계화장품학회(IFSCC)에서 구두발표 10건과 포스터 발표 22건 등 총 32건의 연구 결과를 선보였다고 6일 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "셀룰로오스",
+    "quote": "자외선 차단, 색상 조절 및 주름 개선을 위한 지속 가능한 셀룰로오스 기반 다기능 필름이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:37+00:00",
+ "had_body": true
+}

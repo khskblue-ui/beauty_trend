@@ -1,0 +1,43 @@
+{
+ "doc_id": "a38b62136a9e80b3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.nc.press/news/articleView.html?idxno=627652",
+ "title": "세븐틴 정한, 향수 브랜드 SW19 글로벌 앰버서더 발탁",
+ "summary": "세븐틴(SEVENTEEN) 정한이 향수 브랜드 의 새 글로벌 얼굴로 낙점되며 특유의 매력을 다시 한번 입증했다. 1일 향수 브랜드 SW19은 세븐틴 정한의 글로벌 앰버서더 발탁 소식을 알렸다. 이번 행보는 한 가지 이미지로...",
+ "published_at": "2026-10-01T17:27:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "SW19"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 브랜드",
+   "글로벌 앰버서더"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "향수 브랜드 에스더블유나인틴이 세븐틴 정한을 글로벌 앰버서더로 발탁했다.",
+  "key_fact_quote": "1일 향수 브랜드 SW19은 세븐틴 정한의 글로벌 앰버서더 발탁 소식을 알렸다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:14+00:00",
+ "had_body": false
+}

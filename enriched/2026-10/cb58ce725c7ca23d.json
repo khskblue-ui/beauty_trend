@@ -5,12 +5,12 @@
  "group": "kr_news",
  "lang": "ko",
  "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=279910",
- "title": "명품 향수를 입혔다…애경산업 샤워메이트, ' 퍼퓸 바디워시' 출시",
- "summary": "애경산업의 토털 바디케어 브랜드 '샤워메이트(SHOWER MATE)'에서 명품 향수의 클래식한 무드를 담은 ' 퍼퓸 ... 핸드워시'를 출시 했다. 브레드이발소 버블 핸드워시는 인기 애니메이션인 '브레드이발소'의 캐릭터를 패키지...",
+ "title": "명품 향수 를 입혔다…애경산업 샤워메이트, '퍼퓸 바디워시' 출시",
+ "summary": "애경산업의 토털 바디케어 브랜드 '샤워메이트(SHOWER MATE)'에서 명품 향수 의 클래식한 무드를 담은 '퍼퓸... 핸드워시'를 출시 했다. 브레드이발소 버블 핸드워시는 인기 애니메이션인 '브레드이발소'의 캐릭터를 패키지...",
  "published_at": "2026-10-12T16:40:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "퍼퓸 출시",
+ "query": "향수 출시",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -39,28 +39,28 @@
     "brand": "샤워메이트",
     "launch_date": null,
     "launch_status": "launched",
-    "launch_quote": "명품 향수를 입혔다…애경산업 샤워메이트, ' 퍼퓸 바디워시' 출시",
+    "launch_quote": "명품 향수 를 입혔다…애경산업 샤워메이트, '퍼퓸 바디워시' 출시",
     "notes": [],
     "notes_quote": null
    },
    {
     "name": "브레드이발소 버블 핸드워시",
-    "brand": "샤워메이트",
+    "brand": null,
     "launch_date": null,
     "launch_status": "launched",
-    "launch_quote": "애경산업의 토털 바디케어 브랜드 '샤워메이트(SHOWER MATE)'에서 명품 향수의 클래식한 무드를 담은 ' 퍼퓸 ... 핸드워시'를 출시 했다.",
+    "launch_quote": "핸드워시'를 출시 했다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "애경산업 샤워메이트가 명품 향수의 무드를 담은 신제품을 선보였다.",
-  "key_fact_quote": "명품 향수를 입혔다…애경산업 샤워메이트, ' 퍼퓸 바디워시' 출시",
+  "key_fact": "애경산업의 바디케어 브랜드 샤워메이트가 퍼퓸 바디워시 신제품을 선보였다.",
+  "key_fact_quote": "명품 향수 를 입혔다…애경산업 샤워메이트, '퍼퓸 바디워시' 출시",
   "events": [],
   "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:11+00:00",
+ "enriched_at": "2026-10-15T15:14:47+00:00",
  "had_body": false
 }

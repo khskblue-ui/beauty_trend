@@ -1,0 +1,47 @@
+{
+ "doc_id": "df926d7cce979bc6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/industry/2026/10/12/2026101215593234518",
+ "title": "여리한다이어트 부산서면점, 경남정보대 글로벌K 뷰티 학과 장학금 전달",
+ "summary": "글로벌K 뷰티 학과와의 지속적인 교류를 통해 교육 현장과 산업 현장을 연결하고, 학생들의 진로 탐색과 현장 역량 강화를 지원할 계획이다. 여리한 다이어트는 약손명가에서 2015년 론칭 한 다이어트 전문 브랜드 로, 체중 및...",
+ "published_at": "2026-10-12T18:51:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "여리한다이어트",
+   "여리한 다이어트"
+  ],
+  "companies": [
+   "약손명가",
+   "경남정보대"
+  ],
+  "keywords": [
+   "글로벌 뷰티",
+   "인재 육성"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "여리한다이어트 부산서면점이 경남정보대학교 뷰티 관련 학과에 장학금을 전달하며 산학 교류와 현장 역량 강화를 지원한다.",
+  "key_fact_quote": "글로벌K 뷰티 학과와의 지속적인 교류를 통해 교육 현장과 산업 현장을 연결하고, 학생들의 진로 탐색과 현장 역량 강화를 지원할 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:26+00:00",
+ "had_body": false
+}

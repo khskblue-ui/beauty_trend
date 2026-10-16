@@ -1,0 +1,41 @@
+{
+ "doc_id": "0e2148f85de1a608",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679588&ref=A",
+ "title": "이소영 “소상공인 안전망 강화…‘창업벤처규제혁신위’ 설립”",
+ "summary": "이 장관은 “ K -컬처에 기반한 뷰티 , 푸드, 패션 등 중소기업 제품의 해외 진출을 지원하는 한편 기업 성장 단계에 따른 수출 로드맵을 수립해 수출 고속 성장을 유도하겠다”며 “중소기업이 인공지능(AI) 전환과 탄소중립...",
+ "published_at": "2026-10-07T11:09:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "해외 진출 지원",
+   "중소기업 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부가 문화를 기반으로 한 뷰티 등 중소기업 제품의 해외 진출을 지원하고 수출 성장을 유도하겠다고 밝혔다.",
+  "key_fact_quote": "이 장관은 “ K -컬처에 기반한 뷰티 , 푸드, 패션 등 중소기업 제품의 해외 진출을 지원하는 한편 기업 성장 단계에 따른 수출 로드맵을 수립해 수출 고속 성장을 유도하겠다”며 “중소기업이 인공지능(AI) 전환과 탄소중립...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:57+00:00",
+ "had_body": false
+}

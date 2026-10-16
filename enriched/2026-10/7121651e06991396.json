@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "ingredient",
+  "category": "other",
   "event_type": "event",
   "countries": [
    "KR"
@@ -26,18 +26,28 @@
    "선진뷰티사이언스"
   ],
   "keywords": [
-   "화장품 학술대회",
-   "화장품 소재",
-   "피부 천연물 효능"
+   "추계학술대회",
+   "정기총회",
+   "포스터발표"
   ],
-  "is_press_release": true,
+  "is_press_release": false,
   "products": [],
-  "key_fact": "대한화장품학회가 정기총회와 함께 소재 및 제형 등을 다루는 추계학술대회를 개최한다.",
+  "key_fact": "대한화장품학회가 서울드래곤시티에서 정기총회 및 추계학술대회를 개최한다.",
   "key_fact_quote": "대한화장품학회는 오는 11월 27일(금) 서울드래곤시티(용산) 그랜드볼룸 3F 한라홀에서 2026년 (사)대한화장품학회 제6차 정기총회 및 추계학술대회를 개최한다고 밝혔다.",
+  "events": [
+   {
+    "name": "2026년 (사)대한화장품학회 제6차 정기총회 및 추계학술대회",
+    "start_date": "2026-11-27",
+    "end_date": null,
+    "place": "서울드래곤시티(용산) 그랜드볼룸 3F 한라홀",
+    "quote": "대한화장품학회는 오는 11월 27일(금) 서울드래곤시티(용산) 그랜드볼룸 3F 한라홀에서 2026년 (사)대한화장품학회 제6차 정기총회 및 추계학술대회를 개최한다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:24+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:11:50+00:00",
  "had_body": true
 }

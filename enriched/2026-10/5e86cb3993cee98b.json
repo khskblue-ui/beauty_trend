@@ -31,7 +31,7 @@
   "keywords": [
    "메디컬 스킨케어",
    "더마 코스메슈티컬",
-   "피부장벽 기술"
+   "피부장벽"
   ],
   "is_press_release": true,
   "products": [
@@ -39,17 +39,28 @@
     "name": "인텐시브 크림",
     "brand": "제로이드",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "네오팜의 메디컬 스킨케어 브랜드 제로이드가 미국 뉴욕에서 열리는 케이 컬처 행사에 메인 부스 브랜드로 참가한다.",
+  "key_fact": "네오팜의 메디컬 스킨케어 브랜드 제로이드가 미국 뉴욕에서 열리는 케이 컬처 이벤트인 하우스 오브 케이 시즌 투에 메인 부스 브랜드로 참가한다.",
   "key_fact_quote": "뷰티&헬스케어 기업 네오팜(대표 김양수)의 메디컬 스킨케어 브랜드 ‘제로이드’가 오는 19일까지 미국 뉴욕 브루클린 하나하우스에서 열리는 ‘하우스 오브 케이 시즌 2: 더 웰니스 에딧(Haus of K Season 2: The Wellness Edit)’에 메인 부스 브랜드로 참가한다고 13일 밝혔다.",
+  "events": [
+   {
+    "name": "하우스 오브 케이 시즌 2: 더 웰니스 에딧(Haus of K Season 2: The Wellness Edit)",
+    "start_date": "2026-10-13",
+    "end_date": "2026-10-19",
+    "place": "미국 뉴욕 브루클린 하나하우스",
+    "quote": "뷰티&헬스케어 기업 네오팜(대표 김양수)의 메디컬 스킨케어 브랜드 ‘제로이드’가 오는 19일까지 미국 뉴욕 브루클린 하나하우스에서 열리는 ‘하우스 오브 케이 시즌 2: 더 웰니스 에딧(Haus of K Season 2: The Wellness Edit)’에 메인 부스 브랜드로 참가한다고 13일 밝혔다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:52+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:01+00:00",
  "had_body": true
 }

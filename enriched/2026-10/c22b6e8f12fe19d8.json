@@ -1,0 +1,62 @@
+{
+ "doc_id": "c22b6e8f12fe19d8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.venturesquare.net/1118890/",
+ "title": "콘스탄트 리필드, 탈모케어 전 제품 뷰티컬리 입점…특허 성분 앞세워 ...",
+ "summary": "콘스탄트에 따르면 해당 성분과 관련한 연구 결과는 SCI(E)급 학술지에 게재됐으며, 최근 열린 세계 화장품 학... 상품도 출시 했다. 해당 상품은 ‘cADPR™ 부스터 토닉’ 본품 70ml 1개와 리필 70ml 2개를 묶은 구성이다. 총...",
+ "published_at": "2026-10-12T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리필드"
+  ],
+  "companies": [
+   "콘스탄트",
+   "뷰티컬리"
+  ],
+  "keywords": [
+   "탈모케어",
+   "부스터 토닉",
+   "특허 성분"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "cADPR™ 부스터 토닉",
+    "brand": "리필드",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "상품도 출시 했다. 해당 상품은 ‘cADPR™ 부스터 토닉’ 본품 70ml 1개와 리필 70ml 2개를 묶은 구성이다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "콘스탄트 리필드가 탈모케어 전 제품의 뷰티컬리 입점과 함께 기획 세트를 출시했다.",
+  "key_fact_quote": "콘스탄트 리필드, 탈모케어 전 제품 뷰티컬리 입점…특허 성분 앞세워 ...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "cADPR™",
+    "quote": "해당 상품은 ‘cADPR™ 부스터 토닉’ 본품 70ml 1개와 리필 70ml 2개를 묶은 구성이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:09+00:00",
+ "had_body": false
+}

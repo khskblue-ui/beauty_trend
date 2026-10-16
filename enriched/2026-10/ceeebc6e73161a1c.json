@@ -1,0 +1,46 @@
+{
+ "doc_id": "ceeebc6e73161a1c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.viva100.com/article/20261001501148",
+ "title": "식탁 넘어 화장대로… K뷰티서 새 먹거리 찾는 식품사들",
+ "summary": "hy는 신규 화장품 브랜드 ‘아이오셀’ 출시를 준비하고 있다. 오는 5일까지 신제품 을 체험하고 홍보할 뷰티 서포터즈도 모집한다. 앞서 hy는 2023년 자체 브랜드 ‘프레딧뷰티’를 선보이며 화장품 시장에 진출했다. 식품...",
+ "published_at": "2026-10-02T06:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오셀",
+   "프레딧뷰티"
+  ],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "신규 브랜드 론칭",
+   "식품사 화장품 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식품사들이 뷰티 분야에서 신성장 동력을 모색하는 가운데 hy가 신규 화장품 브랜드를 선보일 계획이다.",
+  "key_fact_quote": "hy는 신규 화장품 브랜드 ‘아이오셀’ 출시를 준비하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:24+00:00",
+ "had_body": false
+}

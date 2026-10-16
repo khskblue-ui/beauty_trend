@@ -1,0 +1,55 @@
+{
+ "doc_id": "92aaf1cc2eb8e71d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1409873",
+ "title": "이선주 대표 멕시코서 K뷰티 세일즈…LG생활건강, 중남미 공략 '속도'",
+ "summary": "사진= LG생활건강 제공 LG생활건강은 중남미 최대 화장품 시장 중 하나인 멕시코에서 글로벌 대표 브랜드인... 미감수 클렌징 라인 베스트셀러 3종과 신제품 스킨케어 '미감수 레디' 3종을 선보이며, 미감수 특유의 풍성한...",
+ "published_at": "2026-09-28T10:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "MX",
+   "KR"
+  ],
+  "brands": [
+   "미감수",
+   "미감수 레디"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "글로벌 시장 공략",
+   "클렌징 라인",
+   "스킨케어 신제품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "미감수 레디",
+    "brand": "미감수",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "LG생활건강이 멕시코 시장에서 대표 클렌징 라인과 신제품 스킨케어를 선보이며 중남미 공략에 속도를 내고 있다.",
+  "key_fact_quote": "LG생활건강은 중남미 최대 화장품 시장 중 하나인 멕시코에서 글로벌 대표 브랜드인... 미감수 클렌징 라인 베스트셀러 3종과 신제품 스킨케어 '미감수 레디' 3종을 선보이며, 미감수 특유의 풍성한...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:22+00:00",
+ "had_body": false
+}

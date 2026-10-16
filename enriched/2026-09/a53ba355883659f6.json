@@ -1,0 +1,67 @@
+{
+ "doc_id": "a53ba355883659f6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=364948",
+ "title": "LG생건, 2026년 추석 맞이 '화장품·생활용품 세트' 출시",
+ "summary": "우디 바닐라 향 샤워젤과 바디로션 구성에 프랑스 향료 회사인 로베르테(Robertet)와 공동 개발한 향을 담았다. 실크테라피 셀렉션세트는 미국 프로페셔널 살롱케어 브랜드 실크테라피의 3가지 히트 제품으로 구성됐다....",
+ "published_at": "2026-09-07T16:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR",
+   "US"
+  ],
+  "brands": [
+   "실크테라피"
+  ],
+  "companies": [
+   "LG생활건강",
+   "로베르테"
+  ],
+  "keywords": [
+   "바디로션",
+   "샤워젤",
+   "헤어케어",
+   "선물세트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "화장품·생활용품 세트",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "우디 바닐라"
+    ],
+    "notes_quote": "우디 바닐라 향 샤워젤과 바디로션 구성에 프랑스 향료 회사인 로베르테(Robertet)와 공동 개발한 향을 담았다."
+   },
+   {
+    "name": "실크테라피 셀렉션세트",
+    "brand": "실크테라피",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "엘지생활건강이 추석을 맞아 프랑스 향료 회사와 공동 개발한 향을 적용한 제품 세트를 선보였다.",
+  "key_fact_quote": "LG생건, 2026년 추석 맞이 '화장품·생활용품 세트' 출시",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:29+00:00",
+ "had_body": false
+}

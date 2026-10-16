@@ -1,0 +1,50 @@
+{
+ "doc_id": "722c87ecba8e7994",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100021",
+ "title": "정샘물 ‘아티스트 아이 팔레트 코어’ 신규 컬러 2종",
+ "summary": "K-NO.1 메이크업 아티스트 정샘물의 뷰티 철학과 노하우를 담은 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 눈동자 퍼스널 컬러를 완성하는 ‘아티스트 아이 팔레트 코어(ARTIST EYE PALETTE CORE)’ 신규 컬러를 지그재그에 선런칭했다고 1일 밝혔다.정샘물 ‘아티스트 아이 팔레트 코어’는 사람마다 서로 다른 눈동자 컬러에 맞춰 설계된 아이 팔레트로, 본연의 눈매를 자연스럽게 살리는 컬러 구성을 통해 나만의 아이 퍼스널 코어를 제안한다. 매트·쉬머·글리터·새틴까지 다양한 텍스처가 조화롭게 구성되어 다채로운 레이어링이",
+ "published_at": "2026-10-01T10:25:56+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "정샘물",
+   "JUNGSAEMMOOL"
+  ],
+  "companies": [
+   "정샘물뷰티"
+  ],
+  "keywords": [
+   "아이 팔레트",
+   "퍼스널 컬러",
+   "아이 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "뷰티 브랜드 정샘물이 눈동자 퍼스널 컬러에 맞춘 아이 팔레트 신규 컬러를 선보였다.",
+  "key_fact_quote": "K-NO.1 메이크업 아티스트 정샘물의 뷰티 철학과 노하우를 담은 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 눈동자 퍼스널 컬러를 완성하는 ‘아티스트 아이 팔레트 코어(ARTIST EYE PALETTE CORE)’ 신규 컬러를 지그재그에 선런칭했다고 1일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "product:아티스트 아이 팔레트 코어 크리미 누드",
+   "product:아티스트 아이 팔레트 코어 리치 누드"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:02+00:00",
+ "had_body": true
+}

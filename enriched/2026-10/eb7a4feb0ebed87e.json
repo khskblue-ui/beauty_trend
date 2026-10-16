@@ -16,10 +16,10 @@
  "extraction": {
   "relevant": true,
   "category": "business",
-  "event_type": "event",
+  "event_type": "market_trend",
   "countries": [
-   "KR",
-   "DE"
+   "DE",
+   "KR"
   ],
   "brands": [
    "THANK YOU FARMER",
@@ -39,13 +39,14 @@
    "코트라"
   ],
   "keywords": [
-   "향수",
+   "K-뷰티",
+   "한국적 감성 향수",
    "헤어케어",
    "비건 뷰티"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "국내 뷰티 브랜드들이 독일 베를린 행사에서 현지 시장 진출을 도모한다.",
+  "key_fact": "한국 뷰티 브랜드들이 독일 베를린에서 현지 시장 진출을 모색한다.",
   "key_fact_quote": "베를린에 K-뷰티 총출동…20개 한국 브랜드 , 독일시장 정조준",
   "events": [],
   "ingredients": [],
@@ -53,6 +54,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:18+00:00",
+ "enriched_at": "2026-10-15T15:25:53+00:00",
  "had_body": false
 }

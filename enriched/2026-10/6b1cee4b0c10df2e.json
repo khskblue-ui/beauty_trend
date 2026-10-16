@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "business",
+  "category": "makeup",
   "event_type": "business",
   "countries": [],
   "brands": [
@@ -23,18 +23,19 @@
   ],
   "companies": [],
   "keywords": [
-   "뷰티 브랜드",
-   "메이크업 아티스트",
+   "메이크업 브랜드",
    "브랜드 결별"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "메이크업 아티스트 이사마야 프렌치가 자신의 이름을 딴 화장품 브랜드와 결별했다는 소식이 전해졌다.",
-  "key_fact_quote": "The make-up artist has allegedly distanced herself from her own cosmetics brand, Isamaya Beauty, with rumours stating she has not been involved with the brand for more than a year",
+  "key_fact": "메이크업 아티스트 이사마야 프렌치가 자신의 이름을 딴 뷰티 브랜드와 결별한 것으로 전해졌다.",
+  "key_fact_quote": "Isamaya Ffrench no longer affiliated with namesake beauty brand",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:46+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:01+00:00",
  "had_body": false
 }

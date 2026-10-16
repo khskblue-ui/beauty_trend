@@ -1,0 +1,46 @@
+{
+ "doc_id": "8b3cdf0d09bd4bae",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.tf.co.kr/read/economy/2373042.htm",
+ "title": "코스맥스, 세계화장품학회서 '최다' 구두발표…기술 초격차 과시",
+ "summary": "발표는 스킨케어, 선케어, 메이크업, 헤어케어, 향료 등 5대 핵심 분야 전반에서 고르게 진행됐다. 선케어 부문에서는 무기 자외선 차단제 효능 분석과 친환경 다기능 필름 등 3건의 연구를 공개했다. 바이오 분야에서는...",
+ "published_at": "2026-10-06T08:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "세계화장품학회",
+   "구두발표",
+   "선케어",
+   "스킨케어",
+   "헤어케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 세계화장품학회에서 스킨케어와 선케어 및 향료 등 핵심 분야 연구 결과를 다수 구두발표했다.",
+  "key_fact_quote": "코스맥스, 세계화장품학회서 '최다' 구두발표…기술 초격차 과시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:02+00:00",
+ "had_body": false
+}

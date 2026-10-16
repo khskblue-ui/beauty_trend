@@ -1,0 +1,40 @@
+{
+ "doc_id": "fa1f834ada2a18ee",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sports.donga.com/region/article/all/20260915/134669030/1",
+ "title": "곡성군, 장미산업 이끌 전문 조향사 13명 배출",
+ "summary": "이번 교육에는 14명이 참여해 조향 이론과 향료 별 특성, 향료 조합 방법, 향수 조율 기법 등 전문 조향에 필요한 이론과 실무를 단계적으로 익혔다. 이 가운데 13명이 자격증 취득에 성공했다. 교육은 곡성군이 추진하는...",
+ "published_at": "2026-09-15T09:15:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "전문 조향사",
+   "조향 교육",
+   "장미산업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "곡성군에서 장미산업을 이끌 전문 조향사를 양성하여 자격증 취득자를 배출했다.",
+  "key_fact_quote": "곡성군, 장미산업 이끌 전문 조향사 13명 배출",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:05+00:00",
+ "had_body": false
+}

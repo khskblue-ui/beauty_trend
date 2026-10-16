@@ -1,0 +1,44 @@
+{
+ "doc_id": "f7521701583967b1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.m-i.kr/news/articleView.html?idxno=1409479",
+ "title": "잘나가는 K뷰티…중국·태국 추격에 '다음 카드' 고심",
+ "summary": "색조 제품은 유행과 신제품 출시, 유통사의 발주 시점 등에 따라 월별 수출 변동성이 크지만, 기초화장품에... 스킨케어의 경쟁력을 유지하는 동시에 색조와 향수 , 선케어 등 상대적으로 비중이 낮은 품목의 경쟁력을...",
+ "published_at": "2026-09-03T14:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "스킨케어",
+   "색조 화장품",
+   "향수",
+   "선케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "스킨케어의 경쟁력을 유지하면서 비중이 낮은 색조와 향수 및 선케어 등의 경쟁력을 키우는 방안을 모색하고 있다.",
+  "key_fact_quote": "스킨케어의 경쟁력을 유지하는 동시에 색조와 향수 , 선케어 등 상대적으로 비중이 낮은 품목의 경쟁력을...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:48+00:00",
+ "had_body": false
+}

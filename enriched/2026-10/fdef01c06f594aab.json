@@ -1,0 +1,44 @@
+{
+ "doc_id": "fdef01c06f594aab",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://m.skyedaily.com/news_view.html?ID=312877",
+ "title": "전 세계는 K - 뷰티 ·푸드 열풍… 소비재 수출 4.2배 증가",
+ "summary": "2016년 1~8월에는 K - 뷰티 수출 의 74.2%가 중국·홍콩으로 향했으나 이후 미국 수출이 15.3배, 유럽 수출이 43.9배 늘면서 올해는 중국·홍콩, 미국, 유럽의 비중이 각각 20% 안팎으로 비슷해졌다. 수출시장 집중도를...",
+ "published_at": "2026-10-13T14:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN",
+   "HK",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "소비재 수출",
+   "수출 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 수출 시장이 특정 국가 집중에서 벗어나 여러 지역으로 다변화되었다.",
+  "key_fact_quote": "2016년 1~8월에는 K - 뷰티 수출 의 74.2%가 중국·홍콩으로 향했으나 이후 미국 수출이 15.3배, 유럽 수출이 43.9배 늘면서 올해는 중국·홍콩, 미국, 유럽의 비중이 각각 20% 안팎으로 비슷해졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:47+00:00",
+ "had_body": false
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "f6f1abed8939f5db",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=201791",
+ "title": "화장품에 '의미' 입혔다... 특별한 화장품들 눈길 [최기자의 화장품 털...",
+ "summary": "한국에서 세계 최초로 공개한 뒤 아시아 9개 국가·지역으로 출시 범위를 확대하면서 국내 소비자를... 크리스챤 디올 뷰티는 프리미엄 스킨케어와 향수 , 립 메이크업 제품을 중심으로 추석 기프트 셀렉션을 구성했다....",
+ "published_at": "2026-09-19T00:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "크리스챤 디올 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "추석 선물",
+   "프리미엄 스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "크리스챤 디올 뷰티가 스킨케어와 향수 등을 중심으로 기프트 셀렉션을 마련했다.",
+  "key_fact_quote": "크리스챤 디올 뷰티는 프리미엄 스킨케어와 향수 , 립 메이크업 제품을 중심으로 추석 기프트 셀렉션을 구성했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:13+00:00",
+ "had_body": false
+}

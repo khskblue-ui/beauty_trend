@@ -1,0 +1,58 @@
+{
+ "doc_id": "984d435480c1141c",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100070",
+ "title": "궁중비책, 실리콘투 글로벌 K-뷰티 플랫폼 ‘스타일코리안’ 입점",
+ "summary": "제로투세븐의 민감하고 여린 영유아 및 민감성 피부를 위한 스킨케어 브랜드 궁중비책이 글로벌 K-뷰티 플랫폼 ‘스타일코리안(StyleKorean)’에 공식 입점하며 해외 소비자를 대상으로 K-영유아 스킨케어 경쟁력 알리기에 나선다.궁중비책은 지난 9월 30일 스타일코리안에 공식 론칭하고 베이비, 키즈, 선케어 등 주요 카테고리의 총 25종 제품을 선보였다. 그동안 중국, 미국, 유럽, 동남아 등 국가별 주요 온·오프라인 유통 채널을 중심으로 해외 시장을 확대해 온 데 이어, 글로벌 K-뷰티 플랫폼에서 판매 접점을 넓히며 해외 유통을",
+ "published_at": "2026-10-06T09:59:18+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN",
+   "US"
+  ],
+  "brands": [
+   "궁중비책",
+   "스타일코리안"
+  ],
+  "companies": [
+   "제로투세븐",
+   "실리콘투"
+  ],
+  "keywords": [
+   "영유아 스킨케어",
+   "글로벌 이커머스",
+   "키즈 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "제로투세븐의 스킨케어 브랜드 궁중비책이 실리콘투의 글로벌 플랫폼 스타일코리안에 공식 입점했다.",
+  "key_fact_quote": "제로투세븐의 민감하고 여린 영유아 및 민감성 피부를 위한 스킨케어 브랜드 궁중비책이 글로벌 K-뷰티 플랫폼 ‘스타일코리안(StyleKorean)’에 공식 입점하며 해외 소비자를 대상으로 K-영유아 스킨케어 경쟁력 알리기에 나선다.",
+  "events": [
+   {
+    "name": "론칭 프로모션",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-18",
+    "place": null,
+    "quote": "스타일코리안 공식 입점을 기념해 오는 10월 12일부터 18일까지 론칭 프로모션도 진행한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:29+00:00",
+ "had_body": true
+}

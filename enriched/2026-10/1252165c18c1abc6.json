@@ -1,0 +1,73 @@
+{
+ "doc_id": "1252165c18c1abc6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ngetnews.com/news/articleView.html?idxno=554002",
+ "title": "한미사이언스, 약국 전용 '프로-캄' 확대…고기능성 스킨케어 강화",
+ "summary": "프로-캄의 'EGF 액티브 바이탈 크림'은 미백·주름개선 2중 기능성 화장품 으로, EGF 성분과 오크라열매추출물, GREENOL H, TECA-Biome™ 등을 함유했다. 한미사이언스에 따르면 EGF 액티브 바이탈 크림은 출시 이후 최초 주문 약국...",
+ "published_at": "2026-10-02T12:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프로-캄"
+  ],
+  "companies": [
+   "한미사이언스"
+  ],
+  "keywords": [
+   "기능성 화장품",
+   "약국 화장품",
+   "고기능성 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "EGF 액티브 바이탈 크림",
+    "brand": "프로-캄",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "한미사이언스에 따르면 EGF 액티브 바이탈 크림은 출시 이후 최초 주문 약국...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "한미사이언스가 약국 전용 브랜드를 확대하며 고기능성 스킨케어 라인업을 강화하고 있다.",
+  "key_fact_quote": "한미사이언스, 약국 전용 '프로-캄' 확대…고기능성 스킨케어 강화",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "EGF",
+    "quote": "EGF 성분과 오크라열매추출물, GREENOL H, TECA-Biome™ 등을 함유했다."
+   },
+   {
+    "name": "오크라열매추출물",
+    "quote": "EGF 성분과 오크라열매추출물, GREENOL H, TECA-Biome™ 등을 함유했다."
+   },
+   {
+    "name": "GREENOL H",
+    "quote": "EGF 성분과 오크라열매추출물, GREENOL H, TECA-Biome™ 등을 함유했다."
+   },
+   {
+    "name": "TECA-Biome™",
+    "quote": "EGF 성분과 오크라열매추출물, GREENOL H, TECA-Biome™ 등을 함유했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:44+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "c23455f4e5ad048a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013849",
+ "title": "'약의 기술'이 화장품 으로…제약사, 뷰티시장 판 흔든다",
+ "summary": "최근 화장품 시장에서는 보습이나 미백 등 기존 기능에 더해 피부장벽과 피부결, 탄력 등 피부 상태를 세분화해 관리하려는 수요에 대응한 제품들이 다양하게 출시 되고 있다. 제약사들도 특정 성분의 인지도에만...",
+ "published_at": "2026-10-14T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "피부장벽 관리",
+   "세분화 뷰티",
+   "제약사 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 시장에서 세분화된 피부 상태 관리를 위한 수요에 맞춰 다양한 제품 출시가 이어지고 제약사들도 시장에 진출하고 있다.",
+  "key_fact_quote": "최근 화장품 시장에서는 보습이나 미백 등 기존 기능에 더해 피부장벽과 피부결, 탄력 등 피부 상태를 세분화해 관리하려는 수요에 대응한 제품들이 다양하게 출시 되고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:57+00:00",
+ "had_body": false
+}

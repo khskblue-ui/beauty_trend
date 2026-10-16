@@ -1,0 +1,74 @@
+{
+ "doc_id": "4fef3daa6c5e37fc",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100020",
+ "title": "AGE20’S, ‘Skin First Makeup’으로 리브랜딩 본격화",
+ "summary": "스킨 퍼스트 메이크업 브랜드 ‘AGE20’S’(에이지투웨니스)가 ‘Skin First Makeup’을 새로운 브랜드 철학으로 정립하며, 리브랜딩의 일환으로 브랜드 팝업 ‘THE AGE20’S HOUSE’를 운영한다.AGE20’S는 ‘AGE20’S – Real Beauty, Real Results’를 키 메시지로 내세우며, 결과로 보여주는 ‘피부 최우선주의 메이크업 브랜드’로서 새로운 방향성을 제시한다. ‘Skin First Makeup’은 메이크업의 완성도뿐만 아니라 피부를 먼저 생각하는 AGE20’S의 제품 철학을 담은 브랜드 메",
+ "published_at": "2026-10-01T10:23:11+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "AGE20’S"
+  ],
+  "companies": [],
+  "keywords": [
+   "리브랜딩",
+   "팝업스토어",
+   "베이스 메이크업",
+   "파운데이션 팩트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "시그니처 에센스 팩트",
+    "brand": "AGE20’S",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스킨 퍼스트 히든 프렙 파운데이션 팩트",
+    "brand": "AGE20’S",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이지투웨니스가 피부 최우선주의 메이크업 브랜드로 리브랜딩하며 첫 번째 브랜드 팝업을 운영한다.",
+  "key_fact_quote": "스킨 퍼스트 메이크업 브랜드 ‘AGE20’S’(에이지투웨니스)가 ‘Skin First Makeup’을 새로운 브랜드 철학으로 정립하며, 리브랜딩의 일환으로 브랜드 팝업 ‘THE AGE20’S HOUSE’를 운영한다.",
+  "events": [
+   {
+    "name": "THE AGE20’S HOUSE",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-11",
+    "place": "서울 성동구 연무장길 65에 위치한 ‘LECT성수’",
+    "quote": "‘THE AGE20’S HOUSE’는 10월 1일부터 11일까지 서울 성동구 연무장길 65에 위치한 ‘LECT성수’에서 운영된다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": [
+   "launch:스킨 퍼스트 히든 프렙 파운데이션 팩트"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:02+00:00",
+ "had_body": true
+}

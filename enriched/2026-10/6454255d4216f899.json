@@ -21,8 +21,8 @@
    "KR"
   ],
   "brands": [
-   "본셉",
-   "토니모리"
+   "토니모리",
+   "본셉"
   ],
   "companies": [
    "토니모리",
@@ -30,16 +30,18 @@
   ],
   "keywords": [
    "색조 화장품",
-   "스킨케어 라인 확장",
+   "베이스 메이크업",
+   "글로우 립스틱",
    "전통문화 마케팅"
   ],
-  "is_press_release": true,
+  "is_press_release": false,
   "products": [
    {
     "name": "비타씨 베이스",
     "brand": "본셉",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "비타씨 베이스 7종과 틴티드 글로우 립스틱 3종 등 총 10종을 다이소를 통해 출시했다.",
     "notes": [],
     "notes_quote": null
    },
@@ -47,17 +49,25 @@
     "name": "틴티드 글로우 립스틱",
     "brand": "본셉",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "비타씨 베이스 7종과 틴티드 글로우 립스틱 3종 등 총 10종을 다이소를 통해 출시했다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "토니모리의 서브 브랜드 본셉이 비타씨 라인을 색조 화장품으로 확장하여 다이소를 통해 신제품을 출시했다.",
-  "key_fact_quote": "토니모리의 서브 브랜드 본셉은 기존 비타씨 스킨케어 라인을 색조 화장품 으로 확장했다. 비타씨 베이스 7종과 틴티드 글로우 립스틱 3종 등 총 10종을 다이소를 통해 출시했다.",
+  "key_fact": "토니모리의 서브 브랜드 본셉이 비타민C 성분을 기반으로 한 색조 화장품 라인을 다이소를 통해 출시했다.",
+  "key_fact_quote": "토니모리의 서브 브랜드 본셉은 기존 비타씨 스킨케어 라인을 색조 화장품 으로 확장했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "비타민C",
+    "quote": "이번 신제품 은 비타민C 성분을 내세운..."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:10+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:13+00:00",
  "had_body": false
 }

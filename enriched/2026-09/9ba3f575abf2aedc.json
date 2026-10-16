@@ -1,0 +1,48 @@
+{
+ "doc_id": "9ba3f575abf2aedc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.segye.com/newsView/20260916502928?OutUrl=naver",
+ "title": "K뷰티 성지 된 홍대…무신사·올리브영·시코르, 외국인 지갑 잡기 전쟁",
+ "summary": "지상에서는 메이크업과 향수 , 스킨케어, 헤어·바디, 남성 뷰티 제품을 판매한다. 무신사가 첫 단독 매장의... 출시 약 5개월 만에 CU의 3000원대 화장품 누적 판매량은 5만개에 육박했다. GS25도 손앤박과 손잡고 3000원대...",
+ "published_at": "2026-09-16T08:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "손앤박"
+  ],
+  "companies": [
+   "무신사",
+   "올리브영",
+   "시코르",
+   "CU",
+   "GS25"
+  ],
+  "keywords": [
+   "외국인 관광객",
+   "뷰티 매장",
+   "초저가 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "홍대가 케이뷰티 상권으로 주목받으며 주요 유통 및 뷰티 플랫폼들이 외국인 소비자를 공략하고 있다.",
+  "key_fact_quote": "K뷰티 성지 된 홍대…무신사·올리브영·시코르, 외국인 지갑 잡기 전쟁",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:25+00:00",
+ "had_body": false
+}

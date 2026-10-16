@@ -5,12 +5,12 @@
  "group": "kr_news",
  "lang": "ko",
  "url": "https://www.fashionbiz.co.kr/article/228982",
- "title": "우슬(USUL), 공식 론칭과 함께… 향수와 스킨케어의 경계를 허문 ‘ 퍼퓸 ...",
- "summary": "퍼퓸 핸드 세럼 크림은 단순히 향을 입힌 핸드크림이 아니라, 니치 퍼퓸 의 감각과 손 피부를 위한 기능성 스킨케어를 하나의 루틴으로 설계한 ‘기능성 퍼퓸 핸드케어’다. 제품은 미백·주름개선 이중 기능성을...",
+ "title": "우슬(USUL), 공식 론칭과 함께… 향수 와 스킨케어의 경계를 허문 ‘퍼퓸...",
+ "summary": "야생토마토, 그린페퍼, 캐롯블로썸 세 가지 향으로 선보이는 우슬(USUL) 퍼퓸 핸드 세럼 크림 (제공-우슬) 니치 프래그런스 브랜드 우슬(USUL)이 공식 론칭과 함께 향수 의 감각과 기능성 스킨케어를 결합한 ‘퍼퓸...",
  "published_at": "2026-09-10T09:00:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "니치 퍼퓸",
+ "query": "니치 향수",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -24,11 +24,13 @@
    "우슬",
    "USUL"
   ],
-  "companies": [],
+  "companies": [
+   "우슬"
+  ],
   "keywords": [
-   "퍼퓸 핸드크림",
-   "니치 퍼퓸",
-   "기능성 핸드케어"
+   "니치 프래그런스",
+   "퍼퓸 핸드 세럼 크림",
+   "기능성 스킨케어"
   ],
   "is_press_release": true,
   "products": [
@@ -36,20 +38,21 @@
     "name": "퍼퓸 핸드 세럼 크림",
     "brand": "우슬",
     "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "우슬(USUL), 공식 론칭과 함께… 향수와 스킨케어의 경계를 허문 ‘ 퍼퓸 ...",
-    "notes": [],
-    "notes_quote": null
+    "launch_quote": null,
+    "notes": [
+     "야생토마토",
+     "그린페퍼",
+     "캐롯블로썸"
+    ],
+    "notes_quote": "야생토마토, 그린페퍼, 캐롯블로썸 세 가지 향으로 선보이는 우슬(USUL) 퍼퓸 핸드 세럼 크림"
    }
   ],
-  "key_fact": "우슬이 향수 감각과 기능성 스킨케어를 결합한 퍼퓸 핸드 세럼 크림을 선보였다.",
-  "key_fact_quote": "퍼퓸 핸드 세럼 크림은 단순히 향을 입힌 핸드크림이 아니라, 니치 퍼퓸 의 감각과 손 피부를 위한 기능성 스킨케어를 하나의 루틴으로 설계한 ‘기능성 퍼퓸 핸드케어’다.",
-  "events": [],
-  "ingredients": [],
+  "key_fact": "니치 프래그런스 브랜드 우슬이 공식 론칭하며 향수의 감각과 기능성 스킨케어를 결합한 퍼퓸 핸드 세럼 크림을 선보였다.",
+  "key_fact_quote": "니치 프래그런스 브랜드 우슬(USUL)이 공식 론칭과 함께 향수 의 감각과 기능성 스킨케어를 결합한 ‘퍼퓸...",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:12+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:44+00:00",
  "had_body": false
 }

@@ -6,11 +6,11 @@
  "lang": "ko",
  "url": "https://www.fashionbiz.co.kr/article/229784",
  "title": "빌라 에르바티움, 프랑스 그라스 국제향수박물관서 ‘쌀막걸리’ 향수...",
- "summary": "제품을 개발한 하민서 조향사 는 곡물이 누룩과 결합해 발효되는 제조 공정의 시간성을 주제로 삼았으며... 빌라 에르바티움은 서울시 공식 향수 '센트 오브 서울(Scent of Seoul)'을 총괄한 하민서 조향사 가 설립한 자체...",
+ "summary": "정서를 향료 배합에 반영했다. 전시 현장은 단일 시향을 넘어 시각 자료와 오브제를 연계한 다감각... 해당 전시 구성은 향료 를 통해 기억을 구성한다는 빌라 에르바티움의 '감정의 큐레이션' 기획 기준을 적용했다....",
  "published_at": "2026-09-23T15:02:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "조향사",
+ "query": "향료",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -18,43 +18,27 @@
   "category": "fragrance",
   "event_type": "event",
   "countries": [
-   "FR",
-   "KR"
+   "FR"
   ],
   "brands": [
    "빌라 에르바티움"
   ],
   "companies": [],
   "keywords": [
-   "향수 박물관",
    "쌀막걸리 향수",
-   "발효 향수"
+   "다감각 전시",
+   "향수 전시"
   ],
   "is_press_release": true,
-  "products": [
-   {
-    "name": "쌀막걸리",
-    "brand": "빌라 에르바티움",
-    "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "센트 오브 서울(Scent of Seoul)",
-    "brand": "빌라 에르바티움",
-    "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   }
-  ],
-  "key_fact": "빌라 에르바티움이 프랑스 그라스 국제향수박물관에서 쌀막걸리 향수를 선보였다.",
+  "products": [],
+  "key_fact": "빌라 에르바티움이 프랑스 그라스 국제향수박물관에서 쌀막걸리 향수 전시를 선보였다.",
   "key_fact_quote": "빌라 에르바티움, 프랑스 그라스 국제향수박물관서 ‘쌀막걸리’ 향수...",
-  "dropped": []
+  "dropped": [
+   "product:쌀막걸리 향수"
+  ]
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:52+00:00",
+ "enriched_at": "2026-10-14T14:15:55+00:00",
  "had_body": false
 }

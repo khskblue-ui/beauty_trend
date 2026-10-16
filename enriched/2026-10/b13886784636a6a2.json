@@ -16,21 +16,24 @@
  "extraction": {
   "relevant": true,
   "category": "skincare",
-  "event_type": "product_launch",
+  "event_type": "event",
   "countries": [
    "KR"
   ],
-  "brands": [],
+  "brands": [
+   "에이썸"
+  ],
   "companies": [],
   "keywords": [
    "미백 기능성 화장품",
-   "톤업크림"
+   "톤업 크림",
+   "뷰티엑스포"
   ],
   "is_press_release": false,
   "products": [
    {
     "name": "에이썸 글로우핏 톤업앤결크림",
-    "brand": null,
+    "brand": "에이썸",
     "launch_date": null,
     "launch_status": "upcoming",
     "launch_quote": "해외시장을 겨냥한 신제품 '에이썸 글로우핏 톤업앤결크림'도 출시를 앞두고 있다.",
@@ -38,8 +41,8 @@
     "notes_quote": null
    }
   ],
-  "key_fact": "해외 시장을 겨냥한 미백 기능성 신제품 크림이 출시를 앞두고 있다.",
-  "key_fact_quote": "해외시장을 겨냥한 신제품 '에이썸 글로우핏 톤업앤결크림'도 출시를 앞두고 있다.",
+  "key_fact": "충북 기업들이 오송 화장품 뷰티엑스포 준비에 나서며 해외시장을 겨냥한 신제품 출시를 앞두고 있다.",
+  "key_fact_quote": "주력 제품부터 한정판까지…충북 기업들 오송 화장품 뷰티엑스포 준비",
   "events": [],
   "ingredients": [
    {
@@ -59,6 +62,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:51:04+00:00",
+ "enriched_at": "2026-10-15T15:24:01+00:00",
  "had_body": false
 }

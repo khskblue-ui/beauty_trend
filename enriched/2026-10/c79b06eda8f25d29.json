@@ -1,0 +1,84 @@
+{
+ "doc_id": "c79b06eda8f25d29",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100085",
+ "title": "모로칸오일, 파리 패션위크 스텔라 맥카트니 컬렉션 쇼 헤어 룩 공개",
+ "summary": "글로벌 헤어 & 바디 케어 브랜드 모로칸오일(Moroccanoil)이 지난 6일 막을 내린 파리 패션위크에서 진행된 스텔라 맥카트니(Stella McCartney) 2027 서머 컬렉션 쇼의 헤어 스타일링을 맡아 모델 개개인의 자연스러운 아름다움과 개성을 살린 헤어 룩을 선보였다고 7일 밝혔다.이번 쇼의 헤어 디자인은 모로칸오일 리드 스타일리스트 유진 술레이만(Eugene Souleiman)과 모로칸오일 글로벌 크리에이티브 팀이 담당했다. 특정 스타일을 일률적으로 적용하기보다 모델마다 다른 헤어 길이와 커트, 텍스처, 컬의 형태를",
+ "published_at": "2026-10-07T10:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "event",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "모로칸오일",
+   "Moroccanoil",
+   "스텔라 맥카트니",
+   "Stella McCartney"
+  ],
+  "companies": [],
+  "keywords": [
+   "헤어 스타일링",
+   "헤어 케어",
+   "패션위크"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "모로칸오일 트리트먼트",
+    "brand": "모로칸오일",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "하이드레이팅 스타일링 크림",
+    "brand": "모로칸오일",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "루미너스 헤어 스프레이",
+    "brand": "모로칸오일",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "컬 컨트롤 무스",
+    "brand": "모로칸오일",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "모로칸오일은 파리 패션위크에서 열린 스텔라 맥카트니 컬렉션 쇼의 헤어 스타일링을 총괄해 자연스러운 아름다움을 살린 헤어 룩을 공개했다.",
+  "key_fact_quote": "글로벌 헤어 & 바디 케어 브랜드 모로칸오일(Moroccanoil)이 지난 6일 막을 내린 파리 패션위크에서 진행된 스텔라 맥카트니(Stella McCartney) 2027 서머 컬렉션 쇼의 헤어 스타일링을 맡아 모델 개개인의 자연스러운 아름다움과 개성을 살린 헤어 룩을 선보였다고 7일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:38+00:00",
+ "had_body": true
+}

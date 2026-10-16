@@ -1,0 +1,59 @@
+{
+ "doc_id": "db8136a91703b276",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58422",
+ "title": "K-뷰티, 9월 수출 15.1억 달러 역대 최대…미국·유럽 성장 속 전년比 31.4↑",
+ "summary": "[코스인코리아닷컴 김세화 기자]한국 화장품 수출이 다시 한번 역대 최대 기록을 갈아치웠다.미국에서는 한국산 화장품이 현지 수입시장에서 점유율을 확대하며 프랑스, 이탈리아 등 전통적인 화장품 강국과의 격차를 벌리고 있고,그동안 부진했던 중국 시장에서도 회복세가 나타나면서 수출 성장세가 한층 탄력을 받고 있다. 여기에유럽, 일본, 중동 등으로 수출 시장이",
+ "published_at": "2026-10-01T17:33:05+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN",
+   "FR",
+   "IT",
+   "CA",
+   "GB",
+   "PL",
+   "JP"
+  ],
+  "brands": [
+   "아누아",
+   "달바",
+   "메디큐브"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "LG생활건강",
+   "달바글로벌"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "인디 브랜드",
+   "기초화장품",
+   "색조화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 화장품 수출이 미국과 유럽에서의 성장과 중국 시장의 회복세에 힘입어 역대 최대 실적을 경신했다.",
+  "key_fact_quote": "한국 화장품 수출이 다시 한번 역대 최대 기록을 갈아치웠다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:13+00:00",
+ "had_body": true
+}

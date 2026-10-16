@@ -1,0 +1,49 @@
+{
+ "doc_id": "f9b51345e49fd4e7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45017",
+ "title": "[오늘의 뷰티] 유씨엘·몽클로스·미샤·가히·프레비츠·더샘",
+ "summary": "가히는 위조 화장품 에 대한 법적 대응을 강화했고, 프레비츠와 더샘은 일상적인 피부 관리를 겨냥한 신제품 과 프로모션을 선보였다. /사진=유씨엘 #유씨엘, 2027 스킨케어 트렌드 발표···키워드는 '클리닉...",
+ "published_at": "2026-09-21T16:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "유씨엘",
+   "몽클로스",
+   "미샤",
+   "가히",
+   "프레비츠",
+   "더샘"
+  ],
+  "companies": [
+   "유씨엘"
+  ],
+  "keywords": [
+   "스킨케어 트렌드",
+   "피부 관리",
+   "위조 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유씨엘이 스킨케어 트렌드를 발표하고 가히는 위조품 대응을 강화했으며 프레비츠와 더샘은 피부 관리 신제품과 프로모션을 선보였다.",
+  "key_fact_quote": "가히는 위조 화장품 에 대한 법적 대응을 강화했고, 프레비츠와 더샘은 일상적인 피부 관리를 겨냥한 신제품 과 프로모션을 선보였다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:04+00:00",
+ "had_body": false
+}

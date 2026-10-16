@@ -18,8 +18,8 @@
   "category": "body",
   "event_type": "business",
   "countries": [
-   "AE",
    "KR",
+   "AE",
    "CN",
    "US",
    "JP",
@@ -33,8 +33,7 @@
   ],
   "keywords": [
    "구강케어",
-   "덴탈케어",
-   "뷰티 박람회"
+   "덴탈케어"
   ],
   "is_press_release": true,
   "products": [],
@@ -46,6 +45,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:51:38+00:00",
+ "enriched_at": "2026-10-15T15:24:18+00:00",
  "had_body": false
 }

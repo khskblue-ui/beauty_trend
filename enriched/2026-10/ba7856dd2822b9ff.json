@@ -16,10 +16,10 @@
  "extraction": {
   "relevant": true,
   "category": "skincare",
-  "event_type": "product_launch",
+  "event_type": "business",
   "countries": [
-   "KR",
-   "CL"
+   "CL",
+   "KR"
   ],
   "brands": [],
   "companies": [
@@ -42,7 +42,7 @@
     "notes_quote": null
    }
   ],
-  "key_fact": "에이피알이 칠레에서 스킨부스터를 공식 출시하며 신사업을 본격화한다.",
+  "key_fact": "에이피알이 스킨부스터 출시를 앞두며 신사업 추진에 나선다.",
   "key_fact_quote": "에이피알은 내달 칠레에서 스킨부스터를 공식 출시 할 예정이다.",
   "events": [],
   "ingredients": [],
@@ -50,6 +50,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:00+00:00",
+ "enriched_at": "2026-10-15T15:24:42+00:00",
  "had_body": false
 }

@@ -1,0 +1,56 @@
+{
+ "doc_id": "10f6e34544c103b5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210588",
+ "title": "유한양행 딘시, 판교 팝업 성료…제약 기술 접목한 비건 뷰티 시장 공략",
+ "summary": "제약·바이오 기업들도 연구개발 역량과 브랜드 신뢰도를 바탕으로 화장품 사업을 확대하는 가운데... 팝업 현장에는 브랜드 모델인 배우 전여빈도 방문해 신제품 세럼과 주요 제품을 체험했다. 브랜드 측은 방문객이...",
+ "published_at": "2026-10-12T14:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "딘시"
+  ],
+  "companies": [
+   "유한양행"
+  ],
+  "keywords": [
+   "비건 뷰티",
+   "제약 화장품",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "세럼",
+    "brand": "딘시",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유한양행의 비건 뷰티 브랜드 딘시가 판교 팝업 행사를 마치고 제약 기술을 접목한 시장 공략에 나섰다.",
+  "key_fact_quote": "유한양행 딘시, 판교 팝업 성료…제약 기술 접목한 비건 뷰티 시장 공략",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:27+00:00",
+ "had_body": false
+}

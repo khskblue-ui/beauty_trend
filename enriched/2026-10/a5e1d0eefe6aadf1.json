@@ -1,0 +1,62 @@
+{
+ "doc_id": "a5e1d0eefe6aadf1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=65446",
+ "title": "신라면세점, '단독 컬러·전용 세트'로 뷰티 수요 잡는다",
+ "summary": "개별여행객(FIT)을 중심으로 화장품 카테고리 매출이 전년 동기 대비 두 자릿수 이상 성장하면서... 2종을 출시 했다. '페스티벌 라일락(Festival Lilac)'과 '애니웨어 카페인(Anywhere Caffeine)' 두 색상은 국내 면세업계에서...",
+ "published_at": "2026-10-08T08:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신라면세점"
+  ],
+  "keywords": [
+   "면세 전용",
+   "화장품 카테고리"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "페스티벌 라일락(Festival Lilac)",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "2종을 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "애니웨어 카페인(Anywhere Caffeine)",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "2종을 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신라면세점은 단독 컬러 제품을 선보이며 뷰티 수요 공략에 나섰다.",
+  "key_fact_quote": "신라면세점, '단독 컬러·전용 세트'로 뷰티 수요 잡는다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:28+00:00",
+ "had_body": false
+}

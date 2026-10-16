@@ -1,0 +1,45 @@
+{
+ "doc_id": "2aa777fd3d58877e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://platum.kr/archives/295693",
+ "title": "아마존·틱톡샵 K - 뷰티 위조품 대응, 중기부·지재처 공동 협의체 출범",
+ "summary": "K - 뷰티 와 K -푸드 제품을 베낀 위조품이 해외 온라인 플랫폼과 현지 매장에서 유통되자 정부 부처들이 공동... 제3국에 수출 하는 사례도 있었다. 협의체는 두 기관이 해외에서 운영하는 거점을 활용해 상표 무단 선점과 위조...",
+ "published_at": "2026-10-02T15:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존",
+   "틱톡샵"
+  ],
+  "keywords": [
+   "위조품 대응",
+   "케이뷰티",
+   "상표 무단 선점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해외 온라인 플랫폼과 현지 매장에서 유통되는 케이뷰티 위조품에 대응하기 위해 정부 부처들이 공동 협의체를 출범했다.",
+  "key_fact_quote": "아마존·틱톡샵 K - 뷰티 위조품 대응, 중기부·지재처 공동 협의체 출범",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:42+00:00",
+ "had_body": false
+}

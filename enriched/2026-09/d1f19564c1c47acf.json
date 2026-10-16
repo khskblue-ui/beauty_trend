@@ -1,0 +1,86 @@
+{
+ "doc_id": "d1f19564c1c47acf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.lawissue.co.kr/view.php?ud=202609170957379213204ead0791_12",
+ "title": "앳홈 톰, 무신사 뷰티 홍대 단독 매대 마련…세럼 신제품 선보여",
+ "summary": "단독 매대에서는 세럼 3종과 PPM 크림, 뷰티 디바이스 더 부스터 등 총 10종의 제품군을 운영한다. 3월 CPR 세럼 출시 로 약국 채널 진출 후 전국 약 300개 매장에 입점한 데 이어, 신제품 ABC 세럼과 PPM 세럼은 18일부터...",
+ "published_at": "2026-09-17T09:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "톰"
+  ],
+  "companies": [
+   "앳홈"
+  ],
+  "keywords": [
+   "세럼",
+   "뷰티 디바이스",
+   "약국 화장품",
+   "단독 매대"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "CPR 세럼",
+    "brand": "톰",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "ABC 세럼",
+    "brand": "톰",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PPM 세럼",
+    "brand": "톰",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PPM 크림",
+    "brand": "톰",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "더 부스터",
+    "brand": "톰",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "앳홈의 브랜드 톰이 무신사 뷰티 홍대에 단독 매대를 마련하고 세럼 신제품을 선보인다.",
+  "key_fact_quote": "앳홈 톰, 무신사 뷰티 홍대 단독 매대 마련…세럼 신제품 선보여",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:24:12+00:00",
+ "had_body": false
+}

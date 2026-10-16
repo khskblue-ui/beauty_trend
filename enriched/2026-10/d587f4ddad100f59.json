@@ -26,19 +26,18 @@
   ],
   "companies": [],
   "keywords": [
-   "향수 협업",
-   "앰버 향수",
-   "협업 전시"
+   "협업 전시",
+   "앰버 계열 향수"
   ],
-  "is_press_release": false,
+  "is_press_release": true,
   "products": [
    {
     "name": "뮤스크 라바줴",
     "brand": "에디션 드 퍼퓸 프레데릭 말",
-    "launch_date": "2000",
-    "launch_quote": "뮤스크 라바줴는 조향사 모리스 루셀이 2000년 제작한 앰버 계열 향수로, 시나몬과 바닐라, 블랙 머스크 등을 주요 향 구성에 사용했다.",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
     "notes": [
-     "앰버",
      "시나몬",
      "바닐라",
      "블랙 머스크"
@@ -49,17 +48,20 @@
     "name": "뮤스크 라바줴 피스마이너스원 에디션",
     "brand": "에디션 드 퍼퓸 프레데릭 말",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "에디션 드 퍼퓸 프레데릭 말이 피스마이너스원과 협업한 전시를 개최하며 협업 에디션을 선보였다.",
+  "key_fact": "에디션 드 퍼퓸 프레데릭 말이 피스마이너스원과 협업 전시를 개최한다.",
   "key_fact_quote": "에디션 드 퍼퓸 프레데릭 말, 피스마이너스원 협업 전시 개최",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:40+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:16+00:00",
  "had_body": false
 }

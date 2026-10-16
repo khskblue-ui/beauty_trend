@@ -18,7 +18,8 @@
   "category": "business",
   "event_type": "event",
   "countries": [
-   "KR"
+   "KR",
+   "CN"
   ],
   "brands": [],
   "companies": [
@@ -28,6 +29,8 @@
    "와디즈",
    "롯데홈쇼핑",
    "한화갤러리아",
+   "더우인",
+   "샤오홍슈",
    "위스타트"
   ],
   "keywords": [
@@ -37,12 +40,29 @@
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "역대 최대 규모로 열리는 뷰티엑스포 코리아가 사흘간 킨텍스에서 개최된다.",
+  "key_fact": "킨텍스가 주최하는 케이뷰티엑스포 코리아가 역대 최대 규모로 개막한다.",
   "key_fact_quote": "킨텍스(대표이사 이민우)가 주최하는 ‘2026 K-뷰티엑스포 코리아’(이하 K-뷰티엑스포)가 내일(15일) 막을 올려 오는 17일(토)까지 사흘간 킨텍스에서 열린다.",
+  "events": [
+   {
+    "name": "2026 K-뷰티엑스포 코리아",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": "킨텍스",
+    "quote": "킨텍스(대표이사 이민우)가 주최하는 ‘2026 K-뷰티엑스포 코리아’(이하 K-뷰티엑스포)가 내일(15일) 막을 올려 오는 17일(토)까지 사흘간 킨텍스에서 열린다."
+   },
+   {
+    "name": "중국 주요 플랫폼 더우인(Douyin)·샤오홍슈(RedNote) 입점 설명회",
+    "start_date": "2026-10-16",
+    "end_date": null,
+    "place": null,
+    "quote": "해외 진출 전략을 공유하기 위해 16일에는 중국 주요 플랫폼 더우인(Douyin)·샤오홍슈(RedNote) 입점 설명회를 갖는다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:55+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:07+00:00",
  "had_body": true
 }

@@ -1,0 +1,42 @@
+{
+ "doc_id": "74b3d9d787693192",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.vogue.co.kr/2026/10/09/%ec%9e%84%ec%8b%a0%ea%b3%bc-%ed%96%a5%ec%88%98%ec%9d%98-%ec%97%ad%ed%95%99-%ea%b4%80%ea%b3%84/?utm_source=naver&utm_medium=partnership",
+ "title": "임신과 향수의 역학 관계",
+ "summary": "미국산부인과학회(ACOG)에 따르면 프래그런스 프리는 향료 를 넣지 않은 제품을 뜻하는 반면, 언센티드 제품은 원료 자체의 냄새를 감추기 위해 향 성분이 사용될 수 있다. 임신 전에는 제품을 고르는 기준도 아니었던 작은...",
+ "published_at": "2026-10-09T10:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "프래그런스 프리",
+   "언센티드",
+   "향료"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국산부인과학회에 따르면 프래그런스 프리는 향료를 첨가하지 않은 제품이지만 언센티드 제품은 원료 냄새를 감추기 위한 향 성분이 사용될 수 있다.",
+  "key_fact_quote": "미국산부인과학회(ACOG)에 따르면 프래그런스 프리는 향료 를 넣지 않은 제품을 뜻하는 반면, 언센티드 제품은 원료 자체의 냄새를 감추기 위해 향 성분이 사용될 수 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:28+00:00",
+ "had_body": false
+}

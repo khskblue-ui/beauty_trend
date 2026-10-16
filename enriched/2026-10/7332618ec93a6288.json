@@ -1,0 +1,53 @@
+{
+ "doc_id": "7332618ec93a6288",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.yna.co.kr/view/AKR20261007163300030?input=1195m",
+ "title": "롯데百, LA서 K뷰티 팝업…국내 브랜드 해외 진출 지원",
+ "summary": "13∼17일 LA한국문화원서 개최…스킨케어· 향수 등 7개 브랜드 참여 롯데백화점은 미국 로스앤젤레스에서 K-뷰티 팝업을 열고 국내 뷰티 브랜드 의 해외 진출 지원에 나선다고 8일 밝혔다. 롯데백화점은 오는 13일부터...",
+ "published_at": "2026-10-08T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데백화점"
+  ],
+  "keywords": [
+   "K뷰티",
+   "팝업스토어",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "롯데백화점이 미국 로스앤젤레스에서 팝업을 열고 국내 뷰티 브랜드의 해외 진출을 지원한다.",
+  "key_fact_quote": "롯데백화점은 미국 로스앤젤레스에서 K-뷰티 팝업을 열고 국내 뷰티 브랜드 의 해외 진출 지원에 나선다고 8일 밝혔다.",
+  "events": [
+   {
+    "name": "K-뷰티 팝업",
+    "start_date": "2026-10-13",
+    "end_date": "2026-10-17",
+    "place": "LA한국문화원",
+    "quote": "13∼17일 LA한국문화원서 개최…스킨케어· 향수 등 7개 브랜드 참여 롯데백화점은 미국 로스앤젤레스에서 K-뷰티 팝업을 열고 국내 뷰티 브랜드 의 해외 진출 지원에 나선다고 8일 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:11+00:00",
+ "had_body": false
+}

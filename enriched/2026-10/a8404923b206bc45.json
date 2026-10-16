@@ -1,0 +1,54 @@
+{
+ "doc_id": "a8404923b206bc45",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53623",
+ "title": "[코스모닝] 에스티로더코리아, 10월 유방암 캠페인 전개",
+ "summary": "에스티로더코리아가 10월 한달 동안 ‘2026 유방암 캠페인’을 전개한다. 이 회사는 10월 유방암 인식의 달을 맞아 대한암협회와 함께 다양한 시민 참여형 체험 행사를 진행한다. 우선 16일부터 18일까지 ‘핑크리본 한옥하우스’를 운영한다. 이곳에서 유방 건강 정보를 제공하고, 자가검진을 돕는다. 유방암 사례를 소개하고, 유방암 경험자의 미술작품을 전시한다",
+ "published_at": "2026-10-01T09:43:07+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에스티로더"
+  ],
+  "companies": [
+   "에스티로더코리아"
+  ],
+  "keywords": [
+   "유방암 캠페인",
+   "핑크리본",
+   "사회공헌"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에스티로더코리아가 유방암 인식의 달을 맞아 시민 참여형 체험 행사와 주요 명소 점등 등 유방암 캠페인을 전개한다.",
+  "key_fact_quote": "에스티로더코리아가 10월 한달 동안 ‘2026 유방암 캠페인’을 전개한다.",
+  "events": [
+   {
+    "name": "핑크리본 한옥하우스",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-18",
+    "place": null,
+    "quote": "우선 16일부터 18일까지 ‘핑크리본 한옥하우스’를 운영한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:42+00:00",
+ "had_body": true
+}

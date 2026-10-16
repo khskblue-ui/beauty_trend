@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "retail",
-  "event_type": "market_trend",
+  "event_type": "business",
   "countries": [
    "KR"
   ],
@@ -32,12 +32,14 @@
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "무신사 뷰티가 젊은 소비자층을 사로잡으며 신제품 출시의 중심 무대로 부상하고 있다.",
+  "key_fact": "무신사 뷰티가 뷰티 신제품의 주요 출시 무대로 주목받고 있다.",
   "key_fact_quote": "◇\"한 달에 100개씩 쏟아진다\"…1030 잡은 무신사 뷰티, 신제품 '첫 무대'로 무신사 뷰티가...",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:39+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:38+00:00",
  "had_body": false
 }

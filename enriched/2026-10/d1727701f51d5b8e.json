@@ -27,9 +27,9 @@
    "L'Occitane"
   ],
   "keywords": [
-   "피부 론제비티",
+   "스킨 론제비티",
    "안티에이징",
-   "주름 관리"
+   "스킨케어 리추얼"
   ],
   "is_press_release": false,
   "products": [
@@ -37,17 +37,25 @@
     "name": "Immortelle Divine Targeted Wrinkle Care",
     "brand": "L'Occitane",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "L’Occitane’s Skin Longevity By Nature approach introduces a new four-step ‘ritual’ featuring the French skin and body care brand’s new Immortelle Divine Targeted Wrinkle Care",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "록시땅이 오랜 연구를 바탕으로 노화에 대응하는 새로운 접근법과 함께 신제품 주름 관리 제품을 선보였다.",
-  "key_fact_quote": "L’Occitane’s Skin Longevity By Nature approach introduces a new four-step ‘ritual’ featuring the French skin and body care brand’s new Immortelle Divine Targeted Wrinkle Care",
+  "key_fact": "록시땅이 오랜 연구를 바탕으로 노화에 대한 새로운 접근법인 스킨 론제비티를 선보이며 신제품을 도입했다.",
+  "key_fact_quote": "L'Occitane enters longevity with ‘new approach’ to ageing inspired by 25 years of research",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Immortelle",
+    "quote": "L’Occitane’s Skin Longevity By Nature approach introduces a new four-step ‘ritual’ featuring the French skin and body care brand’s new Immortelle Divine Targeted Wrinkle Care"
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:37+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:00+00:00",
  "had_body": false
 }

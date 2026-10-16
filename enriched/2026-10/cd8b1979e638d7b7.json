@@ -1,0 +1,47 @@
+{
+ "doc_id": "cd8b1979e638d7b7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.4th.kr/news/articleView.html?idxno=2118997",
+ "title": "애경산업 AGE20'S, 팩트 넘어 피부 중심 메이크업으로",
+ "summary": "애경산업 애경산업의 화장품 브랜드 AGE20'S(에이지투웨니스)가 에센스 팩트 중심에서 피부 관리 기능을... AGE20'S 브랜드 담당자는 \"이번 팝업은 단순히 신제품 을 소개하는 공간이 아니라 리브랜딩을 통해 새롭게...",
+ "published_at": "2026-10-01T11:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "AGE20'S",
+   "에이지투웨니스"
+  ],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "리브랜딩",
+   "에센스 팩트",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "애경산업의 에이지투웨니스가 에센스 팩트 중심에서 피부 관리 기능 중심으로 리브랜딩을 추진한다.",
+  "key_fact_quote": "애경산업 애경산업의 화장품 브랜드 AGE20'S(에이지투웨니스)가 에센스 팩트 중심에서 피부 관리 기능을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:27+00:00",
+ "had_body": false
+}

@@ -1,0 +1,39 @@
+{
+ "doc_id": "380bba80671d8164",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.dailypop.kr/news/articleView.html?idxno=102936",
+ "title": "가을 넘어서는 패션· 뷰티 업계…'기능성 라이프웨어'부터 '맞춤형 안티...",
+ "summary": "패션 및 뷰티 업계가 하반기 시장 주도권을 잡기 위해 다채로운 신제품 과 캠페인을 일제히 공개했다.... 새로 출시 해 라인업을 확장했다. 10월 6일부터는 일부 백화점 매장에서 피부톤별 컬러 매치 및 터치업...",
+ "published_at": "2026-09-29T09:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "맞춤형 안티에이징",
+   "라인업 확장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "패션 및 뷰티 업계가 하반기 시장 주도권을 확보하기 위해 다양한 신제품과 캠페인을 공개했다.",
+  "key_fact_quote": "패션 및 뷰티 업계가 하반기 시장 주도권을 잡기 위해 다채로운 신제품 과 캠페인을 일제히 공개했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:19+00:00",
+ "had_body": false
+}

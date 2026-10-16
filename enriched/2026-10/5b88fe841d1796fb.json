@@ -1,0 +1,49 @@
+{
+ "doc_id": "5b88fe841d1796fb",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312072",
+ "title": "의성 ‘은반의 여왕·모래판의 거인’ 뭉쳤다… 24인의 ‘방탄 홍보단’ 출격 - 뷰티경제",
+ "summary": "경북 의성군청 소속 컬링팀과 마늘씨름단이 의성군 홍보대사로 위촉됐다. 의성군은 지난 3일 구봉공원 일원에서 열린 ‘2026년 의성 슈퍼푸드 마늘축제’에서 두 스포",
+ "published_at": "2026-10-06T12:37:43+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "지역 축제",
+   "홍보대사 위촉"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "경북 의성군청 소속 컬링팀과 마늘씨름단이 의성군 홍보대사로 위촉되었다.",
+  "key_fact_quote": "경북 의성군청 소속 컬링팀과 마늘씨름단이 의성군 홍보대사로 위촉됐다.",
+  "events": [
+   {
+    "name": "2026년 의성 슈퍼푸드 마늘축제",
+    "start_date": "2026-10-03",
+    "end_date": null,
+    "place": "구봉공원 일원",
+    "quote": "의성군은 지난 3일 구봉공원 일원에서 열린 ‘2026년 의성 슈퍼푸드 마늘축제’에서 두 스포"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:49+00:00",
+ "had_body": false
+}

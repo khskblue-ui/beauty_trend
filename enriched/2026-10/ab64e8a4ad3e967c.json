@@ -1,0 +1,46 @@
+{
+ "doc_id": "ab64e8a4ad3e967c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.econovill.com/news/articleView.html?idxno=753463",
+ "title": "[돋보기] 알리 손잡고 '역직구· 뷰티 ' 키우는 G마켓, 계획된 적자 아닌 ...",
+ "summary": "주력인 뷰티 카테고리 강화에 집중하면서 성과를 내고 있다. 장승환 G마켓 대표가 지난해 9월 취임과... 경쟁력 강화와 글로벌 수출 판로 확대를 통해 국내외 시장에서 새로운 성장 동력을 확보할 것\"이라고 말했다.",
+ "published_at": "2026-10-14T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "G마켓"
+  ],
+  "companies": [
+   "G마켓"
+  ],
+  "keywords": [
+   "뷰티 카테고리",
+   "역직구",
+   "글로벌 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지마켓이 주력 카테고리인 뷰티를 강화하고 글로벌 수출 판로 확대를 통해 성장 동력을 확보하고 있다.",
+  "key_fact_quote": "주력인 뷰티 카테고리 강화에 집중하면서 성과를 내고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:39+00:00",
+ "had_body": false
+}

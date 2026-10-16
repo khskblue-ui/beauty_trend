@@ -1,0 +1,41 @@
+{
+ "doc_id": "7bd04698c114507b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.m-i.kr/news/articleView.html?idxno=2002133",
+ "title": "K - 뷰티 ·푸드 위조상품 확산…중기부·지재처, 해외 거점 32곳서 공동 대...",
+ "summary": "매일일보 = 오시내 기자 | K - 뷰티 와 K -푸드 등 국내 브랜드의 해외 인기가 높아지면서 상표와 디자인을 도용한 위조상품 피해가 확산하고 있다. 정부는 해외 거점 32곳을 활용해 침해 사례를 공유하고 수출 지원과...",
+ "published_at": "2026-10-02T08:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "위조상품 대응",
+   "해외 거점 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부는 국내 뷰티 및 푸드 브랜드의 위조상품 피해 확산에 대응하기 위해 해외 거점을 활용한 공동 대응에 나선다.",
+  "key_fact_quote": "K - 뷰티 와 K -푸드 등 국내 브랜드의 해외 인기가 높아지면서 상표와 디자인을 도용한 위조상품 피해가 확산하고 있다. 정부는 해외 거점 32곳을 활용해 침해 사례를 공유하고 수출 지원과...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:53+00:00",
+ "had_body": false
+}

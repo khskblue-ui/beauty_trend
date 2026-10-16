@@ -1,0 +1,45 @@
+{
+ "doc_id": "49ab37264f38755a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202609101102209882",
+ "title": "[현장] 인디뷰티부터 약국까지…무신사, 홍대 첫 뷰티 단독점 연다",
+ "summary": "기타 매장에서 한두 종류로만 접하던 베르사체 향수 는 선반 두 칸을 채워 6종이 진열됐고, 컬러렌즈 존에도... 1층 프래그런스 존은 신진· 니치 브랜드 중심으로 구성했고, 브랜드 하이라이팅 존에서는 국내 오프라인...",
+ "published_at": "2026-09-10T13:43:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "베르사체"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "뷰티 단독점",
+   "프래그런스 존",
+   "니치 브랜드",
+   "인디뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 홍대에 첫 뷰티 단독점을 열고 프래그런스 존을 신진 및 니치 브랜드 중심으로 구성했다.",
+  "key_fact_quote": "인디뷰티부터 약국까지…무신사, 홍대 첫 뷰티 단독점 연다",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:37+00:00",
+ "had_body": false
+}

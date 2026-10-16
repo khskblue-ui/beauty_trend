@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "fragrance",
+  "category": "business",
   "event_type": "business",
   "countries": [
    "SG"
@@ -27,16 +27,18 @@
   ],
   "keywords": [
    "향료 산업",
-   "향료 연구소"
+   "향수 시장"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "지보단의 주가가 상승하고 심라이즈가 싱가포르에 향료 센터를 개소했다.",
+  "key_fact": "지보단의 주가가 급등하고 심라이즈가 싱가포르에 향 센터를 개관했다.",
   "key_fact_quote": "Givaudan Stock Surges, Symrise Opens Scent Center in Singapore",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:09:15+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:41+00:00",
  "had_body": false
 }

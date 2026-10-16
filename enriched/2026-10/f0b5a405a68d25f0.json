@@ -1,0 +1,47 @@
+{
+ "doc_id": "f0b5a405a68d25f0",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/wittington-investments-acquire-boots-1239318916/",
+ "title": "Wittington Investments to Acquire Boots in $8.9 Billion Deal",
+ "summary": "The Weston family's Wittington Investments, in partnership with Fairfax, will take control of the British retailer, with plans to invest in store upgrades, online enhancements and expanded health care services.",
+ "published_at": "2026-10-07T23:56:19+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "Boots"
+  ],
+  "companies": [
+   "Wittington Investments",
+   "Fairfax"
+  ],
+  "keywords": [
+   "리테일 인수합병",
+   "헬스케어 확장",
+   "매장 리뉴얼"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "위팅턴 인베스트먼츠가 페어팩스와 협력하여 영국 소매 유통업체 부츠를 인수하기로 합의했다.",
+  "key_fact_quote": "The Weston family's Wittington Investments, in partnership with Fairfax, will take control of the British retailer, with plans to invest in store upgrades, online enhancements and expanded health care services.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:27+00:00",
+ "had_body": false
+}

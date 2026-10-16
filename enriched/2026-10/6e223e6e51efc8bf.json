@@ -27,12 +27,14 @@
    "FRUDIA"
   ],
   "companies": [
+   "㈜웰코스",
    "웰코스"
   ],
   "keywords": [
    "롱제비티 스킨케어",
-   "뷰티 박람회",
-   "선케어"
+   "선케어",
+   "립케어",
+   "뷰티 박람회"
   ],
   "is_press_release": true,
   "products": [
@@ -40,7 +42,8 @@
     "name": "레티날 B3 엑소 레드 360˚ 볼륨 샷 텐션 마스크",
     "brand": "후르디아",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "후르디아는 이번 뷰티월드 두바이 박람회에서 신제품 ‘레티날 B3 엑소 레드 360˚ 볼륨 샷 텐션 마스크’를 포함한 F-LAB 라인 4종과 선케어 라인, 브랜드 대표 제품인 립밤 3종, 글로우쥬시잼과 블러리버터잼 등 다양한 제품을 선보였다.",
     "notes": [],
     "notes_quote": null
    },
@@ -48,6 +51,7 @@
     "name": "레티날 B3 엑소 레드 버블 팩 부스터",
     "brand": "후르디아",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -56,6 +60,7 @@
     "name": "레티날 B3 엑소 레드 360° 볼륨 샷 앰플",
     "brand": "후르디아",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -64,6 +69,7 @@
     "name": "레티날 B3 엑소 레드 360° 볼륨 샷 크림",
     "brand": "후르디아",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -72,6 +78,7 @@
     "name": "글로우쥬시잼",
     "brand": "후르디아",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -80,17 +87,29 @@
     "name": "블러리버터잼",
     "brand": "후르디아",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "웰코스의 브랜드 후르디아가 뷰티 박람회에 참가해 신제품을 포함한 스킨케어 라인을 공개하고 글로벌 시장 공략에 나섰다.",
+  "key_fact": "웰코스의 브랜드 후르디아가 뷰티월드 두바이 박람회에 참가해 신제품 마스크를 포함한 스킨케어 라인을 공개하고 글로벌 시장 공략에 나섰다.",
   "key_fact_quote": "후르디아는 세계적인 뷰티 박람회 ‘뷰티월드 두바이 2026(Beautyworld Dubai 2026)’에 참가해 중동을 비롯한 글로벌 시장에서 브랜드 접점을 확대했다고 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레티날",
+    "quote": "특히 롱제비티 스킨케어 라인 F-LAB은 스킨케어 첫 단계에 사용하는 ‘레티날 B3 엑소 레드 버블 팩 부스터’를 비롯해 ‘레티날 B3 엑소 레드 360° 볼륨 샷 앰플’, ‘레티날 B3 엑소 레드 360° 볼륨 샷 크림’, 새롭게 출시된 ‘레티날 B3 엑소 레드 360˚ 볼륨 샷 텐션 마스크’까지 총 4종으로 구성해 후르디아만의 단계별 스킨케어 루틴을 제안했다."
+   },
+   {
+    "name": "B3",
+    "quote": "특히 롱제비티 스킨케어 라인 F-LAB은 스킨케어 첫 단계에 사용하는 ‘레티날 B3 엑소 레드 버블 팩 부스터’를 비롯해 ‘레티날 B3 엑소 레드 360° 볼륨 샷 앰플’, ‘레티날 B3 엑소 레드 360° 볼륨 샷 크림’, 새롭게 출시된 ‘레티날 B3 엑소 레드 360˚ 볼륨 샷 텐션 마스크’까지 총 4종으로 구성해 후르디아만의 단계별 스킨케어 루틴을 제안했다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:15+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:24+00:00",
  "had_body": true
 }

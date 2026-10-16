@@ -1,0 +1,53 @@
+{
+ "doc_id": "cd8f0975a49889fa",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1413696",
+ "title": "동국제약, 'DK 센텔리안'으로 사명 변경 추진…글로벌 헬스·뷰티 시장 ...",
+ "summary": "'센텔리안'은 동국제약이 2015년 출시 한 더마코스메틱 브랜드 '센텔리안24'에도 사용된 명칭이다. 센텔리안24는 병풀 유래 성분을 활용한 화장품 브랜드로, 미국·일본·중국 등을 중심으로 해외 시장을 공략하고 있다.",
+ "published_at": "2026-10-12T11:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "JP",
+   "CN"
+  ],
+  "brands": [
+   "센텔리안24"
+  ],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "사명 변경"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "동국제약이 글로벌 헬스 및 뷰티 시장 공략을 위해 사명 변경을 추진하고 있다.",
+  "key_fact_quote": "동국제약, 'DK 센텔리안'으로 사명 변경 추진…글로벌 헬스·뷰티 시장 ...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "병풀 유래 성분",
+    "quote": "센텔리안24는 병풀 유래 성분을 활용한 화장품 브랜드로, 미국·일본·중국 등을 중심으로 해외 시장을 공략하고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:08+00:00",
+ "had_body": false
+}

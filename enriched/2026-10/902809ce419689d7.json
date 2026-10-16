@@ -22,21 +22,37 @@
    "KR"
   ],
   "brands": [],
-  "companies": [],
+  "companies": [
+   "Beauty Economy"
+  ],
   "keywords": [
-   "K뷰티",
-   "한국 화장품",
-   "소비자 인식",
+   "K-뷰티",
+   "전통 원료",
    "스킨케어 트렌드"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "벨기에 소비자들은 K-뷰티를 단순한 유행이 아닌 품질과 성분 혁신, 효능을 갖춘 제품군으로 인식하고 있다.",
+  "key_fact": "벨기에 소비자들은 한국 화장품을 단순한 유행을 넘어 우수한 효능과 전통 원료의 차별성을 갖춘 신뢰도 높은 제품군으로 평가하고 있다.",
   "key_fact_quote": "The interviews reveal that Belgian consumers view K-beauty as a category built on quality, ingredient innovation, and strong value.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "ginseng",
+    "quote": "Since the early 2010s, K-beauty has differentiated itself through the development of skincare and cosmetic products featuring traditional Korean ingredients such as ginseng."
+   },
+   {
+    "name": "rice",
+    "quote": "Respondents cited ingredients such as ginseng, rice, and mung bean as key differentiators that set Korean beauty products apart from many Western brands."
+   },
+   {
+    "name": "mung bean",
+    "quote": "Respondents cited ingredients such as ginseng, rice, and mung bean as key differentiators that set Korean beauty products apart from many Western brands."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:46+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:18+00:00",
  "had_body": true
 }

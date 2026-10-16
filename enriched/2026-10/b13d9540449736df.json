@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": false,
   "category": "other",
-  "event_type": "event",
+  "event_type": "other",
   "countries": [
    "KR",
    "JP"
@@ -24,18 +24,19 @@
   "brands": [],
   "companies": [],
   "keywords": [
-   "지자체 교류",
-   "농산물 무역",
-   "도시 협력"
+   "우호교류",
+   "지방자치단체 협력"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "창녕군 대표단이 일본 사쓰마센다이시를 방문해 산업 시설을 시찰하고 목재와 농산물 수출입 등 경제 협력 방안을 논의했다.",
+  "key_fact": "창녕군 대표단이 교류 및 협력 방안 모색을 위해 일본 사쓰마센다이시를 공식 방문했다.",
   "key_fact_quote": "창녕군은 성낙인 군수와 박재홍 군의회 의장을 비롯한 사회단체 대표 등 13명으로 구성된 대표단이 12일부터 14일까지 2박 3일간 우호교류도시인 일본 가고시마현 사쓰마센다이시를 공식 방문했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:55+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:23+00:00",
  "had_body": true
 }

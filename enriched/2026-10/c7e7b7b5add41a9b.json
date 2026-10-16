@@ -1,0 +1,55 @@
+{
+ "doc_id": "c7e7b7b5add41a9b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321133",
+ "title": "보건산업진흥원, 베트남 호치민에 K - 뷰티 상설 판매장 '위디' 개소",
+ "summary": "입점하는 K - 뷰티 상설 판매장을 연다. 현지 소비자와 바이어가 국내 화장품을 상시 접하는 유통 거점으로, 참여기업의 현지 유통망 진입과 후속 수출 을 지원하는 역할을 맡는다. 진흥원은 오는 4일(현지시간)...",
+ "published_at": "2026-10-02T09:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN"
+  ],
+  "brands": [
+   "위디"
+  ],
+  "companies": [
+   "한국보건산업진흥원"
+  ],
+  "keywords": [
+   "상설 판매장",
+   "유통 거점",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "보건산업진흥원이 국내 화장품 기업의 현지 진출과 수출 지원을 위해 베트남 호치민에 케이뷰티 상설 판매장 위디를 개소한다.",
+  "key_fact_quote": "보건산업진흥원, 베트남 호치민에 K - 뷰티 상설 판매장 '위디' 개소",
+  "events": [
+   {
+    "name": "K - 뷰티 상설 판매장 '위디' 개소",
+    "start_date": "2026-10-04",
+    "end_date": null,
+    "place": "베트남 호치민",
+    "quote": "진흥원은 오는 4일(현지시간)..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:50+00:00",
+ "had_body": false
+}

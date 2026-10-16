@@ -1,0 +1,47 @@
+{
+ "doc_id": "0ee8684aa14aaf6c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20097117?ref=naver",
+ "title": "“리뷰 1000만 건은 AI로 못 따라잡아”…화해, K 뷰티 검증 플랫폼 도약",
+ "summary": "2024년 11월 론칭 한 글로벌 웹은 미국과 일본에서 운영 중으로, 해외 뷰티 브랜드 및 제휴사로부터 들어오는 현지 마케팅 협업 문의도 약 160% 증가했다. 지난해 5월 중국 상하이에 연 첫 오프라인 편집숍은 오픈 초기...",
+ "published_at": "2026-10-01T14:21:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "JP",
+   "CN"
+  ],
+  "brands": [
+   "화해"
+  ],
+  "companies": [],
+  "keywords": [
+   "K 뷰티",
+   "오프라인 편집숍",
+   "글로벌 플랫폼"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화해가 글로벌 웹을 운영하며 해외 뷰티 브랜드 협업 문의가 증가하고 오프라인 편집숍을 확장하는 등 검증 플랫폼으로 도약하고 있다.",
+  "key_fact_quote": "“리뷰 1000만 건은 AI로 못 따라잡아”…화해, K 뷰티 검증 플랫폼 도약",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:03+00:00",
+ "had_body": false
+}

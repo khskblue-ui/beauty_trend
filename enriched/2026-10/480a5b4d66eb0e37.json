@@ -17,7 +17,9 @@
   "relevant": true,
   "category": "business",
   "event_type": "business",
-  "countries": [],
+  "countries": [
+   "US"
+  ],
   "brands": [
    "Gap"
   ],
@@ -25,17 +27,19 @@
    "Gap Inc."
   ],
   "keywords": [
-   "뷰티 전략 개편",
-   "인사 변동"
+   "뷰티 카테고리 개편",
+   "뷰티 전략"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "갭이 뷰티 및 액세서리 전략을 재정비하는 가운데 존 뎀시가 회사를 떠났다.",
+  "key_fact": "갭이 뷰티 및 액세서리 전략을 정비하는 과정에서 존 뎀시와 결별했다.",
   "key_fact_quote": "The departure comes as Gap Inc. refines its beauty and accessories strategy amid a competitive backdrop.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:09:15+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:40+00:00",
  "had_body": false
 }

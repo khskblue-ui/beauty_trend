@@ -1,0 +1,48 @@
+{
+ "doc_id": "54919e922d05ea17",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etoday.co.kr/news/view/2635285",
+ "title": "가격은 다이소·취향은 무신사·속도는 배민… K뷰티 ‘유통 공식’ 바뀐...",
+ "summary": "이투데이=황민주 기자 | 다이소 뷰티 매출 30%↑…무신사 입점 브랜드 2400개로 확대 올영 ‘오늘드림’ 배송 비중 48.7%…배민도 화장품 4000종 배달 화장품 수출 111억 달러 역대 최대…유통업계 뷰티 영토 확장...",
+ "published_at": "2026-10-14T05:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올영",
+   "배민"
+  ],
+  "companies": [
+   "다이소",
+   "무신사"
+  ],
+  "keywords": [
+   "뷰티 유통",
+   "화장품 배송",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유통업계가 화장품 배송 및 입점 확대를 통해 뷰티 영토를 넓히며 뷰티 유통 공식이 변화하고 있다.",
+  "key_fact_quote": "가격은 다이소·취향은 무신사·속도는 배민… K뷰티 ‘유통 공식’ 바뀐...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:39+00:00",
+ "had_body": false
+}

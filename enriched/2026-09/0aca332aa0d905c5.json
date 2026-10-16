@@ -1,0 +1,49 @@
+{
+ "doc_id": "0aca332aa0d905c5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=148503",
+ "title": "[현장] 무신사, 홍대 뷰티 판 흔든다…약국 품은 400평 첫 단독점",
+ "summary": "프래그런스존은 신진· 니치 향수 브랜드를 중심으로 채웠다. 셀바티코, 세이리, 유겐, 골드필드 앤 뱅크스, 에따 리브르 도랑쥬 등이 들어섰다. 해외 브랜드 비중은 약 30%다. 컬러렌즈 큐레이션 플랫폼 '폰피쉬'도 별도...",
+ "published_at": "2026-09-11T11:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "셀바티코",
+   "세이리",
+   "유겐",
+   "골드필드 앤 뱅크스",
+   "에따 리브르 도랑쥬",
+   "폰피쉬"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "니치 향수",
+   "뷰티 단독점",
+   "프래그런스존"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 홍대에 신진 및 니치 향수 브랜드를 갖춘 뷰티 단독점을 선보였다.",
+  "key_fact_quote": "프래그런스존은 신진· 니치 향수 브랜드를 중심으로 채웠다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:23+00:00",
+ "had_body": false
+}

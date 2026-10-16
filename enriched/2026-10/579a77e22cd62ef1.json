@@ -1,0 +1,47 @@
+{
+ "doc_id": "579a77e22cd62ef1",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100065",
+ "title": "듀이트리, 대전 대표 캐릭터 ‘꿈돌이’·로컬 카페와 상생 협업",
+ "summary": "‘진정의 기준, 듀이트리’를 슬로건으로 스킨케어 제품을 선보이는 브랜드 듀이트리가 대전시 대표 캐릭터 ‘꿈돌이’ 카페 콜라보 프로젝트를 성황리에 마치고, 수익금의 일부와 자사 스킨케어 제품을 ‘을희복지재단 천양원’에 기부하며 지역사회 상생을 실천했다고 밝혔다.이번 협업 프로모션은 대전 지역 인기 카페인 미뉴브, 로크하우스, 타프로드 총 3개 매장에서 전개됐다. 듀이트리는 브랜드와 지역 대표 캐릭터, 로컬 카페를 연결해 소비자에게 친근하고 재미있는 브랜드 경험을 제공하고, 지역 상권과 연계한 상생 활동을 도모하고자 이번 프로젝트를 기",
+ "published_at": "2026-10-06T09:51:02+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "듀이트리"
+  ],
+  "companies": [
+   "듀이트리"
+  ],
+  "keywords": [
+   "상생 협업",
+   "캐릭터 콜라보",
+   "로컬 마케팅",
+   "사회공헌"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "스킨케어 브랜드 듀이트리가 대전시 대표 캐릭터 및 로컬 카페와 진행한 콜라보 프로젝트를 마치고 수익금 일부와 스킨케어 제품을 복지재단에 기부했다.",
+  "key_fact_quote": "‘진정의 기준, 듀이트리’를 슬로건으로 스킨케어 제품을 선보이는 브랜드 듀이트리가 대전시 대표 캐릭터 ‘꿈돌이’ 카페 콜라보 프로젝트를 성황리에 마치고, 수익금의 일부와 자사 스킨케어 제품을 ‘을희복지재단 천양원’에 기부하며 지역사회 상생을 실천했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:32+00:00",
+ "had_body": true
+}

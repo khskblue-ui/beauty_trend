@@ -1,0 +1,50 @@
+{
+ "doc_id": "6545084109ad479a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12169530",
+ "title": "K뷰티 인기에 해외짝퉁 기승 … 기업들 전담팀 늘려 대응나서",
+ "summary": "K뷰티 인기가 높아지면서 해외에서 한국 화장품 브랜드를 베낀 모조품도 기승을 부리고 있다. 정품... 최근 싱가포르에서 유해 성분인 수단4호가 검출돼 회수된 메디큐브 제품이 공식 수출 기록에 없는 것으로...",
+ "published_at": "2026-10-06T17:39:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "SG"
+  ],
+  "brands": [
+   "메디큐브"
+  ],
+  "companies": [],
+  "keywords": [
+   "모조품 유통",
+   "가품 대응",
+   "위조 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 화장품 인기가 높아지면서 해외에서 모조품이 기승을 부려 기업들이 전담팀을 늘려 대응에 나서고 있다.",
+  "key_fact_quote": "K뷰티 인기가 높아지면서 해외에서 한국 화장품 브랜드를 베낀 모조품도 기승을 부리고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "수단4호",
+    "quote": "최근 싱가포르에서 유해 성분인 수단4호가 검출돼 회수된 메디큐브 제품이 공식 수출 기록에 없는 것으로..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:07+00:00",
+ "had_body": false
+}

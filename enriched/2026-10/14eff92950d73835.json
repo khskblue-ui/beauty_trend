@@ -15,33 +15,35 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "business",
-  "event_type": "business",
+  "category": "regulation",
+  "event_type": "regulation",
   "countries": [
    "FR",
    "JP",
-   "IE"
+   "IE",
+   "HK"
   ],
   "brands": [
    "Issey Miyake",
    "Narciso Rodriguez",
    "Zadig & Voltaire",
-   "Shiseido"
+   "Lacoste"
   ],
   "companies": [
    "Shiseido",
    "Beauté Prestige Internationale",
-   "Shein"
+   "Shein",
+   "dsm-firmenich"
   ],
   "keywords": [
    "선택적 유통망",
    "온라인 마켓플레이스",
-   "럭셔리 뷰티"
+   "손해배상 소송"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": null,
-  "key_fact_quote": null,
+  "key_fact": "시세이도의 프랑스 자회사 보테 프레스티지 인터내셔널이 승인된 유통망 외부에서 뷰티 제품을 무단 판매한 온라인 리테일 플랫폼 셰인을 상대로 손해배상 청구 소송을 제기했다.",
+  "key_fact_quote": "Beauté Prestige Internationale ( BPI ), a French subsidiary of Japanese cosmetics group Shiseido, has filed a lawsuit against online retail platform Shein, accusing it of selling its products outside its selective distribution network and in breach of the contractual conditions governing resale by authorised distributors.",
   "events": [
    {
     "name": "in-cosmetics Global",
@@ -52,12 +54,10 @@
    }
   ],
   "ingredients": [],
-  "dropped": [
-   "key_fact"
-  ]
+  "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:22+00:00",
+ "enriched_at": "2026-10-15T15:27:11+00:00",
  "had_body": true
 }

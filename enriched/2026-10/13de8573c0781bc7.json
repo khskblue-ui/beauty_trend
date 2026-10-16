@@ -1,0 +1,52 @@
+{
+ "doc_id": "13de8573c0781bc7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bizwnews.com/news/articleView.html?idxno=148581",
+ "title": "킨텍스 ' K - 뷰티 엑스포', 679개사 참가… 수출 ·유통 판로 확대 지원",
+ "summary": "사진=킨텍스 해외 수출 과 국내 유통망 확보를 원하는 뷰티 기업들이 킨텍스에 모인다. 제품 전시와 함께... 12일 킨텍스에 따르면 올해로 18번째 열리는 '2026 K - 뷰티 엑스포 코리아'가 오는 15일 개막해 17일까지 계속된다....",
+ "published_at": "2026-10-12T10:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "킨텍스"
+  ],
+  "keywords": [
+   "뷰티 엑스포",
+   "수출 판로 확대",
+   "국내 유통망"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "해외 수출과 국내 유통망 확대를 위한 뷰티 엑스포 행사가 킨텍스에서 개막한다.",
+  "key_fact_quote": "해외 수출 과 국내 유통망 확보를 원하는 뷰티 기업들이 킨텍스에 모인다.",
+  "events": [
+   {
+    "name": "2026 K - 뷰티 엑스포 코리아",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": "킨텍스",
+    "quote": "12일 킨텍스에 따르면 올해로 18번째 열리는 '2026 K - 뷰티 엑스포 코리아'가 오는 15일 개막해 17일까지 계속된다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:11+00:00",
+ "had_body": false
+}

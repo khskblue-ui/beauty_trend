@@ -1,0 +1,53 @@
+{
+ "doc_id": "d13691def0b96bd1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dailian.co.kr/news/view/1693016/?sc=Naver",
+ "title": "[현장] 4050 여성 몰린 ‘코아시스’…엄마들의 뷰티 놀이터 뜬다",
+ "summary": "향수 존을 대폭 키운 것도 이곳 매장의 장점이다. 천호점에서 처음 향수 를 선보인 뒤 고객 반응이 좋자 겐조... 판매 호조에 힘입어 같은 라인의 크림도 추가 출시 했으며, 현재 두 제품을 함께 선보이고 있다. 현대홈쇼핑...",
+ "published_at": "2026-09-22T07:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "겐조"
+  ],
+  "companies": [
+   "현대홈쇼핑"
+  ],
+  "keywords": [
+   "뷰티 매장",
+   "향수 존",
+   "크림"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": "판매 호조에 힘입어 같은 라인의 크림도 추가 출시 했으며, 현재 두 제품을 함께 선보이고 있다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 매장 코아시스가 향수 공간을 대폭 키우고 신제품을 선보이며 중년 여성 고객의 호응을 얻고 있다.",
+  "key_fact_quote": "향수 존을 대폭 키운 것도 이곳 매장의 장점이다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:09+00:00",
+ "had_body": false
+}

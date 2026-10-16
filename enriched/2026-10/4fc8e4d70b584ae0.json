@@ -1,0 +1,41 @@
+{
+ "doc_id": "4fc8e4d70b584ae0",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/annette-green-former-fragrance-foundation-president-dies-102-1239333934/",
+ "title": "Annette Green, Former Fragrance Foundation President, Dies at 102",
+ "summary": "The executive is credited with transforming the organization into an engine of growth for the fragrance industry.",
+ "published_at": "2026-10-09T03:34:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Fragrance Foundation"
+  ],
+  "keywords": [
+   "향수 산업",
+   "향수 재단"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "전 프래그런스 파운데이션 회장인 아네트 그린이 별세했다.",
+  "key_fact_quote": "Annette Green, Former Fragrance Foundation President, Dies at 102",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:22+00:00",
+ "had_body": false
+}

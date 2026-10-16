@@ -1,0 +1,54 @@
+{
+ "doc_id": "6384540ee0e0043e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=762773",
+ "title": "송혜교, 푸른빛 속 우아한 자태…겔랑 새 향수 비주얼 공개",
+ "summary": "'뢰르 블루 오 드 퍼퓸'은 1912년 조향사 자크 겔랑이 선보인 오리지널 '뢰르 블루'를 바탕으로 한 앰버 플로럴 계열 향수다. 기존 아이리스와 바닐라의 조합을 이어가면서 별도로 제작한 아이리스 팅크를 더했다. 보틀...",
+ "published_at": "2026-09-01T09:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "겔랑"
+  ],
+  "companies": [],
+  "keywords": [
+   "앰버 플로럴",
+   "아이리스",
+   "오 드 퍼퓸"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "뢰르 블루 오 드 퍼퓸",
+    "brand": "겔랑",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "앰버 플로럴",
+     "아이리스",
+     "바닐라",
+     "아이리스 팅크"
+    ],
+    "notes_quote": "'뢰르 블루 오 드 퍼퓸'은 1912년 조향사 자크 겔랑이 선보인 오리지널 '뢰르 블루'를 바탕으로 한 앰버 플로럴 계열 향수다. 기존 아이리스와 바닐라의 조합을 이어가면서 별도로 제작한 아이리스 팅크를 더했다."
+   }
+  ],
+  "key_fact": "겔랑이 새로운 향수의 비주얼을 공개했다.",
+  "key_fact_quote": "송혜교, 푸른빛 속 우아한 자태…겔랑 새 향수 비주얼 공개",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:54+00:00",
+ "had_body": false
+}

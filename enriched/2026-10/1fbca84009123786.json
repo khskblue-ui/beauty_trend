@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "skincare",
+  "category": "business",
   "event_type": "business",
   "countries": [
    "KR"
@@ -26,11 +26,11 @@
   ],
   "keywords": [
    "뷰티 디바이스",
-   "자체 브랜드"
+   "신사업"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "모델솔루션이 신사업 전담팀을 꾸려 자체 뷰티 디바이스 브랜드 론칭을 준비하고 있다.",
+  "key_fact": "모델솔루션이 내부적으로 신사업 태스크포스팀을 꾸려 자체 뷰티 디바이스 브랜드 론칭을 준비하고 있다.",
   "key_fact_quote": "현재 모델솔루션은 내부적으로 신사업 TFT를 꾸려 뷰티 디바이스 브랜드 론칭 을 준비 중이다.",
   "events": [],
   "ingredients": [],
@@ -38,6 +38,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:29+00:00",
+ "enriched_at": "2026-10-15T15:26:20+00:00",
  "had_body": false
 }

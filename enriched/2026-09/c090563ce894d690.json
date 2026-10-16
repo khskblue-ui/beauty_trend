@@ -1,0 +1,44 @@
+{
+ "doc_id": "c090563ce894d690",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=148314",
+ "title": "퓨어니스, 한국 지사 설립…천연 향료 B2B 공급망 확대",
+ "summary": "국내 화장품과 공간 향료 시장에서 천연 원료와 맞춤형 조향 수요가 확대되는 가운데 대만 천연 향료 기업 퓨어니스(Pureness)가 한국 지사를 설립하고 국내 B2B 사업을 강화한다. 퓨어니스는 한국 지사를 통해 국내...",
+ "published_at": "2026-09-07T16:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "TW"
+  ],
+  "brands": [],
+  "companies": [
+   "퓨어니스",
+   "Pureness"
+  ],
+  "keywords": [
+   "천연 향료",
+   "공간 향료",
+   "맞춤형 조향"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대만 천연 향료 기업 퓨어니스가 한국 지사를 설립하고 천연 향료 기업 간 거래 공급망 확대를 추진한다.",
+  "key_fact_quote": "대만 천연 향료 기업 퓨어니스(Pureness)가 한국 지사를 설립하고 국내 B2B 사업을 강화한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:29+00:00",
+ "had_body": false
+}

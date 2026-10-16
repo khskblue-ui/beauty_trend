@@ -1,0 +1,53 @@
+{
+ "doc_id": "cc7476f5160ec39f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=276993",
+ "title": "에이딕트, 향수 이어 고체 탈취제 3종 출시",
+ "summary": "프래그런스 전문 브랜드 '에이딕트(a ddct, 일레븐코퍼레이션)'는 고체 탈취제 3종을 출시 했다고 16일 밝혔다. 에이딕트는 향수 를 중심으로 성장해 온 브랜드로, 2024년 퍼퓸 섬유 탈취제를 선보이며 탈취 카테고리에...",
+ "published_at": "2026-09-16T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이딕트"
+  ],
+  "companies": [
+   "일레븐코퍼레이션"
+  ],
+  "keywords": [
+   "프래그런스",
+   "고체 탈취제",
+   "퍼퓸 섬유 탈취제"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "고체 탈취제",
+    "brand": "에이딕트",
+    "launch_date": null,
+    "launch_quote": "프래그런스 전문 브랜드 '에이딕트(a ddct, 일레븐코퍼레이션)'는 고체 탈취제 3종을 출시 했다고 16일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이딕트가 향수 카테고리에 이어 새로운 고체 탈취제를 출시했다.",
+  "key_fact_quote": "에이딕트, 향수 이어 고체 탈취제 3종 출시",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:25+00:00",
+ "had_body": false
+}

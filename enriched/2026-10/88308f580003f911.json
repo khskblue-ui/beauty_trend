@@ -1,0 +1,49 @@
+{
+ "doc_id": "88308f580003f911",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/general-industry/6316530",
+ "title": "스킨1004, ' 뷰티 월드 두바이'서 신제품 공개…중동 유통 확장",
+ "summary": "뷰티 월드 두바이는 글로벌 뷰티 브랜드 와 바이어, 유통업계 관계자가 참여하는 뷰티 산업 행사로 올해... 스킨1004는 지난해 중동 뷰티 플랫폼 '부티카(Boutiqaat)'에 공식 론칭 한 데 이어 얼타 뷰티 (Ulta Beauty) 중동 지점에도...",
+ "published_at": "2026-10-12T10:45:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "AE",
+   "KR"
+  ],
+  "brands": [
+   "스킨1004"
+  ],
+  "companies": [
+   "스킨1004",
+   "부티카",
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "뷰티 박람회",
+   "중동 유통 확장",
+   "뷰티 플랫폼"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "스킨천사가 뷰티 월드 두바이에서 신제품을 공개하고 중동 유통망을 확장하고 있다.",
+  "key_fact_quote": "스킨1004, ' 뷰티 월드 두바이'서 신제품 공개…중동 유통 확장",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:33+00:00",
+ "had_body": false
+}

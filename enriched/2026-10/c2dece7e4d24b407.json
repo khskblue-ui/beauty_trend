@@ -1,0 +1,65 @@
+{
+ "doc_id": "c2dece7e4d24b407",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gosiweek.com/article/1065573494139741",
+ "title": "박준뷰티랩, ‘글램그로우·글램블로우 탈모케어 패키지’ 출시",
+ "summary": "이번 라인업은 탈모 증상 완화 기능성 화장품 인 ‘글램그로우 세트’와 ‘글램블로우 드라이기’를 결합해... 박준뷰티랩 관계자는 “이번 패키지는 화장품 과 디바이스가 각자의 역할을 넘어 하나의 유기적인 케어...",
+ "published_at": "2026-10-08T09:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "박준뷰티랩"
+  ],
+  "companies": [
+   "박준뷰티랩"
+  ],
+  "keywords": [
+   "탈모 케어",
+   "기능성 화장품",
+   "뷰티 디바이스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "글램그로우·글램블로우 탈모케어 패키지",
+    "brand": "박준뷰티랩",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "박준뷰티랩, ‘글램그로우·글램블로우 탈모케어 패키지’ 출시",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "글램그로우 세트",
+    "brand": "박준뷰티랩",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번 라인업은 탈모 증상 완화 기능성 화장품 인 ‘글램그로우 세트’와 ‘글램블로우 드라이기’를 결합해...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "박준뷰티랩이 탈모 증상 완화 기능성 화장품과 드라이기를 결합한 탈모 케어 패키지를 선보였다.",
+  "key_fact_quote": "박준뷰티랩, ‘글램그로우·글램블로우 탈모케어 패키지’ 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:27+00:00",
+ "had_body": false
+}

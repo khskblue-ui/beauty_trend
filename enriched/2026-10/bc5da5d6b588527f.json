@@ -1,0 +1,57 @@
+{
+ "doc_id": "bc5da5d6b588527f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.joongangenews.com/news/articleView.html?idxno=553953",
+ "title": "무신사 뷰티, 인기 캐릭터 '퍼글러'와 손잡았다…12개 브랜드 협업·최대...",
+ "summary": "개성 넘치는 캐릭터를 활용한 한정판 화장품 과 특별 제작 굿즈를 앞세워 소비자 공략에 나서는 한편, 최대 80... 무신사 자체 브랜드 오드타입은 '버튼믹스' 캐릭터를 담은 메이크업 제품 '소 터처블 워터 블러시'를 출시 한...",
+ "published_at": "2026-10-12T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사 뷰티",
+   "오드타입"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "한정판 화장품",
+   "캐릭터 협업",
+   "메이크업 제품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "소 터처블 워터 블러시",
+    "brand": "오드타입",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "무신사 자체 브랜드 오드타입은 '버튼믹스' 캐릭터를 담은 메이크업 제품 '소 터처블 워터 블러시'를 출시 한...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "무신사 뷰티가 인기 캐릭터와 협업해 한정판 화장품을 선보인다.",
+  "key_fact_quote": "무신사 뷰티, 인기 캐릭터 '퍼글러'와 손잡았다…12개 브랜드 협업·최대...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:09+00:00",
+ "had_body": false
+}

@@ -20,26 +20,28 @@
   "countries": [
    "JP"
   ],
-  "brands": [],
+  "brands": [
+   "NOSE SHOP"
+  ],
   "companies": [
-   "NOSE SHOP",
-   "미쓰코시"
+   "NOSE SHOP"
   ],
   "keywords": [
+   "일본 향수 시장",
    "니치 향수",
-   "향수 시장",
-   "편집숍",
    "팝업스토어",
    "미니 향수"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "일본 향수 시장에서 다양한 향을 조합하고 비교하며 즐기는 소비 방식에 주목하고 있다.",
+  "key_fact": "일본 향수 시장에서 취향을 겹쳐 입는 소비에 주목하며 니치 향수 편집숍이 팝업스토어와 미니 향수 제품 판매를 전개했다.",
   "key_fact_quote": "일본 향수 시장, ‘취향을 겹쳐 입는’ 소비에 주목",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:14+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:28+00:00",
  "had_body": false
 }

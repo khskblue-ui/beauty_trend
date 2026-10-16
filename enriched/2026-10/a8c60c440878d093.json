@@ -1,0 +1,41 @@
+{
+ "doc_id": "a8c60c440878d093",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/estee-lauder-cos-flexes-around-the-world-1239241288/",
+ "title": "The Estée Lauder Cos. Flexes Around the World",
+ "summary": "The group’s geographic zone leaders talk strategy.",
+ "published_at": "2026-10-09T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "The Estée Lauder Cos."
+  ],
+  "keywords": [
+   "글로벌 전략",
+   "지역별 경영"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에스티 로더 컴퍼니즈의 지역별 리더들이 글로벌 전략에 대해 논의했다.",
+  "key_fact_quote": "The group’s geographic zone leaders talk strategy.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:18+00:00",
+ "had_body": false
+}

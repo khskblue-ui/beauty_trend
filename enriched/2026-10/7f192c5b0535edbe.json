@@ -1,0 +1,47 @@
+{
+ "doc_id": "7f192c5b0535edbe",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.bizwatch.co.kr/article/consumer/2026/10/06/0041",
+ "title": "설화수, 'K럭셔리 뷰티'로 일본 럭셔리 백화점 뚫었다",
+ "summary": "그만큼 세계 유명 화장품 브랜드 대부분이 진출해 있는 데다 '시세이도'와 '코세', 'SK-II' 같은 현지... 이외에도 일본 고객의 특성과 주요 시즌에 맞춘 전용 기획 세트 출시 도 검토하고 있다. 설화수는 이세탄 팝업 성과를...",
+ "published_at": "2026-10-07T07:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "설화수",
+   "시세이도",
+   "코세",
+   "SK-II"
+  ],
+  "companies": [],
+  "keywords": [
+   "럭셔리 뷰티",
+   "백화점 팝업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "설화수가 럭셔리 뷰티 전략으로 일본 럭셔리 백화점에 진출했다.",
+  "key_fact_quote": "설화수, 'K럭셔리 뷰티'로 일본 럭셔리 백화점 뚫었다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:37+00:00",
+ "had_body": false
+}

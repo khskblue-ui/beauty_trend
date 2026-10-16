@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "fragrance",
+  "category": "hair",
   "event_type": "product_launch",
   "countries": [
    "FR",
@@ -28,25 +28,29 @@
   "companies": [],
   "keywords": [
    "니치 퍼퓸",
-   "헤어 퍼퓸"
+   "헤어 퍼퓸",
+   "모발 향수"
   ],
   "is_press_release": true,
   "products": [
    {
     "name": "헤어 퍼퓸",
     "brand": "샴브르52",
-    "launch_date": null,
+    "launch_date": "2026-10-06",
+    "launch_status": "launched",
     "launch_quote": "프랑스 니치 퍼퓸 브랜드 샴브르52(CHAMBRE52)가 오는 10월 6일, 브랜드 시그니처 향을...",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "프랑스 니치 퍼퓸 브랜드 샴브르오십이가 브랜드 시그니처 향을 담은 신제품 헤어 퍼퓸을 선보인다.",
-  "key_fact_quote": "프랑스 니치 퍼퓸 브랜드 샴브르52(CHAMBRE52)가 오는 10월 6일, 브랜드 시그니처 향을...",
+  "key_fact": "프랑스 니치 퍼퓸 브랜드 샴브르오십이가 브랜드 시그니처 향을 담은 헤어 퍼퓸 신제품을 출시했다.",
+  "key_fact_quote": "프랑스 니치 퍼퓸 샴브르52, 신제품 ‘헤어 퍼퓸’ 2종 출시… 라인업 ...",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:03+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:24+00:00",
  "had_body": false
 }

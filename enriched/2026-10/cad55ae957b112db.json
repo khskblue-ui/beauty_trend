@@ -1,0 +1,69 @@
+{
+ "doc_id": "cad55ae957b112db",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58479",
+ "title": "아이오페, 시술 후 피부 다운타임 관리 ‘밴디지 크림’ 출시",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 클리니컬 그레이드 스킨케어 브랜드 아이오페가 손상된 피부 장벽과 피부과 시술 후 다운타임 관리에 초점을 맞춘 ‘어드밴스드덤 프로 리페어링 밴디지 크림’을 출시한다고 12일 밝혔다. 외부 자극이나 건조함으로 민감해진 피부부터 피부과 시술을 받은 피부가 일상적…",
+ "published_at": "2026-10-12T10:31:51+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오페"
+  ],
+  "companies": [
+   "아모레몰"
+  ],
+  "keywords": [
+   "더마 크림",
+   "피부 장벽 회복",
+   "스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "어드밴스드덤 프로 리페어링 밴디지 크림",
+    "brand": "아이오페",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "클리니컬 그레이드 스킨케어 브랜드 아이오페가 손상된 피부 장벽과 피부과 시술 후 다운타임 관리에 초점을 맞춘 ‘어드밴스드덤 프로 리페어링 밴디지 크림’을 출시한다고 12일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아이오페가 피부 장벽 개선과 시술 후 관리를 돕는 더마 크림 신제품을 출시했다.",
+  "key_fact_quote": "클리니컬 그레이드 스킨케어 브랜드 아이오페가 손상된 피부 장벽과 피부과 시술 후 다운타임 관리에 초점을 맞춘 ‘어드밴스드덤 프로 리페어링 밴디지 크림’을 출시한다고 12일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "EGF",
+    "quote": "피부에 밀착되는 밴디지 크림 텍스처가 얇은 보호막을 형성해 손상된 피부 장벽이 회복될 수 있는 환경을 조성하고 EGF와 PDRN, 베타글루칸 등 리페어 액티브 성분을 더해 장벽 관리를 뒷받침한다는 설명이다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "피부에 밀착되는 밴디지 크림 텍스처가 얇은 보호막을 형성해 손상된 피부 장벽이 회복될 수 있는 환경을 조성하고 EGF와 PDRN, 베타글루칸 등 리페어 액티브 성분을 더해 장벽 관리를 뒷받침한다는 설명이다."
+   },
+   {
+    "name": "베타글루칸",
+    "quote": "피부에 밀착되는 밴디지 크림 텍스처가 얇은 보호막을 형성해 손상된 피부 장벽이 회복될 수 있는 환경을 조성하고 EGF와 PDRN, 베타글루칸 등 리페어 액티브 성분을 더해 장벽 관리를 뒷받침한다는 설명이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:11:58+00:00",
+ "had_body": true
+}

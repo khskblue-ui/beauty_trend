@@ -1,0 +1,44 @@
+{
+ "doc_id": "1d67349401cee204",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thepowernews.co.kr/view.php?ud=2026093009394189196cf2d78c68_7",
+ "title": "한국서 만들어 미국서 판다... 펫 간식 브랜드 츌립의 K펫푸드 도전",
+ "summary": "수출 5억 달러(약 7,000억 원)를 목표로 제시했다. 업계에서는 한국산 펫푸드가 해외에서 주목받는 이유로 까다로운 국내 보호자 기준에서 다듬어진 품질과 고민별로 세분화된 제품 구성을 꼽는다. K -팝과 K - 뷰티 로...",
+ "published_at": "2026-10-02T09:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "츌립"
+  ],
+  "companies": [],
+  "keywords": [
+   "펫푸드",
+   "반려동물 간식"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 펫 간식 브랜드가 해외 수출을 목표로 도전하고 있다.",
+  "key_fact_quote": "한국서 만들어 미국서 판다... 펫 간식 브랜드 츌립의 K펫푸드 도전",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:52+00:00",
+ "had_body": false
+}

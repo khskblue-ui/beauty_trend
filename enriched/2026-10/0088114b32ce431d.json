@@ -1,0 +1,45 @@
+{
+ "doc_id": "0088114b32ce431d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.bizwatch.co.kr/article/consumer/2026/10/05/0003",
+ "title": "이젠 오프라인으로…큐텐재팬, 'K뷰티'로 일본 정복 나섰다",
+ "summary": "정하나 크리에이티브마케팅실장은 \"판매를 앞둔 신제품 이나 인디 브랜드들도 샘플 하우스를 통해 리뷰를... 선택했다\"며 \" 화장품 은 트렌드가 빠르게 바뀌는 만큼 화제의 상품을 적시에 매장에 선보이는 것이 중요하기...",
+ "published_at": "2026-10-06T07:05:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "큐텐재팬"
+  ],
+  "keywords": [
+   "오프라인 매장",
+   "인디 브랜드",
+   "샘플 하우스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "큐텐재팬이 일본에서 오프라인 매장을 통해 한국 화장품 진출을 확대하고 있다.",
+  "key_fact_quote": "이젠 오프라인으로…큐텐재팬, 'K뷰티'로 일본 정복 나섰다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:04+00:00",
+ "had_body": false
+}

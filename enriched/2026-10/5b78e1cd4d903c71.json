@@ -1,0 +1,72 @@
+{
+ "doc_id": "5b78e1cd4d903c71",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.onews.tv/news/articleView.html?idxno=288789",
+ "title": "\"면세 뷰티 영토 넓힌다\"…신라면세점, 단독 라인업으로 차별화 박차",
+ "summary": "(제공=신라면세점)©열린뉴스통신ONA 면세 시장의 성장을 견인하는 화장품 카테고리를 중심으로 글로벌... 단독 출시 했다. 해당 세트 구매 고객에게는 윤조에센스 15ml, 탄력크림 15ml, 자음생 안티에이징 키트 5종을...",
+ "published_at": "2026-10-08T13:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신라면세점"
+  ],
+  "keywords": [
+   "면세 뷰티",
+   "단독 라인업",
+   "화장품 카테고리"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "윤조에센스",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "탄력크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "자음생 안티에이징 키트",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신라면세점이 화장품 카테고리를 중심으로 단독 상품을 선보이며 면세 뷰티 경쟁력 강화에 나섰다.",
+  "key_fact_quote": "\"면세 뷰티 영토 넓힌다\"…신라면세점, 단독 라인업으로 차별화 박차",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:19+00:00",
+ "had_body": false
+}

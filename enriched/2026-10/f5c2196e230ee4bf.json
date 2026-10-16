@@ -1,0 +1,63 @@
+{
+ "doc_id": "f5c2196e230ee4bf",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100028",
+ "title": "메이크업 넘어 헤어까지…뷰티업계 ‘얼굴 비율’ 맞춤 트렌드 확산",
+ "summary": "중안부 축소 메이크업, 인중 단축 메이크업처럼 얼굴의 세로 비율을 조정해 보이게 하는 뷰티 트렌드가 주목받는 가운데, 이러한 관심이 헤어 디자인으로도 확장되고 있다. 단순히 얼굴을 작아 보이게 만드는 것이 아니라 앞머리와 사이드 뱅, 레이어의 흐름, 볼륨의 위치를 조절해 개인의 얼굴 비율과 두상에 맞는 균형을 찾는 방식이다.아모스프로페셔널은 이러한 흐름을 반영해 2026 F/W 트렌드 캡슐 시즌 3로 ‘테일러드 밸런스(Tailored Balance)’를 제안한다. 얼굴형만으로 스타일을 결정하기보다 얼굴의 가로·세로 비율과 두상, 모",
+ "published_at": "2026-10-01T13:14:07+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아모스프로페셔널"
+  ],
+  "companies": [],
+  "keywords": [
+   "얼굴 비율 맞춤",
+   "헤어 디자인",
+   "헤어 오일"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "잇츠 글로우",
+    "brand": "아모스프로페셔널",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "리뉴 카멜리아 인퓨전 오일",
+    "brand": "아모스프로페셔널",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "얼굴의 세로 비율을 조정하는 메이크업 트렌드가 헤어 디자인으로도 확장되면서 개인의 얼굴 비율과 두상에 맞춘 헤어스타일 제안이 주목받고 있다.",
+  "key_fact_quote": "중안부 축소 메이크업, 인중 단축 메이크업처럼 얼굴의 세로 비율을 조정해 보이게 하는 뷰티 트렌드가 주목받는 가운데, 이러한 관심이 헤어 디자인으로도 확장되고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:55+00:00",
+ "had_body": true
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "df62c9d319c3be2e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.edaily.co.kr/News/Read?newsId=04152486645579136&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+ "title": "주미당, 베트남 떠이닌성과 지역 향료 개발 협력",
+ "summary": "시그니처 향료 개발에 나선다. 주미당은 떠이닌성 과학기술혁신센터, 원광대학교와 업무협약(MOU)을 맺고, 현지 대형 음료 제조사들과 70억 원 규모의 향미 포뮬라 및 향료 공급 계약을 체결했다고 11일 밝혔다....",
+ "published_at": "2026-09-11T15:25:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN"
+  ],
+  "brands": [],
+  "companies": [
+   "주미당",
+   "떠이닌성 과학기술혁신센터",
+   "원광대학교"
+  ],
+  "keywords": [
+   "향료 개발",
+   "향미 포뮬라",
+   "시그니처 향료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "주미당이 베트남 기관 및 대학교와 협력하여 지역 시그니처 향료 개발을 추진하고 현지 제조사들과 향료 공급 계약을 맺었다.",
+  "key_fact_quote": "주미당은 떠이닌성 과학기술혁신센터, 원광대학교와 업무협약(MOU)을 맺고, 현지 대형 음료 제조사들과 70억 원 규모의 향미 포뮬라 및 향료 공급 계약을 체결했다고 11일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:14+00:00",
+ "had_body": false
+}

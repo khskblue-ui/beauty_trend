@@ -1,0 +1,49 @@
+{
+ "doc_id": "6a83244cd037dff5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://byline.network/?p=9004111222622829",
+ "title": "CJ올리브영, 동남아 세포라 매장 입점 마무리…“글로벌 K 뷰티 소비 저변...",
+ "summary": "매력적인K 뷰티 브랜드 와 글로벌 소비자의 접점을 신속하게 넓히는 병행 전략이다. 지난 8월 먼저 론칭 한 미국 세포라에서의 성과도 이미 나타나고 있다. 회사에 따르면'올리브영K 뷰티 에딧'에 입점한 브랜드 의9월 말...",
+ "published_at": "2026-10-12T12:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "올리브영",
+   "세포라"
+  ],
+  "companies": [
+   "CJ올리브영",
+   "세포라"
+  ],
+  "keywords": [
+   "K뷰티",
+   "글로벌 유통망",
+   "뷰티 리테일"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "씨제이올리브영이 동남아 세포라 매장 입점을 마무리하며 글로벌 시장 확장을 추진하고 있다.",
+  "key_fact_quote": "CJ올리브영, 동남아 세포라 매장 입점 마무리…“글로벌 K 뷰티 소비 저변...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:32+00:00",
+ "had_body": false
+}

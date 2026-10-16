@@ -1,0 +1,43 @@
+{
+ "doc_id": "5fd3130f22edacb8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.bloter.net/news/articleView.html?idxno=674494",
+ "title": "[뷰티 강소주 조명] 코디, 지피클럽 품에서 용기·해외 사업 확대",
+ "summary": "코디가 색조 화장품 OEM·ODM을 중심으로 화장품 용기와 해외 유통까지 사업 저변을 넓히고 있다. 종속회사... ODM 기반의 고객 맞춤형 신제품 개발과 연구개발 강화도 판매전략으로 제시하고 있다. 다만 신규 제품이...",
+ "published_at": "2026-09-28T13:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코디",
+   "지피클럽"
+  ],
+  "keywords": [
+   "색조 화장품",
+   "화장품 용기",
+   "해외 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코디가 색조 화장품 제조자개발생산 등을 바탕으로 화장품 용기와 해외 유통 사업을 확장하고 있다.",
+  "key_fact_quote": "코디가 색조 화장품 OEM·ODM을 중심으로 화장품 용기와 해외 유통까지 사업 저변을 넓히고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:15+00:00",
+ "had_body": false
+}

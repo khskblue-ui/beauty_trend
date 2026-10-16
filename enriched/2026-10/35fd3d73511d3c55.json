@@ -1,0 +1,45 @@
+{
+ "doc_id": "35fd3d73511d3c55",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sentv.co.kr/article/view/sentv202610060086",
+ "title": "여기종, 日 ‘코스메 위크 오사카’ 참가… 뷰티 스타트업 10개사 지원",
+ "summary": "박창숙 여성기업종합지원센터 이사장은 “이번 공동관 운영은 K - 뷰티 여성스타트업의 잠재력을 알리고 일본 진출 가능성을 확인한 뜻깊은 자리였다”며 “우수한 제품력을 갖춘 여성기업이 실질적인 수출 성과를 거둘...",
+ "published_at": "2026-10-06T11:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "여성기업종합지원센터"
+  ],
+  "keywords": [
+   "뷰티 스타트업",
+   "공동관",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "여성기업종합지원센터가 일본 코스메 위크 오사카에 참가하여 뷰티 스타트업의 해외 진출을 지원했다.",
+  "key_fact_quote": "여기종, 日 ‘코스메 위크 오사카’ 참가… 뷰티 스타트업 10개사 지원",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:15+00:00",
+ "had_body": false
+}

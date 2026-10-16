@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "hair",
-  "event_type": "event",
+  "event_type": "product_launch",
   "countries": [
    "KR",
    "JP",
@@ -28,13 +28,14 @@
    "fino"
   ],
   "companies": [
+   "한국유방건강재단",
    "파인투데이코리아"
   ],
   "keywords": [
-   "핑크 리본 캠페인",
-   "헤어 마스크",
    "헤어 트리트먼트",
-   "한정판 에디션"
+   "헤어 마스크",
+   "헤어 오일",
+   "핑크 리본 캠페인"
   ],
   "is_press_release": true,
   "products": [
@@ -42,6 +43,16 @@
     "name": "피노 프리미엄 터치 헤어 마스크 비 핑크 리본 에디션",
     "brand": "피노",
     "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "글로벌 헤어 트리트먼트 브랜드 피노(fino)가 10월 ‘유방암 인식의 달(Breast Cancer Awareness Month)’을 맞아 ‘피노 프리미엄 터치 헤어 마스크 비 핑크 리본 에디션’을 선보이고, ‘2026 핑크런’ 후원에 참여하며 유방 건강 인식 확산에 힘을 보탠다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "피노 프리미엄 터치 헤어 마스크 비",
+    "brand": "피노",
+    "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -50,17 +61,28 @@
     "name": "피노 프리미엄 터치 헤어 오일",
     "brand": "피노",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "헤어 브랜드 피노가 유방암 인식의 달을 맞아 한정 에디션을 선보이고 핑크런 후원에 참여하며 관련 캠페인을 전개한다.",
+  "key_fact": "헤어 브랜드 피노가 유방암 인식의 달을 맞아 핑크 리본 에디션을 출시하고 마라톤 행사 후원 캠페인을 진행한다.",
   "key_fact_quote": "글로벌 헤어 트리트먼트 브랜드 피노(fino)가 10월 ‘유방암 인식의 달(Breast Cancer Awareness Month)’을 맞아 ‘피노 프리미엄 터치 헤어 마스크 비 핑크 리본 에디션’을 선보이고, ‘2026 핑크런’ 후원에 참여하며 유방 건강 인식 확산에 힘을 보탠다.",
+  "events": [
+   {
+    "name": "2026 핑크런",
+    "start_date": "2026-10-11",
+    "end_date": null,
+    "place": "서울 상암 월드컵공원 평화광장",
+    "quote": "피노는 지난 11일 서울 상암 월드컵공원 평화광장에서 개최된 ‘2026 핑크런’에 공식 협찬사로 참여했다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:04+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:14+00:00",
  "had_body": true
 }

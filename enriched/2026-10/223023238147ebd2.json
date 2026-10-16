@@ -1,0 +1,48 @@
+{
+ "doc_id": "223023238147ebd2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=855430",
+ "title": "CJ올리브영, K 뷰티 흐름 소개 공식 뉴스룸 론칭 …영·일문도 제공",
+ "summary": "뉴스룸 오픈과 동시에 ▲낫띵베럴 ▲메디힐 ▲셀퓨전씨 ▲앳홈 등 4개 브랜드 사의 성장 스토리가 공개됐다. 올리브영 관계자는 \"K- 뷰티 가 글로벌 산업으로 성장할수록 시장의 흐름을 살피고 현재의 트렌드와...",
+ "published_at": "2026-10-02T11:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "낫띵베럴",
+   "메디힐",
+   "셀퓨전씨",
+   "앳홈"
+  ],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "K뷰티",
+   "공식 뉴스룸"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "CJ올리브영이 한국 뷰티 산업의 흐름을 알리는 공식 뉴스룸을 개설했다.",
+  "key_fact_quote": "CJ올리브영, K 뷰티 흐름 소개 공식 뉴스룸 론칭 …영·일문도 제공",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:57+00:00",
+ "had_body": false
+}

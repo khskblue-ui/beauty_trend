@@ -1,0 +1,46 @@
+{
+ "doc_id": "b9ad9009c52a0d6b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://theviewers.co.kr/View.aspx?No=4259081",
+ "title": "[유통갤러리] 현대리바트, 양면 쿠션감 적용한 '210 리버서블 매트리스...",
+ "summary": "매트리스'를 출시 했다. 이번 신제품 은 양면의 단단한 정도를 다르게 설계해 매트리스를 뒤집어 주는... ◆다이소몰, 10월 뷰티 신상 330여종 선보인다 아성다이소가 운영하는 다이소몰에서 ‘Daiso-DAY 10월 뷰티 신상...",
+ "published_at": "2026-10-12T10:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "다이소몰"
+  ],
+  "companies": [
+   "현대리바트",
+   "아성다이소"
+  ],
+  "keywords": [
+   "뷰티 신상",
+   "유통 프로모션"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아성다이소가 운영하는 다이소몰에서 대규모 뷰티 신제품을 선보이는 행사를 진행한다.",
+  "key_fact_quote": "아성다이소가 운영하는 다이소몰에서 ‘Daiso-DAY 10월 뷰티 신상...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:43+00:00",
+ "had_body": false
+}

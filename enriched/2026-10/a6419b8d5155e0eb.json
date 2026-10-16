@@ -1,0 +1,57 @@
+{
+ "doc_id": "a6419b8d5155e0eb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=263212",
+ "title": "어뮤즈, 첫 시스터 브랜드 '로듀' 출시 ···립밤으로 시장 공략",
+ "summary": "복잡한 꾸밈보다 자연스러운 아름다움을 추구하며 일상에서 쉽게 사용할 수 있는 뷰티 제품을 선보이는 데 초점을 맞췄다. 브랜드 운영에는 신제품 을 한 번에 출시 하지 않고 순차적으로 공개하는 '드롭(Drop)' 방식을...",
+ "published_at": "2026-10-08T14:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어뮤즈",
+   "로듀"
+  ],
+  "companies": [
+   "어뮤즈"
+  ],
+  "keywords": [
+   "립밤",
+   "시스터 브랜드",
+   "드롭 방식"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "립밤",
+    "brand": "로듀",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "어뮤즈, 첫 시스터 브랜드 '로듀' 출시 ···립밤으로 시장 공략",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "어뮤즈가 첫 시스터 브랜드 로듀를 선보이며 립밤으로 시장 공략에 나섰다.",
+  "key_fact_quote": "어뮤즈, 첫 시스터 브랜드 '로듀' 출시 ···립밤으로 시장 공략",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:49+00:00",
+ "had_body": false
+}

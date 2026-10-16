@@ -1,0 +1,42 @@
+{
+ "doc_id": "3eeae39287377af2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=244350",
+ "title": "중국 선케어 화장품 시장동향",
+ "summary": "중국 향료 향정화장품산업협회의 「2025 중국 화장품 산업 발전보고」에 따르면, 온라인은 핵심... 중국 향료 향정화장품산업협회의 「중국 화장품 산업보고서(2025)」에 따르면, 2025년 온라인 거래액 상위 100개...",
+ "published_at": "2026-09-30T10:29:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "중국 향료 향정화장품산업협회"
+  ],
+  "keywords": [
+   "선케어 화장품",
+   "시장 동향",
+   "온라인 거래"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 향료 향정화장품산업협회 보고서에 따르면 중국 온라인 시장에서 화장품 거래가 핵심을 차지하고 있다.",
+  "key_fact_quote": "중국 향료 향정화장품산업협회의 「2025 중국 화장품 산업 발전보고」에 따르면, 온라인은 핵심...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:15:45+00:00",
+ "had_body": false
+}

@@ -1,0 +1,52 @@
+{
+ "doc_id": "33495fe0ebc92304",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4107896",
+ "title": "이옴, 볼륨 케어 강화 '보타이드 NAD 플럼핑 립 세럼' 출시",
+ "summary": "뷰티 브랜드 이옴이 입술의 각질 정돈과 볼륨 관리에 초점을 맞춘 '이옴 보타이드 NAD 플럼핑 립 세럼'을 선보입니다. 이번 신제품 은 입술 보습을 넘어 탄력과 볼륨까지 관리하는 '립피케이션' 트렌드에 발맞춰...",
+ "published_at": "2026-09-21T14:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이옴"
+  ],
+  "companies": [],
+  "keywords": [
+   "립 세럼",
+   "플럼핑",
+   "립피케이션",
+   "볼륨 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "보타이드 NAD 플럼핑 립 세럼",
+    "brand": "이옴",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 브랜드 이옴이 입술 각질 정돈과 볼륨 관리를 위한 플럼핑 립 세럼을 선보인다.",
+  "key_fact_quote": "뷰티 브랜드 이옴이 입술의 각질 정돈과 볼륨 관리에 초점을 맞춘 '이옴 보타이드 NAD 플럼핑 립 세럼'을 선보입니다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:48+00:00",
+ "had_body": false
+}

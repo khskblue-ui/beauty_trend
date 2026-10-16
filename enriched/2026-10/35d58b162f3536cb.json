@@ -1,0 +1,43 @@
+{
+ "doc_id": "35d58b162f3536cb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.economytalk.kr/news/articleView.html?idxno=424542",
+ "title": "외국인 K쇼핑 열풍… 신라면세점, '단독 뷰티 ' 방한객 공략",
+ "summary": "최근 백화점업계가 외국인 매출 1조 원 시대를 연 데 이어 뷰티업계에서 K뷰티 수출 또한 3분기 만에 111억 달러를 돌파하는 등 최대 실적 호황이 이어지고 있다. 럭셔리·뷰티·패션 전반에서 외국인 소비가 가파르게...",
+ "published_at": "2026-10-08T11:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신라면세점"
+  ],
+  "keywords": [
+   "외국인 소비",
+   "면세점 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "외국인 방한객의 쇼핑 열풍과 뷰티 수출 호황 속에 신라면세점이 단독 뷰티 상품으로 외국인 공략에 나섰다.",
+  "key_fact_quote": "외국인 K쇼핑 열풍… 신라면세점, '단독 뷰티 ' 방한객 공략",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:38+00:00",
+ "had_body": false
+}

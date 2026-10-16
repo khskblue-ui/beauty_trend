@@ -1,0 +1,57 @@
+{
+ "doc_id": "f50e325db21a2806",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sports.khan.co.kr/article/202610071952003?pt=nv",
+ "title": "라루셀, 현대백화점 판교점 ‘코오드’ 입점…더마뷰티 고객 접점 넓힌...",
+ "summary": "2021년 출시 된 라루셀은 임신과 출산 과정에서 여성들이 경험할 수 있는 건조함과 민감성, 색소침착, 튼살 등... 특히 일반 화장품 을 임산부용으로 별도 구분하는 방식이 아니라 제품 기획 단계부터 민감한 피부를 고려하고...",
+ "published_at": "2026-10-07T19:53:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라루셀"
+  ],
+  "companies": [
+   "현대백화점"
+  ],
+  "keywords": [
+   "더마뷰티",
+   "임산부 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "라루셀",
+    "brand": "라루셀",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더마뷰티 브랜드 라루셀이 현대백화점 판교점 편집숍에 입점하며 유통망을 확장한다.",
+  "key_fact_quote": "라루셀, 현대백화점 판교점 ‘코오드’ 입점…더마뷰티 고객 접점 넓힌...",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "launch:라루셀"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:30+00:00",
+ "had_body": false
+}

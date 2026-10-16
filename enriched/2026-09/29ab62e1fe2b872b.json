@@ -1,0 +1,53 @@
+{
+ "doc_id": "29ab62e1fe2b872b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=209483",
+ "title": "앳홈 톰, 더마 스킨케어 모공 관리까지 넓힌다…'NMN 라인' 선봬",
+ "summary": "신제품 에는 네덜란드산 99.8% 고순도 NMN을 적용했다. NAD+를 비롯해 콜라겐과 10중 히알루론산, 9종 펩타이드... 두 제품 모두 미백·주름 개선 2중 기능성 화장품 이다. 톰에 따르면 인체적용시험에서는 세로·가로·사선...",
+ "published_at": "2026-09-23T14:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "톰"
+  ],
+  "companies": [
+   "앳홈"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "모공 관리",
+   "기능성 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "NMN 라인",
+    "brand": "톰",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "앳홈의 브랜드 톰이 모공 관리를 위한 고순도 엔엠엔 성분의 스킨케어 신제품 라인을 선보였다.",
+  "key_fact_quote": "앳홈 톰, 더마 스킨케어 모공 관리까지 넓힌다…'NMN 라인' 선봬",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:45+00:00",
+ "had_body": false
+}

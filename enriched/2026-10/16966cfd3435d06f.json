@@ -1,0 +1,50 @@
+{
+ "doc_id": "16966cfd3435d06f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Economy/article/all/20261002/134774301/1",
+ "title": "K뷰티 -K푸드 잘나가자 짝퉁도 기승…정부 공동대응 나선다",
+ "summary": "K뷰티 ·K푸드 등 국내 브랜드의 해외 인기가 높아지면서 위조·모방 상품 피해가 늘자 정부가 수출 중소기업의... 중소벤처기업부와 지식재산처는 2일 정부대전청사에서 ‘중소기업 K -브랜드 지식재산 보호 협의체’ 운영을...",
+ "published_at": "2026-10-02T12:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "위조 상품 대응",
+   "지식재산 보호",
+   "수출 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부가 해외에서 인기를 끄는 국내 브랜드의 위조 및 모방 상품 피해를 막기 위해 지식재산 보호 협의체 운영에 나섰다.",
+  "key_fact_quote": "K뷰티 ·K푸드 등 국내 브랜드의 해외 인기가 높아지면서 위조·모방 상품 피해가 늘자 정부가 수출 중소기업의... 중소벤처기업부와 지식재산처는 2일 정부대전청사에서 ‘중소기업 K -브랜드 지식재산 보호 협의체’ 운영을...",
+  "events": [
+   {
+    "name": "‘중소기업 K -브랜드 지식재산 보호 협의체’ 운영 회의",
+    "start_date": "2026-10-02",
+    "end_date": null,
+    "place": "정부대전청사",
+    "quote": "중소벤처기업부와 지식재산처는 2일 정부대전청사에서 ‘중소기업 K -브랜드 지식재산 보호 협의체’ 운영을..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:45+00:00",
+ "had_body": false
+}

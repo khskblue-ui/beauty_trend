@@ -1,0 +1,40 @@
+{
+ "doc_id": "ff45f66a401a9056",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20091785?ref=naver",
+ "title": "석유 대신 미생물…소재 자립 이끌 ‘정밀발효’ [최솔의 바이오 프런티...",
+ "summary": "바이오제조의 대상은 의약품뿐 아니라 아미노산과 핵산, 비타민과 효소, 색소와 향료 , 일부 생분해성 플라스틱 소재까지 다양하다. 생산 환경을 제어할 수 있다는 점도 중요하다. 발효조의 온도와 산도, 영양분 공급을...",
+ "published_at": "2026-09-16T17:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "정밀발효",
+   "바이오제조",
+   "향료 소재"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "바이오제조 기술인 정밀발효의 생산 대상에 의약품뿐 아니라 색소와 향료 등 다양한 소재가 포함된다.",
+  "key_fact_quote": "바이오제조의 대상은 의약품뿐 아니라 아미노산과 핵산, 비타민과 효소, 색소와 향료 , 일부 생분해성 플라스틱 소재까지 다양하다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:16:56+00:00",
+ "had_body": false
+}

@@ -5,30 +5,31 @@
  "group": "kr_news",
  "lang": "ko",
  "url": "https://www.globale.co.kr/news/articleView.html?idxno=40532",
- "title": "모로칸오일, 브룸 드 마로크 신제품 2종 출시 '뷰티컬리' 단독 선공개",
- "summary": "프리미엄 헤어 및 바디 케어 브랜드 모로칸오일(Moroccanoil)이 모발과 피부에 분사해 수분과 향을 공급하는 '브룸 드 마로크(Brumes du Maroc)' 프래그런스 미스트 2종을 새로 선보인다. 2008년 공동 창업자 카멘 탈(Carmen...",
+ "title": "모로칸오일, 브룸 드 마로크 신제품 2종 출시 ' 뷰티 컬리' 단독 선공개",
+ "summary": "해당 신제품 은 뷰티 컬리에서 단독 선공개 형태로 출시 된다. 모로칸오일은 제품 출시 를 기념해 21일부터 28일까지 브룸 드 마로크와 대표 상품인 모로칸오일 트리트먼트를 포함한 전 품목을 최대 18% 할인 판매한다....",
  "published_at": "2026-09-21T08:54:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "바디미스트 출시",
+ "query": "뷰티 신제품 출시",
  "doc_type": null,
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "fragrance",
+  "category": "hair",
   "event_type": "product_launch",
   "countries": [
    "KR"
   ],
   "brands": [
-   "모로칸오일",
-   "Moroccanoil"
+   "모로칸오일"
   ],
-  "companies": [],
+  "companies": [
+   "뷰티 컬리"
+  ],
   "keywords": [
-   "프래그런스 미스트",
-   "헤어 미스트",
-   "바디 미스트"
+   "헤어 케어",
+   "단독 선공개",
+   "신제품 출시"
   ],
   "is_press_release": true,
   "products": [
@@ -36,20 +37,17 @@
     "name": "브룸 드 마로크",
     "brand": "모로칸오일",
     "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "프리미엄 헤어 및 바디 케어 브랜드 모로칸오일(Moroccanoil)이 모발과 피부에 분사해 수분과 향을 공급하는 '브룸 드 마로크(Brumes du Maroc)' 프래그런스 미스트 2종을 새로 선보인다.",
+    "launch_quote": "해당 신제품 은 뷰티 컬리에서 단독 선공개 형태로 출시 된다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "모로칸오일이 수분과 향을 공급하는 프래그런스 미스트 신제품을 새롭게 선보였다.",
-  "key_fact_quote": "프리미엄 헤어 및 바디 케어 브랜드 모로칸오일(Moroccanoil)이 모발과 피부에 분사해 수분과 향을 공급하는 '브룸 드 마로크(Brumes du Maroc)' 프래그런스 미스트 2종을 새로 선보인다.",
-  "events": [],
-  "ingredients": [],
+  "key_fact": "모로칸오일이 브룸 드 마로크 신제품을 뷰티 컬리를 통해 단독 선공개 형태로 출시한다.",
+  "key_fact_quote": "해당 신제품 은 뷰티 컬리에서 단독 선공개 형태로 출시 된다.",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:42+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:53+00:00",
  "had_body": false
 }

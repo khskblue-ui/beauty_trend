@@ -1,0 +1,66 @@
+{
+ "doc_id": "f4c0b19297648e28",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.dailypop.kr/news/articleView.html?idxno=103232",
+ "title": "[뷰티·패션] 신성통상·동국제약·아모레퍼시픽 外...제품보다 '어디서...",
+ "summary": "면세점은 '단독 상품'으로 차별화 신라면세점은 화장품 수요 증가에 맞춰 브랜드 협업을 통한 단독 상품을... 이번에는 신제품 '셀레스티얼 콜라겐 크림'을 함께 선보인다. 100% 콜라겐수를 베이스로 하고 8종의 콜라겐과...",
+ "published_at": "2026-10-08T18:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신라면세점",
+   "신성통상",
+   "동국제약",
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "단독 상품",
+   "브랜드 협업",
+   "면세점 화장품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "셀레스티얼 콜라겐 크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번에는 신제품 '셀레스티얼 콜라겐 크림'을 함께 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신라면세점은 화장품 수요 증가에 맞춰 브랜드 협업 단독 신제품인 셀레스티얼 콜라겐 크림을 선보인다.",
+  "key_fact_quote": "신라면세점은 화장품 수요 증가에 맞춰 브랜드 협업을 통한 단독 상품을... 이번에는 신제품 '셀레스티얼 콜라겐 크림'을 함께 선보인다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "콜라겐수",
+    "quote": "100% 콜라겐수를 베이스로 하고 8종의 콜라겐과..."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "100% 콜라겐수를 베이스로 하고 8종의 콜라겐과..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:46+00:00",
+ "had_body": false
+}

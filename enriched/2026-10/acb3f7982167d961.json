@@ -1,0 +1,98 @@
+{
+ "doc_id": "acb3f7982167d961",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58460",
+ "title": "에이피알 메디큐브, 멕시코시티 프리미엄 백화점에 상시 매장 오픈",
+ "summary": "[코스인코리아닷컴 길태윤 기자]에이피알은 메디큐브가 멕시코 현지 시간 기준 7일, 멕시코시티 북서부에 위치한 ‘팔라시오 데 히에로(Palacio de Hierro)’ 백화점에 공식 입점해 상시 매장을 연다고 7일 밝혔다. 팔라시오 데 히에로는 멕시코를 대표하는 프리미엄 백화점 체인으로 패션, 뷰티, 잡화, 라이프스타일 등 다양한 카테고리의 글로벌 및 프리",
+ "published_at": "2026-10-07T10:50:45+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MX"
+  ],
+  "brands": [
+   "메디큐브",
+   "에이지알"
+  ],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "글로벌 시장",
+   "백화점 입점",
+   "오프라인 유통"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "PDRN 핑크 펩타이드 앰플",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PDRN 겔 패드",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "콜라겐 나이트 랩핑 마스크",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "에이지알(AGE-R) 부스터 프로 X2",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피알의 메디큐브가 멕시코 프리미엄 백화점에 케이뷰티 브랜드 최초로 공식 입점해 상시 매장을 열었다.",
+  "key_fact_quote": "에이피알은 메디큐브가 멕시코 현지 시간 기준 7일, 멕시코시티 북서부에 위치한 ‘팔라시오 데 히에로(Palacio de Hierro)’ 백화점에 공식 입점해 상시 매장을 연다고 7일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "이번 매장에는 ▲ PDRN 핑크 펩타이드 앰플 ▲ PDRN 겔 패드 ▲ 콜라겐 나이트 랩핑 마스크 ▲ 에이지알(AGE-R) 부스터 프로 X2 등 글로벌 시장에서 판매 성과가 확인된 주요 제품을 중심으로 우선 선보인다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "이번 매장에는 ▲ PDRN 핑크 펩타이드 앰플 ▲ PDRN 겔 패드 ▲ 콜라겐 나이트 랩핑 마스크 ▲ 에이지알(AGE-R) 부스터 프로 X2 등 글로벌 시장에서 판매 성과가 확인된 주요 제품을 중심으로 우선 선보인다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "이번 매장에는 ▲ PDRN 핑크 펩타이드 앰플 ▲ PDRN 겔 패드 ▲ 콜라겐 나이트 랩핑 마스크 ▲ 에이지알(AGE-R) 부스터 프로 X2 등 글로벌 시장에서 판매 성과가 확인된 주요 제품을 중심으로 우선 선보인다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:30+00:00",
+ "had_body": true
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "581551be13bf3530",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/industry/business_info/2026/10/13/JWE4SF7Y4RDZJI2FSR5E5YUJKA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "밀라노 ‘Gop-da(곱다)’ K - 뷰티 온 팝업스토어 성황리에 마무리",
+ "summary": "향후 수출 및 협력 가능성을 논의했다. 위즈팜은 소비자 체험과 바이어 상담을 함께 운영해 참여기업이 현지 반응을 확인하고 유통 협력을 논의할 수 있도록 했다고 설명했다. 3일간의 행사에서는 K - 뷰티 제품과...",
+ "published_at": "2026-10-13T10:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "IT",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "위즈팜"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "수출 협력",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "밀라노에서 열린 K-뷰티 팝업스토어가 성황리에 마무리되었다.",
+  "key_fact_quote": "밀라노 ‘Gop-da(곱다)’ K - 뷰티 온 팝업스토어 성황리에 마무리",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:54+00:00",
+ "had_body": false
+}

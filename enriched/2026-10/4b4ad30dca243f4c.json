@@ -1,0 +1,45 @@
+{
+ "doc_id": "4b4ad30dca243f4c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90300",
+ "title": "\" 뷰티 넘어 패션까지\"…컬리, 모델 한혜진 브랜드 '헤디트' 단독 론칭 하...",
+ "summary": "컬리는 톱모델 한혜진의 경험과 감각이 담긴 신규 라이프웨어 브랜드 헤디트를 단독 론칭 한다고 12일 밝혔다. 헤디트는 한혜진이 20여 년간 세계 패션 무대에서 쌓은 노하우를 바탕으로 제안하는 브랜드 다. 컬리와의...",
+ "published_at": "2026-10-12T08:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "헤디트"
+  ],
+  "companies": [
+   "컬리"
+  ],
+  "keywords": [
+   "라이프웨어",
+   "단독 론칭"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "컬리가 모델 한혜진의 라이프웨어 브랜드 헤디트를 단독 론칭했다.",
+  "key_fact_quote": "컬리는 톱모델 한혜진의 경험과 감각이 담긴 신규 라이프웨어 브랜드 헤디트를 단독 론칭 한다고 12일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:35+00:00",
+ "had_body": false
+}

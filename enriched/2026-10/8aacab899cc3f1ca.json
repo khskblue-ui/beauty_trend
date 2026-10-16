@@ -1,0 +1,58 @@
+{
+ "doc_id": "8aacab899cc3f1ca",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/general-industry/6305926",
+ "title": "\"유럽은 크리스마스 시즌 시작\"…英서 'K-뷰티 어드벤트 캘린더' 등장",
+ "summary": "캘린더'를 출시 했다. 룩판타스틱이 K-뷰티 제품만으로 연말 기획상품을 구성한 것은 이번이 처음이다.... 부츠는 현재 25개가 넘는 한국 브랜드를 취급하고 있으며 올해는 스킨케어를 넘어 헤어케어와 향수 등으로도 K...",
+ "published_at": "2026-10-06T06:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "GB",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "룩판타스틱",
+   "부츠"
+  ],
+  "keywords": [
+   "어드벤트 캘린더",
+   "연말 기획상품",
+   "스킨케어",
+   "헤어케어",
+   "향수"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "K-뷰티 어드벤트 캘린더",
+    "brand": "룩판타스틱",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "캘린더'를 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "영국 뷰티 유통 플랫폼에서 처음으로 한국 화장품으로 구성된 어드벤트 캘린더를 선보였으며 스킨케어에 이어 헤어와 향수 품목으로도 취급이 확대되고 있다.",
+  "key_fact_quote": "룩판타스틱이 K-뷰티 제품만으로 연말 기획상품을 구성한 것은 이번이 처음이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:50+00:00",
+ "had_body": false
+}

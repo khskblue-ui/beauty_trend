@@ -1,0 +1,72 @@
+{
+ "doc_id": "b1142c7d9d4d7e2a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=247315",
+ "title": "AZH, 두바이 '뷰티월드 미들이스트 2026' 참가",
+ "summary": "뷰티· 화장품 전문 전시회인 이번 행사를 통해 현지 바이어 및 글로벌 관계자들과의 비즈니스 네트워크를... 현장에서는 신제품 '사우나 테라피 헤어팩'과 '젤라또 헤어팩' 2종을 비롯해 '헤어 그로스 샴푸', '데일리...",
+ "published_at": "2026-10-07T13:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "event",
+  "countries": [
+   "AE"
+  ],
+  "brands": [
+   "AZH"
+  ],
+  "companies": [],
+  "keywords": [
+   "헤어팩",
+   "샴푸",
+   "뷰티 전시회"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "사우나 테라피 헤어팩",
+    "brand": "AZH",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "현장에서는 신제품 '사우나 테라피 헤어팩'과 '젤라또 헤어팩' 2종을 비롯해 '헤어 그로스 샴푸', '데일리...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "젤라또 헤어팩",
+    "brand": "AZH",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "현장에서는 신제품 '사우나 테라피 헤어팩'과 '젤라또 헤어팩' 2종을 비롯해 '헤어 그로스 샴푸', '데일리...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "헤어 그로스 샴푸",
+    "brand": "AZH",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 브랜드 에이지투에이치가 두바이에서 열린 뷰티월드 미들이스트 행사에 참가해 신제품 헤어팩 등의 제품을 선보였다.",
+  "key_fact_quote": "AZH, 두바이 '뷰티월드 미들이스트 2026' 참가",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:01+00:00",
+ "had_body": false
+}

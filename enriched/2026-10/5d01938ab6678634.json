@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "retail",
-  "event_type": "business",
+  "event_type": "market_trend",
   "countries": [
    "KR"
   ],
@@ -25,13 +25,13 @@
    "신세계면세점"
   ],
   "keywords": [
-   "면세점 세일",
+   "온라인 면세점",
    "화장품 매출",
    "향수 매출"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "신세계면세점의 할인 행사에서 화장품과 향수의 일평균 매출이 크게 증가했다.",
+  "key_fact": "신세계면세점이 진행한 행사에서 화장품과 향수 품목의 일평균 매출이 크게 증가했다.",
   "key_fact_quote": "신세계면세점 관계자는 이날 \"화장품· 향수 의 일평균 매출은 행사 전보다 46% 늘어 주요 카테고리 중 가장 높은...",
   "events": [],
   "ingredients": [],
@@ -39,6 +39,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:20+00:00",
+ "enriched_at": "2026-10-15T15:25:55+00:00",
  "had_body": false
 }

@@ -1,0 +1,46 @@
+{
+ "doc_id": "fdf1b648bda041dd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankookilbo.com/news/article/A2026100214590004154?did=NA",
+ "title": "CJ올리브영, 공식 뉴스룸 신설… K 뷰티 · 브랜드 스토리 콘텐츠 전한다",
+ "summary": "임팩트에서는 입점 브랜드 대표와의 이야기를 인터뷰 형식으로 전달한다. 추후 다양한 파트너사의 창업... K 뷰티 에딧'을 론칭 하기도 했다. CJ올리브영 관계자는 \"K 뷰티 가 글로벌 산업으로 성장할수록 시장의 흐름을...",
+ "published_at": "2026-10-02T16:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "CJ올리브영"
+  ],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "K뷰티",
+   "뉴스룸",
+   "브랜드 스토리"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "CJ올리브영이 공식 뉴스룸을 신설해 K뷰티 및 브랜드 스토리 콘텐츠를 전달한다.",
+  "key_fact_quote": "CJ올리브영, 공식 뉴스룸 신설… K 뷰티 · 브랜드 스토리 콘텐츠 전한다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:53+00:00",
+ "had_body": false
+}

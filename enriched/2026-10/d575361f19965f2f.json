@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "body",
-  "event_type": "event",
+  "event_type": "business",
   "countries": [
    "AE",
    "QA",
@@ -33,12 +33,14 @@
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "오스템파마가 두바이 뷰티 박람회에 참가해 중동 구강케어 시장 공략에 나섰다.",
+  "key_fact": "오스템파마가 두바이 뷰티 박람회에 참가해 중동 구강케어 시장 공략에 나선다.",
   "key_fact_quote": "오스템파마, 두바이 뷰티 박람회 참가…중동 구강케어 시장 공략",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:27+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:39+00:00",
  "had_body": false
 }

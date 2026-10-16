@@ -1,0 +1,48 @@
+{
+ "doc_id": "8e1c4b1f4fcc97b7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20091225?ref=naver",
+ "title": "“기분 나쁜 날, 피부도 안 좋아진다?”…화장품 업계가 ‘감정’ 연구...",
+ "summary": "글로벌 향료 ·화장품 소재기업 지보단 역시 올 3월 뉴로코스메틱 원료 ‘프라이멀하이알 뉴로유스(PrimalHyal NeuroYouth)’를 선보였다. 이는 피부 노화 과정에서 나타나는 신경섬유 감소와 피부 신경계의 변화에 주목한...",
+ "published_at": "2026-09-16T06:21:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "지보단"
+  ],
+  "keywords": [
+   "뉴로코스메틱",
+   "화장품 소재"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "프라이멀하이알 뉴로유스",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "지보단이 피부 신경계 변화에 주목한 뉴로코스메틱 원료를 선보였다.",
+  "key_fact_quote": "글로벌 향료 ·화장품 소재기업 지보단 역시 올 3월 뉴로코스메틱 원료 ‘프라이멀하이알 뉴로유스(PrimalHyal NeuroYouth)’를 선보였다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:04+00:00",
+ "had_body": false
+}

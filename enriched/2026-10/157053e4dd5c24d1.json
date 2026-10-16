@@ -26,9 +26,8 @@
   "companies": [],
   "keywords": [
    "핸드 선세럼",
-   "선케어",
-   "향기 핸드크림",
-   "시그니처 향"
+   "시그니처 향",
+   "스윗 플로럴"
   ],
   "is_press_release": true,
   "products": [
@@ -36,7 +35,8 @@
     "name": "프레쉬 베일 핸드 선세럼",
     "brand": "토코보",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "토코보, '프레쉬 베일 핸드 선세럼' 지그재그 선론칭",
     "notes": [
      "석류",
      "블랙슈가",
@@ -44,15 +44,17 @@
      "무화과",
      "자스민"
     ],
-    "notes_quote": "먼저 ▲석류와 블랙슈가의 달콤함을 더한 스윗 플로럴의 향의 '로우키 페이머스' ▲무화과와 자스민이 부드럽게 어우러진 포근한..."
+    "notes_quote": "향은 전문 조향사 와 협업해 토코보만의 감성을 담은 총 3가지 시그니처 향으로 완성했다. 먼저 ▲석류와 블랙슈가의 달콤함을 더한 스윗 플로럴의 향의 '로우키 페이머스' ▲무화과와 자스민이 부드럽게 어우러진 포근한..."
    }
   ],
-  "key_fact": "토코보는 조향사와 협업해 다양한 시그니처 향을 담은 핸드 선세럼을 지그재그에 선론칭했다.",
+  "key_fact": "토코보가 전문 조향사와 협업해 완성한 세 가지 시그니처 향을 담은 핸드 선세럼을 지그재그에서 선론칭했다.",
   "key_fact_quote": "토코보, '프레쉬 베일 핸드 선세럼' 지그재그 선론칭",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:38+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:16+00:00",
  "had_body": false
 }

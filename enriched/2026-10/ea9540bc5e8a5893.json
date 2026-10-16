@@ -1,0 +1,45 @@
+{
+ "doc_id": "ea9540bc5e8a5893",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/meridith-webster-resigns-chief-communications-estee-lauder-1239320022/",
+ "title": "Sources: Meridith Webster Steps Down as Chief Communications and Public Affairs Officer at Estée Lauder Cos.",
+ "summary": "The former Biden and Obama administration official joined Estée Lauder in 2021, consolidating roles previously held by two executives.",
+ "published_at": "2026-10-08T06:15:36+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Estée Lauder"
+  ],
+  "companies": [
+   "Estée Lauder Cos."
+  ],
+  "keywords": [
+   "인사 변동",
+   "경영진 사임"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "메레디스 웹스터가 에스티 로더의 최고 커뮤니케이션 및 대외협력 책임자 자리에서 물러난다.",
+  "key_fact_quote": "Sources: Meridith Webster Steps Down as Chief Communications and Public Affairs Officer at Estée Lauder Cos.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:26+00:00",
+ "had_body": false
+}

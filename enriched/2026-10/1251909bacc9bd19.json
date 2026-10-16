@@ -1,0 +1,45 @@
+{
+ "doc_id": "1251909bacc9bd19",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://thetracker.co.kr/View.aspx?No=4249886",
+ "title": "제품 넘어 ‘K 뷰티 이야기’까지 판다…올리브영, 한·영·일 뉴스룸 오...",
+ "summary": "올리브영)’을 론칭 한다고 2일 밝혔다. 이번 뉴스룸은 올리브영이 자체 기획한 텍스트 콘텐츠를 통해 K 뷰티 산업의 흐름과 브랜드 , 구성원 등의 이야기를 전달하기 위해 마련됐다. 국내외 사업 현장과 한국의...",
+ "published_at": "2026-10-02T10:55:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "콘텐츠 마케팅",
+   "뷰티 산업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "올리브영이 뷰티 산업 흐름과 브랜드 이야기를 전하는 다국어 뉴스룸을 론칭했다.",
+  "key_fact_quote": "이번 뉴스룸은 올리브영이 자체 기획한 텍스트 콘텐츠를 통해 K 뷰티 산업의 흐름과 브랜드 , 구성원 등의 이야기를 전달하기 위해 마련됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:58+00:00",
+ "had_body": false
+}

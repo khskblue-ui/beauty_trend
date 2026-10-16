@@ -1,0 +1,53 @@
+{
+ "doc_id": "46404a4eeae60805",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610060937248920505",
+ "title": "코스맥스, 세계화장품학회서 구두발표 10건…1년 새 2배",
+ "summary": "10건의 구두발표는 △기초(스킨케어ㆍ기반기술) △메이크업 △선케어 △헤어케어 △ 향료 등 5개 분야에서 나왔다. 특히 선케어에서만 3건을 발표했다. 무기 자외선 차단제 효능 분석, 천연 유래 유화제 기반 차단제의...",
+ "published_at": "2026-10-06T09:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품학회",
+   "구두발표",
+   "연구개발"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 세계화장품학회에서 스킨케어와 향료 등 다양한 분야에 걸쳐 연구 성과를 구두로 발표했다.",
+  "key_fact_quote": "코스맥스, 세계화장품학회서 구두발표 10건…1년 새 2배",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "무기 자외선 차단제",
+    "quote": "무기 자외선 차단제 효능 분석, 천연 유래 유화제 기반 차단제의..."
+   },
+   {
+    "name": "천연 유래 유화제",
+    "quote": "무기 자외선 차단제 효능 분석, 천연 유래 유화제 기반 차단제의..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:56+00:00",
+ "had_body": false
+}

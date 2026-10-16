@@ -18,20 +18,23 @@
   "category": "makeup",
   "event_type": "event",
   "countries": [
-   "US",
-   "KR"
+   "KR",
+   "US"
   ],
   "brands": [
    "정샘물",
-   "JUNGSAEMMOOL"
+   "JUNGSAEMMOOL",
+   "세포라",
+   "Sephora"
   ],
   "companies": [
+   "정샘물 뷰티",
    "세포라"
   ],
   "keywords": [
    "베이스 메이크업",
-   "팝업 스토어",
-   "쉐이드 매칭"
+   "쿠션 팩트",
+   "팝업 스토어"
   ],
   "is_press_release": true,
   "products": [
@@ -39,17 +42,28 @@
     "name": "에센셜 스킨 누더 쿠션",
     "brand": "정샘물",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "뷰티 브랜드 정샘물이 미국 세포라 공식 입점을 기념하여 현지 쇼핑 명소에서 팝업 스토어를 개최하고 맞춤형 쉐이드 매칭 서비스를 선보였다.",
+  "key_fact": "정샘물 뷰티가 미국 세포라 공식 입점을 기념해 로스앤젤레스 더 그로브에서 팝업 스토어를 개최하고 맞춤형 쉐이드 매칭 서비스를 선보였다.",
   "key_fact_quote": "K-No.1 메이크업 아티스트 정샘물의 뷰티 철학과 노하우를 담은 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 미국 세포라(Sephora) 공식 입점을 기념해, 캘리포니아주 로스앤젤레스(LA)의 대표 쇼핑 명소인 '더 그로브(The Grove)'에서 10월 3일부터 4일까지 양일간 대형 팝업 스토어를 성공적으로 개최했다고 밝혔다.",
+  "events": [
+   {
+    "name": "대형 팝업 스토어",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-04",
+    "place": "더 그로브(The Grove)",
+    "quote": "K-No.1 메이크업 아티스트 정샘물의 뷰티 철학과 노하우를 담은 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 미국 세포라(Sephora) 공식 입점을 기념해, 캘리포니아주 로스앤젤레스(LA)의 대표 쇼핑 명소인 '더 그로브(The Grove)'에서 10월 3일부터 4일까지 양일간 대형 팝업 스토어를 성공적으로 개최했다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:39+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:51+00:00",
  "had_body": true
 }

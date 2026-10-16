@@ -1,0 +1,43 @@
+{
+ "doc_id": "dce551943dd3f8d0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etoday.co.kr/news/view/2632221",
+ "title": "K뷰티 인기에 화장품 수출 액 '역대 최대'…1년 새 31% '쑥'",
+ "summary": "올해 3분기 수출 액은 41억7000만달러(약 5조6000억원)로, 2분기 38억8000만달러(약 5조2000억원)보다 약 3억달러 늘었다. 식약처 관계자는 \" K뷰티 의 위상이 더 높아질 수 있도록 규제기관 간 협력을 강화할 것\"이라며...",
+ "published_at": "2026-10-02T19:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "식약처"
+  ],
+  "keywords": [
+   "K뷰티",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 수출액이 증가세를 보이며 분기 기준 역대 최대치를 경신했다.",
+  "key_fact_quote": "K뷰티 인기에 화장품 수출 액 '역대 최대'…1년 새 31% '쑥'",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:35+00:00",
+ "had_body": false
+}

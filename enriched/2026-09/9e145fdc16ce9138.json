@@ -1,0 +1,39 @@
+{
+ "doc_id": "9e145fdc16ce9138",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=728155",
+ "title": "잘나가니 따라하네… K-뷰티, 짝퉁에 '골머리'",
+ "summary": "중소기업 화장품 수출액은 상반기에만 50억7000만달러를 기록해 역대 최고치를 경신했다. ◆ 신제품 나오면 한 달 만에 '복제'… 유럽까지 확산 특히 해외에서 인지도가 높은 K-뷰티 브랜드가 위조업자들의 주요 표적이...",
+ "published_at": "2026-09-21T10:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 위조품",
+   "해외 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해외에서 인지도가 높은 한국 뷰티 브랜드들이 위조품 복제 문제로 피해를 겪고 있다.",
+  "key_fact_quote": "특히 해외에서 인지도가 높은 K-뷰티 브랜드가 위조업자들의 주요 표적이...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:11+00:00",
+ "had_body": false
+}

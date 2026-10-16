@@ -1,0 +1,51 @@
+{
+ "doc_id": "9186cba8231753da",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45072",
+ "title": "[ 신제품 오늘리뷰] 삼립·풀무원헬스케어·올가홀푸드·아이소이·에이...",
+ "summary": "23일 삼립·풀무원헬스케어·올가홀푸드·아이소이·에이피알·비츠에서 신제품 을 출시 했다. 삼립은... 'KCON LA 2026'은 CJ ENM이 2012년부터 이어온 세계적인 K-페스티벌로, K팝을 비롯해 K 뷰티 , K푸드, K콘텐츠를 총망라한...",
+ "published_at": "2026-09-23T11:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "아이소이",
+   "에이피알"
+  ],
+  "companies": [
+   "삼립",
+   "풀무원헬스케어",
+   "올가홀푸드",
+   "아이소이",
+   "에이피알",
+   "비츠",
+   "CJ ENM"
+  ],
+  "keywords": [
+   "신제품 출시",
+   "K뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "삼립과 풀무원헬스케어 및 아이소이와 에이피알 등이 신제품을 출시했다.",
+  "key_fact_quote": "23일 삼립·풀무원헬스케어·올가홀푸드·아이소이·에이피알·비츠에서 신제품 을 출시 했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:40+00:00",
+ "had_body": false
+}

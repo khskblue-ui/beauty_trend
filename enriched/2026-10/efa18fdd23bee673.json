@@ -1,0 +1,43 @@
+{
+ "doc_id": "efa18fdd23bee673",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.topstarnews.net/news/articleView.html?idxno=16245991",
+ "title": "세븐틴 정한, 꽃다발 셀카로 전한 근황… 향수 앰버서더 활약까지",
+ "summary": "한편, 정한은 최근 향수 브랜드 SW19의 글로벌 앰버서더로 발탁돼 새로운 행보에 나섰다. 브랜드는 정한의 신비롭고 섬세한 분위기와 한 가지 이미지로 규정하기 어려운 다채로운 매력을 주목하며 전 세계...",
+ "published_at": "2026-10-13T20:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "SW19"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 앰버서더",
+   "글로벌 앰버서더"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "세븐틴 정한이 향수 브랜드의 글로벌 앰버서더로 발탁되었다.",
+  "key_fact_quote": "한편, 정한은 최근 향수 브랜드 SW19의 글로벌 앰버서더로 발탁돼 새로운 행보에 나섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:00+00:00",
+ "had_body": false
+}

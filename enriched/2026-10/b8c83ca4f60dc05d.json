@@ -1,0 +1,47 @@
+{
+ "doc_id": "b8c83ca4f60dc05d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20097497?ref=naver",
+ "title": "무신사 뷰티 , 월평균 100개 신제품 ‘선 론칭 ’",
+ "summary": "맥·나스 등 글로벌 뷰티 브랜드 부터 국내 인디 브랜드 까지 신제품을 무신사에서 먼저 선보이고 있다. 올해 무신사 뷰티 의 단독 선 론칭 상품은 월평균 100여개에 달했다. 무신사는 올해 1~9월 무신사 뷰티 에서 단독...",
+ "published_at": "2026-10-02T10:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "맥",
+   "나스"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "선론칭",
+   "뷰티 플랫폼",
+   "인디 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "글로벌 뷰티 브랜드부터 국내 인디 브랜드까지 다양한 신제품을 무신사에서 먼저 선보이며 단독 선론칭 상품이 활발히 출시되고 있다.",
+  "key_fact_quote": "맥·나스 등 글로벌 뷰티 브랜드 부터 국내 인디 브랜드 까지 신제품을 무신사에서 먼저 선보이고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:58+00:00",
+ "had_body": false
+}

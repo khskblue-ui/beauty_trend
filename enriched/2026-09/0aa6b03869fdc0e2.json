@@ -1,0 +1,52 @@
+{
+ "doc_id": "0aa6b03869fdc0e2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.paxetv.com/news/articleView.html?idxno=281802",
+ "title": "[파워인터뷰] 송지혜 마녀공장 대표 \"클린뷰티 넘어 액티브뷰티로…글...",
+ "summary": "신제품 하나가 나오기까지 어떤 과정을 거칩니까? 송지혜 마녀공장 대표> 최근 출시한 글루타치온 패치와... 송지혜 마녀공장 대표> 좋은 화장품 은 좋은 기능을 갖는 것이 기본입니다. 하지만 좋은 브랜드가 되려면 제품을...",
+ "published_at": "2026-09-14T14:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "마녀공장"
+  ],
+  "companies": [
+   "마녀공장"
+  ],
+  "keywords": [
+   "클린뷰티",
+   "액티브뷰티"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "글루타치온 패치",
+    "brand": "마녀공장",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "마녀공장은 클린뷰티를 넘어 기능성을 강조한 뷰티 영역으로의 확장을 지향하고 있다.",
+  "key_fact_quote": "송지혜 마녀공장 대표 \"클린뷰티 넘어 액티브뷰티로…글...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:07+00:00",
+ "had_body": false
+}

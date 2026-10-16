@@ -1,0 +1,47 @@
+{
+ "doc_id": "dec0099f934a19ec",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000022373&cp=nv",
+ "title": "참치 팔던 동원은 화장품 , 풀무원은 가전…식품기업의 변신",
+ "summary": "식품기업들이 화장품 과 생활가전, 바이오 등으로 사업 영역을 넓히며 새로운 성장동력 확보에 나서고 있다.... 풀무원은 2021년 ‘스팀쿡 에어프라이어’를 출시 하며 관련 사업을 본격화했다. 스팀쿡은 출시 6개월 만에...",
+ "published_at": "2026-10-14T06:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "풀무원",
+   "스팀쿡"
+  ],
+  "companies": [
+   "동원",
+   "풀무원"
+  ],
+  "keywords": [
+   "식품기업 변신",
+   "사업 영역 확장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식품기업들이 화장품과 생활가전 등 다양한 분야로 사업 영역을 확장하며 새로운 성장동력을 모색하고 있다.",
+  "key_fact_quote": "식품기업들이 화장품 과 생활가전, 바이오 등으로 사업 영역을 넓히며 새로운 성장동력 확보에 나서고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:55+00:00",
+ "had_body": false
+}

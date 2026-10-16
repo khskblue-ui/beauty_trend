@@ -1,0 +1,75 @@
+{
+ "doc_id": "bd3833db6d8fa336",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100022",
+ "title": "에이드코리아-㈜그레이스, 전략적 업무협약 체결",
+ "summary": "글로벌 K-뷰티 브랜드 마리엔메이(Mary&May)를 운영하는 에이드코리아 컴퍼니㈜(대표 조규태)와 글로벌 헬스앤뷰티(H&B) 유통 전문기업 ㈜그레이스(대표 CHO ABRAHAM SUN)가 지난 9월 29일(화) 그레이스 본사 회의실에서 미국·일본 등 글로벌 시장으로 마리엔메이의 유통망을 넓히고 브랜드 성장을 뒷받침하기 위한 전략적 업무협약(MOU)을 체결했다.이번 협약은 에이드코리아가 보유한 글로벌 브랜드 경쟁력과 그레이스의 국내외 유통·마케팅 인프라를 결합해 마리엔메이의 미국·일본 시장 공략에 속도를 내기 위해 마련됐다. 그레이",
+ "published_at": "2026-10-01T10:28:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [
+   "마리엔메이",
+   "Mary&May"
+  ],
+  "companies": [
+   "에이드코리아 컴퍼니",
+   "그레이스",
+   "GRACE America Inc.",
+   "Costco",
+   "Ulta Beauty",
+   "Nordstrom",
+   "GRACE JAPAN",
+   "LOFT",
+   "돈키호테",
+   "이세탄"
+  ],
+  "keywords": [
+   "클린 뷰티",
+   "기능성 스킨케어",
+   "해외 유통망"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에이드코리아 컴퍼니와 그레이스가 마리엔메이의 미국과 일본 등 글로벌 시장 유통망 확대를 위한 업무협약을 체결했다.",
+  "key_fact_quote": "글로벌 K-뷰티 브랜드 마리엔메이(Mary&May)를 운영하는 에이드코리아 컴퍼니㈜(대표 조규태)와 글로벌 헬스앤뷰티(H&B) 유통 전문기업 ㈜그레이스(대표 CHO ABRAHAM SUN)가 지난 9월 29일(화) 그레이스 본사 회의실에서 미국·일본 등 글로벌 시장으로 마리엔메이의 유통망을 넓히고 브랜드 성장을 뒷받침하기 위한 전략적 업무협약(MOU)을 체결했다.",
+  "events": [
+   {
+    "name": "전략적 업무협약(MOU) 체결",
+    "start_date": "2026-09-29",
+    "end_date": null,
+    "place": "그레이스 본사 회의실",
+    "quote": "글로벌 K-뷰티 브랜드 마리엔메이(Mary&May)를 운영하는 에이드코리아 컴퍼니㈜(대표 조규태)와 글로벌 헬스앤뷰티(H&B) 유통 전문기업 ㈜그레이스(대표 CHO ABRAHAM SUN)가 지난 9월 29일(화) 그레이스 본사 회의실에서 미국·일본 등 글로벌 시장으로 마리엔메이의 유통망을 넓히고 브랜드 성장을 뒷받침하기 위한 전략적 업무협약(MOU)을 체결했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "스피큘",
+    "quote": "최근에는 스피큘 PDRN 라인을 중심으로 기능성 스킨케어 포트폴리오를 강화하며 글로벌 시장에서 차세대 히어로 제품 육성에 집중하고 있다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "최근에는 스피큘 PDRN 라인을 중심으로 기능성 스킨케어 포트폴리오를 강화하며 글로벌 시장에서 차세대 히어로 제품 육성에 집중하고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:02+00:00",
+ "had_body": true
+}

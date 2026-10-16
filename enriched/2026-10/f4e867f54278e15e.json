@@ -1,0 +1,48 @@
+{
+ "doc_id": "f4e867f54278e15e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ajunews.com/view/20261014134755311",
+ "title": "신세계면세점, 정기 메가세일 '신면세일' 흥행…뷰티 매출 46% 증가",
+ "summary": "이번 매출 성장은 화장품과 향수 등 뷰티 상품이 주도했다. 화장품· 향수 부문의 일평균 매출은 행사... 개별 브랜드 중에서는 보템고주파와 아떼 바네사브루노, 톰 포드 뷰티의 일평균 매출이 행사 전보다 각각 200...",
+ "published_at": "2026-10-14T14:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "보템고주파",
+   "아떼 바네사브루노",
+   "톰 포드 뷰티"
+  ],
+  "companies": [
+   "신세계면세점"
+  ],
+  "keywords": [
+   "면세 쇼핑",
+   "뷰티 매출",
+   "정기 세일"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "신세계면세점의 정기 세일 행사에서 화장품과 향수를 포함한 뷰티 상품이 성장을 이끌며 매출이 크게 늘었다.",
+  "key_fact_quote": "이번 매출 성장은 화장품과 향수 등 뷰티 상품이 주도했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:57+00:00",
+ "had_body": false
+}

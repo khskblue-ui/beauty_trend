@@ -1,0 +1,42 @@
+{
+ "doc_id": "9e86f0582b4aaa87",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58428",
+ "title": "K-화장품 안전성은 'OK'... 중대사례 미발생, 1,285건 경미한 증상",
+ "summary": "[코스인코리아닷컴 김민석 기자]식약처가 ‘25년 화장품 안전성 정보 보고 사례를 발표했다. 총 1,285건을 분석한 결과 대부분 경미한 내용이었으며, 중대 사례는 없는 것으로 나타났다. 보고된 안전성 정보 11,882건 중 향, 색, 사용감 등에 대한 단순 불만 및 증상이 불분명한 10,597건을 제외한 1,285건을 분석했다. 이는 24년(1,298건",
+ "published_at": "2026-10-01T17:32:22+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 안전성",
+   "화장품 안전성 정보 보고",
+   "유해사례"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식약처가 분석한 화장품 안전성 정보 보고 결과 대부분 경미한 내용이었으며 중대 사례는 없는 것으로 나타났다.",
+  "key_fact_quote": "총 1,285건을 분석한 결과 대부분 경미한 내용이었으며, 중대 사례는 없는 것으로 나타났다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:44+00:00",
+ "had_body": true
+}

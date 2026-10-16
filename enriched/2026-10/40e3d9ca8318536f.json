@@ -1,0 +1,55 @@
+{
+ "doc_id": "40e3d9ca8318536f",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100068",
+ "title": "러쉬코리아, ‘2026 강남페스티벌’서 ‘프레쉬 워시룸’ 운영",
+ "summary": "프레쉬 핸드메이드 코스메틱 브랜드 러쉬코리아(대표 우미령)가 지난 10월 3일부터 4일까지 도산대로를 비롯한 서울시 강남구 일대에서 열린 ‘2026 강남페스티벌’에 참여해 ‘프레쉬 워시룸(Fresh Washroom)’을 운영했다.올해로 15회를 맞은 강남페스티벌은 도산대로 일대를 중심으로 K팝과 패션, 뷰티, 미식 등 다양한 프로그램이 펼쳐지는 도심형 축제다. 러쉬코리아는 도심 한복판에서 ‘깨끗하고 향기로운 페스티벌’을 만든다는 취지로, 화장실 이용과 손 씻기 등 축제 현장에서 겪을 수 있는 불편을 줄이고 러쉬의 제품과 향을 접할",
+ "published_at": "2026-10-06T09:56:05+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "러쉬",
+   "러쉬코리아"
+  ],
+  "companies": [
+   "러쉬코리아"
+  ],
+  "keywords": [
+   "프레쉬 핸드메이드 코스메틱",
+   "보디 스프레이",
+   "체험 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "러쉬코리아가 강남페스티벌에 참여해 제품과 향기를 체험할 수 있는 프레쉬 워시룸과 체험 공간을 운영했다.",
+  "key_fact_quote": "프레쉬 핸드메이드 코스메틱 브랜드 러쉬코리아(대표 우미령)가 지난 10월 3일부터 4일까지 도산대로를 비롯한 서울시 강남구 일대에서 열린 ‘2026 강남페스티벌’에 참여해 ‘프레쉬 워시룸(Fresh Washroom)’을 운영했다.",
+  "events": [
+   {
+    "name": "2026 강남페스티벌",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-04",
+    "place": "도산대로를 비롯한 서울시 강남구 일대",
+    "quote": "프레쉬 핸드메이드 코스메틱 브랜드 러쉬코리아(대표 우미령)가 지난 10월 3일부터 4일까지 도산대로를 비롯한 서울시 강남구 일대에서 열린 ‘2026 강남페스티벌’에 참여해 ‘프레쉬 워시룸(Fresh Washroom)’을 운영했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:32+00:00",
+ "had_body": true
+}

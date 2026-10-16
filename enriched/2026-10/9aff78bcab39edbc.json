@@ -26,17 +26,19 @@
   "companies": [],
   "keywords": [
    "의료 관광",
-   "성형외과",
+   "성형 관광",
    "웰니스 관광"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "해외 성형 관광의 증가로 인해 수술 후 합병증이 발생하면서 본국 의료 시스템에 상당한 치료 부담을 초래하고 있다는 연구 결과가 발표되었다.",
-  "key_fact_quote": "\"Les complications survenant après une chirurgie esthétique à l’étranger représentent une charge de soins considérable pour les systèmes de santé\", écrivent les chercheurs.",
+  "key_fact": "해외 성형수술 후 발생하는 합병증이 각국 의료 시스템에 상당한 치료 부담을 주고 있는 것으로 분석되었다.",
+  "key_fact_quote": "Les complications survenant après une chirurgie esthétique à l’étranger représentent une charge de soins considérable pour les systèmes de santé",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:06+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:05+00:00",
  "had_body": true
 }

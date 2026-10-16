@@ -1,0 +1,44 @@
+{
+ "doc_id": "07a46f9c8c1926e9",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=310734",
+ "title": "中国Z世代美妆消费者访谈: 中国女大学生为何偏爱国际大牌？ - 뷰티경제",
+ "summary": "随着中国化妆品市场持续成长，越来越多本土品牌快速崛起。然而，在年轻消费者当中，仍有一部分人更愿意选择法国和美国等国际知名品牌。对于这类消费者而言，品牌积累的长期信任感比流行趋势更重",
+ "published_at": "2026-10-03T14:20:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "FR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "Z세대 뷰티",
+   "글로벌 뷰티 브랜드",
+   "소비자 트렌드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 로컬 화장품 브랜드의 빠른 성장 속에서도 일부 젊은 소비자들은 오랜 시간 축적된 신뢰감을 바탕으로 프랑스와 미국 등 글로벌 유명 브랜드를 선호한다.",
+  "key_fact_quote": "在年轻消费者当中，仍有一部分人更愿意选择法国和美国等国际知名品牌。对于这类消费者而言，品牌积累的长期信任感比流行趋势更重",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:40+00:00",
+ "had_body": false
+}

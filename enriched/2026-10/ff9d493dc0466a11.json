@@ -1,0 +1,41 @@
+{
+ "doc_id": "ff9d493dc0466a11",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoul.co.kr/news/economy/distribution/2026/10/01/20261001031006?wlog_tag3=naver",
+ "title": "올영·다이소까지 넘본다… K뷰티의 성지 된 ‘K약국’",
+ "summary": "외국인 관광객 대상의 ‘뷰티 약국’이 늘고, 제약사의 화장품 브랜드 출시 도 잇따르고 있다. 30일 낮에 찾은 서울 명동의 약국들에는 화장품 매장을 방불케 할 정도로 미용 제품이 자리 잡고 있었다. ‘피부 고민’...",
+ "published_at": "2026-10-01T05:05:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 약국",
+   "제약사 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "외국인 관광객을 겨냥한 뷰티 약국이 증가하고 제약사들의 화장품 출시가 이어지면서 약국이 뷰티 유통 채널로 주목받고 있다.",
+  "key_fact_quote": "외국인 관광객 대상의 ‘뷰티 약국’이 늘고, 제약사의 화장품 브랜드 출시 도 잇따르고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:50+00:00",
+ "had_body": false
+}

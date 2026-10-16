@@ -1,0 +1,57 @@
+{
+ "doc_id": "7222715704c6dd96",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ziksir.com/news/articleView.html?idxno=148798",
+ "title": "어뮤즈코리아, 첫 시스터 브랜드 '로듀' 론칭…립밤 8종 출시",
+ "summary": "복잡하게 꾸미거나 과하게 바꾸지 않아도 있는 그대로의 모습을 자연스럽게 표현할 수 있는 뷰티 를 지향한다. 정해진 제품군을 한꺼번에 선보이기보다 신제품 을 순차적으로 공개하는 '드롭(Drop)' 방식으로 브랜드를...",
+ "published_at": "2026-10-08T14:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "로듀",
+   "어뮤즈"
+  ],
+  "companies": [
+   "어뮤즈코리아"
+  ],
+  "keywords": [
+   "립밤",
+   "시스터 브랜드",
+   "드롭 방식"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "립밤",
+    "brand": "로듀",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "어뮤즈코리아, 첫 시스터 브랜드 '로듀' 론칭…립밤 8종 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "어뮤즈코리아가 첫 시스터 브랜드 로듀를 론칭하며 립밤 제품군을 출시했다.",
+  "key_fact_quote": "어뮤즈코리아, 첫 시스터 브랜드 '로듀' 론칭…립밤 8종 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:51+00:00",
+ "had_body": false
+}

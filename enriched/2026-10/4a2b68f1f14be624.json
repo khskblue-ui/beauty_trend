@@ -1,0 +1,46 @@
+{
+ "doc_id": "4a2b68f1f14be624",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58452",
+ "title": "인도네시아, 화장품 원료기준 유예기간 10월 3일 종료... 신규 등록 후 판매해야",
+ "summary": "[코스인코리아닷컴 김민석 기자]인도네시아 식약청(BPOM)에 따르면 기존 등록된 화장품에 대한 새 원료기준의 적용 유예기간이 10월 3일부로 종료됐다. 이번 조치는 지난 2025년 인도네시아 식약청 규정 제25호에 따라 2025년 10월 3일에 시행됐으며, 시행 전 기존 등록한 제품에는 성분을 조정할 수 있도록 12개월의 유예기간을 부여했었다. 유예기간",
+ "published_at": "2026-10-07T10:55:04+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "ID",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "인도네시아 식약청",
+   "BPOM"
+  ],
+  "keywords": [
+   "화장품 원료기준",
+   "화장품 등록",
+   "통지번호"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인도네시아 식약청의 새 화장품 원료기준 유예기간이 종료됨에 따라 기준 미준수 제품은 신규 등록을 거쳐야 판매가 가능하다.",
+  "key_fact_quote": "인도네시아 식약청(BPOM)에 따르면 기존 등록된 화장품에 대한 새 원료기준의 적용 유예기간이 10월 3일부로 종료됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:26+00:00",
+ "had_body": true
+}

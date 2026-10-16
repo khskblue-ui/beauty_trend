@@ -1,0 +1,54 @@
+{
+ "doc_id": "7bef79367ed9770f",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100061",
+ "title": "‘2026 뷰티·헬스 소재 기술사업화 설명회’ 참여기업 모집",
+ "summary": "경기도와 경기도경제과학진흥원(이하 경과원)은 오는 10월 15일 수원 광교테크노밸리 경과원 광교홀에서 열리는 ‘2026 뷰티·헬스 소재 기술사업화 설명회’ 참여기업을 모집한다.이번 설명회는 K-뷰티 열풍과 건강·웰니스 수요 확대 등 급변하는 뷰티·헬스케어 시장 환경에 대응해 공공 연구기관이 보유한 바이오 소재와 연구성과를 기업의 기술개발 및 사업화로 연결하고, 대기업과 중소기업 간 협력 기회를 확대하기 위해 마련됐다.특히 이번 설명회에서는 경과원(바이오산업본부)이 과학적 효능 검증을 거쳐 자체 발굴한 유망 바이오 소재 기술 6종을",
+ "published_at": "2026-10-06T09:09:59+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "경기도경제과학진흥원",
+   "한국콜마"
+  ],
+  "keywords": [
+   "뷰티 소재",
+   "바이오 소재",
+   "기술사업화",
+   "오픈이노베이션"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "경기도와 경기도경제과학진흥원은 공공 바이오 소재 연구성과의 사업화와 기업 간 협력을 지원하는 기술사업화 설명회의 참여기업을 모집한다.",
+  "key_fact_quote": "경기도와 경기도경제과학진흥원(이하 경과원)은 오는 10월 15일 수원 광교테크노밸리 경과원 광교홀에서 열리는 ‘2026 뷰티·헬스 소재 기술사업화 설명회’ 참여기업을 모집한다.",
+  "events": [
+   {
+    "name": "2026 뷰티·헬스 소재 기술사업화 설명회",
+    "start_date": "2026-10-15",
+    "end_date": null,
+    "place": "수원 광교테크노밸리 경과원 광교홀",
+    "quote": "경기도와 경기도경제과학진흥원(이하 경과원)은 오는 10월 15일 수원 광교테크노밸리 경과원 광교홀에서 열리는 ‘2026 뷰티·헬스 소재 기술사업화 설명회’ 참여기업을 모집한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:36+00:00",
+ "had_body": true
+}

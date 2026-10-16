@@ -1,0 +1,45 @@
+{
+ "doc_id": "5c4ac734be41a74e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20100391?ref=naver",
+ "title": "전시 넘어 아시아 대표 플랫폼 도약…‘ K뷰티 엑스포’ 역대 최대 규모 ...",
+ "summary": "국내 최대 뷰티 산업 전시회인 ‘ K - 뷰티 엑스포 코리아’가 역대 최대 규모로 막을 올리며 K뷰티 의 해외... 이번 전시회의 핵심은 실질적인 수출 성과를 창출하는 ‘비즈니스 플랫폼’ 기능이다. 코트라(KOTRA) 해외...",
+ "published_at": "2026-10-12T10:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코트라",
+   "KOTRA"
+  ],
+  "keywords": [
+   "뷰티 산업 전시회",
+   "수출 성과",
+   "비즈니스 플랫폼"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 최대 뷰티 산업 전시회인 엑스포가 역대 최대 규모로 개막했다.",
+  "key_fact_quote": "국내 최대 뷰티 산업 전시회인 ‘ K - 뷰티 엑스포 코리아’가 역대 최대 규모로 막을 올리며 K뷰티 의 해외...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:09+00:00",
+ "had_body": false
+}

@@ -1,0 +1,49 @@
+{
+ "doc_id": "d9cee4ff49b91e23",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newspost.kr/news/articleView.html?idxno=226301",
+ "title": "구다이글로벌, 브랜드 인수 넘어 자체 개발로… 뷰티 포트폴리오 다각화",
+ "summary": "피스마이너스원과 손잡고 뷰티 브랜드 론칭 구다이글로벌은 조선미녀와 티르티르 등을 글로벌 브랜드로 성장시킨 경험과 노하우를 바탕으로 피스마이너스원뷰티의 경쟁력을 높인다는 계획이다. 양사는 각자의 강점을...",
+ "published_at": "2026-10-12T15:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "조선미녀",
+   "티르티르",
+   "피스마이너스원뷰티",
+   "피스마이너스원"
+  ],
+  "companies": [
+   "구다이글로벌"
+  ],
+  "keywords": [
+   "뷰티 포트폴리오",
+   "브랜드 론칭",
+   "자체 개발"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "구다이글로벌이 피스마이너스원과 손잡고 뷰티 브랜드를 론칭하며 포트폴리오 다각화에 나선다.",
+  "key_fact_quote": "구다이글로벌은 조선미녀와 티르티르 등을 글로벌 브랜드로 성장시킨 경험과 노하우를 바탕으로 피스마이너스원뷰티의 경쟁력을 높인다는 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:30+00:00",
+ "had_body": false
+}

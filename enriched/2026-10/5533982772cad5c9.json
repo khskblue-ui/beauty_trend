@@ -21,9 +21,9 @@
    "KR"
   ],
   "brands": [
+   "에디션 드 퍼퓸 프레데릭 말",
    "프레데릭 말",
-   "피스마이너스원",
-   "에디션 드 퍼퓸 프레데릭 말"
+   "피스마이너스원"
   ],
   "companies": [],
   "keywords": [
@@ -31,25 +31,30 @@
    "앰버 계열 향수",
    "협업"
   ],
-  "is_press_release": true,
+  "is_press_release": false,
   "products": [
    {
     "name": "뮤스크 라바줴",
     "brand": "프레데릭 말",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [
-     "앰버"
+     "앰버 계열"
     ],
-    "notes_quote": "브랜드를 대표하는 앰버 계열 향수 ‘뮤스크 라바줴’의 원작 향조를 유지하면서"
+    "notes_quote": "이번 리미티드 에디션은 지난 2000년 세계적 조향사 모리스 루셀이 선보인 브랜드를 대표하는 앰버 계열 향수 ‘뮤스크 라바줴’의 원작 향조를 유지하면서, 피스마이너스원의 감성적..."
    }
   ],
-  "key_fact": "프레데릭 말이 피스마이너스원과 협업하여 대표 향수 뮤스크 라바줴의 한정판 에디션을 선보인다.",
+  "key_fact": "프레데릭 말이 피스마이너스원과 협업하여 뮤스크 라바줴 한정판 향수를 선보였다.",
   "key_fact_quote": "이번 리미티드 에디션은 지난 2000년 세계적 조향사 모리스 루셀이 선보인 브랜드를 대표하는 앰버 계열 향수 ‘뮤스크 라바줴’의 원작 향조를 유지하면서, 피스마이너스원의 감성적...",
-  "dropped": []
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "launch:뮤스크 라바줴"
+  ]
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:36+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:15+00:00",
  "had_body": false
 }

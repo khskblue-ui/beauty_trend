@@ -1,0 +1,51 @@
+{
+ "doc_id": "735805d54ee56782",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bizwnews.com/news/articleView.html?idxno=148473",
+ "title": "[마켓 HOT 뉴스] LG생활건강, ' 화장품 의 날' 맞아 독보적인 R&D 우수 성과...",
+ "summary": "사진=LG생활건강 LG생활건강은 지난 7일 ' 화장품 의 날'을 맞아 탁월한 연구개발(R&D) 역량을 대외적으로... 다양한 신제품 을 출시하고 있다는 것이다. 7일 동탑산업훈장을 수훈한 강내규 LG생활건강 CTO(오른쪽)와 오유경...",
+ "published_at": "2026-10-08T16:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "연구개발",
+   "화장품 산업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "LG생활건강은 화장품의 날을 맞아 연구개발 성과를 알리고 최고기술책임자가 동탑산업훈장을 수훈했다.",
+  "key_fact_quote": "LG생활건강은 지난 7일 ' 화장품 의 날'을 맞아 탁월한 연구개발(R&D) 역량을 대외적으로... 다양한 신제품 을 출시하고 있다는 것이다. 7일 동탑산업훈장을 수훈한 강내규 LG생활건강 CTO(오른쪽)와 오유경...",
+  "events": [
+   {
+    "name": "화장품의 날",
+    "start_date": "2026-10-07",
+    "end_date": null,
+    "place": null,
+    "quote": "LG생활건강은 지난 7일 ' 화장품 의 날'을 맞아 탁월한 연구개발(R&D) 역량을 대외적으로..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:47+00:00",
+ "had_body": false
+}

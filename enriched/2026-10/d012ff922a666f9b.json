@@ -1,0 +1,44 @@
+{
+ "doc_id": "d012ff922a666f9b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.starnewsk.com/news/articleView.html?idxno=59647",
+ "title": "K- 뷰티 의 골칫거리 '악성 재고' 푼다...재고 전문 유통 플랫폼 '뷰리티'...",
+ "summary": "뷰티 산업은 신제품 출시 가 잦아 멀쩡한 제품도 쉽게 악성 재고로 전락하는 구조적 한계를 안고 있다. 이러한 장기 체화 재고는 기업의 자금 유동성을 악화시키고 보관 비용을 발생시키며, 최종 폐기 시에는 별도의...",
+ "published_at": "2026-10-06T14:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "뷰리티"
+  ],
+  "keywords": [
+   "재고 전문 유통 플랫폼",
+   "재고 유통",
+   "뷰티 산업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 산업의 잦은 신제품 출시로 인한 악성 재고 문제를 해결하기 위한 전문 유통 플랫폼이 주목받고 있다.",
+  "key_fact_quote": "뷰티 산업은 신제품 출시 가 잦아 멀쩡한 제품도 쉽게 악성 재고로 전락하는 구조적 한계를 안고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:57+00:00",
+ "had_body": false
+}

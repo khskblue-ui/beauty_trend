@@ -24,17 +24,11 @@
    "짱셔요"
   ],
   "companies": [
-   "도미노피자",
-   "삼립",
-   "동서식품",
-   "농심",
-   "롯데웰푸드",
-   "CU",
-   "세븐일레븐"
+   "롯데웰푸드"
   ],
   "keywords": [
-   "캐릭터 굿즈",
-   "콜라보레이션 향수"
+   "굿즈 향수",
+   "캐릭터 향수"
   ],
   "is_press_release": false,
   "products": [
@@ -42,17 +36,20 @@
     "name": "짱셔요 향수",
     "brand": "짱셔요",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "식품 및 유통 업계의 신제품 브리핑 중 짱셔요 향수 등의 굿즈 상품이 소개되었다.",
+  "key_fact": "식품 관련 굿즈 상품 중 하나로 향수가 언급되었다.",
   "key_fact_quote": "13일부터 빼빼로 책갈피와 패치워크 카드지갑, 가나 키링과 이어폰 줄감개 홀더, 짱셔요 향수 ·독서링·도자기...",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:17+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:29+00:00",
  "had_body": false
 }

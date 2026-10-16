@@ -1,0 +1,39 @@
+{
+ "doc_id": "8e75effd85f474f4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20090813?ref=naver",
+ "title": "“연말 지나도, 한여름에도 주문 폭주”…사계절 성수기 맞은 K뷰티",
+ "summary": "상반기 신제품 생산이 본격화되는 2분기가 주요 성수기로 꼽힌다. 생산뿐 아니라 판매 측면에서도 성수기와 비수기의 구분이 옅어지고 있다. 관세청에 따르면 올해 1분기 화장품 수출액은 25억 6008만 달러(약 3조...",
+ "published_at": "2026-09-15T07:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "성수기 비수기 경계 약화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 산업에서 생산과 판매 측면의 성수기와 비수기 구분이 점차 옅어지고 있다.",
+  "key_fact_quote": "생산뿐 아니라 판매 측면에서도 성수기와 비수기의 구분이 옅어지고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:02+00:00",
+ "had_body": false
+}

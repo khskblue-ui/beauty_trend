@@ -1,0 +1,53 @@
+{
+ "doc_id": "c55771bff1b70dc0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300344",
+ "title": "킨텍스, K - 뷰티 엑스포·역대 최대 규모 개최",
+ "summary": "2026 제 18회 K - 뷰티 엑스포 코리아 포스터. 킨텍스는 오는 15일부터 17일까지 사흘간 킨텍스에서 국내 최대... 핵심 프로그램인 '해외 바이어 초청 1대1 수출 상담회'에는 코트라 해외 무역관을 통해 선정된 60개국 220개사...",
+ "published_at": "2026-10-12T12:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "킨텍스",
+   "코트라"
+  ],
+  "keywords": [
+   "뷰티 엑스포",
+   "수출 상담회",
+   "박람회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "킨텍스에서 국내 최대 규모의 뷰티 박람회와 해외 바이어 초청 수출 상담회가 열린다.",
+  "key_fact_quote": "킨텍스는 오는 15일부터 17일까지 사흘간 킨텍스에서 국내 최대... 핵심 프로그램인 '해외 바이어 초청 1대1 수출 상담회'에는 코트라 해외 무역관을 통해 선정된 60개국 220개사...",
+  "events": [
+   {
+    "name": "2026 제 18회 K - 뷰티 엑스포 코리아",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": "킨텍스",
+    "quote": "킨텍스는 오는 15일부터 17일까지 사흘간 킨텍스에서 국내 최대..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:07+00:00",
+ "had_body": false
+}

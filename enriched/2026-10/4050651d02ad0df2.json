@@ -25,19 +25,28 @@
    "양구군"
   ],
   "keywords": [
-   "향수 개발",
-   "식물자원",
    "조향 교육",
-   "향장향"
+   "향수 개발",
+   "식물자원"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "양구군이 지역 식물자원을 활용한 향수 개발을 위해 주민 대상 전문 조향 교육을 실시한다.",
+  "key_fact": "양구군이 지역 식물자원을 활용한 향수 개발을 위해 주민 대상 전문 조향교육을 실시한다.",
   "key_fact_quote": "양구군, 지역 식물자원 활용 향수 개발…주민 전문 조향교육 실시",
+  "events": [
+   {
+    "name": "향장향 조향 전문과정",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-15",
+    "place": null,
+    "quote": "먼저 12일부터 15일까지 주민 20명이 참여하는 향장향 조향 전문과정에서는 향수의 구성 원리와 향료 별 특성..."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:33+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:26+00:00",
  "had_body": false
 }

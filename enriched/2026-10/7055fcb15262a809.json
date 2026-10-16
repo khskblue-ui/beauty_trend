@@ -1,0 +1,43 @@
+{
+ "doc_id": "7055fcb15262a809",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.mtn.co.kr/news-detail/2026100614334564509",
+ "title": "여기종, 일본서 K - 뷰티 여성스타트업 판로 개척 지원",
+ "summary": "통해 K - 뷰티 여성스타트업의 경쟁력을 일본 현지에 알리고 시장 진출 가능성을 직접 확인할 수 있었다\"고 말했다.그는 이어 \"앞으로도 단순한 전시회 참가에 그치지 않고 실제 수출 과 현지 시장 안착으로 이어질 수...",
+ "published_at": "2026-10-06T14:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 스타트업",
+   "해외 진출",
+   "수출 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "여성 뷰티 스타트업의 일본 시장 진출과 판로 개척을 지원하였다.",
+  "key_fact_quote": "여기종, 일본서 K - 뷰티 여성스타트업 판로 개척 지원",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:12+00:00",
+ "had_body": false
+}

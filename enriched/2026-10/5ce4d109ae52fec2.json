@@ -1,0 +1,52 @@
+{
+ "doc_id": "5ce4d109ae52fec2",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/merit-expands-fragrance-portfolio-new-wave-1239319781/",
+ "title": "Merit Expands Fragrance Portfolio With New Wave L’extrait De Parfum",
+ "summary": "The beauty brand's second fragrance, created with master perfumer Dominique Ropion, further establishes Merit as a multicategory lifestyle brand, according to its CEO.",
+ "published_at": "2026-10-08T21:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Merit"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 라인 확장",
+   "엑스트레 드 퍼퓸",
+   "조향사 협업"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "New Wave L’extrait De Parfum",
+    "brand": "Merit",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Merit Expands Fragrance Portfolio With New Wave L’extrait De Parfum",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 브랜드 메릿이 조향사 도미니크 로피옹과 협업하여 두 번째 향수인 뉴 웨이브 엑스트레 드 퍼퓸을 선보이며 향수 포트폴리오를 확장했다.",
+  "key_fact_quote": "The beauty brand's second fragrance, created with master perfumer Dominique Ropion, further establishes Merit as a multicategory lifestyle brand, according to its CEO.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:25+00:00",
+ "had_body": false
+}

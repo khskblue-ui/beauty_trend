@@ -1,0 +1,44 @@
+{
+ "doc_id": "8c02c75b04305453",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.handmk.com/news/articleView.html?idxno=43796",
+ "title": "뷰티 브랜드 '꾸밈7' 출범... 메이크업 전 피부 관리 콘셉트 제시",
+ "summary": "뷰티 브랜드 '꾸밈7'이 지난 1일 공식 론칭 하고 메이크업 전 피부를 준비하는 'D-DAY SKINCARE'를 브랜드 콘셉트로 제시했다. 꾸밈7은 메이크업 당일의 피부 상태에 따라 색조 제품의 표현이 달라질 수 있다는 점에 주목해...",
+ "published_at": "2026-10-02T14:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "꾸밈7"
+  ],
+  "companies": [],
+  "keywords": [
+   "스킨케어",
+   "메이크업 전 피부 관리",
+   "색조 제품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "뷰티 브랜드 꾸밈칠이 공식 론칭하며 메이크업 전 피부를 준비하는 스킨케어 콘셉트를 제시했다.",
+  "key_fact_quote": "뷰티 브랜드 '꾸밈7'이 지난 1일 공식 론칭 하고 메이크업 전 피부를 준비하는 'D-DAY SKINCARE'를 브랜드 콘셉트로 제시했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:54+00:00",
+ "had_body": false
+}

@@ -1,0 +1,50 @@
+{
+ "doc_id": "8213d5b133ff063b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.nocutnews.co.kr/news/6589029?utm_source=naver&utm_medium=article&utm_campaign=20261008033036",
+ "title": "경북도, 말레이시아서 10억 원 규모 ' K - 뷰티 ' 수출 계약",
+ "summary": "경북 K - 뷰티 공동관'을 운영했다. 6개 기업(△허니스트 △알리에스카비전 △담을 △노아브 △㈜토브 △타임플라워) 가운데 허니스트 사는 52만 달러, 알리에스카비전은 16만 7천달러, 담을은 11만 8천달러의 수출 계약을...",
+ "published_at": "2026-10-08T15:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MY"
+  ],
+  "brands": [],
+  "companies": [
+   "경북도",
+   "허니스트",
+   "알리에스카비전",
+   "담을",
+   "노아브",
+   "㈜토브",
+   "타임플라워"
+  ],
+  "keywords": [
+   "뷰티 수출",
+   "공동관"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "경북도가 말레이시아에서 지역 뷰티 기업들과 함께 수출 계약을 체결했다.",
+  "key_fact_quote": "경북도, 말레이시아서 10억 원 규모 ' K - 뷰티 ' 수출 계약",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:33+00:00",
+ "had_body": false
+}

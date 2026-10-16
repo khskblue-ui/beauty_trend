@@ -1,0 +1,40 @@
+{
+ "doc_id": "56c2ba1cce659484",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.jtbc.co.kr/article/NB12322843?influxDiv=NAVER",
+ "title": "화장품 업계 유명 인사, 외제차 매장서 폭행·난동…긴급체포",
+ "summary": "해당 남성은 이름만 들어도 아는 굵직한 국내 화장품 브랜드 설립을 도운 인물로 최근에는 한 뷰티 브랜드 를 글로벌 론칭 했습니다. 제보자는 \"이 손님의 경우 주변 얘길 들어보니 평소에도 소리 지르고 난동 피우는 경우가...",
+ "published_at": "2026-10-14T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 유명 화장품 브랜드 설립에 관여한 업계 인사가 외제차 매장에서 폭행 및 난동 혐의로 긴급체포되었다.",
+  "key_fact_quote": "화장품 업계 유명 인사, 외제차 매장서 폭행·난동…긴급체포",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:24+00:00",
+ "had_body": false
+}

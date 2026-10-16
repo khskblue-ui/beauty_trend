@@ -1,0 +1,57 @@
+{
+ "doc_id": "5e6113655ae20460",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.globalepic.co.kr/view.php?ud=20260917092310164248439a4874_29",
+ "title": "피죤, ‘디퓨저’ 용량 2.5배 확대해 리뉴얼 출시",
+ "summary": "피죤 디퓨저의 핵심은 향료 다. 피죤 섬유유연제에서 선보여온 핑크로즈, 블루비앙카, 옐로미모사라는 세... 향료 는 글로벌 향료 회사의 전문 조향사와 협력하여 개발했으며, 국제 향료 협회(IFRA) 기준을 준수했다. 추가로...",
+ "published_at": "2026-09-17T09:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피죤"
+  ],
+  "companies": [
+   "피죤"
+  ],
+  "keywords": [
+   "디퓨저",
+   "실내 방향제",
+   "리뉴얼 출시"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "디퓨저",
+    "brand": "피죤",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "핑크로즈",
+     "블루비앙카",
+     "옐로미모사"
+    ],
+    "notes_quote": "피죤 섬유유연제에서 선보여온 핑크로즈, 블루비앙카, 옐로미모사라는 세..."
+   }
+  ],
+  "key_fact": "피죤이 용량을 늘려 디퓨저 제품을 새롭게 선보였다.",
+  "key_fact_quote": "피죤, ‘디퓨저’ 용량 2.5배 확대해 리뉴얼 출시",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:16:48+00:00",
+ "had_body": false
+}

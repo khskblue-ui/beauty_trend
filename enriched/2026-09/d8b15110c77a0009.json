@@ -1,0 +1,53 @@
+{
+ "doc_id": "d8b15110c77a0009",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ddaily.co.kr/page/view/2026092809225162385",
+ "title": "편의점 얼음컵이 화장품 으로…CU·페리페라 협업 제품 첫 선",
+ "summary": "신제품 은 모두 디저트, 삼각김밥, 얼음컵 등 CU 판매상품을 콘셉트로 한다. 중 무드 글로이 틴트는 푸딩을... 화장품 과 굿즈를 묶은 기획 상품도 선보인다. CU프렌즈 마그네틱과 스티커를 비롯해 푸딩 모양 말랑이와 구운...",
+ "published_at": "2026-09-28T09:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "페리페라"
+  ],
+  "companies": [
+   "CU"
+  ],
+  "keywords": [
+   "편의점 화장품",
+   "협업 화장품",
+   "립 틴트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "무드 글로이 틴트",
+    "brand": "페리페라",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "편의점과 뷰티 브랜드가 협업하여 편의점 상품 콘셉트의 신제품 화장품을 선보인다.",
+  "key_fact_quote": "편의점 얼음컵이 화장품 으로…CU·페리페라 협업 제품 첫 선",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:30+00:00",
+ "had_body": false
+}

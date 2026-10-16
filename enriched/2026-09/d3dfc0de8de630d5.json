@@ -1,0 +1,42 @@
+{
+ "doc_id": "d3dfc0de8de630d5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1405967",
+ "title": "[곡성소식] 곡성군미래교육재단, 전문 조향사 13명 배출 외",
+ "summary": "교육에는 총 14명이 참여했으며, 수강생들은 조향 이론을 비롯해 향료 의 특성과 조합 방법, 향수 조율 기법 등 조향에 필요한 이론과 실무 교육을 이수했다. 그 결과 수료생 14명 가운데 13명이 전문 조향사 자격증을...",
+ "published_at": "2026-09-14T17:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "곡성군미래교육재단"
+  ],
+  "keywords": [
+   "전문 조향사",
+   "조향 교육",
+   "향료 실무"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "곡성군미래교육재단에서 진행된 교육을 통해 다수의 전문 조향사가 배출되었다.",
+  "key_fact_quote": "그 결과 수료생 14명 가운데 13명이 전문 조향사 자격증을...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:06+00:00",
+ "had_body": false
+}

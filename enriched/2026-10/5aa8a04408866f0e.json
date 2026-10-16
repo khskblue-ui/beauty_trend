@@ -1,0 +1,47 @@
+{
+ "doc_id": "5aa8a04408866f0e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=228199",
+ "title": "포이닉스, K패션· 뷰티 해외 유통 사업 착수",
+ "summary": "'제너럴아이디어'의 중국 사업에서 검증한 운영 역량과 최범석 대표가 과거 뷰티 브랜드 '더블유드레스룸'을 전개하며 쌓은 해외 유통 경험을 살려 국내 브랜드의 수출 을 지원한다는 구상이다. 이번 사업은 중국...",
+ "published_at": "2026-10-13T22:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "더블유드레스룸",
+   "제너럴아이디어"
+  ],
+  "companies": [
+   "포이닉스"
+  ],
+  "keywords": [
+   "해외 유통 사업",
+   "수출 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "포이닉스가 과거 뷰티 브랜드 운영 경험 등을 살려 케이패션과 뷰티의 해외 유통 사업에 착수한다.",
+  "key_fact_quote": "포이닉스, K패션· 뷰티 해외 유통 사업 착수",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:41+00:00",
+ "had_body": false
+}

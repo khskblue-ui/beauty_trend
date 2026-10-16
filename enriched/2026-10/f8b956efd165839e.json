@@ -1,0 +1,67 @@
+{
+ "doc_id": "f8b956efd165839e",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/seppic-unveils-sepilife-neos-a,28327",
+ "title": "Seppic unveils Sepilife NEOS, a squalane-based hybrid polymer",
+ "summary": "Seppic is expanding its Clean Beauty-focused Sepilife range with Sepilife NEOS, a patented hybrid polymer that combines a fresh sensory feel with thickening and stabilizing performance. It also enables cold-process formulation. Seppic is expanding its Sepilife range with Sepilife NEOS, a patented liquid polymer incorporating naturally derived squalane. The cosmetic ingredients specialist aims to meet growing demand for formulations that combine Clean Beauty principles, technical...",
+ "published_at": "2026-10-11T00:59:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "Seppic",
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "클린 뷰티",
+   "하이브리드 폴리머",
+   "스쿠알란",
+   "화장품 원료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "세픽이 천연 유래 스쿠알란을 함유한 특허 하이브리드 폴리머 원료인 세피라이프 네오스를 공개했다.",
+  "key_fact_quote": "Seppic is expanding its Clean Beauty-focused Sepilife range with Sepilife NEOS, a patented hybrid polymer that combines a fresh sensory feel with thickening and stabilizing performance.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "Sepilife NEOS",
+    "quote": "Seppic unveils Sepilife NEOS, a squalane-based hybrid polymer"
+   },
+   {
+    "name": "squalane",
+    "quote": "Seppic is expanding its Sepilife range with Sepilife NEOS, a patented liquid polymer incorporating naturally derived squalane."
+   },
+   {
+    "name": "AHAs",
+    "quote": "Its compatibility with a broad range of ingredients and formulation conditions — including acidic pH levels, solvents, preservatives, AHAs, and oils of varying polarities — gives formulators greater flexibility to fine-tune viscosity and create a wide variety of textures, from lightweight sprays to rich emulsions."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:13+00:00",
+ "had_body": true
+}

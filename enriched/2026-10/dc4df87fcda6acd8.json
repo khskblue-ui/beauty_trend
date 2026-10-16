@@ -1,0 +1,41 @@
+{
+ "doc_id": "dc4df87fcda6acd8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=149012",
+ "title": "K뷰티 는 사상 최대, 섬유·패션은 역성장…9월 수출 '온도차'",
+ "summary": "산업통상부도 반도체를 제외한 품목의 수출 증가율은 23%였다고 밝혔다. 섬유·패션· 뷰티 가운데 가장 강한 성장세를 나타낸 업종은 화장품이다. 9월 화장품 수출 은 15억 1000만 달러로 전년 동월보다 31.4...",
+ "published_at": "2026-10-01T22:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "수출 증가세"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 업종이 강한 성장세를 나타내며 수출 호조를 이어갔다.",
+  "key_fact_quote": "섬유·패션· 뷰티 가운데 가장 강한 성장세를 나타낸 업종은 화장품이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:54+00:00",
+ "had_body": false
+}

@@ -1,0 +1,39 @@
+{
+ "doc_id": "9c0df162c22558cd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.allurekorea.com/2026/09/14/%eb%87%8c%ec%99%80-%eb%b7%b0%ed%8b%b0%ea%b0%80-%ec%97%b0%ea%b2%b0%eb%90%98%eb%8a%94-%ec%9a%94%ec%a6%98-%eb%8c%80%ec%84%b8-%ed%82%a4%ec%9b%8c%eb%93%9c-%eb%89%b4%eb%a1%9c%ec%bd%94%ec%8a%a4%eb%a9%94/?utm_source=naver&utm_medium=partnership",
+ "title": "뇌와 뷰티가 연결되는 요즘 대세 키워드, 뉴로코스메틱",
+ "summary": "향이 뇌의 변연계에 작용해 불안감을 줄인다는 것은 널리 입증된 사실이며, 지보단 등은 뇌파 검사를 통해 집중력을 높이거나 심신을 안정시키는 ‘기능성 향료 ’를 앞다투어 개발 중이다. 멘톨이나 캠퍼 같은 감각...",
+ "published_at": "2026-09-14T08:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "지보단"
+  ],
+  "keywords": [
+   "뉴로코스메틱",
+   "기능성 향료"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지보단 등 향료 업계는 뇌파 검사를 통해 집중력 향상이나 심신 안정 효과를 내는 기능성 향료를 개발하고 있다.",
+  "key_fact_quote": "향이 뇌의 변연계에 작용해 불안감을 줄인다는 것은 널리 입증된 사실이며, 지보단 등은 뇌파 검사를 통해 집중력을 높이거나 심신을 안정시키는 ‘기능성 향료 ’를 앞다투어 개발 중이다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:14+00:00",
+ "had_body": false
+}

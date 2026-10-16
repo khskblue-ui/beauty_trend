@@ -33,28 +33,38 @@
    "Tiffany & Co.",
    "Tag Heuer",
    "Sephora",
-   "Le Bon Marché"
+   "le Bon Marché"
   ],
   "companies": [
    "LVMH",
-   "Factset",
    "Molly Tea",
-   "Bernstein",
-   "L'Oréal"
+   "L'Oréal",
+   "dsm-firmenich"
   ],
   "keywords": [
+   "럭셔리 실적",
+   "향수 및 화장품 부문",
    "뷰티 리테일",
-   "향수 및 화장품",
-   "선별 유통"
+   "선택적 유통"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "LVMH는 패션 부문의 부진에도 불구하고 세포라가 포함된 선별 유통 부문의 호조에 힘입어 삼분기 매출이 소폭 성장했다.",
-  "key_fact_quote": "Le numéro un mondial du luxe LVMH a publié lundi 13 octobre des ventes en petite hausse au troisième trimestre, portées notamment par la joaillerie et par la distribution sélective, mais son activité phare, la mode et la maroquinerie, s’est inscrite dans le rouge.",
+  "key_fact": "세계 최대 럭셔리 기업인 엘브이엠에이치가 세포라의 확장 등에 힘입어 패션 부문 부진에도 불구하고 삼분기 매출에서 소폭 성장을 기록했다.",
+  "key_fact_quote": "Le numéro un mondial du luxe LVMH a publié lundi 13 octobre des ventes en petite hausse au troisième trimestre, portées notamment par la joaillerie et par la distribution sélective, mais son activité phare, la mode et la maroquinerie, s'est inscrite dans le rouge.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:05+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:07+00:00",
  "had_body": true
 }

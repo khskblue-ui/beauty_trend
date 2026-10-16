@@ -1,0 +1,60 @@
+{
+ "doc_id": "b4cd86709735b6ba",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://thetracker.co.kr/View.aspx?No=4254508",
+ "title": "‘EGF 새살연고’ 기술 화장품 에…이지듀 EGFx, 6개월 만에 50억원",
+ "summary": "제품으로 출시 6개월 만에 누적 매출 50억원을 넘어섰다. 일본에 이어 이달부터 북미로 판매 채널도... 제약 분야에서 축적한 EGF 관련 기술을 화장품 에 접목해 피부 장벽 관리 제품으로 개발했다. 대표 제품인 ‘EGFx...",
+ "published_at": "2026-10-07T10:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP",
+   "US"
+  ],
+  "brands": [
+   "이지듀"
+  ],
+  "companies": [],
+  "keywords": [
+   "피부 장벽 관리",
+   "제약 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "EGFx",
+    "brand": "이지듀",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이지듀의 제품이 출시 이후 누적 매출 성과를 기록하며 북미 등으로 판매 채널을 확장하고 있다.",
+  "key_fact_quote": "제품으로 출시 6개월 만에 누적 매출 50억원을 넘어섰다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "EGF",
+    "quote": "제약 분야에서 축적한 EGF 관련 기술을 화장품 에 접목해 피부 장벽 관리 제품으로 개발했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:34+00:00",
+ "had_body": false
+}

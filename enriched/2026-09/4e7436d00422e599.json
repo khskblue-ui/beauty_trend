@@ -1,0 +1,73 @@
+{
+ "doc_id": "4e7436d00422e599",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1409241",
+ "title": "에누리 가격비교, 향수 매출 40% 증가…남성·공용 향수 수요 상승",
+ "summary": "판매 순위 1위에 오른 남녀공용 향수 '조말론 블랙베리 앤 베이 EDC(100ml)'와 '톰포드 블랙 오키드 EDP(50ml)'도 매출이 각각 455%, 94% 늘었다. 이 외에도 앰버 중심의 신제품 '샤넬 코코 마드모아젤 크러쉬 압솔뤼 EDP' 등이...",
+ "published_at": "2026-09-23T09:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "조말론",
+   "톰포드",
+   "샤넬"
+  ],
+  "companies": [
+   "에누리 가격비교"
+  ],
+  "keywords": [
+   "남성 향수",
+   "남녀공용 향수",
+   "향수 매출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "조말론 블랙베리 앤 베이 EDC(100ml)",
+    "brand": "조말론",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "톰포드 블랙 오키드 EDP(50ml)",
+    "brand": "톰포드",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "샤넬 코코 마드모아젤 크러쉬 압솔뤼 EDP",
+    "brand": "샤넬",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "앰버"
+    ],
+    "notes_quote": "앰버 중심의 신제품 '샤넬 코코 마드모아젤 크러쉬 압솔뤼 EDP'"
+   }
+  ],
+  "key_fact": "남성과 남녀공용 향수의 수요가 늘어나며 가격비교 사이트의 향수 관련 매출이 대폭 증가했다.",
+  "key_fact_quote": "에누리 가격비교, 향수 매출 40% 증가…남성·공용 향수 수요 상승",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:01+00:00",
+ "had_body": false
+}

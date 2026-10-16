@@ -1,0 +1,87 @@
+{
+ "doc_id": "a3a9a29a8d1f4b79",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58432",
+ "title": "람베르티 ‘Eucarol® SoFo’, 피부 수분 유지·메이크업 세정력 동시 확보",
+ "summary": "#피부 장수를 위한 클렌징:글라이코리피드와 글루코사이드의 시너지적 접근 [코스인코리아닷컴 길태윤 기자] 코스메틱저널코리아(CJK) 2026년 10월호는 람베르티(Lamberti)의 Rossana Colombo와 비스터펠트(Biesterfeld)의 Mayte Harder가 작성한 ‘피부 장수를 위한 클렌징: 글라이코리피드와 글루코사이드의 시너지적 접근’을",
+ "published_at": "2026-10-02T11:58:17+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "람베르티",
+   "비스터펠트",
+   "Lamberti",
+   "Biesterfeld"
+  ],
+  "keywords": [
+   "생체 계면활성제",
+   "클렌징",
+   "바이오 계면활성제",
+   "스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Eucarol® SoFo",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "람베르티와 비스터펠트 연구진은 발효 유래 글라이코리피드와 글루코사이드 유도체를 결합하여 피부 수분을 유지하면서 세정력과 메이크업 제거 성능을 확보한 계면활성제 시스템을 소개했다.",
+  "key_fact_quote": "해당 원고는 발효 유래 글라이코리피드와 글루코사이드 유도체를 결합한 람베르티의 계면활성제 시스템 ‘Eucarol® SoFo’를 소개했다. 저자들은 이 조합이 피부 수분을 유지하면서 거품과 세정력, 메이크업 제거 성능을 함께 확보할 수 있다고 설명했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "글라이코리피드",
+    "quote": "해당 원고는 발효 유래 글라이코리피드와 글루코사이드 유도체를 결합한 람베르티의 계면활성제 시스템 ‘Eucarol® SoFo’를 소개했다."
+   },
+   {
+    "name": "글루코사이드 유도체",
+    "quote": "해당 원고는 발효 유래 글라이코리피드와 글루코사이드 유도체를 결합한 람베르티의 계면활성제 시스템 ‘Eucarol® SoFo’를 소개했다."
+   },
+   {
+    "name": "소포로리피드",
+    "quote": "원고에서 다룬 소포로리피드는 비병원성 효모인 스타메렐라 봄비콜라(Starmerella bombicola)에서 생산되며 생분해성과 낮은 독성, 세정·보습·피부 컨디셔닝 기능을 갖는다고 소개됐다."
+   },
+   {
+    "name": "알킬 폴리글루코사이드",
+    "quote": "이를 보완하기 위해 글라이코리피드와 순한 음이온성 알킬 폴리글루코사이드(APG) 유도체를 결합하는 방식을 제시했다."
+   },
+   {
+    "name": "다이소듐코코-글루코사이드시트레이트",
+    "quote": "Eucarol® SoFo는 다이소듐코코-글루코사이드시트레이트와 글라이코리피드로 구성된다."
+   },
+   {
+    "name": "라우릴글루코사이드",
+    "quote": "라우릴글루코사이드와 소듐코코-설페이트 적용군은 첫 세안 1시간 후 물 세안 대조군과 비교해 피부 수분이 통계적으로 유의하게 감소했다."
+   },
+   {
+    "name": "소듐코코-설페이트",
+    "quote": "라우릴글루코사이드와 소듐코코-설페이트 적용군은 첫 세안 1시간 후 물 세안 대조군과 비교해 피부 수분이 통계적으로 유의하게 감소했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:49+00:00",
+ "had_body": true
+}

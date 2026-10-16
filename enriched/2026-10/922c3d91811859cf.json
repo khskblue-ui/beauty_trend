@@ -1,0 +1,52 @@
+{
+ "doc_id": "922c3d91811859cf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.donga.com/109645/",
+ "title": "우리아이들플러스 “제주 당유자 품은 ‘디어닷’으로 친환경 K - 뷰티 이...",
+ "summary": "현재 롯데면세점을 통해서 주로 해외 고객 상대로 판매하고 있으며, 미국·유럽 등 34개국에 수출 중이다.... : 디어닷을 글로벌 K - 뷰티 대표 브랜드로 키우는 것이 목표다. 더 많은 나라의 고객들에게 제품을 제공하기...",
+ "published_at": "2026-10-09T09:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "디어닷"
+  ],
+  "companies": [
+   "우리아이들플러스",
+   "롯데면세점"
+  ],
+  "keywords": [
+   "친환경 뷰티",
+   "케이뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "우리아이들플러스가 제주 당유자를 활용한 디어닷 브랜드를 해외 시장에 수출하며 친환경 뷰티 브랜드로 육성하고 있다.",
+  "key_fact_quote": "디어닷을 글로벌 K - 뷰티 대표 브랜드로 키우는 것이 목표다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "제주 당유자",
+    "quote": "우리아이들플러스 “제주 당유자 품은 ‘디어닷’으로 친환경 K - 뷰티 이..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:25+00:00",
+ "had_body": false
+}

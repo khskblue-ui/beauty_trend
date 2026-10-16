@@ -1,0 +1,44 @@
+{
+ "doc_id": "ca258d05f5beb2ca",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=3898",
+ "title": "신라면세점, 뷰티 수요 증가세 따라 차별화 상품 확대",
+ "summary": "신라면세점이 개별여행객(FIT) 증가에 따른 화장품 매출 호조세에 맞춰 브랜드 협업을 통한 단독 상품군을... 출시 색상은 페스티벌 라일락과 애니웨어 카페인으로 국내 면세업계 중 신라면세점에서만 단독 판매하며...",
+ "published_at": "2026-10-08T10:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신라면세점"
+  ],
+  "keywords": [
+   "면세점 뷰티",
+   "단독 상품",
+   "브랜드 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "신라면세점은 여행객 증가에 따른 화장품 매출 호조세에 맞춰 브랜드 협업 단독 상품군을 확대한다.",
+  "key_fact_quote": "신라면세점이 개별여행객(FIT) 증가에 따른 화장품 매출 호조세에 맞춰 브랜드 협업을 통한 단독 상품군을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:24+00:00",
+ "had_body": false
+}

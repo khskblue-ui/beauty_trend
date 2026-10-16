@@ -1,0 +1,45 @@
+{
+ "doc_id": "cbee622c9fc1cee0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10903465?ref=naver",
+ "title": "오스템파마, ‘2026 뷰티 월드 두바이’ 참가…중동 덴탈케어 공략",
+ "summary": "바이어사와 수출 상담을 진행했다. 회사는 이번 참가를 발판 삼아 UAE와 사우디아라비아 등... 오스템파마는 이번 참가를 계기로 K - 뷰티 열풍이 스킨케어와 색조를 넘어 기능성 구강케어로 확산되는 흐름에 맞춰...",
+ "published_at": "2026-10-15T10:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "event",
+  "countries": [
+   "AE",
+   "SA"
+  ],
+  "brands": [],
+  "companies": [
+   "오스템파마"
+  ],
+  "keywords": [
+   "기능성 구강케어",
+   "덴탈케어",
+   "케이뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "오스템파마가 뷰티 월드 두바이에 참가하여 중동 덴탈케어 시장 공략에 나섰다.",
+  "key_fact_quote": "오스템파마, ‘2026 뷰티 월드 두바이’ 참가…중동 덴탈케어 공략",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:35+00:00",
+ "had_body": false
+}

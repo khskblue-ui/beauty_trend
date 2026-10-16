@@ -28,8 +28,7 @@
   ],
   "keywords": [
    "한정판 향수",
-   "신제품 향수",
-   "퍼퓸"
+   "신제품 향수"
   ],
   "is_press_release": true,
   "products": [
@@ -37,6 +36,7 @@
     "name": "바치아미 앙코라 퍼퓸",
     "brand": "불가리",
     "launch_date": null,
+    "launch_status": "launched",
     "launch_quote": "불가리는 알레그라 컬렉션의 한정판 향수 신제품 '바치아미 앙코라 퍼퓸'을 8일 선보였다.",
     "notes": [],
     "notes_quote": null
@@ -44,10 +44,12 @@
   ],
   "key_fact": "불가리가 알레그라 컬렉션의 한정판 신제품 향수를 선보였다.",
   "key_fact_quote": "불가리는 알레그라 컬렉션의 한정판 향수 신제품 '바치아미 앙코라 퍼퓸'을 8일 선보였다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:27+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:37+00:00",
  "had_body": false
 }

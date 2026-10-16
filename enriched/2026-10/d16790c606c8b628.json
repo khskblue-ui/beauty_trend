@@ -21,16 +21,16 @@
    "KR"
   ],
   "brands": [
-   "센녹"
+   "센녹",
+   "SENNOK"
   ],
   "companies": [
    "세화피앤씨"
   ],
   "keywords": [
    "플래그십 스토어",
-   "라이프스타일 뷰티",
-   "목욕문화",
-   "체험존"
+   "팝업 이벤트",
+   "헤어 퍼퓸 미스트"
   ],
   "is_press_release": true,
   "products": [
@@ -38,7 +38,8 @@
     "name": "노 모어 키스",
     "brand": "센녹",
     "launch_date": null,
-    "launch_quote": "매장에서는 지난 8월 출시한 신규 향 '노 모어 키스' 전 라인을 포함해 센녹의 모든 제품을 자유롭게 체험하고 구매할 수 있다.",
+    "launch_status": "unknown",
+    "launch_quote": null,
     "notes": [],
     "notes_quote": null
    },
@@ -46,17 +47,22 @@
     "name": "헤어 퍼퓸 미스트 베이비 블러셔",
     "brand": "센녹",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "세화피앤씨의 라이프스타일 뷰티 브랜드 센녹이 서울 성수동에 오픈한 첫 플래그십 스토어가 많은 방문객을 끌어모으며 주목받고 있다.",
+  "key_fact": "세화피앤씨의 라이프스타일 뷰티브랜드 센녹이 성수동에 첫 플래그십 스토어를 열고 대규모 방문객을 모았다.",
   "key_fact_quote": "코스닥 상장사 세화피앤씨의 라이프스타일 뷰티브랜드 '센녹'(SENNOK)은 지난 7일 서울 성수동에 문을 연 첫 플래그십 스토어 '센녹 배스하우스 성수'가 오픈 5일 만에 누적 방문객 6,842명을 기록했다고 13일 밝혔다.",
-  "dropped": []
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "launch:노 모어 키스"
+  ]
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:40+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:51+00:00",
  "had_body": true
 }

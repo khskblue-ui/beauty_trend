@@ -1,0 +1,42 @@
+{
+ "doc_id": "3c2bc43f317e83a9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kmaeil.com/news/articleView.html?idxno=653949",
+ "title": "K-뷰티 수출 111억달러 '역대 최대'… 수출 호황 글로벌 시장 공략 가속",
+ "summary": "미국과 유럽에서 각각 두 자릿수 이상의 높은 증가율을 기록했고 온라인 화장품 수출도 크게 늘었다. SNS와 온라인 플랫폼을 통한 제품 확산, 비교적 빠른 신제품 출시, 가격 대비 품질 경쟁력 등이 중소 브랜드의...",
+ "published_at": "2026-10-12T10:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "중소 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국과 유럽 등 해외 시장과 온라인을 중심으로 화장품 수출이 크게 증가하며 수출 호황을 보이고 있다.",
+  "key_fact_quote": "미국과 유럽에서 각각 두 자릿수 이상의 높은 증가율을 기록했고 온라인 화장품 수출도 크게 늘었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:30+00:00",
+ "had_body": false
+}

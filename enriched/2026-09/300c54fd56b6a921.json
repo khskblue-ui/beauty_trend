@@ -1,0 +1,55 @@
+{
+ "doc_id": "300c54fd56b6a921",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.e-science.co.kr/news/articleView.html?idxno=136195",
+ "title": "LG생활건강, 멕시코서 K-뷰티 체험 확대…닥터그루트·더페이스샵 현지...",
+ "summary": "멕시코는 인구 약 1억3000만 명의 대형 소비시장으로, 중남미에서는 브라질에 이어 두 번째로 큰 화장품 ... 기존 베스트셀러 클렌징 제품 3종과 신제품 스킨케어 '미감수 레디' 3종을 선보였으며, 쌀을 주요 소재로 활용한...",
+ "published_at": "2026-09-28T13:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "MX",
+   "BR"
+  ],
+  "brands": [
+   "닥터그루트",
+   "더페이스샵"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "중남미 시장",
+   "스킨케어",
+   "클렌징"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "미감수 레디",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "LG생활건강이 멕시코 시장에서 닥터그루트와 더페이스샵 등의 브랜드를 앞세워 뷰티 체험 확대를 추진한다.",
+  "key_fact_quote": "LG생활건강, 멕시코서 K-뷰티 체험 확대…닥터그루트·더페이스샵 현지...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:16+00:00",
+ "had_body": false
+}

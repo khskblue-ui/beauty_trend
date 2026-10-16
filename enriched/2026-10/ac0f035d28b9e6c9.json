@@ -16,10 +16,9 @@
  "extraction": {
   "relevant": true,
   "category": "retail",
-  "event_type": "event",
+  "event_type": "market_trend",
   "countries": [
-   "KR",
-   "CN"
+   "KR"
   ],
   "brands": [
    "히어로즈 오브 코리아",
@@ -30,25 +29,18 @@
   "companies": [],
   "keywords": [
    "니치 향수",
-   "팝업 스토어"
+   "팝업스토어"
   ],
   "is_press_release": false,
-  "products": [
-   {
-    "name": "히어로즈 오브 코리아",
-    "brand": "히어로즈 오브 코리아",
-    "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   }
-  ],
-  "key_fact": "백화점이 중국 국경절 기간 관광객을 겨냥해 한국 역사 인물을 모티프로 한 니치 향수 팝업 등을 진행한다.",
+  "products": [],
+  "key_fact": "백화점 업계가 국경절을 맞아 니치 향수 등 다양한 브랜드 팝업을 열며 고객 유치에 나섰다.",
   "key_fact_quote": "국내 디자이너 브랜드 ‘준태킴 아티셔널’과 ‘송지오’, 한국 역사 인물을 모티프로 한 니치 향수 ‘히어로즈 오브 코리아’, 전통 수공예 침구 ‘빈컬렉션’ 등의 팝업도 함께 연다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:11+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:27+00:00",
  "had_body": false
 }

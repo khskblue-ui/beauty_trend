@@ -1,0 +1,54 @@
+{
+ "doc_id": "4273b072b6302746",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=227746",
+ "title": "비노트, 무신사 뷰티 '전체 1위'",
+ "summary": "이스트엔드(대표 김동진)의 스킨케어 브랜드 비노트(b˙note)가 무신사 뷰티 에서 신제품 출시 8일 만에 전체 카테고리 1위에 올랐다. 비노트는 지난 7일 무신사 뷰티 온라인 채널에서 '미라클 SOS 2-STEP 마스크' 2종...",
+ "published_at": "2026-09-18T09:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비노트",
+   "b˙note"
+  ],
+  "companies": [
+   "이스트엔드",
+   "무신사"
+  ],
+  "keywords": [
+   "스킨케어",
+   "마스크팩"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "미라클 SOS 2-STEP 마스크",
+    "brand": "비노트",
+    "launch_date": null,
+    "launch_quote": "비노트는 지난 7일 무신사 뷰티 온라인 채널에서 '미라클 SOS 2-STEP 마스크' 2종...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이스트엔드의 스킨케어 브랜드 비노트가 신제품 출시 후 무신사 뷰티 전체 카테고리 정상에 올랐다.",
+  "key_fact_quote": "이스트엔드(대표 김동진)의 스킨케어 브랜드 비노트(b˙note)가 무신사 뷰티 에서 신제품 출시 8일 만에 전체 카테고리 1위에 올랐다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:58+00:00",
+ "had_body": false
+}

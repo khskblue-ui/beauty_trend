@@ -1,0 +1,44 @@
+{
+ "doc_id": "168f7047d357b0d9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.bizwatch.co.kr/article/consumer/2026/10/05/0002",
+ "title": "큐텐재팬, 일본 뷰티 이커머스 1위 비결은 'K뷰티'",
+ "summary": "큐텐재팬 전체 매출 중 70%가 화장품 에서 나오는데 이 중 가장 큰 비중을 차지하는 것이 K뷰티다. 현재... 메가오시는 K뷰티 브랜드의 특정 신제품 을 히트 상품으로 키우는 프로그램이다. 브랜드가 신제품 을 큐텐재팬에서...",
+ "published_at": "2026-10-06T07:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "큐텐재팬"
+  ],
+  "keywords": [
+   "이커머스",
+   "뷰티 플랫폼"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "일본 뷰티 이커머스에서 케이뷰티가 높은 매출 비중을 차지하며 성장을 견인하고 있다.",
+  "key_fact_quote": "큐텐재팬 전체 매출 중 70%가 화장품 에서 나오는데 이 중 가장 큰 비중을 차지하는 것이 K뷰티다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:04+00:00",
+ "had_body": false
+}

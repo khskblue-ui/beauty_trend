@@ -1,0 +1,52 @@
+{
+ "doc_id": "f68a11c7bbc3354b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bokuennews.com/news/article.html?no=285444",
+ "title": "의료기기 넘어 AI· 뷰티 융합으로…'키메스 부산' 23일 개막",
+ "summary": "KOTRA와 연계한 1대1 해외 바이어 수출 상담회를 통해 국내 의료기기 기업의 해외 판로 개척을 지원한다.... 이와 함께 메디컬 AI와 K - 뷰티 , 의료정책·규제 및 지원 등을 주제로 한 세미나가 전시 기간 이어진다. 전시와...",
+ "published_at": "2026-10-14T09:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "KOTRA"
+  ],
+  "keywords": [
+   "의료기기",
+   "메디컬 AI",
+   "K-뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "의료기기와 융합을 다루며 메디컬 인공지능 및 뷰티 관련 세미나가 포함된 키메스 부산 행사가 개막한다.",
+  "key_fact_quote": "의료기기 넘어 AI· 뷰티 융합으로…'키메스 부산' 23일 개막",
+  "events": [
+   {
+    "name": "키메스 부산",
+    "start_date": "2026-10-23",
+    "end_date": null,
+    "place": null,
+    "quote": "의료기기 넘어 AI· 뷰티 융합으로…'키메스 부산' 23일 개막"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:33+00:00",
+ "had_body": false
+}

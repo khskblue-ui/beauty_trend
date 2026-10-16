@@ -17,7 +17,9 @@
   "relevant": true,
   "category": "makeup",
   "event_type": "product_launch",
-  "countries": [],
+  "countries": [
+   "US"
+  ],
   "brands": [
    "Lune+Aster"
   ],
@@ -25,18 +27,30 @@
    "Bluemercury"
   ],
   "keywords": [
-   "메이크업 브랜드",
    "멀티태스킹 제품",
-   "브랜드 리프레시"
+   "브랜드 리프레시",
+   "메이크업"
   ],
   "is_press_release": false,
-  "products": [],
-  "key_fact": "블루머큐리의 자체 메이크업 브랜드인 룬앤아스터가 새로운 멀티태스킹 제품들과 간결한 뷰티 접근법을 공개했다.",
+  "products": [
+   {
+    "name": "multitasking products",
+    "brand": "Lune+Aster",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Bluemercury’s proprietary makeup brand Lune+Aster unveils new multitasking products and a fresh “Beauty, Uncomplicated” approach, marking the start of its broader evolution through 2027.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "블루머큐리의 자체 메이크업 브랜드 룬앤아스터가 새로운 멀티태스킹 제품들을 공개하며 브랜드 리프레시를 단행했다.",
   "key_fact_quote": "Bluemercury’s proprietary makeup brand Lune+Aster unveils new multitasking products and a fresh “Beauty, Uncomplicated” approach, marking the start of its broader evolution through 2027.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:09:17+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:42+00:00",
  "had_body": false
 }

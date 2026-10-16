@@ -1,0 +1,45 @@
+{
+ "doc_id": "3f2c11768520e74e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/economy/trend/6318681",
+ "title": "K - 뷰티 키운다…AI 맞춤형 화장품·외국인 의료관광 지원 확대",
+ "summary": "뉴욕·프랑크푸르트·오사카 등 7곳에서 의약품·의료기기의 해외 인허가와 수출 현장 대응을 돕는 ' K -바이오데스크'의 지원 범위를 내년 K - 뷰티 까지 확대한다. 의료 해외진출 전문가를 활용한 컨설팅은 법률·회계...",
+ "published_at": "2026-10-14T07:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "DE",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "맞춤형 화장품",
+   "수출 지원",
+   "해외 인허가"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해외 인허가와 수출 현장 대응을 돕는 지원 데스크의 범위를 뷰티 분야까지 확대한다.",
+  "key_fact_quote": "뉴욕·프랑크푸르트·오사카 등 7곳에서 의약품·의료기기의 해외 인허가와 수출 현장 대응을 돕는 ' K -바이오데스크'의 지원 범위를 내년 K - 뷰티 까지 확대한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:35+00:00",
+ "had_body": false
+}

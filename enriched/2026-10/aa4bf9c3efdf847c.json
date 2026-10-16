@@ -1,0 +1,61 @@
+{
+ "doc_id": "aa4bf9c3efdf847c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoulfn.com/news/articleView.html?idxno=640029",
+ "title": "[뷰티브리핑] 아모레퍼시픽, '밋유어뷰티 아카데미' 성료 외",
+ "summary": "에뛰드, '사각사각 아이라이터' 출시 에뛰드는 자연스러운 애교살과 눈가 음영을 연출할 수 있는 멀티 아이... 양 기관은 핵심 소재의 생산부터 유화제 합성, 화장품 제형 평가와 제품화까지 전 과정을 연계해 고부가가치...",
+ "published_at": "2026-10-14T15:03:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에뛰드",
+   "아모레퍼시픽"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "아이라이터",
+   "애교살 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "사각사각 아이라이터",
+    "brand": "에뛰드",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에뛰드, '사각사각 아이라이터' 출시 에뛰드는 자연스러운 애교살과 눈가 음영을 연출할 수 있는 멀티 아이...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에뛰드가 애교살과 눈가 음영 연출을 위한 멀티 아이 제품을 선보였다.",
+  "key_fact_quote": "에뛰드, '사각사각 아이라이터' 출시 에뛰드는 자연스러운 애교살과 눈가 음영을 연출할 수 있는 멀티 아이...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "유화제",
+    "quote": "양 기관은 핵심 소재의 생산부터 유화제 합성, 화장품 제형 평가와 제품화까지 전 과정을 연계해 고부가가치..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:55+00:00",
+ "had_body": false
+}

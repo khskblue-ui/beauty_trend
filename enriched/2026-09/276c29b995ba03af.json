@@ -1,0 +1,45 @@
+{
+ "doc_id": "276c29b995ba03af",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609201137446160803",
+ "title": "[K-뷰티 新 르네상스] ② 미국ㆍ유럽 뚫은 브랜드들, K-뷰티 생태계 먹여...",
+ "summary": "가운데 신제품 까지 빠른 속도로 순위권에 도달하면서 협력 ODM 기업도 늘고 있어서다. 다른 주요 브랜드들도 핵심 ODM 협력사 실적을 밀어올렸다. 한국콜마 화장품 부문은 달바글로벌 등 수출 브랜드 주문에 힘입어...",
+ "published_at": "2026-09-21T06:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "달바글로벌"
+  ],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "뷰티 수출",
+   "화장품 제조자개발생산",
+   "글로벌 시장 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해외 시장에서 성과를 거둔 국내 화장품 브랜드들의 주문 증가로 협력 제조자개발생산 기업들의 실적이 함께 성장하고 있다.",
+  "key_fact_quote": "다른 주요 브랜드들도 핵심 ODM 협력사 실적을 밀어올렸다. 한국콜마 화장품 부문은 달바글로벌 등 수출 브랜드 주문에 힘입어...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:14+00:00",
+ "had_body": false
+}

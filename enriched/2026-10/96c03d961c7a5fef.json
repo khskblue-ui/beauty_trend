@@ -1,0 +1,59 @@
+{
+ "doc_id": "96c03d961c7a5fef",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.theguru.co.kr/news/article.html?no=108105",
+ "title": "신세계인터 비디비치, '누드 쿠션' 日 로프트·아인즈앤톨페 상륙…열도...",
+ "summary": "12일 일본 대형 버라이어티숍 로프트(LOFT)에 따르면 비디비치는 신제품 '누드 퍼펙션 스킨 핏 쿠션'(이하 누드 쿠션)을 전국 100개 매장에 선 출시 했다. 뷰티 편집숍·드럭스토어 체인 아인즈앤톨페(AINZ&TULPE) 70개 매장에도...",
+ "published_at": "2026-10-12T08:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "비디비치"
+  ],
+  "companies": [
+   "신세계인터내셔날",
+   "로프트",
+   "아인즈앤톨페"
+  ],
+  "keywords": [
+   "쿠션 파운데이션",
+   "베이스 메이크업",
+   "버라이어티숍"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "누드 퍼펙션 스킨 핏 쿠션",
+    "brand": "비디비치",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "12일 일본 대형 버라이어티숍 로프트(LOFT)에 따르면 비디비치는 신제품 '누드 퍼펙션 스킨 핏 쿠션'(이하 누드 쿠션)을 전국 100개 매장에 선 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "비디비치가 일본의 대형 버라이어티숍과 드럭스토어 매장에 신제품 쿠션을 선출시했다.",
+  "key_fact_quote": "12일 일본 대형 버라이어티숍 로프트(LOFT)에 따르면 비디비치는 신제품 '누드 퍼펙션 스킨 핏 쿠션'(이하 누드 쿠션)을 전국 100개 매장에 선 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:47+00:00",
+ "had_body": false
+}

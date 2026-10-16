@@ -1,0 +1,41 @@
+{
+ "doc_id": "b65e3928a85941ad",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thebigdata.co.kr/view.php?ud=20261008103417742637600e7ec7_23",
+ "title": "K뷰티 닮은 고민별 구성 펫푸드... 간식 일곱 가지 라인",
+ "summary": "식품의약품안전처와 산업통상자원부 자료에 따르면 2025년 K뷰티 수출 액은 114억 달러로 역대 최대였고, 나라별로는 미국이 22억 달러로 가장 컸다. K푸드플러스(K-푸드+)도 비슷한 흐름을 보였다. 농림축산식품부 잠정...",
+ "published_at": "2026-10-10T09:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "펫푸드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "케이뷰티의 수출 실적 흐름을 모티브로 삼은 펫푸드 간식 라인이 소개되었다.",
+  "key_fact_quote": "K뷰티 닮은 고민별 구성 펫푸드... 간식 일곱 가지 라인",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:22+00:00",
+ "had_body": false
+}

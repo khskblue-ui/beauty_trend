@@ -24,18 +24,39 @@
    "후시덤"
   ],
   "companies": [
-   "동화약품",
-   "다이소"
+   "동화약품"
   ],
   "keywords": [
    "흔적 리페어",
    "미백 기능성",
-   "스킨케어 라인"
+   "스팟크림",
+   "캡슐 크림"
   ],
   "is_press_release": true,
-  "products": [],
-  "key_fact": "동화약품이 후시덤 흔적 리페어 라인을 다이소에 출시했다.",
+  "products": [
+   {
+    "name": "후시덤 흔적 리페어",
+    "brand": "후시덤",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "동화약품이 ‘후시덤 흔적 리페어’ 5종을 다이소에 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동화약품이 다이소에 후시덤 흔적 리페어 라인을 출시했다.",
   "key_fact_quote": "동화약품이 ‘후시덤 흔적 리페어’ 5종을 다이소에 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "푸시디움 코키네움 발효여과물",
+    "quote": "‘후시덤 흔적 리페어’ 라인은 푸시디움 코키네움 발효여과물을 함유했다."
+   },
+   {
+    "name": "나이아신아마이드",
+    "quote": "여기에 미백 기능성 성분인 나이아신아마이드를 제품에 따라 2%에서 최대 15%까지 배합했다."
+   }
+  ],
   "dropped": [
    "product:후시덤 흔적 리페어 크림 토너",
    "product:후시덤 흔적 리페어 나이아신 10 앰플",
@@ -45,7 +66,7 @@
   ]
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:03:03+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:12+00:00",
  "had_body": true
 }

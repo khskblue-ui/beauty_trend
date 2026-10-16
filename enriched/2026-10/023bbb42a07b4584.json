@@ -1,0 +1,49 @@
+{
+ "doc_id": "023bbb42a07b4584",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10899196?ref=naver",
+ "title": "CJ올리브영, 美 이어 동남아 세포라 입점…“K- 뷰티 소비 늘린다”",
+ "summary": "제품이 론칭 초기부터 호응을 얻고 있다. 인지도 확대를 위해 8~14일 싱가포르 프리미엄 복합쇼핑몰인... 올리브영 관계자는 “세포라와 협업해 국내 유망 K- 뷰티 브랜드 가 글로벌 메이저 리테일 채널에 진입할 기회를...",
+ "published_at": "2026-10-12T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "SG"
+  ],
+  "brands": [
+   "올리브영",
+   "세포라"
+  ],
+  "companies": [
+   "CJ올리브영",
+   "세포라"
+  ],
+  "keywords": [
+   "글로벌 리테일",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "씨제이올리브영이 세포라와 협업하여 동남아 시장에 입점하고 국내 뷰티 브랜드의 해외 판로를 확대한다.",
+  "key_fact_quote": "올리브영 관계자는 “세포라와 협업해 국내 유망 K- 뷰티 브랜드 가 글로벌 메이저 리테일 채널에 진입할 기회를...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:34+00:00",
+ "had_body": false
+}

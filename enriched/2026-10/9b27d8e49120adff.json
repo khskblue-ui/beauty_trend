@@ -1,0 +1,99 @@
+{
+ "doc_id": "9b27d8e49120adff",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100069",
+ "title": "사이노슈어 루트로닉 ‘세르프(XERF)’, 싱가포르∙말레이 공식 론칭",
+ "summary": "미국에 본사를 둔 글로벌 메디컬 에스테틱 기업 사이노슈어 루트로닉(Cynosure Lutronic)이 듀얼 모노폴라 고주파(RF) 의료기기 ‘세르프(XERF)’를 싱가포르와 말레이시아에 공식 론칭했다고 밝혔다.사이노슈어 루트로닉은 지난 9월 22일 말레이시아 쿠알라룸푸르에서 싱가포르와 말레이시아 의료진을 대상으로 세르프 론칭 행사를 개최했다. 현지 의료진 등 120여 명이 참석한 가운데, 세르프 데모 시연과 학술 세션을 통해 세르프 듀얼 모노폴라 RF 기술의 차별점과 실제 활용 방안을 공유했다.학술 세션에는 싱가포르의 시우 턱 와,",
+ "published_at": "2026-10-06T09:57:58+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "US",
+   "SG",
+   "MY",
+   "TW",
+   "TH"
+  ],
+  "brands": [
+   "세르프",
+   "피코슈어 프로",
+   "더마브이",
+   "라셈드 울트라"
+  ],
+  "companies": [
+   "사이노슈어 루트로닉",
+   "Cynosure Lutronic"
+  ],
+  "keywords": [
+   "메디컬 에스테틱",
+   "미용 의료기기",
+   "고주파 의료기기"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "세르프(XERF)",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "미국에 본사를 둔 글로벌 메디컬 에스테틱 기업 사이노슈어 루트로닉(Cynosure Lutronic)이 듀얼 모노폴라 고주파(RF) 의료기기 ‘세르프(XERF)’를 싱가포르와 말레이시아에 공식 론칭했다고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "피코슈어 프로(PICOSURE Pro)",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "더마브이(DermaV)",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "라셈드 울트라(LaseMD ULTRA)",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "사이노슈어 루트로닉이 고주파 의료기기 세르프를 싱가포르와 말레이시아 시장에 공식 론칭했다.",
+  "key_fact_quote": "미국에 본사를 둔 글로벌 메디컬 에스테틱 기업 사이노슈어 루트로닉(Cynosure Lutronic)이 듀얼 모노폴라 고주파(RF) 의료기기 ‘세르프(XERF)’를 싱가포르와 말레이시아에 공식 론칭했다고 밝혔다.",
+  "events": [
+   {
+    "name": "세르프 론칭 행사",
+    "start_date": "2026-09-22",
+    "end_date": null,
+    "place": "말레이시아 쿠알라룸푸르",
+    "quote": "사이노슈어 루트로닉은 지난 9월 22일 말레이시아 쿠알라룸푸르에서 싱가포르와 말레이시아 의료진을 대상으로 세르프 론칭 행사를 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:32+00:00",
+ "had_body": true
+}

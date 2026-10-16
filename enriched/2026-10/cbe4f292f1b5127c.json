@@ -1,0 +1,44 @@
+{
+ "doc_id": "cbe4f292f1b5127c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278541",
+ "title": "케이펫푸드 브랜드 츌립, 美 반려동물 전시회 '슈퍼주' 참가",
+ "summary": "시장 진출을 잇달아 발표하며 시장 공략을 본격화하고 있다. K - 뷰티 와 K -푸드에 이어 엄격한 제조 기준과 상품성을 갖춘 케이펫푸드가 북미 시장에서 새로운 수출 품목으로 성장할 수 있을지 관심이 모아지고 있다.",
+ "published_at": "2026-10-09T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "츌립"
+  ],
+  "companies": [],
+  "keywords": [
+   "펫푸드",
+   "북미 시장 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "케이펫푸드 브랜드 츌립이 미국 반려동물 전시회에 참가하며 북미 시장 공략에 나섰다.",
+  "key_fact_quote": "케이펫푸드 브랜드 츌립, 美 반려동물 전시회 '슈퍼주' 참가",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:25+00:00",
+ "had_body": false
+}

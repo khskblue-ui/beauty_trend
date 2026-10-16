@@ -1,0 +1,42 @@
+{
+ "doc_id": "20d720cc7ea4b018",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112063",
+ "title": "정부, 서비스산업 집중 육성…지역관광· K뷰티 로 성장동력 확충",
+ "summary": "정부가 반도체에 이은 새로운 성장동력으로 서비스산업을 집중 육성하고, 지역관광과 전시산업, K - 뷰티 ... 7%포인트 상향 조정한 점을 언급하며, \"반도체 수출 호조 등을 바탕으로 우리 경제가 탄탄한 성장세를 이어가고...",
+ "published_at": "2026-10-14T09:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "서비스산업 육성",
+   "성장동력 확충"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부가 서비스산업을 새로운 성장동력으로 삼고 지역관광 및 뷰티 산업 육성에 나선다.",
+  "key_fact_quote": "정부가 반도체에 이은 새로운 성장동력으로 서비스산업을 집중 육성하고, 지역관광과 전시산업, K - 뷰티 ...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:30+00:00",
+ "had_body": false
+}

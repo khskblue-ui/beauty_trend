@@ -1,0 +1,42 @@
+{
+ "doc_id": "315fe3ea7a1a1fbd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20094295?ref=naver",
+ "title": "대원제약, 건기식 매출 1000억 전망…“ 화장품 적자 축소가 수익성 변수...",
+ "summary": "대원제약(003220)의 건강기능식품 사업이 빠르게 성장하는 가운데 자회사 화장품 사업의 적자가 연결 수익성... 하 연구원은 관절·연골 건강에 도움을 주는 콘드로이친 제품과 ‘꿀잠샷’ 등 신제품 판매가 늘면서...",
+ "published_at": "2026-09-23T08:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대원제약"
+  ],
+  "keywords": [
+   "화장품 사업",
+   "자회사 적자",
+   "수익성 변수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대원제약의 건강기능식품 사업 성장 속에서 자회사 화장품 사업의 적자 축소 여부가 연결 수익성의 주요 변수로 꼽힌다.",
+  "key_fact_quote": "대원제약(003220)의 건강기능식품 사업이 빠르게 성장하는 가운데 자회사 화장품 사업의 적자가 연결 수익성...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:55+00:00",
+ "had_body": false
+}

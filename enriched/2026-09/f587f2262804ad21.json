@@ -6,11 +6,11 @@
  "lang": "ko",
  "url": "https://view.asiae.co.kr/article/2026090109382616777",
  "title": "우슬(USUL), 야채 향수 3종 무료 시향…“토마토·피망·당근꽃은 어떤 ...",
- "summary": "니치 프래그런스 브랜드 우슬(USUL)이 첫 번째 야채 컬렉션(THE VEGETABLE COLLECTION)을 고객이 직접 경험할 수... 신청자에게는 디스커버리 세트와 퍼퓸 핸드 세럼 크림 전용 5% 할인 쿠폰도 제공한다. 우슬(USUL)의 야채...",
+ "summary": "니치 프래그런스 브랜드 우슬(USUL)이 첫 번째 야채 컬렉션(THE VEGETABLE COLLECTION)을 고객이 직접 경험할 수... 우슬(USUL)의 야채 컬렉션은 일상에서는 익숙하지만 향수 의 소재로는 낯선 토마토·피망·당근꽃을 향으로...",
  "published_at": "2026-09-03T08:00:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "니치 퍼퓸",
+ "query": "니치 향수",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -27,8 +27,8 @@
   "companies": [],
   "keywords": [
    "니치 향수",
-   "디스커버리 세트",
-   "핸드 세럼"
+   "야채 향수",
+   "시향 이벤트"
   ],
   "is_press_release": true,
   "products": [
@@ -36,38 +36,21 @@
     "name": "야채 컬렉션",
     "brand": "우슬",
     "launch_date": null,
-    "launch_status": "unknown",
     "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "디스커버리 세트",
-    "brand": "우슬",
-    "launch_date": null,
-    "launch_status": "unknown",
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "퍼퓸 핸드 세럼 크림",
-    "brand": "우슬",
-    "launch_date": null,
-    "launch_status": "unknown",
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
+    "notes": [
+     "토마토",
+     "피망",
+     "당근꽃"
+    ],
+    "notes_quote": "우슬(USUL)의 야채 컬렉션은 일상에서는 익숙하지만 향수 의 소재로는 낯선 토마토·피망·당근꽃을 향으로..."
    }
   ],
-  "key_fact": "니치 프래그런스 브랜드 우슬이 야채 컬렉션을 직접 경험할 수 있는 무료 시향 이벤트를 진행한다.",
-  "key_fact_quote": "니치 프래그런스 브랜드 우슬(USUL)이 첫 번째 야채 컬렉션(THE VEGETABLE COLLECTION)을 고객이 직접 경험할 수...",
-  "events": [],
-  "ingredients": [],
+  "key_fact": "니치 프래그런스 브랜드 우슬이 토마토와 피망 및 당근꽃을 향으로 표현한 야채 컬렉션을 선보인다.",
+  "key_fact_quote": "니치 프래그런스 브랜드 우슬(USUL)이 첫 번째 야채 컬렉션(THE VEGETABLE COLLECTION)을 고객이 직접 경험할 수... 우슬(USUL)의 야채 컬렉션은 일상에서는 익숙하지만 향수 의 소재로는 낯선 토마토·피망·당근꽃을 향으로...",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:16+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:53+00:00",
  "had_body": false
 }

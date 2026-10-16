@@ -5,12 +5,12 @@
  "group": "kr_news",
  "lang": "ko",
  "url": "https://www.chosun.com/special/boutique/boutique-beauty/2026/10/08/L6X33TT5FJF53DTBGPXQYG6XMQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
- "title": "한국의 향이 세계의 취향이 되다, 세계로 향하는 ‘K- 향수 ’",
- "summary": "본투스탠드아웃, 도발적인 유희와 순백의 도자기가 빚어낸 파격 2022년 시작된 본투스탠드아웃(BORNTOSTANDOUT)은 기존 니치 향수 계의 엄숙주의를 기분 좋게 배반한다. 이름 그대로 ‘태어날 때부터 남달랐던’ 이들의...",
+ "title": "한국의 향이 세계의 취향이 되다, 세계로 향하는 ‘K-향수’",
+ "summary": "글로벌 향료 회사와 국내 대기업에서 쌓은 경험을 바탕으로 향의 콘셉트부터 제품 개발까지 전 과정을 직접 디렉팅한다. 편안하게 즐길 수 있는 향을 합리적인 가격대로 제안하면서도 향의 품질과 완성도만큼은 엄격한...",
  "published_at": "2026-10-08T17:39:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "니치 향수",
+ "query": "향료",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -20,23 +20,23 @@
   "countries": [
    "KR"
   ],
-  "brands": [
-   "본투스탠드아웃",
-   "BORNTOSTANDOUT"
-  ],
+  "brands": [],
   "companies": [],
   "keywords": [
-   "니치 향수",
-   "K-향수"
+   "K-향수",
+   "향료 회사",
+   "제품 개발"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "국내 니치 향수 브랜드 본투스탠드아웃이 기존 향수 업계의 엄숙주의를 탈피하며 주목받고 있다.",
-  "key_fact_quote": "2022년 시작된 본투스탠드아웃(BORNTOSTANDOUT)은 기존 니치 향수 계의 엄숙주의를 기분 좋게 배반한다.",
+  "key_fact": "한국의 향수가 글로벌 시장으로 확장되며 품질과 완성도를 갖춘 제품 개발이 이루어지고 있다.",
+  "key_fact_quote": "한국의 향이 세계의 취향이 되다, 세계로 향하는 ‘K-향수’",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:01+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:29+00:00",
  "had_body": false
 }

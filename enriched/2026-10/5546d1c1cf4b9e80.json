@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": false,
   "category": "other",
-  "event_type": "event",
+  "event_type": "other",
   "countries": [
    "KR"
   ],
@@ -24,16 +24,18 @@
   "companies": [],
   "keywords": [
    "지역 축제",
-   "문화 축제"
+   "문화 행사"
   ],
   "is_press_release": true,
   "products": [],
   "key_fact": null,
   "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:09:05+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:32+00:00",
  "had_body": true
 }

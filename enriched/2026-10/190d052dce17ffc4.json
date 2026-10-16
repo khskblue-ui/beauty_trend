@@ -1,0 +1,56 @@
+{
+ "doc_id": "190d052dce17ffc4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=870589",
+ "title": "뷰티셀렉션, COO·CCO 동시 영입…글로벌 확장 맞춰 경영 체계 강화",
+ "summary": "화장품 업계에서 25년 이상 ODM, 브랜드 마케팅, 영업, SCM을 거친 이 COO는 한국콜마 영업본부 상무이사를... 뷰티셀렉션의 대표 제품인 리얼 딥 마스크는 2021년 4월 출시 후 올해 8월까지 누적 3억5000만 장이 생산됐으며...",
+ "published_at": "2026-10-07T09:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "뷰티셀렉션",
+   "한국콜마"
+  ],
+  "keywords": [
+   "글로벌 확장",
+   "경영 체계 강화"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리얼 딥 마스크",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티셀렉션이 글로벌 확장에 맞춰 최고운영책임자와 최고고객책임자를 동시 영입해 경영 체계를 강화했다.",
+  "key_fact_quote": "뷰티셀렉션, COO·CCO 동시 영입…글로벌 확장 맞춰 경영 체계 강화",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "launch:리얼 딥 마스크"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:36+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "ab17feb7500d9ad2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000019197&cp=nv",
+ "title": "호남 최대 ‘ 뷰티 산업전’ 전남광주서 개막",
+ "summary": "K뷰티 의 정수를 한눈에 확인할 수 있도록 마련된다. 참가 기업의 성장을 돕기 위한 실질적인 비즈니스 프로그램도 대폭 강화됐다. 코트라 연계 온라인 해외 바이어 수출 상담회에는 실제 수입 계약 권한과 명확한 구매...",
+ "published_at": "2026-10-02T00:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코트라"
+  ],
+  "keywords": [
+   "뷰티 산업전",
+   "비즈니스 프로그램",
+   "수출 상담회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "호남 최대 규모의 뷰티 산업전이 전남광주에서 개막했다.",
+  "key_fact_quote": "호남 최대 ‘ 뷰티 산업전’ 전남광주서 개막",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:53+00:00",
+ "had_body": false
+}

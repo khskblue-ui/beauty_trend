@@ -1,0 +1,81 @@
+{
+ "doc_id": "c2fb134ebb25477c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.wsobi.com/news/articleView.html?idxno=319390",
+ "title": "롯데온·신라면세점, 온쇼페 티징 행사 전개·뷰티 상품 확대",
+ "summary": "신라면세점은 화장품 상품을 확대한다고 밝혔다. 메이크업포에버(Make Up For Ever)는 '아티스트 컬러 글로우... 신라인터넷면세점에서는 설화수와 에스트라의 단독 세트도 출시 한다. 설화수는 윤조에센스 90ml 듀오와...",
+ "published_at": "2026-10-08T10:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메이크업포에버",
+   "Make Up For Ever",
+   "설화수",
+   "에스트라"
+  ],
+  "companies": [
+   "롯데온",
+   "신라면세점",
+   "신라인터넷면세점"
+  ],
+  "keywords": [
+   "면세점 화장품",
+   "단독 세트",
+   "뷰티 상품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아티스트 컬러 글로우",
+    "brand": "메이크업포에버",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "단독 세트",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신라인터넷면세점에서는 설화수와 에스트라의 단독 세트도 출시 한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "단독 세트",
+    "brand": "에스트라",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신라인터넷면세점에서는 설화수와 에스트라의 단독 세트도 출시 한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신라면세점이 화장품 라인업을 강화하고 설화수 및 에스트라 단독 세트 등을 선보인다.",
+  "key_fact_quote": "신라면세점은 화장품 상품을 확대한다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "product:윤조에센스 듀오"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:24+00:00",
+ "had_body": false
+}

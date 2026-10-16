@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "fragrance",
+  "category": "retail",
   "event_type": "business",
   "countries": [
    "KR"
@@ -28,31 +28,32 @@
    "광주신세계"
   ],
   "keywords": [
+   "백화점 입점",
    "향수 컬렉션",
-   "앰버 플로럴",
-   "오 드 퍼퓸",
-   "기초 화장품",
-   "메이크업"
+   "오 드 퍼퓸"
   ],
   "is_press_release": true,
   "products": [
    {
     "name": "뢰르 블루 오 드 퍼퓸",
-    "brand": "프라다 뷰티",
+    "brand": null,
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "특히 향수 컬렉션 '라르&라 마티에르'를 비롯해 앰버 플로럴 계열의 향을 담은 신제품 '뢰르 블루 오 드 퍼퓸'(30㎖·13만5천원) 등을 판매한다.",
     "notes": [
      "앰버 플로럴"
     ],
     "notes_quote": "특히 향수 컬렉션 '라르&라 마티에르'를 비롯해 앰버 플로럴 계열의 향을 담은 신제품 '뢰르 블루 오 드 퍼퓸'(30㎖·13만5천원) 등을 판매한다."
    }
   ],
-  "key_fact": "광주신세계에 프라다 뷰티가 입점해 향수 컬렉션 신제품 등을 판매한다.",
-  "key_fact_quote": "광주신세계, 호남 첫 '프라다 뷰티' 입점 특히 향수 컬렉션 '라르&라 마티에르'를 비롯해 앰버 플로럴 계열의 향을 담은 신제품 '뢰르 블루 오 드 퍼퓸'(30㎖·13만5천원) 등을 판매한다.",
+  "key_fact": "광주신세계에 프라다 뷰티가 호남 최초로 입점하여 향수 컬렉션 신제품 등을 판매한다.",
+  "key_fact_quote": "광주신세계, 호남 첫 '프라다 뷰티' 입점",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:22+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:32+00:00",
  "had_body": false
 }

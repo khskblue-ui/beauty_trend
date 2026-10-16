@@ -1,0 +1,67 @@
+{
+ "doc_id": "2fda13a22b96273d",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58472",
+ "title": "설화수, 모공·피지 케어 강화한 '옥용팩' 리뉴얼 출시",
+ "summary": "[코스인코리아닷컴 길태윤 기자]홀리스틱 뷰티를 추구하는 글로벌 럭셔리 뷰티 브랜드 설화수가 대표 필오프 마스크 ‘옥용팩’을 리뉴얼 출시했다. 이번 리뉴얼을 통해 모공 속 노폐물과 피지 케어 효능을 강화하고 진정 및 보습 성분을 보강하는 한편 사용감까지 개선해 더욱 편안한 피부 관리 경험을 제공한다. 옥용팩은 지난 19년간 누적 판매 1,130만 개를 기",
+ "published_at": "2026-10-08T16:59:11+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [],
+  "keywords": [
+   "필오프 마스크",
+   "모공 케어",
+   "피지 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "옥용팩",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "홀리스틱 뷰티를 추구하는 글로벌 럭셔리 뷰티 브랜드 설화수가 대표 필오프 마스크 ‘옥용팩’을 리뉴얼 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "설화수가 모공 및 피지 관리 기능과 보습 성분을 보강하여 필오프 마스크 옥용팩을 새롭게 선보였다.",
+  "key_fact_quote": "홀리스틱 뷰티를 추구하는 글로벌 럭셔리 뷰티 브랜드 설화수가 대표 필오프 마스크 ‘옥용팩’을 리뉴얼 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "콜라겐",
+    "quote": "콜라겐과 5종 히알루론산을 함유해 마스크 제거 후 느껴질 수 있는 피부 당김을 완화하고 촉촉한 피부를 유지하는 데 도움을 준다."
+   },
+   {
+    "name": "5종 히알루론산",
+    "quote": "콜라겐과 5종 히알루론산을 함유해 마스크 제거 후 느껴질 수 있는 피부 당김을 완화하고 촉촉한 피부를 유지하는 데 도움을 준다."
+   },
+   {
+    "name": "자음단®",
+    "quote": "여기에 설화수의 독자 성분인 ‘자음단®’을 더해 피부 장벽을 케어하고 민감해진 피부를 편안하게 진정시켜 균형 잡힌 피부 상태를 유지하도록 돕는다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:18+00:00",
+ "had_body": true
+}

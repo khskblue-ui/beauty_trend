@@ -1,0 +1,55 @@
+{
+ "doc_id": "0d2e29ee789433a4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ppss.kr/news/articleView.html?idxno=308703",
+ "title": "디올 뷰티 '쟈도르', 헤어 리추얼로 확장…쉬머링 미스트 출시",
+ "summary": "크리스챤 디올 뷰티가 대표 향수 '쟈도르'의 제품군을 헤어 리추얼 영역으로 확대한다. 디올 뷰티는 쟈도르... 신제품 은 전국 크리스챤 디올 뷰티 오프라인 매장과 디올 뷰티 온라인 부티크, 주요 온라인몰 및 카카오톡...",
+ "published_at": "2026-09-03T14:13:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "디올 뷰티",
+   "크리스챤 디올 뷰티",
+   "쟈도르"
+  ],
+  "companies": [
+   "크리스챤 디올 뷰티"
+  ],
+  "keywords": [
+   "헤어 리추얼",
+   "쉬머링 미스트",
+   "헤어 미스트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "쉬머링 미스트",
+    "brand": "디올 뷰티",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "크리스챤 디올 뷰티가 대표 향수 쟈도르의 제품군을 헤어 리추얼 영역으로 확장하며 쉬머링 미스트를 선보인다.",
+  "key_fact_quote": "크리스챤 디올 뷰티가 대표 향수 '쟈도르'의 제품군을 헤어 리추얼 영역으로 확대한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:48+00:00",
+ "had_body": false
+}

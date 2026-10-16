@@ -1,0 +1,88 @@
+{
+ "doc_id": "59760d502d4ec9a7",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/bormioli-luigi-unveils-indue-the,28317",
+ "title": "Bormioli Luigi unveils Indue, the first dual-compartment glass bottle",
+ "summary": "Designed for formulations mixed at the time of application, dual-chamber bottles have so far been available only in plastic. Bormioli Luigi is now introducing a glass version, bringing an added dimension of luxury to the format. Unveiled at Luxe Pack Monaco 2026, held September 28–30, the Indue concept is paired with a dispensing pump developed by Aptar Beauty. The Indue double-chamber glass bottle is designed for formulations in which active ingredients need to remain separate until the...",
+ "published_at": "2026-10-09T06:13:46+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "IT",
+   "MC"
+  ],
+  "brands": [],
+  "companies": [
+   "Bormioli Luigi",
+   "Aptar Beauty"
+  ],
+  "keywords": [
+   "듀얼 챔버 용기",
+   "화장품 패키징",
+   "유리 용기"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Indue",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Bormioli Luigi unveils Indue, the first dual-compartment glass bottle",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "보르미올리 루이지가 압타르 뷰티와 협력하여 두 제형을 분리 보관하다 토출 시 혼합하는 최초의 이중 구획 유리병 인두에를 공개했다.",
+  "key_fact_quote": "Bormioli Luigi unveils Indue, the first dual-compartment glass bottle",
+  "events": [
+   {
+    "name": "Luxe Pack Monaco 2026",
+    "start_date": "2026-09-28",
+    "end_date": "2026-09-30",
+    "place": "Monaco",
+    "quote": "Unveiled at Luxe Pack Monaco 2026, held September 28–30, the Indue concept is paired with a dispensing pump developed by Aptar Beauty."
+   },
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "vitamin C",
+    "quote": "This is particularly relevant for vitamin C, whose stability and antioxidant properties can be compromised by exposure to air or interaction with other active ingredients."
+   },
+   {
+    "name": "niacinamide",
+    "quote": "Other actives, including niacinamide, retinol and AHAs, as well as biphasic formulations combining aqueous and oily phases, can also benefit from on-demand mixing."
+   },
+   {
+    "name": "retinol",
+    "quote": "Other actives, including niacinamide, retinol and AHAs, as well as biphasic formulations combining aqueous and oily phases, can also benefit from on-demand mixing."
+   },
+   {
+    "name": "AHAs",
+    "quote": "Other actives, including niacinamide, retinol and AHAs, as well as biphasic formulations combining aqueous and oily phases, can also benefit from on-demand mixing."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:17+00:00",
+ "had_body": true
+}

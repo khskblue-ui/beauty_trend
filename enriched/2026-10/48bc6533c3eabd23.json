@@ -5,56 +5,40 @@
  "group": "kr_news",
  "lang": "ko",
  "url": "https://www.ibabynews.com/news/articleView.html?idxno=154918",
- "title": "[뷰티 트렌드] 신유정 에이블씨엔씨 대표, 英 포브스서 '개인화·하이브...",
- "summary": "전시 주요 제품인 해피바스 '달잠'은 하루의 끝을 편안하게 마무리할 수 있도록 지난 2월 출시 한 프리미엄 바디 케어 라인이다. 파우더리 라벤더 향을 담았으며 바디 워시, 바디 로션, 바디미스트 등 3종으로 구성됐다. 달잠...",
+ "title": "[ 뷰티 트렌드] 신유정 에이블씨엔씨 대표, 英 포브스서 '개인화·하이브...",
+ "summary": "국내외 뷰티 ·생활건강 기업들이 발표한 신제품 출시 , 성분·기술 연구, 캠페인, 사회공헌 활동 등 다양한 소식 가운데 일상 속 피부 건강과 자기관리, 가족의 삶의 질 향상에 도움이 되는 정보를 선별해 소개한다....",
  "published_at": "2026-10-01T19:32:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "바디미스트 출시",
+ "query": "뷰티 신제품 출시",
  "doc_type": null,
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "body",
+  "category": "business",
   "event_type": "market_trend",
   "countries": [
    "KR",
    "GB"
   ],
-  "brands": [
-   "해피바스"
-  ],
+  "brands": [],
   "companies": [
    "에이블씨엔씨"
   ],
   "keywords": [
-   "바디 케어",
-   "바디 워시",
-   "바디 로션",
-   "바디미스트"
+   "뷰티 트렌드",
+   "개인화"
   ],
   "is_press_release": false,
-  "products": [
-   {
-    "name": "달잠",
-    "brand": "해피바스",
-    "launch_date": null,
-    "launch_status": "unknown",
-    "launch_quote": null,
-    "notes": [
-     "파우더리 라벤더 향"
-    ],
-    "notes_quote": "파우더리 라벤더 향을 담았으며 바디 워시, 바디 로션, 바디미스트 등 3종으로 구성됐다."
-   }
-  ],
-  "key_fact": "해피바스의 바디 케어 라인 달잠은 파우더리 라벤더 향을 담은 제품군으로 구성되어 있다.",
-  "key_fact_quote": "전시 주요 제품인 해피바스 '달잠'은 하루의 끝을 편안하게 마무리할 수 있도록 지난 2월 출시 한 프리미엄 바디 케어 라인이다.",
+  "products": [],
+  "key_fact": "에이블씨엔씨 대표가 영국 포브스에서 개인화 및 하이브리드 관련 뷰티 트렌드를 언급했다.",
+  "key_fact_quote": "신유정 에이블씨엔씨 대표, 英 포브스서 '개인화·하이브...",
   "events": [],
   "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:42+00:00",
+ "enriched_at": "2026-10-15T15:17:10+00:00",
  "had_body": false
 }

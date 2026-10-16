@@ -1,0 +1,56 @@
+{
+ "doc_id": "474cb3d71b164b19",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sportsseoul.com/news/read/1638904?ref=naver",
+ "title": "시술 후 피부에 주목했다…바임, ‘쥬베룩 선크림’ 출시",
+ "summary": "이번 신제품 은 피부 전문 관리 직후 일시적으로 약해질 수 있는 피부 장벽과 외부 자극, 자외선 노출을... 제품은 주름개선·미백·자외선차단 3중 기능성 화장품 으로 식품의약품안전처에 보고됐다. 바임 관계자는...",
+ "published_at": "2026-10-01T16:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "쥬베룩"
+  ],
+  "companies": [
+   "바임"
+  ],
+  "keywords": [
+   "선크림",
+   "기능성 화장품",
+   "자외선 차단제"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "쥬베룩 선크림",
+    "brand": "쥬베룩",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "시술 후 피부에 주목했다…바임, ‘쥬베룩 선크림’ 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "바임이 시술 후 약해진 피부 장벽과 자외선 노출을 케어하는 선크림 신제품을 출시했다.",
+  "key_fact_quote": "시술 후 피부에 주목했다…바임, ‘쥬베룩 선크림’ 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:28+00:00",
+ "had_body": false
+}

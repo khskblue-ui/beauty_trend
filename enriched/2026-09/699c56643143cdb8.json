@@ -1,0 +1,53 @@
+{
+ "doc_id": "699c56643143cdb8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.handmk.com/news/articleView.html?idxno=43381",
+ "title": "퍼퓸 드 말리, 신제품 향수 '알테어 익스클루시브' 출시",
+ "summary": "향수 브랜드 퍼퓸 드 말리가 버번 바닐라를 중심으로 아마레토와 사프란, 우디 계열 향을 조합한 신제품 '알테어 익스클루시브'를 출시한다고 밝혔다. 알테어 익스클루시브는 퍼퓸 드 말리가 2023년 선보인 '알테어'를...",
+ "published_at": "2026-09-21T08:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "퍼퓸 드 말리"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수",
+   "신제품 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "알테어 익스클루시브",
+    "brand": "퍼퓸 드 말리",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "버번 바닐라",
+     "아마레토",
+     "사프란",
+     "우디"
+    ],
+    "notes_quote": "버번 바닐라를 중심으로 아마레토와 사프란, 우디 계열 향을 조합한 신제품 '알테어 익스클루시브'를 출시한다고 밝혔다."
+   }
+  ],
+  "key_fact": "퍼퓸 드 말리가 신제품 향수 알테어 익스클루시브를 선보인다.",
+  "key_fact_quote": "향수 브랜드 퍼퓸 드 말리가 버번 바닐라를 중심으로 아마레토와 사프란, 우디 계열 향을 조합한 신제품 '알테어 익스클루시브'를 출시한다고 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:05+00:00",
+ "had_body": false
+}

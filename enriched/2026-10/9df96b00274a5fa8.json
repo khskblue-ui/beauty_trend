@@ -1,0 +1,70 @@
+{
+ "doc_id": "9df96b00274a5fa8",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100079",
+ "title": "K-뷰티 유럽 진출 거점, 파리에 문 열었다",
+ "summary": "한국보건산업진흥원(원장 고상백, 이하 진흥원)은 국내 중소 화장품 기업의 유럽 시장 진출을 지원하기 위한 K-뷰티 플래그십 허브 ‘mmm(Maison des Mille Muses)’을 9월 30일(수) 프랑스 파리에서 성공적으로 개소했다고 밝혔다.플래그십 허브는 주요 수출시장에서 제품 홍보·판매부터 인증, 바이어 연계까지 종합 지원하는 거점형 체험·판매장으로, 파리 허브는 올해 운영하는 2개 허브(프랑스 파리, 미국 로스앤젤레스) 가운데 가장 먼저 문을 열었다.개소 당일 현장에서는 사업 관계자와 참여 브랜드, 현지 미디어·인플루언서",
+ "published_at": "2026-10-07T09:44:32+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR",
+   "US",
+   "IT",
+   "DE"
+  ],
+  "brands": [],
+  "companies": [
+   "한국보건산업진흥원"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "플래그십 허브",
+   "뷰티테크"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국보건산업진흥원이 국내 중소 화장품 기업의 유럽 시장 진출을 지원하기 위해 프랑스 파리에 플래그십 허브를 개소했다.",
+  "key_fact_quote": "한국보건산업진흥원(원장 고상백, 이하 진흥원)은 국내 중소 화장품 기업의 유럽 시장 진출을 지원하기 위한 K-뷰티 플래그십 허브 ‘mmm(Maison des Mille Muses)’을 9월 30일(수) 프랑스 파리에서 성공적으로 개소했다고 밝혔다.",
+  "events": [
+   {
+    "name": "K-뷰티 플래그십 허브 ‘mmm’ 개소",
+    "start_date": "2026-09-30",
+    "end_date": null,
+    "place": "프랑스 파리",
+    "quote": "한국보건산업진흥원(원장 고상백, 이하 진흥원)은 국내 중소 화장품 기업의 유럽 시장 진출을 지원하기 위한 K-뷰티 플래그십 허브 ‘mmm(Maison des Mille Muses)’을 9월 30일(수) 프랑스 파리에서 성공적으로 개소했다고 밝혔다."
+   },
+   {
+    "name": "밀라노 팝업스토어",
+    "start_date": "2026-09-25",
+    "end_date": "2026-09-27",
+    "place": "이탈리아 밀라노",
+    "quote": "이번 파리 플래그십 허브 개소로 이탈리아 밀라노 팝업스토어(9.25.~27.), 독일 슈투트가르트 판매장(9.28. 개소)에 이어 유럽 3개 거점의 순차 개소가 마무리됐다."
+   },
+   {
+    "name": "독일 슈투트가르트 판매장 개소",
+    "start_date": "2026-09-28",
+    "end_date": null,
+    "place": "독일 슈투트가르트",
+    "quote": "이번 파리 플래그십 허브 개소로 이탈리아 밀라노 팝업스토어(9.25.~27.), 독일 슈투트가르트 판매장(9.28. 개소)에 이어 유럽 3개 거점의 순차 개소가 마무리됐다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:44+00:00",
+ "had_body": true
+}

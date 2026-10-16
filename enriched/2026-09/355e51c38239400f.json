@@ -1,0 +1,42 @@
+{
+ "doc_id": "355e51c38239400f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1407334",
+ "title": "에누리 가격비교, '뷰티 디바이스 전문관' 오픈…\"제품·기술· 화장품 정...",
+ "summary": "전문관은 △탄력·미백 등 피부 고민별 제품 추천 △사용 상황별 디바이스 추천 △에누리 화장품 DB 기반의 디바이스별 맞춤 화장품 추천 △RF·HIFU·EMS 등 기술별 사용 원칙 △인기 및 신제품 정보와 가격 비교를 제공하는...",
+ "published_at": "2026-09-17T14:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에누리"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "맞춤 화장품",
+   "가격 비교"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에누리 가격비교가 피부 고민별 제품 추천 및 맞춤 화장품 추천 등을 제공하는 뷰티 디바이스 전문관을 열었다.",
+  "key_fact_quote": "에누리 가격비교, '뷰티 디바이스 전문관' 오픈…",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:28+00:00",
+ "had_body": false
+}

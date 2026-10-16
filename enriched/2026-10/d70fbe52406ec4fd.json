@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "other",
-  "event_type": "market_trend",
+  "event_type": "event",
   "countries": [
    "MC",
    "FR",
@@ -46,42 +46,17 @@
    "House of Taejin"
   ],
   "keywords": [
-   "리필 패키징",
    "친환경 패키징",
-   "단일 소재",
-   "바이오 플라스틱",
-   "고급 패키징"
+   "리필 패키징",
+   "화장품 용기"
   ],
   "is_press_release": false,
   "products": [
    {
-    "name": "Reverre jar",
-    "brand": null,
-    "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "KissKiss",
+    "name": "KissKiss lipstick",
     "brand": "Guerlain",
     "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "Melodie Pirouette",
-    "brand": null,
-    "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "Melodie Pirouette SNI 13",
-    "brand": null,
-    "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -90,6 +65,7 @@
     "name": "Les Essences Précieuses",
     "brand": "Stendhal",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -98,65 +74,28 @@
     "name": "La Favorite",
     "brand": "Jean Paul Gaultier",
     "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "Slanted Ball Tube",
-    "brand": null,
-    "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "MakeUp by Albéa",
-    "brand": null,
-    "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "Kute Beauty",
-    "brand": null,
-    "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "Amara",
-    "brand": null,
-    "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "Balmy",
-    "brand": null,
-    "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "Smart Kiss",
-    "brand": null,
-    "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "모나코에서 열린 고급 패키징 박람회에서는 리필 가능성, 차별화된 소재, 바이오 기반 플라스틱 및 재활용성을 고려한 친환경 패키징 트렌드가 주요하게 제시되었다.",
-  "key_fact_quote": "Refillability, distinctive materials, innovative decoration solutions, a lower environmental footprint, and evolving supply chains: at Luxe Pack Monaco 2026, high-end packaging manufacturers showcased innovations addressing the drive for premiumisation, changing consumer expectations, and new regulatory requirements.",
+  "key_fact": "럭스 팩 모나코에서 친환경과 리필 가능성 중심의 고급 화장품 패키징 트렌드가 소개되었다.",
+  "key_fact_quote": "From refillable solutions and all-aluminum components to caps made from 90% recycled zamak, bio-based polymers, and strategies to bring production closer to key markets, the trade show, held from September 28 to 30, 2026, highlighted the transformations reshaping fragrance and cosmetics packaging.",
+  "events": [
+   {
+    "name": "Luxe Pack Monaco 2026",
+    "start_date": "2026-09-28",
+    "end_date": "2026-09-30",
+    "place": null,
+    "quote": "From refillable solutions and all-aluminum components to caps made from 90% recycled zamak, bio-based polymers, and strategies to bring production closer to key markets, the trade show, held from September 28 to 30, 2026, highlighted the transformations reshaping fragrance and cosmetics packaging."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:14+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:12+00:00",
  "had_body": true
 }

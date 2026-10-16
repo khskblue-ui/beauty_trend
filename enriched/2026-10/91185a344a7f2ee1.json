@@ -1,0 +1,52 @@
+{
+ "doc_id": "91185a344a7f2ee1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.lawissue.co.kr/view.php?ud=202610012345585857204ead0791_12",
+ "title": "쓰리시스, 스킨케어 브랜드 ‘야무’ 론칭 …3종 라인업 선봬",
+ "summary": "뷰티 전문기업 쓰리시스가 마이크로바이옴을 기반으로 한 스킨케어 브랜드 ‘야무(YAMU)’를 선보였다. 브랜드 출범과 함께 피부 관리 단계를 줄이고 핵심 성분에 집중하는 3종 제품을 출시했다. 야무의 첫 제품군인...",
+ "published_at": "2026-10-01T23:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "야무",
+   "YAMU"
+  ],
+  "companies": [
+   "쓰리시스"
+  ],
+  "keywords": [
+   "마이크로바이옴",
+   "스킨케어 브랜드",
+   "스킵케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "뷰티 전문기업 쓰리시스가 마이크로바이옴 기반 스킨케어 브랜드 야무를 선보이며 라인업을 출시했다.",
+  "key_fact_quote": "뷰티 전문기업 쓰리시스가 마이크로바이옴을 기반으로 한 스킨케어 브랜드 ‘야무(YAMU)’를 선보였다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "마이크로바이옴",
+    "quote": "뷰티 전문기업 쓰리시스가 마이크로바이옴을 기반으로 한 스킨케어 브랜드 ‘야무(YAMU)’를 선보였다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:01+00:00",
+ "had_body": false
+}

@@ -1,0 +1,58 @@
+{
+ "doc_id": "ce8c5837fba859cb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ngetnews.com/news/articleView.html?idxno=554035",
+ "title": "1030 잡은 무신사 뷰티 로 ' 신제품 ' 몰린다…월평균 100개 단독 선론칭",
+ "summary": "지난 8월에는 맥이 장 미셸 바스키아 협업 한정판 에디션을 무신사 뷰티 온라인에서 단독 선론칭했다. 대기업 브랜드의 신제품 출시 도 이어지고 있다. 애경산업 메이크업 브랜드 '루나(LUNA)'는 지난달 30일 새로운 라인업...",
+ "published_at": "2026-10-05T07:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "맥",
+   "루나"
+  ],
+  "companies": [
+   "무신사",
+   "애경산업"
+  ],
+  "keywords": [
+   "단독 선론칭",
+   "한정판 에디션",
+   "메이크업"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "장 미셸 바스키아 협업 한정판 에디션",
+    "brand": "맥",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "지난 8월에는 맥이 장 미셸 바스키아 협업 한정판 에디션을 무신사 뷰티 온라인에서 단독 선론칭했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "무신사 뷰티가 젊은 소비자층을 사로잡으며 뷰티 브랜드들의 신제품 단독 선론칭 플랫폼으로 주목받고 있다.",
+  "key_fact_quote": "1030 잡은 무신사 뷰티 로 ' 신제품 ' 몰린다…월평균 100개 단독 선론칭",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:02+00:00",
+ "had_body": false
+}

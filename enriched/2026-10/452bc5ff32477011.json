@@ -1,0 +1,44 @@
+{
+ "doc_id": "452bc5ff32477011",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.lawissue.co.kr/view.php?ud=202610021041272788204ead0791_12",
+ "title": "무신사 뷰티 , 올해 월평균 100여개 신제품 단독 선론칭",
+ "summary": "무신사 뷰티 구매 고객 중 10~30대가 차지하는 비중은 약 80%다. 브랜드들은 이 같은 고객 구성을 바탕으로 신제품 출시 시점에 젊은 소비자층과 접점을 확보하고 상품 관련 콘텐츠를 함께 선보이고 있다. 선론칭 이후...",
+ "published_at": "2026-10-02T10:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "뷰티 커머스",
+   "선론칭",
+   "신제품 출시"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "무신사 뷰티는 젊은 소비자층을 바탕으로 매달 다수의 신제품을 단독으로 먼저 선보이고 있다.",
+  "key_fact_quote": "무신사 뷰티 , 올해 월평균 100여개 신제품 단독 선론칭",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:07+00:00",
+ "had_body": false
+}

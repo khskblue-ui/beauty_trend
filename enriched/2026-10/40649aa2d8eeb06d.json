@@ -1,0 +1,54 @@
+{
+ "doc_id": "40649aa2d8eeb06d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815053",
+ "title": "[Weekly 뷰티] 구다이글로벌·코스맥스·LG생활건강·라보에이치·무신사...",
+ "summary": "발표는 스킨케어 기반기술, 메이크업, 선케어, 헤어케어, 향료 등 전 분야에 걸쳐 이뤄졌다. 자외선 차단 분야에서만 3건을 발표했고, AI 기반 원형탈모 예측 모델, 남극 마이크로바이옴을 활용한 현지 임상 연구 등도...",
+ "published_at": "2026-10-06T16:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라보에이치"
+  ],
+  "companies": [
+   "구다이글로벌",
+   "코스맥스",
+   "LG생활건강",
+   "무신사"
+  ],
+  "keywords": [
+   "스킨케어 기반기술",
+   "선케어",
+   "마이크로바이옴"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "스킨케어와 선케어 및 향료 등 뷰티 전 분야에 걸친 연구 발표가 진행되었다.",
+  "key_fact_quote": "발표는 스킨케어 기반기술, 메이크업, 선케어, 헤어케어, 향료 등 전 분야에 걸쳐 이뤄졌다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "남극 마이크로바이옴",
+    "quote": "AI 기반 원형탈모 예측 모델, 남극 마이크로바이옴을 활용한 현지 임상 연구 등도..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:42+00:00",
+ "had_body": false
+}

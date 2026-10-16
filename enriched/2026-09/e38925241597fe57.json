@@ -1,0 +1,51 @@
+{
+ "doc_id": "e38925241597fe57",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.wkorea.com/2026/09/23/%ed%99%94%ec%9e%a5%eb%8c%80%ec%97%90-%ec%97%86%ec%9c%bc%eb%a9%b4-%eb%b6%88%ec%95%88%ed%95%9c-%ec%8a%a4%ed%82%a8%ec%bc%80%ec%96%b4-%ec%95%84%ec%9d%b4%ed%85%9c-11/?utm_source=naver&utm_medium=partnership",
+ "title": "화장대에 없으면 불안한 스킨케어 아이템 11",
+ "summary": "사악한 가격만이 유일한 단점.”- 이현정( 뷰티 디렉터) CHANEL수블리마지 렉스트레 드 뉘밤 사이 피부... 수많은 신제품 을 테스트하다가도 결국 다시 돌아오는 이유는 30대 중반인 지금까지 탄력이나 주름, 모공이...",
+ "published_at": "2026-09-23T15:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "CHANEL"
+  ],
+  "companies": [],
+  "keywords": [
+   "스킨케어 아이템",
+   "탄력 케어",
+   "안티에이징"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "수블리마지 렉스트레 드 뉘",
+    "brand": "CHANEL",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 전문가가 탄력과 주름 개선을 위해 지속적으로 사용하는 스킨케어 제품을 추천한다.",
+  "key_fact_quote": "수많은 신제품 을 테스트하다가도 결국 다시 돌아오는 이유는 30대 중반인 지금까지 탄력이나 주름, 모공이...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:37+00:00",
+ "had_body": false
+}

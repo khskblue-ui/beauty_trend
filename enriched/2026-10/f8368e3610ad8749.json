@@ -1,0 +1,81 @@
+{
+ "doc_id": "f8368e3610ad8749",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100026",
+ "title": "클라랑스, ‘젤리 립 오일 컬렉션’",
+ "summary": "유럽 스킨케어 브랜드 클라랑스가 10월, 베스트셀러 ‘립 컴포트 오일’을 특별하게 만나볼 수 있는 ‘젤리 립 오일 컬렉션’을 전개한다. 달콤한 과일을 연상시키는 립 오일 컬러와 매치한 젤리 미러 참을 함께 선보이며, 제품을 사용하는 즐거움에 소장하는 재미까지 더했다.10월 1일부터 31일까지 진행되는 이번 프로모션에서는 ‘립 컴포트 오일’ 1개 구매 시 해당 컬러를 모티브로 한 ‘젤리 미러 참’ 1종을 한정 수량 증정한다. 전국 클라랑스 백화점 매장에서는 스트로베리 #08과 스트로베리 참을, 카카오톡 선물하기를 제외한 클라랑스 공식",
+ "published_at": "2026-10-01T13:02:31+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "클라랑스",
+   "팝마트",
+   "POP MART"
+  ],
+  "companies": [
+   "클라랑스"
+  ],
+  "keywords": [
+   "립 오일",
+   "리미티드 컬렉션",
+   "아트토이 콜라보"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "젤리 립 오일 컬렉션",
+    "brand": "클라랑스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "유럽 스킨케어 브랜드 클라랑스가 10월, 베스트셀러 ‘립 컴포트 오일’을 특별하게 만나볼 수 있는 ‘젤리 립 오일 컬렉션’을 전개한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "립 컴포트 오일",
+    "brand": "클라랑스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "트리트먼트 에센스",
+    "brand": "클라랑스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "‘트리트먼트 에센스’ 2종은 몰리와 함께한 한정 패키지로 선보이며, 구매 시 몰리 백참과 기프트 파우치를 증정한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "클라랑스가 립 컴포트 오일과 젤리 미러 참을 매칭한 프로모션 컬렉션을 전개하며 팝마트 캐릭터와 협업한 리미티드 컬렉션도 함께 선보인다.",
+  "key_fact_quote": "유럽 스킨케어 브랜드 클라랑스가 10월, 베스트셀러 ‘립 컴포트 오일’을 특별하게 만나볼 수 있는 ‘젤리 립 오일 컬렉션’을 전개한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "식물성 오일",
+    "quote": "클라랑스 립 컴포트 오일은 식물성 오일을 함유해 입술을 촉촉하게 케어하는 동시에 맑고 생기 있는 컬러와 글로시한 광택을 선사해 데일리 립 케어부터 메이크업까지 다양하게 활용할 수 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:57+00:00",
+ "had_body": true
+}

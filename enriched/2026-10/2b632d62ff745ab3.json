@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": false,
   "category": "other",
-  "event_type": "event",
+  "event_type": "market_trend",
   "countries": [
    "KR",
    "US",
@@ -27,22 +27,32 @@
   ],
   "companies": [
    "대한무역투자진흥공사",
-   "아트박스",
-   "샤오망"
+   "샤오망",
+   "아트박스"
   ],
   "keywords": [
-   "소비재 수출 다변화",
+   "소비재 수출",
    "캐릭터 굿즈",
-   "팝업스토어"
+   "팝업 마케팅"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "대한무역투자진흥공사가 캐릭터 굿즈와 디자인 문구 등 한국 소비재의 수출 품목 다변화를 위해 해외 팝업스토어 등 지원 사업을 펼쳤다.",
+  "key_fact": "코트라는 캐릭터 굿즈와 디자인 문구 등으로 K-소비재 수출 품목을 다변화하기 위해 미국과 중국 등 주요 시장을 공략하고 있다.",
   "key_fact_quote": "K-뷰티·푸드·콘텐츠가 주도하는 K-컬처 인기가 전 세계로 확산되는 가운데 K-소비재 수출품을 캐릭터 굿즈·디자인 문구까지 다변화하려는 노력이 미국, 중국 등 주요 핵심 시장 대상으로 펼쳐졌다.",
+  "events": [
+   {
+    "name": "아트박스 팝업스토어",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-11",
+    "place": "LA 쇼핑의 성지인 멜로즈 애비뉴",
+    "quote": "코트라는 최근 방한 외국인의 인기 방문처로 자리 잡은 캐릭터 굿즈 및 팬시용품 유통망 아트박스와 협업해 10월 3일부터 9일간, LA 쇼핑의 성지인 멜로즈 애비뉴에서 ’아트박스 팝업스토어’ 쇼케이스 마케팅을 진행했다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:12+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:19+00:00",
  "had_body": true
 }

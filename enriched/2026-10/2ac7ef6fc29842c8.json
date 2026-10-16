@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "retail",
+  "category": "makeup",
   "event_type": "business",
   "countries": [
    "KR",
@@ -45,7 +45,7 @@
     "notes_quote": null
    }
   ],
-  "key_fact": "뷰티 브랜드 팁토우가 일본 세븐일레븐 전국 매장에 입점했다.",
+  "key_fact": "팁토우가 일본 세븐일레븐 전국 매장에 입점했다.",
   "key_fact_quote": "'큐텐이 픽한 K 뷰티 브랜드 '…팁토우, 日 세븐일레븐 전국 입점",
   "events": [],
   "ingredients": [],
@@ -53,6 +53,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:28+00:00",
+ "enriched_at": "2026-10-15T15:26:20+00:00",
  "had_body": false
 }

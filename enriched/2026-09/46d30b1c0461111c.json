@@ -1,0 +1,50 @@
+{
+ "doc_id": "46d30b1c0461111c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=261304",
+ "title": "아무아쥬, 고농축 향수 2종 국내 출시···도산·성수서 첫선",
+ "summary": "현대경제신문 전수연 기자 | 니치 향수 브랜드 아무아쥬가 향료 농도를 40% 이상으로 높인 '익셉셔널... 두 제품은 기존 디시전과 오버츄어 우먼에 담긴 이야기를 바탕으로 향료 구성과 농도, 숙성 기간을 새롭게...",
+ "published_at": "2026-09-10T16:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아무아쥬"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "고농축 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "익셉셔널",
+    "brand": "아무아쥬",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "니치 향수 브랜드 아무아쥬가 향료 농도를 대폭 높인 신제품 고농축 향수를 국내에 출시한다.",
+  "key_fact_quote": "아무아쥬, 고농축 향수 2종 국내 출시···도산·성수서 첫선",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:18+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "490bef47a8d0a4e7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12143718",
+ "title": "[매경포럼] 빨라지는 C뷰티의 추격",
+ "summary": "향수 등을 포함한 뷰티 전체 수출은 아직 한국이 프랑스의 절반 수준에 그친다. 하지만 향수 등을 제외하고... 만에 신제품 을 내놓는 생태계 경쟁력이 큰 역할을 했다. 해외에서는 한국의 이런 시스템을 '뷰티의 TSMC...",
+ "published_at": "2026-09-03T18:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "FR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 수출",
+   "생태계 경쟁력",
+   "C뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "향수 등을 포함한 전체 뷰티 수출에서 한국은 프랑스 수준에 미치지 못하지만 신제품 출시 생태계 경쟁력을 갖추고 있다.",
+  "key_fact_quote": "향수 등을 포함한 뷰티 전체 수출은 아직 한국이 프랑스의 절반 수준에 그친다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:37+00:00",
+ "had_body": false
+}

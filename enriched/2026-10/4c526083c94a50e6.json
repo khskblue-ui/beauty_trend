@@ -1,0 +1,95 @@
+{
+ "doc_id": "4c526083c94a50e6",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58430",
+ "title": "코이코, 국내 30여 개사 참여 ‘코스모뷰티 인도네시아 2026’ 한국관 운영",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 코이코(Korea Exhibition Company, 대표 조완수)가 국내 뷰티기업 약 30개사와 함께 1일부터 3일까지 인도네시아 탕에랑의 인도네시아 컨벤션 전시센터(ICE BSD City)에서 열리는 ‘코스모뷰티 인도네시아 2026(Cosmobeauté Indonesia 2026)’에 한국관을 구성해 운영한다고 1일 밝",
+ "published_at": "2026-10-01T22:06:03+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "ID",
+   "VN",
+   "MY"
+  ],
+  "brands": [
+   "다슈",
+   "달리프",
+   "오브먼트",
+   "메디큐브 에이지알"
+  ],
+  "companies": [
+   "코이코",
+   "인포마 마켓츠",
+   "코스맥스 인도네시아",
+   "크로마엑스",
+   "블루밍벤처",
+   "에이피알",
+   "케이에스성선국제",
+   "맥스코아 글로벌",
+   "빅토리아선 인터내셔날",
+   "아루다",
+   "브이온바이오",
+   "윈백고이스트",
+   "셀스케어",
+   "예그리나",
+   "쿠버사이언스",
+   "한솔생명과학",
+   "코엑스"
+  ],
+  "keywords": [
+   "뷰티 박람회",
+   "한국관",
+   "에스테틱",
+   "스킨부스터",
+   "메디컬뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코이코가 국내 뷰티기업들과 함께 인도네시아에서 열리는 코스모뷰티 인도네시아 박람회에 한국관을 구성해 운영한다.",
+  "key_fact_quote": "코이코(Korea Exhibition Company, 대표 조완수)가 국내 뷰티기업 약 30개사와 함께 1일부터 3일까지 인도네시아 탕에랑의 인도네시아 컨벤션 전시센터(ICE BSD City)에서 열리는 ‘코스모뷰티 인도네시아 2026(Cosmobeauté Indonesia 2026)’에 한국관을 구성해 운영한다고 1일 밝혔다.",
+  "events": [
+   {
+    "name": "코스모뷰티 인도네시아 2026(Cosmobeauté Indonesia 2026)",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-03",
+    "place": "인도네시아 탕에랑의 인도네시아 컨벤션 전시센터(ICE BSD City)",
+    "quote": "코이코(Korea Exhibition Company, 대표 조완수)가 국내 뷰티기업 약 30개사와 함께 1일부터 3일까지 인도네시아 탕에랑의 인도네시아 컨벤션 전시센터(ICE BSD City)에서 열리는 ‘코스모뷰티 인도네시아 2026(Cosmobeauté Indonesia 2026)’에 한국관을 구성해 운영한다고 1일 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PN",
+    "quote": "원료와 제조 분야에서는 예그리나와 쿠버사이언스, 한솔생명과학이 PN·PDRN과 레티놀, 엑소좀 등 현지에서 관심이 높은 성분과 포뮬러를 중심으로 ODM·OEM·자체 브랜드 서비스를 홍보한다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "원료와 제조 분야에서는 예그리나와 쿠버사이언스, 한솔생명과학이 PN·PDRN과 레티놀, 엑소좀 등 현지에서 관심이 높은 성분과 포뮬러를 중심으로 ODM·OEM·자체 브랜드 서비스를 홍보한다."
+   },
+   {
+    "name": "레티놀",
+    "quote": "원료와 제조 분야에서는 예그리나와 쿠버사이언스, 한솔생명과학이 PN·PDRN과 레티놀, 엑소좀 등 현지에서 관심이 높은 성분과 포뮬러를 중심으로 ODM·OEM·자체 브랜드 서비스를 홍보한다."
+   },
+   {
+    "name": "엑소좀",
+    "quote": "원료와 제조 분야에서는 예그리나와 쿠버사이언스, 한솔생명과학이 PN·PDRN과 레티놀, 엑소좀 등 현지에서 관심이 높은 성분과 포뮬러를 중심으로 ODM·OEM·자체 브랜드 서비스를 홍보한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:49+00:00",
+ "had_body": true
+}

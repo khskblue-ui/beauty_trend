@@ -1,0 +1,44 @@
+{
+ "doc_id": "0d562376df73bb2c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.khan.co.kr/article/202610020934001",
+ "title": "양주도 화장품도 제쳤다…인천공항 면세점 판매 1위 차지한 뜻밖의 제품",
+ "summary": "인천공항 면세점에서 흔히 볼 수 있는 인기 상품을 떠올리면 화장품이나 향수 , 주류 등이 먼저 나온다.... 대표적인 브랜드 로 언급하는 사례가 확인된다. 일본에서도 이삭토스트의 인지도가 확대되고 있다. 이삭토스트는...",
+ "published_at": "2026-10-02T09:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "이삭토스트"
+  ],
+  "companies": [],
+  "keywords": [
+   "면세점 인기 상품",
+   "면세점 판매"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인천공항 면세점에서 화장품이나 향수 등을 제치고 토스트 브랜드가 판매 상위권을 차지하며 주목받고 있다.",
+  "key_fact_quote": "양주도 화장품도 제쳤다…인천공항 면세점 판매 1위 차지한 뜻밖의 제품",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:14+00:00",
+ "had_body": false
+}

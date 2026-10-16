@@ -1,0 +1,40 @@
+{
+ "doc_id": "cdeeaa3139c8695f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=201792",
+ "title": "스킨케어, '기능'에서 '관리법'으로 진화한다 [최기자의 화장품 털기]",
+ "summary": "본지는 스킨케어, 메이크업, 바디, 헤어 등 화장품 트렌드를 품목별로 분석해 금주의 추천 화장품 을 소개한다 이번 주 스킨케어 신제품 시장에서는 피부 고민을 더욱 세밀하게 나누고, 성분뿐 아니라 사용 시간과...",
+ "published_at": "2026-09-19T00:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "스킨케어 트렌드",
+   "화장품 신제품",
+   "피부 고민"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "스킨케어 신제품 시장에서 피부 고민을 세밀하게 나누고 사용 시간 등을 고려하는 트렌드가 나타나고 있다.",
+  "key_fact_quote": "이번 주 스킨케어 신제품 시장에서는 피부 고민을 더욱 세밀하게 나누고, 성분뿐 아니라 사용 시간과...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:19+00:00",
+ "had_body": false
+}

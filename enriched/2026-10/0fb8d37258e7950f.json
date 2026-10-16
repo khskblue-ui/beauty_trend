@@ -1,0 +1,45 @@
+{
+ "doc_id": "0fb8d37258e7950f",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312069",
+ "title": "K-뷰티, '노출'보다 '이해'의 시대...미국 현지화 해법 제시 - 뷰티경제",
+ "summary": "미국 소비자들에게 K-뷰티는 더 이상 낯선 존재가 아니다. 아마존과 틱톡, 인스타그램 등을 통해 한국 화장품이 널리 알려지면서 K-뷰티는 미국 뷰티 시장의 주요",
+ "published_at": "2026-10-07T09:50:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "미국 시장",
+   "현지화 전략"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 화장품이 온라인 플랫폼을 통해 널리 알려지며 미국 뷰티 시장에서 주요한 위치를 차지하고 있다.",
+  "key_fact_quote": "아마존과 틱톡, 인스타그램 등을 통해 한국 화장품이 널리 알려지면서 K-뷰티는 미국 뷰티 시장의 주요",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:55+00:00",
+ "had_body": false
+}

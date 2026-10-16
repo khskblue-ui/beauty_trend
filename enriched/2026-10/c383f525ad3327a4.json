@@ -25,26 +25,29 @@
   ],
   "companies": [],
   "keywords": [
-   "홀리데이 컬렉션",
-   "한정판 메이크업"
+   "홀리데이 한정판",
+   "메이크업 신제품"
   ],
   "is_press_release": true,
   "products": [
    {
     "name": "2026 홀리데이 한정판 메이크업 제품",
     "brand": "디올 뷰티",
-    "launch_date": null,
-    "launch_quote": "공식 출시 일은 11월 1일이다.",
+    "launch_date": "2026-11-01",
+    "launch_status": "upcoming",
+    "launch_quote": "디올 뷰티 , 2026 홀리데이 한정판 메이크업 제품 출시",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "디올 뷰티가 홀리데이 한정판 메이크업 제품을 선보이며 온라인 부티크 선판매를 시작으로 공식 출시를 진행한다.",
+  "key_fact": "디올 뷰티가 홀리데이 한정판 메이크업 신제품을 선보인다.",
   "key_fact_quote": "디올 뷰티 , 2026 홀리데이 한정판 메이크업 제품 출시",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:14+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:10+00:00",
  "had_body": false
 }

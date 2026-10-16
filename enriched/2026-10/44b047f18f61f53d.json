@@ -1,0 +1,42 @@
+{
+ "doc_id": "44b047f18f61f53d",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53637",
+ "title": "[코스모닝] 화장품 안전성 보고 사례 1285건 중 ‘중대 사례는 0건’",
+ "summary": "식약처 2025년 화장품 안전성 정보 보고 사례 지난해 화장품 안전성과 관련한 보고 사례 1천285건 가운데 ‘사망·중대한 불구·기형 또는 이상을 초래하는 등 생명에 위협을 일으키는’ 중대 사례는 한 건도 없었다. 모두 ‘화장품 사용 중 발생한 의도하지 않은 징후·증상·질병을 말하며 반드시 화장품과 인과관계를 가져야 하는 것은 아님’에 해당하는 경미한 증상",
+ "published_at": "2026-10-02T16:52:15+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 안전성",
+   "알레르기 유발성분",
+   "유해사례"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지난해 화장품 안전성 정보 보고 사례 중 생명에 위협을 주는 중대 사례는 없었으며 모두 경미한 증상으로 확인되었다.",
+  "key_fact_quote": "지난해 화장품 안전성과 관련한 보고 사례 1천285건 가운데 ‘사망·중대한 불구·기형 또는 이상을 초래하는 등 생명에 위협을 일으키는’ 중대 사례는 한 건도 없었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:33+00:00",
+ "had_body": true
+}

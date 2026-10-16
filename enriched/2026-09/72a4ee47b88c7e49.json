@@ -1,0 +1,49 @@
+{
+ "doc_id": "72a4ee47b88c7e49",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.smartbizn.com/news/articleView.html?idxno=154323",
+ "title": "[추석특집] 스킨케어부터 헤어케어까지···뷰티업계, 추석 '맞춤 선물...",
+ "summary": "과거 화장품 세트 중심이던 명절 선물이 스킨케어와 향수 , 헤어·바디케어 등으로 세분화되고 할인과 맞춤형... 신제품 '하라케케 피디알엔' 라인은 20%, 싱글 섀도우와 젤리 블러셔 등 색조 제품은 30% 할인해 명절 선물과...",
+ "published_at": "2026-09-18T15:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "명절 선물",
+   "스킨케어 세트",
+   "맞춤형 선물"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "하라케케 피디알엔",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "명절 선물이 단순 화장품 세트 중심에서 스킨케어와 향수 및 헤어와 바디케어 등으로 세분화되고 있다.",
+  "key_fact_quote": "과거 화장품 세트 중심이던 명절 선물이 스킨케어와 향수 , 헤어·바디케어 등으로 세분화되고 할인과 맞춤형...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:07+00:00",
+ "had_body": false
+}

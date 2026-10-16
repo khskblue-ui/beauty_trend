@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "body",
+  "category": "business",
   "event_type": "business",
   "countries": [
    "CA"
@@ -28,17 +28,19 @@
   ],
   "keywords": [
    "셀프 태닝",
-   "사모펀드 인수",
-   "브랜드 확장"
+   "브랜드 인수",
+   "사모펀드 투자"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "사모펀드 운용사가 셀프 태닝 브랜드를 인수하여 제품군과 시장 확장을 추진한다.",
-  "key_fact_quote": "Private equity firm Gauge Capital plans to expand Vancouver-based Saltyface’s reach and product offerings.",
+  "key_fact": "사모펀드 게이지 캐피털이 밴쿠버 기반의 셀프 태닝 브랜드 솔티페이스를 인수했다.",
+  "key_fact_quote": "Gauge Capital Acquires Self-Tanning Brand Saltyface",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:09:14+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:41+00:00",
  "had_body": false
 }

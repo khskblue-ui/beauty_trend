@@ -14,7 +14,7 @@
  "doc_type": null,
  "celex": null,
  "extraction": {
-  "relevant": false,
+  "relevant": true,
   "category": "regulation",
   "event_type": "regulation",
   "countries": [
@@ -26,18 +26,29 @@
    "KATRI시험연구원"
   ],
   "keywords": [
-   "식품접촉재료",
    "포장재 규제",
-   "비표적 분석"
+   "비표적 분석",
+   "미네랄오일"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "KATRI시험연구원이 유럽연합의 식품접촉재료와 포장재 규제에 대응하기 위해 비표적 첨단 분석센터를 개소했다.",
+  "key_fact": "KATRI시험연구원이 유럽연합의 식품접촉재료 및 포장재 안전성 규제 대응을 위해 비표적 첨단 분석센터를 개소했다.",
   "key_fact_quote": "KATRI시험연구원(원장 신동준)이 유럽연합(EU)의 식품접촉재료와 포장재 안전성 규제에 대응하는 ‘비표적 첨단 분석센터’를 지난 6일 개소했다고 12일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "미네랄오일류",
+    "quote": "분석 대상을 사전에 특정하지 않아도 시료에서 검출되는 신호를 폭넓게 수집해 미지물질을 선별할 수 있어 식품접촉제품과 포장재에서 발생하는 NIAS는 물론 미네랄오일류(MOSH·MOAH), 원료와 완제품에 포함된 미지 불순물까지 추적할 수 있다."
+   },
+   {
+    "name": "과불화화합물",
+    "quote": "PPWR와 관련해서는 포장재의 중금속 함량과 식품접촉 포장재에 포함된 과불화화합물(PFAS) 등 유해물질을 분석하고 적합성 입증에 필요한 DoC와 TD 작성까지 돕는다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:14+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:11:43+00:00",
  "had_body": true
 }

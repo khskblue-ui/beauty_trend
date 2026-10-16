@@ -1,0 +1,45 @@
+{
+ "doc_id": "15fc3f73a9027123",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.srtimes.kr/news/articleView.html?idxno=213872",
+ "title": "CJ올리브영, 공식 뉴스룸 론칭 …K- 뷰티 콘텐츠 플랫폼 강화",
+ "summary": "글로벌 소비자의 관심도 단순 제품 구매를 넘어 최신 뷰티 트렌드와 신생 브랜드 스토리 등 K- 뷰티 자체를 깊이 이해하려는 정보 수요로 고도화되는 추세다. 실제 올리브영은 올해 1~9월 국내 매장 외국인 매출이...",
+ "published_at": "2026-10-02T13:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "콘텐츠 플랫폼",
+   "뷰티 트렌드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "씨제이올리브영이 케이뷰티 콘텐츠 플랫폼을 강화하기 위해 공식 뉴스룸을 론칭했다.",
+  "key_fact_quote": "CJ올리브영, 공식 뉴스룸 론칭 …K- 뷰티 콘텐츠 플랫폼 강화",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:58+00:00",
+ "had_body": false
+}

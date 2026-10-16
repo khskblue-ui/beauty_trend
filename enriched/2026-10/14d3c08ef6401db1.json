@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "other",
+  "category": "skincare",
   "event_type": "product_launch",
   "countries": [
    "KR"
@@ -27,7 +27,8 @@
    "덱시아"
   ],
   "keywords": [
-   "이너 뷰티"
+   "이너 뷰티",
+   "신제품 출시"
   ],
   "is_press_release": true,
   "products": [
@@ -35,17 +36,20 @@
     "name": "리프티놀 CRN 더 프리미엄",
     "brand": "덱시아",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "덱시아, 이너 뷰티 신제품 '리프티놀 CRN 더 프리미엄' 출시",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "덱시아는 신제품 출시를 통해 이너 뷰티 분야로 제품 영역을 확대했다.",
+  "key_fact": "덱시아가 이너 뷰티 신제품을 선보이며 제품 영역을 확대했다.",
   "key_fact_quote": "덱시아는 이번 신제품 출시 를 통해 이너 뷰티 분야로 제품 영역을 확대했다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:14+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:30+00:00",
  "had_body": false
 }

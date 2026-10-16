@@ -1,0 +1,74 @@
+{
+ "doc_id": "96379c77cb455a09",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=148115",
+ "title": "에디션 드 퍼퓸 프레데릭 말, '러버 인센스' 구성·컬러 개편",
+ "summary": "계열의 향을 구현했으며, 생 데 생은 우드와 인센스, 파촐리를 조합한 우디 계열로 구성했다. 조향사 카를로스 베나임이 만든 쥬라식 플라워는 매그놀리아를 중심으로 시트러스와 복숭아, 살구 계열의 향을 더했다.",
+ "published_at": "2026-09-01T14:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "에디션 드 퍼퓸 프레데릭 말"
+  ],
+  "companies": [],
+  "keywords": [
+   "인센스",
+   "홈 프래그런스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "러버 인센스",
+    "brand": "에디션 드 퍼퓸 프레데릭 말",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "생 데 생",
+    "brand": "에디션 드 퍼퓸 프레데릭 말",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "우드",
+     "인센스",
+     "파촐리",
+     "우디 계열"
+    ],
+    "notes_quote": "생 데 생은 우드와 인센스, 파촐리를 조합한 우디 계열로 구성했다."
+   },
+   {
+    "name": "쥬라식 플라워",
+    "brand": "에디션 드 퍼퓸 프레데릭 말",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [
+     "매그놀리아",
+     "시트러스",
+     "복숭아",
+     "살구"
+    ],
+    "notes_quote": "조향사 카를로스 베나임이 만든 쥬라식 플라워는 매그놀리아를 중심으로 시트러스와 복숭아, 살구 계열의 향을 더했다."
+   }
+  ],
+  "key_fact": "에디션 드 퍼퓸 프레데릭 말이 러버 인센스의 구성과 컬러를 개편했다.",
+  "key_fact_quote": "에디션 드 퍼퓸 프레데릭 말, '러버 인센스' 구성·컬러 개편",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:55+00:00",
+ "had_body": false
+}

@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "makeup",
+  "category": "business",
   "event_type": "business",
   "countries": [
    "GB"
@@ -29,16 +29,18 @@
   "keywords": [
    "색조 화장품",
    "브랜드 인수",
-   "메이크업 브랜드"
+   "브랜드 리론칭"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "영국 뷰티 기업 뷰티프로가 색조 화장품 경쟁력을 강화하기 위해 메이크업 브랜드 슈퍼커버를 인수했다.",
+  "key_fact": "영국 뷰티 기업 뷰티프로가 색조 화장품 사업을 강화하기 위해 메이크업 브랜드 슈퍼커버를 인수했다.",
   "key_fact_quote": "BeautyPro acquires Supercover to bolster colour cosmetics offering",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:42+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:01+00:00",
  "had_body": false
 }

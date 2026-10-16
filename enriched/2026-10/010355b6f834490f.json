@@ -1,0 +1,45 @@
+{
+ "doc_id": "010355b6f834490f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thebilliards.kr/news/articleView.html?idxno=32119",
+ "title": "에비에코리아, 두바이 '뷰티월드 미들 이스트 2026' 참가…중동 시장 접...",
+ "summary": "'뷰티월드 미들 이스트'는 스킨케어와 퍼스널케어, 향수 , 헤어, 뷰티테크 등 다양한 분야의 브랜드 와 바이어가 참여하는 국제 뷰티 전시회다. 지난해에는 68개국 2,500개 이상의 기업과 178개국에서 8만5,000여 명의...",
+ "published_at": "2026-10-08T15:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "AE",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에비에코리아"
+  ],
+  "keywords": [
+   "뷰티 전시회",
+   "국제 전시회",
+   "중동 시장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에비에코리아가 두바이에서 열리는 뷰티월드 미들 이스트에 참가하여 중동 시장 공략에 나선다.",
+  "key_fact_quote": "에비에코리아, 두바이 '뷰티월드 미들 이스트 2026' 참가…중동 시장 접...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:06+00:00",
+ "had_body": false
+}

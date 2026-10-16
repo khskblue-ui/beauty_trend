@@ -1,0 +1,41 @@
+{
+ "doc_id": "786fc2abc57dd73e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.chosun.com/economy/industry-company/2026/10/10/GFHINJFZJZGDDG6BEYYPJWNKKQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+ "title": "반도체 팔다가 화장품 1조6000억원 파는 스타트업... 김성운 창업자의 ‘...",
+ "summary": "개별 업체 역량에 맡기니, 알음알음 해외 오더 따내고 했는데 그걸로는 확장이 불가능했던 거죠.” -화장품 말고도 다른 한국 소비재의 수출 에도 올라탈 수 있다? “되게 재밌는 게, ‘ K뷰티 로드’라는 표현을 써요....",
+ "published_at": "2026-10-10T06:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "반도체를 다루다 화장품 분야에서 대규모 매출을 올리는 스타트업 창업자가 해외 확장 및 수출에 대해 언급했다.",
+  "key_fact_quote": "반도체 팔다가 화장품 1조6000억원 파는 스타트업... 김성운 창업자의 ‘...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:23+00:00",
+ "had_body": false
+}

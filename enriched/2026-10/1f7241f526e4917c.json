@@ -1,0 +1,42 @@
+{
+ "doc_id": "1f7241f526e4917c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202610041204283831",
+ "title": "스킨케어 다음은 색조… K뷰티 , 글로벌 영토 넓힌다",
+ "summary": "스킨케어 중심으로 수출 이 급성장하면서 색조화장품 비중은 상대적으로 감소한 것이다. K뷰티 가 스킨케어 중심으로 성장한 것은 색조화장품의 해외 진출이 상대적으로 까다롭기 때문이다. 국가와 인종별로 피부톤이...",
+ "published_at": "2026-10-04T14:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "색조화장품",
+   "스킨케어",
+   "해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "케이뷰티가 스킨케어에 이어 색조 화장품 분야로 글로벌 시장 확장을 도모하고 있다.",
+  "key_fact_quote": "스킨케어 다음은 색조… K뷰티 , 글로벌 영토 넓힌다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:29+00:00",
+ "had_body": false
+}

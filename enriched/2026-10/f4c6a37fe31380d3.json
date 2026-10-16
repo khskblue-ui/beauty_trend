@@ -1,0 +1,41 @@
+{
+ "doc_id": "f4c6a37fe31380d3",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=311513",
+ "title": "China's Facial Mist Boom Signals a New Era of High-Frequency Beauty - 뷰티경제",
+ "summary": "Facial mists, once considered a secondary skincare product used primarily for hydration, a",
+ "published_at": "2026-10-08T13:55:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "페이스 미스트",
+   "스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국에서 페이스 미스트의 인기가 높아지며 새로운 뷰티 시대를 맞이하고 있다.",
+  "key_fact_quote": "China's Facial Mist Boom Signals a New Era of High-Frequency Beauty",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:00+00:00",
+ "had_body": false
+}

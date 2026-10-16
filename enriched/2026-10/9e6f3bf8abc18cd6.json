@@ -1,0 +1,46 @@
+{
+ "doc_id": "9e6f3bf8abc18cd6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newstomato.com/ReadNews.aspx?no=1315529&inflow=N",
+ "title": "올리브영, '공식 뉴스룸' 론칭 …K 뷰티 콘텐츠 강화",
+ "summary": "YOUNG)'을 론칭 한다고 밝혔습니다. K 뷰티 의 글로벌 영향력이 확대되는 가운데 자체 기획 콘텐츠를 통해 산업 트렌드와 브랜드 성장 과정 등을 전달하고 국내외 고객과의 소통을 확대한다는 취지입니다. 올리브영이...",
+ "published_at": "2026-10-02T11:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "공식 뉴스룸",
+   "자체 기획 콘텐츠",
+   "글로벌 소통"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "올리브영이 자체 기획 콘텐츠를 통해 산업 트렌드를 전달하고 소통을 확대하기 위해 공식 뉴스룸을 론칭한다.",
+  "key_fact_quote": "K 뷰티 의 글로벌 영향력이 확대되는 가운데 자체 기획 콘텐츠를 통해 산업 트렌드와 브랜드 성장 과정 등을 전달하고 국내외 고객과의 소통을 확대한다는 취지입니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:58+00:00",
+ "had_body": false
+}

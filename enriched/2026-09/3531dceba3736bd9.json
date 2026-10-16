@@ -1,0 +1,50 @@
+{
+ "doc_id": "3531dceba3736bd9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=482731",
+ "title": "향수에 '차'를 우렸다…에따 리브르 도랑쥬 첫 티 향수",
+ "summary": "조향은 프랑스 그라스 출신의 조향사 마티외 나르댕(Mathieu Nardin)이 맡았다. 브랜드는 이번 향수의 콘셉트에 거친 바다에서 항해자를 수호하는 여신 '마조(Mazu)'의 상징성을 반영했다고 설명했다. '어보브 더 웨이브...",
+ "published_at": "2026-09-01T15:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "에따 리브르 도랑쥬"
+  ],
+  "companies": [],
+  "keywords": [
+   "티 향수",
+   "니치 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "어보브 더 웨이브",
+    "brand": "에따 리브르 도랑쥬",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에따 리브르 도랑쥬가 마티외 나르댕 조향사와 함께 여신 마조의 상징성을 반영한 첫 티 향수를 선보인다.",
+  "key_fact_quote": "향수에 '차'를 우렸다…에따 리브르 도랑쥬 첫 티 향수",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:53+00:00",
+ "had_body": false
+}

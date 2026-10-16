@@ -1,0 +1,70 @@
+{
+ "doc_id": "1bf91496372242d9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.segye.com/newsView/20260922514370?OutUrl=naver",
+ "title": "뷰티 업계 부는 AI 바람…체험·진단 서비스로 소비자 접점 넓힌다",
+ "summary": "아모레퍼시픽 제공 23일 뷰티 업계에 따르면 설화수는 자음생크림 출시 60주년을 기념해 팝업스토어... 신제품 ‘스킨 퍼스트 히든 프렙 파운데이션 팩트’와 ‘시그니처 에센스 팩트’ 등 색조 제품을 직접 체험할...",
+ "published_at": "2026-09-23T17:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "체험 서비스",
+   "진단 서비스",
+   "팝업스토어",
+   "색조 제품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "자음생크림",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스킨 퍼스트 히든 프렙 파운데이션 팩트",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "시그니처 에센스 팩트",
+    "brand": null,
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 업계가 인공지능을 활용한 체험 및 진단 서비스와 팝업스토어 등을 통해 소비자 접점을 넓히고 있다.",
+  "key_fact_quote": "뷰티 업계 부는 AI 바람…체험·진단 서비스로 소비자 접점 넓힌다",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:51+00:00",
+ "had_body": false
+}

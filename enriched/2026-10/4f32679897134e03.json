@@ -18,20 +18,20 @@
   "category": "makeup",
   "event_type": "event",
   "countries": [
-   "US",
-   "KR"
+   "US"
   ],
   "brands": [
-   "정샘물뷰티",
-   "정샘물"
+   "정샘물",
+   "정샘물뷰티"
   ],
   "companies": [
    "정샘물뷰티",
    "세포라"
   ],
   "keywords": [
-   "팝업스토어",
    "베이스 메이크업",
+   "쿠션",
+   "팝업스토어",
    "쉐이드 매칭"
   ],
   "is_press_release": true,
@@ -40,17 +40,28 @@
     "name": "에센셜 스킨 누더 쿠션",
     "brand": "정샘물뷰티",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "정샘물뷰티가 미국 세포라 입점을 기념해 현지 팝업스토어를 열고 맞춤형 베이스 메이크업을 선보였다.",
-  "key_fact_quote": "정샘물뷰티가 3일부터 4일까지 미국 LA 더그로브 야외광장에서 팝업스토어를 운영했다. 이번 팝업스토어는 정샘물의 미국 세포라 입점을 기념하고, 베이스 메이크업의 전문성을 알리기 위해 마련했다.",
+  "key_fact": "정샘물뷰티가 미국 세포라 입점을 기념하여 현지에서 팝업스토어를 운영하며 맞춤형 베이스 메이크업 서비스를 선보였다.",
+  "key_fact_quote": "정샘물뷰티가 3일부터 4일까지 미국 LA 더그로브 야외광장에서 팝업스토어를 운영했다.",
+  "events": [
+   {
+    "name": "팝업스토어",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-04",
+    "place": "미국 LA 더그로브 야외광장",
+    "quote": "정샘물뷰티가 3일부터 4일까지 미국 LA 더그로브 야외광장에서 팝업스토어를 운영했다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:03:05+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:12+00:00",
  "had_body": true
 }

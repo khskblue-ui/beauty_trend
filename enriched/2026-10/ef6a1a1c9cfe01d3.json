@@ -1,0 +1,48 @@
+{
+ "doc_id": "ef6a1a1c9cfe01d3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7188104",
+ "title": "신라면세점, 뷰티 매출 두 자릿수 성장…단독 상품 확대",
+ "summary": "사진=신라면세점 신라면세점이 개별여행객(FIT)을 중심으로 화장품 수요가 증가하면서 단독 컬러와 전용... 메이크업포에버는 '아티스트 컬러 글로우 립 밤'의 신라면세점 단독 컬러 2종을 출시 한다. '페스티벌 라일락'과...",
+ "published_at": "2026-10-08T15:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메이크업포에버"
+  ],
+  "companies": [
+   "신라면세점"
+  ],
+  "keywords": [
+   "면세점 화장품",
+   "단독 상품",
+   "립 밤"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "신라면세점이 개별여행객의 화장품 수요 증가에 맞춰 단독 뷰티 상품을 확대한다.",
+  "key_fact_quote": "신라면세점이 개별여행객(FIT)을 중심으로 화장품 수요가 증가하면서 단독 컬러와 전용... 메이크업포에버는 '아티스트 컬러 글로우 립 밤'의 신라면세점 단독 컬러 2종을 출시 한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "product:아티스트 컬러 글로우 립 밤 신라면세점 단독 컬러 2종"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:16+00:00",
+ "had_body": false
+}

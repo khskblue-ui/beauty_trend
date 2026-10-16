@@ -1,0 +1,58 @@
+{
+ "doc_id": "e21f39c9472d18b3",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53645",
+ "title": "[코스모닝] 궁중비책, 글로벌 K-뷰티 플랫폼 ‘스타일코리안’ 입점",
+ "summary": "궁중비책이 글로벌 K-뷰티 플랫폼인 스타일코리안에 입점했다. 스타일코리안(StyleKorean)은 실리콘투가 운영하는 이커머스 몰이다. K-뷰티 브랜드 약 550개를 170개국 소비자에게 판매한다. 궁중비책은 스타일코리안에 베이비·키즈·선케어 제품 25종을 선보였다. 중국·미국·유럽·동남아 에 이어 글로벌 플랫폼에 진출해 유통을 확대할 계획이다. 해외 소비",
+ "published_at": "2026-10-06T16:29:46+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN",
+   "US"
+  ],
+  "brands": [
+   "궁중비책",
+   "스타일코리안"
+  ],
+  "companies": [
+   "실리콘투"
+  ],
+  "keywords": [
+   "글로벌 이커머스",
+   "베이비 스킨케어",
+   "키즈 스킨케어",
+   "선케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "궁중비책이 글로벌 뷰티 플랫폼 스타일코리안에 입점하여 유통망을 확대한다.",
+  "key_fact_quote": "궁중비책이 글로벌 K-뷰티 플랫폼인 스타일코리안에 입점했다.",
+  "events": [
+   {
+    "name": "입점 기념 할인 행사",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-18",
+    "place": null,
+    "quote": "궁중비책은 스타일코리안 입점을 기념해 12일부터 18일까지 전 제품 50% 할인 행사를 연다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:28+00:00",
+ "had_body": true
+}

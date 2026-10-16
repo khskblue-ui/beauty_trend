@@ -18,9 +18,9 @@
   "category": "regulation",
   "event_type": "regulation",
   "countries": [
+   "KR",
    "US",
-   "CA",
-   "KR"
+   "CA"
   ],
   "brands": [
    "Clean Skin Club",
@@ -30,27 +30,90 @@
    "e.l.f."
   ],
   "companies": [
-   "(재)대한화장품산업연구원",
-   "미국 FDA",
-   "캐나다 보건부",
-   "아마존",
-   "올리브영"
+   "대한화장품산업연구원",
+   "FDA",
+   "Health Canada"
   ],
   "keywords": [
    "비관세장벽",
-   "알레르겐 성분 표시",
-   "이상사례 모니터링",
-   "화장품 규정",
-   "라벨 표시"
+   "알레르겐 성분 표시 의무화",
+   "이상사례 모니터링 시스템",
+   "성분표 갱신"
   ],
   "is_press_release": false,
-  "products": [],
-  "key_fact": "미국의 비관세장벽 강화와 캐나다의 향료 알레르겐 성분 표시 의무화 조치로 인해 한국 화장품 수출 기업들의 규제 대응 필요성이 커지고 있다.",
+  "products": [
+   {
+    "name": "클린타월 XL",
+    "brand": "Clean Skin Club",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "컬러스테이 아이라이너",
+    "brand": "Revlon",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "엑설런스 크림 트리플케어 헤어컬러",
+    "brand": "L'Oréal",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "글리콜산 7% 엑스폴리에이팅 토너",
+    "brand": "The Ordinary",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "크림 글라이드 립라이너",
+    "brand": "e.l.f.",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "히알루론 플럼프 하이드레이팅 샴푸",
+    "brand": "L'Oréal",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "미국의 화장품 이상사례 공개 시스템 개편과 캐나다의 향료 알레르겐 표시 의무화 조치 등 북미 시장의 규제 강화로 국내 화장품 기업들의 철저한 대응이 요구된다.",
   "key_fact_quote": "우리나라 화장품 수출 대상국가 1위 자리를 꿰찬 미국의 비관세장벽이 날이 갈수록 강화일로르 보이고 있다. 동시에 캐나다 역시 향료에 포함한 알레르겐 성분 표시 의무화 조치를 시행함에 따라 K-화장품·뷰티 수출 기업들의 대응력 강화가 절실해지고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "글리콜산",
+    "quote": "특히 디오디너리 글리콜산(글리코릭애시드) 7% 엑스폴리에이팅 토너 는 지난 9월과 10월에 올리브영 온라인몰에서 스킨케어 부문 조회 수 1위와 3위 에 오르는 등 국내에서도 인기를 얻고 있는 제품이다."
+   },
+   {
+    "name": "글리코릭애시드",
+    "quote": "특히 디오디너리 글리콜산(글리코릭애시드) 7% 엑스폴리에이팅 토너 는 지난 9월과 10월에 올리브영 온라인몰에서 스킨케어 부문 조회 수 1위와 3위 에 오르는 등 국내에서도 인기를 얻고 있는 제품이다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:03:42+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:43+00:00",
  "had_body": true
 }

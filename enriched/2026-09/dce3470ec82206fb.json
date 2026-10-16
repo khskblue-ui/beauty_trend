@@ -1,0 +1,54 @@
+{
+ "doc_id": "dce3470ec82206fb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609110370&t=NN",
+ "title": "지놈앤컴퍼니 \" 화장품 사업, 3년 새 매출 6배 증가\"",
+ "summary": "이미 유이크는 올해 미국 화장품 법(MoCRA) 등록을 마친 제품 25개를 확보했다. 회사는 이를 발판으로 4분기 대표 인기 라인 '바이옴 베리어'의 신제품 장벽로션을 아마존에 출시하며 시장 반응을 먼저 확인한다는...",
+ "published_at": "2026-09-14T08:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "유이크"
+  ],
+  "companies": [
+   "지놈앤컴퍼니"
+  ],
+  "keywords": [
+   "화장품 사업",
+   "장벽로션",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "장벽로션",
+    "brand": "유이크",
+    "launch_date": null,
+    "launch_quote": "회사는 이를 발판으로 4분기 대표 인기 라인 '바이옴 베리어'의 신제품 장벽로션을 아마존에 출시하며 시장 반응을 먼저 확인한다는...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "지놈앤컴퍼니는 화장품 사업 매출 성장에 힘입어 유이크 브랜드 제품들의 규제 등록을 마치고 신제품을 출시할 계획이다.",
+  "key_fact_quote": "회사는 이를 발판으로 4분기 대표 인기 라인 '바이옴 베리어'의 신제품 장벽로션을 아마존에 출시하며 시장 반응을 먼저 확인한다는...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:12+00:00",
+ "had_body": false
+}

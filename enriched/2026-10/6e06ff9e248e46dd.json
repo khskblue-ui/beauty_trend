@@ -1,0 +1,49 @@
+{
+ "doc_id": "6e06ff9e248e46dd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244290",
+ "title": "반짝 유행 넘어 주류 일상으로… K-뷰티의 독일 시장 안착 비결",
+ "summary": "독일 화장품 유통의 핵심 채널인 드러그스토어에서도 K-뷰티의 존재감이 뚜렷해지고 있기 때문이다.... Rossmann은 2025년 10월 자체상표 ISANA를 통해 ‘KOREAN SKINCARE’ 라인 8종을 출시 했다. 제품은 모두 한국에서 개발...",
+ "published_at": "2026-10-01T13:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "DE",
+   "KR"
+  ],
+  "brands": [
+   "ISANA"
+  ],
+  "companies": [
+   "Rossmann"
+  ],
+  "keywords": [
+   "드러그스토어",
+   "스킨케어 라인",
+   "자체상표"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "독일 유통 채널에서 자체상표를 통해 한국 스킨케어 라인을 출시하며 시장에 안착하고 있다.",
+  "key_fact_quote": "Rossmann은 2025년 10월 자체상표 ISANA를 통해 ‘KOREAN SKINCARE’ 라인 8종을 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "product:KOREAN SKINCARE 라인"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:48+00:00",
+ "had_body": false
+}

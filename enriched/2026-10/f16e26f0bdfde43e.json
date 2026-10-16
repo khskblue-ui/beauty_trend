@@ -1,0 +1,42 @@
+{
+ "doc_id": "f16e26f0bdfde43e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10892979?ref=naver",
+ "title": "[단독] 외국인 늘었는데 면세점 화장품은 ‘뚝’…13조→4조원대",
+ "summary": "실제 올해 상반기 외국인 면세점 소비는 화장품 외에도 가방류 5883억원, 귀금속류 4039억원, 향수 2975억원... “면세점이 K뷰티 브랜드 의 해외 진출 창구가 되도록 대책을 강구해야 한다”고 강조했다.",
+ "published_at": "2026-10-05T09:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "면세점 화장품",
+   "외국인 면세점 소비",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "외국인 관광객 증가에도 불구하고 면세점 화장품 매출이 크게 감소했다.",
+  "key_fact_quote": "[단독] 외국인 늘었는데 면세점 화장품은 ‘뚝’…13조→4조원대",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:14+00:00",
+ "had_body": false
+}

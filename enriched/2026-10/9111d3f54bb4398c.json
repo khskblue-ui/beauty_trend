@@ -18,8 +18,8 @@
   "category": "fragrance",
   "event_type": "business",
   "countries": [
-   "US",
-   "KR"
+   "KR",
+   "US"
   ],
   "brands": [
    "키스",
@@ -27,18 +27,21 @@
   ],
   "companies": [],
   "keywords": [
-   "향수",
-   "라이프스타일",
-   "해외 진출"
+   "향수 브랜드",
+   "라이프스타일 브랜드",
+   "미국 시장 진출",
+   "팝업스토어"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "향수 및 라이프스타일 브랜드 키스가 미국 뉴욕 팝업을 통해 현지 시장 진출 가능성을 확인하고 있다.",
+  "key_fact": "향수 및 라이프스타일 브랜드 키스가 뉴욕 팝업을 통해 미국 시장 진출 가능성을 확인하고 있다.",
   "key_fact_quote": "현장에서 만난 최경아 키스 대표는 뉴욕 팝업을 미국 시장 진출 가능성을 확인하는 기회로 꼽았다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:37+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:55+00:00",
  "had_body": false
 }

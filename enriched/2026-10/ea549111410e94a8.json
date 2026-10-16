@@ -1,0 +1,49 @@
+{
+ "doc_id": "ea549111410e94a8",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312083",
+ "title": "만파식적 선율, 동해를 깨우다… 시민 2000명 매료시킨 ‘2026 문무대왕 페스티벌’ - 뷰티경제",
+ "summary": "경북 경주시가 지난 3일부터 4일까지 이틀간 문무대왕 해양역사관에서 개최한 ‘2026 문무대왕 페스티벌’이 시민과 관광객 2000여 명의 뜨거운 호응 속에 성황리",
+ "published_at": "2026-10-06T14:28:46+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "지역 축제",
+   "문화 행사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "경북 경주시에서 문무대왕 페스티벌이 개최되었다.",
+  "key_fact_quote": "경북 경주시가 지난 3일부터 4일까지 이틀간 문무대왕 해양역사관에서 개최한 ‘2026 문무대왕 페스티벌’이 시민과 관광객 2000여 명의 뜨거운 호응 속에 성황리",
+  "events": [
+   {
+    "name": "2026 문무대왕 페스티벌",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-04",
+    "place": "문무대왕 해양역사관",
+    "quote": "경북 경주시가 지난 3일부터 4일까지 이틀간 문무대왕 해양역사관에서 개최한 ‘2026 문무대왕 페스티벌’이 시민과 관광객 2000여 명의 뜨거운 호응 속에 성황리"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:47+00:00",
+ "had_body": false
+}

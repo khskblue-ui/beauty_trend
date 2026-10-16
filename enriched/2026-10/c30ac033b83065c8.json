@@ -1,0 +1,44 @@
+{
+ "doc_id": "c30ac033b83065c8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437296",
+ "title": "새 자외선 성분 허용…K선크림 美 공략 속도",
+ "summary": "미국에서 팔릴 선크림의 신제품 개발과 처방 변경 수요가 제형 기술을 갖춘 ODM으로 몰릴 것으로 전망됐다. 1일 화장품 업계에 따르면 미국에서 선크림은 화장품 이 아닌 일반의약품(OTC)으로 분류돼 FDA가 허용한...",
+ "published_at": "2026-10-01T09:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "regulation",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "자외선 차단제",
+   "선크림",
+   "일반의약품",
+   "제형 기술"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "새로운 자외선 성분 허용으로 미국 시장용 선크림 개발과 처방 변경 수요가 제형 기술을 갖춘 제조사로 집중될 것으로 보인다.",
+  "key_fact_quote": "미국에서 팔릴 선크림의 신제품 개발과 처방 변경 수요가 제형 기술을 갖춘 ODM으로 몰릴 것으로 전망됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:30+00:00",
+ "had_body": false
+}

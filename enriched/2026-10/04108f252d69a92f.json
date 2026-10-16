@@ -1,0 +1,83 @@
+{
+ "doc_id": "04108f252d69a92f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=106756",
+ "title": "한미 프로-캄, 약국 전용 더마 코스메틱 강화...레티노에이트 크림 출시",
+ "summary": "'EGF 액티브 바이탈 크림'은 미백·주름개선 2중 기능성 화장품 으로, EGF 성분과 오크라열매추출물, GREENOL H... 신제품 을 포함한 프로-캄 제품은 한미사이언스 계열사 온라인팜을 통해 유통되며 전국 약국에서 구매할 수...",
+ "published_at": "2026-10-02T17:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프로-캄"
+  ],
+  "companies": [
+   "한미사이언스",
+   "온라인팜"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "약국 전용 화장품",
+   "기능성 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "레티노에이트 크림",
+    "brand": "프로-캄",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "한미 프로-캄, 약국 전용 더마 코스메틱 강화...레티노에이트 크림 출시",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "EGF 액티브 바이탈 크림",
+    "brand": "프로-캄",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "한미의 프로-캄이 약국 전용 더마 코스메틱 강화를 위해 레티노에이트 크림을 출시했다.",
+  "key_fact_quote": "한미 프로-캄, 약국 전용 더마 코스메틱 강화...레티노에이트 크림 출시",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레티노에이트",
+    "quote": "한미 프로-캄, 약국 전용 더마 코스메틱 강화...레티노에이트 크림 출시"
+   },
+   {
+    "name": "EGF",
+    "quote": "'EGF 액티브 바이탈 크림'은 미백·주름개선 2중 기능성 화장품 으로, EGF 성분과 오크라열매추출물, GREENOL H... 신제품 을 포함한 프로-캄 제품은 한미사이언스 계열사 온라인팜을 통해 유통되며 전국 약국에서 구매할 수..."
+   },
+   {
+    "name": "오크라열매추출물",
+    "quote": "'EGF 액티브 바이탈 크림'은 미백·주름개선 2중 기능성 화장품 으로, EGF 성분과 오크라열매추출물, GREENOL H... 신제품 을 포함한 프로-캄 제품은 한미사이언스 계열사 온라인팜을 통해 유통되며 전국 약국에서 구매할 수..."
+   },
+   {
+    "name": "GREENOL H",
+    "quote": "'EGF 액티브 바이탈 크림'은 미백·주름개선 2중 기능성 화장품 으로, EGF 성분과 오크라열매추출물, GREENOL H... 신제품 을 포함한 프로-캄 제품은 한미사이언스 계열사 온라인팜을 통해 유통되며 전국 약국에서 구매할 수..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:14+00:00",
+ "had_body": false
+}

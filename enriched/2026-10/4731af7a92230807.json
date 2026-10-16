@@ -1,0 +1,46 @@
+{
+ "doc_id": "4731af7a92230807",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12171497",
+ "title": "K뷰티 수출 ‘역대 최대’에…한국콜마 목표가 17만원 ‘쑥’",
+ "summary": "27년 하반기 세종공장 증설 기대 美 매출 늘지만...中은 하락 전망 K뷰티 수출 호조가 이어지면서 한국콜마의 실적 기대도 높아지고 있다. 글로벌 화장품 수요가 예상보다 강한 데다 수출 브랜드의 주문이 몰리면서...",
+ "published_at": "2026-10-09T13:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "수출 호조",
+   "실적 기대"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 수출 호조가 이어지며 한국콜마에 대한 실적 기대감이 높아지고 있다.",
+  "key_fact_quote": "K뷰티 수출 호조가 이어지면서 한국콜마의 실적 기대도 높아지고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:24+00:00",
+ "had_body": false
+}

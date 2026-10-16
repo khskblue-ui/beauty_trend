@@ -19,22 +19,20 @@
   "event_type": "business",
   "countries": [
    "KR",
-   "US",
-   "CN"
+   "US"
   ],
   "brands": [],
   "companies": [
-   "식품의약품안전처",
    "서울경제진흥원"
   ],
   "keywords": [
-   "대미 화장품 수출",
    "뷰티 스타트업",
-   "K-뷰티"
+   "화장품 수출",
+   "대미 수출"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "서울 뷰티 스타트업들이 미국 뉴욕 시장 공략에 나섰다.",
+  "key_fact": "서울의 뷰티 스타트업들이 미국 뉴욕 시장 진출에 나선다.",
   "key_fact_quote": "서울 뷰티 스타트업 8개사 뉴욕 공략 나선다",
   "events": [],
   "ingredients": [],
@@ -42,6 +40,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:51:54+00:00",
+ "enriched_at": "2026-10-15T15:24:29+00:00",
  "had_body": false
 }

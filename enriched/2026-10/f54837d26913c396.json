@@ -28,21 +28,25 @@
    "DE",
    "SK",
    "CL",
-   "TW",
    "AU",
-   "NZ"
+   "NZ",
+   "TW"
   ],
   "brands": [
    "큐어소나",
    "CURESONA"
   ],
   "companies": [
-   "오라클코스메틱"
+   "오라클코스메틱",
+   "다이소",
+   "Normal",
+   "서울경제진흥원",
+   "W Cosmetics"
   ],
   "keywords": [
    "홈케어",
-   "글로벌 리테일",
-   "해외 유통망"
+   "로드숍 네트워크",
+   "해외 유통망 확대"
   ],
   "is_press_release": true,
   "products": [
@@ -50,6 +54,7 @@
     "name": "래디언스 글로우 앰플",
     "brand": "큐어소나",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -58,17 +63,20 @@
     "name": "토닝코드",
     "brand": "큐어소나",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "최근 출시한 ‘토닝코드’는 출시 직후 다이소 전체 판매랭킹 1위에 진입했다고 회사 측은 밝혔다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "오라클코스메틱의 홈케어 브랜드 큐어소나가 국내 다이소 인지도를 바탕으로 해외 대형 로드숍 네트워크 입점을 확대하고 있다.",
-  "key_fact_quote": "오라클코스메틱의 홈케어 브랜드 ‘큐어소나’(CURESONA)가 한국 다이소에서 쌓은 브랜드 인지도를 바탕으로 해외 로드숍 네트워크 입점에 가속도를 내고 있다.",
+  "key_fact": "오라클코스메틱의 홈케어 브랜드 큐어소나가 국내 다이소 인지도를 바탕으로 해외 대형 로드숍 유통망을 대규모로 확대하고 있다.",
+  "key_fact_quote": "오라클코스메틱 의 홈케어 브랜드 ‘큐어소나’(CURESONA) 가 한국 다이소에서 쌓은 브랜드 인지도를 바탕으로 해외 로드숍 네트워크 입점에 가속도를 내고 있다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:03:34+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:31+00:00",
  "had_body": true
 }

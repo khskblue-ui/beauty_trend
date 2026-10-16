@@ -15,30 +15,38 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "ingredient",
+  "category": "other",
   "event_type": "event",
   "countries": [
    "KR"
   ],
   "brands": [],
   "companies": [
-   "선진뷰티사이언스",
-   "대한화장품학회"
+   "선진뷰티사이언스"
   ],
   "keywords": [
    "추계학술대회",
    "정기총회",
-   "화장품 소재",
-   "화장품 제형"
+   "화장품 학술대회"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "대한화장품학회가 소재와 제형 등 다양한 분과 강연이 포함된 정기총회 및 추계학술대회를 개최한다.",
+  "key_fact": "대한화장품학회가 서울드래곤시티에서 정기총회 및 추계학술대회를 개최한다.",
   "key_fact_quote": "(사)대한화장품학회(회장 황재성, www.scsk.or.kr)는 11월 27일(금) 서울드래곤시티(용산) 그랜드볼룸 3F 한라홀에서 2026년 (사)대한화장품학회 제 6차 정기총회 및 추계학술대회가 개최된다.",
+  "events": [
+   {
+    "name": "2026년 (사)대한화장품학회 제 6차 정기총회 및 추계학술대회",
+    "start_date": "2026-11-27",
+    "end_date": null,
+    "place": "서울드래곤시티(용산) 그랜드볼룸 3F 한라홀",
+    "quote": "(사)대한화장품학회(회장 황재성, www.scsk.or.kr)는 11월 27일(금) 서울드래곤시티(용산) 그랜드볼룸 3F 한라홀에서 2026년 (사)대한화장품학회 제 6차 정기총회 및 추계학술대회가 개최된다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:55+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:03+00:00",
  "had_body": true
 }

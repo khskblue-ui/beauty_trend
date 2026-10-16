@@ -1,0 +1,43 @@
+{
+ "doc_id": "5a05a882b3352c13",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoul.co.kr/news/society/health-medical/2026/10/02/20261002500074?wlog_tag3=naver",
+ "title": "K - 뷰티 유럽 진출 전초기지 열렸다…파리 중심가에 플래그십 허브 ‘mmm...",
+ "summary": "최근 K - 뷰티 의 유럽 시장 성장세는 가파르다. 실제로 2026년 상반기 기준 중소기업 화장품의 대(對)유럽 수출 액은 12.6억 달러를 기록해, 전년 동기(7.7억 달러) 대비 무려 62.4% 급증하는 기염을 토했다. 이러한 상승세를...",
+ "published_at": "2026-10-02T10:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "유럽 진출",
+   "플래그십 허브",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유럽 시장에서 한국 뷰티의 성장세가 가파른 가운데 파리 중심가에 플래그십 허브가 열렸다.",
+  "key_fact_quote": "K - 뷰티 유럽 진출 전초기지 열렸다…파리 중심가에 플래그십 허브 ‘mmm...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:46+00:00",
+ "had_body": false
+}

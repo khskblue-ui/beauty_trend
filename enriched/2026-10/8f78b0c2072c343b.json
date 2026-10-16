@@ -1,0 +1,74 @@
+{
+ "doc_id": "8f78b0c2072c343b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.g-enews.com/view.php?ud=2026100810121896601d2373fc0f_1",
+ "title": "코웨이 화장품 리엔케이, 美 코스트코 50개 매장 입점",
+ "summary": "코스트코 입점과 함께 신제품 ‘셀레스티얼 콜라겐 크림’도 선보였다. 정제수 대신 콜라겐수를 베이스로 사용했으며 8종의 콜라겐과 10종의 펩타이드 등을 함유했다. 리엔케이는 해당 제품을 시작으로 미국 내 제품군을...",
+ "published_at": "2026-10-08T10:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "리엔케이"
+  ],
+  "companies": [
+   "코웨이",
+   "코스트코"
+  ],
+  "keywords": [
+   "콜라겐 크림",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "셀레스티얼 콜라겐 크림",
+    "brand": "리엔케이",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "코스트코 입점과 함께 신제품 ‘셀레스티얼 콜라겐 크림’도 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코웨이의 화장품 브랜드 리엔케이가 미국 코스트코 매장에 입점하며 신제품을 선보였다.",
+  "key_fact_quote": "코웨이 화장품 리엔케이, 美 코스트코 50개 매장 입점",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "정제수",
+    "quote": "정제수 대신 콜라겐수를 베이스로 사용했으며 8종의 콜라겐과 10종의 펩타이드 등을 함유했다."
+   },
+   {
+    "name": "콜라겐수",
+    "quote": "정제수 대신 콜라겐수를 베이스로 사용했으며 8종의 콜라겐과 10종의 펩타이드 등을 함유했다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "정제수 대신 콜라겐수를 베이스로 사용했으며 8종의 콜라겐과 10종의 펩타이드 등을 함유했다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "정제수 대신 콜라겐수를 베이스로 사용했으며 8종의 콜라겐과 10종의 펩타이드 등을 함유했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:53+00:00",
+ "had_body": false
+}

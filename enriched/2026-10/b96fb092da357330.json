@@ -1,0 +1,41 @@
+{
+ "doc_id": "b96fb092da357330",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.starnewskorea.com/star/2026/10/10/2026101008025926271",
+ "title": "'주얼리정' 정보석, 화장품 회사 CEO 변신 근황 공개 [살림남]",
+ "summary": "얼마 후, 회사 유일한 직원인 디자인 팀장이 출근하자 두 사람은 홍보 방향과 화장품 모델을 두고 티격태격하며, 열정 MAX 대표와 할 말은 하는 MZ 팀장의 현실 직장 케미를 보여줬다. 이후 신제품 개발 미팅을 위해 판교로...",
+ "published_at": "2026-10-10T08:11:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 회사",
+   "신제품 개발"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배우 정보석이 화장품 회사 대표로 변신한 일상을 공개했다.",
+  "key_fact_quote": "'주얼리정' 정보석, 화장품 회사 CEO 변신 근황 공개 [살림남]",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:42+00:00",
+ "had_body": false
+}

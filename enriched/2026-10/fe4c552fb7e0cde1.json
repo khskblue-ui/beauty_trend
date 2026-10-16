@@ -1,0 +1,46 @@
+{
+ "doc_id": "fe4c552fb7e0cde1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=770891",
+ "title": "무신사 뷰티 , 글로벌·대기업→인디 브랜드 단독 선론칭 잇따라",
+ "summary": "브랜드들이 무신사 뷰티 를 찾는 가장 큰 이유는 1030 고객층이다. 전체 구매 고객의 약 80%가 10~30대로, 신제품 출시 초기에 젊은 소비자 반응을 빠르게 확인할 수 있다. 콘텐츠 제작과 온·오프라인 연계 역량도 강점으로...",
+ "published_at": "2026-10-04T08:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사 뷰티"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "선론칭",
+   "인디 브랜드",
+   "뷰티 플랫폼"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "젊은 소비자 반응을 빠르게 확인하기 위해 다양한 뷰티 브랜드들이 무신사 뷰티에서 단독 선론칭을 이어가고 있다.",
+  "key_fact_quote": "무신사 뷰티 , 글로벌·대기업→인디 브랜드 단독 선론칭 잇따라",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:01+00:00",
+ "had_body": false
+}

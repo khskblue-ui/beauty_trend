@@ -1,0 +1,66 @@
+{
+ "doc_id": "a598774630b9d7ef",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.imwood.co.kr/news/articleView.html?idxno=41957",
+ "title": "커버앤커버, 미국 자사몰 오픈·글로벌 D2C 강화·버블세럼 신제품 출시",
+ "summary": "K- 뷰티 브랜드 커버앤커버(Cover&Cover)가 미국 공식 자사몰을 새롭게 오픈하고, 국내 공식 자사몰도 전면... 이와 함께 버블세럼과 하이드로겔 마스크팩 등 신제품 을 선보이며 제품 라인업 확대에도 나선다. 커버앤커버는...",
+ "published_at": "2026-10-01T14:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "커버앤커버",
+   "Cover&Cover"
+  ],
+  "companies": [],
+  "keywords": [
+   "자사몰 오픈",
+   "글로벌 D2C",
+   "버블세럼",
+   "하이드로겔 마스크팩"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "버블세럼",
+    "brand": "커버앤커버",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이와 함께 버블세럼과 하이드로겔 마스크팩 등 신제품 을 선보이며 제품 라인업 확대에도 나선다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "하이드로겔 마스크팩",
+    "brand": "커버앤커버",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이와 함께 버블세럼과 하이드로겔 마스크팩 등 신제품 을 선보이며 제품 라인업 확대에도 나선다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "커버앤커버가 미국 공식 자사몰을 오픈하고 버블세럼과 하이드로겔 마스크팩 등 신제품을 선보이며 글로벌 시장 공략에 나섰다.",
+  "key_fact_quote": "K- 뷰티 브랜드 커버앤커버(Cover&Cover)가 미국 공식 자사몰을 새롭게 오픈하고, 국내 공식 자사몰도 전면... 이와 함께 버블세럼과 하이드로겔 마스크팩 등 신제품 을 선보이며 제품 라인업 확대에도 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:16+00:00",
+ "had_body": false
+}

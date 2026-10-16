@@ -1,0 +1,43 @@
+{
+ "doc_id": "d68b99e48a624e58",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.nocutnews.co.kr/news/6590856?utm_source=naver&utm_medium=article&utm_campaign=20261014074044",
+ "title": "화장품 제조 넘어 AI·의료관광으로… K - 뷰티 서비스 산업 키운다",
+ "summary": "아울러 기존 의약품·의료기기 중심의 해외 인허가 및 수출 현장 지원 서비스인 K -바이오데스크를 2027년 K - 뷰티 까지 확대한다. 국가별 유통사와 에스테틱 체인, 온라인 플랫폼 정보를 제공하고 현지 사업 운영과...",
+ "published_at": "2026-10-14T07:41:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 서비스 산업",
+   "해외 인허가",
+   "수출 지원",
+   "에스테틱 체인"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부가 해외 인허가 및 수출 현장 지원 서비스인 바이오데스크를 뷰티 분야까지 확대하며 서비스 산업을 육성한다.",
+  "key_fact_quote": "아울러 기존 의약품·의료기기 중심의 해외 인허가 및 수출 현장 지원 서비스인 K -바이오데스크를 2027년 K - 뷰티 까지 확대한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:33+00:00",
+ "had_body": false
+}

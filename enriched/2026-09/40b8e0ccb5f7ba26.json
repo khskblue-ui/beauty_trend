@@ -1,0 +1,44 @@
+{
+ "doc_id": "40b8e0ccb5f7ba26",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=89537",
+ "title": "JW중외제약, 아이케어 브랜드 '프렌즈' 화장품으로 확대",
+ "summary": "향료 와 색소는 사용하지 않았으며 피부 자극 테스트도 완료했다. 제품은 전국 약국에서 구입할 수 있다. JW중외제약은 최근 아이케어 시장의 소비자 수요 변화에 맞춰 '프렌즈' 브랜드의 영역을 단계적으로 확대하고 있다....",
+ "published_at": "2026-09-21T09:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프렌즈"
+  ],
+  "companies": [
+   "JW중외제약"
+  ],
+  "keywords": [
+   "아이케어",
+   "무향 화장품",
+   "약국 화장품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "JW중외제약이 아이케어 브랜드의 영역을 화장품으로 확대한다.",
+  "key_fact_quote": "JW중외제약은 최근 아이케어 시장의 소비자 수요 변화에 맞춰 '프렌즈' 브랜드의 영역을 단계적으로 확대하고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:16:16+00:00",
+ "had_body": false
+}

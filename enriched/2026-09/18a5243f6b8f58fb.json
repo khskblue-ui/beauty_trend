@@ -1,0 +1,57 @@
+{
+ "doc_id": "18a5243f6b8f58fb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.dealsitetv.com/articles/176385",
+ "title": "[유통24시] CU, ‘페리페라 협업’ 화장품 10종 출시 外",
+ "summary": "◆CU, '페리페라 협업' 화장품 10종 출시 CU가 색조 화장품 브랜드 페리페라와 협업한 뷰티 상품 10종을 오는... 더페이스샵은 누적 판매량 5000만개를 넘은 '미감수' 세안 제품과 신제품 을 소개했다. LG생활건강은 현지...",
+ "published_at": "2026-09-28T10:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "페리페라",
+   "더페이스샵"
+  ],
+  "companies": [
+   "CU",
+   "LG생활건강"
+  ],
+  "keywords": [
+   "편의점 화장품",
+   "색조 화장품",
+   "협업 상품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "미감수",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "씨유가 색조 화장품 브랜드 페리페라와 협업한 뷰티 상품을 선보인다.",
+  "key_fact_quote": "CU가 색조 화장품 브랜드 페리페라와 협업한 뷰티 상품 10종을 오는...",
+  "dropped": [
+   "product:페리페라 협업 뷰티 상품 10종"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:25+00:00",
+ "had_body": false
+}

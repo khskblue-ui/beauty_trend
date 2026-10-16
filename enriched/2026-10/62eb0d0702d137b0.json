@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": false,
   "category": "other",
-  "event_type": "event",
+  "event_type": "other",
   "countries": [
    "KR"
   ],
@@ -25,17 +25,20 @@
    "한국커리어혁신진흥원"
   ],
   "keywords": [
-   "소프트웨어 인재 육성",
-   "인공지능 교육"
+   "인재 육성",
+   "성과공유회",
+   "산불 대응"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "대구 수성구가 인재 육성 사업 성과공유회와 시상식을 개최해 우수 프로젝트 팀 등을 표창했다.",
-  "key_fact_quote": "대구 수성구는 사단법인 한국커리어혁신진흥원과 함께 지난 13일 수성알파시티 대구디지털혁신진흥원에서 ‘실무형 AI·SW 인재 육성 Lab 사업’ 성과공유회 및 시상식 을 개최했다고 14일 밝혔다.",
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:52+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:21+00:00",
  "had_body": true
 }

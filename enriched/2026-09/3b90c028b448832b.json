@@ -1,0 +1,53 @@
+{
+ "doc_id": "3b90c028b448832b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ziksir.com/news/articleView.html?idxno=146755",
+ "title": "피죤, '디퓨저' 3종 리뉴얼···패키지·용량 확대",
+ "summary": "리뉴얼 제품에는 사탕수수에서 추출한 에탄올을 사용했으며, 글로벌 향료 회사의 전문 조향사와 함께 개발한 향료 를 적용했다. 국제 향료 협회(IFRA) 기준을 준수했으며, 폼알데하이드와 메탄올, 글리옥살 등 유해 성분에...",
+ "published_at": "2026-09-17T09:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피죤"
+  ],
+  "companies": [
+   "피죤"
+  ],
+  "keywords": [
+   "디퓨저",
+   "실내 방향제",
+   "리뉴얼"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "디퓨저",
+    "brand": "피죤",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "피죤이 패키지와 용량을 확대하고 전문 조향사와 개발한 향료를 적용한 디퓨저를 새롭게 선보였다.",
+  "key_fact_quote": "피죤, '디퓨저' 3종 리뉴얼···패키지·용량 확대",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:16:47+00:00",
+ "had_body": false
+}

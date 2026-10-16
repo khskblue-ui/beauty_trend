@@ -1,0 +1,43 @@
+{
+ "doc_id": "9b0a0f32f400c97c",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/beautycares-dreamball-david-greenberg-vinima-shekhar-1239333191/",
+ "title": "Inside the 2026 BeautyCares DreamBall",
+ "summary": "The annual event benefiting the Look Good Feel Better cancer support program returned to Gotham Hall in New York on Wednesday night.",
+ "published_at": "2026-10-09T01:42:03+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "Look Good Feel Better"
+  ],
+  "keywords": [
+   "자선 행사",
+   "암 환자 지원 프로그램"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "암 환자 지원 프로그램을 후원하는 연례 자선 행사가 뉴욕 고담 홀에서 열렸다.",
+  "key_fact_quote": "The annual event benefiting the Look Good Feel Better cancer support program returned to Gotham Hall in New York on Wednesday night.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:22+00:00",
+ "had_body": false
+}

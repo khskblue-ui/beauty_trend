@@ -18,8 +18,8 @@
   "category": "regulation",
   "event_type": "event",
   "countries": [
-   "US",
-   "KR"
+   "KR",
+   "US"
   ],
   "brands": [],
   "companies": [
@@ -27,17 +27,27 @@
   ],
   "keywords": [
    "일반의약품 규제",
-   "인허가 전략",
-   "해외 진출 교육"
+   "해외 인허가",
+   "화장품 규제 교육"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "글로벌표준인증원이 미국 일반의약품 시장 진출을 준비하는 뷰티 기업 등을 위해 전 미국 식품의약국 심사관이 진행하는 규제 실무 전문 교육을 실시한다.",
+  "key_fact": "글로벌표준인증원이 미국 시장 진출을 준비하는 기업을 위해 전 미국 식품의약국 심사관이 진행하는 일반의약품 규제 실무 전문 교육을 진행한다.",
   "key_fact_quote": "글로벌표준인증원(대표 전재금)은 10월 29일(목)부터 31일(토) 까지 3일간 ‘2026 FDA OTC 규제·실무 전문 교육’ 을 실시한다.",
+  "events": [
+   {
+    "name": "2026 FDA OTC 규제·실무 전문 교육",
+    "start_date": "2026-10-29",
+    "end_date": "2026-10-31",
+    "place": "경기 광명 일직동 GSC교육장(메종 드 이브)",
+    "quote": "글로벌표준인증원(대표 전재금)은 10월 29일(목)부터 31일(토) 까지 3일간 ‘2026 FDA OTC 규제·실무 전문 교육’ 을 실시한다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:03:21+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:29+00:00",
  "had_body": true
 }

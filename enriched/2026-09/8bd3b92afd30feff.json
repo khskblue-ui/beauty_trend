@@ -1,0 +1,61 @@
+{
+ "doc_id": "8bd3b92afd30feff",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366194",
+ "title": "북미 다음은 멕시코…K-뷰티 \"5년 내 10배\" 노리지만 관세 벽 직면",
+ "summary": "올 상반기 미국 화장품 수출액은 14억5000만달러로 41.5% 늘어 수출국 1위를 지켰고 업계는 이 기세를 이어갈... 더페이스샵은 대표 클렌징 라인 '미감수' 베스트셀러 3종과 신제품 스킨케어 '미감수 레디' 3종을 소개했다....",
+ "published_at": "2026-09-29T08:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "MX",
+   "US"
+  ],
+  "brands": [
+   "더페이스샵"
+  ],
+  "companies": [],
+  "keywords": [
+   "수출 시장",
+   "스킨케어 라인",
+   "클렌징 라인"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "미감수",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미감수 레디",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "한국 화장품 업계가 북미에 이어 멕시코 시장 공략에 나서고 있으나 관세 장벽에 직면하고 있다.",
+  "key_fact_quote": "북미 다음은 멕시코…K-뷰티 \"5년 내 10배\" 노리지만 관세 벽 직면",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:00+00:00",
+ "had_body": false
+}

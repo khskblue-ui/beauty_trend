@@ -1,0 +1,43 @@
+{
+ "doc_id": "bcf3ded529767d23",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mydaily.co.kr/page/view/2026091909505748851",
+ "title": "[MD포커스] 쿠팡·네이버 타고 수십억원 팔린 가짜 화장품 …조직화한 中...",
+ "summary": "◇ 신제품 나오면 한 달 만에 복제…中 현지 제조·유통 조직화 중국 현지에서는 위조 화장품 을 생산하는 방식도 갈수록 조직화하고 있다. 지난 5월 중국 광둥성 자오칭에서는 약 2000㎡ 규모의 불법 제조시설이...",
+ "published_at": "2026-09-19T10:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "쿠팡",
+   "네이버"
+  ],
+  "keywords": [
+   "위조 화장품",
+   "불법 제조시설"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 현지에서 위조 화장품 제조와 유통이 갈수록 조직화하고 불법 제조시설이 적발되는 등 문제가 이어지고 있다.",
+  "key_fact_quote": "중국 현지에서는 위조 화장품 을 생산하는 방식도 갈수록 조직화하고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:17+00:00",
+ "had_body": false
+}

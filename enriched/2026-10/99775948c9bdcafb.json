@@ -1,0 +1,43 @@
+{
+ "doc_id": "99775948c9bdcafb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=312596",
+ "title": "경산시, 말레이시아 뷰티 엑스포서 11억 수출 계약 성과",
+ "summary": "이를 통해 지역 기업 경쟁력 강화와 글로벌 강소기업 성장을 지원하고, 관련 기업의 지역 유입을 촉진, 경산을 K - 뷰티 산업의 핵심 생산 및 수출 거점으로 육성해 나갈 계획이다. [스트레이트뉴스 대구·경북=]",
+ "published_at": "2026-10-06T15:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MY"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 엑스포",
+   "수출 계약",
+   "K-뷰티 산업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "경산시가 말레이시아 뷰티 엑스포에서 수출 계약 성과를 거두고 지역을 핵심 생산 및 수출 거점으로 육성할 계획을 밝혔다.",
+  "key_fact_quote": "경산시, 말레이시아 뷰티 엑스포서 11억 수출 계약 성과",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:10+00:00",
+ "had_body": false
+}

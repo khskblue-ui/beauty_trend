@@ -1,0 +1,39 @@
+{
+ "doc_id": "3378d5742da8be6f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://mhnse.com/news/articleView.html?idxno=1565519",
+ "title": "유명 女배우, 화장품 사업 종료… 론칭 4년 만에 \"진심으로 감사\" 작별 인...",
+ "summary": "스칼렛 요한슨은 지난 2022년 패션· 뷰티 업계에서 활동해 온 케이트 포스터와 화장품 브랜드 를 선보였다. 그는 론칭 당시 \"어릴 때부터 아름다움이 가진 변화의 힘에 매료됐다. 어머니가 십대 초반부터 자기 관리에 대한...",
+ "published_at": "2026-10-01T08:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 브랜드",
+   "뷰티 업계"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배우 스칼렛 요한슨이 설립한 화장품 브랜드 사업을 론칭 몇 년 만에 종료한다.",
+  "key_fact_quote": "유명 女배우, 화장품 사업 종료… 론칭 4년 만에 \"진심으로 감사\" 작별 인...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:08+00:00",
+ "had_body": false
+}

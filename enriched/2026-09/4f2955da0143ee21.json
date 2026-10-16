@@ -1,0 +1,55 @@
+{
+ "doc_id": "4f2955da0143ee21",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sports.hankooki.com/news/articleView.html?idxno=6940181",
+ "title": "[ 뷰티 새소식] 설화수, 자음생크림 60주년 팝업스토어 오는 21일 신세계...",
+ "summary": "코스모코스의 다나한은 브랜드 첫 디바이스 결합형 신제품 바이탈 리듬 페이셜 리프트를 출시 했다. 라이프스타일 뷰티 브랜드 센녹이 첫 번째 공식 플래그십 스토어인 '센녹 배스 하우스 성수를 오픈한다. 9월 넷째 주...",
+ "published_at": "2026-09-22T14:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수",
+   "다나한",
+   "센녹"
+  ],
+  "companies": [
+   "코스모코스"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "플래그십 스토어",
+   "페이셜 리프트"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "바이탈 리듬 페이셜 리프트",
+    "brand": "다나한",
+    "launch_date": null,
+    "launch_quote": "코스모코스의 다나한은 브랜드 첫 디바이스 결합형 신제품 바이탈 리듬 페이셜 리프트를 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "설화수가 팝업스토어를 열고 다나한의 신제품 출시와 센녹의 플래그십 스토어 개점 소식이 함께 전해졌다.",
+  "key_fact_quote": "코스모코스의 다나한은 브랜드 첫 디바이스 결합형 신제품 바이탈 리듬 페이셜 리프트를 출시 했다. 라이프스타일 뷰티 브랜드 센녹이 첫 번째 공식 플래그십 스토어인 '센녹 배스 하우스 성수를 오픈한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:44+00:00",
+ "had_body": false
+}

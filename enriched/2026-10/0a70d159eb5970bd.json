@@ -1,0 +1,59 @@
+{
+ "doc_id": "0a70d159eb5970bd",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/superga-beauty-commits-eur-15,28307",
+ "title": "Superga Beauty commits EUR 15 million to transform skin and hair care factory",
+ "summary": "Superga Beauty is launching a EUR 15 million program to transform its BCA – Beauty Champagne-Ardenne – site in Reims, France. An initial EUR 3 million investment was made in 2026 for the renovation of production areas and the acquisition of new equipment. The group intends to make the site a centre of excellence for skincare, hygiene, and haircare, with a gradual ramp-up planned until 2030. Acquired at the end of 2023 as part of the receivership proceedings of Eugène Perma, the former...",
+ "published_at": "2026-10-06T09:08:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "Superga Beauty",
+   "BCA",
+   "Beauty Champagne-Ardenne",
+   "Eugène Perma",
+   "GBC",
+   "Global Beauty Consulting",
+   "Cosmeurop"
+  ],
+  "keywords": [
+   "스킨케어 제조",
+   "헤어케어",
+   "화장품 수탁 생산",
+   "연구개발 시설"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "슈페르가 뷰티는 스킨케어와 헤어케어 거점 공장을 현대화하기 위해 대규모 투자 프로그램을 시작했다.",
+  "key_fact_quote": "Superga Beauty is launching a EUR 15 million program to transform its BCA – Beauty Champagne-Ardenne – site in Reims, France.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:14+00:00",
+ "had_body": true
+}

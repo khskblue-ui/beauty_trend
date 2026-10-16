@@ -6,11 +6,11 @@
  "lang": "ko",
  "url": "https://www.joongangenews.com/news/articleView.html?idxno=549521",
  "title": "신세계인터내셔날, 로에베 퍼퓸 니치 향수 확대…'크래프티드' 신제품 ...",
- "summary": "21일 신세계인터내셔날은 로에베 퍼퓸 의 니치 향수 라인 '크래프티드 컬렉션(Crafted Collection)'에 신규 향수 5종을 추가한다고 밝혔다. 크래프티드 컬렉션은 자연과 창의성, 조향 기술을 결합해 하나의 공예품을 만들듯...",
+ "summary": "[사진=신세계인터내셔날] 신세계인터내셔날이 수입·판매하는 스페인 럭셔리 브랜드 로에베 퍼퓸(LOEWE Perfumes)이 니치 향수 라인업을 확대한다. 자연에서 영감을 얻은 5가지 향을 새롭게 추가해 프리미엄 향수 시장...",
  "published_at": "2026-09-21T14:30:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "니치 퍼퓸",
+ "query": "니치 향수",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -18,38 +18,37 @@
   "category": "fragrance",
   "event_type": "product_launch",
   "countries": [
-   "KR"
+   "KR",
+   "ES"
   ],
   "brands": [
-   "로에베 퍼퓸"
+   "로에베 퍼퓸",
+   "LOEWE Perfumes"
   ],
   "companies": [
    "신세계인터내셔날"
   ],
   "keywords": [
    "니치 향수",
-   "향수 라인"
+   "프리미엄 향수"
   ],
   "is_press_release": true,
   "products": [
    {
-    "name": "크래프티드 컬렉션",
+    "name": "크래프티드",
     "brand": "로에베 퍼퓸",
     "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "21일 신세계인터내셔날은 로에베 퍼퓸 의 니치 향수 라인 '크래프티드 컬렉션(Crafted Collection)'에 신규 향수 5종을 추가한다고 밝혔다.",
+    "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "신세계인터내셔날이 로에베 퍼퓸의 니치 향수 라인 크래프티드 컬렉션에 신제품을 추가한다.",
-  "key_fact_quote": "21일 신세계인터내셔날은 로에베 퍼퓸 의 니치 향수 라인 '크래프티드 컬렉션(Crafted Collection)'에 신규 향수 5종을 추가한다고 밝혔다.",
-  "events": [],
-  "ingredients": [],
+  "key_fact": "신세계인터내셔날이 수입·판매하는 스페인 럭셔리 브랜드 로에베 퍼퓸이 니치 향수 라인업을 확대한다.",
+  "key_fact_quote": "신세계인터내셔날이 수입·판매하는 스페인 럭셔리 브랜드 로에베 퍼퓸(LOEWE Perfumes)이 니치 향수 라인업을 확대한다.",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:04+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:06+00:00",
  "had_body": false
 }

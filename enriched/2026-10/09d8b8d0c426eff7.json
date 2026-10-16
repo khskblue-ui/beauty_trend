@@ -18,7 +18,9 @@
   "category": "fragrance",
   "event_type": "event",
   "countries": [],
-  "brands": [],
+  "brands": [
+   "CPL Aromas"
+  ],
   "companies": [
    "CPL Aromas"
   ],
@@ -28,7 +30,7 @@
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "씨피엘 아로마스가 뷰티월드 미들 이스트에서 레조넌스를 선보인다.",
+  "key_fact": "씨피엘 아로마스가 뷰티월드 미들이스트에서 레조넌스를 선보인다.",
   "key_fact_quote": "CPL Aromas presents RESONANCE at BeautyWorld Middle East 2026",
   "events": [],
   "ingredients": [],
@@ -36,6 +38,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:50:13+00:00",
+ "enriched_at": "2026-10-15T15:21:51+00:00",
  "had_body": false
 }

@@ -1,0 +1,57 @@
+{
+ "doc_id": "09872b5a3a0bc4f7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026100108210486834",
+ "title": "구다이글로벌, 이너 뷰티 로 영토 확장…'이세비' 론칭",
+ "summary": "구다이글로벌은 K-이너 뷰티 브랜드 '이 세비(eseve)'를 론칭 하고 주력 제품 '에어리 페이스 드링크(Airy Face Drink)'를 올리브영에서 선공개한다고 1일 밝혔다. 에어리 페이스 드링크는 레몬 스파클링 형태의 데일리 이너 뷰티 ...",
+ "published_at": "2026-10-01T08:45:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이 세비",
+   "이세비",
+   "eseve"
+  ],
+  "companies": [
+   "구다이글로벌"
+  ],
+  "keywords": [
+   "이너 뷰티",
+   "이너뷰티 드링크"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "에어리 페이스 드링크(Airy Face Drink)",
+    "brand": "이 세비",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "구다이글로벌은 K-이너 뷰티 브랜드 '이 세비(eseve)'를 론칭 하고 주력 제품 '에어리 페이스 드링크(Airy Face Drink)'를 올리브영에서 선공개한다고 1일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "구다이글로벌이 신규 브랜드와 주력 신제품을 선공개하며 이너 뷰티 분야로 사업을 확장했다.",
+  "key_fact_quote": "구다이글로벌은 K-이너 뷰티 브랜드 '이 세비(eseve)'를 론칭 하고 주력 제품 '에어리 페이스 드링크(Airy Face Drink)'를 올리브영에서 선공개한다고 1일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:07+00:00",
+ "had_body": false
+}

@@ -26,18 +26,27 @@
   ],
   "keywords": [
    "특화점포",
-   "헬스 뷰티"
+   "뷰티 리테일",
+   "헬스케어"
   ],
-  "is_press_release": true,
+  "is_press_release": false,
   "products": [],
-  "key_fact": "이마트이십사는 서울 종로구 신설동에 헬스·뷰티·패션 특화점포인 올데이케어랩점을 개점한다.",
-  "key_fact_quote": "이마트24가 오는 16일 서울 종로구 신설동에...",
-  "events": [],
+  "key_fact": "이마트이십사는 헬스, 뷰티, 패션 특화점포인 올데이케어랩점을 개점한다.",
+  "key_fact_quote": "◆이마트24, 헬스· 뷰티 ·패션 특화점포 '올데이케어랩점' 오픈 이마트24가 오는 16일 서울 종로구 신설동에...",
+  "events": [
+   {
+    "name": "올데이케어랩점 오픈",
+    "start_date": "2026-10-16",
+    "end_date": null,
+    "place": "서울 종로구 신설동",
+    "quote": "◆이마트24, 헬스· 뷰티 ·패션 특화점포 '올데이케어랩점' 오픈 이마트24가 오는 16일 서울 종로구 신설동에..."
+   }
+  ],
   "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:51:16+00:00",
+ "enriched_at": "2026-10-15T15:24:08+00:00",
  "had_body": false
 }

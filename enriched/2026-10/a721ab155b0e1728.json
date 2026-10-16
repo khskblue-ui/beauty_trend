@@ -1,0 +1,46 @@
+{
+ "doc_id": "a721ab155b0e1728",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=262856",
+ "title": "무신사 뷰티, 신제품 선공개 채널로 부상···월평균 100개 선론칭",
+ "summary": "현대경제신문 전수연 기자 | 무신사 뷰티가 화장품 브랜드들의 신제품 선공개 채널로 영역을 넓히고 있다. 전체 구매자의 약 80%를 차지하는 10~30대 소비층을 바탕으로 글로벌 브랜드부터 국내 대기업과 인디 브랜드까지...",
+ "published_at": "2026-10-02T17:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사 뷰티"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "선공개 채널",
+   "선론칭",
+   "인디 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티가 젊은 소비층을 기반으로 화장품 브랜드들의 신제품 선공개 채널로 부상하고 있다.",
+  "key_fact_quote": "무신사 뷰티가 화장품 브랜드들의 신제품 선공개 채널로 영역을 넓히고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:10+00:00",
+ "had_body": false
+}

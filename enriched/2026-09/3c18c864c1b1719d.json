@@ -1,0 +1,56 @@
+{
+ "doc_id": "3c18c864c1b1719d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ibabynews.com/news/articleView.html?idxno=154689",
+ "title": "[뷰티 트렌드] 토니모리, '워터풀 버터 틴트' 리뉴얼 및 '버터 쿠키 에디...",
+ "summary": "국내외 뷰티·생활건강 기업들이 발표한 신제품 출시, 성분·기술 연구, 캠페인, 사회공헌 활동 등 다양한... 스킨스탠다드는 2013년 설립된 화장품 전문 연구소의 연구개발 역량을 바탕으로 출범한 브랜드다. 각 유효성분의...",
+ "published_at": "2026-09-21T12:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "토니모리",
+   "스킨스탠다드"
+  ],
+  "companies": [
+   "토니모리"
+  ],
+  "keywords": [
+   "틴트 리뉴얼",
+   "에디션 출시",
+   "화장품 연구개발"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "워터풀 버터 틴트",
+    "brand": "토니모리",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "토니모리가 워터풀 버터 틴트의 리뉴얼 및 버터 쿠키 에디션을 선보였다.",
+  "key_fact_quote": "토니모리, '워터풀 버터 틴트' 리뉴얼 및 '버터 쿠키 에디...",
+  "dropped": [
+   "product:버터 쿠키 에디션"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:08+00:00",
+ "had_body": false
+}

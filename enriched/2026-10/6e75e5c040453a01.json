@@ -1,0 +1,46 @@
+{
+ "doc_id": "6e75e5c040453a01",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.vegannews.co.kr/news/article.html?no=391312",
+ "title": "가습기 향료 는 물통에 넣어도 될까…모델별 사용법 확인",
+ "summary": "가습기 물통에 향료 나 아로마 오일을 넣어도 되는지는 제품마다 다르다. 일부 제품 설명서는 물 이외의... 향료 를 사용할 수 있는 제품이라도 물통에 넣어도 된다는 뜻은 아니므로, 사용 중인 모델의 설명서에서 투입...",
+ "published_at": "2026-10-04T20:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "가습기 향료",
+   "아로마 오일"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "가습기 물통에 향료나 아로마 오일을 넣어도 되는지는 모델별 설명서를 확인해야 한다.",
+  "key_fact_quote": "가습기 물통에 향료 나 아로마 오일을 넣어도 되는지는 제품마다 다르다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "아로마 오일",
+    "quote": "가습기 물통에 향료 나 아로마 오일을 넣어도 되는지는 제품마다 다르다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:02+00:00",
+ "had_body": false
+}

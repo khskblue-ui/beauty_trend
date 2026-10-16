@@ -29,9 +29,8 @@
   "companies": [],
   "keywords": [
    "스킨케어 루틴",
-   "재구매 요인",
    "소비자 리뷰",
-   "천연 성분"
+   "원료 중심 포지셔닝"
   ],
   "is_press_release": false,
   "products": [
@@ -54,7 +53,7 @@
     "notes_quote": null
    },
    {
-    "name": "Probioderm cream",
+    "name": "cream",
     "brand": "Probioderm",
     "launch_date": null,
     "launch_status": "unknown",
@@ -63,18 +62,10 @@
     "notes_quote": null
    }
   ],
-  "key_fact": "벨기에 소비자 대상 인터뷰 결과 한국 화장품은 단순한 호기심을 넘어 제품 효능과 성분 신뢰도 및 긍정적인 실사용 후기를 바탕으로 일상 스킨케어 루틴으로 정착하고 있다.",
+  "key_fact": "벨기에 소비자 대상 인터뷰 결과 한국 화장품이 일상 스킨케어로 자리 잡으며 제품 효능과 성분에 대한 신뢰 및 실제 사용자 후기가 재구매를 이끄는 핵심 요인으로 분석되었다.",
   "key_fact_quote": "The interviews suggest that K-beauty has moved beyond curiosity-driven purchases and become integrated into many consumers' daily skincare routines.",
   "events": [],
   "ingredients": [
-   {
-    "name": "Mung Bean",
-    "quote": "One respondent recently purchased Beplain's Mung Bean Cleanser, explaining that strong reviews from both Korean and international consumers influenced the buying decision."
-   },
-   {
-    "name": "Rice",
-    "quote": "Another consumer chose Beauty of Joseon's Rice Sunscreen, attracted by the product's rice-based formulation and ingredient-focused positioning."
-   },
    {
     "name": "ginseng",
     "quote": "Consumers expressed continued interest in ingredients such as ginseng, rice, and mung bean, which are often associated with Korean skincare."
@@ -92,6 +83,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:39+00:00",
+ "enriched_at": "2026-10-15T15:27:28+00:00",
  "had_body": true
 }

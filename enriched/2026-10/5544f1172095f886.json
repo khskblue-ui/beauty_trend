@@ -1,0 +1,45 @@
+{
+ "doc_id": "5544f1172095f886",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=765809",
+ "title": "코웰코스메디, 화장품 넘어 건기식·생활용품 진출…2027년 수출 1000만 ...",
+ "summary": "해외 수출 시장도 미국과 아시아를 넘어 중동 지역으로 확대할 계획이다. 코웰코스메디는 지난 7일 서울... 김계자 코웰코스메디 대표는 \"기존 K - 뷰티 제품 개발과 해외 유통 경험을 바탕으로 건강기능식품과...",
+ "published_at": "2026-10-13T17:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "코웰코스메디"
+  ],
+  "keywords": [
+   "건강기능식품",
+   "생활용품",
+   "해외 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코웰코스메디는 화장품 사업을 넘어 건강기능식품과 생활용품으로 사업 영역을 넓히고 해외 수출 시장을 확대할 계획이다.",
+  "key_fact_quote": "해외 수출 시장도 미국과 아시아를 넘어 중동 지역으로 확대할 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:43+00:00",
+ "had_body": false
+}

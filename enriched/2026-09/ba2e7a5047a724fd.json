@@ -6,11 +6,11 @@
  "lang": "ko",
  "url": "https://www.ibabynews.com/news/articleView.html?idxno=154496",
  "title": "[뷰티 트렌드] 롱테이크, '로즈리메인즈 에어리실키' 라인 3종 출시",
- "summary": "리뉴얼 출시 한 '딥카밍 미스트 ', '딥카밍 인텐시브 선크림' 등 5종이다. 모든 제품에는 메디톡스가 독자... 5000원 이상 구매 시 최대 2만원까지 할인되는 쿠폰을 제공하며, 화장품·향수는 10%, 바디 ·헤어 상품은 6...",
+ "summary": "국내외 뷰티·생활건강 기업들이 발표한 신제품 출시, 성분·기술 연구, 캠페인, 사회공헌 활동 등 다양한... 5000원 이상 구매 시 최대 2만원까지 할인되는 쿠폰을 제공하며, 화장품· 향수 는 10%, 바디·헤어 상품은 6...",
  "published_at": "2026-09-14T17:12:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "바디미스트 출시",
+ "query": "향수 신제품",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -21,47 +21,23 @@
    "KR"
   ],
   "brands": [
-   "롱테이크",
-   "메디톡스"
+   "롱테이크"
   ],
-  "companies": [
-   "메디톡스"
-  ],
+  "companies": [],
   "keywords": [
-   "신제품 출시",
-   "리뉴얼 출시"
+   "헤어 라인",
+   "신제품 출시"
   ],
-  "is_press_release": true,
-  "products": [
-   {
-    "name": "딥카밍 미스트",
-    "brand": null,
-    "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "리뉴얼 출시 한 '딥카밍 미스트 ', '딥카밍 인텐시브 선크림' 등 5종이다.",
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "딥카밍 인텐시브 선크림",
-    "brand": null,
-    "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "리뉴얼 출시 한 '딥카밍 미스트 ', '딥카밍 인텐시브 선크림' 등 5종이다.",
-    "notes": [],
-    "notes_quote": null
-   }
-  ],
+  "is_press_release": false,
+  "products": [],
   "key_fact": "롱테이크가 로즈리메인즈 에어리실키 라인을 출시했다.",
-  "key_fact_quote": "롱테이크, '로즈리메인즈 에어리실키' 라인 3종 출시",
-  "events": [],
-  "ingredients": [],
+  "key_fact_quote": "[뷰티 트렌드] 롱테이크, '로즈리메인즈 에어리실키' 라인 3종 출시",
   "dropped": [
-   "product:로즈리메인즈 에어리실키 라인"
+   "product:로즈리메인즈 에어리실키 라인 3종"
   ]
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:45+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:17+00:00",
  "had_body": false
 }

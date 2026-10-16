@@ -1,0 +1,62 @@
+{
+ "doc_id": "7a31de7e3aefe966",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/09/23/2026092301422.html",
+ "title": "[뷰티업계 이모저모] 아이소이, 부위별 관리하는 ‘NAD 치크 앤 링클 패...",
+ "summary": "신제품 출시를 기념해 9월 23일부터 30일까지 공식몰에서 ‘1+1 사전예약 프로모션’도 진행한다. 신규... ■오브제 ‘오일 컨트롤 피니셔’, 대만 쇼피서 연속 상위권 어댑트의 남성 화장품 브랜드 오브제(OBgE)가...",
+ "published_at": "2026-09-23T11:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "TW"
+  ],
+  "brands": [
+   "아이소이",
+   "오브제"
+  ],
+  "companies": [
+   "어댑트"
+  ],
+  "keywords": [
+   "남성 화장품",
+   "스킨케어 패치"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "NAD 치크 앤 링클 패",
+    "brand": "아이소이",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "오일 컨트롤 피니셔",
+    "brand": "오브제",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아이소이가 신제품 패치 출시 프로모션을 진행하고 어댑트의 오브제는 대만 쇼피에서 상위권을 기록했다.",
+  "key_fact_quote": "신제품 출시를 기념해 9월 23일부터 30일까지 공식몰에서 ‘1+1 사전예약 프로모션’도 진행한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:50+00:00",
+ "had_body": false
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "c85e954da8752a6f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202610121814231994",
+ "title": "韓 관광 외국인들 \" 화장품 사러 약국 갑니다\"",
+ "summary": "약국 전용 의약외품을 일반 화장품 으로 성분을 낮춘 상품군이다. 올리브영이 제약사에 제품 개발을 제안해 출시 한 후 전국 650여개 매장에서 매대를 운영 중이다. 올리브영의 더마 카테고리 매출이 지난해 32% 증가하며...",
+ "published_at": "2026-10-12T18:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "약국 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국을 찾은 외국인 관광객들이 화장품을 사기 위해 약국을 찾고 더마 카테고리 수요가 증가하고 있다.",
+  "key_fact_quote": "韓 관광 외국인들 \" 화장품 사러 약국 갑니다\"",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:04+00:00",
+ "had_body": false
+}

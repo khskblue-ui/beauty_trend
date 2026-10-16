@@ -1,0 +1,55 @@
+{
+ "doc_id": "e3ec3669871c42e9",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100082",
+ "title": "SBA, 서울 유망기업 16개사 단독 팝업스토어 개최",
+ "summary": "서울시의 경쟁력을 만드는 중소기업 지원기관 서울경제진흥원(SBA)은 ‘글로벌 리테일 채널 진출사업’을 통해 서울 유망기업의 해외 오프라인 시장 진출과 수출 확대를 지원하고 있다.이번 사업은 일본 대표 유통 채널 ‘이토요카도(Ito-Yokado)’와 협력하여, 9월 30일부터 10월 6일까지 약 7일 간 도쿄 이토요카도 오모리점 1층 이벤트 공간에서 서울 유망기업 단독 팝업스토어 ‘K-Beauty Park(K-뷰티 파크)’를 운영한다. 이번 행사는 서울 기업들의 일본 소비자 반응과 시장 적합성을 현지에서 직접 검증하기 위해 마련됐다.",
+ "published_at": "2026-10-07T09:53:57+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "서울경제진흥원",
+   "이토요카도"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "해외 진출",
+   "이너뷰티",
+   "오프라인 유통"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "서울경제진흥원이 일본 이토요카도와 협력해 서울 유망 기업들의 일본 오프라인 시장 진출을 지원하는 팝업스토어를 개최했다.",
+  "key_fact_quote": "서울시의 경쟁력을 만드는 중소기업 지원기관 서울경제진흥원(SBA)은 ‘글로벌 리테일 채널 진출사업’을 통해 서울 유망기업의 해외 오프라인 시장 진출과 수출 확대를 지원하고 있다.",
+  "events": [
+   {
+    "name": "K-Beauty Park(K-뷰티 파크)",
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-06",
+    "place": "도쿄 이토요카도 오모리점 1층 이벤트 공간",
+    "quote": "이번 사업은 일본 대표 유통 채널 ‘이토요카도(Ito-Yokado)’와 협력하여, 9월 30일부터 10월 6일까지 약 7일 간 도쿄 이토요카도 오모리점 1층 이벤트 공간에서 서울 유망기업 단독 팝업스토어 ‘K-Beauty Park(K-뷰티 파크)’를 운영한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:41+00:00",
+ "had_body": true
+}

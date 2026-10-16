@@ -1,0 +1,80 @@
+{
+ "doc_id": "2a3af2b40644e077",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/more-accessible-than-other-luxury,28282",
+ "title": "More accessible than other luxury goods, beauty defies the crisis",
+ "summary": "A Louis Vuitton lipstick, a Lancôme cream or a niche fragrance rather than an unaffordable handbag? As the luxury sector seeks to regain momentum, sales of prestige beauty products continue to grow, driven by consumers who favor these more accessible purchases over fashion, leather goods, and jewelry. Despite an uncertain geopolitical environment and persistent inflationary pressures, the prestige beauty market continued to grow in the first half of 2026, with sales up 7% in North America,...",
+ "published_at": "2026-10-01T08:56:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "FR",
+   "CH"
+  ],
+  "brands": [
+   "Louis Vuitton",
+   "Lancôme",
+   "Hermès",
+   "Celine",
+   "Dior",
+   "Gucci",
+   "Balenciaga",
+   "La Prairie",
+   "La Mer"
+  ],
+  "companies": [
+   "Circana",
+   "LVMH",
+   "Kering",
+   "Bain & Company",
+   "L'Oréal",
+   "Beiersdorf",
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "프레스티지 뷰티",
+   "니치 향수",
+   "럭셔리 뷰티",
+   "메이크업"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Crème de la Mer",
+    "brand": "La Mer",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "불확실한 대외 환경과 인플레이션 속에서도 비교적 접근성이 높은 프레스티지 뷰티 시장은 지속적인 성장세를 보이고 있다.",
+  "key_fact_quote": "As the luxury sector seeks to regain momentum, sales of prestige beauty products continue to grow, driven by consumers who favor these more accessible purchases over fashion, leather goods, and jewelry.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:12+00:00",
+ "had_body": true
+}

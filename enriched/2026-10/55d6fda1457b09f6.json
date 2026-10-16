@@ -1,0 +1,62 @@
+{
+ "doc_id": "55d6fda1457b09f6",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/as-watson-group-appoints-katinka,28322",
+ "title": "AS Watson Group appoints Katinka Ruikes as Managing Director of Kruidvat Belgium",
+ "summary": "Hong Kong-based health and beauty retailer has announced the appointment of Katinka Ruikes as Managing Director of Kruidvat Belgium, effective 1 January 2027, alongside her current role as Chief Sales & Operations Officer of Kruidvat Netherlands. Katinka Ruikes joined AS Watson in 2009, starting her career in Human Resources and Learning & Development. After holding several senior HR leadership positions, she transitioned into the business in 2019 as Chief Sales & Operations...",
+ "published_at": "2026-10-11T06:22:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "HK",
+   "BE",
+   "NL",
+   "FR"
+  ],
+  "brands": [
+   "Kruidvat",
+   "Rossmann"
+  ],
+  "companies": [
+   "AS Watson Group",
+   "AS Watson",
+   "AS Watson Health & Beauty Continental Europe",
+   "AS Watson Health & Beauty Benelux",
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "임원 인사",
+   "헬스앤뷰티 리테일러",
+   "유통망 확장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "AS 왓슨 그룹이 크루이드밧 벨기에의 매니징 디렉터로 카틴카 루이케스를 임명했다.",
+  "key_fact_quote": "Hong Kong-based health and beauty retailer has announced the appointment of Katinka Ruikes as Managing Director of Kruidvat Belgium , effective 1 January 2027 , alongside her current role as Chief Sales & Operations Officer of Kruidvat Netherlands .",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:16+00:00",
+ "had_body": true
+}

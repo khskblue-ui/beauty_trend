@@ -1,0 +1,56 @@
+{
+ "doc_id": "1e7b7d4716b54da4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/distribution/6308557",
+ "title": "어뮤즈, 업계 최초 '세럼 도우' 제형 쿠션 개발…베스트셀러 등극",
+ "summary": "어뮤즈가 업계 최초로 세럼 도우 제형으로 개발한 '누 세럼 볼륨 글로우업 쿠션' 등 신제품 을 출시하며 가을... 누 세럼 볼륨 글로우업 쿠션은 글로벌 화장품 제조자개발생산(ODM) 기업 코스맥스와 오랜 연구 끝에 개발한...",
+ "published_at": "2026-10-02T09:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어뮤즈"
+  ],
+  "companies": [
+   "어뮤즈",
+   "코스맥스"
+  ],
+  "keywords": [
+   "세럼 도우",
+   "쿠션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "누 세럼 볼륨 글로우업 쿠션",
+    "brand": "어뮤즈",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "어뮤즈가 업계 최초로 세럼 도우 제형으로 개발한 '누 세럼 볼륨 글로우업 쿠션' 등 신제품 을 출시하며 가을...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "어뮤즈가 코스맥스와 함께 세럼 도우 제형의 신제품 쿠션을 출시했다.",
+  "key_fact_quote": "어뮤즈가 업계 최초로 세럼 도우 제형으로 개발한 '누 세럼 볼륨 글로우업 쿠션' 등 신제품 을 출시하며 가을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:23+00:00",
+ "had_body": false
+}

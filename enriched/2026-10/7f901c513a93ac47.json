@@ -1,0 +1,45 @@
+{
+ "doc_id": "7f901c513a93ac47",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etoday.co.kr/news/view/2634682",
+ "title": "뷰티 스킨, 중국 대규모 화장품 수출 계약 초도물량 발주서 수령",
+ "summary": "제조·브랜드·유통기업 뷰티 스킨이 중국 현지 유통사에 전년 매출에 54.62%에 달하는 규모의 공급 계약의 초도 물량 발주를 받았다. 빠르면 이번 분기 부터 중국 매출이 발생할 전망인 뷰티 스킨은 마스크팩의 경우 4~5개...",
+ "published_at": "2026-10-12T14:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "뷰티 스킨"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "마스크팩",
+   "공급 계약"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "뷰티 스킨이 중국 현지 유통사로부터 대규모 화장품 공급 계약의 초도 물량 발주서를 수령했다.",
+  "key_fact_quote": "제조·브랜드·유통기업 뷰티 스킨이 중국 현지 유통사에 전년 매출에 54.62%에 달하는 규모의 공급 계약의 초도 물량 발주를 받았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:05+00:00",
+ "had_body": false
+}

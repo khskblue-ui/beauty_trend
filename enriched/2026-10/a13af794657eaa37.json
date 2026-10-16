@@ -16,27 +16,32 @@
  "extraction": {
   "relevant": false,
   "category": "other",
-  "event_type": "event",
+  "event_type": "other",
   "countries": [
    "KR"
   ],
   "brands": [],
   "companies": [
+   "성주군",
+   "귀뚜라미그룹",
    "귀뚜라미문화재단",
-   "귀뚜라미그룹"
+   "TBC"
   ],
   "keywords": [
+   "장학금",
    "장학사업",
    "사회공헌"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "성주군에서 지역 학생들의 학업 지원을 위한 장학금 수여식이 열렸다.",
+  "key_fact": "성주군에서 지역 학생들의 학업 지원을 위한 장학금 수여식이 개최되었다.",
   "key_fact_quote": "성주군은 10월 13일(화) 군청 문화강좌실에서 지역 학생들의 꿈과 학업 지원을 위한'(재)귀뚜라미문화재단 장학금 수여식'을 개최했다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:55+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:25+00:00",
  "had_body": true
 }

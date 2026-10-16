@@ -23,9 +23,8 @@
   "brands": [],
   "companies": [],
   "keywords": [
-   "초개인화",
-   "니치 향수",
-   "화장품 신제품"
+   "초개인화 화장품",
+   "니치 향수"
   ],
   "is_press_release": false,
   "products": [
@@ -33,6 +32,7 @@
     "name": "니치 향수",
     "brand": null,
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [
      "피치",
@@ -42,12 +42,14 @@
     "notes_quote": "피치와 사프란, 우디 노트를 조합하고 각도에 따라 이미지가 달라지는 패키지를 적용해 향 자체뿐 아니라 자기표현과 경험을 판매하는 니치 향수 로 차별화했다."
    }
   ],
-  "key_fact": "초개인화 시대에 맞춰 피치와 사프란 및 우디 노트를 조합한 니치 향수 등 개별 맞춤형 화장품 신제품들이 등장하고 있다.",
-  "key_fact_quote": "\"필요한 제품을 써\"... 화장품도 초개인화 시대 [최기자의 화장품 털기... 피치와 사프란, 우디 노트를 조합하고 각도에 따라 이미지가 달라지는 패키지를 적용해 향 자체뿐 아니라 자기표현과 경험을 판매하는 니치 향수 로 차별화했다.",
+  "key_fact": "화장품 업계에서 초개인화 흐름과 함께 자기표현과 경험을 강조한 신제품들이 소개되었다.",
+  "key_fact_quote": "\"필요한 제품을 써\"... 화장품도 초개인화 시대 [최기자의 화장품 털기...",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:06+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:26+00:00",
  "had_body": false
 }

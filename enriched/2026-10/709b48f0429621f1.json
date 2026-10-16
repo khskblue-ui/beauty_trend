@@ -1,0 +1,56 @@
+{
+ "doc_id": "709b48f0429621f1",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58447",
+ "title": "코스모코스, 4중 기능성 선스틱 개발... 자외선 차단·미백·주름개선·지속내수성 동시 제공",
+ "summary": "[코스인코리아닷컴 길태윤 기자]KT&G 계열사(주) 코스모코스(대표이사 이정훈)가 자외선 차단과 미백, 주름개선, 지속내수성을 갖춘 4중 기능성 선스틱을 개발하는데 성공했다. 신규 제형은 자외선차단은 물론 미백과 주름개선 효과를 동시에 갖췄으며, 차단 효과가 오래 유지되도록 지속내수성을 강화한 것이 특징이다. 코스모코스는 제품 개발 과정에서 자외선",
+ "published_at": "2026-10-06T11:19:35+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스모코스",
+   "KT&G"
+  ],
+  "keywords": [
+   "선스틱",
+   "기능성 화장품",
+   "선케어",
+   "지속내수성"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "4중 기능성 선스틱",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "KT&G 계열사(주) 코스모코스(대표이사 이정훈)가 자외선 차단과 미백, 주름개선, 지속내수성을 갖춘 4중 기능성 선스틱을 개발하는데 성공했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코스모코스가 자외선 차단과 미백 및 주름개선에 지속내수성을 더한 다기능 선스틱 개발에 성공했다.",
+  "key_fact_quote": "KT&G 계열사(주) 코스모코스(대표이사 이정훈)가 자외선 차단과 미백, 주름개선, 지속내수성을 갖춘 4중 기능성 선스틱을 개발하는데 성공했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:35+00:00",
+ "had_body": true
+}

@@ -27,17 +27,18 @@
   ],
   "companies": [],
   "keywords": [
+   "니치 향수",
    "니치 퍼퓸",
-   "우디 프레시 향수",
-   "향수 컬렉션"
+   "컬렉션"
   ],
   "is_press_release": true,
   "products": [
    {
-    "name": "레 파세트",
+    "name": "레 파세트(Les Facettes)",
     "brand": "오르메",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "프랑스 니치 퍼퓸 브랜드 오르메(ORMAIE)가 신규 시리즈 '레 파세트(Les Facettes)' 컬렉션을 국내에 선보인다고...",
     "notes": [],
     "notes_quote": null
    },
@@ -45,20 +46,33 @@
     "name": "부아 오세안",
     "brand": "오르메",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [
+     "우디 프레시",
      "레몬",
      "베르가못"
     ],
     "notes_quote": "'부아 오세안'은 바다와 드리프트우드에서 영감을 얻은 우디 프레시 계열의 향수 다. 레몬과 베르가못의..."
    }
   ],
-  "key_fact": "프랑스 니치 퍼퓸 브랜드 오르메가 신규 향수 컬렉션을 국내에 선보인다.",
+  "key_fact": "프랑스 니치 퍼퓸 브랜드 오르메가 신규 컬렉션을 국내에 선보인다.",
   "key_fact_quote": "프랑스 니치 퍼퓸 브랜드 오르메(ORMAIE)가 신규 시리즈 '레 파세트(Les Facettes)' 컬렉션을 국내에 선보인다고...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레몬",
+    "quote": "레몬과 베르가못의..."
+   },
+   {
+    "name": "베르가못",
+    "quote": "레몬과 베르가못의..."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:08+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:29+00:00",
  "had_body": false
 }

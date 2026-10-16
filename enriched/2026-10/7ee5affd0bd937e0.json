@@ -1,0 +1,42 @@
+{
+ "doc_id": "7ee5affd0bd937e0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026101321280229847",
+ "title": "\"AI 피부 진단부터 비자 완화까지\"…정부, K뷰티 전방위 육성",
+ "summary": "아울러 핵심 상권을 중심으로 뷰티 홍보·체험과 바이어 상담, 수출 지원이 결합된 ' K뷰티 클러스터'를 경주와 제주 2곳에 조성하며, 충북 오송에는 내년 상반기 중 연간 1900명 규모의 전문 인력을 양성하는 글로벌...",
+ "published_at": "2026-10-14T07:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "AI 피부 진단",
+   "뷰티 클러스터"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부가 피부 진단부터 비자 완화 및 클러스터 조성 등을 포함해 산업 전방위 육성에 나선다.",
+  "key_fact_quote": "\"AI 피부 진단부터 비자 완화까지\"…정부, K뷰티 전방위 육성",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:37+00:00",
+ "had_body": false
+}

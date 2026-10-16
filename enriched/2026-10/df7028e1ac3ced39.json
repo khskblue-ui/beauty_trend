@@ -15,23 +15,25 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "body",
+  "category": "skincare",
   "event_type": "product_launch",
   "countries": [
    "KR"
   ],
   "brands": [
+   "샤워메이트",
    "아이오페",
    "스킨푸드",
    "에이페",
-   "샤워메이트"
+   "CJ올리브영"
   ],
   "companies": [
    "CJ올리브영"
   ],
   "keywords": [
    "퍼퓸 바디워시",
-   "리페어 크림"
+   "리페어링 크림",
+   "피부 장벽"
   ],
   "is_press_release": true,
   "products": [
@@ -39,6 +41,7 @@
     "name": "퍼퓸 바디워시 2종",
     "brand": null,
     "launch_date": null,
+    "launch_status": "launched",
     "launch_quote": "명품 향수 의 클래식한 무드를 담은 '퍼퓸 바디워시 2종'을 새롭게 선보였다고 전했다.",
     "notes": [],
     "notes_quote": null
@@ -47,17 +50,20 @@
     "name": "어드밴스드덤 프로 리페어링 밴디지 크림",
     "brand": null,
     "launch_date": null,
+    "launch_status": "upcoming",
     "launch_quote": "돕는 신제품 '어드밴스드덤 프로 리페어링 밴디지 크림'을 출시한다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "뷰티 업계에서 명품 향수의 감성을 담은 바디워시 및 피부 장벽 개선 크림 등 신제품을 선보인다.",
+  "key_fact": "뷰티 업계에서 명품 향수의 감성을 담은 바디워시와 피부 장벽 개선을 위한 크림 등 신제품을 선보인다.",
   "key_fact_quote": "명품 향수 의 클래식한 무드를 담은 '퍼퓸 바디워시 2종'을 새롭게 선보였다고 전했다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:23+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:33+00:00",
  "had_body": false
 }

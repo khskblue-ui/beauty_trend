@@ -26,12 +26,12 @@
   ],
   "companies": [
    "아모레퍼시픽",
-   "나이카",
-   "한국국제협력단"
+   "나이카"
   ],
   "keywords": [
-   "글로벌 시장 진출",
-   "인재 육성"
+   "K-뷰티",
+   "해외 진출 전략",
+   "뷰티 생태계"
   ],
   "is_press_release": false,
   "products": [
@@ -54,14 +54,23 @@
     "notes_quote": null
    }
   ],
-  "key_fact": "아모레퍼시픽은 브랜드 진출과 현지 인재 육성을 병행하는 투 트랙 전략으로 인도 시장을 공략하고 있다.",
+  "key_fact": "아모레퍼시픽이 브랜드 진출과 현지 인재 육성을 병행하는 전략으로 인도 시장 공략에 나섰다.",
   "key_fact_quote": "아모레퍼시픽이 인도 시장을 공략하면서 브랜드 진출과 현지 인재 육성이라는 투 트랙 전략을 새롭게 시도하고 있다.",
   "events": [],
-  "ingredients": [],
+  "ingredients": [
+   {
+    "name": "HA",
+    "quote": "마몽드는 '로즈 HA'와 '피어니 BHA' 라인을 중심으로 젠지(Gen Z)와 밀레니얼 소비자를 공략하고 있다."
+   },
+   {
+    "name": "BHA",
+    "quote": "마몽드는 '로즈 HA'와 '피어니 BHA' 라인을 중심으로 젠지(Gen Z)와 밀레니얼 소비자를 공략하고 있다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:27+00:00",
+ "enriched_at": "2026-10-15T15:27:20+00:00",
  "had_body": true
 }

@@ -1,0 +1,44 @@
+{
+ "doc_id": "8eb77ec65382db73",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.m-i.kr/news/articleView.html?idxno=1415228",
+ "title": "파크 하얏트 서울, 라부르켓과 향수 모티브 칵테일 출시 …미식 경험 확...",
+ "summary": "파크 하얏트 서울이 라부르켓 향수 를 모티브로 한 칵테일 3종과 미디어 콘텐츠를 선보이며 향과 맛을 결합한 미식 경험을 제공한다. 사진=파크 하얏트 서울 제공 매일일보 = 강소슬 기자 | 파크 하얏트 서울이 향수 의 향을...",
+ "published_at": "2026-09-17T10:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라부르켓"
+  ],
+  "companies": [
+   "파크 하얏트 서울"
+  ],
+  "keywords": [
+   "향수 모티브 칵테일",
+   "미식 경험",
+   "향수 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "파크 하얏트 서울이 라부르켓 향수를 모티브로 한 칵테일과 미디어 콘텐츠를 선보이며 향과 맛을 결합한 미식 경험을 제공한다.",
+  "key_fact_quote": "파크 하얏트 서울이 라부르켓 향수 를 모티브로 한 칵테일 3종과 미디어 콘텐츠를 선보이며 향과 맛을 결합한 미식 경험을 제공한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:21+00:00",
+ "had_body": false
+}

@@ -1,0 +1,65 @@
+{
+ "doc_id": "a7f2e3dcf3150268",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ibabynews.com/news/articleView.html?idxno=154211",
+ "title": "[뷰티 트렌드] 이희앤코 엑소머, '셀 부스팅 퍼스트 에센스' 출시…에린...",
+ "summary": "국내외 뷰티·생활건강 기업들이 발표한 신제품 출시, 성분·기술 연구, 캠페인, 사회공헌 활동 등 다양한... ◇ 시로, 남은 향료 재활용한 한정 향수 '제로 페어' 출시 SHIRO(시로) '제로 컬렉션' 사진. ⓒSHIRO 자연주의 뷰티...",
+ "published_at": "2026-09-03T16:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이희앤코",
+   "엑소머",
+   "시로",
+   "SHIRO"
+  ],
+  "companies": [
+   "이희앤코",
+   "SHIRO"
+  ],
+  "keywords": [
+   "신제품 출시",
+   "한정 향수",
+   "업사이클링 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "셀 부스팅 퍼스트 에센스",
+    "brand": "엑소머",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "제로 페어",
+    "brand": "시로",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 기업들이 남은 향료를 재활용한 한정 향수 등 다양한 신제품을 출시했다.",
+  "key_fact_quote": "시로, 남은 향료 재활용한 한정 향수 '제로 페어' 출시",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:41+00:00",
+ "had_body": false
+}

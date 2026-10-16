@@ -29,10 +29,10 @@
    "시티파르마"
   ],
   "keywords": [
-   "바이오 테크놀로지",
+   "바이오 테크놀로지 스킨케어",
    "K-클리닉 스킨케어",
    "약국 화장품",
-   "유럽 화장품 등록"
+   "슬로우 에이징"
   ],
   "is_press_release": true,
   "products": [
@@ -40,6 +40,7 @@
     "name": "포밍 에센스",
     "brand": "라누벨뽀",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -48,6 +49,7 @@
     "name": "28데이즈 앰풀",
     "brand": "라누벨뽀",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -56,6 +58,7 @@
     "name": "토탈 액션 아이 세럼",
     "brand": "라누벨뽀",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -64,6 +67,7 @@
     "name": "슬로우 에이징 크림",
     "brand": "라누벨뽀",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -72,7 +76,8 @@
     "name": "LNP-W01 나이트 크림",
     "brand": "라누벨뽀",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "CPNP 등록 완료 제품에는 포밍 에센스, 28데이즈 앰풀, 토탈 액션 아이 세럼, 슬로우 에이징 크림을 비롯해 최근 출시한 LNP-W01 나이트 크림, LNP-W01 피토 라이스 브라이트닝 마스크 등이 포함된다.",
     "notes": [],
     "notes_quote": null
    },
@@ -80,17 +85,20 @@
     "name": "LNP-W01 피토 라이스 브라이트닝 마스크",
     "brand": "라누벨뽀",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "CPNP 등록 완료 제품에는 포밍 에센스, 28데이즈 앰풀, 토탈 액션 아이 세럼, 슬로우 에이징 크림을 비롯해 최근 출시한 LNP-W01 나이트 크림, LNP-W01 피토 라이스 브라이트닝 마스크 등이 포함된다.",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "스킨케어 브랜드 라누벨뽀가 프랑스 파리 시티파르마 입점을 시작으로 현지 약국과 프리미엄 뷰티 유통망을 확대하며 유럽 시장 공략에 나선다.",
+  "key_fact": "스킨케어 브랜드 라누벨뽀가 프랑스 대형 약국 시티파르마 파리점 입점을 시작으로 프랑스 시장 유통망을 다각화하며 공략에 나섰다.",
   "key_fact_quote": "고기능성 바이오 테크놀로지 스킨케어 브랜드 라누벨뽀(LA NOUVELLE PEAU, 대표 김유빈)가 프랑스 최대 규모 약국으로 손꼽히는 시티파르마(CITYYPHARMA) 26 Rue du Four,75006 Paris 파리점 입점을 시작으로 프랑스 시장 공략에 본격적으로 나선다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:57+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:07+00:00",
  "had_body": true
 }

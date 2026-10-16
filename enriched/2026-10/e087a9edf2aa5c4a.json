@@ -1,0 +1,56 @@
+{
+ "doc_id": "e087a9edf2aa5c4a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.edaily.co.kr/News/Read?newsId=02561686645610952&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+ "title": "“외국인 뷰티 수요 잡아라” 신라면세점, 단독 컬러·기획 세트 확대",
+ "summary": "신라면세점이 화장품 매출 증가에 맞춰 단독 컬러와 기획 세트 등 차별화 상품을 확대한다. 개별여행객(FIT)... 메이크업포에버는 ‘아티스트 컬러 글로우 립 밤’의 신라면세점 단독 컬러 2종을 출시 한다. ‘페스티벌...",
+ "published_at": "2026-10-08T08:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메이크업포에버"
+  ],
+  "companies": [
+   "신라면세점"
+  ],
+  "keywords": [
+   "단독 컬러",
+   "기획 세트",
+   "면세 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아티스트 컬러 글로우 립 밤",
+    "brand": "메이크업포에버",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "메이크업포에버는 ‘아티스트 컬러 글로우 립 밤’의 신라면세점 단독 컬러 2종을 출시 한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신라면세점이 화장품 매출 증가에 발맞추어 단독 컬러 및 기획 세트 등 차별화 상품을 확대한다.",
+  "key_fact_quote": "신라면세점이 화장품 매출 증가에 맞춰 단독 컬러와 기획 세트 등 차별화 상품을 확대한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:30+00:00",
+ "had_body": false
+}

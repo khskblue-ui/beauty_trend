@@ -1,0 +1,42 @@
+{
+ "doc_id": "f62777f936343947",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.greened.kr/news/articleView.html?idxno=350020",
+ "title": "[K-뷰티 부스팅] 동국제약, 파마시 뷰티 전략 확대일로...제조공장 인수...",
+ "summary": "장수 브랜드에 기반한 제품 개발력과 높은 약국 직거래 비중을 바탕으로 신제품 을 빠르게 시장에 침투시키고, 확보한 브랜드·유통망을 화장품 등에 재배분할 수 있는 전략으로 풀이된다. 고기능성에 상대적으로...",
+ "published_at": "2026-09-14T15:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "파마시 뷰티",
+   "화장품 제조공장 인수",
+   "고기능성 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "동국제약이 제품 개발력과 약국 직거래망을 바탕으로 파마시 뷰티 전략을 확대하며 화장품 제조공장을 인수하고 있다.",
+  "key_fact_quote": "동국제약, 파마시 뷰티 전략 확대일로...제조공장 인수...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:04+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "fa11b50d7f0db76e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://dealsite.co.kr/articles/168688",
+ "title": "[오늘의 유통가] 코스맥스, 로레알과 차세대 뷰티 혁신 협력 外",
+ "summary": "지난 6월 인수한 소다 아로마틱도 향 분석 기술과 당류 저감 제품용 향료 해결책을 선보였다. ◆NS홈쇼핑, 추석 식품·건강기능식품 집중 편성 NS홈쇼핑이 오는 21일까지 갈비찜과 굴비, 햅쌀 등 명절 먹거리와 홍삼...",
+ "published_at": "2026-09-09T09:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "로레알",
+   "소다 아로마틱",
+   "NS홈쇼핑"
+  ],
+  "keywords": [
+   "뷰티 혁신",
+   "향 분석 기술",
+   "향료 해결책"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "소다 아로마틱이 향 분석 기술과 당류 저감 제품용 향료 해결책을 선보였다.",
+  "key_fact_quote": "지난 6월 인수한 소다 아로마틱도 향 분석 기술과 당류 저감 제품용 향료 해결책을 선보였다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:24+00:00",
+ "had_body": false
+}

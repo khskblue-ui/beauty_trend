@@ -1,0 +1,47 @@
+{
+ "doc_id": "9af52caba276427f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Economy/article/all/20261005/134789254/2",
+ "title": "K뷰티 전용 ‘큐텐픽’ 매대에 올린 日 세븐일레븐…1030 수요 확대 노린...",
+ "summary": "정식 출시 에 앞서 지난해 9월 일부 매장에서 총 8개 브랜드, 24개 상품으로 진행한 테스트 판매는 기대 이상의 성과를 냈다. 별도의 사전 홍보나 마케팅 없이도 기존 일본 화장품 보다 판매량이 높았다는 것이 세븐일레븐...",
+ "published_at": "2026-10-06T07:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "큐텐픽"
+  ],
+  "companies": [
+   "세븐일레븐"
+  ],
+  "keywords": [
+   "K뷰티",
+   "편의점 뷰티",
+   "화장품 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "일본 세븐일레븐이 한국 화장품 전용 매대를 도입하여 젊은 층 수요 공략에 나섰다.",
+  "key_fact_quote": "K뷰티 전용 ‘큐텐픽’ 매대에 올린 日 세븐일레븐…1030 수요 확대 노린...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:39+00:00",
+ "had_body": false
+}

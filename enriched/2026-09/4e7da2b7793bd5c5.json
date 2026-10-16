@@ -1,0 +1,55 @@
+{
+ "doc_id": "4e7da2b7793bd5c5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.4th.kr/news/articleView.html?idxno=2118426",
+ "title": "[산업소식] JW중외제약 '프렌즈' 화장품으로 확장…눈꺼풀 클리너 2종 출...",
+ "summary": "향료 와 색소는 넣지 않았으며 눈가에 사용하는 제품인 만큼 피부 자극 테스트를 마쳤다. 아이쓱 눈꺼풀 클리너 패드형과 면봉형은 전국 약국에서 판매한다. JW중외제약은 최근 프렌즈의 통합 브랜드 아이덴티티(BI)를...",
+ "published_at": "2026-09-21T11:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프렌즈"
+  ],
+  "companies": [
+   "JW중외제약"
+  ],
+  "keywords": [
+   "눈꺼풀 클리너",
+   "무향료 화장품",
+   "피부 저자극"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아이쓱 눈꺼풀 클리너 패드형",
+    "brand": "프렌즈",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "JW중외제약이 프렌즈 브랜드를 화장품으로 확장하며 무향료 눈꺼풀 클리너 제품을 선보였다.",
+  "key_fact_quote": "[산업소식] JW중외제약 '프렌즈' 화장품으로 확장…눈꺼풀 클리너 2종 출...",
+  "dropped": [
+   "product:아이쓱 눈꺼풀 클리너 면봉형"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:16:12+00:00",
+ "had_body": false
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "57a6e57d2ec36ed5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493962",
+ "title": "K뷰티 는 날고 K콘텐츠는 추락…올해 증시에서 희비 가른 이유 보니",
+ "summary": "K뷰티 역시 수출 증가세가 실적 개선으로 이어지는지를 확인해야 한다. 한류 확산이라는 공통된 기대 속에서도 증시는 성장 가능성을 실제 이익으로 증명하는 기업과 그렇지 못한 기업을 구분하고 있다.",
+ "published_at": "2026-10-09T09:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "수출 증가세",
+   "실적 개선"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "케이뷰티 분야는 수출 성장세가 실제 기업 실적 개선으로 이어지는지 여부를 입증해야 한다는 평가를 받고 있다.",
+  "key_fact_quote": "K뷰티 역시 수출 증가세가 실적 개선으로 이어지는지를 확인해야 한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:25+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "8aa0e7f0ddf80fac",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.job-post.co.kr/news/articleView.html?idxno=230526",
+ "title": "한국콜마 13만원대로 밀려…K뷰티 수요와 수익성 시험대",
+ "summary": "화장품 ODM의 국내외 수요와 자회사 실적이 연결 손익을 좌우한다. 중국 무석법인은 7월... K뷰티 수출 확대는 기회지만 고객사별 주문 변동과 신제품 초기 비용, 원부자재 가격이 마진에 영향을 준다. 해외 법인...",
+ "published_at": "2026-10-02T14:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 제조업자개발생산 수요와 해외 법인 실적이 손익을 좌우하는 가운데 관련 기업의 주가와 수익성이 시험대에 올랐다.",
+  "key_fact_quote": "화장품 ODM의 국내외 수요와 자회사 실적이 연결 손익을 좌우한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:13+00:00",
+ "had_body": false
+}

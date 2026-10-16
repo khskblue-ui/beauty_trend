@@ -1,0 +1,42 @@
+{
+ "doc_id": "d3d0be3f9f887de2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438454",
+ "title": "프랑스 꺾고 세계 1위 찍은 K뷰티 …다음 주인공은",
+ "summary": "글로벌 화장품 수출 지형도[출처: 연합인포맥스 AI 생성 이미지] K뷰티 가 화장품 종주국 프랑스를 제치고 세계 수출 1위에 다시 오를 수 있다는 전망이 제기됐다. 하반기 쇼핑 시즌을 발판으로 주요 화장품 업체들의...",
+ "published_at": "2026-10-09T07:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "글로벌 화장품 수출",
+   "쇼핑 시즌"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 뷰티 산업이 프랑스를 제치고 세계 수출 정상에 다시 오를 수 있다는 전망이 나왔다.",
+  "key_fact_quote": "K뷰티 가 화장품 종주국 프랑스를 제치고 세계 수출 1위에 다시 오를 수 있다는 전망이 제기됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:27+00:00",
+ "had_body": false
+}

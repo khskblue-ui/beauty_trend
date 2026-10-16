@@ -1,0 +1,47 @@
+{
+ "doc_id": "8d363759a3ccff26",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500344",
+ "title": "뷰티컬리+아모레퍼시픽, 시너지 기대감 [뉴스큐]",
+ "summary": "뉴스Q(큐) 임유진 기자 / 컬리가 화장품 기획에 직접 나섰다. 지난달 자체 뷰티 브랜드 듀에라를 공개한 데... 아모레퍼시픽과 만들 단독 상품의 품목과 출시 시기는 아직 공개되지 않았다. 후속 제품과...",
+ "published_at": "2026-10-06T08:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "뷰티컬리",
+   "듀에라"
+  ],
+  "companies": [
+   "컬리",
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "자체 뷰티 브랜드",
+   "단독 상품 협업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "컬리가 자체 뷰티 브랜드를 선보인데 이어 아모레퍼시픽과 단독 상품 기획을 추진한다.",
+  "key_fact_quote": "컬리가 화장품 기획에 직접 나섰다. 지난달 자체 뷰티 브랜드 듀에라를 공개한 데... 아모레퍼시픽과 만들 단독 상품의 품목과 출시 시기는 아직 공개되지 않았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:38+00:00",
+ "had_body": false
+}

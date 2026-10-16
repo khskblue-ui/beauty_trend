@@ -1,0 +1,42 @@
+{
+ "doc_id": "2959abfafc720744",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.globalepic.co.kr/view.php?ud=202610131036381316cf2d78c68_29",
+ "title": "한글·한복부터 K - 뷰티 ·푸드까지... LA한국문화원 ‘LA:ON’ 개소",
+ "summary": "이번에 문을 연 「 LA:ON」은 한글과 한지, 공예, 한복 등 한국의 전통문화와 K - 뷰티 ·패션·푸드, 동시대... 문체부는 재외한국문화원을 문화교류와 홍보를 위한 공간에서 K -컬처와 관련 산업을 함께 알리는 문화 수출 ...",
+ "published_at": "2026-10-13T10:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "문화 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "LA한국문화원이 전통문화와 더불어 K-뷰티 등을 소개하는 새로운 공간을 개소했다.",
+  "key_fact_quote": "이번에 문을 연 「 LA:ON」은 한글과 한지, 공예, 한복 등 한국의 전통문화와 K - 뷰티 ·패션·푸드, 동시대...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:55+00:00",
+ "had_body": false
+}

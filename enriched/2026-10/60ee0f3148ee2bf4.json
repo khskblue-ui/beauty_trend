@@ -1,0 +1,43 @@
+{
+ "doc_id": "60ee0f3148ee2bf4",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/india-key-emerging-market-the-estee-lauder-cos-1239239406/",
+ "title": "Why India Is a Key Emerging Market for the Estée Lauder Cos.",
+ "summary": "The runway there is huge for recruiting prestige beauty consumers.",
+ "published_at": "2026-10-09T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "IN"
+  ],
+  "brands": [],
+  "companies": [
+   "The Estée Lauder Cos."
+  ],
+  "keywords": [
+   "신흥 시장",
+   "프레스티지 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인도는 프레스티지 뷰티 소비자를 유치할 수 있는 성장 잠재력이 큰 핵심 신흥 시장이다.",
+  "key_fact_quote": "Why India Is a Key Emerging Market for the Estée Lauder Cos. The runway there is huge for recruiting prestige beauty consumers.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:19+00:00",
+ "had_body": false
+}

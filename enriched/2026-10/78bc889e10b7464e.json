@@ -1,0 +1,41 @@
+{
+ "doc_id": "78bc889e10b7464e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/2026101033737",
+ "title": "\"수백번 바르고 테스트\"…배우 정보석, 화장품 CEO 변신 근황",
+ "summary": "그는 \"평소 화장품 에 관심이 많아 직접 개발해 보면 좋을 것 같아서 화장품 브랜드를 론칭했다\"고 말했다고 한다. 회사에는 디자인 팀장 직원 한 명이 근무 중이다. 방송에서는 신제품 개발 회의에서 업무를 챙기는...",
+ "published_at": "2026-10-10T12:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 브랜드",
+   "신제품 개발"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배우 정보석이 직접 화장품 브랜드를 론칭하며 화장품 회사 대표로 변신한 근황을 전했다.",
+  "key_fact_quote": "그는 \"평소 화장품 에 관심이 많아 직접 개발해 보면 좋을 것 같아서 화장품 브랜드를 론칭했다\"고 말했다고 한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:41+00:00",
+ "had_body": false
+}

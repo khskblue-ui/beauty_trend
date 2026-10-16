@@ -5,22 +5,21 @@
  "group": "kr_news",
  "lang": "ko",
  "url": "https://www.hankyung.com/article/202609094157g",
- "title": "'천만 흥행' 오디세우스의 그 섬…눈길 끄는 '22만원 향수'",
- "summary": "신세계인터내셔날이 공식 수입하는 프랑스 독립 니치 향수 브랜드 메모파리(MEMO PARIS)의 '이타크 오 드 퍼퓸 '이다. 극 중 오디세우스(맷 데이먼 분)가 10년간의 사투 끝에 필사적으로 돌아가려 했던 신화 속 안식처, 그리스...",
+ "title": "'천만 흥행' 오디세우스의 그 섬…눈길 끄는 '22만원 향수 '",
+ "summary": "신세계인터내셔날이 공식 수입하는 프랑스 독립 니치 향수 브랜드 메모파리(MEMO PARIS)의 '이타크 오 드 퍼퓸'이다. 극 중 오디세우스(맷 데이먼 분)가 10년간의 사투 끝에 필사적으로 돌아가려 했던 신화 속 안식처, 그리스...",
  "published_at": "2026-09-10T17:08:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "니치 퍼퓸",
+ "query": "니치 향수",
  "doc_type": null,
  "celex": null,
  "extraction": {
   "relevant": true,
   "category": "fragrance",
-  "event_type": "market_trend",
+  "event_type": "product_launch",
   "countries": [
-   "KR",
    "FR",
-   "GR"
+   "KR"
   ],
   "brands": [
    "메모파리",
@@ -33,26 +32,23 @@
    "니치 향수",
    "오 드 퍼퓸"
   ],
-  "is_press_release": false,
+  "is_press_release": true,
   "products": [
    {
     "name": "이타크 오 드 퍼퓸",
     "brand": "메모파리",
     "launch_date": null,
-    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "신세계인터내셔날이 공식 수입하는 프랑스 니치 향수 브랜드 메모파리의 이타크 오 드 퍼퓸이 관심을 모으고 있다.",
-  "key_fact_quote": "신세계인터내셔날이 공식 수입하는 프랑스 독립 니치 향수 브랜드 메모파리(MEMO PARIS)의 '이타크 오 드 퍼퓸 '이다.",
-  "events": [],
-  "ingredients": [],
+  "key_fact": "신세계인터내셔날이 공식 수입하는 프랑스 니치 향수 브랜드 메모파리의 이타크 오 드 퍼퓸이 주목받고 있다.",
+  "key_fact_quote": "신세계인터내셔날이 공식 수입하는 프랑스 독립 니치 향수 브랜드 메모파리(MEMO PARIS)의 '이타크 오 드 퍼퓸'이다.",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:12+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:25+00:00",
  "had_body": false
 }

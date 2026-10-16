@@ -1,0 +1,44 @@
+{
+ "doc_id": "8fce698d40eb1804",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53636",
+ "title": "[코스모닝] 화장품·뷰티, 청년층 고용 확대 선도 산업",
+ "summary": "한국보건산업진흥원 2026년 바이오헬스산업 고용동향 올해 2분기를 기준으로 한 화장품 산업 종사자는 모두 4만5천 명으로 전년 같은 기간보다 8.8%가 증가한 것으로 나타났다. 이는 바이오헬스 산업(화장품·제약·의료기기·의료서비스) 전체에서 가장 높은 증가율이다. 이는 한국보건산업진흥원(원장 고상백· www.khidi.or.kr ·이하 진흥원)이 최근 집계",
+ "published_at": "2026-10-02T16:45:56+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국보건산업진흥원"
+  ],
+  "keywords": [
+   "바이오헬스산업",
+   "고용 동향",
+   "청년층 고용"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 산업 종사자가 전년 동기 대비 큰 폭으로 증가하며 바이오헬스 산업 내에서 가장 높은 증가율을 기록했다.",
+  "key_fact_quote": "올해 2분기를 기준으로 한 화장품 산업 종사자는 모두 4만5천 명으로 전년 같은 기간보다 8.8%가 증가한 것으로 나타났다. 이는 바이오헬스 산업(화장품·제약·의료기기·의료서비스) 전체에서 가장 높은 증가율이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:34+00:00",
+ "had_body": true
+}

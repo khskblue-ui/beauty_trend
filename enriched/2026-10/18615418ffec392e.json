@@ -1,0 +1,47 @@
+{
+ "doc_id": "18615418ffec392e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12173686",
+ "title": "화장품 10월 수출 호조에 코스맥스·한국콜마 실적 기대",
+ "summary": "K뷰티 수출 호조가 이어지면서 코스맥스와 한국콜마, 코스메카코리아 등 국내 화장품 제조업자개발생산(ODM) 3사가 올해 4분기에도 실적 성장세를 이어갈 전망이다. 아마존프라임데이 등 미국 연말 쇼핑 성수기를 앞둔...",
+ "published_at": "2026-10-12T16:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "한국콜마",
+   "코스메카코리아"
+  ],
+  "keywords": [
+   "수출 호조",
+   "화장품 ODM",
+   "쇼핑 성수기"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "케이뷰티 수출 호조세에 힘입어 주요 화장품 제조사들의 실적 성장이 지속될 전망이다.",
+  "key_fact_quote": "K뷰티 수출 호조가 이어지면서 코스맥스와 한국콜마, 코스메카코리아 등 국내 화장품 제조업자개발생산(ODM) 3사가 올해 4분기에도 실적 성장세를 이어갈 전망이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:03+00:00",
+ "had_body": false
+}

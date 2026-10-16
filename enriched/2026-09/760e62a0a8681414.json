@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "business",
+  "category": "fragrance",
   "event_type": "business",
   "countries": [
    "KR"
@@ -24,11 +24,13 @@
    "다비디퓨저"
   ],
   "companies": [
-   "킹고스프링"
+   "킹고스프링",
+   "다비디퓨저"
   ],
   "keywords": [
    "투자 유치",
    "천연 향기",
+   "핸드크림",
    "캐릭터 협업"
   ],
   "is_press_release": true,
@@ -48,6 +50,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:58+00:00",
+ "enriched_at": "2026-10-14T14:17:41+00:00",
  "had_body": false
 }

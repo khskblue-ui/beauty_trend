@@ -1,0 +1,62 @@
+{
+ "doc_id": "fa67ab8975efce76",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100077",
+ "title": "인천시, 제30차 세계한인경제인대회 참가",
+ "summary": "인천시가 글로벌 한인 경제인 네트워크를 활용해 지역 중소기업의 중국 시장 진출과 판로 개척에 나선다.인천광역시(시장 박찬대)는 오는 10월 8일부터 11일까지 중국 선전에서 개최되는 '제30차 세계한인경제인대회'에 참가한다고 밝혔다.대회와 연계해 열리는 '2026 KOREA Business Expo SHENZHEN'에서는 인천테크노파크, 식품산업육성지원센터와 손잡고 인천 유망 기업 25개사와 함께 '인천기업 공동관'을 운영할 계획이다.세계한인경제무역협회(World-OKTA)가 주최하는 이번",
+ "published_at": "2026-10-06T13:06:44+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "인천테크노파크",
+   "식품산업육성지원센터",
+   "세계한인경제무역협회"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "해외 판로 개척",
+   "수출 지원"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "인천시가 중국 선전에서 열리는 세계한인경제인대회에 참가해 뷰티 분야 등을 포함한 유망 기업들과 공동관을 운영하며 판로 개척에 나선다.",
+  "key_fact_quote": "대회와 연계해 열리는 '2026 KOREA Business Expo SHENZHEN'에서는 인천테크노파크, 식품산업육성지원센터와 손잡고 인천 유망 기업 25개사와 함께 '인천기업 공동관'을 운영할 계획이다.",
+  "events": [
+   {
+    "name": "제30차 세계한인경제인대회",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-11",
+    "place": "중국 선전",
+    "quote": "인천광역시(시장 박찬대)는 오는 10월 8일부터 11일까지 중국 선전에서 개최되는 '제30차 세계한인경제인대회'에 참가한다고 밝혔다."
+   },
+   {
+    "name": "2026 KOREA Business Expo SHENZHEN",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-11",
+    "place": "중국 선전",
+    "quote": "인천광역시(시장 박찬대)는 오는 10월 8일부터 11일까지 중국 선전에서 개최되는 '제30차 세계한인경제인대회'에 참가한다고 밝혔다.대회와 연계해 열리는 '2026 KOREA Business Expo SHENZHEN'에서는 인천테크노파크, 식품산업육성지원센터와 손잡고 인천 유망 기업 25개사와 함께 '인천기업 공동관'을 운영할 계획이다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:25+00:00",
+ "had_body": true
+}

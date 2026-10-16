@@ -1,0 +1,45 @@
+{
+ "doc_id": "f066dddf8ea056d1",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/christian-dior-appointment-sophie-gilg-1239319508/",
+ "title": "Parfums Christian Dior Names New General Counsel",
+ "summary": "The appointment was revealed by Véronique Courtois, president and chief executive officer, on Wednesday.",
+ "published_at": "2026-10-08T05:37:10+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Parfums Christian Dior"
+  ],
+  "companies": [
+   "Parfums Christian Dior"
+  ],
+  "keywords": [
+   "법무 총괄",
+   "임원 인사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "퍼퓸 크리스챤 디올이 새로운 법무 총괄을 임명했다.",
+  "key_fact_quote": "Parfums Christian Dior Names New General Counsel",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:26+00:00",
+ "had_body": false
+}

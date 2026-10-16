@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "retail",
-  "event_type": "event",
+  "event_type": "market_trend",
   "countries": [
    "KR"
   ],
@@ -31,16 +31,19 @@
   "keywords": [
    "팝업스토어",
    "스킨케어",
-   "케이뷰티"
+   "향수",
+   "발효 공정"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "롯데백화점이 스킨케어와 향수 제품을 중심으로 국내 뷰티 브랜드를 소개하는 팝업 행사를 진행한다.",
+  "key_fact": "롯데백화점이 스킨케어와 향수를 중심으로 국내 뷰티 브랜드를 소개하는 팝업을 진행하고 엘지생활건강 등 관련 업계 소식이 전해졌다.",
   "key_fact_quote": "롯데백화점은 이번 팝업에서 스킨케어와 향수 제품을 중심으로 국내 뷰티 브랜드 7개를 소개한다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:28+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:37+00:00",
  "had_body": false
 }

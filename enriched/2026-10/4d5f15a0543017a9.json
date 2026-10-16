@@ -1,0 +1,53 @@
+{
+ "doc_id": "4d5f15a0543017a9",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100050",
+ "title": "(사)한메직협, 몽골 시티대학교와 K-BEAUTY 교육교류 본격화",
+ "summary": "(사)한국메이크업전문가직업교류협회(이하 한메직협, 회장 안미려)는 지난 2026년 9월 21일 몽골 시티대학교에서 뷰티 관련 전공 학생 약 200여 명을 대상으로 ‘퍼스널컬러 진단 및 K-BEAUTY 메이크업 세미나’를 개최했다.이번 세미나는 한국의 뷰티 교육과 산업 현장을 몽골의 뷰티 전공 학생들에게 소개하고, 양국 대학 및 뷰티 분야의 지속적인 교류 기반을 마련하기 위해 진행됐다.세미나 오프닝에서는 안미려 한메직협 회장이 ‘뷰티 산업의 비전과 리더십’을 주제로 강연을 진행했다. 안 회장은 빠르게 변화하는 글로벌 뷰티 산업의 흐름",
+ "published_at": "2026-10-02T09:37:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "MN"
+  ],
+  "brands": [],
+  "companies": [
+   "한국메이크업전문가직업교류협회"
+  ],
+  "keywords": [
+   "메이크업 세미나",
+   "퍼스널컬러 진단",
+   "뷰티 교육"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국메이크업전문가직업교류협회가 몽골 시티대학교에서 학생들을 대상으로 퍼스널컬러 진단 및 케이뷰티 메이크업 세미나를 개최했다.",
+  "key_fact_quote": "(사)한국메이크업전문가직업교류협회(이하 한메직협, 회장 안미려)는 지난 2026년 9월 21일 몽골 시티대학교에서 뷰티 관련 전공 학생 약 200여 명을 대상으로 ‘퍼스널컬러 진단 및 K-BEAUTY 메이크업 세미나’를 개최했다.",
+  "events": [
+   {
+    "name": "퍼스널컬러 진단 및 K-BEAUTY 메이크업 세미나",
+    "start_date": "2026-09-21",
+    "end_date": null,
+    "place": "몽골 시티대학교",
+    "quote": "(사)한국메이크업전문가직업교류협회(이하 한메직협, 회장 안미려)는 지난 2026년 9월 21일 몽골 시티대학교에서 뷰티 관련 전공 학생 약 200여 명을 대상으로 ‘퍼스널컬러 진단 및 K-BEAUTY 메이크업 세미나’를 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:16+00:00",
+ "had_body": true
+}

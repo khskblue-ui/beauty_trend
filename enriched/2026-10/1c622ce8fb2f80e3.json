@@ -1,0 +1,64 @@
+{
+ "doc_id": "1c622ce8fb2f80e3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=119608",
+ "title": "리엔케이, 美 코스트코 입점…K-뷰티 수출 판로 넓힌다",
+ "summary": "해당 제품은 정제수 대신 100% 콜라겐수를 베이스로 활용하고, 8종의 콜라겐과 10종의 펩타이드, 아스타잔틴 등을 배합한 독자 원료를 적용해 탄력 관리에 집중한 기초 화장품 이다. 리엔케이는 신제품 출시를 기점으로 현지...",
+ "published_at": "2026-10-08T10:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "리엔케이"
+  ],
+  "companies": [
+   "코스트코"
+  ],
+  "keywords": [
+   "기초 화장품",
+   "탄력 관리",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "리엔케이가 미국 코스트코에 입점하며 화장품 수출 판로를 넓힌다.",
+  "key_fact_quote": "리엔케이, 美 코스트코 입점…K-뷰티 수출 판로 넓힌다",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "콜라겐수",
+    "quote": "해당 제품은 정제수 대신 100% 콜라겐수를 베이스로 활용하고, 8종의 콜라겐과 10종의 펩타이드, 아스타잔틴 등을 배합한 독자 원료를 적용해 탄력 관리에 집중한 기초 화장품 이다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "해당 제품은 정제수 대신 100% 콜라겐수를 베이스로 활용하고, 8종의 콜라겐과 10종의 펩타이드, 아스타잔틴 등을 배합한 독자 원료를 적용해 탄력 관리에 집중한 기초 화장품 이다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "해당 제품은 정제수 대신 100% 콜라겐수를 베이스로 활용하고, 8종의 콜라겐과 10종의 펩타이드, 아스타잔틴 등을 배합한 독자 원료를 적용해 탄력 관리에 집중한 기초 화장품 이다."
+   },
+   {
+    "name": "아스타잔틴",
+    "quote": "해당 제품은 정제수 대신 100% 콜라겐수를 베이스로 활용하고, 8종의 콜라겐과 10종의 펩타이드, 아스타잔틴 등을 배합한 독자 원료를 적용해 탄력 관리에 집중한 기초 화장품 이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:53+00:00",
+ "had_body": false
+}

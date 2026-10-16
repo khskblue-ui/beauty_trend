@@ -1,0 +1,42 @@
+{
+ "doc_id": "aaa3492e3b2708ca",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312100",
+ "title": "주가로 읽는 K - 뷰티 : 색조·소재주, 색조는 팔고 원료는 사고",
+ "summary": "K - 뷰티 수출 이 확대될수록 용기 수요도 함께 증가하는 구조라는 점이 높은 기업가치로 이어지고 있는 것으로 분석된다. 화장품 밸류체인 내 투자축 이동 최근 한 달간 색조종목과 소재종목의 자금 흐름을 종합하면...",
+ "published_at": "2026-10-07T20:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 소재주",
+   "화장품 용기",
+   "화장품 밸류체인"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 수출 확대에 따라 용기 수요가 증가하며 밸류체인 내 투자 흐름이 이동하고 있다.",
+  "key_fact_quote": "K - 뷰티 수출 이 확대될수록 용기 수요도 함께 증가하는 구조라는 점이 높은 기업가치로 이어지고 있는 것으로 분석된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:52+00:00",
+ "had_body": false
+}

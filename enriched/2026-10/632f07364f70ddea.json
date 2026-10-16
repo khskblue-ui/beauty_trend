@@ -1,0 +1,60 @@
+{
+ "doc_id": "632f07364f70ddea",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53648",
+ "title": "[코스모닝] “보는 순간 지갑 열린다” 유통 판 흔드는 영상의 힘",
+ "summary": "샵라이브가 2일 서울 롯데월드타워 SKY31에서 ‘비디어 커머스 서밋 2026’을 열었다. 샵라이브(Shoplive)는 글로벌 비디오커머스 솔루션 기업이다. 이번 비디오 커머스 서밋(Video Commerce Summit)에서 ‘비디오 기술이 만드는 확장과 기회’를 소개했다. 이번 행사는 뷰티·패션·이커머스·유통 기업 150개사의 임원과 실무 책임자 330",
+ "published_at": "2026-10-06T17:17:59+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "@cosme",
+   "풀리오",
+   "R2W"
+  ],
+  "companies": [
+   "샵라이브",
+   "아이스타일",
+   "메타코리아",
+   "무신사"
+  ],
+  "keywords": [
+   "비디오 커머스",
+   "라이브커머스",
+   "이커머스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "샵라이브가 비디오 커머스 서밋을 개최하여 뷰티 및 유통 분야의 라이브커머스 운영 전략과 기술 솔루션을 공유했다.",
+  "key_fact_quote": "샵라이브가 2일 서울 롯데월드타워 SKY31에서 ‘비디어 커머스 서밋 2026’을 열었다.",
+  "events": [
+   {
+    "name": "비디어 커머스 서밋 2026",
+    "start_date": "2026-10-02",
+    "end_date": null,
+    "place": "서울 롯데월드타워 SKY31",
+    "quote": "샵라이브가 2일 서울 롯데월드타워 SKY31에서 ‘비디어 커머스 서밋 2026’을 열었다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:29+00:00",
+ "had_body": true
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "6b153615b6275d8b",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/tower-28-sensitive-club-venice-sephora-pop-up-1239305600/",
+ "title": "Tower 28 Opens First Pop-up With Sephora",
+ "summary": "The Los Angeles beauty brand will focus on community, shade matching and product refills.",
+ "published_at": "2026-10-05T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Tower 28",
+   "Sephora"
+  ],
+  "companies": [
+   "Tower 28",
+   "Sephora"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "리필"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 브랜드 타워 트웬티에잇이 세포라와 협력해 첫 팝업스토어를 연다.",
+  "key_fact_quote": "Tower 28 Opens First Pop-up With Sephora",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:30+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "d6db05188f0c5358",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=201948",
+ "title": "K뷰티, 내수 고객 잡기 '접점 다변화' 나섰다",
+ "summary": "국내 화장품 기업들이 모델 발탁과 팝업스토어, 신규 유통망 확대 등을 통해 내수 소비자와의 접점을... 또한 클리오는 2026 FW 신제품 출시와 함께 앰버서더 '올데이 프로젝트'를 활용한 팝업 마케팅에도 나섰다. 올데이...",
+ "published_at": "2026-09-24T03:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "클리오"
+  ],
+  "companies": [
+   "클리오"
+  ],
+  "keywords": [
+   "팝업 마케팅",
+   "유통망 확대",
+   "앰버서더"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 화장품 기업들이 모델 발탁과 팝업스토어 및 유통망 확대를 통해 내수 소비자 접점 강화에 나서고 있다.",
+  "key_fact_quote": "국내 화장품 기업들이 모델 발탁과 팝업스토어, 신규 유통망 확대 등을 통해 내수 소비자와의 접점을...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:38+00:00",
+ "had_body": false
+}

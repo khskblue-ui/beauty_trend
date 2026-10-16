@@ -1,0 +1,74 @@
+{
+ "doc_id": "5f23f993e045f29a",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58466",
+ "title": "케이메디켐–하나글로벌, ‘DAYNICS’로 동남아에서 ‘K-Bio Derma’ 영토 확장",
+ "summary": "[코스인코리아닷컴 김민석 기자]바이오·신약개발 및 기능성 소재 전문기업 ㈜케이메디켐(대표 이구연)이 글로벌 사업화 전문기업 하나글로벌(대표 윤은아)과 2026년 10월 7일 업무협약(MOU)을 체결하고, 자체 더마코스메틱 브랜드 ‘DAYNICS(데이닉스)’의 동남아시아 시장 진출을 본격화한다. 이번 협약은 케이메디켐의 바이오 소재 연구개발 역량과 하나글",
+ "published_at": "2026-10-07T16:33:19+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN",
+   "ID"
+  ],
+  "brands": [
+   "DAYNICS",
+   "데이닉스"
+  ],
+  "companies": [
+   "케이메디켐",
+   "하나글로벌"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "바이오뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "케이메디켐이 하나글로벌과 업무협약을 체결하고 자체 더마코스메틱 브랜드의 동남아시아 시장 진출을 본격화한다.",
+  "key_fact_quote": "바이오·신약개발 및 기능성 소재 전문기업 ㈜케이메디켐(대표 이구연)이 글로벌 사업화 전문기업 하나글로벌(대표 윤은아)과 2026년 10월 7일 업무협약(MOU)을 체결하고, 자체 더마코스메틱 브랜드 ‘DAYNICS(데이닉스)’의 동남아시아 시장 진출을 본격화한다.",
+  "events": [
+   {
+    "name": "업무협약(MOU) 체결",
+    "start_date": "2026-10-07",
+    "end_date": null,
+    "place": null,
+    "quote": "바이오·신약개발 및 기능성 소재 전문기업 ㈜케이메디켐(대표 이구연)이 글로벌 사업화 전문기업 하나글로벌(대표 윤은아)과 2026년 10월 7일 업무협약(MOU)을 체결하고, 자체 더마코스메틱 브랜드 ‘DAYNICS(데이닉스)’의 동남아시아 시장 진출을 본격화한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "식물성 PDRN",
+    "quote": "DAYNICS는 인삼 유래 식물성 PDRN과 독자 특허 소재 NCT(N-Caffeoyltyramine), 마데카 계열 성분을 적용한 R&D 기반 더마코스메틱 브랜드다."
+   },
+   {
+    "name": "NCT(N-Caffeoyltyramine)",
+    "quote": "DAYNICS는 인삼 유래 식물성 PDRN과 독자 특허 소재 NCT(N-Caffeoyltyramine), 마데카 계열 성분을 적용한 R&D 기반 더마코스메틱 브랜드다."
+   },
+   {
+    "name": "인삼 유래 PDRN",
+    "quote": "이구연 케이메디켐 대표이사는 “이번 협력은 DAYNICS의 해외 판매망 확보를 넘어 자체 R&D 성과와 독자 소재의 시장성을 글로벌 시장에서 검증하는 출발점”이라며 “인삼 유래 PDRN과 NCT를 기반으로 차별화된 ‘K-Bio Derma’ 브랜드를 구축하겠다”고 밝혔다."
+   },
+   {
+    "name": "NCT",
+    "quote": "이구연 케이메디켐 대표이사는 “이번 협력은 DAYNICS의 해외 판매망 확보를 넘어 자체 R&D 성과와 독자 소재의 시장성을 글로벌 시장에서 검증하는 출발점”이라며 “인삼 유래 PDRN과 NCT를 기반으로 차별화된 ‘K-Bio Derma’ 브랜드를 구축하겠다”고 밝혔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:23+00:00",
+ "had_body": true
+}

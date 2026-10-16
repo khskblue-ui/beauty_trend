@@ -1,0 +1,51 @@
+{
+ "doc_id": "457b161dd1854d0b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fashionbiz.co.kr/article/229476",
+ "title": "마이크로 테크 스킨케어 ‘엘릭세라’, 미세유체 공학 기반 앰플 2종 출...",
+ "summary": "함께 신제품 앰플 2종을 선보인다고 밝혔다. 엘릭세라는 ‘생명의 정수(ELIXIR)’와 ‘시대를 관통하는(ERA)’의 의미를 결합한 브랜드다. 미세유체 정밀 제어 공정 기술(특허 제10-1833610호, 제10-2173231호)을 화장품 ...",
+ "published_at": "2026-09-14T10:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "엘릭세라"
+  ],
+  "companies": [],
+  "keywords": [
+   "스킨케어",
+   "앰플",
+   "미세유체 공학"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "미세유체 공학 기반 앰플",
+    "brand": "엘릭세라",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스킨케어 브랜드 엘릭세라가 미세유체 공학 기술을 적용한 신제품 앰플을 선보였다.",
+  "key_fact_quote": "마이크로 테크 스킨케어 ‘엘릭세라’, 미세유체 공학 기반 앰플 2종 출... 함께 신제품 앰플 2종을 선보인다고 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:09+00:00",
+ "had_body": false
+}

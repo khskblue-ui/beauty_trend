@@ -1,0 +1,121 @@
+{
+ "doc_id": "8f2c677b80965f10",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100071",
+ "title": "센텔리안24 ‘마데카 기프트 세트’ 2종 카카오톡 선물하기 출시",
+ "summary": "동국제약(대표이사 송준호)이 더마코스메틱 브랜드 ‘센텔리안24’의 ‘마데카 기프트 세트’ 2종을 카카오톡 선물하기에 출시한다.이번에 선보이는 기프트 세트는 센텔리안24의 베스트셀러 제품으로 구성된 ‘마데카 프리미엄 컬렉션 기프트 세트’와 리프팅 케어에 초점을 맞춘 ‘마데카 크림 타이트 리프팅 인텐스 듀오 세트’다.‘마데카 프리미엄 컬렉션 기프트 세트’는 데일리 스킨케어부터 스페셜 케어까지 다양한 피부 고민에 맞춰 사용할 수 있도록 기획됐다. 동국제약의 핵심 성분 TECA(센텔라아시아티카 정량추출물)를 기반으로 안티에이징, 피부 생기",
+ "published_at": "2026-10-06T10:01:26+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안24"
+  ],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "기프트 세트",
+   "스킨케어",
+   "안티에이징",
+   "리프팅 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "마데카 프리미엄 컬렉션 기프트 세트",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "동국제약(대표이사 송준호)이 더마코스메틱 브랜드 ‘센텔리안24’의 ‘마데카 기프트 세트’ 2종을 카카오톡 선물하기에 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마데카 크림 타이트 리프팅 인텐스 듀오 세트",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "동국제약(대표이사 송준호)이 더마코스메틱 브랜드 ‘센텔리안24’의 ‘마데카 기프트 세트’ 2종을 카카오톡 선물하기에 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마데카 크림 에이징 포커스",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "엑스퍼트 마데카 멜라 캡처 토닝샷 앰플",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마데카 멜라 캡처 앰플 캡슐 크림",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마데카 크림 타이트 리프팅",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마데카 인텐스 리프팅 아이크림",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동국제약의 더마코스메틱 브랜드 센텔리안이 마데카 기프트 세트 종을 카카오톡 선물하기에 선보인다.",
+  "key_fact_quote": "동국제약(대표이사 송준호)이 더마코스메틱 브랜드 ‘센텔리안24’의 ‘마데카 기프트 세트’ 2종을 카카오톡 선물하기에 출시한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "TECA",
+    "quote": "동국제약의 핵심 성분 TECA(센텔라아시아티카 정량추출물)를 기반으로 안티에이징, 피부 생기, 기미·잡티 케어 등에 초점을 맞춘 제품들을 담았다."
+   },
+   {
+    "name": "센텔라아시아티카 정량추출물",
+    "quote": "동국제약의 핵심 성분 TECA(센텔라아시아티카 정량추출물)를 기반으로 안티에이징, 피부 생기, 기미·잡티 케어 등에 초점을 맞춘 제품들을 담았다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:32+00:00",
+ "had_body": true
+}

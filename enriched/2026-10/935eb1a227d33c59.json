@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "skincare",
-  "event_type": "business",
+  "event_type": "other",
   "countries": [
    "KR"
   ],
@@ -26,7 +26,8 @@
   "companies": [],
   "keywords": [
    "크림 미스트",
-   "보습 제품"
+   "보습 제품",
+   "화보 촬영"
   ],
   "is_press_release": true,
   "products": [
@@ -34,17 +35,20 @@
     "name": "크림 미스트",
     "brand": "아이레시피",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "아이레시피가 엔믹스 멤버 지우와 함께 크림 미스트 화보 촬영을 진행했다.",
+  "key_fact": "아이레시피가 그룹 엔믹스 멤버 지우와 함께 크림 미스트 화보를 촬영했다.",
   "key_fact_quote": "아이레시피가 NMIXX(엔믹스) 멤버 지우와 크림 미스트 화보를 촬영했다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:03:42+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:41+00:00",
  "had_body": true
 }

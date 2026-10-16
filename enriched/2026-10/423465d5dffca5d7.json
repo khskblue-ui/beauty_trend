@@ -1,0 +1,96 @@
+{
+ "doc_id": "423465d5dffca5d7",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53633",
+ "title": "[코스모닝] 어뮤즈, ‘세럼 도우’ 제형 쿠션 첫선",
+ "summary": "어뮤즈가 ‘누 세럼 볼륨 글로우업 쿠션’과 ‘듀 세럼 리퀴드 블러쉬’를 출시했다. 신제품은 어뮤즈가 개발한 비건 스킨케어 성분 ‘고글로우(goGlow ™)’를 함유했다. 고글로우는 펩타이드, 식물성PDRN, 세라마이드, 엑토인, 식물성 뮤신 등 5가지 원료로 구성됐다. 피부 생기‧탄력‧보습‧윤기‧결을 관리한다. ‘누 세럼 볼륨 글로우업 쿠션’은 코스맥스와",
+ "published_at": "2026-10-02T09:41:03+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어뮤즈"
+  ],
+  "companies": [
+   "어뮤즈",
+   "코스맥스"
+  ],
+  "keywords": [
+   "세럼 쿠션",
+   "리퀴드 블러쉬",
+   "비건 스킨케어",
+   "내추럴 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "누 세럼 볼륨 글로우업 쿠션",
+    "brand": "어뮤즈",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "어뮤즈가 ‘누 세럼 볼륨 글로우업 쿠션’과 ‘듀 세럼 리퀴드 블러쉬’를 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "듀 세럼 리퀴드 블러쉬",
+    "brand": "어뮤즈",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "어뮤즈가 ‘누 세럼 볼륨 글로우업 쿠션’과 ‘듀 세럼 리퀴드 블러쉬’를 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "어뮤즈가 비건 스킨케어 성분을 함유한 쿠션과 리퀴드 블러쉬를 출시했다.",
+  "key_fact_quote": "어뮤즈가 ‘누 세럼 볼륨 글로우업 쿠션’과 ‘듀 세럼 리퀴드 블러쉬’를 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "고글로우",
+    "quote": "신제품은 어뮤즈가 개발한 비건 스킨케어 성분 ‘고글로우(goGlow ™)’를 함유했다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "고글로우는 펩타이드, 식물성PDRN, 세라마이드, 엑토인, 식물성 뮤신 등 5가지 원료로 구성됐다."
+   },
+   {
+    "name": "식물성PDRN",
+    "quote": "고글로우는 펩타이드, 식물성PDRN, 세라마이드, 엑토인, 식물성 뮤신 등 5가지 원료로 구성됐다."
+   },
+   {
+    "name": "세라마이드",
+    "quote": "고글로우는 펩타이드, 식물성PDRN, 세라마이드, 엑토인, 식물성 뮤신 등 5가지 원료로 구성됐다."
+   },
+   {
+    "name": "엑토인",
+    "quote": "고글로우는 펩타이드, 식물성PDRN, 세라마이드, 엑토인, 식물성 뮤신 등 5가지 원료로 구성됐다."
+   },
+   {
+    "name": "식물성 뮤신",
+    "quote": "고글로우는 펩타이드, 식물성PDRN, 세라마이드, 엑토인, 식물성 뮤신 등 5가지 원료로 구성됐다."
+   },
+   {
+    "name": "나이아신아마이드",
+    "quote": "나이아신아마이드를 2% 함유해 미백과 주름 개선에 도움을 준다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:39+00:00",
+ "had_body": true
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "5aa9237cbb61a4c3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.globalepic.co.kr/view.php?ud=2026093009314420676cf2d78c68_29",
+ "title": "반려동물 간식 음료 브랜드 츌립, 전 제품 한국 생산 판매 실시",
+ "summary": "식품의약품안전처와 산업통상자원부에 따르면 2025년 K - 뷰티 수출 액은 114억 달러(약 16조 원)로 전년보다 11.8% 늘어 역대 최대를 기록했다. 농림축산식품부 잠정 집계로는 2025년 K-푸드+ 수출액도 136억 달러(약 19조...",
+ "published_at": "2026-10-02T09:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "츌립"
+  ],
+  "companies": [
+   "식품의약품안전처",
+   "산업통상자원부",
+   "농림축산식품부"
+  ],
+  "keywords": [
+   "반려동물 간식",
+   "수출 실적"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:50+00:00",
+ "had_body": false
+}

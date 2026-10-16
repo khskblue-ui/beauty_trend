@@ -1,0 +1,47 @@
+{
+ "doc_id": "aca3b5ef6cbdf3ed",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/oceanboost-lf-named-sustainable-ingredient-of-the-year",
+ "title": "OCEANBOOST LF named Sustainable Ingredient of the Year at the European Natural Beauty Awards",
+ "summary": "For Origin by Ocean, the award adds another independent proof point for an approach we have been building deliberately: transforming invasive marine biomass into high-performance ingredients that can compete on what matters to customers: functionality, efficacy and sustainability",
+ "published_at": "2026-10-13T04:20:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Origin by Ocean"
+  ],
+  "keywords": [
+   "지속가능한 원료",
+   "친환경 화장품 원료",
+   "해양 바이오매스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "오리진 바이 오션의 원료가 유러피언 내추럴 뷰티 어워즈에서 올해의 지속가능한 원료로 선정되었다.",
+  "key_fact_quote": "OCEANBOOST LF named Sustainable Ingredient of the Year at the European Natural Beauty Awards",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "OCEANBOOST LF",
+    "quote": "OCEANBOOST LF named Sustainable Ingredient of the Year at the European Natural Beauty Awards"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:03+00:00",
+ "had_body": false
+}

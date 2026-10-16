@@ -1,0 +1,61 @@
+{
+ "doc_id": "4b1b5080a161771c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ibabynews.com/news/articleView.html?idxno=154814",
+ "title": "[뷰티 트렌드] 아이소이, '보라감자 쿨링 마스크 팩' 출시 外",
+ "summary": "ⓒ아이소이 식물 유래 기능성 화장품 브랜드 아이소이가 '보라감자 쿨링 마스크 팩'을 출시했다고 28일 밝혔다. 이번 신제품 은 지난 6월 출시한 '보라감자 쿨링 수딩젤'에 이은 보라감자 라인업 제품이다. 자외선과...",
+ "published_at": "2026-09-28T18:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이소이"
+  ],
+  "companies": [
+   "아이소이"
+  ],
+  "keywords": [
+   "쿨링 마스크 팩",
+   "기능성 화장품",
+   "수딩젤"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "보라감자 쿨링 마스크 팩",
+    "brand": "아이소이",
+    "launch_date": null,
+    "launch_quote": "아이소이가 '보라감자 쿨링 마스크 팩'을 출시했다고 28일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "보라감자 쿨링 수딩젤",
+    "brand": "아이소이",
+    "launch_date": null,
+    "launch_quote": "이번 신제품 은 지난 6월 출시한 '보라감자 쿨링 수딩젤'에 이은 보라감자 라인업 제품이다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아이소이가 새로운 제품으로 보라감자 쿨링 마스크 팩을 선보였다.",
+  "key_fact_quote": "식물 유래 기능성 화장품 브랜드 아이소이가 '보라감자 쿨링 마스크 팩'을 출시했다고 28일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:04+00:00",
+ "had_body": false
+}

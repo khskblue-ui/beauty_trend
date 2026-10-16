@@ -1,0 +1,46 @@
+{
+ "doc_id": "5dfe021ab45682a5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisacast.kr/news/articleView.html?idxno=99741",
+ "title": "[경제트렌드] \"의사·약사 추천하니 믿을 만\"…제약사 '더마코스메틱' ...",
+ "summary": "한미사이언스가 독자 개발한 복합 원료 'H-EGTI'를 기반으로 인공색소와 향료 를 배제한 고기능성 라인업을 선보이고 있다. 동국제약의 더마코스메틱 브랜드 '센텔리안24'는 지난 7월 미국 아마존 프라임데이에서 PDRN...",
+ "published_at": "2026-09-08T13:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "센텔리안24"
+  ],
+  "companies": [
+   "한미사이언스",
+   "동국제약"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "제약사 화장품",
+   "고기능성 스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제약사들이 독자 원료를 기반으로 고기능성 더마코스메틱 제품을 선보이며 시장 공략에 나서고 있다.",
+  "key_fact_quote": "한미사이언스가 독자 개발한 복합 원료 'H-EGTI'를 기반으로 인공색소와 향료 를 배제한 고기능성 라인업을 선보이고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:25+00:00",
+ "had_body": false
+}

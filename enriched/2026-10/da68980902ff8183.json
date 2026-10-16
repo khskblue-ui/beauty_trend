@@ -19,26 +19,36 @@
   "event_type": "event",
   "countries": [
    "KR",
-   "US"
+   "US",
+   "CN"
   ],
   "brands": [],
   "companies": [
-   "아마존코리아",
-   "아마존"
+   "아마존",
+   "아마존코리아"
   ],
   "keywords": [
    "글로벌 이커머스",
-   "수출 전략 세미나",
-   "해외 진출"
+   "수출 전략"
   ],
-  "is_press_release": false,
+  "is_press_release": true,
   "products": [],
-  "key_fact": "아마존코리아가 미국과 유럽 시장 공략 방안을 공유하는 한국 뷰티 기업 대상 세미나를 개최한다.",
+  "key_fact": "미국이 한국 화장품의 최대 수출시장으로 부상한 가운데 아마존코리아가 케이뷰티 기업을 대상으로 미국과 유럽 시장 공략 방안을 공유하는 세미나를 개최한다.",
   "key_fact_quote": "미국이 한국 화장품의 최대 수출시장으로 부상한 가운데 아마존코리아가 K-뷰티를 대상으로 미국·유럽 시장 공략 전략과 글로벌 성장 기회를 공유하는 자리를 마련한다.",
+  "events": [
+   {
+    "name": "아마존 뷰티 인 서울",
+    "start_date": "2026-10-27",
+    "end_date": null,
+    "place": "서울 강남구 그랜드 인터컨티넨탈 서울 파르나스",
+    "quote": "이 같은 수출 확대 흐름 속에 아마존은 오는 10월 27일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 K-뷰티 기업 관계자를 대상으로 '아마존 뷰티 인 서울' 글로벌 성장 전략 세미나를 개최한다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:09:08+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:36+00:00",
  "had_body": true
 }

@@ -1,0 +1,52 @@
+{
+ "doc_id": "c4c4fb33dcae3551",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610011401059430170",
+ "title": "K - 뷰티 '황금알'?… 석화ㆍ주류ㆍ식품사 '군침'",
+ "summary": "동원그룹 참존 인수 추진… 태광 애경산업, 하이트진로 비앤비코리아 인수 등 B2C 영토 확장 K - 뷰티 수출 액 상반기 70억 달러 ‘역대 최고’… 본업 정체 속 높은 해외 성장성에 사활 생산 중심 M&A는 성공, 브랜드 특수...",
+ "published_at": "2026-10-02T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "참존",
+   "애경산업"
+  ],
+  "companies": [
+   "동원그룹",
+   "참존",
+   "태광",
+   "애경산업",
+   "하이트진로",
+   "비앤비코리아"
+  ],
+  "keywords": [
+   "화장품 인수합병",
+   "해외 진출",
+   "뷰티 시장 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "석유화학 및 주류와 식품 기업들이 본업 정체 속에서 성장성이 높은 케이뷰티 기업 인수를 추진하고 있다.",
+  "key_fact_quote": "동원그룹 참존 인수 추진… 태광 애경산업, 하이트진로 비앤비코리아 인수 등 B2C 영토 확장 K - 뷰티 수출 액 상반기 70억 달러 ‘역대 최고’… 본업 정체 속 높은 해외 성장성에 사활 생산 중심 M&A는 성공, 브랜드 특수...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:54+00:00",
+ "had_body": false
+}

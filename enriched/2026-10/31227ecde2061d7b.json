@@ -1,0 +1,44 @@
+{
+ "doc_id": "31227ecde2061d7b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ggilbo.com/news/articleView.html?idxno=1185593",
+ "title": "한국화장품제조 주가, 급등세... 이유는?",
+ "summary": "미국 연말 쇼핑시즌을 앞두고 K뷰티 수요 확대 기대가 커지는 가운데 국내 화장품 수출 이 호조를 이어가면서 화장품 관련주에 매수세가 유입되고 있다. 한국화장품제조도 이러한 업종 투자심리 개선 속에 시장의...",
+ "published_at": "2026-10-07T11:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "한국화장품제조"
+  ],
+  "keywords": [
+   "수출 호조",
+   "화장품 관련주"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 연말 쇼핑시즌을 앞둔 수요 확대 기대와 화장품 수출 호조로 한국화장품제조 주가가 급등세를 보이고 있다.",
+  "key_fact_quote": "미국 연말 쇼핑시즌을 앞두고 K뷰티 수요 확대 기대가 커지는 가운데 국내 화장품 수출 이 호조를 이어가면서 화장품 관련주에 매수세가 유입되고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:57+00:00",
+ "had_body": false
+}

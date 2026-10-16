@@ -6,36 +6,41 @@
  "lang": "ko",
  "url": "https://www.meconomynews.com/news/articleView.html?idxno=201956",
  "title": "가을 메이크업, '예쁘게' 넘어 '다르게' [최기자의 화장품 털기]",
- "summary": "로에베 퍼퓸 이 니치 향수 라인 '크래프티드 컬렉션'에 5종을 추가한 것. '필드 다이어리', '스위트 우드랜드', '로즈토피아', '스모키 레인', '버던트 그로브' 등 자연에서 영감을 받은 서로 다른 향을 선보이며 취향을...",
+ "summary": "로에베 퍼퓸이 니치 향수 라인 '크래프티드 컬렉션'에 5종을 추가한 것. '필드 다이어리', '스위트 우드랜드', '로즈토피아', '스모키 레인', '버던트 그로브' 등 자연에서 영감을 받은 서로 다른 향을 선보이며 취향을...",
  "published_at": "2026-09-24T11:44:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "니치 퍼퓸",
+ "query": "니치 향수",
  "doc_type": null,
  "celex": null,
  "extraction": {
   "relevant": true,
   "category": "fragrance",
   "event_type": "product_launch",
-  "countries": [
-   "KR"
-  ],
+  "countries": [],
   "brands": [
    "로에베 퍼퓸"
   ],
   "companies": [],
   "keywords": [
    "니치 향수",
-   "가을 메이크업"
+   "향수 컬렉션"
   ],
   "is_press_release": false,
   "products": [
    {
+    "name": "크래프티드 컬렉션",
+    "brand": "로에베 퍼퓸",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
     "name": "필드 다이어리",
     "brand": "로에베 퍼퓸",
     "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "로에베 퍼퓸 이 니치 향수 라인 '크래프티드 컬렉션'에 5종을 추가한 것.",
+    "launch_quote": null,
     "notes": [],
     "notes_quote": null
    },
@@ -43,8 +48,7 @@
     "name": "스위트 우드랜드",
     "brand": "로에베 퍼퓸",
     "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "로에베 퍼퓸 이 니치 향수 라인 '크래프티드 컬렉션'에 5종을 추가한 것.",
+    "launch_quote": null,
     "notes": [],
     "notes_quote": null
    },
@@ -52,8 +56,7 @@
     "name": "로즈토피아",
     "brand": "로에베 퍼퓸",
     "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "로에베 퍼퓸 이 니치 향수 라인 '크래프티드 컬렉션'에 5종을 추가한 것.",
+    "launch_quote": null,
     "notes": [],
     "notes_quote": null
    },
@@ -61,8 +64,7 @@
     "name": "스모키 레인",
     "brand": "로에베 퍼퓸",
     "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "로에베 퍼퓸 이 니치 향수 라인 '크래프티드 컬렉션'에 5종을 추가한 것.",
+    "launch_quote": null,
     "notes": [],
     "notes_quote": null
    },
@@ -70,20 +72,17 @@
     "name": "버던트 그로브",
     "brand": "로에베 퍼퓸",
     "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "로에베 퍼퓸 이 니치 향수 라인 '크래프티드 컬렉션'에 5종을 추가한 것.",
+    "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "로에베 퍼퓸이 니치 향수 라인 크래프티드 컬렉션에 신규 향수들을 추가했다.",
-  "key_fact_quote": "로에베 퍼퓸 이 니치 향수 라인 '크래프티드 컬렉션'에 5종을 추가한 것.",
-  "events": [],
-  "ingredients": [],
+  "key_fact": "로에베 퍼퓸이 니치 향수 라인 크래프티드 컬렉션에 자연에서 영감을 받은 신규 향수들을 추가했다.",
+  "key_fact_quote": "로에베 퍼퓸이 니치 향수 라인 '크래프티드 컬렉션'에 5종을 추가한 것.",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:02+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:00+00:00",
  "had_body": false
 }

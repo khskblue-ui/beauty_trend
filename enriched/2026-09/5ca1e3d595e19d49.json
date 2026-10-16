@@ -1,0 +1,54 @@
+{
+ "doc_id": "5ca1e3d595e19d49",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609210092&t=NN",
+ "title": "JW중외제약, '프렌즈' 화장품 제품군 확대…눈꺼풀 노폐물 클리너 출시",
+ "summary": "JW중외제약이 토탈 아이케어 브랜드 ‘프렌즈(Frenz)’의 제품군을 화장품 으로 확대한다. JW중외제약은 눈꺼풀과 속눈썹 주변을 간편하게 세정할 수 있는 화장품 ‘아이쓱 눈꺼풀 클리너’ 2종을 출시했다. 아이쓱 눈꺼풀...",
+ "published_at": "2026-09-21T10:59:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프렌즈",
+   "Frenz"
+  ],
+  "companies": [
+   "JW중외제약"
+  ],
+  "keywords": [
+   "아이케어",
+   "클리너",
+   "눈꺼풀 세정"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아이쓱 눈꺼풀 클리너",
+    "brand": "프렌즈",
+    "launch_date": null,
+    "launch_quote": "JW중외제약은 눈꺼풀과 속눈썹 주변을 간편하게 세정할 수 있는 화장품 ‘아이쓱 눈꺼풀 클리너’ 2종을 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "JW중외제약이 브랜드 프렌즈의 제품군을 화장품으로 확대하며 아이쓱 눈꺼풀 클리너를 출시했다.",
+  "key_fact_quote": "JW중외제약이 토탈 아이케어 브랜드 ‘프렌즈(Frenz)’의 제품군을 화장품 으로 확대한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:07+00:00",
+ "had_body": false
+}

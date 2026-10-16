@@ -1,0 +1,44 @@
+{
+ "doc_id": "2ef341018e24221a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202610071824237188",
+ "title": "내 두피상태 맞춰…헤어제품, 화장품처럼 골라쓴다",
+ "summary": "스킨케어와 이너 뷰티 로 촉발된 K 뷰티 활황이 최근 두피와 모발 관련 상품군으로 빠르게 확장되고 있다.... 관리 브랜드 '바이브랩'을 단독 선 론칭 하는 등 관련 구색을 넓히는 데 힘을 주고 있다. 업계에서는 자기관리의...",
+ "published_at": "2026-10-07T18:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "바이브랩"
+  ],
+  "companies": [],
+  "keywords": [
+   "두피 관리",
+   "헤어 케어",
+   "이너 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "스킨케어와 이너 뷰티로 시작된 뷰티 시장의 활황이 두피와 모발 관련 상품군으로 확장되고 있다.",
+  "key_fact_quote": "스킨케어와 이너 뷰티 로 촉발된 K 뷰티 활황이 최근 두피와 모발 관련 상품군으로 빠르게 확장되고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:46+00:00",
+ "had_body": false
+}

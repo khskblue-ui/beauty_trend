@@ -25,9 +25,9 @@
   ],
   "companies": [],
   "keywords": [
+   "럭셔리 뷰티",
    "문화 마케팅",
-   "전통문화 체험",
-   "브랜드 부스"
+   "궁중문화축전"
   ],
   "is_press_release": true,
   "products": [
@@ -35,17 +35,28 @@
     "name": "윤조에센스",
     "brand": "설화수",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "설화수는 가을 궁중문화축전 경복궁 한복 연향에 참여하여 브랜드 부스를 운영하고 대표 제품을 증정하는 등 행사를 마무리했다.",
+  "key_fact": "설화수가 가을 궁중문화축전 경복궁 한복 연향 행사에 참여해 브랜드 부스를 운영하고 대표 제품 증정 행사를 마쳤다.",
   "key_fact_quote": "글로벌 럭셔리 뷰티 브랜드 설화수가 지난 10월 9일부터 10일까지 열린 2026 가을 궁중문화축전 ‘경복궁 한복 연향’에 참여해 성황리에 행사를 마무리했다.",
+  "events": [
+   {
+    "name": "2026 가을 궁중문화축전 ‘경복궁 한복 연향’",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-10",
+    "place": "경복궁",
+    "quote": "글로벌 럭셔리 뷰티 브랜드 설화수가 지난 10월 9일부터 10일까지 열린 2026 가을 궁중문화축전 ‘경복궁 한복 연향’에 참여해 성황리에 행사를 마무리했다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:50+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:59+00:00",
  "had_body": true
 }

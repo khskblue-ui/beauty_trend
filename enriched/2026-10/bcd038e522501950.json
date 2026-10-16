@@ -1,0 +1,79 @@
+{
+ "doc_id": "bcd038e522501950",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100067",
+ "title": "‘정샘물 에센셜 스킨 누더 리커버 BB’ 올리브영 선런칭",
+ "summary": "K-NO.1 메이크업 아티스트 정샘물의 뷰티 철학과 노하우를 담은 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 베이스 명가의 기술력을 집약해 새롭게 선보이는 ‘정샘물 에센셜 스킨 누더 리커버 BB’를 5일 올리브영에 선런칭했다고 밝혔다.이번 신제품은 정샘물만의 베이스 노하우를 바탕으로 한층 정교한 피부 표현을 구현했다. BB 특유의 답답한 사용감이나 시간이 지나면서 잿빛으로 변하는 다크닝 현상을 개선해, 평소 BB를 선호하지 않았던 이들도 보다 가볍고 편안하게 사용할 수 있도록 개발됐다. BB 한 겹만으로도 모공과 잡티, 요철 등",
+ "published_at": "2026-10-06T09:54:52+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "정샘물",
+   "JUNGSAEMMOOL"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "비비크림",
+   "톤 코렉팅",
+   "논코메도제닉",
+   "베이스 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "정샘물 에센셜 스킨 누더 리커버 BB",
+    "brand": "정샘물",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "K-NO.1 메이크업 아티스트 정샘물의 뷰티 철학과 노하우를 담은 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 베이스 명가의 기술력을 집약해 새롭게 선보이는 ‘정샘물 에센셜 스킨 누더 리커버 BB’를 5일 올리브영에 선런칭했다고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "정샘물이 올리브영을 통해 새로운 베이스 메이크업 제품인 에센셜 스킨 누더 리커버 비비크림을 선런칭했다.",
+  "key_fact_quote": "K-NO.1 메이크업 아티스트 정샘물의 뷰티 철학과 노하우를 담은 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 베이스 명가의 기술력을 집약해 새롭게 선보이는 ‘정샘물 에센셜 스킨 누더 리커버 BB’를 5일 올리브영에 선런칭했다고 밝혔다.",
+  "events": [
+   {
+    "name": "‘NO BB CLUB’ 캠페인",
+    "start_date": "2026-09-22",
+    "end_date": "2026-09-23",
+    "place": "성수동",
+    "quote": "한편, 이번 신제품 출시에 앞서 지난 9월 22일부터 이틀간 성수동에서 ‘NO BB CLUB’ 캠페인을 진행했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "베타-시토스테롤",
+    "quote": "차세대 시카 성분인 베타-시토스테롤이 함유돼 자극받은 피부와 붉은 기를 즉각적으로 잠재우고, 피부 재생을 돕는 PDRN과 판테놀 성분을 더해 피부 안에서부터 차오르는 탄력과 광을 선사한다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "차세대 시카 성분인 베타-시토스테롤이 함유돼 자극받은 피부와 붉은 기를 즉각적으로 잠재우고, 피부 재생을 돕는 PDRN과 판테놀 성분을 더해 피부 안에서부터 차오르는 탄력과 광을 선사한다."
+   },
+   {
+    "name": "판테놀",
+    "quote": "차세대 시카 성분인 베타-시토스테롤이 함유돼 자극받은 피부와 붉은 기를 즉각적으로 잠재우고, 피부 재생을 돕는 PDRN과 판테놀 성분을 더해 피부 안에서부터 차오르는 탄력과 광을 선사한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:35+00:00",
+ "had_body": true
+}

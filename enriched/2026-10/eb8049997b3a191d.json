@@ -1,0 +1,64 @@
+{
+ "doc_id": "eb8049997b3a191d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dailian.co.kr/news/view/1700353/?sc=Naver",
+ "title": "K 뷰티 겨냥한 동국제약…'DK센텔리안'으로 사명 변경",
+ "summary": "주력 상품인 마데카솔 성분 기반 더마 코스메틱 브랜드 '센텔리안'을 앞세워 글로벌 경쟁력을 높이기... 단순 매출 규모만 따졌을 때도 처음으로 센텔리안24를 론칭 했던 2015년과 비교했을 때 9배 가까이 늘어났다....",
+ "published_at": "2026-10-12T12:13:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안",
+   "센텔리안24"
+  ],
+  "companies": [
+   "동국제약",
+   "DK센텔리안"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "센텔리안24",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동국제약이 더마 코스메틱 브랜드를 앞세워 글로벌 경쟁력을 높이기 위해 사명을 디케이센텔리안으로 변경한다.",
+  "key_fact_quote": "K 뷰티 겨냥한 동국제약…'DK센텔리안'으로 사명 변경\n주력 상품인 마데카솔 성분 기반 더마 코스메틱 브랜드 '센텔리안'을 앞세워 글로벌 경쟁력을 높이기...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "마데카솔",
+    "quote": "주력 상품인 마데카솔 성분 기반 더마 코스메틱 브랜드 '센텔리안'을 앞세워 글로벌 경쟁력을 높이기..."
+   }
+  ],
+  "dropped": [
+   "launch:센텔리안24"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:33+00:00",
+ "had_body": false
+}

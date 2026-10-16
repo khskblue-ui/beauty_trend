@@ -1,0 +1,39 @@
+{
+ "doc_id": "f136e31c82d2786c",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/puzzling-through-travel-retail-dilemmas-1239313538/",
+ "title": "Puzzling Through Travel Retail’s Dilemmas",
+ "summary": "The once-soaring channel is grappling with how best to handle a new reality: Foot traffic is up, but spend is down.",
+ "published_at": "2026-10-06T13:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "트래블 리테일",
+   "면세 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "트래블 리테일 채널은 방문객 수는 증가했으나 지출은 감소하는 새로운 현실에 직면해 있다.",
+  "key_fact_quote": "The once-soaring channel is grappling with how best to handle a new reality: Foot traffic is up, but spend is down.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:28+00:00",
+ "had_body": false
+}

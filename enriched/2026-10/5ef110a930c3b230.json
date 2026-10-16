@@ -1,0 +1,45 @@
+{
+ "doc_id": "5ef110a930c3b230",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newspim.com/news/view/20261008000356",
+ "title": "\"대봉엘에스, 화장품 소재·P&K가 실적 견인…영업익 80%↑ 전망\" - 한국...",
+ "summary": "박선영 한국IR협의회 기업리서치센터 연구원은 \"대봉엘에스의 화장품 소재 사업은 K - 뷰티 수출 확대와 고객사의 생산물량 증가를 기반으로 높은 성장세를 이어가고 있다\"며 \"하반기 대형 ODM 업체와 공동개발한...",
+ "published_at": "2026-10-08T10:17:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대봉엘에스",
+   "한국IR협의회",
+   "P&K"
+  ],
+  "keywords": [
+   "화장품 소재",
+   "K-뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대봉엘에스의 화장품 소재 사업은 수출 확대와 고객사 생산물량 증가를 기반으로 실적 성장을 이어가고 있다.",
+  "key_fact_quote": "대봉엘에스의 화장품 소재 사업은 K - 뷰티 수출 확대와 고객사의 생산물량 증가를 기반으로 높은 성장세를 이어가고 있다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:41+00:00",
+ "had_body": false
+}

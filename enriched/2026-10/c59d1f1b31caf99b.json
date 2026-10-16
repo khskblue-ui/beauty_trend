@@ -22,18 +22,19 @@
   ],
   "brands": [],
   "companies": [
-   "신성바이오팜",
+   "㈜신성바이오팜",
    "강원창조경제혁신센터",
    "강원대학교 기술지주회사"
   ],
   "keywords": [
    "해양바이오",
    "화장품 원료",
-   "이너뷰티"
+   "이너뷰티",
+   "바이오소재"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "해양바이오 전문기업 신성바이오팜이 혁신소상공인 투자연계지원사업에 선정되어 화장품 원료 등 바이오소재 기술사업화에 나선다.",
+  "key_fact": "해양바이오 전문기업 신성바이오팜이 혁신소상공인 투자연계지원사업에 선정되어 연어 부산물을 활용한 화장품 및 바이오소재 기술사업화를 가속한다.",
   "key_fact_quote": "강원특별자치도 소재 해양바이오 전문기업 ㈜신성바이오팜(대표 송미라)이 지난 10월 1일 ‘2026년 혁신소상공인 투자연계지원사업(LIPSⅡ)’에 최종 선정돼 정부지원금 1억 1,500만 원을 확보했다고 밝혔다.",
   "events": [],
   "ingredients": [
@@ -42,19 +43,11 @@
     "quote": "연어 유래 콜라겐과 PDRN(Polydeoxyribonucleotide), PN(Polynucleotide)의 추출·정제 및 제조 공정 고도화를 통해 화장품 원료에서 의료기기용 바이오소재까지 사업 영역을 확대하고 있다."
    },
    {
-    "name": "PDRN",
+    "name": "PDRN(Polydeoxyribonucleotide)",
     "quote": "연어 유래 콜라겐과 PDRN(Polydeoxyribonucleotide), PN(Polynucleotide)의 추출·정제 및 제조 공정 고도화를 통해 화장품 원료에서 의료기기용 바이오소재까지 사업 영역을 확대하고 있다."
    },
    {
-    "name": "Polydeoxyribonucleotide",
-    "quote": "연어 유래 콜라겐과 PDRN(Polydeoxyribonucleotide), PN(Polynucleotide)의 추출·정제 및 제조 공정 고도화를 통해 화장품 원료에서 의료기기용 바이오소재까지 사업 영역을 확대하고 있다."
-   },
-   {
-    "name": "PN",
-    "quote": "연어 유래 콜라겐과 PDRN(Polydeoxyribonucleotide), PN(Polynucleotide)의 추출·정제 및 제조 공정 고도화를 통해 화장품 원료에서 의료기기용 바이오소재까지 사업 영역을 확대하고 있다."
-   },
-   {
-    "name": "Polynucleotide",
+    "name": "PN(Polynucleotide)",
     "quote": "연어 유래 콜라겐과 PDRN(Polydeoxyribonucleotide), PN(Polynucleotide)의 추출·정제 및 제조 공정 고도화를 통해 화장품 원료에서 의료기기용 바이오소재까지 사업 영역을 확대하고 있다."
    }
   ],
@@ -62,6 +55,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:50:39+00:00",
+ "enriched_at": "2026-10-15T15:22:46+00:00",
  "had_body": true
 }

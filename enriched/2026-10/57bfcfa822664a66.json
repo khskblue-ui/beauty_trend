@@ -1,0 +1,44 @@
+{
+ "doc_id": "57bfcfa822664a66",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://enter.etoday.co.kr/news/view/303167",
+ "title": "세븐틴 정한, 향수 브랜드 새 얼굴 발탁",
+ "summary": "그룹 세븐틴 멤버 정한이 향수 브랜드 SW19의 새로운 얼굴이 됐다. SW19은 1일 세븐틴 정한을 글로벌 브랜드 앰버서더로 발탁하고 본격적인 협업을 시작했다. 브랜드 측은 \"정한이 지닌 특유의 섬세한 이미지와 다채로운...",
+ "published_at": "2026-10-01T13:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "SW19"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 브랜드",
+   "글로벌 앰버서더",
+   "브랜드 앰버서더"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "그룹 세븐틴 멤버 정한이 향수 브랜드의 글로벌 앰버서더로 발탁되었다.",
+  "key_fact_quote": "SW19은 1일 세븐틴 정한을 글로벌 브랜드 앰버서더로 발탁하고 본격적인 협업을 시작했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:15+00:00",
+ "had_body": false
+}

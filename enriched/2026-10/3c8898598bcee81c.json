@@ -1,0 +1,61 @@
+{
+ "doc_id": "3c8898598bcee81c",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/iberchem-unveils-the-space-between-at-beautyworld-middle",
+ "title": "Iberchem unveils The Space Between at Beautyworld Middle East 2026",
+ "summary": "Fragrance house Iberchem will unveil its new fragrance concept, The Space Between, at the upcoming edition of Beautyworld Middle East, taking place from 8 to 10 October in Dubai",
+ "published_at": "2026-10-12T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "AE"
+  ],
+  "brands": [],
+  "companies": [
+   "Iberchem"
+  ],
+  "keywords": [
+   "향료 컨셉",
+   "뷰티 박람회"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "The Space Between",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "Fragrance house Iberchem will unveil its new fragrance concept, The Space Between, at the upcoming edition of Beautyworld Middle East, taking place from 8 to 10 October in Dubai",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "향료 기업 이베르켐이 뷰티월드 미들 이스트에서 새로운 향수 컨셉을 공개할 예정이다.",
+  "key_fact_quote": "Fragrance house Iberchem will unveil its new fragrance concept, The Space Between, at the upcoming edition of Beautyworld Middle East, taking place from 8 to 10 October in Dubai",
+  "events": [
+   {
+    "name": "Beautyworld Middle East",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-10",
+    "place": "Dubai",
+    "quote": "Fragrance house Iberchem will unveil its new fragrance concept, The Space Between, at the upcoming edition of Beautyworld Middle East, taking place from 8 to 10 October in Dubai"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:14+00:00",
+ "had_body": false
+}

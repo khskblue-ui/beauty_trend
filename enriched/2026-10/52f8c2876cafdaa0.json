@@ -1,0 +1,47 @@
+{
+ "doc_id": "52f8c2876cafdaa0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kpenews.com/View.aspx?No=4253591",
+ "title": "코스맥스, 세계화장품학회 최다 구두발표..총 32건 연구 결과 선봬",
+ "summary": "올해 코스맥스의 구두발표는 기초 연구부터 메이크업과 선케어, 헤어케어 및 향료 등 화장품 연구개발의... 향료 분야에서는 향기 지속성을 위한 저장소 매개 방출 연구를 각각 소개했다. 올해는 코스맥스차이나 RI유닛...",
+ "published_at": "2026-10-06T15:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "코스맥스차이나"
+  ],
+  "keywords": [
+   "세계화장품학회",
+   "화장품 연구개발",
+   "향기 지속성",
+   "향료 연구"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 세계화장품학회에서 향료의 향기 지속성 연구를 포함한 다수의 연구 결과를 발표했다.",
+  "key_fact_quote": "올해 코스맥스의 구두발표는 기초 연구부터 메이크업과 선케어, 헤어케어 및 향료 등 화장품 연구개발의... 향료 분야에서는 향기 지속성을 위한 저장소 매개 방출 연구를 각각 소개했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:13:47+00:00",
+ "had_body": false
+}

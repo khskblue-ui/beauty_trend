@@ -1,0 +1,66 @@
+{
+ "doc_id": "59209bf742f42e48",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bizwnews.com/news/articleView.html?idxno=148391",
+ "title": "코웨이, \"리엔케이 美 코스트코 입점으로 'K뷰티' 글로벌 공략 개시\"",
+ "summary": "힐러비 소속 브랜드로는 영국 V&A 뮤지엄의 라이선스 화장품 브랜드 'V&A뷰티'와 한방 화장품 브랜드 '올빚... 아울러 이번 입점과 함께 신제품 '셀레스티얼 콜라겐 크림'도 출시했으며 앞으로 미국 시장 내 제품...",
+ "published_at": "2026-10-08T13:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US",
+   "GB"
+  ],
+  "brands": [
+   "리엔케이",
+   "V&A뷰티",
+   "올빚"
+  ],
+  "companies": [
+   "코웨이",
+   "힐러비"
+  ],
+  "keywords": [
+   "글로벌 공략",
+   "신제품 출시",
+   "한방 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "셀레스티얼 콜라겐 크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아울러 이번 입점과 함께 신제품 '셀레스티얼 콜라겐 크림'도 출시했으며 앞으로 미국 시장 내 제품...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코웨이가 리엔케이의 미국 코스트코 입점과 신제품 출시를 통해 케이뷰티의 글로벌 공략을 시작했다.",
+  "key_fact_quote": "코웨이, \"리엔케이 美 코스트코 입점으로 'K뷰티' 글로벌 공략 개시\"",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "콜라겐",
+    "quote": "아울러 이번 입점과 함께 신제품 '셀레스티얼 콜라겐 크림'도 출시했으며 앞으로 미국 시장 내 제품..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:50+00:00",
+ "had_body": false
+}

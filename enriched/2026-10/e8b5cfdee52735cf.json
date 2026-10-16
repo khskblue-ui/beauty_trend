@@ -1,0 +1,48 @@
+{
+ "doc_id": "e8b5cfdee52735cf",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100024",
+ "title": "이미인, 해외 ODM 신규 고객 ‘쑥’",
+ "summary": "화장품 ODM 전문기업 이미인(IMINE)이 해외 영업을 강화하며 신규 고객 유치에 속도를 내고 있다. 글로벌 브랜드의 ODM 파트너로서 존재감을 키우고 있는 가운데 지난해에는 10여 곳의 해외 고객사를 새롭게 확보하며 전체 해외 고객사 가운데 신규 고객 비중도 20%에 육박했다.이미인의 해외 사업 성장 공식은 현지 파트너와의 ‘적극적인 협업’에 있다. 현지 브랜드와 유통 파트너가 SNS에서 주목받는 제형과 소비자 리뷰에서 나타나는 새로운 수요, 오프라인 매장 진열대의 변화까지 가장 먼저 포착해 전달하면 이미인은 이를 제품 기획에",
+ "published_at": "2026-10-01T11:14:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "JP",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "이미인"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "기초 스킨케어",
+   "하이드로겔 마스크",
+   "시트 마스크"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "화장품 전문기업 이미인이 해외 영업 강화와 현지 파트너십을 통해 신규 고객사를 확보하며 해외 매출 성장을 이어가고 있다.",
+  "key_fact_quote": "화장품 ODM 전문기업 이미인(IMINE)이 해외 영업을 강화하며 신규 고객 유치에 속도를 내고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:57+00:00",
+ "had_body": true
+}

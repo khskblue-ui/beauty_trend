@@ -1,0 +1,54 @@
+{
+ "doc_id": "3bf65d012e1ae539",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449097",
+ "title": "CJ올리브영, 동남아시아·홍콩 세포라 매장 48곳에 'K뷰티에딧' 입점",
+ "summary": "닥터엘시아와 마녀공장, 바이오힐보, 비플레인, 하루하루원더, 헤브블루 등의 제품이 출시 초기부터... 14일(현지시각)까지 싱가포르 복합쇼핑몰 '아이온 오차드'에서 팝업행사를 열고 피부 진단 서비스와 화장품 ...",
+ "published_at": "2026-10-12T16:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "HK",
+   "SG"
+  ],
+  "brands": [
+   "CJ올리브영",
+   "닥터엘시아",
+   "마녀공장",
+   "바이오힐보",
+   "비플레인",
+   "하루하루원더",
+   "헤브블루"
+  ],
+  "companies": [
+   "CJ올리브영",
+   "세포라"
+  ],
+  "keywords": [
+   "K뷰티",
+   "팝업스토어",
+   "뷰티 편집숍"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "CJ올리브영이 동남아시아와 홍콩 세포라 매장에 K뷰티에딧을 입점시키며 팝업행사를 진행한다.",
+  "key_fact_quote": "CJ올리브영, 동남아시아·홍콩 세포라 매장 48곳에 'K뷰티에딧' 입점",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:04+00:00",
+ "had_body": false
+}

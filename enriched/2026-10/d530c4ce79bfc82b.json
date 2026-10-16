@@ -1,0 +1,50 @@
+{
+ "doc_id": "d530c4ce79bfc82b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/02/2026100280132.html",
+ "title": "“한 달에 100개씩 나온다” 1030 잡은 무신사 뷰티 , 신제품 첫 무대로",
+ "summary": "무신사 뷰티 에 따르면 나스(NARS), 맥(MAC), 설화수, 셀렉스 등 대형 브랜드부터 신진 브랜드까지 무신사 뷰티 에서 신제품 을 선론칭했다. 전체 구매 고객 가운데 10~30대 비중은 약 80%다. 무신사는 신제품 출시 와 함께...",
+ "published_at": "2026-10-02T17:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "나스",
+   "NARS",
+   "맥",
+   "MAC",
+   "설화수",
+   "셀렉스"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "뷰티 플랫폼",
+   "신제품 선론칭"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티가 젊은 층 고객 비중을 기반으로 대형 브랜드 및 신진 브랜드 신제품 선론칭 무대로 주목받고 있다.",
+  "key_fact_quote": "무신사 뷰티 에 따르면 나스(NARS), 맥(MAC), 설화수, 셀렉스 등 대형 브랜드부터 신진 브랜드까지 무신사 뷰티 에서 신제품 을 선론칭했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:03+00:00",
+ "had_body": false
+}

@@ -1,0 +1,71 @@
+{
+ "doc_id": "8944195070e043fa",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53627",
+ "title": "[코스모닝] 더마비, 보디 피부장벽 케어 브랜드로 새출발",
+ "summary": "네오팜 더마비가 브랜드를 새단장했다. 더마 코스메틱 전문성과 보디 피부장벽 관리 기능을 강화했다. 더마비는 브랜드 새출발을 기념해 ‘데일리 세라마이드’ 라인을 선보였다. 대표 제품 '데일리 세라마이드 바디로션'은 네오팜이 개발한 세라마이드로 만들었다. 세라마이드에 나노리포좀 기술 세라-온™(CERA-ON™)을 적용해 피부 흡수율을 높였다. 더마비는 ‘더마비",
+ "published_at": "2026-10-01T18:06:36+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더마비",
+   "네오팜"
+  ],
+  "companies": [
+   "네오팜"
+  ],
+  "keywords": [
+   "보디 피부장벽",
+   "더마 코스메틱",
+   "세라마이드 바디로션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "데일리 세라마이드",
+    "brand": "더마비",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "더마비는 브랜드 새출발을 기념해 ‘데일리 세라마이드’ 라인을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "데일리 세라마이드 바디로션",
+    "brand": "더마비",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "대표 제품 '데일리 세라마이드 바디로션'은 네오팜이 개발한 세라마이드로 만들었다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "네오팜의 더마비가 브랜드를 새단장하고 신규 데일리 세라마이드 라인을 선보였다.",
+  "key_fact_quote": "네오팜 더마비가 브랜드를 새단장했다. 더마 코스메틱 전문성과 보디 피부장벽 관리 기능을 강화했다. 더마비는 브랜드 새출발을 기념해 ‘데일리 세라마이드’ 라인을 선보였다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "대표 제품 '데일리 세라마이드 바디로션'은 네오팜이 개발한 세라마이드로 만들었다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:39+00:00",
+ "had_body": true
+}

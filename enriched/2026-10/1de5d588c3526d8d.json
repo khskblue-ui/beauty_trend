@@ -16,10 +16,10 @@
  "extraction": {
   "relevant": true,
   "category": "skincare",
-  "event_type": "business",
+  "event_type": "product_launch",
   "countries": [
-   "KR",
    "CL",
+   "KR",
    "JP"
   ],
   "brands": [
@@ -32,7 +32,8 @@
   "keywords": [
    "스킨부스터",
    "의료기기",
-   "해외 진출"
+   "조직 수복용 생체 재료",
+   "창상피복재"
   ],
   "is_press_release": true,
   "products": [
@@ -55,8 +56,8 @@
     "notes_quote": null
    }
   ],
-  "key_fact": "에이피알이 메디큐브 스킨부스터 제품을 칠레를 시작으로 해외 시장에 공급하며 유통망을 확대한다.",
-  "key_fact_quote": "에이피알(대표 김병훈)이 메디큐브 스킨부스터를 중남미 시장에 공급한다. 이 회사는 중남미를 시작으로 메디큐브 스킨부스터의 해외 유통을 확대한다고 밝혔다.",
+  "key_fact": "에이피알이 중남미 시장을 시작으로 메디큐브 스킨부스터 제품의 해외 유통 확대를 본격화한다.",
+  "key_fact_quote": "이 회사는 중남미를 시작으로 메디큐브 스킨부스터의 해외 유통을 확대한다고 밝혔다.",
   "events": [
    {
     "name": "스킨부스터 론칭 행사와 대리점 인증식",
@@ -68,11 +69,11 @@
   ],
   "ingredients": [
    {
-    "name": "연어 DNA",
+    "name": "PN(폴리뉴클레오타이드)",
     "quote": "연어 DNA에서 유래한 PN(폴리뉴클레오타이드) 소재를 기반으로 개발했다."
    },
    {
-    "name": "PN(폴리뉴클레오타이드)",
+    "name": "연어 DNA",
     "quote": "연어 DNA에서 유래한 PN(폴리뉴클레오타이드) 소재를 기반으로 개발했다."
    }
   ],
@@ -80,6 +81,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:50:32+00:00",
+ "enriched_at": "2026-10-15T15:22:29+00:00",
  "had_body": true
 }

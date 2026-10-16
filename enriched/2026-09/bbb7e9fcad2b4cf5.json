@@ -1,0 +1,49 @@
+{
+ "doc_id": "bbb7e9fcad2b4cf5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448290",
+ "title": "컬리 아모레퍼시픽과 손잡고 단독 뷰티상품 개발하기로, 기획부터 MD 참...",
+ "summary": "설화수와 헤라 등 럭셔리 화장품 부터 에스트라와 일리윤 등 더마·보디케어 브랜드까지 뷰티컬리에서 판매하고 있다. 올해 들어서는 단순 입점을 넘어 신제품 을 먼저 선보이는 협업도 진행했다. 컬리는 올해 1월 헤라의...",
+ "published_at": "2026-09-30T13:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수",
+   "헤라",
+   "에스트라",
+   "일리윤"
+  ],
+  "companies": [
+   "컬리",
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "단독 상품 개발",
+   "뷰티 협업",
+   "더마 코스메틱",
+   "보디케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "컬리가 아모레퍼시픽과 협력하여 단독 뷰티 상품 개발을 추진한다.",
+  "key_fact_quote": "컬리 아모레퍼시픽과 손잡고 단독 뷰티상품 개발하기로, 기획부터 MD 참...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:47+00:00",
+ "had_body": false
+}

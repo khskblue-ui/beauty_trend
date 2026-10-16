@@ -1,0 +1,42 @@
+{
+ "doc_id": "07d24ecf1852045a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244181",
+ "title": "바르는 것에서 먹는 것으로…일본을 사로잡은 이너뷰티",
+ "summary": "일본 소비시장에서 아름다움을 가꾸는 패러다임이 바르는 화장품 중심에서 체내 영양 공급을 통한 복합적... 제형의 신제품 이 잇달아 출시되고 있다. 대형 식품 기업의 프리미엄 전략도 눈에 띈다. 메이지(明治)는...",
+ "published_at": "2026-09-22T16:27:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "메이지"
+  ],
+  "keywords": [
+   "이너뷰티",
+   "복합적 케어",
+   "프리미엄 전략"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "일본 소비시장에서 뷰티 패러다임이 바르는 화장품 중심에서 체내 영양 공급을 통한 관리로 변화하고 있다.",
+  "key_fact_quote": "일본 소비시장에서 아름다움을 가꾸는 패러다임이 바르는 화장품 중심에서 체내 영양 공급을 통한 복합적...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:59+00:00",
+ "had_body": false
+}

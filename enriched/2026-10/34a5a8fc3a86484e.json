@@ -1,0 +1,89 @@
+{
+ "doc_id": "34a5a8fc3a86484e",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58463",
+ "title": "30주년 ‘뷰티월드 두바이’ 개막... 중동 긴장감에도 인기 높은 K-뷰티, UAE+GCC 공략",
+ "summary": "[두바이=화장품전문지 공동 취재단] 중동 지역의 정세 불안에도 글로벌 뷰티업계의 분주한 발길은 중동 뷰티시장의 허브 ‘뷰티월드 두바이’로 어김없이 모여들었다. ‘뷰티월드 두바이 2026’(Beautyworld Dubai 2026, 10.6~8)가 10월 6일 오전 10시(현지시각) 두바이월드트레이드센터(DWTC)에서 개막했다. 올해 뷰티월드 두바이 30",
+ "published_at": "2026-10-07T13:52:35+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "AE",
+   "KR"
+  ],
+  "brands": [
+   "French Avenue",
+   "Afnan Perfumes",
+   "Lattafa Perfumes",
+   "Armaf"
+  ],
+  "companies": [
+   "메세 프랑크푸르트",
+   "코이코",
+   "서울경제진흥원",
+   "코트라",
+   "Givaudan",
+   "dsm-firmenich",
+   "Symrise",
+   "Takasago",
+   "MANE"
+  ],
+  "keywords": [
+   "향수",
+   "롱제비티",
+   "홀리스틱 뷰티",
+   "더마코스메틱",
+   "천연 향료"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티월드 두바이 전시회가 개막한 가운데 글로벌 향료기업들과 중동 향수 브랜드들이 대거 집결하고 한국 뷰티 기업들도 참가해 중동 시장 공략에 나섰다.",
+  "key_fact_quote": "중동 지역의 정세 불안에도 글로벌 뷰티업계의 분주한 발길은 중동 뷰티시장의 허브 ‘뷰티월드 두바이’로 어김없이 모여들었다.",
+  "events": [
+   {
+    "name": "뷰티월드 두바이 2026",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-08",
+    "place": "두바이월드트레이드센터(DWTC)",
+    "quote": "‘뷰티월드 두바이 2026’(Beautyworld Dubai 2026, 10.6~8)가 10월 6일 오전 10시(현지시각) 두바이월드트레이드센터(DWTC)에서 개막했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "NAD+",
+    "quote": "전시장에는 NAD+와 펩타이드 제품과 관련 기술이 소개됐다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "전시장에는 NAD+와 펩타이드 제품과 관련 기술이 소개됐다."
+   },
+   {
+    "name": "오드(Oud)",
+    "quote": "오드(Oud)와 앰버, 사프란 등 지역을 대표하는 향조와 높은 향료 농도, 여러 향을 겹쳐 사용하는 레이어링 문화는 역내 소비를 넘어 세계 향수산업에도 영향을 미치고 있다."
+   },
+   {
+    "name": "앰버",
+    "quote": "오드(Oud)와 앰버, 사프란 등 지역을 대표하는 향조와 높은 향료 농도, 여러 향을 겹쳐 사용하는 레이어링 문화는 역내 소비를 넘어 세계 향수산업에도 영향을 미치고 있다."
+   },
+   {
+    "name": "사프란",
+    "quote": "오드(Oud)와 앰버, 사프란 등 지역을 대표하는 향조와 높은 향료 농도, 여러 향을 겹쳐 사용하는 레이어링 문화는 역내 소비를 넘어 세계 향수산업에도 영향을 미치고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:29+00:00",
+ "had_body": true
+}

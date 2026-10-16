@@ -1,0 +1,92 @@
+{
+ "doc_id": "3685612c8e051338",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58433",
+ "title": "[Global Beauty Wire]‘향기’ 찾는 중국부터 ‘한국식 케어’ 필리핀까지... 현지 유통망·B2B 공략에 주력",
+ "summary": "[코스인코리아닷컴 김세화 기자]글로벌 뷰티 시장에서 소비 트렌드와 유통 환경의 변화가 가속화되고 있다. 중국에서는 핸드크림이 향기와 퍼스널케어 기능을 결합한 데일리 제품으로 진화하고 있으며, 필리핀에서는 피부관리와 미용시술을 포함한 K-에스테틱 B2B 수요가 확대되고 있다. 카자흐스탄과 중동, 멕시코 등 신흥 시장에서도 현지 유통망 확보와 B2B 중심의",
+ "published_at": "2026-10-02T16:11:56+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "IT",
+   "US",
+   "JP",
+   "AE",
+   "CN",
+   "PH",
+   "KZ",
+   "MX"
+  ],
+  "brands": [
+   "Armani",
+   "Armani Privé",
+   "rhode",
+   "W.DRESSROOM",
+   "Золотое яблоко"
+  ],
+  "companies": [
+   "LVMH",
+   "로레알",
+   "EssilorLuxottica",
+   "e.l.f. Beauty",
+   "세포라",
+   "KOTRA"
+  ],
+  "keywords": [
+   "퍼퓸 핸드크림",
+   "니치 핸드크림",
+   "스킨부스터",
+   "의약부외품",
+   "퍼스널 케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "글로벌 뷰티 시장에서 중국의 향기 중심 핸드크림 소비 확산 및 신흥 시장의 유통망 확보와 기업 간 거래 중심 진출이 중요해지고 있다.",
+  "key_fact_quote": "중국에서는 핸드크림이 향기와 퍼스널케어 기능을 결합한 데일리 제품으로 진화하고 있으며, 필리핀에서는 피부관리와 미용시술을 포함한 K-에스테틱 B2B 수요가 확대되고 있다.",
+  "events": [
+   {
+    "name": "두바이더마(Dubai Derma) 2026",
+    "start_date": "2026-09-08",
+    "end_date": "2026-09-10",
+    "place": "아랍에미리트 두바이 월드트레이드센터",
+    "quote": "중동 대표 피부과·미용의료 전문 전시회 ‘두바이더마(Dubai Derma) 2026’가 지난 9월 8일부터 10일까지 아랍에미리트 두바이 월드트레이드센터에서 개최됐다."
+   },
+   {
+    "name": "뷰티 월드 두바이(Beauty World Dubai) 2026",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-08",
+    "place": "두바이 월드트레이드센터",
+    "quote": "오는 10월 6일부터 8일까지 두바이 월드트레이드센터에서 열리는 ‘뷰티 월드 두바이(Beauty World Dubai) 2026’은 올해 30주년을 맞아 68개국 2,500개 이상의 기업이 참가할 예정이다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "엑소좀",
+    "quote": "국내 기업들은 필러·스킨부스터, 엑소좀 등 피부미용·재생 관련 제품과 레이저, 고주파(RF), HIFU 등 미용의료기기를 선보였다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "이번 전시에서는 최소침습 시술과 재생미용을 중심으로 엑소좀, PDRN, 폴리뉴클레오타이드(PN), 스킨부스터 등 피부재생 관련 제품과 기술이 주목받았다."
+   },
+   {
+    "name": "폴리뉴클레오타이드",
+    "quote": "이번 전시에서는 최소침습 시술과 재생미용을 중심으로 엑소좀, PDRN, 폴리뉴클레오타이드(PN), 스킨부스터 등 피부재생 관련 제품과 기술이 주목받았다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:44+00:00",
+ "had_body": true
+}

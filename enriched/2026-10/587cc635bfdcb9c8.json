@@ -1,0 +1,42 @@
+{
+ "doc_id": "587cc635bfdcb9c8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ddaily.co.kr/page/view/2026101310490474959",
+ "title": "\"한물간 줄 알았는데\"…1세대 K뷰티 로드숍, 해외서 다시 뜬다",
+ "summary": "이 같은 움직임은 K뷰티 전반의 수출 성장세와도 맞물려 있다. 지난해 국내 화장품 수출 액은 전년보다 11.8% 증가한 114억달러(약 15조2555억원)로 역대 최대를 기록했다. 한국 화장품의 글로벌 시장 입지가 넓어지면서...",
+ "published_at": "2026-10-13T14:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "로드숍",
+   "화장품 수출",
+   "글로벌 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 화장품 수출액이 사상 최대치를 경신하며 한국 화장품의 해외 시장 입지가 확대되고 있다.",
+  "key_fact_quote": "한국 화장품의 글로벌 시장 입지가 넓어지면서...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:45+00:00",
+ "had_body": false
+}

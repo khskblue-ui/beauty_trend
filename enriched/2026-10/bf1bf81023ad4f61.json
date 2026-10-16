@@ -1,0 +1,76 @@
+{
+ "doc_id": "bf1bf81023ad4f61",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58480",
+ "title": "CJ올리브영, 아시아 4개국 세포라 48개 매장에 ‘K뷰티에딧’ 입점",
+ "summary": "[코스인코리아닷컴 길태윤 기자] CJ올리브영이 글로벌 뷰티 플랫폼 세포라(Sephora)와 협력해 말레이시아와 싱가포르, 태국, 홍콩 등 아시아 4개 국가·지역의 주요 오프라인 매장과 온라인몰에 ‘올리브영 K뷰티에딧(OLIVE YOUNG K-Beauty Edit)’ 입점을 완료했다고 12일 밝혔다. 오프…",
+ "published_at": "2026-10-12T11:38:31+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MY",
+   "SG",
+   "TH",
+   "HK",
+   "US",
+   "CA",
+   "AU",
+   "GB"
+  ],
+  "brands": [
+   "리쥬란",
+   "아렌시아",
+   "토리든",
+   "닥터엘시아",
+   "마녀공장",
+   "메이크프렘",
+   "바이오힐보",
+   "비플레인",
+   "셀리맥스",
+   "셀퓨전씨",
+   "토르홉",
+   "하루하루원더",
+   "헤브블루"
+  ],
+  "companies": [
+   "CJ올리브영",
+   "세포라"
+  ],
+  "keywords": [
+   "글로벌 유통망",
+   "스킨케어",
+   "슬로우에이징",
+   "K뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "씨제이올리브영이 세포라와 협력하여 아시아 주요 국가 매장 및 온라인몰에 올리브영 케이뷰티에딧 입점을 완료했다.",
+  "key_fact_quote": "CJ올리브영이 글로벌 뷰티 플랫폼 세포라(Sephora)와 협력해 말레이시아와 싱가포르, 태국, 홍콩 등 아시아 4개 국가·지역의 주요 오프라인 매장과 온라인몰에 ‘올리브영 K뷰티에딧(OLIVE YOUNG K-Beauty Edit)’ 입점을 완료했다고 12일 밝혔다.",
+  "events": [
+   {
+    "name": "올리브영 팝업",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-14",
+    "place": "아이온 오차드(ION Orchard)",
+    "quote": "올리브영은 지난 8일부터 오는 14일까지 싱가포르 프리미엄 복합쇼핑몰 아이온 오차드(ION Orchard)에서 팝업을 열고 피부 진단 서비스와 뷰티 샘플을 제공한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:11:57+00:00",
+ "had_body": true
+}

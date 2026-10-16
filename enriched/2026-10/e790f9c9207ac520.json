@@ -26,16 +26,34 @@
    "팝업스토어",
    "소비자 접점",
    "향수",
+   "스킨케어",
    "바디케어"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "화장품 성수기를 맞아 내수 시장에서 팝업 등을 통한 소비자 접점 확대 경쟁이 이어지고 있다.",
+  "key_fact": "화장품 성수기를 맞아 내수 시장에서 팝업스토어 등을 통한 소비자 접점 경쟁이 확대되고 있다.",
   "key_fact_quote": "화장품 성수기 개막, 내수 시장 소비자 접점 경쟁 확대",
+  "events": [
+   {
+    "name": "무빙 팝업",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-11",
+    "place": "서울 성수동",
+    "quote": "에디션' 출시 를 기념해 지난 9~11일 서울 성수동에서 무빙 팝업을 진행했다."
+   },
+   {
+    "name": "팝업",
+    "start_date": "2026-10-15",
+    "end_date": null,
+    "place": "서울 성수동 무비랜드",
+    "quote": "실제로 오는 15일부터 서울 성수동 무비랜드에서 진행하는 팝업을 통해 향수 와 스킨·바디케어 제품을 직접..."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:44+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:46+00:00",
  "had_body": false
 }

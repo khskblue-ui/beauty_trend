@@ -1,0 +1,52 @@
+{
+ "doc_id": "747f1c3c9dbe43d5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thebigdata.co.kr/view.php?ud=2026092114184830937600e7ec7_23",
+ "title": "영국 향수 하우스 펜할리곤스, 국내 리론칭... 더현대 서울·현대百 무역...",
+ "summary": "신제품 '더 매노버스 오브 더 바로네스'도 만나볼 수 있으며 10월부터는 홈 컬렉션도 추가한다. 매장에는 시그니처 컬러인 '윌리엄스 그린'을 적용했으며 향 컨설테이션과 착석형 서비스도 마련했다. 포트레이트 컬렉션...",
+ "published_at": "2026-09-21T14:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [
+   "펜할리곤스"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 하우스",
+   "홈 컬렉션",
+   "향 컨설테이션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "더 매노버스 오브 더 바로네스",
+    "brand": "펜할리곤스",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "영국 향수 하우스 펜할리곤스가 국내에 리론칭하며 신제품과 매장 서비스를 선보인다.",
+  "key_fact_quote": "영국 향수 하우스 펜할리곤스, 국내 리론칭... 더현대 서울·현대百 무역...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:02+00:00",
+ "had_body": false
+}

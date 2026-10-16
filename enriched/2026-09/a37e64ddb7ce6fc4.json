@@ -6,11 +6,11 @@
  "lang": "ko",
  "url": "https://www.forbeskorea.co.kr/news/articleView.html?idxno=402633",
  "title": "인센프, 15개국 진출…K-향수 글로벌 시장 확대",
- "summary": "제품 개발에는 글로벌 조향사 와 향료사가 참여하며, 향수는 한국에서 생산된다. 특히 인센프의 시그니처인 도자기 캡은 50년 이상의 경력을 가진 도자기 장인의 손을 거쳐 수작업으로 제작된다. 글로벌 조향 기술과...",
+ "summary": "제품 개발에는 글로벌 조향사와 향료 사가 참여하며, 향수는 한국에서 생산된다. 특히 인센프의 시그니처인 도자기 캡은 50년 이상의 경력을 가진 도자기 장인의 손을 거쳐 수작업으로 제작된다. 글로벌 조향 기술과...",
  "published_at": "2026-09-30T15:14:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "조향사",
+ "query": "향료",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -25,18 +25,18 @@
   ],
   "companies": [],
   "keywords": [
-   "K-향수",
-   "글로벌 진출",
-   "조향 기술"
+   "글로벌 시장 확대",
+   "조향 기술",
+   "도자기 캡"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "인센프가 글로벌 조향사 및 향료사와 협력하고 한국에서 생산한 향수로 해외 시장에 진출한다.",
-  "key_fact_quote": "인센프, 15개국 진출…K-향수 글로벌 시장 확대\n제품 개발에는 글로벌 조향사 와 향료사가 참여하며, 향수는 한국에서 생산된다.",
+  "key_fact": "인센프가 글로벌 시장으로 진출을 확대하며 한국에서 향수를 생산하고 있다.",
+  "key_fact_quote": "인센프, 15개국 진출…K-향수 글로벌 시장 확대",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:49+00:00",
+ "enriched_at": "2026-10-14T14:15:40+00:00",
  "had_body": false
 }

@@ -1,0 +1,53 @@
+{
+ "doc_id": "413ca9bc24d5a2c9",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/loreal-allegedly-explores-unloading-talc-related-liabilities",
+ "title": "L'Oréal allegedly explores unloading talc-related liabilities",
+ "summary": "The beauty giant strongly contests the claims made in approximately 760 pending proceedings related to the alleged presence of asbestos particles in certain talc-containing cosmetic products. According to a new report, L’Oréal has allegedly tapped advisors Weil Gotshal & Manges and investment bank Ducera Partners",
+ "published_at": "2026-10-06T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "L'Oréal",
+   "Weil Gotshal & Manges",
+   "Ducera Partners"
+  ],
+  "keywords": [
+   "탈크 소송",
+   "석면 논란",
+   "화장품 규제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "로레알이 탈크 함유 화장품의 석면 관련 소송 책임을 매각하거나 해소하는 방안을 모색 중인 것으로 전해졌다.",
+  "key_fact_quote": "L'Oréal allegedly explores unloading talc-related liabilities",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "talc",
+    "quote": "The beauty giant strongly contests the claims made in approximately 760 pending proceedings related to the alleged presence of asbestos particles in certain talc-containing cosmetic products."
+   },
+   {
+    "name": "asbestos",
+    "quote": "The beauty giant strongly contests the claims made in approximately 760 pending proceedings related to the alleged presence of asbestos particles in certain talc-containing cosmetic products."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:12+00:00",
+ "had_body": false
+}

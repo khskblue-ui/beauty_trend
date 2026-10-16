@@ -16,9 +16,10 @@
  "extraction": {
   "relevant": true,
   "category": "skincare",
-  "event_type": "market_trend",
+  "event_type": "business",
   "countries": [
-   "KR"
+   "KR",
+   "US"
   ],
   "brands": [
    "리쥬란코스메틱"
@@ -26,7 +27,6 @@
   "companies": [],
   "keywords": [
    "웨딩 스킨케어",
-   "앰플",
    "피부관리"
   ],
   "is_press_release": true,
@@ -35,6 +35,7 @@
     "name": "턴오버 앰플",
     "brand": "리쥬란코스메틱",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -43,6 +44,7 @@
     "name": "뉴트리티브 크림",
     "brand": "리쥬란코스메틱",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -51,17 +53,29 @@
     "name": "듀얼 이펙트 앰플",
     "brand": "리쥬란코스메틱",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "리쥬란코스메틱이 작곡가 이재와 협업하여 웨딩 스킨케어 루틴을 소개했다.",
+  "key_fact": "리쥬란코스메틱이 작곡가 이재와 함께 웨딩 스킨케어 루틴을 소개했다.",
   "key_fact_quote": "리쥬란코스메틱이 가수 겸 작곡가 이재(EJAE)와 웨딩 스킨케어 루틴을 소개했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "c-PDRN",
+    "quote": "이재는 리쥬란코스메틱의 특화 성분 c-PDRN도 설명했다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "올해 연말까지 이재와 손잡고 PDRN 스킨케어 라인을 알려 나가겠다”고 말했다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:03:17+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:22+00:00",
  "had_body": true
 }

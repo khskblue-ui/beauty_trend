@@ -1,0 +1,44 @@
+{
+ "doc_id": "80fc8835a9bad4c9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mediawatch.kr/news/article.html?no=261148",
+ "title": "[금주의 화장품 톡톡] 화장품에 빠진 제약사… 동국·동아·JW중외의 ‘...",
+ "summary": "트레할로오스와 히알루론산, PDRN, CMC(카르복시메틸 셀룰로오스)와 아이브라이트·알로에베라·병풀·티트리잎·비타민나무 등 자연 유래 추출물 5종을 함유했으며, 향료 와 색소는 첨가하지 않았고 피부 자극 테스트도...",
+ "published_at": "2026-09-23T10:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "동국",
+   "동아",
+   "JW중외"
+  ],
+  "keywords": [
+   "제약사 화장품",
+   "무향 화장품",
+   "자연 유래 추출물"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제약사들이 자연 유래 추출물을 함유하고 향료와 색소를 배제한 화장품 개발에 나서고 있다.",
+  "key_fact_quote": "화장품에 빠진 제약사… 동국·동아·JW중외의 ‘...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:15:58+00:00",
+ "had_body": false
+}

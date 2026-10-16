@@ -1,0 +1,95 @@
+{
+ "doc_id": "defd0928da7ea4af",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53628",
+ "title": "[코스모닝] 라부르켓, 롱샷과 스웨덴 웰니스 알린다",
+ "summary": "라부르켓이 K팝그룹 롱샷(LNGSHOT)을 브랜드 모델로 선정했다. 라부르켓(L:A BRUKET)은 신세계인터내셔날이 운영하는 스웨덴 뷰티 브랜드다. 청정해협의 해초와 바다 소금 등을 주 원료로 삼았다. 스웨덴의 사우나 문화에서 영감을 얻은 스킨‧보디케어와 향수 등을 선보인다. 롱샷은 가수 겸 프로듀서 박재범이 만든 아이돌 그룹이다. 7월 ‘KMA 2026",
+ "published_at": "2026-10-01T18:23:36+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "SE"
+  ],
+  "brands": [
+   "라부르켓",
+   "L:A BRUKET"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "웰니스 라이프스타일",
+   "퍼퓸 컬렉션",
+   "팝업매장",
+   "보디케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "NEW 퍼퓸 컬렉션",
+    "brand": "라부르켓",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "오버나투르",
+    "brand": "라부르켓",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "블릭스트",
+    "brand": "라부르켓",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "디지르",
+    "brand": "라부르켓",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "라부르켓이 아이돌 그룹 롱샷을 브랜드 모델로 발탁하고 성수동에서 팝업매장을 운영한다.",
+  "key_fact_quote": "라부르켓이 K팝그룹 롱샷(LNGSHOT)을 브랜드 모델로 선정했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "해초",
+    "quote": "청정해협의 해초와 바다 소금 등을 주 원료로 삼았다."
+   },
+   {
+    "name": "바다 소금",
+    "quote": "청정해협의 해초와 바다 소금 등을 주 원료로 삼았다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:40+00:00",
+ "had_body": true
+}

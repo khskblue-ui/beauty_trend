@@ -1,0 +1,52 @@
+{
+ "doc_id": "c91bf760d1497670",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.weeklytoday.com/news/articleView.html?idxno=797595",
+ "title": "[위클리오늘] 킨텍스, '2026 K - 뷰티 엑스포 코리아' 15일 개막",
+ "summary": "전시회 '2026 K - 뷰티 엑스포 코리아(이하 K - 뷰티 엑스포)'를 개최한다고 밝혔다. 올해 18회째를 맞이하는 이번... 2025년 뷰티 엑스포코리아 현장 사진 핵심 프로그램인 '해외 바이어 초청 1:1 수출 상담회'에는 코트라 해외...",
+ "published_at": "2026-10-12T11:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "킨텍스",
+   "코트라"
+  ],
+  "keywords": [
+   "뷰티 엑스포",
+   "수출 상담회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "킨텍스에서 케이 뷰티 엑스포 코리아가 개막한다.",
+  "key_fact_quote": "전시회 '2026 K - 뷰티 엑스포 코리아(이하 K - 뷰티 엑스포)'를 개최한다고 밝혔다.",
+  "events": [
+   {
+    "name": "2026 K - 뷰티 엑스포 코리아",
+    "start_date": "2026-10-15",
+    "end_date": null,
+    "place": "킨텍스",
+    "quote": "[위클리오늘] 킨텍스, '2026 K - 뷰티 엑스포 코리아' 15일 개막"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:08+00:00",
+ "had_body": false
+}

@@ -18,26 +18,45 @@
   "category": "business",
   "event_type": "event",
   "countries": [
-   "CA"
+   "CA",
+   "HK",
+   "FR"
   ],
   "brands": [],
   "companies": [
-   "Canadian Cosmetic Cluster"
+   "Canadian Cosmetic Cluster",
+   "dsm-firmenich"
   ],
   "keywords": [
    "뷰티 어워드",
    "인디 뷰티",
-   "화장품 제형",
-   "글로벌 진출"
+   "화장품 클러스터"
   ],
-  "is_press_release": true,
+  "is_press_release": false,
   "products": [],
-  "key_fact": "캐나다 코스메틱 클러스터가 뷰티 산업의 혁신을 표창하고 수상자에게 실질적 지원을 제공하는 글로벌 어워드를 출범했다.",
+  "key_fact": "캐나디안 코스메틱 클러스터가 뷰티 산업의 혁신을 인정하고 수상자에게 실질적인 비즈니스 지원을 제공하는 어워드 프로그램을 출범했다.",
   "key_fact_quote": "The Canadian Cosmetic Cluster has launched the inaugural Canadian Cosmetic Cluster Awards, an international program designed to recognize innovation across the beauty industry while providing winners with practical support to accelerate their development.",
+  "events": [
+   {
+    "name": "Canadian Cosmetic Cluster Awards",
+    "start_date": "2026-11-30",
+    "end_date": null,
+    "place": null,
+    "quote": "Winners are scheduled to be announced on November 30, 2026."
+   },
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:01+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:02+00:00",
  "had_body": true
 }

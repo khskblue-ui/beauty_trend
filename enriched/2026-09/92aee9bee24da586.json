@@ -1,0 +1,53 @@
+{
+ "doc_id": "92aee9bee24da586",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://theviewers.co.kr/View.aspx?No=4233731",
+ "title": "립밤 넘어 ‘립 스킨케어’…리쎄덤, 펩티드 리페어 립 세럼 출시",
+ "summary": "리쎄덤은 입술 보습과 주름 관리를 함께 고려한 신제품 '펩티드 리페어 립 세럼'을 출시했다고 21일 밝혔다.... 식품의약품안전처가 주름 개선 기능성 화장품 성분으로 고시한 아데노신을 함유했으며, 화장품 원료로...",
+ "published_at": "2026-09-21T10:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리쎄덤"
+  ],
+  "companies": [
+   "리쎄덤"
+  ],
+  "keywords": [
+   "립 스킨케어",
+   "립 세럼",
+   "주름 개선 기능성 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "펩티드 리페어 립 세럼",
+    "brand": "리쎄덤",
+    "launch_date": null,
+    "launch_quote": "리쎄덤은 입술 보습과 주름 관리를 함께 고려한 신제품 '펩티드 리페어 립 세럼'을 출시했다고 21일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "리쎄덤이 입술 보습과 주름 관리를 함께 고려한 신제품 립 세럼을 선보였다.",
+  "key_fact_quote": "리쎄덤은 입술 보습과 주름 관리를 함께 고려한 신제품 '펩티드 리페어 립 세럼'을 출시했다고 21일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:12+00:00",
+ "had_body": false
+}

@@ -1,0 +1,49 @@
+{
+ "doc_id": "7ef20aff5f3a6ad9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/13/2026101300130.html",
+ "title": "제약사, 약가 인하 파고에 '화장품' 힘준다 … 사명 변경에 사업 확장까...",
+ "summary": "동국제약은 올해 미국 얼타 뷰티 와 코스트코, 일본 돈키호테 등 주요 유통망에 입점하며 판매 채널을 확대했다. 헬스케어 부문 수출 액은 지난해 연간 약 300억원에서 올해 상반기에만 500억원을 넘어섰다. 내수 중심이던...",
+ "published_at": "2026-10-13T11:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "동국제약",
+   "얼타 뷰티",
+   "코스트코",
+   "돈키호테"
+  ],
+  "keywords": [
+   "제약사 화장품",
+   "해외 유통망 입점",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제약사들이 약가 인하 파고 속에 화장품 사업을 확장하며 주요 해외 유통망에 입점해 수출을 늘리고 있다.",
+  "key_fact_quote": "제약사, 약가 인하 파고에 '화장품' 힘준다 … 사명 변경에 사업 확장까...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:53+00:00",
+ "had_body": false
+}

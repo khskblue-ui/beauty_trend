@@ -1,0 +1,53 @@
+{
+ "doc_id": "f7deb6680fe3848b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021839&cp=nv",
+ "title": "킨텍스 ‘2026 K - 뷰티 엑스포 코리아’ 15일 개막",
+ "summary": "국내 최대 뷰티 산업 전시회인 ‘2026 K - 뷰티 엑스포 코리아’가 오는 15일부터 17일까지 사흘간 경기 고양시... 이번 전시회의 핵심 프로그램은 해외 바이어 초청 1대1 수출 상담회다. 대한무역투자진흥공사(코트라) 해외...",
+ "published_at": "2026-10-12T17:39:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "킨텍스",
+   "대한무역투자진흥공사",
+   "코트라"
+  ],
+  "keywords": [
+   "뷰티 박람회",
+   "수출 상담회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "국내 최대 뷰티 산업 전시회인 엑스포가 경기 고양시에서 개막한다.",
+  "key_fact_quote": "국내 최대 뷰티 산업 전시회인 ‘2026 K - 뷰티 엑스포 코리아’가 오는 15일부터 17일까지 사흘간 경기 고양시...",
+  "events": [
+   {
+    "name": "2026 K - 뷰티 엑스포 코리아",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": "경기 고양시",
+    "quote": "국내 최대 뷰티 산업 전시회인 ‘2026 K - 뷰티 엑스포 코리아’가 오는 15일부터 17일까지 사흘간 경기 고양시..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:00+00:00",
+ "had_body": false
+}

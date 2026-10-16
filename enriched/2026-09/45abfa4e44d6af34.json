@@ -1,0 +1,44 @@
+{
+ "doc_id": "45abfa4e44d6af34",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ibabynews.com/news/articleView.html?idxno=154762",
+ "title": "[ 뷰티 트렌드] 몽클로스, 美 타겟 600여 개 매장 입점 확정…11월 미국 ...",
+ "summary": "국내외 뷰티 ·생활건강 기업들이 발표한 신제품 출시 , 성분·기술 연구, 캠페인, 사회공헌 활동 등 다양한 소식 가운데 일상 속 피부 건강과 자기관리, 가족의 삶의 질 향상에 도움이 되는 정보를 선별해 소개한다....",
+ "published_at": "2026-09-23T18:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "몽클로스"
+  ],
+  "companies": [
+   "타겟"
+  ],
+  "keywords": [
+   "해외 유통망 입점",
+   "뷰티 트렌드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "몽클로스가 미국 타겟 매장 입점을 확정했다.",
+  "key_fact_quote": "몽클로스, 美 타겟 600여 개 매장 입점 확정…11월 미국 ...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:34+00:00",
+ "had_body": false
+}

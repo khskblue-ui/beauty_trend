@@ -1,0 +1,49 @@
+{
+ "doc_id": "743cf1e408c6a41e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610021402279380321",
+ "title": "[뷰티 톡톡] LG생활건강ㆍ바이오힐보ㆍ아모레퍼시픽ㆍ바로팜",
+ "summary": "2024년 출시 2년 만에 누적 매출 600억원을 돌파했다. 쿠팡 세탁세제 관련 카테고리에서 지난 7월부터 1위를... ▲아모레퍼시픽, 세계 화장품 학회서 AI기반 뷰티 연구 성과 공개 아모레퍼시픽이 호주 퍼스에서 열린 세계...",
+ "published_at": "2026-10-02T15:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "AU"
+  ],
+  "brands": [
+   "바이오힐보"
+  ],
+  "companies": [
+   "LG생활건강",
+   "아모레퍼시픽",
+   "바로팜",
+   "쿠팡"
+  ],
+  "keywords": [
+   "화장품 연구",
+   "세탁세제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아모레퍼시픽이 세계 화장품 학회에서 인공지능 기반 뷰티 연구 성과를 공개했다.",
+  "key_fact_quote": "아모레퍼시픽이 호주 퍼스에서 열린 세계...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:41+00:00",
+ "had_body": false
+}

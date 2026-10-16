@@ -1,0 +1,50 @@
+{
+ "doc_id": "2072c8c60af79d5e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487892",
+ "title": "SHIRO, '블랙 체리' 3종 한정 출시… 향수 ·헤어·바디 구성",
+ "summary": "기존 향수 와 헤어 제품으로 선보였던 '블랙 체리'를 바디 제품까지 확장해 3종의 한정 라인업으로 선보인다.... SHIRO 관계자는 \"블랙 체리를 일상의 다양한 순간에 즐길 수 있도록 기존 오 드 퍼퓸과 헤어 밤에 신제품 오일...",
+ "published_at": "2026-09-17T09:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "SHIRO"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수",
+   "헤어 제품",
+   "바디 제품",
+   "한정 라인업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "블랙 체리",
+    "brand": "SHIRO",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "SHIRO가 블랙 체리 라인업을 바디 제품까지 확장하여 한정 출시한다.",
+  "key_fact_quote": "기존 향수 와 헤어 제품으로 선보였던 '블랙 체리'를 바디 제품까지 확장해 3종의 한정 라인업으로 선보인다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:10+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "ad5804b0de03afe7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202610081817445297",
+ "title": "개별여행객 공들이는 면세점…뷰티 차별화로 승부",
+ "summary": "신라면세점 역시 올해 들어 화장품 카테고리 매출이 FIT를 중심으로 전년 동기 대비 두 자릿수 이상 성장하자... 세트를 출시 했다. 기존 인기 제품을 묶거나 면세점에서만 만날 수 있는 색상과 구성을 더해 FIT 고객의...",
+ "published_at": "2026-10-08T18:19:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신라면세점"
+  ],
+  "keywords": [
+   "면세점 뷰티",
+   "개별여행객",
+   "화장품 카테고리"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "면세점이 개별여행객을 겨냥해 차별화된 화장품 세트를 출시하며 뷰티 카테고리 공략에 나서고 있다.",
+  "key_fact_quote": "신라면세점 역시 올해 들어 화장품 카테고리 매출이 FIT를 중심으로 전년 동기 대비 두 자릿수 이상 성장하자... 세트를 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:14+00:00",
+ "had_body": false
+}

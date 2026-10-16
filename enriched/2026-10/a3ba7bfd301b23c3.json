@@ -1,0 +1,59 @@
+{
+ "doc_id": "a3ba7bfd301b23c3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gosiweek.com/article/1065574788832668",
+ "title": "스칼프 브랜드 리필드, 뷰티컬리 입점… 잔류형 두피케어 확대",
+ "summary": "특히 본품 70ml 1개와 리필 70ml 2개로 구성된 ‘부스터 토닉 트리플 기획’을 컬리 전용 규격으로 출시 했다.... 한편 리필드는 ‘세계 화장품 학회(IFSCC) 2026’에서 cADPR™ 성분의 두피 흡수 연구를 발표했다. 회사는 바이오...",
+ "published_at": "2026-10-13T10:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리필드"
+  ],
+  "companies": [],
+  "keywords": [
+   "두피케어",
+   "스칼프 케어",
+   "부스터 토닉"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "부스터 토닉 트리플 기획",
+    "brand": "리필드",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "특히 본품 70ml 1개와 리필 70ml 2개로 구성된 ‘부스터 토닉 트리플 기획’을 컬리 전용 규격으로 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스칼프 브랜드 리필드가 뷰티컬리에 입점하며 전용 기획 제품을 선보였다.",
+  "key_fact_quote": "스칼프 브랜드 리필드, 뷰티컬리 입점… 잔류형 두피케어 확대",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "cADPR™",
+    "quote": "한편 리필드는 ‘세계 화장품 학회(IFSCC) 2026’에서 cADPR™ 성분의 두피 흡수 연구를 발표했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:01+00:00",
+ "had_body": false
+}

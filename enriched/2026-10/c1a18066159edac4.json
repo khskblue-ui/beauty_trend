@@ -1,0 +1,47 @@
+{
+ "doc_id": "c1a18066159edac4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mydaily.co.kr/page/view/2026101212190610978",
+ "title": "[MD패션 뷰티 ] 올리브영, 동남아 세포라 48곳 입점…내년 캐나다·영국으...",
+ "summary": "K 뷰티 브랜드 가 글로벌 주요 유통 채널에 진입할 기회를 확대하고 있다”며 “글로벌 소비 저변을... 패션 브랜드 ‘헤디트(HEDIT)’를 단독 론칭 하고 패션 상품군을 강화한다고 12일 밝혔다. 헤디트는 한혜진이 20여 년간...",
+ "published_at": "2026-10-12T12:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CA",
+   "GB"
+  ],
+  "brands": [
+   "올리브영",
+   "세포라",
+   "헤디트"
+  ],
+  "companies": [],
+  "keywords": [
+   "글로벌 유통 채널",
+   "패션 상품군 강화"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "올리브영이 동남아 세포라 매장에 입점하며 해외 유통 채널 진입을 확대하고 있다.",
+  "key_fact_quote": "K 뷰티 브랜드 가 글로벌 주요 유통 채널에 진입할 기회를 확대하고 있다”며 “글로벌 소비 저변을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:31+00:00",
+ "had_body": false
+}

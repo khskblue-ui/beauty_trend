@@ -1,0 +1,41 @@
+{
+ "doc_id": "aae9914af234eb8c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dongascience.com/news/view/80056",
+ "title": "윷놀이에 숨은 과학 원리는…연휴에 전국 국립과학관 무료개관",
+ "summary": "향료 의 특성을 알아보고 직접 향수를 만드는 향기공방, 라탄의 재료와 구조를 배우는 라탄공방 등도 운영된다. 국립대구과학관은 먹거리와 로봇, 천문 등을 주제로 한 프로그램을 준비했다. 22일부터 유료 특별기획전...",
+ "published_at": "2026-09-24T08:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "국립대구과학관"
+  ],
+  "keywords": [
+   "향수 만들기",
+   "과학관 프로그램"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "연휴를 맞아 전국 국립과학관에서 무료 개관 및 향기공방 등 다양한 체험 프로그램을 운영한다.",
+  "key_fact_quote": "향료 의 특성을 알아보고 직접 향수를 만드는 향기공방, 라탄의 재료와 구조를 배우는 라탄공방 등도 운영된다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:15:54+00:00",
+ "had_body": false
+}

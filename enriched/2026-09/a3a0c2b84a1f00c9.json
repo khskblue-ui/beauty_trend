@@ -1,0 +1,40 @@
+{
+ "doc_id": "a3a0c2b84a1f00c9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.bizwatch.co.kr/article/consumer/2026/09/29/0034",
+ "title": "비수기가 뭐예요?…K뷰티, 이젠 사계절이 '성수기'",
+ "summary": "이 때문에 화장품 업체들은 통상 여름철에 생산과 재고를 조절해왔다. 특히 제조자개발생산(ODM) 업체의 경우 고객사의 신제품 출시 일정과 판매 전망에 맞춰 생산량을 탄력적으로 조정하는 것이 일반적이었다. 그러나...",
+ "published_at": "2026-09-30T07:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 제조",
+   "화장품 비수기",
+   "케이뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 업계가 통상 여름철에 생산과 재고를 조절하던 흐름을 벗어나 전 계절 성수기를 맞이하고 있다.",
+  "key_fact_quote": "비수기가 뭐예요?…K뷰티, 이젠 사계절이 '성수기'",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:51+00:00",
+ "had_body": false
+}

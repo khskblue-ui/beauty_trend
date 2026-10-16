@@ -1,0 +1,50 @@
+{
+ "doc_id": "dd43fe79033c6fc4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://theviewers.co.kr/View.aspx?No=4254360",
+ "title": "[유통갤러리] 배민, 도심형 뷰티 아웃렛 ‘오프뷰티’ 입점 外",
+ "summary": "취급하는 상품군은 롬앤, 닥터지, 텐제로, 조선미녀 등 인기 브랜드 화장품 4000여종에 이른다. 배민 입점... ◆배상면주가, 가을 세시주 ‘들국화술’ 한정 출시 배상면주가가 2026년 가을을 맞아 한정판 세시주...",
+ "published_at": "2026-10-07T11:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "롬앤",
+   "닥터지",
+   "텐제로",
+   "조선미녀",
+   "오프뷰티"
+  ],
+  "companies": [
+   "배달의민족",
+   "배상면주가"
+  ],
+  "keywords": [
+   "뷰티 아웃렛",
+   "배달 플랫폼 입점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "도심형 뷰티 아웃렛 오프뷰티가 배달의민족에 입점했다.",
+  "key_fact_quote": "[유통갤러리] 배민, 도심형 뷰티 아웃렛 ‘오프뷰티’ 입점 外",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:34+00:00",
+ "had_body": false
+}

@@ -28,36 +28,47 @@
    "넷마블"
   ],
   "keywords": [
-   "팝업 행사",
    "캐릭터 협업",
-   "클렌징 폼",
-   "대용량 에디션"
+   "팝업스토어",
+   "클렌징 폼"
   ],
   "is_press_release": true,
   "products": [
    {
-    "name": "퍼펙트 휩",
+    "name": "퍼펙트 휩 양파쿵야 대용량 에디션",
     "brand": "센카",
-    "launch_date": null,
-    "launch_quote": null,
+    "launch_date": "2026-10",
+    "launch_status": "launched",
+    "launch_quote": "10월 한달 동안 올리브영에서 퍼펙트 휩 양파쿵야 대용량 에디션을 선보이고 키링‧파우치‧세안핀 등을 증정한다",
     "notes": [],
     "notes_quote": null
    },
    {
-    "name": "퍼펙트 휩 양파쿵야 대용량 에디션",
+    "name": "퍼펙트 휩",
     "brand": "센카",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "센카가 넷마블 캐릭터 쿵야 레스토랑즈와 협업하여 서울 성수에서 팝업 행사를 열고 에디션 제품을 선보였다.",
+  "key_fact": "센카가 캐릭터 쿵야 레스토랑즈와 협업하여 성수동에서 팝업 행사를 진행했다.",
   "key_fact_quote": "센카(SENKA)가 9일부터 11일까지 3일 동안 넷마블 캐릭터 쿵야 레스토랑즈와 팝업 행사를 열었다.",
+  "events": [
+   {
+    "name": "폼 미친 거품 맛집",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-11",
+    "place": "서울 성수 플레이엑스 스튜디오와 성수 AK 플라자",
+    "quote": "센카(SENKA)가 9일부터 11일까지 3일 동안 넷마블 캐릭터 쿵야 레스토랑즈와 팝업 행사를 열었다. 이번 행사는 서울 성수 플레이엑스 스튜디오와 성수 AK 플라자에서 진행했다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:03:19+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:26+00:00",
  "had_body": true
 }

@@ -1,0 +1,57 @@
+{
+ "doc_id": "aaba014bc410bc30",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261013010003776",
+ "title": "44년 만에 '제약' 떼는 동국제약… 화장품 앞세워 새 간판",
+ "summary": "화장품 만의 매출 비중은 아니지만, H&B 사업이 기존 의약품과 함께 주요 성장축으로 자리 잡고 있다는 평가다.대표 제품인 '마데카크림'은 2015년 4월 출시 이후 누적 판매 1억개를 돌파했다. 북미 아마존·틱톡숍 등...",
+ "published_at": "2026-10-13T18:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "마데카크림"
+  ],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "H&B 사업",
+   "더마코스메틱"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "마데카크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동국제약이 화장품 등 헬스앤뷰티 사업의 성장에 힘입어 사명 변경을 추진하고 있다.",
+  "key_fact_quote": "44년 만에 '제약' 떼는 동국제약… 화장품 앞세워 새 간판",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "launch:마데카크림"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:57+00:00",
+ "had_body": false
+}

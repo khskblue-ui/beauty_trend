@@ -1,0 +1,45 @@
+{
+ "doc_id": "a049adde906a4429",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.livesnews.com/news/article.html?no=64367",
+ "title": "재능대 학생 아이디어, 인천 화장품 ‘어울’ 새 브랜드·제품으로 이어...",
+ "summary": "이날 성과공유회에서는 어울 화장품 의 서브브랜드 네이밍을 비롯해 클렌징폼 패키지 디자인, 지역 원료를 활용한 신제품 , 이너뷰티 시제품 등 학생들이 참여한 산학협력 결과가 차례로 발표됐다. 시각디자인과 학생들이...",
+ "published_at": "2026-09-20T19:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어울"
+  ],
+  "companies": [
+   "재능대"
+  ],
+  "keywords": [
+   "산학협력",
+   "서브브랜드",
+   "이너뷰티",
+   "지역 원료"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인천 화장품 브랜드 어울의 서브브랜드 네이밍 및 지역 원료 신제품 개발 등에 참여한 학생들의 산학협력 결과가 발표되었다.",
+  "key_fact_quote": "이날 성과공유회에서는 어울 화장품 의 서브브랜드 네이밍을 비롯해 클렌징폼 패키지 디자인, 지역 원료를 활용한 신제품 , 이너뷰티 시제품 등 학생들이 참여한 산학협력 결과가 차례로 발표됐다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:16+00:00",
+ "had_body": false
+}

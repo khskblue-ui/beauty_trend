@@ -1,0 +1,92 @@
+{
+ "doc_id": "1c2284b7ba0f9b40",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/cb-picks-8-new-beauty-launches-oct26",
+ "title": "Cosmetics Business picks: 8 new beauty launches from Rhode, Haus Labs and D&G",
+ "summary": "New fragrance mists from Orebella and Sol de Janeiro; colour cosmetics by Haus Labs and Dolce & Gabbana;and the latest Spotwear drop from Hailey Bieber’s Rhode are among this week’s best new-in beauty",
+ "published_at": "2026-10-09T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Rhode",
+   "Haus Labs",
+   "Dolce & Gabbana",
+   "Orebella",
+   "Sol de Janeiro"
+  ],
+  "companies": [],
+  "keywords": [
+   "프래그런스 미스트",
+   "컬러 코스메틱",
+   "신제품 출시"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "fragrance mists",
+    "brand": "Orebella",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "New fragrance mists from Orebella and Sol de Janeiro; colour cosmetics by Haus Labs and Dolce & Gabbana;and the latest Spotwear drop from Hailey Bieber’s Rhode are among this week’s best new-in beauty",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "fragrance mists",
+    "brand": "Sol de Janeiro",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "New fragrance mists from Orebella and Sol de Janeiro; colour cosmetics by Haus Labs and Dolce & Gabbana;and the latest Spotwear drop from Hailey Bieber’s Rhode are among this week’s best new-in beauty",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "colour cosmetics",
+    "brand": "Haus Labs",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "New fragrance mists from Orebella and Sol de Janeiro; colour cosmetics by Haus Labs and Dolce & Gabbana;and the latest Spotwear drop from Hailey Bieber’s Rhode are among this week’s best new-in beauty",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "colour cosmetics",
+    "brand": "Dolce & Gabbana",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "New fragrance mists from Orebella and Sol de Janeiro; colour cosmetics by Haus Labs and Dolce & Gabbana;and the latest Spotwear drop from Hailey Bieber’s Rhode are among this week’s best new-in beauty",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Spotwear",
+    "brand": "Rhode",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "New fragrance mists from Orebella and Sol de Janeiro; colour cosmetics by Haus Labs and Dolce & Gabbana;and the latest Spotwear drop from Hailey Bieber’s Rhode are among this week’s best new-in beauty",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "오레벨라와 솔데자네이루의 향수 미스트를 비롯해 주요 브랜드들의 신제품들이 이번 주 주목할 만한 신규 뷰티 제품으로 선정되었다.",
+  "key_fact_quote": "New fragrance mists from Orebella and Sol de Janeiro; colour cosmetics by Haus Labs and Dolce & Gabbana;and the latest Spotwear drop from Hailey Bieber’s Rhode are among this week’s best new-in beauty",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:04+00:00",
+ "had_body": false
+}

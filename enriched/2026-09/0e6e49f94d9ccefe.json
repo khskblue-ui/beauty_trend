@@ -5,52 +5,58 @@
  "group": "kr_news",
  "lang": "ko",
  "url": "https://kpenews.com/View.aspx?No=4227305",
- "title": "[Beauty+] 커버로션 출시 한 비레디·마이 뷰티 포뮬러 선봬는 신세계면세...",
- "summary": "퍼퓸 미스트 등 가을 메이크업과 향을 완성할 수 있도록 구성했다. 기획전 기간에는 참여 브랜드별 구매 조건에 따라 다양한 사은품도 제공한다. 헤어 스크런치와 파우치부터 미니 퍼프, 브러시, 바디 스프레이 등...",
+ "title": "[Beauty+] 커버로션 출시한 비레디·마이 뷰티 포뮬러 선봬는 신세계면세...",
+ "summary": "비레디는 남성 피부 톤과 사용 경험을 반영한 신제품 을 출시한다. 신세계면세점은 개인의 관리 목적과... 무드분야에서는 가을 분위기에 어울리는 립·아이 메이크업과 향수 를 제안한다. 투에이엔의 아이팔레트...",
  "published_at": "2026-09-15T11:12:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "바디미스트 출시",
+ "query": "향수 신제품",
  "doc_type": null,
  "celex": null,
  "extraction": {
   "relevant": true,
   "category": "retail",
-  "event_type": "market_trend",
+  "event_type": "product_launch",
   "countries": [
    "KR"
   ],
   "brands": [
-   "비레디"
+   "비레디",
+   "투에이엔"
   ],
   "companies": [
    "신세계면세점"
   ],
   "keywords": [
-   "퍼퓸 미스트",
+   "커버로션",
    "가을 메이크업",
-   "바디 스프레이"
+   "향수"
   ],
-  "is_press_release": false,
+  "is_press_release": true,
   "products": [
    {
     "name": "커버로션",
     "brand": "비레디",
     "launch_date": null,
-    "launch_status": "launched",
-    "launch_quote": "[Beauty+] 커버로션 출시 한 비레디·마이 뷰티 포뮬러 선봬는 신세계면세...",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아이팔레트",
+    "brand": "투에이엔",
+    "launch_date": null,
+    "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "신세계면세점이 메이크업과 향 관련 제품 기획전을 선보이고 다양한 사은품 혜택을 마련했다.",
-  "key_fact_quote": "퍼퓸 미스트 등 가을 메이크업과 향을 완성할 수 있도록 구성했다.",
-  "events": [],
-  "ingredients": [],
+  "key_fact": "비레디가 신제품 커버로션을 선보이고 신세계면세점은 가을 분위기에 어울리는 메이크업과 향수를 제안한다.",
+  "key_fact_quote": "비레디는 남성 피부 톤과 사용 경험을 반영한 신제품 을 출시한다. 신세계면세점은 개인의 관리 목적과... 무드분야에서는 가을 분위기에 어울리는 립·아이 메이크업과 향수 를 제안한다.",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:44+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:17+00:00",
  "had_body": false
 }

@@ -25,13 +25,14 @@
    "제로이드"
   ],
   "companies": [
-   "네오팜",
-   "누리하우스"
+   "누리하우스",
+   "네오팜"
   ],
   "keywords": [
    "더마 코스메슈티컬",
+   "웰니스",
    "피부장벽 기술",
-   "케이 뷰티"
+   "K-더마"
   ],
   "is_press_release": true,
   "products": [
@@ -39,17 +40,28 @@
     "name": "인텐시브 크림",
     "brand": "제로이드",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "제로이드가 미국 뉴욕에서 열리는 케이 컬처 행사에 참가해 독자적인 피부장벽 기술과 제품을 알린다.",
+  "key_fact": "제로이드가 미국 뉴욕에서 열리는 케이 컬처 행사에 참가해 독자적인 피부장벽 기술과 인텐시브 라인을 알린다.",
   "key_fact_quote": "제로이드가 12일부터 19일까지 미국 뉴욕 브루클린 하나하우스에서 열리는 ‘하우스 오브 케이 시즌 2 : 더 웰니스 에딧’에 참가한다.",
+  "events": [
+   {
+    "name": "하우스 오브 케이 시즌 2 : 더 웰니스 에딧",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-19",
+    "place": "미국 뉴욕 브루클린 하나하우스",
+    "quote": "제로이드가 12일부터 19일까지 미국 뉴욕 브루클린 하나하우스에서 열리는 ‘하우스 오브 케이 시즌 2 : 더 웰니스 에딧’에 참가한다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:03:06+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:13+00:00",
  "had_body": true
 }

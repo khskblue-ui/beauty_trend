@@ -1,0 +1,59 @@
+{
+ "doc_id": "de60d322be1ecb23",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/e-l-f-breaks-into-fragrance-and-body-care-with-elf-pop",
+ "title": "E.l.f. breaks into fragrance and body care with ‘sensorial’ own-brand e.l.f. POP",
+ "summary": "The parent company of e.l.f. Cosmetics, e.l.f. Skin and e.l.f. Hair is expanding its beauty empire with e.l.f. POP – an own-brand fragrance and body care line inspired by holiday destinations – following the success of its perfume collaboration with H&M",
+ "published_at": "2026-10-05T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "E.l.f.",
+   "e.l.f. Cosmetics",
+   "e.l.f. Skin",
+   "e.l.f. Hair",
+   "e.l.f. POP",
+   "H&M"
+  ],
+  "companies": [
+   "E.l.f."
+  ],
+  "keywords": [
+   "향수 라인",
+   "바디 케어",
+   "자체 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "e.l.f. POP",
+    "brand": "E.l.f.",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "The parent company of e.l.f. Cosmetics, e.l.f. Skin and e.l.f. Hair is expanding its beauty empire with e.l.f. POP – an own-brand fragrance and body care line inspired by holiday destinations – following the success of its perfume collaboration with H&M",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "엘프가 휴가지에서 영감을 얻은 자체 향수 및 바디 케어 라인인 엘프 팝을 선보이며 영역을 확장한다.",
+  "key_fact_quote": "The parent company of e.l.f. Cosmetics, e.l.f. Skin and e.l.f. Hair is expanding its beauty empire with e.l.f. POP – an own-brand fragrance and body care line inspired by holiday destinations – following the success of its perfume collaboration with H&M",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:16+00:00",
+ "had_body": false
+}

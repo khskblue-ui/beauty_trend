@@ -1,0 +1,66 @@
+{
+ "doc_id": "f5d46ff2597b33d8",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100088",
+ "title": "LG생활건강 숨37°, 8,700시간 발효 정수 담은 ‘시크릿 에센스’ 리뉴얼",
+ "summary": "LG생활건강의 자연·발효 뷰티 브랜드 숨37°는 스테디셀러 ‘시크릿 에센스’를 5세대로 리뉴얼 출시했다. 새롭게 탄생한 시크릿 에센스는 8,700시간 발효의 힘으로 피부 본연의 맑은 빛을 깨우는 스킨케어 필수 제품이다.시크릿 에센스는 2009년 출시 이후 지금까지 335만병 이상 판매된 히트 상품이다. 숨37°는 이번 리뉴얼에서 피부결마다 맑게 차오르는 이른바 ‘결광 피부’를 위한 3단계 메커니즘을 제안했다. 피부 속 불필요한 에너지를 비우면서(Empty), 필요한 에너지는 채우고(Recharge), 건강한 피부를 지킨다는(Defe",
+ "published_at": "2026-10-08T09:24:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "숨37°"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "자연 발효",
+   "스킨케어",
+   "피부 장벽",
+   "에센스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "시크릿 에센스",
+    "brand": "숨37°",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "LG생활건강의 자연·발효 뷰티 브랜드 숨37°는 스테디셀러 ‘시크릿 에센스’를 5세대로 리뉴얼 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "LG생활건강의 자연·발효 뷰티 브랜드 숨이 대표 제품인 시크릿 에센스를 세대로 새롭게 리뉴얼해 출시했다.",
+  "key_fact_quote": "LG생활건강의 자연·발효 뷰티 브랜드 숨37°는 스테디셀러 ‘시크릿 에센스’를 5세대로 리뉴얼 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "CYTOSIS TM",
+    "quote": "‘비우는 단계’에서는 자연 발효 기반 숨37° 독자 성분 CYTOSIS TM 가 피부에 누적된 산화 스트레스와 노폐물을 덜어낸 뒤 깨끗한 피부 바탕을 완성한다."
+   },
+   {
+    "name": "멜팅 세라마이드",
+    "quote": "여기에 기존 시크릿 에센스 대비 14.4% 더 미세하고 2.12배 더 풍부한 독자 멜팅 세라마이드를 더해 견고한 피부 장벽을 구축한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:48+00:00",
+ "had_body": true
+}

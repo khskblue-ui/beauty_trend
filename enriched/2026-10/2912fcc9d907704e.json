@@ -25,14 +25,13 @@
    "센텔리안24"
   ],
   "companies": [
-   "동국제약",
-   "아마존"
+   "동국제약"
   ],
   "keywords": [
    "더마 코스메틱",
-   "이커머스",
-   "해외 진출",
-   "베스트셀러"
+   "파마시뷰티",
+   "아이크림",
+   "보습제"
   ],
   "is_press_release": true,
   "products": [
@@ -40,6 +39,7 @@
     "name": "360도 샷 PDRN 리프팅 아이크림",
     "brand": "센텔리안24",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -48,6 +48,7 @@
     "name": "마데카 크림 타임 리버스",
     "brand": "센텔리안24",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -56,6 +57,7 @@
     "name": "엑스퍼트 마데카 크림 액티브 리뉴 PDRN",
     "brand": "센텔리안24",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -63,10 +65,25 @@
   ],
   "key_fact": "동국제약 센텔리안이십사가 미국 아마존 프라임 빅 딜 데이 행사에서 역대 최대 성과를 거두었다.",
   "key_fact_quote": "동국제약 센텔리안24가 6일부터 7일까지 열린 미국 ‘아마존 프라임 빅 딜 데이’에서 역대 최대 성과를 달성했다.",
+  "events": [
+   {
+    "name": "아마존 프라임 빅 딜 데이",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-07",
+    "place": "미국",
+    "quote": "동국제약 센텔리안24가 6일부터 7일까지 열린 미국 ‘아마존 프라임 빅 딜 데이’에서 역대 최대 성과를 달성했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "‘360도 샷 PDRN 리프팅 아이크림’은 아이 트리트먼트 크림 부문 베스트셀러 1위에 올랐다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:57+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:09+00:00",
  "had_body": true
 }

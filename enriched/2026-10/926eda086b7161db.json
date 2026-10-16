@@ -1,0 +1,45 @@
+{
+ "doc_id": "926eda086b7161db",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/general-industry/6309092",
+ "title": "\"고장나거나 헌 뷰티 기기 반납하세요\"… 뷰티 디바이스도 '보상판매' 전...",
+ "summary": "에이피알 관계자는 \"기존 에이지알 제품이나 타사 뷰티 디바이스를 이용하는 고객 중 신제품 구매를 원하는 고객들을 위해 보상판매를 도입했다\"며 \"최근에는 기존 제품의 업그레이드 모델 출시 도 이어지고 있어 이전...",
+ "published_at": "2026-10-05T06:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이지알"
+  ],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "보상판매"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에이피알이 기존 뷰티 디바이스 이용 고객 중 신제품 구매를 원하는 고객을 위해 보상판매를 도입했다.",
+  "key_fact_quote": "에이피알 관계자는 \"기존 에이지알 제품이나 타사 뷰티 디바이스를 이용하는 고객 중 신제품 구매를 원하는 고객들을 위해 보상판매를 도입했다\"며 \"최근에는 기존 제품의 업그레이드 모델 출시 도 이어지고 있어 이전...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:01+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "ebfd310e5d7ffe96",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4085860",
+ "title": "대구한의대, '헬로메이커'서 뷰티·코스메틱 체험 선보여",
+ "summary": "각 향료 의 고유한 특성을 고려한 배합 방식까지 조향의 기초 원리를 익히며 본인만의 향기샤쉐를 직접 제작했다. 특히 이번 부스는 단편적인 만들기 체험에 그치지 않고, 참가자가 향료 의 특성과 배합 이론을 실제 과정에...",
+ "published_at": "2026-09-30T17:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대구한의대"
+  ],
+  "keywords": [
+   "조향 체험",
+   "향기샤쉐",
+   "향료 배합"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대구한의대가 행사에서 조향 기초 원리와 향료 배합 방식을 바탕으로 한 향기샤쉐 제작 뷰티 체험을 선보였다.",
+  "key_fact_quote": "대구한의대, '헬로메이커'서 뷰티·코스메틱 체험 선보여 각 향료 의 고유한 특성을 고려한 배합 방식까지 조향의 기초 원리를 익히며 본인만의 향기샤쉐를 직접 제작했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:15:46+00:00",
+ "had_body": false
+}

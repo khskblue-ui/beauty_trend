@@ -1,0 +1,41 @@
+{
+ "doc_id": "f821c0d28dbfee23",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sportschosun.com/entertainment/2026-10-07/202610070100048720003146",
+ "title": "김우빈, 팬 덕에 향수 모델 대박...사비 털어 통큰 선물 미담까지",
+ "summary": "이후 김우빈은 해당 향수 브랜드 의 모델로 발탁돼 광고 촬영까지 진행하게 됐다. 자신이 사용하던 향수를 팬에게 선물한 것을 계기로 브랜드 모델까지 맡게 된 가운데, 김우빈은 그 인연과 팬의 응원을 잊지 않았다....",
+ "published_at": "2026-10-07T15:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "향수 모델",
+   "향수 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배우 김우빈이 팬에게 자신이 쓰던 향수를 선물한 인연을 계기로 해당 향수 브랜드의 모델로 발탁되었다.",
+  "key_fact_quote": "이후 김우빈은 해당 향수 브랜드 의 모델로 발탁돼 광고 촬영까지 진행하게 됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:09+00:00",
+ "had_body": false
+}

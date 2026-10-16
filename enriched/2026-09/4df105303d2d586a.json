@@ -1,0 +1,48 @@
+{
+ "doc_id": "4df105303d2d586a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.investchosun.com/site/data/html_dir/2026/09/11/2026091180130.html",
+ "title": "[Invest]무신사, 뷰티로 IPO 판 키운다…올리브영 독주 속 실익은 '미지...",
+ "summary": "옷을 구매하던 고객이 화장품과 향수 까지 사도록 유도하면 별도 비용을 크게 늘리지 않고도 고객당... 2022년 11월 온라인 전문관 '뷰티컬리'를 출시 하면서 에스티로더와 랑콤, 라메르 등 고가 화장품 브랜드를...",
+ "published_at": "2026-09-14T07:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "뷰티컬리",
+   "에스티로더",
+   "랑콤",
+   "라메르"
+  ],
+  "companies": [
+   "무신사",
+   "올리브영"
+  ],
+  "keywords": [
+   "온라인 전문관",
+   "고가 화장품",
+   "뷰티 커머스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 기업공개를 앞두고 뷰티 영역으로 사업을 확장하고 있으나 올리브영 독주 체제 속에서 실익은 미지수라는 평가를 받고 있다.",
+  "key_fact_quote": "무신사, 뷰티로 IPO 판 키운다…올리브영 독주 속 실익은 '미지...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:28+00:00",
+ "had_body": false
+}

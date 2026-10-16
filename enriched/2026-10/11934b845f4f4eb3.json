@@ -1,0 +1,86 @@
+{
+ "doc_id": "11934b845f4f4eb3",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100014",
+ "title": "마녀공장, 10월 ‘올영픽’ 참여",
+ "summary": "글로벌 뷰티 브랜드 '마녀공장'이 10월 올영픽에 참여하며 10월 1일부터 5일까지 올리브영에서 대표 인기 클렌징 라인 ‘퓨어 소이빈’ 3종을 최대 36% 할인된 가격에 선보이는 ‘올영PICK 특가’ 프로모션을 진행한다.올영픽은 올리브영이 매월 이달의 브랜드와 제품을 선정해 다양한 혜택을 제공하는 프로모션이다. 이번 ‘올영PICK 특가’ 프로모션은 단 5일간 진행되는 기간 한정 행사로, 마녀공장을 대표하는 인기 클렌징 라인인 ‘퓨어 소이빈’ 클렌징 오일·폼·밀크 기획세트를 최대 36% 할인 혜택으로 만나볼 수 있다.이",
+ "published_at": "2026-10-01T09:54:07+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "마녀공장"
+  ],
+  "companies": [
+   "마녀공장",
+   "올리브영"
+  ],
+  "keywords": [
+   "클렌징 라인",
+   "클렌징 오일",
+   "클렌징 폼",
+   "클렌징 밀크",
+   "기획세트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퓨어 소이빈 클렌징 오일",
+    "brand": "마녀공장",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퓨어 소이빈 클렌징 폼",
+    "brand": "마녀공장",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퓨어 소이빈 클렌징 밀크",
+    "brand": "마녀공장",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "마녀공장이 올리브영의 올영픽에 참여해 대표 클렌징 라인 기획세트를 할인하는 프로모션을 진행한다.",
+  "key_fact_quote": "글로벌 뷰티 브랜드 '마녀공장'이 10월 올영픽에 참여하며 10월 1일부터 5일까지 올리브영에서 대표 인기 클렌징 라인 ‘퓨어 소이빈’ 3종을 최대 36% 할인된 가격에 선보이는 ‘올영PICK 특가’ 프로모션을 진행한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "소이빈",
+    "quote": "먼저 브랜드 대표 제품인 퓨어 소이빈 클렌징 오일은 출시 이후 누적 판매량 2,200만병 돌파했고, 소이빈 함유 87% 식물성 오일이 부드럽게 블랙헤드&피지를 비워주는 제품이다."
+   },
+   {
+    "name": "식물성 오일",
+    "quote": "먼저 브랜드 대표 제품인 퓨어 소이빈 클렌징 오일은 출시 이후 누적 판매량 2,200만병 돌파했고, 소이빈 함유 87% 식물성 오일이 부드럽게 블랙헤드&피지를 비워주는 제품이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:07+00:00",
+ "had_body": true
+}

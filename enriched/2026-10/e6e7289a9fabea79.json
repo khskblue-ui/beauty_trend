@@ -1,0 +1,51 @@
+{
+ "doc_id": "e6e7289a9fabea79",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312155",
+ "title": "인천공항 스카이 페스티벌 11월 7~8일 개최…K-컬처 한자리에 - 뷰티경제",
+ "summary": "인천국제공항공사는 오는 11월 7일부터 8일까지 이틀간 인천공항 인근 인스파이어 아레나에서 제21회 ‘2026 인천공항 스카이 페스티벌(SKY FESTIVAL)’",
+ "published_at": "2026-10-11T14:45:49+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "인천국제공항공사"
+  ],
+  "keywords": [
+   "문화 축제",
+   "페스티벌"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "인천국제공항공사가 인스파이어 아레나에서 인천공항 스카이 페스티벌을 개최한다.",
+  "key_fact_quote": "인천국제공항공사는 오는 11월 7일부터 8일까지 이틀간 인천공항 인근 인스파이어 아레나에서 제21회 ‘2026 인천공항 스카이 페스티벌(SKY FESTIVAL)’",
+  "events": [
+   {
+    "name": "2026 인천공항 스카이 페스티벌(SKY FESTIVAL)",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-08",
+    "place": "인스파이어 아레나",
+    "quote": "인천국제공항공사는 오는 11월 7일부터 8일까지 이틀간 인천공항 인근 인스파이어 아레나에서 제21회 ‘2026 인천공항 스카이 페스티벌(SKY FESTIVAL)’"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:06+00:00",
+ "had_body": false
+}

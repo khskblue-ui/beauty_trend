@@ -1,0 +1,64 @@
+{
+ "doc_id": "1ed8f3406c1baadc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://hbnpress.com/news/view/1065575648660894",
+ "title": "코웨이 화장품 브랜드 리엔케이, 미국 코스트코 매장 50곳 입점",
+ "summary": "코웨이 화장품 자회사 힐러비가 운영하는 뷰티 브랜드 리엔케이(re:nk)가 지난 7일 미국 전역 코스트코... 이번 입점과 함께 신제품 '셀레스티얼 콜라겐 크림'도 새롭게 선보였다. 아울러 리엔케이는 올해 더현대 서울 ‘더...",
+ "published_at": "2026-10-08T10:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "리엔케이",
+   "re:nk"
+  ],
+  "companies": [
+   "코웨이",
+   "힐러비",
+   "코스트코"
+  ],
+  "keywords": [
+   "콜라겐 크림",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "셀레스티얼 콜라겐 크림",
+    "brand": "리엔케이",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번 입점과 함께 신제품 '셀레스티얼 콜라겐 크림'도 새롭게 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코웨이의 화장품 브랜드 리엔케이가 미국 코스트코 매장에 입점하며 신제품을 선보였다.",
+  "key_fact_quote": "코웨이 화장품 브랜드 리엔케이, 미국 코스트코 매장 50곳 입점",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "콜라겐",
+    "quote": "이번 입점과 함께 신제품 '셀레스티얼 콜라겐 크림'도 새롭게 선보였다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:54+00:00",
+ "had_body": false
+}

@@ -6,11 +6,11 @@
  "lang": "ko",
  "url": "https://www.fashionbiz.co.kr/article/229970",
  "title": "프랑스 니치 퍼퓸 '오르메' 신규 엑스트레 컬렉션 출시",
- "summary": "자신에게 맞는 향을 탐색하려는 소비자는 물론 고가의 니치향수 를 부담없이 선물하려는 고객에게도 선택지를 넓힌다는 취지다. 오르메 관계자는 “레 파세트는 하나의 소재가 가진 여러 얼굴과 감정을 오르메만의...",
+ "summary": "레 파세트는 향수 연구소에서 향료 를 보관할 때 사용하는 병에서 영감을 얻은 캡을 적용했다. 특유의 그린 컬러와 한층 절제된 디자인은 오르메가 지닌 장인적 정체성을 유지하면서도 보다 현대적인 인상을 남긴다....",
  "published_at": "2026-10-01T17:22:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "니치 향수",
+ "query": "향료",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -26,34 +26,28 @@
   "companies": [],
   "keywords": [
    "니치 퍼퓸",
-   "엑스트레 컬렉션",
-   "니치향수"
+   "엑스트레 컬렉션"
   ],
   "is_press_release": true,
   "products": [
    {
-    "name": "신규 엑스트레 컬렉션",
-    "brand": "오르메",
-    "launch_date": null,
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
     "name": "레 파세트",
     "brand": "오르메",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "프랑스 니치 퍼퓸 '오르메' 신규 엑스트레 컬렉션 출시",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "프랑스 니치 퍼퓸 오르메가 신규 엑스트레 컬렉션을 출시했다.",
+  "key_fact": "프랑스 니치 향수 브랜드 오르메가 신규 엑스트레 컬렉션을 출시했다.",
   "key_fact_quote": "프랑스 니치 퍼퓸 '오르메' 신규 엑스트레 컬렉션 출시",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:11+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:12+00:00",
  "had_body": false
 }

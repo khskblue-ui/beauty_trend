@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "skincare",
-  "event_type": "event",
+  "event_type": "business",
   "countries": [
    "KR",
    "JP"
@@ -36,7 +36,8 @@
     "name": "프로폴리스 글라-톡 3종",
     "brand": "자민경",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "이와 함께 '프로폴리스 글라-톡 3종'과 '골드 스네일 저분자 콜라겐 리프팅 크림' 등 신제품 과 기존 제품군을 함께...",
     "notes": [],
     "notes_quote": null
    },
@@ -44,17 +45,29 @@
     "name": "골드 스네일 저분자 콜라겐 리프팅 크림",
     "brand": "자민경",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "이와 함께 '프로폴리스 글라-톡 3종'과 '골드 스네일 저분자 콜라겐 리프팅 크림' 등 신제품 과 기존 제품군을 함께...",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "화장품 브랜드 자민경이 일본 후쿠오카에서 열리는 케이뷰티 팝업에 참가하며 신제품 등을 선보인다.",
-  "key_fact_quote": "화장품 브랜드 자민경(JAMINKYUNG)이 일본 후쿠오카에서 열리는 K-뷰티 팝업에... 이와 함께 '프로폴리스 글라-톡 3종'과 '골드 스네일 저분자 콜라겐 리프팅 크림' 등 신제품 과 기존 제품군을 함께...",
+  "key_fact": "화장품 브랜드 자민경이 일본 후쿠오카에서 열리는 K-뷰티 팝업에 참가한다.",
+  "key_fact_quote": "화장품 브랜드 자민경(JAMINKYUNG)이 일본 후쿠오카에서 열리는 K-뷰티 팝업에...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "프로폴리스",
+    "quote": "이와 함께 '프로폴리스 글라-톡 3종'과 '골드 스네일 저분자 콜라겐 리프팅 크림' 등 신제품 과 기존 제품군을 함께..."
+   },
+   {
+    "name": "저분자 콜라겐",
+    "quote": "이와 함께 '프로폴리스 글라-톡 3종'과 '골드 스네일 저분자 콜라겐 리프팅 크림' 등 신제품 과 기존 제품군을 함께..."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:59+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:02+00:00",
  "had_body": false
 }

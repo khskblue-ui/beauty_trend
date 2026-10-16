@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "retail",
-  "event_type": "market_trend",
+  "event_type": "product_launch",
   "countries": [
    "KR"
   ],
@@ -29,14 +29,14 @@
    "아성다이소"
   ],
   "keywords": [
-   "더마 화장품",
-   "헤어케어 화장품",
+   "더마 코스메틱",
+   "헤어케어",
    "뷰티 신상"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "아성다이소가 더마 및 헤어케어 화장품을 포함한 상품군을 온라인에서 확대한다.",
-  "key_fact_quote": "아성다이소가 더마·헤어케어 화장품 부터 식재료 보관용 밀폐 용기까지 상품군을 넓히며 가을철 소비...",
+  "key_fact": "아성다이소가 더마 및 헤어케어 화장품 등의 상품군을 확대하며 신제품 라인업을 공개했다.",
+  "key_fact_quote": "아성다이소가 더마·헤어케어 화장품 부터 식재료 보관용 밀폐 용기까지 상품군을 넓히며 가을철 소비... 지난 12일부터 15일까지 매일 오전 9시 신제품 을 공개하는 '뷰티 신상 라인업'에서는 닥터CPU, 더마푸라민, 더마펌...",
   "events": [
    {
     "name": "뷰티 신상 라인업",
@@ -51,6 +51,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:50:59+00:00",
+ "enriched_at": "2026-10-15T15:23:57+00:00",
  "had_body": false
 }

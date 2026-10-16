@@ -1,0 +1,52 @@
+{
+ "doc_id": "d54823c44367cc10",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mhj21.com/news/articleView.html?idxno=254097",
+ "title": "소노시즌, 뷰티 ·퍼스널 케어로 확장…'피톤치드 리츄얼 페이셜 클렌저...",
+ "summary": "29일 소노시즌에 따르면, 리츄얼 라인 최초의 뷰티 ·퍼스널 케어 제품인 신제품 '피톤치드 리츄얼 페이셜 클렌저(클렌징 티슈)'를 출시 했다. 소노시즌은 100% 독일산 메모리폼 매트리스와 침구를 중심으로 편안한 수면...",
+ "published_at": "2026-09-29T10:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "소노시즌"
+  ],
+  "companies": [],
+  "keywords": [
+   "퍼스널 케어",
+   "페이셜 클렌저",
+   "클렌징 티슈",
+   "피톤치드"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "피톤치드 리츄얼 페이셜 클렌저(클렌징 티슈)",
+    "brand": "소노시즌",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "소노시즌이 뷰티 및 퍼스널 케어 분야로 영역을 넓히며 신제품 페이셜 클렌저를 출시했다.",
+  "key_fact_quote": "소노시즌에 따르면, 리츄얼 라인 최초의 뷰티 ·퍼스널 케어 제품인 신제품 '피톤치드 리츄얼 페이셜 클렌저(클렌징 티슈)'를 출시 했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:19+00:00",
+ "had_body": false
+}

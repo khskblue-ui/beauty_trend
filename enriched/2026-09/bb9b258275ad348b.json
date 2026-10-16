@@ -1,0 +1,56 @@
+{
+ "doc_id": "bb9b258275ad348b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gosiweek.com/article/1065573936547142",
+ "title": "밀턴로이드 런던, 남성 향수 신제품 ‘컬러미 앰버’ 9월 국내 출시",
+ "summary": "이번 신제품 은 국내에서 판매 중인 컬러미 남성 향수 6종에 새롭게 추가되는 제품으로, 컬러미 남성 라인업은 컬러미 앰버 출시를 통해 총 7종으로 확대된다. 컬러미 앰버는 이름 그대로 따뜻하고 깊이 있는 앰버 계열의...",
+ "published_at": "2026-09-09T09:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "밀턴로이드 런던",
+   "컬러미"
+  ],
+  "companies": [
+   "밀턴로이드"
+  ],
+  "keywords": [
+   "남성 향수",
+   "신제품 출시",
+   "앰버 계열"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "컬러미 앰버",
+    "brand": "밀턴로이드 런던",
+    "launch_date": "2026-09",
+    "launch_quote": "밀턴로이드 런던, 남성 향수 신제품 ‘컬러미 앰버’ 9월 국내 출시",
+    "notes": [
+     "앰버"
+    ],
+    "notes_quote": "컬러미 앰버는 이름 그대로 따뜻하고 깊이 있는 앰버 계열의..."
+   }
+  ],
+  "key_fact": "밀턴로이드 런던이 남성 향수 신제품 컬러미 앰버를 국내에 출시한다.",
+  "key_fact_quote": "밀턴로이드 런던, 남성 향수 신제품 ‘컬러미 앰버’ 9월 국내 출시",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:19:27+00:00",
+ "had_body": false
+}

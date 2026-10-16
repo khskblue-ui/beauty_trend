@@ -1,0 +1,52 @@
+{
+ "doc_id": "088bf0de165246cc",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100052",
+ "title": "CJ올리브영, 공식 뉴스룸 ‘editorial by OLIVE YOUNG’ 론칭",
+ "summary": "CJ올리브영(이하 올리브영)이 기업 홈페이지를 전면 개편하고 공식 뉴스룸 ‘editorial by OLIVE YOUNG(에디토리얼 바이 올리브영)’을 새롭게 선보인다고 2일 밝혔다. 글로벌 시장에서 K뷰티의 인기와 영향력이 확대됨에 따라, 올리브영이 자체 기획한 텍스트 중심 콘텐츠로 K뷰티 산업의 흐름부터 브랜드와 사람의 이야기까지 폭넓게 전하며 K뷰티 콘텐츠 플랫폼 역할을 강화하기 위해서다.실제 최근 전 세계로 고객층을 넓히고 있는 올리브영은 올해 1~9월 국내 매장 외국인 매출이 2019년 동기 대비 22배 이상 급증했다. 미국",
+ "published_at": "2026-10-02T09:42:48+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "올리브영",
+   "낫띵베럴",
+   "메디힐",
+   "셀퓨전씨",
+   "앳홈"
+  ],
+  "companies": [
+   "CJ올리브영",
+   "세포라"
+  ],
+  "keywords": [
+   "콘텐츠 플랫폼",
+   "글로벌 리테일",
+   "뷰티 트렌드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "CJ올리브영이 기업 홈페이지를 전면 개편하고 자체 기획 텍스트 중심 콘텐츠를 제공하는 공식 뉴스룸을 론칭했다.",
+  "key_fact_quote": "CJ올리브영(이하 올리브영)이 기업 홈페이지를 전면 개편하고 공식 뉴스룸 ‘editorial by OLIVE YOUNG(에디토리얼 바이 올리브영)’을 새롭게 선보인다고 2일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:13+00:00",
+ "had_body": true
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "e3585c1980a10865",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sentv.co.kr/article/view/sentv202610010171",
+ "title": "구다이글로벌, 이너뷰티 브랜드 ‘이세비’ 론칭…올리브영서 첫선",
+ "summary": "구다이글로벌은 이번 브랜드 출시 를 통해 기존 화장품 중심의 뷰티 사업 영역을 먹는 뷰티 시장으로 확대한다는 계획이다. 천주혁 구다이글로벌 대표는 “뷰티 루틴이 바르는 단계에서 먹고 관리하는 영역까지...",
+ "published_at": "2026-10-01T15:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이세비"
+  ],
+  "companies": [
+   "구다이글로벌",
+   "올리브영"
+  ],
+  "keywords": [
+   "이너뷰티",
+   "먹는 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "구다이글로벌이 신규 이너뷰티 브랜드를 론칭하며 사업 영역을 먹는 뷰티 시장으로 확대한다.",
+  "key_fact_quote": "구다이글로벌은 이번 브랜드 출시 를 통해 기존 화장품 중심의 뷰티 사업 영역을 먹는 뷰티 시장으로 확대한다는 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:45+00:00",
+ "had_body": false
+}

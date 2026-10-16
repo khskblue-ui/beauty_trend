@@ -1,0 +1,42 @@
+{
+ "doc_id": "270c6e5347ffc96c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=118307",
+ "title": "더마 코스메틱 '아데시', 케스타 팝업 참가…글로벌 시장 공략 시동",
+ "summary": "인공색소와 향료 를 배제하고 피부 본연의 건강에 집중한 제품군을 앞세워 유통 채널 확장에 속도를 내고 있다. 아데시 관계자는 \"이번 팝업스토어는 국내외 고객들에게 아데시만의 피부과학 기술력과 제품력을 직접...",
+ "published_at": "2026-09-16T13:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아데시"
+  ],
+  "companies": [],
+  "keywords": [
+   "더마 코스메틱",
+   "팝업스토어",
+   "무향료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "더마 코스메틱 브랜드 아데시가 케스타 팝업스토어에 참가해 글로벌 시장 공략에 시동을 걸었다.",
+  "key_fact_quote": "더마 코스메틱 '아데시', 케스타 팝업 참가…글로벌 시장 공략 시동",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:00+00:00",
+ "had_body": false
+}

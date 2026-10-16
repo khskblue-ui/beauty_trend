@@ -1,0 +1,75 @@
+{
+ "doc_id": "70ad67eac6112f60",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202609301515470927",
+ "title": "투에버, 에이지 케어 뷰티 브랜드 '에이제나' 론칭...\"5종 키트로 체험해...",
+ "summary": "유통·소비재 기업 투에버가 에이지 케어 화장품 브랜드 ‘에이제나(AGENA)’를 새롭게 선보이며 뷰티 사업... 이번 첫 출시 라인업은 총 5종으로 구성됐다. 세부 품목은 △부스팅 플루이드 △바이탈 앰플 △멜팅 크림...",
+ "published_at": "2026-10-01T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이제나",
+   "AGENA"
+  ],
+  "companies": [
+   "투에버"
+  ],
+  "keywords": [
+   "에이지 케어",
+   "뷰티 브랜드",
+   "스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "부스팅 플루이드",
+    "brand": "에이제나",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "유통·소비재 기업 투에버가 에이지 케어 화장품 브랜드 ‘에이제나(AGENA)’를 새롭게 선보이며 뷰티 사업... 이번 첫 출시 라인업은 총 5종으로 구성됐다. 세부 품목은 △부스팅 플루이드 △바이탈 앰플 △멜팅 크림...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "바이탈 앰플",
+    "brand": "에이제나",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "유통·소비재 기업 투에버가 에이지 케어 화장품 브랜드 ‘에이제나(AGENA)’를 새롭게 선보이며 뷰티 사업... 이번 첫 출시 라인업은 총 5종으로 구성됐다. 세부 품목은 △부스팅 플루이드 △바이탈 앰플 △멜팅 크림...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "멜팅 크림",
+    "brand": "에이제나",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "유통·소비재 기업 투에버가 에이지 케어 화장품 브랜드 ‘에이제나(AGENA)’를 새롭게 선보이며 뷰티 사업... 이번 첫 출시 라인업은 총 5종으로 구성됐다. 세부 품목은 △부스팅 플루이드 △바이탈 앰플 △멜팅 크림...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "투에버가 에이지 케어 화장품 브랜드 에이제나를 선보이며 기초 라인업을 출시했다.",
+  "key_fact_quote": "유통·소비재 기업 투에버가 에이지 케어 화장품 브랜드 ‘에이제나(AGENA)’를 새롭게 선보이며 뷰티 사업... 이번 첫 출시 라인업은 총 5종으로 구성됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:53+00:00",
+ "had_body": false
+}

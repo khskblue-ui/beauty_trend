@@ -1,0 +1,44 @@
+{
+ "doc_id": "20ade492ef299493",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037417",
+ "title": "킨텍스, 제18회 '2026 K - 뷰티 엑스포 코리아' 개최",
+ "summary": "'2026 K - 뷰티 엑스포 코리아'의 핵심 프로그램은 '해외 바이어 초청 1:1 수출 상담회'로 대한무역투자진흥공사(KOTRA)의 해외 무역관을 통해 선별한 60개국 220개사 바이어가 참가 등록을 마쳤다. 특히 현장에는 자율...",
+ "published_at": "2026-10-13T14:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "킨텍스",
+   "대한무역투자진흥공사"
+  ],
+  "keywords": [
+   "뷰티 엑스포",
+   "수출 상담회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "킨텍스에서 해외 바이어 초청 수출 상담회 등을 포함한 뷰티 엑스포 코리아가 개최된다.",
+  "key_fact_quote": "킨텍스, 제18회 '2026 K - 뷰티 엑스포 코리아' 개최",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:44+00:00",
+ "had_body": false
+}

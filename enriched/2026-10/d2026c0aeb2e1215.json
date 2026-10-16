@@ -6,11 +6,11 @@
  "lang": "ko",
  "url": "https://www.edaily.co.kr/News/Read?newsId=03384966645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
  "title": "아도르, 하이엔드 스펙 ‘헤어 퍼퓸’ 출시… 방탄 지민과 흥행 예고",
- "summary": "자사 헤어 미스트 제품 대비 오드 뚜왈렛(Eau de Toilette) 레벨로 향료 함유량을 2배 이상 올려 하이엔드 니치 향수 와 같은 풍성한 향조를 갖췄다. 촘촘한 안개분사 텍스처로 모발 한올마다 뭉침 없이 정교하게 스며들어 향...",
+ "summary": "자사 헤어 미스트 제품 대비 오드 뚜왈렛(Eau de Toilette) 레벨로 향료 함유량을 2배 이상 올려 하이엔드 니치 향수와 같은 풍성한 향조를 갖췄다. 촘촘한 안개분사 텍스처로 모발 한올마다 뭉침 없이 정교하게 스며들어 향...",
  "published_at": "2026-10-01T11:02:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "니치 향수",
+ "query": "향료",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -26,8 +26,8 @@
   "companies": [],
   "keywords": [
    "헤어 퍼퓸",
-   "니치 향수",
-   "헤어 미스트"
+   "오드 뚜왈렛",
+   "니치 향수"
   ],
   "is_press_release": true,
   "products": [
@@ -35,17 +35,20 @@
     "name": "헤어 퍼퓸",
     "brand": "아도르",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "아도르, 하이엔드 스펙 ‘헤어 퍼퓸’ 출시… 방탄 지민과 흥행 예고",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "아도르는 향료 함유량을 높여 하이엔드 니치 향수 수준의 향조를 갖춘 신제품 헤어 퍼퓸을 출시했다.",
-  "key_fact_quote": "자사 헤어 미스트 제품 대비 오드 뚜왈렛(Eau de Toilette) 레벨로 향료 함유량을 2배 이상 올려 하이엔드 니치 향수 와 같은 풍성한 향조를 갖췄다.",
+  "key_fact": "아도르가 향료 함유량을 높여 하이엔드 니치 향수 수준의 풍성한 향조를 갖춘 헤어 퍼퓸을 출시했다.",
+  "key_fact_quote": "자사 헤어 미스트 제품 대비 오드 뚜왈렛(Eau de Toilette) 레벨로 향료 함유량을 2배 이상 올려 하이엔드 니치 향수와 같은 풍성한 향조를 갖췄다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:13+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:12+00:00",
  "had_body": false
 }

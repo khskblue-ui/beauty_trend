@@ -1,0 +1,51 @@
+{
+ "doc_id": "10520f26ee5a872c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.the-stock.kr/news/articleView.html?idxno=33524",
+ "title": "제놀루션 자회사, 뷰티 브랜드 '구함' 롯데홈쇼핑 론칭 성공",
+ "summary": "그린바이오 전문기업 제놀루션은 지난 5일 롯데홈쇼핑을 통해 진행된 자회사 비앙블바이오텍의 프리미엄 스킨케어 브랜드 '구함(KU:HAM)' 신제품 론칭 방송을 성황리에 마쳤다고 밝혔다. 이번 방송에서 처음 공개된...",
+ "published_at": "2026-10-08T12:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "구함",
+   "KU:HAM"
+  ],
+  "companies": [
+   "제놀루션",
+   "비앙블바이오텍",
+   "롯데홈쇼핑"
+  ],
+  "keywords": [
+   "스킨케어",
+   "홈쇼핑 론칭",
+   "프리미엄 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "제놀루션의 자회사 비앙블바이오텍이 롯데홈쇼핑을 통해 프리미엄 스킨케어 브랜드 신제품 론칭 방송을 마쳤다.",
+  "key_fact_quote": "그린바이오 전문기업 제놀루션은 지난 5일 롯데홈쇼핑을 통해 진행된 자회사 비앙블바이오텍의 프리미엄 스킨케어 브랜드 '구함(KU:HAM)' 신제품 론칭 방송을 성황리에 마쳤다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "product:구함(KU:HAM) 신제품"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:41+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "b0cc6a92b831c4b1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202610020954316704",
+ "title": "1030 잡아라...무신사 뷰티 서 매달 100개 선공개",
+ "summary": "무신사 뷰티 전체 구매 고객 중 10~30대 비중은 약 80%다. 신제품 출시 초기부터 젊은 고객과 접점을 만들고 시장 반응을 확인할 수 있다는 설명이다. 선론칭을 진행한 브랜드의 거래액도 증가했다. 메이크업 브랜드...",
+ "published_at": "2026-10-02T11:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "선론칭",
+   "뷰티 플랫폼",
+   "신제품 출시"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "무신사 뷰티는 젊은 고객층을 겨냥해 매달 다수의 뷰티 신제품을 선공개하며 거래액 증가 효과를 얻고 있다.",
+  "key_fact_quote": "무신사 뷰티 전체 구매 고객 중 10~30대 비중은 약 80%다. 신제품 출시 초기부터 젊은 고객과 접점을 만들고 시장 반응을 확인할 수 있다는 설명이다. 선론칭을 진행한 브랜드의 거래액도 증가했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:05+00:00",
+ "had_body": false
+}

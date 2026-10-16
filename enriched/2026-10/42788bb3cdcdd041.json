@@ -15,15 +15,28 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "fragrance",
-  "event_type": "market_trend",
+  "category": "other",
+  "event_type": "event",
   "countries": [
-   "MC"
+   "MC",
+   "FR",
+   "KR"
   ],
   "brands": [
+   "Coverpla",
+   "Bormioli Luigi",
    "Guerlain",
+   "Axilone",
+   "Techniplast",
+   "Silgan Dispensing",
+   "Awantys",
    "Stendhal",
-   "Jean Paul Gaultier"
+   "Jean Paul Gaultier",
+   "Cosmogen",
+   "Albéa",
+   "Sulapac",
+   "Avantium",
+   "House of Taejin"
   ],
   "companies": [
    "Coverpla",
@@ -31,7 +44,8 @@
    "Aptar",
    "Bormioli Luigi",
    "Axilone",
-   "Groupe Pochet",
+   "Guerlain",
+   "Pochet",
    "Silgan Dispensing",
    "Awantys",
    "TNT Group",
@@ -44,10 +58,10 @@
    "House of Taejin"
   ],
   "keywords": [
-   "리필 가능 패키징",
-   "친환경 포장재",
-   "단일 소재 패키징",
-   "프리미엄 패키징"
+   "친환경 패키징",
+   "리필 패키징",
+   "화장품 패키징",
+   "바이오 소재"
   ],
   "is_press_release": false,
   "products": [
@@ -55,6 +69,7 @@
     "name": "KissKiss",
     "brand": "Guerlain",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -63,6 +78,7 @@
     "name": "Les Essences Précieuses",
     "brand": "Stendhal",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
@@ -71,17 +87,28 @@
     "name": "La Favorite",
     "brand": "Jean Paul Gaultier",
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "룩스 팩 모나코 전시회에서 리필 가능성과 친환경 소재 및 규제 대응을 결합한 럭셔리 뷰티 패키징 혁신 트렌드가 공개되었다.",
-  "key_fact_quote": "à Luxe Pack Monaco 2026, les acteurs du packaging haut de gamme ont présenté des innovations qui conjuguent montée en gamme, évolution des usages et adaptation aux nouvelles exigences réglementaires.",
+  "key_fact": "럭스 팩 모나코 전시회에서는 향수와 화장품 패키징 분야의 리필 가능성 및 대체 친환경 소재 혁신 트렌드가 소개되었다.",
+  "key_fact_quote": "Solutions rechargeables, capots full aluminium ou 100% zamak recyclé, polymères biosourcés et relocalisation des productions, du 28 au 30 septembre 2026, le salon monégasque a illustré les transformations à l’œuvre dans le packaging des parfums et des cosmétiques.",
+  "events": [
+   {
+    "name": "Luxe Pack Monaco 2026",
+    "start_date": "2026-09-28",
+    "end_date": "2026-09-30",
+    "place": "Monaco",
+    "quote": "Solutions rechargeables, capots full aluminium ou 100% zamak recyclé, polymères biosourcés et relocalisation des productions, du 28 au 30 septembre 2026, le salon monégasque a illustré les transformations à l’œuvre dans le packaging des parfums et des cosmétiques."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:12+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:12+00:00",
  "had_body": true
 }

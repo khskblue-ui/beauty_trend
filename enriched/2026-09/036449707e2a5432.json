@@ -1,0 +1,42 @@
+{
+ "doc_id": "036449707e2a5432",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.srtimes.kr/news/articleView.html?idxno=213156",
+ "title": "[추석기획] \"피부 진단부터 맞춤 제작까지\"…K-뷰티 '개인화'로 진화",
+ "summary": "아모레퍼시픽 관계자는 \"맞춤 화장품 제작부터 피부 진단, 신제품 개발 참여에 이르기까지 새로운 형태의 뷰티 경험을 제공하고 있다\"며 \"앞으로도 고객과의 접점을 확대하며 피부를 넘어 생활 전반의 건강한 아름다움을...",
+ "published_at": "2026-09-23T10:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "맞춤 화장품",
+   "개인화",
+   "피부 진단"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 업계가 피부 진단 및 맞춤 화장품 제작을 통한 개인화 서비스로 영역을 확장하고 있다.",
+  "key_fact_quote": "아모레퍼시픽 관계자는 \"맞춤 화장품 제작부터 피부 진단, 신제품 개발 참여에 이르기까지 새로운 형태의 뷰티 경험을 제공하고 있다\"며 \"앞으로도 고객과의 접점을 확대하며 피부를 넘어 생활 전반의 건강한 아름다움을...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:52+00:00",
+ "had_body": false
+}

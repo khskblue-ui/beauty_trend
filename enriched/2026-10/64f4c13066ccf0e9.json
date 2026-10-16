@@ -1,0 +1,86 @@
+{
+ "doc_id": "64f4c13066ccf0e9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.insight.co.kr/news/577314",
+ "title": "다이소몰, 뷰티 신상품 330여 종 대거 출시 ... 리뷰 이벤트도 풍성",
+ "summary": "일반 화장품 보다 기능성과 전문성을 높인 제품을 의미한다.행사 첫날인 12일에는 '더마 케어 라인업'으로 '닥터CPU' 6종, '더마푸라민' 8종, '더마펌' 3종이 출시 된다. 13일에는 '헤어 케어 라인업'인 '정직한실험실' 2종이...",
+ "published_at": "2026-10-12T10:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "닥터CPU",
+   "더마푸라민",
+   "더마펌",
+   "정직한실험실"
+  ],
+  "companies": [
+   "다이소몰"
+  ],
+  "keywords": [
+   "뷰티 신상품",
+   "더마 케어",
+   "헤어 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "닥터CPU",
+    "brand": "닥터CPU",
+    "launch_date": "2026-10-12",
+    "launch_status": "launched",
+    "launch_quote": "행사 첫날인 12일에는 '더마 케어 라인업'으로 '닥터CPU' 6종, '더마푸라민' 8종, '더마펌' 3종이 출시 된다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "더마푸라민",
+    "brand": "더마푸라민",
+    "launch_date": "2026-10-12",
+    "launch_status": "launched",
+    "launch_quote": "행사 첫날인 12일에는 '더마 케어 라인업'으로 '닥터CPU' 6종, '더마푸라민' 8종, '더마펌' 3종이 출시 된다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "더마펌",
+    "brand": "더마펌",
+    "launch_date": "2026-10-12",
+    "launch_status": "launched",
+    "launch_quote": "행사 첫날인 12일에는 '더마 케어 라인업'으로 '닥터CPU' 6종, '더마푸라민' 8종, '더마펌' 3종이 출시 된다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "정직한실험실",
+    "brand": "정직한실험실",
+    "launch_date": "2026-10-13",
+    "launch_status": "upcoming",
+    "launch_quote": "13일에는 '헤어 케어 라인업'인 '정직한실험실' 2종이...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "다이소몰이 다양한 뷰티 신상품을 대거 출시하며 리뷰 행사를 진행한다.",
+  "key_fact_quote": "다이소몰, 뷰티 신상품 330여 종 대거 출시 ... 리뷰 이벤트도 풍성",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:11+00:00",
+ "had_body": false
+}

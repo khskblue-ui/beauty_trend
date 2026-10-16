@@ -1,0 +1,43 @@
+{
+ "doc_id": "3c2748201d38a86c",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312027",
+ "title": "9월 티몰 뷰티시장 판매 둔화…광군절 앞두고 숨 고르기 - 뷰티경제",
+ "summary": "중국 티몰(Tmall) 뷰티시장이 8월에 이어 9월에도 전반적인 판매 둔화세를 보였다.중추절과 국경절 연휴를 앞두고 여행과 외식 등 체험형 소비가 증가하면서 화장",
+ "published_at": "2026-10-04T18:20:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "티몰"
+  ],
+  "keywords": [
+   "뷰티 시장",
+   "체험형 소비"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 티몰 뷰티시장이 연휴 기간 체험형 소비 증가 등의 영향으로 전반적인 판매 둔화세를 보였다.",
+  "key_fact_quote": "중국 티몰(Tmall) 뷰티시장이 8월에 이어 9월에도 전반적인 판매 둔화세를 보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:40+00:00",
+ "had_body": false
+}

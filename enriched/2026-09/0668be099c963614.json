@@ -1,0 +1,52 @@
+{
+ "doc_id": "0668be099c963614",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.joongangenews.com/news/articleView.html?idxno=548406",
+ "title": "에이블리, 1020 '추구미' 데이터로 화장품 만든다…바이블리 첫 색조 출...",
+ "summary": "에이블리는 이번 신제품 을 단순한 색조 화장품 판매에 그치지 않고 패션과 뷰티를 연결하는 방식으로 차별화한다. Be 컬렉션의 5가지 콘셉트별로 어울리는 패션 스타일과 상품을 함께 제안해 메이크업부터 의류까지...",
+ "published_at": "2026-09-16T11:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "바이블리"
+  ],
+  "companies": [
+   "에이블리"
+  ],
+  "keywords": [
+   "색조 화장품",
+   "뷰티 데이터"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Be 컬렉션",
+    "brand": "바이블리",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이블리가 세대 데이터를 바탕으로 자체 브랜드의 첫 색조 화장품 신제품을 선보이며 패션과 연계한다.",
+  "key_fact_quote": "에이블리는 이번 신제품 을 단순한 색조 화장품 판매에 그치지 않고 패션과 뷰티를 연결하는 방식으로 차별화한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:43+00:00",
+ "had_body": false
+}

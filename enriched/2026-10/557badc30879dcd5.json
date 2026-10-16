@@ -1,0 +1,42 @@
+{
+ "doc_id": "557badc30879dcd5",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/selena-gomez-rare-beauty-beis-collaboration-2026-1239319418/",
+ "title": "Rare Beauty and Béis Reunite for an Expanded Second Collaboration",
+ "summary": "Selena Gomez and Shay Mitchell return with an eight-piece travel and beauty collection.",
+ "published_at": "2026-10-08T22:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Rare Beauty",
+   "Béis"
+  ],
+  "companies": [],
+  "keywords": [
+   "뷰티 컬렉션",
+   "브랜드 협업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "레어 뷰티와 베이스가 협업하여 여행 및 뷰티 컬렉션을 선보인다.",
+  "key_fact_quote": "Rare Beauty and Béis Reunite for an Expanded Second Collaboration Selena Gomez and Shay Mitchell return with an eight-piece travel and beauty collection.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:23+00:00",
+ "had_body": false
+}

@@ -16,12 +16,11 @@
  "extraction": {
   "relevant": true,
   "category": "regulation",
-  "event_type": "regulation",
+  "event_type": "event",
   "countries": [
    "KR",
    "JP",
    "GB",
-   "FR",
    "AU",
    "NZ"
   ],
@@ -29,27 +28,31 @@
   "companies": [
    "대한화장품산업연구원",
    "가오",
-   "영국 화장품·향수·생활용품협회",
    "코스메드",
-   "퍼스트 리서치",
-   "한양대학교",
-   "Essity",
-   "윈게이트코리아"
+   "윈게이트코리아",
+   "Essity"
   ],
   "keywords": [
    "화장품 규제",
-   "안전성 평가",
-   "수출 규제",
+   "수출 규제 대응",
+   "화장품 안전성 평가",
    "비관세장벽"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "대한화장품산업연구원은 글로벌 시장 규제 강화에 대응해 국내 화장품 기업의 수출 역량을 지원하는 규제 대응 컨퍼런스를 개최했다.",
+  "key_fact": "대한화장품산업연구원이 글로벌 화장품 규제 동향과 대응 전략을 공유하는 수출 규제 대응 컨퍼런스를 개최했다.",
   "key_fact_quote": "(재)대한화장품산업연구원 (원장 조신행· www.kcii.re.kr ·이하 화산연)이 주최하고 보건복지부가 후원하는 ‘2026년 제 5회 K-Beauty 수출 규제 대응 컨퍼런스’ 가 오늘(14일) 로얄호텔서울 그랜드볼룸(3층)에서 전 세계 화장품 규제·안전성 분야 전문가 13명(국내 4명·해외 9명)과 화장품 업계 관계자 150여 명이 참석한 가운데 오늘 첫날 발표를 진행했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PFAS",
+    "quote": "셋째, PFAS 규제가 화장품 원료와 공급망 관리의 새로운 과제로 부상하고 있다는 점이다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:58+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:12:08+00:00",
  "had_body": true
 }

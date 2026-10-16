@@ -1,0 +1,60 @@
+{
+ "doc_id": "0d50ee8fbd0d1246",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=856347",
+ "title": "동국제약, 마데카솔·인사돌 넘어 'K-뷰티'… 화장품 3할 '간판갈이'의 이...",
+ "summary": "동국제약은 2023년 자체 뷰티 디바이스 '마데카 프라임'을 출시 했고, 2024년에는 미용기기 제조사 위드닉스를 인수했다. 마데카 프라임은 성장세가 주춤하고, 위드닉스는 인수 이후 지난해까지 2년 연속 영업적자를 내...",
+ "published_at": "2026-10-13T17:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "마데카 프라임",
+   "마데카솔",
+   "인사돌"
+  ],
+  "companies": [
+   "동국제약",
+   "위드닉스"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "미용기기"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "마데카 프라임",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동국제약이 뷰티 디바이스 출시와 미용기기 제조사 인수 등을 통해 화장품 사업 확장을 추진하고 있다.",
+  "key_fact_quote": "동국제약은 2023년 자체 뷰티 디바이스 '마데카 프라임'을 출시 했고, 2024년에는 미용기기 제조사 위드닉스를 인수했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "launch:마데카 프라임"
+  ]
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:58+00:00",
+ "had_body": false
+}

@@ -1,0 +1,50 @@
+{
+ "doc_id": "22d3a7cac727132b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12169873",
+ "title": "“딸이 한국서 사다준 K화장품, 좀 이상해요”…잘나갈수록 판치는 짝퉁",
+ "summary": "K뷰티 인기가 높아지면서 해외에서 한국 화장품 브랜드를 베낀 모조품도 기승을 부리고 있다. 정품... 최근 싱가포르에서 유해 성분인 수단4호가 검출돼 회수된 메디큐브 제품이 공식 수출 기록에 없는 것으로...",
+ "published_at": "2026-10-07T05:59:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "SG"
+  ],
+  "brands": [
+   "메디큐브"
+  ],
+  "companies": [],
+  "keywords": [
+   "모조품",
+   "가품",
+   "해외 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인기가 높아진 한국 화장품 브랜드를 베낀 모조품이 해외에서 기승을 부리고 있다.",
+  "key_fact_quote": "K뷰티 인기가 높아지면서 해외에서 한국 화장품 브랜드를 베낀 모조품도 기승을 부리고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "수단4호",
+    "quote": "최근 싱가포르에서 유해 성분인 수단4호가 검출돼 회수된 메디큐브 제품이 공식 수출 기록에 없는 것으로..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:03+00:00",
+ "had_body": false
+}

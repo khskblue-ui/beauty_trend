@@ -1,0 +1,44 @@
+{
+ "doc_id": "12a8e42700d5b093",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=773521",
+ "title": "이마트24, 헬스·뷰티·패션 특화점포 '올데이케어랩점' 오픈",
+ "summary": "기초 화장품 역시 뷰티 전문 매장에서 인기가 입증된 브랜드 상품을 편의점 채널에 맞게 선보인다.... 이 밖에도 브라탑과 우양산, 메쉬망 파우치 등 활용도가 높은 상품을 함께 출시 해 운동부터 일상까지 다양한 상황에...",
+ "published_at": "2026-10-15T07:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "이마트24"
+  ],
+  "keywords": [
+   "기초 화장품",
+   "헬스 앤 뷰티",
+   "특화점포"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "이마트이십사는 헬스와 뷰티 및 패션에 특화된 점포인 올데이케어랩점을 개장했다.",
+  "key_fact_quote": "이마트24, 헬스·뷰티·패션 특화점포 '올데이케어랩점' 오픈",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:50+00:00",
+ "had_body": false
+}

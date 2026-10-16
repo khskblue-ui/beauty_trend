@@ -18,27 +18,30 @@
   "category": "business",
   "event_type": "market_trend",
   "countries": [
-   "KR",
    "US"
   ],
   "brands": [],
   "companies": [
+   "에이피알",
    "동국제약",
-   "에이피알"
+   "아마존"
   ],
   "keywords": [
-   "글로벌 유통망",
+   "K뷰티",
+   "오프라인 유통망",
    "팝업스토어",
-   "해외 진출"
+   "프로모션"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "국내 뷰티 기업들이 해외 오프라인 유통망 확대와 현지 전용 제품 출시를 통해 글로벌 시장 공략을 이어가고 있다.",
+  "key_fact": "에이피알은 미국과 유럽 오프라인 유통망 확대 및 현지 전용 제품 출시 등을 통해 소비자 접점을 넓히며 현지 수요 공략을 이어갈 방침이다.",
   "key_fact_quote": "에이피알은 미국과 유럽의 오프라인 유통망 확대, 현지 전용 제품 출시 , 팝업스토어 운영 등을 통해 소비자 접점을 넓혀왔다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:22+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:36+00:00",
  "had_body": false
 }

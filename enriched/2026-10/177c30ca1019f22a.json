@@ -18,7 +18,8 @@
   "category": "skincare",
   "event_type": "market_trend",
   "countries": [
-   "MA"
+   "MA",
+   "KR"
   ],
   "brands": [],
   "companies": [],
@@ -29,12 +30,14 @@
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "모로코 스킨케어 시장이 기능성과 맞춤형을 중심으로 발전하며 국내 뷰티 분야의 진출 기회가 커지고 있다.",
-  "key_fact_quote": "기능성·맞춤형으로 진화하는 모로코 스킨케어 시장, K-Beauty 기회 확대",
+  "key_fact": "모로코 스킨케어 시장이 기능성과 맞춤형을 중심으로 발전하며 관련 뷰티 분야가 성장하고 있다.",
+  "key_fact_quote": "이에 따라 더모코스메틱, 기능성 스킨케어, K-Beauty, 니치 화장품 등 다양한 분야가 성장하고 있으며...",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:03+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:25+00:00",
  "had_body": false
 }

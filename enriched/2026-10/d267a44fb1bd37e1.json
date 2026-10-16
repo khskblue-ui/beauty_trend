@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "makeup",
+  "category": "skincare",
   "event_type": "product_launch",
   "countries": [
    "KR"
@@ -28,7 +28,8 @@
   "keywords": [
    "립밤",
    "콜라보레이션",
-   "한정판 뷰티"
+   "스킨케어",
+   "한정판"
   ],
   "is_press_release": false,
   "products": [
@@ -42,7 +43,7 @@
     "notes_quote": null
    }
   ],
-  "key_fact": "글로우 레시피가 한국의 매운 볶음면 브랜드 불닭과 협업하여 한정판 립밤을 선보였다.",
+  "key_fact": "글로우 레시피가 한국의 매운 라면 브랜드 불닭과 협업하여 한정판 립밤을 선보였다.",
   "key_fact_quote": "The skin care brand has imagined two limited-edition iterations of its Glass Balms in partnership with the viral Korean spicy noodle brand.",
   "events": [],
   "ingredients": [],
@@ -50,6 +51,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:39+00:00",
+ "enriched_at": "2026-10-15T15:28:13+00:00",
  "had_body": false
 }

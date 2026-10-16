@@ -15,8 +15,8 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "ingredient",
-  "event_type": "market_trend",
+  "category": "skincare",
+  "event_type": "other",
   "countries": [
    "KR"
   ],
@@ -24,18 +24,28 @@
   "companies": [],
   "keywords": [
    "립밤",
-   "향료 알레르기",
    "구순염",
-   "화장품 성분"
+   "알레르기 반응"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "화장품이나 립밤 등에 포함된 향료나 보존제 등으로 인한 알레르기 반응이 입술 질환을 유발할 수 있다.",
+  "key_fact": "화장품이나 치약, 립스틱과 립밤 등에 포함된 향료나 염료, 보존제 등으로 인해 알레르기 반응이 나타나 구순염이 발생할 수 있다.",
   "key_fact_quote": "화장품이나 치약, 립스틱·립밤 등에 들어 있는 향료 ·염료·보존제에 알레르기 반응이 생기면 입술이 붓거나 가렵고 갈라질 수 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "염료",
+    "quote": "화장품이나 치약, 립스틱·립밤 등에 들어 있는 향료 ·염료·보존제에 알레르기 반응이 생기면 입술이 붓거나 가렵고 갈라질 수 있다."
+   },
+   {
+    "name": "보존제",
+    "quote": "화장품이나 치약, 립스틱·립밤 등에 들어 있는 향료 ·염료·보존제에 알레르기 반응이 생기면 입술이 붓거나 가렵고 갈라질 수 있다."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:26+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:52+00:00",
  "had_body": false
 }

@@ -19,7 +19,8 @@
   "event_type": "business",
   "countries": [
    "CH",
-   "ES"
+   "ES",
+   "FR"
   ],
   "brands": [],
   "companies": [
@@ -28,19 +29,28 @@
    "dsm-firmenich"
   ],
   "keywords": [
-   "파인 프래그런스",
-   "기능성 향료",
    "향료 산업",
-   "실적 발표"
+   "파인 프래그런스",
+   "니치 향수"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "스위스 향료 제조사 지보단이 파인 프래그런스 부문의 견인에 힘입어 시장 예상치를 웃도는 분기 실적 성장을 기록했다.",
+  "key_fact": "지보단은 파인 프래그런스 부문의 견인에 힘입어 분기 매출 성장을 가속화하며 예상치를 웃도는 실적을 거두었다.",
   "key_fact_quote": "Swiss fragrance, flavor and ingredient manufacturer Givaudan reported better-than-expected sales for the first nine months of 2026, with growth accelerating in the third quarter, driven primarily by fine fragrance.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:56+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:59+00:00",
  "had_body": true
 }

@@ -1,0 +1,45 @@
+{
+ "doc_id": "9df84622485af5fb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.joongang.co.kr/article/25466306",
+ "title": "대구한의대, 국립부산과학관서 ‘향기샤쉐 만들기’ 행사",
+ "summary": "참가자들은 저울을 이용한 정량 계량부터 향료 특성을 고려한 배합까지 조향의 기초 원리를 익힌 뒤 자신만의 향기샤쉐를 제작했다. 단순 제작 체험에 그치지 않고 향료 의 특성과 배합 원리를 직접 적용할 수 있도록...",
+ "published_at": "2026-10-01T11:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대구한의대",
+   "국립부산과학관"
+  ],
+  "keywords": [
+   "향기샤쉐",
+   "조향 체험",
+   "향료 배합"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대구한의대가 국립부산과학관에서 참가자들이 조향의 기초 원리를 익히고 향기샤쉐를 제작하는 행사를 진행했다.",
+  "key_fact_quote": "참가자들은 저울을 이용한 정량 계량부터 향료 특성을 고려한 배합까지 조향의 기초 원리를 익힌 뒤 자신만의 향기샤쉐를 제작했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:12+00:00",
+ "had_body": false
+}

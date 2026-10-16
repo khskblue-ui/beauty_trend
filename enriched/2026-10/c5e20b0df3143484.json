@@ -1,0 +1,63 @@
+{
+ "doc_id": "c5e20b0df3143484",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727021",
+ "title": "HLB펩, 프리미엄 스킨케어 '랩센' 루마니아 수출…유럽 첫 진출",
+ "summary": "앞세워 화장품 해외 사업 확대에 나선다고 7일 밝혔다. 프리미엄 더마 스킨케어 브랜드 '랩센(LABSENN)'의 루마니아 수출을 성사시키며 유럽 시장에 처음 진출했다. HLB펩은 올해 초 출시 한 '펩타이드 카밍 세럼'을 비롯해...",
+ "published_at": "2026-10-07T15:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "RO"
+  ],
+  "brands": [
+   "랩센",
+   "LABSENN"
+  ],
+  "companies": [
+   "HLB펩"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "해외 수출",
+   "펩타이드 세럼"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "펩타이드 카밍 세럼",
+    "brand": "랩센",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "HLB펩이 프리미엄 더마 스킨케어 브랜드를 루마니아에 수출하며 유럽 시장에 처음 진출했다.",
+  "key_fact_quote": "프리미엄 더마 스킨케어 브랜드 '랩센(LABSENN)'의 루마니아 수출을 성사시키며 유럽 시장에 처음 진출했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "펩타이드",
+    "quote": "HLB펩은 올해 초 출시 한 '펩타이드 카밍 세럼'을 비롯해..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:34+00:00",
+ "had_body": false
+}

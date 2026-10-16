@@ -1,0 +1,52 @@
+{
+ "doc_id": "3117ffb306d9d4b8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gosiweek.com/article/1065598486553462",
+ "title": "에이피알, 메디큐브 ‘에이지알’ 뷰티 디바이스 누적 판매 800만 대 돌...",
+ "summary": "이번 누적 판매 성과는 화장품 유효 성분의 피부 흡수를 돕는 부스터(흡수 촉진) 라인업의 판매 호조가... 더불어 자체 연구·기술력을 기반으로 글로벌 고객 맞춤형 신제품 출시를 이어가며 시장 지배력을 강화할...",
+ "published_at": "2026-09-17T16:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메디큐브"
+  ],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "피부 흡수 촉진"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "에이지알",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피알의 메디큐브 뷰티 디바이스 누적 판매량이 부스터 라인업의 호조에 힘입어 성과를 거두었다.",
+  "key_fact_quote": "이번 누적 판매 성과는 화장품 유효 성분의 피부 흡수를 돕는 부스터(흡수 촉진) 라인업의 판매 호조가...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:24+00:00",
+ "had_body": false
+}

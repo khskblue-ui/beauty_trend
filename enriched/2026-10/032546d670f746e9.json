@@ -1,0 +1,44 @@
+{
+ "doc_id": "032546d670f746e9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=577104&class=17&grp=",
+ "title": "K-뷰티, 수출 호황에 3분기 기대감…공장증설·재고유통 확대 [뷰티풀위...",
+ "summary": "신제품 출시 주기가 짧고 유행 변화가 빠른 화장품 업계의 특성상 발생하는 재고를 할인 판매해 브랜드사의 부담을 줄이는 방식이다. 이달 1일 정식 서비스를 시작한 뷰티 플랫폼 '뷰리티(Vurity)'는 사용기한이...",
+ "published_at": "2026-10-09T08:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "뷰리티"
+  ],
+  "companies": [],
+  "keywords": [
+   "재고 할인 판매",
+   "뷰티 플랫폼",
+   "화장품 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 업계의 빠른 유행 변화와 짧은 출시 주기로 발생하는 재고 부담을 줄이기 위한 유통 서비스가 등장하고 있다.",
+  "key_fact_quote": "신제품 출시 주기가 짧고 유행 변화가 빠른 화장품 업계의 특성상 발생하는 재고를 할인 판매해 브랜드사의 부담을 줄이는 방식이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:44+00:00",
+ "had_body": false
+}

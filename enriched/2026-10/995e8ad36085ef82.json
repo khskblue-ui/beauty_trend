@@ -1,0 +1,65 @@
+{
+ "doc_id": "995e8ad36085ef82",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=149033",
+ "title": "에쿠와, 글로우픽 9월 '진정 세럼' 월간 랭킹 1위 기록",
+ "summary": "에탄올과 인공 향료 , 인공색소, 오일 성분을 제외한 처방을 적용했다는 설명이다. 에쿠와 측은 네이버 쇼핑에서도 '아줄렌', '아줄렌 앰플', '아줄렌 세럼' 등 검색어에서 1위를 기록했다고 밝혔다. 최근 일본 Qoo10에 공식...",
+ "published_at": "2026-10-02T10:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "에쿠와"
+  ],
+  "companies": [],
+  "keywords": [
+   "진정 세럼",
+   "아줄렌"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에쿠와가 글로우픽 월간 랭킹 진정 세럼 부문에서 정상을 차지했다.",
+  "key_fact_quote": "에쿠와, 글로우픽 9월 '진정 세럼' 월간 랭킹 1위 기록",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "에탄올",
+    "quote": "에탄올과 인공 향료 , 인공색소, 오일 성분을 제외한 처방을 적용했다는 설명이다."
+   },
+   {
+    "name": "인공 향료",
+    "quote": "에탄올과 인공 향료 , 인공색소, 오일 성분을 제외한 처방을 적용했다는 설명이다."
+   },
+   {
+    "name": "인공색소",
+    "quote": "에탄올과 인공 향료 , 인공색소, 오일 성분을 제외한 처방을 적용했다는 설명이다."
+   },
+   {
+    "name": "오일",
+    "quote": "에탄올과 인공 향료 , 인공색소, 오일 성분을 제외한 처방을 적용했다는 설명이다."
+   },
+   {
+    "name": "아줄렌",
+    "quote": "에쿠와 측은 네이버 쇼핑에서도 '아줄렌', '아줄렌 앰플', '아줄렌 세럼' 등 검색어에서 1위를 기록했다고 밝혔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:09+00:00",
+ "had_body": false
+}

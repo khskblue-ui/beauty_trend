@@ -1,0 +1,45 @@
+{
+ "doc_id": "b83f0bbfd646ad47",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312092",
+ "title": "K-Beauty Sun Care Sales Stabilize in China, but the Market Has Changed - 뷰티경제",
+ "summary": "K-beauty sun care products in China's Tmall marketplace posted a modest rebound in 2026 af",
+ "published_at": "2026-10-07T10:32:44+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Tmall"
+  ],
+  "keywords": [
+   "선케어",
+   "자외선 차단제",
+   "이커머스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 티몰 시장에서 한국 뷰티 선케어 제품의 매출이 완만한 반등세를 보였다.",
+  "key_fact_quote": "K-beauty sun care products in China's Tmall marketplace posted a modest rebound in 2026 af",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:55+00:00",
+ "had_body": false
+}

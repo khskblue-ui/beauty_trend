@@ -1,0 +1,54 @@
+{
+ "doc_id": "278569826fb63be9",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100045",
+ "title": "아이레시피, NMIXX(엔믹스) 지우와 신규 광고 캠페인 공개",
+ "summary": "성분부터 직접 만드는 더마 뷰티 브랜드 아이레시피가 최근 소비자들 사이에서 폭발적인 반응을 얻고 있는 대표 제품 ‘3초 크림 미스트’를 필두로 신규 광고 캠페인을 전격 공개한다고 10월 밝혔다.최근 뷰티 시장에서 뛰어난 수분감과 밀착력으로 ‘대세 미스트’ 자리를 굳힌 아이레시피 미스트는 건조한 계절을 맞아 촉촉하고 건강한 피부 바탕을 완성해주는 필수 보습 아이템으로 빠르게 입소문을 타고 있다.‘3초 크림 미스트’는 초미세 입자가 피부에 3초 만에 빠르게 흡수되도록 설계해 단 한 번의 분사만으로도 피부 깊숙이 보습감을 전달하는 것이",
+ "published_at": "2026-10-02T09:19:55+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이레시피"
+  ],
+  "companies": [],
+  "keywords": [
+   "더마 뷰티",
+   "크림 미스트",
+   "보습"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "3초 크림 미스트",
+    "brand": "아이레시피",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더마 뷰티 브랜드 아이레시피가 대표 제품 미스트를 필두로 엔믹스 지우와 함께한 신규 광고 캠페인을 공개했다.",
+  "key_fact_quote": "성분부터 직접 만드는 더마 뷰티 브랜드 아이레시피가 최근 소비자들 사이에서 폭발적인 반응을 얻고 있는 대표 제품 ‘3초 크림 미스트’를 필두로 신규 광고 캠페인을 전격 공개한다고 10월 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:19+00:00",
+ "had_body": true
+}

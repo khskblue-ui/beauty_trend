@@ -1,0 +1,40 @@
+{
+ "doc_id": "c9b546e7ab72bc0c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.inews24.com/view/2008939",
+ "title": "\"연휴 선물로 딱이네\"⋯더마 화장품 에 푹 빠진 제약사",
+ "summary": "고물가로 합리적인 가격대의 추석 선물이 인기를 끄는 가운데 제약 기술이 집약된 더마 화장품 이 연휴 선물로 주목받고 있다. 제약·바이오 기업들은 스테디셀러 제품을 앞세우는 한편 신제품 라인업을 강화하며...",
+ "published_at": "2026-09-24T06:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "더마 화장품",
+   "연휴 선물",
+   "추석 선물"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제약 기술이 적용된 더마 화장품이 합리적인 가격대의 연휴 선물로 주목받고 있다.",
+  "key_fact_quote": "고물가로 합리적인 가격대의 추석 선물이 인기를 끄는 가운데 제약 기술이 집약된 더마 화장품 이 연휴 선물로 주목받고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:36+00:00",
+ "had_body": false
+}

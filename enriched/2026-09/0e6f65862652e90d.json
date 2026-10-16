@@ -1,0 +1,41 @@
+{
+ "doc_id": "0e6f65862652e90d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pressman.kr/news/articleView.html?idxno=103454",
+ "title": "멤버십·패션·기술… 뷰티 경쟁 새 국면",
+ "summary": "뷰티업계의 경쟁 무대가 제품 자체를 넘어 멤버십과 패션, 향수 어린 브랜드 자산, 고기능성 기술로 빠르게 확장되고 있다. 단순히 신제품 을 내놓는 데 그치지 않고 소비자가 브랜드를 경험하고 기억하는 방식을 새롭게...",
+ "published_at": "2026-09-01T11:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 경쟁",
+   "멤버십 마케팅",
+   "브랜드 자산",
+   "고기능성 기술"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티업계의 경쟁이 제품을 넘어 멤버십과 패션 및 고기능성 기술 등으로 확장되고 있다.",
+  "key_fact_quote": "뷰티업계의 경쟁 무대가 제품 자체를 넘어 멤버십과 패션, 향수 어린 브랜드 자산, 고기능성 기술로 빠르게 확장되고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:00+00:00",
+ "had_body": false
+}

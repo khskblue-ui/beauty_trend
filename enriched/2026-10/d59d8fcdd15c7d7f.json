@@ -18,6 +18,7 @@
   "category": "regulation",
   "event_type": "regulation",
   "countries": [
+   "EU",
    "KR",
    "DE",
    "AT",
@@ -30,22 +31,33 @@
   ],
   "brands": [],
   "companies": [
+   "코트라",
    "KOTRA"
   ],
   "keywords": [
    "포장 및 포장 폐기물 규정",
    "확대생산자책임제도",
-   "친환경 포장",
-   "수출 규제"
+   "친환경 설계",
+   "포장재 규제"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "유럽연합의 포장 및 포장 폐기물 규정 본격 적용에 대응하여 코트라가 유럽 주요국별 시행 현황과 실무 대응 지침서를 발간했다.",
+  "key_fact": "유럽연합의 포장 및 포장 폐기물 규정 적용을 앞두고 코트라가 유럽 각국의 확대생산자책임제도 현황과 수출기업 대응 지침을 담은 보고서를 발간했다.",
   "key_fact_quote": "코트라(KOTRA)는 10월 12일 포장 및 포장 폐기물 규정(PPWR) 대응 지원을 위해 ‘유럽연합(EU) 포장 및 포장 폐기물 규정(PPWR) 국별 시행 현황(확대생산자책임제도(EPR)를 중심으로)’ 보고서를 발간했다고 밝혔다.",
+  "events": [
+   {
+    "name": "화상 설명회",
+    "start_date": "2026-10-14",
+    "end_date": null,
+    "place": null,
+    "quote": "코트라는 본 보고서 발간에 더해 10월 14일 오후 4시 화상 설명회를 개최한다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:25+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:11:49+00:00",
  "had_body": true
 }

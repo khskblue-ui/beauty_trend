@@ -1,0 +1,48 @@
+{
+ "doc_id": "dfe8eba39076ad46",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.segyebiz.com/newsView/20261008511089?OutUrl=naver",
+ "title": "패션· 뷰티 는 역시 K …백화점 해외 플랫폼화 가속",
+ "summary": "현대백화점이 운영하는 K -콘텐츠 수출 플랫폼 ‘더현대 글로벌’은 패션 중심지인 프랑스 파리에 도전장을... 롯데백화점의 K - 뷰티 편집숍 더캐스트를 포함해 스킨케어와 향 상품군에 강점이 있는 국내 브랜드 7개가...",
+ "published_at": "2026-10-08T14:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "더캐스트"
+  ],
+  "companies": [
+   "현대백화점",
+   "롯데백화점"
+  ],
+  "keywords": [
+   "해외 플랫폼화",
+   "K뷰티",
+   "편집숍"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 백화점들이 해외에서 패션과 뷰티 콘텐츠를 선보이며 플랫폼화에 나서고 있다.",
+  "key_fact_quote": "패션· 뷰티 는 역시 K …백화점 해외 플랫폼화 가속",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:36+00:00",
+ "had_body": false
+}

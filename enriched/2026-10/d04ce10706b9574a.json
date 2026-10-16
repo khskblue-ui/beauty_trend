@@ -1,0 +1,58 @@
+{
+ "doc_id": "d04ce10706b9574a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.elle.co.kr/article/1910873",
+ "title": "K- 뷰티 그 자체! 메디힐과 서울시의 특별한 협업",
+ "summary": "특히 더마 세럼 중 브랜드 의 대표 제품인 마데카소사이드 더마 세럼, 일명 ‘네모 세럼’은 지난 8월 리뉴얼을 거쳐 한층 더 업그레이드되었다. 론칭 2년 차에 접어든 스테디셀러를 리뉴얼한 이유는 명확했다. 우선...",
+ "published_at": "2026-10-08T09:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메디힐"
+  ],
+  "companies": [],
+  "keywords": [
+   "더마 세럼",
+   "리뉴얼"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "마데카소사이드 더마 세럼",
+    "brand": "메디힐",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "메디힐의 대표 제품인 마데카소사이드 더마 세럼이 리뉴얼을 거쳐 업그레이드되었다.",
+  "key_fact_quote": "특히 더마 세럼 중 브랜드 의 대표 제품인 마데카소사이드 더마 세럼, 일명 ‘네모 세럼’은 지난 8월 리뉴얼을 거쳐 한층 더 업그레이드되었다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "마데카소사이드",
+    "quote": "특히 더마 세럼 중 브랜드 의 대표 제품인 마데카소사이드 더마 세럼, 일명 ‘네모 세럼’은 지난 8월 리뉴얼을 거쳐 한층 더 업그레이드되었다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:43+00:00",
+ "had_body": false
+}

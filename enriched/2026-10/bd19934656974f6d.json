@@ -1,0 +1,56 @@
+{
+ "doc_id": "bd19934656974f6d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026100808203136459",
+ "title": "신세계인터 어뮤즈, 첫 시스터 브랜드 '로듀' 출범…립밤 8종 첫선",
+ "summary": "기획한 뷰티 브랜드다. 브랜드명은 '가공되지 않은'을 뜻하는 'RAW'와 '이슬'을 뜻하는 'DEW'를 결합했다. 제품은 신제품 을 순차적으로 선보이는 '드롭(Drop)' 방식으로 출시 한다. 첫 제품은 '로듀 비타 버터 립밤' 8종이다....",
+ "published_at": "2026-10-08T08:25:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어뮤즈",
+   "로듀"
+  ],
+  "companies": [
+   "신세계인터"
+  ],
+  "keywords": [
+   "립밤",
+   "뷰티 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "로듀 비타 버터 립밤",
+    "brand": "로듀",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신세계인터 어뮤즈, 첫 시스터 브랜드 '로듀' 출범…립밤 8종 첫선",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "어뮤즈가 첫 시스터 브랜드 로듀를 출범하고 립밤 제품을 선보였다.",
+  "key_fact_quote": "신세계인터 어뮤즈, 첫 시스터 브랜드 '로듀' 출범…립밤 8종 첫선",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:57+00:00",
+ "had_body": false
+}

@@ -1,0 +1,56 @@
+{
+ "doc_id": "8203c2a3a3884964",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.e-science.co.kr/news/articleView.html?idxno=137094",
+ "title": "유한양행, 현대백화점 판교점서 딘시 팝업...슬로우에이징 세럼 공개",
+ "summary": "| 이코노미사이언스 이윤수 기자 | 제약업계가 축적한 연구개발 역량을 화장품 사업에 접목하는 흐름 속에서... 브랜드 모델인 배우 전여빈도 행사장을 방문해 신제품 세럼과 주요 제품을 체험했다. 모델 방문을 통해...",
+ "published_at": "2026-10-12T13:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "딘시"
+  ],
+  "companies": [
+   "유한양행"
+  ],
+  "keywords": [
+   "슬로우에이징",
+   "세럼",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "슬로우에이징 세럼",
+    "brand": "딘시",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "유한양행, 현대백화점 판교점서 딘시 팝업...슬로우에이징 세럼 공개",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유한양행이 현대백화점 판교점에서 딘시 팝업스토어를 열고 슬로우에이징 세럼 신제품을 공개했다.",
+  "key_fact_quote": "유한양행, 현대백화점 판교점서 딘시 팝업...슬로우에이징 세럼 공개",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:29+00:00",
+ "had_body": false
+}

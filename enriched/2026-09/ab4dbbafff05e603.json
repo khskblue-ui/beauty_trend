@@ -1,0 +1,61 @@
+{
+ "doc_id": "ab4dbbafff05e603",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.cstimes.com/news/articleView.html?idxno=722256",
+ "title": "멕시코 파고드는 K푸드·K뷰티…중남미 공략 전초기지로",
+ "summary": "더페이스샵은 누적 판매량 5000만 개를 넘어선 '미감수' 클렌징 라인과 신제품 '미감수 레디' 등을 소개했다.... 멕시코는 인구 약 1억3000만 명으로 브라질에 이어 중남미에서 두 번째로 큰 화장품 시장이다. 지난해 한국...",
+ "published_at": "2026-09-30T07:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "MX",
+   "KR",
+   "BR"
+  ],
+  "brands": [
+   "더페이스샵"
+  ],
+  "companies": [],
+  "keywords": [
+   "클렌징 라인",
+   "중남미 화장품 시장",
+   "해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "미감수",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미감수 레디",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더페이스샵 등이 멕시코 시장에서 클렌징 제품을 소개하며 중남미 시장 공략에 나서고 있다.",
+  "key_fact_quote": "더페이스샵은 누적 판매량 5000만 개를 넘어선 '미감수' 클렌징 라인과 신제품 '미감수 레디' 등을 소개했다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:20:50+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "043cfa0049c37df9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=44358",
+ "title": "킨텍스, 역대 최대 K - 뷰티 엑스포 개최… 15개국 679개사 참가",
+ "summary": "킨텍스가 역대 최대 규모 K - 뷰티 전시회를 개최하는 한편, 인공지능(AI) 기반 안전관리 체계도 강화하며... 대한무역투자진흥공사(코트라) 해외 무역관을 통해 선별한 60개국 220개 바이어가 1대1 수출 상담회에...",
+ "published_at": "2026-10-12T16:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "킨텍스",
+   "대한무역투자진흥공사"
+  ],
+  "keywords": [
+   "뷰티 엑스포",
+   "수출 상담회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "킨텍스가 대규모 뷰티 엑스포를 개최하며 해외 바이어와의 수출 상담회를 진행한다.",
+  "key_fact_quote": "킨텍스가 역대 최대 규모 K - 뷰티 전시회를 개최하는 한편, 인공지능(AI) 기반 안전관리 체계도 강화하며... 대한무역투자진흥공사(코트라) 해외 무역관을 통해 선별한 60개국 220개 바이어가 1대1 수출 상담회에...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:03+00:00",
+ "had_body": false
+}

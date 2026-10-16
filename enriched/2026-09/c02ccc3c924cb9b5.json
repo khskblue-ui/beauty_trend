@@ -1,0 +1,53 @@
+{
+ "doc_id": "c02ccc3c924cb9b5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.greened.kr/news/articleView.html?idxno=350285",
+ "title": "톰, 약국 진출 6개월 만에 300곳으로 확대…무신사 뷰티 홍대 입점",
+ "summary": "톰은 무신사 뷰티 홍대점 내 약국에 단독 브랜드 매대를 마련하고 신제품 을 추가하며 약국 중심의 더마... 무신사 뷰티 홍대점 단독 매대 입점과 ABC·PPM 세럼 출시 를 계기로 피부 고민별 더마 스킨케어 제품을 지속...",
+ "published_at": "2026-09-17T10:35:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "톰"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "약국 유통",
+   "세럼"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "ABC·PPM 세럼",
+    "brand": "톰",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "톰이 약국 유통망을 크게 넓히고 무신사 뷰티 매장에 입점하며 더마 스킨케어 제품을 선보인다.",
+  "key_fact_quote": "톰은 무신사 뷰티 홍대점 내 약국에 단독 브랜드 매대를 마련하고 신제품 을 추가하며 약국 중심의 더마...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:24:08+00:00",
+ "had_body": false
+}

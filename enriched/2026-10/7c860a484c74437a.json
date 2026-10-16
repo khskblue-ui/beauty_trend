@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "retail",
-  "event_type": "market_trend",
+  "event_type": "business",
   "countries": [
    "KR"
   ],
@@ -29,13 +29,13 @@
    "신세계면세점"
   ],
   "keywords": [
-   "면세점 메가세일",
-   "온라인 매출",
-   "화장품 향수 부문"
+   "정기 메가세일",
+   "면세점 매출",
+   "온라인 매출"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "신세계면세점 첫 정기 메가세일에서 화장품과 향수 부문 매출이 크게 증가하며 전체 온라인 실적 성장을 이끌었다.",
+  "key_fact": "신세계면세점의 첫 정기 메가세일에서 온라인 매출이 늘어난 가운데 화장품과 향수 부문이 실적 성장을 견인했다.",
   "key_fact_quote": "특히 화장품· 향수 부문의 매출이 46% 증가하며 전체 실적을 견인했다.",
   "events": [],
   "ingredients": [],
@@ -43,6 +43,6 @@
  },
  "model": "gemini-3.8-flash",
  "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:52:18+00:00",
+ "enriched_at": "2026-10-15T15:25:53+00:00",
  "had_body": false
 }

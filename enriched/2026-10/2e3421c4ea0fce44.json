@@ -1,0 +1,71 @@
+{
+ "doc_id": "2e3421c4ea0fce44",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100047",
+ "title": "POLA(폴라), 눈가 전체 입체적으로 케어하는 ‘B.A 아이존 크림’",
+ "summary": "백년 역사의 일본 프레스티지 뷰티 브랜드 POLA(폴라)가 신제품 ‘B.A 아이존 크림’을 10월 1일 글로벌 출시했다. 58년간 이어온 POLA의 아이케어 연구를 바탕으로 새롭게 선보인 이번 제품은 단순한 주름 케어를 넘어, 눈가 전체를 보다 입체적으로 바라보는 새로운 차원의 아이존 케어를 제안한다.POLA의 새로운 B.A 아이존 크림은 눈가의 대표적인 고민인 주름뿐 아니라 눈꺼풀의 꺼짐, 눈 밑의 아이백과 다크서클, 탄력 저하와 수분 부족 등 나이가 들수록 복합적으로 나타나는 다양한 눈가 고민에 주목했다. 단순히 피부 표면을 관",
+ "published_at": "2026-10-02T09:23:39+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "POLA",
+   "폴라"
+  ],
+  "companies": [
+   "POLA"
+  ],
+  "keywords": [
+   "아이케어",
+   "아이존 케어",
+   "아이크림"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "B.A 아이존 크림",
+    "brand": "POLA",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "백년 역사의 일본 프레스티지 뷰티 브랜드 POLA(폴라)가 신제품 ‘B.A 아이존 크림’을 10월 1일 글로벌 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "일본 프레스티지 뷰티 브랜드 폴라가 눈가 전체를 입체적으로 케어하는 신제품 비에이 아이존 크림을 글로벌 출시했다.",
+  "key_fact_quote": "백년 역사의 일본 프레스티지 뷰티 브랜드 POLA(폴라)가 신제품 ‘B.A 아이존 크림’을 10월 1일 글로벌 출시했다.",
+  "events": [
+   {
+    "name": "B.A 아이존 크림 팝업스토어",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-08",
+    "place": "현대백화점 압구정본점",
+    "quote": "POLA는 신제품 출시를 기념해 10월 2일부터 8일까지 현대백화점 압구정본점에서 ‘B.A 아이존 크림 팝업스토어’를 운영한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "B.A 아이 코어 엑기스",
+    "quote": "새롭게 적용된 ‘B.A 아이 코어 엑기스’을 비롯한 POLA만의 연구 노하우를 바탕으로 눈가를 지지하는 근육과 안와지방, 피부 지지대인 피하층 RC까지 눈가의 3대 핵심 구조를 케어해 피부 표면의 노화 관리까지 이어지는 데 집중했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:20+00:00",
+ "had_body": true
+}

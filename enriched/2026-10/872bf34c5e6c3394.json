@@ -1,0 +1,44 @@
+{
+ "doc_id": "872bf34c5e6c3394",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312010",
+ "title": "K뷰티 미국시장 3.0 성장 시대, 이제는 '노출보다 이해'다 - 뷰티경제",
+ "summary": "식품의약품안전처에 따르면 2025년 한국 화장품 수출액은 114억 달러로 전년 대비 12.3% 증가하며 역대 최고치를 기록했다.국가별로는 미국이 22억 달러로 가",
+ "published_at": "2026-10-02T16:00:57+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "식품의약품안전처"
+  ],
+  "keywords": [
+   "한국 화장품 수출",
+   "미국 화장품 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 화장품 수출액이 역대 최고치를 경신하며 미국 시장에서도 높은 수출 규모를 나타냈다.",
+  "key_fact_quote": "식품의약품안전처에 따르면 2025년 한국 화장품 수출액은 114억 달러로 전년 대비 12.3% 증가하며 역대 최고치를 기록했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:36+00:00",
+ "had_body": false
+}

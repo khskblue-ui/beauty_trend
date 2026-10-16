@@ -1,0 +1,43 @@
+{
+ "doc_id": "8457584e52cce571",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.geconomy.co.kr/news/article.html?no=323930",
+ "title": "선크림, ‘여름용’ 벗고 일상 필수로… 유씨엘, 차세대 선케어 지평 연...",
+ "summary": "이러한 소비자의 인식 변화는 화장품 시장의 지형마저 바꾸고 있다. 독자들의 개개인 피부 타입과 생활... 글로벌 시장조사기관 민텔(Mintel) 분석을 보면 아시아 선케어 신제품 중 피부 장벽 보호 기능을 강조한 비율이...",
+ "published_at": "2026-09-24T00:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "유씨엘",
+   "민텔"
+  ],
+  "keywords": [
+   "선케어",
+   "선크림",
+   "피부 장벽 보호"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "선크림이 여름 전용 제품에서 일상 필수품으로 자리 잡으며 피부 장벽 보호 기능을 강조한 선케어 제품이 주목받고 있다.",
+  "key_fact_quote": "글로벌 시장조사기관 민텔(Mintel) 분석을 보면 아시아 선케어 신제품 중 피부 장벽 보호 기능을 강조한 비율이...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:39+00:00",
+ "had_body": false
+}

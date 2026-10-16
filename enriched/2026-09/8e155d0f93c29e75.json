@@ -1,0 +1,46 @@
+{
+ "doc_id": "8e155d0f93c29e75",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ddaily.co.kr/page/view/2026091014250113318",
+ "title": "화장품 매장에 약국이?…무신사 뷰티, 홍대서 꺼낸 '파머시' 승부수",
+ "summary": "프래그런스 존에서는 베르사체, 모스키노 같은 평소 익숙한 향수 브랜드와 신진· 니치 브랜드가 함께 놓여있었다. 다양한 향수 를 경험해보며 추구미를 더욱 구체화하는 발견의 공간이 될 수 있을 것 같았다. 2층은...",
+ "published_at": "2026-09-10T14:55:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "베르사체",
+   "모스키노"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 매장",
+   "니치 향수",
+   "프래그런스 존",
+   "뷰티 리테일"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티가 홍대 매장에 다양한 브랜드의 향수를 경험할 수 있는 프래그런스 존을 마련했다.",
+  "key_fact_quote": "프래그런스 존에서는 베르사체, 모스키노 같은 평소 익숙한 향수 브랜드와 신진· 니치 브랜드가 함께 놓여있었다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:33+00:00",
+ "had_body": false
+}

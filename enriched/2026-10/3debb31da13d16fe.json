@@ -1,0 +1,53 @@
+{
+ "doc_id": "3debb31da13d16fe",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.segyebiz.com/newsView/20261012520002?OutUrl=naver",
+ "title": "벨라, ‘2026 두바이 뷰티월드’ 참가 마무리…중동 뷰티 시장 공략 본격...",
+ "summary": "사진=벨라 스킨케어 브랜드 벨라(VELLA)가 지난 10월 6일부터 8일까지 아랍에미리트 두바이 월드 트레이드... 두바이 뷰티월드는 기초 화장품과 색조, 헤어, 향수 , 웰니스 등 뷰티 산업 전반을 다루는 중동 최대 규모의 국제...",
+ "published_at": "2026-10-12T17:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "AE",
+   "KR"
+  ],
+  "brands": [
+   "벨라",
+   "VELLA"
+  ],
+  "companies": [],
+  "keywords": [
+   "뷰티 박람회",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "스킨케어 브랜드 벨라가 중동 최대 규모의 국제 뷰티 박람회 참가를 성공적으로 마무리했다.",
+  "key_fact_quote": "스킨케어 브랜드 벨라(VELLA)가 지난 10월 6일부터 8일까지 아랍에미리트 두바이 월드 트레이드... 두바이 뷰티월드는 기초 화장품과 색조, 헤어, 향수 , 웰니스 등 뷰티 산업 전반을 다루는 중동 최대 규모의 국제...",
+  "events": [
+   {
+    "name": "2026 두바이 뷰티월드",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-08",
+    "place": "아랍에미리트 두바이 월드 트레이드...",
+    "quote": "스킨케어 브랜드 벨라(VELLA)가 지난 10월 6일부터 8일까지 아랍에미리트 두바이 월드 트레이드..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:03+00:00",
+ "had_body": false
+}

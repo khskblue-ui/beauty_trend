@@ -1,0 +1,41 @@
+{
+ "doc_id": "a5fedcf521bc5798",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-retail-shopper-journey-sales-1239297284/",
+ "title": "What Makes a Beauty Shopper Buy?",
+ "summary": "A new report from Beauty Barrage details the biggest pain points — and opportunities — across the consumer journey at retail.",
+ "published_at": "2026-10-01T02:48:57+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Beauty Barrage"
+  ],
+  "keywords": [
+   "소비자 여정",
+   "리테일 트렌드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "새로운 보고서가 리테일 매장에서 뷰티 소비자가 겪는 주요 문제점과 기회 요인을 상세히 다루었다.",
+  "key_fact_quote": "A new report from Beauty Barrage details the biggest pain points — and opportunities — across the consumer journey at retail.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:32+00:00",
+ "had_body": false
+}

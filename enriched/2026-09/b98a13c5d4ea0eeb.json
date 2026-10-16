@@ -1,0 +1,45 @@
+{
+ "doc_id": "b98a13c5d4ea0eeb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newscape.co.kr/news/articleView.html?idxno=124597",
+ "title": "더마 코스메틱ADESII, 케스타 팝업 출격…글로벌 뷰티 공략",
+ "summary": "한미사이언스가 독자 기술로 개발한 복합 원료 'H-EGTI'를 기반으로 인공색소와 향료 를 배제하고 피부 본연의 건강함에 초점을 맞춘 고기능성 제품을 선보이고 있다. 앞으로는 이번 팝업에서 공개한 미백·주름...",
+ "published_at": "2026-09-16T13:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "ADESII"
+  ],
+  "companies": [
+   "한미사이언스"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "팝업 스토어",
+   "무향료 화장품",
+   "고기능성 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "더마 코스메틱 브랜드가 팝업 행사를 통해 인공색소와 향료를 배제한 고기능성 제품을 선보이며 글로벌 시장 공략에 나섰다.",
+  "key_fact_quote": "한미사이언스가 독자 기술로 개발한 복합 원료 'H-EGTI'를 기반으로 인공색소와 향료 를 배제하고 피부 본연의 건강함에 초점을 맞춘 고기능성 제품을 선보이고 있다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:17:01+00:00",
+ "had_body": false
+}

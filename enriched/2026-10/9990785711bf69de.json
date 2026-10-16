@@ -1,0 +1,57 @@
+{
+ "doc_id": "9990785711bf69de",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/dior-beauty-boutique-illinois-1239301969/",
+ "title": "Christian Dior Parfums Opens New Discovery Beauty Boutique in Illinois",
+ "summary": "Modeled after the House of Dior's birthplace at 30 Avenue Montaigne in Paris, the storefront will revolve around La Collection Privée Christian Dior, an assortment of olfactory silhouettes designed by Francis Kurkdjian.",
+ "published_at": "2026-10-06T00:26:28+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Christian Dior Parfums",
+   "Dior"
+  ],
+  "companies": [
+   "Christian Dior"
+  ],
+  "keywords": [
+   "뷰티 부티크",
+   "향수 컬렉션",
+   "오프라인 매장"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "La Collection Privée Christian Dior",
+    "brand": "Christian Dior Parfums",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "크리스챤 디올 퍼퓸이 일리노이에 프란시스 커정이 디자인한 라 컬렉션 프리베 등을 중심으로 구성된 신규 디스커버리 뷰티 부티크를 오픈했다.",
+  "key_fact_quote": "Christian Dior Parfums Opens New Discovery Beauty Boutique in Illinois",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:28:29+00:00",
+ "had_body": false
+}

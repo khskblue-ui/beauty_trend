@@ -1,0 +1,41 @@
+{
+ "doc_id": "48c69fe80dbf8d35",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.m-i.kr/news/articleView.html?idxno=1418165",
+ "title": "中 공세에 해외 소비까지 둔화…화장품·의류 수출 '먹구름'",
+ "summary": "생활용품에는 화장품· 향수 , 가구·조명, 완구·스포츠용품 등이 포함된다. 생활용품 수출 부진에는 해외... 상승, 무선통신기기·부품은 프리미엄 스마트폰 신제품 출시 효과가 수출 개선을 이끌 것으로 전망됐다.",
+ "published_at": "2026-09-27T14:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "생활용품 수출 부진",
+   "해외 소비 둔화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국의 공세와 해외 소비 둔화로 화장품과 향수를 포함한 생활용품 수출에 어려움이 예상된다.",
+  "key_fact_quote": "中 공세에 해외 소비까지 둔화…화장품·의류 수출 '먹구름'",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:56+00:00",
+ "had_body": false
+}

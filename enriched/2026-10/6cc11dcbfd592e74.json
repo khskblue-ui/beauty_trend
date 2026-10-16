@@ -1,0 +1,62 @@
+{
+ "doc_id": "6cc11dcbfd592e74",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100076",
+ "title": "프로랑스 프리미엄 메쉬 커버 쿠션",
+ "summary": "프로랑스 프리미엄 메쉬 커버 쿠션은 메쉬망 아래 크림타입 파운데이션 제형을 담아 곱고 크리미한 텍스처로 발리는 메쉬 쿠션이다.우수한 커버 효과로 기미, 잡티, 요철 등 눈에 띄는 피부 결점을 완벽하게 커버 해 준다.촘촘한 메쉬망을 통해 걸러진 고은 파운데이션 입자가 피부에 섬세하게 밀착되어 도자기 같은 매끈한 피부로 표현 해 준다.또한, 피부 표현의 완성도를 높이기 위해 고굴절 샤이닝 오일과 라이트 오일을 적절하게 배합하여 메이크업 후에도 건조함 없이 촉촉함이 오랫동안 유지되며 인위적이지 않고 은은하게 빛나는 고급스러운 윤기 피부를",
+ "published_at": "2026-10-06T10:58:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프로랑스"
+  ],
+  "companies": [],
+  "keywords": [
+   "메쉬 쿠션",
+   "쿠션 파운데이션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "프리미엄 메쉬 커버 쿠션",
+    "brand": "프로랑스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "프로랑스 프리미엄 메쉬 커버 쿠션은 메쉬망 아래 크림타입 파운데이션 제형을 담아 피부 결점을 커버하고 매끈한 피부를 표현해 주는 쿠션 제품이다.",
+  "key_fact_quote": "프로랑스 프리미엄 메쉬 커버 쿠션은 메쉬망 아래 크림타입 파운데이션 제형을 담아 곱고 크리미한 텍스처로 발리는 메쉬 쿠션이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "고굴절 샤이닝 오일",
+    "quote": "또한, 피부 표현의 완성도를 높이기 위해 고굴절 샤이닝 오일과 라이트 오일을 적절하게 배합하여 메이크업 후에도 건조함 없이 촉촉함이 오랫동안 유지되며 인위적이지 않고 은은하게 빛나는 고급스러운 윤기 피부를 연출 할 수 있다."
+   },
+   {
+    "name": "라이트 오일",
+    "quote": "또한, 피부 표현의 완성도를 높이기 위해 고굴절 샤이닝 오일과 라이트 오일을 적절하게 배합하여 메이크업 후에도 건조함 없이 촉촉함이 오랫동안 유지되며 인위적이지 않고 은은하게 빛나는 고급스러운 윤기 피부를 연출 할 수 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:25+00:00",
+ "had_body": true
+}

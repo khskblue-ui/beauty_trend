@@ -1,0 +1,61 @@
+{
+ "doc_id": "7f4e78ecbf4873ab",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100013",
+ "title": "LG생활건강 오휘, 배우 임지연 앰배서더 발탁",
+ "summary": "LG생활건강의 디에이징(De-Aging) 솔루션 뷰티 브랜드 ‘오휘’에서 배우 임지연을 앰배서더로 발탁했다.오휘는 1997년부터 축적한 연구와 노하우를 바탕으로 각 개인의 피부 타입과 노화 원인에 맞춘 과학적인 디에이징 솔루션을 제공하는 스킨케어 브랜드이다. 오휘는 임지연이 최근 출연한 드라마 ‘멋진 신세계’, ‘더 글로리’ 등에서 선보인 당당한 이미지와 독보적인 아우라가 시간이 흐를수록 더욱 빛나는 자신감을 제안하는 오휘의 브랜드 가치와 부합한다는 판단에 그를 브랜드 앰배서더로 발탁했다.오휘는 임지연과 함께 대표 신제품 ‘프라임",
+ "published_at": "2026-10-01T09:51:33+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오휘"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "디에이징",
+   "브랜드 앰배서더",
+   "탄력 앰플"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "프라임 어드밴서 오리지널 에너지 100 앰플",
+    "brand": "오휘",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "LG생활건강의 뷰티 브랜드 오휘가 배우 임지연을 브랜드 앰배서더로 발탁했다.",
+  "key_fact_quote": "LG생활건강의 디에이징(De-Aging) 솔루션 뷰티 브랜드 ‘오휘’에서 배우 임지연을 앰배서더로 발탁했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "H-PDRN 90TM",
+    "quote": "오리지널 100 앰플은 4.7배[1] 더 깊이 흡수되는 ‘H-PDRN 90TM’을 한 병에 90% 이상 고함량으로 담은 중안부 입체 탄력 앰플이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:06+00:00",
+ "had_body": true
+}

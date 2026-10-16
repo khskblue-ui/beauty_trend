@@ -1,0 +1,45 @@
+{
+ "doc_id": "2a28f533349d6551",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=201750",
+ "title": "대한화장품산업연구원, 글로벌 규제 대응 해법 제시한다",
+ "summary": "Chris Choi는 퍼스널케어 제품에 사용되는 향료 성분의 평가 방법과 고려사항을 발표한다. 이어 브뤼셀 자유대학교 Vera Rogiers 교수(SCCS 공동의장)는 내분비계 활성 물질에 대한 SCCS의 위해성 평가와 NGRA, NAMs 활용...",
+ "published_at": "2026-09-18T00:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "BE"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원",
+   "브뤼셀 자유대학교"
+  ],
+  "keywords": [
+   "글로벌 규제 대응",
+   "향료 성분 평가",
+   "퍼스널케어",
+   "위해성 평가"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한화장품산업연구원이 글로벌 규제 대응 세미나를 통해 퍼스널케어 향료 성분 평가 방법과 위해성 평가 등의 해법을 제시한다.",
+  "key_fact_quote": "대한화장품산업연구원, 글로벌 규제 대응 해법 제시한다 Chris Choi는 퍼스널케어 제품에 사용되는 향료 성분의 평가 방법과 고려사항을 발표한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:16:30+00:00",
+ "had_body": false
+}

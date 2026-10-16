@@ -1,0 +1,45 @@
+{
+ "doc_id": "5ea62f88a90f5ae9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=119579",
+ "title": "롯데백화점, 美 LA서 K - 뷰티 팝업 개최… 유망 브랜드 해외 진출 지원",
+ "summary": "(LA:ON)'에서 ' K -컬처 뷰티 앤패션 팝업'을 운영한다고 8일 밝혔다. 이번 행사는 문화체육관광부가 재외한국문화원을 중심으로 추진하는 해외 문화 수출 플랫폼 개관을 기념해 마련됐으며, 국내 유통사 중에서는...",
+ "published_at": "2026-10-08T09:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데백화점"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "팝업스토어",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "롯데백화점이 미국 로스앤젤레스에서 한국 뷰티 및 패션 팝업 행사를 열어 유망 브랜드의 해외 진출을 지원한다.",
+  "key_fact_quote": "롯데백화점, 美 LA서 K - 뷰티 팝업 개최… 유망 브랜드 해외 진출 지원",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:43+00:00",
+ "had_body": false
+}

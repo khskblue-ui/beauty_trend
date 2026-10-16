@@ -1,0 +1,46 @@
+{
+ "doc_id": "194bda3ce5dde3f6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438294",
+ "title": "구다이글로벌, 지드래곤 '피스마이너스원'과 화장품 만든다",
+ "summary": "구다이글로벌은 새 뷰티 브랜드 의 공식 론칭 을 내년 상반기로 목표한다고 8일 밝혔다. 피스마이너스원 뷰티 는 패션과 예술 영역에서 독자적인 세계관을 구축해 온 피스마이너스원의 정체성을 뷰티 의 언어로 새로 구현한...",
+ "published_at": "2026-10-08T10:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피스마이너스원",
+   "피스마이너스원 뷰티"
+  ],
+  "companies": [
+   "구다이글로벌"
+  ],
+  "keywords": [
+   "뷰티 브랜드 론칭",
+   "패션 뷰티 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "구다이글로벌이 지드래곤의 피스마이너스원과 함께 새 뷰티 브랜드를 선보인다.",
+  "key_fact_quote": "구다이글로벌은 새 뷰티 브랜드 의 공식 론칭 을 내년 상반기로 목표한다고 8일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:42+00:00",
+ "had_body": false
+}

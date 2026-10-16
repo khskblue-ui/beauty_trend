@@ -1,0 +1,57 @@
+{
+ "doc_id": "224fe2c425f88e94",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.youthdaily.co.kr/news/article.html?no=227809",
+ "title": "애경산업 에이지투웨니스, '스킨 퍼스트 메이크업' 리브랜딩…성수 팝업...",
+ "summary": "전개하는 뷰티 브랜드 에이지투웨니스(AGE20'S)가 피부를 먼저 고려하는 '스킨 퍼스트 메이크업(Skin First... 팩트'를 출시 했다. 에이지투웨니스 브랜드 담당자는 \"이번 팝업은 단순히 신제품 을 소개하는 공간이 아니라...",
+ "published_at": "2026-10-01T10:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이지투웨니스",
+   "AGE20'S"
+  ],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "리브랜딩",
+   "팝업스토어",
+   "스킨 퍼스트 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "팩트",
+    "brand": "에이지투웨니스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "팩트'를 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "애경산업의 에이지투웨니스가 브랜드 콘셉트를 새롭게 정립하고 신제품 출시와 함께 팝업을 전개한다.",
+  "key_fact_quote": "애경산업 에이지투웨니스, '스킨 퍼스트 메이크업' 리브랜딩…성수 팝업...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:15+00:00",
+ "had_body": false
+}

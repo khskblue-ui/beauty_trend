@@ -1,0 +1,49 @@
+{
+ "doc_id": "d5d753264cf30ed2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sentv.co.kr/article/view/sentv202609100048",
+ "title": "무신사 뷰티, 첫 단독 오프라인 매장 ‘홍대점’ 11일 오픈",
+ "summary": "1층은 C뷰티 브랜드 ‘인투유’와 ‘AZTK’의 국내 최초 입점과 함께 프랑스 니치 향수 ‘에따 리브르 도랑쥬’ 단독 선보이며, 2층은 스킨케어와 헤어·바디·맨즈 케어를 아우르는 ‘넥스트 뷰티 존’ 및 ‘무신사...",
+ "published_at": "2026-09-10T10:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "무신사 뷰티",
+   "인투유",
+   "AZTK",
+   "에따 리브르 도랑쥬"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 매장",
+   "니치 향수",
+   "뷰티 리테일",
+   "맨즈 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "무신사 뷰티가 첫 단독 오프라인 매장인 홍대점을 오픈한다.",
+  "key_fact_quote": "무신사 뷰티, 첫 단독 오프라인 매장 ‘홍대점’ 11일 오픈",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:37+00:00",
+ "had_body": false
+}

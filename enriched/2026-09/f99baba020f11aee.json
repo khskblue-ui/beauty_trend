@@ -1,0 +1,53 @@
+{
+ "doc_id": "f99baba020f11aee",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=246432",
+ "title": "클리오, '풍년다방 에디션' 선보인다...가을 메이크업 컬러 제안",
+ "summary": "클리오는 신제품 출시 와 함께 오는 9월 22일부터 10월 27일까지 서울숲 K- 뷰티 가든 & 파빌리온에서 '클리오 풍년다방' 팝업스토어를 운영한다. 방문객들은 현장에서 풍년다방 에디션을 체험하고 다양한 프로그램과 경품...",
+ "published_at": "2026-09-22T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "클리오"
+  ],
+  "companies": [
+   "클리오"
+  ],
+  "keywords": [
+   "가을 메이크업",
+   "팝업스토어",
+   "에디션 출시"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "풍년다방 에디션",
+    "brand": "클리오",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "클리오는 신제품 출시와 함께 서울숲에서 풍년다방 팝업스토어를 운영한다.",
+  "key_fact_quote": "클리오는 신제품 출시 와 함께 오는 9월 22일부터 10월 27일까지 서울숲 K- 뷰티 가든 & 파빌리온에서 '클리오 풍년다방' 팝업스토어를 운영한다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:50+00:00",
+ "had_body": false
+}

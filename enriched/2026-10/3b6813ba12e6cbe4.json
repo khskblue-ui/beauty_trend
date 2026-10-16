@@ -1,0 +1,45 @@
+{
+ "doc_id": "3b6813ba12e6cbe4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ytn.co.kr/_ln/0103_202610151126165890",
+ "title": "\" K뷰티 미쳤다!\" 미국‧일본 제치고 세계 1위 눈 앞... 정부, '할랄'시장...",
+ "summary": "◇ 이지선 : 네, K - 뷰티 의 성장세가 정말 가파른데요. 지난해 우리나라 화장품 연간 수출 액은 114억 달러로 역대 최대를 기록하면서 프랑스에 이어 세계 2위에 올랐습니다. 그런데 올해는 더 놀랍습니다. 9월까지 수출 액이...",
+ "published_at": "2026-10-15T11:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "JP",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "할랄 시장",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "우리나라 화장품 수출액이 가파른 성장세를 보이며 세계 상위권을 기록하고 있다.",
+  "key_fact_quote": "네, K - 뷰티 의 성장세가 정말 가파른데요. 지난해 우리나라 화장품 연간 수출 액은 114억 달러로 역대 최대를 기록하면서 프랑스에 이어 세계 2위에 올랐습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:34+00:00",
+ "had_body": false
+}

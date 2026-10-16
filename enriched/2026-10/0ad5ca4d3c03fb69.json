@@ -1,0 +1,49 @@
+{
+ "doc_id": "0ad5ca4d3c03fb69",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312078",
+ "title": "경북의 전통 풍물, 성주에서 하나로 어우러져 - 뷰티경제",
+ "summary": "경상북도와 성주군이 주최하고 경상북도 문화원 연합회와 성주문화원이 주관한「제32회 경상북도 풍물대축제」가 10월 1일 성주 별고을체육공원에서 도내 문화원 관계자와",
+ "published_at": "2026-10-06T10:45:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "풍물대축제",
+   "전통문화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "경상북도 풍물대축제가 성주 별고을체육공원에서 개최되었다.",
+  "key_fact_quote": "경상북도와 성주군이 주최하고 경상북도 문화원 연합회와 성주문화원이 주관한「제32회 경상북도 풍물대축제」가 10월 1일 성주 별고을체육공원에서 도내 문화원 관계자와",
+  "events": [
+   {
+    "name": "제32회 경상북도 풍물대축제",
+    "start_date": "2026-10-01",
+    "end_date": null,
+    "place": "성주 별고을체육공원",
+    "quote": "경상북도와 성주군이 주최하고 경상북도 문화원 연합회와 성주문화원이 주관한「제32회 경상북도 풍물대축제」가 10월 1일 성주 별고을체육공원에서 도내 문화원 관계자와"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:27:51+00:00",
+ "had_body": false
+}

@@ -1,0 +1,55 @@
+{
+ "doc_id": "f606daf3437e412b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.iminju.net/news/articleView.html?idxno=170152",
+ "title": "[민주 뷰티 샵] 아모레퍼시픽·컬리·LG생활건강",
+ "summary": "라인을 출시 했다. 기존 어린쑥 라인을 리뉴얼해 황해쑥잎수와 덱스판테놀을 조합했으며 캡슐 크림과 버블... 신제품 은 전국 아리따움과 올리브영 매장 및 아모레몰, 한율 네이버 브랜드 스토어 등 온·오프라인 채널에서...",
+ "published_at": "2026-09-30T12:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "한율"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "컬리",
+   "LG생활건강"
+  ],
+  "keywords": [
+   "스킨케어",
+   "어린쑥",
+   "크림"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "어린쑥 라인",
+    "brand": "한율",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "기존 어린쑥 라인을 리뉴얼한 신제품이 출시되어 주요 온·오프라인 채널에서 판매된다.",
+  "key_fact_quote": "기존 어린쑥 라인을 리뉴얼해 황해쑥잎수와 덱스판테놀을 조합했으며 캡슐 크림과 버블... 신제품 은 전국 아리따움과 올리브영 매장 및 아모레몰, 한율 네이버 브랜드 스토어 등 온·오프라인 채널에서...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:16+00:00",
+ "had_body": false
+}

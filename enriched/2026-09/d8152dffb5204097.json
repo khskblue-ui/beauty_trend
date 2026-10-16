@@ -1,0 +1,54 @@
+{
+ "doc_id": "d8152dffb5204097",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bokuennews.com/news/article.html?no=284776",
+ "title": "비노트, 무신사 뷰티 '1위'… 출시 8일 만에 이례적 성과",
+ "summary": "무신사 뷰티 전체 1위에 오른 비노트 '미라클 SOS 2-STEP 마스크' /비노트 제공 스킨케어 브랜드 비노트가 무신사 뷰티 에서 신제품 출시 8일 만에 전체 카테고리 1위에 올랐다고 28일 밝혔다. 무신사 뷰티 가 첫 단독...",
+ "published_at": "2026-09-28T11:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비노트"
+  ],
+  "companies": [
+   "무신사",
+   "비노트"
+  ],
+  "keywords": [
+   "스킨케어",
+   "마스크팩",
+   "뷰티 커머스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "미라클 SOS 2-STEP 마스크",
+    "brand": "비노트",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스킨케어 브랜드 비노트의 마스크 신제품이 무신사 뷰티 전체 카테고리 정상에 올랐다.",
+  "key_fact_quote": "스킨케어 브랜드 비노트가 무신사 뷰티 에서 신제품 출시 8일 만에 전체 카테고리 1위에 올랐다고 28일 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:23:32+00:00",
+ "had_body": false
+}

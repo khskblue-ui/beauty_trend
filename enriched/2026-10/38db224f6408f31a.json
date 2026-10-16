@@ -21,12 +21,15 @@
    "KR",
    "JP"
   ],
-  "brands": [],
+  "brands": [
+   "탕고도란"
+  ],
   "companies": [
-   "우노타츠"
+   "우노타츠상점"
   ],
   "keywords": [
-   "근대 화장품"
+   "근대 화장품",
+   "화장품 역사"
   ],
   "is_press_release": false,
   "products": [
@@ -34,17 +37,20 @@
     "name": "탕고도란",
     "brand": null,
     "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "소설 날개에서 작가 이상은 우노타츠상점의 신제품인 탕고도란 화장품 냄새를 근대 공간의 상징 장치로 활용했다.",
+  "key_fact": "소설 날개에서 이상은 근대 화장품인 탕고도란의 냄새를 공간 묘사의 장치로 활용했다.",
   "key_fact_quote": "이상은 ‘가장 진보한 근대 화장품 ’ 이미지인 탕고도란 냄새를 타락한 근대의 공간을 나타내는 장치로 빌려왔다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:46+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:03+00:00",
  "had_body": false
 }

@@ -1,0 +1,44 @@
+{
+ "doc_id": "e262d52fbb575060",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://theviewers.co.kr/View.aspx?No=4227334",
+ "title": "부트터, EGT·NAD+ 등 화장품 14종 출시…홈케어 기기도 선봬",
+ "summary": "부트터는 15일 EGT 제품 8종과 NAD+ 제품 4종, PCL 제품 2종 등 총 14종의 화장품 을 출시한다고 밝혔다. 신제품 은 미스트와 앰플, 크림, 마스크, 클렌저, 톤·커버 제품 등으로 구성됐다. 서로 다른 제형과 사용 단계를...",
+ "published_at": "2026-09-15T11:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "부트터"
+  ],
+  "companies": [
+   "부트터"
+  ],
+  "keywords": [
+   "기능성 화장품",
+   "홈케어 기기",
+   "스킨케어 라인"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "부트터가 다양한 성분을 활용한 여러 종의 신제품 화장품을 출시한다고 밝혔다.",
+  "key_fact_quote": "부트터는 15일 EGT 제품 8종과 NAD+ 제품 4종, PCL 제품 2종 등 총 14종의 화장품 을 출시한다고 밝혔다.",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:22:57+00:00",
+ "had_body": false
+}

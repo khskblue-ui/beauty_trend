@@ -1,0 +1,43 @@
+{
+ "doc_id": "69dff7580b70296c",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53638",
+ "title": "[코스모닝] 식약처 고위공무원 인사",
+ "summary": "△ 식품의약품안전처 식품의약품안전평가원 의료제품연구부장 부이사관 김춘래 △ 대전지방식품의약품안전청장 부이사관 최종동",
+ "published_at": "2026-10-05T09:20:28+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "식품의약품안전처"
+  ],
+  "keywords": [
+   "공무원 인사",
+   "규제 기관"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식품의약품안전처가 고위공무원 인사를 단행했다.",
+  "key_fact_quote": "[코스모닝] 식약처 고위공무원 인사",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:32+00:00",
+ "had_body": true
+}

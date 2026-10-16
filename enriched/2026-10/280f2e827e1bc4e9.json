@@ -15,10 +15,11 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "business",
+  "category": "retail",
   "event_type": "event",
   "countries": [
-   "KR"
+   "KR",
+   "CN"
   ],
   "brands": [],
   "companies": [
@@ -27,24 +28,38 @@
    "틱톡코리아",
    "와디즈",
    "롯데홈쇼핑",
-   "한화갤러리아",
-   "더우인",
-   "샤오홍슈",
-   "위스타트"
+   "한화갤러리아"
   ],
   "keywords": [
    "뷰티 박람회",
    "수출상담회",
-   "유통상담회"
+   "글로벌 시장 진출"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "국내 뷰티기업의 수출과 판로 개척을 지원하는 대규모 전시회인 케이뷰티엑스포 코리아가 킨텍스에서 개최된다.",
+  "key_fact": "국내 뷰티기업의 수출과 판로 개척을 지원하기 위한 박람회가 킨텍스에서 역대 최대 규모로 개최된다.",
   "key_fact_quote": "킨텍스가 오는 15일부터 17일까지 사흘간 킨텍스 제1전시장 3~5홀에서 국내 뷰티기업의 수출과 판로 개척을 지원하는 ‘2026 K-뷰티엑스포 코리아’를 개최한다고 12일 밝혔다.",
+  "events": [
+   {
+    "name": "2026 K-뷰티엑스포 코리아",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": "킨텍스 제1전시장 3~5홀",
+    "quote": "킨텍스가 오는 15일부터 17일까지 사흘간 킨텍스 제1전시장 3~5홀에서 국내 뷰티기업의 수출과 판로 개척을 지원하는 ‘2026 K-뷰티엑스포 코리아’를 개최한다고 12일 밝혔다."
+   },
+   {
+    "name": "더우인(Douyin)과 샤오홍슈(RedNote) 입점 설명회",
+    "start_date": "2026-10-16",
+    "end_date": null,
+    "place": null,
+    "quote": "16일에는 중국의 주요 플랫폼인 더우인(Douyin)과 샤오홍슈(RedNote) 입점 설명회를 열어 중국 디지털 유통시장 진입 과정과 플랫폼 활용 전략을 공유한다."
+   }
+  ],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:02:32+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:11:55+00:00",
  "had_body": true
 }

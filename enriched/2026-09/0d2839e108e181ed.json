@@ -6,16 +6,16 @@
  "lang": "ko",
  "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319882",
  "title": "센트온 '센틀리에', 무신사 뷰티 1호점 입점…\"외국인 관광객 메카 홍대...",
- "summary": "최근 한국을 찾는 외국인 관광객들의 쇼핑 트렌드가 기초·색조 화장품에서 개성을 드러내는 'K- 니치 향수... 오드 퍼퓸 5종(30·50ml)을 집중 배치했다. 2층 공간에는 여행 중 가볍게 구매해 휴대할 수 있는 10ml 미니 향수와...",
+ "summary": "최근 한국을 찾는 외국인 관광객들의 쇼핑 트렌드가 기초·색조 화장품에서 개성을 드러내는 'K- 니치 향수 '로 빠르게 확대되고 있다. 센틀리에는 이러한 인바운드 수요를 선제적으로 흡수하기 위해 지난 4월 성수에 이어...",
  "published_at": "2026-09-18T16:36:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "니치 퍼퓸",
+ "query": "니치 향수",
  "doc_type": null,
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "fragrance",
+  "category": "retail",
   "event_type": "business",
   "countries": [
    "KR"
@@ -29,38 +29,17 @@
   ],
   "keywords": [
    "니치 향수",
-   "오드 퍼퓸",
-   "미니 향수"
+   "외국인 관광객 쇼핑",
+   "인바운드 수요"
   ],
   "is_press_release": true,
-  "products": [
-   {
-    "name": "오드 퍼퓸",
-    "brand": "센틀리에",
-    "launch_date": null,
-    "launch_status": "unknown",
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   },
-   {
-    "name": "미니 향수",
-    "brand": "센틀리에",
-    "launch_date": null,
-    "launch_status": "unknown",
-    "launch_quote": null,
-    "notes": [],
-    "notes_quote": null
-   }
-  ],
-  "key_fact": "센트온의 향수 브랜드 센틀리에가 무신사 뷰티 일호점에 입점했다.",
-  "key_fact_quote": "센트온 '센틀리에', 무신사 뷰티 1호점 입점…\"외국인 관광객 메카 홍대...",
-  "events": [],
-  "ingredients": [],
+  "products": [],
+  "key_fact": "센트온의 센틀리에가 외국인 관광객 수요를 잡기 위해 무신사 뷰티 매장에 입점했다.",
+  "key_fact_quote": "센트온 '센틀리에', 무신사 뷰티 1호점 입점…",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:09+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:14+00:00",
  "had_body": false
 }

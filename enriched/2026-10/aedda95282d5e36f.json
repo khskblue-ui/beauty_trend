@@ -1,0 +1,60 @@
+{
+ "doc_id": "aedda95282d5e36f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.wikitree.co.kr/articles/1165610",
+ "title": "입소문 났다…단돈 5000원으로 피부 장벽 살려내는 '다이소 화장품 '",
+ "summary": "국민 가게 다이소가 동화약품과 손잡고 전문적인 피부 흔적 관리를 돕는 5000원짜리 고기능성 스킨케어 신제품 을 전격 출시했다. 제약사의 독자 성분과 미백 유효 성분을 아낌없이 담아낸 다이소 전용 '후시덤 흔적 리페어...",
+ "published_at": "2026-10-12T21:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "다이소",
+   "동화약품"
+  ],
+  "keywords": [
+   "스킨케어",
+   "고기능성 화장품",
+   "피부 장벽"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "후시덤 흔적 리페어",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "국민 가게 다이소가 동화약품과 손잡고 전문적인 피부 흔적 관리를 돕는 5000원짜리 고기능성 스킨케어 신제품 을 전격 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "다이소가 동화약품과 협력하여 고기능성 스킨케어 신제품을 출시했다.",
+  "key_fact_quote": "국민 가게 다이소가 동화약품과 손잡고 전문적인 피부 흔적 관리를 돕는 5000원짜리 고기능성 스킨케어 신제품 을 전격 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "후시덤",
+    "quote": "제약사의 독자 성분과 미백 유효 성분을 아낌없이 담아낸 다이소 전용 '후시덤 흔적 리페어..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:19+00:00",
+ "had_body": false
+}

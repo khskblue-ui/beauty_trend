@@ -14,7 +14,7 @@
  "doc_type": null,
  "celex": null,
  "extraction": {
-  "relevant": false,
+  "relevant": true,
   "category": "other",
   "event_type": "market_trend",
   "countries": [
@@ -31,17 +31,19 @@
   ],
   "keywords": [
    "성형 관광",
-   "의료 관광",
-   "웰니스 관광"
+   "웰니스 관광",
+   "미용 시술"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "해외 원정 성형수술 후 발생하는 합병증이 각국 의료 시스템에 상당한 치료 부담과 비용을 초래하고 있다.",
-  "key_fact_quote": "Complications after undergoing cosmetic surgery abroad represent a substantial treatment burden for healthcare systems",
+  "key_fact": "해외 성형 관광이 증가함에 따라 수술 후 합병증 발생과 이에 따른 의료 시스템 부담에 대한 우려가 커지고 있다.",
+  "key_fact_quote": "Cosmetic surgery tourism is booming as patients travel abroad to lower costs, shorten waiting times and access procedures unavailable in certain markets. But according to a review published in Plastic, Reconstructive & Aesthetic Surgery, post-operative complications are a cause for concern.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:07+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:20:09+00:00",
  "had_body": true
 }

@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "body",
+  "category": "skincare",
   "event_type": "product_launch",
   "countries": [
    "KR"
@@ -23,11 +23,12 @@
   "brands": [
    "토코보"
   ],
-  "companies": [],
+  "companies": [
+   "토코보"
+  ],
   "keywords": [
    "핸드 선케어",
-   "핸드 선 세럼",
-   "전문 조향사 협업"
+   "선 세럼"
   ],
   "is_press_release": true,
   "products": [
@@ -35,17 +36,20 @@
     "name": "프레쉬 베일 핸드 선 세럼",
     "brand": "토코보",
     "launch_date": null,
-    "launch_quote": null,
+    "launch_status": "launched",
+    "launch_quote": "토코보, 핸드 선케어 제품 '프레쉬 베일 핸드 선 세럼' 공개",
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "토코보가 전문 조향사 협업을 통해 향을 개발한 핸드 선케어 제품을 공개한다.",
+  "key_fact": "토코보가 전문 조향사와 협업해 개발한 핸드 선케어 제품 프레쉬 베일 핸드 선 세럼을 선보였다.",
   "key_fact_quote": "토코보, 핸드 선케어 제품 '프레쉬 베일 핸드 선 세럼' 공개",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:41+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:18+00:00",
  "had_body": false
 }

@@ -1,0 +1,54 @@
+{
+ "doc_id": "20d6ac0cc7d7f66b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100017",
+ "title": "에스티 로더 컴퍼니즈 코리아, 10월 유방암 캠페인 전개",
+ "summary": "에스티 로더 컴퍼니즈 코리아(The Estée Lauder Companies Korea)는 10월 유방암 인식의 달을 맞아 대한암협회와 함께 2026 유방암 캠페인을 전개하고 소비자 및 시민 참여형 체험과 배움의 공간인 ‘핑크리본 한옥하우스’를 선보인다.에스티 로더 컴퍼니즈의 유방암 캠페인은 핑크리본의 공동 창안자인 에블린 H. 로더(Evelyn H. Lauder)가 1992년 설립한 에스티 로더 컴퍼니즈의 대표적인 사회공헌 활동이다. 지난 34년간 유방암 캠페인은 유방암에 대한 인식 제고와 교육, 지지 활동 및 연구를 통해 유방암",
+ "published_at": "2026-10-01T10:07:09+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에스티 로더 컴퍼니즈 코리아",
+   "The Estée Lauder Companies Korea",
+   "에스티 로더 컴퍼니즈"
+  ],
+  "keywords": [
+   "사회공헌 활동",
+   "유방암 캠페인",
+   "핑크리본"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에스티 로더 컴퍼니즈 코리아는 유방암 인식의 달을 맞아 대한암협회와 함께 유방암 캠페인을 전개하고 핑크리본 한옥하우스를 선보인다.",
+  "key_fact_quote": "에스티 로더 컴퍼니즈 코리아(The Estée Lauder Companies Korea)는 10월 유방암 인식의 달을 맞아 대한암협회와 함께 2026 유방암 캠페인을 전개하고 소비자 및 시민 참여형 체험과 배움의 공간인 ‘핑크리본 한옥하우스’를 선보인다.",
+  "events": [
+   {
+    "name": "핑크리본 한옥하우스",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-18",
+    "place": "서울 인사동",
+    "quote": "서울 인사동에서 10월 16일부터 18일까지 운영되는 ‘핑크리본 한옥하우스’는 방문객들이 유방 건강에 대한 이해를 넓히고 행동실천의 중요성을 체험하는 동시에 유방암을 경험한 이들의 회복과 희망, 극복의 이야기를 직접 만나볼 수 있는 특별한 공간이다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:23:05+00:00",
+ "had_body": true
+}

@@ -1,0 +1,50 @@
+{
+ "doc_id": "cda56d3b82fd13fa",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.jndn.com/article.php?aid=1791792584440982100",
+ "title": "광주신세계, 럭셔리 화장품 강화 '프라다 뷰티' 호남 첫선",
+ "summary": "프라다 뷰티는 프라다 특유의 세련된 감성과 실험적인 미학을 화장품에 접목한 럭셔리 뷰티 브랜드 다. 스킨케어부터 메이크업, 향수 까지 폭넓은 제품군을 갖췄다. 오랜 역사를 지닌 프랑스 럭셔리 뷰티 브랜드 ‘겔랑’도...",
+ "published_at": "2026-10-12T17:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프라다 뷰티",
+   "프라다",
+   "겔랑"
+  ],
+  "companies": [
+   "광주신세계"
+  ],
+  "keywords": [
+   "럭셔리 화장품",
+   "럭셔리 뷰티",
+   "스킨케어",
+   "메이크업",
+   "향수"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "광주신세계가 프라다 뷰티를 호남 지역 최초로 선보이며 럭셔리 화장품 라인업을 강화한다.",
+  "key_fact_quote": "광주신세계, 럭셔리 화장품 강화 '프라다 뷰티' 호남 첫선",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:02+00:00",
+ "had_body": false
+}

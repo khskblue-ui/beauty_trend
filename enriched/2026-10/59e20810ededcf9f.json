@@ -1,0 +1,45 @@
+{
+ "doc_id": "59e20810ededcf9f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.issuenbiz.com/news/articleView.html?idxno=80313",
+ "title": "한국벤처투자·아모레퍼시픽홀딩스, K-뷰티 유망기업 공동 발굴·투자 추...",
+ "summary": "협력 구조는 아모레퍼시픽홀딩스가 화장품 ·뷰티 산업의 전문성을 바탕으로 현장에서 성장 가능성이 있는... 실제 양 기관은 지난 6월 오픈이노베이션 벤처펀드를 통해 아모레퍼시픽홀딩스와 신제품 을 공동 개발하고...",
+ "published_at": "2026-10-02T14:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국벤처투자",
+   "아모레퍼시픽홀딩스"
+  ],
+  "keywords": [
+   "오픈이노베이션",
+   "뷰티 산업",
+   "벤처펀드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국벤처투자와 아모레퍼시픽홀딩스가 케이뷰티 유망기업 공동 발굴 및 투자를 추진한다.",
+  "key_fact_quote": "한국벤처투자·아모레퍼시픽홀딩스, K-뷰티 유망기업 공동 발굴·투자 추...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:14+00:00",
+ "had_body": false
+}

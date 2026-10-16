@@ -16,7 +16,7 @@
  "extraction": {
   "relevant": true,
   "category": "business",
-  "event_type": "event",
+  "event_type": "business",
   "countries": [
    "KR",
    "MY"
@@ -26,18 +26,20 @@
    "한국공학대학교"
   ],
   "keywords": [
-   "뷰티 시장 개척",
-   "해외 전시회",
-   "뷰티 수출"
+   "뷰티 시장",
+   "수출 확대",
+   "K뷰티"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "한국공학대학교 사업단이 지역 기업과 함께 말레이시아 뷰티 시장 진출 및 수출 확대를 위한 활동을 진행했다.",
-  "key_fact_quote": "한국공학대 GTEP사업단, 시흥 기업과 말레이시아 뷰티 시장 개척\n진출과 수출 확대를 위한 기반을 마련했다.",
+  "key_fact": "한국공학대학교 사업단이 기업과 함께 말레이시아 뷰티 시장 진출과 수출 확대를 위한 기반을 마련했다.",
+  "key_fact_quote": "한국공학대 GTEP사업단, 시흥 기업과 말레이시아 뷰티 시장 개척 진출과 수출 확대를 위한 기반을 마련했다.",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:07:24+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:24:38+00:00",
  "had_body": false
 }

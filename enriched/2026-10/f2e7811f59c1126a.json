@@ -1,0 +1,43 @@
+{
+ "doc_id": "f2e7811f59c1126a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.samdailbo.com/news/articleView.html?idxno=271092",
+ "title": "제주 체험형 뷰티 라운지 확대 개편",
+ "summary": "뷰티라운지를 케이( K )- 뷰티 수출 허브로 키우고 기술력과 상품성을 갖춘 중소 화장품 기업의 글로벌 판로 개척을 지원하기 위한 것이다. 제주도는 체험형 뷰티라운지에 기초 스킨케어 중심으로 30개사 입점한 사황에서...",
+ "published_at": "2026-10-11T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "체험형 뷰티 라운지",
+   "글로벌 판로 개척",
+   "중소 화장품 기업",
+   "기초 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "제주도는 중소 화장품 기업의 해외 판로 개척과 수출을 지원하기 위해 체험형 뷰티 라운지를 확대 개편한다.",
+  "key_fact_quote": "뷰티라운지를 케이( K )- 뷰티 수출 허브로 키우고 기술력과 상품성을 갖춘 중소 화장품 기업의 글로벌 판로 개척을 지원하기 위한 것이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:20+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "49e08689ddeffb41",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://edu.donga.com/news/articleView.html?idxno=112754",
+ "title": "에듀윌, K - 뷰티 해외 진출 이끌 '글로벌 이커머스 전문가' 양성 나선다",
+ "summary": "양형남)이 K - 뷰티 기업의 글로벌 온라인 시장 개척을 이끌 실무 인재를 육성하기 위해 '글로벌 이커머스 전문가 양성 과정'을 개설한다고 14일 밝혔다. 식품의약품안전처에 따르면 올해 상반기 국내 화장품 수출 액은 70억...",
+ "published_at": "2026-10-14T10:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에듀윌"
+  ],
+  "keywords": [
+   "글로벌 이커머스",
+   "인재 양성",
+   "화장품 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에듀윌이 뷰티 기업의 글로벌 온라인 시장 개척을 이끌 실무 인재를 육성하기 위해 전문가 양성 과정을 개설한다.",
+  "key_fact_quote": "에듀윌, K - 뷰티 해외 진출 이끌 '글로벌 이커머스 전문가' 양성 나선다 양형남)이 K - 뷰티 기업의 글로벌 온라인 시장 개척을 이끌 실무 인재를 육성하기 위해 '글로벌 이커머스 전문가 양성 과정'을 개설한다고 14일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:29+00:00",
+ "had_body": false
+}

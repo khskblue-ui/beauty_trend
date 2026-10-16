@@ -1,0 +1,43 @@
+{
+ "doc_id": "9c1bc497748f55fc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsprime.co.kr/news/article.html?no=750847",
+ "title": "화장품 넘어 AI·의료관광으로…정부, K뷰티 서비스 키운다",
+ "summary": "해외 인허가와 수출 현장 대응을 지원하는 'K바이오데스크'의 지원 범위를 내년부터 의약품·의료기기 등에서 K뷰티 까지 확대한다. 국가별 뷰티 유통사와 피부관리 전문점, 온라인 플랫폼 정보를 제공하고, 법률·회계...",
+ "published_at": "2026-10-14T09:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "해외 인허가",
+   "수출 지원",
+   "의료관광"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부가 해외 인허가 및 수출 현장 대응을 지원하는 데스크 지원 범위를 의약품과 의료기기에서 화장품과 뷰티 서비스 분야까지 확대하기로 했다.",
+  "key_fact_quote": "해외 인허가와 수출 현장 대응을 지원하는 'K바이오데스크'의 지원 범위를 내년부터 의약품·의료기기 등에서 K뷰티 까지 확대한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:30+00:00",
+ "had_body": false
+}

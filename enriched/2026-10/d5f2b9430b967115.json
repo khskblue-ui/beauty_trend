@@ -1,0 +1,51 @@
+{
+ "doc_id": "d5f2b9430b967115",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244430",
+ "title": "‘ K - 뷰티 ’ 다음은 ‘ K -에스테틱’... 필리핀서 유행하는 한국식 관리",
+ "summary": "나아가 K - 뷰티 와 웰니스, 개인별 필요에 맞춘 제품 사용을 수용하는 방향으로 변화하고 있다. 피부톤... 관세청 수출 입무역통계에 따르면, 필러가 포함된 기타 미용 제품류 품목의 한국에서의 필리핀 수출 액은...",
+ "published_at": "2026-10-02T10:45:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "PH"
+  ],
+  "brands": [],
+  "companies": [
+   "관세청"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "K-에스테틱",
+   "웰니스",
+   "필러"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "필리핀에서 케이뷰티에 이어 한국식 피부 관리와 에스테틱이 주목받고 있다.",
+  "key_fact_quote": "‘ K - 뷰티 ’ 다음은 ‘ K -에스테틱’... 필리핀서 유행하는 한국식 관리",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "필러",
+    "quote": "관세청 수출 입무역통계에 따르면, 필러가 포함된 기타 미용 제품류 품목의 한국에서의 필리핀 수출 액은..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:19:47+00:00",
+ "had_body": false
+}

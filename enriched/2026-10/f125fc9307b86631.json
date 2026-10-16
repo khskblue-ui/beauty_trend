@@ -1,0 +1,62 @@
+{
+ "doc_id": "f125fc9307b86631",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ajunews.com/view/20261001160946077",
+ "title": "구다이글로벌, 이너뷰티 브랜드 '이세비' 론칭…올리브영 선공개",
+ "summary": "'에어리 페이스 드링크' 출시 …효소 처리 헤스페리딘 435mg 함유 아주경제=박보람 기자 ram07@ajunews.com ‘에어리... 한편 구다이글로벌은 조선미녀, 티르티르, 닥터나인틴 등 다수의 뷰티 브랜드를 보유한 비상장 화장품 ...",
+ "published_at": "2026-10-01T17:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이세비",
+   "조선미녀",
+   "티르티르",
+   "닥터나인틴"
+  ],
+  "companies": [
+   "구다이글로벌"
+  ],
+  "keywords": [
+   "이너뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "에어리 페이스 드링크",
+    "brand": "이세비",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "'에어리 페이스 드링크' 출시 …효소 처리 헤스페리딘 435mg 함유",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "구다이글로벌이 이너뷰티 브랜드 이세비를 론칭하고 에어리 페이스 드링크를 출시했다.",
+  "key_fact_quote": "구다이글로벌, 이너뷰티 브랜드 '이세비' 론칭…올리브영 선공개",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "효소 처리 헤스페리딘",
+    "quote": "'에어리 페이스 드링크' 출시 …효소 처리 헤스페리딘 435mg 함유"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:44+00:00",
+ "had_body": false
+}

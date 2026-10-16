@@ -1,0 +1,55 @@
+{
+ "doc_id": "1a38b09c83a0bdc9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newskr.kr/news/articleView.html?idxno=106718",
+ "title": "LG생활건강 닥터그루트·더페이스샵 멕시코 진출... K-뷰티 멕시코 수출...",
+ "summary": "지난해 멕시코로 팔려나간 한국산 화장품 규모가 전년보다 150%가량 뛰었다. LG생활건강은 이 시장을 잡기... 미감수 클렌징 베스트셀러 3종과 신제품 스킨케어 '미감수 레디' 3종을 내놨고, 풍성한 거품을 직접 체험하는...",
+ "published_at": "2026-09-28T15:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "MX",
+   "KR"
+  ],
+  "brands": [
+   "닥터그루트",
+   "더페이스샵"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "멕시코 진출",
+   "클렌징",
+   "스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "미감수 레디",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "LG생활건강이 닥터그루트와 더페이스샵 브랜드를 앞세워 멕시코 시장에 진출했다.",
+  "key_fact_quote": "LG생활건강 닥터그루트·더페이스샵 멕시코 진출... K-뷰티 멕시코 수출...",
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:21:12+00:00",
+ "had_body": false
+}

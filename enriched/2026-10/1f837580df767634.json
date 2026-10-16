@@ -1,0 +1,74 @@
+{
+ "doc_id": "1f837580df767634",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=90208",
+ "title": "신라면세점, 뷰티 수요 잡는다 … 단독 컬러·세트로 상품 경쟁력 강화",
+ "summary": "에스트라 역시 '아토베리어365 크림' 듀오와 크림 미스트를 묶은 '민감피부 수분충전 세트'를 출시 한다. 구매 고객에게는 아토베리어365 크림 30㎖를 추가 제공한다. 신라면세점 관계자는 \"개별여행객을 중심으로 화장품 ...",
+ "published_at": "2026-10-08T14:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에스트라"
+  ],
+  "companies": [
+   "신라면세점"
+  ],
+  "keywords": [
+   "면세점 단독 상품",
+   "기획 세트",
+   "스킨케어 세트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "민감피부 수분충전 세트",
+    "brand": "에스트라",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에스트라 역시 '아토베리어365 크림' 듀오와 크림 미스트를 묶은 '민감피부 수분충전 세트'를 출시 한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아토베리어365 크림",
+    "brand": "에스트라",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "크림 미스트",
+    "brand": "에스트라",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신라면세점이 단독 기획 상품을 통해 뷰티 상품 경쟁력 강화에 나섰다.",
+  "key_fact_quote": "신라면세점, 뷰티 수요 잡는다 … 단독 컬러·세트로 상품 경쟁력 강화",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:19+00:00",
+ "had_body": false
+}

@@ -1,0 +1,65 @@
+{
+ "doc_id": "3f7ddf55c026fed2",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53629",
+ "title": "[코스모닝] ‘가능한 사랑’ 전도연 “쉬는 날 이것만 발라요”",
+ "summary": "세포랩이 브랜드 모델 전도연을 앞세운 TV 광고를 공개했다. 이번 CF는 △ 초기초 소개 △ 기초 전에 세포랩 △ 기초를 살리는 세포랩 등 3편으로 구성했다. 초기초(初기超)를 핵심 단어로 내세워 피부 본연의 힘을 기르는 데 집중하는 브랜드 철학을 소개한다. 전도연은 ‘초기초 소개편’에서 ‘初(처음 초)’와 ‘超(뛰어날 초)’ 그래픽과 등장한다. 절제된 표",
+ "published_at": "2026-10-01T18:42:10+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "세포랩"
+  ],
+  "companies": [
+   "퓨젠바이오"
+  ],
+  "keywords": [
+   "프리케어 에센스",
+   "스킨케어 루틴",
+   "항노화"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "세포랩 바이오제닉 에센스",
+    "brand": "세포랩",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "세포랩이 브랜드 모델 전도연과 함께 피부 본연의 힘을 강조하는 광고를 공개했다.",
+  "key_fact_quote": "세포랩이 브랜드 모델 전도연을 앞세운 TV 광고를 공개했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "클렙스",
+    "quote": "바이오 성분 클렙스(CLEPS)가 피부를 젊고 탄력있게 가꾼다."
+   },
+   {
+    "name": "CLEPS",
+    "quote": "바이오 성분 클렙스(CLEPS)가 피부를 젊고 탄력있게 가꾼다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:22:38+00:00",
+ "had_body": true
+}

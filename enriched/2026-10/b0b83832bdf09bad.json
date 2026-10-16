@@ -1,0 +1,79 @@
+{
+ "doc_id": "b0b83832bdf09bad",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://theviewers.co.kr/View.aspx?No=4246979",
+ "title": "신약 기술력 화장품 에 담는다…'K-더마'로 외연 넓히는 전통제약街",
+ "summary": "kr 동국제약 센텔리안24 '마데카 크림’ (사진=동국제약)국내 제약사들이 의약품을 넘어 화장품 시장으로... 적용한 신제품 ‘레티노에이트크림’과 대표 제품인 ‘EGF 액티브 바이탈 크림’의 대용량 제품을 선보이며...",
+ "published_at": "2026-10-03T07:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안24"
+  ],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "K-더마",
+   "더마코스메틱",
+   "제약사 화장품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "마데카 크림",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "레티노에이트크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "적용한 신제품 ‘레티노에이트크림’과 대표 제품인 ‘EGF 액티브 바이탈 크림’의 대용량 제품을 선보이며...",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "EGF 액티브 바이탈 크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "적용한 신제품 ‘레티노에이트크림’과 대표 제품인 ‘EGF 액티브 바이탈 크림’의 대용량 제품을 선보이며...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "국내 제약사들이 의약품 연구개발 기술력을 접목해 화장품 시장으로 외연을 확장하고 있다.",
+  "key_fact_quote": "신약 기술력 화장품 에 담는다…'K-더마'로 외연 넓히는 전통제약街",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "EGF",
+    "quote": "대표 제품인 ‘EGF 액티브 바이탈 크림’의 대용량 제품을 선보이며..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:09+00:00",
+ "had_body": false
+}

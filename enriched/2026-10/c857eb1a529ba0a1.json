@@ -25,19 +25,25 @@
    "양구군"
   ],
   "keywords": [
-   "전문 조향사 양성",
-   "향수 창업 지원",
+   "조향사 양성",
    "지역 식물자원",
-   "향장향 조향"
+   "향수 개발"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "양구군이 지역 식물자원을 활용한 향수 개발과 전문 인력 양성을 위해 조향 교육을 추진한다.",
+  "key_fact": "양구군이 지역 식물자원을 활용한 향수 개발과 전문 조향사 양성에 나선다.",
   "key_fact_quote": "양구군이 지역 식물자원을 활용한향수 개발과 주민 전문 인력 양성에 나섭니다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "배초향",
+    "quote": "특히 양구의 자생식물인 배초향을..."
+   }
+  ],
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:40+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:17+00:00",
  "had_body": false
 }

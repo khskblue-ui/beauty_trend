@@ -1,0 +1,56 @@
+{
+ "doc_id": "e25b47644a203525",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58436",
+ "title": "아모레퍼시픽, 세계화장품학회서 AI기반 미래뷰티 연구성과 공개",
+ "summary": "[코스인코리아닷컴 길태윤 기자]아모레퍼시픽은 'IFSCC Congress 2026'에서 AI와 디지털 기술을 활용한 피부과학 및 소비자 연구 성과를 발표했다고 2일 밝혔다. 올해 IFSCC는 'Solving the Sustainable Beauty Equation'을 주제로 호주 퍼스(Perth)에서 9월 28일부터 10월 1일(현지시간)까지 진행됐다.",
+ "published_at": "2026-10-02T14:38:17+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "AU",
+   "BR",
+   "MX"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "피부과학",
+   "소비자 연구",
+   "더마코스메틱",
+   "피부 장벽 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아모레퍼시픽이 세계화장품학회에서 인공지능과 디지털 기술을 접목한 피부과학 및 소비자 연구 성과를 공개했다.",
+  "key_fact_quote": "아모레퍼시픽은 'IFSCC Congress 2026'에서 AI와 디지털 기술을 활용한 피부과학 및 소비자 연구 성과를 발표했다고 2일 밝혔다.",
+  "events": [
+   {
+    "name": "IFSCC Congress 2026",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-01",
+    "place": "호주 퍼스(Perth)",
+    "quote": "올해 IFSCC는 'Solving the Sustainable Beauty Equation'을 주제로 호주 퍼스(Perth)에서 9월 28일부터 10월 1일(현지시간)까지 진행됐다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:21:43+00:00",
+ "had_body": true
+}

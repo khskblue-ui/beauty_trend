@@ -6,11 +6,11 @@
  "lang": "ko",
  "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=247042",
  "title": "아도르, 엔젤뮤게 향을 입은 새로운 헤어 퍼퓸 출시",
- "summary": "그러면서 \"아도르는 독자적인 헤어 케어 노하우와 글로벌 프래그런스 하우스의 협업으로 모발에 섬세하게 안착하여 깊은 잔향을 유지하는 니치 향수 수준의 발향 성능을 고스란히 담아낸 하이엔드 레벨의 헤어 퍼퓸을...",
+ "summary": "특히 일반 헤어 미스트 대비 향료 비율을 2배 이상 높인 오드 뚜왈렛(Eau de Toilette) 농도로 설계되었다\"고 설명했다. 이어 \"이번 헤어 퍼퓸 라인업은 올리브영 단독 선공개되어 판매 중이다. 신제품 출시에 맞춰 올리브영...",
  "published_at": "2026-10-05T09:00:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "니치 향수",
+ "query": "향료",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -26,19 +26,31 @@
   "companies": [],
   "keywords": [
    "헤어 퍼퓸",
-   "니치 향수",
-   "헤어 케어"
+   "헤어 미스트",
+   "오드 뚜왈렛"
   ],
   "is_press_release": true,
-  "products": [],
-  "key_fact": "아도르가 엔젤뮤게 향을 더한 새로운 헤어 퍼퓸을 선보였다.",
+  "products": [
+   {
+    "name": "헤어 퍼퓸",
+    "brand": "아도르",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아도르, 엔젤뮤게 향을 입은 새로운 헤어 퍼퓸 출시",
+    "notes": [
+     "엔젤뮤게"
+    ],
+    "notes_quote": "아도르, 엔젤뮤게 향을 입은 새로운 헤어 퍼퓸 출시"
+   }
+  ],
+  "key_fact": "아도르가 엔젤뮤게 향을 담은 새로운 헤어 퍼퓸을 출시했다.",
   "key_fact_quote": "아도르, 엔젤뮤게 향을 입은 새로운 헤어 퍼퓸 출시",
-  "dropped": [
-   "product:엔젤뮤게 헤어 퍼퓸"
-  ]
+  "events": [],
+  "ingredients": [],
+  "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:06:05+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:03+00:00",
  "had_body": false
 }

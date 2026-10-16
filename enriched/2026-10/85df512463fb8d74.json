@@ -1,0 +1,76 @@
+{
+ "doc_id": "85df512463fb8d74",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://economist.co.kr/article/view/ecn202610120031",
+ "title": "뉴브리즈 ‘everything is good’, 코스모뷰티 말레이시아 참가…현지 유...",
+ "summary": "연내 출시 예정인 크림과 선세럼의 패키지와 제형을 공개하며 총 4종의 제품 라인업을 소개했다.... 주력 제품인 ‘룩 업 배리어 퍼밍 세럼(Look Up Barrier Firming Serum)’은 미백·주름 개선 2중 기능성 화장품 이다....",
+ "published_at": "2026-10-13T10:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "MY",
+   "KR"
+  ],
+  "brands": [
+   "everything is good"
+  ],
+  "companies": [
+   "뉴브리즈"
+  ],
+  "keywords": [
+   "기능성 화장품",
+   "선세럼",
+   "크림",
+   "뷰티 박람회"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "크림",
+    "brand": "everything is good",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "연내 출시 예정인 크림과 선세럼의 패키지와 제형을 공개하며 총 4종의 제품 라인업을 소개했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "선세럼",
+    "brand": "everything is good",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "연내 출시 예정인 크림과 선세럼의 패키지와 제형을 공개하며 총 4종의 제품 라인업을 소개했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "룩 업 배리어 퍼밍 세럼(Look Up Barrier Firming Serum)",
+    "brand": "everything is good",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뉴브리즈의 브랜드가 코스모뷰티 말레이시아에 참가하여 신제품 패키지와 제형을 공개하고 제품 라인업을 소개했다.",
+  "key_fact_quote": "뉴브리즈 ‘everything is good’, 코스모뷰티 말레이시아 참가…현지 유...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:05+00:00",
+ "had_body": false
+}

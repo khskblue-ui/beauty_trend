@@ -1,0 +1,52 @@
+{
+ "doc_id": "8b73eff2633c97b5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10896368?ref=naver",
+ "title": "롯데百, 미국 LA서 ‘K-뷰티 팝업’ 연다…신진 브랜드 지원",
+ "summary": "국내 스킨케어· 향수 브랜드 를 소개한다. 스킨케어 브랜드는 아로마티카, 센텔리안24 등이다. 향수 브랜드 는 비비앙, 헤트라스 등이 참여한다. 롯데백화점의 K-뷰티 편집숍 ‘더캐스트’를 포함해 7개 브랜드가 장을...",
+ "published_at": "2026-10-08T08:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "아로마티카",
+   "센텔리안24",
+   "비비앙",
+   "헤트라스",
+   "더캐스트"
+  ],
+  "companies": [
+   "롯데백화점"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "팝업스토어",
+   "스킨케어",
+   "향수 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "롯데백화점이 국내 스킨케어와 향수 브랜드를 소개하는 케이뷰티 팝업 행사를 미국 로스앤젤레스에서 개최한다.",
+  "key_fact_quote": "롯데百, 미국 LA서 ‘K-뷰티 팝업’ 연다…신진 브랜드 지원",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:26:08+00:00",
+ "had_body": false
+}

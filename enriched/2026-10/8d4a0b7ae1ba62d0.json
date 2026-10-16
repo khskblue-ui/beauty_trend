@@ -1,0 +1,63 @@
+{
+ "doc_id": "8d4a0b7ae1ba62d0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sports.hankooki.com/news/articleView.html?idxno=6941586",
+ "title": "[ 뷰티 새소식] 설화수, 궁중문화축전 '경복궁 한복 연향' 성료… 센녹, ...",
+ "summary": "ⓒ설화수 뷰티 브랜드 설화수가 궁중문화축전 '경복궁 한복 연향'에 브랜드 부스를 열고 전통문화의 가치를... ⓒ토니모리 ▶ 본셉, 비타씨 색조 라인으로 확장… 신제품 10종 출시 토니모리 서브 브랜드 본셉'이 비타씨...",
+ "published_at": "2026-10-13T18:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수",
+   "센녹",
+   "본셉",
+   "토니모리"
+  ],
+  "companies": [
+   "토니모리"
+  ],
+  "keywords": [
+   "색조 라인",
+   "비타씨"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "비타씨",
+    "brand": "본셉",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "▶ 본셉, 비타씨 색조 라인으로 확장… 신제품 10종 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "토니모리의 서브 브랜드 본셉이 비타씨 라인을 색조로 확장하며 신제품을 출시했다.",
+  "key_fact_quote": "▶ 본셉, 비타씨 색조 라인으로 확장… 신제품 10종 출시 토니모리 서브 브랜드 본셉'이 비타씨...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "비타씨",
+    "quote": "▶ 본셉, 비타씨 색조 라인으로 확장… 신제품 10종 출시 토니모리 서브 브랜드 본셉'이 비타씨..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:16:39+00:00",
+ "had_body": false
+}

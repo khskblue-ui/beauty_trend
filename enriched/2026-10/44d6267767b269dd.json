@@ -17,20 +17,17 @@
   "relevant": true,
   "category": "fragrance",
   "event_type": "product_launch",
-  "countries": [
-   "KR"
-  ],
+  "countries": [],
   "brands": [
    "프레데릭 말",
    "피스마이너스원",
-   "피스마이너원",
    "에디션 드 퍼퓸 프레데릭 말"
   ],
   "companies": [],
   "keywords": [
    "럭셔리 향수",
    "리미티드 에디션",
-   "향수 협업"
+   "협업 향수"
   ],
   "is_press_release": true,
   "products": [
@@ -38,17 +35,31 @@
     "name": "뮤스크 라바줴 피스마이너스원 에디션",
     "brand": "프레데릭 말",
     "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "뮤스크 라바줴",
+    "brand": "프레데릭 말",
+    "launch_date": null,
+    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "프레데릭 말이 피스마이너스원의 디자인을 결합한 뮤스크 라바줴 리미티드 에디션을 선보였다.",
+  "key_fact": "프레데릭 말이 피스마이너스원의 시각적 디자인을 결합한 리미티드 에디션 향수를 공개했다.",
   "key_fact_quote": "2000년 조향사 모리스 루셀이 선보인 ‘뮤스크 라바줴’에 피스마이너스원의 시각적 디자인을 결합한 리미티드 에디션이다.",
-  "dropped": []
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "launch:뮤스크 라바줴"
+  ]
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:05:42+00:00",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:14:16+00:00",
  "had_body": false
 }

@@ -6,11 +6,11 @@
  "lang": "ko",
  "url": "http://www.popcornnews.net/news/articleView.html?idxno=133613",
  "title": "식품부터 패션·뷰티까지...가을 맞아 신제품 출시 잇따라",
- "summary": "'크래프티드 컬렉션'은 자연과 창의성, 조향 기술을 바탕으로 하나의 공예품을 완성하듯 향을 빚어내는 로에베 퍼퓸 의 니치 향수 라인이다. 과일과 꽃, 나무, 향신료 등 다양한 원료의 특징을 섬세하게 살려 각각의...",
+ "summary": "향수업계에서는 자연에서 영감을 받은 니치 향수 라인업이 확대된다. 신세계인터내셔날이 수입·판매하는 스페인 럭셔리 브랜드 로에베 퍼퓸(LOEWE Perfumes)은 '크래프티드 컬렉션(Crafted Collection)'에 신규 향수 5종을...",
  "published_at": "2026-09-21T09:50:00+09:00",
  "date_source": "api",
  "evidence_grade": "article",
- "query": "니치 퍼퓸",
+ "query": "니치 향수",
  "doc_type": null,
  "celex": null,
  "extraction": {
@@ -18,37 +18,37 @@
   "category": "fragrance",
   "event_type": "product_launch",
   "countries": [
-   "KR"
+   "KR",
+   "ES"
   ],
   "brands": [
-   "로에베 퍼퓸"
+   "로에베 퍼퓸",
+   "LOEWE Perfumes"
   ],
-  "companies": [],
+  "companies": [
+   "신세계인터내셔날"
+  ],
   "keywords": [
    "니치 향수",
-   "가을 신제품",
-   "조향 기술"
+   "신제품 출시"
   ],
   "is_press_release": false,
   "products": [
    {
-    "name": "크래프티드 컬렉션",
-    "brand": "로에베 퍼퓸",
+    "name": "크래프티드 컬렉션(Crafted Collection)",
+    "brand": "로에베 퍼퓸(LOEWE Perfumes)",
     "launch_date": null,
-    "launch_status": "unknown",
     "launch_quote": null,
     "notes": [],
     "notes_quote": null
    }
   ],
-  "key_fact": "가을을 맞아 로에베 퍼퓸의 니치 향수 라인을 비롯한 신제품 출시가 이어지고 있다.",
-  "key_fact_quote": "식품부터 패션·뷰티까지...가을 맞아 신제품 출시 잇따라",
-  "events": [],
-  "ingredients": [],
+  "key_fact": "로에베 퍼퓸이 크래프티드 컬렉션에 신규 향수 라인업을 추가한다.",
+  "key_fact_quote": "신세계인터내셔날이 수입·판매하는 스페인 럭셔리 브랜드 로에베 퍼퓸(LOEWE Perfumes)은 '크래프티드 컬렉션(Crafted Collection)'에 신규 향수 5종을...",
   "dropped": []
  },
  "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v3",
- "enriched_at": "2026-10-15T23:53:07+00:00",
+ "prompt_version": "enrich-v1",
+ "enriched_at": "2026-10-14T14:18:10+00:00",
  "had_body": false
 }

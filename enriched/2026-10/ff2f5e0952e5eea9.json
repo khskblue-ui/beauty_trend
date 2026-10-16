@@ -1,0 +1,40 @@
+{
+ "doc_id": "ff2f5e0952e5eea9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mhns.co.kr/news/articleView.html?idxno=763230",
+ "title": "'메이드 인 코리아' 내건 K펫푸드 출립…국산 원유 활용 제품으로 해외...",
+ "summary": "농림축산식품부와 관세청 통계에 따르면 국내 반려동물 사료·간식 수출 은 2024년까지 5년 연속 증가한 것으로 나타났다. 특히 K - 뷰티 와 K -푸드 등이 해외 시장에서 인지도를 확대하면서 '한국산'이라는 요소를 제품...",
+ "published_at": "2026-10-12T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "펫푸드 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 반려동물 사료와 간식 수출이 지속적으로 증가세를 보이고 있다.",
+  "key_fact_quote": "농림축산식품부와 관세청 통계에 따르면 국내 반려동물 사료·간식 수출 은 2024년까지 5년 연속 증가한 것으로 나타났다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:18:13+00:00",
+ "had_body": false
+}

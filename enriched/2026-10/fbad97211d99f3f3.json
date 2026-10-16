@@ -1,0 +1,54 @@
+{
+ "doc_id": "fbad97211d99f3f3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160292355919606",
+ "title": "꾸밈7, 메이크업 전 피부 준비 위한 ‘디데이크림’ 출시",
+ "summary": "뷰티 브랜드 꾸밈7은 기초 스킨케어에 앞서 바르고 씻어내는 신제품 ‘꾸밈7 디데이크림’을 출시 했다고 밝혔다. 회사 측은 중요한 일정이 있는 날 메이크업 전 피부결과 윤기 등 피부 상태를 준비하는 데 초점을...",
+ "published_at": "2026-10-01T17:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "꾸밈7"
+  ],
+  "companies": [],
+  "keywords": [
+   "기초 스킨케어",
+   "디데이크림",
+   "메이크업 부스터"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "꾸밈7 디데이크림",
+    "brand": "꾸밈7",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "뷰티 브랜드 꾸밈7은 기초 스킨케어에 앞서 바르고 씻어내는 신제품 ‘꾸밈7 디데이크림’을 출시 했다고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 브랜드 꾸밈칠이 메이크업 전 피부 준비를 위한 디데이크림을 출시했다.",
+  "key_fact_quote": "뷰티 브랜드 꾸밈7은 기초 스킨케어에 앞서 바르고 씻어내는 신제품 ‘꾸밈7 디데이크림’을 출시 했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:17:10+00:00",
+ "had_body": false
+}

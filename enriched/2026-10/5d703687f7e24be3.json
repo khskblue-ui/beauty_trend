@@ -1,0 +1,61 @@
+{
+ "doc_id": "5d703687f7e24be3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.theguru.co.kr/news/article.html?no=107995",
+ "title": "[K바이오 신약대전] '톡신' 밀고 'ECM· 화장품 ' 끌고…휴젤, 2년 내 9000억...",
+ "summary": "(ECM)과 화장품 까지 사업 영역을 넓히고 있다. 국내 톡신 시장 1위를 10년째 지키는 동시에 제품군을 묶은... 지난 7월 관계사 아크로스의 기술을 적용한 HA 필러 '더채움 시그니처' 4종을 출시 하며 필러 라인업도...",
+ "published_at": "2026-10-11T07:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더채움"
+  ],
+  "companies": [
+   "휴젤",
+   "아크로스"
+  ],
+  "keywords": [
+   "화장품 사업",
+   "필러 라인업"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "더채움 시그니처",
+    "brand": "더채움",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "지난 7월 관계사 아크로스의 기술을 적용한 HA 필러 '더채움 시그니처' 4종을 출시 하며 필러 라인업도...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "휴젤이 사업 영역을 화장품 등으로 확장하며 필러 라인업을 강화하고 있다.",
+  "key_fact_quote": "(ECM)과 화장품 까지 사업 영역을 넓히고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "HA",
+    "quote": "지난 7월 관계사 아크로스의 기술을 적용한 HA 필러 '더채움 시그니처' 4종을 출시 하며 필러 라인업도..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:25:10+00:00",
+ "had_body": false
+}

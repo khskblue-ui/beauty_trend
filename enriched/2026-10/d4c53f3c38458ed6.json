@@ -1,0 +1,72 @@
+{
+ "doc_id": "d4c53f3c38458ed6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.dealsitetv.com/articles/176724",
+ "title": "[유통24시] 배민, 오프뷰티 입점…뷰티 상품 퀵커머스 배달 外",
+ "summary": "등 화장품 4000여 종을 판매한다. 입점을 기념해 이달 말까지 1만5000원 이상 구매 시 배달팁 0원 혜택을... 컬렉션 신제품 '산양유 바디워시'와 '산양유 바디로션'을 선보였다. '산양유 바디워시'는 산양유 성분과 시어버터...",
+ "published_at": "2026-10-07T17:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "배민"
+  ],
+  "keywords": [
+   "바디워시",
+   "바디로션",
+   "퀵커머스"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "산양유 바디워시",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "컬렉션 신제품 '산양유 바디워시'와 '산양유 바디로션'을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "산양유 바디로션",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "컬렉션 신제품 '산양유 바디워시'와 '산양유 바디로션'을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "배민에 뷰티 상품 배달을 위한 입점이 진행되고 새로운 산양유 바디케어 신제품이 출시되었다.",
+  "key_fact_quote": "배민, 오프뷰티 입점…뷰티 상품 퀵커머스 배달 外",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "산양유",
+    "quote": "'산양유 바디워시'는 산양유 성분과 시어버터..."
+   },
+   {
+    "name": "시어버터",
+    "quote": "'산양유 바디워시'는 산양유 성분과 시어버터..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "gemini-3.8-flash",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-15T15:15:58+00:00",
+ "had_body": false
+}
