@@ -4,6 +4,11 @@ enrich:
   fallback: gemini-3.5-flash
   thinking_budget: 512      # thinking 토큰이 출력 비용의 대부분 → 상한을 둔다
   max_retries: 2            # 스키마 위반 시 재시도 횟수(PLAN: 2회 후 폐기)
+  # 2026-10 구글 결제서에서 역산한 실제 단가(입출력 합산 1천 토큰당 원). 정리 전 금액 추정에 쓴다.
+  krw_per_1k_tokens: 1.9
+  tokens_per_doc: 1100      # 2026-10 장부 평균(입력 약 850, 출력 약 240)
+  confirm_over_krw: 3000    # 예상 금액이 이보다 크면 --yes 없이 돌리지 않는다(매일 수집은 보통 600~1,200원)
+                            # --upgrade(이미 정리한 기사 다시 정리)는 금액과 상관없이 --yes가 있어야 돈다
 write:
   model: gemini-4-argon     # 2026-10-14 유지보수자 지정. 2026-12-01부터 단가 2배
   fallback: gemini-3.1-pro-preview

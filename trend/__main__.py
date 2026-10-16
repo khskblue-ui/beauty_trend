@@ -1,7 +1,8 @@
 """CLI: python -m trend <command>.
 
   collect [--only a,b] [--since YYYY-MM-DD] [--naver-pages N] [--backfill-since YYYY-MM-DD]
-  enrich  [--month YYYY-MM] [--limit N] [--upgrade] [--workers N]
+  enrich  [--month YYYY-MM] [--limit N] [--upgrade] [--workers N] [--yes]
+  usage   [--since YYYY-MM-DD]   LLM tokens and estimated cost per billing day (US Pacific) and model
   report  --month YYYY-MM [--dry-run] [--until YYYY-MM-DD]   --until inside the month = interim report
   render  --run-dir DIR [--no-pdf]   re-render a finished run with current templates (no LLM calls)
   health  [--days 7]
@@ -29,6 +30,7 @@ def main(argv=None) -> int:
     e.add_argument("--limit", type=int)
     e.add_argument("--upgrade", action="store_true", help="redo docs enriched with an older prompt")
     e.add_argument("--workers", type=int, default=4)
+    e.add_argument("--yes", action="store_true", help="run even when the cost estimate is above confirm_over_krw")
     r = sub.add_parser("report")
     r.add_argument("--month", required=True)
     r.add_argument("--dry-run", action="store_true")
@@ -37,6 +39,8 @@ def main(argv=None) -> int:
     rr = sub.add_parser("render")
     rr.add_argument("--run-dir", required=True)
     rr.add_argument("--no-pdf", action="store_true")
+    u = sub.add_parser("usage")
+    u.add_argument("--since")
     h = sub.add_parser("health")
     h.add_argument("--days", type=int, default=7)
     a = ap.parse_args(argv)
@@ -51,7 +55,7 @@ def main(argv=None) -> int:
         return 0
     if a.cmd == "enrich":
         from .enrich import enrich_pending
-        print(json.dumps(enrich_pending(a.month, a.limit, a.workers, a.upgrade), ensure_ascii=False))
+        print(json.dumps(enrich_pending(a.month, a.limit, a.workers, a.upgrade, a.yes), ensure_ascii=False))
         return 0
     if a.cmd == "report":
         from .report import build
@@ -62,6 +66,10 @@ def main(argv=None) -> int:
         from .report import rerender
         paths = rerender(a.run_dir, pdf=not a.no_pdf)
         print(json.dumps({k: str(v) for k, v in paths.items()}, ensure_ascii=False, indent=1))
+        return 0
+    if a.cmd == "usage":
+        from .usage import summarize
+        print(summarize(a.since))
         return 0
     if a.cmd == "health":
         from .health import summarize

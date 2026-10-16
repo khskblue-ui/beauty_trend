@@ -182,11 +182,67 @@ def doc_month(doc: dict) -> str:
     return f"{d.year:04d}-{d.month:02d}"
 
 
+def estimate(n_docs: int) -> dict:
+    """Expected cost of enriching n_docs, from config (2026-10 billing)."""
+    cfg = load("models")["enrich"]
+    tokens = n_docs * cfg.get("tokens_per_doc", 1100)
+    return {"docs": n_docs, "tokens": tokens,
+            "krw": round(tokens / 1000 * cfg.get("krw_per_1k_tokens", 1.9))}
+
+
+# Same news in several outlets: enrich one, copy its classification to the rest (no LLM call).
+COPY_FIELDS = ("relevant", "category", "event_type", "countries", "brands", "companies",
+               "keywords", "is_press_release")
+
+
+class DupIndex:
+    """Articles by KST day, to find the same news within ±days (title bigram similarity)."""
+
+    def __init__(self, days: int = 3):
+        self.days, self.by_day = days, {}
+
+    def add(self, rec: dict) -> None:
+        d = kst_date(rec.get("published_at"))
+        if d:
+            self.by_day.setdefault(d, []).append(rec)
+
+    def find(self, doc: dict) -> dict | None:
+        from datetime import timedelta
+        from .normalize import similar
+        d0 = kst_date(doc.get("published_at"))
+        if not d0:
+            return None
+        for k in range(-self.days, self.days + 1):
+            for r in self.by_day.get(d0 + timedelta(days=k), []):
+                if similar(doc["title"], r["title"]):
+                    return r
+        return None
+
+
+def copy_record(doc: dict, rep: dict) -> dict:
+    """Record for a near-duplicate article: classification copied, no claims.
+
+    Products, events, ingredients and key facts need quotes from THIS article, so
+    they stay empty; the cluster's representative carries them.
+    """
+    ex = {k: rep["extraction"].get(k) for k in COPY_FIELDS}
+    ex.update(products=[], events=[], ingredients=[], key_fact=None, key_fact_quote=None, dropped=[])
+    meta = {k: doc.get(k) for k in ("doc_id", "source", "source_name", "group", "lang", "url",
+                                     "title", "summary", "published_at", "date_source", "evidence_grade",
+                                     "query", "doc_type", "celex")}
+    return {**meta, "extraction": ex, "model": None, "prompt_version": PROMPT_VERSION,
+            "copied_from": rep["doc_id"], "enriched_at": utcnow_iso(),
+            "had_body": bool(store.load_body(doc["doc_id"]))}
+
+
 def enrich_pending(month: str | None = None, limit: int | None = None,
-                   workers: int = 4, upgrade: bool = False) -> dict:
+                   workers: int = 4, upgrade: bool = False, yes: bool = False) -> dict:
     """Enrich raw docs that have no enriched record yet (optionally one month).
 
     upgrade=True also redoes docs enriched with an older PROMPT_VERSION.
+    Near-duplicates of an already enriched article get a copied record instead
+    of an LLM call. When the estimated cost is above `confirm_over_krw`, nothing
+    runs without yes=True (the estimate is returned).
     """
     root = store.data_dir() / "enriched"
     done = set()
@@ -196,13 +252,42 @@ def enrich_pending(month: str | None = None, limit: int | None = None,
     todo = [d for d in store.iter_raw() if d["doc_id"] not in done
             and (month is None or doc_month(d) == month)]
     todo = list({d["doc_id"]: d for d in todo}.values())[:limit]
+    # split: one article per news item goes to the LLM; the rest copy from it
+    enriched = [r for r in (store.read_json(p, {}) for p in (root.glob("*/*.json") if root.exists() else []))
+                if r and r["doc_id"] in done and not r.get("copied_from")]
+    idx = DupIndex()
+    for r in enriched:
+        idx.add(r)
+    calls, copies = [], []
+    for d in sorted(todo, key=lambda x: x.get("published_at") or ""):
+        rep = idx.find(d)
+        if rep:
+            copies.append((d, rep))
+        else:
+            calls.append(d)
+            idx.add(d)
+    est = estimate(len(calls))
+    if (upgrade or est["krw"] > load("models")["enrich"].get("confirm_over_krw", 3000)) and not yes:
+        return {"pending": len(todo), "llm_calls": len(calls), "copies": len(copies),
+                "estimate": est, "ran": False, "note": "예상 금액이 기준을 넘어 멈춤. --yes로 실행"}
     ledger = str(store.data_dir() / "llm_ledger" / f"{now_kst():%Y-%m}.jsonl")
     ok = fail = 0
+    done_recs: dict[str, dict] = {}
     with ThreadPoolExecutor(max_workers=workers) as pool:
-        for d, rec in zip(todo, pool.map(lambda x: enrich_doc(x, ledger), todo)):
+        for d, rec in zip(calls, pool.map(lambda x: enrich_doc(x, ledger), calls)):
             if rec is None:
                 fail += 1
                 continue
             store.write_json(f"enriched/{doc_month(d)}/{d['doc_id']}.json", rec)
+            done_recs[d["doc_id"]] = rec
             ok += 1
-    return {"pending": len(todo), "enriched": ok, "failed": fail}
+    by_id = {r["doc_id"]: r for r in enriched} | done_recs
+    copied = 0
+    for d, rep in copies:
+        rec = by_id.get(rep["doc_id"])
+        if rec is None:          # its representative failed: try again next run
+            continue
+        store.write_json(f"enriched/{doc_month(d)}/{d['doc_id']}.json", copy_record(d, rec))
+        copied += 1
+    return {"pending": len(todo), "enriched": ok, "copied": copied, "failed": fail,
+            "estimate": est, "ran": True}

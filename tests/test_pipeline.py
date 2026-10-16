@@ -262,3 +262,32 @@ def test_upcoming_events_drop_promotions_and_merge_spellings():
             rec("2", "B", events=[ev("K-뷰티엑스포 코리아", "2026-10-15", "2026-10-17")])]
     out = upcoming_events(cluster(docs), date(2026, 10, 15))
     assert [(x["name"], x["n_docs"]) for x in out] == [("2026 K-뷰티 엑스포(K-BEAUTY EXPO)", 2)]
+
+
+def test_enrich_copies_near_duplicates_and_stops_on_big_estimates(monkeypatch, tmp_path):
+    from trend import enrich, store
+    monkeypatch.setenv("DATA_DIR", str(tmp_path))
+    docs = [dict(rec("a", "아모레퍼시픽, 신규 향수 브랜드 론칭", date="2026-10-02T09:00:00+09:00"), fetched_at="x"),
+            dict(rec("b", "아모레퍼시픽 신규 향수 브랜드 론칭", date="2026-10-03T09:00:00+09:00"), fetched_at="x"),
+            dict(rec("c", "식약처 화장품 고시 개정", date="2026-10-03T09:00:00+09:00"), fetched_at="x")]
+    for d in docs:
+        d.pop("extraction")
+    store.append_docs("2026-10-03", "s", docs)
+    called = []
+
+    def fake(doc, ledger=None):
+        called.append(doc["doc_id"])
+        return {**doc, "extraction": {"relevant": True, "category": "fragrance", "event_type": "product_launch",
+                                      "countries": [], "brands": [], "companies": [], "keywords": ["니치 향수"],
+                                      "is_press_release": False, "products": [{"name": "X"}]},
+                "prompt_version": enrich.PROMPT_VERSION}
+
+    monkeypatch.setattr(enrich, "enrich_doc", fake)
+    out = enrich.enrich_pending("2026-10", workers=1)
+    assert sorted(called) == ["a", "c"] and out["copied"] == 1         # 'b' is the same news as 'a'
+    b = store.read_json(next((tmp_path / "enriched").glob("*/b.json")))
+    assert b["copied_from"] == "a" and b["extraction"]["keywords"] == ["니치 향수"]
+    assert b["extraction"]["products"] == []                          # claims need this article's own quotes
+    monkeypatch.setattr(enrich, "PROMPT_VERSION", "enrich-v99")         # a new prompt: everything is stale
+    stopped = enrich.enrich_pending("2026-10", upgrade=True)             # redo needs --yes
+    assert stopped["ran"] is False and stopped["estimate"]["docs"] == 2
