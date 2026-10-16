@@ -89,6 +89,14 @@ def canonical_url(url: str) -> str:
                                     urllib.parse.urlencode(q), ""))
 
 
+def url_key(url: str) -> str:
+    """Scheme- and www-insensitive form of a URL. A feed may link http:// while the
+    site's archive links https:// (cosinkorea): doc_id differs, url_key does not."""
+    c = canonical_url(url)
+    c = c.split("://", 1)[-1]
+    return (c[4:] if c.startswith("www.") else c).rstrip("/")
+
+
 def doc_id(url: str) -> str:
     return hashlib.sha1(canonical_url(url).encode()).hexdigest()[:16]
 

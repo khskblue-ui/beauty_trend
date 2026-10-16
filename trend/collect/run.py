@@ -7,7 +7,7 @@ from datetime import date
 from .. import store
 from ..config import load
 from ..http import Client
-from ..util import kst_date, now_kst, utcnow_iso
+from ..util import kst_date, now_kst, url_key, utcnow_iso
 from . import Result, backfill, cellar, fedreg, naver_news, page_diff, rss
 
 log = logging.getLogger(__name__)
@@ -18,6 +18,7 @@ def run(only: set[str] | None = None, naver_pages: int = 1,
     cfg = load("sources")
     client = Client()
     known = store.known_ids()
+    known_urls = {url_key(d["url"]) for d in store.iter_raw() if d.get("url")}
     results: list[Result] = []
 
     def want(sid: str) -> bool:
@@ -49,8 +50,10 @@ def run(only: set[str] | None = None, naver_pages: int = 1,
     day = now_kst().date().isoformat()
     health = {"day": day, "finished_at": utcnow_iso(), "sources": {}}
     for res in results:
-        new = [d for d in res.docs if d["doc_id"] not in known]
+        # same article under another id (http vs https, www): skip it too
+        new = [d for d in res.docs if d["doc_id"] not in known and url_key(d["url"]) not in known_urls]
         known.update(d["doc_id"] for d in new)
+        known_urls.update(url_key(d["url"]) for d in new)
         n = store.append_docs(day, res.source, new) if new else 0
         key = res.source if res.source not in health["sources"] else res.source + "+backfill"
         health["sources"][key] = {"ok": res.ok, "seen": len(res.docs), "new": n,

@@ -30,3 +30,9 @@ def test_canonical_url_drops_tracking_and_fragment():
     a = "https://Example.com/a?id=1&utm_source=x#top"
     assert canonical_url(a) == "https://example.com/a?id=1"
     assert doc_id(a) == doc_id("https://example.com/a?id=1")
+
+
+def test_url_key_ignores_scheme_and_www():
+    from trend.util import doc_id, url_key
+    a, b = "http://www.cosinkorea.com/news/article.html?no=58505", "https://cosinkorea.com/news/article.html?no=58505"
+    assert doc_id(a) != doc_id(b) and url_key(a) == url_key(b)
