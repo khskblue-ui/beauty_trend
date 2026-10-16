@@ -20,6 +20,12 @@
 - 숫자는 코드가 계산해 표·차트에만 넣는다. LLM 문장에는 숫자를 쓰지 않는다(verify가 걸러 냄).
 - 확인하지 않은 것을 확인했다고 쓰지 않는다. 소스 관련 판단은 프로브로 직접 확인하고 `docs/phase0_source_audit.md`에 남긴다.
 
+## 모델 작업 (2026-10-16부터)
+
+- 기사 정리, 리포트 문장, 근거 검증은 외부 API가 아니라 예약된 Claude 작업 세션이 한다(`config/models.yaml`의 `backend: session`). 절차는 `docs/session_routine.md`.
+- verify 요청은 쓴 쪽과 다른 새 서브에이전트(`verifier-…`)만 답한다. 코드가 이름 규칙을 강제한다. 메인 세션은 답을 직접 쓰지 않는다.
+- 요청 파일과 기사 본문(`data/private/`, `work/`)은 커밋하지 않는다.
+
 ## LLM 비용
 
 - 기사를 대량으로 정리하거나 다시 정리하기 전에 금액부터 센다. `enrich`는 예상 금액이 `config/models.yaml`의 `confirm_over_krw`를 넘거나 `--upgrade`이면 `--yes` 없이는 돌지 않고 추정치만 낸다.

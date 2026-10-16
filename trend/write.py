@@ -9,7 +9,7 @@ import json
 import logging
 
 from .config import load
-from .llm import LLMError, generate_json
+from .llm import LLMError, PendingLLM, generate_json
 
 log = logging.getLogger(__name__)
 PROMPT_VERSION = "write-v5"  # v2: one card per sentence; v3: style rules; v4: plain-korean-writing rules
@@ -71,7 +71,7 @@ def sentences(task: str, cards: list[dict], max_sentences: int, ledger: str) -> 
     try:
         call = generate_json(load("models")["write"], prompt, SENTENCES, system_prompt(), ledger)
     except LLMError as e:
-        log.error("write failed (%s): %s", task[:30], e)
+        (log.info if isinstance(e, PendingLLM) else log.error)("write (%s): %s", task[:30], e)
         return []
     return [{**s, "model": call.model} for s in call.data["sentences"][:max_sentences]]
 
@@ -86,6 +86,6 @@ def keyword_notes(items: list[dict], cards_by_term: dict[str, list[dict]], ledge
     try:
         call = generate_json(load("models")["write"], prompt, KEYWORDS, system_prompt(), ledger)
     except LLMError as e:
-        log.error("write keywords failed: %s", e)
+        (log.info if isinstance(e, PendingLLM) else log.error)("write keywords: %s", e)
         return []
     return [{**s, "model": call.model} for s in call.data["items"]]

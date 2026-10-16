@@ -27,6 +27,9 @@ python -m trend render --run-dir data/reports/2026-09/<실행>   # 템플릿만 
 python -m trend report --month 2026-10 --until 2026-10-15 --dry-run   # 월중 중간 보고(전월 비교 없음)
 python -m trend collect --backfill-since 2026-10-01   # 피드에서 빠진 날을 업계지 지난 기사 목록에서 채우기
 python -m trend enrich --month 2026-10 --upgrade      # 예상 금액만 보여 주고 멈춤. 돌리려면 --yes
+python -m trend llm pending                           # 세션 방식: 답을 기다리는 요청 수
+python -m trend llm export --role enrich --out work/e1.json --limit 40   # 일꾼에게 줄 묶음
+python -m trend llm import --file work/e1.ans.json --by enricher-1     # 일꾼 답 가져오기(verify는 --by verifier-…)
 python -m trend usage --since 2026-10-01              # 장부 합산(결제서와 같은 미국 태평양 시간 날짜, Flash 단가로 원 환산)
 python -m trend health --days 7
 python -m pytest -q

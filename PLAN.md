@@ -48,13 +48,14 @@
   - 글로벌 업계지 RSS: Cosmetics Business, Premium Beauty News(무료 본문), WWD Beauty(유료벽 → 제목·요약만, 헤드라인급 등급).
   - 규제: EU는 CELLAR SPARQL로 1223/2009 개정 법령 감지(eur-lex.europa.eu는 WAF 차단 → 링크만 사용), 식약처 RSS(보도자료·고시전문·행정예고·최근 개정 법령), Federal Register API(FDA·"cosmetic product", 하루 1회 이하 — 과다 요청 시 IP 차단), IFRA 뉴스 목록 페이지 diff. fda.gov는 Actions 러너 IP에서 404라 직접 수집 제외(링크만 사용).
   - 경쟁사: Givaudan RSS, Symrise RSS, dsm-firmenich 뉴스 목록 페이지 diff.
-  - LLM: Gemini enrich `gemini-3.8-flash`(JSON 스키마 출력 확인, thinking 토큰 기본 사용 → `thinkingBudget` 제한, 2027-01-01 단가 2배), write `gemini-4-argon`(Stable, 2026-10-14 유지보수자 지정; 2026-12-01부터 단가 2배). 대체: `gemini-3.5-flash` / `gemini-3.1-pro-preview`. (`gemini-2.5-pro`는 신규 사용자 접근 제한으로 제외)
+  - LLM(2026-10-16 변경): 정리, 문장 쓰기, 근거 검증은 예약된 Claude 작업 세션이 맡는다(외부 API 비용 없음, `docs/session_routine.md`). 근거 검증은 쓴 쪽과 다른 독립 서브에이전트가 한다. 아래 Gemini 설정은 예비(`backend: gemini`)로 남긴다.
+  - (예비) Gemini enrich `gemini-3.8-flash`(JSON 스키마 출력 확인, thinking 토큰 기본 사용 → `thinkingBudget` 제한, 2027-01-01 단가 2배), write `gemini-4-argon`(Stable, 2026-10-14 유지보수자 지정; 2026-12-01부터 단가 2배). 대체: `gemini-3.5-flash` / `gemini-3.1-pro-preview`. (`gemini-2.5-pro`는 신규 사용자 접근 제한으로 제외)
 - 보류: CMN(robots가 /rss/ 금지 → HTML 스크래퍼 필요, MVP 커버리지 부족 시 검토), GCI(기사·robots가 Cloudflare 차단), BeautyMatter(RSS·사이트맵 없음), IFF(이 IP에서 403), 관세청 품목별 국가별 수출입실적(data.go.kr 키 필요, 국가코드 필수, 매월 15일경 전월분 갱신 → 2차).
 - 제외: fda.gov 직접 수집(러너 IP 404), 올리브영(Cloudflare 챌린지), 무신사뷰티(robots 전체 금지), CosmeticsDesign-Europe/Asia(2026-03 폐간, 410), Google Trends(pytrends 아카이브), Sephora/Ulta/Fragrantica 직접 수집, 화해/SNS.
 - 운영 위험: Actions 러너 IP에서 `phase0-probe`로 재확인 완료(FDA만 차이). 링크 검사에서 EUR-Lex(202 WAF)·GCI(403)·fda.gov(404)는 "접근 제한"으로 표시하고 삭제하지 않는다.
 
 ## 파이프라인
-- 매일: 뉴스·RSS 수집 (KST 기준 날짜 처리), 원문 스냅샷 보관.
+- 매일(06:30 KST, Claude 예약 세션): 뉴스·RSS 수집, 정리(enrich), 제품 검수. 결과(본문 제외)를 data 브랜치에 커밋. Actions 매일 수집은 예비용 수동 실행.
 - 필요 시: `collect --backfill-since`로 피드에서 빠진 날을 업계지 지난 기사 목록·사이트맵에서 채움(수집 공백·늦은 시작 대비).
 - 매주: 수집기 헬스체크(0건·급감·스키마 변경) → 유지보수자 요약 알림.
 - 매월 25일: 드라이런(전체 생성, 유지보수자에게만 발송).

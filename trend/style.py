@@ -11,7 +11,7 @@ import logging
 import re
 
 from .config import load
-from .llm import LLMError, generate_json
+from .llm import LLMError, PendingLLM, generate_json
 
 log = logging.getLogger(__name__)
 PROMPT_VERSION = "style-v2"   # v2: plain-korean-writing rules
@@ -90,7 +90,7 @@ def polish(sents: list[dict], ledger: str, key: str = "text") -> tuple[list[dict
         call = generate_json(load("models")["write"], body, REWRITE, REWRITE_SYSTEM, ledger)
         fixed = {x["i"]: x["text"].strip() for x in call.data["items"]}
     except LLMError as e:
-        log.warning("style rewrite failed: %s", e)
+        (log.info if isinstance(e, PendingLLM) else log.warning)("style rewrite: %s", e)
         fixed = {}
     out = list(sents)
     slog = []
