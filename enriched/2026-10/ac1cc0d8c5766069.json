@@ -1,0 +1,44 @@
+{
+ "doc_id": "ac1cc0d8c5766069",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261016000176",
+ "title": "신세계인터내셔날, '2026 멤버십 위크' 실시…포인트 적립 최대 10배 혜...",
+ "summary": "특히 평소 할인 혜택이 거의 없는 고가 수입 패션 브랜드 매출이 91.5% 늘었으며, 니치 향수 와 럭셔리 화장품을 포함한 코스메틱 카테고리 역시 매출이 50% 신장했다. 신세계인터내셔날은 이 같은 고객 반응을 바탕으로...",
+ "published_at": "2026-10-16T13:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "니치 향수",
+   "럭셔리 화장품",
+   "멤버십 행사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "멤버십 행사에서 니치 향수와 럭셔리 화장품을 포함한 코스메틱 매출이 크게 늘었다",
+  "key_fact_quote": "특히 평소 할인 혜택이 거의 없는 고가 수입 패션 브랜드 매출이 91.5% 늘었으며, 니치 향수 와 럭셔리 화장품을 포함한 코스메틱 카테고리 역시 매출이 50% 신장했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

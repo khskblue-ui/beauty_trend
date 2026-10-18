@@ -1,0 +1,43 @@
+{
+ "doc_id": "cdb50c466c996fe8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244375",
+ "title": "카자흐스탄 뷰티 유통지도가 바뀐다… K-뷰티의 승부처는 ‘전문몰’",
+ "summary": "2024년 기준 마켓플레이스 판매 상위 3개 품목에 화장품은 들지 못한 반면, 브랜드 나 유통사가 직접 운영하는 자사 인터넷몰에서는 화장품· 향수 가 22.4%로 1위 품목이었다. <카자흐스탄 전자상거래 판매 채널별...",
+ "published_at": "2026-09-30T14:49:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KZ",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "전문몰",
+   "자사 인터넷몰",
+   "카자흐스탄 이커머스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "카자흐스탄에서는 자사 인터넷몰에서 화장품과 향수가 판매 상위 품목이었다.",
+  "key_fact_quote": "브랜드 나 유통사가 직접 운영하는 자사 인터넷몰에서는 화장품· 향수 가 22.4%로 1위 품목이었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "15afff8a13b8c2c2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/general-industry/6265702",
+ "title": "\"선크림 다음은 바디케어\"…'K-뷰티 공룡' 구다이, 신규 브랜드 시동",
+ "summary": "지난 3월 신규 바디 브랜드 상품개발 담당자를 모집하며 바디케어와 핸드케어 제품 기획·개발, 향을 활용한 제품 콘셉트와 제형 개발, 조향사 ·향료사 협업, 주문자 상표 부착 생산(OEM)·제조업자 개발 생산(ODM)...",
+ "published_at": "2026-08-24T06:15:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "구다이"
+  ],
+  "keywords": [
+   "바디케어",
+   "핸드케어",
+   "향 활용 제품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "구다이가 신규 바디 브랜드를 준비하며 조향사와 향료사 협업 담당자를 모집했다",
+  "key_fact_quote": "지난 3월 신규 바디 브랜드 상품개발 담당자를 모집하며 바디케어와 핸드케어 제품 기획·개발, 향을 활용한 제품 콘셉트와 제형 개발, 조향사 ·향료사 협업, 주문자 상표 부착 생산(OEM)·제조업자 개발 생산(ODM)...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

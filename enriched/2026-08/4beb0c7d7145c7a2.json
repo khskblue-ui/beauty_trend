@@ -1,0 +1,86 @@
+{
+ "doc_id": "4beb0c7d7145c7a2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.elle.co.kr/article/1908677",
+ "title": "향수 바꿨더니 분위기가 가을 같다고 하네요",
+ "summary": "유쏘풀 엠포리아코튼 니치향수 50ml, 6만 3천원 상품 자세히 보기 베르가못과 레몬의 산뜻함에 투명한 아이리스와 핑크 페퍼가 어우러집니다. 화이트 머스크와 앰버가 맑고 포근하게 이어지는 향수. 아비브 오 드 퍼퓸...",
+ "published_at": "2026-08-27T16:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "유쏘풀"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "가을 향수",
+   "화이트 머스크"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "엠포리아코튼",
+    "brand": "유쏘풀",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "베르가못",
+     "레몬",
+     "아이리스",
+     "핑크 페퍼",
+     "화이트 머스크",
+     "앰버"
+    ],
+    "notes_quote": "베르가못과 레몬의 산뜻함에 투명한 아이리스와 핑크 페퍼가 어우러집니다. 화이트 머스크와 앰버가 맑고 포근하게 이어지는 향수."
+   }
+  ],
+  "key_fact": "가을 분위기에 맞는 니치 향수를 소개하는 글이다.",
+  "key_fact_quote": "향수 바꿨더니 분위기가 가을 같다고 하네요",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "베르가못",
+    "quote": "베르가못과 레몬의 산뜻함에 투명한 아이리스와 핑크 페퍼가 어우러집니다."
+   },
+   {
+    "name": "레몬",
+    "quote": "베르가못과 레몬의 산뜻함에 투명한 아이리스와 핑크 페퍼가 어우러집니다."
+   },
+   {
+    "name": "아이리스",
+    "quote": "베르가못과 레몬의 산뜻함에 투명한 아이리스와 핑크 페퍼가 어우러집니다."
+   },
+   {
+    "name": "핑크 페퍼",
+    "quote": "베르가못과 레몬의 산뜻함에 투명한 아이리스와 핑크 페퍼가 어우러집니다."
+   },
+   {
+    "name": "화이트 머스크",
+    "quote": "화이트 머스크와 앰버가 맑고 포근하게 이어지는 향수."
+   },
+   {
+    "name": "앰버",
+    "quote": "화이트 머스크와 앰버가 맑고 포근하게 이어지는 향수."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

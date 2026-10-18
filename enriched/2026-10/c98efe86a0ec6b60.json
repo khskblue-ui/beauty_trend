@@ -1,0 +1,56 @@
+{
+ "doc_id": "c98efe86a0ec6b60",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://wemakenews.co.kr/news/view.php?no=26574",
+ "title": "지드래곤이 사랑한 향수, 프레데릭 말과 피스마이너스원의 특별한 만남",
+ "summary": "첫 번째 공간인 ‘창조’에서는 조향사 모리스 루셀이 뮤스크 라바줴를 탄생시킨 과정과 향의 원료를 후각적 설치 작품으로 풀어낸다. 이어지는 ‘본능’에서는 열에 반응하는 설치 작품과 빛, 움직임을 활용해...",
+ "published_at": "2026-10-17T17:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "FR",
+   "KR"
+  ],
+  "brands": [
+   "프레데릭 말",
+   "피스마이너스원"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "협업 전시",
+   "후각 설치 작품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "뮤스크 라바줴",
+    "brand": "프레데릭 말",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "프레데릭 말과 피스마이너스원이 뮤스크 라바줴의 탄생 과정을 설치 작품으로 풀어낸다",
+  "key_fact_quote": "첫 번째 공간인 ‘창조’에서는 조향사 모리스 루셀이 뮤스크 라바줴를 탄생시킨 과정과 향의 원료를 후각적 설치 작품으로 풀어낸다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

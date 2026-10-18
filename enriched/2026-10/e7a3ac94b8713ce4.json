@@ -1,0 +1,54 @@
+{
+ "doc_id": "e7a3ac94b8713ce4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.job-post.co.kr/news/articleView.html?idxno=232754",
+ "title": "디올 뷰티 , 시나몬·허니 컬러 담은 '2026 홀리데이 룩' 공개",
+ "summary": "신제품 은 15일부터 디올 뷰티 온라인 부티크에서 먼저 판매되며, 22일부터 신세계 강남과 롯데월드몰 부티크에서 선 출시 된다. 오는 11월 1일부터는 전국 백화점 디올 뷰티 매장과 디올 뷰티 부티크를 비롯한 오프라인...",
+ "published_at": "2026-10-16T17:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "디올 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "시즌 메이크업",
+   "백화점 선출시"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "2026 홀리데이 룩",
+    "brand": "디올 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신제품 은 15일부터 디올 뷰티 온라인 부티크에서 먼저 판매되며, 22일부터 신세계 강남과 롯데월드몰 부티크에서 선 출시 된다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디올 뷰티가 시나몬과 허니 컬러를 담은 홀리데이 룩을 공개했다.",
+  "key_fact_quote": "디올 뷰티 , 시나몬·허니 컬러 담은 '2026 홀리데이 룩' 공개",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

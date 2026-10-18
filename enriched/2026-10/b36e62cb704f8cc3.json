@@ -1,0 +1,43 @@
+{
+ "doc_id": "b36e62cb704f8cc3",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312136",
+ "title": "①China’s Sheet Mask Market Stabilizes After Sharp Contraction, but Structural Shifts Accelerate",
+ "summary": "China’s sheet mask market appears to be entering a stabilization phase following a sharp correction over the past two years.An analysis of the top 10 sheet mask brands on Tmall found that third-quarter sales declined from approximately 2 million units in 2024 to 830,000 units in 2025, representing a",
+ "published_at": "2026-10-16T16:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "시트마스크 시장",
+   "진정 케어",
+   "피부장벽 케어",
+   "시장 집중"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 시트마스크 시장은 급감 이후 안정 단계에 들어섰고 소비자 관심은 진정과 장벽 케어로 옮겨 가고 있다.",
+  "key_fact_quote": "China’s sheet mask market appears to be entering a stabilization phase following a sharp correction over the past two years.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": true
+}

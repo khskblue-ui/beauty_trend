@@ -1,0 +1,43 @@
+{
+ "doc_id": "15e0cd722e30f89b",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312138",
+ "title": "③China's Base Makeup Market Remains Under Pressure as Skincare-Focused Products Gain Ground",
+ "summary": "China\\'s base makeup market continued to contract in 2026, extending a downturn that began in the previous year and highlighting ongoing changes in consumer purchasing behavior.An analysis of the top 10 base makeup brands on Tmall found that third-quarter sales declined from approximately 1.07 millio",
+ "published_at": "2026-10-18T09:40:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "베이스 메이크업 시장 위축",
+   "스킨케어형 메이크업",
+   "중국 로컬 브랜드",
+   "다기능 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 베이스 메이크업 시장이 계속 위축되는 가운데 스킨케어 효능을 더한 제품이 늘고 있다",
+  "key_fact_quote": "China's base makeup market continued to contract in 2026, extending a downturn that began in the previous year and highlighting ongoing changes in consumer purchasing behavior.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

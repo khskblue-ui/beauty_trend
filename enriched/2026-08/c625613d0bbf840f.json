@@ -1,0 +1,76 @@
+{
+ "doc_id": "c625613d0bbf840f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hinews.co.kr/view.php?ud=2026082414595048449aeda69934_48",
+ "title": "막스마라, 브랜드 유산 담은 첫 향수 ‘르 퍼퓸(Le Parfum)’ 8월 전 세계...",
+ "summary": "유명 조향사 마리 살라마뉴와 파브리스 펠레그린이 조향한 ‘르 퍼퓸’은 샌달우드와 시더우드의 풍성한 우디 머스크를 중심으로, 튜베로즈 앱솔루트와 벨벳 밤이 크리미한 조화를 이룬다. 베이스 노트의 바닐라와...",
+ "published_at": "2026-08-24T15:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "IT"
+  ],
+  "brands": [
+   "막스마라"
+  ],
+  "companies": [],
+  "keywords": [
+   "브랜드 첫 향수",
+   "우디 머스크",
+   "조향사 협업"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "르 퍼퓸",
+    "brand": "막스마라",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "샌달우드",
+     "시더우드",
+     "우디 머스크",
+     "튜베로즈 앱솔루트"
+    ],
+    "notes_quote": "유명 조향사 마리 살라마뉴와 파브리스 펠레그린이 조향한 ‘르 퍼퓸’은 샌달우드와 시더우드의 풍성한 우디 머스크를 중심으로, 튜베로즈 앱솔루트와 벨벳 밤이 크리미한 조화를 이룬다."
+   }
+  ],
+  "key_fact": "막스마라가 브랜드 유산을 담은 첫 향수를 내놓는다",
+  "key_fact_quote": "막스마라, 브랜드 유산 담은 첫 향수 ‘르 퍼퓸(Le Parfum)’ 8월 전 세계...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "샌달우드",
+    "quote": "유명 조향사 마리 살라마뉴와 파브리스 펠레그린이 조향한 ‘르 퍼퓸’은 샌달우드와 시더우드의 풍성한 우디 머스크를 중심으로, 튜베로즈 앱솔루트와 벨벳 밤이 크리미한 조화를 이룬다."
+   },
+   {
+    "name": "시더우드",
+    "quote": "유명 조향사 마리 살라마뉴와 파브리스 펠레그린이 조향한 ‘르 퍼퓸’은 샌달우드와 시더우드의 풍성한 우디 머스크를 중심으로, 튜베로즈 앱솔루트와 벨벳 밤이 크리미한 조화를 이룬다."
+   },
+   {
+    "name": "튜베로즈 앱솔루트",
+    "quote": "유명 조향사 마리 살라마뉴와 파브리스 펠레그린이 조향한 ‘르 퍼퓸’은 샌달우드와 시더우드의 풍성한 우디 머스크를 중심으로, 튜베로즈 앱솔루트와 벨벳 밤이 크리미한 조화를 이룬다."
+   },
+   {
+    "name": "우디 머스크",
+    "quote": "유명 조향사 마리 살라마뉴와 파브리스 펠레그린이 조향한 ‘르 퍼퓸’은 샌달우드와 시더우드의 풍성한 우디 머스크를 중심으로, 튜베로즈 앱솔루트와 벨벳 밤이 크리미한 조화를 이룬다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

@@ -1,0 +1,52 @@
+{
+ "doc_id": "d7822e0d0ac54d21",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53715",
+ "title": "에스티로더, ‘핑크리본 한옥하우스’ 개관",
+ "summary": "에스티로더코리아가 오늘(16일) 서울 인사동에 ‘핑크리본 한옥하우스’를 열었다. 핑크리본 한옥하우스는 10월 유방암 인식의 달을 맞아 마련됐다. 한옥에 유방암 경험자이야기를 소개하고 가슴 건강 체험 프로그램을 운영한다.",
+ "published_at": "2026-10-16T14:24:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에스티로더"
+  ],
+  "companies": [],
+  "keywords": [
+   "핑크리본 캠페인",
+   "유방암 인식",
+   "체험형 공간"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에스티로더코리아가 유방암 인식의 달을 맞아 서울 인사동에 핑크리본 한옥하우스를 열었다.",
+  "key_fact_quote": "에스티로더코리아가 오늘(16일) 서울 인사동에 ‘핑크리본 한옥하우스’를 열었다.",
+  "events": [
+   {
+    "name": "핑크리본 한옥하우스",
+    "start_date": "2026-10-16",
+    "end_date": null,
+    "place": "서울 인사동",
+    "quote": "에스티로더코리아가 오늘(16일) 서울 인사동에 ‘핑크리본 한옥하우스’를 열었다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

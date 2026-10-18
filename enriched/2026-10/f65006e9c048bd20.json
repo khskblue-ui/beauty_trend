@@ -1,0 +1,42 @@
+{
+ "doc_id": "f65006e9c048bd20",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/brazil-opens-familiarization-period-for-sisgen-3-0",
+ "title": "Brazil opens familiarization period for SisGen 3 . 0",
+ "summary": "Brazil began a 60 -day user familiarization period for SisGen 3 . 0 on 1 October 2026 . The updated software for the country’s genetic heritage and associated traditional knowledge management system was approved through Genetic Heritage Management Council (CGen) Resolution No. 53 , published on 28 September 2026 .",
+ "published_at": "2026-10-16T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "BR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "유전자원 규제",
+   "전통지식 접근",
+   "생물자원 이용"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "브라질이 유전자원 관리 시스템의 새 소프트웨어에 대한 이용자 적응 기간을 시작했다.",
+  "key_fact_quote": "Brazil began a 60 -day user familiarization period for SisGen 3 . 0 on 1 October 2026 .",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

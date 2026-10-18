@@ -1,0 +1,45 @@
+{
+ "doc_id": "2ea0215a47694e72",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53720",
+ "title": "한국콜마서 K-뷰티 경쟁력 확인한 이소영 중기부 장관",
+ "summary": "이소영 중소벤처기업부 장관이 지난 16일(금) 국내 최초의 화장품 ODM 기업 한국콜마 세종공장을 방문했다고 한국콜마(대표 최현규)가 밝혔다. 이번 일정은 이소영 장관 취임 후 첫 민간기업 방문이다. K-화장품·뷰티 산업의 경쟁력을 확인하고 업계의 애로사항을 청취하기 위해 진행했다. 이 장관은 이날…",
+ "published_at": "2026-10-18T12:02:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "화장품 ODM",
+   "중소·인디 브랜드",
+   "리쇼어링"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "이소영 중소벤처기업부 장관이 취임 후 첫 민간기업 방문으로 한국콜마 세종공장을 찾았다.",
+  "key_fact_quote": "이소영 중소벤처기업부 장관이 지난 16일(금) 국내 최초의 화장품 ODM 기업 한국콜마 세종공장을 방문했다고 한국콜마(대표 최현규)가 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": true
+}

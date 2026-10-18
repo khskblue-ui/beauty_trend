@@ -1,0 +1,48 @@
+{
+ "doc_id": "44aaa260d14b6637",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.econovill.com/news/articleView.html?idxno=753871",
+ "title": "신세계인터, 하반기 '멤버십 위크'…패션·뷰티 10배 적립",
+ "summary": "또한 딥티크, 산타마리아노벨라, 메종프란시스커정 등 니치 향수 도 포함됐다. 신규 고객을 위한 추가 혜택도 마련했다. 오프라인 매장에서 멤버십에 가입하면 10% 즉시 할인을 받을 수 있으며, 온라인 가입 시 최대 20...",
+ "published_at": "2026-10-16T13:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "딥티크",
+   "산타마리아노벨라",
+   "메종프란시스커정"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "멤버십 위크",
+   "니치 향수",
+   "포인트 적립"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신세계인터가 하반기 멤버십 행사에 니치 향수 브랜드를 포함했다",
+  "key_fact_quote": "또한 딥티크, 산타마리아노벨라, 메종프란시스커정 등 니치 향수 도 포함됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

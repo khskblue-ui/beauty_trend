@@ -1,0 +1,46 @@
+{
+ "doc_id": "65e25565a6573889",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=766085",
+ "title": "신세계인터내셔날, 25일까지 '멤버십 위크'…포인트 적립률 10배 높여",
+ "summary": "등 향수 , 아워글래스·로라메르시에 등 화장품 브랜드다. 한편 '신세계V'는 올해 출시 10주년을 맞았다. 지난 2016년 9월 '에스아이빌리지'라는 이름으로 처음 서비스를 시작했다. 지난해 6월 '신세계V'로...",
+ "published_at": "2026-10-16T15:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아워글래스",
+   "로라메르시에"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "멤버십 혜택",
+   "뷰티 유통"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "신세계인터내셔날이 멤버십 위크를 열어 포인트 적립률을 높였다.",
+  "key_fact_quote": "신세계인터내셔날, 25일까지 '멤버십 위크'…포인트 적립률 10배 높여",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

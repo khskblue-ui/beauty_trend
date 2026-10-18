@@ -1,0 +1,47 @@
+{
+ "doc_id": "256600e48acb45d7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480866",
+ "title": "명인 화장품 , 'K-뷰티엑스포' 참가",
+ "summary": "명인 화장품 관계자는 \"이번 전시를 통해 팜스테이와 어나더페이스가 준비한 신제품 을 글로벌 바이어에게 처음 선보일 수 있어 의미가 크다\"며 \"브랜드별 차별화된 성분과 기술력을 앞세워 해외 파트너십을 더욱...",
+ "published_at": "2026-10-16T14:29:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "팜스테이",
+   "어나더페이스"
+  ],
+  "companies": [
+   "명인 화장품"
+  ],
+  "keywords": [
+   "K뷰티 박람회",
+   "해외 바이어",
+   "신제품 공개"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "명인 화장품이 K-뷰티엑스포에서 팜스테이와 어나더페이스의 신제품을 처음 선보인다.",
+  "key_fact_quote": "이번 전시를 통해 팜스테이와 어나더페이스가 준비한 신제품 을 글로벌 바이어에게 처음 선보일 수 있어 의미가 크다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

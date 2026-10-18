@@ -1,0 +1,111 @@
+{
+ "doc_id": "adfffa7dc4fb1198",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58524",
+ "title": "동국제약 센텔리안24, 마데카 크림 1억개 판매 기념 세트 2종 출시",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 동국제약(대표이사 송준호)의 더마코스메틱 브랜드 센텔리안24가 마데카 크림 누적 판매량 1억개 돌파와 창립 58주년을 기념한 ‘마데카 크림 스페셜 세트’ 2종을 출시했다고 16일 밝혔다. 마데카 크림은 동국제약이 50여 년간 축적한 피부과학 기술과 독자적인 병풀…",
+ "published_at": "2026-10-16T17:21:45+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안24"
+  ],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "안티에이징",
+   "기념 세트",
+   "저속노화"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "마데카 크림 에이징 포커스 스페셜 세트",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "동국제약(대표이사 송준호)의 더마코스메틱 브랜드 센텔리안24가 마데카 크림 누적 판매량 1억개 돌파와 창립 58주년을 기념한 ‘마데카 크림 스페셜 세트’ 2종을 출시했다고 16일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마데카 크림 타이트 리프팅 스페셜 세트",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "동국제약(대표이사 송준호)의 더마코스메틱 브랜드 센텔리안24가 마데카 크림 누적 판매량 1억개 돌파와 창립 58주년을 기념한 ‘마데카 크림 스페셜 세트’ 2종을 출시했다고 16일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마데카 크림 에이징 포커스",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마데카 더마 마스크 인텐시브 리프팅 포뮬러",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마데카 크림 타이트 리프팅",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마데카 크림 파워부스팅 포뮬러 어드밴스드",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "센텔리안24가 마데카 크림 판매 기념 스페셜 세트 두 종을 내놨다",
+  "key_fact_quote": "동국제약(대표이사 송준호)의 더마코스메틱 브랜드 센텔리안24가 마데카 크림 누적 판매량 1억개 돌파와 창립 58주년을 기념한 ‘마데카 크림 스페셜 세트’ 2종을 출시했다고 16일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "TECA",
+    "quote": "핵심 성분 TECA를 정교하게 설계한 ‘표적-TECA™’가 이마와 눈가, 팔자, 입가 등 주요 부위의 탄력 관리를 돕고 마스크팩을 활용한 집중 케어까지 연결한다."
+   },
+   {
+    "name": "병풀",
+    "quote": "마데카 크림은 동국제약이 50여 년간 축적한 피부과학 기술과 독자적인 병풀 사이언스 ‘TECAnology™(테카놀로지)’를 바탕으로 개발한 토탈 안티에이징 크림이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": true
+}

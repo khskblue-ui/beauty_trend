@@ -1,0 +1,47 @@
+{
+ "doc_id": "48d0394c738a6623",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026101614242530008",
+ "title": "“이제는 K-패치다”…마르시끄, 미국 ‘얼타 뷰티 ’ 입점하며 북미 시...",
+ "summary": "글로벌 뷰티 브랜드 마르시끄(MARSHIQUE)가 미국 최대 규모의 뷰티 리테일러 얼타 뷰티 (Ulta Beauty)에 공식 입점하며 북미 시장 공략을 본격화한다. 마르시끄는 오는 10월 18일 Ulta.com 론칭 을 시작으로, 11월 1일부터 미국 전역...",
+ "published_at": "2026-10-16T14:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "마르시끄"
+  ],
+  "companies": [
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "K패치",
+   "미국 시장 진출",
+   "리테일러 입점"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "마르시끄가 미국 얼타 뷰티에 입점해 북미 시장 공략을 본격화한다",
+  "key_fact_quote": "글로벌 뷰티 브랜드 마르시끄(MARSHIQUE)가 미국 최대 규모의 뷰티 리테일러 얼타 뷰티 (Ulta Beauty)에 공식 입점하며 북미 시장 공략을 본격화한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

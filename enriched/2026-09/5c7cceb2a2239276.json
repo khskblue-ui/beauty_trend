@@ -1,0 +1,45 @@
+{
+ "doc_id": "5c7cceb2a2239276",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sports.hankooki.com/news/articleView.html?idxno=6940932",
+ "title": "무신사 뷰티 , 10월 더마 코스메틱' 카테고리 분리…스킨케어 강화",
+ "summary": "지난 8월 무신사 뷰티 에 공식 입점한 프랑스 더마 브랜드 '바이오더마'는 입점 당일 전체 브랜드 랭킹 1위에 올랐다. '센시비오 H2O' 클렌징 워터 기획 세트는 론칭 이후 무신사 뷰티 여성 회원 대상 클렌징 제품 구매 순위...",
+ "published_at": "2026-09-30T18:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "기능성 화장품",
+   "클렌징 워터"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "e254de0c8c753015",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

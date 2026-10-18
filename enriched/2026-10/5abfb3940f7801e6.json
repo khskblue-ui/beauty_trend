@@ -1,0 +1,47 @@
+{
+ "doc_id": "5abfb3940f7801e6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439760",
+ "title": "'가성비' 벗은 中 화장품… K뷰티 색조부터 파고든다",
+ "summary": "중국산 화장품 수입 1~9월 24.5%↑… K뷰티 색조 수출 '역성장' 무신사 뷰티 에 입정한 플라워노즈 매장[출처: 무신사] 중국 화장품이 국내 시장을 빠르게 파고들고 있다. K뷰티 가 기초화장품을 앞세워 미국과 유럽에서...",
+ "published_at": "2026-10-18T07:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "플라워노즈"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "중국 화장품",
+   "K뷰티 색조",
+   "가성비 탈피"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 화장품이 국내 시장을 빠르게 파고들고 있다.",
+  "key_fact_quote": "중국 화장품이 국내 시장을 빠르게 파고들고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

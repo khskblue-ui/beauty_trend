@@ -1,0 +1,50 @@
+{
+ "doc_id": "640a2e4d1e66f0ec",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.medisobizanews.com/news/articleView.html?idxno=143242",
+ "title": "FDA, 25년 만에 신규 선크림 성분 추가…K-뷰티 진출 주목",
+ "summary": "AP통신은 지난 14일 뉴트로지나를 비롯한 제조업체들이 베모트리지놀을 함유한 자외선 차단제를 출시 하면서 미국 시장에 새로운 선택지가 등장했다고 보도했다. 국내 화장품 업계도 이번 승인을 미국 선케어 시장...",
+ "published_at": "2026-10-17T16:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "뉴트로지나"
+  ],
+  "companies": [],
+  "keywords": [
+   "선케어 성분",
+   "FDA 승인",
+   "K뷰티 미국 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 FDA가 오랜만에 신규 선크림 성분을 추가해 K뷰티의 진출이 주목된다.",
+  "key_fact_quote": "FDA, 25년 만에 신규 선크림 성분 추가…K-뷰티 진출 주목",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "베모트리지놀",
+    "quote": "AP통신은 지난 14일 뉴트로지나를 비롯한 제조업체들이 베모트리지놀을 함유한 자외선 차단제를 출시 하면서 미국 시장에 새로운 선택지가 등장했다고 보도했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

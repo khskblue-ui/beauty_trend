@@ -1,0 +1,52 @@
+{
+ "doc_id": "3e9bde18be91e369",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fashionbiz.co.kr/article/229902",
+ "title": "엘노어, 10월 1일부터 신강서 ‘슈즈+ 향수 +디퓨저’ 팝업 연다",
+ "summary": "김미혜 디자이너가 전개하는 슈즈 & 하우스 브랜드 ‘엘노어’가 황금연휴 기간을 포함한 10월 1일부터... 엘노어 향수 또는 디퓨저를 선물로 준다. 여기에 공식 인스타그램 및 카카오채널 팔로우와 방문 인증샷을...",
+ "published_at": "2026-09-30T12:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "엘노어"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 팝업",
+   "디퓨저",
+   "브랜드 협업 팝업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "엘노어가 신강서에서 슈즈, 향수, 디퓨저 팝업을 연다",
+  "key_fact_quote": "‘엘노어’가 황금연휴 기간을 포함한 10월 1일부터",
+  "events": [
+   {
+    "name": "‘슈즈+ 향수 +디퓨저’ 팝업",
+    "start_date": "2026-10-01",
+    "end_date": null,
+    "place": "신강서",
+    "quote": "‘엘노어’가 황금연휴 기간을 포함한 10월 1일부터"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

@@ -1,0 +1,55 @@
+{
+ "doc_id": "7b81683da736ea2b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kr.aving.net/news/articleView.html?idxno=1815609",
+ "title": "베트남 K- 뷰티 , AI가 골라준다… 하이브랩, 커머스 플랫폼 '애픽(aépick)...",
+ "summary": "차세대 고객경험(CX) 기반 AI-Tech 전문기업 하이브랩(대표 서종혁)은 AI 기반 베트남 K- 뷰티 커머스 플랫폼 '애픽(aépick)'을 공식 론칭 했다고 16일 밝혔다. 이번 플랫폼은 K- 뷰티 및 H&B 브랜드 의 베트남 진출을 겨냥한...",
+ "published_at": "2026-10-16T18:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN"
+  ],
+  "brands": [],
+  "companies": [
+   "하이브랩"
+  ],
+  "keywords": [
+   "AI 커머스",
+   "K뷰티 해외 진출",
+   "베트남 시장"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "애픽(aépick)",
+    "brand": "하이브랩",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "차세대 고객경험(CX) 기반 AI-Tech 전문기업 하이브랩(대표 서종혁)은 AI 기반 베트남 K- 뷰티 커머스 플랫폼 '애픽(aépick)'을 공식 론칭 했다고 16일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "하이브랩이 AI 기반 베트남 K뷰티 커머스 플랫폼을 공식 론칭했다",
+  "key_fact_quote": "차세대 고객경험(CX) 기반 AI-Tech 전문기업 하이브랩(대표 서종혁)은 AI 기반 베트남 K- 뷰티 커머스 플랫폼 '애픽(aépick)'을 공식 론칭 했다고 16일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

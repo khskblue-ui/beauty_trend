@@ -1,0 +1,43 @@
+{
+ "doc_id": "51f04adb5dedc7f2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.marieclairekorea.com/beauty/2026/09/chanelbeauty-2/?utm_source=naver&utm_medium=partnership",
+ "title": "샤넬이 선택한 크리에이티브 메이크업 디렉터, 루치아 피에로니",
+ "summary": "향수 & 뷰티 부문 사장 시모나 카타네오(Simona Cattaneo)는 그가 얼굴마다 지닌 개인 고유의 특징을 발견하고... “팀과 함께 이 아이코닉한 브랜드 의 메이크업에 새로운 챕터를 열어갈 수 있기를 기대합니다.” -루치아...",
+ "published_at": "2026-09-30T18:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "샤넬"
+  ],
+  "companies": [],
+  "keywords": [
+   "메이크업 디렉터",
+   "럭셔리 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "샤넬이 새 크리에이티브 메이크업 디렉터를 선택했다",
+  "key_fact_quote": "“팀과 함께 이 아이코닉한 브랜드 의 메이크업에 새로운 챕터를 열어갈 수 있기를 기대합니다.” -루치아...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

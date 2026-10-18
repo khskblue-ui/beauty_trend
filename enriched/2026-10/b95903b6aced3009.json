@@ -1,0 +1,42 @@
+{
+ "doc_id": "b95903b6aced3009",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/sb-founded/6322950",
+ "title": "\" K - 뷰티 , 짝퉁·해외 규제에 발목…중소기업 맞춤형 지원 필요\"",
+ "summary": "최 대표는 다만 1만개에 달하는 화장품 수출 기업 중 이러한 능력이 뛰어난 기업은 20~30개 수준으로, 모든 브랜드가 다 잘 되는 것은 아니다\"라며 \" K - 뷰티 펀드 등을 통해 육성 분위기가 조성되고 있는 것이 중요한 것 같다....",
+ "published_at": "2026-10-18T12:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 중소기업 지원",
+   "해외 규제",
+   "모방 제품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 중소기업이 모방 제품과 해외 규제에 막혀 맞춤형 지원이 필요하다.",
+  "key_fact_quote": "K - 뷰티 , 짝퉁·해외 규제에 발목…중소기업 맞춤형 지원 필요",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

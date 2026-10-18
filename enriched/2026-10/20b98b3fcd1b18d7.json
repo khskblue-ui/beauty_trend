@@ -1,0 +1,45 @@
+{
+ "doc_id": "20b98b3fcd1b18d7",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312137",
+ "title": "②China's Sun Care Market Stabilizes as Consumers Seek More Than UV Protection",
+ "summary": "China\\'s sun care market appears to have entered a period of stabilization following a sharp contraction over the past two years.An analysis of the top 10 sun care brands on Tmall found that third-quarter sales declined from approximately 1.29 million units in 2024 to 530,000 units in 2025, represent",
+ "published_at": "2026-10-17T12:15:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "Tmall"
+  ],
+  "keywords": [
+   "선케어 시장 안정화",
+   "스킨케어형 선케어",
+   "중국 로컬 브랜드",
+   "멀티 기능 제품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 선케어 시장은 급감 이후 안정기에 들어섰고 제품은 스킨케어 효능을 함께 내세우는 쪽으로 바뀌고 있다.",
+  "key_fact_quote": "China's sun care market appears to have entered a period of stabilization following a sharp contraction over the past two years.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

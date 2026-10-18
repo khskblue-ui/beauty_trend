@@ -1,0 +1,46 @@
+{
+ "doc_id": "9b9399db737e9813",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53722",
+ "title": "더엘와이, 中 ‘위생허가부터 판매까지’ 통합 서비스 가동",
+ "summary": "중국시장 진출을 추진하는 국내 화장품·뷰티 기업들의 가장 큰 고민은 단순한 인허가 취득이나 온라인 플랫폼 입점에 그치지 않는다. △ 갈수록 높아지는 비관세장벽 △ 높은 초기 투자비용 △ 현지 소비자와의 접점 부족 △ 안정성을 갖춘 유통망 확보 등 시장 진입부터 실제 매출 창출에 이르기까지 넘어야…",
+ "published_at": "2026-10-18T16:26:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "더엘와이"
+  ],
+  "keywords": [
+   "중국 시장 진출",
+   "종합대행 서비스",
+   "왕홍 마케팅",
+   "크로스보더 판매"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "더엘와이가 중국 시장 진출을 위한 종합대행 서비스를 내놓고 본격 사업에 들어갔다.",
+  "key_fact_quote": "더엘와이가 제시하는 중국시장 진출 종합대행 서비스는 모두 7개 영역 으로 구성했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": true
+}

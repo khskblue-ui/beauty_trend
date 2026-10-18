@@ -1,0 +1,74 @@
+{
+ "doc_id": "36b97dcda40e4211",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100167",
+ "title": "디오디너리, ‘HA + 아시아티코사이드 립 트리트먼트’",
+ "summary": "캐나다 오리진의 코스메틱 브랜드 데시엠(DECIEM)의 ‘진정성 있는 임상 스킨케어’ 브랜드 디오디너리(The Ordinary)가 즉각적인 플럼핑 효과와 장기적인 입술 노화 완화 효과를 동시에 선사하는 혁신적인 신제품 HA + 아시아티코사이드 립 트리트먼트를 출시한다.지난 10년 이상 뷰티 및 립 케어 시장에서는 일시적인 자극을 주는 립 플럼퍼 제품부터 온라인상에서 화제가 된 플럼핑 챌린지에 이르기까지 ‘립 플럼핑’에 대한 열풍은 지속되어 왔다. 비수술적 성형 시술 중 입술 필러와 필러 확장 시술이 가장 인기를 끌면서, 립 케어 카",
+ "published_at": "2026-10-16T09:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "CA"
+  ],
+  "brands": [
+   "디오디너리"
+  ],
+  "companies": [
+   "데시엠"
+  ],
+  "keywords": [
+   "립 케어",
+   "립 플럼핑",
+   "스킨 롱제비티",
+   "다기능 립 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "HA + 아시아티코사이드 립 트리트먼트",
+    "brand": "디오디너리",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "캐나다 오리진의 코스메틱 브랜드 데시엠(DECIEM)의 ‘진정성 있는 임상 스킨케어’ 브랜드 디오디너리(The Ordinary)가 즉각적인 플럼핑 효과와 장기적인 입술 노화 완화 효과를 동시에 선사하는 혁신적인 신제품 HA + 아시아티코사이드 립 트리트먼트를 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디오디너리가 즉각적인 플럼핑과 장기적인 입술 노화 완화를 내세운 립 트리트먼트를 출시한다",
+  "key_fact_quote": "디오디너리의 최신 립 케어 신제품인 HA + 아시아티코사이드 립 트리트먼트는 이러한 시장의 진화에 맞춰 개발되었다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "아시아티코사이드",
+    "quote": "캐나다 오리진의 코스메틱 브랜드 데시엠(DECIEM)의 ‘진정성 있는 임상 스킨케어’ 브랜드 디오디너리(The Ordinary)가 즉각적인 플럼핑 효과와 장기적인 입술 노화 완화 효과를 동시에 선사하는 혁신적인 신제품 HA + 아시아티코사이드 립 트리트먼트를 출시한다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "이번 신제품은 얼굴 피부와 생물학적 구조가 다른 입술 특성을 고려해 ‘다중 분자 히알루론산(HA) 복합체’를 핵심 성분으로 담아냈다."
+   },
+   {
+    "name": "발효 히알루론산",
+    "quote": "발효 히알루론산이 입술의 수분 증발을 막고 라인과 주름을 매끄럽게 정돈해 주는 한편, 수분 유지력이 뛰어난 고분자 캡슐화 히알루론산은 바르는 즉시 입술 깊숙이 수분을 채워 도톰한 볼륨감을 선사한다."
+   },
+   {
+    "name": "고분자 캡슐화 히알루론산",
+    "quote": "발효 히알루론산이 입술의 수분 증발을 막고 라인과 주름을 매끄럽게 정돈해 주는 한편, 수분 유지력이 뛰어난 고분자 캡슐화 히알루론산은 바르는 즉시 입술 깊숙이 수분을 채워 도톰한 볼륨감을 선사한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

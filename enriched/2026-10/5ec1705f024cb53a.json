@@ -1,0 +1,47 @@
+{
+ "doc_id": "5ec1705f024cb53a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sentv.co.kr/article/view/sentv202610150098",
+ "title": "[기획] 에이블리·CU·컬리 이어 배민까지…업종 불문 ‘뷰티 전쟁’ 왜",
+ "summary": "컬렉션’을 출시 했다. 전략은 패션과의 연계다. 청순·러블리·모던·볼드·힙 등 5가지 테마로 색상을... 가운데 향수 ·화장품이 75.3%로 가장 많았다. 전년 같은 분기(70.9%)보다 4.4%p 늘었다. 수익성도 매력이다. 업계에...",
+ "published_at": "2026-10-17T07:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이블리",
+   "CU",
+   "컬리",
+   "배민"
+  ],
+  "keywords": [
+   "이업종 뷰티 진출",
+   "편의점 화장품",
+   "뷰티 시장 경쟁"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에이블리, CU, 컬리, 배민 등 다른 업종 기업이 잇따라 뷰티 사업에 뛰어들고 있다",
+  "key_fact_quote": "[기획] 에이블리·CU·컬리 이어 배민까지…업종 불문 ‘뷰티 전쟁’ 왜",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

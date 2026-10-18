@@ -1,0 +1,41 @@
+{
+ "doc_id": "58d10f0556963853",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/distribution/6320126",
+ "title": "[패션& 뷰티 ]각 잡힌 가방 대신 축 늘어진 가방…올 FW '슬라우치백' 뜬다",
+ "summary": "스웨이드 특유의 부드러운 질감과 색감이 가을·겨울(FW) 시즌과 어울리는 데다 관련 신제품 출시 가 늘면서 수요가 확대된 것으로 풀이된다. W컨셉에서도 최근 한 달간 스웨이드백 검색량이 전년 동기 대비 27% 증가했다....",
+ "published_at": "2026-10-17T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "슬라우치백",
+   "스웨이드백"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "가을겨울 시즌에 스웨이드 소재 가방 수요가 늘고 있다",
+  "key_fact_quote": "스웨이드 특유의 부드러운 질감과 색감이 가을·겨울(FW) 시즌과 어울리는 데다 관련 신제품 출시 가 늘면서 수요가 확대된 것으로 풀이된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

@@ -1,0 +1,52 @@
+{
+ "doc_id": "32c0a88122f557d7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160271935437186",
+ "title": "용인시산업진흥원, K - 뷰티 기업 해외 화장품 인증 대응 교육",
+ "summary": "▲ 사진= K - 뷰티 해외 수출 인증 대응 설명회. 경기 용인시산업진흥원이 지난 15일 영덕동 소공인·스타트업 허브에서 지역 화장품 기업의 해외시장 진출을 지원하기 위한 ‘ K - 뷰티 해외 수출 화장품 인증 대응 설명회’를...",
+ "published_at": "2026-10-17T10:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "용인시산업진흥원"
+  ],
+  "keywords": [
+   "해외 화장품 인증",
+   "K뷰티 수출",
+   "수출 규제 대응"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "용인시산업진흥원이 화장품 기업의 해외 인증 대응 설명회를 열었다.",
+  "key_fact_quote": "경기 용인시산업진흥원이 지난 15일 영덕동 소공인·스타트업 허브에서 지역 화장품 기업의 해외시장 진출을 지원하기 위한 ‘ K - 뷰티 해외 수출 화장품 인증 대응 설명회’를",
+  "events": [
+   {
+    "name": "K - 뷰티 해외 수출 화장품 인증 대응 설명회",
+    "start_date": "2026-10-15",
+    "end_date": null,
+    "place": "영덕동 소공인·스타트업 허브",
+    "quote": "경기 용인시산업진흥원이 지난 15일 영덕동 소공인·스타트업 허브에서 지역 화장품 기업의 해외시장 진출을 지원하기 위한 ‘ K - 뷰티 해외 수출 화장품 인증 대응 설명회’를"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

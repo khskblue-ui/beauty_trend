@@ -1,0 +1,62 @@
+{
+ "doc_id": "01329a0e97d7edba",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/30/2026093000071.html",
+ "title": "CJ온스타일, 프리미엄 뷰티 강화 … 佛 '레쁠레뜨' 국내 첫 론칭",
+ "summary": "첫 출시 제품인 오트 스킨 리뉴잉 크림은 프랑스 오베르뉴 지역에서 재배한 유기농 귀리 추출 성분을 적용했다. 국내에서는 주름 개선과 미백 기능성을 인정받은 이중 기능성 화장품 으로 판매한다. CJ온스타일은 이날...",
+ "published_at": "2026-09-30T10:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "FR",
+   "KR"
+  ],
+  "brands": [
+   "레쁠레뜨"
+  ],
+  "companies": [
+   "CJ온스타일"
+  ],
+  "keywords": [
+   "프리미엄 뷰티",
+   "이중 기능성 화장품",
+   "유기농 귀리"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "오트 스킨 리뉴잉 크림",
+    "brand": "레쁠레뜨",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "첫 출시 제품인 오트 스킨 리뉴잉 크림은 프랑스 오베르뉴 지역에서 재배한 유기농 귀리 추출 성분을 적용했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "CJ온스타일이 프랑스 브랜드 레쁠레뜨를 국내에 처음 선보였다",
+  "key_fact_quote": "첫 출시 제품인 오트 스킨 리뉴잉 크림은 프랑스 오베르뉴 지역에서 재배한 유기농 귀리 추출 성분을 적용했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "유기농 귀리 추출",
+    "quote": "첫 출시 제품인 오트 스킨 리뉴잉 크림은 프랑스 오베르뉴 지역에서 재배한 유기농 귀리 추출 성분을 적용했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

@@ -1,0 +1,56 @@
+{
+ "doc_id": "ce775208de3dfc7d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gosiweek.com/article/1065598644116788",
+ "title": "네리티아 세럼 파운데이션, CJ온스타일 론칭 방송서 전체 매진",
+ "summary": "▲사진 제공: 네리티아 뷰티 브랜드 네리티아는 지난 28일 진행된 CJ온스타일 세럼 파운데이션 론칭 방송에서 전체 매진을 달성했다고 밝혔다. 이번 방송을 통해 선보인 네리티아 세럼 파운데이션은 3단계 수분 보호막...",
+ "published_at": "2026-09-30T16:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "네리티아"
+  ],
+  "companies": [
+   "CJ온스타일"
+  ],
+  "keywords": [
+   "세럼 파운데이션",
+   "홈쇼핑 론칭",
+   "수분 보호막"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "네리티아 세럼 파운데이션",
+    "brand": "네리티아",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번 방송을 통해 선보인 네리티아 세럼 파운데이션은 3단계 수분 보호막...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "네리티아 세럼 파운데이션이 홈쇼핑 론칭 방송에서 전체 매진됐다",
+  "key_fact_quote": "뷰티 브랜드 네리티아는 지난 28일 진행된 CJ온스타일 세럼 파운데이션 론칭 방송에서 전체 매진을 달성했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

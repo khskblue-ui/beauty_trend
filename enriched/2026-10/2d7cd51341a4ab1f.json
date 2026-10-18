@@ -1,0 +1,65 @@
+{
+ "doc_id": "2d7cd51341a4ab1f",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=311514",
+ "title": "中 클렌징 시장, '잘 지우는 것'보다 '건강하게 지우는 것'",
+ "summary": "중국 클렌징 시장이 \\'얼마나 잘 지우는가\\'에서 \\'지우는 과정에서 피부에 어떤 긍정적인 가치를 제공할 수 있는가\\'로 이동하고 있다. 클렌징이 더 이상 스킨케어 이전 단계가 아니라 피부 건강을 관리하는 첫 번째 단계로 인식되기 시작했다는 의미다.실제로 소비자의 구매 기준도 달라지고 있다. \\'2026 중국 클렌징 소비 트렌드 백서\\'에 따르면 소비자의 74%가 클렌징 제품 선택 시 \\'피부 장벽을 보호하고 피부에 손상을 주지 않는 것\\'을 가장 중요한 요소로 꼽았다.이는 처음으로 세정력을 앞선 수치다. 소비자들이 단순히 잘 지워지는 제품보다",
+ "published_at": "2026-10-16T09:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "장벽 케어 클렌징",
+   "마이크로바이옴 클렌징",
+   "저자극 클렌징",
+   "스킨 헬스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 클렌징 시장이 피부 건강 관리 중심으로 바뀌며 K뷰티에 기회가 된다",
+  "key_fact_quote": "중국 클렌징 시장이 '얼마나 잘 지우는가'에서 '지우는 과정에서 피부에 어떤 긍정적인 가치를 제공할 수 있는가'로 이동하고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "시카",
+    "quote": "그동안 한국 화장품 기업들은 시카(CICA), 판테놀, 세라마이드, PDRN, 마이크로바이옴 등 피부 장벽과 피부 건강 관련 기술력에서 경쟁 우위를 확보해 왔다."
+   },
+   {
+    "name": "판테놀",
+    "quote": "그동안 한국 화장품 기업들은 시카(CICA), 판테놀, 세라마이드, PDRN, 마이크로바이옴 등 피부 장벽과 피부 건강 관련 기술력에서 경쟁 우위를 확보해 왔다."
+   },
+   {
+    "name": "세라마이드",
+    "quote": "그동안 한국 화장품 기업들은 시카(CICA), 판테놀, 세라마이드, PDRN, 마이크로바이옴 등 피부 장벽과 피부 건강 관련 기술력에서 경쟁 우위를 확보해 왔다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "그동안 한국 화장품 기업들은 시카(CICA), 판테놀, 세라마이드, PDRN, 마이크로바이옴 등 피부 장벽과 피부 건강 관련 기술력에서 경쟁 우위를 확보해 왔다."
+   },
+   {
+    "name": "마이크로바이옴",
+    "quote": "그동안 한국 화장품 기업들은 시카(CICA), 판테놀, 세라마이드, PDRN, 마이크로바이옴 등 피부 장벽과 피부 건강 관련 기술력에서 경쟁 우위를 확보해 왔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

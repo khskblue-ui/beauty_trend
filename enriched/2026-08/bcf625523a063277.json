@@ -1,0 +1,59 @@
+{
+ "doc_id": "bcf625523a063277",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gukjenews.com/news/articleView.html?idxno=3679766",
+ "title": "클로이 아비리, 비수마 30번째 생일·아우라 향수 론칭 파티 참석",
+ "summary": "AFP 클로이 아비리가 30일(현지시간) 영국 바넷에 위치한 우드리지 하우스에서 진행된 이브 비수마의 30번째 생일 기념 행사와 아우라 향수 출시 파티에 모습을 드러냈다.",
+ "published_at": "2026-08-31T13:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "GB"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "향수 론칭 파티",
+   "셀러브리티 행사"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "아우라",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "AFP 클로이 아비리가 30일(현지시간) 영국 바넷에 위치한 우드리지 하우스에서 진행된 이브 비수마의 30번째 생일 기념 행사와 아우라 향수 출시 파티에 모습을 드러냈다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이브 비수마의 생일 행사와 아우라 향수 출시 파티가 열렸다",
+  "key_fact_quote": "AFP 클로이 아비리가 30일(현지시간) 영국 바넷에 위치한 우드리지 하우스에서 진행된 이브 비수마의 30번째 생일 기념 행사와 아우라 향수 출시 파티에 모습을 드러냈다.",
+  "events": [
+   {
+    "name": "이브 비수마의 30번째 생일 기념 행사와 아우라 향수 출시 파티",
+    "start_date": "2026-08-30",
+    "end_date": null,
+    "place": "영국 바넷에 위치한 우드리지 하우스",
+    "quote": "AFP 클로이 아비리가 30일(현지시간) 영국 바넷에 위치한 우드리지 하우스에서 진행된 이브 비수마의 30번째 생일 기념 행사와 아우라 향수 출시 파티에 모습을 드러냈다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

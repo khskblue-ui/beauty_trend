@@ -1,0 +1,54 @@
+{
+ "doc_id": "836dfe882d4dcbda",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.lawissue.co.kr/view.php?ud=202608280935022481204ead0791_12",
+ "title": "보테가 베네타 알타 향수 컬렉션 공개",
+ "summary": "회사 측은 “알타는 브랜드 역사상 가장 큰 규모의 향수 컬렉션으로, 이탈리아의 향을 새롭게 해석한 결과물”이라고 설명했다. 알타 컬렉션은 50ml와 100ml 두 가지 용량으로 출시 되며, 9월 1일부터 전국 매장과 공식...",
+ "published_at": "2026-08-28T09:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "IT"
+  ],
+  "brands": [
+   "보테가 베네타"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 컬렉션",
+   "이탈리아 향"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "알타 컬렉션",
+    "brand": "보테가 베네타",
+    "launch_date": "2026-09-01",
+    "launch_status": "upcoming",
+    "launch_quote": "알타 컬렉션은 50ml와 100ml 두 가지 용량으로 출시 되며, 9월 1일부터 전국 매장과 공식...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "보테가 베네타가 브랜드 역사상 가장 큰 규모의 향수 컬렉션 알타를 공개했다",
+  "key_fact_quote": "회사 측은 “알타는 브랜드 역사상 가장 큰 규모의 향수 컬렉션으로, 이탈리아의 향을 새롭게 해석한 결과물”이라고 설명했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

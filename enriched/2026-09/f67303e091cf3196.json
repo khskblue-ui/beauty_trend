@@ -1,0 +1,42 @@
+{
+ "doc_id": "f67303e091cf3196",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://mhnse.com/news/articleView.html?idxno=1566070",
+ "title": "뷰티 계 '완판 신화' 김수미, 매출 몇백억 인정…\"일본까지 진출했었다\"...",
+ "summary": "그는 \" 뷰티 랑 패션 콘텐츠를 숏폼으로 계속 올렸었다\"며 \"이런 콘텐츠들을 되게 많이 좋아해주신다\"고 설명했다. 높아진 인기에 힘입어 각종 럭셔리 브랜드 행사에도 자주 초청받았다고 밝혔다. 김수미는 \"럭셔리 브랜드 ...",
+ "published_at": "2026-09-30T23:43:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "숏폼 콘텐츠",
+   "인플루언서",
+   "럭셔리 브랜드 행사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "김수미가 뷰티와 패션 콘텐츠로 인기를 얻어 럭셔리 브랜드 행사에 자주 초청받았다",
+  "key_fact_quote": "높아진 인기에 힘입어 각종 럭셔리 브랜드 행사에도 자주 초청받았다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

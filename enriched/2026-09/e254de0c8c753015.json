@@ -1,0 +1,54 @@
+{
+ "doc_id": "e254de0c8c753015",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fntimes.com/html/view.php?ud=202609301010475944b5b890e35c_18",
+ "title": "무신사 뷰티, ‘더마 코스메틱’ 카테고리 분리한다",
+ "summary": "더마 코스메틱은 피부 고민에 따라 기능성과 효능을 강조한 화장품 을 말한다. 무신사가 더마 코스메틱을... 대표 상품인 ‘센시비오 H2O’ 클렌징 워터 기획 세트는 출시 이후 무신사 뷰티 여성 회원의 클렌징 제품 구매...",
+ "published_at": "2026-09-30T10:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "기능성 화장품",
+   "클렌징 워터"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "센시비오 H2O",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "무신사 뷰티가 더마 코스메틱을 별도 카테고리로 분리한다",
+  "key_fact_quote": "무신사 뷰티, ‘더마 코스메틱’ 카테고리 분리한다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

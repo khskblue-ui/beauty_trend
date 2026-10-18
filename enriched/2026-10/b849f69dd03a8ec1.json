@@ -1,0 +1,53 @@
+{
+ "doc_id": "b849f69dd03a8ec1",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58532",
+ "title": "코스맥스, 마켓발견과 폐가운·실험용기 새활용 MOU 체결",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 글로벌 화장품 연구·개발·생산(ODM) 기업 코스맥스가 업사이클링 소셜벤처 마켓발견과 손잡고 연구소에서 사용을 마친 가운과 실험용기를 예술작품과 교육 콘텐츠로 되살린다고 16일 밝혔다. 코스맥스는 지난 15일 경기도 의왕시 그라운드333에서 마켓발견과 자원…",
+ "published_at": "2026-10-18T21:29:12+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "마켓발견"
+  ],
+  "keywords": [
+   "업사이클링",
+   "자원순환",
+   "친환경 패키지"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 마켓발견과 연구소 폐가운과 실험용기를 새활용하는 업무협약을 맺었다",
+  "key_fact_quote": "코스맥스는 지난 15일 경기도 의왕시 그라운드333에서 마켓발견과 자원순환 활성화를 위한 업무협약(MOU)을 체결하고 첫 협력 프로그램인 ‘발견;순환-코스맥스와 함께하는 업사이클 아트페어’를 열었다.",
+  "events": [
+   {
+    "name": "발견;순환-코스맥스와 함께하는 업사이클 아트페어",
+    "start_date": "2026-10-15",
+    "end_date": null,
+    "place": "경기도 의왕시 그라운드333",
+    "quote": "코스맥스는 지난 15일 경기도 의왕시 그라운드333에서 마켓발견과 자원순환 활성화를 위한 업무협약(MOU)을 체결하고 첫 협력 프로그램인 ‘발견;순환-코스맥스와 함께하는 업사이클 아트페어’를 열었다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

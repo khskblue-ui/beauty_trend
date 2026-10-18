@@ -1,0 +1,70 @@
+{
+ "doc_id": "7c4f7de58d1df879",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53712",
+ "title": "유통사 MD가 뽑은 ‘fmk 리쥬네이팅 PDRN 키트’",
+ "summary": "에프엠케이 ‘리쥬네이팅 PDRN 키트’가 ‘2026 K-뷰티엑스포 코리아’ MD픽 스킨케어 부문 3위에 올랐다. 에프엠케이(fmk)는 차별화한 원료로 만든 고기능성 더마 코스메틱 브랜드다. 바이오 소재 연구개발 기업인 지에프씨생명과학이 개발했다. ‘리쥬네이팅 PDRN 키트’는 동결건조 큐브와 앰플을…",
+ "published_at": "2026-10-16T09:41:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에프엠케이"
+  ],
+  "companies": [
+   "지에프씨생명과학"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "PDRN 스킨케어",
+   "바이오 소재",
+   "뷰티 박람회"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리쥬네이팅 PDRN 키트",
+    "brand": "에프엠케이",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에프엠케이의 리쥬네이팅 PDRN 키트가 K-뷰티엑스포 코리아 MD픽 스킨케어 부문에 뽑혔다",
+  "key_fact_quote": "에프엠케이 ‘리쥬네이팅 PDRN 키트’가 ‘2026 K-뷰티엑스포 코리아’ MD픽 스킨케어 부문 3위에 올랐다.",
+  "events": [
+   {
+    "name": "2026 K-뷰티엑스포 코리아",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": "경기 킨텍스 1전시장",
+    "quote": "‘2026 K-뷰티엑스포 코리아’는 15일 경기 킨텍스 1전시장에서 막을 올려 17일까지 개최된다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "‘리쥬네이팅 PDRN 키트’는 동결건조 큐브와 앰플을 혼합해 사용하는 방식으로 설계됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

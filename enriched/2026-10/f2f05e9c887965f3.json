@@ -1,0 +1,42 @@
+{
+ "doc_id": "f2f05e9c887965f3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://magazine.hankyung.com/business/article/202610141506b",
+ "title": "지구정복 나선 ' K뷰티 '…다음 무대는?",
+ "summary": "K뷰티 수출 액은 2023년 이후 연평균 13% 성장하며 한국을 세계 2위 화장품 수출국으로 끌어올렸다. 글로벌... 이를 판단하려면 K뷰티의 제품 경쟁력과 이를 뒷받침하는 공급 구조를 함께 들여다볼 필요가 있다. ◆‘K’의...",
+ "published_at": "2026-10-18T10:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "화장품 공급 구조",
+   "글로벌 확장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티가 세계 화장품 수출국 순위를 끌어올려 다음 무대에 관심이 모인다",
+  "key_fact_quote": "K뷰티 수출 액은 2023년 이후 연평균 13% 성장하며 한국을 세계 2위 화장품 수출국으로 끌어올렸다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

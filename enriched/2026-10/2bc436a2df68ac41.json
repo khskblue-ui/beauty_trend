@@ -1,0 +1,44 @@
+{
+ "doc_id": "2bc436a2df68ac41",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10905939?ref=naver",
+ "title": "[르포]이소영 “ K - 뷰티 요람”…연 8억9000만개 생산 한국콜마 세종공장...",
+ "summary": "이후 경영진과 간담회를 갖고 중소 화장품 브랜드들의 경쟁력과 수출 과정에서 겪는 어려움 등을 청취했다.... 생산 현장에는 K - 뷰티 열풍을 뒷받침하는 제조 역량이 집약돼 있었다. 공장 2층 생산시설 견학로에서는...",
+ "published_at": "2026-10-18T12:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "제조 역량",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국콜마 세종공장에는 K뷰티 열풍을 뒷받침하는 제조 역량이 모여 있다.",
+  "key_fact_quote": "생산 현장에는 K - 뷰티 열풍을 뒷받침하는 제조 역량이 집약돼 있었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "a982b5569a85782a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026101722305367413",
+ "title": "\"중국 짝퉁에 中企 브랜드 골머리\"…이소영 장관, K뷰티 애로 청취",
+ "summary": "이 장관은 \"한국콜마는 중소기업이 아니지만, 화장품 중소기업들의 요람 같은 역할을 하고 있다\"며 \" K뷰티 수출 이 더욱 늘어나고 중소기업들이 성장하기 위해 어떤 정부의 노력이 필요한지 의견을 듣고 싶었다\"고 말했다.",
+ "published_at": "2026-10-18T12:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "중소 화장품 브랜드",
+   "모조품 문제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중소 화장품 브랜드가 중국 모조품 문제로 어려움을 겪는다는 얘기를 장관이 들었다.",
+  "key_fact_quote": "중국 짝퉁에 中企 브랜드 골머리",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

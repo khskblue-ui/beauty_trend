@@ -1,0 +1,38 @@
+{
+ "doc_id": "cae87f87b183aa54",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.wikitree.co.kr/articles/1162984",
+ "title": "K팝· 화장품 만 찾는 줄 알았는데… 외국인들이 꼭 챙겨가는 뜻밖의 '한...",
+ "summary": "다양하게 출시 되고 있다. 이 같은 변화는 외국인 관광객에게도 선택의 폭을 넓혀준다. 홍삼 특유의 쌉싸름한... 서울시는 앞서 출시 한 홍삼 관련 협업 상품도 해외 관광객들에게 관심을 얻어 2026년 8월까지 누적 3만1000개가...",
+ "published_at": "2026-09-30T12:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

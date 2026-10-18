@@ -1,0 +1,38 @@
+{
+ "doc_id": "a7d74ebc38339714",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsway.co.kr/news/view?ud=2026093015043535452",
+ "title": "\" 뷰티 다음은 패션\"…무신사·W컨셉, K패션 브랜드 날개 달기 경쟁",
+ "summary": "올해 2월 말 입점한 론칭 2년 차 브랜드 '파르벵'은 약 7개월 만에 거래액 41억원을 넘어섰다. 8월 말 단독 입점한 20개 브랜드 도 약 한 달 만에 합산 거래액 15억원을 돌파했다. 신생 브랜드 가 짧은 기간에 판매 규모를 키울...",
+ "published_at": "2026-09-30T15:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

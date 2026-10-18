@@ -1,0 +1,45 @@
+{
+ "doc_id": "410671cb3a5439f6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20260930000031",
+ "title": "[2026 전남광주뷰티산업전] 이브의정원, 한국 전통 세신을 현대적 프라...",
+ "summary": "메이크업 △ 향수 ·아로마 △미용기기·에스테틱 △뷰티 디바이스·뷰티테크 △화장품 원료·패키징 등이다. 참가 기업에게는 해외 바이어 및 유통 관계자와의 비즈니스 상담, 제품 및 브랜드 홍보, 세미나, 기업 간...",
+ "published_at": "2026-09-30T09:13:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이브의정원"
+  ],
+  "companies": [
+   "이브의정원"
+  ],
+  "keywords": [
+   "전통 세신",
+   "뷰티 박람회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "이브의정원이 전남광주뷰티산업전에 참가해 한국 전통 세신을 내세운다",
+  "key_fact_quote": "[2026 전남광주뷰티산업전] 이브의정원, 한국 전통 세신을 현대적 프라...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

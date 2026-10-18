@@ -1,0 +1,58 @@
+{
+ "doc_id": "2585834d240efe2b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.kdfnews.com/news/articleView.html?idxno=189390",
+ "title": "신세계면세점, 프랑스 니치향수 2개 브랜드 입점…'포비든 플럼' 단독 판...",
+ "summary": "엘라 케이는 프랑스 조향사 소니아 콘스탄트가 2017년 설립했다. 여행가이자 작가, 사진가였던 엘라 마이야르에서 영감을 받아 여행지의 풍경과 감정을 향으로 표현하는 제품을 선보인다. 신세계면세점은 앞서 푸에기아...",
+ "published_at": "2026-10-16T11:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "엘라 케이",
+   "푸에기아"
+  ],
+  "companies": [
+   "신세계면세점"
+  ],
+  "keywords": [
+   "니치 향수",
+   "면세점 입점",
+   "프랑스 향수"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "포비든 플럼",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "엘라 케이는 프랑스 조향사가 설립한 니치 향수 브랜드다",
+  "key_fact_quote": "엘라 케이는 프랑스 조향사 소니아 콘스탄트가 2017년 설립했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

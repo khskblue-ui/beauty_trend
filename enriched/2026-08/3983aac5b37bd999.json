@@ -1,0 +1,56 @@
+{
+ "doc_id": "3983aac5b37bd999",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsprime.co.kr/news/article.html?no=745375",
+ "title": "향수부터 반려동물 화장품까지…아모레, '화장대 밖' 성장판 넓힌다",
+ "summary": "유향 샴푸를 개발할 때는 사내 수의사의 자문을 받고 전문 조향사 와 함께 향을 만들었다. 이번 상표의 지정상품에 반려동물용 화장품이 다시 포함되면서 아모레퍼시픽이 기존 펫케어 사업 경험을 향후 다른 브랜드나...",
+ "published_at": "2026-08-27T10:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아모레퍼시픽"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "펫케어",
+   "반려동물 화장품",
+   "상표 출원"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "유향 샴푸",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아모레퍼시픽이 반려동물용 화장품을 지정상품에 다시 포함한 상표로 펫케어 사업 경험을 다른 브랜드로 넓힐 수 있게 됐다",
+  "key_fact_quote": "이번 상표의 지정상품에 반려동물용 화장품이 다시 포함되면서 아모레퍼시픽이 기존 펫케어 사업 경험을 향후 다른 브랜드나...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

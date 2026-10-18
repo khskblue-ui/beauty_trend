@@ -1,0 +1,48 @@
+{
+ "doc_id": "0d5bfacaaf53711a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.wsobi.com/news/articleView.html?idxno=318985",
+ "title": "CJ온스타일·LG생활건강, 프랑스 뷰티브랜드 '레쁠레뜨' 국내 론칭 ·닥터...",
+ "summary": "최초로 론칭 한다고 30일 밝혔다. 레쁠레뜨는 파리 대표 백화점인 쁘렝땅과 라 사마리텐을 비롯해 해외에서 판매되고 있는 유기농 뷰티 브랜드 다. 레쁠레뜨의 국내 첫 무대는 CJ온스타일을 대표하는...",
+ "published_at": "2026-09-30T14:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "레쁠레뜨"
+  ],
+  "companies": [
+   "CJ온스타일",
+   "LG생활건강"
+  ],
+  "keywords": [
+   "유기농 뷰티",
+   "프랑스 브랜드 국내 론칭",
+   "홈쇼핑 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "프랑스 유기농 뷰티 브랜드 레쁠레뜨가 국내에 처음 론칭한다",
+  "key_fact_quote": "레쁠레뜨는 파리 대표 백화점인 쁘렝땅과 라 사마리텐을 비롯해 해외에서 판매되고 있는 유기농 뷰티 브랜드 다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

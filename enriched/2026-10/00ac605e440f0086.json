@@ -1,0 +1,53 @@
+{
+ "doc_id": "00ac605e440f0086",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312258",
+ "title": "AI가 화장품 해외 바이어 찾고 메일까지 작성",
+ "summary": "해외 전시회와 인맥에 의존하던 바이어 발굴 방식이 AI로 진화하고 있다.최근 그린다에이아이는 AI가 세계 각국의 수입사와 유통업체를 발굴하고 맞춤형 영업 메일을 작성하는 서비스를 선보였다. 회사 측은 이를 통해 해외영업 인력과 자본이 부족한 중소 수출기업의 해외시장 개척을 지원할 수 있을 것으로 기대하고 있다.뷰티경제와의 이메일 서면 인터뷰에서 그린다에이아이는 지난 10월 15일 기준 린다 이용 기업들이 받은 해외 바이어 회신이 총 1265건에 달했다고 밝혔다. 반송 메일과 자동응답을 제외한 수치로, 이 가운데 제품에 관심을 보이거",
+ "published_at": "2026-10-16T15:41:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "그린다에이아이",
+   "한국무역협회"
+  ],
+  "keywords": [
+   "AI 바이어 발굴",
+   "해외 영업 자동화",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "AI가 해외 수입사를 찾고 영업 메일까지 쓰는 서비스를 K뷰티 기업들이 가장 많이 쓰고 있다.",
+  "key_fact_quote": "특히 현재 린다 이용 고객 가운데 화장품·뷰티 기업 비중이 가장 높은 것으로 나타났다.",
+  "events": [
+   {
+    "name": "무역 AI 우수 서비스 활용 실습 설명회",
+    "start_date": "2026-11-02",
+    "end_date": null,
+    "place": null,
+    "quote": "한편 그린다에이아이는 오는 11월 2일 한국무역협회가 주최하는 '무역 AI 우수 서비스 활용 실습 설명회'에서 린다 서비스 소개와 실습 시연을 진행할 예정이다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": true
+}

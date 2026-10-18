@@ -1,0 +1,44 @@
+{
+ "doc_id": "7f03f18daf183df3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20260921000365",
+ "title": "[2026 전남광주뷰티산업전] 나인원코스메디, 광주 화장품 OEM·ODM 제조 경...",
+ "summary": "메이크업 △ 향수 ·아로마 △미용기기·에스테틱 △뷰티 디바이스·뷰티테크 △화장품 원료·패키징 등이다. 참가 기업에게는 해외 바이어 및 유통 관계자와의 비즈니스 상담, 제품 및 브랜드 홍보, 세미나, 기업 간...",
+ "published_at": "2026-09-30T09:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "나인원코스메디"
+  ],
+  "keywords": [
+   "OEM",
+   "ODM",
+   "뷰티 박람회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "전남광주뷰티산업전은 참가 기업에 해외 바이어 상담과 제품 홍보 기회를 제공한다",
+  "key_fact_quote": "참가 기업에게는 해외 바이어 및 유통 관계자와의 비즈니스 상담, 제품 및 브랜드 홍보, 세미나, 기업 간...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

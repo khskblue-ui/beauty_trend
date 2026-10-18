@@ -1,0 +1,52 @@
+{
+ "doc_id": "647153e77e844da2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=860772",
+ "title": "킬리안 파리, 30ml 향수 컬렉션 첫 출시",
+ "summary": "신제품 은 브랜드 정체성을 담은 카라페(Carafe) 보틀에 담겼다. 창립자 킬리안 헤네시(Kilian Hennessy)의 헤리티지에서 영감을 받아 향수 를 리큐어처럼 소장하고 음미하는 경험을 표현했다. 크리스털 주류 디캔터를...",
+ "published_at": "2026-08-31T15:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "킬리안 파리"
+  ],
+  "companies": [],
+  "keywords": [
+   "소용량 향수",
+   "향수 컬렉션",
+   "카라페 보틀"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "30ml 향수 컬렉션",
+    "brand": "킬리안 파리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "킬리안 파리, 30ml 향수 컬렉션 첫 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "킬리안 파리가 30ml 향수 컬렉션을 처음 출시했다.",
+  "key_fact_quote": "킬리안 파리, 30ml 향수 컬렉션 첫 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

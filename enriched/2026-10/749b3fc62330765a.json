@@ -1,0 +1,44 @@
+{
+ "doc_id": "749b3fc62330765a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ziksir.com/news/articleView.html?idxno=149758",
+ "title": "이소영 중기부 장관, 한국콜마 세종공장 방문··· K뷰티 경쟁력 강화 논...",
+ "summary": "이번 방문은 이 장관 취임 후 첫 민간기업 현장 일정으로, K뷰티 산업 현황을 살펴보고 업계의 애로사항을... 중소기업의 해외 진출이 확대되는 가운데 화장품은 주요 수출 품목으로 자리 잡고 있다. 올해 상반기 중소기업...",
+ "published_at": "2026-10-18T12:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K뷰티 경쟁력",
+   "화장품 수출",
+   "정부 현장 방문"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중소벤처기업부 장관이 취임 후 첫 민간기업 일정으로 한국콜마 세종공장을 찾았다",
+  "key_fact_quote": "이번 방문은 이 장관 취임 후 첫 민간기업 현장 일정으로, K뷰티 산업 현황을 살펴보고 업계의 애로사항을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

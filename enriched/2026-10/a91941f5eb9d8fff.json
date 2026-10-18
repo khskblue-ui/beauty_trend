@@ -1,0 +1,47 @@
+{
+ "doc_id": "a91941f5eb9d8fff",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065610585519584",
+ "title": "\"올리브영 영역까지 넘본다\"…이마트24, 헬스·뷰티·패션 특화점포 오...",
+ "summary": "이마트24가 식품과 생필품 중심의 기존 편의점 사업에서 벗어나 화장품 과 패션, 건강관리 상품까지 판매... 이마트24는 W컨셉의 상품 기획 역량을 활용해 러닝과 일상생활에서 착용할 수 있는 패션 상품 18종을 출시 했다....",
+ "published_at": "2026-10-16T20:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이마트24",
+   "W컨셉"
+  ],
+  "companies": [
+   "이마트24"
+  ],
+  "keywords": [
+   "편의점 화장품",
+   "뷰티 특화점포",
+   "올리브영 경쟁"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "이마트24가 화장품과 패션, 건강관리 상품까지 파는 특화점포를 연다",
+  "key_fact_quote": "이마트24가 식품과 생필품 중심의 기존 편의점 사업에서 벗어나 화장품 과 패션, 건강관리 상품까지 판매...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

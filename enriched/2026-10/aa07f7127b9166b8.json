@@ -1,0 +1,97 @@
+{
+ "doc_id": "aa07f7127b9166b8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278927",
+ "title": "올림플래닛, 이너 뷰티 브랜드 '데이튠' 론칭 …리뉴온·애프터밀 등 5종...",
+ "summary": "올림플래닛은 첫 자체 이너 뷰티 브랜드 '데이튠(DAYTUNE)'을 론칭 하고 리뉴온, 애프터밀, NMN믹스, 글로우온, 파이버온 등 5개 제품을 출시했다고 14일 밝혔다. 데이튠은 하루의 시간에 맞춰 자신을 관리한다는 의미를 담은...",
+ "published_at": "2026-10-16T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "데이튠"
+  ],
+  "companies": [
+   "올림플래닛"
+  ],
+  "keywords": [
+   "이너 뷰티",
+   "자체 브랜드 론칭",
+   "NMN"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리뉴온",
+    "brand": "데이튠(DAYTUNE)",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "올림플래닛은 첫 자체 이너 뷰티 브랜드 '데이튠(DAYTUNE)'을 론칭 하고 리뉴온, 애프터밀, NMN믹스, 글로우온, 파이버온 등 5개 제품을 출시했다고 14일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "애프터밀",
+    "brand": "데이튠(DAYTUNE)",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "올림플래닛은 첫 자체 이너 뷰티 브랜드 '데이튠(DAYTUNE)'을 론칭 하고 리뉴온, 애프터밀, NMN믹스, 글로우온, 파이버온 등 5개 제품을 출시했다고 14일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "NMN믹스",
+    "brand": "데이튠(DAYTUNE)",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "올림플래닛은 첫 자체 이너 뷰티 브랜드 '데이튠(DAYTUNE)'을 론칭 하고 리뉴온, 애프터밀, NMN믹스, 글로우온, 파이버온 등 5개 제품을 출시했다고 14일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "글로우온",
+    "brand": "데이튠(DAYTUNE)",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "올림플래닛은 첫 자체 이너 뷰티 브랜드 '데이튠(DAYTUNE)'을 론칭 하고 리뉴온, 애프터밀, NMN믹스, 글로우온, 파이버온 등 5개 제품을 출시했다고 14일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "파이버온",
+    "brand": "데이튠(DAYTUNE)",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "올림플래닛은 첫 자체 이너 뷰티 브랜드 '데이튠(DAYTUNE)'을 론칭 하고 리뉴온, 애프터밀, NMN믹스, 글로우온, 파이버온 등 5개 제품을 출시했다고 14일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "올림플래닛이 첫 자체 이너 뷰티 브랜드 데이튠을 론칭했다",
+  "key_fact_quote": "올림플래닛은 첫 자체 이너 뷰티 브랜드 '데이튠(DAYTUNE)'을 론칭 하고 리뉴온, 애프터밀, NMN믹스, 글로우온, 파이버온 등 5개 제품을 출시했다고 14일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "NMN",
+    "quote": "올림플래닛은 첫 자체 이너 뷰티 브랜드 '데이튠(DAYTUNE)'을 론칭 하고 리뉴온, 애프터밀, NMN믹스, 글로우온, 파이버온 등 5개 제품을 출시했다고 14일 밝혔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

@@ -1,0 +1,51 @@
+{
+ "doc_id": "438dfc79222572d9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mediapen.com/news/view/1130335",
+ "title": "유럽 심장 베를린의 'K-뷰티 오픈 데이', K-빛깔로 반짝",
+ "summary": "M, MAYMER, HARAMOON, ABELTY, HARU HUGA, DAMTONE, AIPPO 등 12개 우수 브랜드 가 현지 바이어와 소비자를 다채롭게 만난다. 한국 특유의 오리엔탈 감성을 담은 프리미엄 향수 를 비롯해 전문 헤어 브러시, 비건·젠더리스...",
+ "published_at": "2026-10-16T14:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "DE",
+   "KR"
+  ],
+  "brands": [
+   "M",
+   "MAYMER",
+   "HARAMOON",
+   "ABELTY",
+   "HARU HUGA",
+   "DAMTONE",
+   "AIPPO"
+  ],
+  "companies": [],
+  "keywords": [
+   "프리미엄 향수",
+   "젠더리스 뷰티",
+   "비건 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 브랜드들이 베를린 K-뷰티 오픈 데이에서 현지 바이어와 소비자를 만난다.",
+  "key_fact_quote": "M, MAYMER, HARAMOON, ABELTY, HARU HUGA, DAMTONE, AIPPO 등 12개 우수 브랜드 가 현지 바이어와 소비자를 다채롭게 만난다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

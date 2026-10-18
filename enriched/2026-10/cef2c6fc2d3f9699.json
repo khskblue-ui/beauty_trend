@@ -1,0 +1,53 @@
+{
+ "doc_id": "cef2c6fc2d3f9699",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53718",
+ "title": "“연구원 가운이 예술 작품으로!”…코스맥스-마켓발견 업무협약",
+ "summary": "글로벌 화장품 ODM(연구·개발·생산) 전문 기업 코스맥스가 업사이클(새활용) 전문 소셜벤처기업 마켓발견(대표 조소연)과 업사이클링 프로젝트 추진을 위한 업무협약을 맺었다. 두 회사는 지난 15일 복합문화공간 그라운드333(경기도 의왕시 소재)에서 열린 ‘발견;순환–코스맥스와 함께하는 업사…",
+ "published_at": "2026-10-17T18:46:49+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "마켓발견"
+  ],
+  "keywords": [
+   "업사이클링",
+   "자원순환",
+   "ODM 환경경영"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 업사이클 전문 기업과 폐자원 활용 협약을 맺었다",
+  "key_fact_quote": "글로벌 화장품 ODM(연구·개발·생산) 전문 기업 코스맥스 가 업사이클(새활용) 전문 소셜벤처기업 마켓발견 (대표 조소연)과 업사이클링 프로젝트 추진을 위한 업무협약을 맺었다.",
+  "events": [
+   {
+    "name": "발견;순환–코스맥스와 함께하는 업사이클 아트페어",
+    "start_date": "2026-10-15",
+    "end_date": null,
+    "place": "복합문화공간 그라운드333(경기도 의왕시 소재)",
+    "quote": "두 회사는 지난 15일 복합문화공간 그라운드333(경기도 의왕시 소재)에서 열린 ‘발견;순환–코스맥스와 함께하는 업사이클 아트페어’ 행사에서 협약식을 가졌다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

@@ -1,0 +1,57 @@
+{
+ "doc_id": "340e54bf3636810f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ppss.kr/news/articleView.html?idxno=308098",
+ "title": "디올 '소바쥬' 새로운 향 선봬… 첫 남성 엑스트레 퍼퓸 출시",
+ "summary": "크리스챤 디올 뷰티가 남성 향수 컬렉션 '소바쥬(Sauvage)'의 새로운 제품 '소바쥬 엑스트레(Sauvage Extrait)'를 국내에 선보였다고 31일 밝혔다. 이번 신제품 은 디올 최초의 남성용 엑스트레 퍼퓸이다. 기존 소바쥬가 가진...",
+ "published_at": "2026-08-31T14:07:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "디올"
+  ],
+  "companies": [
+   "크리스챤 디올 뷰티"
+  ],
+  "keywords": [
+   "남성 향수",
+   "엑스트레 퍼퓸",
+   "향수 프리미엄화"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "소바쥬 엑스트레",
+    "brand": "디올",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "크리스챤 디올 뷰티가 남성 향수 컬렉션 '소바쥬(Sauvage)'의 새로운 제품 '소바쥬 엑스트레(Sauvage Extrait)'를 국내에 선보였다고 31일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디올이 소바쥬 컬렉션에서 처음으로 남성용 엑스트레 퍼퓸을 내놨다.",
+  "key_fact_quote": "이번 신제품 은 디올 최초의 남성용 엑스트레 퍼퓸이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

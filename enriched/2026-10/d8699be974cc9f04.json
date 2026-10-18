@@ -1,0 +1,43 @@
+{
+ "doc_id": "d8699be974cc9f04",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.osen.co.kr/article/G1112894498",
+ "title": "조세호 아내, 지드래곤 소환..비싼 '한정판 향수 ' 선물 자랑 \"지디오빠...",
+ "summary": "해당 향수 는 지드래곤이 프랑스 럭셔리 퍼퓸 브랜드 와 협업해 만든 한정판 제품으로, 평소 지드래곤과 친분이 있던 조세호가 선물로 받아온 것으로 보인다. 정수지는 지드래곤의 노래 'TAKE ME' 가사와 함께 향수 선물...",
+ "published_at": "2026-10-18T15:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "향수 컬래버레이션",
+   "셀럽 향수",
+   "향수 선물"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "bce17a88d5082dea",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

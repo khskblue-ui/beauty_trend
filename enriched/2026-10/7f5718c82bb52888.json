@@ -1,0 +1,106 @@
+{
+ "doc_id": "7f5718c82bb52888",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100165",
+ "title": "궁중비책, 美 아마존 프라임데이 최대 매출…키즈라인 성장 주도",
+ "summary": "제로투세븐의 민감하고 여린 영유아 및 민감성 피부를 위한 스킨케어 브랜드 궁중비책이 미국 아마존의 대규모 할인 행사인 '프라임 빅딜데이(Prime Big Deal Days)'에서 역대 행사 최대 매출을 기록하며 미국 시장에서 성장세를 이어가고 있다.궁중비책은 지난 6일부터 7일까지 이틀간 진행된 아마존 프라임 빅딜데이에서 전년 동기 대비 2배 증가한 매출을 기록했다. 이는 역대 프라임 빅딜데이 행사 중 최대 실적으로 판매 수량도 증가하며 큰 폭의 성장세를 보였다.이번 행사에서는 키즈 라인의 판매 호조가 전체 매출 성장",
+ "published_at": "2026-10-16T09:26:01+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "GB",
+   "FR",
+   "DE",
+   "ES"
+  ],
+  "brands": [
+   "궁중비책"
+  ],
+  "companies": [
+   "제로투세븐"
+  ],
+  "keywords": [
+   "아마존 입점",
+   "키즈 스킨케어",
+   "선케어",
+   "해외 온라인 판매"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "키즈 실키 샴푸",
+    "brand": "궁중비책",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "키즈 실키 샴푸와 키 소프트닝 컨디셔너 2종 세트는 전년 대비 약 8.4배의 매출을 기록했으며",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "키 소프트닝 컨디셔너",
+    "brand": "궁중비책",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "키즈 실키 샴푸와 키 소프트닝 컨디셔너 2종 세트는 전년 대비 약 8.4배의 매출을 기록했으며",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "키즈 페이스워시, 로션 세트",
+    "brand": "궁중비책",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번 행사에서 새롭게 선보인 페이스케어 듀오인 키즈 페이스워시, 로션 세트는 가장 많은 판매량를 기록하며 판매 호조에 힘을 보탰다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "워터풀 선로션 마일드",
+    "brand": "궁중비책",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "워터풀 선로션 마일드와 모이스처 선쿠션 마일드 등 주요 제품이 고른 성장세를 보였으며",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "모이스처 선쿠션 마일드",
+    "brand": "궁중비책",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "워터풀 선로션 마일드와 모이스처 선쿠션 마일드 등 주요 제품이 고른 성장세를 보였으며",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "궁중비책이 미국 아마존 대규모 할인 행사에서 역대 최대 매출을 기록했다.",
+  "key_fact_quote": "제로투세븐의 민감하고 여린 영유아 및 민감성 피부를 위한 스킨케어 브랜드 궁중비책이 미국 아마존의 대규모 할인 행사인 '프라임 빅딜데이(Prime Big Deal Days)'에서 역대 행사 최대 매출을 기록하며 미국 시장에서 성장세를 이어가고 있다.",
+  "events": [
+   {
+    "name": "아마존 프라임 빅딜데이",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-07",
+    "place": null,
+    "quote": "궁중비책은 지난 6일부터 7일까지 이틀간 진행된 아마존 프라임 빅딜데이에서 전년 동기 대비 2배 증가한 매출을 기록했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": true
+}

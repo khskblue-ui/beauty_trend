@@ -1,0 +1,44 @@
+{
+ "doc_id": "c7e863dea9b7653e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.srtimes.kr/news/articleView.html?idxno=215009",
+ "title": "기초 화장품 넘어 색조까지…편의점, '뷰티' 영토 확장",
+ "summary": "4종을 출시 했다. 매출 성장세도 두드러진다. CU에 따르면 올해 1~7월 색조 화장품 매출은 전년 동기 대비 212.1% 증가했다. 전국 600여 곳에서 운영 중인 뷰티 특화점의 같은 기간 매출은 301.5% 늘었다. CU는 올해 중...",
+ "published_at": "2026-10-16T17:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CU"
+  ],
+  "keywords": [
+   "편의점 뷰티",
+   "색조 화장품",
+   "뷰티 특화점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "편의점이 기초 화장품을 넘어 색조 화장품까지 뷰티 영역을 넓히고 있다.",
+  "key_fact_quote": "기초 화장품 넘어 색조까지…편의점, '뷰티' 영토 확장",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

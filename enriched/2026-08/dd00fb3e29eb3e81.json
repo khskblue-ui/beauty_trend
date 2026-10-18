@@ -1,0 +1,43 @@
+{
+ "doc_id": "dd00fb3e29eb3e81",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fashionbiz.co.kr/article/228831",
+ "title": "막스마라, 첫 번째 시그니처 프래그런스 ‘르 퍼퓸(Le Parfum)’ 글로벌 ...",
+ "summary": "조향은 전문 조향사 마리 살라마뉴와 파브리스 펠레그린이 담당했다. 샌달우드, 시더우드 중심의 베이스에 튜베로즈 앱솔루트와 벨벳 밤 노트를 더했으며, 바닐라와 벤조인으로 잔향의 지속력을 높였다. 원료는 비건...",
+ "published_at": "2026-08-24T16:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "막스마라"
+  ],
+  "companies": [],
+  "keywords": [
+   "시그니처 향수",
+   "우디 향수",
+   "글로벌 론칭"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "c8c8519874ae2d5b",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

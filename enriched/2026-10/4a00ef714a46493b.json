@@ -1,0 +1,55 @@
+{
+ "doc_id": "4a00ef714a46493b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100172",
+ "title": "토코보(TOCOBO), ‘BeautyMatter ASIA15 2026’ 선정",
+ "summary": "넥스트 더마 비건 코스메틱 토코보(TOCOBO)가 글로벌 뷰티 전문 미디어 BeautyMatter와 BeautyMatter China가 공동으로 출범한 ‘BeautyMatter ASIA15 2026’에 선정됐다.ASIA15는 아시아의 유망한 독립 뷰티 브랜드 15개를 선정해 글로벌 뷰티 업계에 소개하는 연례 프로그램이다. 브랜드의 카테고리 혁신성, 문화적 연관성, 글로벌 시장에서의 성장 잠재력 등을 종합적으로 평가해 선정 브랜드를 조명하며, 이들이 글로벌 시장에서 인지도를 높이고 업계 관계자들과 교류할 수 있도록 지원한다.선케어를",
+ "published_at": "2026-10-16T09:39:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "토코보"
+  ],
+  "companies": [
+   "BeautyMatter"
+  ],
+  "keywords": [
+   "선케어",
+   "더마 코스메틱",
+   "비건 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "토코보가 BeautyMatter ASIA15 2026에 선정됐다.",
+  "key_fact_quote": "넥스트 더마 비건 코스메틱 토코보(TOCOBO)가 글로벌 뷰티 전문 미디어 BeautyMatter와 BeautyMatter China가 공동으로 출범한 ‘BeautyMatter ASIA15 2026’에 선정됐다.",
+  "events": [
+   {
+    "name": "ASIA15 공식 발표 및 출범 행사",
+    "start_date": "2026-10-14",
+    "end_date": null,
+    "place": "중국 상하이",
+    "quote": "ASIA15 공식 발표 및 출범 행사는 지난 10월 14일 중국 상하이에서 개최되었으며, 토코보의 이병훈 대표가 직접 행사에 참석해 선정의 의미를 함께하고, 아시아를 비롯한 글로벌 뷰티 업계 관계자들과 교류했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

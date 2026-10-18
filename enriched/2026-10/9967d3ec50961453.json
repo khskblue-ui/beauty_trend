@@ -1,0 +1,56 @@
+{
+ "doc_id": "9967d3ec50961453",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58522",
+ "title": "투에이엔, 이마트24 전용 ‘듀이 핏 틴트 포켓 듀오’ 8종 출시",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 컬러 메이크업 브랜드 투에이엔(2aN, 대표 김신영)이 베스트셀러 ‘듀이 핏 틴트’를 휴대용 듀오 형태로 재구성한 ‘듀이 핏 틴트 포켓 듀오’를 출시하고 이마트24 전국 매장에 입점한다고 16일 밝혔다. ‘듀이 핏 틴트 포켓 듀오’는 기존 제품의 제형과 컬러 표현은…",
+ "published_at": "2026-10-16T17:06:23+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "투에이엔"
+  ],
+  "companies": [
+   "이마트24"
+  ],
+  "keywords": [
+   "편의점 뷰티",
+   "휴대용 립 제품",
+   "퍼스널 컬러"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "듀이 핏 틴트 포켓 듀오",
+    "brand": "투에이엔",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "컬러 메이크업 브랜드 투에이엔(2aN, 대표 김신영)이 베스트셀러 ‘듀이 핏 틴트’를 휴대용 듀오 형태로 재구성한 ‘듀이 핏 틴트 포켓 듀오’를 출시하고 이마트24 전국 매장에 입점한다고 16일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "투에이엔이 이마트24 전용 휴대용 틴트 듀오를 출시했다",
+  "key_fact_quote": "컬러 메이크업 브랜드 투에이엔(2aN, 대표 김신영)이 베스트셀러 ‘듀이 핏 틴트’를 휴대용 듀오 형태로 재구성한 ‘듀이 핏 틴트 포켓 듀오’를 출시하고 이마트24 전국 매장에 입점한다고 16일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

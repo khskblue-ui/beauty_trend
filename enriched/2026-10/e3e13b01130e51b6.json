@@ -1,0 +1,57 @@
+{
+ "doc_id": "e3e13b01130e51b6",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58528",
+ "title": "[3신] ‘2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스’... 베라 교수 ”유해성·노출·생물학적 기전 통합체계 필요“",
+ "summary": "[코스인코리아닷컴 권태흥 기자](재)대한화장품산업연구원(원장 조신행)이 주최한 ‘2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스’ 이틀차 주제는 ‘글로벌 화장품 안전성 평가 및 대체시험법’ 발표가 15일 로얄호텔서울에서 열렸다. EU SCSS 공동의장인 베라 로지어스 교수를 비롯 5명의…",
+ "published_at": "2026-10-17T10:40:42+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "BE"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원",
+   "Takasago International",
+   "LVMH Recherche",
+   "HESI"
+  ],
+  "keywords": [
+   "화장품 안전성 평가",
+   "동물실험 대체시험법",
+   "향료 안전성",
+   "EU 화장품 규제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 안전성 평가가 동물실험 대체와 통합 평가 체계 중심으로 바뀌고 있다.",
+  "key_fact_quote": "화장품 안전성 평가의 패러다임이 동물실험을 통한 독성 확인에서 벗어나 인체 관련성이 높은 비동물시험법과 다양한 과학 근거를 통합해 위해성을 예측하는 체계로 이동 중이다.",
+  "events": [
+   {
+    "name": "2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스",
+    "start_date": "2026-10-15",
+    "end_date": null,
+    "place": "로얄호텔서울",
+    "quote": "(재)대한화장품산업연구원(원장 조신행)이 주최한 ‘2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스’ 이틀차 주제는 ‘글로벌 화장품 안전성 평가 및 대체시험법’ 발표가 15일 로얄호텔서울에서 열렸다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

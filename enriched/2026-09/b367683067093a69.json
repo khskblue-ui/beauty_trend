@@ -1,0 +1,47 @@
+{
+ "doc_id": "b367683067093a69",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12164936",
+ "title": "‘K뷰티 1세대’ 참존 인수전에 동원그룹 참전",
+ "summary": "참존은 국내 1세대 기능성 화장품 업체로 꼽힌다. 1984년 약사 출신인 김광석 회장이 설립한 이후 다양한 제품을 출시 하며 1990년대에는 국내 시장에서 탄탄한 실적을 거뒀다. 일본, 중국 등 아시아 시장을 개척하며...",
+ "published_at": "2026-09-30T15:53:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "참존"
+  ],
+  "companies": [
+   "동원그룹",
+   "참존"
+  ],
+  "keywords": [
+   "기업 인수",
+   "K뷰티 1세대",
+   "기능성 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "동원그룹이 K뷰티 1세대 참존의 인수전에 뛰어들었다",
+  "key_fact_quote": "‘K뷰티 1세대’ 참존 인수전에 동원그룹 참전",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

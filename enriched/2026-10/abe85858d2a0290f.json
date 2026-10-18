@@ -1,0 +1,44 @@
+{
+ "doc_id": "abe85858d2a0290f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.metroseoul.co.kr/article/20261017500011",
+ "title": "[르포]年 9억개 생산…' K - 뷰티 전진기지' 한국콜마 세종공장을 가다",
+ "summary": "K - 뷰티 가 수출 품목 1위가 될 수 있도록 우리가 뒷받침을 하고 있다\"고 전했다. 한국콜마에 따르면 현재 화장품 ODM 관련 국내외 고객만 4800여 곳이다. 게다가 매년 100~200개 고객사가 화장품 사업을 위해 찾아오고 있다. K ...",
+ "published_at": "2026-10-18T12:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "K뷰티 생산기지",
+   "국내 고객사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국콜마 세종공장이 K뷰티 생산을 뒷받침한다",
+  "key_fact_quote": "한국콜마에 따르면 현재 화장품 ODM 관련 국내외 고객만 4800여 곳이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "2e9575062b5c30c3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.econovill.com/news/articleView.html?idxno=753987",
+ "title": "' K뷰티 전초기지' 콜마 세종공장에 중기장관이 온 이유",
+ "summary": "더욱이 K뷰티 성장세에 힘입어 올 상반기 중소기업 총 수출 액은 역대 최고인 640억달러를 기록했다. 이중 화장품 부문은 전년 동기보다 30.7% 급증한 50억7000만달러로 중소기업 수출 품목 1위로 자리 잡았다. 콜마가 해왔듯...",
+ "published_at": "2026-10-18T12:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "콜마"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "중소기업 수출",
+   "화장품 수출 증가"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올해 상반기 화장품이 중소기업 수출 품목 1위를 차지했다",
+  "key_fact_quote": "이중 화장품 부문은 전년 동기보다 30.7% 급증한 50억7000만달러로 중소기업 수출 품목 1위로 자리 잡았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

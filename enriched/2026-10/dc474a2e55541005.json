@@ -1,0 +1,45 @@
+{
+ "doc_id": "dc474a2e55541005",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=136340",
+ "title": "이소영 중기부 장관, 한국콜마 세종공장 방문…\" K - 뷰티 상생 협력 방안...",
+ "summary": "실제로 최근 K - 뷰티 의 글로벌 인기에 힘입어 중소기업 화장품 수출 은 역대 최대 실적을 기록하는 등 가시적인 성과를 내고 있다. 한국콜마 세종공장은 연간 8억9천만 개에 달하는 화장품을 생산하는 핵심 거점으로, 세계...",
+ "published_at": "2026-10-18T12:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K뷰티 경쟁력",
+   "화장품 수출",
+   "정부 현장 방문"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "749b3fc62330765a",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

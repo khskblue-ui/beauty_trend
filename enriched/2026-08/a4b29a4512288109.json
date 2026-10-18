@@ -1,0 +1,55 @@
+{
+ "doc_id": "a4b29a4512288109",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ggilbo.com/news/articleView.html?idxno=1178737",
+ "title": "보테가 베네타, 10종 향수 '알타' 출시",
+ "summary": "새로운 향수 컬렉션 '알타(Alta)'를 선보인다. '알타'는 이탈리아의 원료와 세계 각지에서 온 원료를... 알타 컬렉션은 50ml와 100ml 두 가지 용량으로 출시 되며, 오는 9월 1일부터 보테가 베네타 공식 웹사이트와 전국...",
+ "published_at": "2026-08-31T22:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "IT",
+   "KR"
+  ],
+  "brands": [
+   "보테가 베네타"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 컬렉션",
+   "이탈리아 원료",
+   "럭셔리 향수"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "알타",
+    "brand": "보테가 베네타",
+    "launch_date": "2026-09-01",
+    "launch_status": "upcoming",
+    "launch_quote": "알타 컬렉션은 50ml와 100ml 두 가지 용량으로 출시 되며, 오는 9월 1일부터 보테가 베네타 공식 웹사이트와 전국...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "보테가 베네타가 새 향수 컬렉션 알타를 선보인다",
+  "key_fact_quote": "알타 컬렉션은 50ml와 100ml 두 가지 용량으로 출시 되며, 오는 9월 1일부터 보테가 베네타 공식 웹사이트와 전국...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

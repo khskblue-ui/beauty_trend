@@ -1,0 +1,53 @@
+{
+ "doc_id": "810728b36f64a8c2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.medisobizanews.com/news/articleView.html?idxno=142724",
+ "title": "오킴스메디칼, 줄기세포ㆍ엑소좀 연구 기술 기반 피부 재생 화장품 개발",
+ "summary": "㈜오킴스메디칼이 인체유래 줄기세포 배양 과정에서 얻어지는 엑소좀 기반 원료를 활용한 피부 재생 개념의 화장품 을 개발 후 시장에 출시 했다고 밝혔다. ㈜오킴스메디칼 대표이자 오상신경외과 대표원장인 오민철...",
+ "published_at": "2026-09-30T17:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "오킴스메디칼"
+  ],
+  "keywords": [
+   "엑소좀 화장품",
+   "피부 재생",
+   "줄기세포 배양"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "오킴스메디칼이 엑소좀 기반 원료를 쓴 피부 재생 화장품을 출시했다",
+  "key_fact_quote": "㈜오킴스메디칼이 인체유래 줄기세포 배양 과정에서 얻어지는 엑소좀 기반 원료를 활용한 피부 재생 개념의 화장품 을 개발 후 시장에 출시 했다고 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "엑소좀",
+    "quote": "㈜오킴스메디칼이 인체유래 줄기세포 배양 과정에서 얻어지는 엑소좀 기반 원료를 활용한 피부 재생 개념의 화장품 을 개발 후 시장에 출시 했다고 밝혔다."
+   },
+   {
+    "name": "줄기세포",
+    "quote": "㈜오킴스메디칼이 인체유래 줄기세포 배양 과정에서 얻어지는 엑소좀 기반 원료를 활용한 피부 재생 개념의 화장품 을 개발 후 시장에 출시 했다고 밝혔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

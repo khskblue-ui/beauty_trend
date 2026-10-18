@@ -1,0 +1,54 @@
+{
+ "doc_id": "676030c736fcb75e",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100169",
+ "title": "AGE20’S, 서울 전역에 ‘스킨 퍼스트 메이크업’ 알린다",
+ "summary": "스킨 퍼스트 메이크업 브랜드 ‘AGE20’S’(에이지투웨니스)가 서울 전역 및 주요 핵심 상권에서 대규모 옥외광고(OOH ; Out-of-Home) 캠페인을 전개하며 신제품과 새로운 브랜드 이미지 알리기에 나선다.이번 캠페인은 신제품의 인지도를 높이는 동시에 ‘Skin First Makeup’으로 새롭게 변화한 AGE20’S의 브랜드 철학과 세계관을 소비자에게 효과적으로 전달하기 위해 기획됐다. 지난 8월 AGE20’S는 아이브(IVE) 레이를 글로벌 앰버서더로 발탁하고 브랜드 리브랜딩을 본격화했으며, 제품과 함께 레이의 비주얼을",
+ "published_at": "2026-10-16T09:32:44+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "AGE20’S"
+  ],
+  "companies": [],
+  "keywords": [
+   "스킨 퍼스트 메이크업",
+   "옥외광고 캠페인",
+   "프렙 파운데이션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "스킨 퍼스트 히든 프렙 파운데이션 팩트",
+    "brand": "AGE20’S",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번 옥외광고의 주요 노출 제품은 지난 9월에 출시한 ‘스킨 퍼스트 히든 프렙 파운데이션 팩트’다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이지투웨니스가 신제품을 알리는 대규모 옥외광고 캠페인을 연다",
+  "key_fact_quote": "스킨 퍼스트 메이크업 브랜드 ‘AGE20’S’(에이지투웨니스)가 서울 전역 및 주요 핵심 상권에서 대규모 옥외광고(OOH ; Out-of-Home) 캠페인을 전개하며 신제품과 새로운 브랜드 이미지 알리기에 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

@@ -1,0 +1,50 @@
+{
+ "doc_id": "a835cd096a2d05bd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://platum.kr/archives/296448",
+ "title": "하이브랩, 베트남 K-뷰티 커머스 플랫폼 '애픽' 론칭",
+ "summary": "AI 기반 고객경험(CX) 솔루션 기업 하이브랩이 베트남 소비자를 대상으로 한국 화장품 과 헬스앤뷰티(H&B) 제품을 파는 커머스 플랫폼 '애픽(aepick)'을 출시 했다. 한국 브랜드가 베트남에 직접 법인을 세우지 않고도 현지...",
+ "published_at": "2026-10-16T16:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "VN",
+   "KR"
+  ],
+  "brands": [
+   "JUNG SAEM MOOL",
+   "DASIQUE",
+   "3CE"
+  ],
+  "companies": [
+   "하이브랩"
+  ],
+  "keywords": [
+   "베트남 K뷰티",
+   "AI 플랫폼",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "03d9e5962648e49b",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

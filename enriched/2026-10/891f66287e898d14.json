@@ -1,0 +1,62 @@
+{
+ "doc_id": "891f66287e898d14",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873441",
+ "title": "fmk '리쥬네이팅 PDRN 키트', K-뷰티엑스포 엠디픽 선정",
+ "summary": "선정된 리쥬네이팅 PDRN 키트는 자체 개발한 독자 원료와 동결건조 공법을 접목한 홈케어 화장품 이다.... 개발과 신제품 적용으로 연결하고 있다. 지에프씨생명과학은 천연물과 바이오 기능성 소재의 연구개발부터...",
+ "published_at": "2026-10-16T09:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "fmk"
+  ],
+  "companies": [
+   "지에프씨생명과학"
+  ],
+  "keywords": [
+   "PDRN",
+   "홈케어 화장품",
+   "동결건조",
+   "독자 원료"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리쥬네이팅 PDRN 키트",
+    "brand": "fmk",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "fmk의 리쥬네이팅 PDRN 키트가 K-뷰티엑스포 엠디픽에 선정됐다.",
+  "key_fact_quote": "fmk '리쥬네이팅 PDRN 키트', K-뷰티엑스포 엠디픽 선정",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "선정된 리쥬네이팅 PDRN 키트는 자체 개발한 독자 원료와 동결건조 공법을 접목한 홈케어 화장품"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

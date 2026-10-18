@@ -1,0 +1,56 @@
+{
+ "doc_id": "a711b75fdce581d9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/2026101884397",
+ "title": "'신세계 3세' 애니도 이렇게 쓴다…요즘 뜨는 향수 사용법",
+ "summary": "이에 발맞춰 국내 주요 향수 브랜드 들도 하나의 시그니처 향을 다양한 제형으로 확장하며 소비자와의 접점을 늘리고 있다. 에이피알의 프래그런스 브랜드 포맨트는 대표 향인 '코튼허그'를 향수와 바디로션 형태로...",
+ "published_at": "2026-10-18T11:29:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "포맨트"
+  ],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "시그니처 향",
+   "향수 제형 확장",
+   "바디로션"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "코튼허그",
+    "brand": "포맨트",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "향수 브랜드들이 하나의 시그니처 향을 여러 제형으로 넓히고 있다",
+  "key_fact_quote": "이에 발맞춰 국내 주요 향수 브랜드 들도 하나의 시그니처 향을 다양한 제형으로 확장하며 소비자와의 접점을 늘리고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

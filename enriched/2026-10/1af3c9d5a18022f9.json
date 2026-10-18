@@ -1,0 +1,64 @@
+{
+ "doc_id": "1af3c9d5a18022f9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=774279",
+ "title": "에뛰드, 추억의 '진주알 BB' 리뉴얼...디오디너리, 립 트리트먼트 출시",
+ "summary": "뷰티 업계가 보습과 자연스러운 피부 표현을 강조한 신제품 을 선보이고 있다. 에뛰드는 과거 '진주알 피부' 열풍을 이끌었던 시그니처 베이스 제품 '진주알 맑은 비비크림'을 리뉴얼 출시 했다. 사진=에뛰드 리뉴얼된...",
+ "published_at": "2026-10-18T09:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에뛰드",
+   "디오디너리"
+  ],
+  "companies": [],
+  "keywords": [
+   "베이스 메이크업",
+   "립 트리트먼트",
+   "리뉴얼 제품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "진주알 맑은 비비크림",
+    "brand": "에뛰드",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에뛰드는 과거 '진주알 피부' 열풍을 이끌었던 시그니처 베이스 제품 '진주알 맑은 비비크림'을 리뉴얼 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "립 트리트먼트",
+    "brand": "디오디너리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "디오디너리, 립 트리트먼트 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에뛰드와 디오디너리가 보습과 자연스러운 피부 표현을 강조한 신제품을 선보였다",
+  "key_fact_quote": "뷰티 업계가 보습과 자연스러운 피부 표현을 강조한 신제품 을 선보이고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

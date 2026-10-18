@@ -1,0 +1,56 @@
+{
+ "doc_id": "b4923d08ee73cc5d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.imwood.co.kr/news/articleView.html?idxno=42073",
+ "title": "바이레도·이딸라, 향수 와 유리 공예 결합한 'LJUS' 컬렉션 출시",
+ "summary": "한정판으로 출시 되며 국내에서는 판매하지 않는다. 한편 환절기에는 기온과 습도 변화에 따라 향수 의 발향과 지속 시간이 달라질 수 있어 사용량을 조절하는 것이 좋다. 손목이나 목덜미 등에 소량을 뿌리고 문지르지...",
+ "published_at": "2026-10-16T11:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "바이레도",
+   "이딸라"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 컬렉션",
+   "유리 공예",
+   "한정판",
+   "협업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "LJUS",
+    "brand": "바이레도",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "바이레도·이딸라, 향수 와 유리 공예 결합한 'LJUS' 컬렉션 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "바이레도와 이딸라가 향수와 유리 공예를 결합한 컬렉션을 한정판으로 내놨다.",
+  "key_fact_quote": "바이레도·이딸라, 향수 와 유리 공예 결합한 'LJUS' 컬렉션 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

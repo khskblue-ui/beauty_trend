@@ -1,0 +1,57 @@
+{
+ "doc_id": "f3640944ecb2d1b1",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100168",
+ "title": "푸드올로지, 일본 온라인 성과 이어 오프라인 유통망 확대",
+ "summary": "라이프솔루션 기반 D2C 미디어커머스 기업 어댑트(ADAPT, 대표 박정하)의 K-이너뷰티 브랜드 푸드올로지(FOODOLOGY)가 일본 내 제품 취급 점포 수 1만4000개를 돌파하며 현지 오프라인 유통망을 확대하고 있다. 온라인 시장에서 쌓은 판매 성과를 바탕으로 주요 오프라인 유통 채널에 진출하고, 현지 맞춤형 제품과 마케팅을 통해 소비자 접점을 넓히고 있다.푸드올로지는 대표 제품 ‘콜레올로지 컷팅 젤리’를 중심으로 일본 온라인 시장에서 판매 성과와 소비자 호응을 이어왔다. 콜레올로지 컷팅 젤리는 2025년 일본 최대 화장품·뷰",
+ "published_at": "2026-10-16T09:31:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "푸드올로지"
+  ],
+  "companies": [
+   "어댑트"
+  ],
+  "keywords": [
+   "이너뷰티",
+   "일본 오프라인 유통",
+   "현지화 전략"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "콜레올로지 컷팅 젤리",
+    "brand": "푸드올로지",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "푸드올로지는 대표 제품 ‘콜레올로지 컷팅 젤리’를 중심으로 일본 온라인 시장에서 판매 성과와 소비자 호응을 이어왔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "푸드올로지가 일본에서 온라인 성과를 바탕으로 오프라인 유통 채널을 넓히고 있다.",
+  "key_fact_quote": "이 같은 온라인 성과를 바탕으로 일본 내 오프라인 유통 채널을 넓히고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": true
+}

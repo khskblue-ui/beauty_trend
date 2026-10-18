@@ -1,0 +1,44 @@
+{
+ "doc_id": "ddf575b01f5cb49f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858883",
+ "title": "히어로즈 오브 코리아, 명동 팝업스토어서 K-퍼퓸 선보여",
+ "summary": "오하니 히어로즈 오브 코리아 창업자 겸 조향사 는 해외 팝업에서 다양한 국적의 고객들이 향에 먼저 관심을 보였다고 밝혔다. 그는 \"롯데백화점 본점은 전 세계 관광객들이 한국의 브랜드와 문화를 발견하는 공간\"이라며...",
+ "published_at": "2026-08-24T17:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "히어로즈 오브 코리아"
+  ],
+  "companies": [],
+  "keywords": [
+   "K-퍼퓸",
+   "팝업스토어",
+   "니치 향수"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "히어로즈 오브 코리아가 명동 팝업스토어에서 K-퍼퓸을 선보였다.",
+  "key_fact_quote": "히어로즈 오브 코리아, 명동 팝업스토어서 K-퍼퓸 선보여",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

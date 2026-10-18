@@ -1,0 +1,48 @@
+{
+ "doc_id": "0b3ffe5a5e5d0500",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207291",
+ "title": "디올 뷰티, 남성 향수 '소바쥬 엑스트레' 출시",
+ "summary": "크리스챤 디올 뷰티가 브랜드의 대표 남성 향수 라인업인 '소바쥬(Sauvage)'의 신제품 'NEW 소바쥬 엑스트레(Sauvage Extrait)'를 지난 31일 공식 출시했다고 밝혔다. 이번 신제품 은 디올 하우스가 남성을 위해 최초로 선보이는...",
+ "published_at": "2026-08-31T15:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "디올"
+  ],
+  "companies": [
+   "크리스챤 디올 뷰티"
+  ],
+  "keywords": [
+   "남성 향수",
+   "엑스트레 퍼퓸",
+   "우디 향"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "e70466d6381838e3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

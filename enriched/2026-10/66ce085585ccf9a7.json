@@ -1,0 +1,55 @@
+{
+ "doc_id": "66ce085585ccf9a7",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312260",
+ "title": "흰지팡이의 날 맞아 화장품·생활용품업계 시각장애인 지원 확대",
+ "summary": "\\'흰지팡이의 날\\'을 맞아 화장품·생활용품 기업들이 시각장애인의 생활안전 확보를 위한 지원 활동을 확대하고 있다. 올해는 점자 태그 보급과 물품 기부를 넘어 시각장애 학생을 대상으로 한 안전교육까지 지원 범위를 넓혔다.한국소비자원과 사업자정례협의체는 지난 15일 서울 종로구 국립서울맹학교에서 시각장애인을 위한 생활안전 지원 행사를 개최했다. 이번 행사는 2022년부터 추진해 온 \\'시각장애인 생활안전 확보 지원 사업\\'의 일환으로 진행됐다.올해는 기존의 점자 태그 및 생활용품 지원 활동에 더해 시각장애 학생들이 생활용품을 안전하게 사용하",
+ "published_at": "2026-10-16T15:58:40+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "LG생활건강",
+   "한국P&G",
+   "애경산업",
+   "한국소비자원"
+  ],
+  "keywords": [
+   "시각장애인 지원",
+   "점자 태그",
+   "ESG 활동"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품과 생활용품 기업들이 흰지팡이의 날에 시각장애인 생활안전 지원을 넓혔다",
+  "key_fact_quote": "'흰지팡이의 날'을 맞아 화장품·생활용품 기업들이 시각장애인의 생활안전 확보를 위한 지원 활동을 확대하고 있다.",
+  "events": [
+   {
+    "name": "시각장애인을 위한 생활안전 지원 행사",
+    "start_date": "2026-10-15",
+    "end_date": null,
+    "place": "서울 종로구 국립서울맹학교",
+    "quote": "한국소비자원과 사업자정례협의체는 지난 15일 서울 종로구 국립서울맹학교에서 시각장애인을 위한 생활안전 지원 행사를 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

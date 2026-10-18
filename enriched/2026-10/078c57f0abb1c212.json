@@ -1,0 +1,50 @@
+{
+ "doc_id": "078c57f0abb1c212",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58531",
+ "title": "[10월 3주 화장품 주가] ‘검은 목요일’로 주가 출렁... 수출 증가로 4분기 실적 개선 기대감↑",
+ "summary": "[코스인코리아닷컴 김민석 기자]10월 15일 ‘검은 목요일’을 연출하며 코스피가 7.57% 5,554.22로 마감했다. 코스닥도 760.83으로 양 시장에서 서킷프레이커가 발동됐다. 외국인이 약 3조 6,340억원을 순매도했고, 삼전닉스 큰 폭 하락하며 지수 급락을 주도했다. 그 영향으로 10월 16일 저가 매수세…",
+ "published_at": "2026-10-18T10:17:13+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "한국콜마",
+   "코스메카코리아",
+   "아모레퍼시픽",
+   "에이피알",
+   "달바글로벌"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "ODM",
+   "틱톡샵",
+   "의료관광"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 수출이 월간 사상 최대를 기록해 업종의 4분기 실적 기대가 커졌다",
+  "key_fact_quote": "화장품 업종의 한 주간 주요 뉴스를 간추려보면 9월 화장품 수출 15억달러 돌파로 월간 사상 최대 기록 수립이 눈에 띈다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": true
+}

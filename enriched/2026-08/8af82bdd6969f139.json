@@ -1,0 +1,45 @@
+{
+ "doc_id": "8af82bdd6969f139",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430775",
+ "title": "[中경제, 두 개의 실험실⑦] 佛기술 품은 코디손 향수…'연 3천만병' 승...",
+ "summary": "핑탄의 향수기업 코디손(KOURTISANES)은 프랑스에서 향료를 수입하고 현지 조향사 들과 제품을 개발한 뒤 중국에서 완제품을 생산한다. 대만 기업과는 핑탄 내 향료작물 재배기지 조성을 추진하고, 캐나다 기업과는...",
+ "published_at": "2026-08-19T13:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "CN",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "코디손(KOURTISANES)"
+  ],
+  "keywords": [
+   "향수 제조",
+   "프랑스 향료 수입",
+   "향료작물 재배"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코디손은 프랑스에서 향료를 수입하고 현지 조향사와 제품을 개발한 뒤 중국에서 완제품을 생산한다",
+  "key_fact_quote": "핑탄의 향수기업 코디손(KOURTISANES)은 프랑스에서 향료를 수입하고 현지 조향사 들과 제품을 개발한 뒤 중국에서 완제품을 생산한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

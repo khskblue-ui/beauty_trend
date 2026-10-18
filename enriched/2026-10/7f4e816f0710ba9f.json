@@ -1,0 +1,50 @@
+{
+ "doc_id": "7f4e816f0710ba9f",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100178",
+ "title": "‘제18차 WFDSA 직접판매 세계대회‘ 오는 10월 19일 개최",
+ "summary": "‘제18차 WFDSA 직접판매 세계대회(이하 WFDSA 2026 직접판매 세계대회)’가 오는 10월 19일부터 21일까지 인천 인스파이어 엔터테인먼트 리조트에서 개최된다.3년마다 개최되는 WFDSA 직접판매 세계대회는 글로벌 직접판매 기업과 각국 협회, 정책 관계자 등 주요 이해관계자들이 모여 직접판매 산업의 미래를 논의하는 자리로, 동북아시아 지역에서는 올해 처음 개최된다. 이번 대회는 ‘Direct Selling: Powering Human Transformation(직접판매, 사람의 변화를 이끌다)’을 슬로건으로, 기술과 소비",
+ "published_at": "2026-10-16T09:59:23+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "직접판매",
+   "K뷰티 체험관",
+   "글로벌 대회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "직접판매 세계대회가 동북아시아에서 처음으로 인천에서 열린다",
+  "key_fact_quote": "3년마다 개최되는 WFDSA 직접판매 세계대회는 글로벌 직접판매 기업과 각국 협회, 정책 관계자 등 주요 이해관계자들이 모여 직접판매 산업의 미래를 논의하는 자리로, 동북아시아 지역에서는 올해 처음 개최된다.",
+  "events": [
+   {
+    "name": "제18차 WFDSA 직접판매 세계대회",
+    "start_date": "2026-10-19",
+    "end_date": "2026-10-21",
+    "place": "인천 인스파이어 엔터테인먼트 리조트",
+    "quote": "‘제18차 WFDSA 직접판매 세계대회(이하 WFDSA 2026 직접판매 세계대회)’가 오는 10월 19일부터 21일까지 인천 인스파이어 엔터테인먼트 리조트에서 개최된다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

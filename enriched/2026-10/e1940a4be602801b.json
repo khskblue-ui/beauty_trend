@@ -1,0 +1,56 @@
+{
+ "doc_id": "e1940a4be602801b",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53719",
+ "title": "“전쟁 포화 속에서도 멈춤없는 K-화장품·뷰티”",
+ "summary": "지난 2022년부터 4년째 전면전을 계속하고 있는 러시아-우크라이나 전쟁 속에서도 K-화장품·뷰티의 이 지역 시장 공략 의지는 수그러들지 않고 있다. (사)한국뷰티산업무역협회(KOBITA·이하 코비타)는 지난 14일부터 17일까지 러시아 모스크바 크로커스 엑스포(Crocus Expo)에서 열린 ‘20…",
+ "published_at": "2026-10-17T21:06:21+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "RU",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국뷰티산업무역협회",
+   "러시아 향수·화장품협회",
+   "코이코"
+  ],
+  "keywords": [
+   "러시아 시장",
+   "K뷰티 수출",
+   "기능성 스킨케어",
+   "뷰티 전시회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코비타가 인터참 러시아에 한국관을 꾸리고 러시아 향수·화장품협회와 업무협약을 맺었다.",
+  "key_fact_quote": "코비타는 이번 전시회에서 타티아나 푸치코바(Tatiana Puchkova) 러시아 향수·화장품협회(PCAR·Russian Perfumery and Cosmetic Association) 회장과 한-러시아 양국 화장품·뷰티 산업 상호 발전과 교류 활성화를 위한 업무협약(MOU)을 체결 했다.",
+  "events": [
+   {
+    "name": "2026 인터참 러시아",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-17",
+    "place": "러시아 모스크바 크로커스 엑스포(Crocus Expo)",
+    "quote": "지난 14일부터 17일까지 러시아 모스크바 크로커스 엑스포(Crocus Expo)에서 열린 ‘2026 인터참 러시아’(InterCHARM 2026)"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": true
+}

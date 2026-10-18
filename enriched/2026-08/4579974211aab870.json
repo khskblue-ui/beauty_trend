@@ -1,0 +1,45 @@
+{
+ "doc_id": "4579974211aab870",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.viva100.com/article/20260806501244",
+ "title": "“시원해야 팔린다”⋯ 폭염이 바꾼 여름 뷰티 공식",
+ "summary": "쿨링 마스크팩과 수딩젤, 바디미스트 , 쿨링 샴푸 등 피부와 두피의 열을 식혀주는 제품군이 고르게 성장했다.... 스킨케어 브랜드들은 냉감과 진정 기능을 강화한 신제품을 잇달아 출시 하고 있다. 신세계인터내셔날의...",
+ "published_at": "2026-08-09T12:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "쿨링 케어",
+   "바디 미스트",
+   "쿨링 샴푸",
+   "수딩젤"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "폭염 속에서 피부와 두피의 열을 식혀 주는 제품군이 고르게 성장했다.",
+  "key_fact_quote": "쿨링 마스크팩과 수딩젤, 바디미스트 , 쿨링 샴푸 등 피부와 두피의 열을 식혀주는 제품군이 고르게 성장했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

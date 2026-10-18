@@ -1,0 +1,44 @@
+{
+ "doc_id": "5c06203bb25982be",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fashionbiz.co.kr/article/229053",
+ "title": "[해외리포트] 2026 매출 견고한 성장~ 에스티로더 ‘뷰티 리이매진드’...",
+ "summary": "톰포드 뷰티 이러한 모멘텀을 이어가기 위해 그룹은 드 라 파베리 CEO 취임 후 대대적인 기업 체질 개선 및 미래 성장 전략으로 내세운 '뷰티 리이매진드' 슬로건 하에 고성장, 고마진 영역인 니치 향수 및 하이엔드...",
+ "published_at": "2026-08-31T14:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "톰포드 뷰티"
+  ],
+  "companies": [
+   "에스티로더"
+  ],
+  "keywords": [
+   "니치 향수",
+   "하이엔드 뷰티",
+   "기업 체질 개선"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에스티로더는 뷰티 리이매진드 전략으로 니치 향수와 하이엔드 영역을 키운다",
+  "key_fact_quote": "드 라 파베리 CEO 취임 후 대대적인 기업 체질 개선 및 미래 성장 전략으로 내세운 '뷰티 리이매진드' 슬로건 하에 고성장, 고마진 영역인 니치 향수 및 하이엔드",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

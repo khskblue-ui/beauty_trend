@@ -1,0 +1,45 @@
+{
+ "doc_id": "1c30586e07cc66b7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.munhwa.com/article/11613192?ref=naver",
+ "title": "“카톡에서 내 취향대로 고른다”…프랑스 니치향수 오르메, 커스텀 세...",
+ "summary": "루이비통·지방시 등 패션하우스에서 아트 디렉터를 역임한 밥티스트 부이그(Baptiste Bouygues)와 겔랑, 디올, 랑방 등 프렌치 퍼퓸하우스에서 경력을 쌓은 조향사 마리 리즈(Marie-Lise)가 공동 설립했다. 모자 사이이기도 한...",
+ "published_at": "2026-08-31T08:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "FR",
+   "KR"
+  ],
+  "brands": [
+   "오르메"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "맞춤 향수",
+   "메신저 기반 서비스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "프랑스 니치 향수 브랜드 오르메가 카카오톡에서 취향대로 고르는 맞춤 향수 서비스를 소개한다.",
+  "key_fact_quote": "“카톡에서 내 취향대로 고른다”…프랑스 니치향수 오르메, 커스텀 세...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

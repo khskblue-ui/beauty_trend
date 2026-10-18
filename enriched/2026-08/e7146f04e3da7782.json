@@ -1,0 +1,56 @@
+{
+ "doc_id": "e7146f04e3da7782",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/08/31/2026083101262.html",
+ "title": "[뷰티업계 이모저모] 페리페라, 가을 색조 신제품 5종 출시 外",
+ "summary": "■페리페라, 가을 색조 신제품 5종 출시 페리페라가 가을 메이크업을 겨냥해 립·아이·치크 신제품 과 신규... ■디올 뷰티, 남성 향수 ‘소바쥬 엑스트레’ 출시 크리스챤 디올 뷰티가 남성 향수 ‘소바쥬 엑스트레’...",
+ "published_at": "2026-08-31T11:23:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "페리페라",
+   "디올 뷰티"
+  ],
+  "companies": [
+   "크리스챤 디올 뷰티"
+  ],
+  "keywords": [
+   "남성 향수",
+   "가을 색조"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "소바쥬 엑스트레",
+    "brand": "디올 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "■디올 뷰티, 남성 향수 ‘소바쥬 엑스트레’ 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디올 뷰티가 남성 향수 신제품을 내놓았다",
+  "key_fact_quote": "■디올 뷰티, 남성 향수 ‘소바쥬 엑스트레’ 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

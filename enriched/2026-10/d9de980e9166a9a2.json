@@ -1,0 +1,56 @@
+{
+ "doc_id": "d9de980e9166a9a2",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58519",
+ "title": "코비타, K뷰티 11개사 러시아 판로 개척·한러 뷰티협력 확대",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 한국뷰티산업무역협회(코비타)가 10월 14일부터 17일까지 러시아 모스크바 크로커스 엑스포에서 열리는 ‘인터참 러시아 2026(InterCHARM 2026)’에 KOTRA 국고지원 한국관을 구성하고 국내 뷰티기업 11개사의 현지 판로 개척을 지원한다고 15일 밝혔다. 올…",
+ "published_at": "2026-10-16T10:56:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "RU",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국뷰티산업무역협회",
+   "KOTRA",
+   "코이코"
+  ],
+  "keywords": [
+   "해외 전시회 한국관",
+   "러시아 시장 진출",
+   "기능성 스킨케어",
+   "업무협약"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코비타가 인터참 러시아에 한국관을 꾸려 국내 뷰티기업의 판로 개척을 지원한다",
+  "key_fact_quote": "한국뷰티산업무역협회(코비타)가 10월 14일부터 17일까지 러시아 모스크바 크로커스 엑스포에서 열리는 ‘인터참 러시아 2026(InterCHARM 2026)’에 KOTRA 국고지원 한국관을 구성하고 국내 뷰티기업 11개사의 현지 판로 개척을 지원한다고 15일 밝혔다.",
+  "events": [
+   {
+    "name": "인터참 러시아 2026(InterCHARM 2026)",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-17",
+    "place": "러시아 모스크바 크로커스 엑스포",
+    "quote": "한국뷰티산업무역협회(코비타)가 10월 14일부터 17일까지 러시아 모스크바 크로커스 엑스포에서 열리는 ‘인터참 러시아 2026(InterCHARM 2026)’에 KOTRA 국고지원 한국관을 구성하고 국내 뷰티기업 11개사의 현지 판로 개척을 지원한다고 15일 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

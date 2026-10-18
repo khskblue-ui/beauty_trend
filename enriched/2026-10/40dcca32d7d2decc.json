@@ -1,0 +1,45 @@
+{
+ "doc_id": "40dcca32d7d2decc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newswatch.kr/news/articleView.html?idxno=81555",
+ "title": "애경산업 AGE20'S, 서울 전역에 '스킨 퍼스트 메이크업' 알린다…대규모...",
+ "summary": "내세워 신제품 에 대한 주목도를 높일 계획이다. 이번 옥외광고의 주요 노출 제품은 지난 9월 출시 한... 글로벌 뷰티 박람회 '코스모프로프 라스베이거스 2025 어워드'에서는 메이크업&네일 부문 최종 1위(WINNER)에...",
+ "published_at": "2026-10-16T17:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "AGE20’S"
+  ],
+  "companies": [],
+  "keywords": [
+   "스킨 퍼스트 메이크업",
+   "옥외광고 캠페인",
+   "프렙 파운데이션"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "676030c736fcb75e",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

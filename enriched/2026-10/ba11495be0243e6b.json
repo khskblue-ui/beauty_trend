@@ -1,0 +1,57 @@
+{
+ "doc_id": "ba11495be0243e6b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ngetnews.com/news/articleView.html?idxno=554635",
+ "title": "에이블리, 스킨케어 '피노티' 론칭…자체 뷰티 브랜드 확장",
+ "summary": "국내 온라인 화장품 시장이 성장하고 있다는 점도 사업 확장의 배경으로 보인다. 에이블리 관계자는 피노티에 대해 \"바이블리의 첫 스킨케어 라인\"이라면서도 \"구체적인 제품 구성과 출시 일정은 아직 확정되지 않았다\"고...",
+ "published_at": "2026-10-16T14:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피노티",
+   "바이블리"
+  ],
+  "companies": [
+   "에이블리"
+  ],
+  "keywords": [
+   "자체 뷰티 브랜드",
+   "스킨케어 라인",
+   "온라인 화장품 시장"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "피노티",
+    "brand": "바이블리",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이블리가 자체 뷰티 브랜드로 스킨케어 라인 피노티를 선보인다",
+  "key_fact_quote": "피노티에 대해 \"바이블리의 첫 스킨케어 라인\"이라면서도",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

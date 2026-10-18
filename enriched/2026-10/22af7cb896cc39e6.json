@@ -1,0 +1,50 @@
+{
+ "doc_id": "22af7cb896cc39e6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449522",
+ "title": "신세계인터내셔날 '하반기 멤버십 위크 ' 진행, 결제 금액 5% 적립",
+ "summary": "딥티크와 산타마리아노벨라, 메종프란시스커정 등 고급 향수 브랜드와 아워글래스, 로라메르시에 등 화장품 브랜드도 포함됐다. 신세계인터내셔날은 앞서 9월에도 신세계V 출시 10주년을 맞아 대규모 할인 행사를...",
+ "published_at": "2026-10-16T10:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "딥티크",
+   "산타마리아노벨라",
+   "메종프란시스커정",
+   "아워글래스",
+   "로라메르시에"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "멤버십 위크",
+   "고급 향수",
+   "수입 화장품 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신세계인터내셔날이 하반기 멤버십 위크를 열고 고급 향수와 화장품 브랜드를 포함해 적립 혜택을 준다.",
+  "key_fact_quote": "신세계인터내셔날 '하반기 멤버십 위크 ' 진행, 결제 금액 5% 적립",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:55+00:00",
+ "had_body": false
+}

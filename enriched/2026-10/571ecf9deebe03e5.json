@@ -1,0 +1,56 @@
+{
+ "doc_id": "571ecf9deebe03e5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.dailypop.kr/news/articleView.html?idxno=103486",
+ "title": "뷰티·패션가, 환절기 맞춤형 프로모션 및 스페셜 에디션 잇따라 선보여",
+ "summary": "사진='마데카 크림 스페셜 세트' 2종 출시 동국제약의 더마코스메틱 브랜드 센텔리안24는 대표 제품인... 삼성전자, LG, 애플, 나이키 등 인기 브랜드의 가전, 패션, 여행, 식품, 화장품 등 전 상품군에 걸쳐 약 110만 개의...",
+ "published_at": "2026-10-17T11:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안24"
+  ],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "환절기 스페셜 세트",
+   "더마코스메틱",
+   "시즌 프로모션"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "마데카 크림 스페셜 세트",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "사진='마데카 크림 스페셜 세트' 2종 출시 동국제약의 더마코스메틱 브랜드 센텔리안24는 대표 제품인...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "센텔리안24가 환절기에 맞춰 마데카 크림 스페셜 세트를 내놓았다",
+  "key_fact_quote": "사진='마데카 크림 스페셜 세트' 2종 출시 동국제약의 더마코스메틱 브랜드 센텔리안24는 대표 제품인...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

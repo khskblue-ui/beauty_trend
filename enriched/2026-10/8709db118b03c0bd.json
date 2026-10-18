@@ -1,0 +1,44 @@
+{
+ "doc_id": "8709db118b03c0bd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261016000247",
+ "title": "증시 한파에 화장품 주도 휘청…4분기 글로벌 쇼핑 성수기 총력전",
+ "summary": "증시 변동성 속 국내 화장품 주도 약세를 보이는 가운데 K뷰티 기업들이 4분기 글로벌 쇼핑 성수기 공략에... 에이피알은 이 같은 성과를 바탕으로 블랙프라이데이와 크리스마스 등 연말 쇼핑 성수기에도 신제품 과...",
+ "published_at": "2026-10-18T15:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "글로벌 쇼핑 성수기",
+   "K뷰티 수출",
+   "블랙프라이데이"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "증시 약세 속에서도 K뷰티 기업들이 연말 글로벌 쇼핑 성수기 공략에 힘을 쏟고 있다.",
+  "key_fact_quote": "증시 변동성 속 국내 화장품 주도 약세를 보이는 가운데 K뷰티 기업들이 4분기 글로벌 쇼핑 성수기 공략에",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

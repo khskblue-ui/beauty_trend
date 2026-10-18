@@ -1,0 +1,44 @@
+{
+ "doc_id": "a51cb03c8121229b",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/jennifer-lawrence-biotech-hair-care-brand-mes-1239363904/",
+ "title": "Jennifer Lawrence Teases Biodesign-Driven Hair Care Brand mes°",
+ "summary": "The Oscar-winning actress just posted a link to the brand on Instagram.",
+ "published_at": "2026-10-17T01:42:57+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "other",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "mes°"
+  ],
+  "companies": [],
+  "keywords": [
+   "바이오디자인",
+   "헤어케어",
+   "셀러브리티 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배우 제니퍼 로렌스가 바이오디자인 기반 헤어케어 브랜드를 인스타그램에서 예고했다.",
+  "key_fact_quote": "The Oscar-winning actress just posted a link to the brand on Instagram.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

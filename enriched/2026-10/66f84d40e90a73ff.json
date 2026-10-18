@@ -1,0 +1,83 @@
+{
+ "doc_id": "66f84d40e90a73ff",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100170",
+ "title": "세르본, ‘신세계면세점 명동점’ 오프라인 입점 기념 할인 프로모션",
+ "summary": "피부과학 기반 스킨케어 브랜드 세르본(Celebon)이 신세계면세점 명동점 오프라인 입점을 기념해 온·오프라인 대규모 프로모션을 진행한다고 16일 밝혔다.세르본은 신세계면세점 온라인몰에 이어 명동점 오프라인 매장까지 판매 채널을 확대하며 소비자와의 접점을 넓혔다. 이번 프로모션은 국내외 고객들이 세르본의 다양한 스킨케어 제품을 특별한 혜택과 함께 만나볼 수 있도록 기획됐다.프로모션 기간 동안 신세계면세점 명동점과 온라인몰에서 세르본 전 품목을 35% 이상 할인된 가격에 판매한다. 대표 안티에이징 라인인 '튜닝엑스(Tuning",
+ "published_at": "2026-10-16T09:34:03+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "세르본"
+  ],
+  "companies": [
+   "신세계면세점"
+  ],
+  "keywords": [
+   "면세점 입점",
+   "안티에이징",
+   "할인 프로모션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "튜닝엑스",
+    "brand": "세르본",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "튜닝엑스 앰플 크림",
+    "brand": "세르본",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "세르본 듀얼 액션 오일 투 폼",
+    "brand": "세르본",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "세르본 딥 마스크",
+    "brand": "세르본",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "세르본이 신세계면세점 명동점에 입점하며 첫 오프라인 유통채널을 열었다",
+  "key_fact_quote": "세르본은 신세계면세점 온라인몰에 이어 명동점 오프라인 매장까지 판매 채널을 확대하며 소비자와의 접점을 넓혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": true
+}

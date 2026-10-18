@@ -1,0 +1,59 @@
+{
+ "doc_id": "af35651a3c04d4a3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ngetnews.com/news/articleView.html?idxno=553873",
+ "title": "구다이글로벌, 이너뷰티 '이세비' 브랜드 론칭…공식몰 오픈 예정",
+ "summary": "구다이글로벌의 이너뷰티 브랜드 제품 출시 는 기존 화장품 중심의 사업 포트폴리오를 다각화하는 시도로 풀이된다. 조선미녀, 티르티르, 닥터나인틴 등 다수의 뷰티 브랜드에 이너뷰티까지 추가하면서 식음료 형태의 뷰티...",
+ "published_at": "2026-09-30T14:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이세비",
+   "조선미녀",
+   "티르티르",
+   "닥터나인틴"
+  ],
+  "companies": [
+   "구다이글로벌"
+  ],
+  "keywords": [
+   "이너뷰티",
+   "사업 다각화",
+   "식음료형 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "이세비",
+    "brand": "이세비",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "구다이글로벌의 이너뷰티 브랜드 제품 출시 는 기존 화장품 중심의 사업 포트폴리오를 다각화하는 시도로 풀이된다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "구다이글로벌이 화장품 중심 사업을 넓혀 이너뷰티 브랜드를 선보였다",
+  "key_fact_quote": "구다이글로벌의 이너뷰티 브랜드 제품 출시 는 기존 화장품 중심의 사업 포트폴리오를 다각화하는 시도로 풀이된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

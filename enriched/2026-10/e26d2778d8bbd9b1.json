@@ -1,0 +1,50 @@
+{
+ "doc_id": "e26d2778d8bbd9b1",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312279",
+ "title": "주가로 읽는 K-뷰티: 외국인은 사고 주가는 내렸다",
+ "summary": "지난 10월 15일 코스피가 6000선 아래로 하락하며 증시 전반이 조정 국면에 진입한 가운데 주요 뷰티 종목들의 주가는 전반적으로 하락했다. 반면 외국인 투자자들은 파마리서치와 한국콜마, 실리콘투 등을 중심으로 지분을 확대하며 상반된 움직임을 보였다.16일 네이버증권에 따르면 브랜드, ODM, 유통, 신예 브랜드, 바이오 등 뷰티 관련 주요 7개 종목의 최근 일주일간(10월 8일~15일) 주가와 외국인 보유율을 분석한 결과, 에이피알과 파마리서치의 주가 하락폭이 가장 컸다. 반면 한국콜마와 파마리서치는 외국인 보유율 증가폭이 두드",
+ "published_at": "2026-10-16T19:54:33+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "파마리서치",
+   "한국콜마",
+   "실리콘투",
+   "에이피알",
+   "코스맥스",
+   "아모레퍼시픽",
+   "LG생활건강"
+  ],
+  "keywords": [
+   "뷰티 종목 주가",
+   "외국인 수급",
+   "ODM 주식"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "증시 조정 속에서 뷰티 종목 주가는 내렸지만 외국인은 일부 종목을 샀다",
+  "key_fact_quote": "반면 외국인 투자자들은 파마리서치와 한국콜마, 실리콘투 등을 중심으로 지분을 확대하며 상반된 움직임을 보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

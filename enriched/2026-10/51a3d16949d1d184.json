@@ -1,0 +1,47 @@
+{
+ "doc_id": "51a3d16949d1d184",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/piper-sandler-survey-beauty-findings-1239351894/",
+ "title": "Teen Beauty Spend Is Up, as Is Rhode’s Stock, Piper Sandler Survey Shows",
+ "summary": "The brand — led by Hailey Bieber and backed by E.l.f. Beauty — entered Piper Sandler’s annual Teen Survey for the first time this year, as skin care and cosmetics spend rose 5 percent.",
+ "published_at": "2026-10-17T01:55:55+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Rhode",
+   "E.l.f. Beauty"
+  ],
+  "companies": [
+   "Piper Sandler"
+  ],
+  "keywords": [
+   "청소년 뷰티 소비",
+   "스킨케어",
+   "색조 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Rhode가 처음으로 Piper Sandler 청소년 설문에 올랐고 청소년의 뷰티 지출이 늘었다.",
+  "key_fact_quote": "The brand — led by Hailey Bieber and backed by E.l.f. Beauty — entered Piper Sandler’s annual Teen Survey for the first time this year, as skin care and cosmetics spend rose 5 percent.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

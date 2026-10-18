@@ -1,0 +1,65 @@
+{
+ "doc_id": "e70466d6381838e3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.itbiznews.com/news/articleView.html?idxno=223277",
+ "title": "디올 뷰티, 남성 향수 '소바쥬 엑스트레' 출시… 오우드 중심 우디 향 구...",
+ "summary": "크리스챤 디올 뷰티가 대표 남성 향수 라인 '소바쥬(Sauvage)'의 신제품 '소바쥬 엑스트레(Sauvage Extrait)'를 출시했다고 31일 밝혔다. '소바쥬 엑스트레'는 디올이 남성을 위해 처음 선보이는 엑스트레 퍼퓸으로, 기존...",
+ "published_at": "2026-08-31T14:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "디올"
+  ],
+  "companies": [
+   "크리스챤 디올 뷰티"
+  ],
+  "keywords": [
+   "남성 향수",
+   "엑스트레 퍼퓸",
+   "우디 향"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "소바쥬 엑스트레",
+    "brand": "디올",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "크리스챤 디올 뷰티가 대표 남성 향수 라인 '소바쥬(Sauvage)'의 신제품 '소바쥬 엑스트레(Sauvage Extrait)'를 출시했다고 31일 밝혔다.",
+    "notes": [
+     "오우드",
+     "우디"
+    ],
+    "notes_quote": "디올 뷰티, 남성 향수 '소바쥬 엑스트레' 출시… 오우드 중심 우디 향 구"
+   }
+  ],
+  "key_fact": "디올 뷰티가 남성 향수 소바쥬 라인에서 오우드 중심 우디 향의 엑스트레 퍼퓸을 출시했다.",
+  "key_fact_quote": "디올 뷰티, 남성 향수 '소바쥬 엑스트레' 출시… 오우드 중심 우디 향 구",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "오우드",
+    "quote": "디올 뷰티, 남성 향수 '소바쥬 엑스트레' 출시… 오우드 중심 우디 향 구"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

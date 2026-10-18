@@ -1,0 +1,107 @@
+{
+ "doc_id": "c7302586bcdde8ce",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58529",
+ "title": "‘K-뷰티 엑스포 코리아 2026’ 참가, 유니즈랩... 천연 스피큘 + 6종 활성성분 + 멜팅볼 제형 결합한 ‘스피큘 카테고리’ 제안",
+ "summary": "[코스인코리아닷컴 길태윤 기자]K-뷰티의 차세대 고기능성 소재인 스피큘(Spicule)의 인기가 만만치않음이 확인됐다. ‘K-뷰티 엑스포 코리아’(10. 15~17)가 열린 킨텍스 홀의 유니즈랩(UNIZLAB) 부스는 프리미엄 고기능성 소재를 확인하려는 바이어와 참관객들로 북적거렸다. 시장조사기관…",
+ "published_at": "2026-10-17T14:13:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "유니즈랩",
+   "VT 코스메틱"
+  ],
+  "companies": [
+   "유니즈랩"
+  ],
+  "keywords": [
+   "스피큘",
+   "고기능성 소재",
+   "맞춤형 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "스피큘 멜팅볼",
+    "brand": "유니즈랩",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "리들샷",
+    "brand": "VT 코스메틱",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유니즈랩이 스피큘과 활성성분을 결합한 멜팅볼 제형을 K-뷰티 엑스포에서 선보였다.",
+  "key_fact_quote": "‘K-뷰티 엑스포 코리아’(10. 15~17)가 열린 킨텍스 홀의 유니즈랩(UNIZLAB) 부스는 프리미엄 고기능성 소재를 확인하려는 바이어와 참관객들로 북적거렸다.",
+  "events": [
+   {
+    "name": "K-뷰티 엑스포 코리아 2026",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": "킨텍스",
+    "quote": "‘K-뷰티 엑스포 코리아’(10. 15~17)가 열린 킨텍스 홀의 유니즈랩(UNIZLAB) 부스는 프리미엄 고기능성 소재를 확인하려는 바이어와 참관객들로 북적거렸다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "스피큘",
+    "quote": "K-뷰티의 차세대 고기능성 소재인 스피큘(Spicule)의 인기가 만만치않음이 확인됐다."
+   },
+   {
+    "name": "토마토 추출물",
+    "quote": "➊ 토마토 추출물: 라이코펜 기반 피부보호, 피부결·톤관리"
+   },
+   {
+    "name": "라이코펜",
+    "quote": "➊ 토마토 추출물: 라이코펜 기반 피부보호, 피부결·톤관리"
+   },
+   {
+    "name": "시아노박테리아",
+    "quote": "➋ 시아노박테리아: 아미노산·미네랄 공급, 보습·항산화"
+   },
+   {
+    "name": "아스타잔틴",
+    "quote": "➌ 아스타잔틴: 항산화, 피부 노화 징후 관리"
+   },
+   {
+    "name": "구리클로로필린",
+    "quote": "➍ 구리클로로필린: 피부 정화, 항산화·진정"
+   },
+   {
+    "name": "시아노코발라민",
+    "quote": "➎ 시아노코발라민(B12): 진정·보습, 생기 부여"
+   },
+   {
+    "name": "코퍼트라이펩타이드-1",
+    "quote": "➏ 코퍼트라이펩타이드-1: 탄력·피부장벽 관리, 안티에이징"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

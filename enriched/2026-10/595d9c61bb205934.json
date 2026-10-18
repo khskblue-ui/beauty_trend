@@ -1,0 +1,45 @@
+{
+ "doc_id": "595d9c61bb205934",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=65914",
+ "title": "FLEXOME 기술, 화장품 전달체 혁신 이끈다…코씨드바이오팜·벨로닉스 전...",
+ "summary": "화장품 원료 연구개발 기업 ㈜코씨드바이오팜(대표 박성민)과 ㈜벨로닉스(대표 김형준)가 FLEXOME 기술을 기반으로 한 신규 전달체 기술 개발과 화장품 신제품 사업화를 위한 전략적 업무제휴 협약(MOU)을 체결했다. 이번...",
+ "published_at": "2026-10-16T17:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코씨드바이오팜",
+   "벨로닉스"
+  ],
+  "keywords": [
+   "전달체 기술",
+   "화장품 원료",
+   "업무제휴"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코씨드바이오팜과 벨로닉스가 신규 전달체 기술 개발과 신제품 사업화를 위해 업무제휴 협약을 맺었다.",
+  "key_fact_quote": "화장품 원료 연구개발 기업 ㈜코씨드바이오팜(대표 박성민)과 ㈜벨로닉스(대표 김형준)가 FLEXOME 기술을 기반으로 한 신규 전달체 기술 개발과 화장품 신제품 사업화를 위한 전략적 업무제휴 협약(MOU)을 체결했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

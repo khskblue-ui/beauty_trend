@@ -1,0 +1,50 @@
+{
+ "doc_id": "1f33cb5b7d54b56d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=857621",
+ "title": "어뮤즈 해외 베팅…신세계인터내셔날, K-뷰티 승부수",
+ "summary": "수입코스메틱도 니치 향수 와 럭셔리 뷰티 수요가 이어지면서 딥티크, 로라 메르시에, 아워글래스, 라부르켓 등 대부분 브랜드가 두 자릿수 성장률을 기록했다. 코스메틱 사업 전반이 성장세를 보인 반면 해외 확장에...",
+ "published_at": "2026-08-18T18:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어뮤즈",
+   "딥티크",
+   "로라 메르시에",
+   "아워글래스",
+   "라부르켓"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "니치 향수",
+   "럭셔리 뷰티",
+   "K뷰티 해외 확장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신세계인터내셔날의 수입 코스메틱은 니치 향수와 럭셔리 뷰티 수요로 대부분 브랜드가 크게 성장했다",
+  "key_fact_quote": "수입코스메틱도 니치 향수 와 럭셔리 뷰티 수요가 이어지면서 딥티크, 로라 메르시에, 아워글래스, 라부르켓 등 대부분 브랜드가 두 자릿수 성장률을 기록했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

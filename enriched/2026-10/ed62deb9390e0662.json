@@ -1,0 +1,48 @@
+{
+ "doc_id": "ed62deb9390e0662",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439673",
+ "title": "미국 선크림에 25년만 새 성분 허가…K뷰티 ODM사 수혜 기대",
+ "summary": "국내 화장품 제조업자 개발 생산(ODM) 업체들이 수혜를 입을 것이라는 전망이 나온다. 그동안 미국 시장과... 제품을 출시 하고 있다. 베모트리지놀은 지난 8월부터 제조사가 실제 제품에 쓸 수 있게 됐으며, 1990년대 후반...",
+ "published_at": "2026-10-16T16:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "regulation",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "자외선 차단 성분",
+   "선크림",
+   "ODM 수혜"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 선크림에 새 성분이 허가돼 국내 ODM 업체가 수혜를 입을 전망이다",
+  "key_fact_quote": "국내 화장품 제조업자 개발 생산(ODM) 업체들이 수혜를 입을 것이라는 전망이 나온다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "베모트리지놀",
+    "quote": "베모트리지놀은 지난 8월부터 제조사가 실제 제품에 쓸 수 있게 됐으며"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

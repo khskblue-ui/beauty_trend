@@ -1,0 +1,44 @@
+{
+ "doc_id": "755105f017f90e82",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kukinews.com/article/view/kuk202610160107",
+ "title": "신세계인터, 가을·겨울 소비 잡기 나서…멤버십 적립 10배 확대",
+ "summary": "특히 고가 수입 패션 브랜드 매출이 91.5% 늘었고, 니치 향수 와 고가 화장품을 포함한 코스메틱 부문도 50% 증가했다. 이번 행사에는 브루넬로 쿠치넬리, 아크리스, 꾸레쥬 등 수입 패션 브랜드와 스튜디오 톰보이, 보브...",
+ "published_at": "2026-10-16T14:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신세계인터"
+  ],
+  "keywords": [
+   "니치 향수",
+   "멤버십 혜택",
+   "고가 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신세계인터가 가을과 겨울 소비를 잡으려 멤버십 적립을 크게 늘렸고 니치 향수와 고가 화장품 판매도 늘었다",
+  "key_fact_quote": "특히 고가 수입 패션 브랜드 매출이 91.5% 늘었고, 니치 향수 와 고가 화장품을 포함한 코스메틱 부문도 50% 증가했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

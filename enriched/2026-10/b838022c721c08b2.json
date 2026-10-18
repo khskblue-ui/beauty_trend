@@ -1,0 +1,44 @@
+{
+ "doc_id": "b838022c721c08b2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=131119",
+ "title": "한국콜마, 중기부 장관 취임 후 첫 기업 방문지 선정… K - 뷰티 동반성장...",
+ "summary": "최근 K - 뷰티 의 성장세는 중소기업 수출 실적에서도 확인된다. 올해 상반기 중소기업 수출 액은 640억달러를 돌파하며 역대 최대치를 기록했다. 특히 화장품 수출 액은 50억7000만달러로 전년 동기 대비 30.7% 증가하며 중소기업...",
+ "published_at": "2026-10-18T12:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "중소기업 수출",
+   "동반성장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티의 성장세가 중소기업 수출 실적에서도 확인된다.",
+  "key_fact_quote": "최근 K - 뷰티 의 성장세는 중소기업 수출 실적에서도 확인된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

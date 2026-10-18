@@ -1,0 +1,39 @@
+{
+ "doc_id": "fcbd181a52f0dd55",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=172330",
+ "title": "삼립, 'SIAL 파리'에서 K-호떡 '집중 부각'...삼립부스 '북적'",
+ "summary": "예컨대 농심은 최근(16일) \"신라면 출시 40주년을 맞아 미국 뉴욕 맨해튼에서 브랜드 성장 과정과 K푸드... 이 관계자는 \"미국, 아시아, 유럽 등의 시장은 한국 자동차, 가전, 화장품 등 많은 K제품이 팔리고 있는 곳\"이라며...",
+ "published_at": "2026-10-18T12:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

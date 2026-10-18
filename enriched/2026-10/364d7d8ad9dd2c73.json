@@ -1,0 +1,52 @@
+{
+ "doc_id": "364d7d8ad9dd2c73",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312261",
+ "title": "AI Is Finding Overseas Buyers for K-Beauty Brands and Writing the Sales Emails",
+ "summary": "The way exporters identify overseas buyers is beginning to change. Traditionally, companies relied on trade shows, industry networks, and purchased contact lists to find distributors and importers abroad.Now, artificial intelligence is increasingly being used to discover potential buyers, generate c",
+ "published_at": "2026-10-17T12:10:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Greenda AI"
+  ],
+  "keywords": [
+   "AI 수출 영업",
+   "해외 바이어 발굴",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "AI 플랫폼이 K뷰티 수출 기업의 해외 바이어 발굴과 영업 메일 작성에 쓰이기 시작했다",
+  "key_fact_quote": "Now, artificial intelligence is increasingly being used to discover potential buyers, generate customized outreach emails, and manage follow-up communications.",
+  "events": [
+   {
+    "name": "Trade AI Best Services Practical Workshop",
+    "start_date": "2026-11-02",
+    "end_date": null,
+    "place": null,
+    "quote": "Greenda AI will showcase Rinda at the “Trade AI Best Services Practical Workshop” hosted by the Korea International Trade Association (KITA) on November 2."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

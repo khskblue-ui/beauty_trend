@@ -1,0 +1,56 @@
+{
+ "doc_id": "90a5b282e6c1dc65",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53721",
+ "title": "‘트렌드 코리아 2027’이 짚은 K-뷰티의 생존법",
+ "summary": "2027년 정미(丁未)년은 ‘붉은 양’의 해다. 무리지어 다니는 양은 의존성이 강하다. “양떼같은 군집 본능을 이겨내고, 무리에서 앞장서 변화를 이끄는 첫 번째 주자가 돼야 한다.” 신간 ‘트렌드코리아 2027’가 던지는 메시지다. 인공지능이 답을 만들고, 알고리즘이 행동을 몰아가는 시대다. 사람들은 바…",
+ "published_at": "2026-10-18T13:55:25+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "발몽",
+   "바이오던스"
+  ],
+  "companies": [],
+  "keywords": [
+   "폼팩터 시프트",
+   "고체 향수",
+   "스킨터테인먼트",
+   "워터리스 화장품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "바이오 콜라겐 리얼 딥 마스크",
+    "brand": "바이오던스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "트렌드 코리아는 제품의 형태와 사용법이 다양해지는 변화를 짚었다",
+  "key_fact_quote": "붙이는 비타민, 가루샴푸, 고체향수…. 제품의 물성과 사용법이 다양해졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": true
+}

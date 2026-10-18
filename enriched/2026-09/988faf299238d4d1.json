@@ -1,0 +1,54 @@
+{
+ "doc_id": "988faf299238d4d1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=209641",
+ "title": "리베르, 성수 무신사 뷰티 스페이스1서 팝업스토어 운영",
+ "summary": "이번 팝업스토어는 브랜드 대표 향수 인 '클라우드 사이'에서 영감을 받아 구름 속을 유영하는 듯한 컨셉으로 연출됐다. 현장 방문객들은 리베르의 다양한 향 제품을 직접 시향할 수 있으며, 구름 모양 퍼퓸 키링인...",
+ "published_at": "2026-09-29T12:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리베르"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 팝업스토어",
+   "시향 체험",
+   "퍼퓸 키링"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "클라우드 사이",
+    "brand": "리베르",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "리베르가 성수 무신사 뷰티 스페이스1에서 향수 팝업스토어를 운영한다.",
+  "key_fact_quote": "이번 팝업스토어는 브랜드 대표 향수 인 '클라우드 사이'에서 영감을 받아 구름 속을 유영하는 듯한 컨셉으로 연출됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

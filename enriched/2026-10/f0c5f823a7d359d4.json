@@ -1,0 +1,64 @@
+{
+ "doc_id": "f0c5f823a7d359d4",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312048",
+ "title": "티몰 뷰티 트렌드 3분기 리포트②: 선케어시장, 로컬 브랜드 강세 속 기능성 경쟁 심화",
+ "summary": "[편집자 주] 뷰티경제는 2022년 7월부터 중국 최대 전자상거래 플랫폼 티몰(Tmall)의 뷰티 카테고리 판매 데이터를 추적 조사하며 시장 변화를 분석하고 있다.이번 기사에서는 2025년 3분기와 2026년 3분기 선케어 판매 데이터를 비교해 중국 소비자들의 구매 트렌드 변화와 브랜드 경쟁 구도의 흐름을 분석했다.급락 이후 횡보 국면 진입티몰 자외선차단제 시장이 급격한 위축 이후 횡보 국면에 접어든 것으로 나타났다.본지가 티몰 자외선차단제 카테고리 TOP10 브랜드의 판매량을 분석한 결과, 2024년 3분기 129만 개였던 판매량",
+ "published_at": "2026-10-16T09:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [
+   "메이캉펀다이",
+   "위노나",
+   "프로야",
+   "Hipapa",
+   "Unnyclub",
+   "Mistine",
+   "아넷샤",
+   "로레알",
+   "OSTRREE",
+   "비오레"
+  ],
+  "companies": [],
+  "keywords": [
+   "선케어",
+   "스킨케어 결합형 선케어",
+   "중국 로컬 브랜드",
+   "기능성 경쟁"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Mistine 선크림",
+    "brand": "Mistine",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "티몰 선케어 시장은 급락 뒤 횡보하고 중국 로컬 브랜드와 스킨케어 결합형 제품이 늘고 있다",
+  "key_fact_quote": "결국 현재 티몰 자외선차단제 시장의 핵심은 판매량 증가 여부보다 스킨케어 중심의 기능 고도화와 브랜드 재편에 있는 것으로 분석된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": true
+}

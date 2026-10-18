@@ -1,0 +1,43 @@
+{
+ "doc_id": "63c2d5c5bccabaa8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=202652",
+ "title": "\"캐릭터 협업부터 한정판까지\"... 메이크업 차별화 경쟁 [최기자의 화장...",
+ "summary": "추천 화장품 을 소개한다. 10월 셋째 주 메이크업 시장에서는 캐릭터 협업, 유통 채널별 선론칭, 사용법을 차별화한 포인트 메이크업, 연말 한정판 등 다양한 기획의 신제품 이 등장했다. 새로운 색상과 제형을 선보이는 데...",
+ "published_at": "2026-10-17T10:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "캐릭터 협업",
+   "한정판",
+   "포인트 메이크업",
+   "채널별 선론칭"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "메이크업 시장에서 캐릭터 협업과 채널별 선론칭, 연말 한정판 등 다양한 기획 신제품이 나왔다.",
+  "key_fact_quote": "10월 셋째 주 메이크업 시장에서는 캐릭터 협업, 유통 채널별 선론칭, 사용법을 차별화한 포인트 메이크업, 연말 한정판 등 다양한 기획의 신제품 이 등장했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}

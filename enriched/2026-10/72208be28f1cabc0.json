@@ -1,0 +1,38 @@
+{
+ "doc_id": "72208be28f1cabc0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ngetnews.com/news/articleView.html?idxno=554619",
+ "title": "[단독] 삼립, 누네띠네 '티라미수 초코' 출시 초읽기",
+ "summary": "주요 성분 및 원료로는 티라미수의 맛을 내기 위한 코코아 분말과 각종 향료 가 들어간다. 소비기한은 실온 보관 시 제조일로부터 1년이다. 신제품의 플레이버로 티라미수 초코가 낙점된 데는 기존 카페 및 디저트...",
+ "published_at": "2026-10-16T11:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-18T22:00:13+00:00",
+ "had_body": false
+}

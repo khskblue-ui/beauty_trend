@@ -1,0 +1,48 @@
+{
+ "doc_id": "ac213b6fa832aa32",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.onews.tv/news/articleView.html?idxno=289321",
+ "title": "1억 개 팔린 '마데카 크림'… 동국제약 센텔리안24, 창립 기념 세트 2종...",
+ "summary": "패키지는 브랜드 상징색인 레드와 화이트를 바탕으로 축하 리본 디자인과 '58th Anniversary' 기념 엠블럼을... (제공=동국제약)©열린뉴스통신ONA '마데카 크림 타이트 리프팅 스페셜 세트'는 최근 뷰티 트렌드인 '저속노화...",
+ "published_at": "2026-10-16T16:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안24"
+  ],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "안티에이징 크림",
+   "기념 스페셜 세트",
+   "저속노화"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "725af482815c184f",
+ "enriched_at": "2026-10-18T22:03:19+00:00",
+ "had_body": false
+}
