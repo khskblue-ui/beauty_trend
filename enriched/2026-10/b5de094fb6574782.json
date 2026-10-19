@@ -1,0 +1,52 @@
+{
+ "doc_id": "b5de094fb6574782",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bizwnews.com/news/articleView.html?idxno=149228",
+ "title": "킨텍스, K - 뷰티 엑스포에 679개사 참가… 수출 상담 3억3100만 달러 성과",
+ "summary": "킨텍스는 지난 15~17일 열린 제18회 K - 뷰티 엑스포에 15개국 679개사가 참가해 역대 최대 참가 규모와 수출 성과를 거뒀다고 19일 밝혔다. 이번 수출 상담회는 킨텍스와 코트라 경기북부지원본부가 공동 운영했다. 매출과...",
+ "published_at": "2026-10-19T19:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "킨텍스",
+   "코트라 경기북부지원본부"
+  ],
+  "keywords": [
+   "K뷰티 엑스포",
+   "수출 상담회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "제18회 K뷰티 엑스포가 역대 최대 참가 규모와 수출 성과를 냈다",
+  "key_fact_quote": "킨텍스는 지난 15~17일 열린 제18회 K - 뷰티 엑스포에 15개국 679개사가 참가해 역대 최대 참가 규모와 수출 성과를 거뒀다고 19일 밝혔다.",
+  "events": [
+   {
+    "name": "제18회 K - 뷰티 엑스포",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": "킨텍스",
+    "quote": "킨텍스는 지난 15~17일 열린 제18회 K - 뷰티 엑스포에 15개국 679개사가 참가해 역대 최대 참가 규모와 수출 성과를 거뒀다고 19일 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "c170da40dc3eadf4",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312313",
+ "title": "K-Beauty Strengthens Its Foothold in the U.S. as Hair Care Emerges as a New Growth Engine - 뷰티경제",
+ "summary": "South Korean beauty exports to the United States continued their strong upward trajectory",
+ "published_at": "2026-10-19T11:50:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 미국 수출",
+   "헤어 케어",
+   "성장 동력"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 뷰티의 미국 수출이 이어지고 헤어 케어가 새 성장 동력으로 떠올랐다.",
+  "key_fact_quote": "K-Beauty Strengthens Its Foothold in the U.S. as Hair Care Emerges as a New Growth Engine",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

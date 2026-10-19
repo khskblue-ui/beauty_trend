@@ -1,0 +1,64 @@
+{
+ "doc_id": "bdfd2659e04c1bb8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279084",
+ "title": "타임듀이, 첫 기초 라인업 '쫀쫀세럼' 및 '쫀쫀크림' 출시",
+ "summary": "신제품 2종 대상 최대 52% 할인 혜택이 적용되며, 5만 원 이상 구매 시 무료 배송 서비스가 제공된다. 타임듀이 한승아 대표는 \"뷰티 현장에서 수많은 화장품 을 접하며 매일 부담 없이 사용할 수 있는 데일리 케어의...",
+ "published_at": "2026-10-19T11:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "타임듀이"
+  ],
+  "companies": [
+   "타임듀이"
+  ],
+  "keywords": [
+   "데일리 케어",
+   "기초 라인업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "쫀쫀세럼",
+    "brand": "타임듀이",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "타임듀이, 첫 기초 라인업 '쫀쫀세럼' 및 '쫀쫀크림' 출시",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "쫀쫀크림",
+    "brand": "타임듀이",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "타임듀이, 첫 기초 라인업 '쫀쫀세럼' 및 '쫀쫀크림' 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "타임듀이가 첫 기초 라인업으로 쫀쫀세럼과 쫀쫀크림을 출시했다",
+  "key_fact_quote": "타임듀이, 첫 기초 라인업 '쫀쫀세럼' 및 '쫀쫀크림' 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

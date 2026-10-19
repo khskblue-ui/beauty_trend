@@ -1,0 +1,44 @@
+{
+ "doc_id": "2a0313c1d8bc0a77",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728376",
+ "title": "[Beauty & NOW] 코스맥스-UKF, 'KOOM K-뷰티 크리에이터 어워즈' 개최 등",
+ "summary": "올해 흑자 전환에 성공한 코스맥스 미국법인과 미국 시장 화장품 수입국 1위에 오른 한국 화장품 의 성과가... 아모레퍼시픽은 19일 \"이번 신제품 역시 입술 보습과 편안한 사용감은 물론 자연스러운 컬러 표현까지...",
+ "published_at": "2026-10-19T17:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "K-뷰티 미국 진출",
+   "크리에이터 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스 미국법인이 올해 흑자 전환에 성공했다.",
+  "key_fact_quote": "올해 흑자 전환에 성공한 코스맥스 미국법인과",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

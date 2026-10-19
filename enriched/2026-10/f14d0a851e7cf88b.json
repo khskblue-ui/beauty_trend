@@ -1,0 +1,44 @@
+{
+ "doc_id": "f14d0a851e7cf88b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211226",
+ "title": "한국콜마 세종공장 찾은 중기부 장관… K - 뷰티 수출 확대·생산기반 점검",
+ "summary": "이 가운데 화장품 수출 은 50억7000만 달러로 전년 동기 대비 30.7% 증가해 중소기업 수출 품목 1위에 올랐다. K - 뷰티 의 해외 수요가 확대되면서 브랜드 경쟁력뿐 아니라 안정적인 생산과 품질관리, 수출 수요에 대응할 제조...",
+ "published_at": "2026-10-19T15:35:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "생산기반 점검",
+   "화장품 OEM"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중기부 장관이 한국콜마 세종공장에서 K뷰티 수출 확대와 생산기반을 점검했다",
+  "key_fact_quote": "K - 뷰티 의 해외 수요가 확대되면서 브랜드 경쟁력뿐 아니라 안정적인 생산과 품질관리, 수출 수요에 대응할 제조...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

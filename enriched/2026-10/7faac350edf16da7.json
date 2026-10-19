@@ -1,0 +1,45 @@
+{
+ "doc_id": "7faac350edf16da7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261016000345",
+ "title": "뉴엔AI, 'K-뷰티엑스포'서 인종·피부별 'AI 페르소나 정밀 분석' 솔루션...",
+ "summary": "뉴엔AI 측은 전시 기간 부스에는 국내 유망 인디 브랜드 를 비롯해 글로벌 유통 대기업, OEM·ODM 제조사, 해외... 아울러 부대행사인 'RE;VIEW & NEXT 2026' 세미나에서는 뉴엔AI 소비자분석팀 남유진 팀장이 'K- 향수 , 다음 K...",
+ "published_at": "2026-10-19T07:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "뉴엔AI"
+  ],
+  "keywords": [
+   "K-뷰티엑스포",
+   "AI 분석",
+   "K-향수",
+   "소비자 분석"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "뉴엔AI가 K-뷰티엑스포에서 인종과 피부별 AI 페르소나 분석 솔루션을 선보인다.",
+  "key_fact_quote": "뉴엔AI, 'K-뷰티엑스포'서 인종·피부별 'AI 페르소나 정밀 분석' 솔루션",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,58 @@
+{
+ "doc_id": "2e1e9761be6612ac",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://economist.co.kr/article/view/ecn202610190032",
+ "title": "아마존서 ‘폭풍 성장’ 이퀄베리, 美 ‘얼타 뷰티 ’ 입점",
+ "summary": "글로벌 커머스 기업 부스터스는 글로벌 스킨케어 브랜드 ‘이퀄베리’가 미국 최대 뷰티 전문 유통업체... 지난 18일 얼타 뷰티 온라인 스토어에 제품을 론칭 한 이퀄베리는 다음 달 1일부터 미국 얼타 뷰티 매장 내 K...",
+ "published_at": "2026-10-19T15:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "이퀄베리"
+  ],
+  "companies": [
+   "부스터스",
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "K-뷰티 미국 유통",
+   "아마존",
+   "스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "이퀄베리",
+    "brand": "이퀄베리",
+    "launch_date": "2026-10-18",
+    "launch_status": "launched",
+    "launch_quote": "지난 18일 얼타 뷰티 온라인 스토어에 제품을 론칭 한 이퀄베리는 다음 달 1일부터 미국 얼타 뷰티 매장 내 K",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이퀄베리가 미국 얼타 뷰티 온라인 스토어에 제품을 냈다.",
+  "key_fact_quote": "지난 18일 얼타 뷰티 온라인 스토어에 제품을 론칭 한 이퀄베리는 다음 달 1일부터 미국 얼타 뷰티 매장 내 K",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

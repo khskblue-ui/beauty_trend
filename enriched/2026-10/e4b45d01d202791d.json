@@ -1,0 +1,42 @@
+{
+ "doc_id": "e4b45d01d202791d",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312139",
+ "title": "④China's Moisturizer Market Continues to Contract as Demand Shifts Toward Functional Skincare - 뷰티경제",
+ "summary": "China's moisturizer market remains under pressure despite signs that the pace of decline i",
+ "published_at": "2026-10-19T11:50:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "보습제 시장",
+   "기능성 스킨케어",
+   "중국 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 보습제 시장이 계속 위축되고 있다.",
+  "key_fact_quote": "China's moisturizer market remains under pressure",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

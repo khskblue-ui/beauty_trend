@@ -1,0 +1,47 @@
+{
+ "doc_id": "bfb7fc3ca1361921",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312329",
+ "title": "외국인·기관, 아모레·LG생건 매수...에이피알 동반 매도 - 뷰티경제",
+ "summary": "최근 5거래일 동안 외국인과 기관 자금은 에이피알보다 아모레퍼시픽·LG생활건강·한국콜마로 이동했다.이는 네이버증권을 통해 아모레퍼시픽, LG생활건강, 코스맥스,",
+ "published_at": "2026-10-19T19:25:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽",
+   "LG생활건강",
+   "한국콜마",
+   "에이피알",
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 주식",
+   "외국인 수급"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "최근 외국인과 기관 자금이 에이피알에서 아모레퍼시픽, LG생활건강, 한국콜마로 옮겨 갔다",
+  "key_fact_quote": "최근 5거래일 동안 외국인과 기관 자금은 에이피알보다 아모레퍼시픽·LG생활건강·한국콜마로 이동했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

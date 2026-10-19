@@ -1,0 +1,57 @@
+{
+ "doc_id": "da411dfa40b1e146",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.kdfnews.com/news/articleView.html?idxno=189531",
+ "title": "K뷰티, 장수 제품 활용해 판로 공략…美 현지화도 추진",
+ "summary": "19일 에이블씨엔씨에 따르면 화장품 브랜드 미샤는 지난 6~7일 미국 아마존 '프라임 빅딜 데이즈'에서 전년... 2007년 출시 된 미샤의 빨간비비는 누적 판매량 1억 개를 넘어섰다. 에이블씨엔씨의 올해 2분기 미국 매출은...",
+ "published_at": "2026-10-19T16:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "미샤"
+  ],
+  "companies": [
+   "에이블씨엔씨"
+  ],
+  "keywords": [
+   "장수 제품",
+   "미국 현지화",
+   "아마존 프로모션"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "빨간비비",
+    "brand": "미샤",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이블씨엔씨가 미샤의 장수 제품으로 미국 판로를 공략한다",
+  "key_fact_quote": "2007년 출시 된 미샤의 빨간비비는 누적 판매량 1억 개를 넘어섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

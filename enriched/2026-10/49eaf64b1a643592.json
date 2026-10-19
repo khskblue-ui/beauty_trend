@@ -1,0 +1,54 @@
+{
+ "doc_id": "49eaf64b1a643592",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58541",
+ "title": "코이코, ‘뷰티월드 재팬 오사카’ 한국관 주관 K-뷰티 서일본 판로 개척",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 코이코(KOECO, 대표 조완수)가 10월 19일부터 21일까지 일본 인텍스 오사카(Intex Osaka)에서 열리는 ‘2026 뷰티월드 재팬 오사카(Beautyworld Japan Osaka)’에 한국 공동관을 구성해 국내 화장품·뷰티 디바이스 기업 15여 개사의 참가를 지원…",
+ "published_at": "2026-10-19T17:01:08+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코이코"
+  ],
+  "keywords": [
+   "일본 B2B 전시회",
+   "한국관",
+   "서일본 판로",
+   "뷰티 디바이스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코이코가 뷰티월드 재팬 오사카에 한국관을 꾸려 서일본 판로를 연다",
+  "key_fact_quote": "코이코(KOECO, 대표 조완수)가 10월 19일부터 21일까지 일본 인텍스 오사카(Intex Osaka)에서 열리는 ‘2026 뷰티월드 재팬 오사카(Beautyworld Japan Osaka)’에 한국 공동관을 구성해",
+  "events": [
+   {
+    "name": "2026 뷰티월드 재팬 오사카",
+    "start_date": "2026-10-19",
+    "end_date": "2026-10-21",
+    "place": "일본 인텍스 오사카(Intex Osaka)",
+    "quote": "코이코(KOECO, 대표 조완수)가 10월 19일부터 21일까지 일본 인텍스 오사카(Intex Osaka)에서 열리는 ‘2026 뷰티월드 재팬 오사카(Beautyworld Japan Osaka)’에 한국 공동관을 구성해"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

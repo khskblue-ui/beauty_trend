@@ -1,0 +1,45 @@
+{
+ "doc_id": "afa90f140e55797b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=228313",
+ "title": "이소영 중기부 장관, 한국콜마 세종공장 방문… K뷰티 경쟁력 확인",
+ "summary": "K뷰티 의 성장세에 힘입어 중소기업 수출 은 올해 상반기 640억 달러를 돌파하는 등 역대 최대 실적을 기록했다. 화장품 수출 액은 50억 7000만 달러로 전년 동기 대비 30.7% 증가하며 중소기업 수출 품목 1위를 차지했다. 올해...",
+ "published_at": "2026-10-19T10:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "화장품 수출 증가",
+   "중소기업 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "905915d605a93089",
+ "enriched_at": "2026-10-19T21:31:05+00:00",
+ "had_body": false
+}

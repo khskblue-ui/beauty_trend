@@ -1,0 +1,44 @@
+{
+ "doc_id": "1a0950192e1d610f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.munhwa.com/article/11624613?ref=naver",
+ "title": "80년대생 장관 시선 사로잡은 ‘ K - 뷰티 ’ 기업, 비결은…",
+ "summary": "최근 ‘ K - 뷰티 ’ 수출 성장세에서는 중소기업의 약진이 두드러진다. 한국콜마 측에 따르면 올해 상반기 중소기업 화장품 수출액은 50억7000만 달러로 전년 동기 대비 30.7% 증가해 중소기업 수출 품목 1위를 차지했다. 이...",
+ "published_at": "2026-10-19T22:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "중소기업 수출",
+   "화장품 ODM"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중소기업 화장품 수출이 늘며 한국콜마가 주목받았다.",
+  "key_fact_quote": "최근 ‘ K - 뷰티 ’ 수출 성장세에서는 중소기업의 약진이 두드러진다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

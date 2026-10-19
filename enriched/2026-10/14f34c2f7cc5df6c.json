@@ -1,0 +1,54 @@
+{
+ "doc_id": "14f34c2f7cc5df6c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=248000",
+ "title": "디올, 립밤 신색상 공개...\"한국 뷰티 스타일 담은 '누드 로즈'\"",
+ "summary": "신제품 은 10월 19일 카카오톡 선물하기에 선 출시 됐다. 11월 16일에는 디올 뷰티 온라인 부티크와 백화점·부티크 등 69개 오프라인 매장에, 11월 19일에는 롯데온과 SSG닷컴 등 6개 온라인 기업몰에 순차적으로 선보일...",
+ "published_at": "2026-10-19T14:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "디올"
+  ],
+  "companies": [],
+  "keywords": [
+   "립밤",
+   "누드 로즈",
+   "한국 뷰티 스타일"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "누드 로즈",
+    "brand": "디올",
+    "launch_date": "2026-10-19",
+    "launch_status": "launched",
+    "launch_quote": "신제품 은 10월 19일 카카오톡 선물하기에 선 출시 됐다",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디올이 립밤 신색상을 카카오톡 선물하기에 먼저 출시했다.",
+  "key_fact_quote": "신제품 은 10월 19일 카카오톡 선물하기에 선 출시 됐다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

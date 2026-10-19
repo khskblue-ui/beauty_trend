@@ -1,0 +1,57 @@
+{
+ "doc_id": "d54a42a1a9bd678b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.sbs.co.kr/article_hub/20000340470?division=NAVER",
+ "title": "뷰티로 간판 바꾸는 동국제약…의료기기 만드는 에이피알",
+ "summary": "이 가운데 화장품 매출이 80%가까이를 차지합니다. 센텔리안24를 대표하는 마데카크림은 지난 2015년 출시 이후 지난 7월까지 누적 판매량 1억개를 돌파했습니다. 출시 10년이 지났지만 올해 판매량도 지난해의 25%를 웃돌...",
+ "published_at": "2026-10-19T08:03:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안24"
+  ],
+  "companies": [
+   "동국제약",
+   "에이피알"
+  ],
+  "keywords": [
+   "제약사 뷰티 전환",
+   "마데카 스킨케어",
+   "의료기기 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "마데카크림",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동국제약은 화장품 비중이 커졌고 센텔리안24 마데카크림이 대표 제품이다",
+  "key_fact_quote": "센텔리안24를 대표하는 마데카크림은 지난 2015년 출시 이후 지난 7월까지 누적 판매량 1억개를 돌파했습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

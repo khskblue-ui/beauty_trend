@@ -1,0 +1,55 @@
+{
+ "doc_id": "dce1fe81deb0292a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.fashionn.com/board/read_new.php?table=1006&number=62850",
+ "title": "막스마라, 브랜드 창립 75주년 신세계백화점 강남점에 아우터웨어 팝업...",
+ "summary": "이번 팝업스토어에서는 브랜드의 아이코닉한 아우터웨어들을 중심으로 75년 동안 이어져 온 디자인 철학과 장인정신을 조명하고, 10월 말 국내 공식 출시 예정인 브랜드 최초의 향수 ‘막스마라 르 퍼퓸(Max Mara Le...",
+ "published_at": "2026-10-19T11:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "IT"
+  ],
+  "brands": [
+   "막스마라"
+  ],
+  "companies": [],
+  "keywords": [
+   "브랜드 첫 향수",
+   "팝업스토어",
+   "백화점 팝업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "막스마라 르 퍼퓸",
+    "brand": "막스마라",
+    "launch_date": "2026-10",
+    "launch_status": "upcoming",
+    "launch_quote": "10월 말 국내 공식 출시 예정인 브랜드 최초의 향수 ‘막스마라 르 퍼퓸(Max Mara Le...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "막스마라가 창립 75주년을 맞아 백화점에 팝업스토어를 열었다.",
+  "key_fact_quote": "막스마라, 브랜드 창립 75주년 신세계백화점 강남점에 아우터웨어 팝업...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

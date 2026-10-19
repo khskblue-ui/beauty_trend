@@ -1,0 +1,43 @@
+{
+ "doc_id": "5fd3975f9b15d89b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244524",
+ "title": "K - 뷰티 열풍 닿은 쿠웨이트 - 한국, 쿠웨이트 화장품 수입시장 1위 등극",
+ "summary": "K - 뷰티 수출 강세, 쿠웨이트에서도 이어지다 식품의약품안전처에 따르면, 한국의 2025년 화장품 수출액은 114억 달러로 전년 대비 11.8% 증가하며 역대 최대치를 경신했고, 수출 대상국도 202개국으로 30개국...",
+ "published_at": "2026-10-19T15:35:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "KW"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "중동 시장",
+   "화장품 수입시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국이 쿠웨이트 화장품 수입시장 1위에 올랐다.",
+  "key_fact_quote": "K - 뷰티 열풍 닿은 쿠웨이트 - 한국, 쿠웨이트 화장품 수입시장 1위 등극",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

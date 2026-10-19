@@ -1,0 +1,63 @@
+{
+ "doc_id": "f68adbc85886b472",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58536",
+ "title": "에이피알, 메디큐브 美 코스트코 400개 매장 입점 유통망 확대",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 글로벌 뷰티 기업 에이피알(대표이사 김병훈)의 대표 브랜드 메디큐브가 미국 대형 회원제 유통 채널 코스트코(Costco) 약 400개 매장에 공식 입점했다고 19일 밝혔다. 에이피알은 이달 미국 코스트코 약 400개 지점에 메디큐브 입점을 완료했으며 국내 코스트코 전…",
+ "published_at": "2026-10-19T11:06:45+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "메디큐브"
+  ],
+  "companies": [
+   "에이피알",
+   "코스트코"
+  ],
+  "keywords": [
+   "미국 오프라인 유통",
+   "회원제 유통",
+   "PDRN"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "제로모공패드",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "코스트코에서는 메디큐브의 대표 제품인 ‘제로모공패드’를 전용 기획제품으로 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피알의 메디큐브가 미국 코스트코 약 400개 매장에 입점했다",
+  "key_fact_quote": "글로벌 뷰티 기업 에이피알(대표이사 김병훈)의 대표 브랜드 메디큐브가 미국 대형 회원제 유통 채널 코스트코(Costco) 약 400개 매장에 공식 입점했다고 19일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "에이피알은 향후 PDRN 인기 라인을 추가해 코스트코 판매 제품군을 다양화할 예정이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

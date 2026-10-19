@@ -1,0 +1,42 @@
+{
+ "doc_id": "d941666cd3570419",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/19/2026101980142.html",
+ "title": "K - 뷰티 글로벌 경쟁력 입증…‘2026 K - 뷰티 엑스포’ 수출 상담 3.3억 달러...",
+ "summary": "최상운 기자 | 국내 최대 규모의 뷰티 산업 전시회인 ‘2026 K - 뷰티 엑스포 코리아’가 수출 상담액 3억3100만 달러, 계약추진액 1억500만 달러를 기록하며 막을 내렸다. 특히 계약추진액이 지난해보다 약 2.5배 증가하는...",
+ "published_at": "2026-10-19T20:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 엑스포",
+   "수출 상담",
+   "계약 추진"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "2026 K뷰티 엑스포 코리아가 역대 최대 수출 성과로 끝났다.",
+  "key_fact_quote": "국내 최대 규모의 뷰티 산업 전시회인 ‘2026 K - 뷰티 엑스포 코리아’가 수출 상담액 3억3100만 달러, 계약추진액 1억500만 달러를 기록하며 막을 내렸다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "919f36ad610471d1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.inews24.com/view/2016576",
+ "title": "김태영 평택직할세관장 “충북 K - 뷰티 기업 해외 진출 도울 것”",
+ "summary": "경기 평택직할세관(세관장 김태영)은 19일 충북 청주시 소재 화장품 원료 제조·수출기업인 ㈜마크로케어를 방문해 연구소를 둘러보고, K - 뷰티 수출 지원을 위한 간담회를 열었다. 지난해부터 기업 지원 관할구역을...",
+ "published_at": "2026-10-19T16:41:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "마크로케어"
+  ],
+  "keywords": [
+   "화장품 원료",
+   "K-뷰티 수출 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "평택직할세관장이 화장품 원료 제조 기업 마크로케어를 찾아 수출 지원 간담회를 열었다.",
+  "key_fact_quote": "경기 평택직할세관(세관장 김태영)은 19일 충북 청주시 소재 화장품 원료 제조·수출기업인 ㈜마크로케어를 방문해 연구소를 둘러보고",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

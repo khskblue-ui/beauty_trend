@@ -1,0 +1,45 @@
+{
+ "doc_id": "89af8e8fb90dbf7d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.updownnews.co.kr/news/articleView.html?idxno=319210",
+ "title": "이소영 중기부 장관 첫 현장방문은 한국콜마 세종공장...' K뷰티 지원' 논...",
+ "summary": "중소·인디 화장품 브랜드의 해외 진출을 지원해온 생산 현장을 둘러보고 K뷰티 수출 확대를 위한 정책과 업계 애로사항 등을 경청하고 발전 방안을 논의했다. 한국콜마는 이소영 중기부 장관이 지난 16일 세종공장을...",
+ "published_at": "2026-10-19T16:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K뷰티 경쟁력",
+   "화장품 수출",
+   "정부 현장 방문"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "749b3fc62330765a",
+ "enriched_at": "2026-10-19T21:31:05+00:00",
+ "had_body": false
+}

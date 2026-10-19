@@ -1,0 +1,67 @@
+{
+ "doc_id": "2a9cc51b160e258c",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58538",
+ "title": "MZ세대 사로잡은 핀터레스트, '발견에서 구매까지' 이어주는 AI '뷰티 가이드' 출시",
+ "summary": "[코스인코리아닷컴 김세화 기자]핀터레스트가 이미지로 발견한 뷰티 스타일을 실제 연출 방법과 제품 탐색으로 연결하는 서비스를 선보였다. 인공지능(AI)을 활용해 트렌드를 분석하고 자신만의 스타일을 구현하는 방법을 안내하는 기능으로, 영감과 아이디어를 제공하던 비주얼 플랫폼의 역할을 한층 확…",
+ "published_at": "2026-10-19T14:19:14+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "메디큐브",
+   "라네즈",
+   "코스알엑스"
+  ],
+  "companies": [
+   "핀터레스트",
+   "에이피알",
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "AI 뷰티 가이드",
+   "향수 레이어링",
+   "마시멜로 향",
+   "바디 미스트"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "5 펩타이드 콜라겐 틴티드 립 필 트리트먼트",
+    "brand": "코스알엑스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "핀터레스트가 AI 뷰티 가이드와 뷰티 트렌드 리포트를 공개했다.",
+  "key_fact_quote": "19일 정보기술(IT) 업계에 따르면 핀터레스트는 최근 AI 기반 신규 기능인 ‘뷰티 가이드(Beauty Guides)’를 공개했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "로즈메리 워터",
+    "quote": "‘모발 관리를 위한 로즈메리 워터(rosemary water for hair)’는 269% 증가했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

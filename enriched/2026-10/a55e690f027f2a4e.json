@@ -1,0 +1,44 @@
+{
+ "doc_id": "a55e690f027f2a4e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.cctimes.kr/news/articleView.html?idxno=932763",
+ "title": "평택직할세관, 충북 K - 뷰티 수출 기업 현장 소통 강화",
+ "summary": "평택직할세관은 19일 기업지원 관할구역*인 충북 청주시 소재 화장품 원료 제조수출기업인 ㈜마크로케어를 방문해 K - 뷰티 수출 지원을 위한 간담회를 개최했다. /평택직할세관 제공",
+ "published_at": "2026-10-19T16:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "평택직할세관",
+   "마크로케어"
+  ],
+  "keywords": [
+   "K뷰티 수출 지원",
+   "화장품 원료 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "평택직할세관이 화장품 원료 수출기업을 찾아 K뷰티 수출 지원 간담회를 열었다",
+  "key_fact_quote": "평택직할세관은 19일 기업지원 관할구역*인 충북 청주시 소재 화장품 원료 제조수출기업인 ㈜마크로케어를 방문해 K - 뷰티 수출 지원을 위한 간담회를 개최했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

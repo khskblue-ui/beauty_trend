@@ -1,0 +1,44 @@
+{
+ "doc_id": "21f47efde9125886",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.srtimes.kr/news/articleView.html?idxno=215197",
+ "title": "뷰티업계, 신규 브랜드로 승부수…고객층 공략 다변화",
+ "summary": "같은 해 10월에는 다이소를 통해 신제품 6종을 추가로 출시했다. 다이소 화장품 의 성장세도 이어지고 있다. 지난달 기준 다이소에 입점한 화장품 브랜드는 150여개, 상품 수는 2,300여종에 달했다. 올해 1~9월 화장품 ...",
+ "published_at": "2026-10-19T16:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "다이소"
+  ],
+  "keywords": [
+   "신규 브랜드",
+   "다이소 화장품",
+   "고객층 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티업계가 신규 브랜드를 앞세워 고객층을 넓히고 있고 다이소 화장품도 성장세다",
+  "key_fact_quote": "다이소 화장품 의 성장세도 이어지고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

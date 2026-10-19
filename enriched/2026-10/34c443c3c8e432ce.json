@@ -1,0 +1,57 @@
+{
+ "doc_id": "34c443c3c8e432ce",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53727",
+ "title": "올해 피부특성 정보은행 사업 결과 공개",
+ "summary": "(재)대한화장품산업연구원(원장 조신행· www.kcii.re.kr ·이하 화산연)이 올해 진행한 피부특성 정보은행 사업에 대한 결과를 공개하는 동시에 화산연이 구축한 피부특성 정보제공 플랫폼에 대한 내용도 함께 공유한다. 화산연은 “오는 11월 20일(금) 스페이스쉐어 강남센터 주피터홀에서 국내 화장품…",
+ "published_at": "2026-10-19T09:53:52+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "PH",
+   "BR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원",
+   "더마프로",
+   "피앰아이"
+  ],
+  "keywords": [
+   "피부특성 데이터",
+   "해외 소비자 조사",
+   "필리핀 시장",
+   "브라질 시장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "화산연이 피부특성 정보은행 사업 결과를 세미나에서 공개한다",
+  "key_fact_quote": "화산연은 “오는 11월 20일(금) 스페이스쉐어 강남센터 주피터홀에서 국내 화장품 기업·연구소 ·산업 관계자를 대상으로 ‘2026 피부특성 정보은행 사업 결과 세미나’를 개최한다”고 밝히고",
+  "events": [
+   {
+    "name": "2026 피부특성 정보은행 사업 결과 세미나",
+    "start_date": "2026-11-20",
+    "end_date": null,
+    "place": "스페이스쉐어 강남센터 주피터홀",
+    "quote": "화산연은 “오는 11월 20일(금) 스페이스쉐어 강남센터 주피터홀에서 국내 화장품 기업·연구소 ·산업 관계자를 대상으로 ‘2026 피부특성 정보은행 사업 결과 세미나’를 개최한다”고 밝히고"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

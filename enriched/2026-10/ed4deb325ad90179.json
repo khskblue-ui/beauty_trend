@@ -1,0 +1,54 @@
+{
+ "doc_id": "ed4deb325ad90179",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/registration-opens-for-paris,28365",
+ "title": "Registration opens for Paris Packaging Week",
+ "summary": "Registration is now open for the next edition of Paris Packaging Week, taking place on February 3-4, 2027. The organizers report a record nearly 950 exhibitors showcasing packaging solutions for the beauty, aerosols, premium drinks, luxury and design sectors. Following a 2026 edition that attracted 14,442 visitors, up 14% year on year, the event returns with a refreshed theme, ‘In the Spotlight', which highlights the packaging developments and people worth discovering, according to the... - Industry buzz / Europe",
+ "published_at": "2026-10-17T21:38:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "Paris Packaging Week",
+   "LVMH",
+   "Trivium Packaging"
+  ],
+  "keywords": [
+   "패키징 박람회",
+   "뷰티 패키징",
+   "리필 용기"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "파리 패키징 위크가 다음 회차 참가 등록을 시작했다.",
+  "key_fact_quote": "Registration is now open for the next edition of Paris Packaging Week, taking place on February 3-4, 2027.",
+  "events": [
+   {
+    "name": "Paris Packaging Week",
+    "start_date": "2027-02-03",
+    "end_date": "2027-02-04",
+    "place": null,
+    "quote": "Registration is now open for the next edition of Paris Packaging Week, taking place on February 3-4, 2027."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:34:27+00:00",
+ "had_body": true
+}

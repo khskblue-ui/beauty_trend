@@ -1,0 +1,51 @@
+{
+ "doc_id": "8987ea0c08778148",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.cctimes.kr/news/articleView.html?idxno=932801",
+ "title": "` K - 뷰티 비즈니스 장' 오송화장품엑스포 22일 개막",
+ "summary": "19일 충북도에 따르면 올해 엑스포는 ` K - 뷰티 오송, 세계와 함께 성장하다'를 슬로건으로 역대 최대 규모인... 올해는 국내 화장품· 뷰티 기업의 해외시장 진출을 지원하기 위한 기업 간 거래(B2B) 중심의 수출 플랫폼...",
+ "published_at": "2026-10-19T20:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티",
+   "B2B 수출 플랫폼",
+   "화장품 박람회",
+   "해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "오송화장품엑스포가 22일 개막한다.",
+  "key_fact_quote": "오송화장품엑스포 22일 개막",
+  "events": [
+   {
+    "name": "오송화장품엑스포",
+    "start_date": "2026-10-22",
+    "end_date": null,
+    "place": null,
+    "quote": "오송화장품엑스포 22일 개막"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,64 @@
+{
+ "doc_id": "0dca51eb7461b94c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=774679",
+ "title": "디올 뷰티 , 새 디올 어딕트 립 글로우...다슈, '데일리 볼륨 텍스처 파우...",
+ "summary": "디올 뷰티 와 다슈가 새 아이템을 선보이며 시선을 사로잡는다. 사진=크리스챤 디올 뷰티 크리스챤 디올... 펌프'를 출시 한다. 신제품 '데일리 볼륨 텍스처 파우더 펌프'는 '그루밍맨 마켓'을 통해 첫 선을 보인다. 이번...",
+ "published_at": "2026-10-20T00:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "디올",
+   "다슈"
+  ],
+  "companies": [],
+  "keywords": [
+   "립 글로우",
+   "남성 그루밍",
+   "파우더 펌프"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "디올 어딕트 립 글로우",
+    "brand": "디올",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "디올 뷰티 와 다슈가 새 아이템을 선보이며 시선을 사로잡는다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "데일리 볼륨 텍스처 파우더 펌프",
+    "brand": "다슈",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "신제품 '데일리 볼륨 텍스처 파우더 펌프'는 '그루밍맨 마켓'을 통해 첫 선을 보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디올 뷰티와 다슈가 새 제품을 선보였다.",
+  "key_fact_quote": "디올 뷰티 와 다슈가 새 아이템을 선보이며 시선을 사로잡는다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

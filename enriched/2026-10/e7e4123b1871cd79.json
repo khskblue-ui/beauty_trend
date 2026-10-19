@@ -1,0 +1,59 @@
+{
+ "doc_id": "e7e4123b1871cd79",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/stock/2026/10/19/2026101917563126032",
+ "title": "CSA 코스믹, '슬라이스 세럼' 미국 아마존·예스스타일 공식 론칭",
+ "summary": "화장품 전문기업 CSA 코스믹은 브랜드 원더바스의 '슬라이스 세럼'을 지난 12일 미국 아마존과 뷰티 유통플랫폼 예스스타일에 공식 입점시키고 현지 판매를 시작했다고 19일 밝혔다. 슬라이스 세럼은 고농축 세럼을 젤리...",
+ "published_at": "2026-10-19T18:03:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "원더바스"
+  ],
+  "companies": [
+   "CSA 코스믹",
+   "예스스타일"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "젤리 세럼",
+   "미국 온라인 유통",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "슬라이스 세럼",
+    "brand": "원더바스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "화장품 전문기업 CSA 코스믹은 브랜드 원더바스의 '슬라이스 세럼'을 지난 12일 미국 아마존과 뷰티 유통플랫폼 예스스타일에 공식 입점시키고 현지 판매를 시작했다고 19일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "CSA 코스믹이 원더바스 슬라이스 세럼을 미국 아마존과 예스스타일에 공식 입점시켰다.",
+  "key_fact_quote": "화장품 전문기업 CSA 코스믹은 브랜드 원더바스의 '슬라이스 세럼'을 지난 12일 미국 아마존과 뷰티 유통플랫폼 예스스타일에 공식 입점시키고 현지 판매를 시작했다고 19일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,57 @@
+{
+ "doc_id": "1c637d7a22e0de26",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/guillaume-gellusseau-pilotera-la,28368",
+ "title": "Guillaume Gellusseau pilotera la stratégie de marque de Kilian et Frédéric Malle",
+ "summary": "The Estée Lauder Companies a annoncé la nomination de Guillaume Gellusseau en tant que Senior Vice President, Global Brand, Kilian Paris et Éditions de Parfums Frédéric Malle, à compter d'août 2026. Basé à Paris, Guillaume est rattaché à Jo Dancey, Global President, Lifestyle Fragrance Brands. Dans le cadre de ses nouvelles fonctions, il pilotera la stratégie à long terme et poursuivra le développement des deux marques de parfum. Guillaume Gellusseau apporte aux groupe plus de 30 ans... - Brèves",
+ "published_at": "2026-10-19T23:44:51+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Kilian Paris",
+   "Éditions de Parfums Frédéric Malle"
+  ],
+  "companies": [
+   "The Estée Lauder Companies"
+  ],
+  "keywords": [
+   "향수 브랜드 인사",
+   "럭셔리 향수",
+   "니치 향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants"
+   }
+  ],
+  "ingredients": [],
+  "dropped": [
+   "key_fact"
+  ]
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

@@ -1,0 +1,75 @@
+{
+ "doc_id": "56cc0bb27267b3a3",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/cosmetic-360-awards-2026-quelles,28362",
+ "title": "Cosmetic 360 Awards 2026 : Quelles sont les sept innovations récompensées ?",
+ "summary": "La 12ᵉ édition des Cosmetic 360 Awards a distingué sept innovations dans les domaines des matières premières, de la formulation, des tests et analyses, du packaging, des marques et du retail, ainsi que des procédés de fabrication. Décernés par un jury international de professionnels de la presse spécialisée, ces prix mettent en lumière des solutions développées par des entreprises venues d'Espagne, de Corée du Sud, de France, de Taïwan et des Pays-Bas. Le jury a également attribué son coup... - Brèves",
+ "published_at": "2026-10-17T19:49:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "ES",
+   "KR",
+   "FR",
+   "TW",
+   "NL"
+  ],
+  "brands": [],
+  "companies": [
+   "Vytrus Biotech",
+   "Woorikids+",
+   "Complife Group",
+   "Replace",
+   "Jubilee Biomedical",
+   "Biotech One",
+   "Primegreen"
+  ],
+  "keywords": [
+   "화장품 혁신상",
+   "지속가능 원료",
+   "재활용 포장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제12회 Cosmetic 360 Awards가 일곱 가지 혁신을 선정했다.",
+  "key_fact_quote": "La 12ᵉ édition des Cosmetic 360 Awards a distingué sept innovations dans les domaines des matières premières, de la formulation, des tests et analyses, du packaging, des marques et du retail, ainsi que des procédés de fabrication.",
+  "events": [
+   {
+    "name": "Cosmetic 360",
+    "start_date": "2027-10-13",
+    "end_date": "2027-10-14",
+    "place": "Carrousel du Louvre, à Paris",
+    "quote": "La prochaine édition de Cosmetic 360 se tiendra les 13 et 14 octobre 2027 , au Carrousel du Louvre, à Paris."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "Toleroxyl",
+    "quote": "Vytrus Biotech, pour Toleroxyl, une protéine humaine recombinante végétale qui « rééduque » le système immunitaire des peaux urbaines pour (re)générer la tolérance."
+   },
+   {
+    "name": "acide laurique",
+    "quote": "pour son programme de sourcing d’acide laurique sous forme d’huile au toucher sec issue de licuri (Syagrus coronata) de la caatinga brésilienne"
+   },
+   {
+    "name": "licuri",
+    "quote": "pour son programme de sourcing d’acide laurique sous forme d’huile au toucher sec issue de licuri (Syagrus coronata) de la caatinga brésilienne"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

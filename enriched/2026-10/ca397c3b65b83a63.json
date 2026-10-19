@@ -1,0 +1,101 @@
+{
+ "doc_id": "ca397c3b65b83a63",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/sothys-entre-dans-sa-8e-decennie,28366",
+ "title": "Sothys entre dans sa 8e décennie avec de nouvelles ambitions",
+ "summary": "En 2026, Sothys célèbre 80 ans de beauté au service des professionnels de l'esthétique et du spa. Toujours ancrée en Corrèze, la marque française entend faire évoluer son modèle, sans renoncer aux fondamentaux qui ont fait son succès, notamment à l'international. Prochain cap : l'accélération de sa digitalisation. Fondée en 1946 par le Dr Hotz et rachetée en 1966 par Bernard Mas, Sothys a parcouru bien du chemin. « Mon père [Bernard Mas] s'interroge très vite après le rachat sur... - Sociétés & industrie",
+ "published_at": "2026-10-18T22:02:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Sothys",
+   "Bernard Cassière"
+  ],
+  "companies": [
+   "Sothys"
+  ],
+  "keywords": [
+   "살롱·스파 전문 브랜드",
+   "디지털 전환",
+   "리필 제품",
+   "CDMO"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "collection de soin automne-hiver 2026",
+    "brand": "Sothys",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "fève tonka",
+     "cacao"
+    ],
+    "notes_quote": "La collection de soin automne-hiver 2026 sera déclinée autour des notes gourmandes de la fève tonka et du cacao."
+   },
+   {
+    "name": "Desquacrem",
+    "brand": "Sothys",
+    "launch_date": "1950",
+    "launch_status": "unknown",
+    "launch_quote": "Parmi les autres références phares, on pense au nettoyant Desquacrem, lancé en 1950",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Crème 128",
+    "brand": "Sothys",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Soin Excellence Secrets de Sothys",
+    "brand": "Sothys",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "소티스가 창립 80주년을 맞아 온라인 스토어 개설과 디지털 전환을 서두른다.",
+  "key_fact_quote": "Prochain cap : l'accélération de sa digitalisation.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "fève tonka",
+    "quote": "La collection de soin automne-hiver 2026 sera déclinée autour des notes gourmandes de la fève tonka et du cacao."
+   },
+   {
+    "name": "cacao",
+    "quote": "La collection de soin automne-hiver 2026 sera déclinée autour des notes gourmandes de la fève tonka et du cacao."
+   },
+   {
+    "name": "peptides de grains de chardon-marie biologique",
+    "quote": "Il intègre un nouvel actif, des peptides de grains de chardon-marie biologique, ainsi qu’une technique de massage exclusive, baptisée Liftoplastie ®."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

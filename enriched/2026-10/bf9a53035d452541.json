@@ -1,0 +1,83 @@
+{
+ "doc_id": "bf9a53035d452541",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/in-cosmetics-asia-2026-puts,28363",
+ "title": "in-cosmetics Asia 2026 puts fragrance innovation in the spotlight",
+ "summary": "As fragrance becomes a key driver of emotional engagement and product differentiation, in-cosmetics Asia will introduce a dedicated Fragrance Zone at its next edition, taking place at BITEC, Bangkok, from 3-5 November 2026. The new feature reflects the expanding role of scent across personal care, homecare and pet care, as brands seek to create more distinctive sensory experiences. With the Asia Pacific fragrance market forecast to grow at a compound annual growth rate of 9.54% between 2026... - Industry buzz / Asia / Pacific",
+ "published_at": "2026-10-17T20:17:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "TH"
+  ],
+  "brands": [
+   "Luzi"
+  ],
+  "companies": [
+   "in-cosmetics Asia",
+   "Bell Flavors & Fragrances",
+   "Ogawa & Co.",
+   "Great Nation",
+   "Kanha Nature Oils",
+   "Yian Essence (Guangdong)"
+  ],
+  "keywords": [
+   "향료 전용관",
+   "향 혁신",
+   "웰니스 입욕",
+   "천연 향료 소재"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Urban Forest",
+    "brand": "Luzi",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "visitors will discover Luzi ’s new Urban Forest fragrance collection, inspired by the growing demand for wellness-led bathing rituals.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "in-cosmetics Asia가 향료 전용 구역을 새로 만들어 향료 혁신을 내세운다",
+  "key_fact_quote": "in-cosmetics Asia will introduce a dedicated Fragrance Zone at its next edition, taking place at BITEC, Bangkok, from 3-5 November 2026",
+  "events": [
+   {
+    "name": "in-cosmetics Asia 2026",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-05",
+    "place": "BITEC, Bangkok",
+    "quote": "in-cosmetics Asia will introduce a dedicated Fragrance Zone at its next edition, taking place at BITEC, Bangkok, from 3-5 November 2026"
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "essential oils",
+    "quote": "Kanha Nature Oils presenting an extensive portfolio of botanical extracts, essential oils and hydrosols"
+   },
+   {
+    "name": "hydrosols",
+    "quote": "Kanha Nature Oils presenting an extensive portfolio of botanical extracts, essential oils and hydrosols"
+   },
+   {
+    "name": "botanical extracts",
+    "quote": "Kanha Nature Oils presenting an extensive portfolio of botanical extracts, essential oils and hydrosols"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

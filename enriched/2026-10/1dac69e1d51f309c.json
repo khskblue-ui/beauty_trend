@@ -1,0 +1,57 @@
+{
+ "doc_id": "1dac69e1d51f309c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.paxetv.com/news/articleView.html?idxno=284512",
+ "title": "하이브랩, 베트남서 K-뷰티 플랫폼 '애픽' 출시 …팝업스토어 3000명 방문",
+ "summary": "[사진=하이브랩] 하이브랩이 베트남에서 인공지능 기반 K-뷰티 쇼핑 플랫폼 '애픽'을 출시 하고 현지 시장... 현장에서는 국내 화장품 브랜드 제품을 선보이고, AI를 활용해 피부 특성을 분석하는 '뷰티DNA' 체험...",
+ "published_at": "2026-10-19T14:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN"
+  ],
+  "brands": [
+   "애픽"
+  ],
+  "companies": [
+   "하이브랩"
+  ],
+  "keywords": [
+   "K-뷰티 플랫폼",
+   "AI 피부 분석",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "애픽",
+    "brand": "하이브랩",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "하이브랩이 베트남에서 인공지능 기반 K-뷰티 쇼핑 플랫폼 '애픽'을 출시 하고 현지 시장",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "하이브랩이 베트남에서 AI 기반 K-뷰티 쇼핑 플랫폼을 출시했다.",
+  "key_fact_quote": "하이브랩이 베트남에서 인공지능 기반 K-뷰티 쇼핑 플랫폼 '애픽'을 출시 하고 현지 시장",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "cadd367de724c41f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://cc.newdaily.co.kr/site/data/html/2026/10/19/2026101900265.html",
+ "title": "보고 사고 수출 길도 뚫고, 청주서 ' K - 뷰티 큰 장'",
+ "summary": "' K - 뷰티 오송, 세계와 함께 성장하다'를 주제로 열리는 올해 행사에는 역대 최대인 254개 기업과 국내외 바이어 200명이 참여한다. 이토요카도와 마루이그룹 등 일본 대형 유통사도 참가해 1200건 이상의 일대일 수출 상담...",
+ "published_at": "2026-10-19T14:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "오송 뷰티 엑스포",
+   "수출 상담회",
+   "B2B 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "오송 뷰티 엑스포가 역대 최대 규모로 열린다.",
+  "key_fact_quote": "' K - 뷰티 오송, 세계와 함께 성장하다'를 주제로 열리는 올해 행사에는 역대 최대인 254개 기업과 국내외 바이어 200명이 참여한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

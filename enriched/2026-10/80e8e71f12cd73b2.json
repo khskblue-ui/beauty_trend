@@ -1,0 +1,62 @@
+{
+ "doc_id": "80e8e71f12cd73b2",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/perfume-clubs-forget-virtual,28359",
+ "title": "Perfume clubs: Forget virtual, fragrance brands take it IRL",
+ "summary": "As fragrance communities gain traction on social media, grassroots clubs in the US, Europe and China are turning in-real-life (IRL) scent discovery into a social experience in its own right. Beauty brands are tapping into this trend to forge closer connections with fragrance enthusiasts, creators and experts offline. From Coty's new global fragrance club to Brazil's O Boticário initiative, brands are seeking to translate digital engagement into shared, real-world experiences. The Coty...",
+ "published_at": "2026-10-17T03:09:23+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "FR",
+   "US",
+   "CN",
+   "BR",
+   "GB"
+  ],
+  "brands": [
+   "Coty",
+   "O Boticário"
+  ],
+  "companies": [
+   "Coty",
+   "Grupo Boticário",
+   "IFF"
+  ],
+  "keywords": [
+   "향수 클럽",
+   "오프라인 향 체험",
+   "향수 커뮤니티",
+   "체험형 소비"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코티와 오 보티카리우 같은 향수 브랜드가 오프라인 향수 클럽을 열어 소비자와 직접 만나고 있다.",
+  "key_fact_quote": "The Coty Fragrance Club brings together fragrance experts, educators, creators and community leaders with the group’s fragrance teams.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:34:27+00:00",
+ "had_body": true
+}

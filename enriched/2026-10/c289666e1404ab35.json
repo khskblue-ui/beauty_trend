@@ -1,0 +1,46 @@
+{
+ "doc_id": "c289666e1404ab35",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newskr.kr/news/articleView.html?idxno=107275",
+ "title": "글로벌 '아이패치 워' 불붙인 K-뷰티... 원더바스, 북미 시장 공략 속도",
+ "summary": "특히 해외 주요 매체들이 원더바스의 선 출시 사실과 한국 화장품 패키징 기술력을 잇달아 조명하면서 K-뷰티의 경쟁력을 보여주는 사례로 관심을 모으고 있다. 19일 뷰티 업계와 해외 매체 보도에 따르면 지난 9월...",
+ "published_at": "2026-10-19T16:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CA"
+  ],
+  "brands": [
+   "원더바스"
+  ],
+  "companies": [],
+  "keywords": [
+   "아이패치",
+   "북미 진출",
+   "패키징 기술"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "원더바스가 북미 시장에 아이패치 제품을 먼저 내놓아 해외 매체가 주목했다.",
+  "key_fact_quote": "특히 해외 주요 매체들이 원더바스의 선 출시 사실과 한국 화장품 패키징 기술력을 잇달아 조명하면서 K-뷰티의 경쟁력을 보여주는 사례로 관심을 모으고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

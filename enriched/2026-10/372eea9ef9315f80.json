@@ -1,0 +1,42 @@
+{
+ "doc_id": "372eea9ef9315f80",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.khan.co.kr/article/202610191617001",
+ "title": "로봇·인간이 공존하는 ‘ K - 뷰티 ’ 성공조건…충북 화장품 제조현장 가...",
+ "summary": "다양한 주문을 받아내는 유연성을 가진 국내 화장품 ODM 산업은 K - 뷰티 산업 급성장의 배경이지만, 주문마다... 실제로 화장품 산업 수출 과 고용은 함께 늘고 있다. 식품의약품안전처에 따르면 올해 1~9월 화장품...",
+ "published_at": "2026-10-19T16:17:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 ODM",
+   "K-뷰티",
+   "제조 자동화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 ODM 제조 현장에서 로봇과 사람이 함께 일하는 모습을 다뤘다.",
+  "key_fact_quote": "다양한 주문을 받아내는 유연성을 가진 국내 화장품 ODM 산업은 K - 뷰티 산업 급성장의 배경이지만",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

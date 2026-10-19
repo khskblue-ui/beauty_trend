@@ -1,0 +1,69 @@
+{
+ "doc_id": "6e93ce59b4084b1b",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53730",
+ "title": "셀레스틴, 올리브영 오프라인(올영신상) 입점…소비자 접점 강화",
+ "summary": "프리미엄 안티에이징 스킨케어 브랜드를 지향하는 ‘셀레스틴’(CELESTYN)의 대표 제품 ‘바쿠치올 리프팅 아이세럼’이 올리브영-올영신상 오프라인 매장에 입점, 오프라인 유통 확대에 박차를 가한다. 이번 입점은 올리브영이 가동하기 시작한 ‘K-슈퍼루키 위드영’(K-SUPER ROOKIE WITH…",
+ "published_at": "2026-10-19T13:24:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "셀레스틴"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "안티에이징 스킨케어",
+   "오프라인 입점",
+   "아이케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "셀레스틴 바쿠치올 리프팅 아이세럼",
+    "brand": "셀레스틴",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "셀레스틴의 바쿠치올 리프팅 아이세럼이 올리브영 올영신상 오프라인 매장에 입점했다",
+  "key_fact_quote": "‘셀레스틴 바쿠치올 리프팅 아이세럼’은 눈가 탄력과 피부 컨디션을 집중 관리하는 프리미엄 아이케어 제품.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "바쿠치올",
+    "quote": "△ 바쿠치올 △ 카페인(30,000ppm) △ 나이아신아마이드(20,000ppm) 등을 함유해"
+   },
+   {
+    "name": "카페인",
+    "quote": "△ 바쿠치올 △ 카페인(30,000ppm) △ 나이아신아마이드(20,000ppm) 등을 함유해"
+   },
+   {
+    "name": "나이아신아마이드",
+    "quote": "△ 바쿠치올 △ 카페인(30,000ppm) △ 나이아신아마이드(20,000ppm) 등을 함유해"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

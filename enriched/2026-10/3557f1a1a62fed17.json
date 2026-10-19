@@ -1,0 +1,46 @@
+{
+ "doc_id": "3557f1a1a62fed17",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.e2news.com/news/articleView.html?idxno=335239",
+ "title": "세시드(cecith), 美 LA '송 오브 스킨' 팝업 참가…화해 글로벌 세럼 랭...",
+ "summary": "K- 뷰티 브랜드 가 참여했다. 송 오브 스킨은 2025년 10월 뉴욕에서 첫 팝업을 연 이후 뉴욕과 LA를 오가며... 한편, 세시드는 화이자·바이엘 출신 약사 '쎄씨약사' 최혜은 대표가 론칭 한 브랜드 로, 첫 제품 '워터락...",
+ "published_at": "2026-10-19T18:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "세시드",
+   "cecith"
+  ],
+  "companies": [],
+  "keywords": [
+   "미국 팝업",
+   "K뷰티 브랜드",
+   "송 오브 스킨"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "세시드가 미국 LA의 송 오브 스킨 팝업에 참가했다",
+  "key_fact_quote": "K- 뷰티 브랜드 가 참여했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

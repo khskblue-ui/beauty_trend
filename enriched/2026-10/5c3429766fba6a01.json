@@ -1,0 +1,45 @@
+{
+ "doc_id": "5c3429766fba6a01",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.viva100.com/article/20261019500467",
+ "title": "K뷰티 수출 품목 다변화…그로쓰리서치 “제조·소재기업 성장 주목”",
+ "summary": "국내 뷰티 브랜드의 해외 흥행이 화장품 원료와 제품을 공급하는 기업들의 성장으로 이어지고 있다는 분석이... 수출 통계에서도 품목 다변화 흐름이 확인됐다. 보고서에 따르면 올해 1~9월 샴푸·트리트먼트 등 두발용...",
+ "published_at": "2026-10-19T11:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "그로쓰리서치"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "수출 품목 다변화",
+   "화장품 원료",
+   "제조 기업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 뷰티 브랜드의 해외 흥행이 화장품 원료와 제품을 공급하는 기업들의 성장으로 이어지고 있다는 분석이 나왔다.",
+  "key_fact_quote": "국내 뷰티 브랜드의 해외 흥행이 화장품 원료와 제품을 공급하는 기업들의 성장으로 이어지고 있다는 분석이",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

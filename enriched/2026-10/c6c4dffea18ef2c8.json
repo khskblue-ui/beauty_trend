@@ -1,0 +1,42 @@
+{
+ "doc_id": "c6c4dffea18ef2c8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026101910223275323",
+ "title": "강예원, 화장품 사업 도전…\"피부가 건강해야 아름다움도 따라온다\"",
+ "summary": "약 9년 전에도 화장품 브랜드 출시 를 추진한 적이 있다. 이번 참여는 개인적인 피부 고민에서 출발했다. 강예원은 \"평소 홍조에 예민하고 피부가 얇아 흔한 시술조차 받지 못하는 편\"이라며 피부 관리에 관심을 갖게...",
+ "published_at": "2026-10-19T10:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 사업 진출",
+   "스킨케어",
+   "셀러브리티 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "강예원이 화장품 사업에 도전한다.",
+  "key_fact_quote": "강예원, 화장품 사업 도전",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

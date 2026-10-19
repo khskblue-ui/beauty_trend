@@ -1,0 +1,50 @@
+{
+ "doc_id": "728cdf8d535900bd",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/paris-packaging-week-les,28364",
+ "title": "Paris Packaging Week : Les inscriptions sont ouvertes",
+ "summary": "Les inscriptions pour la prochaine édition de la Paris Packaging Week, les 3 et 4 février 2027, sont désormais ouvertes. Les organisateurs annoncent un nombre record de près de 950 exposants, venus présenter leurs solutions packaging pour les secteurs de la beauté, des aérosols, des boissons premium, du luxe et du design. Après avoir réuni 14.442 visiteurs en 2026, soit une progression de 14% par rapport à l'édition précédente, le salon revient avec le thème In the Spotlight. « Une... - Brèves / Europe",
+ "published_at": "2026-10-17T21:33:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 패키징",
+   "박람회",
+   "리필 용기"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "파리 패키징 위크 다음 행사의 참가 등록이 시작됐다.",
+  "key_fact_quote": "Les inscriptions pour la prochaine édition de la Paris Packaging Week , les 3 et 4 février 2027 , sont désormais ouvertes.",
+  "events": [
+   {
+    "name": "Paris Packaging Week",
+    "start_date": "2027-02-03",
+    "end_date": "2027-02-04",
+    "place": null,
+    "quote": "Les inscriptions pour la prochaine édition de la Paris Packaging Week , les 3 et 4 février 2027 , sont désormais ouvertes."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

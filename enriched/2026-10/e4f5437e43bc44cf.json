@@ -1,0 +1,44 @@
+{
+ "doc_id": "e4f5437e43bc44cf",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53725",
+ "title": "올리브영, 천년고도에 특화매장 ‘경주신라점’ 오픈",
+ "summary": "천년고도 경주에 올리브영 특화매장이 들어섰다. 올리브영은 16일 한옥 콘셉트의 경주신라점을 열었다. 매장은 경주고속버스터미널 맞은편에 자리 잡았다. 총 2개층, 영업면적 약 135평으로 경주에 있는 올리브영 가운데 최대 규모다. 올리브영 경주신라점 외관은 한옥 양식으로 꾸며 거리 풍경과 조화를 이…",
+ "published_at": "2026-10-19T09:27:52+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [],
+  "keywords": [
+   "지역 특화 매장",
+   "체험형 매장",
+   "뷰티 디바이스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 경주에 한옥 콘셉트의 특화 매장을 열었다.",
+  "key_fact_quote": "올리브영은 16일 한옥 콘셉트의 경주신라점을 열었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "479c2bef1b2c35b9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12179251",
+ "title": "1세대 K뷰티 미샤 “2030년까지 기업가치 1조원대로”",
+ "summary": "알리고, 신제품 도 계속 선보일 예정이다. 또한 BB크림에서 CC크림, 스킨 틴트(파운데이션보다 가볍고 톤업크림보다 커버력이 있는 베이스 메이크업 제품) 등으로 제품 영역을 확장하는 동시에 기초 화장품 기능을 강화한...",
+ "published_at": "2026-10-19T09:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "미샤"
+  ],
+  "companies": [],
+  "keywords": [
+   "K-뷰티",
+   "스킨 틴트",
+   "제품 영역 확장",
+   "기초 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미샤가 BB크림에서 CC크림과 스킨 틴트로 제품 영역을 넓힌다.",
+  "key_fact_quote": "또한 BB크림에서 CC크림, 스킨 틴트(파운데이션보다 가볍고 톤업크림보다 커버력이 있는 베이스 메이크업 제품) 등으로 제품 영역을 확장하는 동시에 기초 화장품 기능을 강화한",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

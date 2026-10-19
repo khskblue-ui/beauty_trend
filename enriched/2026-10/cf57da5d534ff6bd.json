@@ -1,0 +1,101 @@
+{
+ "doc_id": "cf57da5d534ff6bd",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/sothys-celebrates-its-80th,28367",
+ "title": "Sothys celebrates its 80th anniversary with new ambitions",
+ "summary": "In 2026, Sothys celebrates 80 years of beauty dedicated to salon and spa professionals. Still firmly rooted in the Corrèze region, in South-Western France, the brand is looking to change its business model without compromising on the basics behind its success, particularly on the global level. Next milestone for the company: speeding up its digital transformation. Founded in 1946 by Dr. Hotz and acquired by Bernard Mas in 1966, Sothys has come a long way. “Shortly after acquiring the... - Companies & industry",
+ "published_at": "2026-10-18T22:14:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Sothys",
+   "Bernard Cassière"
+  ],
+  "companies": [
+   "Sothys"
+  ],
+  "keywords": [
+   "살롱·스파 전문 브랜드",
+   "디지털 전환",
+   "리필 제품",
+   "CDMO"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Fall/Winter 2026 skincare collection",
+    "brand": "Sothys",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "tonka bean",
+     "cocoa"
+    ],
+    "notes_quote": "The Fall/Winter 2026 skincare collection will be focused on the indulgent notes of tonka bean and cocoa."
+   },
+   {
+    "name": "Desquacrem",
+    "brand": "Sothys",
+    "launch_date": "1950",
+    "launch_status": "unknown",
+    "launch_quote": "Other flagship products include the Desquacrem cleanser, launched in 1950",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Crème 128",
+    "brand": "Sothys",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Soin Excellence Secrets de Sothys",
+    "brand": "Sothys",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "소티스가 창립 80주년을 맞아 온라인 스토어 개설과 디지털 전환을 서두른다.",
+  "key_fact_quote": "Next milestone for the company: speeding up its digital transformation.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "tonka bean",
+    "quote": "The Fall/Winter 2026 skincare collection will be focused on the indulgent notes of tonka bean and cocoa."
+   },
+   {
+    "name": "cocoa",
+    "quote": "The Fall/Winter 2026 skincare collection will be focused on the indulgent notes of tonka bean and cocoa."
+   },
+   {
+    "name": "peptides derived from organic milk thistle seeds",
+    "quote": "It now features a new active ingredient, peptides derived from organic milk thistle seeds, as well as an exclusive massage technique known as Liftoplastie ®."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

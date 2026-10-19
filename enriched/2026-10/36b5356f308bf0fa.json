@@ -1,0 +1,79 @@
+{
+ "doc_id": "36b5356f308bf0fa",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.edaily.co.kr/News/Read?newsId=03847446645614560&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+ "title": "지에프씨생명과학 fmk PDRN 키트, K뷰티엑스포 MD픽 톱3 선정",
+ "summary": "올해 3월 출시 한 fmk는 이 제품 외에도 ’카밍 말차 엑소 키트‘와 ’시그니처 타임리스 키트‘ 등을... 지에프씨생명과학은 해당 연구 성과를 바탕으로 차세대 바이오 소재 개발과 화장품 제품 적용을 추진하고...",
+ "published_at": "2026-10-19T15:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "fmk"
+  ],
+  "companies": [
+   "지에프씨생명과학"
+  ],
+  "keywords": [
+   "PDRN",
+   "키트 제품",
+   "K뷰티 엑스포"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "fmk PDRN 키트",
+    "brand": "fmk",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "카밍 말차 엑소 키트",
+    "brand": "fmk",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "시그니처 타임리스 키트",
+    "brand": "fmk",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "지에프씨생명과학의 fmk PDRN 키트가 K뷰티 엑스포 MD픽 상위에 뽑혔다.",
+  "key_fact_quote": "지에프씨생명과학 fmk PDRN 키트, K뷰티엑스포 MD픽 톱3 선정",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "지에프씨생명과학 fmk PDRN 키트, K뷰티엑스포 MD픽 톱3 선정"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

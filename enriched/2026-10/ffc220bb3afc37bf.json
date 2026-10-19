@@ -1,0 +1,44 @@
+{
+ "doc_id": "ffc220bb3afc37bf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hellot.net/news/article.html?no=115616",
+ "title": "[산업AI EXPO 프리뷰] 제조 AI ㉕ | 피부는 매일 달라지는데 화장품 은 그...",
+ "summary": "미리 생산된 화장품 가운데 하나를 선택하는 과정에서 나아가 사용자의 상태를 분석한 뒤 제조 조건을... 양사는 제품 출시 이후 실제 매장에서 사용자 반응, 운영 편의성, 맞춤형 스킨케어 수요 등을 검증할 계획이다....",
+ "published_at": "2026-10-20T00:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "맞춤형 스킨케어",
+   "AI 제조",
+   "피부 분석"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "key_fact"
+  ]
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

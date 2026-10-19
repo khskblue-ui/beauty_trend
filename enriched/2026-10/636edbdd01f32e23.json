@@ -1,0 +1,43 @@
+{
+ "doc_id": "636edbdd01f32e23",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312283",
+ "title": "2026 광군절 뷰티 프로모션...'최저가' 대신 '체감가치' - 뷰티경제",
+ "summary": "중국 최대 쇼핑 행사인 광군절(11월 11일)을 앞두고 국내외 주요 뷰티 브랜드들이 티몰에서 대규모 프로모션은 한다.단순 가격 인하보다 회원 전용 쿠폰, 선충전",
+ "published_at": "2026-10-19T09:50:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "광군절",
+   "티몰 프로모션",
+   "체감가치"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 브랜드들이 광군절을 앞두고 티몰에서 프로모션을 연다.",
+  "key_fact_quote": "중국 최대 쇼핑 행사인 광군절(11월 11일)을 앞두고 국내외 주요 뷰티 브랜드들이 티몰에서 대규모 프로모션은 한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "880cd283eeecceb8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/tech/2026/10/19/2026101909152112341",
+ "title": "\"인종·피부별 소비 반응 AI 분석\"…뉴엔AI, K-뷰티 글로벌 공략 지원",
+ "summary": "전시 기간에는 국내 인디 브랜드 와 글로벌 유통기업, OEM·ODM 제조사, 해외 바이어 등이 부스를 방문해 도입 상담을 진행했다고 회사 측은 설명했다. 뉴엔AI는 행사 세미나에서 K- 향수 의 해외 성장 가능성도 분석했다....",
+ "published_at": "2026-10-19T09:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "뉴엔AI"
+  ],
+  "keywords": [
+   "K향수",
+   "AI 소비자 분석",
+   "인디 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "뉴엔AI가 행사에서 K향수의 해외 성장 가능성을 분석했다.",
+  "key_fact_quote": "뉴엔AI는 행사 세미나에서 K- 향수 의 해외 성장 가능성도 분석했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

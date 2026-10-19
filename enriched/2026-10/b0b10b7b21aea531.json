@@ -1,0 +1,45 @@
+{
+ "doc_id": "b0b10b7b21aea531",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ajunews.com/view/20261018112743576",
+ "title": "스킨케어부터 스킨부스터까지…K뷰티, 중남미 공략 넓힌다",
+ "summary": "브라질·멕시코에서 한국 화장품 소비가 늘면서 스킨케어·두피 관리 제품에 이어 스킨부스터 공급도... 공식 출시 한다. 올해 상반기 일부 해외 물량 출하에 이어 중남미 메디컬 뷰티 사업을 본격화한다. 공급 제품은...",
+ "published_at": "2026-10-19T08:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "BR",
+   "MX",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "스킨부스터",
+   "메디컬 뷰티",
+   "중남미 진출",
+   "K-뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "브라질과 멕시코에서 한국 화장품 소비가 늘면서 스킨부스터 공급도 이어진다.",
+  "key_fact_quote": "브라질·멕시코에서 한국 화장품 소비가 늘면서 스킨케어·두피 관리 제품에 이어 스킨부스터 공급도",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "6b0d90b8e13811be",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sentv.co.kr/article/view/sentv202610190093",
+ "title": "동원F&B, 참치 넘어 화장품 까지…'참존' 정상화 숙제",
+ "summary": "지난 8월 출시 한 냉동 치킨 '케바삭'은 한 달 만에 누적 판매량 30만 봉을 돌파했습니다. 이어 새로운 고객 창출과 해외시장 판로 확대의 승부수로 선택한 것이 화장품 사업입니다. 다만 뷰티 시장 진출을 위해 인수를...",
+ "published_at": "2026-10-19T17:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "동원F&B",
+   "참존"
+  ],
+  "keywords": [
+   "식품기업 화장품 진출",
+   "기업 인수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "동원F&B가 화장품 사업으로 새 고객과 해외 판로를 넓히려 하지만 참존 정상화가 숙제다",
+  "key_fact_quote": "이어 새로운 고객 창출과 해외시장 판로 확대의 승부수로 선택한 것이 화장품 사업입니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

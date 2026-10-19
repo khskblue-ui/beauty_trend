@@ -1,0 +1,38 @@
+{
+ "doc_id": "42b4cb9bf3e28b0f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ddaily.co.kr/page/view/2026101914465983984",
+ "title": "“명품·화장품만으론 부족해”…면세점에 번지는 K -푸드 경쟁",
+ "summary": "로드숍이나 뷰티 스토어 등 라이프스타일 플랫폼이 됐다”고 분석했다. 이어 “면세업계도 한국에서만 만나볼 수 있는 K -브랜드 유치와 마케팅으로 K -컬처를 체험하게 하는 등 자구책 마련에 속도를 내고 있다”며 “정부...",
+ "published_at": "2026-10-19T16:33:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "retail",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

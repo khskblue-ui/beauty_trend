@@ -1,0 +1,82 @@
+{
+ "doc_id": "193ed4718ea2a5d4",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58540",
+ "title": "[두바이 현장 인터뷰] 파켓 믹순 서세영 매니저 “UAE 유통망 확대 이어 쿠웨이트 진출 추진”",
+ "summary": "[두바이=화장품전문지 공동 취재단] 파켓의 스킨케어 브랜드 믹순(mixsoon)이 아랍에미리트(UAE)에서 유통망을 확대하고 쿠웨이트 등 신규 중동시장 진출을 추진하고 있다. 올해부터 현지 마케팅을 본격화한 믹순은 기존 스킨케어 제품의 인기를 바탕으로 메이크업 분야까지 사업 영역을 넓히며 중…",
+ "published_at": "2026-10-19T16:40:22+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "AE",
+   "KW",
+   "SA",
+   "KR"
+  ],
+  "brands": [
+   "믹순"
+  ],
+  "companies": [
+   "파켓"
+  ],
+  "keywords": [
+   "중동 시장 진출",
+   "PDRN 스킨케어",
+   "메이크업 확장",
+   "약국 유통"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "콩 에센스",
+    "brand": "믹순",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PDRN 틴티드 모이스처라이저",
+    "brand": "믹순",
+    "launch_date": "2026-06",
+    "launch_status": "launched",
+    "launch_quote": "특히 지난 6월 출시한 틴티드 모이스처라이저는 출시 초기부터 현지에서 좋은 판매 반응을 얻고 있습니다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "믹순이 UAE 유통망을 넓히고 쿠웨이트 진출을 준비하고 있다",
+  "key_fact_quote": "파켓의 스킨케어 브랜드 믹순(mixsoon)이 아랍에미리트(UAE)에서 유통망을 확대하고 쿠웨이트 등 신규 중동시장 진출을 추진하고 있다.",
+  "events": [
+   {
+    "name": "뷰티월드 두바이 2026",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-08",
+    "place": "두바이 월드트레이드센터",
+    "quote": "믹순은 지난 6일부터 8일까지 두바이 월드트레이드센터에서 열린 '뷰티월드 두바이 2026(Beautyworld Dubai 2026)'에 참가해"
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "대표 제품인 '콩 에센스(Bean Essence)'와 PDRN 라인"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

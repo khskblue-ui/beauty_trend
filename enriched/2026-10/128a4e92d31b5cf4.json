@@ -1,0 +1,43 @@
+{
+ "doc_id": "128a4e92d31b5cf4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.inews365.com/news/article.html?no=939836",
+ "title": "'2026 오송화장품 뷰티 엑스포' 22~24일 청주오스코서 개최",
+ "summary": "엑스포는 ' K - 뷰티 오송, 세계와 함께 성장하다'를 주제로 마련됐다. 올해는 역대 최대 규모인 254개 기업이 참가한다. 해외 기업도 지난해 6개 사에서 올해 26개 사로 늘었다. 엑스포는 B2B(기업 간 거래) 중심 수출 ...",
+ "published_at": "2026-10-19T16:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 박람회",
+   "수출 상담",
+   "K-뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "47bad77eacd82f44",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

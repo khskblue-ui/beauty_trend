@@ -1,0 +1,56 @@
+{
+ "doc_id": "6032444ec8219013",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/jennifer-lawrence-is-launching-hair-care-brand-mes",
+ "title": "Jennifer Lawrence is breaking into beauty with her own hair care brand Mes°",
+ "summary": "The American actress, who has starred in hit movies Mother!, Silver Linings Playbook and The Hunger Games franchise, is launching ‘biodesigned hair care’ brand Mes° this month, engineered by biotech beauty company Arcaea",
+ "published_at": "2026-10-19T19:13:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Mes°"
+  ],
+  "companies": [
+   "Arcaea"
+  ],
+  "keywords": [
+   "바이오디자인 헤어케어",
+   "셀럽 브랜드",
+   "바이오테크 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Mes°",
+    "brand": "Mes°",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "is launching ‘biodesigned hair care’ brand Mes° this month",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "배우 제니퍼 로런스가 바이오디자인 헤어케어 브랜드 Mes°를 낸다.",
+  "key_fact_quote": "is launching ‘biodesigned hair care’ brand Mes° this month",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,128 @@
+{
+ "doc_id": "8db278e9dbafb616",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/beautyworld-middle-east-confirme,28372",
+ "title": "Beautyworld Middle East confirme son rôle clé sur le marché mondial du parfum",
+ "summary": "Pour sa 30e édition, du 6 au 8 octobre 2026 à Dubaï, Beautyworld Middle East a confirmé le rôle croissant du Moyen-Orient dans la parfumerie mondiale, malgré un contexte géopolitique peu favorable. Entre créations exclusives, nouvelles technologies olfactives et marques régionales en expansion internationale, le salon assoie son statut de rendez-vous stratégique pour l'ensemble de la filière. Avec 1300 exposants issus de 56 pays et 62.130 visiteurs en trois jours, Beautyworld Middle East a... - Marchés & tendances / Afrique / Moyen Orient",
+ "published_at": "2026-10-20T05:07:11+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "AE",
+   "FR",
+   "IN"
+  ],
+  "brands": [
+   "Rasasi",
+   "Lattafa",
+   "Armaf"
+  ],
+  "companies": [
+   "Takasago",
+   "Cosmo International Fragrances",
+   "Sozio",
+   "Argeville",
+   "dsm-firmenich",
+   "Expressions Parfumées",
+   "Symrise",
+   "iRomaScents"
+  ],
+  "keywords": [
+   "중동 향수",
+   "레이어링",
+   "알코올 프리 프라이머",
+   "오리엔탈 노트"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Kenz de Rasasi",
+    "brand": "Rasasi",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Rasasi a présenté sa nouvelle maison de parfumerie de luxe Kenz de Rasasi",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Plume",
+    "brand": "Cosmo International Fragrances",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Cosmo International Fragrances a dévoilé Plume , une collection inspirée par la légèreté du monde des oiseaux",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Middle East Beyond Borders",
+    "brand": "Sozio",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Sozio a, pour sa part, choisi de s’inscrire dans le sillage de l’internationalisation des marques de la région avec la collection Middle East Beyond Borders",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Written in Dust",
+    "brand": "Argeville",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Chez Argeville , la collection Written in Dust puise son inspiration dans les paysages désertiques",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Aquaco Essence",
+    "brand": "Expressions Parfumées",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "L’entreprise a également mis en avant Aquaco Essence , une évolution de sa technologie Aquaco",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Beautyworld Middle East에서 중동 향수 브랜드와 향료 회사들이 새 컬렉션을 선보였다.",
+  "key_fact_quote": "Une nouvelle fois, cette édition a mis en évidence la montée en puissance des marques de parfum de la région.",
+  "events": [
+   {
+    "name": "Beautyworld Middle East",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-08",
+    "place": "Dubaï",
+    "quote": "Pour sa 30e édition, du 6 au 8 octobre 2026 à Dubaï, Beautyworld Middle East a confirmé"
+   },
+   {
+    "name": "Fragrance Innovation Summit",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "place": "Paris",
+    "quote": "iRomaScents dévoilera sa solution à l’occasion du prochain Fragrance Innovation Summit , le 25 novembre à Paris ."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "Muguet Firgood",
+    "quote": "mettant notamment en lumière Muguet Firgood , un extrait naturel obtenu grâce à une technologie d’extraction brevetée."
+   },
+   {
+    "name": "oud",
+    "quote": "Les notes orientales, l’oud, le layering et l’intensification du sillage ( scentmaxxing ) continuent de séduire les marchés internationaux."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

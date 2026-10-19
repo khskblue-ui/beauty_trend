@@ -1,0 +1,74 @@
+{
+ "doc_id": "836d7c58b99bd8e7",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53724",
+ "title": "더스킨팩토리 쿤달, 장애인 복지재단에 생필품 기부",
+ "summary": "프리미엄 퍼스널케어 브랜드 쿤달(KUNDAL)이 장애인 복지재단 ‘빛누리’에 생필품 4만3천 개를 기부했다. 이번 후원은 장애인의 건강하고 행복한 일상생활을 지원하고 지역사회 내 나눔과 상생의 가치를 실천하기 위해 기획, 진행했다. 기부 물품 전달 행사식에는 쿤달 임직원(2명)과 빛누리 관계자 2명…",
+ "published_at": "2026-10-19T08:46:49+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "쿤달"
+  ],
+  "companies": [
+   "더스킨팩토리"
+  ],
+  "keywords": [
+   "사회공헌",
+   "헤어케어",
+   "퍼퓸 디퓨저"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "쿤달 허니앤마카다미아 네이처 샴푸·트리트먼트",
+    "brand": "쿤달",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "쿤달 올데이 스멜커버 청소년 샴푸",
+    "brand": "쿤달",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "쿤달 퍼퓸 디퓨저",
+    "brand": "쿤달",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "쿤달이 장애인 복지재단에 샴푸 등 생필품을 기부했다.",
+  "key_fact_quote": "프리미엄 퍼스널케어 브랜드 쿤달(KUNDAL)이 장애인 복지재단 ‘빛누리’에 생필품 4만3천 개를 기부했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

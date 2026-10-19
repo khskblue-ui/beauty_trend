@@ -1,0 +1,46 @@
+{
+ "doc_id": "a2d1cb18288596e8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=120294",
+ "title": "'AI가 바꾸는 화장품 시장'… 국제 바이오코스메틱 컨퍼런스 개최",
+ "summary": "FDA화장품인증원 정연광 대표는 ' K - 뷰티 의 미국규제대응 MoCRA와 AI'를 주제로 발표한다. 미국의 화장품 규제... 개발과 수출 과정에서 고려해야 할 실무적 사항을 설명할 예정이다. 마지막 발표는 독일 Nele Kosmetik GmbH의...",
+ "published_at": "2026-10-19T14:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US",
+   "DE"
+  ],
+  "brands": [],
+  "companies": [
+   "FDA화장품인증원"
+  ],
+  "keywords": [
+   "화장품 AI",
+   "MoCRA",
+   "바이오코스메틱"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "AI와 미국 규제를 다루는 국제 바이오코스메틱 컨퍼런스가 열린다",
+  "key_fact_quote": "FDA화장품인증원 정연광 대표는 ' K - 뷰티 의 미국규제대응 MoCRA와 AI'를 주제로 발표한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

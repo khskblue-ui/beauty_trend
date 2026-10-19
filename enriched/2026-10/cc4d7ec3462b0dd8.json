@@ -1,0 +1,63 @@
+{
+ "doc_id": "cc4d7ec3462b0dd8",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53733",
+ "title": "다슈 ‘데일리 볼륨 텍스처 파우더 펌프’",
+ "summary": "남성 그루밍 브랜드 다슈(DASHU)가 ‘데일리 볼륨 텍스처 파우더 펌프’를 출시한다. ‘데일리 볼륨 텍스처 파우더 펌프’는 가루 형태의 헤어 스타일링 제품이다. 헤어 드라이기 없이도 뿌리 볼륨을 살리고 보송한 질감을 연출한다. 미세 파우더 입자가 모발의 유분을 흡착한다. 기름기로 인해 가라앉은 머…",
+ "published_at": "2026-10-19T19:43:36+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "다슈"
+  ],
+  "companies": [],
+  "keywords": [
+   "헤어 스타일링",
+   "남성 그루밍",
+   "파우더 제형"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "데일리 볼륨 텍스처 파우더 펌프",
+    "brand": "다슈",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "남성 그루밍 브랜드 다슈(DASHU)가 ‘데일리 볼륨 텍스처 파우더 펌프’를 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "다슈가 가루 형태의 헤어 스타일링 제품을 내놓는다.",
+  "key_fact_quote": "‘데일리 볼륨 텍스처 파우더 펌프’는 가루 형태의 헤어 스타일링 제품이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "비오틴",
+    "quote": "비오틴과 판테놀 등 영양 성분이 들어 있어 모발을 건강하게 가꿔준다."
+   },
+   {
+    "name": "판테놀",
+    "quote": "비오틴과 판테놀 등 영양 성분이 들어 있어 모발을 건강하게 가꿔준다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

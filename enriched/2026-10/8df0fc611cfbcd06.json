@@ -1,0 +1,42 @@
+{
+ "doc_id": "8df0fc611cfbcd06",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Economy/article/all/20261019/134869062/2",
+ "title": "[애널리스트의 마켓뷰]유류비 상승에도 ‘ K뷰티 ’ 수출 기대",
+ "summary": "올해 5월 한국이 오랜 화장품 강국인 프랑스를 제치고 사상 처음으로 전 세계 화장품 수출 1위 국가에... 화장품 산업의 전통 강자인 프랑스를 제치고 한국 화장품이 글로벌 1위를 기록한 사실은 이제 ‘ K뷰티 ’가 곧...",
+ "published_at": "2026-10-20T00:33:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "화장품 수출 1위"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국이 사상 처음으로 전 세계 화장품 수출 1위에 올랐다.",
+  "key_fact_quote": "올해 5월 한국이 오랜 화장품 강국인 프랑스를 제치고 사상 처음으로 전 세계 화장품 수출 1위 국가에...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "0ecb33f94aaecc00",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202610199537g",
+ "title": "뉴엔AI, K-뷰티엑스포서 뷰티 AI 플랫폼 '뷰센스' 공개",
+ "summary": "이번 전시에서는 국내 인디 브랜드 와 글로벌 유통기업, OEM·ODM 제조사, 해외 바이어 등을 대상으로 관련 솔루션을 소개했다. 전시 부대행사인 'RE;VIEW & NEXT 2026' 세미나에서는 남유진 뉴엔AI 소비자분석팀장이 'K- 향수 ...",
+ "published_at": "2026-10-19T08:37:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "뉴엔AI"
+  ],
+  "keywords": [
+   "K-뷰티엑스포",
+   "뷰티 AI 플랫폼",
+   "K-향수"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "뉴엔AI가 K-뷰티엑스포에서 뷰티 AI 플랫폼 뷰센스를 공개했다.",
+  "key_fact_quote": "뉴엔AI, K-뷰티엑스포서 뷰티 AI 플랫폼 '뷰센스' 공개",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

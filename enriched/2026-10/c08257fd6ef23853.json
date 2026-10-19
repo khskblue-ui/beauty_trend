@@ -1,0 +1,38 @@
+{
+ "doc_id": "c08257fd6ef23853",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ikunkang.com/news/articleView.html?idxno=51677",
+ "title": "화장품 글씨가 흐릿해졌다면… 40대 이후 노안 안경도 '맞춤'이 중요해",
+ "summary": "아침에 화장품 을 집어 들었는데 뒷면의 사용기한이 선명하게 보이지 않는다. 거울을 보며 화장할 때 눈가 등... 브리즘 측은 해당 누진다초점렌즈가 2025년 12월 출시 된 이후 고객의 95%가 적응에 성공했다고 밝혔다. 브리즘...",
+ "published_at": "2026-10-19T11:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:34:27+00:00",
+ "had_body": false
+}

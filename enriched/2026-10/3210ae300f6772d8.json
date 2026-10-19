@@ -1,0 +1,44 @@
+{
+ "doc_id": "3210ae300f6772d8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2481895",
+ "title": "하늘 위에서 만나는 럭셔리 스킨케어· 향수 ···싱가포르항공, 서비스...",
+ "summary": "싱가포르항공이 명품 화장품과 향수 브랜드 와의 협업을 통해 항공기 탑승객에게 제공되는 기내 편의용품 포트폴리오를 전면 개편하는 서비스 전환을 진행한다. 싱가포르항공은 19일 스킨케어, 슬립웨어, 퍼스널 케어...",
+ "published_at": "2026-10-19T17:53:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "SG"
+  ],
+  "brands": [],
+  "companies": [
+   "싱가포르항공"
+  ],
+  "keywords": [
+   "기내 편의용품",
+   "럭셔리 협업",
+   "향수 협업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "싱가포르항공이 명품 화장품·향수 브랜드와 협업해 기내 편의용품을 전면 개편한다",
+  "key_fact_quote": "싱가포르항공이 명품 화장품과 향수 브랜드 와의 협업을 통해 항공기 탑승객에게 제공되는 기내 편의용품 포트폴리오를 전면 개편하는 서비스 전환을 진행한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

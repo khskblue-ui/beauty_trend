@@ -1,0 +1,45 @@
+{
+ "doc_id": "df578daad658c2e4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.dailypop.kr/news/articleView.html?idxno=103500",
+ "title": "코스맥스, 뉴욕서 K-뷰티 현지화 강화…연구소 폐자원은 예술로 재탄생",
+ "summary": "화장품 제조자개발생산(ODM) 기업 코스맥스가 미국 시장 공략과 자원순환이라는 두 축에서 사업 영역을... 코스맥스 연구소에서는 신제품 개발과 실험 과정에서 연구원 가운과 앞치마, 실험 용기, 원료 벌크통 등 다양한...",
+ "published_at": "2026-10-19T14:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "미국 현지화",
+   "자원순환"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스가 미국 시장 공략과 자원순환 두 축으로 사업을 넓히고 있다.",
+  "key_fact_quote": "화장품 제조자개발생산(ODM) 기업 코스맥스가 미국 시장 공략과 자원순환이라는 두 축에서 사업 영역을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

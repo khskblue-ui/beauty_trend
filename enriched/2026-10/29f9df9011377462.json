@@ -1,0 +1,44 @@
+{
+ "doc_id": "29f9df9011377462",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.viva100.com/article/20261019500639",
+ "title": "킨텍스, K - 뷰티 엑스포 역대 최대의 성과 내고 성료… 수출 상담 3억3100만...",
+ "summary": "국내 최대의 전시 컨벤션 업체인 킨텍스가 개최한 ‘2026 K - 뷰티 엑스포 코리아’가 역대 최대 규모와 수출 성과를 기록했다. 수출 상담액은 3억3100만 달러, 계약추진액은 1억500만 달러로 집계됐다. 계약추진액은...",
+ "published_at": "2026-10-19T13:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "킨텍스"
+  ],
+  "keywords": [
+   "K뷰티 엑스포",
+   "수출 상담",
+   "계약 추진"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "킨텍스가 연 2026 K뷰티 엑스포 코리아가 역대 최대 성과를 냈다.",
+  "key_fact_quote": "국내 최대의 전시 컨벤션 업체인 킨텍스가 개최한 ‘2026 K - 뷰티 엑스포 코리아’가 역대 최대 규모와 수출 성과를 기록했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

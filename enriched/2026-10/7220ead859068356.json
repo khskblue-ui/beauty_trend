@@ -1,0 +1,79 @@
+{
+ "doc_id": "7220ead859068356",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367519",
+ "title": "SSG닷컴, 5일간 ' 브랜드 쇼케이스'…패션·뷰티·리빙 특가전",
+ "summary": "뷰티 브랜드 키엘과 입생로랑은 홀리데이 컬렉션 세트를 선보인다. 라메르는 프리미엄 스킨케어 상품을 혜택가에 판매하며 바이레도는 앱솔뤼 향수 구매 시 바디케어 제품을 추가 증정한다. 쿼드쎄라의 초음파...",
+ "published_at": "2026-10-19T08:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "키엘",
+   "입생로랑",
+   "라메르",
+   "바이레도",
+   "쿼드쎄라"
+  ],
+  "companies": [
+   "SSG닷컴"
+  ],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "온라인 특가전",
+   "향수 증정",
+   "프리미엄 스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "홀리데이 컬렉션 세트",
+    "brand": "키엘",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "홀리데이 컬렉션 세트",
+    "brand": "입생로랑",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "앱솔뤼",
+    "brand": "바이레도",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "SSG닷컴이 브랜드 쇼케이스에서 뷰티 브랜드의 홀리데이 세트와 혜택을 선보인다.",
+  "key_fact_quote": "뷰티 브랜드 키엘과 입생로랑은 홀리데이 컬렉션 세트를 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

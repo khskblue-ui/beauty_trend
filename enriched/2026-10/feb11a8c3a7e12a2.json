@@ -1,0 +1,46 @@
+{
+ "doc_id": "feb11a8c3a7e12a2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.metroseoul.co.kr/article/20261019500163",
+ "title": "킨텍스 K - 뷰티 엑스포, 수출 상담 3억3100만 달러 기록…역대 최대 규모 개...",
+ "summary": "국내 뷰티 기업들의 해외시장 진출을 지원하는 '2026 K - 뷰티 엑스포 코리아'가 3억3100만 달러 규모의 수출 상담 실적을 기록했다. 계약추진액은 전년 대비 약 2.5배 증가한 1억500만 달러로 집계됐으며, 참가기업과 전시...",
+ "published_at": "2026-10-19T16:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "킨텍스",
+   "코트라 경기북부지원본부"
+  ],
+  "keywords": [
+   "K뷰티 엑스포",
+   "수출 상담회",
+   "해외 바이어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "937452a2474da169",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": false
+}

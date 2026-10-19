@@ -1,0 +1,50 @@
+{
+ "doc_id": "5826a5ca3109d6da",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100181",
+ "title": "제10회 서울특별시 미용예술경연대회 11월 24일 개최",
+ "summary": "제10회 서울특별시미용예술경연대회가 서울특별시 주최로 서울 강남 SETEC 제3전시홀에서 오는 11월 24일 개최된다.이번 대회는 “눈부신 하루를 서울시민과 함께” 타이틀로 (사)대한미용사회 서울시협의회(협의회장 장선숙)의 진행과 (사)대한미용사회중앙회(회장 이선심)에서 후원하는 서울시 최대 미용대회로써, K-뷰티헤어의 지속 가능한 발전을 목표로 주최 측 추산 800여명의 학생과 일반부가 참가할 것으로 전망된다.이번 대회 장선숙 대회장은 “AI가 접목된 이번 대회는 서울시민이 AI뷰티를 체험해 볼 수 있는 최초의 최첨단 대회로, 향",
+ "published_at": "2026-10-19T09:13:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "미용 경연대회",
+   "AI 뷰티",
+   "헤어쇼"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제10회 서울특별시미용예술경연대회가 11월 24일 열린다.",
+  "key_fact_quote": "제10회 서울특별시미용예술경연대회가 서울특별시 주최로 서울 강남 SETEC 제3전시홀에서 오는 11월 24일 개최된다.",
+  "events": [
+   {
+    "name": "제10회 서울특별시미용예술경연대회",
+    "start_date": "2026-11-24",
+    "end_date": null,
+    "place": "서울 강남 SETEC 제3전시홀",
+    "quote": "제10회 서울특별시미용예술경연대회가 서울특별시 주최로 서울 강남 SETEC 제3전시홀에서 오는 11월 24일 개최된다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}

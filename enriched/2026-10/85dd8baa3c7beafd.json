@@ -1,0 +1,54 @@
+{
+ "doc_id": "85dd8baa3c7beafd",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58537",
+ "title": "코스맥스, 이경수 회장 美 뉴욕서 K뷰티 성장 동력 ‘기술 혁신·다양성’ 강조",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 글로벌 화장품 연구·개발·생산(ODM) 기업 코스맥스가 미국 뉴욕에서 K뷰티의 핵심 경쟁력으로 기술 혁신과 인디브랜드의 다양성을 강조하고 현지 시장 진출을 위한 협력 확대에 나섰다고 19일 밝혔다. 코스맥스는 지난 17일(현지시간) 미국 뉴욕 맨해튼에서 북미 한…",
+ "published_at": "2026-10-19T11:31:39+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "UKF"
+  ],
+  "keywords": [
+   "K뷰티 크리에이터",
+   "북미 현지화",
+   "인디브랜드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 뉴욕에서 K뷰티 크리에이터 어워즈를 열고 인디브랜드의 미국 진출 지원을 밝혔다",
+  "key_fact_quote": "코스맥스는 지난 17일(현지시간) 미국 뉴욕 맨해튼에서 북미 한인 창업가 네트워크 UKF(United Korean Founders)와 공동으로 ‘KOOM K-뷰티 크리에이터 어워즈’를 개최했다.",
+  "events": [
+   {
+    "name": "KOOM K-뷰티 크리에이터 어워즈",
+    "start_date": "2026-10-17",
+    "end_date": null,
+    "place": "미국 뉴욕 맨해튼",
+    "quote": "코스맥스는 지난 17일(현지시간) 미국 뉴욕 맨해튼에서 북미 한인 창업가 네트워크 UKF(United Korean Founders)와 공동으로 ‘KOOM K-뷰티 크리에이터 어워즈’를 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-19T21:33:55+00:00",
+ "had_body": true
+}
