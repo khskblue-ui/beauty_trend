@@ -1,0 +1,55 @@
+{
+ "doc_id": "7eed0ee143f50b0c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newswatch.kr/news/articleView.html?idxno=81566",
+ "title": "[기획] 견미리에서 레이로…애경산업, 뷰티 새단장 '본격화'",
+ "summary": "사진=애경산업 | 뉴스워치= 명경민 기자 | 애경산업이 화장품 사업 경쟁력 강화에 나섰다. 마케팅을... 등 신제품 과 브랜드 이미지를 홍보한다. 이번 캠페인은 지난 9월 출시한 '스킨 퍼스트 히든 프렙 파운데이션...",
+ "published_at": "2026-10-20T10:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "레이"
+  ],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "뷰티 브랜드 리뉴얼",
+   "베이스 메이크업"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "스킨 퍼스트 히든 프렙 파운데이션",
+    "brand": "레이",
+    "launch_date": "2026-09",
+    "launch_status": "launched",
+    "launch_quote": "이번 캠페인은 지난 9월 출시한 '스킨 퍼스트 히든 프렙 파운데이션",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "애경산업이 화장품 사업 경쟁력 강화에 나섰다.",
+  "key_fact_quote": "애경산업이 화장품 사업 경쟁력 강화에 나섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:52+00:00",
+ "had_body": false
+}

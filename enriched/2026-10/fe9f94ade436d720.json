@@ -1,0 +1,54 @@
+{
+ "doc_id": "fe9f94ade436d720",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53735",
+ "title": "“OMC 세계대회 8연패, 미용 역사 새로 썼다”",
+ "summary": "“8연패, 신화는 계속된다” 한국 국가대표 미용선수단이 ‘OMC 헤어월드’에서 8회 연속 우승을 차지하며 세계 정상의 자리를 지켰다. 올해는 역대 최다 메달을 획득하고 세계 1위 트로피를 들어 올리며 K-미용의 경쟁력을 입증했다. 대한미용사회중앙회(회장 이선심)가 19일(월) 서울 방배동 본회 회의…",
+ "published_at": "2026-10-20T08:06:26+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한미용사회중앙회",
+   "세계이미용협회"
+  ],
+  "keywords": [
+   "K-미용",
+   "국제 미용 경연대회",
+   "헤어 경연"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 국가대표 미용선수단이 OMC 헤어월드에서 연속 우승을 차지했다.",
+  "key_fact_quote": "한국 국가대표 미용선수단이 ‘OMC 헤어월드’에서 8회 연속 우승을 차지하며 세계 정상의 자리를 지켰다.",
+  "events": [
+   {
+    "name": "2026 OMC 헤어월드",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-12",
+    "place": "프랑스 파리 엑스포",
+    "quote": "‘2026 OMC 헤어월드’는 10월 10일부터 12일까지 프랑스 파리 엑스포에서 열렸다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-11",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:44:43+00:00",
+ "had_body": true
+}

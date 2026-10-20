@@ -1,0 +1,56 @@
+{
+ "doc_id": "df4608a6286d11ef",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sidae.com/article/2026102014435711681",
+ "title": "브랜드 사서 K뷰티 키운 구다이, 이제 직접 만든다",
+ "summary": "공식 출시 목표는 내년 상반기다. 피스마이너스원은 가수 지드래곤이 설립한 패션 브랜드로, 양사는 브랜드... 지난 1일에는 이너뷰티 브랜드 '이세비'를 선보이며 화장품 밖으로 사업 영역을 넓혔다. 이처럼 적극적인...",
+ "published_at": "2026-10-21T06:15:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이세비",
+   "피스마이너스원"
+  ],
+  "companies": [
+   "구다이"
+  ],
+  "keywords": [
+   "이너뷰티",
+   "K-뷰티 브랜드 직접 개발"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "이세비",
+    "brand": "구다이",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "지난 1일에는 이너뷰티 브랜드 '이세비'를 선보이며 화장품 밖으로 사업 영역을 넓혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "구다이가 브랜드를 사들이는 데서 나아가 직접 브랜드를 만들고 있다.",
+  "key_fact_quote": "지난 1일에는 이너뷰티 브랜드 '이세비'를 선보이며 화장품 밖으로 사업 영역을 넓혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-10",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:43:09+00:00",
+ "had_body": false
+}

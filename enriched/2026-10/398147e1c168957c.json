@@ -1,0 +1,44 @@
+{
+ "doc_id": "398147e1c168957c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=264087",
+ "title": "[현장]조선 고가구 옆 ' 향수 병'···본투스탠드아웃, 북촌에 담은 '반항...",
+ "summary": "2022년 출범한 본투스탠드아웃은 기존 향수 시장에서 통용되는 디자인과 제품 구성보다 독창적인 향과 표현 방식에 무게를 둔 럭셔리 니치 향수 브랜드다. 강렬한 붉은색을 상징색으로 내세우고 높은 향료 농도와 전통...",
+ "published_at": "2026-10-20T15:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "본투스탠드아웃"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "럭셔리 향수",
+   "플래그십 스토어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "본투스탠드아웃은 독창적인 향과 표현 방식에 무게를 둔 럭셔리 니치 향수 브랜드다.",
+  "key_fact_quote": "2022년 출범한 본투스탠드아웃은 기존 향수 시장에서 통용되는 디자인과 제품 구성보다 독창적인 향과 표현 방식에 무게를 둔 럭셔리 니치 향수 브랜드다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:53+00:00",
+ "had_body": false
+}

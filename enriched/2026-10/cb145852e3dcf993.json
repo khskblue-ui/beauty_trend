@@ -1,0 +1,124 @@
+{
+ "doc_id": "cb145852e3dcf993",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312314",
+ "title": "中 반등 노리는 K-뷰티…아모레·LG생건, \"중국은 여전히 핵심 시장\"",
+ "summary": "중국 최대 쇼핑 축제인 광군절(11월 11일)을 앞두고 K-뷰티 대표 기업인 아모레퍼시픽과 LG생활건강이 수익성과 브랜드 경쟁력 강화 전략을 펼치고 있다.관세청 수출입무역통계를 분석한 결과, 2026년 3분기 중국향 8대 화장품 품목 수출액은 3억7000만 달러로 전년 동기(3억3000만 달러) 대비 11.7% 증가해, 중국 시장에서 K-뷰티의 반등 가능성을 시사했다.이러한 회복세 속에서 양사는 가격 할인보다는 제품 효능과 브랜드 신뢰도, 차별화된 고객 경험을 중시하는 소비자가 늘어나면서 수익성과 브랜드 가치를 동시에 높이는 방향으",
+ "published_at": "2026-10-20T09:45:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "설화수",
+   "라네즈",
+   "려",
+   "헤라",
+   "에스트라",
+   "더후",
+   "유시몰"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "LG생활건강"
+  ],
+  "keywords": [
+   "스킨 롱제비티",
+   "스키니피케이션",
+   "효능 중심 소비",
+   "광군절"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "자음생크림",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "블랙 쿠션",
+    "brand": "헤라",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아토베리어 크림",
+    "brand": "에스트라",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "비첩 NAD 앰플",
+    "brand": "더후",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "천기단 세트",
+    "brand": "더후",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "또한 대표 제품인 천기단 세트는 중국 아티스트 주드 첸(Jude Chen)과 협업한 '퀸스 가든(Queen's Garden)' 테마의 한정판 패키지를 선보이며 차별화된 브랜드 경험을 제공할 계획이다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "핑크화이트닝 치약",
+    "brand": "유시몰",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아모레퍼시픽과 LG생활건강이 광군절을 앞두고 중국을 여전히 핵심 시장으로 보며 수익성과 브랜드 경쟁력 강화에 집중한다.",
+  "key_fact_quote": "중국 최대 쇼핑 축제인 광군절(11월 11일)을 앞두고 K-뷰티 대표 기업인 아모레퍼시픽과 LG생활건강이 수익성과 브랜드 경쟁력 강화 전략을 펼치고 있다.",
+  "events": [
+   {
+    "name": "광군절",
+    "start_date": "2026-11-11",
+    "end_date": null,
+    "place": null,
+    "quote": "중국 최대 쇼핑 축제인 광군절(11월 11일)을 앞두고 K-뷰티 대표 기업인 아모레퍼시픽과 LG생활건강이 수익성과 브랜드 경쟁력 강화 전략을 펼치고 있다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "NAD",
+    "quote": "NAD 성분을 적용한 '스킨 롱제비티(Skin Longevity)' 콘셉트 제품으로, 프리미엄 안티에이징 시장을 적극 공략한다는 전략이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:44+00:00",
+ "had_body": true
+}

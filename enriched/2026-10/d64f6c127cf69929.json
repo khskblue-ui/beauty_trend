@@ -1,0 +1,43 @@
+{
+ "doc_id": "d64f6c127cf69929",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/10/20/20261020500144?wlog_tag3=naver",
+ "title": "강서구, 中서 K뷰티 판로 개척 도왔다…“168만달러 계약 추진”",
+ "summary": "이들은 중국 선전 컨벤션 전시센터에서 열린 수출 상담회에서 부스를 운영하고 중국 등 해외 바이어 76개사와 일대일 상담을 진행했다. 상담 중 168만 달러 규모의 수출 구매계약 업무협약(MOU) 89건으로 이어졌다. 구...",
+ "published_at": "2026-10-20T13:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "수출 상담회",
+   "중국 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "강서구가 중국 수출 상담회에서 K뷰티 기업의 판로 개척을 도왔다.",
+  "key_fact_quote": "이들은 중국 선전 컨벤션 전시센터에서 열린 수출 상담회에서 부스를 운영하고 중국 등 해외 바이어 76개사와 일대일 상담을 진행했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-11",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:44:43+00:00",
+ "had_body": false
+}

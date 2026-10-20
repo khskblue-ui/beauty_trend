@@ -1,0 +1,43 @@
+{
+ "doc_id": "879b183cf13e5112",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/lartisan-parfumeur-creates-first-fragrance-talent-show-1239374268/",
+ "title": "EXCLUSIVE: L’Artisan Parfumeur Creates the First Fragrance Talent Show, ‘Le Nez’",
+ "summary": "It will go live starting in December on France’s TF1+.",
+ "published_at": "2026-10-20T13:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "L’Artisan Parfumeur"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "향 인재 발굴 프로그램"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "라르티장 파퓨미에가 첫 향 인재 오디션 프로그램을 만든다.",
+  "key_fact_quote": "It will go live starting in December on France’s TF1+.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:52+00:00",
+ "had_body": false
+}

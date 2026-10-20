@@ -1,0 +1,65 @@
+{
+ "doc_id": "1e51555ddefb97ff",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/10/20/2026102002637.html",
+ "title": "[ 뷰티 업계 이모저모] 닥터지, 호주 시드니 팝업스토어 운영… 매장 매출...",
+ "summary": "■​낫띵베럴, 액상 스틱 신제품 ‘호박 브이 샷·화이트 토마토 샷’ 출시 이너 뷰티 브랜드 낫띵베럴이 액상 스틱 제품 ‘호박 브이 샷’과 ‘화이트 토마토 샷’을 출시 했다. 두 제품은 정제수를 넣지 않고 주요...",
+ "published_at": "2026-10-20T17:51:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "AU"
+  ],
+  "brands": [
+   "닥터지",
+   "낫띵베럴"
+  ],
+  "companies": [],
+  "keywords": [
+   "이너 뷰티",
+   "팝업스토어",
+   "액상 스틱"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "호박 브이 샷",
+    "brand": "낫띵베럴",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이너 뷰티 브랜드 낫띵베럴이 액상 스틱 제품 ‘호박 브이 샷’과 ‘화이트 토마토 샷’을 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "화이트 토마토 샷",
+    "brand": "낫띵베럴",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이너 뷰티 브랜드 낫띵베럴이 액상 스틱 제품 ‘호박 브이 샷’과 ‘화이트 토마토 샷’을 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이너 뷰티 브랜드 낫띵베럴이 액상 스틱 신제품 두 가지를 출시했다.",
+  "key_fact_quote": "이너 뷰티 브랜드 낫띵베럴이 액상 스틱 제품 ‘호박 브이 샷’과 ‘화이트 토마토 샷’을 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:45+00:00",
+ "had_body": false
+}

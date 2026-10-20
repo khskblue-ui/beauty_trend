@@ -1,0 +1,41 @@
+{
+ "doc_id": "d59b66a51b9e0ae8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.yna.co.kr/view/AKR20261020049800017?input=1195m",
+ "title": "[바이오스냅] 유한양행, 창립 100주년 맞아 '100년사' 발간",
+ "summary": "조아제약, 건강기능식품 '데일리 프로바이오틱스 이뮨' 출시 대웅제약, 중남미서 첫 '나보타 마스터 클래스... ▲ 식품의약품안전처는 ' 화장품 의 점자 표시 등에 대한 가이드라인'을 20일 제정했다고 밝혔다. 점자...",
+ "published_at": "2026-10-20T09:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 점자 표시",
+   "표시 가이드라인"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식품의약품안전처가 화장품의 점자 표시 등에 대한 가이드라인을 제정했다.",
+  "key_fact_quote": "식품의약품안전처는 ' 화장품 의 점자 표시 등에 대한 가이드라인'을 20일 제정했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:52+00:00",
+ "had_body": false
+}

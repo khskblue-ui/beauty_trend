@@ -1,0 +1,57 @@
+{
+ "doc_id": "3ba413122caecf1e",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/very-great-haeze-fragrance-brand-target-launch-1239374602/",
+ "title": "Very Great Enters Beauty With Haeze, a New Fragrance Brand",
+ "summary": "Codeveloped with Target and launching exclusively at the retailer Nov. 1, Haeze debuts with five layerable scents.",
+ "published_at": "2026-10-20T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Haeze"
+  ],
+  "companies": [
+   "Very Great",
+   "Target"
+  ],
+  "keywords": [
+   "신규 향수 브랜드",
+   "레이어링 향수",
+   "리테일러 단독 출시"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Haeze",
+    "brand": "Haeze",
+    "launch_date": "2026-11-01",
+    "launch_status": "upcoming",
+    "launch_quote": "Codeveloped with Target and launching exclusively at the retailer Nov. 1, Haeze debuts with five layerable scents.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "베리 그레이트가 타깃과 함께 개발한 새 향수 브랜드 헤이즈를 선보인다.",
+  "key_fact_quote": "Codeveloped with Target and launching exclusively at the retailer Nov. 1, Haeze debuts with five layerable scents.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-11",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:44:43+00:00",
+ "had_body": false
+}

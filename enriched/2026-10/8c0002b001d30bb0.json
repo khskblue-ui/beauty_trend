@@ -1,0 +1,58 @@
+{
+ "doc_id": "8c0002b001d30bb0",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312342",
+ "title": "대중국 소비재 수출 5년 만에 반등…화장품, 회복세 견인",
+ "summary": "K-소비재의 대중국 수출이 5년 만에 반등하며 중국 시장 회복에 대한 기대감을 높이고 있다. 특히 화장품이 두 자릿수 성장세를 기록하며 전체 소비재 수출 회복을 견인한 것으로 나타났다.대한무역투자진흥공사(KOTRA)에 따르면 한국의 5대 소비재(화장품·식품·패션·의약품·생활용품) 대중국 수출은 2021년 89억8,000만 달러를 기록한 이후 감소세를 이어왔다. 수출액은 2022년 79억3,000만 달러, 2023년 68억8,000만 달러, 2024년 65억3,000만 달러, 2025년 64억6,000만 달러로 줄었다.그러나 올해 들",
+ "published_at": "2026-10-20T18:00:44+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "아누아",
+   "이퀄베리",
+   "삼비조",
+   "수아존"
+  ],
+  "companies": [
+   "KOTRA"
+  ],
+  "keywords": [
+   "대중국 수출 회복",
+   "소비재 판촉전",
+   "K-뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국의 대중국 소비재 수출이 오랜만에 반등했고 화장품이 회복세를 이끌었다.",
+  "key_fact_quote": "특히 화장품이 두 자릿수 성장세를 기록하며 전체 소비재 수출 회복을 견인한 것으로 나타났다.",
+  "events": [
+   {
+    "name": "항저우 K-소비재 판촉전",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-18",
+    "place": "중국 저장성 항저우 세기연화(世纪联华) 운하광장점",
+    "quote": "코트라는 지난 16일부터 18일까지 중국 저장성 항저우의 세기연화(世纪联华) 운하광장점에서 '항저우 K-소비재 판촉전'을 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:53+00:00",
+ "had_body": true
+}

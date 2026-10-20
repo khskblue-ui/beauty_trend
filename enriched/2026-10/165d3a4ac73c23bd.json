@@ -1,0 +1,42 @@
+{
+ "doc_id": "165d3a4ac73c23bd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gukjenews.com/news/articleView.html?idxno=3726624",
+ "title": "남원시, 국제 포럼서 화장품기업 해외 진출 지원…바이오산업 경쟁력 알...",
+ "summary": "남원시는 지리산 천연물 자원과 바이오산업 인프라, 그리고 지역 기업의 제조 역량을 결합해 천연물 소재 개발부터 제품화, 수출 까지 이어지는 K - 뷰티 산업 생태계 조성에 주력하고 있다. 이번 해외 행사 참가를 통해 지역...",
+ "published_at": "2026-10-20T11:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 산업 생태계",
+   "천연물 소재",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "남원시가 국제 포럼에서 지역 화장품 기업의 해외 진출을 지원한다.",
+  "key_fact_quote": "남원시는 지리산 천연물 자원과 바이오산업 인프라, 그리고 지역 기업의 제조 역량을 결합해 천연물 소재 개발부터 제품화, 수출 까지 이어지는 K - 뷰티 산업 생태계 조성에 주력하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": false
+}

@@ -1,0 +1,74 @@
+{
+ "doc_id": "89b35d4312916a4a",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/la-rosee-poursuit-son-expansion-et,28376",
+ "title": "La Rosée poursuit son expansion et affirme son ancrage en pharmacie",
+ "summary": "Créée en 2015 par deux pharmaciennes, La Rosée s'est imposée en dix ans parmi les principales marques de la dermo-cosmétique en pharmacie. Présente dans plus de 11 000 officines, elle poursuit son développement en France et à l'international, en s'appuyant sur son positionnement d'origine fondé sur la naturalité, l'éco-conception et l'expertise pharmaceutique. Dès son origine, les créatrices de La Rosée, Coline Bertrand et Mahault de Guibert, ont positionné la marque exclusivement en... - Sociétés & industrie",
+ "published_at": "2026-10-20T07:04:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "KR",
+   "CA"
+  ],
+  "brands": [
+   "La Rosée"
+  ],
+  "companies": [
+   "La Rosée"
+  ],
+  "keywords": [
+   "더모코스메틱",
+   "약국 채널",
+   "리필 용기",
+   "친환경 설계"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "프랑스 더모코스메틱 브랜드 라로제가 약국 채널을 기반으로 해외 확장을 이어 간다.",
+  "key_fact_quote": "Créée en 2015 par deux pharmaciennes, La Rosée s'est imposée en dix ans parmi les principales marques de la dermo-cosmétique en pharmacie.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "glycérine végétale",
+    "quote": "Nous privilégions les ingrédients reconnus en dermatologie ou issus de la pharmacopée, comme la glycérine végétale ou l’aloe vera, choisis pour leur efficacité et leur tolérance."
+   },
+   {
+    "name": "aloe vera",
+    "quote": "Nous privilégions les ingrédients reconnus en dermatologie ou issus de la pharmacopée, comme la glycérine végétale ou l’aloe vera, choisis pour leur efficacité et leur tolérance."
+   },
+   {
+    "name": "bakuchiol",
+    "quote": "Par exemple, nous privilégions le bakuchiol au rétinol, une alternative végétale efficace et mieux tolérée."
+   },
+   {
+    "name": "rétinol",
+    "quote": "Par exemple, nous privilégions le bakuchiol au rétinol, une alternative végétale efficace et mieux tolérée."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:44+00:00",
+ "had_body": true
+}

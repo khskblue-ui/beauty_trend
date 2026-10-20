@@ -1,0 +1,80 @@
+{
+ "doc_id": "ecb48cf942c103c8",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100193",
+ "title": "마리엔메이, 체코 프라하 ‘Notino K-fest’ 참가",
+ "summary": "K-뷰티 스킨케어 브랜드 마리엔메이(Mary&May, 대표 조규태)가 지난 10월 2일(금)부터 4일(일)까지 체코 프라하 프라고브카(Pragovka)에서 열린 유럽 최대 뷰티 이커머스 기업 노티노(Notino)의 K-뷰티 페스티벌 ‘Notino K-fest’에 참가했다.■ 노티노 첫 K-뷰티 페스티벌, 한국 브랜드 30개 참가·일반 소비자 대상 입장권 전량 매진‘Notino K-fest’는 노티노가 처음 개최한 K-뷰티 페스티벌로, 스킨케어·메이크업·헤어케어 분야의 한국 뷰티 브랜드 30개가 참가했다. 사전 초청 행사를 포함해 사",
+ "published_at": "2026-10-20T13:39:52+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "CZ",
+   "SK",
+   "KR"
+  ],
+  "brands": [
+   "마리엔메이",
+   "메디큐브",
+   "라운드랩",
+   "스킨1004",
+   "아누아",
+   "조선미녀",
+   "티르티르",
+   "코스알엑스",
+   "아비브"
+  ],
+  "companies": [
+   "노티노"
+  ],
+  "keywords": [
+   "K-뷰티 페스티벌",
+   "유럽 K-뷰티",
+   "뷰티 이커머스",
+   "체험형 부스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "스피큘 PDRN 크림",
+    "brand": "마리엔메이",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "마리엔메이가 체코 프라하의 노티노 K-뷰티 페스티벌에 참가해 스킨케어 제품을 소개했다.",
+  "key_fact_quote": "마리엔메이는 이번 행사에서 ‘스피큘 PDRN 크림’을 집중 소개했다.",
+  "events": [
+   {
+    "name": "Notino K-fest",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-04",
+    "place": "체코 프라하 프라고브카(Pragovka)",
+    "quote": "K-뷰티 스킨케어 브랜드 마리엔메이(Mary&May, 대표 조규태)가 지난 10월 2일(금)부터 4일(일)까지 체코 프라하 프라고브카(Pragovka)에서 열린 유럽 최대 뷰티 이커머스 기업 노티노(Notino)의 K-뷰티 페스티벌 ‘Notino K-fest’에 참가했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "마리엔메이는 이번 행사에서 ‘스피큘 PDRN 크림’을 집중 소개했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-11",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:44:43+00:00",
+ "had_body": true
+}

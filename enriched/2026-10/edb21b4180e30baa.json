@@ -1,0 +1,76 @@
+{
+ "doc_id": "edb21b4180e30baa",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53739",
+ "title": "지에프씨생명과학 fmk “동결건조 기술로 승부”",
+ "summary": "에프엠케이(fmk)가 베트남에 이어 이탈리아에 진출했다. 에프엠케이(fmk)는 지에프씨생명과학(대표 강희철)이 3월 출시한 더마 코스메틱 브랜드다. 대표 제품인 ‘리쥬네이팅 PDRN 키트’와 ‘카밍 말차 엑소 키트’ 2종 약 8천개를 베트남에 선보였다. 이탈리아에선 스토리메이커를 통해 K-뷰티 유통채…",
+ "published_at": "2026-10-20T18:16:57+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN",
+   "IT"
+  ],
+  "brands": [
+   "fmk"
+  ],
+  "companies": [
+   "지에프씨생명과학"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "동결건조 기술",
+   "K뷰티 수출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리쥬네이팅 PDRN 키트",
+    "brand": "fmk",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "카밍 말차 엑소 키트",
+    "brand": "fmk",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "fmk가 베트남에 이어 이탈리아에 진출했다.",
+  "key_fact_quote": "에프엠케이(fmk)가 베트남에 이어 이탈리아에 진출했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "대표 제품인 ‘리쥬네이팅 PDRN 키트’와 ‘카밍 말차 엑소 키트’ 2종 약 8천개를 베트남에 선보였다."
+   },
+   {
+    "name": "말차",
+    "quote": "대표 제품인 ‘리쥬네이팅 PDRN 키트’와 ‘카밍 말차 엑소 키트’ 2종 약 8천개를 베트남에 선보였다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": true
+}

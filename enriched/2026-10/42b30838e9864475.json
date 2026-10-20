@@ -1,0 +1,43 @@
+{
+ "doc_id": "42b30838e9864475",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=261020015&PRO_CODE=4",
+ "title": "K - 뷰티 의 미래, '오송화장품 뷰티 엑스포' 22일 개막",
+ "summary": "김왕일 / 충북도 첨단바이오과장 “약 1천200건의 수출 상담을 통해 실질적인 투자 유치를 할 계획입니다. 또한 방문객들을 위해서는 다채로운 체험 부스를 준비했습니다.” K - 뷰티 의 현재와 미래를 경험할 수...",
+ "published_at": "2026-10-20T20:59:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 박람회",
+   "수출 상담",
+   "B2B"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "920508cdff40bb10",
+ "enriched_at": "2026-10-20T21:31:25+00:00",
+ "had_body": false
+}

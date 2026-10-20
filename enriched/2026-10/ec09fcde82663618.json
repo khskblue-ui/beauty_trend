@@ -1,0 +1,45 @@
+{
+ "doc_id": "ec09fcde82663618",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.geconomy.co.kr/news/article.html?no=324614",
+ "title": "뉴욕 꿈 위크 첫 날 매출 1위·마스크팩 완판… K- 뷰티 ‘세리’ 미국 미...",
+ "summary": "﻿리테일러‧바이어 관심 속 글로벌 시장 진출 확대 지이코노미 양하영 기자 | 뉴욕에서 먼저 론칭 해 작년 10월 브라이언트 파크 윈터빌리지마켓에서 런칭과 동시에 완판을 기록한 비건 K- 뷰티 브랜드 세리(SERIE)가...",
+ "published_at": "2026-10-20T14:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "세리"
+  ],
+  "companies": [],
+  "keywords": [
+   "K-뷰티",
+   "비건 뷰티",
+   "마스크팩"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "비건 K-뷰티 브랜드 세리가 뉴욕 꿈 위크에서 첫날 매출 1위를 기록했다.",
+  "key_fact_quote": "뉴욕 꿈 위크 첫 날 매출 1위·마스크팩 완판… K- 뷰티 ‘세리’ 미국 미...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:45+00:00",
+ "had_body": false
+}

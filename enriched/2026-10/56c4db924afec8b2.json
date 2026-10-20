@@ -1,0 +1,43 @@
+{
+ "doc_id": "56c4db924afec8b2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91288",
+ "title": "\"면세 매장을 뷰티 놀이터로\"…신라면세점, 체험형 콘텐츠로 개별여행객...",
+ "summary": "신라면세점의 이 같은 행보는 면세점을 단순한 의약품· 화장품 구매 공간이 아닌, 브랜드 고유의 감성을... 신라면세점 관계자는 \"글로벌 브랜드의 신제품 과 메이크업 서비스를 현장에서 직접 오감으로 느낄 수 있도록...",
+ "published_at": "2026-10-20T12:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신라면세점"
+  ],
+  "keywords": [
+   "면세점 체험형 콘텐츠",
+   "개별여행객"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신라면세점이 글로벌 브랜드의 신제품과 메이크업 서비스를 현장에서 체험하게 한다.",
+  "key_fact_quote": "글로벌 브랜드의 신제품 과 메이크업 서비스를 현장에서 직접 오감으로 느낄 수 있도록...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-10",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:43:08+00:00",
+ "had_body": false
+}

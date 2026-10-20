@@ -1,0 +1,63 @@
+{
+ "doc_id": "1914ed519edc5b05",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=131246",
+ "title": "낫띵베럴, 고농축 액상 스틱 2종 출시…이너뷰티 제품군 확대",
+ "summary": "저분자 피쉬콜라겐과 혼합유산균을 부원료로 사용했으며, 합성착색료와 합성 향료 등은 첨가하지 않았다. '화이트 토마토 샷'은 화이트 토마토와 유기농 레드 토마토에 레몬, 샤인머스켓을 더한 제품이다. 저분자...",
+ "published_at": "2026-10-20T17:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "낫띵베럴"
+  ],
+  "companies": [],
+  "keywords": [
+   "이너뷰티",
+   "액상 스틱",
+   "콜라겐 제품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "화이트 토마토 샷",
+    "brand": "낫띵베럴",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "낫띵베럴, 고농축 액상 스틱 2종 출시…이너뷰티 제품군 확대",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "낫띵베럴이 고농축 액상 스틱 제품을 출시해 이너뷰티 제품군을 넓혔다.",
+  "key_fact_quote": "낫띵베럴, 고농축 액상 스틱 2종 출시…이너뷰티 제품군 확대",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "피쉬콜라겐",
+    "quote": "저분자 피쉬콜라겐과 혼합유산균을 부원료로 사용했으며, 합성착색료와 합성 향료 등은 첨가하지 않았다."
+   },
+   {
+    "name": "혼합유산균",
+    "quote": "저분자 피쉬콜라겐과 혼합유산균을 부원료로 사용했으며, 합성착색료와 합성 향료 등은 첨가하지 않았다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-11",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:44:43+00:00",
+ "had_body": false
+}

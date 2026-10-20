@@ -1,0 +1,46 @@
+{
+ "doc_id": "d83229d1305d64ed",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.medical-tribune.co.kr/news/articleView.html?idxno=215544",
+ "title": "일동헬스케어 기능성 화장품 '퍼스트랩' 리뉴얼",
+ "summary": "일동제약그룹의 헬스케어 계열사 일동헬스케어가 기능성 화장품 브랜드 '퍼스트랩(FIRSTLAB)'의 브랜드... 대표 제품인 '퍼스트랩 프로바이오틱 마스크'는 2017년 출시 이후 누적 판매량 3000만장을 넘어섰다....",
+ "published_at": "2026-10-20T18:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "퍼스트랩"
+  ],
+  "companies": [
+   "일동헬스케어"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "브랜드 리뉴얼"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "5d5e8f74af416017",
+ "enriched_at": "2026-10-20T21:43:09+00:00",
+ "had_body": false
+}

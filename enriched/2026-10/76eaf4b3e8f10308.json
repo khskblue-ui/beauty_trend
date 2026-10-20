@@ -1,0 +1,38 @@
+{
+ "doc_id": "76eaf4b3e8f10308",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mediapen.com/news/view/1131312",
+ "title": "궐련형 한계…필립모리스, ‘비연소’ 영토 확장 총력",
+ "summary": "전용 포드에 의약품 등급의 천연 니코틴과 식품 등급 향료 를 사용하고, 인덕션 가열 방식을 적용한 폐쇄형 기기로 안전성을 입증하겠다는 전략이다. 전국 편의점 1만4000곳이라는 제도권 유통망을 선점한 것도 골목...",
+ "published_at": "2026-10-20T16:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:53+00:00",
+ "had_body": false
+}

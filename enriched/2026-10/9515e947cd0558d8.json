@@ -1,0 +1,83 @@
+{
+ "doc_id": "9515e947cd0558d8",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100195",
+ "title": "에이블씨엔씨 미샤, 美 아마존 프라임 빅딜 데이즈 매출 58%↑",
+ "summary": "글로벌 뷰티 기업 에이블씨엔씨(ABLE C&C, 대표 신유정)의 화장품 브랜드 미샤(MISSHA)가 미국 아마존의 ‘프라임 빅딜 데이즈(Prime Big Deal Days)’에서 전년 대비 58%의 매출 성장을 기록했다. BB크림 카테고리에서는 부동의 1위를 지켰다.아마존 프라임 빅딜 데이즈는 프라임 회원을 대상으로 매년 10월 열리는 대규모 할인 행사로 연말 쇼핑 시즌의 시작을 알리는 주요 행사다. 올해는 미국 현지시간으로 지난 6일부터 7일까지 이틀간 진행됐다.행사 기간 에이블씨엔씨 미샤의 매출은 전년 대비 1일차 46%, 2일",
+ "published_at": "2026-10-20T13:47:36+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "미샤"
+  ],
+  "companies": [
+   "에이블씨엔씨"
+  ],
+  "keywords": [
+   "아마존 쇼핑 행사",
+   "BB크림",
+   "K-메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "M 퍼펙트 커버 BB크림 PRO(빨간비비)",
+    "brand": "미샤",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "M 퍼펙트 커버 세럼 BB크림 PRO(보라비비)",
+    "brand": "미샤",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "미샤가 미국 아마존 행사에서 매출이 늘고 BB크림 부문 선두를 지켰다.",
+  "key_fact_quote": "BB크림 카테고리에서는 부동의 1위를 지켰다.",
+  "events": [
+   {
+    "name": "아마존 프라임 빅딜 데이즈",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-07",
+    "place": "미국 아마존",
+    "quote": "올해는 미국 현지시간으로 지난 6일부터 7일까지 이틀간 진행됐다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "로즈마리 잎 추출물",
+    "quote": "2007년 출시 이후 누적 판매량 1억 개를 넘어선 빨간비비는 옹기 발효한 로즈마리 잎 추출물을 담아 높은 커버력과 지속력에 피부 케어 효과를 더했다."
+   },
+   {
+    "name": "안토시아닌",
+    "quote": "보라비비는 옹기 발효한 안토시아닌과 안티에이징 발효 성분을 담은 세럼 제형의 BB크림으로 10가지 컬러 쉐이드로 다양한 피부 톤에 맞춰 선택할 수 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:53+00:00",
+ "had_body": true
+}

@@ -1,0 +1,55 @@
+{
+ "doc_id": "c8215f9430e2fbb7",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53737",
+ "title": "11/19, 올리브영 테크 콘퍼런스 개최",
+ "summary": "올리브영이 11월 19일(목) 오전 10시부터 오후 6시까지 서울 앤더슨씨 성수에서 기술 분야 인재를 대상으로 체험형 테크 콘퍼런스 ‘define:OMNI(디파인 옴니)’를 개최한다. ‘define:OMNI(디파인 옴니)’는 올리브영이 기술 분야 인재들과 만나 옴니채널 역량을 소개하기 위해 마련했다. ‘d…",
+ "published_at": "2026-10-20T12:10:26+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "옴니채널",
+   "테크 콘퍼런스",
+   "O4O"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 기술 인재를 대상으로 옴니채널 테크 콘퍼런스를 연다.",
+  "key_fact_quote": "올리브영이 11월 19일(목) 오전 10시부터 오후 6시까지 서울 앤더슨씨 성수에서 기술 분야 인재를 대상으로 체험형 테크 콘퍼런스 ‘define:OMNI(디파인 옴니)’를 개최한다.",
+  "events": [
+   {
+    "name": "define:OMNI",
+    "start_date": "2026-11-19",
+    "end_date": null,
+    "place": "서울 앤더슨씨 성수",
+    "quote": "올리브영이 11월 19일(목) 오전 10시부터 오후 6시까지 서울 앤더슨씨 성수에서 기술 분야 인재를 대상으로 체험형 테크 콘퍼런스 ‘define:OMNI(디파인 옴니)’를 개최한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": true
+}

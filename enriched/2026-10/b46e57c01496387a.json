@@ -1,0 +1,50 @@
+{
+ "doc_id": "b46e57c01496387a",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312345",
+ "title": "중견 화장품주에 외국인이 돌아오고 있다…개인은 집중 매도",
+ "summary": "최근 5거래일간 5개 중견 화장품주에서 외국인은 순매수에 나선 반면 개인투자자들은 일제히 순매도에 나섰다.3분기 화장품 수출이 전년 동기 대비 31.9% 증가하고 중국 시장 회복 기대감이 커지면서 K-뷰티 업황 개선 전망이 확산되고 있다. 이에 따라 외국인 자금이 중견 화장품주로 다시 유입되는 모습이다.네이버증권에 따르면 최근 5거래일(10월 13~19일) 동안 한국화장품, 토니모리, 잇츠한불, 애경산업 등 주요 중견 화장품 종목에서 외국인은 순매수를 기록했다. 반면 개인투자자들은 분석 대상 전 종목에서 순매도했다.특히 한국화장품,",
+ "published_at": "2026-10-20T19:20:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "한국화장품",
+   "토니모리",
+   "잇츠한불",
+   "애경산업",
+   "에이블씨엔씨"
+  ],
+  "keywords": [
+   "중견 화장품주",
+   "외국인 수급",
+   "K-뷰티 업황",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "외국인 투자자가 중견 화장품주를 다시 사들이고 있다.",
+  "key_fact_quote": "최근 5거래일간 5개 중견 화장품주에서 외국인은 순매수에 나선 반면 개인투자자들은 일제히 순매도에 나섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-11",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:44:43+00:00",
+ "had_body": true
+}

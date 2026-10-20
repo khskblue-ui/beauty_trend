@@ -1,0 +1,40 @@
+{
+ "doc_id": "e2cb6b1da70f0047",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/what-today-s-consumers-want-from-skin-and-sun",
+ "title": "What today's consumers want from skin and sun care",
+ "summary": "Today's beauty consumers expect more from their skin care and sun care products. Beyond visible results, they want products that feel good on the skin and align with their sustainability priorities. For beauty brands, meeting these expectations presents an opportunity to differentiate in a competitive market",
+ "published_at": "2026-10-20T15:58:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "스킨케어",
+   "선케어",
+   "지속가능성"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "소비자는 스킨케어와 선케어에서 눈에 보이는 효과 외에도 사용감과 지속가능성을 기대한다.",
+  "key_fact_quote": "Today's beauty consumers expect more from their skin care and sun care products.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:45+00:00",
+ "had_body": false
+}

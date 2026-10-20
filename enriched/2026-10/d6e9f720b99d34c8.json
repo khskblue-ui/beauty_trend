@@ -1,0 +1,50 @@
+{
+ "doc_id": "d6e9f720b99d34c8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kr.aving.net/news/articleView.html?idxno=1815769",
+ "title": "의료 AI부터 메디컬 뷰티 까지… 'KIMES BUSAN 2026', 23일 벡스코서 개막",
+ "summary": "이 외에도 KOTRA와 연계한 1:1 해외 바이어 수출 상담회와 대한미용의학회 연수강좌, 임상병리사·방사선사·물리치료사·작업치료사·치과위생사 등 의료기사 보수교육, 메디컬 AI와 K - 뷰티 , 의료정책·규제·지원...",
+ "published_at": "2026-10-20T12:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "메디컬 뷰티",
+   "의료 AI",
+   "수출 상담회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "부산에서 의료 AI와 메디컬 뷰티를 다루는 의료기기 전시회가 열린다.",
+  "key_fact_quote": "의료 AI부터 메디컬 뷰티 까지… 'KIMES BUSAN 2026', 23일 벡스코서 개막",
+  "events": [
+   {
+    "name": "KIMES BUSAN 2026",
+    "start_date": "2026-10-23",
+    "end_date": null,
+    "place": "벡스코",
+    "quote": "의료 AI부터 메디컬 뷰티 까지… 'KIMES BUSAN 2026', 23일 벡스코서 개막"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:52+00:00",
+ "had_body": false
+}

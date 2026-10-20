@@ -1,0 +1,54 @@
+{
+ "doc_id": "a7397853acbac7c0",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/brain-impact-neuroscience-des,28378",
+ "title": "Brain Impact Neuroscience : des protocoles sur mesure pour mesurer l'émotion",
+ "summary": "Face à la demande des consommateurs, l'industrie du parfum et de la beauté cherche à appuyer ses allégations en matière de bénéfices émotionnels des produits sur des éléments scientifiques tangibles. Fondée en 2008, Brain Impact est la seule société qui utilise l'imagerie par résonance magnétique fonctionnelle (IRMf) pour valider des insights actionnables qui répondent à ces enjeux. Une approche innovante qui combine neuroscience et analyse de données par l'IA. La preuve scientifique comme... - Science, R&D / A la une",
+ "published_at": "2026-10-20T07:18:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "BE"
+  ],
+  "brands": [],
+  "companies": [
+   "Brain Impact Neuroscience",
+   "IFF",
+   "Coty",
+   "Clariant"
+  ],
+  "keywords": [
+   "향 감성 효과 측정",
+   "뇌 영상 소비자 조사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뇌 기능 영상으로 향수와 화장품의 감성적 효과를 과학적으로 입증하려는 수요가 커지고 있다.",
+  "key_fact_quote": "Face à la demande des consommateurs, l'industrie du parfum et de la beauté cherche à appuyer ses allégations en matière de bénéfices émotionnels des produits sur des éléments scientifiques tangibles.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-10",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:43:08+00:00",
+ "had_body": true
+}

@@ -1,0 +1,53 @@
+{
+ "doc_id": "c75ac5415fb8c521",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58543",
+ "title": "CJ올리브영, 옴니채널 기술 공개 첫 테크 콘퍼런스 ‘define:OMNI’ 개최",
+ "summary": "[코스인코리아닷컴 길태윤 기자] CJ올리브영이 오는 11월 19일 서울 성수동 복합문화공간 앤더슨씨 성수에서 기술 분야 인재를 대상으로 첫 체험형 테크 콘퍼런스 ‘define:OMNI(디파인 옴니)’를 개최한다고 20일 밝혔다. 올리브영이 외부 기술 인재를 대상으로 테크 콘퍼런스를 여는 것은 이번…",
+ "published_at": "2026-10-20T12:05:01+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "옴니채널",
+   "O4O 서비스",
+   "리테일 기술"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "CJ올리브영이 옴니채널 기술을 공개하는 첫 테크 콘퍼런스를 연다.",
+  "key_fact_quote": "CJ올리브영이 오는 11월 19일 서울 성수동 복합문화공간 앤더슨씨 성수에서 기술 분야 인재를 대상으로 첫 체험형 테크 콘퍼런스 ‘define:OMNI(디파인 옴니)’를 개최한다고 20일 밝혔다.",
+  "events": [
+   {
+    "name": "define:OMNI",
+    "start_date": "2026-11-19",
+    "end_date": null,
+    "place": "서울 성수동 복합문화공간 앤더슨씨 성수",
+    "quote": "CJ올리브영이 오는 11월 19일 서울 성수동 복합문화공간 앤더슨씨 성수에서 기술 분야 인재를 대상으로 첫 체험형 테크 콘퍼런스 ‘define:OMNI(디파인 옴니)’를 개최한다고 20일 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:52+00:00",
+ "had_body": true
+}

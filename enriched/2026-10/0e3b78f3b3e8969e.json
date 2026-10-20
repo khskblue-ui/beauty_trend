@@ -1,0 +1,42 @@
+{
+ "doc_id": "0e3b78f3b3e8969e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130188",
+ "title": "면세점업계, K뷰티로 돌파구 모색...개별관광객 공략 강화",
+ "summary": "외국인 관광객의 관심이 높은 국내 화장품 브랜드를 확대하고 면세점에서만 구매할 수 있는 상품을... 세트를 출시 했다. 뷰티업계 관계자는 \"면세점은 내국인 고객은 물론 다양한 국적의 외국인 관광객을 만날 수 있는...",
+ "published_at": "2026-10-20T09:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "면세점",
+   "K뷰티",
+   "개별관광객"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "면세점업계가 K뷰티로 돌파구를 찾고 개별관광객 공략을 강화한다.",
+  "key_fact_quote": "외국인 관광객의 관심이 높은 국내 화장품 브랜드를 확대하고 면세점에서만 구매할 수 있는 상품을",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:52+00:00",
+ "had_body": false
+}

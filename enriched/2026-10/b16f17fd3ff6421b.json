@@ -1,0 +1,47 @@
+{
+ "doc_id": "b16f17fd3ff6421b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.asiatime.co.kr/article/20261019500371",
+ "title": "색조 넘어 스킨케어 키운다…애경산업 화장품 ‘새 성장축'",
+ "summary": "수준이던 화장품 사업 비중을 2028년까지 50% 이상으로 확대한다는 중장기 목표를 세우고 있다\"며 \"원씽은 핵심 성분에 집중한 미니멀 스킨케어 브랜드로 정체성을 강화하고 시그닉은 신제품 과 국내외 판매 채널을...",
+ "published_at": "2026-10-20T11:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "원씽",
+   "시그닉"
+  ],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "미니멀 스킨케어",
+   "핵심 성분",
+   "화장품 사업 확대"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "애경산업이 색조에서 스킨케어로 화장품 사업을 넓히려 한다.",
+  "key_fact_quote": "원씽은 핵심 성분에 집중한 미니멀 스킨케어 브랜드로 정체성을 강화하고 시그닉은 신제품 과 국내외 판매 채널을",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": false
+}

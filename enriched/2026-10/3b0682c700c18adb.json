@@ -1,0 +1,45 @@
+{
+ "doc_id": "3b0682c700c18adb",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/from-extremophile-fermentation-to-skin-resilience-introducing-promacare",
+ "title": "From extremophile fermentation to skin resilience: Introducing PromaCare TTF",
+ "summary": "PromaCare TTF brings extremophile-inspired biotechnology into modern skincare, offering formulators a fermentation-derived ingredient designed for sensitive, stressed and barrier-compromised skin",
+ "published_at": "2026-10-20T17:34:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "발효 원료",
+   "민감성 피부",
+   "피부 장벽"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "PromaCare TTF는 극한 환경 미생물에서 착안한 발효 원료로 민감하고 손상된 피부를 겨냥한다.",
+  "key_fact_quote": "PromaCare TTF brings extremophile-inspired biotechnology into modern skincare, offering formulators a fermentation-derived ingredient designed for sensitive, stressed and barrier-compromised skin",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PromaCare TTF",
+    "quote": "From extremophile fermentation to skin resilience: Introducing PromaCare TTF"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": false
+}

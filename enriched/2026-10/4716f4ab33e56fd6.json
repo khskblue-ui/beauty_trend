@@ -1,0 +1,42 @@
+{
+ "doc_id": "4716f4ab33e56fd6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.jeollailbo.com/news/articleView.html?idxno=814113",
+ "title": "남원 K뷰티 , 튀르키예서 판로 확대 모색",
+ "summary": "이 같은 방향은 시가 추진하는 남원 K뷰티 산업 생태계 조성과 맞닿아 있다. 지역 자원의 가치를 소재 개발에 담고, 이를 제품화와 수출 로 연결하는 구조를 갖춰 바이오산업의 성장 기반을 다지겠다는 구상이다. 이번...",
+ "published_at": "2026-10-20T10:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "TR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "판로 확대"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "남원 K뷰티가 튀르키예에서 판로 확대를 모색한다.",
+  "key_fact_quote": "남원 K뷰티 , 튀르키예서 판로 확대 모색",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": false
+}

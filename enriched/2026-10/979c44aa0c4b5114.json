@@ -1,0 +1,46 @@
+{
+ "doc_id": "979c44aa0c4b5114",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070031",
+ "title": "태영코스메틱, 킨텍스 '2026 K-뷰티엑스포' 성료",
+ "summary": "화장품 전문기업 (주)태영코스메틱(대표이사 황창주)이 '2026 K-뷰티엑스포(K-BEAUTY EXPO)'에 참가해 글로벌... 아이크림과 신제품 광채캡슐 크림, 'Fresh Pop, True You!' 슬로건 아래 펼쳐진 플러스플러쉬의 쿠션 및 립앤치크...",
+ "published_at": "2026-10-20T10:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "플러스플러쉬"
+  ],
+  "companies": [
+   "태영코스메틱"
+  ],
+  "keywords": [
+   "K-뷰티 엑스포",
+   "신제품 크림"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "4fa9985b3127bbfe",
+ "enriched_at": "2026-10-20T21:37:53+00:00",
+ "had_body": false
+}

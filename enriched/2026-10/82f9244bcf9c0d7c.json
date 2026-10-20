@@ -1,0 +1,73 @@
+{
+ "doc_id": "82f9244bcf9c0d7c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ziksir.com/news/articleView.html?idxno=149989",
+ "title": "신라면세점, 개별여행객 늘자 글로벌 뷰티 브랜드 협업 확대 나서",
+ "summary": "지방시 뷰티는 패션 하우스 지방시의 뷰티 브랜드 다. 대표 제품으로는 프리즘 리브르 메이크업 라인과 르 루즈 립스틱, 랑떼르디 향수 등이 있다. 메이크업 쇼에서는 지방시 공식 메이크업 아티스트의 시연과 고객 참여형...",
+ "published_at": "2026-10-20T09:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "지방시 뷰티"
+  ],
+  "companies": [
+   "신라면세점"
+  ],
+  "keywords": [
+   "면세점 뷰티 협업",
+   "개별여행객"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "프리즘 리브르",
+    "brand": "지방시 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "르 루즈",
+    "brand": "지방시 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "랑떼르디",
+    "brand": "지방시 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신라면세점이 개별여행객이 늘자 글로벌 뷰티 브랜드와의 협업을 넓힌다.",
+  "key_fact_quote": "지방시 뷰티는 패션 하우스 지방시의 뷰티 브랜드 다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-10",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:43:08+00:00",
+ "had_body": false
+}

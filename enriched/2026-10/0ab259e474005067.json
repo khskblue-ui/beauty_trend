@@ -1,0 +1,54 @@
+{
+ "doc_id": "0ab259e474005067",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.e2news.com/news/articleView.html?idxno=335261",
+ "title": "말콤, '손을 위해 조향한 향' 손드베일 퍼퓸 핸드크림 3종 출시",
+ "summary": "말콤은 이러한 특성에 착안해 향료 자체의 향뿐 아니라 핸드크림을 사용한 뒤 실제 손 위에서 향이 어떻게 느껴지는지를 제품 개발 과정에 반영했다. 이에 따라 손드베일의 향 경험을 'FIRST', 'CLOSE', 'LINGERING' 등 세...",
+ "published_at": "2026-10-20T13:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "말콤"
+  ],
+  "companies": [],
+  "keywords": [
+   "퍼퓸 핸드크림",
+   "향 경험",
+   "핸드케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "손드베일 퍼퓸 핸드크림",
+    "brand": "말콤",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "말콤, '손을 위해 조향한 향' 손드베일 퍼퓸 핸드크림 3종 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "말콤이 손 위에서 느껴지는 향을 고려한 퍼퓸 핸드크림을 출시했다.",
+  "key_fact_quote": "말콤은 이러한 특성에 착안해 향료 자체의 향뿐 아니라 핸드크림을 사용한 뒤 실제 손 위에서 향이 어떻게 느껴지는지를 제품 개발 과정에 반영했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": false
+}

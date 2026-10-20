@@ -1,0 +1,41 @@
+{
+ "doc_id": "f8a55f288b64dd3a",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/ppwr-connect-each-pack-to-its-evidence-with",
+ "title": "PPWR: Connect Each Pack to its Evidence with Centric PLM",
+ "summary": "A new bottle, pump or carton change triggers a complex data problem for beauty brands. Each new component requires accurate specifications, supplier documentation and compliance records throughout development",
+ "published_at": "2026-10-20T04:07:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Centric PLM"
+  ],
+  "keywords": [
+   "포장 규제 대응",
+   "제품 수명주기 관리"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "포장 부품이 바뀔 때마다 규격과 공급사 서류, 준수 기록을 관리해야 하는 데이터 문제가 생긴다.",
+  "key_fact_quote": "Each new component requires accurate specifications, supplier documentation and compliance records throughout development",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:52+00:00",
+ "had_body": false
+}

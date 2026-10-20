@@ -1,0 +1,46 @@
+{
+ "doc_id": "e46e7f3a0ca1e3ae",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/20/2026102080150.html",
+ "title": "'2026 K - 뷰티 엑스포' 한국디비케이, 'DBK보태니컬'로 글로벌 뷰티 시장 ...",
+ "summary": "자체 브랜드로 주요 이커머스 채널을 공략하며 국내 고객층을 폭넓게 확보해 온 동시에, 중동과 중국 등 해외 10여개국으로 수출 판로를 넓히며 K -생활 뷰티 의 저변을 다져왔다. 이번 전시에서 한국디비케이는 희귀...",
+ "published_at": "2026-10-20T17:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "DBK보태니컬"
+  ],
+  "companies": [
+   "한국디비케이"
+  ],
+  "keywords": [
+   "K-생활 뷰티",
+   "수출 판로 확대"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국디비케이가 해외 여러 나라로 수출 판로를 넓히며 K-생활 뷰티의 저변을 다져 왔다.",
+  "key_fact_quote": "중동과 중국 등 해외 10여개국으로 수출 판로를 넓히며 K -생활 뷰티 의 저변을 다져왔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:53+00:00",
+ "had_body": false
+}

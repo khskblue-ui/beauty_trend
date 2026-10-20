@@ -1,0 +1,66 @@
+{
+ "doc_id": "a1cefeae1ab4ba46",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/otzlab-x-metapack-un-flacon-de,28380",
+ "title": "Otzlab x Metapack : un flacon de parfum suspendu dans un étrier en métal",
+ "summary": "Pour le parfum Otzlab, Metapack a développé un ensemble de composants packaging associant acier inoxydable, polypropylène et résine, avec un système de fixation permettant de maintenir le flacon verticalement au centre d'un étrier métallique tout en facilitant son retrait. La conception de cet ensemble, réalisée à partir du design imaginé par la marque, reposait sur une contrainte technique centrale : suspendre le flacon au milieu de son support tout en permettant de le désassembler... - Brèves",
+ "published_at": "2026-10-20T06:09:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Otzlab",
+   "Oteyza"
+  ],
+  "companies": [
+   "Metapack",
+   "Bormioli Luigi"
+  ],
+  "keywords": [
+   "향수 패키지",
+   "스테인리스 용기",
+   "맞춤 포장 개발"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Otzlab",
+    "brand": "Otzlab",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "메타팩이 향수 병을 금속 받침 가운데에 매단 포장 부품을 개발했다.",
+  "key_fact_quote": "Pour le parfum Otzlab, Metapack a développé un ensemble de composants packaging associant acier inoxydable, polypropylène et résine",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:52+00:00",
+ "had_body": true
+}

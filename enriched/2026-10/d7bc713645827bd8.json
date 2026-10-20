@@ -1,0 +1,41 @@
+{
+ "doc_id": "d7bc713645827bd8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202610202861g",
+ "title": "\"K뷰티 잘나가지만 '브랜드 인지도'는 부족\"…해외 거물의 '경고' [박수...",
+ "summary": "불과 5~6년 전만 해도 한국 화장품 산업은 중국 시장에 절대적으로 의존했다. 2020년 기준 국내 화장품 의 대... 신제품 쏟아지는 한국…유럽도 놀란 K뷰티의 속도 지난 15일 서울 종로구 광화문빌딩에서 만난 글로벌 경영...",
+ "published_at": "2026-10-20T21:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 브랜드 인지도",
+   "중국 의존 탈피"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해외 경영인이 K뷰티가 잘나가지만 브랜드 인지도는 부족하다고 경고했다.",
+  "key_fact_quote": "\"K뷰티 잘나가지만 '브랜드 인지도'는 부족\"…해외 거물의 '경고'",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:53+00:00",
+ "had_body": false
+}

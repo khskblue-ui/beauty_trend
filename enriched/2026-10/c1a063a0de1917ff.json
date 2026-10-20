@@ -1,0 +1,112 @@
+{
+ "doc_id": "c1a063a0de1917ff",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100187",
+ "title": "프리미엄 패밀리 화장품 ‘필로디’, 2026 K뷰티엑스포 전시회 참가",
+ "summary": "주식회사 제이디티앤티 (대표 방지현)가 전개하고 있는 프리미엄 패밀리 스킨케어 브랜드 필로디 (Feelody)가 2026년 10월 15일부터 28일까지 일산 킨텍스 제1전시장 3~5홀에서 개최된 2026 K뷰티 엑스포 전시회에 참가했다고 밝혔다.2026 K뷰티 엑스포 화장품 전시회는 500여개 이상의 회사가 참가하고 전세계 4만명 이상의 참관객들이 방문하는 국내 최대 규모의 화장품 박람회 중 하나이다. 한국은 2025년 화장품 수출액 114억달러를 기록하여 세계 2위 화장품 수출국으로 도약하였고 이런 추세를 더욱 공고히 하고자 다양",
+ "published_at": "2026-10-20T13:29:09+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "필로디"
+  ],
+  "companies": [
+   "제이디티앤티"
+  ],
+  "keywords": [
+   "패밀리 스킨케어",
+   "K-뷰티 박람회"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "멀티 에센스 선스크린",
+    "brand": "필로디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "5중케어 시럽앰플",
+    "brand": "필로디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "원더 버블 폼클렌징",
+    "brand": "필로디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스킨 부스터 에센스",
+    "brand": "필로디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "베리어크림",
+    "brand": "필로디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "필로디가 2026 K뷰티 엑스포 전시회에 참가했다.",
+  "key_fact_quote": "주식회사 제이디티앤티 (대표 방지현)가 전개하고 있는 프리미엄 패밀리 스킨케어 브랜드 필로디 (Feelody)가 2026년 10월 15일부터 28일까지 일산 킨텍스 제1전시장 3~5홀에서 개최된 2026 K뷰티 엑스포 전시회에 참가했다고 밝혔다.",
+  "events": [
+   {
+    "name": "2026 K뷰티 엑스포 전시회",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-28",
+    "place": "일산 킨텍스 제1전시장 3~5홀",
+    "quote": "주식회사 제이디티앤티 (대표 방지현)가 전개하고 있는 프리미엄 패밀리 스킨케어 브랜드 필로디 (Feelody)가 2026년 10월 15일부터 28일까지 일산 킨텍스 제1전시장 3~5홀에서 개최된 2026 K뷰티 엑스포 전시회에 참가했다고 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "필로디 Derma 라인의 스킨 부스터 에센스와 베리어크림은 PDRN, 엑소좀, 7종 히알루론산을 함유하여 피부 장벽 강화를 위한 고기능성 제품군이다."
+   },
+   {
+    "name": "엑소좀",
+    "quote": "필로디 Derma 라인의 스킨 부스터 에센스와 베리어크림은 PDRN, 엑소좀, 7종 히알루론산을 함유하여 피부 장벽 강화를 위한 고기능성 제품군이다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "필로디 Derma 라인의 스킨 부스터 에센스와 베리어크림은 PDRN, 엑소좀, 7종 히알루론산을 함유하여 피부 장벽 강화를 위한 고기능성 제품군이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-10",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:43:08+00:00",
+ "had_body": true
+}

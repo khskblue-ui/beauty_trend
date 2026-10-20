@@ -1,0 +1,40 @@
+{
+ "doc_id": "15cfd52381711717",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.osen.co.kr/article/G1112895244",
+ "title": "‘미코 진 출신’ 김주희 전 아나, 근황 공개..“11월 스킨케어 브랜드...",
+ "summary": "미스코리아 출신 김주희 전 아나운서가 근황을 공개했다. 19일 김주희는 개인 SNS를 통해 “지난해 가을... 구체적으로 왜 이 브랜드를 시작하게 됐는지, 수많은 화장품 중에 어떤 제품을 가장 먼저 만들었는지, 그리고...",
+ "published_at": "2026-10-20T08:29:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "셀럽 스킨케어 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "김주희 전 아나운서가 스킨케어 브랜드를 선보인다고 근황을 공개했다.",
+  "key_fact_quote": "김주희 전 아나, 근황 공개..“11월 스킨케어 브랜드",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:52+00:00",
+ "had_body": false
+}

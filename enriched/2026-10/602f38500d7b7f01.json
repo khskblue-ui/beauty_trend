@@ -1,0 +1,43 @@
+{
+ "doc_id": "602f38500d7b7f01",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/economy/2026/10/20/2026102010511855021",
+ "title": "화장품·식음료 등 EU 포장재 규제 대응법 찾기…기업당 최대 1억원 지원",
+ "summary": "중소벤처기업부가 화장품( K - 뷰티 ), 음식, 포장재 등을 해외 수출 하는 중소기업을 위한 지원에 나선다. 유럽연합(EU) 포장재 규제가 강화되면서 각종 수출 품 포장재에 대한 기준이 까다로워져 중소기업들이 어려움을...",
+ "published_at": "2026-10-20T14:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "중소벤처기업부"
+  ],
+  "keywords": [
+   "EU 포장재 규제",
+   "수출 중소기업 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중소벤처기업부가 화장품 등 수출 중소기업의 EU 포장재 규제 대응을 지원한다.",
+  "key_fact_quote": "중소벤처기업부가 화장품( K - 뷰티 ), 음식, 포장재 등을 해외 수출 하는 중소기업을 위한 지원에 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:53+00:00",
+ "had_body": false
+}

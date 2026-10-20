@@ -1,0 +1,52 @@
+{
+ "doc_id": "c8e161c69cda049b",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/faiveleytech-invests-eur-15,28375",
+ "title": "FaiveleyTech invests EUR 15 million in a new beauty manufacturing facility",
+ "summary": "Inaugurated on October 15 in Orgelet, in France's Jura region, the new 10,000 m² industrial site is designed to double assembly capacity and increase plastic injection capacity by 30%. It will strengthen FaiveleyTech's production capabilities in high-value-added technical polymer injection moulding and decoration. FaiveleyTech inaugurated its new manufacturing facility in Orgelet, in France's Jura region, on October 15, 2026. Dedicated to the group's Beauty business unit, the EUR 15... - Packaging & design",
+ "published_at": "2026-10-20T06:44:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "FaiveleyTech"
+  ],
+  "keywords": [
+   "뷰티 패키징",
+   "생산 설비 확장",
+   "친환경 제조"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "FaiveleyTech가 프랑스 오르줄레에 뷰티 사업부용 새 공장을 열었다.",
+  "key_fact_quote": "FaiveleyTech inaugurated its new manufacturing facility in Orgelet, in France’s Jura region, on October 15, 2026.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:44+00:00",
+ "had_body": true
+}

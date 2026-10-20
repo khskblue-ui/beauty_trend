@@ -1,0 +1,42 @@
+{
+ "doc_id": "374558945bb7b95d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.greened.kr/news/articleView.html?idxno=352535",
+ "title": "인천 남동구, K - 뷰티 엑스포 현장 점검… 지역 화장품 기업 판로 및 수출 ...",
+ "summary": "사진=인천남동구청, 고양 킨텍스에서 열린'2026 K - 뷰티 엑스포 코리아' 를 방문해 관내 참가 기업들의 제품과 기술력을 살펴보고 현장 에로사항을 청취하고 격려하고 있는 이병래 구청장. 인천 남동구가 지역 화장품 기업의...",
+ "published_at": "2026-10-20T13:25:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 엑스포",
+   "화장품 수출",
+   "판로 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인천 남동구청장이 K뷰티 엑스포를 찾아 지역 화장품 기업을 격려했다.",
+  "key_fact_quote": "사진=인천남동구청, 고양 킨텍스에서 열린'2026 K - 뷰티 엑스포 코리아' 를 방문해 관내 참가 기업들의 제품과 기술력을 살펴보고 현장 에로사항을 청취하고 격려하고 있는 이병래 구청장.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": false
+}

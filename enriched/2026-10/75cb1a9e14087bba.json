@@ -1,0 +1,61 @@
+{
+ "doc_id": "75cb1a9e14087bba",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/20/2026102080145.html",
+ "title": "'2026 K - 뷰티 엑스포' 피부도 '물갈이' 걱정 없앤다…더진리, '쏘이지(XOE...",
+ "summary": "한편, K - 뷰티 산업의 최신 트렌드와 글로벌 수출 활로를 모색한 '2026 K - 뷰티 엑스포 코리아( K -BEAUTY EXPO KOREA 2026)'는 10월 15일부터 17일까지 사흘간 고양 킨텍스(KINTEX) 제2전시장에서 개최됐다. 이번 전시회는 기초·색조...",
+ "published_at": "2026-10-20T17:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "더진리"
+  ],
+  "keywords": [
+   "K-뷰티 엑스포",
+   "스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "쏘이지",
+    "brand": "더진리",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더진리가 K-뷰티 엑스포에서 쏘이지를 선보였다.",
+  "key_fact_quote": "'2026 K - 뷰티 엑스포' 피부도 '물갈이' 걱정 없앤다…더진리, '쏘이지(XOE...",
+  "events": [
+   {
+    "name": "2026 K - 뷰티 엑스포 코리아",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": "고양 킨텍스(KINTEX) 제2전시장",
+    "quote": "한편, K - 뷰티 산업의 최신 트렌드와 글로벌 수출 활로를 모색한 '2026 K - 뷰티 엑스포 코리아( K -BEAUTY EXPO KOREA 2026)'는 10월 15일부터 17일까지 사흘간 고양 킨텍스(KINTEX) 제2전시장에서 개최됐다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:45+00:00",
+ "had_body": false
+}

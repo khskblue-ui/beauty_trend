@@ -1,0 +1,94 @@
+{
+ "doc_id": "2736fa6e147ec6b5",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58544",
+ "title": "[Global Beauty Wire] 소요·분쟁, 흔들리는 글로벌 브랜드... SNS와 전문 유통 채널 영향력은 확대",
+ "summary": "[코스인코리아닷컴 김세화 기자]글로벌 뷰티 시장에서 유통 환경 변화와 소비시장 재편 흐름이 나타나고 있다. 유럽에서는 소요사태와 법적 분쟁이 업계의 불확실성을 키웠고, 미국에서는 청소년의 구매 결정에 소셜미디어와 뷰티 전문 유통망의 영향력이 커지고 있다. 중국의 자국 브랜드 경쟁력 강화와…",
+ "published_at": "2026-10-20T13:41:59+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "FR",
+   "IT",
+   "US",
+   "CN",
+   "IN",
+   "KR"
+  ],
+  "brands": [
+   "Sephora",
+   "Louis Vuitton",
+   "rhode",
+   "CeraVe",
+   "Medicube"
+  ],
+  "companies": [
+   "LVMH",
+   "로레알"
+  ],
+  "keywords": [
+   "뷰티 유통",
+   "10대 뷰티 소비",
+   "중국 국산화",
+   "K뷰티 해외 성장"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "자도르 인텐스",
+    "brand": "크리스챤 디올 퍼퓸",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "크리스챤 디올 퍼퓸(Parfums Christian Dior)은 자도르 인텐스(J’adore Intense), 소바쥬 엑스트레(Sauvage Extrait), 디올 어딕트 오 드 퍼퓸 등 신제품을 출시하고 고급 향수 라인업을 강화했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "소바쥬 엑스트레",
+    "brand": "크리스챤 디올 퍼퓸",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "크리스챤 디올 퍼퓸(Parfums Christian Dior)은 자도르 인텐스(J’adore Intense), 소바쥬 엑스트레(Sauvage Extrait), 디올 어딕트 오 드 퍼퓸 등 신제품을 출시하고 고급 향수 라인업을 강화했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "디올 어딕트 오 드 퍼퓸",
+    "brand": "크리스챤 디올 퍼퓸",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "크리스챤 디올 퍼퓸(Parfums Christian Dior)은 자도르 인텐스(J’adore Intense), 소바쥬 엑스트레(Sauvage Extrait), 디올 어딕트 오 드 퍼퓸 등 신제품을 출시하고 고급 향수 라인업을 강화했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "프랑스 시위로 세포라가 매장을 닫는 등 글로벌 뷰티 유통 환경이 흔들리고 있다.",
+  "key_fact_quote": "세포라는 이튿날인 18일까지, 프랑스 내 전 매장을 폐쇄했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "탤크",
+    "quote": "로레알의 2026년 반기 보고서에 따르면, 탤크 함유 화장품에 석면 입자가 포함됐다는 주장과 관련해 진행 중인 미국 내 소송은 6월 30일 기준 760건으로 집계됐다."
+   },
+   {
+    "name": "병풀",
+    "quote": "병풀과 식물 추출물 등 한국 화장품에 활용되는 성분이 인도의 천연 원료 선호와"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": true
+}

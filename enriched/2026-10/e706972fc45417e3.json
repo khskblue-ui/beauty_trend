@@ -1,0 +1,55 @@
+{
+ "doc_id": "e706972fc45417e3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.jbnews.com/news/articleView.html?idxno=1513902",
+ "title": "나손사이언스 첫 화장품 '클리이'로 뷰티시장 진출",
+ "summary": "소재의 작용을 실험으로 확인하고 특허 출원과 원료 등록을 거쳐 독자 성분을 담은 화장품 으로 개발했다\"고 말했다. 신약 개발서 쌓은 항산화 연구 접목…미스트·세럼·크림 3종 출시 나손사이언스, 화장품 ,클리이,오송",
+ "published_at": "2026-10-20T10:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "클리이"
+  ],
+  "companies": [
+   "나손사이언스"
+  ],
+  "keywords": [
+   "바이오 뷰티",
+   "항산화 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "클리이",
+    "brand": "나손사이언스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신약 개발서 쌓은 항산화 연구 접목…미스트·세럼·크림 3종 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "나손사이언스가 첫 화장품 클리이로 뷰티 시장에 진출했다.",
+  "key_fact_quote": "나손사이언스 첫 화장품 '클리이'로 뷰티시장 진출",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:52+00:00",
+ "had_body": false
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "684b88dff0502aec",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.lawissue.co.kr/view.php?ud=20261020090224120204ead0791_12",
+ "title": "신라면세점, 지방시·겔랑 협업으로 뷰티 체험 콘텐츠 확대",
+ "summary": "지방시 뷰티는 패션 브랜드 지방시의 화장품 사업으로, 메이크업 제품과 향수 를 중심으로 구성돼 있다. 서울점 행사에는 지난 9월 회차별 약 30명이 참여해 아티스트의 시연을 관람하고 관련 프로그램을 경험했다....",
+ "published_at": "2026-10-20T09:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "지방시 뷰티",
+   "겔랑"
+  ],
+  "companies": [
+   "신라면세점"
+  ],
+  "keywords": [
+   "면세점 체험형 콘텐츠",
+   "뷰티 협업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신라면세점이 지방시와 겔랑 협업으로 뷰티 체험 콘텐츠를 늘린다.",
+  "key_fact_quote": "지방시 뷰티는 패션 브랜드 지방시의 화장품 사업으로, 메이크업 제품과 향수 를 중심으로 구성돼 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-10",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:43:08+00:00",
+ "had_body": false
+}

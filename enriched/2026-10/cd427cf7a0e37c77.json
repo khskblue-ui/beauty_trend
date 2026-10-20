@@ -1,0 +1,44 @@
+{
+ "doc_id": "cd427cf7a0e37c77",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.eroun.net/news/articleView.html?idxno=92875",
+ "title": "엑솜(EXOME), 2026 K-뷰티엑스포 코리아 참가 성료… 신제품 인텐시브 마...",
+ "summary": "미백·주름개선 2중 기능성 화장품 으로, 집중적인 보습 관리가 필요한 날 간편하게 사용할 수 있는 것이 특징이다. 엑솜은 이번 신제품 을 통해 전문적인 에스테틱 관리의 노하우를 일상 속 홈케어로 연결하는 브랜드...",
+ "published_at": "2026-10-20T09:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "엑솜"
+  ],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 엑스포",
+   "기능성 화장품",
+   "홈케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "엑솜이 K-뷰티엑스포에 참가해 미백과 주름 개선 기능을 갖춘 신제품을 선보였다.",
+  "key_fact_quote": "미백·주름개선 2중 기능성 화장품 으로, 집중적인 보습 관리가 필요한 날 간편하게 사용할 수 있는 것이 특징이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:52+00:00",
+ "had_body": false
+}

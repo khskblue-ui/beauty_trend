@@ -1,0 +1,52 @@
+{
+ "doc_id": "c62da283f3c23e62",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/faiveleytech-investit-15-millions,28374",
+ "title": "FaiveleyTech investit 15 millions d'euros dans une nouvelle usine beauté",
+ "summary": "Inauguré le 15 octobre à Orgelet, dans le Jura, le nouveau site industriel de 10.000 m² doit doubler les capacités d'assemblage et de décoration du spécialiste du moulage par injection de polymères techniques à haute valeur ajoutée, et augmenter de 30% celles d'injection plastique. FaiveleyTech a inauguré le 15 octobre 2026 sa nouvelle usine d'Orgelet, dans le Jura, dédiée aux activités de sa business unit Beauté. Représentant un investissement de 15 millions d'euros, ce projet vise à... - Emballage & design",
+ "published_at": "2026-10-20T06:36:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "FaiveleyTech"
+  ],
+  "keywords": [
+   "뷰티 패키징",
+   "생산 설비 확장",
+   "친환경 제조"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "FaiveleyTech가 프랑스 오르줄레에 뷰티 사업부용 새 공장을 열었다.",
+  "key_fact_quote": "FaiveleyTech a inauguré le 15 octobre 2026 sa nouvelle usine d’Orgelet, dans le Jura, dédiée aux activités de sa business unit Beauté",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:44+00:00",
+ "had_body": true
+}

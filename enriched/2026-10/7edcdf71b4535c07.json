@@ -1,0 +1,52 @@
+{
+ "doc_id": "7edcdf71b4535c07",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://thedrive.co.kr/news/newsview.php?ncode=1065573686347830",
+ "title": "더마코스메틱 ‘닥터바이오’, 2026 케이 뷰티 엑스포 성황리 종료",
+ "summary": "Bio)가 지난 10월 15일부터 17일까지 개최된 ‘2026 케이 뷰티 엑스포( K -Beauty Expo Korea 2026)’에 참가해 전시회 최다... 기존 주요 수출 시장인 아시아를 넘어 중남미, 아프리카, 유럽 권역 바이어들의 미팅 요청이 활발하게...",
+ "published_at": "2026-10-20T09:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "닥터바이오"
+  ],
+  "companies": [],
+  "keywords": [
+   "더마코스메틱",
+   "K-뷰티 엑스포",
+   "수출 바이어 상담"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "더마코스메틱 닥터바이오가 엑스포에 참가해 여러 지역 바이어의 미팅 요청을 받았다.",
+  "key_fact_quote": "기존 주요 수출 시장인 아시아를 넘어 중남미, 아프리카, 유럽 권역 바이어들의 미팅 요청이 활발하게",
+  "events": [
+   {
+    "name": "2026 케이 뷰티 엑스포",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": null,
+    "quote": "지난 10월 15일부터 17일까지 개최된 ‘2026 케이 뷰티 엑스포( K -Beauty Expo Korea 2026)’에 참가해 전시회 최다"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:52+00:00",
+ "had_body": false
+}

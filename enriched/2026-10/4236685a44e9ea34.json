@@ -1,0 +1,72 @@
+{
+ "doc_id": "4236685a44e9ea34",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261020000101",
+ "title": "신라면세점, 글로벌 뷰티 브랜드 와 오프라인 체험 콘텐츠 확대",
+ "summary": "메이크업과 향수 를 통해 브랜드 고유의 감성과 개성을 제안한다. '프리즘 리브르' 메이크업 라인과 '르 루즈' 립스틱, '랑떼르디' 향수 등이 대표 제품이다. 메이크업 쇼에서는 지방시 공식 메이크업 아티스트가 시연했다....",
+ "published_at": "2026-10-20T10:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신라면세점"
+  ],
+  "keywords": [
+   "오프라인 체험",
+   "메이크업 쇼",
+   "면세점 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "프리즘 리브르",
+    "brand": "지방시 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "르 루즈",
+    "brand": "지방시 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "랑떼르디",
+    "brand": "지방시 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신라면세점이 글로벌 뷰티 브랜드와 오프라인 체험 콘텐츠를 늘린다.",
+  "key_fact_quote": "신라면세점, 글로벌 뷰티 브랜드 와 오프라인 체험 콘텐츠 확대",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": false
+}

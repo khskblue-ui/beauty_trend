@@ -1,0 +1,54 @@
+{
+ "doc_id": "29c376933cd5fb2e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.osen.co.kr/article/G1112895273",
+ "title": "강예원, 못 하는 게 뭐예요? 화장품 공동 개발까지..팝업스토어 오픈",
+ "summary": "지난 10월 6일 공식 론칭한 어텐스는 출시 직후부터 이른바 ‘여배우의 동안 스킨케어’로 입소문을 탔고... 또한 화장품 브랜드 론칭과 인플루언서 커머스, 중국 진출까지 추진하며 사업가로서 입지를 탄탄히 다졌으며...",
+ "published_at": "2026-10-20T09:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "어텐스"
+  ],
+  "companies": [],
+  "keywords": [
+   "스킨케어 브랜드 론칭",
+   "셀럽 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "어텐스",
+    "brand": "어텐스",
+    "launch_date": "2026-10-06",
+    "launch_status": "launched",
+    "launch_quote": "지난 10월 6일 공식 론칭한 어텐스는 출시 직후부터 이른바 ‘여배우의 동안 스킨케어’로 입소문을 탔고",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "강예원이 공동 개발한 스킨케어 브랜드 어텐스가 공식 론칭했다.",
+  "key_fact_quote": "지난 10월 6일 공식 론칭한 어텐스는 출시 직후부터 이른바 ‘여배우의 동안 스킨케어’로 입소문을 탔고",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": false
+}

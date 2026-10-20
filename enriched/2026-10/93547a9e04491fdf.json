@@ -1,0 +1,54 @@
+{
+ "doc_id": "93547a9e04491fdf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoul.co.kr/news/society/2026/10/20/20261020500112?wlog_tag3=naver",
+ "title": "사과의 보습, 참외의 생기가 K뷰티로… 대구경북 농특산물의 화려한 변...",
+ "summary": "대구경북 시군들이 지역 농특산물인 사과와 참외를 활용해 개발한 화장품 및 마스크팩을 잇따라 출시 해 관심을 끈다. 대구 군위군은 지역 특화 품종 사과 ‘골든볼’을 활용한 기능성 화장품 을 개발해 본격적인 시장...",
+ "published_at": "2026-10-20T12:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "지역 특산물 화장품",
+   "마스크팩"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대구경북 시군들이 사과와 참외를 활용한 화장품과 마스크팩을 잇따라 내놓고 있다.",
+  "key_fact_quote": "대구경북 시군들이 지역 농특산물인 사과와 참외를 활용해 개발한 화장품 및 마스크팩을 잇따라 출시 해 관심을 끈다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "사과",
+    "quote": "대구경북 시군들이 지역 농특산물인 사과와 참외를 활용해 개발한 화장품 및 마스크팩을 잇따라 출시 해 관심을 끈다."
+   },
+   {
+    "name": "참외",
+    "quote": "대구경북 시군들이 지역 농특산물인 사과와 참외를 활용해 개발한 화장품 및 마스크팩을 잇따라 출시 해 관심을 끈다."
+   },
+   {
+    "name": "골든볼",
+    "quote": "대구 군위군은 지역 특화 품종 사과 ‘골든볼’을 활용한 기능성 화장품 을 개발해 본격적인 시장..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:45+00:00",
+ "had_body": false
+}

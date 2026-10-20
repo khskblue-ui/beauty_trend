@@ -1,0 +1,41 @@
+{
+ "doc_id": "e959c57d90b810f4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.viva100.com/article/20261020500544",
+ "title": "지리산 천연물에서 세계시장으로…남원 K - 뷰티 산업 해외 진출 본격화",
+ "summary": "지역 화장품기업의 해외 수출 계약을 계기로 제품 경쟁력을 국제무대에 알리고, 연구개발부터 제조· 수출 까지... 지역 바이오산업의 경쟁력을 높이고 K - 뷰티 의 세계시장 진출을 확대하는 계기가 될지 관심이 모아진다. 남원=",
+ "published_at": "2026-10-20T12:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "천연물 소재"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "남원 지역 화장품 기업의 수출 계약을 계기로 K뷰티 해외 진출이 본격화된다.",
+  "key_fact_quote": "지역 화장품기업의 해외 수출 계약을 계기로 제품 경쟁력을 국제무대에 알리고",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": false
+}

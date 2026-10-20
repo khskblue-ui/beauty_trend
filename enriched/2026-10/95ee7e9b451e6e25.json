@@ -1,0 +1,55 @@
+{
+ "doc_id": "95ee7e9b451e6e25",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/top-gourmand-scents-fall-amazon-1239347796/",
+ "title": "The Gourmand Scents Dominating Amazon This Season",
+ "summary": "Sol de Janeiro is leading the category, with four of its hero Cheirosa hair and body mists ranking in the top 10, according to sales data from the last 30 days by Market Defense.",
+ "published_at": "2026-10-20T13:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Sol de Janeiro"
+  ],
+  "companies": [
+   "Market Defense"
+  ],
+  "keywords": [
+   "구르망 향",
+   "헤어 앤 바디 미스트"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Cheirosa",
+    "brand": "Sol de Janeiro",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "구르망 향 제품이 아마존에서 강세이고 솔 데 자네이루가 선두다.",
+  "key_fact_quote": "Sol de Janeiro is leading the category, with four of its hero Cheirosa hair and body mists ranking in the top 10, according to sales data from the last 30 days by Market Defense.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-10",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:43:08+00:00",
+ "had_body": false
+}

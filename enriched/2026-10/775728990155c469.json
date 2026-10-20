@@ -1,0 +1,39 @@
+{
+ "doc_id": "775728990155c469",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/extraits-de-parfum-new-growth-engine-fragrances-1239351279/",
+ "title": "Are Extraits de Parfum the New Growth Engine for Fragrances?",
+ "summary": "Since the pandemic, consumer demand for these types of fragrances has been growing rapidly.",
+ "published_at": "2026-10-20T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "엑스트레 드 파르팡",
+   "고농도 향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "고농도 향수 수요가 팬데믹 이후 빠르게 늘고 있다.",
+  "key_fact_quote": "Since the pandemic, consumer demand for these types of fragrances has been growing rapidly.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-10",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:43:08+00:00",
+ "had_body": false
+}

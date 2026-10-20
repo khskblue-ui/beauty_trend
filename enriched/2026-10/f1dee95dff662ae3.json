@@ -1,0 +1,59 @@
+{
+ "doc_id": "f1dee95dff662ae3",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58546",
+ "title": "코트라, 중국 저장성 120개 매장 보유 ‘세기연화’와 손잡고 지역 소비자 공략",
+ "summary": "[코스인코리아닷컴 김민석 기자]지난해부터 한중 경협 확대에 이어 올해 1~8월까지 한국 소비재의 대중국 수출이 전년 동기 대비 +8.4% 증가하며 5년 만에 반등한 가운데, 소비재 진출을 중국 지역까지 확산시키기 위한 장이 항저우에서 열렸다. 5대 소비재 (화장품·식품·패션·의약품·생활용품) 수…",
+ "published_at": "2026-10-20T15:40:28+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [
+   "아누아",
+   "이퀄베리",
+   "삼비조",
+   "수아존"
+  ],
+  "companies": [
+   "코트라",
+   "세기연화"
+  ],
+  "keywords": [
+   "K-소비재",
+   "중국 수출",
+   "현지 유통망"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코트라가 중국 저장성 유통 업체 세기연화와 손잡고 항저우에서 K-소비재 판촉전을 열었다.",
+  "key_fact_quote": "이를 가속화하기 위해 코트라는 10월 16일부터 18일까지 세기연화(世纪联华) 운하광장점에서 ‘항저우 K-소비재 판촉전’을 개최했다고 밝혔다.",
+  "events": [
+   {
+    "name": "항저우 K-소비재 판촉전",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-18",
+    "place": "세기연화(世纪联华) 운하광장점",
+    "quote": "이를 가속화하기 위해 코트라는 10월 16일부터 18일까지 세기연화(世纪联华) 운하광장점에서 ‘항저우 K-소비재 판촉전’을 개최했다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:45+00:00",
+ "had_body": true
+}

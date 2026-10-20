@@ -1,0 +1,55 @@
+{
+ "doc_id": "eb2f455729ef2bfd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=248053",
+ "title": "라스트버튼, '루즈 캐시미어' 솔리드 퍼퓸 출시",
+ "summary": "주식회사 에이에이디(AAD Co., Ltd.)가 운영하는 프리미엄 니치 향수 브랜드 라스트버튼(LASTBUTTON)이 신제품 '루즈 캐시미어(ROUGE CACHEMIRE) 솔리드 퍼퓸'을 출시한다고 20일 밝혔다. 브랜드 측에 따르면, 라스트버튼은 '패션의...",
+ "published_at": "2026-10-20T11:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라스트버튼"
+  ],
+  "companies": [
+   "에이에이디"
+  ],
+  "keywords": [
+   "니치 향수",
+   "솔리드 퍼퓸"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "루즈 캐시미어(ROUGE CACHEMIRE) 솔리드 퍼퓸",
+    "brand": "라스트버튼",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "주식회사 에이에이디(AAD Co., Ltd.)가 운영하는 프리미엄 니치 향수 브랜드 라스트버튼(LASTBUTTON)이 신제품 '루즈 캐시미어(ROUGE CACHEMIRE) 솔리드 퍼퓸'을 출시한다고 20일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "라스트버튼이 솔리드 퍼퓸 신제품을 출시한다.",
+  "key_fact_quote": "주식회사 에이에이디(AAD Co., Ltd.)가 운영하는 프리미엄 니치 향수 브랜드 라스트버튼(LASTBUTTON)이 신제품 '루즈 캐시미어(ROUGE CACHEMIRE) 솔리드 퍼퓸'을 출시한다고 20일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-10",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:43:08+00:00",
+ "had_body": false
+}

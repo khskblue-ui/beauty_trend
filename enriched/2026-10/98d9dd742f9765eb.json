@@ -1,0 +1,41 @@
+{
+ "doc_id": "98d9dd742f9765eb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.livesnews.com/news/article.html?no=65143",
+ "title": "인천대 GTEP, 말레이시아서 K - 뷰티 수출 지원…청년 무역인재 실전 경험",
+ "summary": "국내 뷰티 기업 3개사의 수출 마케팅과 전시 운영을 지원했다고 밝혔다. 코스모 뷰티 말레이시아는 화장품과 스킨케어, 헤어케어, 에스테틱, 미용기기 등 다양한 분야의 글로벌 기업과 바이어들이 참여하는 국제 뷰티 ...",
+ "published_at": "2026-10-20T22:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "MY"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출 지원",
+   "해외 뷰티 박람회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인천대 GTEP가 말레이시아에서 국내 뷰티 기업의 수출 마케팅과 전시 운영을 지원했다.",
+  "key_fact_quote": "국내 뷰티 기업 3개사의 수출 마케팅과 전시 운영을 지원했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-10",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:43:09+00:00",
+ "had_body": false
+}

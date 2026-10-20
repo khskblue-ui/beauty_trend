@@ -1,0 +1,64 @@
+{
+ "doc_id": "acf06ef29b99002d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=149495",
+ "title": "막스마라, 창립 75주년 기념 아우터웨어 팝업 운영",
+ "summary": "이와 함께 10월 말 국내 공식 출시 를 앞둔 브랜드 최초의 향수 '막스마라 르 퍼퓸(Max Mara Le Parfum)'도 선공개했다. 지난 14일 열린 팝업 오픈 기념 행사에는 브랜드 프렌드인 배우 임윤아를 비롯해 신혜선, 원지안이...",
+ "published_at": "2026-10-20T15:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "IT"
+  ],
+  "brands": [
+   "막스마라"
+  ],
+  "companies": [
+   "막스마라"
+  ],
+  "keywords": [
+   "브랜드 첫 향수",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "막스마라 르 퍼퓸",
+    "brand": "막스마라",
+    "launch_date": "2026-10",
+    "launch_status": "upcoming",
+    "launch_quote": "이와 함께 10월 말 국내 공식 출시 를 앞둔 브랜드 최초의 향수 '막스마라 르 퍼퓸(Max Mara Le Parfum)'도 선공개했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "막스마라가 창립 기념 팝업에서 브랜드 첫 향수를 먼저 공개했다.",
+  "key_fact_quote": "이와 함께 10월 말 국내 공식 출시 를 앞둔 브랜드 최초의 향수 '막스마라 르 퍼퓸(Max Mara Le Parfum)'도 선공개했다.",
+  "events": [
+   {
+    "name": "창립 75주년 기념 아우터웨어 팝업",
+    "start_date": "2026-10-14",
+    "end_date": null,
+    "place": null,
+    "quote": "지난 14일 열린 팝업 오픈 기념 행사에는 브랜드 프렌드인 배우 임윤아를 비롯해 신혜선, 원지안이..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:45+00:00",
+ "had_body": false
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "d3a23a39f29eca49",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53740",
+ "title": "\"나이아신아마이드 5%↑\" 달라진 달바 비타 라인",
+ "summary": "달바가 소비자 의견을 반영해 비타 라인 5종의 성분을 개선했다. 전 제품에 미백 기능성 성분인 나이아신아마이드 5%를 담았다. 또 독자 개발 성분인 ‘펩타이드 엑소좀™’을 제품별로 차등 배합했다. 이 성분은 이탈리아산 화이트 트러플 유래 나노 엑소좀 시스템과 99% 다이펩타이드-15로 이뤄졌다. 모공…",
+ "published_at": "2026-10-21T06:16:58+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "달바"
+  ],
+  "companies": [],
+  "keywords": [
+   "미백 기능성 성분",
+   "엑소좀 화장품",
+   "비건 인증"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "토닝 캡슐 크림 나이아신아마이드 5%",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "토닝 캡슐세럼 나이아신아마이드 5%",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "토닝 세럼 토너 나이아신아마이드 5%",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "토닝 스프레이 세럼 나이아신아마이드 5%",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "토닝 세럼 로션 나이아신아마이드 5%",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "달바가 비타 라인의 성분을 개선해 미백 기능성 성분 함량을 늘렸다.",
+  "key_fact_quote": "달바가 소비자 의견을 반영해 비타 라인 5종의 성분을 개선했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "나이아신아마이드",
+    "quote": "전 제품에 미백 기능성 성분인 나이아신아마이드 5%를 담았다."
+   },
+   {
+    "name": "펩타이드 엑소좀™",
+    "quote": "또 독자 개발 성분인 ‘펩타이드 엑소좀™’을 제품별로 차등 배합했다."
+   },
+   {
+    "name": "다이펩타이드-15",
+    "quote": "이 성분은 이탈리아산 화이트 트러플 유래 나노 엑소좀 시스템과 99% 다이펩타이드-15로 이뤄졌다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:53+00:00",
+ "had_body": true
+}

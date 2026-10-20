@@ -1,0 +1,48 @@
+{
+ "doc_id": "5884875eb13f9367",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=562835",
+ "title": "리만코리아, 日 화장품 시장 공략 박차",
+ "summary": "화장품 기업 ㈜리만코리아가 일본 현지에서 '자이언트 병풀 세미나'를 열고 도쿄 롯폰기에 브랜드 공간... 첫날에는 80명 규모의 갈라 디너가 열리며 이튿날 메인 행사에는 약 1천500명이 참석한 가운데 신제품 소개를...",
+ "published_at": "2026-10-20T21:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "리만코리아"
+  ],
+  "keywords": [
+   "K-뷰티 일본 진출",
+   "병풀 성분"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "리만코리아가 일본 현지에서 세미나를 열고 도쿄에 브랜드 공간을 마련했다.",
+  "key_fact_quote": "화장품 기업 ㈜리만코리아가 일본 현지에서 '자이언트 병풀 세미나'를 열고 도쿄 롯폰기에 브랜드 공간...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "병풀",
+    "quote": "화장품 기업 ㈜리만코리아가 일본 현지에서 '자이언트 병풀 세미나'를 열고 도쿄 롯폰기에 브랜드 공간..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-10",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:43:09+00:00",
+ "had_body": false
+}

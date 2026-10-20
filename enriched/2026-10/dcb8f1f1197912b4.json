@@ -1,0 +1,43 @@
+{
+ "doc_id": "dcb8f1f1197912b4",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312332",
+ "title": "K-Beauty Finds New Momentum in China with Double-Digit Export Growth",
+ "summary": "South Korean beauty exports to China rose at a double-digit pace in the third quarter of 2026, signaling a potential recovery in a market that has weighed on K-beauty brands in recent years.According to an analysis of Korea Customs Service trade data, exports across eight major cosmetics categories",
+ "published_at": "2026-10-20T10:38:36+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "대중국 수출 회복",
+   "스킨케어",
+   "시트 마스크"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 화장품의 대중국 수출이 3분기에 두 자릿수로 늘었다.",
+  "key_fact_quote": "South Korean beauty exports to China rose at a double-digit pace in the third quarter of 2026, signaling a potential recovery in a market that has weighed on K-beauty brands in recent years.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:52+00:00",
+ "had_body": true
+}

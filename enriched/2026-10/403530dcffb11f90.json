@@ -1,0 +1,107 @@
+{
+ "doc_id": "403530dcffb11f90",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100199",
+ "title": "달바(d’Alba) 비타라인 5종, 하반기 성분 업그레이드 출시",
+ "summary": "프리미엄비건 뷰티 브랜드 달바(d’Alba)가 2026년 하반기, 소비자 사용 후기를 반영해 비타라인 5종의 성분을 업그레이드했다. 비타라인 5종 전제품에 미백 기능성 성분인 나이아신아마이드 5%를 함유하고, 독자성분 ‘펩타이드엑소좀™’을 제품별로 차등 배합해 탄력, 모공까지 다양한피부 고민을 복합적으로 관리할 수 있도록 제품력을 강화했다.이번 성분 업그레이드는 소비자들의 다양한 피부 고민과 사용 경험을 바탕으로 주요 성분 함량을 강화하는 데 초점을 맞췄다. 피부미백에 도움을 주는 기능성 성분인 나이아신아마이드 함량을 기존 제품 대",
+ "published_at": "2026-10-20T14:01:06+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "달바"
+  ],
+  "companies": [],
+  "keywords": [
+   "비건 뷰티",
+   "기능성 스킨케어",
+   "고함량 성분"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "비타 토닝 캡슐 크림",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "비타 토닝 캡슐 세럼",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "비타 토닝 세럼 토너",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "비타 토닝 스프레이 세럼",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "비타 토닝 세럼 로션",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "달바가 비타라인 제품들의 성분을 업그레이드했다.",
+  "key_fact_quote": "프리미엄비건 뷰티 브랜드 달바(d’Alba)가 2026년 하반기, 소비자 사용 후기를 반영해 비타라인 5종의 성분을 업그레이드했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "나이아신아마이드",
+    "quote": "비타라인 5종 전제품에 미백 기능성 성분인 나이아신아마이드 5%를 함유하고, 독자성분 ‘펩타이드엑소좀™’을 제품별로 차등 배합해 탄력, 모공까지 다양한피부 고민을 복합적으로 관리할 수 있도록 제품력을 강화했다.이번 성분 업그레이드는 소비자들의 다양한 피부 고민과 사용 경험을 바탕으로 주요 성분 함량을 강화하는 데 초점을 맞췄다."
+   },
+   {
+    "name": "펩타이드엑소좀™",
+    "quote": "비타라인 5종 전제품에 미백 기능성 성분인 나이아신아마이드 5%를 함유하고, 독자성분 ‘펩타이드엑소좀™’을 제품별로 차등 배합해 탄력, 모공까지 다양한피부 고민을 복합적으로 관리할 수 있도록 제품력을 강화했다.이번 성분 업그레이드는 소비자들의 다양한 피부 고민과 사용 경험을 바탕으로 주요 성분 함량을 강화하는 데 초점을 맞췄다."
+   },
+   {
+    "name": "다이펩타이드-15",
+    "quote": "함께 적용된 ‘펩타이드 엑소좀™’은 이탈리아산 화이트 트러플 유래 나노 엑소좀시스템과 99% 고순도 저분자 다이펩타이드-15를 결합한 달바의 독자 성분이다."
+   },
+   {
+    "name": "화이트 트러플",
+    "quote": "함께 적용된 ‘펩타이드 엑소좀™’은 이탈리아산 화이트 트러플 유래 나노 엑소좀시스템과 99% 고순도 저분자 다이펩타이드-15를 결합한 달바의 독자 성분이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-10",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:43:08+00:00",
+ "had_body": true
+}

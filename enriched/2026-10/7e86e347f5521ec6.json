@@ -1,0 +1,45 @@
+{
+ "doc_id": "7e86e347f5521ec6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fetv.co.kr/news/articleView.html?idxno=312018",
+ "title": "[주총 트래커] 아로마티카, '바이오' 전문가 독립이사 선임…R&D 전문성...",
+ "summary": "이 신임 독립이사는 화장품 제형 개발과 기존 제품의 품질·사용감 개선 등에 전문적인 의견을 제공할... 연구개발 투자와 신제품 개발 방향, 중장기 기술 경쟁력 확보 방안 등을 이사회에서 검토해 의사결정에...",
+ "published_at": "2026-10-20T07:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아로마티카"
+  ],
+  "companies": [
+   "아로마티카"
+  ],
+  "keywords": [
+   "독립이사 선임",
+   "연구개발 전문성"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아로마티카가 바이오 전문가를 독립이사로 선임했다.",
+  "key_fact_quote": "아로마티카, '바이오' 전문가 독립이사 선임",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": false
+}

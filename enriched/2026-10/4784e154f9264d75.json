@@ -1,0 +1,52 @@
+{
+ "doc_id": "4784e154f9264d75",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100186",
+ "title": "‘2026 OMC 헤어월드’ 8연패 달성…세계 미용 최강국 입증",
+ "summary": "대한민국 국가대표 선수단이 세계 최고 권위의 미용 대회인 ‘2026 OMC 헤어월드’에서 세계종합우승을 차지하며 대회 8연패라는 대기록을 달성했다. 이번 성과로 세계 미용 최강국으로서의 대한민국의 저력을 다시 한번 입증했다. 대한미용사회중앙회(회장 이선심)는 19일 중앙회 회의실에서 기자간담회를 개최하고 이번 대회 성과를 밝혔다.지난 10월 10일부터 12일까지 프랑스 파리 파리엑스포에서 개최된 이번 대회에서 대한민국 선수단은 전 세계의 치열한 경쟁 속에서도 눈부신 성과를 거두었다. 특히 이번 대회는 56개국 중 55개국이 대거 참",
+ "published_at": "2026-10-20T10:44:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한미용사회중앙회"
+  ],
+  "keywords": [
+   "미용 대회",
+   "헤어 경연"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한민국 선수단이 OMC 헤어월드에서 세계종합우승을 차지했다.",
+  "key_fact_quote": "대한민국 국가대표 선수단이 세계 최고 권위의 미용 대회인 ‘2026 OMC 헤어월드’에서 세계종합우승을 차지하며 대회 8연패라는 대기록을 달성했다.",
+  "events": [
+   {
+    "name": "2026 OMC 헤어월드",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-12",
+    "place": "프랑스 파리 파리엑스포",
+    "quote": "지난 10월 10일부터 12일까지 프랑스 파리 파리엑스포에서 개최된 이번 대회에서 대한민국 선수단은 전 세계의 치열한 경쟁 속에서도 눈부신 성과를 거두었다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": true
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "ba12c86f82b67f08",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://zdnet.co.kr/view/?no=20261020101509",
+ "title": "지그재그 옷· 화장품 카톡으로 보낸다…'선물하기' 출시",
+ "summary": "이곳에서는 ▲아우터 ▲원피스 ▲ 화장품 ▲홈데코 ▲취미용품 등 품목별로 상품을 찾아볼 수 있다. 가격에 따라 선물을 살펴보는 기능도 제공한다. 1만원 미만 상품부터 5만원 이상 제품까지 금액별로 구분했으며...",
+ "published_at": "2026-10-20T10:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "지그재그"
+  ],
+  "keywords": [
+   "선물하기",
+   "화장품 선물"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지그재그가 옷과 화장품을 카카오톡으로 보내는 선물하기 기능을 내놨다.",
+  "key_fact_quote": "지그재그 옷· 화장품 카톡으로 보낸다…'선물하기' 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:44+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "3f2650a7ac86c746",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.e2news.com/news/articleView.html?idxno=335245",
+ "title": "더센트, ' K - 뷰티 엑스포 코리아 2026' 참가…해외 바이어와 글로벌 시장 ...",
+ "summary": "더마 코스메틱 브랜드 더센트(DERCENT·대표 김홍석)가 ' K - 뷰티 엑스포 코리아 2026' 참가를 마무리하고 글로벌... 특히 행사 기간 해외 바이어들의 방문이 이어지면서 수출 및 유통 관련 상담이 활발하게 진행됐다....",
+ "published_at": "2026-10-20T09:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에비에코리아"
+  ],
+  "keywords": [
+   "K뷰티 엑스포",
+   "해외 바이어 상담"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "517ba7b54b30fe52",
+ "enriched_at": "2026-10-20T21:31:25+00:00",
+ "had_body": false
+}

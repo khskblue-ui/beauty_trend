@@ -1,0 +1,44 @@
+{
+ "doc_id": "69ad8d17698aa25a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ddaily.co.kr/page/view/2026102014410917537",
+ "title": "\"K뷰티 꼬리표 떼겠다\"…본투스탠드아웃, 글로벌 럭셔리 정조준",
+ "summary": "독립 향수 브랜드 본투스탠드아웃이 'K뷰티' 프레임에서 벗어나 글로벌 럭셔리 브랜드로 평가받겠다는 포부를 밝혔다. 매출의 92~93%가 해외에서 나오는 만큼 국내에서는 유통 채널 입점 없이 플래그십 스토어만 운영하고...",
+ "published_at": "2026-10-20T15:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "본투스탠드아웃"
+  ],
+  "companies": [],
+  "keywords": [
+   "독립 향수",
+   "글로벌 럭셔리",
+   "플래그십 스토어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "본투스탠드아웃이 K뷰티 틀에서 벗어나 글로벌 럭셔리 브랜드로 평가받겠다고 밝혔다.",
+  "key_fact_quote": "독립 향수 브랜드 본투스탠드아웃이 'K뷰티' 프레임에서 벗어나 글로벌 럭셔리 브랜드로 평가받겠다는 포부를 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:53+00:00",
+ "had_body": false
+}

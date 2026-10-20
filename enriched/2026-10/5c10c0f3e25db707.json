@@ -1,0 +1,44 @@
+{
+ "doc_id": "5c10c0f3e25db707",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/distribution/6325084",
+ "title": "K뷰티 수출 111억 달러 '호황'인데…씨앤씨인터내셔널, 나홀로 '부진'",
+ "summary": "K뷰티 수출 호황 속에서도 제품군별 성장세가 엇갈리면서 색조 중심 업체의 사업 다변화 필요성이 커지는 모습이다. 고객사 확대·생산 자동화로 수익성 회복 추진 씨앤씨인터내셔널은 해외 신규 고객사를 확보하고...",
+ "published_at": "2026-10-21T06:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "씨앤씨인터내셔널"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "색조 화장품",
+   "사업 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 수출이 호황인 가운데 색조 중심 업체 씨앤씨인터내셔널은 부진하다.",
+  "key_fact_quote": "K뷰티 수출 호황 속에서도 제품군별 성장세가 엇갈리면서 색조 중심 업체의 사업 다변화 필요성이 커지는 모습이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:45+00:00",
+ "had_body": false
+}

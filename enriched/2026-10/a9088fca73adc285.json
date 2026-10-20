@@ -1,0 +1,44 @@
+{
+ "doc_id": "a9088fca73adc285",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5074000",
+ "title": "평택직할세관, 충북 화장품 수출 기업 찾아 K - 뷰티 지원 논의",
+ "summary": "20일 평택직할세관에 따르면 지난 19일 충북 청주시에 있는 화장품 원료 제조·수출기업 마크로케어를 방문해 K - 뷰티 수출 지원 간담회를 진행했다. 이날 김태영 평택직할세관장은 기업 연구소를 둘러본 뒤 이상린...",
+ "published_at": "2026-10-20T17:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "마크로케어",
+   "평택직할세관"
+  ],
+  "keywords": [
+   "화장품 원료 수출",
+   "수출 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "평택직할세관이 화장품 원료 제조·수출기업을 찾아 K-뷰티 수출 지원을 논의했다.",
+  "key_fact_quote": "20일 평택직할세관에 따르면 지난 19일 충북 청주시에 있는 화장품 원료 제조·수출기업 마크로케어를 방문해 K - 뷰티 수출 지원 간담회를 진행했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:53+00:00",
+ "had_body": false
+}

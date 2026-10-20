@@ -1,0 +1,57 @@
+{
+ "doc_id": "00454bcea5c100a1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/20/2026102080151.html",
+ "title": "'2026 K-뷰티엑스포' 제이지에스헬스큐어, '비건 스킵케어' 새 장 연다…...",
+ "summary": "이 외에도 앰풀, 토너, 세럼 및 클리어 패드 등 메이영 브랜드의 제품이 대거 출품된 가운데, 전문 조향사 가 직접 조향한 향취와 고기능성 헤어 솔루션을 결합한 디피어 라인업도 함께 공개됐다. 단백질 침투율을...",
+ "published_at": "2026-10-20T17:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메이영",
+   "디피어"
+  ],
+  "companies": [
+   "제이지에스헬스큐어"
+  ],
+  "keywords": [
+   "비건 스킨케어",
+   "헤어 솔루션",
+   "조향 헤어케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "디피어 라인업",
+    "brand": "디피어",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "전문 조향사 가 직접 조향한 향취와 고기능성 헤어 솔루션을 결합한 디피어 라인업도 함께 공개됐다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "제이지에스헬스큐어가 전문 조향사가 조향한 향을 더한 헤어 솔루션 디피어 라인업을 공개했다.",
+  "key_fact_quote": "전문 조향사 가 직접 조향한 향취와 고기능성 헤어 솔루션을 결합한 디피어 라인업도 함께 공개됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:45+00:00",
+ "had_body": false
+}

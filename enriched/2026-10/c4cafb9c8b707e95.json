@@ -1,0 +1,46 @@
+{
+ "doc_id": "c4cafb9c8b707e95",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etoday.co.kr/news/view/2637822",
+ "title": "일동헬스케어, 기능성 화장품 ‘퍼스트랩’ 리뉴얼…“브랜드 정체성 강...",
+ "summary": "기능성 화장품 ‘퍼스트랩(FIRSTLAB)’의 패키지 디자인을 새 단장하는 등 브랜드 리뉴얼을 단행했다고 20일... 2017년 출시 후 누적 기준 3000만 장 이상 판매될 만큼 꾸준히 인기를 끌고 있다. 회사 측은 이번 리뉴얼을 통해...",
+ "published_at": "2026-10-20T11:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "퍼스트랩"
+  ],
+  "companies": [
+   "일동헬스케어"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "브랜드 리뉴얼"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "5d5e8f74af416017",
+ "enriched_at": "2026-10-20T21:43:09+00:00",
+ "had_body": false
+}

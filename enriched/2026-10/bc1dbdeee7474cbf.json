@@ -1,0 +1,57 @@
+{
+ "doc_id": "bc1dbdeee7474cbf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=149505",
+ "title": "제냐, 창립자의 기억을 여섯 가지 향으로…'메모리에' 출시",
+ "summary": "이탈리아 럭셔리 브랜드 제냐(ZEGNA)가 창립자의 기억과 브랜드 유산을 여섯 가지 향으로 풀어낸 새로운 향수 컬렉션 '메모리에(MEMORIE)'를 20일 국내 출시 했다. 컬렉션은 신세계백화점 강남점에서 단독으로...",
+ "published_at": "2026-10-20T15:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "IT"
+  ],
+  "brands": [
+   "제냐"
+  ],
+  "companies": [
+   "신세계백화점"
+  ],
+  "keywords": [
+   "향수 컬렉션",
+   "럭셔리 향수",
+   "백화점 단독 출시"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "메모리에",
+    "brand": "제냐",
+    "launch_date": "2026-10-20",
+    "launch_status": "launched",
+    "launch_quote": "이탈리아 럭셔리 브랜드 제냐(ZEGNA)가 창립자의 기억과 브랜드 유산을 여섯 가지 향으로 풀어낸 새로운 향수 컬렉션 '메모리에(MEMORIE)'를 20일 국내 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "제냐가 창립자의 기억을 여섯 가지 향으로 풀어낸 향수 컬렉션 메모리에를 국내 출시했다.",
+  "key_fact_quote": "이탈리아 럭셔리 브랜드 제냐(ZEGNA)가 창립자의 기억과 브랜드 유산을 여섯 가지 향으로 풀어낸 새로운 향수 컬렉션 '메모리에(MEMORIE)'를 20일 국내 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:53+00:00",
+ "had_body": false
+}

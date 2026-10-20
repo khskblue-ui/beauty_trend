@@ -1,0 +1,47 @@
+{
+ "doc_id": "4edff32194b28f40",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=263933",
+ "title": "유한양행 ' 화장품 ' 새 먹거리로···브랜드·제조 동시 '확대'",
+ "summary": "비건 뷰티 브랜드 딘시 역시 신제품 출시와 오프라인 팝업 등을 통해 소비자 접점을 확대하고 있다. 제약업계에서도 화장품 을 의약품 외 새로운 사업 영역으로 육성하는 움직임이 이어지고 있다. 동국제약은...",
+ "published_at": "2026-10-20T15:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "딘시"
+  ],
+  "companies": [
+   "유한양행",
+   "동국제약"
+  ],
+  "keywords": [
+   "제약사 화장품",
+   "비건 뷰티",
+   "팝업스토어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유한양행이 화장품을 새 먹거리로 삼아 브랜드와 제조를 함께 넓힌다.",
+  "key_fact_quote": "유한양행 ' 화장품 ' 새 먹거리로···브랜드·제조 동시 '확대'",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:45+00:00",
+ "had_body": false
+}

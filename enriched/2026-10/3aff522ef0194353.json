@@ -1,0 +1,60 @@
+{
+ "doc_id": "3aff522ef0194353",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/otzlab-x-metapack-a-perfume-bottle,28381",
+ "title": "Otzlab x Metapack: A perfume bottle suspended in a metal frame",
+ "summary": "For the Otzlab fragrance, Metapack developed a set of packaging components combining stainless steel, polypropylene (PP), and resin. The design incorporates a fastening system that suspends the bottle vertically within a metal frame while allowing it to be easily removed. Based on the design provided by the brand, the development focused on a key technical challenge: securely suspending the bottle at the center of the frame while ensuring that it could be easily detached. The frame is... - Industry buzz",
+ "published_at": "2026-10-20T06:14:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Metapack",
+   "Bormioli Luigi"
+  ],
+  "keywords": [
+   "향수 패키징",
+   "맞춤 금속 용기"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Otzlab",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "메타팩이 오츠랩 향수를 위해 금속 프레임에 병을 매다는 포장을 개발했다.",
+  "key_fact_quote": "For the Otzlab fragrance, Metapack developed a set of packaging components combining stainless steel, polypropylene (PP), and resin.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:44+00:00",
+ "had_body": true
+}

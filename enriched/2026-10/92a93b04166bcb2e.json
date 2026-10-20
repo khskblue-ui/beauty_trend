@@ -1,0 +1,58 @@
+{
+ "doc_id": "92a93b04166bcb2e",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100191",
+ "title": "궁중비책 베이비 라인, 독일 더마테스트 최고 등급 획득",
+ "summary": "제로투세븐의 민감하고 여린 영유아 및 민감성 피부를 위한 스킨케어 브랜드 궁중비책이 베이비 라인 8종에 대해 독일 피부과학 연구소 더마테스트(Dermatest)의 최고 등급인 ‘5-스타 인증 마크(5-Star Seal)’를 획득했다.이번 인증은 베이비 라인이 실제 영유아를 대상으로 한 엄격한 피부 적합성 평가에서 최고 등급을 획득했다는 점에서 의미가 있다. 개별 제품을 넘어 라인 전체의 일관된 피부 적합성을 확인하며 브랜드의 품질 경쟁력과 신뢰도를 한층 강화했다.더마테스트의 5-스타 평가는 최소 4주간 제품을 반복적으로 사용하며 피",
+ "published_at": "2026-10-20T13:36:28+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "DE"
+  ],
+  "brands": [
+   "궁중비책"
+  ],
+  "companies": [
+   "제로투세븐",
+   "더마테스트"
+  ],
+  "keywords": [
+   "영유아 스킨케어",
+   "피부 적합성 인증",
+   "임상 데이터"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "베이비 라인",
+    "brand": "궁중비책",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "궁중비책 베이비 라인이 독일 더마테스트의 최고 등급 인증을 받았다.",
+  "key_fact_quote": "제로투세븐의 민감하고 여린 영유아 및 민감성 피부를 위한 스킨케어 브랜드 궁중비책이 베이비 라인 8종에 대해 독일 피부과학 연구소 더마테스트(Dermatest)의 최고 등급인 ‘5-스타 인증 마크(5-Star Seal)’를 획득했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": true
+}

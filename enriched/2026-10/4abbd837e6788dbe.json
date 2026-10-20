@@ -1,0 +1,55 @@
+{
+ "doc_id": "4abbd837e6788dbe",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58548",
+ "title": "호리바, 라만 분광법 통해 도포 4시간 후 레티놀 피부 침투 시각화",
+ "summary": "#건강한 노화 평가를 위한 비침습적 라만 분광법: 제형 과학과 효능 입증 간의 격차 해소 [코스인코리아닷컴 길태윤 기자] 호리바(HORIBA)가 생체 내 라만 분광법을 활용해 레티놀 에센스의 피부 침투 과정을 4시간 동안 추적했다. 연구진은 레티놀이 각질층을 지나 생존 표피에 도달하는 경로와 피부 수…",
+ "published_at": "2026-10-20T16:58:01+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "호리바"
+  ],
+  "keywords": [
+   "라만 분광법",
+   "피부 침투",
+   "웰에이징 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "호리바가 라만 분광법으로 레티놀 에센스의 피부 침투 과정을 추적했다.",
+  "key_fact_quote": "[코스인코리아닷컴 길태윤 기자] 호리바(HORIBA)가 생체 내 라만 분광법을 활용해 레티놀 에센스의 피부 침투 과정을 4시간 동안 추적했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레티놀",
+    "quote": "연구진은 순수 레티놀 0.3%를 함유한 에센스를 피험자의 아래팔 안쪽에 2mg/cm² 용량으로 도포했다."
+   },
+   {
+    "name": "아데노신",
+    "quote": "최대 200µm 깊이의 조직 프로파일에서는 아데노신과 엘라스틴, 멜라토닌, 세로토닌 등 내인성 바이오마커의 스펙트럼도 식별됐다."
+   },
+   {
+    "name": "엘라스틴",
+    "quote": "최대 200µm 깊이의 조직 프로파일에서는 아데노신과 엘라스틴, 멜라토닌, 세로토닌 등 내인성 바이오마커의 스펙트럼도 식별됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": true
+}

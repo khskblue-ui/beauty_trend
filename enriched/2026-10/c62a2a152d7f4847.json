@@ -1,0 +1,45 @@
+{
+ "doc_id": "c62a2a152d7f4847",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sateconomy.co.kr/news/view/1065594928211181",
+ "title": "[단독] 코스맥스, 규정 검토 2년 새 52% 증가 전망… K뷰티 수출 확대 대...",
+ "summary": "올해 3만5000건 이상 예상…수출국별 성분·시험 기준 개발 단계부터 반영 K뷰티 수출 9월까지 111억달러…해외 동시 출시 수요 증가 ▲ 코스맥스 경기 판교 사옥 전경 [코스맥스] 국내 대표 화장품 제조자개발생산(ODM)...",
+ "published_at": "2026-10-20T15:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "수출 규정 검토",
+   "K뷰티 수출",
+   "성분 시험 기준",
+   "ODM"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스가 수출국별 성분과 시험 기준을 개발 단계부터 반영하고 있다.",
+  "key_fact_quote": "수출국별 성분·시험 기준 개발 단계부터 반영",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-11",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:44:43+00:00",
+ "had_body": false
+}

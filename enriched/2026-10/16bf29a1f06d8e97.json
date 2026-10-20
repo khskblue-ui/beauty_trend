@@ -1,0 +1,76 @@
+{
+ "doc_id": "16bf29a1f06d8e97",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/french-skincare-brand-la-rosee,28377",
+ "title": "French skincare brand La Rosée steps up its pharmacy expansion",
+ "summary": "Founded in 2015 by two pharmacists, La Rosée has established itself over the past decade as a leading dermo-cosmetic brand in the pharmacy channel. Available in more than 11,000 pharmacies, the brand continues to expand in France and internationally, building on its distinctive approach combining naturally derived ingredients, eco-design and pharmaceutical expertise. From the outset, founders Coline Bertrand and Mahault de Guibert chose to distribute La Rosée exclusively through... - Companies & industry",
+ "published_at": "2026-10-20T07:08:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "FR",
+   "KR",
+   "CA",
+   "MA"
+  ],
+  "brands": [
+   "La Rosée"
+  ],
+  "companies": [
+   "La Rosée",
+   "Citeo"
+  ],
+  "keywords": [
+   "더모코스메틱",
+   "약국 채널",
+   "리필 포장",
+   "식물 유래 성분"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "프랑스 약국 채널의 더모코스메틱 브랜드 라 로제가 약국 판매망과 해외 진출을 넓히고 있다.",
+  "key_fact_quote": "Founded in 2015 by two pharmacists, La Rosée has established itself over the past decade as a leading dermo-cosmetic brand in the pharmacy channel.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for"
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "vegetable glycerin",
+    "quote": "We prioritize ingredients with a proven track record in dermatology or derived from the pharmacopoeia, such as vegetable glycerin and aloe vera, selected for their efficacy and tolerability."
+   },
+   {
+    "name": "aloe vera",
+    "quote": "We prioritize ingredients with a proven track record in dermatology or derived from the pharmacopoeia, such as vegetable glycerin and aloe vera, selected for their efficacy and tolerability."
+   },
+   {
+    "name": "bakuchiol",
+    "quote": "For example, we favour bakuchiol over retinol as an effective, better-tolerated plant-based alternative."
+   },
+   {
+    "name": "retinol",
+    "quote": "For example, we favour bakuchiol over retinol as an effective, better-tolerated plant-based alternative."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-8",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:37:52+00:00",
+ "had_body": true
+}

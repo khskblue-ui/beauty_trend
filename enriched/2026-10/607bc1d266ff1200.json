@@ -1,0 +1,43 @@
+{
+ "doc_id": "607bc1d266ff1200",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026273",
+ "title": "씨이에스, 우즈베키스탄 뷰티 유통기업 3곳과 계약…현지 시장 공략 본...",
+ "summary": "중앙아시아 수출 ·유통 사업을 확대한다. 현지 판매망을 활용한 제품 공급과 마케팅을 추진하는 한편... 강화하고 우즈베키스탄을 거점으로 중앙아시아 K - 뷰티 시장에서 사업 영역을 넓혀 나갈 것\"이라고 말했다.",
+ "published_at": "2026-10-20T13:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "UZ"
+  ],
+  "brands": [],
+  "companies": [
+   "씨이에스"
+  ],
+  "keywords": [
+   "중앙아시아 K-뷰티",
+   "화장품 유통 계약"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "씨이에스가 우즈베키스탄 유통기업들과 계약하고 중앙아시아 사업을 넓힌다.",
+  "key_fact_quote": "중앙아시아 수출 ·유통 사업을 확대한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-10",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:43:08+00:00",
+ "had_body": false
+}

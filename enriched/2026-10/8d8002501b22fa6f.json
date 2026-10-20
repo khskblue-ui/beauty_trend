@@ -1,0 +1,54 @@
+{
+ "doc_id": "8d8002501b22fa6f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.biotimes.co.kr/news/articleView.html?idxno=35403",
+ "title": "샤페론, 항염 원료·자회사 유통망 결합해 뷰티 진출",
+ "summary": "신약개발사 샤페론이 자체 바이오 원료와 자회사 유통망을 결합해 화장품 시장에 진출한다. 샤페론은 스팟 필오프 케어 신제품 '트루시온 스팟덤'을 출시하고 더마 스팟케어 시장을 공략한다고 20일 밝혔다. 이번 신제품 ...",
+ "published_at": "2026-10-20T12:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "샤페론"
+  ],
+  "keywords": [
+   "스팟케어",
+   "더마 코스메틱",
+   "필오프"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "트루시온 스팟덤",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "샤페론은 스팟 필오프 케어 신제품 '트루시온 스팟덤'을 출시하고 더마 스팟케어 시장을 공략한다고 20일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신약개발사 샤페론이 스팟 케어 신제품을 내놓고 화장품 시장에 들어왔다.",
+  "key_fact_quote": "샤페론은 스팟 필오프 케어 신제품 '트루시온 스팟덤'을 출시하고 더마 스팟케어 시장을 공략한다고 20일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-9",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:40:40+00:00",
+ "had_body": false
+}

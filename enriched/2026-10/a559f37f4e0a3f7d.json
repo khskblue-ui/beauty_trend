@@ -1,0 +1,43 @@
+{
+ "doc_id": "a559f37f4e0a3f7d",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/capsum-gets-new-owner-motion-equity-partners-1239376117/",
+ "title": "Capsum Gets a New Owner",
+ "summary": "Chanel has sold its majority stake in the CDMO to Motion Equity Partners, while the founding CEO and management team retain a minority share.",
+ "published_at": "2026-10-20T18:23:14+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Chanel",
+   "Motion Equity Partners",
+   "Capsum"
+  ],
+  "keywords": [
+   "CDMO",
+   "지분 매각"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "샤넬이 CDMO 캡섬의 과반 지분을 모션 에쿼티 파트너스에 매각했다.",
+  "key_fact_quote": "Chanel has sold its majority stake in the CDMO to Motion Equity Partners, while the founding CEO and management team retain a minority share.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-20T21:34:45+00:00",
+ "had_body": false
+}

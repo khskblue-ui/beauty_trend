@@ -1,0 +1,43 @@
+{
+ "doc_id": "84b40e2185190824",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.cstimes.com/news/articleView.html?idxno=724490",
+ "title": "수출 상담 3.31억 달러 돌파…킨텍스, ' K - 뷰티 엑스포' 역대 최대 규모·성...",
+ "summary": "이민우 킨텍스 대표이사는 \"역대 최대 규모의 참가 열기가 현장에서 실질적인 대규모 수출 계약 성과로 직결됐다는 점에서 의미가 깊다\"며 \"전 세계 바이어가 혁신적인 K - 뷰티 브랜드를 발굴하고, 국내 기업은...",
+ "published_at": "2026-10-20T07:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 엑스포",
+   "수출 상담",
+   "해외 바이어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "c0794f783a98f7c9",
+ "enriched_at": "2026-10-20T21:31:25+00:00",
+ "had_body": false
+}
