@@ -1,0 +1,44 @@
+{
+ "doc_id": "a551bdf580b5c186",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/fragrance-foundation-2026-circle-champions-david-greenberg-1239378688/",
+ "title": "Inside The Fragrance Foundation’s 2026 Circle of Champions Dinner",
+ "summary": "The night celebrated David Greenberg, chairman and former chief executive officer of L’Oréal USA, as he was inducted into the circle.",
+ "published_at": "2026-10-22T02:34:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "L’Oréal USA",
+   "The Fragrance Foundation"
+  ],
+  "keywords": [
+   "향수 업계 시상",
+   "향수 재단"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "프래그런스 파운데이션 만찬에서 로레알 USA의 전 대표가 서클 오브 챔피언스에 이름을 올렸다.",
+  "key_fact_quote": "The night celebrated David Greenberg, chairman and former chief executive officer of L’Oréal USA, as he was inducted into the circle.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

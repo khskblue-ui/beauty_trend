@@ -1,0 +1,41 @@
+{
+ "doc_id": "114775c6097fe9ac",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etoday.co.kr/news/view/2638405",
+ "title": "화장품ㆍ라면ㆍ약품⋯소비재 수출 500억달러 눈앞[韓 수출 1조달러의 명...",
+ "summary": "올해 1~8월 기준 K-푸드와 K - 뷰티 수출 에서 중소·중견기업이 차지하는 비중은 각각 93.1%, 91.3%에 달했다. 중소·중견기업의 화장품 수출액은 2016년 1~8월 13억8000만달러에서 올해 61억8000만달러로 4.5배 뛰었으며...",
+ "published_at": "2026-10-22T05:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "중소기업 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중소·중견기업의 화장품 수출이 크게 늘었다.",
+  "key_fact_quote": "중소·중견기업의 화장품 수출액은 2016년 1~8월 13억8000만달러에서 올해 61억8000만달러로 4.5배 뛰었으며",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

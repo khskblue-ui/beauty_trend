@@ -1,0 +1,42 @@
+{
+ "doc_id": "207015246f9f4aa6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.job-post.co.kr/news/articleView.html?idxno=233727",
+ "title": "오산대 뷰티코스메틱계열, '퍼스널컬러 진단·나만의 명품향수 만들기'...",
+ "summary": "참가자들은 퍼스널컬러 진단을 통해 자신에게 어울리는 컬러를 알아보고, 다양한 향료 중 선호하는 향을 선택하고 조합해 자신만의 향수를 제작하는 시간을 가졌다. 오산대 뷰티코스메틱계열 재학생들은 체험 부스를...",
+ "published_at": "2026-10-21T14:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "퍼스널컬러",
+   "맞춤 향수",
+   "체험 프로그램"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "오산대 뷰티코스메틱계열이 퍼스널컬러 진단과 맞춤 향수 만들기 체험을 운영했다.",
+  "key_fact_quote": "참가자들은 퍼스널컬러 진단을 통해 자신에게 어울리는 컬러를 알아보고, 다양한 향료 중 선호하는 향을 선택하고 조합해 자신만의 향수를 제작하는 시간을 가졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

@@ -1,0 +1,94 @@
+{
+ "doc_id": "9afb32b1db4fae86",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100207",
+ "title": "파마리서치, 대한미용의사회 ‘제65회 스마트아카데미’ 참가",
+ "summary": "재생의학 전문기업 파마리서치(대표이사 손지훈)는 지난 18일 개최된 ‘대한미용의사회 제65회 스마트아카데미’에 참가해 프리미엄 히알루론산(HA) 필러 ‘리쥬비엘’을 활용한 강연과 라이브 시연을 진행했다고 20일 밝혔다.대한미용의사회가 주최한 이번 스마트아카데미는 미용의료 분야 의료진이 시술 관련 지식과 경험을 공유하는 학술 행사다.이날 메이린의원 울산점 김정근 원장은 ‘HA 필러를 활용한 Midface 3D 리프레이밍’을 주제로 강연했다. 강연에서는 GLP-1 계열 비만 치료제 사용 등을 포함해 체중 감량 사례가 주목받는 가운데,",
+ "published_at": "2026-10-21T10:22:03+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "파마리서치"
+  ],
+  "keywords": [
+   "히알루론산 필러",
+   "미용의료",
+   "재생의학"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리쥬비엘",
+    "brand": "파마리서치",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "리쥬비엘 W",
+    "brand": "파마리서치",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "리쥬비엘 V",
+    "brand": "파마리서치",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "리쥬비엘 C",
+    "brand": "파마리서치",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "파마리서치가 대한미용의사회 스마트아카데미에 참가해 히알루론산 필러 리쥬비엘 강연과 시연을 진행했다.",
+  "key_fact_quote": "재생의학 전문기업 파마리서치(대표이사 손지훈)는 지난 18일 개최된 ‘대한미용의사회 제65회 스마트아카데미’에 참가해 프리미엄 히알루론산(HA) 필러 ‘리쥬비엘’을 활용한 강연과 라이브 시연을 진행했다고 20일 밝혔다.",
+  "events": [
+   {
+    "name": "대한미용의사회 제65회 스마트아카데미",
+    "start_date": "2026-10-18",
+    "end_date": null,
+    "place": null,
+    "quote": "재생의학 전문기업 파마리서치(대표이사 손지훈)는 지난 18일 개최된 ‘대한미용의사회 제65회 스마트아카데미’에 참가해 프리미엄 히알루론산(HA) 필러 ‘리쥬비엘’을 활용한 강연과 라이브 시연을 진행했다고 20일 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "재생의학 전문기업 파마리서치(대표이사 손지훈)는 지난 18일 개최된 ‘대한미용의사회 제65회 스마트아카데미’에 참가해 프리미엄 히알루론산(HA) 필러 ‘리쥬비엘’을 활용한 강연과 라이브 시연을 진행했다고 20일 밝혔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

@@ -1,0 +1,66 @@
+{
+ "doc_id": "4b519dcea5ce46b7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=395852",
+ "title": "원더바스, 뉴욕 얼루어 'Best of Beauty 2026' 참가…'슬라이스 세럼'으로...",
+ "summary": "CSA코스믹의 뷰티 브랜드 원더바스(WONDER BATH)가 지난 17일 뉴욕에서 펼쳐진 얼루어(Allure)의 'Best of Beauty 2026... 원더바스 데이터에 따르면 밈 마케팅 이후 슬라이스 세럼의 10월 1~16일 누적 세일즈는 론칭 첫 달이었던...",
+ "published_at": "2026-10-21T11:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "원더바스"
+  ],
+  "companies": [
+   "CSA코스믹",
+   "얼루어"
+  ],
+  "keywords": [
+   "밈 마케팅",
+   "슬라이스 세럼",
+   "K뷰티 팝업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "슬라이스 세럼",
+    "brand": "원더바스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "원더바스가 뉴욕 얼루어 베스트 오브 뷰티 행사에 참가해 슬라이스 세럼을 알렸다.",
+  "key_fact_quote": "CSA코스믹의 뷰티 브랜드 원더바스(WONDER BATH)가 지난 17일 뉴욕에서 펼쳐진 얼루어(Allure)의 'Best of Beauty 2026",
+  "events": [
+   {
+    "name": "Best of Beauty 2026",
+    "start_date": "2026-10-17",
+    "end_date": null,
+    "place": "뉴욕",
+    "quote": "CSA코스믹의 뷰티 브랜드 원더바스(WONDER BATH)가 지난 17일 뉴욕에서 펼쳐진 얼루어(Allure)의 'Best of Beauty 2026"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

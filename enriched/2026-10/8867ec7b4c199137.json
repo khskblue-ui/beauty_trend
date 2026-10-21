@@ -1,0 +1,72 @@
+{
+ "doc_id": "8867ec7b4c199137",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dt.co.kr/article/12090387?ref=naver",
+ "title": "비싼 화장품 은 가라… 초가성비 뷰티 브랜드 ‘코스낵’ 론칭",
+ "summary": "에센스 마블 팩트, 스틱 파운데이션, 립 타투 팩 등 일상에서 간편하게 사용할 수 있는 10종을 출시 했다. 코스낵 관계자는 “맛있는 간식을 고르듯 화장품 도 가볍고 즐겁게 선택하면서 기능적 만족까지 얻을 수 있도록...",
+ "published_at": "2026-10-21T14:19:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "코스낵"
+  ],
+  "companies": [],
+  "keywords": [
+   "초가성비 뷰티",
+   "가성비 화장품",
+   "신규 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "에센스 마블 팩트",
+    "brand": "코스낵",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에센스 마블 팩트, 스틱 파운데이션, 립 타투 팩 등 일상에서 간편하게 사용할 수 있는 10종을 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스틱 파운데이션",
+    "brand": "코스낵",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에센스 마블 팩트, 스틱 파운데이션, 립 타투 팩 등 일상에서 간편하게 사용할 수 있는 10종을 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "립 타투 팩",
+    "brand": "코스낵",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에센스 마블 팩트, 스틱 파운데이션, 립 타투 팩 등 일상에서 간편하게 사용할 수 있는 10종을 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "초가성비 뷰티 브랜드 코스낵이 론칭해 메이크업 제품을 출시했다.",
+  "key_fact_quote": "에센스 마블 팩트, 스틱 파운데이션, 립 타투 팩 등 일상에서 간편하게 사용할 수 있는 10종을 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

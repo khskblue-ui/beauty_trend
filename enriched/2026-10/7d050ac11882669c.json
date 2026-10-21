@@ -1,0 +1,61 @@
+{
+ "doc_id": "7d050ac11882669c",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/la-roche-posay-unveils-first-us-anthelios-sunscreen-featuring-bemt",
+ "title": "La Roche-Posay unveils first Anthelios sunscreen featuring bemotrizinol (BEMT)",
+ "summary": "The L’Oréal-owned dermatological beauty brand’s new Anthelios UV Defense SPF 50 Sunscreen has hit the US market containing BEMT, the first new ingredient approved by the FDA for use in over-the-counter SPFs in the states since 1999",
+ "published_at": "2026-10-21T19:44:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "La Roche-Posay"
+  ],
+  "companies": [
+   "L’Oréal"
+  ],
+  "keywords": [
+   "자외선 차단제",
+   "신규 자외선 차단 성분",
+   "FDA 승인"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Anthelios UV Defense SPF 50 Sunscreen",
+    "brand": "La Roche-Posay",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "The L’Oréal-owned dermatological beauty brand’s new Anthelios UV Defense SPF 50 Sunscreen has hit the US market containing BEMT",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "라로슈포제가 FDA 승인을 받은 새 자외선 차단 성분 BEMT를 넣은 선크림을 미국에서 내놨다.",
+  "key_fact_quote": "The L’Oréal-owned dermatological beauty brand’s new Anthelios UV Defense SPF 50 Sunscreen has hit the US market containing BEMT",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "bemotrizinol",
+    "quote": "La Roche-Posay unveils first Anthelios sunscreen featuring bemotrizinol (BEMT)"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

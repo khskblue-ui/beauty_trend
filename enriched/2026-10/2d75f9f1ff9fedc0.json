@@ -1,0 +1,57 @@
+{
+ "doc_id": "2d75f9f1ff9fedc0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newswatch.kr/news/articleView.html?idxno=81581",
+ "title": "[기획] K- 뷰티 선봉장 에이피알, 유럽시장으로 '진격'",
+ "summary": "메디큐브가 지향하는 '롱제비티(Longevity·건강하게 오래 사는 삶)의 대중화'를 경험할 수 있도록 기획했으며, 미국과 유럽에 출시 한 뷰티 디바이스 신제품 '부스터 프로 X2'를 소개한다는 설명이다. 에이피알 관계자는...",
+ "published_at": "2026-10-21T10:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "메디큐브"
+  ],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "롱제비티",
+   "뷰티 디바이스",
+   "유럽 진출"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "부스터 프로 X2",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "미국과 유럽에 출시 한 뷰티 디바이스 신제품 '부스터 프로 X2'를 소개한다는 설명이다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피알이 유럽 시장에서 롱제비티 콘셉트와 뷰티 디바이스 신제품을 소개한다.",
+  "key_fact_quote": "메디큐브가 지향하는 '롱제비티(Longevity·건강하게 오래 사는 삶)의 대중화'를 경험할 수 있도록 기획했으며, 미국과 유럽에 출시 한 뷰티 디바이스 신제품 '부스터 프로 X2'를 소개한다는 설명이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "1235c7776ea61942",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10909434?ref=naver",
+ "title": "액시엄 랩스, 윤미경 부대표 영입… 뷰티 브랜드 ‘루네보’ 일본 진출 ...",
+ "summary": "윤미경 부대표는 “일본은 K - 뷰티 에 대한 관심이 높으면서도 브랜드 신뢰와 제품 경험, 유통 전략이... 액시엄 랩스는 모회사가 보유한 데이터 기반 마케팅 역량을 활용해 루네보의 해외 사업을 제품 수출 뿐 아니라 현지...",
+ "published_at": "2026-10-21T09:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "루네보"
+  ],
+  "companies": [
+   "액시엄 랩스"
+  ],
+  "keywords": [
+   "일본 진출",
+   "K뷰티 해외 사업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "액시엄 랩스가 뷰티 브랜드 루네보의 일본 진출을 추진한다.",
+  "key_fact_quote": "일본은 K - 뷰티 에 대한 관심이 높으면서도 브랜드 신뢰와 제품 경험, 유통 전략이",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

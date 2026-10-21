@@ -1,0 +1,44 @@
+{
+ "doc_id": "8d9d6e690d15c721",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100211",
+ "title": "로레알 그룹, 파리 생제르맹(PSG) FC와 공식 파트너십 체결",
+ "summary": "세계 1위 뷰티 기업 로레알 그룹(L'Oréal Groupe, 이하 로레알)과 프랑스 축구 클럽 파리 생제르맹(Paris Saint-Germain, 이하 PSG)이 2028년까지 이어지는 전략적 파트너십을 체결했다고 밝혔다.이번 협약은 로레알이 프로 축구 클럽과 맺은 사상 첫 협업 사례다. 앞으로 로레알은 PSG의 ‘공식 뷰티 파트너’로 활약하게 되며, 로레알의 주요 브랜드가 순차적으로 참여한다. 로레알의 브랜드와 PSG는 피부 건강, 두피 건강, 웰빙, 선수 경기력 등에 대한 공동 연구를 진행하고, 스포츠 현장에서 축적된",
+ "published_at": "2026-10-21T10:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "로레알 그룹",
+   "파리 생제르맹"
+  ],
+  "keywords": [
+   "스포츠 마케팅",
+   "브랜드 파트너십"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "로레알 그룹이 파리 생제르맹과 공식 뷰티 파트너 계약을 맺었다.",
+  "key_fact_quote": "세계 1위 뷰티 기업 로레알 그룹(L'Oréal Groupe, 이하 로레알)과 프랑스 축구 클럽 파리 생제르맹(Paris Saint-Germain, 이하 PSG)이 2028년까지 이어지는 전략적 파트너십을 체결했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:44:09+00:00",
+ "had_body": true
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "d0d7e88ab846231b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=120471",
+ "title": "LG생건 '더후', 韓 뷰티 유일 FT 럭셔리 서밋 참가…K-럭셔리 위상 과시",
+ "summary": "LG생활건강(대표이사 이선주)의 궁중 피부과학 럭셔리 화장품 브랜드 '더후'가 국내 뷰티 업계에서... 특히 1947년 락희화학공업사 시절 출시 된 '럭키크림'을 시작으로 LG생활건강이 약 80년간 축적해 온 연구개발...",
+ "published_at": "2026-10-21T10:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더후"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "럭셔리 뷰티",
+   "K-럭셔리",
+   "궁중 피부과학"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "더후가 한국 뷰티 브랜드로는 유일하게 FT 럭셔리 서밋에 참가했다.",
+  "key_fact_quote": "LG생건 '더후', 韓 뷰티 유일 FT 럭셔리 서밋 참가",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:44:09+00:00",
+ "had_body": false
+}

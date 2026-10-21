@@ -1,0 +1,45 @@
+{
+ "doc_id": "19fd23385265f5cc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=244709",
+ "title": "튀르키예 기초화장품 시장동향",
+ "summary": "또한, 이탈리아와 폴란드는 디자인, 향료 , 패션 연계 뷰티 등의 마케팅 포인트와 가격 경쟁력이 있는 유럽 생산 기반이 강점으로 확인된다. 한국의 제품들은 K-뷰티 인지도, 세럼·앰플 중심의 고기능성 루틴...",
+ "published_at": "2026-10-21T16:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "TR",
+   "IT",
+   "PL",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "튀르키예 시장",
+   "기초화장품",
+   "K뷰티 인지도"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "튀르키예 기초화장품 시장에서 한국 제품은 K뷰티 인지도와 고기능성 루틴이 강점이다.",
+  "key_fact_quote": "한국의 제품들은 K-뷰티 인지도, 세럼·앰플 중심의 고기능성 루틴",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

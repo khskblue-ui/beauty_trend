@@ -1,0 +1,68 @@
+{
+ "doc_id": "faf59f5b74f1beb2",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100209",
+ "title": "원씽, 병풀 원물 담은 ‘병풀 수딩 팩 클렌저’",
+ "summary": "핵심 성분 스킨케어 브랜드 ‘원씽’(ONE THING)이 병풀 원물을 담아 세안과 피부 진정 케어를 한 번에 할 수 있는 ‘병풀 수딩 팩 클렌저’를 출시했다.원씽 병풀 수딩 팩 클렌저는 병풀 원물을 곱게 갈아 담은 팩 제형의 클렌저 제품이다. 세안 단계에서 피부 노폐물과 메이크업 잔여물을 깨끗하게 세정하면서 병풀을 활용한 수딩 케어를 함께 할 수 있도록 설계했다. 특히 저온 진공 추출 공법으로 우려낸 병풀잎수 10,000ppm를 함유해 세안 단계에서 피부를 편안하게 관리할 수 있도록 했다.원씽 병풀 수딩 팩 클렌저는 미세한 병풀 원",
+ "published_at": "2026-10-21T10:24:39+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "원씽"
+  ],
+  "companies": [],
+  "keywords": [
+   "병풀",
+   "클렌저",
+   "핵심 성분 스킨케어",
+   "약산성 포뮬러"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "병풀 수딩 팩 클렌저",
+    "brand": "원씽",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "핵심 성분 스킨케어 브랜드 ‘원씽’(ONE THING)이 병풀 원물을 담아 세안과 피부 진정 케어를 한 번에 할 수 있는 ‘병풀 수딩 팩 클렌저’를 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "원씽이 병풀 원물을 담은 병풀 수딩 팩 클렌저를 출시했다.",
+  "key_fact_quote": "핵심 성분 스킨케어 브랜드 ‘원씽’(ONE THING)이 병풀 원물을 담아 세안과 피부 진정 케어를 한 번에 할 수 있는 ‘병풀 수딩 팩 클렌저’를 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "병풀 원물",
+    "quote": "핵심 성분 스킨케어 브랜드 ‘원씽’(ONE THING)이 병풀 원물을 담아 세안과 피부 진정 케어를 한 번에 할 수 있는 ‘병풀 수딩 팩 클렌저’를 출시했다."
+   },
+   {
+    "name": "병풀잎수",
+    "quote": "특히 저온 진공 추출 공법으로 우려낸 병풀잎수 10,000ppm를 함유해 세안 단계에서 피부를 편안하게 관리할 수 있도록 했다."
+   },
+   {
+    "name": "병풀 원물 파우더",
+    "quote": "원씽 병풀 수딩 팩 클렌저는 미세한 병풀 원물 파우더 5,000ppm을 함유해 피부 표면을 부드럽게 정돈해 준다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

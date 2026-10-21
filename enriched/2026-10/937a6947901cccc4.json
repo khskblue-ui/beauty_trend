@@ -1,0 +1,46 @@
+{
+ "doc_id": "937a6947901cccc4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsinside.kr/news/articleView.html?idxno=5029637",
+ "title": "LG생활건강 더후, K-뷰티 유일 'FT 럭셔리 서밋' 참가",
+ "summary": "지난 1947년 '럭키크림' 출시 이후 약 80년간 축적한 LG생활건강의 연구개발 인프라와 피부 노화를 장기적으로 관리하는 '롱제비티' 연구 방향도 제시했다. 항노화 성분인 'NAD'를 화장품 에 적용한 기술도 주요 사례로...",
+ "published_at": "2026-10-21T10:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "고급 화장품",
+   "롱제비티",
+   "연구개발"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "f86b194eff9885ec",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

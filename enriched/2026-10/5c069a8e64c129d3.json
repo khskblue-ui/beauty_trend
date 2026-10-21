@@ -1,0 +1,46 @@
+{
+ "doc_id": "5c069a8e64c129d3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thevaluenews.co.kr/news/view.php?idx=202525",
+ "title": "[유통 레이더] LG생활건강·농심·코스맥스, 해외 무대서 K뷰티 ·푸드 경...",
+ "summary": "유통업체와 수출 확대를 논의했다. 코스맥스그룹은 미국 하버드대학교 의과대학 부속 병원 네트워크와 공동연구 협약을 체결하고 바이오·헬스케어 분야의 글로벌 협력을 강화한다. ◆ LG생활건강 더후, 국내 뷰티 업계...",
+ "published_at": "2026-10-21T10:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "LG생활건강",
+   "농심",
+   "코스맥스그룹"
+  ],
+  "keywords": [
+   "K뷰티 해외 진출",
+   "공동연구",
+   "바이오 헬스케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스그룹이 미국 대학 병원 네트워크와 공동연구 협약을 맺고 바이오 협력을 강화한다.",
+  "key_fact_quote": "코스맥스그룹은 미국 하버드대학교 의과대학 부속 병원 네트워크와 공동연구 협약을 체결하고 바이오·헬스케어 분야의 글로벌 협력을 강화한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

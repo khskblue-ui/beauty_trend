@@ -1,0 +1,42 @@
+{
+ "doc_id": "40ca5a73186027c6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Society/article/all/20261022/134884842/2",
+ "title": "전시 구경하고 향수 만들고… ‘오송화장품 뷰티 엑스포’ 오늘 개막",
+ "summary": "화장품과 뷰티 산업의 중심지로 만들기 위해 추진된 화장품 수출 진흥 전문 엑스포다. 2013년 개최된... 글로벌 K - 뷰티 혁신 전략 세미나 등 전문 학술행사도 열린다. 이 밖에 34개 공식 후원사가 협찬한 풍성한 경품...",
+ "published_at": "2026-10-22T04:33:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 엑스포",
+   "K뷰티 수출",
+   "향수 만들기 체험"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "오송화장품 뷰티 엑스포가 개막해 전시와 체험, 학술행사를 연다.",
+  "key_fact_quote": "전시 구경하고 향수 만들고… ‘오송화장품 뷰티 엑스포’ 오늘 개막",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

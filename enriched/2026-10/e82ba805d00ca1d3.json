@@ -1,0 +1,44 @@
+{
+ "doc_id": "e82ba805d00ca1d3",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/puig-q3-sales-rise-7-2-percent-fragrance-makeup-all-regions-1239378422/",
+ "title": "Puig Q3 Sales Rise 7.2 Percent",
+ "summary": "All regions, and the group’s fragrance and makeup businesses, contributed to the gains.",
+ "published_at": "2026-10-22T01:15:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "ES"
+  ],
+  "brands": [],
+  "companies": [
+   "Puig"
+  ],
+  "keywords": [
+   "분기 실적",
+   "향수 사업",
+   "메이크업 사업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "푸이그의 3분기 매출이 모든 지역과 향수·메이크업 사업에서 늘었다.",
+  "key_fact_quote": "All regions, and the group’s fragrance and makeup businesses, contributed to the gains.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

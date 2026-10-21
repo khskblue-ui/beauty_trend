@@ -1,0 +1,57 @@
+{
+ "doc_id": "a905ea23a4a657ae",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53741",
+ "title": "톰 ‘투앤티업’ 日 굿 디자인 어워드 수상",
+ "summary": "톰의 뷰티 디바이스 ‘투앤티업’이 일본 ‘굿 디자인 어워드 2026’에서 상을 받았다. ‘굿 디자인 어워드’는 일본디자인진흥회가 1957년부터 시행해온 디자인 시상 제도다. 디자인의 완성도와 사용성, 사회적 가치, 제품의 문제 해결 방식 등을 종합적으로 평가한다. 톰 투앤티업(Twenty up)은 트러…",
+ "published_at": "2026-10-21T06:39:02+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "톰"
+  ],
+  "companies": [
+   "앳홈"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "디자인 어워드",
+   "트러블 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "투앤티업",
+    "brand": "톰",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "톰의 뷰티 디바이스가 일본 디자인 어워드에서 상을 받았다.",
+  "key_fact_quote": "톰의 뷰티 디바이스 ‘투앤티업’이 일본 ‘굿 디자인 어워드 2026’에서 상을 받았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

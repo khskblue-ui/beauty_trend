@@ -1,0 +1,57 @@
+{
+ "doc_id": "aaf7748c1e09d21c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newskr.kr/news/articleView.html?idxno=107345",
+ "title": "CSA코스믹 '원더바스', 슬라이스 세럼 판매 2.75배↑... 뉴욕 얼루어 K-뷰...",
+ "summary": "K- 뷰티 팝업 현장. [CSA코스믹] 원더바스의 신제품 '슬라이스 세럼(Slice Serum)' 판매량이 한 달 새 2.75배로... 원더바스에 따르면 10월 1~16일 누적 판매량은 출시 첫 달인 8월 한 달치 판매량의 약 2.75배에 이른다....",
+ "published_at": "2026-10-21T15:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "원더바스"
+  ],
+  "companies": [
+   "CSA코스믹"
+  ],
+  "keywords": [
+   "K뷰티 팝업",
+   "슬라이스 세럼",
+   "밈 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "슬라이스 세럼",
+    "brand": "원더바스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "원더바스의 슬라이스 세럼 판매가 출시 첫 달보다 크게 늘었다.",
+  "key_fact_quote": "원더바스의 신제품 '슬라이스 세럼(Slice Serum)' 판매량이 한 달 새 2.75배로",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "8d63ea9153e1c727",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/photos/8171038",
+ "title": "' 향수 향을 스무디로 재해석 했어요'",
+ "summary": "= 21일 서울 신세계백화점 하우스오브신세계 청담 트웰브 원더바에서 모델들이 미국 니치 퍼퓸 브랜드 디에스앤더가(DS&DURGA)와 협업한 스무디를 소개하고 있다. 이번 협업은 디에스앤더가 대표 향수 에서 영감을...",
+ "published_at": "2026-10-21T13:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "디에스앤더가"
+  ],
+  "companies": [
+   "신세계백화점"
+  ],
+  "keywords": [
+   "니치 퍼퓸",
+   "향수 협업",
+   "푸드 콜라보"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신세계백화점 하우스오브신세계 청담의 트웰브 원더바가 디에스앤더가와 협업한 스무디를 소개했다.",
+  "key_fact_quote": "21일 서울 신세계백화점 하우스오브신세계 청담 트웰브 원더바에서 모델들이 미국 니치 퍼퓸 브랜드 디에스앤더가(DS&DURGA)와 협업한 스무디를 소개하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:44:09+00:00",
+ "had_body": false
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "8e893aa0d2650551",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sentv.co.kr/article/view/sentv202610210047",
+ "title": "LG생활건강 더후, 韓뷰티업계 유일 'FT 럭셔리 서밋-아시아' 참가",
+ "summary": "LG생활건강의 궁중 피부과학 럭셔리 화장품 브랜드 ‘더후’가 글로벌 명품 업계 최고 경영진들이 모인... 더후는 2025년 5월 브랜드 출시 22년 만에 누적 순매출 20조원을 돌파하며 LG생활건강의 글로벌 럭셔리 전략을...",
+ "published_at": "2026-10-21T10:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "고급 화장품",
+   "롱제비티",
+   "연구개발"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "f86b194eff9885ec",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

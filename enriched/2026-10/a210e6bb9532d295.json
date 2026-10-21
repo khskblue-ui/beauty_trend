@@ -1,0 +1,58 @@
+{
+ "doc_id": "a210e6bb9532d295",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/lush-the-grinch-christmas-collaboration",
+ "title": "Lush’s heart grows three sizes with The Grinch Christmas collaboration",
+ "summary": "The Lush × The Grinch 2026 Christmas collaboration has been formulated with a sour but sweet green apple fragrance as the British beauty retailer continues to build on its licensed brand collaboration success",
+ "published_at": "2026-10-21T20:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "Lush"
+  ],
+  "companies": [
+   "Lush"
+  ],
+  "keywords": [
+   "캐릭터 협업",
+   "크리스마스 컬렉션",
+   "그린 애플 향"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Lush × The Grinch 2026 Christmas collaboration",
+    "brand": "Lush",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "green apple"
+    ],
+    "notes_quote": "The Lush × The Grinch 2026 Christmas collaboration has been formulated with a sour but sweet green apple fragrance"
+   }
+  ],
+  "key_fact": "러쉬가 그린치 크리스마스 협업 제품을 새콤달콤한 그린 애플 향으로 만들었다.",
+  "key_fact_quote": "The Lush × The Grinch 2026 Christmas collaboration has been formulated with a sour but sweet green apple fragrance",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

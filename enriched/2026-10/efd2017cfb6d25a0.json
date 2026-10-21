@@ -1,0 +1,83 @@
+{
+ "doc_id": "efd2017cfb6d25a0",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100219",
+ "title": "오디널 원정윤 대표, '펜타어워즈 2026' 은상 수상",
+ "summary": "브랜딩·패키지 디자인 스튜디오 오디널(ORDINAL, 대표 원정윤)이 글로벌 패키지 디자인 어워드 '펜타어워즈(Pentawards) 2026'에서 바디·헬스·뷰티(Body, Health & Beauty)분야 바디케어 부문(Body Care)부문 은상(Silver)을 수상했다고 17일 밝혔다. 시상식은 16일(현지시간) 영국 런던 매거진 런던(Magazine London)에서 열렸으며, 원정윤 대표가 직접 참석해 무대에서 트로피를 받았다.펜타어워즈는 2007년 시작해 올해 20회를 맞은 패키지 디자인 전문 국제 어워드로",
+ "published_at": "2026-10-21T10:50:12+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [
+   "엑스퍼센트"
+  ],
+  "companies": [
+   "오디널"
+  ],
+  "keywords": [
+   "패키지 디자인",
+   "디자인 어워드",
+   "태닝 제품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "데이브레이크",
+    "brand": "엑스퍼센트",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "하이눈",
+    "brand": "엑스퍼센트",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미드나잇",
+    "brand": "엑스퍼센트",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "패키지 디자인 스튜디오 오디널이 펜타어워즈 2026 바디케어 부문에서 은상을 받았다.",
+  "key_fact_quote": "브랜딩·패키지 디자인 스튜디오 오디널(ORDINAL, 대표 원정윤)이 글로벌 패키지 디자인 어워드 '펜타어워즈(Pentawards) 2026'에서 바디·헬스·뷰티(Body, Health & Beauty)분야 바디케어 부문(Body Care)부문 은상(Silver)을 수상했다고 17일 밝혔다.",
+  "events": [
+   {
+    "name": "펜타어워즈 2026",
+    "start_date": "2026-10-16",
+    "end_date": null,
+    "place": "영국 런던 매거진 런던(Magazine London)",
+    "quote": "시상식은 16일(현지시간) 영국 런던 매거진 런던(Magazine London)에서 열렸으며, 원정윤 대표가 직접 참석해 무대에서 트로피를 받았다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:44:09+00:00",
+ "had_body": true
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "33969e5d4afae237",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172464",
+ "title": "'고비용' 신선식품 한계, 뷰티로 뚫는다…컬리의 외연확장",
+ "summary": "최근 모델 한혜진의 패션 브랜드 '헤디트'를 단독 출시 하는 등 제품 차별화에 나서 올해 9월 기준 입점 패션... 새벽배송 물류망으로 식품과 화장품 을 함께 출고하면 구매액을 늘려 주문당 수익성을 높일 수 있는...",
+ "published_at": "2026-10-22T06:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "컬리"
+  ],
+  "keywords": [
+   "새벽배송",
+   "뷰티 유통",
+   "온라인 화장품 판매"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "컬리가 새벽배송 물류망으로 식품과 화장품을 함께 출고해 주문당 수익성을 높이려 한다.",
+  "key_fact_quote": "새벽배송 물류망으로 식품과 화장품 을 함께 출고하면 구매액을 늘려 주문당 수익성을 높일 수",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

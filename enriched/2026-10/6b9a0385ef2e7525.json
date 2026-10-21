@@ -1,0 +1,48 @@
+{
+ "doc_id": "6b9a0385ef2e7525",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211498",
+ "title": "LG생활건강 더후, FT 럭셔리 서밋 참가…K-럭셔리 뷰티 경쟁력 알려",
+ "summary": "▲LG생활건강 더후 FT 럭셔리 서밋 아시아 에디션 단독 대담 세션 LG생활건강의 럭셔리 화장품 브랜드... 아울러 1947년 럭키크림 출시 이후 축적해 온 LG생활건강의 연구개발 기반과 피부 노화 관련 연구 성과를...",
+ "published_at": "2026-10-21T18:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "TH"
+  ],
+  "brands": [
+   "더후"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "K럭셔리 뷰티",
+   "연구개발",
+   "피부 건강"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "820d6998b1ce3cd1",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

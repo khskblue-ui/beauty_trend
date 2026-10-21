@@ -1,0 +1,49 @@
+{
+ "doc_id": "ca444f5a5e652a99",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.livesnews.com/news/article.html?no=65159",
+ "title": "원더바스, 뉴욕 얼루어 ‘Best of Beauty 2026’ K- 뷰티 부스 참여… ‘슬...",
+ "summary": "참여해 신제품 ‘슬라이스 세럼(Slice Serum)’을 현지 소비자들에게 선보였다. 원더바스는 이번 행사에서 아마존 뷰티 (Amazon Beauty)와 얼루어 코리아(Allure Korea)가 공동 운영한 K- 뷰티 부스에 참여했다. 부스를 찾은...",
+ "published_at": "2026-10-21T11:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "원더바스"
+  ],
+  "companies": [
+   "CSA코스믹",
+   "얼루어"
+  ],
+  "keywords": [
+   "밈 마케팅",
+   "슬라이스 세럼",
+   "K뷰티 팝업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "4b519dcea5ce46b7",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

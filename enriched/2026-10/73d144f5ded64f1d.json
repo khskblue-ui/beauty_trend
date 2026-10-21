@@ -1,0 +1,53 @@
+{
+ "doc_id": "73d144f5ded64f1d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sportsseoul.com/news/read/1643032?ref=naver",
+ "title": "단아로, 배우 오승아 전속모델 발탁…웰에이징 뷰티 시장 공략",
+ "summary": "통해 뷰티 와 라이프스타일 콘텐츠로도 대중과 소통하고 있다. 이번 촬영은 단아로의 대표 제품인 윤결세트를 중심으로 피부 본연의 아름다움을 되찾는다는 브랜드 메시지를 시각적으로 구현하는 데 중점을 뒀다....",
+ "published_at": "2026-10-21T10:37:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "단아로"
+  ],
+  "companies": [],
+  "keywords": [
+   "웰에이징 뷰티",
+   "전속모델"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "윤결세트",
+    "brand": "단아로",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "단아로가 배우 오승아를 전속모델로 발탁하고 웰에이징 뷰티 시장 공략에 나섰다.",
+  "key_fact_quote": "단아로, 배우 오승아 전속모델 발탁…웰에이징 뷰티 시장 공략",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

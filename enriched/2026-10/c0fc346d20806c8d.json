@@ -1,0 +1,44 @@
+{
+ "doc_id": "c0fc346d20806c8d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=264223",
+ "title": "[인터뷰]향수에 담아낸 '반항'···본투스탠드아웃 임호준 대표 '남다른...",
+ "summary": "◆\"커피에 향수의 감각 더해\"··· 조향사 와 빚은 색다른 한 잔 임 대표의 도전은 향수에 머물지 않는다.... 이를 위해 전문 조향사 들과 함께 커피에 적용할 향을 개발했다. 향수 제조에서 축적한 조향 기술을 커피에 접목해...",
+ "published_at": "2026-10-21T17:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "본투스탠드아웃"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "향 커피",
+   "조향 기술"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "본투스탠드아웃이 조향사들과 함께 커피에 적용할 향을 개발했다.",
+  "key_fact_quote": "이를 위해 전문 조향사 들과 함께 커피에 적용할 향을 개발했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

@@ -1,0 +1,52 @@
+{
+ "doc_id": "85b48b2f0c3e117a",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53750",
+ "title": "화장품 점자 표시 등에 대한 가이드라인 제정",
+ "summary": "식품의약품안전처(처장 오유경· www.mfds.go.kr )가 화장품 용기 또는 포장에 점자·음성·수어영상변환용 코드 표시를 활성화하고 표준화 표시방안을 안내하기 위해 ‘화장품의 점자 표시 등에 대한 가이드라인’을 제정(10월 20일자), 배포에 들어갔다. 해당 가이드라인은 화장품 기재사항의 전부…",
+ "published_at": "2026-10-21T18:16:15+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "식품의약품안전처"
+  ],
+  "keywords": [
+   "점자 표시",
+   "화장품 표시 기준",
+   "정보 접근성"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식약처가 화장품 점자 표시에 관한 가이드라인을 새로 만들어 배포했다.",
+  "key_fact_quote": "식품의약품안전처(처장 오유경· www.mfds.go.kr )가 화장품 용기 또는 포장에 점자·음성·수어영상변환용 코드 표시를 활성화하고 표준화 표시방안을 안내하기 위해 ‘화장품의 점자 표시 등에 대한 가이드라인’을 제정(10월 20일자), 배포에 들어갔다.",
+  "events": [
+   {
+    "name": "간담회",
+    "start_date": "2026-07-07",
+    "end_date": null,
+    "place": null,
+    "quote": "식약처는 시·청각 장애인의 화장품 안심사용 정보 제공을 확대하기 위한 간담회(7월 7일)를 개최, 점자를 표시하고 있는 업계의 어려움과 표준화 가이드라인 마련의 필요성에 대한 의견을 청취, 이를 가이드라인 제정에 반영했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

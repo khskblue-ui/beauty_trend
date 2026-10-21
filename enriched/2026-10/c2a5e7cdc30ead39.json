@@ -1,0 +1,43 @@
+{
+ "doc_id": "c2a5e7cdc30ead39",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mydaily.co.kr/page/view/2026102109472489263",
+ "title": "가희, 화장품 가히에 패소…상표권 등록 무효 [MD이슈]",
+ "summary": "그룹 애프터스쿨 출신 가희가 식이보충제 브랜드 상표를 둘러싼 법적 분쟁에서 화장품 업체 가히에 패소했다. 특허법원은 지난 4월 23일 화장품 업체 가히가 가희의 상표 등록을 무효로 해달라며 제기한 소송에서 업체 측...",
+ "published_at": "2026-10-21T10:17:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "가히"
+  ],
+  "keywords": [
+   "상표권 분쟁",
+   "상표 등록 무효"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 업체 가히가 식이보충제 브랜드 상표를 둘러싼 소송에서 승소했다.",
+  "key_fact_quote": "그룹 애프터스쿨 출신 가희가 식이보충제 브랜드 상표를 둘러싼 법적 분쟁에서 화장품 업체 가히에 패소했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

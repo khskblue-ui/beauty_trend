@@ -1,0 +1,45 @@
+{
+ "doc_id": "d3955571272b2f5e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.m-i.kr/news/articleView.html?idxno=2007836",
+ "title": "본투스탠드아웃, 북촌에 네 번째 플래그십…향수 넘어 카페로 확장",
+ "summary": "카페 이름은 브랜드의 상징색인 레드와 여러 향료 가 조화를 이루는 조향 용어 어코드를 결합했다. 향수를 제조하듯 커피의 향과 풍미, 마신 뒤 남는 여운까지 고려한 커피 경험을 제공한다는 구상이다. 한옥...",
+ "published_at": "2026-10-21T17:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "본투스탠드아웃"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "플래그십 스토어",
+   "고농도 향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "a1fa6640d7a60c80",
+ "enriched_at": "2026-10-21T21:44:09+00:00",
+ "had_body": false
+}

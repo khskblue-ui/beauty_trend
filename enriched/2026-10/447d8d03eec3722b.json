@@ -1,0 +1,58 @@
+{
+ "doc_id": "447d8d03eec3722b",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/k18-dyson-dsm-firmenich-aora-time-2026-best-inventions",
+ "title": "K18, Dyson, DSM-Firmenich and Aora named among Time’s best inventions of 2026",
+ "summary": "Time magazine’s annual list of the best inventions has spotlighted several beauty and self care launches, including Dyson’s CameraJet toothbrush and plastic free Mexican make-up brand Aora",
+ "published_at": "2026-10-21T20:32:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Aora"
+  ],
+  "companies": [
+   "K18",
+   "Dyson",
+   "DSM-Firmenich"
+  ],
+  "keywords": [
+   "발명품 선정",
+   "뷰티 신제품",
+   "셀프케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "CameraJet",
+    "brand": "Dyson",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "타임지의 올해 최고 발명품 목록에 뷰티와 셀프케어 신제품이 여럿 올랐다.",
+  "key_fact_quote": "Time magazine’s annual list of the best inventions has spotlighted several beauty and self care launches, including Dyson’s CameraJet toothbrush and plastic free Mexican make-up brand Aora",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

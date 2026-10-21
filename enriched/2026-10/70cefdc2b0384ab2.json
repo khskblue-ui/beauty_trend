@@ -1,0 +1,81 @@
+{
+ "doc_id": "70cefdc2b0384ab2",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/dossier-oud-collection-launch-strategy-1239350685/",
+ "title": "Dossier Leans Into Originals With Oud-Focused Launch to Propel Next Growth Phase",
+ "summary": "Available now, the Oud collection comprises three scents: Tropical Oud, Oud de Rose and Golden Amber Oud.",
+ "published_at": "2026-10-22T00:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Dossier"
+  ],
+  "companies": [],
+  "keywords": [
+   "우드 향",
+   "오리지널 향수",
+   "향수 신제품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Tropical Oud",
+    "brand": "Dossier",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Available now, the Oud collection comprises three scents: Tropical Oud, Oud de Rose and Golden Amber Oud.",
+    "notes": [
+     "Oud"
+    ],
+    "notes_quote": "Available now, the Oud collection comprises three scents: Tropical Oud, Oud de Rose and Golden Amber Oud."
+   },
+   {
+    "name": "Oud de Rose",
+    "brand": "Dossier",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Available now, the Oud collection comprises three scents: Tropical Oud, Oud de Rose and Golden Amber Oud.",
+    "notes": [
+     "Oud"
+    ],
+    "notes_quote": "Available now, the Oud collection comprises three scents: Tropical Oud, Oud de Rose and Golden Amber Oud."
+   },
+   {
+    "name": "Golden Amber Oud",
+    "brand": "Dossier",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Available now, the Oud collection comprises three scents: Tropical Oud, Oud de Rose and Golden Amber Oud.",
+    "notes": [
+     "Oud"
+    ],
+    "notes_quote": "Available now, the Oud collection comprises three scents: Tropical Oud, Oud de Rose and Golden Amber Oud."
+   }
+  ],
+  "key_fact": "도시에가 우드 향 중심의 신제품 컬렉션을 선보이며 다음 성장 단계를 준비한다.",
+  "key_fact_quote": "Dossier Leans Into Originals With Oud-Focused Launch to Propel Next Growth Phase",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Oud",
+    "quote": "Available now, the Oud collection comprises three scents: Tropical Oud, Oud de Rose and Golden Amber Oud."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

@@ -1,0 +1,55 @@
+{
+ "doc_id": "a47c5d83c61f09a3",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100212",
+ "title": "궁중비책, ‘2026 두바이 뷰티월드’ 참가…’중동 시장 공략 가속’",
+ "summary": "제로투세븐의 민감하고 여린 영유아 및 민감성 피부를 위한 스킨케어 브랜드 궁중비책이 지난 6일부터 8일까지 아랍에미리트(UAE) 두바이 월드트레이드센터(DWTC)에서 열린 ‘2026 두바이 뷰티월드(Beautyworld Dubai 2026)’에 참가해 중동 시장 내 브랜드 경쟁력을 알리고 글로벌 바이어와의 접점을 확대했다.올해로 30회를 맞은 ‘두바이 뷰티월드’는 글로벌 뷰티 브랜드와 바이어, 업계 관계자들이 한자리에 모이는 뷰티 전문 전시회다. 궁중비책은 이번 전시회에서 베이비·키즈·선케어 등 주요 제품군을 선보이며 브랜드 인지도",
+ "published_at": "2026-10-21T10:31:33+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "AE"
+  ],
+  "brands": [
+   "궁중비책"
+  ],
+  "companies": [
+   "제로투세븐"
+  ],
+  "keywords": [
+   "중동 시장",
+   "영유아 스킨케어",
+   "뷰티 전시회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "궁중비책이 두바이 뷰티월드에 참가해 중동 시장 공략을 넓혔다.",
+  "key_fact_quote": "제로투세븐의 민감하고 여린 영유아 및 민감성 피부를 위한 스킨케어 브랜드 궁중비책이 지난 6일부터 8일까지 아랍에미리트(UAE) 두바이 월드트레이드센터(DWTC)에서 열린 ‘2026 두바이 뷰티월드(Beautyworld Dubai 2026)’에 참가해 중동 시장 내 브랜드 경쟁력을 알리고 글로벌 바이어와의 접점을 확대했다.",
+  "events": [
+   {
+    "name": "2026 두바이 뷰티월드",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-08",
+    "place": "아랍에미리트(UAE) 두바이 월드트레이드센터(DWTC)",
+    "quote": "제로투세븐의 민감하고 여린 영유아 및 민감성 피부를 위한 스킨케어 브랜드 궁중비책이 지난 6일부터 8일까지 아랍에미리트(UAE) 두바이 월드트레이드센터(DWTC)에서 열린 ‘2026 두바이 뷰티월드(Beautyworld Dubai 2026)’에 참가해 중동 시장 내 브랜드 경쟁력을 알리고 글로벌 바이어와의 접점을 확대했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

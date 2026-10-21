@@ -1,0 +1,52 @@
+{
+ "doc_id": "9f64f4b664f21592",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsian.co.kr/news/articleView.html?idxno=97442",
+ "title": "[유통 포커스] K-뷰티, 피부과학으로 경쟁력 높인다… 소재·기기·럭셔...",
+ "summary": "럭키크림 출시 이후 축적한 연구 인프라와 '롱제비티(Longevity·피부 장수)' 연구 방향을 설명했다. 더후는 항노화 관련 성분인 NAD의 피부 전달 기술도 소개했다. LG생활건강에 따르면 NAD는 피부 투과 효율이 낮아 화장품 ...",
+ "published_at": "2026-10-21T14:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더후"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "피부과학",
+   "항노화",
+   "롱제비티",
+   "뷰티 디바이스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "더후가 연구 인프라와 롱제비티 연구 방향을 설명하고 NAD 전달 기술을 소개했다.",
+  "key_fact_quote": "더후는 항노화 관련 성분인 NAD의 피부 전달 기술도 소개했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "NAD",
+    "quote": "더후는 항노화 관련 성분인 NAD의 피부 전달 기술도 소개했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

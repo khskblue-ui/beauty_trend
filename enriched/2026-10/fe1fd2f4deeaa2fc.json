@@ -1,0 +1,43 @@
+{
+ "doc_id": "fe1fd2f4deeaa2fc",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312333",
+ "title": "Japan Remains a Bright Spot for K-Beauty's Global Expansion",
+ "summary": "South Korea\\'s cosmetics exports to Japan rose 12.8% in the third quarter of 2026, driven by strong demand for skincare products and reinforcing Japan\\'s position as one of the most stable overseas markets for K-beauty brands.According to an analysis of Korea Customs Service trade data, exports across",
+ "published_at": "2026-10-21T10:10:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "스킨케어 수요",
+   "일본 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 화장품의 일본 수출이 스킨케어 수요에 힘입어 늘었다.",
+  "key_fact_quote": "South Korea's cosmetics exports to Japan rose 12.8% in the third quarter of 2026",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

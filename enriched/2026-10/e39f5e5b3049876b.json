@@ -1,0 +1,42 @@
+{
+ "doc_id": "e39f5e5b3049876b",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312141",
+ "title": "⑥China's Cushion Foundation Market Contracts Further as Skincare-Driven Makeup Gains Importance",
+ "summary": "China\\'s cushion foundation market continued to weaken in 2026, extending a two-year decline that reflects broader challenges in the color cosmetics sector.An analysis of the top 10 cushion foundation brands on Tmall found that third-quarter sales declined from approximately 650,000 units in 2024 to",
+ "published_at": "2026-10-21T10:10:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "쿠션 파운데이션",
+   "스킨케어 메이크업",
+   "중국 색조 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 쿠션 파운데이션 시장이 줄어드는 가운데 스킨케어 효능을 내세운 제품이 중심이 되고 있다.",
+  "key_fact_quote": "China's cushion foundation market continued to weaken in 2026, extending a two-year decline that reflects broader challenges in the color cosmetics sector.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

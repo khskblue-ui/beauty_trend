@@ -1,0 +1,54 @@
+{
+ "doc_id": "625802f7638b5a96",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100213",
+ "title": "아이소이, ‘장수진을 찾습니다’ 캠페인 진행",
+ "summary": "식물유래 기능성 화장품 브랜드 아이소이가 대표 수분 라인 ‘장수진 수분크림’을 중심으로 고객 참여형 캠페인 ‘장수진을 찾습니다’을 전개한다.이번 프로모션은 ‘장벽, 수분, 진정’의 앞 글자를 딴 제품명인 ‘장수진’을 의인화하여, 이름에 ‘장, 수, 진’이 들어간 고객이라면 누구나 참여할 수 있도록 기획했다. 이번 캠페인은 아이소이 공식몰에서 참여 가능한 샘플링 이벤트와, 장수진 수분라인의 보습력을 직접 느낄 수 있는 오프라인 이벤트로 구성했다.먼저 온라인 이벤트는 아이소이 공식몰에서 진행한다. 전국의 ‘장수진’을 대상으로 장수진 수",
+ "published_at": "2026-10-21T10:32:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이소이"
+  ],
+  "companies": [],
+  "keywords": [
+   "고객 참여형 캠페인",
+   "수분 크림",
+   "웰니스 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "장수진 수분크림",
+    "brand": "아이소이",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아이소이가 장수진 수분크림을 중심으로 고객 참여형 캠페인을 연다.",
+  "key_fact_quote": "식물유래 기능성 화장품 브랜드 아이소이가 대표 수분 라인 ‘장수진 수분크림’을 중심으로 고객 참여형 캠페인 ‘장수진을 찾습니다’을 전개한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "6a0203449a487a8b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.iminju.net/news/articleView.html?idxno=171147",
+ "title": "K - 뷰티 물살 탄 ODM…한국콜마, 생태계 선순환 뒷받침",
+ "summary": "7% 증가한 규모이자 중소기업 수출 품목 가운데 1위에 해당한다. 산업적 역할이 커지면서 정부 차원의 관심도 높아지고 있다. 이소영 중기부 장관은 지난 16일 한국콜마 세종공장을 방문해 \" K - 뷰티 중소기업들의 성장을...",
+ "published_at": "2026-10-21T11:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "K뷰티 수출",
+   "중소기업 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 수출 확대로 화장품 ODM의 산업적 역할과 정부 관심이 커졌다.",
+  "key_fact_quote": "산업적 역할이 커지면서 정부 차원의 관심도 높아지고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

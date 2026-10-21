@@ -1,0 +1,54 @@
+{
+ "doc_id": "e02ce7fe10ca696f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261021000115",
+ "title": "에이피알, “디바이스· 화장품 병용시 광채 개선↑”…국제학술지 게재",
+ "summary": "에이피알은 홈 뷰티 디바이스와 화장품 을 함께 썼을 때의 피부 개선 효과를 평가한 연구 결과를 이달... 에이피알은 지난 3월 차세대 홈 뷰티 디바이스 '부스터 프로 X2'를 출시 했다. 지난 6월에는 이 제품을 미국·영국...",
+ "published_at": "2026-10-21T10:41:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "홈 뷰티 디바이스",
+   "병용 효과",
+   "피부 광채"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "부스터 프로 X2",
+    "brand": "에이피알",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에이피알은 지난 3월 차세대 홈 뷰티 디바이스 '부스터 프로 X2'를 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피알이 홈 뷰티 디바이스와 화장품을 함께 썼을 때의 피부 개선 효과를 평가한 연구 결과를 국제학술지에 게재했다.",
+  "key_fact_quote": "에이피알은 홈 뷰티 디바이스와 화장품 을 함께 썼을 때의 피부 개선 효과를 평가한 연구 결과를",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

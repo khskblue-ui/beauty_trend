@@ -1,0 +1,96 @@
+{
+ "doc_id": "0622650898e3ab38",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58555",
+ "title": "(주)이든팜, 잇단 해외 전시회 출품 통해 ‘기술 중심 ODM’ 경쟁력 입증... 신제형·클린뷰티 대응 차별화 제품군 공개",
+ "summary": "글로벌 OEM·ODM 화장품 전문기업 (주)이든팜(EdenFarm)이 지난 4월 태국에서 개최된 코스모프로프 방콕(Cosmoprof CBE ASEAN 2026)과 7월 국내 뷰티 전시회인 인터참 코리아(InterCHARM Korea 2026)에 연이어 참가하며 글로벌 시장 공략에 박차를 가하고 있다고 밝혔다. 두 전…",
+ "published_at": "2026-10-21T17:52:38+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "TH",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "이든팜"
+  ],
+  "keywords": [
+   "신제형",
+   "OEM·ODM",
+   "클린뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "레이어링 미스트",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스피큘 헤어 케어 라인",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "캡슐 세럼",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "버블 세럼",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이든팜이 해외 전시회에 잇달아 참가해 신제형 중심의 ODM 경쟁력을 알렸다.",
+  "key_fact_quote": "글로벌 OEM·ODM 화장품 전문기업 (주)이든팜(EdenFarm)이 지난 4월 태국에서 개최된 코스모프로프 방콕(Cosmoprof CBE ASEAN 2026)과 7월 국내 뷰티 전시회인 인터참 코리아(InterCHARM Korea 2026)에 연이어 참가하며 글로벌 시장 공략에 박차를 가하고 있다고 밝혔다.",
+  "events": [
+   {
+    "name": "코스모프로프 라스베이거스 2026",
+    "start_date": "2026-07-13",
+    "end_date": "2026-07-15",
+    "place": null,
+    "quote": "이밖에 7월 13~15일 개최된 ‘코스모프로프 라스베이거스 2026’에도 참가해 글로벌 바이어들을 대상으로 신제형 및 고기능성 라인업을 선보였다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "연구소는 비건 PDRN 함유 피부 개선 화장품, 피부 마이크로바이옴 기반 자외선 차단 조성물 관련 PCT 국제특허 출원하는 등 기술 중심 경쟁력을 확대하고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

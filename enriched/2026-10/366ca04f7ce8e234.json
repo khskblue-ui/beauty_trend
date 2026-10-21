@@ -1,0 +1,44 @@
+{
+ "doc_id": "366ca04f7ce8e234",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729613",
+ "title": "면세점의 이유 있는 변신… 명품 대신 'K-뷰티' 강화",
+ "summary": "관광객의 소비 형태가 변화하면서 화장품과 향수 등 뷰티 상품이 고객 확보를 위한 주요 품목으로 떠올랐기... 세트를 출시 했다. 서울점은 지난달부터 이달까지 지방시 뷰티 메이크업 쇼를 여섯 차례 진행했다. 행사에서는...",
+ "published_at": "2026-10-21T15:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "지방시 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "면세점 뷰티",
+   "K뷰티 강화",
+   "관광객 소비"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "면세점이 명품 대신 K뷰티를 강화하고 있다.",
+  "key_fact_quote": "관광객의 소비 형태가 변화하면서 화장품과 향수 등 뷰티 상품이 고객 확보를 위한 주요 품목으로 떠올랐기",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "b4a419e64b25b5c5",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53743",
+ "title": "印泥 화장품 할랄 인증 의무화 2028년으로 연기",
+ "summary": "인도네시아 정부가 당초 지난 18일부터 시행 원칙을 견지했던 화장품 할랄(Halal) 인증 의무화 시점을 2028년 10월로 2년 연기했다. 인증 인프라 구축과 산업계의 준비 수준 등을 종합 고려한 조치로 인도네시아 시장 진출을 진행 중인 국내 화장품 기업에도 영향을 미칠 전망이다. 인도네시아 경제조정부는…",
+ "published_at": "2026-10-21T07:17:43+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "ID",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "한국콜마",
+   "코스메카코리아"
+  ],
+  "keywords": [
+   "할랄 인증",
+   "인증 의무화 연기",
+   "동남아 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인도네시아가 화장품 할랄 인증 의무화 시점을 미뤘다.",
+  "key_fact_quote": "인도네시아 정부가 당초 지난 18일부터 시행 원칙을 견지했던 화장품 할랄(Halal) 인증 의무화 시점을 2028년 10월로 2년 연기했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

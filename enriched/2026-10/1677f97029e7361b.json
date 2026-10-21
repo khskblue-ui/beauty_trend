@@ -1,0 +1,53 @@
+{
+ "doc_id": "1677f97029e7361b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100203",
+ "title": "천연물 기반 화장품 연구동향 함께 살핀다",
+ "summary": "식품의약품안전처(처장 오유경) 소속 식품의약품안전평가원(원장 강석연)은 한국생약학회와 함께 11월 20일 오스코(충북 청주 소재)에서 ‘천연물 기반 제품 개발의 최신 연구동향’을 주제로 공동심포지엄을 개최한다고 밝혔다.최근 천연물에 대한 전통적인 의약품 분야뿐만 아니라 천연추출물을 활용한 화장품과 건강기능식품 분야에서도 관심이 높아지면서 천연물이 제품 개발을 위한 주요 소재로 주목받고 있다.이번 심포지엄은 이러한 변화에 맞춰 식약처 내 화장품·건강기능식품 등 관련 부서가 함께 협력해 마련한 자리로, 기존 한약(생약) 분야 중심의 학",
+ "published_at": "2026-10-21T09:03:26+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "식품의약품안전평가원",
+   "한국생약학회"
+  ],
+  "keywords": [
+   "천연물 소재",
+   "기능성 화장품",
+   "안전성 평가"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식품의약품안전평가원이 천연물 기반 제품 연구동향을 다루는 공동심포지엄을 연다.",
+  "key_fact_quote": "식품의약품안전처(처장 오유경) 소속 식품의약품안전평가원(원장 강석연)은 한국생약학회와 함께 11월 20일 오스코(충북 청주 소재)에서 ‘천연물 기반 제품 개발의 최신 연구동향’을 주제로 공동심포지엄을 개최한다고 밝혔다.",
+  "events": [
+   {
+    "name": "천연물 기반 제품 개발의 최신 연구동향",
+    "start_date": "2026-11-20",
+    "end_date": null,
+    "place": "오스코(충북 청주 소재)",
+    "quote": "식품의약품안전처(처장 오유경) 소속 식품의약품안전평가원(원장 강석연)은 한국생약학회와 함께 11월 20일 오스코(충북 청주 소재)에서 ‘천연물 기반 제품 개발의 최신 연구동향’을 주제로 공동심포지엄을 개최한다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

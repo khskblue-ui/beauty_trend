@@ -1,0 +1,65 @@
+{
+ "doc_id": "874218109f6c2fa2",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312341",
+ "title": "맥·디올, 2026 홀리데이 시장 선점...세계 2강 K-뷰티는?",
+ "summary": "뷰티업계에서 홀리데이 컬렉션은 연말 최대 선물 수요와 자기보상(Self-reward) 소비가 동시에 발생하는 시기에 소비자의 구매를 유도하고 매출을 끌어올리는 핵심 마케팅 전략이다. 동시에 브랜드의 창의성과 정체성을 보여주는 \\'쇼케이스\\' 역할을 하며, 연말 성수기 실적을 좌우하는 중요한 요소다.글로벌 뷰티 브랜드인 맥(M·A·C)과 크리스챤 디올 뷰티는 최근 2026 홀리데이 컬렉션을 잇따라 선보이며 연말 시장 선점에 나섰다. 하지만 국내 메이크업 브랜드들의 경우 아직 홀리데이 컬렉션 출시 계획을 공개하지 않았거나 별도의 홀리데이",
+ "published_at": "2026-10-21T09:45:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "맥",
+   "디올"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "한정판",
+   "시즌 캠페인",
+   "브랜드 경험"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "2026 MAC IT GLAM 홀리데이 컬렉션",
+    "brand": "맥",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "맥은 'OWN THE NIGHT. MAC IT GLAM'을 테마로 한 '2026 MAC IT GLAM 홀리데이 컬렉션'을 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "디올 2026 홀리데이 룩 - 시나몬 글레이즈 컬렉션",
+    "brand": "디올",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "글로벌 뷰티 브랜드인 맥(M·A·C)과 크리스챤 디올 뷰티는 최근 2026 홀리데이 컬렉션을 잇따라 선보이며 연말 시장 선점에 나섰다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "맥과 디올이 홀리데이 컬렉션을 잇따라 선보이며 연말 시장 선점에 나섰다.",
+  "key_fact_quote": "글로벌 뷰티 브랜드인 맥(M·A·C)과 크리스챤 디올 뷰티는 최근 2026 홀리데이 컬렉션을 잇따라 선보이며 연말 시장 선점에 나섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

@@ -1,0 +1,53 @@
+{
+ "doc_id": "8092b3af12222836",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58554",
+ "title": "식약처, 천연물 기반 한약·화장품·건강기능식품 최신 연구동향 공유",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 식품의약품안전처(처장 오유경) 소속 식품의약품안전평가원(원장 강석연)이 한국생약학회와 함께 오는 11월 20일 청주오스코(OSCO)에서 ‘천연물 기반 제품 개발의 최신 연구동향과 미래 발전전략’을 주제로 공동심포지엄을 개최한다고 21일 밝혔다. 이번 심포지엄…",
+ "published_at": "2026-10-21T14:55:16+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "식품의약품안전평가원",
+   "한국생약학회"
+  ],
+  "keywords": [
+   "천연물 소재",
+   "안전성 평가",
+   "기능성 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식품의약품안전평가원이 천연물 기반 제품 연구동향을 나누는 공동심포지엄을 연다.",
+  "key_fact_quote": "식품의약품안전처(처장 오유경) 소속 식품의약품안전평가원(원장 강석연)이 한국생약학회와 함께 오는 11월 20일 청주오스코(OSCO)에서 ‘천연물 기반 제품 개발의 최신 연구동향과 미래 발전전략’을 주제로 공동심포지엄을 개최한다고 21일 밝혔다.",
+  "events": [
+   {
+    "name": "천연물 기반 제품 개발의 최신 연구동향과 미래 발전전략",
+    "start_date": "2026-11-20",
+    "end_date": null,
+    "place": "청주오스코(OSCO)",
+    "quote": "식품의약품안전처(처장 오유경) 소속 식품의약품안전평가원(원장 강석연)이 한국생약학회와 함께 오는 11월 20일 청주오스코(OSCO)에서 ‘천연물 기반 제품 개발의 최신 연구동향과 미래 발전전략’을 주제로 공동심포지엄을 개최한다고 21일 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

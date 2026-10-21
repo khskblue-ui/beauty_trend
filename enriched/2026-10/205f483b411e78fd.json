@@ -1,0 +1,54 @@
+{
+ "doc_id": "205f483b411e78fd",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58553",
+ "title": "에코바이오의학연구소, 오송엑스포서 두피·헤어 RD·OEM·ODM 역량 공개",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 에코바이오의학연구소가 오는 22일부터 24일까지 청주오스코(OSCO)에서 열리는 ‘2026 오송화장품뷰티엑스포’에 공식 후원사로 참가해 두피·헤어케어 연구개발과 OEM·ODM 역량을 소개한다고 21일 밝혔다. 지난해에 이어 올해도 공식 후원사로 이름을 올린…",
+ "published_at": "2026-10-21T13:58:30+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "헤드스파K"
+  ],
+  "companies": [
+   "에코바이오의학연구소"
+  ],
+  "keywords": [
+   "두피 케어",
+   "화장품 ODM",
+   "천연 유래 원료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에코바이오의학연구소가 화장품 박람회에 후원사로 참가해 두피·헤어케어 역량을 소개한다.",
+  "key_fact_quote": "에코바이오의학연구소가 오는 22일부터 24일까지 청주오스코(OSCO)에서 열리는 ‘2026 오송화장품뷰티엑스포’에 공식 후원사로 참가해 두피·헤어케어 연구개발과 OEM·ODM 역량을 소개한다고 21일 밝혔다.",
+  "events": [
+   {
+    "name": "2026 오송화장품뷰티엑스포",
+    "start_date": "2026-10-22",
+    "end_date": "2026-10-24",
+    "place": "청주오스코(OSCO)",
+    "quote": "에코바이오의학연구소가 오는 22일부터 24일까지 청주오스코(OSCO)에서 열리는 ‘2026 오송화장품뷰티엑스포’에 공식 후원사로 참가해 두피·헤어케어 연구개발과 OEM·ODM 역량을 소개한다고 21일 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

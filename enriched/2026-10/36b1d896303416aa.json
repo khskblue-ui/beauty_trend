@@ -1,0 +1,46 @@
+{
+ "doc_id": "36b1d896303416aa",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53748",
+ "title": "로레알, 파리 생제르맹 FC와 맞손",
+ "summary": "로레알이 2028년까지 프랑스 축구클럽인 파리 생제르맹과 협업한다. 로레알은 파리 생제르망(Paris Saint-Germain, 이하 PSG)의 뷰티 파트너를 맡는다. 로레알의 주요 브랜드가 PSG와 △ 피부·두피 건강 △ 웰빙 △ 선수 경기력 연구를 진행한다. 로레알의 뷰티과학 솔루션과 PSG의 스포츠 노하우…",
+ "published_at": "2026-10-21T17:41:32+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "로레알"
+  ],
+  "companies": [
+   "로레알",
+   "파리 생제르맹"
+  ],
+  "keywords": [
+   "스포츠 마케팅",
+   "뷰티 파트너십"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "로레알이 파리 생제르맹의 뷰티 파트너가 되어 협업한다.",
+  "key_fact_quote": "로레알은 파리 생제르망(Paris Saint-Germain, 이하 PSG)의 뷰티 파트너를 맡는다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

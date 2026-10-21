@@ -1,0 +1,54 @@
+{
+ "doc_id": "5dfe00100e39d53b",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/curl-jar-style-treat-curl-activator",
+ "title": "Curl Jar Style + Treat™ Curl Activator",
+ "summary": "Pure Beauty Awards 2026 - Readers’ Choice, Best Styling Product",
+ "published_at": "2026-10-21T22:38:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Curl Jar"
+  ],
+  "companies": [],
+  "keywords": [
+   "컬 스타일링",
+   "헤어 스타일링",
+   "어워드"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Curl Jar Style + Treat™ Curl Activator",
+    "brand": "Curl Jar",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Curl Jar의 컬 액티베이터가 Pure Beauty Awards 2026 독자 선정 최고 스타일링 제품에 뽑혔다.",
+  "key_fact_quote": "Pure Beauty Awards 2026 - Readers’ Choice, Best Styling Product",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "7502a98424885282",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.econovill.com/news/articleView.html?idxno=754418",
+ "title": "[돋보기] 'K 뷰티 ' CJ올리브영의 글로벌 공략법",
+ "summary": "동시 론칭 했다. 이어 6월에는 LA에 2호점인 센추리시티점을 문 열었다. 첫 매장인 패서디나점이 K 뷰티 에 관심이 많은 2030세대 현지 소비자에게 브랜드 정체성을 보여주는 플래그십 매장이라면, 센추리시티점은...",
+ "published_at": "2026-10-22T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "K뷰티",
+   "글로벌 진출",
+   "해외 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "CJ올리브영이 미국 LA에 매장을 열며 글로벌 공략을 넓히고 있다.",
+  "key_fact_quote": "이어 6월에는 LA에 2호점인 센추리시티점을 문 열었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

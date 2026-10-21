@@ -1,0 +1,134 @@
+{
+ "doc_id": "ce29a25acd626fac",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100214",
+ "title": "EOA, 옵티마웰니스뮤지엄약국 국내 전 지점 입점",
+ "summary": "올리브영과 다이소 등을 중심으로 화장품 오프라인 유통 경쟁이 치열해지는 가운데, 약국이 새로운 뷰티 유통채널로 부상하고 있다. 성분과 기능성을 중시하는 소비자가 늘면서 더마·고기능성 제품을 중심으로 약국 내 뷰티 전용 공간이 확대되고 있으며, 최근에는 스킨케어를 넘어 홈뷰티 디바이스까지 취급 범위도 넓어지고 있다.글로벌 웰니스 그룹 더퓨처의 항노화 뷰티 전문 브랜드 EOA가 옵티마웰니스뮤지엄약국(OWM, 이하 옵티마약국) 국내 전 지점에 입점하며 약국 채널을 통한 소비자 접점 확대에 나선다. 최근 뷰티업계에서는 약국과 뷰티를 결합한",
+ "published_at": "2026-10-21T10:33:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "EOA",
+   "옵티마웰니스뮤지엄약국"
+  ],
+  "companies": [
+   "더퓨처"
+  ],
+  "keywords": [
+   "파머시 뷰티",
+   "홈뷰티 디바이스",
+   "약국 유통 채널",
+   "항노화"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "풀텐자",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "풀쎄라 프로",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "풀써마 프로",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "콜라겐 시너지 부스팅 젤",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PowerGF 링클 포어 플럼핑 미스트",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PowerGF 리페어 카밍 크림",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PowerGF 타이트 샷 앰플",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "NAD+ 콜라겐 리프팅 하이드로겔 마스크",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "EOA가 약국 채널 전 지점에 입점해 뷰티 디바이스와 스킨케어 제품으로 소비자 접점을 넓힌다.",
+  "key_fact_quote": "글로벌 웰니스 그룹 더퓨처의 항노화 뷰티 전문 브랜드 EOA가 옵티마웰니스뮤지엄약국(OWM, 이하 옵티마약국) 국내 전 지점에 입점하며 약국 채널을 통한 소비자 접점 확대에 나선다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PowerGF",
+    "quote": "스킨케어 제품에는 EOA의 기술력으로 배합한 고기능 성장인자 복합체 'PowerGF'를 적용한 제품들이 포함됐다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "▲콜라겐 시너지 부스팅 젤"
+   },
+   {
+    "name": "NAD+",
+    "quote": "▲NAD+ 콜라겐 리프팅 하이드로겔 마스크 등 스킨케어 5종이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

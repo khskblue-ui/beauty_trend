@@ -1,0 +1,45 @@
+{
+ "doc_id": "f86b194eff9885ec",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026102109200837172",
+ "title": "LG생활건강, 태국 FT 럭셔리 서밋 참가…국내 뷰티업계 유일",
+ "summary": "두 사람은 대담 세션에서 브랜드 고유의 이야기와 연구개발(R&D) 역량을 고급 화장품 의 경쟁력으로 꼽았다. 1947년 럭키크림 출시 이후 축적한 연구개발 기반을 설명하고, 피부의 건강한 수명을 늘리는 '롱제비티' 분야의...",
+ "published_at": "2026-10-21T09:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "고급 화장품",
+   "롱제비티",
+   "연구개발"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "LG생활건강이 태국 럭셔리 서밋 대담에서 브랜드 이야기와 연구개발 역량을 경쟁력으로 꼽았다.",
+  "key_fact_quote": "두 사람은 대담 세션에서 브랜드 고유의 이야기와 연구개발(R&D) 역량을 고급 화장품 의 경쟁력으로 꼽았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

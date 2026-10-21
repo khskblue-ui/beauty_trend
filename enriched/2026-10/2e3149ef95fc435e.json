@@ -1,0 +1,74 @@
+{
+ "doc_id": "2e3149ef95fc435e",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58508",
+ "title": "헬스케어 시장의 강소기업으로 성장한 이소이비, ‘체성분분석기’ 이어 ‘AI 3D 피부 측정기’로 글로벌 공략 본격화",
+ "summary": "[코스인코리아닷컴 김세화 기자] ㈜이소이비(ISO EV)가 AI 3D 피부 분석기 ‘Eve Muse(이브 뮤즈)’와 신제품 ‘EVE YOUNG(이브 영)’을 앞세워 국내외 뷰티·헬스케어 시장 확대에 나서고 있다. 단순히 피부 상태를 측정하고 결과를 전달하는 데 그치지 않고, 분석 결과를 바탕으로 개인별 스킨케어 플랜을 제안하며 맞춤형 화장품과 개인용 뷰티",
+ "published_at": "2026-10-21T13:46:26+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "SG"
+  ],
+  "brands": [],
+  "companies": [
+   "이소이비"
+  ],
+  "keywords": [
+   "AI 피부 분석기",
+   "맞춤형 화장품",
+   "홈 뷰티 디바이스",
+   "피부 진단"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Eve Muse",
+    "brand": "이소이비",
+    "launch_date": "2025-06",
+    "launch_status": "launched",
+    "launch_quote": "2025년 6월 출시된 Eve Muse는 3D 촬영을 기반으로 다양한 피부 상태를 분석하고 그 결과를 시각적으로 제공해, 병·의원과 전문 에스테틱 현장에서 고객 상담과 피부 관리 계획 수립에 활용할 수 있는 제품이다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "EVE YOUNG",
+    "brand": "이소이비",
+    "launch_date": "2026-09",
+    "launch_status": "launched",
+    "launch_quote": "2026년 9월 선보인 신제품 ‘EVE YOUNG’은 이 같은 사업 모델을 화장품 매장과 스파, 뷰티살롱, 약국 등 보다 폭넓은 뷰티 유통 채널로 확대하기 위한 제품이다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "EV360",
+    "brand": "이소이비",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이소이비가 AI 3D 피부 분석기를 앞세워 국내외 뷰티·헬스케어 시장 확대에 나섰다.",
+  "key_fact_quote": "㈜이소이비(ISO EV)가 AI 3D 피부 분석기 ‘Eve Muse(이브 뮤즈)’와 신제품 ‘EVE YOUNG(이브 영)’을 앞세워 국내외 뷰티·헬스케어 시장 확대에 나서고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

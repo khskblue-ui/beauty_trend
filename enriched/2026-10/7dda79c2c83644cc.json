@@ -1,0 +1,63 @@
+{
+ "doc_id": "7dda79c2c83644cc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.munhwa.com/article/11625015?ref=naver",
+ "title": "‘프렌즈’ 제품군 식품· 화장품 확대… ‘토털 아이케어’로 육성",
+ "summary": "에스파는 인공눈물 ‘프렌즈 아이드롭점안액’과 화장품 신제품 ‘아이쓱 눈꺼풀 클리너’의 전속 모델로 나서며 맑고 촉촉한 브랜드 가치를 전파할 계획이다. 에스파가 참여한 신규 광고 캠페인은 20일부터 전개됐다....",
+ "published_at": "2026-10-21T09:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프렌즈"
+  ],
+  "companies": [],
+  "keywords": [
+   "아이케어",
+   "눈꺼풀 케어",
+   "전속 모델"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "아이쓱 눈꺼풀 클리너",
+    "brand": "프렌즈",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "프렌즈 아이드롭점안액",
+    "brand": "프렌즈",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에스파가 프렌즈 인공눈물과 화장품 신제품의 전속 모델로 나섰다.",
+  "key_fact_quote": "에스파는 인공눈물 ‘프렌즈 아이드롭점안액’과 화장품 신제품 ‘아이쓱 눈꺼풀 클리너’의 전속 모델로 나서며 맑고 촉촉한 브랜드 가치를 전파할 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

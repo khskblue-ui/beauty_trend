@@ -1,0 +1,47 @@
+{
+ "doc_id": "a2f1bc8b27a5c776",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.consumuch.com/news/articleView.html?idxno=79334",
+ "title": "LG생활건강 '더후', 2026 FT 럭셔리 서밋 참가…K-뷰티 유일 초청",
+ "summary": "LG생활건강의 럭셔리 화장품 브랜드 '더후'가 지난 20일 태국 방콕에서 열린 '파이낸셜타임스(FT) 럭셔리... 럭키크림 출시 이후 80년가량 축적된 LG생활건강의 R&D 인프라를 소개했다. 아울러 피부 장수(Longevity)...",
+ "published_at": "2026-10-21T16:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "TH"
+  ],
+  "brands": [
+   "더후"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "K뷰티 기술력",
+   "롱제비티",
+   "럭셔리 화장품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "더후가 태국에서 열린 럭셔리 서밋에 참가해 연구개발 인프라를 소개했다.",
+  "key_fact_quote": "LG생활건강의 럭셔리",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

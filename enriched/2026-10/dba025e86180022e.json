@@ -1,0 +1,47 @@
+{
+ "doc_id": "dba025e86180022e",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53751",
+ "title": "\"엔믹스(NMIXX)가 올영라이브에?\" 컴백 비하인드 공개",
+ "summary": "올리브영이 올영라이브 프로그램 ‘그린룸’을 선보였다. 그린룸은 뮤직 토크쇼와 라이브 커머스가 결합했다. 아이돌이 ‘아티스트 대기실’로 꾸민 공간에서 진행을 맡는다. 최근 컴백한 아티스트를 초대해 새 앨범을 소개하고 컴백 비하인드를 들려줄 예정이다. 시청자는 아티스트와 실시간으로 소통하면…",
+ "published_at": "2026-10-21T18:45:06+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "라이브 커머스",
+   "K팝 앨범",
+   "글로벌몰"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 뮤직 토크쇼와 라이브 커머스를 결합한 올영라이브 프로그램 그린룸을 선보였다.",
+  "key_fact_quote": "올리브영이 올영라이브 프로그램 ‘그린룸’을 선보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

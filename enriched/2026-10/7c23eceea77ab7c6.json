@@ -1,0 +1,71 @@
+{
+ "doc_id": "7c23eceea77ab7c6",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53744",
+ "title": "메디큐브, 미국 코스트코 400곳 진출",
+ "summary": "에이피알 메디큐브가 이달 미국 코스트코 약 400곳에 입점했다. 메디큐브는 국내 코스트코 전 지점에도 진출했다. 미국 코스트코 매장수를 늘리는 동시에 캐나다·유럽으로 유통망을 넓힐 계획이다. 에이피알은 미국 코스트코에 메디큐브 ‘제로모공패드’ 기획제품을 선보였다. 제로모공패드는 지난해 2월…",
+ "published_at": "2026-10-21T07:34:26+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "메디큐브"
+  ],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "미국 유통망 확대",
+   "대형 유통 채널",
+   "토너 패드"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "제로모공패드",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에이피알은 미국 코스트코에 메디큐브 ‘제로모공패드’ 기획제품을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "메디큐브 PDRN 제품",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "에이피알은 미국 코스트코에 메디큐브 PDRN 제품을 추가로 선보이며 품목을 확대할 예정이다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피알이 메디큐브를 미국 대형 회원제 매장에 입점시키고 유통망을 넓힌다.",
+  "key_fact_quote": "에이피알 메디큐브가 이달 미국 코스트코 약 400곳에 입점했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "에이피알은 미국 코스트코에 메디큐브 PDRN 제품을 추가로 선보이며 품목을 확대할 예정이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

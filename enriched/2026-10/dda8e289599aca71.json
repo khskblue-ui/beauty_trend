@@ -1,0 +1,74 @@
+{
+ "doc_id": "dda8e289599aca71",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53742",
+ "title": "닥터지, 호주서 '건강한 피부' 팝업스토어 운영",
+ "summary": "닥터지가 9월 11일부터 10월 16일까지 호주 시드니 W코스메틱스 월드스퀘어점에서 팝업스토어를 운영했다. 닥터지는 피부 연구실 분위기로 꾸민 공간에서 ‘누구나 건강한 피부를 가질 수 있다’는 브랜드 철학을 전달했다. △ 레드 블레미쉬 △블랙 스네일 △ 필링·클렌징 라인 체험공간도 마련했다. 닥…",
+ "published_at": "2026-10-21T06:51:08+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "AU"
+  ],
+  "brands": [
+   "닥터지"
+  ],
+  "companies": [
+   "W코스메틱스"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "팝업스토어",
+   "해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "브라이트닝 필링 젤",
+    "brand": "닥터지",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "레드 블레미쉬 클리어 수딩 크림",
+    "brand": "닥터지",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "닥터지가 호주 시드니에서 팝업스토어를 운영했다.",
+  "key_fact_quote": "닥터지가 9월 11일부터 10월 16일까지 호주 시드니 W코스메틱스 월드스퀘어점에서 팝업스토어를 운영했다.",
+  "events": [
+   {
+    "name": "'건강한 피부' 팝업스토어",
+    "start_date": "2026-09-11",
+    "end_date": "2026-10-16",
+    "place": "호주 시드니 W코스메틱스 월드스퀘어점",
+    "quote": "닥터지가 9월 11일부터 10월 16일까지 호주 시드니 W코스메틱스 월드스퀘어점에서 팝업스토어를 운영했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

@@ -1,0 +1,48 @@
+{
+ "doc_id": "ad68b11078a9ea7b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91438",
+ "title": "\"뿌리는 향수 에서 마시는 스무디로\"…신세계百, 니치 퍼퓸 재해석한 협...",
+ "summary": "신세계백화점은 프리미엄 스무디 브랜드 트웰브 원더바 및 미국 니치 향수 브랜드 디에스앤더가와 협업해 향수의 향을 음료로 표현한 신규 스무디 3종을 출시했다고 21일 밝혔다. 이번 협업은 디에스앤더가의 대표적인...",
+ "published_at": "2026-10-21T12:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "디에스앤더가"
+  ],
+  "companies": [
+   "신세계백화점",
+   "트웰브 원더바"
+  ],
+  "keywords": [
+   "니치 퍼퓸",
+   "향수 협업",
+   "스무디"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "신세계백화점이 니치 향수 브랜드와 협업해 향수의 향을 음료로 표현했다.",
+  "key_fact_quote": "신세계백화점은 프리미엄 스무디 브랜드 트웰브 원더바 및 미국 니치 향수 브랜드 디에스앤더가와 협업해 향수의 향을 음료로 표현한 신규 스무디 3종을 출시했다고 21일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

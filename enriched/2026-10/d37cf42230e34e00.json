@@ -1,0 +1,58 @@
+{
+ "doc_id": "d37cf42230e34e00",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100204",
+ "title": "K-소비재, 현지 대형 유통망 타고 중국 지역 진출 확대",
+ "summary": "지난해부터 한중 경협 확대에 이어 올해 1~8월까지 한국 소비재의 대중국 수출이 전년 동기 대비 +8.4% 증가하며 5년 만에 반등한 가운데, 소비재 진출을 중국 지역까지 확산시키기 위한 장이 항저우에서 열렸다.대한무역투자진흥공사(이하 코트라, 사장 강경성)는 10월 16일부터 18일까지 세기연화(世纪联华) 운하광장점에서「항저우 K-소비재 판촉전」을 개최했다.세기연화는 저장성 대표 현지 유통 브랜드로 운영사 항저우연화화상그룹은 저장성 주요 도시 전역에 546개 유통 매장을 운영, 모기업 연화슈퍼마켓은 2026년 중국 슈퍼마켓 100",
+ "published_at": "2026-10-21T09:29:13+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "아누아",
+   "이퀄베리",
+   "삼비조",
+   "수아존"
+  ],
+  "companies": [
+   "코트라"
+  ],
+  "keywords": [
+   "K소비재",
+   "중국 유통망",
+   "판촉전"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코트라가 항저우의 현지 대형 유통망과 손잡고 K소비재 판촉전을 열었다.",
+  "key_fact_quote": "대한무역투자진흥공사(이하 코트라, 사장 강경성)는 10월 16일부터 18일까지 세기연화(世纪联华) 운하광장점에서「항저우 K-소비재 판촉전」을 개최했다.",
+  "events": [
+   {
+    "name": "항저우 K-소비재 판촉전",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-18",
+    "place": "세기연화(世纪联华) 운하광장점",
+    "quote": "대한무역투자진흥공사(이하 코트라, 사장 강경성)는 10월 16일부터 18일까지 세기연화(世纪联华) 운하광장점에서「항저우 K-소비재 판촉전」을 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

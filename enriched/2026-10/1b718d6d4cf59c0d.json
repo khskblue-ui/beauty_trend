@@ -1,0 +1,69 @@
+{
+ "doc_id": "1b718d6d4cf59c0d",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100206",
+ "title": "푸드올로지 ‘지중해 오일만 클렌즈’, 출시 9개월 만에 100만 개 돌파",
+ "summary": "라이프솔루션 기반 D2C 미디어커머스 기업 어댑트(ADAPT, 대표 박정하)의 K-이너뷰티 브랜드 푸드올로지(FOODOLOGY)는 ‘지중해 오일만 클렌즈’가 지난해 11월 출시 이후 9개월 만인 지난 8월 누적 판매량 100만 개를 돌파했다고 20일 밝혔다.‘지중해 오일만 클렌즈’는 지난 6월부터 푸드올로지 자사몰 판매 1위를 유지하며 웰니스 카테고리의 대표 제품으로 부상했다. 특히 여름철 몸 관리 수요와 맞물려 판매가 확대되면서 기존 제품군에 이어 브랜드의 새로운 성장 제품으로 자리 잡았다.이러한 성과는 일상을 유지하며 건강하게",
+ "published_at": "2026-10-21T10:20:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "푸드올로지"
+  ],
+  "companies": [
+   "어댑트"
+  ],
+  "keywords": [
+   "이너뷰티",
+   "클렌즈 주스",
+   "웰니스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "지중해 오일만 클렌즈",
+    "brand": "푸드올로지",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "푸드올로지의 지중해 오일만 클렌즈가 자사몰 판매 1위를 유지하며 대표 제품으로 자리 잡았다.",
+  "key_fact_quote": "‘지중해 오일만 클렌즈’는 지난 6월부터 푸드올로지 자사몰 판매 1위를 유지하며 웰니스 카테고리의 대표 제품으로 부상했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "파슬리",
+    "quote": "주요 원료로는 독일산·폴란드산 파슬리와 스페인산 레몬을 사용했으며, 모두 유기농 인증을 획득했다."
+   },
+   {
+    "name": "레몬",
+    "quote": "주요 원료로는 독일산·폴란드산 파슬리와 스페인산 레몬을 사용했으며, 모두 유기농 인증을 획득했다."
+   },
+   {
+    "name": "바하 소금",
+    "quote": "기존 레시피에 멕시코산 바하 소금을 더한 것이 특징이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:44:09+00:00",
+ "had_body": true
+}

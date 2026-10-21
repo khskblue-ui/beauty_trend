@@ -1,0 +1,57 @@
+{
+ "doc_id": "78c52397b4c7d60f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.kdfnews.com/news/articleView.html?idxno=189646",
+ "title": "코닥어패럴 '컬러라마' 출시 , 뷰티 '단아로' 론칭, '100일의 거짓말' 커...",
+ "summary": "담은 신제품 및 신규 브랜드를 잇달아 선보이고 있다. 코닥어패럴이 배우 김혜윤과 함께한 '컬러라마 컬렉션'을 출시 한 데 이어, 더블유케어는 배우 오승아를 모델로 발탁하며 웰에이징 뷰티 ...",
+ "published_at": "2026-10-21T13:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "코닥어패럴",
+   "단아로"
+  ],
+  "companies": [
+   "더블유케어"
+  ],
+  "keywords": [
+   "웰에이징 뷰티",
+   "모델 마케팅",
+   "신규 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "컬러라마 컬렉션",
+    "brand": "코닥어패럴",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "코닥어패럴이 배우 김혜윤과 함께한 '컬러라마 컬렉션'을 출시 한 데 이어",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코닥어패럴이 컬러라마 컬렉션을 출시했고 더블유케어는 웰에이징 뷰티 브랜드를 론칭했다.",
+  "key_fact_quote": "코닥어패럴이 배우 김혜윤과 함께한 '컬러라마 컬렉션'을 출시 한 데 이어",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:44:09+00:00",
+ "had_body": false
+}

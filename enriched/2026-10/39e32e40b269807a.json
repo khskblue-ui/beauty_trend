@@ -1,0 +1,65 @@
+{
+ "doc_id": "39e32e40b269807a",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/study-flags-prenatal,28387",
+ "title": "Study flags prenatal neurodevelopmental risks from phthalates and bisphenols",
+ "summary": "Prenatal exposure to certain chemicals, including phthalates and bisphenols, may affect children's cognitive development, according to an INSERM study published on October 20. The researchers are calling for stricter regulations on these substances. The study, published in Environmental Health Perspectives, found that “exposure to a mixture of chemicals, some of which are endocrine disruptors, during sensitive periods, particularly pregnancy, is likely to affect children's...",
+ "published_at": "2026-10-21T20:26:30+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "INSERM"
+  ],
+  "keywords": [
+   "프탈레이트",
+   "비스페놀",
+   "내분비계 교란물질"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "INSERM 연구가 임신 중 프탈레이트와 비스페놀 노출이 아이의 인지 발달에 영향을 줄 수 있다고 밝혔다.",
+  "key_fact_quote": "Prenatal exposure to certain chemicals, including phthalates and bisphenols, may affect children's cognitive development, according to an INSERM study published on October 20.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "DEHP",
+    "quote": "The researchers assessed exposure to four phthalates (DEHP, DEP, DnBP and DiBP) and two bisphenols (A and S) using repeated urine samples collected from pregnant women and their babies"
+   },
+   {
+    "name": "DEP",
+    "quote": "The researchers assessed exposure to four phthalates (DEHP, DEP, DnBP and DiBP) and two bisphenols (A and S) using repeated urine samples collected from pregnant women and their babies"
+   },
+   {
+    "name": "DnBP",
+    "quote": "The researchers assessed exposure to four phthalates (DEHP, DEP, DnBP and DiBP) and two bisphenols (A and S) using repeated urine samples collected from pregnant women and their babies"
+   },
+   {
+    "name": "DiBP",
+    "quote": "The researchers assessed exposure to four phthalates (DEHP, DEP, DnBP and DiBP) and two bisphenols (A and S) using repeated urine samples collected from pregnant women and their babies"
+   },
+   {
+    "name": "bisphenol A",
+    "quote": "The European Union banned bisphenol A (BPA) in the manufacture of thermal paper used for cash register receipts in January 2020, but substitutes such as BPS are sometimes used (Editor’s note)"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

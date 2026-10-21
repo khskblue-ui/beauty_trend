@@ -1,0 +1,52 @@
+{
+ "doc_id": "ee9bfbb22f309a41",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/revieve-introduces-beauty-llm-suite-specialised-intelligence-built",
+ "title": "Revieve introduces Beauty LLM Suite, specialised intelligence built for the future of beauty and wellness",
+ "summary": "New suite brings together a decade of specialised beauty intelligence across skin, ingredients, products, routines, lifestyle and brand expertise—powering BeautyCatalyst and opening new possibilities across beauty, personal care and holistic wellness",
+ "published_at": "2026-10-21T22:52:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Revieve"
+  ],
+  "keywords": [
+   "뷰티 AI",
+   "뷰티 LLM",
+   "개인화 추천"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Beauty LLM Suite",
+    "brand": "Revieve",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Revieve introduces Beauty LLM Suite, specialised intelligence built for the future of beauty and wellness",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Revieve가 뷰티 분야에 특화한 언어 모델 묶음을 내놨다.",
+  "key_fact_quote": "Revieve introduces Beauty LLM Suite, specialised intelligence built for the future of beauty and wellness",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

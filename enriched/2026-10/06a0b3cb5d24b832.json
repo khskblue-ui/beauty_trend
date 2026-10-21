@@ -1,0 +1,49 @@
+{
+ "doc_id": "06a0b3cb5d24b832",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312382",
+ "title": "색조株, 외국인·기관 몰리고 개인은 집중 매도",
+ "summary": "최근 화장품 업종 주요 종목의 수급 흐름을 분석한 결과, 색조 브랜드는 외국인과 기관이 동반 매수에 나선 반면 개인은 차익실현에 나선 것으로 나타났다. 소재 업종은 종목별로 수급이 엇갈렸고, 용기 업체는 외국인 매도와 기관 매수가 맞서는 양상을 보였다.네이버증권에 따르면 최근 5거래일(10월 14~20일) 동안 클리오, 아이패밀리에스씨, 대봉엘에스, 현대바이오랜드, 선진뷰티사이언스, 펌텍코리아의 수급 현황을 분석한 결과 이같이 나타났다.클리오, 기관 매수가 주가 방어클리오는 최근 5거래일 동안 기관과 외국인이 각각 4만6602주,",
+ "published_at": "2026-10-21T19:16:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "클리오",
+   "아이패밀리에스씨",
+   "대봉엘에스",
+   "현대바이오랜드",
+   "선진뷰티사이언스",
+   "펌텍코리아"
+  ],
+  "keywords": [
+   "화장품 주식",
+   "수급 동향",
+   "색조 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 업종에서 색조 브랜드는 외국인과 기관이 사들이고 개인이 판 것으로 나타났다.",
+  "key_fact_quote": "최근 화장품 업종 주요 종목의 수급 흐름을 분석한 결과, 색조 브랜드는 외국인과 기관이 동반 매수에 나선 반면 개인은 차익실현에 나선 것으로 나타났다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:44:09+00:00",
+ "had_body": true
+}

@@ -1,0 +1,108 @@
+{
+ "doc_id": "447ed55eb0aba066",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100210",
+ "title": "모다모다, 헤어케어 제품 누적 판매 1000만 개 돌파",
+ "summary": "헤어케어 브랜드 모다모다(대표 배형진)가 전 제품 누적 판매량 1000만 개를 돌파했다고 21일 밝혔다. 2025년 인구주택총조사에 따르면 대한민국 가구 수는 2325만 가구로 두 집 중 한 곳이 모다모다를 사용한 셈이다.모다모다는 블랙 샴푸의 꾸준한 판매에 신제품의 연이은 성과가 더해지며 성장세를 이어가고 있다. 새치케어 샴푸에서 출발해 간편한 새치 커버, 두피 관리, 볼륨 케어 등으로 제품군을 확장하며 판매 기반을 넓혀온 결과다. 올리브영, 다이소, 코스트코 등 다양한 유통채널로 소비자 접점을 확대한 점도 판매 확대에 힘을 보탰",
+ "published_at": "2026-10-21T10:27:35+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "모다모다"
+  ],
+  "companies": [],
+  "keywords": [
+   "블랙 샴푸",
+   "새치 케어",
+   "다이소 전용 라인"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "제로 그레이 블랙 샴푸 10",
+    "brand": "모다모다",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "원스텝 이지 헤어 타투 브러쉬",
+    "brand": "모다모다",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "원스텝 이지 커버 버블 샴푸",
+    "brand": "모다모다",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "블루비오틴 스칼프 샴푸",
+    "brand": "모다모다",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "블루비오틴 스칼프 두피가글 스케일러",
+    "brand": "모다모다",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "블루비오틴 스칼프 캡슐 트리트먼트",
+    "brand": "모다모다",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "볼륨 리페어",
+    "brand": "모다모다",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "지난 9월에는 정수리와 뿌리 볼륨 관리를 위한 ‘볼륨 리페어’ 라인 4종을 전국 다이소 1300개 매장에 선보이며 라인업을 확장했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "모다모다가 헤어케어 전 제품 누적 판매 대기록을 세웠다.",
+  "key_fact_quote": "헤어케어 브랜드 모다모다(대표 배형진)가 전 제품 누적 판매량 1000만 개를 돌파했다고 21일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

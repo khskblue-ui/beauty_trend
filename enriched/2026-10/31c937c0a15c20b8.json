@@ -1,0 +1,46 @@
+{
+ "doc_id": "31c937c0a15c20b8",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/what-is-noni-skin-care-ingredient",
+ "title": "Meet noni – an unlikely skin care hero",
+ "summary": "Noni may be an unlikely skin care hero, but the ingredient is starting to gain traction after emerging in K-beauty products, writes Jill Weir",
+ "published_at": "2026-10-21T19:17:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 성분",
+   "스킨케어 원료"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "노니가 케이뷰티 제품에 쓰이며 스킨케어 성분으로 주목받기 시작했다.",
+  "key_fact_quote": "Noni may be an unlikely skin care hero, but the ingredient is starting to gain traction after emerging in K-beauty products, writes Jill Weir",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Noni",
+    "quote": "Noni may be an unlikely skin care hero, but the ingredient is starting to gain traction after emerging in K-beauty products, writes Jill Weir"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

@@ -1,0 +1,71 @@
+{
+ "doc_id": "1cb882a790d05512",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58551",
+ "title": "이든팜, ‘K-Beauty Expo Korea 2026’서 캡슐 신제형 공개 OEM·ODM 상담 확대",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 화장품 OEM·ODM 전문기업 이든팜이 ‘K-Beauty Expo Korea 2026’에서 캡슐 신제형과 신규 클렌징 라인업을 공개하고 글로벌 바이어와 제품 개발 협의를 확대했다고 밝혔다. 이든팜은 이번 전시에서 2중 캡슐 크림과 세럼, 캡슐 선크림을 비롯한 다양한…",
+ "published_at": "2026-10-21T10:34:42+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이든팜"
+  ],
+  "companies": [
+   "이든팜"
+  ],
+  "keywords": [
+   "캡슐 제형",
+   "OEM·ODM",
+   "클렌징 신제형",
+   "글로벌 바이어 상담"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "2중 캡슐 크림",
+    "brand": "이든팜",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이든팜은 이번 전시에서 2중 캡슐 크림과 세럼, 캡슐 선크림을 비롯한 다양한 캡슐 응용 제품을 전면에 내세웠다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "캡슐 선크림",
+    "brand": "이든팜",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이든팜은 이번 전시에서 2중 캡슐 크림과 세럼, 캡슐 선크림을 비롯한 다양한 캡슐 응용 제품을 전면에 내세웠다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이든팜이 K-Beauty Expo Korea 2026에서 캡슐 신제형과 신규 클렌징 라인업을 공개했다.",
+  "key_fact_quote": "화장품 OEM·ODM 전문기업 이든팜이 ‘K-Beauty Expo Korea 2026’에서 캡슐 신제형과 신규 클렌징 라인업을 공개하고 글로벌 바이어와 제품 개발 협의를 확대했다고 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "최근 서울 가산디지털단지로 R&D 연구소를 확장 이전했으며 비건 PDRN 함유 피부 개선 화장품 조성물과 피부 마이크로바이옴 기반 자외선 차단 조성물에 대한 PCT 국제특허 출원을 진행했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

@@ -1,0 +1,49 @@
+{
+ "doc_id": "1a22d35d4fdcff0b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ekn.kr/web/view.php?key=20261021025429105",
+ "title": "원더바스, ‘Best of Beauty 2026’ K- 뷰티 부스 참가…‘슬라이스 세럼’...",
+ "summary": "열린 뷰티 매거진 얼루어(Allure)의 'Best of Beauty 2026' 행사에 참가해 신제품 '슬라이스 세럼'을 선보였다고... 원더바스에 따르면 지난 1일부터 16일까지 슬라이스 세럼의 누적 판매량은 출시 초기인 8월 한 달 판매량의 약...",
+ "published_at": "2026-10-21T11:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "원더바스"
+  ],
+  "companies": [
+   "CSA코스믹",
+   "얼루어"
+  ],
+  "keywords": [
+   "밈 마케팅",
+   "슬라이스 세럼",
+   "K뷰티 팝업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "4b519dcea5ce46b7",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

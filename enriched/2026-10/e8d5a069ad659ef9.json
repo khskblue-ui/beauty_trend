@@ -1,0 +1,46 @@
+{
+ "doc_id": "e8d5a069ad659ef9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202610165737r",
+ "title": "연달아 K - 뷰티 투자한 CVC캐피탈, 핵심은 ‘해외 확장 파트너십’",
+ "summary": "K - 뷰티 가 수출 호조세에 힘입어 구조적인 확장기에 접어든 만큼, CVC가 잇따라 K - 뷰티 포트폴리오 투자 경험을 쌓는 건 '우연의 일치'일 뿐이라는 시선도 있다. 실제로 KKR, MBK파트너스 등 글로벌 PEF들도 너나할것없이 K ...",
+ "published_at": "2026-10-21T10:07:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CVC캐피탈",
+   "KKR",
+   "MBK파트너스"
+  ],
+  "keywords": [
+   "K뷰티 투자",
+   "사모펀드",
+   "해외 확장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "CVC캐피탈이 해외 확장 파트너십을 핵심으로 K뷰티에 잇따라 투자했다.",
+  "key_fact_quote": "K - 뷰티 가 수출 호조세에 힘입어 구조적인 확장기에 접어든 만큼",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

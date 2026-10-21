@@ -1,0 +1,44 @@
+{
+ "doc_id": "5d49ad28c000f101",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.cwn.kr/news/articleView.html?idxno=59848",
+ "title": "아무아쥬, 향수 컬렉션 바디 케어로 확대…핸드 크림·헤어 퍼퓸 등 선...",
+ "summary": "제품 개발에서는 향료 배합과 피부에 닿는 제형의 조화가 주요 과제로 다뤄졌다. 아무아쥬는 향수의... 향료 농도는 바디 로션 1.6%부터 헤어 퍼퓸 5%까지 차등 적용했다. 아무아쥬는 제품 유형에 따라 향의 표현 방식과...",
+ "published_at": "2026-10-21T11:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아무아쥬"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 컬렉션",
+   "바디 케어",
+   "헤어 퍼퓸"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아무아쥬가 향수 컬렉션을 핸드 크림과 헤어 퍼퓸 등 바디 케어로 넓혔다.",
+  "key_fact_quote": "아무아쥬, 향수 컬렉션 바디 케어로 확대",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:44:09+00:00",
+ "had_body": false
+}

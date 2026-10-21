@@ -1,0 +1,46 @@
+{
+ "doc_id": "daef9833b2f30c8d",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100220",
+ "title": "코스맥스그룹, 美 하버드 의대와 맞손…‘바이오·메디컬’로 영토 확장",
+ "summary": "세계 1위 화장품 연구·개발·생산(ODM) 기업 코스맥스그룹이 기존 뷰티 산업의 룰을 깨고 메디컬, 헬스케어 부문까지 영토 확장에 나선다. 코스맥스는 압도적인 산·학 연계를 통해 ‘초격차’ 바이오 기술력을 완성하겠다는 강력한 의지를 표명했다.코스맥스그룹은 지난 13일(현지시간) 미국 보스턴 매사추세츠 종합병원(MGH)에서 하버드대학교 의과대학 부속 수련병원 네트워크인 매스 제너럴 브리검(MGB)과 ‘마이크로바이옴 2차 공동연구(VIVA 프로젝트) 협약’을 전격 체결했다고 21일 밝혔다.이날 협약식에는 이경수 코스맥스그룹 회장, 이병",
+ "published_at": "2026-10-21T10:56:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스그룹",
+   "매스 제너럴 브리검"
+  ],
+  "keywords": [
+   "마이크로바이옴",
+   "산학 협력",
+   "바이오 헬스케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스그룹이 하버드 의대 부속 병원 네트워크와 마이크로바이옴 2차 공동연구를 시작한다.",
+  "key_fact_quote": "코스맥스그룹은 지난 13일(현지시간) 미국 보스턴 매사추세츠 종합병원(MGH)에서 하버드대학교 의과대학 부속 수련병원 네트워크인 매스 제너럴 브리검(MGB)과 ‘마이크로바이옴 2차 공동연구(VIVA 프로젝트) 협약’을 전격 체결했다고 21일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

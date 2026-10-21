@@ -1,0 +1,45 @@
+{
+ "doc_id": "85c5e373d2641ba6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoulfn.com/news/articleView.html?idxno=640659",
+ "title": "[뷰티브리핑] 에이피알, 홈 뷰티 디바이스와 화장품 병용 효과 연구 국...",
+ "summary": "에이피알은 홈 뷰티 디바이스와 화장품 의 병용 사용 효과를 평가한 연구 결과를 국제학술지 '코스메틱스... 2종도 출시 했다. 토니모리는 연내 뷰티 특화점 입점 규모를 2500개까지 확대하고, 일반 매장의 생활용품...",
+ "published_at": "2026-10-21T17:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알",
+   "토니모리"
+  ],
+  "keywords": [
+   "홈 뷰티 디바이스",
+   "병용 효과 연구",
+   "뷰티 특화점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에이피알이 홈 뷰티 디바이스와 화장품을 함께 쓴 효과를 평가한 연구 결과를 국제학술지에 냈다.",
+  "key_fact_quote": "에이피알은 홈 뷰티 디바이스와 화장품 의 병용 사용 효과를 평가한 연구 결과를 국제학술지",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

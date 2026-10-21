@@ -1,0 +1,59 @@
+{
+ "doc_id": "7598ae98cd3fa837",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://theviewers.co.kr/View.aspx?No=4273124",
+ "title": "아무아쥬, 대표 향수 6종 활용한 바디 케어 컬렉션 출시",
+ "summary": "아무아쥬는 기존 바디 케어 라인을 정비하면서 제품별 사용 목적에 맞춰 향료 농도와 제형을 차별화했다.... 아카시아 꽃 왁스도 함유했으며, 향료 농도는 1.6%로 설정했다. 향수와 함께 사용하면서도 부담스럽지 않은...",
+ "published_at": "2026-10-21T13:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아무아쥬"
+  ],
+  "companies": [],
+  "keywords": [
+   "바디 케어",
+   "향수 연계 제품",
+   "향료 농도"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "바디 케어 컬렉션",
+    "brand": "아무아쥬",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아무아쥬, 대표 향수 6종 활용한 바디 케어 컬렉션 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아무아쥬가 대표 향수를 활용한 바디 케어 컬렉션을 출시했다.",
+  "key_fact_quote": "아무아쥬, 대표 향수 6종 활용한 바디 케어 컬렉션 출시",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "아카시아 꽃 왁스",
+    "quote": "아카시아 꽃 왁스도 함유했으며, 향료 농도는 1.6%로 설정했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

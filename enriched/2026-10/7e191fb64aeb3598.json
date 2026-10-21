@@ -1,0 +1,44 @@
+{
+ "doc_id": "7e191fb64aeb3598",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/interparfums-sa-stock-surges-following-strong-q3-asia-1239378337/",
+ "title": "Interparfums SA Stock Surges Following Strong Q3",
+ "summary": "The French beauty-maker saw a solid return to growth in Asia, driven by China, and revised its full-year sales expectations.",
+ "published_at": "2026-10-21T20:27:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "Interparfums SA"
+  ],
+  "keywords": [
+   "향수 시장",
+   "아시아 성장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "프랑스 향수 업체가 중국 중심의 아시아 성장세로 연간 매출 전망을 고쳤다.",
+  "key_fact_quote": "The French beauty-maker saw a solid return to growth in Asia, driven by China, and revised its full-year sales expectations.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

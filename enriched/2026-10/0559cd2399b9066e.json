@@ -1,0 +1,44 @@
+{
+ "doc_id": "0559cd2399b9066e",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/chanel-sells-majority-capsum-stake-to-motion-ep",
+ "title": "Chanel sells majority Capsum stake to Motion Equity Partners",
+ "summary": "Innovation and manufacturing partner Capsum is now under Motion Equity Partners, with luxury brand and long term partner Chanel remaining a minority shareholder in the company",
+ "published_at": "2026-10-21T20:17:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Chanel",
+   "Capsum",
+   "Motion Equity Partners"
+  ],
+  "keywords": [
+   "지분 매각",
+   "제조 파트너",
+   "사모펀드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "샤넬이 혁신·제조 파트너 캡섬의 지분 과반을 모션 에쿼티 파트너스에 매각했다.",
+  "key_fact_quote": "Chanel sells majority Capsum stake to Motion Equity Partners",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

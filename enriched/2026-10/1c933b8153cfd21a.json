@@ -1,0 +1,74 @@
+{
+ "doc_id": "1c933b8153cfd21a",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53749",
+ "title": "토니모리, 편의점 뷰티시장 진출한다",
+ "summary": "토니모리가 이마트24 올데이케어랩점을 포함한 1,248곳에 입점했다. 올데이케어랩은 16일 서울 신설동에 개점한 헬스·뷰티·패션 특화매장이다. 토니모리는 △ 퍼펙트 립스 쇼킹 립 미니 8종 △ 립·아이·치크·쿠션 등 색조 제품 48종 △ 마스크 시트 6종 등을 선보였다. 대표 제품인 ‘퍼펙트 립스 쇼킹…",
+ "published_at": "2026-10-21T17:53:39+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "토니모리"
+  ],
+  "companies": [
+   "이마트24"
+  ],
+  "keywords": [
+   "편의점 뷰티",
+   "색조 화장품",
+   "미니 사이즈"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퍼펙트 립스 쇼킹 립 미니",
+    "brand": "토니모리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "토니모리는 △ 퍼펙트 립스 쇼킹 립 미니 8종 △ 립·아이·치크·쿠션 등 색조 제품 48종 △ 마스크 시트 6종 등을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "하트럼 쇼킹",
+    "brand": "토니모리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이마트24 전용 컬러로 ‘하트럼 쇼킹’과 ‘코코밤 쇼킹’ 두가지를 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "코코밤 쇼킹",
+    "brand": "토니모리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이마트24 전용 컬러로 ‘하트럼 쇼킹’과 ‘코코밤 쇼킹’ 두가지를 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "토니모리가 이마트24 올데이케어랩점을 포함한 점포에 입점해 편의점 뷰티 시장에 진출했다.",
+  "key_fact_quote": "토니모리가 이마트24 올데이케어랩점을 포함한 1,248곳에 입점했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:44:09+00:00",
+ "had_body": true
+}

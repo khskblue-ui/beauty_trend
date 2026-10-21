@@ -1,0 +1,79 @@
+{
+ "doc_id": "0bcb54694882238c",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58559",
+ "title": "테고사이언스(주), 피부줄기세포 유래 배양액 ‘케모타이드·케모시카’ 특허 원료... 피부재생·진정 스킨케어에서 돌풍 예고",
+ "summary": "테고사이언스(주)(Tego Science)는 세포치료제 전문기업으로 출발했지만, 최근에는 바이오 기반 화장품 원료사로서도 입지를 넓히고 있다. 핵심 원료인 ‘케모타이드’ 펩타이드를 중심으로 글로벌 시장에 진출하며, 2025년 수출 매출이 전년 대비 620% 증가하는 등 빠른 성장세를 보이고 있다.…",
+ "published_at": "2026-10-21T18:50:26+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "인터미션"
+  ],
+  "companies": [
+   "테고사이언스",
+   "큐티젠래버러토리스"
+  ],
+  "keywords": [
+   "펩타이드 원료",
+   "세포 화장품",
+   "피부 재생"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "레스트업 세럼스킨",
+    "brand": "인터미션",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "테고사이언스가 세포치료제 기업에서 바이오 기반 화장품 원료사로 입지를 넓히고 있다.",
+  "key_fact_quote": "테고사이언스(주)(Tego Science)는 세포치료제 전문기업으로 출발했지만, 최근에는 바이오 기반 화장품 원료사로서도 입지를 넓히고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "케모타이드",
+    "quote": "핵심 원료인 ‘케모타이드’ 펩타이드를 중심으로 글로벌 시장에 진출하며, 2025년 수출 매출이 전년 대비 620% 증가하는 등 빠른 성장세를 보이고 있다."
+   },
+   {
+    "name": "케모시카",
+    "quote": "이 제품은 케모타이드와 시카 성분을 결합한 피부 진정 특허 원료 ‘케모시카’를 함유한 제품으로"
+   },
+   {
+    "name": "KCM™",
+    "quote": "KCM™(케라틴 피부줄기세포 유래 배양액, INCI: Human keratinocyte conditioned media)은 피부재생에 최적화된 피부줄기세포 유래 배양액(골수, 지방, 제대혈 유래세포와 차별)으로 피부재생에 관여하는 성장인자 최적비율을 함유한다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "8중 히알루론산과 저분자 세라마이드도 함께 담아 속보습과 겉보습을 동시에 관리할 수 있도록 설계했다."
+   },
+   {
+    "name": "세라마이드",
+    "quote": "8중 히알루론산과 저분자 세라마이드도 함께 담아 속보습과 겉보습을 동시에 관리할 수 있도록 설계했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

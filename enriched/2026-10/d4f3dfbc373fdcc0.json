@@ -1,0 +1,85 @@
+{
+ "doc_id": "d4f3dfbc373fdcc0",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100216",
+ "title": "지에프씨생명과학 fmk, 베트남 첫 수출·이탈리아 입점",
+ "summary": "바이오 소재 연구개발 기업 지에프씨생명과학(대표 강희철, 388610)은 자사 더마 코스메틱 브랜드 ‘에프엠케이(fmk)’ 제품 8천 개를 베트남에 처음 수출하고, 이탈리아 K-뷰티 유통채널에 입점했다고 20일 밝혔다.베트남으로 수출되는 제품은 ‘리쥬네이팅 PDRN 키트’와 ‘카밍 말차 엑소 키트’ 2종으로, 총 8천개 규모를 현지 유통 파트너의 판매 채널을 통해 공급했다. 아울러, 이탈리아에서는 국내 유통사 스토리메이커를 통해 현지 K-뷰티 유통채널 ‘SOOMSELECTION’에 입점하며 유럽 시장 공략에도 기반을 확보했다.이번",
+ "published_at": "2026-10-21T10:39:54+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN",
+   "IT"
+  ],
+  "brands": [
+   "에프엠케이"
+  ],
+  "companies": [
+   "지에프씨생명과학"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "K-뷰티 수출",
+   "동결건조 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리쥬네이팅 PDRN 키트",
+    "brand": "에프엠케이",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "카밍 말차 엑소 키트",
+    "brand": "에프엠케이",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "시그니처 타임리스 키트",
+    "brand": "에프엠케이",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "지에프씨생명과학이 더마 코스메틱 브랜드 에프엠케이 제품을 베트남에 처음 수출하고 이탈리아 유통채널에 입점했다.",
+  "key_fact_quote": "바이오 소재 연구개발 기업 지에프씨생명과학(대표 강희철, 388610)은 자사 더마 코스메틱 브랜드 ‘에프엠케이(fmk)’ 제품 8천 개를 베트남에 처음 수출하고, 이탈리아 K-뷰티 유통채널에 입점했다고 20일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "베트남으로 수출되는 제품은 ‘리쥬네이팅 PDRN 키트’와 ‘카밍 말차 엑소 키트’ 2종으로, 총 8천개 규모를 현지 유통 파트너의 판매 채널을 통해 공급했다."
+   },
+   {
+    "name": "수련 추출물",
+    "quote": "해당 연구에서는 인간 피부 섬유아세포 노화 모델을 활용해 20종의 식물 추출물을 비교·평가한 결과, 수련 추출물 등의 노화세포 선택적 제거 가능성을 확인했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:44:09+00:00",
+ "had_body": true
+}

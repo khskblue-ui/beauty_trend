@@ -1,0 +1,48 @@
+{
+ "doc_id": "a6c726e760c15cac",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/motion-equity-partners-takes-over,28385",
+ "title": "Motion Equity Partners takes over microfluidics specialist Capsum",
+ "summary": "Chanel has found a buyer for Capsum, in which it had held a majority stake since the 2010s. On Tuesday, October 20, investment fund Motion Equity Partners officially announced its acquisition of a majority stake in the company, which specializes in the formulation of high-end skincare, makeup and fragrances. Sébastien Bardon, Capsum's founder and CEO, and his management team are also reinvesting in the company. Chanel will remain a minority shareholder in the company. Founded in 2008,...",
+ "published_at": "2026-10-21T18:07:09+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "Capsum",
+   "Motion Equity Partners",
+   "Chanel",
+   "KKT Labs"
+  ],
+  "keywords": [
+   "화장품 CDMO",
+   "마이크로플루이딕스",
+   "기업 인수"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "샤넬이 보유하던 캡섬 지분을 모션 에쿼티 파트너스가 인수하기로 했다.",
+  "key_fact_quote": "Chanel has found a buyer for Capsum , in which it had held a majority stake since the 2010s.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

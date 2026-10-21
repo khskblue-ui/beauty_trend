@@ -1,0 +1,81 @@
+{
+ "doc_id": "b9d0a96a805457d6",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/l-entropiste-indulges-in-olfactory,28383",
+ "title": "L'Entropiste indulges in olfactory decadence with Festin",
+ "summary": "The young perfume house L'Entropiste unveils Festin, a new fragrance created by Bertrand Duchaufour. Built around notes of blackberry, caviar, truffle, shagreen leather, and oud, the composition continues the house's exploration of opulent, uncompromising perfumery, where order emerges from chaos. Inspired by a decadent banquet in Nero's palace as Rome burned, Festin plays on the contrasts between sensuality, and smoke. The fragrance opens with blackberry, violet leaf, and a truffle...",
+ "published_at": "2026-10-21T18:43:57+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "L'Entropiste"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "고농도 향수",
+   "우드 향"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Festin",
+    "brand": "L'Entropiste",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "The young perfume house L'Entropiste unveils Festin, a new fragrance created by Bertrand Duchaufour.",
+    "notes": [
+     "blackberry",
+     "caviar",
+     "truffle",
+     "shagreen leather",
+     "oud"
+    ],
+    "notes_quote": "Built around notes of blackberry, caviar, truffle, shagreen leather, and oud"
+   }
+  ],
+  "key_fact": "향수 하우스 L'Entropiste가 베르트랑 뒤쇼푸르가 만든 새 향수 Festin을 선보였다.",
+  "key_fact_quote": "The young perfume house L'Entropiste unveils Festin, a new fragrance created by Bertrand Duchaufour.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "blackberry",
+    "quote": "The fragrance opens with blackberry, violet leaf, and a truffle accord."
+   },
+   {
+    "name": "violet leaf",
+    "quote": "The fragrance opens with blackberry, violet leaf, and a truffle accord."
+   },
+   {
+    "name": "caviar",
+    "quote": "Caviar adds a salty dimension to this interplay of fruity and earthy notes."
+   },
+   {
+    "name": "oud",
+    "quote": "In the base, oud mingles with an ambergris accord, leaving a pronounced trail."
+   },
+   {
+    "name": "ambergris",
+    "quote": "In the base, oud mingles with an ambergris accord, leaving a pronounced trail."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:44:09+00:00",
+ "had_body": true
+}

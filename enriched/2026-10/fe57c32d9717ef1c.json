@@ -1,0 +1,44 @@
+{
+ "doc_id": "fe57c32d9717ef1c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dailypharm.com/user/news/343414?REFERER=NP",
+ "title": "몽쥬약국 부럽지 않다…명동·홍대·성수 삼킨 '뷰티약국' 열풍",
+ "summary": "기능 개선에 초점을 맞춘 제품들을 선보인다는 계획이다. 제약사들과 협업해 가성비 화장품 을 연이어 출시 하고 있는 생활용품점 다이소 역시 건대입구에 첫 뷰티 특화 매장을 열고 뷰티 로드숍으로의 도전장을 내밀었다.",
+ "published_at": "2026-10-21T12:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "다이소"
+  ],
+  "keywords": [
+   "뷰티약국",
+   "가성비 화장품",
+   "뷰티 로드숍"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "다이소가 건대입구에 첫 뷰티 특화 매장을 열었다.",
+  "key_fact_quote": "제약사들과 협업해 가성비 화장품 을 연이어 출시 하고 있는 생활용품점 다이소 역시 건대입구에 첫 뷰티 특화 매장을 열고 뷰티 로드숍으로의 도전장을 내밀었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

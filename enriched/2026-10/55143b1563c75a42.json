@@ -1,0 +1,48 @@
+{
+ "doc_id": "55143b1563c75a42",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45703",
+ "title": "[오늘의 뷰티] 에이피알·코스맥스·LG생활건강·EOA·아이소이",
+ "summary": "21일 에이피알이 홈 뷰티 디바이스와 화장품 의 병용 효과를 분석한 연구를 국제학술지에 게재했으며... 럭키크림 출시 이후 LG생활건강이 약 80년 간 쌓아온 독보적인 R&D 인프라를 설명했다. 더불어 '롱제비티(Longevity...",
+ "published_at": "2026-10-21T17:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알",
+   "코스맥스",
+   "LG생활건강",
+   "EOA",
+   "아이소이"
+  ],
+  "keywords": [
+   "홈 뷰티 디바이스",
+   "R&D 인프라",
+   "롱제비티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에이피알이 홈 뷰티 디바이스와 화장품의 병용 효과를 분석한 연구를 국제학술지에 게재했다.",
+  "key_fact_quote": "21일 에이피알이 홈 뷰티 디바이스와 화장품 의 병용 효과를 분석한 연구를 국제학술지에 게재했으며",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

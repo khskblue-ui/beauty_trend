@@ -1,0 +1,41 @@
+{
+ "doc_id": "98df9cd215253f61",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=228395",
+ "title": "[기자의창] K뷰티 의 미래를 의심하는 그대에게",
+ "summary": "기자의창 \" K뷰티 인기, 언제까지 갈 것 같아요?\" 요즘 현장에 나가면 자주 받는 질문이다. 한국 화장품이 전... 지난해 한국 화장품 수출 액은 114억 달러를 기록하며 미국을 제치고 프랑스에 이어 세계 2위에 올랐다. 올해...",
+ "published_at": "2026-10-21T22:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티의 인기가 언제까지 이어질지 의심하는 시각에 기자가 답하는 칼럼이다.",
+  "key_fact_quote": "K뷰티 인기, 언제까지 갈 것 같아요?",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "3d3990d28b6dd2fd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66141",
+ "title": "코스맥스, 하버드 의대와 'VIVA 프로젝트' 가동… 뷰티 에서 글로벌 바이...",
+ "summary": "제약·바이오 업계가 치열하게 경쟁 중인 '차세대 비만 솔루션' 시장에서 K - 뷰티 기업이 새로운 변수로... 코스맥스는 100여 개국에 화장품을 직·간접 수출 하는 글로벌 네트워크를 기반으로, 각 지역의 유수 대학...",
+ "published_at": "2026-10-21T09:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "비만 솔루션",
+   "뷰티 바이오",
+   "산학 협력"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스가 하버드 의대와 VIVA 프로젝트를 가동해 비만 솔루션 시장에 뛰어든다.",
+  "key_fact_quote": "코스맥스, 하버드 의대와 'VIVA 프로젝트' 가동",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

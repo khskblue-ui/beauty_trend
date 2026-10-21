@@ -1,0 +1,63 @@
+{
+ "doc_id": "ee61aec05b5f93f1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.abcn.kr/news/articleView.html?idxno=93390",
+ "title": "아무아쥬, 향수의 사용 경험 확장한 바디 컬렉션 출시",
+ "summary": "아무아쥬는 오만의 향료 전통을 상징하는 원료를 바디 케어 제품에 적용해 브랜드의 역사적 배경을... 향료 농도는 제품별로 차등 적용됐다. 바디 로션은 1.6%, 헤어 퍼퓸은 5%의 농도로 구성됐으며, 아무아쥬는 제품 유형에...",
+ "published_at": "2026-10-21T16:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "OM"
+  ],
+  "brands": [
+   "아무아쥬"
+  ],
+  "companies": [],
+  "keywords": [
+   "바디 케어",
+   "헤어 퍼퓸",
+   "향수 하우스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "바디 로션",
+    "brand": "아무아쥬",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아무아쥬, 향수의 사용 경험 확장한 바디 컬렉션 출시",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "헤어 퍼퓸",
+    "brand": "아무아쥬",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아무아쥬, 향수의 사용 경험 확장한 바디 컬렉션 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아무아쥬가 오만의 향료 전통을 상징하는 원료를 바디 케어 제품에 적용한 컬렉션을 출시했다.",
+  "key_fact_quote": "아무아쥬는 오만의 향료 전통을 상징하는 원료를 바디 케어 제품에 적용해 브랜드의 역사적 배경을",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

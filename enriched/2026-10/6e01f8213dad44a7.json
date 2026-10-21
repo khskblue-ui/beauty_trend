@@ -1,0 +1,46 @@
+{
+ "doc_id": "6e01f8213dad44a7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=361026",
+ "title": "LG생활건강 더후, 국내 뷰티업계 유일 FT 럭셔리 서밋-아시아 에디션 참...",
+ "summary": "럭키크림 출시 이후 약 80년간 쌓아온 R&D 인프라를 설명했다. 더불어 '롱제비티(피부 장수)' 트렌드에 맞춰 장수 과학 패러다임을 선도하겠다는 비전도 밝혔다. 더후는 피부 투과가 어려워 화장품 적용이...",
+ "published_at": "2026-10-22T06:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "고급 화장품",
+   "롱제비티",
+   "연구개발"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "f86b194eff9885ec",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": false
+}

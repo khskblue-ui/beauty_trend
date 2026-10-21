@@ -1,0 +1,72 @@
+{
+ "doc_id": "c0fbfe76f84269aa",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58556",
+ "title": "(주)이앤알, 뷰티 라이프와 맞춤형 서비스를 추구하는 토탈 솔루션 화장품 제조회사... 고객사 아이덴티티가 살아 있는 제품 제안",
+ "summary": "“One Stop, Total Care” 젊고 강한 화장품 OEM·ODM 전문기업 (주)이앤알(Eamp;R, 대표 임병수)의 슬로건이다. 짧은 주기로 트렌드 변화가 심한 뷰티 시장은 고객사의 설계된 알고리즘에 맞춘 제품 개발과 정교한 공정, 인증과 품질관리 지원 등 고객사 니즈에 맞춘 성장파트너가 필요하…",
+ "published_at": "2026-10-21T18:08:51+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "이앤알"
+  ],
+  "keywords": [
+   "OEM·ODM",
+   "캡슐 제형",
+   "맞춤형 제품 개발"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "F.1(전면 주입) 캡슐&컴팩트 파운데이션",
+    "brand": "이앤알",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "브라이트닝 캡슐 세럼",
+    "brand": "이앤알",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "컬러 캡슐 메이크업 베이스",
+    "brand": "이앤알",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "화장품 OEM·ODM 기업 이앤알이 맞춤형 개발과 품질관리를 강점으로 내세운다.",
+  "key_fact_quote": "(주)이앤알이 선보인 혁신적인 제품에는 F.1(전면 주입) 캡슐&컴팩트 파운데이션이 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:44:09+00:00",
+ "had_body": true
+}

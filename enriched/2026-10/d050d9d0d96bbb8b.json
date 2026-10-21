@@ -1,0 +1,46 @@
+{
+ "doc_id": "d050d9d0d96bbb8b",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58550",
+ "title": "코스맥스그룹, 美 MGB와 2차 공동연구 바이오·메디컬 영역 확장",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 코스맥스그룹이 미국 매스 제너럴 브리검(Mass General Brigham, MGB)과 마이크로바이옴 공동연구를 확대하고 건강기능식품과 바이오·메디컬 분야로 연구 범위를 넓힌다고 밝혔다. 코스맥스그룹은 지난 13일(현지시간) 미국 보스턴 매사추세츠 종합병원…",
+ "published_at": "2026-10-21T10:31:45+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스그룹",
+   "Mass General Brigham"
+  ],
+  "keywords": [
+   "마이크로바이옴",
+   "바이오 헬스케어",
+   "건강기능식품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스그룹이 미국 의료 시스템과 마이크로바이옴 공동연구를 확대한다.",
+  "key_fact_quote": "코스맥스그룹이 미국 매스 제너럴 브리검(Mass General Brigham, MGB)과 마이크로바이옴 공동연구를 확대하고 건강기능식품과 바이오·메디컬 분야로 연구 범위를 넓힌다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

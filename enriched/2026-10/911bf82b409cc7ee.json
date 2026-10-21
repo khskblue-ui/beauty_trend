@@ -1,0 +1,45 @@
+{
+ "doc_id": "911bf82b409cc7ee",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100217",
+ "title": "CJ올리브영, K팝 연계 올영라이브 ‘그린룸’ 론칭",
+ "summary": "올리브영이 K팝 아티스트와 국내외 팬덤을 잇는 새로운 라이브 쇼핑 콘텐츠를 선보인다.CJ올리브영(이하 올리브영)은 뮤직 토크쇼와 라이브 커머스를 결합한 신규 올영라이브 프로그램 '그린룸'을 론칭한다고 21일 밝혔다.그린룸은 올리브영이 처음으로 선보이는 K팝 연계 올영라이브 프로그램으로, '아티스트 대기실'을 콘셉트로 아이돌 호스트가 최근 컴백한 아티스트를 초대해 새 앨범을 소개하고 컴백 비하인드를 들려준다. 방송 중 시청자들은 아티스트와 실시간으로 소통하는 동시에 올리브영에서만 볼 수 있는 특전이 포함된",
+ "published_at": "2026-10-21T10:43:06+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "라이브 커머스",
+   "K팝 연계 마케팅",
+   "K뷰티 플랫폼"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "올리브영이 K팝 연계 라이브 커머스 프로그램 그린룸을 선보인다.",
+  "key_fact_quote": "CJ올리브영(이하 올리브영)은 뮤직 토크쇼와 라이브 커머스를 결합한 신규 올영라이브 프로그램 '그린룸'을 론칭한다고 21일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:41:37+00:00",
+ "had_body": true
+}

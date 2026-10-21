@@ -1,0 +1,51 @@
+{
+ "doc_id": "7a68842f4901a902",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482723",
+ "title": "인천대 청년무역인재 9명, 두바이서 K뷰티 수출 지원",
+ "summary": "인천대(총장 이인재) 지역특화청년무역전문가양성사업단(GTEP) 20기 학생 9명은 지난 6일부터 8일까지 아랍에미리트(UAE) 두바이 월드트레이드센터에서 열린 '2026 뷰티 월드 두바이'에 참가해 국내 뷰티 기업 4개사의 수출 ...",
+ "published_at": "2026-10-21T12:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "AE",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "중동 시장",
+   "뷰티 박람회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인천대 학생들이 두바이 뷰티 박람회에서 국내 뷰티 기업의 수출을 지원했다.",
+  "key_fact_quote": "지난 6일부터 8일까지 아랍에미리트(UAE) 두바이 월드트레이드센터에서 열린 '2026 뷰티 월드 두바이'에 참가해",
+  "events": [
+   {
+    "name": "2026 뷰티 월드 두바이",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-08",
+    "place": "아랍에미리트(UAE) 두바이 월드트레이드센터",
+    "quote": "지난 6일부터 8일까지 아랍에미리트(UAE) 두바이 월드트레이드센터에서 열린 '2026 뷰티 월드 두바이'에 참가해"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:44:09+00:00",
+ "had_body": false
+}

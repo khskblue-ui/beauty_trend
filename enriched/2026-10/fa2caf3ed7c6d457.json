@@ -1,0 +1,54 @@
+{
+ "doc_id": "fa2caf3ed7c6d457",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.abcn.kr/news/articleView.html?idxno=93358",
+ "title": "큐리케어 펄즈, K - 뷰티 엑스포 코리아 2026 참가…글로벌 시장 진출 본격...",
+ "summary": "바이어들과 수출 계약을 체결했다. 지난 15일부터 17일까지 경기도 고양시 킨텍스에서 열린 K - 뷰티 엑스포 코리아는 국내 뷰티 기업과 해외 바이어들이 참여하는 뷰티 산업 전문 전시회다. 큐리케어는 이번 행사에서...",
+ "published_at": "2026-10-21T08:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "큐리케어 펄즈"
+  ],
+  "companies": [
+   "큐리케어"
+  ],
+  "keywords": [
+   "K-뷰티 박람회",
+   "수출 계약",
+   "해외 바이어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "큐리케어가 K-뷰티 엑스포 코리아에 참가해 해외 바이어와 수출 계약을 맺었다.",
+  "key_fact_quote": "지난 15일부터 17일까지 경기도 고양시 킨텍스에서 열린 K - 뷰티 엑스포 코리아는 국내 뷰티 기업과 해외 바이어들이 참여하는 뷰티 산업 전문 전시회다.",
+  "events": [
+   {
+    "name": "K - 뷰티 엑스포 코리아",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": "경기도 고양시 킨텍스",
+    "quote": "지난 15일부터 17일까지 경기도 고양시 킨텍스에서 열린 K - 뷰티 엑스포 코리아는 국내 뷰티 기업과 해외 바이어들이 참여하는 뷰티 산업 전문 전시회다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:44:09+00:00",
+ "had_body": false
+}

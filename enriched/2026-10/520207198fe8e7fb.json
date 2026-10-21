@@ -1,0 +1,64 @@
+{
+ "doc_id": "520207198fe8e7fb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kr.aving.net/news/articleView.html?idxno=1815826",
+ "title": "스위스 K 뷰티 문 두드린 제주 감태 세럼… 에이젠잇 '감태 PDRN 탄력 젤리...",
+ "summary": "K 뷰티 브랜드 의 해외 진출이 제품력과 현지 유통망 검증을 함께 요구받는 흐름 속에서, 제주 해양 원료를... 동시 론칭 됐다. 특히 현지 바이어는 '감태 PDRN 탄력 젤리 세럼'의 기능성과 사용 편의성을 긍정적으로...",
+ "published_at": "2026-10-21T11:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "CH"
+  ],
+  "brands": [
+   "에이젠잇"
+  ],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "해양 원료",
+   "PDRN 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "감태 PDRN 탄력 젤리 세럼",
+    "brand": "에이젠잇",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "동시 론칭 됐다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이젠잇의 제주 감태 세럼이 스위스에서 현지 유통망과 함께 론칭됐다.",
+  "key_fact_quote": "특히 현지 바이어는 '감태 PDRN 탄력 젤리 세럼'의 기능성과 사용 편의성을 긍정적으로",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "감태",
+    "quote": "특히 현지 바이어는 '감태 PDRN 탄력 젤리 세럼'의 기능성과 사용 편의성을 긍정적으로"
+   },
+   {
+    "name": "PDRN",
+    "quote": "특히 현지 바이어는 '감태 PDRN 탄력 젤리 세럼'의 기능성과 사용 편의성을 긍정적으로"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-21T21:44:09+00:00",
+ "had_body": false
+}
