@@ -1,0 +1,48 @@
+{
+ "doc_id": "7b74c001e957f29e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/bio/pharmaceutical-bio/6328066",
+ "title": "유한양행, 다이소 전용 스킨케어 '더마푸라민Rx' 8종 출시",
+ "summary": "유한양행은 민감 피부의 장벽 관리와 진정을 위한 더마푸라민Rx 신제품 8종을 다이소 전용 제품으로... 판테놀은 피부 보습과 장벽 관리에 활용되는 성분으로, 건조하거나 민감한 피부를 위한 화장품 에 널리 사용된다....",
+ "published_at": "2026-10-22T09:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더마푸라민Rx"
+  ],
+  "companies": [
+   "유한양행",
+   "다이소"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "다이소 화장품",
+   "민감성 피부 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "acd6c4be233e20ce",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

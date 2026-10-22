@@ -1,0 +1,44 @@
+{
+ "doc_id": "7cb3545735afb2f8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=149599",
+ "title": "'오젬픽 페이스'가 만든 새로운 뷰티 시장…5년간 3배 큰다",
+ "summary": "글로벌 향료 업체 지보단(Givaudan)과 IFF, CPL 아로마스는 GLP-1 사용자의 후각·미각 선호 변화를 연구하고 있다. 지보단은 약 1년간 관련 가능성을 조사했으며, IFF는 향기가 제공하는 감각적 만족에 대한 소비자 반응을...",
+ "published_at": "2026-10-22T22:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "지보단",
+   "IFF",
+   "CPL 아로마스"
+  ],
+  "keywords": [
+   "GLP-1 사용자",
+   "후각 선호 변화",
+   "향료 연구"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "향료 업체들이 GLP-1 사용자의 후각과 미각 선호 변화를 연구하고 있다",
+  "key_fact_quote": "글로벌 향료 업체 지보단(Givaudan)과 IFF, CPL 아로마스는 GLP-1 사용자의 후각·미각 선호 변화를 연구하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

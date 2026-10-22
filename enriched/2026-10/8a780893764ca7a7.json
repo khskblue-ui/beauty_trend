@@ -1,0 +1,65 @@
+{
+ "doc_id": "8a780893764ca7a7",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58566",
+ "title": "케이메디켐, 헴프씨드 NCT 적용 ‘닥터펫노바 하이드로 수딩 미스트’ 출시",
+ "summary": "[코스인코리아닷컴 길태윤 기자] (주)케이메디켐(대표 이구연)이 헴프씨드 유래 소재 NCT 연구를 적용한 반려동물용 의약외품 ‘닥터펫노바 하이드로 수딩 미스트(Dr. Petnova Hydro Soothing Mist)’를 출시했다고 22일 밝혔다. 닥터펫노바 하이드로 수딩 미스트는 반려동물의 일상적인…",
+ "published_at": "2026-10-22T10:48:26+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "닥터펫노바"
+  ],
+  "companies": [
+   "케이메디켐"
+  ],
+  "keywords": [
+   "반려동물 스킨케어",
+   "헴프씨드",
+   "피부 보호막"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "닥터펫노바 하이드로 수딩 미스트",
+    "brand": "케이메디켐",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "(주)케이메디켐(대표 이구연)이 헴프씨드 유래 소재 NCT 연구를 적용한 반려동물용 의약외품 ‘닥터펫노바 하이드로 수딩 미스트(Dr. Petnova Hydro Soothing Mist)’를 출시했다고 22일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "케이메디켐이 헴프씨드 유래 소재를 적용한 반려동물용 미스트를 출시했다.",
+  "key_fact_quote": "(주)케이메디켐(대표 이구연)이 헴프씨드 유래 소재 NCT 연구를 적용한 반려동물용 의약외품 ‘닥터펫노바 하이드로 수딩 미스트(Dr. Petnova Hydro Soothing Mist)’를 출시했다고 22일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "NCT",
+    "quote": "제품의 핵심 소재인 NCT(N-trans-caffeoyltyramine)는 헴프씨드에 함유된 성분으로 이구연 교수 연구팀이 피부 관리 소재로서의 활용 가능성을 연구해 왔다."
+   },
+   {
+    "name": "헴프씨드",
+    "quote": "제품의 핵심 소재인 NCT(N-trans-caffeoyltyramine)는 헴프씨드에 함유된 성분으로 이구연 교수 연구팀이 피부 관리 소재로서의 활용 가능성을 연구해 왔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

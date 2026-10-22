@@ -1,0 +1,47 @@
+{
+ "doc_id": "3d36a7d8494266a0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=228432",
+ "title": "화장품 ODM 3사, 생산기지 증설 경쟁",
+ "summary": "국가별로는 미국(23.49억 달러), 중국(15.81억 달러), 일본(8.89억 달러) 순으로 수출 액이 많았다. K뷰티 수요 증가에 따라 화장품 ODM 기업들이 공장 가동률을 높이는 동시에 생산능력 확대에 나서고 있다. 코스맥스의 국내...",
+ "published_at": "2026-10-22T22:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "생산능력 확대",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 ODM 기업들이 공장 가동률을 높이며 생산능력 확대에 나서고 있다",
+  "key_fact_quote": "K뷰티 수요 증가에 따라 화장품 ODM 기업들이 공장 가동률을 높이는 동시에 생산능력 확대에 나서고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

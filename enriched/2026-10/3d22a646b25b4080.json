@@ -1,0 +1,48 @@
+{
+ "doc_id": "3d22a646b25b4080",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=577927&class=17&grp=",
+ "title": "유한양행, 다이소에 스킨케어 8종 출시 …뷰티 사업 확대",
+ "summary": "(THE·I·YU)'를 출시 했다. 유통채널 확대도 이어지고 있다. 회사는 지난 1일 현대홈쇼핑의 오프라인 매장 '코아시스'에 딘시 화장품 11종과 더이유 제품 3종을 입점시켰다. 공식 온라인몰 '버들장터'에서도 더마푸라민과...",
+ "published_at": "2026-10-22T10:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더마푸라민Rx"
+  ],
+  "companies": [
+   "유한양행",
+   "다이소"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "다이소 화장품",
+   "민감성 피부 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "996d0aacd90fa1c0",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

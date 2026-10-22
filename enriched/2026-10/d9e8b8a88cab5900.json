@@ -1,0 +1,43 @@
+{
+ "doc_id": "d9e8b8a88cab5900",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://woman.chosun.com/news/articleView.html?idxno=126715",
+ "title": "K - 뷰티 의 확장 ①",
+ "summary": "해외 소비자가 궁금해 하는 지점은 바로 한국식 메이크업 표현법으로 취향까지 함께 수출 하는 단계에 들어섰다는 것이다. 얼굴에서 두피, 보디까지 이어지는 문법 K - 뷰티 가 다른 영역으로 확장되는 방식에는 공통점이...",
+ "published_at": "2026-10-22T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티",
+   "한국식 메이크업",
+   "두피 케어",
+   "바디 케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티가 한국식 메이크업 표현법과 취향까지 함께 수출하는 단계에 들어섰다.",
+  "key_fact_quote": "해외 소비자가 궁금해 하는 지점은 바로 한국식 메이크업 표현법으로 취향까지 함께 수출 하는 단계에 들어섰다는 것이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

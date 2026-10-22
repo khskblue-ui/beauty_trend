@@ -1,0 +1,44 @@
+{
+ "doc_id": "337c85fcb0a5b8f7",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/loreal-q3-2026-earnings-beat-1239380825/",
+ "title": "L’Oréal Reports Q3 2026 Earnings Beat",
+ "summary": "The group’s Professional Products and Dermatological Beauty divisions helped drive the 11.9 percent reported quarterly gain.",
+ "published_at": "2026-10-23T00:25:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "L’Oréal"
+  ],
+  "keywords": [
+   "분기 실적",
+   "더마톨로지컬 뷰티",
+   "전문가용 제품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "로레알이 전문가용 제품과 더마톨로지컬 뷰티 사업부의 성장에 힘입어 3분기에 시장 예상을 웃도는 실적을 냈다.",
+  "key_fact_quote": "The group’s Professional Products and Dermatological Beauty divisions helped drive the 11.9 percent reported quarterly gain.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "ab36c8980daa06fb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026102200024852709",
+ "title": "[C쇼크, 벼랑 끝 K산업｜화장품]세계 5위 '성큼'…K뷰티 바짝 쫓는 중국",
+ "summary": "이번 집계에는 화장품뿐 아니라 향수 와 두발용 제품, 보디워시 등 피부 세척용 제품도 포함됐다.... 제품 개발과 출시 속도를 높인 중국 기업이 브랜드에 대한 신뢰까지 확보할 수 있을지가 향후 경쟁을 좌우할...",
+ "published_at": "2026-10-22T09:19:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "중국 화장품",
+   "K뷰티 경쟁",
+   "출시 속도"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 화장품 산업이 K뷰티를 바짝 쫓고 있다",
+  "key_fact_quote": "[C쇼크, 벼랑 끝 K산업｜화장품]세계 5위 '성큼'…K뷰티 바짝 쫓는 중국",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "54b8c76d0c92457d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.segyebiz.com/newsView/20261022520337?OutUrl=naver",
+ "title": "K - 뷰티 비건 스킨케어 브랜드 헤프, 아시아 뷰티 유통채널 샤샤 4개국 입...",
+ "summary": "SMC는 그동안 국내 K - 뷰티 브랜드의 해외 유통과 수출 을 중심으로 글로벌 시장 진출 사업을 전개해 왔다. 최근에는 축적된 해외 유통 경험과 현지 시장에 대한 이해를 바탕으로 자체 브랜드 육성에도 나서고 있으며...",
+ "published_at": "2026-10-22T17:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "헤프",
+   "샤샤"
+  ],
+  "companies": [
+   "SMC"
+  ],
+  "keywords": [
+   "비건 스킨케어",
+   "K뷰티 해외 유통",
+   "뷰티 유통채널"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "비건 스킨케어 브랜드 헤프가 아시아 뷰티 유통채널 샤샤의 4개국에 입점했다.",
+  "key_fact_quote": "K - 뷰티 비건 스킨케어 브랜드 헤프, 아시아 뷰티 유통채널 샤샤 4개국 입...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

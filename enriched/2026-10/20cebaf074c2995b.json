@@ -1,0 +1,64 @@
+{
+ "doc_id": "20cebaf074c2995b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100228",
+ "title": "랜딩인터내셔널 정새라 대표, 뉴욕 ‘꿈 위크 2026’ K뷰티 패널 참석",
+ "summary": "글로벌 K뷰티 유통 전문기업 랜딩인터내셔널(Landing International) 정새라 대표가 16일(현지 시각) 미국 뉴욕 맨해튼에서 열린 글로벌 문화 축제 행사 ‘꿈(KOOM) 위크 2026’의 연사로 나서 K뷰티의 글로벌 확장과 다음 단계 성장에 대한 통찰을 공유했다.‘꿈(KOOM) 위크’는 미국 한인 창업자 연합 ‘UKF(United Korean Founders)’가 주최하는 행사로, K스타트업과 K컬처를 아우르는 한인 비즈니스 문화 축제다. 올해는 12일부터 18일까지 일주일간 뉴욕 맨해튼 일대에서 ‘꿈 하우스’(K브랜",
+ "published_at": "2026-10-22T10:02:15+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "랜딩인터내셔널",
+   "UKF",
+   "모놀로그",
+   "소코글램"
+  ],
+  "keywords": [
+   "K뷰티 미국 진출",
+   "스킨케어화",
+   "멀티채널 전략",
+   "K뷰티 기술력"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "랜딩인터내셔널 정새라 대표가 뉴욕 꿈 위크의 K뷰티 패널에 참석해 미국 시장 성장 방향을 공유했다.",
+  "key_fact_quote": "글로벌 K뷰티 유통 전문기업 랜딩인터내셔널(Landing International) 정새라 대표가 16일(현지 시각) 미국 뉴욕 맨해튼에서 열린 글로벌 문화 축제 행사 ‘꿈(KOOM) 위크 2026’의 연사로 나서 K뷰티의 글로벌 확장과 다음 단계 성장에 대한 통찰을 공유했다.",
+  "events": [
+   {
+    "name": "꿈(KOOM) 위크 2026",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-18",
+    "place": "뉴욕 맨해튼",
+    "quote": "올해는 12일부터 18일까지 일주일간 뉴욕 맨해튼 일대에서 ‘꿈 하우스’(K브랜\n글로벌 K뷰티 유통 전문기업 랜딩인터내셔널(Landing International) 정새라 대표가 16일(현지 시각) 미국 뉴욕 맨해튼에서 열린 글로벌 문화 축제 행사 ‘꿈(KOOM) 위크 2026’의 연사로 나서 K뷰티의 글로벌 확장과 다음 단계 성장에 대한 통찰을 공유했다.\n‘꿈(KOOM) 위크’는 미국 한인 창업자 연합 ‘UKF(United Korean Founders)’가 주최하는 행사로, K스타트업과 K컬처를 아우르는 한인 비즈니스 문화 축제다. 올해는 12일부터 18일까지 일주일간 뉴욕 맨해튼 일대에서 ‘꿈 하우스’(K브랜드 팝업), ‘꿈 스테이지’(컨퍼런스), ‘꿈 라이브’(K팝 공연) 등의 프로그램이 진행됐다."
+   },
+   {
+    "name": "K뷰티의 미래(The Future of K-Beauty)",
+    "start_date": "2026-10-16",
+    "end_date": null,
+    "place": "맨해튼 헬스키친 공연장 '터미널 5'",
+    "quote": "정새라 대표는 16일 맨해튼 헬스키친 공연장 '터미널 5'에서 개최된 ‘꿈(KOOM) 스테이지’의 핵심 세션 ‘K뷰티의 미래(The Future of K-Beauty)’ 토론에 패널로 참여했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

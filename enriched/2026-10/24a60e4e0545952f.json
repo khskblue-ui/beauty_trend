@@ -1,0 +1,50 @@
+{
+ "doc_id": "24a60e4e0545952f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.nocutnews.co.kr/news/6595867?utm_source=naver&utm_medium=article&utm_campaign=20261022063025",
+ "title": "\" K - 뷰티 중심지 도약\" 오송화장품 뷰티 엑스포 팡파르",
+ "summary": "K - 뷰티 산업을 한눈에 살펴볼 수 있는 '2026 오송화장품 뷰티 엑스포'가 22일 청주 오스코(OSCO)에서 막을... 맞춤형 수출 상담회도 본격 운영됐다. 상담회에서는 모두 1200건 이상의 B2B 상담이 이뤄질 전망이다. 유망...",
+ "published_at": "2026-10-22T18:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 박람회",
+   "수출 상담회",
+   "B2B 상담"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "2026 오송화장품 뷰티 엑스포가 청주 오스코에서 막을 올렸다.",
+  "key_fact_quote": "K - 뷰티 산업을 한눈에 살펴볼 수 있는 '2026 오송화장품 뷰티 엑스포'가 22일 청주 오스코(OSCO)에서 막을",
+  "events": [
+   {
+    "name": "2026 오송화장품 뷰티 엑스포",
+    "start_date": "2026-10-22",
+    "end_date": null,
+    "place": "청주 오스코(OSCO)",
+    "quote": "K - 뷰티 산업을 한눈에 살펴볼 수 있는 '2026 오송화장품 뷰티 엑스포'가 22일 청주 오스코(OSCO)에서 막을"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

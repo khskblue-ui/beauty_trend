@@ -1,0 +1,72 @@
+{
+ "doc_id": "f3e26d8181fccfbf",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58552",
+ "title": "K-뷰티 안방서 체급 키우는 C-뷰티... 한국 ODM 역량 빌어 색조 시장 턱밑 추격",
+ "summary": "[코스인코리아닷컴 김세화 기자]중국 화장품 브랜드의 한국 시장 공략이 본격화하고 있다. 사회관계망서비스(SNS)와 해외 직구를 통해 인지도를 쌓던 단계에서 나아가 국내 뷰티 플랫폼 입점과 오프라인 팝업스토어 운영을 통해 소비자 접점을 확대하는 모습이다. 여기에 국내 화장품 제조업자개발생산…",
+ "published_at": "2026-10-21T11:19:55+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "플라워노즈",
+   "쥬디돌",
+   "쉬글램"
+  ],
+  "companies": [
+   "프로야",
+   "코스맥스",
+   "한국콜마",
+   "씨앤씨인터내셔널",
+   "SHEIN"
+  ],
+  "keywords": [
+   "C-뷰티",
+   "색조 화장품",
+   "ODM",
+   "팝업스토어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "나이트 유니콘 컬렉션",
+    "brand": "플라워노즈",
+    "launch_date": "2026-06",
+    "launch_status": "launched",
+    "launch_quote": "올해 6월에는 신규 라인업인 '나이트 유니콘 컬렉션' 출시를 기념해 더현대 서울에서 팝업스토어를 운영했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "중국 색조 화장품 브랜드가 한국 ODM 역량을 빌려 한국 시장 공략을 넓히고 있다.",
+  "key_fact_quote": "중국 화장품 브랜드의 한국 시장 공략이 본격화하고 있다.",
+  "events": [
+   {
+    "name": "10주년 기념 팝업스토어",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-25",
+    "place": "서울 성수동",
+    "quote": "21일 중국 색조 화장품 브랜드 플라워노즈(Flower Knows)는 지난 16일부터 오는 25일까지 열흘간 서울 성수동에서 브랜드 출시 10주년 기념 팝업스토어를 운영한다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

@@ -1,0 +1,61 @@
+{
+ "doc_id": "a5a7d7b6b3549033",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497457",
+ "title": "홈앤쇼핑, 인삼 유래 PDRN 스킨케어 선봬…세럼·크림 4병 구성",
+ "summary": "PDRN 캡슐 세럼·크림 (사진=홈앤쇼핑) PDRN 화장품 이 잇따라 출시 되는 가운데 이번에는 인삼에서 유래한 PDRN을 활용한 스킨케어 제품이 TV홈쇼핑에 등장한다. 홈앤쇼핑은 팜스테이의 'PDRN 캡슐 세럼·크림'을 오는 23일...",
+ "published_at": "2026-10-22T08:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "팜스테이"
+  ],
+  "companies": [
+   "홈앤쇼핑"
+  ],
+  "keywords": [
+   "PDRN 화장품",
+   "인삼 유래 성분",
+   "TV홈쇼핑"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "PDRN 캡슐 세럼·크림",
+    "brand": "팜스테이",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "홈앤쇼핑은 팜스테이의 'PDRN 캡슐 세럼·크림'을 오는 23일...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "인삼에서 유래한 PDRN을 활용한 스킨케어 제품이 TV홈쇼핑에 등장한다.",
+  "key_fact_quote": "PDRN 화장품 이 잇따라 출시 되는 가운데 이번에는 인삼에서 유래한 PDRN을 활용한 스킨케어 제품이 TV홈쇼핑에 등장한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "PDRN 화장품 이 잇따라 출시 되는 가운데 이번에는 인삼에서 유래한 PDRN을 활용한 스킨케어 제품이 TV홈쇼핑에 등장한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

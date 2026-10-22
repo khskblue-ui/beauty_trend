@@ -1,0 +1,64 @@
+{
+ "doc_id": "7126cb7c8d5f6465",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312390",
+ "title": "신약에서 화장품으로…바이오 기술, K-뷰티 새 성장축 부상 - 뷰티경제",
+ "summary": "최근 화장품산업의 화두는 바이오 기술이다.엑소좀, 줄기세포 배양액, 펩타이드, 마이크로바이옴, 성장인자(GF) 등 신약·바이오 연구 분야에서 축적된 기술들이 스킨",
+ "published_at": "2026-10-22T19:45:06+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "바이오 화장품",
+   "엑소좀",
+   "마이크로바이옴",
+   "펩타이드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신약과 바이오 연구에서 쌓인 기술이 화장품 산업의 새 성장축으로 떠오르고 있다.",
+  "key_fact_quote": "신약에서 화장품으로…바이오 기술, K-뷰티 새 성장축 부상",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "엑소좀",
+    "quote": "최근 화장품산업의 화두는 바이오 기술이다.엑소좀, 줄기세포 배양액, 펩타이드, 마이크로바이옴, 성장인자(GF) 등 신약·바이오 연구 분야에서 축적된 기술들이 스킨"
+   },
+   {
+    "name": "줄기세포 배양액",
+    "quote": "최근 화장품산업의 화두는 바이오 기술이다.엑소좀, 줄기세포 배양액, 펩타이드, 마이크로바이옴, 성장인자(GF) 등 신약·바이오 연구 분야에서 축적된 기술들이 스킨"
+   },
+   {
+    "name": "펩타이드",
+    "quote": "최근 화장품산업의 화두는 바이오 기술이다.엑소좀, 줄기세포 배양액, 펩타이드, 마이크로바이옴, 성장인자(GF) 등 신약·바이오 연구 분야에서 축적된 기술들이 스킨"
+   },
+   {
+    "name": "마이크로바이옴",
+    "quote": "최근 화장품산업의 화두는 바이오 기술이다.엑소좀, 줄기세포 배양액, 펩타이드, 마이크로바이옴, 성장인자(GF) 등 신약·바이오 연구 분야에서 축적된 기술들이 스킨"
+   },
+   {
+    "name": "성장인자(GF)",
+    "quote": "최근 화장품산업의 화두는 바이오 기술이다.엑소좀, 줄기세포 배양액, 펩타이드, 마이크로바이옴, 성장인자(GF) 등 신약·바이오 연구 분야에서 축적된 기술들이 스킨"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

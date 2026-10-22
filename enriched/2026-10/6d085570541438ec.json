@@ -1,0 +1,57 @@
+{
+ "doc_id": "6d085570541438ec",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/puig-hits-record-q3-sales-on,28392",
+ "title": "Puig hits record Q3 sales on makeup and fragrance growth",
+ "summary": "The Spanish beauty group delivered record third-quarter sales in 2026, with net revenue reaching EUR 1.39 billion (USD 1.12 billion), up 5.6% on a like-for-like (LFL) basis and 7.2% at reported exchange rates. The performance was driven by fragrance and makeup, with growth across all geographical regions. For the first nine months of 2026, the Spanish beauty group generated revenue of EUR 3.74 billion (USD 4.19 billion), up 4.8% LFL and 4.1% on a reported basis. All business segments and... - Industry buzz",
+ "published_at": "2026-10-23T00:08:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "ES"
+  ],
+  "brands": [
+   "Carolina Herrera",
+   "Uriage",
+   "ISDIN"
+  ],
+  "companies": [
+   "Puig",
+   "Corporación Químico-Farmacéutica Esteve"
+  ],
+  "keywords": [
+   "니치 향수",
+   "더마 코스메틱",
+   "메이크업 성장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "퍼이그가 향수와 메이크업 성장에 힘입어 분기 최고 매출을 올렸다",
+  "key_fact_quote": "The performance was driven by fragrance and makeup, with growth across all geographical regions.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

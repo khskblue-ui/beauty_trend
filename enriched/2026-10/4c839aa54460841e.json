@@ -1,0 +1,47 @@
+{
+ "doc_id": "4c839aa54460841e",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/nivea-sun-official-sun-protection-tour-de-france",
+ "title": "Nivea Sun gears up to become Official Sun Protection of the Tour de France",
+ "summary": "The five-year partnership between Nivea Sun and the Tour de France will see the Beiersdorf-owned brand promote sun protection across 20 European countries, beginning in March 2027",
+ "published_at": "2026-10-22T20:22:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "DE",
+   "FR"
+  ],
+  "brands": [
+   "Nivea Sun"
+  ],
+  "companies": [
+   "Beiersdorf"
+  ],
+  "keywords": [
+   "자외선 차단",
+   "스포츠 후원",
+   "공식 파트너십"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "니베아 선이 투르 드 프랑스의 공식 자외선 차단 파트너가 될 예정이다.",
+  "key_fact_quote": "The five-year partnership between Nivea Sun and the Tour de France will see the Beiersdorf-owned brand promote sun protection across 20 European countries, beginning in March 2027",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

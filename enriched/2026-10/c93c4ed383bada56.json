@@ -1,0 +1,42 @@
+{
+ "doc_id": "c93c4ed383bada56",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312302",
+ "title": "K-뷰티 수출 빅데이터 리포트 ①: 기초화장품 수츨 급증...무역흑자 15억 달러 - 뷰티경제",
+ "summary": "[편집자 주] 산업통상자원부에 따르면 2026년 9월 화장품 수출은 15억1200만 달러로 전년 동기 대비 31% 증가했다. 이에 따라 본지는 관세청 수출입무역통",
+ "published_at": "2026-10-22T09:50:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "기초화장품",
+   "무역흑자"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 수출이 전년 동기보다 크게 늘었다.",
+  "key_fact_quote": "산업통상자원부에 따르면 2026년 9월 화장품 수출은 15억1200만 달러로 전년 동기 대비 31% 증가했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

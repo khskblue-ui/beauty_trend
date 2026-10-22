@@ -1,0 +1,79 @@
+{
+ "doc_id": "c16d3cf0b1c7cba1",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53756",
+ "title": "스킨1004 ‘선세럼’ 2,367만개 판매 돌파",
+ "summary": "스킨1004 ‘마다가스카르 센텔라 히알루-시카 워터핏 선세럼’이 9월 말 기준 누적 판매량 2,367만 개를 돌파했다. 워터핏 선세럼은 올해 들어 빠른 성장세를 보이며 스킨1004의 대표 제품으로 자리잡았다. 올해 1월부터 9월까지 판매량은 전년 동기 대비 57.9% 증가했다. 선케어 수요가 집중되는 5월부터…",
+ "published_at": "2026-10-22T09:54:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "스킨1004"
+  ],
+  "companies": [
+   "예스스타일",
+   "스타일바나",
+   "스타일코리안"
+  ],
+  "keywords": [
+   "선케어",
+   "K-뷰티 플랫폼",
+   "센텔라"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "마다가스카르 센텔라 히알루-시카 워터핏 선세럼",
+    "brand": "스킨1004",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스킨1004의 선세럼이 누적 판매 기록을 세우고 해외 시상식에서 1위에 올랐다.",
+  "key_fact_quote": "스킨1004 ‘마다가스카르 센텔라 히알루-시카 워터핏 선세럼’이 9월 말 기준 누적 판매량 2,367만 개를 돌파했다.",
+  "events": [
+   {
+    "name": "예스스타일 어워드 2026",
+    "start_date": "2026-10-05",
+    "end_date": null,
+    "place": null,
+    "quote": "선세럼은 10월 5일 발표된 ‘예스스타일 어워드 2026(YesStyle Awards 2026)’에서 ‘바이럴 한국 뷰티 제품(Viral Korean Beauty Product)’과 ‘페이버릿 선케어(Favorite Sun Care)’ 부문 1위를 차지했다."
+   },
+   {
+    "name": "아마존 프라임 빅딜데이",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-08",
+    "place": null,
+    "quote": "이어 10월 6일부터 8일까지 열린 아마존 프라임 빅딜데이(Amazon Prime Big Deal Days)에서 페이셜 선스크린 부문 1위에 올랐다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "센텔라",
+    "quote": "스킨1004 ‘마다가스카르 센텔라 히알루-시카 워터핏 선세럼’이 9월 말 기준 누적 판매량 2,367만 개를 돌파했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

@@ -1,0 +1,48 @@
+{
+ "doc_id": "18881d0ae897795e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/thebio/2026/10/22/2026102210093365468",
+ "title": "유한양행, 다이소 전용 화장품 내놨다…'더마푸라민Rx' 8종 출시",
+ "summary": "기초 화장품 ) 브랜드다. 다이소를 통해 선보이는 '판테놀 베리어' 제품군은 외부 자극으로 민감해진 피부의 장벽 강화와 빠른 진정을 돕기 위해 독자적인 성분 조합을 적용한 것이 가장 큰 특징이다. 신제품 에는 피부...",
+ "published_at": "2026-10-22T10:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더마푸라민Rx"
+  ],
+  "companies": [
+   "유한양행",
+   "다이소"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "다이소 화장품",
+   "민감성 피부 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "acd6c4be233e20ce",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

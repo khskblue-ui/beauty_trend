@@ -1,0 +1,49 @@
+{
+ "doc_id": "439e5c7e29ded3d4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.rapportian.com/news/articleView.html?idxno=241527",
+ "title": "일동헬스케어, 기능성 화장품 '퍼스트랩' 이마트 '와우샵' 입점",
+ "summary": "사용자 경험 등을 반영한 신제품 을 지속적으로 개발하는 한편, 와우샵 입점을 계기로 기존의 온라인 유통은 물론, 오프라인 유통 등으로 판매 채널을 다변화하고 소비자 접점을 확대해 나갈 방침\"이라고 했다.",
+ "published_at": "2026-10-22T17:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "퍼스트랩"
+  ],
+  "companies": [
+   "일동헬스케어",
+   "일동제약그룹",
+   "이마트"
+  ],
+  "keywords": [
+   "유통 채널 다변화",
+   "합리적 소비",
+   "더마 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "cf8d8c9aa981b617",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

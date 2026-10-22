@@ -1,0 +1,48 @@
+{
+ "doc_id": "18aeb6d62c64b65b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417319",
+ "title": "유한양행, 다이소서 더마 스킨케어 시장 공략…'더마푸라민Rx' 8종 출시",
+ "summary": "이 밖에도 약산성 버블폼, 클렌징밀크, 크림 미스트 , 수분 로션, 올인원 멀티밤, 크림 마스크팩 등으로... 앞서 유한양행은 지난해 4월 올리브영을 통해 '더마푸라민' 바디 케어 4종과 헤어케어 2종을 출시 한 바 있다....",
+ "published_at": "2026-10-22T10:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더마푸라민Rx"
+  ],
+  "companies": [
+   "유한양행",
+   "다이소"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "다이소 화장품",
+   "민감성 피부 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "acd6c4be233e20ce",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

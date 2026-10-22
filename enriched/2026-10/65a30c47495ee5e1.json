@@ -1,0 +1,45 @@
+{
+ "doc_id": "65a30c47495ee5e1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsway.co.kr/news/view?ud=2026102213401077134",
+ "title": "샤페론, 신약개발 넘어 화장품 사업 확대…\"수익원 다변화\"",
+ "summary": "신약개발 기업 샤페론이 자회사 니즈테크 인수와 자체 화장품 출시 를 통해 매출 기반 확대에 나섰다. 니즈테크의 실적이 올해 3분기부터 연결 매출에 반영된 가운데 내년 국내외 합산 매출 목표를 300억원으로 제시했다....",
+ "published_at": "2026-10-22T16:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "샤페론",
+   "니즈테크"
+  ],
+  "keywords": [
+   "화장품 사업 확대",
+   "수익원 다변화",
+   "자회사 인수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신약개발 기업 샤페론이 자회사 인수와 자체 화장품 출시로 매출 기반을 넓히고 있다.",
+  "key_fact_quote": "신약개발 기업 샤페론이 자회사 니즈테크 인수와 자체 화장품 출시 를 통해 매출 기반 확대에 나섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

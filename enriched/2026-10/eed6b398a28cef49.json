@@ -1,0 +1,84 @@
+{
+ "doc_id": "eed6b398a28cef49",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58561",
+ "title": "태경에스비씨(주), 미국 OTC부터 글로벌 시장까지, 가장 신뢰할 수 있는 태경의 TELIKA, ZINIKA",
+ "summary": "태경에스비씨(주)(TAEKYUNG SBC)는 태경그룹 계열의 화장품 원료 전문기업으로, 무기계 자외선 차단 소재와 나노입자 제어 기술을 기반으로 글로벌 톱티어 브랜드(로레알, 아모레퍼시픽, LG생활건강 등)에 원료를 공급하고 있다. 태경그룹은 현재 500억원 정도인 화장품 소재 매출을 2030년까지 1,…",
+ "published_at": "2026-10-21T19:08:14+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "TELIKA",
+   "ZINIKA"
+  ],
+  "companies": [
+   "태경에스비씨",
+   "태경그룹",
+   "로레알",
+   "아모레퍼시픽",
+   "LG생활건강"
+  ],
+  "keywords": [
+   "무기 자외선 차단제",
+   "나노입자 제어",
+   "화장품 원료 국산화"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "TELIKA",
+    "brand": "태경에스비씨(주)",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "ZINIKA",
+    "brand": "태경에스비씨(주)",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "태경에스비씨는 무기계 자외선 차단 소재를 글로벌 브랜드에 공급하는 화장품 원료 전문기업이다.",
+  "key_fact_quote": "태경에스비씨(주)(TAEKYUNG SBC)는 태경그룹 계열의 화장품 원료 전문기업으로, 무기계 자외선 차단 소재와 나노입자 제어 기술을 기반으로 글로벌 톱티어 브랜드(로레알, 아모레퍼시픽, LG생활건강 등)에 원료를 공급하고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "TiO2",
+    "quote": "태경에스비씨(주)는 1969년 설립되어 50년 이상 아연, 산화아연 산업용 소재를 개발, 생산한 업력을 바탕으로 국내 최초로 화장품용 나노/논나노/착색제 TiO2를 개발, 생산하고 있다."
+   },
+   {
+    "name": "ZnO",
+    "quote": "특히 무기 자외선 차단 소재 분야에 대한 전문 기술력을 토대로 주요 제품군인 TiO2, ZnO를 생산하며 각각의 입자 mor- phology 제어와 적절한 표면개질 기술에 따라 다양한 제품군을 보유하고 있다."
+   },
+   {
+    "name": "산화아연",
+    "quote": "태경에스비씨(주)는 1969년 설립되어 50년 이상 아연, 산화아연 산업용 소재를 개발, 생산한 업력을 바탕으로 국내 최초로 화장품용 나노/논나노/착색제 TiO2를 개발, 생산하고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

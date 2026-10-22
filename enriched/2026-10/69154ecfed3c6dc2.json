@@ -1,0 +1,88 @@
+{
+ "doc_id": "69154ecfed3c6dc2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.dealsitetv.com/articles/177335",
+ "title": "[유통24시] 디올뷰티, '달콤한 꿈의 아뜰리에' 홀리데이 캠페인 外",
+ "summary": "'홀리데이 향수 & 뷰티 기프트 셀렉션'은 여성 향수 '미스 디올'과 '쟈도르', 남성 향수 '소바쥬', 디올... 신제품 과 단독 기획상품, 한정수량 특가상품처럼 판매 데이터만으로 판단하기 어려운 상품은 MD가 직접...",
+ "published_at": "2026-10-22T14:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "FR",
+   "KR"
+  ],
+  "brands": [
+   "디올뷰티",
+   "미스 디올",
+   "쟈도르",
+   "소바쥬"
+  ],
+  "companies": [
+   "디올뷰티"
+  ],
+  "keywords": [
+   "홀리데이 캠페인",
+   "기프트 셀렉션",
+   "여성 향수",
+   "남성 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "홀리데이 향수 & 뷰티 기프트 셀렉션",
+    "brand": "디올뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미스 디올",
+    "brand": "디올뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "쟈도르",
+    "brand": "디올뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "소바쥬",
+    "brand": "디올뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디올뷰티가 달콤한 꿈의 아뜰리에라는 이름으로 홀리데이 캠페인을 열었다.",
+  "key_fact_quote": "[유통24시] 디올뷰티, '달콤한 꿈의 아뜰리에' 홀리데이 캠페인 外",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

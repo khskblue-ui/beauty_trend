@@ -1,0 +1,49 @@
+{
+ "doc_id": "334186214b89869e",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58570",
+ "title": "중국 화장품 원료 생산 10년만에 2배 성장, 2030년 169만톤 예상",
+ "summary": "[코스인코리아닷컴 김민석 기자]중국향료향정화장품공업협회에 따르면 화장품산업의 전 채널 거래액이 1조 1042억위안(‘25년)으로 5년간 지속 성장한 것으로 나타났다. 수요가 커진만큼 공급 기반도 꾸준히 확충되고 있다. 그 바탕에는 화장품 원료 생산능력의 지속적인 증설이 있다는 관측이다. 중국…",
+ "published_at": "2026-10-22T18:03:04+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "FR",
+   "US",
+   "JP",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "중국향료향정화장품공업협회",
+   "코트라 광저우무역관"
+  ],
+  "keywords": [
+   "화장품 원료",
+   "중국 국산 브랜드",
+   "공급망 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국의 화장품 원료 생산능력이 앞으로도 안정적으로 늘어날 전망이다",
+  "key_fact_quote": "장기적으로 볼 때 화장품 원료 생산능력은 앞으로도 안정적인 증가세를 유지할 것으로 전망된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

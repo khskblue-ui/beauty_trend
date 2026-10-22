@@ -1,0 +1,46 @@
+{
+ "doc_id": "355c3cb3f2f55340",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/interparfums-q3-sales-surge-triggers-stock-price-jump",
+ "title": "Interparfums Q3 sales surge of 4.8% triggers stock price jump",
+ "summary": "The fragrance company, which makes scents for Jimmy Choo, Coach, Lacoste and DKNY, saw stock prices rise on 20 October after its Q3 2026 financial report signalled a strong market performance",
+ "published_at": "2026-10-22T20:15:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Jimmy Choo",
+   "Coach",
+   "Lacoste",
+   "DKNY"
+  ],
+  "companies": [
+   "Interparfums"
+  ],
+  "keywords": [
+   "향수 실적",
+   "라이선스 향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Interparfums가 3분기 실적 발표 뒤 주가가 올랐다.",
+  "key_fact_quote": "The fragrance company, which makes scents for Jimmy Choo, Coach, Lacoste and DKNY, saw stock prices rise on 20 October after its Q3 2026 financial report signalled a strong market performance",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

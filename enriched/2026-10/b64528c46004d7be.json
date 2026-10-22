@@ -1,0 +1,48 @@
+{
+ "doc_id": "b64528c46004d7be",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fetv.co.kr/news/articleView.html?idxno=312219",
+ "title": "유한양행, 다이소 전용 스킨케어 '더마푸라민Rx' 8종 출시",
+ "summary": "유한양행은 이번 신제품 출시 를 통해 다이소 유통망에 진입하고 뷰티 사업을 확대할 계획이다. 현재 비건 뷰티 브랜드 '딘시' 등을 운영하고 있으며 향후 올리브영과 글로벌 시장 등으로 판매 채널을 다변화한다는...",
+ "published_at": "2026-10-22T09:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더마푸라민Rx"
+  ],
+  "companies": [
+   "유한양행",
+   "다이소"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "다이소 화장품",
+   "민감성 피부 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "acd6c4be233e20ce",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

@@ -1,0 +1,65 @@
+{
+ "doc_id": "475a326ce2d4053e",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53755",
+ "title": "리필드, 올 3분기 美·日 최고 매출 달성",
+ "summary": "리필드가 미국·일본서 3분기 최대 실적을 달성했다. 리필드는 콘스탄트(대표 정근식)가 운영하는 두피과학 브랜드다. 미국 울타뷰티(Ulta Beauty)와 일본 큐텐(Qoo10)에 입점했다. 8월 울타뷰티 매출이 전월 대비 119.2% 증가했다. 판매 호조세가 이어지며 3분기 최대 실적을 올렸다. 두피에 흡수시…",
+ "published_at": "2026-10-22T09:00:48+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [
+   "리필드"
+  ],
+  "companies": [
+   "콘스탄트",
+   "울타뷰티",
+   "큐텐"
+  ],
+  "keywords": [
+   "두피 케어",
+   "스칼프 토닉",
+   "해외 판매 확대"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "사이토카인 cADPR™ 스칼프 부스터 토닉",
+    "brand": "리필드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "리필드가 미국과 일본에서 최대 실적을 달성했다",
+  "key_fact_quote": "리필드가 미국·일본서 3분기 최대 실적을 달성했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "cADPR",
+    "quote": "리필드는 특허 성분 ‘cADPR(사이클릭 ADP-리보스)’로 품질을 끌어올렸다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

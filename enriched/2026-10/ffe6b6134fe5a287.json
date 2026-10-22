@@ -1,0 +1,88 @@
+{
+ "doc_id": "ffe6b6134fe5a287",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875171",
+ "title": "디올 뷰티, 홀리데이 캠페인 전개",
+ "summary": "크리스챤 디올 뷰티는 캠페인을 기념해 한정판 홀리데이 에디션을 출시 했다. '홀리데이 향수 & 뷰티 기프트 셀렉션'은 대표 여성 향수 '미스 디올'과 '쟈도르', 남성 향수 '소바쥬', 디올 꾸뛰리에-퍼퓨머 컬렉션인 '라...",
+ "published_at": "2026-10-22T16:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "FR",
+   "KR"
+  ],
+  "brands": [
+   "디올 뷰티",
+   "미스 디올",
+   "쟈도르",
+   "소바쥬"
+  ],
+  "companies": [
+   "크리스챤 디올 뷰티"
+  ],
+  "keywords": [
+   "홀리데이 에디션",
+   "기프트 셀렉션",
+   "여성 향수",
+   "남성 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "홀리데이 향수 & 뷰티 기프트 셀렉션",
+    "brand": "크리스챤 디올 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "크리스챤 디올 뷰티는 캠페인을 기념해 한정판 홀리데이 에디션을 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미스 디올",
+    "brand": "크리스챤 디올 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "쟈도르",
+    "brand": "크리스챤 디올 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "소바쥬",
+    "brand": "크리스챤 디올 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디올 뷰티가 홀리데이 캠페인을 열고 한정판 홀리데이 에디션을 출시했다.",
+  "key_fact_quote": "크리스챤 디올 뷰티는 캠페인을 기념해 한정판 홀리데이 에디션을 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

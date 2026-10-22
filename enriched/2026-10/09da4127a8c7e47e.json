@@ -1,0 +1,51 @@
+{
+ "doc_id": "09da4127a8c7e47e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.economytalk.kr/news/articleView.html?idxno=424797",
+ "title": "\" 화장품 도 과학이다\"… LG생활건강, '더후'로 세계 '럭셔리 무대' 노크",
+ "summary": "양 사업부장과 강 CTO는 단독 대담 세션(Fireside Chat)에 나서, 1947년 럭키크림 출시 이후 약 80년간 축적한... NAD+는 분자 구조상 피부 투과 효율이 떨어져 화장품 적용이 까다로운 대표적 원료로 꼽혀왔다. LG생활건강...",
+ "published_at": "2026-10-22T09:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더후"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "럭셔리 스킨케어",
+   "프리미엄 해외 진출",
+   "과학 기반 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "LG생활건강이 더후로 세계 럭셔리 시장 진출을 노린다.",
+  "key_fact_quote": "LG생활건강, '더후'로 세계 '럭셔리 무대' 노크",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "NAD+",
+    "quote": "NAD+는 분자 구조상 피부 투과 효율이 떨어져 화장품 적용이 까다로운 대표적 원료로 꼽혀왔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

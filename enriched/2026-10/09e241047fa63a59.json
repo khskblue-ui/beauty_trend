@@ -1,0 +1,57 @@
+{
+ "doc_id": "09e241047fa63a59",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91524",
+ "title": "\"제약 기술력으로 다이소 뷰티 시장 공략\"…유한양행, '더마푸라민Rx' 8...",
+ "summary": "뷰티 사업 전열을 가다듬는다. 유한양행(대표이사 조욱제)은 민감성 피부 장벽 강화 및 진정 케어에 특화된 브랜드 '더마푸라민Rx(DERMAPLAMIN Rx)' 신제품 8종을 다이소에 전격 입점시켰다고 22일 밝혔다. 이번에 출시 된...",
+ "published_at": "2026-10-22T10:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더마푸라민Rx"
+  ],
+  "companies": [
+   "유한양행",
+   "다이소"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "다이소 입점",
+   "피부 장벽 강화"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "더마푸라민Rx",
+    "brand": "유한양행",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "유한양행(대표이사 조욱제)은 민감성 피부 장벽 강화 및 진정 케어에 특화된 브랜드 '더마푸라민Rx(DERMAPLAMIN Rx)' 신제품 8종을 다이소에 전격 입점시켰다고 22일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유한양행이 더마푸라민Rx 신제품을 다이소에 입점시켰다.",
+  "key_fact_quote": "유한양행(대표이사 조욱제)은 민감성 피부 장벽 강화 및 진정 케어에 특화된 브랜드 '더마푸라민Rx(DERMAPLAMIN Rx)' 신제품 8종을 다이소에 전격 입점시켰다고 22일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

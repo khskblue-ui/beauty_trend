@@ -1,0 +1,52 @@
+{
+ "doc_id": "51dd9ea795e780ea",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58558",
+ "title": "코스모코스, ODM 플랫폼 ‘코스모코스랩’ 운영... 친환경 화장품 창업 공모전 ‘코코챌린지’ 경쟁률 154대 1, 인디·스타트업의 멘토링 화제",
+ "summary": "(주)코스모코스(COSMOCOS)는 KTamp;G의 화장품 사업 자회사로, ‘꽃을든남자’, ‘다나한’, ‘비프루브’, ‘리노이아’ 등 자체 브랜드를 보유한 종합 화장품·바이오 뷰티 기업이다. 자체 브랜드 사업과 OEM·ODM 사업을 양축으로 글로벌 K-뷰티 시장에서 경쟁력을 확대하고 있다. 특…",
+ "published_at": "2026-10-21T18:37:19+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "꽃을든남자",
+   "다나한",
+   "비프루브",
+   "리노이아"
+  ],
+  "companies": [
+   "코스모코스",
+   "KT&G",
+   "돈키호테"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "온라인 ODM 플랫폼",
+   "창업 공모전"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스모코스가 온라인 ODM 플랫폼 코스모코스랩을 운영한다",
+  "key_fact_quote": "이러한 글로벌 경쟁력은 ODM 플랫폼 ‘코스모코스 랩’ 운영에서 비롯된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

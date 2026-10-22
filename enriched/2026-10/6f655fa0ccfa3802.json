@@ -1,0 +1,71 @@
+{
+ "doc_id": "6f655fa0ccfa3802",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100233",
+ "title": "스킨1004 히알루-시카 워터핏 선세럼, 누적 판매 2,367만 개 돌파",
+ "summary": "글로벌 뷰티 밸류체인 기업 크레이버코퍼레이션(이하 크레이버, 대표 전항일)이 전개하는 원료주의 스킨케어 브랜드 스킨1004(스킨천사)가 ‘마다가스카르 센텔라 히알루-시카 워터핏 선 세럼(이하 워터핏 선세럼)’의 글로벌 판매 성과를 공개했다.2021년 11월 출시된 워터핏 선세럼은 2026년 9월 30일 기준 글로벌 누적 판매량 2,367만 개를 돌파했다. 이는 미국 뉴욕주 인구 약 2,000만 명을 웃도는 규모다. 해당 판매량은 크레이버의 글로벌 유통 사업을 통해 유통된 제품의 판매량은 제외한 수치다.출시 이후 글로벌 시장에서 꾸준",
+ "published_at": "2026-10-22T10:08:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "스킨1004"
+  ],
+  "companies": [
+   "크레이버코퍼레이션",
+   "예스스타일"
+  ],
+  "keywords": [
+   "선세럼",
+   "K뷰티 글로벌 판매",
+   "선케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "워터핏 선세럼",
+    "brand": "스킨1004",
+    "launch_date": "2021-11",
+    "launch_status": "unknown",
+    "launch_quote": "2021년 11월 출시된 워터핏 선세럼은 2026년 9월 30일 기준 글로벌 누적 판매량 2,367만 개를 돌파했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스킨1004 워터핏 선세럼이 글로벌 판매 성과를 공개했다",
+  "key_fact_quote": "스킨1004(스킨천사)가 ‘마다가스카르 센텔라 히알루-시카 워터핏 선 세럼(이하 워터핏 선세럼)’의 글로벌 판매 성과를 공개했다.",
+  "events": [
+   {
+    "name": "예스스타일 어워드 2026",
+    "start_date": "2026-10-05",
+    "end_date": null,
+    "place": null,
+    "quote": "워터핏 선세럼은 지난 10월 5일 발표된 ‘예스스타일 어워드 2026(YesStyle Awards 2026)’에서 ‘바이럴 한국 뷰티 제품(Viral Korean Beauty Product)’과 ‘페이버릿 선케어(Favorite Sun Care)’ 등 2개 부문에서 1위를 차지했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "센텔라",
+    "quote": "스킨1004(스킨천사)가 ‘마다가스카르 센텔라 히알루-시카 워터핏 선 세럼(이하 워터핏 선세럼)’의 글로벌 판매 성과를 공개했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

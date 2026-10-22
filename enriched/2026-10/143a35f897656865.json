@@ -1,0 +1,44 @@
+{
+ "doc_id": "143a35f897656865",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kr.aving.net/news/articleView.html?idxno=1815906",
+ "title": "한미 화장품 , 바이오헬스케어산업전시회서 지리산 원료 스킨케어 소개.....",
+ "summary": "한미 화장품 은 건강기능식품을 제조하는 모기업을 두고 화장품 OEM·ODM 사업을 전개하는 제조사다. 기획 단계부터 출시 까지 스킨케어 전반을 아우르는 제조 솔루션을 파트너사에 제공하고 있다는 것이 회사 측...",
+ "published_at": "2026-10-22T14:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한미 화장품"
+  ],
+  "keywords": [
+   "화장품 OEM",
+   "화장품 ODM",
+   "지리산 원료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한미화장품이 바이오헬스케어산업전시회에서 지리산 원료 스킨케어를 소개했다.",
+  "key_fact_quote": "한미 화장품 , 바이오헬스케어산업전시회서 지리산 원료 스킨케어 소개",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

@@ -1,0 +1,77 @@
+{
+ "doc_id": "16ff2e2334184072",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53754",
+ "title": "코스맥스, 글로벌 바이오·메디컬 분야 ‘새판짜기’ 선언",
+ "summary": "세계 1위 화장품 연구·개발·생산(ODM) 전문 기업으로서의 위상을 다져가고 있는 코스맥스그룹이 기존 화장품·뷰티 산업의 룰을 깨고 메디컬, 헬스케어 부문까지 영토 확장을 선언하고 나섰다. 코스맥스는 국내를 뛰어넘는 글로벌 산·학 연계를 통해 ‘초격차’ 바이오 기술력을 완성하겠다는 강한 의지…",
+ "published_at": "2026-10-22T07:00:46+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스그룹",
+   "매스 제너럴 브리검",
+   "매사추세츠 종합병원"
+  ],
+  "keywords": [
+   "마이크로바이옴",
+   "화장품 ODM",
+   "바이오 헬스케어",
+   "산학 연계"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 하버드 의대 관련 병원 네트워크와 마이크로바이옴 2차 공동연구 협약을 맺었다.",
+  "key_fact_quote": "코스맥스그룹은 지난 13일(현지시각) 미국 보스턴 매사추세츠 종합병원(MGH)에서 하버드대학교 의과대학 부속 수련병원 네트워크 ‘매스 제너럴 브리검’(MGB)과 ‘마이크로바이옴 2차 공동연구(VIVA 프로젝트) 협약’을 체결했다고 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "마데카소사이드",
+    "quote": "이 미생물을 적용한 병풀은 일반 비료를 쓸 때보다 수확량이 20%, 핵심 성분인 마데카소사이드가 40% 늘었다."
+   },
+   {
+    "name": "병풀",
+    "quote": "이 미생물을 적용한 병풀은 일반 비료를 쓸 때보다 수확량이 20%, 핵심 성분인 마데카소사이드가 40% 늘었다."
+   },
+   {
+    "name": "당귀",
+    "quote": "당귀와 도라지에서도 효과를 확인했다."
+   },
+   {
+    "name": "도라지",
+    "quote": "당귀와 도라지에서도 효과를 확인했다."
+   },
+   {
+    "name": "어성초",
+    "quote": "이후 병풀·어성초·티트리 등 약용 작물 15종을 재배, 유효 성분을 극대화한 원료를 확보했다."
+   },
+   {
+    "name": "티트리",
+    "quote": "이후 병풀·어성초·티트리 등 약용 작물 15종을 재배, 유효 성분을 극대화한 원료를 확보했다."
+   },
+   {
+    "name": "EPI-7",
+    "quote": "지난 코스맥스는 2011년부터 마이크로바이옴 연구를 시작, 2016년에는 기록되지 않은 미생물 'EPI-7'을 발견하는 개가를 올렸다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

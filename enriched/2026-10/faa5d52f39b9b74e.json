@@ -1,0 +1,48 @@
+{
+ "doc_id": "faa5d52f39b9b74e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=620250",
+ "title": "유한양행, 다이소에 더마 화장품 8종 출시…뷰티 유통망 넓힌다",
+ "summary": "유한양행(대표 조욱제)은 더마 스킨케어 브랜드 '더마푸라민Rx(DERMAPLAMIN Rx)'의 신제품 8종을 다이소를 통해 출시했다고 밝혔다. 이번에 선보인 '판테놀 베리어' 라인은 외부 자극으로 민감해진 피부의 보습과 장벽 관리에...",
+ "published_at": "2026-10-22T11:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더마푸라민Rx"
+  ],
+  "companies": [
+   "유한양행",
+   "다이소"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "다이소 화장품",
+   "민감성 피부 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "996d0aacd90fa1c0",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

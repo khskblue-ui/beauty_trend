@@ -1,0 +1,53 @@
+{
+ "doc_id": "bd110517ce349444",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/a-chartres-cosmetic-valley-leve-le,28389",
+ "title": "À Chartres, Cosmetic Valley lève le voile sur la future Maison de la Cosmétique",
+ "summary": "À deux ans de son ouverture prévue, la Maison de la Cosmétique a dévoilé une partie de ses contours le 12 octobre à Chartres. À l'invitation de Cosmetic Valley et de Chartres Métropole, mécènes, partenaires internationaux, industriels et acteurs du territoire ont découvert, pour la première fois, ce futur lieu dédié à la cosmétique française et mondiale. Un an après le lancement de la campagne de mécénat, cette soirée devait symboliquement marquer l'entrée du projet dans sa phase la plus... - Brèves / Europe",
+ "published_at": "2026-10-21T19:24:54+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "Cosmetic Valley",
+   "Chartres Métropole"
+  ],
+  "keywords": [
+   "화장품 문화 공간",
+   "산업 거점",
+   "프랑스 화장품 산업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스메틱 밸리가 샤르트르에 들어설 화장품 문화 공간의 일부를 공개했다.",
+  "key_fact_quote": "À deux ans de son ouverture prévue, la Maison de la Cosmétique a dévoilé une partie de ses contours le 12 octobre à Chartres.",
+  "events": [
+   {
+    "name": "Maison de la Cosmétique",
+    "start_date": "2026-10-12",
+    "end_date": null,
+    "place": "Chartres",
+    "quote": "À deux ans de son ouverture prévue, la Maison de la Cosmétique a dévoilé une partie de ses contours le 12 octobre à Chartres."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

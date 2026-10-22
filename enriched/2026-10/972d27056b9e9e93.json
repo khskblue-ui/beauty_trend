@@ -1,0 +1,42 @@
+{
+ "doc_id": "972d27056b9e9e93",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kormedi.com/?p=2887250",
+ "title": "메이크업 전 10분의 비밀… 지수가 챙긴 ‘이것’ 진짜 효과와 주의점",
+ "summary": "향료 나 일부 보존제 등에 반응하는 경우도 있다. 사용 중 불편함이 느껴지면 바로 떼어내고 물로 부드럽게 씻어내는 것이 안전하다. 오래 붙인다고 효과가 더 커지는 것도 아니다. 권장 시간보다 오래 붙이거나 너무 자주...",
+ "published_at": "2026-10-22T18:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "패치 사용법",
+   "피부 자극",
+   "메이크업 전 관리"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "패치는 권장 시간보다 오래 붙인다고 효과가 더 커지지 않는다.",
+  "key_fact_quote": "오래 붙인다고 효과가 더 커지는 것도 아니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "525214d40e939473",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312388",
+ "title": "화장품 ODM주, 기관은 코스메카코리아·외국인은 제닉 선택 - 뷰티경제",
+ "summary": "최근 5거래일간 5개 주요 ODM종목에서 기관은 모든 종목에서 순매수했고 반면 개인은 모든 종목에서 순매도했다. 외국인은 종목별로 선별적 투자했다.네이버증권에 따",
+ "published_at": "2026-10-22T19:21:09+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스메카코리아",
+   "제닉"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "수급 동향"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 ODM 종목에서 기관은 코스메카코리아를, 외국인은 제닉을 선택했다.",
+  "key_fact_quote": "최근 5거래일간 5개 주요 ODM종목에서 기관은 모든 종목에서 순매수했고 반면 개인은 모든 종목에서 순매도했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

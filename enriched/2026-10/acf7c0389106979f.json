@@ -1,0 +1,54 @@
+{
+ "doc_id": "acf7c0389106979f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=20261022160303231837600e7ec7_30",
+ "title": "오론느, '어코드 서울 2026'서 향수 3종 선보여",
+ "summary": "이후 전문 조향 교육과정을 수료하고 조향사 1급 자격을 취득했으며, 첫 컬렉션의 세 가지 향을 직접 조향했다. 오론느의 첫 컬렉션은 삶의 순간마다 드러나는 서로 다른 자아를 향으로 표현한 세 가지 엑스트레...",
+ "published_at": "2026-10-22T16:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오론느"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "엑스트레 드 퍼퓸",
+   "조향사 컬렉션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "첫 컬렉션",
+    "brand": "오론느",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "오론느, '어코드 서울 2026'서 향수 3종 선보여",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "오론느가 첫 향수 컬렉션을 선보였다.",
+  "key_fact_quote": "오론느의 첫 컬렉션은 삶의 순간마다 드러나는 서로 다른 자아를 향으로 표현한 세 가지 엑스트레...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

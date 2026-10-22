@@ -1,0 +1,49 @@
+{
+ "doc_id": "d6238d72ec268026",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312281",
+ "title": "발효화장품 재조명...R828, 발효 글루타치온 앞세워 해외시장 확대 - 뷰티경제",
+ "summary": "글로벌 스킨케어 시장이 단순한 원료 스토리텔링을 넘어 과학적 검증과 효능 입증을 중시하는 '바이오 스킨케어(Bio Skincare)' 중심으로 재편되는 가운데,",
+ "published_at": "2026-10-22T09:35:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "R828"
+  ],
+  "companies": [],
+  "keywords": [
+   "바이오 스킨케어",
+   "발효 화장품",
+   "발효 글루타치온"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "R828이 발효 글루타치온을 앞세워 해외시장 확대에 나선다.",
+  "key_fact_quote": "발효화장품 재조명...R828, 발효 글루타치온 앞세워 해외시장 확대 - 뷰티경제",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "글루타치온",
+    "quote": "발효화장품 재조명...R828, 발효 글루타치온 앞세워 해외시장 확대 - 뷰티경제"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

@@ -1,0 +1,56 @@
+{
+ "doc_id": "6046ccafa2dcee61",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.4th.kr/news/articleView.html?idxno=2120257",
+ "title": "유한양행, 뷰티 영토 넓힌다…프리미엄 이어 다이소 공략",
+ "summary": "포쓰저널 박소연 기자 유한양행이 다이소를 '더마푸라민Rx(DERMAPLAMIN Rx)' 신제품 8종을 공식 출시했다./2026.10.22 유한양행 유한양행이 프리미엄 비건 화장품 에 이어 다이소 전용 더마 스킨케어를 선보이며 뷰티 사업의...",
+ "published_at": "2026-10-22T17:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더마푸라민Rx"
+  ],
+  "companies": [
+   "유한양행"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "다이소 뷰티",
+   "비건 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "더마푸라민Rx",
+    "brand": "유한양행",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "유한양행이 다이소를 '더마푸라민Rx(DERMAPLAMIN Rx)' 신제품 8종을 공식 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유한양행이 프리미엄 비건 화장품에 이어 다이소 전용 더마 스킨케어를 선보였다.",
+  "key_fact_quote": "유한양행이 프리미엄 비건 화장품 에 이어 다이소 전용 더마 스킨케어를 선보이며 뷰티 사업의...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

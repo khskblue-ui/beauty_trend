@@ -1,0 +1,67 @@
+{
+ "doc_id": "3b9a49f90ab8710f",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58567",
+ "title": "‘빅 플레이어’들이 더마코스메틱으로 향하는 이유... ‘피부 고민 해결·효능’ 중심 수요 늘어",
+ "summary": "[코스인코리아닷컴 김세화 기자]글로벌 뷰티 시장에서 성분·제품의 효능과 안전성, 피부과학에 기반한 전문적인 솔루션이 핵심 경쟁력으로 부상하면서 더마코스메틱(Dermacosmetics)이 새로운 성장동력으로 주목받고 있다. 글로벌 뷰티 기업들은 관련 브랜드의 육성과 제품 포트폴리오 확대…",
+ "published_at": "2026-10-22T13:09:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN",
+   "JP",
+   "IN",
+   "FR"
+  ],
+  "brands": [
+   "라로슈포제",
+   "세라비",
+   "스킨수티컬즈",
+   "비쉬",
+   "비쉬 더코스"
+  ],
+  "companies": [
+   "로레알",
+   "LVMH 그룹",
+   "세포라",
+   "울타 뷰티",
+   "에스티 로더",
+   "시세이도"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "피부과학",
+   "탈모 케어",
+   "옴니채널 유통",
+   "안티에이징"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "피부과학에 기반한 더마코스메틱이 글로벌 뷰티 시장의 새로운 성장동력으로 주목받고 있다.",
+  "key_fact_quote": "글로벌 뷰티 시장에서 성분·제품의 효능과 안전성, 피부과학에 기반한 전문적인 솔루션이 핵심 경쟁력으로 부상하면서 더마코스메틱(Dermacosmetics)이 새로운 성장동력으로 주목받고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "아미넥실",
+    "quote": "일례로 1960년대 출범 이후 두피와 모발에 대한 생리학적 연구를 이어온 비쉬 더코스(Vichy Dercos)는 아미넥실(Aminexil) 등을 활용한 탈모 케어 제품과 두피 장벽 관리를 강화한 헤어케어 라인을 선보이며 포트폴리오를 다각화하고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

@@ -1,0 +1,91 @@
+{
+ "doc_id": "c85f6bbbebfea72a",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/l-entropiste-mise-sur-l-opulence,28382",
+ "title": "L'Entropiste mise sur l'opulence sombre avec Festin",
+ "summary": "La jeune maison de parfumerie L'Entropiste dévoile Festin, une nouvelle création signée Bertrand Duchaufour. Avec cette composition construite autour de notes de mûre, de caviar, de truffe, de cuir galuchat et de oud, L'Entropiste poursuit son exploration d'une parfumerie opulente et sans compromis, où l'ordre émerge du chaos. Inspirée par l'image d'un banquet décadent dans le palais de Néron, alors que Rome brûle, la nouvelle fragrance joue sur les contrastes entre sensualité et notes... - Brèves",
+ "published_at": "2026-10-21T16:45:31+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "L'Entropiste"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "고농도 향수",
+   "오우드 향"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Festin",
+    "brand": "L’Entropiste",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "La jeune maison de parfumerie L’Entropiste dévoile Festin , une nouvelle création signée Bertrand Duchaufour .",
+    "notes": [
+     "mûre",
+     "truffe",
+     "caviar",
+     "cuir galuchat",
+     "oud"
+    ],
+    "notes_quote": "Avec cette composition construite autour de notes de mûre, de caviar, de truffe, de cuir galuchat et de oud, L’Entropiste poursuit son exploration d’une parfumerie opulente et sans compromis"
+   }
+  ],
+  "key_fact": "레트로피스트가 새 니치 향수 페스탱을 선보였다.",
+  "key_fact_quote": "La jeune maison de parfumerie L’Entropiste dévoile Festin , une nouvelle création signée Bertrand Duchaufour .",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "mûre",
+    "quote": "L’ouverture associe la mûre, la feuille de violette et un accord de truffe."
+   },
+   {
+    "name": "feuille de violette",
+    "quote": "L’ouverture associe la mûre, la feuille de violette et un accord de truffe."
+   },
+   {
+    "name": "truffe",
+    "quote": "L’ouverture associe la mûre, la feuille de violette et un accord de truffe."
+   },
+   {
+    "name": "caviar",
+    "quote": "Le caviar apporte une dimension saline à cet ensemble, qui confronte des accents fruités et terreux."
+   },
+   {
+    "name": "cuir galuchat",
+    "quote": "Au cœur, le cuir galuchat introduit une facette tactile et un souffle marin."
+   },
+   {
+    "name": "oud",
+    "quote": "En fond, le oud s’associe à un accord d’ambre gris pour prolonger la composition dans un sillage marqué."
+   },
+   {
+    "name": "ambre gris",
+    "quote": "En fond, le oud s’associe à un accord d’ambre gris pour prolonger la composition dans un sillage marqué."
+   }
+  ],
+  "dropped": [
+   "notes:Festin"
+  ]
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

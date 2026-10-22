@@ -1,0 +1,54 @@
+{
+ "doc_id": "dfd274c6264af955",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5226451",
+ "title": "배우 강예원 화장품 사업 참여...백화점 팝업스토어서 첫 선",
+ "summary": "지난 6일 출시 된 어텐스는 피부 탄력과 윤기 등 노화에 따른 피부 변화를 관리하는 데 초점을 맞춘 브랜드다.... 인사들도 화장품 업계에 도전장을 내거나 사업을 확장하는 등 활발한 비즈니스 활동에 나서고 있다....",
+ "published_at": "2026-10-22T09:33:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어텐스"
+  ],
+  "companies": [],
+  "keywords": [
+   "안티에이징",
+   "피부 탄력",
+   "백화점 팝업스토어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "어텐스",
+    "brand": "어텐스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "지난 6일 출시 된 어텐스는 피부 탄력과 윤기 등 노화에 따른 피부 변화를 관리하는 데 초점을 맞춘 브랜드다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "배우 강예원이 참여한 화장품 브랜드 어텐스가 백화점 팝업스토어에서 처음 소개됐다.",
+  "key_fact_quote": "배우 강예원 화장품 사업 참여...백화점 팝업스토어서 첫 선",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

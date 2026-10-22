@@ -1,0 +1,50 @@
+{
+ "doc_id": "f017cf58672629bb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=87994",
+ "title": "\"건축 거장 따라 나만의 집 짓는다\"…국립부산과학관 체험전",
+ "summary": "공동으로 오는 31일 초등학교 4~6학년과 중학생을 대상으로 '2026 향기과학캠프'를 개최한다. 참가자들은 향과 기억의 연관성, 조향 원리 등을 배우고 다양한 향료 를 조합해 자신만의 향기를 만드는 체험에 참여한다.",
+ "published_at": "2026-10-22T10:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "향기 체험",
+   "조향 교육",
+   "향료 조합"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "초등학생과 중학생이 조향 원리를 배우고 자신만의 향기를 만드는 캠프가 열린다.",
+  "key_fact_quote": "참가자들은 향과 기억의 연관성, 조향 원리 등을 배우고 다양한 향료 를 조합해 자신만의 향기를 만드는 체험에 참여한다.",
+  "events": [
+   {
+    "name": "2026 향기과학캠프",
+    "start_date": "2026-10-31",
+    "end_date": null,
+    "place": null,
+    "quote": "공동으로 오는 31일 초등학교 4~6학년과 중학생을 대상으로 '2026 향기과학캠프'를 개최한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

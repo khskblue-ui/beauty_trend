@@ -1,0 +1,55 @@
+{
+ "doc_id": "55aac47e7c36da01",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53761",
+ "title": "‘K-뷰티 글로벌 비즈니스 허브’ 오송, 역대 최대 규모 엑스포 개막",
+ "summary": "국내 화장품·뷰티 기업의 글로벌 시장 진출과 수출 확대를 위한 비즈니스 무대 ‘2026 오송화장품뷰티엑스포’가 오늘(22일) 청주 오스코(OSCO)에서 막을 올렸다. ‘K-뷰티 오송, 세계와 함께 성장하다’를 슬로건으로 내건 올해 엑스포는 역대 최대 규모에 해당하는 254곳의 기업이 참가한 가운데 오는…",
+ "published_at": "2026-10-22T20:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "충북도",
+   "코트라"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "해외 바이어 상담",
+   "투자 유치",
+   "체험형 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "오송화장품뷰티엑스포가 역대 최대 규모로 열려 수출 상담과 투자 유치에 초점을 맞춘다.",
+  "key_fact_quote": "특히 해외 바이어와 국내 화장품 기업 간 실질 수출상담과 투자 유치, 글로벌 비즈니스 네트워크 확대에 초점을 맞췄다.",
+  "events": [
+   {
+    "name": "2026 오송화장품뷰티엑스포",
+    "start_date": "2026-10-22",
+    "end_date": "2026-10-24",
+    "place": "청주 오스코(OSCO)",
+    "quote": "국내 화장품·뷰티 기업의 글로벌 시장 진출과 수출 확대를 위한 비즈니스 무대 ‘2026 오송화장품뷰티엑스포’가 오늘(22일) 청주 오스코(OSCO)에서 막을 올렸다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

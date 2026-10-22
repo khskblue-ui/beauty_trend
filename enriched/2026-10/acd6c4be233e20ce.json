@@ -1,0 +1,57 @@
+{
+ "doc_id": "acd6c4be233e20ce",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367827",
+ "title": "유한양행, 다이소 전용 더마 스킨케어 '더마푸라민Rx' 8종 출시 … 뷰티 ...",
+ "summary": "유한양행이 최근 새로운 뷰티 ·헬스케어 쇼핑 플랫폼으로 주목받는 유통 채널 다이소를 통해 민감 피부 장벽 및 진정 케어 전문 브랜드 '더마푸라민Rx(DERMAPLAMIN Rx)' 신제품 8종을 공식 출시 했다고 22일 밝혔다....",
+ "published_at": "2026-10-22T09:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더마푸라민Rx"
+  ],
+  "companies": [
+   "유한양행",
+   "다이소"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "다이소 화장품",
+   "민감성 피부 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "더마푸라민Rx",
+    "brand": "유한양행",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "'더마푸라민Rx(DERMAPLAMIN Rx)' 신제품 8종을 공식 출시 했다고 22일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유한양행이 다이소를 통해 더마 스킨케어 신제품을 출시했다",
+  "key_fact_quote": "'더마푸라민Rx(DERMAPLAMIN Rx)' 신제품 8종을 공식 출시 했다고 22일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

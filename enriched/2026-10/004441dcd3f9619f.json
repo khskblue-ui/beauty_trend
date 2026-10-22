@@ -1,0 +1,42 @@
+{
+ "doc_id": "004441dcd3f9619f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692697&ref=A",
+ "title": "‘국내 최대’ 오송화장품 뷰티 엑스포 개막…해외 판로 확보 ‘기대’",
+ "summary": "일대일 수출 상담과 산업 세미나 등도 진행됩니다. 특히 올해는 기업 간 거래, B2B를 강화해 해외 바이어 200명을 초청하고 행사장 중앙에 상담회장을 마련했습니다. [루미아/외국인 방문객 : \" K - 뷰티 에 관심이 많아서 모든...",
+ "published_at": "2026-10-22T19:09:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 박람회",
+   "해외 바이어 초청",
+   "수출 상담"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "오송화장품 뷰티 엑스포가 기업 간 거래를 강화해 해외 바이어를 초청하고 상담회장을 마련했다.",
+  "key_fact_quote": "특히 올해는 기업 간 거래, B2B를 강화해 해외 바이어 200명을 초청하고 행사장 중앙에 상담회장을 마련했습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

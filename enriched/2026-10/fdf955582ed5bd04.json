@@ -1,0 +1,63 @@
+{
+ "doc_id": "fdf955582ed5bd04",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=55572",
+ "title": "아타가 스노우 세럼쿠션, 사전 판매 완판···\"커버력·촉촉함 잡았다...",
+ "summary": "뷰티 브랜드 아타가(ATAGA)는 신제품 '스노우 세럼쿠션'의 사전 판매 준비 물량이 전량 소진됐다고 밝혔다.... 아타가 관계자는 \"스노우 선세럼 출시 이후 커버력에 대한 소비자 의견을 지속적으로 확인해 왔다\"며 \"이를...",
+ "published_at": "2026-10-22T11:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아타가"
+  ],
+  "companies": [],
+  "keywords": [
+   "세럼쿠션",
+   "사전 판매",
+   "커버력"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "스노우 세럼쿠션",
+    "brand": "아타가",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "뷰티 브랜드 아타가(ATAGA)는 신제품 '스노우 세럼쿠션'의 사전 판매 준비 물량이 전량 소진됐다고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스노우 선세럼",
+    "brand": "아타가",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아타가의 신제품 스노우 세럼쿠션이 사전 판매에서 완판됐다",
+  "key_fact_quote": "뷰티 브랜드 아타가(ATAGA)는 신제품 '스노우 세럼쿠션'의 사전 판매 준비 물량이 전량 소진됐다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

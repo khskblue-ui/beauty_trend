@@ -1,0 +1,54 @@
+{
+ "doc_id": "4faf6972645c4742",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58569",
+ "title": "론자·징동닷컴 등 글로벌 바이어 530개사 한자리에... ‘2026 수출 붐업코리아’ 개막",
+ "summary": "[코스인코리아닷컴 김민석 기자]국내 최대 규모의 종합 수출상담회인 ‘2026 수출 붐업코리아’가 10월 21~22일 일산 킨텍스에서 개막, 전시 일정에 들어갔다. 이번 행사에는 론자(LONZA), 징동닷컴(JD.COM), 미쓰비시 전기와 같은 유명 글로벌 기업 530곳과 국내 유망 기업 1,400곳이 참가했다.…",
+ "published_at": "2026-10-22T16:54:16+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "론자",
+   "징동닷컴",
+   "코트라"
+  ],
+  "keywords": [
+   "수출 상담회",
+   "K-소비재",
+   "K-바이오"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "2026 수출 붐업코리아가 일산 킨텍스에서 개막했다.",
+  "key_fact_quote": "국내 최대 규모의 종합 수출상담회인 ‘2026 수출 붐업코리아’가 10월 21~22일 일산 킨텍스에서 개막, 전시 일정에 들어갔다.",
+  "events": [
+   {
+    "name": "2026 수출 붐업코리아",
+    "start_date": "2026-10-21",
+    "end_date": "2026-10-22",
+    "place": "일산 킨텍스",
+    "quote": "[코스인코리아닷컴 김민석 기자] 국내 최대 규모의 종합 수출상담회인 ‘2026 수출 붐업코리아’가 10월 21~22일 일산 킨텍스에서 개막, 전시 일정에 들어갔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

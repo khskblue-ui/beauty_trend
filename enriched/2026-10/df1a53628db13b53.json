@@ -1,0 +1,102 @@
+{
+ "doc_id": "df1a53628db13b53",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100230",
+ "title": "파마리서치, 리쥬란 중심 에스테틱 라인업 학술 마케팅 강화",
+ "summary": "재생의학 전문기업 파마리서치(대표 손지훈)는 ‘리쥬란’을 중심으로 ‘에버클’, ‘리쥬더마’ 등 주요 에스테틱 라인업의 학술 마케팅을 강화하고 있다고 22일 밝혔다.파마리서치는 제품별 과학적 원리와 임상 활용 경험을 공유하는 학술 활동을 통해 의료진의 제품 이해도를 높이고, 진료 현장에서의 다양한 활용 방안을 논의하고 있다. 각 제품의 특성과 시술 목적에 따른 임상적 고려사항을 전달하며 의료진과의 학술 교류를 확대한다는 취지다. 그 일환으로 최근 대한비만미용학회(KOAT) 학술행사와 대한미용기능의학회(KFCC) 추계학술대회에 참가해",
+ "published_at": "2026-10-22T10:04:54+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리쥬란",
+   "에버클",
+   "리쥬더마"
+  ],
+  "companies": [
+   "파마리서치"
+  ],
+  "keywords": [
+   "에스테틱",
+   "재생의학",
+   "학술 마케팅",
+   "스킨 리쥬비네이션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리쥬란",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "에버클",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "리쥬더마",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "파마리서치가 리쥬란을 중심으로 에스테틱 제품의 학술 마케팅을 강화하고 있다.",
+  "key_fact_quote": "재생의학 전문기업 파마리서치(대표 손지훈)는 ‘리쥬란’을 중심으로 ‘에버클’, ‘리쥬더마’ 등 주요 에스테틱 라인업의 학술 마케팅을 강화하고 있다고 22일 밝혔다.",
+  "events": [
+   {
+    "name": "대한비만미용학회 학술행사",
+    "start_date": "2026-10-18",
+    "end_date": null,
+    "place": null,
+    "quote": "18일 열린 대한비만미용학회 학술행사에는 ‘리쥬란’과 ‘에버클’의 임상 활용 경험을 공유했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PLLA",
+    "quote": "DOT® 기술을 적용한 PN 기반 ‘리쥬란’과 PLLA 기반 바이오스티뮬레이터 ‘에버클’의 제품 특성을 바탕으로, 스킨 리쥬비네이션을 위한 임상적 고려사항과 시술 노하우를 소개했다."
+   },
+   {
+    "name": "폴리뉴클레오타이드",
+    "quote": "파마리서치 메디컬전략본부 김마이클 전무는 ‘DOT 폴리뉴클레오타이드(리쥬란)의 진화: 스캐폴드 구조와 PDRN과의 구조적 차별성’을 주제로 발표했다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "파마리서치 메디컬전략본부 김마이클 전무는 ‘DOT 폴리뉴클레오타이드(리쥬란)의 진화: 스캐폴드 구조와 PDRN과의 구조적 차별성’을 주제로 발표했다."
+   },
+   {
+    "name": "태반추출물",
+    "quote": "이와 함께 성수멜팅의원 박경민 원장은 GLP-1 치료 중 제지방량 보존 전략을 주제로 태반추출물을 활용한 기능의학적 접근을 다뤘다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

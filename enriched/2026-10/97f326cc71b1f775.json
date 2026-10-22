@@ -1,0 +1,61 @@
+{
+ "doc_id": "97f326cc71b1f775",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53760",
+ "title": "새벽 5시, 그녀는 이미 일하고 있다",
+ "summary": "새벽 4시. 타냐 지단(Tanja Židan) Luamed 안전성 평가사가 하루를 여는 시간이다. 오전 5시. K-뷰티의 유럽행이 시작된다. 타냐 지단은 새벽 5시면 한국 화장품 브랜드와 소통하며 업무에 들어간다. 국경과 시차를 넘어 한국 기업의 요청에 신속하게 대응한다. 약학을 기반으로 쌓은 전문 지식…",
+ "published_at": "2026-10-22T17:10:28+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "EU",
+   "GB"
+  ],
+  "brands": [],
+  "companies": [
+   "Luamed",
+   "하우스부띠끄"
+  ],
+  "keywords": [
+   "EU 화장품 규제",
+   "안전성 평가",
+   "K-뷰티 유럽 진출",
+   "신원료 규제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티의 유럽 진출에는 제품 전체를 보는 안전성 평가가 중요하다.",
+  "key_fact_quote": "제품의 전체 처방과 성분별 위험성을 종합적으로 평가하는 것이 핵심이다.",
+  "events": [
+   {
+    "name": "국제 바이오코스메틱 컨퍼런스",
+    "start_date": "2026-10-23",
+    "end_date": null,
+    "place": null,
+    "quote": "23일(금) ‘2026 오송화장품뷰티엑스포’ 국제 바이오코스메틱 컨퍼런스에서 ‘EU 화장품 안전성 평가: 최신 EU 법규와 실무 전략’을 발표한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "펩타이드",
+    "quote": "인체 유래 성분이나 펩타이드, 메디컬 성분의 경우 보완사항 이슈가 발생한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

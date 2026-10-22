@@ -1,0 +1,68 @@
+{
+ "doc_id": "cb4e978c79ffbf4e",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58557",
+ "title": "일진코스메틱, 프로페셔널 헤어 더마+에코 디자인 그린뷰티 RD로 명성 높은 名品·名門 장수기업",
+ "summary": "설립 64년 역사의 중소벤처기업부 선정 ‘명문 장수기업’이 일진 코스메틱(ILJIN COSMETICS)이다. 전통과 혁신의 명문(名門)은 명품(名品)을 완성한다. 이를 상징적으로 보여주는 제품이 1976년 국내 최초로 출시된 ‘케론 시스테인 웨이브’다. 국내 최초 천연 모발 성분인 시스테인 펌제로 모발 손…",
+ "published_at": "2026-10-21T18:29:17+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "케론"
+  ],
+  "companies": [
+   "일진코스메틱"
+  ],
+  "keywords": [
+   "OEM/ODM",
+   "헤어 케어",
+   "클린 뷰티",
+   "비건 뷰티",
+   "친환경 포장"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "케론 시스테인 웨이브",
+    "brand": "일진코스메틱",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "일진코스메틱은 헤어 전문 브랜드에서 출발해 스킨케어와 더마 분야까지 OEM, ODM 사업을 넓혔다.",
+  "key_fact_quote": "일진코스메틱은 헤어 프로페셔널 브랜드로 출발해 축적된 기술력을 바탕으로 사업 영역을 확장, 현재는 ‘종합 뷰티·헬스 OEM/ODM 기업’으로 자리매김했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "시스테인",
+    "quote": "국내 최초 천연 모발 성분인 시스테인 펌제로 모발 손…\n설립 64년 역사의 중소벤처기업부 선정 ‘명문 장수기업’이 일진 코스메틱(ILJIN COSMETICS)이다. 전통과 혁신의 명문(名門)은 명품(名品)을 완성한다. 이를 상징적으로 보여주는 제품이 1976년 국내 최초로 출시된 ‘케론 시스테인 웨이브’다. 국내 최초 천연 모발 성분인 시스테인 펌제로 모발 손상을 줄이고 보다 부드러운 웨이브를 구현한 제품으로 올해 출시 50주년 기념 리패키지를 선보이며 품질의 우수성을 새삼 일깨우며 화제가 됐다."
+   },
+   {
+    "name": "아로마 오일",
+    "quote": "합성향료 대신 100% 식물성 아로마 오일 함유제품을 개발하는 등 64년 동안 연구제일의 장인정신을 바탕으로 고객의 가치와 신뢰를 더욱 높이고 미래를 선도하는 기업으로 도약하기 위해 오늘도 힘쓰고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

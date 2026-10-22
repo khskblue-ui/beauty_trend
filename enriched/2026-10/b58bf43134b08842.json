@@ -1,0 +1,44 @@
+{
+ "doc_id": "b58bf43134b08842",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312063",
+ "title": "티몰 뷰티 트렌드 3분기 리포트⑧: 에센스시장, 성장세 지속 - 뷰티경제",
+ "summary": "[편집자 주] 뷰티경제는 2022년 7월부터 중국 최대 전자상거래 플랫폼 티몰(Tmall)의 뷰티 카테고리 판매 데이터를 추적 조사하며 시장 변화를 분석하고 있다",
+ "published_at": "2026-10-22T09:30:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "티몰"
+  ],
+  "keywords": [
+   "에센스 시장",
+   "티몰 뷰티",
+   "중국 뷰티 트렌드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "티몰 에센스 시장이 성장세를 이어가고 있다",
+  "key_fact_quote": "티몰 뷰티 트렌드 3분기 리포트⑧: 에센스시장, 성장세 지속 - 뷰티경제",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

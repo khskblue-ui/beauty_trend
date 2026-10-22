@@ -1,0 +1,77 @@
+{
+ "doc_id": "ebade83bf028a98c",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/phtalates-et-bisphenols,28386",
+ "title": "Phtalates et bisphénols perturberaient le neuro-développement, selon une étude",
+ "summary": "L'exposition in utero à des substances chimiques, certains phtalates et phénols, est susceptible d'avoir un impact sur le développement intellectuel des enfants, affirme une étude de l'INSERM publiée mardi 20 octobre. Les auteurs plaident pour une réglementation accrue de ces produits. L'étude, parue dans la revue Environmental Health Perspectives\"Mixture of Plasticizer Chemicals and Child Intelligence : A Weight-of-Evidence and Meta-Analysis-Informed Bayesian Approach in a Cohort with... - Science, R&D",
+ "published_at": "2026-10-21T18:21:05+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "regulation",
+  "countries": [
+   "FR",
+   "ES"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "프탈레이트",
+   "비스페놀",
+   "내분비계 교란물질",
+   "화장품 안전"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "프랑스 INSERM 연구에서 임신 중 프탈레이트와 비스페놀 노출이 아이의 지적 발달에 영향을 줄 수 있다는 결과가 나왔다.",
+  "key_fact_quote": "L'exposition in utero à des substances chimiques, certains phtalates et phénols, est susceptible d'avoir un impact sur le développement intellectuel des enfants, affirme une étude de l'INSERM publiée mardi 20 octobre.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "DEHP",
+    "quote": "Les scientifiques ont mesuré notamment l’exposition à quatre phtalates (DEHP, DEP, DnBP, DiBP) et deux bisphénols (A et S), via des prélèvements répétés d’urine de femmes enceintes et leurs bébés - nombre d’études précédentes se basaient sur un seul prélèvement."
+   },
+   {
+    "name": "DEP",
+    "quote": "Les scientifiques ont mesuré notamment l’exposition à quatre phtalates (DEHP, DEP, DnBP, DiBP) et deux bisphénols (A et S), via des prélèvements répétés d’urine de femmes enceintes et leurs bébés - nombre d’études précédentes se basaient sur un seul prélèvement."
+   },
+   {
+    "name": "DnBP",
+    "quote": "Les scientifiques ont mesuré notamment l’exposition à quatre phtalates (DEHP, DEP, DnBP, DiBP) et deux bisphénols (A et S), via des prélèvements répétés d’urine de femmes enceintes et leurs bébés - nombre d’études précédentes se basaient sur un seul prélèvement."
+   },
+   {
+    "name": "DiBP",
+    "quote": "Les scientifiques ont mesuré notamment l’exposition à quatre phtalates (DEHP, DEP, DnBP, DiBP) et deux bisphénols (A et S), via des prélèvements répétés d’urine de femmes enceintes et leurs bébés - nombre d’études précédentes se basaient sur un seul prélèvement."
+   },
+   {
+    "name": "bisphénol A",
+    "quote": "L’Union européenne a interdit le bisphénol A (BPA) dans la fabrication des papiers thermiques utilisés pour les tickets de caisse depuis janvier 2020, mais des substituts comme le BPS sont parfois utilisés (NDLR)"
+   },
+   {
+    "name": "BPS",
+    "quote": "L’Union européenne a interdit le bisphénol A (BPA) dans la fabrication des papiers thermiques utilisés pour les tickets de caisse depuis janvier 2020, mais des substituts comme le BPS sont parfois utilisés (NDLR)"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

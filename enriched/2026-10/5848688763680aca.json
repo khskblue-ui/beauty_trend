@@ -1,0 +1,42 @@
+{
+ "doc_id": "5848688763680aca",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.inews365.com/news/article.html?no=940411",
+ "title": "'2026 오송화장품 뷰티 엑스포' 막 올라…24일까지 K - 뷰티 미래 한눈에",
+ "summary": "기업 전시, 수출 상담, 콘퍼런스, 뷰티 체험을 아우르는 산업 중심의 B2B(기업 간 거래)·B2C(기업·소비자 간 거래) 통합 행사다. ' K - 뷰티 오송, 세계와 함께 성장하다'라는 슬로건 아래 역대 최대 규모인 254개 기업이...",
+ "published_at": "2026-10-22T16:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 박람회",
+   "B2B 수출 상담",
+   "뷰티 체험"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "오송화장품 뷰티 엑스포가 기업 전시, 수출 상담, 콘퍼런스, 뷰티 체험을 아우르는 통합 행사로 열렸다.",
+  "key_fact_quote": "기업 전시, 수출 상담, 콘퍼런스, 뷰티 체험을 아우르는 산업 중심의 B2B(기업 간 거래)·B2C(기업·소비자 간 거래) 통합 행사다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

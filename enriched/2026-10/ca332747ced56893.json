@@ -1,0 +1,99 @@
+{
+ "doc_id": "ca332747ced56893",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/interparfums-q3-sales-flat-as,28391",
+ "title": "Interparfums' Q3 sales flat, as European operations offset US decline",
+ "summary": "Interparfums Inc. reported stable third-quarter net sales of USD 430 million, unchanged from the same period last year. For the first nine months of the year, sales increased by 1% to USD 1.115 billion, compared with USD 1.102 billion in 2025. European-based operations recorded a 4% increase in third-quarter sales to USD 306 million, while US-based operations declined by 7% to USD 127 million. The company attributed the US decline largely to supply chain disruptions that delayed shipments... - Industry buzz",
+ "published_at": "2026-10-22T20:07:51+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Coach",
+   "Montblanc",
+   "Jimmy Choo",
+   "Lacoste",
+   "Guess",
+   "Donna Karan/DKNY",
+   "Ferragamo",
+   "Roberto Cavalli"
+  ],
+  "companies": [
+   "Interparfums Inc."
+  ],
+  "keywords": [
+   "라이선스 향수",
+   "라인 익스텐션",
+   "향수 선물 세트"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Montblanc Legend Elixir",
+    "brand": "Montblanc",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "The company attributed the performance to the launches of Montblanc Legend Elixir in the first quarter and Montblanc Explorer Infinite in the third quarter.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Montblanc Explorer Infinite",
+    "brand": "Montblanc",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "The company attributed the performance to the launches of Montblanc Legend Elixir in the first quarter and Montblanc Explorer Infinite in the third quarter.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "I Want Choo Midnight",
+    "brand": "Jimmy Choo",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "The I Want Choo and Jimmy Choo Man franchises continued to contribute, alongside recent line extensions, including I Want Choo Midnight .",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Original Intense",
+    "brand": "Lacoste",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Lacoste also returned to growth, with fragrance sales up 4% in the third quarter, driven by Original Intense , the latest women’s launch in the Original franchise.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Serpentine",
+    "brand": "Roberto Cavalli",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Growth was supported by the continued popularity of the Serpentine launch in 2025, new line extensions introduced in 2026 and the partnership with Kiko Milano",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "인터파품스의 3분기 매출은 유럽 사업이 미국 부진을 메워 보합을 보였다.",
+  "key_fact_quote": "Interparfums Inc. reported stable third-quarter net sales of USD 430 million, unchanged from the same period last year.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

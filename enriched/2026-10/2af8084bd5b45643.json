@@ -1,0 +1,49 @@
+{
+ "doc_id": "2af8084bd5b45643",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/maquillage-et-parfum-tirent-puig,28393",
+ "title": "Maquillage et parfum tirent Puig vers un record de ventes au 3e trimestre",
+ "summary": "Le groupe espagnol de cosmétiques a réalisé un chiffre d'affaires record au troisième trimestre 2026, atteignant 1,39 milliard d'euros, en hausse de 5,6% à périmètre comparable et de 7,2% à taux de change courants. Cette progression a été portée par les parfums et le maquillage, et une progression dans toutes les zones géographiques. Sur les neuf premiers mois de 2026, le groupe a généré un chiffre d'affaires de 3,74 milliards d'euros, en croissance de 4,8% à périmètre comparable et de 4,1%... - Brèves",
+ "published_at": "2026-10-23T00:12:25+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "ES"
+  ],
+  "brands": [
+   "Carolina Herrera",
+   "Uriage",
+   "ISDIN"
+  ],
+  "companies": [
+   "Puig",
+   "Corporación Químico-Farmacéutica Esteve"
+  ],
+  "keywords": [
+   "니치 향수",
+   "메이크업",
+   "더마 코스메틱"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "퓨이그가 향수와 메이크업에 힘입어 3분기 최대 매출을 냈다.",
+  "key_fact_quote": "Cette progression a été portée par les parfums et le maquillage, et une progression dans toutes les zones géographiques.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

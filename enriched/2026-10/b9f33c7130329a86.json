@@ -1,0 +1,67 @@
+{
+ "doc_id": "b9f33c7130329a86",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ekn.kr/web/view.php?key=20261022028559690",
+ "title": "[똑똑한뷰티] 이그니스 엑쎄라피, 스킨1004, 리필드, 라엘코리아, 랜딩인...",
+ "summary": "이달 출시한 신제품 'PDRN 5.5% 액티브 크림'도 오프라인에서 처음 공개한다. 연어 유래 PDRN 원료 5만5000ppm과 EGF... 글로벌 홍보대사 안야 테일러 조이와 데바 카셀이 등장하는 영상에서는 향수 와 화장품 등을 준비하는...",
+ "published_at": "2026-10-22T11:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이그니스 엑쎄라피",
+   "스킨1004",
+   "리필드",
+   "라엘코리아",
+   "랜딩인"
+  ],
+  "companies": [],
+  "keywords": [
+   "PDRN 스킨케어",
+   "연어 유래 성분",
+   "오프라인 팝업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "PDRN 5.5% 액티브 크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이달 출시한 신제품 'PDRN 5.5% 액티브 크림'도 오프라인에서 처음 공개한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이달 출시한 PDRN 크림을 오프라인에서 처음 공개한다.",
+  "key_fact_quote": "이달 출시한 신제품 'PDRN 5.5% 액티브 크림'도 오프라인에서 처음 공개한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "연어 유래 PDRN 원료 5만5000ppm과 EGF..."
+   },
+   {
+    "name": "EGF",
+    "quote": "연어 유래 PDRN 원료 5만5000ppm과 EGF..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}

@@ -1,0 +1,50 @@
+{
+ "doc_id": "0ae80c0c31c9ebf4",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/interparfums-renoue-avec-la,28390",
+ "title": "Interparfums renoue avec la croissance des ventes au 3e trimestre",
+ "summary": "Après un premier semestre difficile, Interparfums SA a publié mercredi 21 octobre des ventes en hausse au troisième trimestre, portées notamment par les marques Montblanc et Coach ainsi que par un rebond sur le marché chinois. De juillet à fin septembre, le chiffre d'affaires progresse de 4,8%, à 265,5 millions d'euros, retrouvant la croissance après un premier semestre pénalisé par la guerre au Moyen-Orient et des effets de change défavorables sur le marché nord-américain, a indiqué le... - Brèves",
+ "published_at": "2026-10-22T19:49:21+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "CN"
+  ],
+  "brands": [
+   "Montblanc",
+   "Coach",
+   "Jimmy Choo",
+   "Lacoste"
+  ],
+  "companies": [
+   "Interparfums SA"
+  ],
+  "keywords": [
+   "향수 매출",
+   "중국 시장 회복",
+   "라이선스 향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인터파품스 SA는 몽블랑과 코치에 힘입어 3분기 매출이 다시 늘었다.",
+  "key_fact_quote": "Après un premier semestre difficile, Interparfums SA a publié mercredi 21 octobre des ventes en hausse au troisième trimestre , portées notamment par les marques Montblanc et Coach",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": true
+}

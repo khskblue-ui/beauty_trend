@@ -1,0 +1,43 @@
+{
+ "doc_id": "46429ca4c3d26b56",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026102200072&story_seq=0&soCode=114&socttSn=NS2026102200072&socttSeq=0",
+ "title": "'역대 최대' 규모 2026 오송 화장품 뷰티엑스포 막 올라",
+ "summary": "최신 뷰티 트렌드를 직접 보고 느낄 수 있는 '2026 오송 화장품 뷰티엑스포', 'K-뷰티 오송, 세계와 함께 성장하다'라는 슬로건 아래 역대 최대 규모인 254개 화장품 기업이 참가해 다양한 신제품 과 기술을 선보입니다. 해외...",
+ "published_at": "2026-10-22T16:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 박람회",
+   "수출 상담회",
+   "바이어 초청"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "ca8505da596c91d8",
+ "enriched_at": "2026-10-22T21:31:29+00:00",
+ "had_body": false
+}

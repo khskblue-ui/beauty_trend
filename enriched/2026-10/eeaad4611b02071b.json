@@ -1,0 +1,42 @@
+{
+ "doc_id": "eeaad4611b02071b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.cctimes.kr/news/articleView.html?idxno=933467",
+ "title": "오송화장품 뷰티 엑스포 막 올랐다",
+ "summary": "` K - 뷰티 오송, 세계와 함께 성장하다'를 슬로건으로 내건 올해 행사는 역대 최대 규모인 254개 기업이 참가해 제품 전시와 수출 상담, 투자유치 등 다양한 프로그램을 진행한다. 이날 오후 2시 열린 개막식에는 신용한...",
+ "published_at": "2026-10-22T19:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 박람회",
+   "K뷰티 수출",
+   "해외 판로"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "오송화장품 뷰티 엑스포가 역대 최대 규모로 열려 제품 전시와 수출 상담을 진행한다",
+  "key_fact_quote": "올해 행사는 역대 최대 규모인 254개 기업이 참가해 제품 전시와 수출 상담, 투자유치 등 다양한 프로그램을 진행한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-22T21:34:53+00:00",
+ "had_body": false
+}
