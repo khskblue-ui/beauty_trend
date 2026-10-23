@@ -1,0 +1,44 @@
+{
+ "doc_id": "9ab548be417d08a4",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312065",
+ "title": "8대 품목으로 살펴본 3분기 중국 티몰 뷰티 소비 트렌드",
+ "summary": "티몰 뷰티 시장은 전반적인 침체 속에서도 기능성 스킨케어 중심의 소비 재편이 진행되고 있다.본지가 티몰 뷰티 주요 8개 카테고리 TOP10 브랜드의 2025년 3분기와 2026년 3분기 판매량을 비교 분석한 결과, 전체 판매량은 515만 개에서 432만 개로 감소하며 16.1% 줄어든 것으로 나타났다. 분석 대상 8개 품목 가운데 에센스를 제외한 대부분 카테고리가 감소하거나 정체를 보이며 시장 전반의 위축세가 확인됐다.품목별로는 에센스가 51만 개에서 63만 개로 23.5% 증가하며 유일한 성장세를 기록했다. 반면 쿠션(-41.5%",
+ "published_at": "2026-10-23T10:55:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "티몰"
+  ],
+  "keywords": [
+   "기능성 스킨케어",
+   "에센스 성장",
+   "색조 시장 위축"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 티몰 뷰티 시장은 침체 속에서도 소비가 기능성 스킨케어 중심으로 재편되고 있다.",
+  "key_fact_quote": "티몰 뷰티 시장은 전반적인 침체 속에서도 기능성 스킨케어 중심의 소비 재편이 진행되고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

@@ -1,0 +1,87 @@
+{
+ "doc_id": "4344960f79eef008",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53763",
+ "title": "센슬, 큐텐재팬 ‘메가데뷔’ 참가 \"이게 퀵뷰티다\"",
+ "summary": "센슬이 큐텐재팬의 신규 브랜드 육성 프로그램인 ‘메가데뷔’에 참가한다. 센슬(SENSEL)은 ‘퀵 뷰티’ 브랜드로서 바쁜 현대인에게 쉽고 빠른 뷰티 솔루션을 제공한다. 메가데뷔는 큐텐재팬이 일본 시장에 새롭게 진출하는 K-브랜드를 지원하는 제도다. 유망 브랜드를 선정해 큐텐재팬 메인 페이지 내…",
+ "published_at": "2026-10-23T11:52:52+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "센슬"
+  ],
+  "companies": [
+   "큐텐재팬"
+  ],
+  "keywords": [
+   "퀵 뷰티",
+   "립 틴트",
+   "K뷰티 일본 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퀵 틴트",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "센슬은 메가데뷔에 ‘퀵 틴트(Quick Tint)’를 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "뮤트 크림 퍼퓸",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "센슬은 감각(Sense)과 자기(Self)를 결합해 만든 브랜드명이다. 바쁜 일상 속에서 자신만의 감각과 스타일을 유지하려는 현대인의 니즈를 반영해 개발했다. ‘바쁘지만, 여전히 나답게(Busy, but still me)’라는 메시지 아래 퀵 틴트와 뮤트 크림 퍼퓸 등을 선보이고 있다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "센슬이 큐텐재팬의 신규 브랜드 육성 프로그램 메가데뷔에 참가해 퀵 틴트를 선보인다.",
+  "key_fact_quote": "센슬이 큐텐재팬의 신규 브랜드 육성 프로그램인 ‘메가데뷔’에 참가한다.",
+  "events": [
+   {
+    "name": "메가데뷔 라이브 방송",
+    "start_date": "2026-10-20",
+    "end_date": null,
+    "place": null,
+    "quote": "10월 20일 메가데뷔 라이브 방송에선 화장품 립 카테고리 랭킹 1위에 등극했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "블랙라즈베리씨 오일",
+    "quote": "제품에 블랙라즈베리씨 오일과 특허 성분인 바이오 핑크 오일, 펩타이드 복합체가 들어있다."
+   },
+   {
+    "name": "바이오 핑크 오일",
+    "quote": "제품에 블랙라즈베리씨 오일과 특허 성분인 바이오 핑크 오일, 펩타이드 복합체가 들어있다."
+   },
+   {
+    "name": "펩타이드 복합체",
+    "quote": "제품에 블랙라즈베리씨 오일과 특허 성분인 바이오 핑크 오일, 펩타이드 복합체가 들어있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

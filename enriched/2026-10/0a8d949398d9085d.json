@@ -1,0 +1,51 @@
+{
+ "doc_id": "0a8d949398d9085d",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/la-roche-posay-to-neutrogena-new-bemt-sunscreens",
+ "title": "La Roche-Posay to Neutrogena: New BEMT sunscreens hitting shelves in the US",
+ "summary": "Bemotrizinol (BEMT) is the first new ingredient approved by the US Food and Drug Administration (FDA) for use in over-the-counter SPFs in the states since 1999. Now, brands such as La Roche-Posay, Neutrogena and Ultra Violette have launched new skus in the US formulated with the BEMT",
+ "published_at": "2026-10-23T20:12:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "product_launch",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "La Roche-Posay",
+   "Neutrogena",
+   "Ultra Violette"
+  ],
+  "companies": [],
+  "keywords": [
+   "자외선 차단제",
+   "신규 자외선 차단 성분",
+   "미국 선케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국에서 새로 승인된 자외선 차단 성분을 쓴 선크림이 라로슈포제, 뉴트로지나 등에서 나왔다.",
+  "key_fact_quote": "Now, brands such as La Roche-Posay, Neutrogena and Ultra Violette have launched new skus in the US formulated with the BEMT",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Bemotrizinol",
+    "quote": "Bemotrizinol (BEMT) is the first new ingredient approved by the US Food and Drug Administration (FDA) for use in over-the-counter SPFs in the states since 1999."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

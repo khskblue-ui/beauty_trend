@@ -1,0 +1,56 @@
+{
+ "doc_id": "a1cf3278b5e51e05",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=20261023100643916146a9e4dd7f_30",
+ "title": "어퓨, 립 메이크업 신제품 '모찌 블러 틴트' 6종 출시",
+ "summary": "에이블씨엔씨의 화장품 브랜드 어퓨(A'pieu)가 립 메이크업 신제품 '모찌 블러 틴트'를 출시한다고 23일 밝혔다. 이번 신제품 은 수분감 있는 크림 제형에 보송한 마무리감을 더한 립 틴트다. 어퓨는 입술의 각질과 주름을...",
+ "published_at": "2026-10-23T10:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어퓨"
+  ],
+  "companies": [
+   "에이블씨엔씨"
+  ],
+  "keywords": [
+   "립 틴트",
+   "크림 제형",
+   "보송한 마무리"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "모찌 블러 틴트",
+    "brand": "어퓨",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에이블씨엔씨의 화장품 브랜드 어퓨(A'pieu)가 립 메이크업 신제품 '모찌 블러 틴트'를 출시한다고 23일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "어퓨가 수분감 있는 크림 제형의 립 틴트 신제품을 출시한다.",
+  "key_fact_quote": "이번 신제품 은 수분감 있는 크림 제형에 보송한 마무리감을 더한 립 틴트다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

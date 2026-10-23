@@ -1,0 +1,43 @@
+{
+ "doc_id": "0d5c70a33417dc99",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=775708",
+ "title": "플레어유 최립우, 유픽 '베스트 향수 광고 모델' 1위",
+ "summary": "플레어유(FLARE U) 최립우가 글로벌 팬덤 플랫폼 유픽(UPICK)의 ' 브랜드 픽 - 베스트 향수 광고 모델' 투표에서 25.88%의 득표율로 1위를 차지했다. 2위는 코이키즈 케이토(24.72%), 3위는 앤더블 리키(23.88%), 4위는...",
+ "published_at": "2026-10-23T08:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "유픽"
+  ],
+  "keywords": [
+   "향수 광고 모델",
+   "팬덤 투표"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "유픽의 베스트 향수 광고 모델 투표에서 플레어유 최립우가 1위를 차지했다.",
+  "key_fact_quote": "플레어유(FLARE U) 최립우가 글로벌 팬덤 플랫폼 유픽(UPICK)의 ' 브랜드 픽 - 베스트 향수 광고 모델' 투표에서 25.88%의 득표율로 1위를 차지했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

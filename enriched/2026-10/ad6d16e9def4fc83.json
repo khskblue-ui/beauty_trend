@@ -1,0 +1,42 @@
+{
+ "doc_id": "ad6d16e9def4fc83",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=120735",
+ "title": "\"2026년은 K뷰티 중국 진출 적기\"… 규제 완화에 기대감",
+ "summary": "우선 해외 화장품 브랜드가 중국에서 신제품 을 최초로 출시하는 경우 일정 요건을 충족하면 해외 판매증명서 제출이 면제될 수 있다. 그동안 한국 화장품 기업들은 중국 진출 과정에서 해외 판매 이력을 증명해야 하는...",
+ "published_at": "2026-10-23T18:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "중국 규제 완화",
+   "K뷰티 중국 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국이 해외 화장품 신제품의 해외 판매증명서 제출 면제를 허용할 수 있게 되어 K뷰티 중국 진출에 기대가 커졌다.",
+  "key_fact_quote": "우선 해외 화장품 브랜드가 중국에서 신제품 을 최초로 출시하는 경우 일정 요건을 충족하면 해외 판매증명서 제출이 면제될 수 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "2f0a3c2ac76a160f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://dealsite.co.kr/articles/171156",
+ "title": "올리브영 다음은 약국…K뷰티 새성장판으로 주목",
+ "summary": "일반 화장품 매장과 약국의 차이는 제품을 선택하는 과정에서 나타난다. 헬스앤뷰티(H&B) 스토어에서는 인기 순위와 신제품 , 소비자 후기 등이 구매에 영향을 미치는 반면 약국에서는 약사의 상담과 제품의 성분...",
+ "published_at": "2026-10-23T08:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "약국 채널",
+   "H&B 스토어",
+   "성분 상담"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "약국이 올리브영에 이어 K뷰티의 새 판매 채널로 주목받고 있다.",
+  "key_fact_quote": "일반 화장품 매장과 약국의 차이는 제품을 선택하는 과정에서 나타난다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

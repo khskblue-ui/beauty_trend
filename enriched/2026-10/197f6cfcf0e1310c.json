@@ -1,0 +1,45 @@
+{
+ "doc_id": "197f6cfcf0e1310c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202610230845O",
+ "title": "'2026 코리아 엑스포 LA' 개막…첫날 ' 뷰티 데이'에 에일리 참석",
+ "summary": "글로벌 K - 뷰티 플랫폼 ‘소코글램(Soko Glam)’ 창업자 샬롯 조(Charlotte Cho)는 한미 뷰티 브랜드의 강점과... 바이어와지 뷰티 ·식품 분야 유통사 관계자들을 초청했다. 바이어들은 개막일부터 참가기업과 1:1 수출 ...",
+ "published_at": "2026-10-23T11:49:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "소코글램"
+  ],
+  "keywords": [
+   "K뷰티 미국 진출",
+   "수출 상담회",
+   "뷰티 박람회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코리아 엑스포 LA가 개막하고 첫날 뷰티 데이가 열렸다.",
+  "key_fact_quote": "'2026 코리아 엑스포 LA' 개막…첫날 ' 뷰티 데이'에 에일리 참석",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

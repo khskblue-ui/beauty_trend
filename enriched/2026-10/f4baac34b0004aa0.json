@@ -1,0 +1,45 @@
+{
+ "doc_id": "f4baac34b0004aa0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160273173572968",
+ "title": "에이페이블, 홍대 팜픽약국서 향수 판매…11월 제품 8종으로 확대",
+ "summary": "비롯해 향수 5종을 판매하고 있으며, 오는 11월에는 제품을 8종으로 늘릴 계획이다. 김길태 대표는 “젊음과 트렌드의 중심지인 홍대에 위치한 팜픽약국 입점을 통해 더 많은 고객에게 에이페이블만의 향과 브랜드 ...",
+ "published_at": "2026-10-23T11:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이페이블"
+  ],
+  "companies": [
+   "팜픽약국"
+  ],
+  "keywords": [
+   "약국 향수 판매",
+   "향수 채널 확대"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에이페이블이 홍대 팜픽약국에서 향수를 판매하며 제품 수를 늘릴 계획이다.",
+  "key_fact_quote": "에이페이블, 홍대 팜픽약국서 향수 판매…11월 제품 8종으로 확대",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

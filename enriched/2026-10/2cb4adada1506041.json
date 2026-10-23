@@ -1,0 +1,65 @@
+{
+ "doc_id": "2cb4adada1506041",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/l-oreal-accelerates-in-q3-with,28397",
+ "title": "L'Oréal accelerates in Q3, with growth across all divisions",
+ "summary": "L'Oréal said Thursday, October 22, its third quarter sales rose by double digits. Sales growth was driven by strong demand across all divisions and regions, including China. The French cosmetics giant, whose brands include Garnier, Lancôme and Maybelline, said its sales came in at 11.6 billion euros (USD 13.0 billion) in the three months to the end of September, handily beating analyst expectations. That is an 11.9-percent increase from the same period last year (+7.2 percent... - Industry buzz",
+ "published_at": "2026-10-23T16:21:54+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "CN"
+  ],
+  "brands": [
+   "Garnier",
+   "Lancôme",
+   "Maybelline",
+   "Kérastase",
+   "Redken",
+   "La Roche-Posay",
+   "Vichy",
+   "Yves Saint Laurent",
+   "Creed",
+   "L’Oréal Paris",
+   "NYX Professional Makeup"
+  ],
+  "companies": [
+   "L’Oréal"
+  ],
+  "keywords": [
+   "럭셔리 향수",
+   "프리미엄 헤어케어",
+   "더마 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "로레알이 모든 사업부와 지역에서 성장한 분기 실적을 발표했다.",
+  "key_fact_quote": "L’Oréal said Thursday, October 22, its third quarter sales rose by double digits.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

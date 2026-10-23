@@ -1,0 +1,46 @@
+{
+ "doc_id": "fdc12725fc9f3221",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bizwnews.com/news/articleView.html?idxno=149754",
+ "title": "[마켓 HOT 뉴스] LG생활건강 '더후', 국내 뷰티업계 유일 FT 럭셔리 서밋...",
+ "summary": "럭키크림 출시 이후 LG생활건강이 약 80년 동안 쌓아온 독보적인 R&D 인프라를 설명했다. 이와 함께... NAD는 피부 투과 효율이 떨어져 화장품 에 적용하기 어려운 대표적 성분으로 꼽혀 왔다. 그러나 13년 동안의 끈질긴...",
+ "published_at": "2026-10-23T07:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "고급 화장품",
+   "롱제비티",
+   "연구개발"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "f86b194eff9885ec",
+ "enriched_at": "2026-10-23T21:34:32+00:00",
+ "had_body": false
+}

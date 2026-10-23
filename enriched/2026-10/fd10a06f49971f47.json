@@ -1,0 +1,53 @@
+{
+ "doc_id": "fd10a06f49971f47",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58574",
+ "title": "‘캐나다 자외선차단제 규정’ 웨비나 11월 3일 개최",
+ "summary": "[코스인코리아닷컴 길태윤 기자]대한화장품협회는 오는 11월 3일(화) 09:30~11:30 '캐나다 자외선차단제 규정 웨비나‘를 개최한다고 밝혔다. 미주지역 수출기업 또는 진출을 계획하는 기업을 대상으로 온라인 플랫폼을 통해 영어-한국어 순차 통역 방식으로 진행된다. 이번 웨비나의 주요 내용은 ▲…",
+ "published_at": "2026-10-23T10:32:39+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "CA"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품협회"
+  ],
+  "keywords": [
+   "자외선차단제 규제",
+   "캐나다 수출",
+   "수출 웨비나"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한화장품협회가 캐나다 자외선차단제 규정을 다루는 웨비나를 연다.",
+  "key_fact_quote": "대한화장품협회는 오는 11월 3일(화) 09:30~11:30 '캐나다 자외선차단제 규정 웨비나‘를 개최한다고 밝혔다.",
+  "events": [
+   {
+    "name": "캐나다 자외선차단제 규정 웨비나",
+    "start_date": "2026-11-03",
+    "end_date": null,
+    "place": "온라인 플랫폼",
+    "quote": "대한화장품협회는 오는 11월 3일(화) 09:30~11:30 '캐나다 자외선차단제 규정 웨비나‘를 개최한다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

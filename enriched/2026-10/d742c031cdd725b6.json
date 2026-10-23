@@ -1,0 +1,73 @@
+{
+ "doc_id": "d742c031cdd725b6",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100238",
+ "title": "에이블씨엔씨 어퓨, 스킨케어 성분 담은 ‘모찌 블러 틴트’",
+ "summary": "글로벌 뷰티 기업 에이블씨엔씨(ABLE C&C, 대표 신유정)의 화장품 브랜드 어퓨(A’pieu)가 촉촉한 사용감과 볼륨감 있는 입술 표현을 동시에 구현한 신제품 ‘모찌 블러 틴트’를 출시한다고 23일 밝혔다.모찌 블러 틴트는 수분감 있는 크리미한 텍스처로 입술의 각질과 주름을 매끈하게 커버하고 플럼핑 효과를 더해 도톰한 입술을 연출하는 제품이다. 특히 초경량·초밀착 제형을 적용해 번짐과 묻어남을 줄이고 보송한 마무리감을 살린 것이 특징이다.시카PDRN, 펩타이드, 판테놀, 히알루론산 등 스킨케어 성분을 더한 것도 차별화 요소다.",
+ "published_at": "2026-10-23T09:35:40+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어퓨"
+  ],
+  "companies": [
+   "에이블씨엔씨"
+  ],
+  "keywords": [
+   "하이브리드 뷰티",
+   "립 틴트",
+   "플럼핑"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "모찌 블러 틴트",
+    "brand": "어퓨",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "글로벌 뷰티 기업 에이블씨엔씨(ABLE C&C, 대표 신유정)의 화장품 브랜드 어퓨(A’pieu)가 촉촉한 사용감과 볼륨감 있는 입술 표현을 동시에 구현한 신제품 ‘모찌 블러 틴트’를 출시한다고 23일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이블씨엔씨의 어퓨가 스킨케어 성분을 더한 신제품 립 틴트를 출시한다.",
+  "key_fact_quote": "글로벌 뷰티 기업 에이블씨엔씨(ABLE C&C, 대표 신유정)의 화장품 브랜드 어퓨(A’pieu)가 촉촉한 사용감과 볼륨감 있는 입술 표현을 동시에 구현한 신제품 ‘모찌 블러 틴트’를 출시한다고 23일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "시카PDRN",
+    "quote": "시카PDRN, 펩타이드, 판테놀, 히알루론산 등 스킨케어 성분을 더한 것도 차별화 요소다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "시카PDRN, 펩타이드, 판테놀, 히알루론산 등 스킨케어 성분을 더한 것도 차별화 요소다."
+   },
+   {
+    "name": "판테놀",
+    "quote": "시카PDRN, 펩타이드, 판테놀, 히알루론산 등 스킨케어 성분을 더한 것도 차별화 요소다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "시카PDRN, 펩타이드, 판테놀, 히알루론산 등 스킨케어 성분을 더한 것도 차별화 요소다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "997ec2feb12d5410",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811853&plink=ORI&cooper=NAVER",
+ "title": "2026 오송화장품 뷰티 엑스포 개막… K - 뷰티 열기 '후끈'",
+ "summary": "역대 최대 규모로 열린 이번 행사에는 글로벌 바이어들이 대거 참여해서 K - 뷰티 의 위상을 다시 한번 확인시켰습니다. CJB 안정은 기자가 보도합니다. 해외 진출을 꿈꾸는 기업들의 열기로 수출 상담회장이 뜨겁게...",
+ "published_at": "2026-10-23T12:37:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 박람회",
+   "수출 판로 확대",
+   "뷰티 체험"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "13941a58d2df2278",
+ "enriched_at": "2026-10-23T21:34:32+00:00",
+ "had_body": false
+}

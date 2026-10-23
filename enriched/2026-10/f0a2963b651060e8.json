@@ -1,0 +1,58 @@
+{
+ "doc_id": "f0a2963b651060e8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.00news.co.kr/news/articleView.html?idxno=107426",
+ "title": "구다이글로벌 조선미녀, 英 부츠서 K뷰티 존재감",
+ "summary": "부츠는 올해 향수 와 헤어케어, K-파머시 등으로 K뷰티 취급 품목을 확대할 계획이다. 조선미녀는 부츠 외... 2021년에는 대표 제품인 맑은쌀 선크림을 출시 하며 브랜드 성장 기반을 다졌다. 구다이글로벌은 브랜드...",
+ "published_at": "2026-10-23T19:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [
+   "조선미녀"
+  ],
+  "companies": [
+   "구다이글로벌",
+   "부츠"
+  ],
+  "keywords": [
+   "K뷰티 해외 유통",
+   "영국 진출",
+   "K-파머시"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "맑은쌀 선크림",
+    "brand": "조선미녀",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "2021년에는 대표 제품인 맑은쌀 선크림을 출시 하며 브랜드 성장 기반을 다졌다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "부츠가 K뷰티 취급 품목을 향수와 헤어케어 등으로 넓힐 계획이다.",
+  "key_fact_quote": "부츠는 올해 향수 와 헤어케어, K-파머시 등으로 K뷰티 취급 품목을 확대할 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

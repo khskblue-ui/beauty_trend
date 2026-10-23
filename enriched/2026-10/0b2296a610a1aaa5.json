@@ -1,0 +1,51 @@
+{
+ "doc_id": "0b2296a610a1aaa5",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/armani-beauty-ambassador-jonathan-bailey-fronts-new-the",
+ "title": "Armani Beauty ambassador Jonathan Bailey fronts new ‘The Power of Will’ interview series",
+ "summary": "British actor Jonathan Bailey, who is ambassador for Armani Beauty’s I Will men’s fragrance, stars in a new video series for the scent, alongside fellow ambassadors, musician J Balvin, Formula 1 driver Carlos Sainz and entrepreneur Simon Squibb",
+ "published_at": "2026-10-23T20:22:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [],
+  "brands": [
+   "Armani Beauty"
+  ],
+  "companies": [],
+  "keywords": [
+   "남성 향수",
+   "앰배서더 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "I Will",
+    "brand": "Armani Beauty",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아르마니 뷰티가 남성 향수 I Will의 앰배서더들이 나오는 새 영상 시리즈를 선보였다.",
+  "key_fact_quote": "British actor Jonathan Bailey, who is ambassador for Armani Beauty’s I Will men’s fragrance, stars in a new video series for the scent",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

@@ -1,0 +1,49 @@
+{
+ "doc_id": "ddb90643302343b4",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312425",
+ "title": "K-뷰티 대표주 수급 점검…대형주는 동반 매수, 성장주는 엇갈린 시선",
+ "summary": "최근 5거래일간 K-뷰티 대표 7개 종목은 일제히 주가 조정을 받았지만 수급 흐름은 종목별로 차별화됐다.아모레퍼시픽과 LG생활건강 등 대형주에는 외국인과 기관의 동반 매수세가 유입된 반면, 성장주에서는 외국인과 기관의 투자 판단이 엇갈리는 모습을 보였다.네이버증권에 따르면 최근 5거래일(10월16일-22일) 동안 아모레퍼시픽, LG생활건강, 코스맥스, 한국콜마, 에이피알, 실리콘투, 파마리서치의 투자자별 수급동향과 주가를 분석한 결과다.아모레퍼시픽, 외국인·기관 동반 매수아모레퍼시픽은 외국인과 기관이 함께 매수에 나서며 주가 조정",
+ "published_at": "2026-10-23T20:13:16+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽",
+   "LG생활건강",
+   "코스맥스",
+   "한국콜마",
+   "에이피알",
+   "실리콘투",
+   "파마리서치"
+  ],
+  "keywords": [
+   "K뷰티 주가",
+   "투자자 수급"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 대표 종목은 일제히 주가 조정을 받았지만 투자자 수급은 종목별로 갈렸다.",
+  "key_fact_quote": "최근 5거래일간 K-뷰티 대표 7개 종목은 일제히 주가 조정을 받았지만 수급 흐름은 종목별로 차별화됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

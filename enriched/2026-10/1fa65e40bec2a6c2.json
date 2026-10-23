@@ -1,0 +1,49 @@
+{
+ "doc_id": "1fa65e40bec2a6c2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kr.aving.net/news/articleView.html?idxno=1816013",
+ "title": "드리베라, 바이오헬스케어산업전시회서 엑소좀 스킨케어 공개... \"시술 ...",
+ "summary": "드리베라는 성형외과 전문의가 개발한 메디컬 뷰티 브랜드로, 출시 약 두 달 된 신생 브랜드다. 시술 후... 건강기능식품, 화장품 , 의료기기 및 디지털헬스케어 등 다양한 바이오헬스케어 제품과 기술을 한자리에...",
+ "published_at": "2026-10-23T15:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "드리베라"
+  ],
+  "companies": [],
+  "keywords": [
+   "엑소좀 스킨케어",
+   "메디컬 뷰티",
+   "시술 후 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "드리베라가 바이오헬스케어산업전시회에서 엑소좀 스킨케어를 공개했다.",
+  "key_fact_quote": "드리베라, 바이오헬스케어산업전시회서 엑소좀 스킨케어 공개",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "엑소좀",
+    "quote": "드리베라, 바이오헬스케어산업전시회서 엑소좀 스킨케어 공개"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

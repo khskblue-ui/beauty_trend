@@ -1,0 +1,63 @@
+{
+ "doc_id": "7e2b13301aac6e70",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100237",
+ "title": "파마리서치 리쥬란코스메틱, 美 코스트코 첫 ‘뷰티 테이블’ 참여",
+ "summary": "파마리서치(대표이사 손지훈)의 프리미엄 더마 코스메틱 브랜드 ‘리쥬란코스메틱’은 미국 코스트코(Costco)가 처음 선보이는 ‘뷰티 테이블(Beauty Table)’ 프로그램에 참여하며 미국 내 오프라인 유통 기반을 확대한다고 23일 밝혔다.‘뷰티 테이블’은 코스트코 회원들이 새로운 뷰티 브랜드와 제품을 발견할 수 있도록 마련된 뷰티 전용 진열 프로그램이다. 리쥬란코스메틱은 해당 공간에서 브랜드와 주요 제품의 특징을 소개하고, 현지 소비자가 일상적인 쇼핑 동선에서 제품을 직접 살펴보고 구매할 수 있는 기회를 제공한다.특히 이번 입점",
+ "published_at": "2026-10-23T09:34:29+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "리쥬란코스메틱"
+  ],
+  "companies": [
+   "파마리서치",
+   "코스트코"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "미국 오프라인 유통",
+   "c-PDRN 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리쥬란 턴오버 앰플",
+    "brand": "리쥬란코스메틱",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "리쥬란코스메틱이 미국 코스트코의 첫 뷰티 테이블 프로그램에 참여해 오프라인 유통을 넓힌다.",
+  "key_fact_quote": "파마리서치(대표이사 손지훈)의 프리미엄 더마 코스메틱 브랜드 ‘리쥬란코스메틱’은 미국 코스트코(Costco)가 처음 선보이는 ‘뷰티 테이블(Beauty Table)’ 프로그램에 참여하며 미국 내 오프라인 유통 기반을 확대한다고 23일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "c-PDRN",
+    "quote": "리쥬란 턴오버 앰플은 화장품 특화 성분 c-PDRN을 함유해 피부 보습과 피부결 관리를 돕는 데일리 스킨케어 제품이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

@@ -1,0 +1,116 @@
+{
+ "doc_id": "940df306f7d5f069",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312282",
+ "title": "Fermented Skincare Evolves Into Bio-Skincare as R828 Expands Globally",
+ "summary": "The global skincare industry is undergoing a significant transformation. While ingredient origin and brand storytelling once played a central role in product marketing, consumers, retailers, and distributors are increasingly prioritizing scientific validation, efficacy data, and ingredient transpare",
+ "published_at": "2026-10-23T12:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "R828"
+  ],
+  "companies": [
+   "Kairos Global"
+  ],
+  "keywords": [
+   "발효 스킨케어",
+   "바이오 스킨케어",
+   "효능 검증",
+   "K뷰티 수출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "serum",
+    "brand": "R828",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "cream",
+    "brand": "R828",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "deep foaming cleanser",
+    "brand": "R828",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "peptide volume toner mist",
+    "brand": "R828",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "peptide lifting cream",
+    "brand": "R828",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "collagen jelly sheet masks",
+    "brand": "R828",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "발효 스킨케어가 효능 검증 중심의 바이오 스킨케어로 바뀌는 가운데 R828이 해외 시장으로 확장하고 있다.",
+  "key_fact_quote": "One example is R828, a Korean skincare brand developed by Kairos Global, which is expanding into international markets with formulations built around fermented glutathione and naturally fermented plant-derived ingredients.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "glutathione",
+    "quote": "The brand combines glutathione, a widely recognized antioxidant ingredient, with naturally fermented botanical components."
+   },
+   {
+    "name": "peptide",
+    "quote": "The current lineup includes serum, cream, deep foaming cleanser, peptide volume toner mist, peptide lifting cream, and collagen jelly sheet masks."
+   },
+   {
+    "name": "collagen",
+    "quote": "The current lineup includes serum, cream, deep foaming cleanser, peptide volume toner mist, peptide lifting cream, and collagen jelly sheet masks."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

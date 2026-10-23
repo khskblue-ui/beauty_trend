@@ -1,0 +1,41 @@
+{
+ "doc_id": "095442ddba0cbb01",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.ifm.kr/news/articleView.html?idxno=482382",
+ "title": "세계를 휩쓰는 K - 뷰티 …그 뒤엔 '보이지 않는 강자' ODM 기업들이 있다",
+ "summary": "뉴스 다시 듣기▷PLAY 세계 시장을 휩쓸고 있는 K - 뷰티 의 경쟁력은 화장품 브랜드에만 있는 것이 아닙니다.... 성과는 수출 에서 확인됩니다. 올해 상반기 중소기업 화장품 수출 액은 50억7000만 달러로 지난해보다 30.7...",
+ "published_at": "2026-10-23T07:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "ODM",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티의 경쟁력은 브랜드뿐 아니라 ODM 기업들에도 있다.",
+  "key_fact_quote": "세계 시장을 휩쓸고 있는 K - 뷰티 의 경쟁력은 화장품 브랜드에만 있는 것이 아닙니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

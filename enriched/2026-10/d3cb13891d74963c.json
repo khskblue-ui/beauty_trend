@@ -1,0 +1,56 @@
+{
+ "doc_id": "d3cb13891d74963c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etoday.co.kr/news/view/2639320",
+ "title": "아우라 바이 네시픽, 와우샵(WOW SHOP) 입점… ‘이마트 4950 뷰티 ’ 흥행...",
+ "summary": "스킨케어 브랜드 아우라 바이 네시픽(AURA by NACIFIC)이 이마트의 초저가 생활용품 전문점 ‘와우샵(WOW SHOP)’에 입점하며 신규 스킨케어 라인을 공식 론칭 한다. 아우라 바이 네시픽은 앞서 이마트의 가성비 뷰티 코너인...",
+ "published_at": "2026-10-23T10:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아우라 바이 네시픽"
+  ],
+  "companies": [
+   "이마트"
+  ],
+  "keywords": [
+   "가성비 뷰티",
+   "초저가 뷰티",
+   "스킨케어 라인"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "신규 스킨케어 라인",
+    "brand": "아우라 바이 네시픽",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "스킨케어 브랜드 아우라 바이 네시픽(AURA by NACIFIC)이 이마트의 초저가 생활용품 전문점 ‘와우샵(WOW SHOP)’에 입점하며 신규 스킨케어 라인을 공식 론칭 한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아우라 바이 네시픽이 이마트 와우샵에 입점하며 신규 스킨케어 라인을 론칭한다.",
+  "key_fact_quote": "스킨케어 브랜드 아우라 바이 네시픽(AURA by NACIFIC)이 이마트의 초저가 생활용품 전문점 ‘와우샵(WOW SHOP)’에 입점하며 신규 스킨케어 라인을 공식 론칭 한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

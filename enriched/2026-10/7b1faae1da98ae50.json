@@ -1,0 +1,47 @@
+{
+ "doc_id": "7b1faae1da98ae50",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.lawissue.co.kr/view.php?ud=202610231440313605204ead0791_12",
+ "title": "에이블씨엔씨 어퓨, 스킨케어 성분 더한 ‘모찌 블러 틴트’ 6종 선보여",
+ "summary": "에이블씨엔씨의 화장품 브랜드 어퓨가 스킨케어 성분을 함유한 립 메이크업 제품 ‘모찌 블러 틴트’를... 어퓨는 이번 신제품 에 다양한 색상과 스킨케어 성분을 결합한 립 메이크업 제품군을 추가했다.",
+ "published_at": "2026-10-23T14:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어퓨"
+  ],
+  "companies": [
+   "에이블씨엔씨"
+  ],
+  "keywords": [
+   "하이브리드 뷰티",
+   "립 틴트",
+   "플럼핑"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "d742c031cdd725b6",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

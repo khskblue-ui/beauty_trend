@@ -1,0 +1,56 @@
+{
+ "doc_id": "57b043812ca4aa8a",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/beauty-drives-procter-gamble-s,28395",
+ "title": "Beauty drives Procter & Gamble's growth as group raises forecasts",
+ "summary": "Shares of Procter & Gamble (P&G) popped on Thursday, October 22, after the group reported broad-based sales growth despite worsening inflation pressures buffeting consumers of the company's household goods. P&G, whose brands include Tide detergent, Bounty paper towels, Gillette razors, Pampers diapers, Pantene and Head & Shoulders shampoos, Oral-B toothpastes and SK-II care, scored sales increases of between around three and six percent across its businesses, while also... - Industry buzz",
+ "published_at": "2026-10-23T06:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "SK-II",
+   "Pantene",
+   "Head & Shoulders"
+  ],
+  "companies": [
+   "Procter & Gamble",
+   "Thorne"
+  ],
+  "keywords": [
+   "뷰티 대기업 실적",
+   "원가 부담"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "P&G는 모든 사업에서 매출이 늘었고 연간 매출 전망을 소폭 올렸다.",
+  "key_fact_quote": "Shares of Procter & Gamble ( P&G ) popped on Thursday, October 22, after the group reported broad-based sales growth despite worsening inflation pressures buffeting consumers of the company’s household goods.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

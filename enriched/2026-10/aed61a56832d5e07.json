@@ -1,0 +1,47 @@
+{
+ "doc_id": "aed61a56832d5e07",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.globalepic.co.kr/view.php?ud=20261023155151110537600e7ec7_29",
+ "title": "오브제바이쿤달, 올리브영 '솔리드 퍼퓸 밤 키링 기획세트' 출시",
+ "summary": "이번 기획세트는 오브제바이쿤달의 인기 향인 '네이키드크림'과 '로즈페탈' 2종으로 출시 됐으며, 솔리드 퍼퓸 밤 본품과 함께 실버 참 미러 키링을 구성해 특별함을 더했다. 향수 본연의 매력은 물론 감각적인 디자인과...",
+ "published_at": "2026-10-23T15:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오브제바이쿤달"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "솔리드 퍼퓸",
+   "키링 향수",
+   "올리브영 전용 상품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "b3cba2d0d734533a",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

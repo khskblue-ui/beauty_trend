@@ -1,0 +1,43 @@
+{
+ "doc_id": "7fcf3688c4e5a6ab",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100236",
+ "title": "4분기 소매유통업 경기전망 ‘주춤’",
+ "summary": "대한상공회의소(회장 최태원)가 백화점, 대형마트, 편의점, 슈퍼마켓, 온라인쇼핑 등 서울 및 6대 광역시 소재 500개 소매유통업체를 대상으로 ‘2026년 4분기 소매유통업 경기전망지수(RBSI: Retail Business Survey Index)’ 를 조사한 결과, 전망치는 지난 3분기(92) 대비 4포인트 낮은 ‘88’ 로 집계됐다.RBSI는 유통업계의 당해 분기 대비 다음 분기 경기 전망을 수치화한 지표로, 100을 넘으면 다음 분기 경기가 이번 분기 대비 호전될 것으로 보는 기업이 많다는 뜻이고 100 미만이면 그 반대를",
+ "published_at": "2026-10-23T09:32:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한상공회의소"
+  ],
+  "keywords": [
+   "소매유통 경기전망",
+   "절약형 소비"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

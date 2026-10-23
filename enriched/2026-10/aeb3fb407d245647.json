@@ -1,0 +1,42 @@
+{
+ "doc_id": "aeb3fb407d245647",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20104919?ref=naver",
+ "title": "안마의자·뷰티까지 가세…판 커지는 의료기기 시장",
+ "summary": "안마의자와 렌탈, 화장품 등 기존 사업에서 축적한 기술력을 바탕으로 특허 확보와 신규 브랜드 출시 , 지분 투자 등을 통해 사업 영역을 넓히고 있는 것이다. 시장 경쟁이 치열해지면서 기존 의료기기 업체들도 해외...",
+ "published_at": "2026-10-23T07:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "의료기기",
+   "뷰티 디바이스",
+   "신규 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "안마의자, 렌탈, 화장품 업체가 특허 확보와 신규 브랜드 출시 등으로 의료기기 시장에 뛰어들고 있다.",
+  "key_fact_quote": "안마의자와 렌탈, 화장품 등 기존 사업에서 축적한 기술력을 바탕으로 특허 확보와 신규 브랜드 출시 , 지분 투자 등을 통해 사업 영역을 넓히고 있는 것이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

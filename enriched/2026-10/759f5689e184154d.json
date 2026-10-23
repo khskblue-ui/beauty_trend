@@ -1,0 +1,60 @@
+{
+ "doc_id": "759f5689e184154d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sentv.co.kr/article/view/sentv202610230087",
+ "title": "본업 주춤한 hy, 화장품 재도전…이번엔 안착할까",
+ "summary": "유산균 음료로 알려진 hy가 화장품 사업에 다시 나섭니다. 자체 유산균 ‘HY7714’ 기술을 활용한 새 브랜드 ‘아이오셀’ 출시 를 준비하고 있습니다. 지역·온라인 홍보와 마케팅을 맡을 파트너도 모집 중입니다. hy는...",
+ "published_at": "2026-10-23T18:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오셀"
+  ],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "프로바이오틱스 화장품",
+   "식품기업 뷰티 진출"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "아이오셀",
+    "brand": "hy",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "자체 유산균 ‘HY7714’ 기술을 활용한 새 브랜드 ‘아이오셀’ 출시 를 준비하고 있습니다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "hy가 자체 유산균 기술을 활용한 새 화장품 브랜드 출시를 준비하고 있다.",
+  "key_fact_quote": "자체 유산균 ‘HY7714’ 기술을 활용한 새 브랜드 ‘아이오셀’ 출시 를 준비하고 있습니다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "HY7714",
+    "quote": "자체 유산균 ‘HY7714’ 기술을 활용한 새 브랜드 ‘아이오셀’ 출시 를 준비하고 있습니다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

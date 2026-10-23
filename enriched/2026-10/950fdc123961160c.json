@@ -1,0 +1,44 @@
+{
+ "doc_id": "950fdc123961160c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=120738",
+ "title": "\"K뷰티 미국 수입 거부 178건\"… 발목 잡은 건 '라벨링'",
+ "summary": "프랑스는 향수 와 대기업 중심의 수출 구조를 갖춘 반면, 한국은 기초화장품과 중소기업의 비중이 높아... 정 대표는 한국의 발달한 주문자상표부착생산(OEM)·제조업자개발생산(ODM) 시스템이 제품 개발과 출시 속도를...",
+ "published_at": "2026-10-23T18:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "FR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "수출 구조",
+   "OEM·ODM"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "프랑스는 향수와 대기업 중심, 한국은 기초화장품과 중소기업 중심의 수출 구조라고 짚었다.",
+  "key_fact_quote": "프랑스는 향수 와 대기업 중심의 수출 구조를 갖춘 반면, 한국은 기초화장품과 중소기업의 비중이 높아",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

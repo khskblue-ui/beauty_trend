@@ -1,0 +1,74 @@
+{
+ "doc_id": "b54c2c96bb6cbcb8",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58572",
+ "title": "티노소브 S, K-뷰티 자외선차단제 미국 수출에 ‘날개’... 경쟁력·규제 선택지 확보",
+ "summary": "[코스인코리아닷컴 권태흥 기자]미국 식품의약국(FDA)의 베모트리지놀(Bemotrizinol·BEMT) 허용으로 K-뷰티 자외선차단제의 미국 진출에 새로운 기회가 열렸다. 유럽과 아시아 등에서 사용해 온 광범위 자외선차단 성분을 미국용 처방에도 활용할 수 있게 되면서, 차단 성능과 사용감을 함께 구…",
+ "published_at": "2026-10-23T09:22:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "regulation",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "바스프"
+  ],
+  "keywords": [
+   "자외선차단 원료",
+   "미국 선케어 규제",
+   "K뷰티 선케어 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 FDA가 자외선차단 성분 BEMT를 자외선차단제 모노그래프에 추가해 K뷰티 자외선차단제의 미국 진출 기회가 넓어졌다.",
+  "key_fact_quote": "FDA는 지난 6월 10일 BEMT를 자외선차단제 모노그래프 M020에 추가하는 최종명령을 발행했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "베모트리지놀",
+    "quote": "미국 식품의약국(FDA)의 베모트리지놀(Bemotrizinol·BEMT) 허용으로 K-뷰티 자외선차단제의 미국 진출에 새로운 기회가 열렸다."
+   },
+   {
+    "name": "티노소브 S",
+    "quote": "티노소브 S는 BEMT를 성분으로 하는 바스프의 자외선차단 원료다."
+   },
+   {
+    "name": "티노소브 M",
+    "quote": "티노소브 S는 유상에 용해해 사용하는 BEMT이고, 티노소브 M은 비소크트리졸(Bisoctrizole·MBBT) 미세입자를 물에 분산시킨 원료다."
+   },
+   {
+    "name": "비소크트리졸",
+    "quote": "티노소브 S는 유상에 용해해 사용하는 BEMT이고, 티노소브 M은 비소크트리졸(Bisoctrizole·MBBT) 미세입자를 물에 분산시킨 원료다."
+   },
+   {
+    "name": "징크옥사이드",
+    "quote": "GRASE Ⅰ에는 무기자차로 징크옥사이드와 티타늄디옥사이드 2종이, 유기자차로 BEMT가 유일하다."
+   },
+   {
+    "name": "티타늄디옥사이드",
+    "quote": "GRASE Ⅰ에는 무기자차로 징크옥사이드와 티타늄디옥사이드 2종이, 유기자차로 BEMT가 유일하다."
+   },
+   {
+    "name": "옥티녹세이트",
+    "quote": "티노소브 S는 UVA·UVB를 함께 흡수하고, OMC(Octyl Methoxycinnamate·옥티녹세이트)는 주로 UVB 차단에 기여한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

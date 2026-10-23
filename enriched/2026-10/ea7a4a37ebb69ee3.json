@@ -1,0 +1,46 @@
+{
+ "doc_id": "ea7a4a37ebb69ee3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.imaeil.com/page/view/2026102310320569167",
+ "title": "한국콜마, K뷰티 조정장서 독주…화장품株 희비 가른 차이는[왜웃株]",
+ "summary": "같은 기간 미국 수출 액은 2억4694만 달러로 21.0% 늘었고, 중국 수출 도 5개월 연속 증가세를 이어갔습니다. 이른바 ' K - 뷰티 '의 해외 수요가 특정 시장에만 의존하지 않고 여러 지역으로 확산하는 흐름이 국내 생산업체들의...",
+ "published_at": "2026-10-23T10:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "화장품 ODM",
+   "수출 시장 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티의 해외 수요가 특정 시장에만 기대지 않고 여러 지역으로 퍼지고 있다.",
+  "key_fact_quote": "이른바 ' K - 뷰티 '의 해외 수요가 특정 시장에만 의존하지 않고 여러 지역으로 확산하는 흐름이",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

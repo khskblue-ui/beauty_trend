@@ -1,0 +1,45 @@
+{
+ "doc_id": "26d188d006ebb99c",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312303",
+ "title": "K-뷰티 수출 빅데이터 리포트 ②: 메이크업 수출 성장세 지속…중국·일본·미국이 견인",
+ "summary": "[편집자 주] 산업통상자원부에 따르면 2026년 9월 화장품 수출은 15만달러로 전년 동기 대비 31% 증가했다. 이에 따라 관세청 수출입무역통계를 바탕으로 K-뷰티 8대 핵심 품목의 수출 현황과 국가별 수출단가 변화를 분석하는 연속 기획을 시작한다. 두 번째 순서로 메이크업용 제품류(HS 3304992000)를 분석한다.② 메이크업용품 수출메이크업 제품 수출이 2026년 3분기와 9월 모두 증가하며 안정적인 성장세를 이어갔다. 수출 증가 폭은 크지 않았지만 무역수지 흑자 규모를 무난히 유지했다.관세청 수출입무역통계를 분석한 결과,",
+ "published_at": "2026-10-23T12:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN",
+   "JP",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "메이크업 수출",
+   "색조화장품",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "메이크업 제품 수출이 분기와 월 모두 늘며 안정적인 성장세를 이어갔다.",
+  "key_fact_quote": "메이크업 제품 수출이 2026년 3분기와 9월 모두 증가하며 안정적인 성장세를 이어갔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

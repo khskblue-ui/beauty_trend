@@ -1,0 +1,43 @@
+{
+ "doc_id": "49a79966bebcfc34",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497892",
+ "title": "아이패밀리에스씨 상한가 폭등쇼… K-뷰티 브랜드주에 무슨 호재 있나",
+ "summary": "피부 임상시험과 화장품 원료, 용기 등은 제품 개발과 판매 과정에서 필요한 분야지만, 고객사 주문과 신제품 출시, 생산 규모 등에 따라 실적 흐름이 달라질 수 있다. 대형 화장품 기업도 약세 흐름에 포함됐다....",
+ "published_at": "2026-10-23T10:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아이패밀리에스씨"
+  ],
+  "keywords": [
+   "K-뷰티 브랜드주",
+   "화장품 주가"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아이패밀리에스씨가 상한가를 기록한 반면 대형 화장품 기업은 약세 흐름을 보였다.",
+  "key_fact_quote": "대형 화장품 기업도 약세 흐름에 포함됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

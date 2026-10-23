@@ -1,0 +1,48 @@
+{
+ "doc_id": "39425a00f7dd7db7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thepublic.kr/news/articleView.html?idxno=323357",
+ "title": "유한양행, 다이소에 스킨케어 브랜드 '더마푸라민Rx' 8종 출시",
+ "summary": "유한양행이 다이소를 통해 스킨케어 신제품 을 출시하며 뷰티 사업 유통망 확대에 나섰다. 유한양행은 피부... 유한양행은 이번 제품 출시를 통해 다이소를 새로운 화장품 판매 채널로 확보하고 소비자 접점을...",
+ "published_at": "2026-10-23T09:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더마푸라민Rx"
+  ],
+  "companies": [
+   "유한양행",
+   "다이소"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "다이소 입점",
+   "피부 장벽 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "ca6128a9a2195db6",
+ "enriched_at": "2026-10-23T21:34:32+00:00",
+ "had_body": false
+}

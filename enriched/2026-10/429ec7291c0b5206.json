@@ -1,0 +1,57 @@
+{
+ "doc_id": "429ec7291c0b5206",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.redian.org/news/articleView.html?idxno=257526",
+ "title": "유한양행, 더마 스킨케어 8종 다이소서 선보여...소비자 접점 확대",
+ "summary": "유한양행이 합리적인 가격대의 더마 스킨케어 제품을 앞세워 뷰티 시장 공략에 나선다. 유한양행은 민감 피부의 장벽 관리와 진정에 초점을 맞춘 스킨케어 브랜드 '더마푸라민Rx' 신제품 8종을 다이소를 통해 출시 했다고...",
+ "published_at": "2026-10-23T09:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더마푸라민Rx"
+  ],
+  "companies": [
+   "유한양행",
+   "다이소"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "장벽 케어",
+   "다이소 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "더마푸라민Rx",
+    "brand": "더마푸라민Rx",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "유한양행은 민감 피부의 장벽 관리와 진정에 초점을 맞춘 스킨케어 브랜드 '더마푸라민Rx' 신제품 8종을 다이소를 통해 출시 했다고",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유한양행이 민감 피부용 더마 스킨케어 신제품을 다이소에서 출시했다.",
+  "key_fact_quote": "유한양행은 민감 피부의 장벽 관리와 진정에 초점을 맞춘 스킨케어 브랜드 '더마푸라민Rx' 신제품 8종을 다이소를 통해 출시 했다고",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

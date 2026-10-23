@@ -1,0 +1,61 @@
+{
+ "doc_id": "fddd587a93303d7b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://magazine.hankyung.com/business/article/202610230465b",
+ "title": "팔색미인, 편한가와 전략적 업무협약··· K- 뷰티 유통 확대 나선다",
+ "summary": "더마 뷰티 브랜드 팔색미인(EIGHT ME IN)과 약국과 세상을 잇는 기업 (주)편한가가 외국인 관광객 대상 K- 뷰티 ... 대표 제품인 5D 히알루론산 수분 세럼은 브랜드 론칭 4개월 만에 '2026 상반기 화해 비건 어워드' 에센스·앰플...",
+ "published_at": "2026-10-23T09:45:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "팔색미인"
+  ],
+  "companies": [
+   "(주)편한가"
+  ],
+  "keywords": [
+   "더마 뷰티",
+   "K뷰티 유통",
+   "비건 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "5D 히알루론산 수분 세럼",
+    "brand": "팔색미인",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더마 뷰티 브랜드 팔색미인과 편한가가 외국인 관광객 대상 K뷰티 유통 확대를 위해 업무협약을 맺었다.",
+  "key_fact_quote": "더마 뷰티 브랜드 팔색미인(EIGHT ME IN)과 약국과 세상을 잇는 기업 (주)편한가가 외국인 관광객 대상 K- 뷰티",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "대표 제품인 5D 히알루론산 수분 세럼은 브랜드 론칭 4개월 만에"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

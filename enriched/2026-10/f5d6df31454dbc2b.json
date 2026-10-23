@@ -1,0 +1,42 @@
+{
+ "doc_id": "f5d6df31454dbc2b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/23/2026102390008.html",
+ "title": "K - 뷰티 한 자리에…오송 화장품엑스포 성황",
+ "summary": "K - 뷰티 의 중심 충북 오송에 전 세계 화장품 구매자들이 모였습니다. 최첨단 피부 진단 체험부터 현장 수출 계약까지, 열기 뜨거웠던 엑스포 현장을, 김달호 기자가 다녀왔습니다. 전시장을 가득 채운 100여 개의 테이블....",
+ "published_at": "2026-10-23T07:05:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 박람회",
+   "피부 진단",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "오송에 전 세계 화장품 구매자들이 모여 엑스포가 열렸다.",
+  "key_fact_quote": "K - 뷰티 의 중심 충북 오송에 전 세계 화장품 구매자들이 모였습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

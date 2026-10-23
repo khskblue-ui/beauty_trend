@@ -1,0 +1,44 @@
+{
+ "doc_id": "7abd7241e24cef14",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312412",
+ "title": "K-Beauty Skincare Exports Surge 35% in Q3, Led by Strong Demand in the U.S. and China",
+ "summary": "South Korea’s skincare exports maintained strong momentum in the third quarter of 2026, reinforcing the country\\'s position as a major global supplier of beauty products.Rising demand in the United States and China helped drive double-digit growth, while trade surplus gains highlighted the growing co",
+ "published_at": "2026-10-23T12:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "스킨케어 수출",
+   "시장 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국과 중국 수요에 힘입어 한국 스킨케어 수출이 크게 늘었다.",
+  "key_fact_quote": "Rising demand in the United States and China helped drive double-digit growth, while trade surplus gains highlighted the growing competitiveness of Korean skincare brands in overseas markets.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

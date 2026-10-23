@@ -1,0 +1,62 @@
+{
+ "doc_id": "19f518e74fb5bf7f",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/la-beaute-porte-les-ventes-de,28394",
+ "title": "La beauté porte les ventes de Procter & Gamble qui relève ses prévisions",
+ "summary": "Le géant américain des produits d'hygiène Procter & Gamble (P&G) a relevé jeudi 22 octobre ses objectifs annuels de ventes après un chiffre d'affaires en hausse sur son premier trimestre de l'exercice comptable 2026-2027, tout en mettant en garde contre un contexte \"volatil\" qui devrait alourdir ses coûts. Le bénéfice net est resté quasi stable sur cette période de juillet à septembre (-0,4%), à 4,73 milliards de dollars, par rapport à la même période de l'année précédente. \"Nos... - Brèves",
+ "published_at": "2026-10-23T06:46:49+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "CN",
+   "FR"
+  ],
+  "brands": [
+   "Gillette",
+   "Ariel",
+   "Pampers",
+   "Pantene",
+   "Head & Shoulders",
+   "Oral-B",
+   "SK-II"
+  ],
+  "companies": [
+   "Procter & Gamble"
+  ],
+  "keywords": [
+   "뷰티 부문 성장",
+   "연간 전망 상향",
+   "원가 부담"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "P&G가 뷰티 부문 성장에 힘입어 연간 매출 전망을 올렸다.",
+  "key_fact_quote": "Le géant américain des produits d’hygiène Procter & Gamble ( P&G ) a relevé jeudi 22 octobre ses objectifs annuels de ventes",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

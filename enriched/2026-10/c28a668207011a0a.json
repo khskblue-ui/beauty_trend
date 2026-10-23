@@ -1,0 +1,46 @@
+{
+ "doc_id": "c28a668207011a0a",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/procter-gamble-sales-top-23-bn-q1-2027",
+ "title": "Procter & Gamble sales top $23.3 billion in strong Q1 2027",
+ "summary": "The Q1 2027 4% sales increase for Procter & Gamble (P&G), the owner of Olay and Herbal Essences, was driven by its beauty division, which benefited particularly from hair care demand",
+ "published_at": "2026-10-23T20:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Olay",
+   "Herbal Essences"
+  ],
+  "companies": [
+   "Procter & Gamble"
+  ],
+  "keywords": [
+   "헤어케어 수요",
+   "뷰티 사업부"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "P&G는 뷰티 사업부가 헤어케어 수요에 힘입어 매출 증가를 이끌었다.",
+  "key_fact_quote": "The Q1 2027 4% sales increase for Procter & Gamble (P&G), the owner of Olay and Herbal Essences, was driven by its beauty division, which benefited particularly from hair care demand",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

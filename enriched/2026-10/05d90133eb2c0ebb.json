@@ -1,0 +1,43 @@
+{
+ "doc_id": "05d90133eb2c0ebb",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312143",
+ "title": "⑧China's Essence Market Defies Beauty Slowdown as Functional Skincare Demand Accelerates",
+ "summary": "China\\'s essence market emerged as one of the few bright spots in the country\\'s beauty sector in 2026, posting solid growth despite continued weakness across many skincare and makeup categories.An analysis of the top-selling essence brands on Tmall found that third-quarter sales rose from approximate",
+ "published_at": "2026-10-23T12:20:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "에센스",
+   "기능성 스킨케어",
+   "피부 장벽 케어",
+   "중국 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 에센스 시장은 다른 스킨케어와 메이크업 분야가 부진한 가운데 성장세를 보였다.",
+  "key_fact_quote": "China's essence market emerged as one of the few bright spots in the country's beauty sector in 2026, posting solid growth despite continued weakness across many skincare and makeup categories.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

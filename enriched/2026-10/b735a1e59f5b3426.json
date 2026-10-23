@@ -1,0 +1,66 @@
+{
+ "doc_id": "b735a1e59f5b3426",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/l-oreal-accelere-au-3e-trimestre,28396",
+ "title": "L'Oréal accélère au 3e trimestre, toutes les divisions en hausse",
+ "summary": "Le géant français des cosmétiques L'Oréal a publié jeudi 22 octobre un chiffre d'affaires en forte hausse au troisième trimestre, dopé par la demande dans toutes ses divisions et toutes les régions, dont la Chine. Sur la période, le mastodonte, propriétaire des marques Garnier, Maybelline ou Lancôme, a vu ses ventes atteindre 11,6 milliards d'euros (soit une progression de 7,2% en données comparables, et de 11,9% à taux de change courants), continuant de bénéficier du fort succès de ses... - Brèves",
+ "published_at": "2026-10-23T16:18:22+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "CN"
+  ],
+  "brands": [
+   "Garnier",
+   "Maybelline",
+   "Lancôme",
+   "Kérastase",
+   "Redken",
+   "La Roche-Posay",
+   "Vichy",
+   "Yves Saint Laurent",
+   "Creed",
+   "L’Oréal Paris",
+   "NYX Professional Makeup"
+  ],
+  "companies": [
+   "L’Oréal"
+  ],
+  "keywords": [
+   "럭셔리 뷰티",
+   "향수",
+   "더마 코스메틱",
+   "헤어케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "로레알이 모든 사업부와 지역에서 수요가 늘어 분기 매출이 크게 늘었다고 발표했다.",
+  "key_fact_quote": "Le géant français des cosmétiques L’Oréal a publié jeudi 22 octobre un chiffre d’affaires en forte hausse au troisième trimestre , dopé par la demande dans toutes ses divisions et toutes les régions, dont la Chine.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

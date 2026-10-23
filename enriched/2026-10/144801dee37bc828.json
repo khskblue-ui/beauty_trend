@@ -1,0 +1,41 @@
+{
+ "doc_id": "144801dee37bc828",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sports.khan.co.kr/article/202610232330003?pt=nv",
+ "title": "플레어유 최립우, ‘ 향수 ’에 찰떡인 이미지 인정받아",
+ "summary": "그는 팬덤 유픽 ‘ 향수 브랜드 픽 모델’ 1위에 올랐다. 팬덤 플랫폼 유픽(UPICK)이 진행한 ‘브랜드픽 - 베스트 향수 광고 모델’ 투표가 팬들의 관심 속에 종료된 가운데 그룹 플레어유(FLARE U)의 최립우가 총 25.88%의...",
+ "published_at": "2026-10-23T23:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "향수 광고 모델",
+   "팬덤 투표"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "팬덤 플랫폼 투표에서 플레어유 최립우가 향수 브랜드 픽 모델 1위에 올랐다.",
+  "key_fact_quote": "그는 팬덤 유픽 ‘ 향수 브랜드 픽 모델’ 1위에 올랐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

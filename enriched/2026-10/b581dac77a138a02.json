@@ -1,0 +1,74 @@
+{
+ "doc_id": "b581dac77a138a02",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58575",
+ "title": "ISO EV, ‘Beautyworld Osaka 2026’ 참가… 첨단 피부 분석 기술로 일본 뷰티시장 공략 본격화",
+ "summary": "[코스인코리아닷컴 김세화 기자]피부 분석 및 뷰티 디바이스 전문기업 ISO EV(아이소이브이)가 일본 오사카에서 개최되는 ‘Beautyworld Osaka 2026’에 참가해 첨단 피부 분석 장비 ‘Eve Muse(이브 뮤즈)’와 ‘EVE YOUNG(이브 영)’을 선보이며 일본 시장 공략에 나섰다. 10월 19…",
+ "published_at": "2026-10-23T13:41:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "ISO EV"
+  ],
+  "companies": [
+   "ISO EV"
+  ],
+  "keywords": [
+   "피부 분석",
+   "뷰티 디바이스",
+   "맞춤형 뷰티 서비스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Eve Muse",
+    "brand": "ISO EV",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "피부 분석 및 뷰티 디바이스 전문기업 ISO EV(아이소이브이)가 일본 오사카에서 개최되는 ‘Beautyworld Osaka 2026’에 참가해 첨단 피부 분석 장비 ‘Eve Muse(이브 뮤즈)’와 ‘EVE YOUNG(이브 영)’을 선보이며 일본 시장 공략에 나섰다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "EVE YOUNG",
+    "brand": "ISO EV",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "피부 분석 및 뷰티 디바이스 전문기업 ISO EV(아이소이브이)가 일본 오사카에서 개최되는 ‘Beautyworld Osaka 2026’에 참가해 첨단 피부 분석 장비 ‘Eve Muse(이브 뮤즈)’와 ‘EVE YOUNG(이브 영)’을 선보이며 일본 시장 공략에 나섰다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "ISO EV가 일본 뷰티 전시회에 참가해 피부 분석 장비를 선보이며 일본 시장 공략에 나섰다.",
+  "key_fact_quote": "피부 분석 및 뷰티 디바이스 전문기업 ISO EV(아이소이브이)가 일본 오사카에서 개최되는 ‘Beautyworld Osaka 2026’에 참가해 첨단 피부 분석 장비 ‘Eve Muse(이브 뮤즈)’와 ‘EVE YOUNG(이브 영)’을 선보이며 일본 시장 공략에 나섰다.",
+  "events": [
+   {
+    "name": "Beautyworld Osaka 2026",
+    "start_date": "2026-10-19",
+    "end_date": "2026-10-21",
+    "place": "일본 인텍스 오사카(INTEX Osaka)",
+    "quote": "10월 19일부터 21일까지 일본 인텍스 오사카(INTEX Osaka)에서 개최되는 Beautyworld Osaka는 일본을 대표하는 종합 미용 산업 전시회 중 하나로, 화장품과 에스테틱, 네일, 헤어, 속눈썹 및 다양한 뷰티 솔루션 분야의 기업과 업계 전문가들이 참가하는 대규모 B2B 행사다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

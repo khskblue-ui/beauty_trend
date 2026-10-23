@@ -1,0 +1,43 @@
+{
+ "doc_id": "9835a56d1ade16bb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.g-enews.com/view.php?ud=202610221334199192fda4f5ab74_1",
+ "title": "비만약이 부른 피부 처짐, 뷰티 공룡들 '메디컬 스킨케어' 시장 공략",
+ "summary": "검증과 신제품 개발에 착수했다. 로이터통신은 10월 21일(현지시각) 갈더마, 로레알, 나투라 등 주요 화장품 ·미용 기업들이 체중 감량에 따른 피부 변화 시장을 새로운 수익원으로 보고 연구를 확대하고 있다고 보도했다....",
+ "published_at": "2026-10-23T07:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "갈더마",
+   "로레알",
+   "나투라"
+  ],
+  "keywords": [
+   "메디컬 스킨케어",
+   "체중 감량 피부 관리"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "주요 화장품·미용 기업들이 체중 감량에 따른 피부 변화 시장을 새 수익원으로 보고 연구를 확대하고 있다.",
+  "key_fact_quote": "로이터통신은 10월 21일(현지시각) 갈더마, 로레알, 나투라 등 주요 화장품 ·미용 기업들이 체중 감량에 따른 피부 변화 시장을 새로운 수익원으로 보고 연구를 확대하고 있다고 보도했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

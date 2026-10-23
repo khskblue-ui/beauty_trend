@@ -1,0 +1,42 @@
+{
+ "doc_id": "51828059793f6120",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=120737",
+ "title": "\"EU·미국 화장품 규제 70~80% 유사\"… K뷰티 수출 전략 바꿔야",
+ "summary": "유럽연합(EU)과 미국의 화장품 규제체계는 서로 다르지만, 제품 안전성 평가와 제조·품질관리, 원료 관련 문서 등 상당수 자료를 공통으로 활용할 수 있어 이를 통합 관리하는 전략이 K뷰티 기업들의 수출 경쟁력을 높일...",
+ "published_at": "2026-10-23T18:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 규제",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "EU와 미국의 화장품 규제체계는 공통 자료를 활용할 수 있어 통합 관리 전략이 K뷰티 수출 경쟁력을 높일 수 있다.",
+  "key_fact_quote": "유럽연합(EU)과 미국의 화장품 규제체계는 서로 다르지만, 제품 안전성 평가와 제조·품질관리, 원료 관련 문서 등 상당수 자료를 공통으로 활용할 수 있어 이를 통합 관리하는 전략이 K뷰티 기업들의 수출 경쟁력을 높일",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

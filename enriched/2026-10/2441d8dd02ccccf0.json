@@ -1,0 +1,45 @@
+{
+ "doc_id": "2441d8dd02ccccf0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7189235",
+ "title": "식품업계, K뷰티 로 사업확장…\"화장품 원료부터 인수·투자까지\"",
+ "summary": "사진=동원그룹 식품업계가 외식 사업을 넘어 '화장품· 뷰티 ' 시장으로 사업 영역을 넓히고 있다. 농심과 hy는... 않다\"며 \"식품 수출 도 현지인의 입맛에 적응하는 데 시간이 오래 걸리는 만큼 식품 기업들이 새로운 성장...",
+ "published_at": "2026-10-23T13:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "동원그룹",
+   "농심",
+   "hy"
+  ],
+  "keywords": [
+   "식품업계 뷰티 진출",
+   "화장품 원료 사업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식품업계가 화장품·뷰티 시장으로 사업 영역을 넓히고 있다.",
+  "key_fact_quote": "식품업계가 외식 사업을 넘어 '화장품· 뷰티 ' 시장으로 사업 영역을 넓히고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

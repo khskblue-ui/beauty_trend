@@ -1,0 +1,46 @@
+{
+ "doc_id": "8468f0ea646910a9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.radiokorea.com/news/article.php?uid=507561",
+ "title": "‘2026 코리아 엑스포 LA’ 개막…사흘간 K - 뷰티 ·푸드·컬처",
+ "summary": "또한 K - 뷰티 1세대로 꼽히는 소코글램 창업자 샬럿 조의 강연과 비욘세의 메이크업 아티스트 써 존(Sir John)... 울타 뷰티 등 미국 주요 유통사 바이어가 참가해 미국 진출을 희망하는 국내 중소기업과 1:1 수출 상담을...",
+ "published_at": "2026-10-23T06:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "소코글램",
+   "울타 뷰티"
+  ],
+  "keywords": [
+   "K뷰티 미국 진출",
+   "수출 상담회",
+   "뷰티 박람회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코리아 엑스포 LA에서 미국 유통사 바이어와 국내 중소기업의 수출 상담이 열린다.",
+  "key_fact_quote": "울타 뷰티 등 미국 주요 유통사 바이어가 참가해 미국 진출을 희망하는 국내 중소기업과 1:1 수출 상담을",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

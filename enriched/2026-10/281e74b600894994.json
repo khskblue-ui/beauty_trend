@@ -1,0 +1,72 @@
+{
+ "doc_id": "281e74b600894994",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58578",
+ "title": "인도로 달려가는 글로벌 뷰티 기업들…인프라부터 유통망까지 현지화 총력전",
+ "summary": "[코스인코리아닷컴 김세화 기자] 인도가 글로벌 뷰티 산업의 신흥 성장시장으로 부상하면서 글로벌 기업들의 현지 사업 확장 전략도 다변화하고 있다. 젊은 소비층을 중심으로 한 뷰티 수요 확대와 전자상거래의 성장 속에 기업들은 제품 판매를 넘어 현지 생산시설 투자와 유통망 확대, 브랜드 인수 및 육성…",
+ "published_at": "2026-10-23T14:24:34+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "IN",
+   "DE",
+   "IT"
+  ],
+  "brands": [
+   "버켄스탁",
+   "키코 밀라노",
+   "키엘",
+   "이노비스트",
+   "H&M 뷰티"
+  ],
+  "companies": [
+   "심라이즈",
+   "유니레버",
+   "로레알",
+   "에스티 로더",
+   "나이카"
+  ],
+  "keywords": [
+   "인도 시장",
+   "현지화",
+   "향료 원료",
+   "D2C"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "케어 에센셜",
+    "brand": "버켄스탁",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "독일 신발 브랜드 버켄스탁(Birkenstock)은 최근 퍼스널케어 제품군인 ‘케어 에센셜(Care Essentials)’을 인도에 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "글로벌 뷰티 기업들이 인도에서 현지 생산, 유통 제휴, 기업 인수, 신규 제품군 출시로 사업을 넓히고 있다.",
+  "key_fact_quote": "인도가 글로벌 뷰티 산업의 신흥 성장시장으로 부상하면서 글로벌 기업들의 현지 사업 확장 전략도 다변화하고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "글로벌라이드",
+    "quote": "지난 15일 독일계 향료·향미(Flavors & Fragrances) 기업 심라이즈(Symrise)는 생분해성 매크로사이클릭 머스크 향료 원료인 글로벌라이드(Globalide)의 인도 내 생산능력을 확대한다고 밝혔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": true
+}

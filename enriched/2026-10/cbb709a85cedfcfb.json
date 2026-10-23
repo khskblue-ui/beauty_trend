@@ -1,0 +1,55 @@
+{
+ "doc_id": "cbb709a85cedfcfb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://dealsite.co.kr/articles/171165",
+ "title": "위고비·마운자로가 바꾼 뷰티시장...2.6조원 전망",
+ "summary": "기존의 필러와 화장품 와 같이 사용할 방법도 찾고 있다. 국내에서는 휴젤과 메디톡스가 얼굴 볼륨을... 필러 신제품 '더채움 시그니처' 4종을 출시했다.지난8월 휴젤이 발표한 올해 상반기 필러·스킨부스터 부문...",
+ "published_at": "2026-10-23T10:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "휴젤",
+   "메디톡스"
+  ],
+  "keywords": [
+   "비만 치료제",
+   "필러",
+   "스킨부스터"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "더채움 시그니처",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "필러 신제품 '더채움 시그니처' 4종을 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "비만 치료제가 퍼지면서 필러 등 미용 의료 시장이 바뀌고 있다.",
+  "key_fact_quote": "기존의 필러와 화장품 와 같이 사용할 방법도 찾고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}

@@ -1,0 +1,48 @@
+{
+ "doc_id": "d848f6b0131bef5d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026102313202487205",
+ "title": "에일리부터 파브리·쉬기까지…‘2026 코리아 엑스포 LA’ K뷰티 ·푸드·...",
+ "summary": "쉬기(Shiggy), 에일린 킴 등이 심사에 참여하며 K -POP 댄스 클래스와 나전칠기 공예 체험도 이어진다. 수출 성과를 위한 비즈니스 프로그램도 운영된다. 코스트코와 H마트, 아마존, 울타 뷰티 등 미국 주요 유통사...",
+ "published_at": "2026-10-23T13:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스트코",
+   "H마트",
+   "아마존",
+   "울타 뷰티"
+  ],
+  "keywords": [
+   "K뷰티 박람회",
+   "미국 수출",
+   "유통 상담"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 LA 코리아 엑스포에서 K뷰티 행사와 함께 미국 주요 유통사 대상 수출 비즈니스 프로그램이 열린다.",
+  "key_fact_quote": "수출 성과를 위한 비즈니스 프로그램도 운영된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-23T21:36:33+00:00",
+ "had_body": false
+}
