@@ -1,0 +1,57 @@
+{
+ "doc_id": "100c419eb870ac4b",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/ysl-beauty-steps-up-its-investment,28403",
+ "title": "YSL Beauty steps up its investment in Brazil with first store in São Paulo",
+ "summary": "Following the launch of its e-commerce platform in 2024, the French brand is expanding its presence in Brazil through targeted marketing campaigns and its first physical store, complementing its availability on TikTok Shop. Yves Saint Laurent Beauty opened its first physical store in Brazil in August. Located in the Mata São Paulo complex in the country's economic capital, the boutique is also the brand's first in South America. “Brazil is the second Latin American market to welcome a YSL... - Companies & industry",
+ "published_at": "2026-10-24T20:20:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "BR",
+   "FR"
+  ],
+  "brands": [
+   "YSL Beauty"
+  ],
+  "companies": [
+   "L’Oréal Group Brazil"
+  ],
+  "keywords": [
+   "럭셔리 뷰티 매장",
+   "소셜 커머스",
+   "브라질 향수 시장"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Le Vestiaire des Parfums",
+    "brand": "YSL Beauty",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "YSL Beauty가 브라질 상파울루에 첫 매장을 열었다.",
+  "key_fact_quote": "Yves Saint Laurent Beauty opened its first physical store in Brazil in August",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-24T21:31:14+00:00",
+ "had_body": true
+}

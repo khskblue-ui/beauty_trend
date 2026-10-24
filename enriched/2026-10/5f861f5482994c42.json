@@ -1,0 +1,43 @@
+{
+ "doc_id": "5f861f5482994c42",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.yonhapnewstv.co.kr/news/MYH20261024135730uK0",
+ "title": "\" K - 뷰티 한자리에\"…오송 화장품 뷰티 엑스포 '성황'",
+ "summary": "상처 치유에 실제 효과가 있는 제품을 찾는 데 오랜 시간이 걸렸는데 오늘 큰 성과가 있었습니다.\" 청주에서 열린 화장품 뷰티 엑스포가 수출 입 상담 열기로 달아올랐습니다. 이번 엑스포에는 250여 곳의 기업과 39개국에서...",
+ "published_at": "2026-10-24T13:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 박람회",
+   "피부 진단",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "f5d6df31454dbc2b",
+ "enriched_at": "2026-10-24T21:29:47+00:00",
+ "had_body": false
+}

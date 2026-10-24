@@ -1,0 +1,42 @@
+{
+ "doc_id": "44c53d98adbf5376",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://economist.co.kr/article/view/ecn202610200035",
+ "title": "신물질 찾고 기획까지…K뷰티 ‘AI 혁신’",
+ "summary": "절약한 시간과 인력을 신제품 개발에 투입하면 소비자 취향과 해외 시장별 수요에도 빠르게 대응할 수 있을 것으로 기대된다. 업계 관계자는 “AI 도입으로 화장품 개발과 제조 효율이 높아질 것으로 기대되지만, 실제...",
+ "published_at": "2026-10-24T09:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "AI 화장품 개발",
+   "신물질 탐색",
+   "제품 기획 자동화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 업계가 AI로 신물질을 찾고 제품 기획까지 맡기고 있다.",
+  "key_fact_quote": "절약한 시간과 인력을 신제품 개발에 투입하면 소비자 취향과 해외 시장별 수요에도 빠르게 대응할 수 있을 것으로 기대된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-24T21:31:14+00:00",
+ "had_body": false
+}

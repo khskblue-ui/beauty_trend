@@ -1,0 +1,42 @@
+{
+ "doc_id": "937e4cc605f1d5ea",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261023000270",
+ "title": "K뷰티 수출 안전성 자료 DB 손본다…성분 시험정보까지 체계화",
+ "summary": "김주덕 서울사이버대 뷰티 산업학과 석좌교수는 “화장품 원료나 성분은 국가별로 규제와 법령 등이 상이하고, 그마저도 계속 달라지는 흐름이라 수출 기업에는 매우 중요한 요소”라면서 “데이터 체계를 기반으로 국내...",
+ "published_at": "2026-10-24T23:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 안전성 DB",
+   "성분 시험정보",
+   "수출 규제 대응"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 수출을 위해 안전성 자료 DB를 성분 시험정보까지 체계화한다.",
+  "key_fact_quote": "김주덕 서울사이버대 뷰티 산업학과 석좌교수는 “화장품 원료나 성분은 국가별로 규제와 법령 등이 상이하고, 그마저도 계속 달라지는 흐름이라 수출 기업에는 매우 중요한 요소”라면서",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-24T21:31:14+00:00",
+ "had_body": false
+}

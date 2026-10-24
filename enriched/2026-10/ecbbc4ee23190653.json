@@ -1,0 +1,45 @@
+{
+ "doc_id": "ecbbc4ee23190653",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kr.aving.net/news/articleView.html?idxno=1816076",
+ "title": "한미화장품, 바이오헬스케어산업전시회서 스킨케어 '실크바이옴 베일' ...",
+ "summary": "회사 관계자는 \"한미화장품은 한미양행의 글로벌 거래 기반과 제조 경험을 활용해 해외 시장에서도 사업을 전개하고 있으며, 현재 태국과 베트남 등 동남아시아 시장을 중심으로 수출 을 진행하고 있다\"고 말했다....",
+ "published_at": "2026-10-24T17:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한미 화장품"
+  ],
+  "keywords": [
+   "화장품 OEM",
+   "화장품 ODM",
+   "지리산 원료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "143a35f897656865",
+ "enriched_at": "2026-10-24T21:29:47+00:00",
+ "had_body": false
+}

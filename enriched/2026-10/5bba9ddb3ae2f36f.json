@@ -1,0 +1,44 @@
+{
+ "doc_id": "5bba9ddb3ae2f36f",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312304",
+ "title": "K-뷰티 수출 빅데이터 리포트 ③: 립메이크업 수출 둔화…미국·일본이 전체 절반 비중 - 뷰티경제",
+ "summary": "[편집자 주] 산업통상자원부에 따르면 2026년 9월 화장품 수출은 15억달러로 전년 동기 대비 31% 증가했다. 이에 따라 관세청 수출입무역통계를 바탕으로 K-",
+ "published_at": "2026-10-24T16:35:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "립메이크업",
+   "수출 둔화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "립메이크업 수출이 둔화했고 미국과 일본이 큰 비중을 차지한다.",
+  "key_fact_quote": "K-뷰티 수출 빅데이터 리포트 ③: 립메이크업 수출 둔화…미국·일본이 전체 절반 비중 - 뷰티경제",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-24T21:31:14+00:00",
+ "had_body": false
+}
