@@ -1,0 +1,43 @@
+{
+ "doc_id": "73ac17e53bfc4780",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sportschosun.com/entertainment/2026-10-25/202610250100154890010118",
+ "title": "지드래곤에 먼저 \"만나자\" DM 보낸 이효리, '한정판 향수 ' 선물 받았다....",
+ "summary": "이효리가 선물 받은 향수 는 지드래곤이 운영하는 패션·아트 브랜드 와 프랑스 럭셔리 퍼퓸 브랜드 가 협업해 선보인 한정판 제품이다. 이효리가 직접 감사 인사를 전하면서 두 사람의 인연에도 관심이 쏠렸다. 특히...",
+ "published_at": "2026-10-25T11:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "한정판 향수",
+   "브랜드 협업",
+   "럭셔리 퍼퓸"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지드래곤이 운영하는 브랜드와 프랑스 퍼퓸 브랜드가 협업한 한정판 향수가 나왔다.",
+  "key_fact_quote": "이효리가 선물 받은 향수 는 지드래곤이 운영하는 패션·아트 브랜드 와 프랑스 럭셔리 퍼퓸 브랜드 가 협업해 선보인 한정판 제품이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:35:11+00:00",
+ "had_body": false
+}

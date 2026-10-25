@@ -1,0 +1,42 @@
+{
+ "doc_id": "71ded9076f17f560",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.livebiz.today/news/articleView.html?idxno=205900",
+ "title": "오송화장품 뷰티 엑스포 \" K - 뷰티 대표 수출 플랫폼 자리 매김\"... 수출 계약...",
+ "summary": "이미 K - 뷰티 대표 수출 플랫폼으로도 자리매김했다. 국내외 254개 화장품· 뷰티 기업 관계자를 비롯해 37개국에서 방한한 진성 바이어 200명, 현장 등록 바이어 329명이 참가한 가운데 1억달러에 가까운 수출 계약이 성사된...",
+ "published_at": "2026-10-25T17:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "화장품 엑스포",
+   "수출 계약"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "오송 화장품 뷰티 엑스포가 K뷰티 대표 수출 플랫폼으로 자리를 잡았다",
+  "key_fact_quote": "이미 K - 뷰티 대표 수출 플랫폼으로도 자리매김했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": false
+}

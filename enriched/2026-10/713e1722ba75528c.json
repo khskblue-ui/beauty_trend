@@ -1,0 +1,53 @@
+{
+ "doc_id": "713e1722ba75528c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2341322",
+ "title": "LG생활건강, 멕시코 K- 뷰티 공략 확대…닥터그루트 북미 수상·피지 매출...",
+ "summary": "신제품 은 'H-PDRN 90™'을 90% 이상 함유해 앞볼·팔자·입가 등 중안부 탄력 개선을 겨냥한 제품이다. LG생활건강 '피지 모락셀라', 출시 2년여 만에 누적 매출 600억원 LG생활건강 세탁 브랜드 '피지 모락셀라'가 2024년...",
+ "published_at": "2026-10-26T01:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "MX",
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "닥터그루트"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "K뷰티 멕시코 진출",
+   "PDRN 성분",
+   "탄력 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "LG생활건강이 멕시코에서 K뷰티 공략을 넓히고 있다",
+  "key_fact_quote": "LG생활건강, 멕시코 K- 뷰티 공략 확대…닥터그루트 북미 수상",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "H-PDRN 90™",
+    "quote": "신제품 은 'H-PDRN 90™'을 90% 이상 함유해 앞볼·팔자·입가 등 중안부 탄력 개선을 겨냥한 제품이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": false
+}

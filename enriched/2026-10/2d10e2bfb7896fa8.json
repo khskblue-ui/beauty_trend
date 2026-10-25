@@ -1,0 +1,50 @@
+{
+ "doc_id": "2d10e2bfb7896fa8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dynews.co.kr/news/articleView.html?idxno=870925",
+ "title": "오송화장품 뷰티 엑스포 '글로벌 K - 뷰티 ' 도약",
+ "summary": "［동양일보 지영수］ 청주오스코에서 열린 '2026 오송화장품 뷰티 엑스포'에 참가한 도내 기업과 해외가이들들이 수출 상담을 하고 있다. 충북 오송이 ' K - 뷰티 의 중심'으로서 위상을 다시 한번 확인했다. 지난 22~24일...",
+ "published_at": "2026-10-25T19:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "화장품 엑스포",
+   "수출 상담"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "오송 화장품 뷰티 엑스포가 K뷰티 중심지로서 위상을 다시 확인했다",
+  "key_fact_quote": "충북 오송이 ' K - 뷰티 의 중심'으로서 위상을 다시 한번 확인했다. 지난 22~24일",
+  "events": [
+   {
+    "name": "2026 오송화장품 뷰티 엑스포",
+    "start_date": "2026-10-22",
+    "end_date": "2026-10-24",
+    "place": "청주오스코",
+    "quote": "충북 오송이 ' K - 뷰티 의 중심'으로서 위상을 다시 한번 확인했다. 지난 22~24일"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": false
+}

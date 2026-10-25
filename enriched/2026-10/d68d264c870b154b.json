@@ -1,0 +1,47 @@
+{
+ "doc_id": "d68d264c870b154b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=93645",
+ "title": "삼양그룹 창립 102주년…김윤 회장, 글로벌·고부가가치 사업 강화 주문",
+ "summary": "2023년 미국 특수화학 기업 버던트 스페셜티 솔루션즈를 인수한 데 이어 올해 5월에는 일본 향료 기업 소다 아로마틱을 인수하며 글로벌 사업 기반을 넓혔다. 창립기념일을 맞아 임직원들이 참여하는 사회공헌활동도...",
+ "published_at": "2026-10-25T12:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "JP",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "삼양그룹",
+   "버던트 스페셜티 솔루션즈",
+   "소다 아로마틱"
+  ],
+  "keywords": [
+   "향료 기업 인수",
+   "스페셜티 사업",
+   "글로벌 사업 확대"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "삼양그룹이 미국 특수화학 기업에 이어 일본 향료 기업을 인수했다",
+  "key_fact_quote": "2023년 미국 특수화학 기업 버던트 스페셜티 솔루션즈를 인수한 데 이어 올해 5월에는 일본 향료 기업 소다 아로마틱을 인수하며 글로벌 사업 기반을 넓혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": false
+}

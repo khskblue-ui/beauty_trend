@@ -1,0 +1,69 @@
+{
+ "doc_id": "88c47865544f4107",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/silgan-dispensing-lends-its,28405",
+ "title": "Silgan Dispensing lends its expertise to Guerlain's Longevity Concentrate",
+ "summary": "Silgan Dispensing contributed to the design and development of the 30 ml refillable pump bottle created for Guerlain's new Longevity Concentrate in the Orchidée Impériale range. The foremost requirement was compatibility with a complex formula containing many active ingredients, partly derived from the Vanda coerulea orchid, and encapsulated in billions of liposomes. Silgan's SP34 pump, which had demonstrated its value in the Orchidée Impériale collection, garnered support for its... - Industry buzz",
+ "published_at": "2026-10-25T06:24:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Guerlain"
+  ],
+  "companies": [
+   "Silgan Dispensing"
+  ],
+  "keywords": [
+   "리필 용기",
+   "안티에이징 컨센트레이트",
+   "패키징 협업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Longevity Concentrate",
+    "brand": "Guerlain",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "실간 디스펜싱이 게랑의 새 컨센트레이트용 리필 펌프 용기 개발에 참여했다",
+  "key_fact_quote": "Silgan Dispensing contributed to the design and development of the 30 ml refillable pump bottle created for Guerlain's new Longevity Concentrate in the Orchidée Impériale range.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026"
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "Vanda coerulea",
+    "quote": "The foremost requirement was compatibility with a complex formula containing many active ingredients, partly derived from the Vanda coerulea orchid, and encapsulated in billions of liposomes."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": true
+}

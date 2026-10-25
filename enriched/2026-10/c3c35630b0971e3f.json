@@ -1,0 +1,50 @@
+{
+ "doc_id": "c3c35630b0971e3f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261025000102",
+ "title": "美 해변서 금보다 비싼 '바다 로또' 발견…샤넬 향수에도 들어간 '수상...",
+ "summary": "다만 오늘날에는 공급의 희소성과 비용, 규제 등의 이유로 합성 향료 와 대체 원료가 활용된다. 특정 제품에 용연향이 실제로 사용됐는지는 제조 시기와 배합에 따라 구분할 필요가 있다. 용연향의 가격은 품질과 숙성...",
+ "published_at": "2026-10-25T19:23:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "샤넬"
+  ],
+  "companies": [],
+  "keywords": [
+   "용연향",
+   "천연 향료",
+   "합성 향료",
+   "대체 원료"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "용연향은 공급 부족과 비용, 규제 때문에 합성 향료와 대체 원료로 대신 쓰이고 있다.",
+  "key_fact_quote": "다만 오늘날에는 공급의 희소성과 비용, 규제 등의 이유로 합성 향료 와 대체 원료가 활용된다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "용연향",
+    "quote": "특정 제품에 용연향이 실제로 사용됐는지는 제조 시기와 배합에 따라 구분할 필요가 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:35:11+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "0478e6dd5c986662",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.osen.co.kr/article/G1112897897",
+ "title": "이효리, 지드래곤과 뜻밖의 친분 공개..한정판 향수 선물에 \"고마워♥\"...",
+ "summary": "공개된 사진 속에는 지드래곤이 만든 패션 브랜드가 프랑스 향수 브랜드 와 협업해 내놓은 한정한 향수를 찍은 모습이 담겨 있다. 예쁘게 포장된 선물용 박스에 한정판 향수가 자리잡았고, 지드래곤의 패션 브랜드를...",
+ "published_at": "2026-10-25T11:05:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "한정판 향수",
+   "브랜드 협업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지드래곤의 패션 브랜드가 프랑스 향수 브랜드와 협업한 한정판 향수가 공개됐다",
+  "key_fact_quote": "공개된 사진 속에는 지드래곤이 만든 패션 브랜드가 프랑스 향수 브랜드 와 협업해 내놓은 한정한 향수를 찍은 모습이 담겨 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": false
+}

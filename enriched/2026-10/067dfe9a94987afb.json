@@ -1,0 +1,60 @@
+{
+ "doc_id": "067dfe9a94987afb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Economy/article/all/20261023/134881973/3",
+ "title": "“소금빵이 화장품 이 됐다”…세계 1위 로레알이 한국서 찾은 것 [룩앤...",
+ "summary": "서울에서 유행하는 먹거리와 카페 문화가 화장품 의 색상과 디자인, 마케팅 소재로 활용된 것이다. 컬러 베이커 컬렉션은 한국을 비롯해 중국, 베트남, 태국, 인도네시아 등에 출시 됐다. 로레알에 따르면 중국에서는 출시 ...",
+ "published_at": "2026-10-25T14:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN",
+   "VN",
+   "TH",
+   "ID"
+  ],
+  "brands": [
+   "로레알"
+  ],
+  "companies": [
+   "로레알"
+  ],
+  "keywords": [
+   "소금빵 콜라보",
+   "K푸드 영감 화장품",
+   "현지 트렌드 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "컬러 베이커 컬렉션",
+    "brand": "로레알",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "컬러 베이커 컬렉션은 한국을 비롯해 중국, 베트남, 태국, 인도네시아 등에 출시 됐다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "로레알이 서울의 먹거리와 카페 문화를 화장품 색상과 디자인에 활용했다",
+  "key_fact_quote": "서울에서 유행하는 먹거리와 카페 문화가 화장품 의 색상과 디자인, 마케팅 소재로 활용된 것이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": false
+}

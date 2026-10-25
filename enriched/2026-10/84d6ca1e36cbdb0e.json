@@ -1,0 +1,52 @@
+{
+ "doc_id": "84d6ca1e36cbdb0e",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312305",
+ "title": "K-뷰티 수출 빅데이터 리포트④: 아이메이크업 11% 증가…미국·일본 성장 견인",
+ "summary": "[편집자 주] 산업통상자원부에 따르면 2026년 9월 화장품 수출은 15억달러로 전년 동기 대비 31% 증가했다. 이에 따라 관세청 수출입무역통계를 바탕으로 K-뷰티 8대 핵심 품목의 수출 현황과 국가별 수출단가 변화를 분석하는 연속 기획을 시작한다. 네 번째 순서로 눈화장용 제품류(HS 330420)를 분석한다.④ 아이메이크업 수출아이메이크업 수출이 2026년 3분기와 9월 모두 두 자릿수 증가세를 기록하며 견조한 성장을 했다. 수출 증가와 함께 무역수지 흑자 규모도 확대되면서 K-뷰티 색조화장품 가운데 아이메이크업 제품의 경쟁력",
+ "published_at": "2026-10-25T12:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "JP",
+   "CN",
+   "FR",
+   "VN",
+   "SA",
+   "TW",
+   "AU",
+   "RU",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "아이메이크업",
+   "색조화장품 수출",
+   "수출 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아이메이크업 수출이 두 자릿수 증가세를 보였고 미국과 일본이 성장을 이끌었다.",
+  "key_fact_quote": "아이메이크업 수출이 2026년 3분기와 9월 모두 두 자릿수 증가세를 기록하며 견조한 성장을 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:35:11+00:00",
+ "had_body": true
+}

@@ -1,0 +1,84 @@
+{
+ "doc_id": "b5a8d315772c0c7d",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53766",
+ "title": "더후, 글로벌 럭셔리 브랜드 미래 비전 제시",
+ "summary": "LG생활건강 궁중 피부과학 럭셔리 코스메틱 브랜드 ‘더후’가 글로벌 명품 산업 최고경영자 포럼 ‘파이낸셜타임스(FT) 럭셔리 서밋-아시아 에디션 2026’(태국 방콕·10월 20일)에서 명품 산업 트렌드와 미래 방향성을 함께 제시했다. FT 럭셔리 서밋은 영국 파이낸셜타임스(FT)와 일본 닛케이가 공…",
+ "published_at": "2026-10-25T06:49:16+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "TH"
+  ],
+  "brands": [
+   "더후"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "럭셔리 뷰티",
+   "롱제비티",
+   "항노화",
+   "피부과학"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "더후 비첩 NAD 파워 앰풀",
+    "brand": "더후",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "환유 라인",
+    "brand": "더후",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더후가 FT 럭셔리 서밋 아시아 에디션에서 명품 산업 트렌드와 미래 방향성을 제시했다.",
+  "key_fact_quote": "LG생활건강 궁중 피부과학 럭셔리 코스메틱 브랜드 ‘더후’가 글로벌 명품 산업 최고경영자 포럼 ‘파이낸셜타임스(FT) 럭셔리 서밋-아시아 에디션 2026’(태국 방콕·10월 20일)에서 명품 산업 트렌드와 미래 방향성을 함께 제시했다.",
+  "events": [
+   {
+    "name": "파이낸셜타임스(FT) 럭셔리 서밋-아시아 에디션 2026",
+    "start_date": "2026-10-20",
+    "end_date": null,
+    "place": "태국 방콕",
+    "quote": "LG생활건강 궁중 피부과학 럭셔리 코스메틱 브랜드 ‘더후’가 글로벌 명품 산업 최고경영자 포럼 ‘파이낸셜타임스(FT) 럭셔리 서밋-아시아 에디션 2026’(태국 방콕·10월 20일)에서 명품 산업 트렌드와 미래 방향성을 함께 제시했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "NAD",
+    "quote": "더후는 신체 내 에너지를 생성하고 피부 생명력을 유지하는데 핵심 역할을 하는 항노화 성분 ‘NAD’를 제품화하는 데 성공했다."
+   },
+   {
+    "name": "NAD Power24™",
+    "quote": "LG생활건강 연구진은 13년간의 연구 끝에 피부 투과력과 전달력을 크게 개선한 ‘NAD Power24™’를 개발했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:35:11+00:00",
+ "had_body": true
+}

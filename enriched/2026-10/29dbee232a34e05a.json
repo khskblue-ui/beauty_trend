@@ -1,0 +1,62 @@
+{
+ "doc_id": "29dbee232a34e05a",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/un-jardin-de-plantes-a-parfum-sur,28407",
+ "title": "Un jardin de plantes à parfum sur le toit de Paris Expo Porte de Versailles",
+ "summary": "Viparis, gérant des principaux sites événementiels de la région parisienne, a inauguré en septembre, au parc des expositions Paris Expo Porte de Versailles, le premier jardin botanique de plantes à parfum sur un toit. Ce nouvel espace vient compléter La Serre, un espace lumineux et ouvert sur l'extérieur dédié à l'accueil d'événements professionnels Aménagé sur le toit du Pavillon 6, le Jardin des Parfums, Grasse-Paris complète l'offre événementielle de La Serre, avec une dimension... - Brèves",
+ "published_at": "2026-10-25T06:55:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "Viparis",
+   "Resperfuma",
+   "Robertet",
+   "Fragonard"
+  ],
+  "keywords": [
+   "향료 식물 정원",
+   "그라스",
+   "향 문화 체험"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "파리 박람회장 지붕에 향 계열별로 식물을 모은 향료 식물 정원이 문을 열었다",
+  "key_fact_quote": "Le jardin réunit 88 espèces botaniques organisées autour de six familles olfactives : aromatiques, épicées et boisées, florales, hespéridées, fruitées et fleurs blanches.",
+  "events": [
+   {
+    "name": "Jardin des Parfums, Grasse-Paris",
+    "start_date": "2026-09-18",
+    "end_date": null,
+    "place": "Paris Expo Porte de Versailles",
+    "quote": "L’ouverture en avant-première le 18 septembre a donné lieu à une visite guidée et à des ateliers consacrés aux matières premières et aux parfums"
+   },
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": true
+}

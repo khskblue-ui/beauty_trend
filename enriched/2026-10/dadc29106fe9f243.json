@@ -1,0 +1,44 @@
+{
+ "doc_id": "dadc29106fe9f243",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ajunews.com/view/20261025124818862",
+ "title": "외국인 약국 소비 급증… 제약사 '약국 뷰티' 공략, 매출도 '쑥'",
+ "summary": "회사 측에 따르면 지난해 11월 첫 출시 된 이후 수요가 지속적으로 늘었고, 올해 5월 약국 출하액은 출시 초기 대비 약 41배(4168%) 수준으로 확대됐다. 파마리서치메디케어 관계자는 \" 화장품 ·의약품·의료기기·이너뷰티...",
+ "published_at": "2026-10-25T13:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "파마리서치메디케어"
+  ],
+  "keywords": [
+   "약국 뷰티",
+   "외국인 약국 소비",
+   "더마 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "파마리서치메디케어의 약국용 제품 수요가 출시 이후 꾸준히 늘었다",
+  "key_fact_quote": "회사 측에 따르면 지난해 11월 첫 출시 된 이후 수요가 지속적으로 늘었고, 올해 5월 약국 출하액은 출시 초기 대비 약 41배(4168%) 수준으로 확대됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": false
+}

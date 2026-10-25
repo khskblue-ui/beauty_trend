@@ -1,0 +1,42 @@
+{
+ "doc_id": "2a5f63ba02848aff",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=334201",
+ "title": "비누로 출발한 미용 브랜드 ‘도브’가 향수까지..",
+ "summary": "이 향수를 개발한 앤 고틀리브 조향사 는 “가장 기억 속에 남을 만한 향수제품들의 경우 우리에게 어떤... 고틀리브 조향사 는 설명했다.이 같은 시그니처 향기를 고급향수로 재해석하는 일은 그 향기가 왜 이토록 오랜...",
+ "published_at": "2026-10-26T06:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "도브"
+  ],
+  "companies": [],
+  "keywords": [
+   "비누 브랜드 향수",
+   "시그니처 향기",
+   "고급향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "비누로 출발한 도브가 향수까지 선보였다.",
+  "key_fact_quote": "비누로 출발한 미용 브랜드 ‘도브’가 향수까지..",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:35:11+00:00",
+ "had_body": false
+}

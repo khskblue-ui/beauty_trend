@@ -1,0 +1,46 @@
+{
+ "doc_id": "a5140f17d0e6c515",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.srtimes.kr/news/articleView.html?idxno=215746",
+ "title": "삼양그룹, 창립 102주년 맞아 제빵 봉사…취약계층에 빵 4000개 전달",
+ "summary": "김윤 삼양홀딩스 회장은 창립기념사에서 일본 향료 ·향장 전문기업 'Soda Aromatic' 인수와 삼양엔씨켐의 고부가 반도체 소재 공급 확대 등을 올해 주요 성과로 제시했다. 그룹 자체 인공지능(AI) 플랫폼 'SAMI 2.0' 구축을...",
+ "published_at": "2026-10-25T09:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "삼양홀딩스",
+   "Soda Aromatic",
+   "삼양엔씨켐"
+  ],
+  "keywords": [
+   "향료 기업 인수",
+   "스페셜티 사업",
+   "글로벌 사업 확대"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "삼양홀딩스 회장이 일본 향료 전문기업 인수를 올해 주요 성과로 제시했다",
+  "key_fact_quote": "김윤 삼양홀딩스 회장은 창립기념사에서 일본 향료 ·향장 전문기업 'Soda Aromatic' 인수와 삼양엔씨켐의 고부가 반도체 소재 공급 확대 등을 올해 주요 성과로 제시했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": false
+}

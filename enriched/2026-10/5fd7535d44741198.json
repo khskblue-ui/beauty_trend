@@ -1,0 +1,52 @@
+{
+ "doc_id": "5fd7535d44741198",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/dsm-firmenich-opens-new-fine,28406",
+ "title": "dsm-firmenich opens new Fine Fragrance flagship in Chelsea, New York",
+ "summary": "The fragrance maker has opened what it calls its “flagship for Fine Fragrance” at 641 Avenue of the Americas in Chelsea, New York City. The new 44,000-square-foot space brings together perfumers, fragrance development teams, application, digital, and compounding capabilities under one roof. Home to around 100 employees, including nine Fine Fragrance perfumers, the new Chelsea location is designed to foster deeper collaboration, inspire creativity, and accelerate innovation alongside clients... - Industry buzz / North America",
+ "published_at": "2026-10-25T06:51:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "파인 프래그런스",
+   "조향 연구 시설",
+   "향료 조합 로봇"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "dsm-firmenich가 뉴욕 첼시에 파인 프래그런스 거점을 새로 열었다",
+  "key_fact_quote": "The fragrance maker has opened what it calls its “flagship for Fine Fragrance” at 641 Avenue of the Americas in Chelsea, New York City.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": true
+}

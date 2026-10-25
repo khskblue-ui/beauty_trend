@@ -1,0 +1,48 @@
+{
+ "doc_id": "12a8d350af49be77",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065581404860754",
+ "title": "K - 뷰티 열풍 타고 美 LA 공략…무협, 소비재 85개사 수출 지원",
+ "summary": "H마트와 샐리 뷰티 , 멕시코 유통업체 델솔 등이 참여해 사흘간 400건 이상의 수출 상담을 진행했다. 현장에서는 K - 뷰티 제품 체험과 K -푸드 시식 행사, K -팝 공연 관련 이벤트 등도 마련됐다. 행사 기간 약 1만6000명의 현지...",
+ "published_at": "2026-10-25T11:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US",
+   "MX"
+  ],
+  "brands": [],
+  "companies": [
+   "H마트",
+   "샐리 뷰티",
+   "델솔"
+  ],
+  "keywords": [
+   "K뷰티 대미 수출",
+   "북미 수출 상담",
+   "소비재 수출 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무역협회 LA 소비재전에서 북미 유통업체와 수출 상담이 이뤄졌다",
+  "key_fact_quote": "H마트와 샐리 뷰티 , 멕시코 유통업체 델솔 등이 참여해 사흘간 400건 이상의 수출 상담을 진행했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": false
+}

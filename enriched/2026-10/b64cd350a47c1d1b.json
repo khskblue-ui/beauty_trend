@@ -1,0 +1,42 @@
+{
+ "doc_id": "b64cd350a47c1d1b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://magazine.hankyung.com/job-joy/article/202610253638d",
+ "title": "[서원대학교 2026년 창업도약패키지 선정기업] 글로벌 K뷰티 화장품 공...",
+ "summary": "물류, 수출 까지 전 과정을 연결하는 플랫폼을 운영하고 있다. 현재 미국, 유럽, 중동 등 8개국 이상의 브랜드들의 제품을 기획 및 생산하고 있으며, 글로벌 뷰티 브랜드의 한국 진출과 K - 뷰티 제조 생태계의 해외 확장을...",
+ "published_at": "2026-10-25T18:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "화장품 수출 플랫폼",
+   "해외 브랜드 제조 대행"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "K뷰티 화장품 기업이 기획부터 물류와 수출까지 잇는 플랫폼을 운영한다",
+  "key_fact_quote": "물류, 수출 까지 전 과정을 연결하는 플랫폼을 운영하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": false
+}

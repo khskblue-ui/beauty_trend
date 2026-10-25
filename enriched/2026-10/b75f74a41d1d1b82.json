@@ -1,0 +1,69 @@
+{
+ "doc_id": "b75f74a41d1d1b82",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/guerlain-confie-a-silgan-l-ecrin,28404",
+ "title": "Guerlain confie à Silgan l'écrin de son nouveau Concentré de Longévité",
+ "summary": "Silgan Dispensing a accompagné la conception et le développement du flacon pompe de 30 ml rechargeable, imaginé par Guerlain pour le nouveau Concentré de Longévité de la gamme Orchidée Impériale. L'exigence majeure résidait dans la compatibilité avec une formule complexe contenant de nombreux actifs, issus notamment de l'orchidée Vanda coerulea, désormais encapsulés dans des milliards de liposomes. La pompe SP34 de Silgan, qui avait déjà fait ses preuves avec la gamme Orchidée Impériale,... - Brèves",
+ "published_at": "2026-10-25T06:09:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Guerlain"
+  ],
+  "companies": [
+   "Silgan Dispensing"
+  ],
+  "keywords": [
+   "리필 용기",
+   "안티에이징 컨센트레이트",
+   "패키징 협업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Concentré de Longévité",
+    "brand": "Guerlain",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "실간 디스펜싱이 게랑의 새 컨센트레이트용 리필 펌프 용기 개발에 참여했다",
+  "key_fact_quote": "Silgan Dispensing a accompagné la conception et le développement du flacon pompe de 30 ml rechargeable, imaginé par Guerlain pour le nouveau Concentré de Longévité de la gamme Orchidée Impériale.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026"
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "Vanda coerulea",
+    "quote": "une formule complexe contenant de nombreux actifs, issus notamment de l’orchidée Vanda coerulea , désormais encapsulés dans des milliards de liposomes."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": true
+}

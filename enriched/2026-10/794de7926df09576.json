@@ -1,0 +1,59 @@
+{
+ "doc_id": "794de7926df09576",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312434",
+ "title": "K-뷰티 대미 수출 40%↑…무역협회, LA서 북미 판로 확대 지원",
+ "summary": "미국 시장에서 K-뷰티 수출이 가파른 성장세를 이어가는 가운데 한국무역협회가 국내 화장품 기업들의 북미 시장 진출 지원을 강화하고 있다.한국무역협회는 ㈜엑스포럼과 공동으로 미국 로스앤젤레스(LA)에서 \\'2026 LA K-프리미엄 소비재전\\'을 개최하고 국내 소비재 기업들의 북미 시장 판로 개척 지원에 나섰다. 특히 이번 행사는 미국 시장에서 한국 화장품의 성장세가 뚜렷하게 나타나는 시점에 개최돼 주목받고 있다.실제로 한국무역협회 무역통계(K-Stat)에 따르면 올해 1~9월 대미 화장품 수출은 전년 동기 대비 40% 이상 증가했다.",
+ "published_at": "2026-10-25T13:10:31+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US",
+   "CA",
+   "MX"
+  ],
+  "brands": [],
+  "companies": [
+   "한국무역협회",
+   "엑스포럼",
+   "샐리뷰티홀딩스",
+   "H마트",
+   "델솔"
+  ],
+  "keywords": [
+   "K뷰티 대미 수출",
+   "북미 판로 개척",
+   "수출 상담회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국무역협회가 로스앤젤레스에서 소비재전을 열고 북미 판로 개척을 지원했다",
+  "key_fact_quote": "한국무역협회는 ㈜엑스포럼과 공동으로 미국 로스앤젤레스(LA)에서 '2026 LA K-프리미엄 소비재전'을 개최하고 국내 소비재 기업들의 북미 시장 판로 개척 지원에 나섰다.",
+  "events": [
+   {
+    "name": "2026 LA K-프리미엄 소비재전",
+    "start_date": "2026-10-22",
+    "end_date": null,
+    "place": "미국 로스앤젤레스(LA) 매직박스 전시장",
+    "quote": "22일(현지시간) 미국 로스앤젤레스(LA) 매직박스 전시장에서 열린 ‘2026 LA K-프리미엄 소비재전’ 개막식에서 정강 주로스앤젤레스 총영사, 장석민 한국무역협회 전무, 가수 에일리 등 주요 참석자들이 기념촬영을 하고 있다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": true
+}

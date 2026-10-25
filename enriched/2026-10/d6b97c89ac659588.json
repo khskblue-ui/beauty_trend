@@ -1,0 +1,50 @@
+{
+ "doc_id": "d6b97c89ac659588",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58581",
+ "title": "[두바이 현장 인터뷰] 라미즈 박우연 대표, UAE 매장 5곳 확대 추진... K-뷰티 유통망 다변화",
+ "summary": "[두바이=코스인코리아닷컴 길태윤 기자] 중동 K-뷰티 시장에서 정품 여부와 유통 경로에 대한 신뢰가 새로운 구매 기준으로 부상하고 있다. UAE 화장품 유통기업 라미즈(Lamise)의 박우연 대표는 독보적인 베스트셀러와 신속한 트렌드 대응력이 지속적인 재주문을 이끄는 핵심 요인이라고 진단하며…",
+ "published_at": "2026-10-25T19:02:59+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "AE",
+   "KR"
+  ],
+  "brands": [
+   "로얄드벨",
+   "르블랑"
+  ],
+  "companies": [
+   "라미즈",
+   "KOTRA"
+  ],
+  "keywords": [
+   "K뷰티 중동 유통",
+   "정품 신뢰",
+   "유통채널 다변화",
+   "GCC 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "라미즈가 UAE 직영 매장을 늘리고 유통 채널을 넓힐 계획이다",
+  "key_fact_quote": "라미즈는 2027년 2월 아부다비 플래그십스토어 개점을 시작으로 두바이에도 신규 매장을 열어 UAE 내 직영점을 총 5곳으로 확대할 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": true
+}

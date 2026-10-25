@@ -1,0 +1,42 @@
+{
+ "doc_id": "11a7cb25b5a36d28",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.bzeronews.com/news/articleView.html?idxno=824307",
+ "title": "수출 상담에 투자유치 더했다…오송 뷰티 엑스포, 초기기업 성장 지원 확대",
+ "summary": "'2026 오송화장품 뷰티 엑스포'가 화장품 수출 상담에 초기기업 투자유치 지원을 더하며 기업 성장 지원 범위를 넓혔다. 제품 홍보와 해외 바이어 연결에 이어 자금 확보 기회까지 마련한 것으로, 현장에서 이뤄진 상담과...",
+ "published_at": "2026-10-25T16:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "투자유치 지원",
+   "화장품 수출 상담",
+   "초기기업 성장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "오송 뷰티 엑스포가 수출 상담에 초기기업 투자유치 지원을 더했다.",
+  "key_fact_quote": "'2026 오송화장품 뷰티 엑스포'가 화장품 수출 상담에 초기기업 투자유치 지원을 더하며 기업 성장 지원 범위를 넓혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:35:11+00:00",
+ "had_body": false
+}

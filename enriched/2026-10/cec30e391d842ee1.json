@@ -1,0 +1,48 @@
+{
+ "doc_id": "cec30e391d842ee1",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58580",
+ "title": "[10월 4주 화장품 주가] 아이패밀리에스씨, 日 기업 공개매수로 29.93% 상승",
+ "summary": "[코스인코리아닷컴 김민석 기자]2026년 10월 19~23일 국내 증시는 코스피 −2.08%, 코스닥 −5.42%로 하락했다. 화장품 주요 종목도 대부분 약세였다. 하지만, 아이패밀리에스씨는 일본 마루베니의 공개매수 소식으로 주간 32.29% 홀로 상승했다. 23일 하루에만 29.93% 올랐다. 이날 마루베니 자회…",
+ "published_at": "2026-10-25T11:58:12+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "아이패밀리에스씨",
+   "마루베니",
+   "웰라이언트",
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 주가",
+   "공개매수",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "일본 마루베니 자회사의 공개매수 선언으로 아이패밀리에스씨 주가가 크게 올랐다",
+  "key_fact_quote": "이날 마루베니 자회사 웰라이언트가 아이패밀리에스씨 지분 20~28%를 주당 12,000원에 공개매수를 선언, 기간은 10월 23~11월 11일이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": true
+}

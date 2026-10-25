@@ -1,0 +1,51 @@
+{
+ "doc_id": "ccb73333cd0f93ce",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53768",
+ "title": "코스메카-성균관대, 차세대 화이트 바이오 소재 공동 개발",
+ "summary": "글로벌 화장품 OGM(글로벌 규격 생산) 전문기업을 지향하는 코스메카코리아(대표이사 조임래·박은희)가 성균관대학교 연구팀과 차세대 화이트 바이오(White Bio) 소재를 활용한 신규 유화제 개발과 대량 생산 공정 고도화를 위한 공동 연구를 본격화한다. 화이트 바이오란 옥수수·사탕수수·목재 등…",
+ "published_at": "2026-10-25T08:16:08+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스메카코리아",
+   "성균관대학교"
+  ],
+  "keywords": [
+   "화이트 바이오",
+   "친환경 유화제",
+   "지속가능 소재",
+   "공동 연구"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스메카코리아가 성균관대학교 연구팀과 화이트 바이오 소재 기반 신규 유화제를 공동 개발한다",
+  "key_fact_quote": "글로벌 화장품 OGM(글로벌 규격 생산) 전문기업을 지향하는 코스메카코리아(대표이사 조임래·박은희) 가 성균관대학교 연구팀과 차세대 화이트 바이오(White Bio) 소재를 활용한 신규 유화제 개발과 대량 생산 공정 고도화를 위한 공동 연구를 본격화한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "비이온성 유화제",
+    "quote": "이번 공동 연구는 1차 년도 연구 성과를 토대로 핵심 소재의 대량 생산 공정을 고도화하고 신규 비이온성 유화제를 개발하는 데 초점을 맞춘다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-25T21:33:23+00:00",
+ "had_body": true
+}
