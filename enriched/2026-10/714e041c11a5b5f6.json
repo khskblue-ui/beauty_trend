@@ -1,0 +1,95 @@
+{
+ "doc_id": "714e041c11a5b5f6",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53771",
+ "title": "3CE ˟ 쿠로미 에디션",
+ "summary": "3CE가 산리오와 손잡고 쿠로미 에디션을 선보인다. 쿠로미 에디션은 장난스럽고 매력적인 분위기를 담았다. 오프-핑크 컬러를 통해 올겨울 주목할 메이크업 트렌드를 제안한다. 제품은 △ 멀티 아이 컬러 팔레트 더 텍스타일 △ 페이스 블러쉬 △ 벨벳 립 틴트 플러쉬 △ 블러 워터 틴트 △ 글레이지 립 글로우…",
+ "published_at": "2026-10-26T09:52:27+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "3CE",
+   "산리오",
+   "쿠로미"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "캐릭터 협업",
+   "한정판 메이크업",
+   "오프 핑크",
+   "세미 스모키"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "멀티 아이 컬러 팔레트 더 텍스타일",
+    "brand": "3CE",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "3CE ˟ 쿠로미 에디션은 오늘(26일)부터 올리브영에서 단독 판매한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "페이스 블러쉬",
+    "brand": "3CE",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "3CE ˟ 쿠로미 에디션은 오늘(26일)부터 올리브영에서 단독 판매한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "벨벳 립 틴트 플러쉬",
+    "brand": "3CE",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "3CE ˟ 쿠로미 에디션은 오늘(26일)부터 올리브영에서 단독 판매한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "블러 워터 틴트",
+    "brand": "3CE",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "3CE ˟ 쿠로미 에디션은 오늘(26일)부터 올리브영에서 단독 판매한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "글레이지 립 글로우",
+    "brand": "3CE",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "3CE ˟ 쿠로미 에디션은 오늘(26일)부터 올리브영에서 단독 판매한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "3CE가 산리오 캐릭터 쿠로미와 손잡고 한정 메이크업 에디션을 선보인다.",
+  "key_fact_quote": "3CE가 산리오와 손잡고 쿠로미 에디션을 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

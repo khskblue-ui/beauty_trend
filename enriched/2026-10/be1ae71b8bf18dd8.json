@@ -1,0 +1,47 @@
+{
+ "doc_id": "be1ae71b8bf18dd8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thepublic.kr/news/articleView.html?idxno=323787",
+ "title": "홈앤쇼핑·유니레버 카버코리아, AHC 협력 강화…뷰티 상품 경쟁력 확대",
+ "summary": "기초 화장품 1위 자리를 지켜온 대표 브랜드이며, 홈앤쇼핑 역시 AHC의 2년 연속 1위 판매 채널로서 의미 있는 파트너십을 이어오고 있다\"며 \"긴밀한 협력을 통해 신상품 출시 와 고객 수요에 맞는 상품을 선보이고 시너지를...",
+ "published_at": "2026-10-26T18:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "AHC"
+  ],
+  "companies": [
+   "홈앤쇼핑",
+   "유니레버 카버코리아"
+  ],
+  "keywords": [
+   "홈쇼핑 협업",
+   "기초 화장품",
+   "신상품 출시"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "홈앤쇼핑과 유니레버 카버코리아가 AHC 협력을 강화한다.",
+  "key_fact_quote": "홈앤쇼핑·유니레버 카버코리아, AHC 협력 강화…뷰티 상품 경쟁력 확대",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

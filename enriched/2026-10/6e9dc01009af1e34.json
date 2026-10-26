@@ -1,0 +1,42 @@
+{
+ "doc_id": "6e9dc01009af1e34",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6860770_36974.html",
+ "title": "[경제쏙] K뷰티 다시 뜨나?‥2029년부터는 꺾인다!",
+ "summary": "그리고 요즘 들어서 화장품 K - 뷰티 에 대한 열풍이 굉장히 거셉니다. ◎ 진행자 > 화장품 수출 도 엄청나죠. ◎ 고란 > 사실 우리나라 화장품 수출 이 각광을 받았던 게 기억 떠올려보시면 중국, 대중국 수출 이 늘어나면서...",
+ "published_at": "2026-10-26T15:15:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 열풍",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 열풍과 화장품 수출이 크게 늘었다는 대담이다.",
+  "key_fact_quote": "그리고 요즘 들어서 화장품 K - 뷰티 에 대한 열풍이 굉장히 거셉니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

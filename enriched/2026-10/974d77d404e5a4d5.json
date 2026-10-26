@@ -1,0 +1,48 @@
+{
+ "doc_id": "974d77d404e5a4d5",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/kayali-launches-china-exclusively-with-sephora-1239385248/",
+ "title": "Kayali Launches in China Exclusively With Sephora",
+ "summary": "The Dubai-based fragrance brand has launched exclusively with the LVMH-owned beauty retailer, pairing a 300-plus-store rollout with a founder-led push.",
+ "published_at": "2026-10-26T22:47:27+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "CN",
+   "AE"
+  ],
+  "brands": [
+   "Kayali"
+  ],
+  "companies": [
+   "Sephora",
+   "LVMH"
+  ],
+  "keywords": [
+   "향수 브랜드 중국 진출",
+   "편집숍 단독 입점",
+   "창업자 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "두바이 기반 향수 브랜드 카야리가 중국에서 세포라 단독으로 판매를 시작했다.",
+  "key_fact_quote": "The Dubai-based fragrance brand has launched exclusively with the LVMH-owned beauty retailer, pairing a 300-plus-store rollout with a founder-led push.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

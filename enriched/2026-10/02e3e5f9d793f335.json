@@ -1,0 +1,48 @@
+{
+ "doc_id": "02e3e5f9d793f335",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312463",
+ "title": "주가로 읽는 K-뷰티: 5개 대장주 외국인 지분 모두 확대…K-뷰티 성장성에 베팅",
+ "summary": "지난 1년간 외국인 투자자들은 5개 주요 화장품주에 대한 투자를 일제히 확대했다. 또 대부분 종목의 주가가 상승했다.뷰티경제가 네이버증권에서 아모레퍼시픽, LG생활건강, 코스맥스, 한국콜마, 에이피알의 주가와 외국인 지분율 변화를 분석한 결과 5개 종목 모두 외국인 보유 비중이 상승했다.외국인 지분율 증가폭은 에이피알이 13.04%포인트로 가장 높았다. 이어 한국콜마 5.25%포인트, LG생활건강 4.91%포인트, 아모레퍼시픽 3.59%포인트, 코스맥스 1.10%포인트 순이었다.외국인이 가장 많이 담은 종목은 에이피알에이피알은 외국",
+ "published_at": "2026-10-26T19:32:16+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽",
+   "LG생활건강",
+   "코스맥스",
+   "한국콜마",
+   "에이피알"
+  ],
+  "keywords": [
+   "외국인 지분율",
+   "화장품주",
+   "ODM 강세"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "외국인 투자자들이 주요 화장품주의 보유 비중을 모두 확대했다.",
+  "key_fact_quote": "지난 1년간 외국인 투자자들은 5개 주요 화장품주에 대한 투자를 일제히 확대했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

@@ -1,0 +1,55 @@
+{
+ "doc_id": "29adb99db17447cb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://wemakenews.co.kr/news/view.php?no=26677",
+ "title": "'뷰티 본 고장' 파리 메디큐브 매장 앞 장사진…K-뷰티 오픈런",
+ "summary": "주요 체험 제품은 뷰티 디바이스 신제품 ‘부스터 프로 X2’다. 현장에서는 피부 고민에 따른 사용 모드를 추천하고 메디큐브 화장품 과 함께 제품을 체험할 수 있도록 했다. 제품 구매 고객에게는 물병과 파우치, 헤어핀 등...",
+ "published_at": "2026-10-26T23:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "FR",
+   "KR"
+  ],
+  "brands": [
+   "메디큐브"
+  ],
+  "companies": [],
+  "keywords": [
+   "뷰티 디바이스",
+   "K뷰티 오프라인 매장",
+   "해외 체험 매장"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "부스터 프로 X2",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "파리 메디큐브 매장에서 뷰티 디바이스 신제품을 체험할 수 있게 했다.",
+  "key_fact_quote": "주요 체험 제품은 뷰티 디바이스 신제품 ‘부스터 프로 X2’다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

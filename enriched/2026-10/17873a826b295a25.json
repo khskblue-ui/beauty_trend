@@ -1,0 +1,46 @@
+{
+ "doc_id": "17873a826b295a25",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365210",
+ "title": "K뷰티 114억달러 시대…북미 물류전 점화",
+ "summary": "한진이 캐나다 토론토 공항 인근에 약 4200평(1만3880㎡ 안팎) 규모의 풀필먼트 센터를 열고 K뷰티 수출 기업을 겨냥한 북미 물류망 확대에 나섰다. 지난 2월 미국 로스앤젤레스(LA) 센터를 세 번째로 넓힌 데 이어 캐나다에...",
+ "published_at": "2026-10-26T16:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CA",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "한진"
+  ],
+  "keywords": [
+   "북미 물류",
+   "풀필먼트 센터",
+   "K-뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한진이 캐나다 토론토 인근에 풀필먼트 센터를 열고 K뷰티 수출 기업의 북미 물류망을 넓힌다.",
+  "key_fact_quote": "한진이 캐나다 토론토 공항 인근에 약 4200평(1만3880㎡ 안팎) 규모의 풀필먼트 센터를 열고 K뷰티 수출 기업을 겨냥한 북미 물류망 확대에 나섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

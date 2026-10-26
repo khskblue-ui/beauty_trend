@@ -1,0 +1,42 @@
+{
+ "doc_id": "3e098cce0b8b46a7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2239035",
+ "title": "중소기업 3분기 수출 334억달러…화장품, 반도체의 2배",
+ "summary": "전년 동기 대비 8.8% 증가…같은 기간 역대 최대 [충청투데이 신아영 기자] K뷰티 성장세에 힘입어 올해 3분기 중소기업 수출 액이 같은 기간 기준 역대 최대치를 기록했다.그중 화장품 수출 액은 중소기업 반도체...",
+ "published_at": "2026-10-26T16:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "화장품 수출",
+   "중소기업 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 성장세에 힘입어 중소기업 수출액이 역대 최대치를 기록했다.",
+  "key_fact_quote": "K뷰티 성장세에 힘입어 올해 3분기 중소기업 수출 액이 같은 기간 기준 역대 최대치를 기록했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

@@ -1,0 +1,58 @@
+{
+ "doc_id": "d5c4f81abbd34969",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Economy/article/all/20261026/134908302/2",
+ "title": "눈 밑에 샤넬·디올 로고가…아이패치, ‘보여주는 뷰티 ’로 [트렌디깅...",
+ "summary": "국내외 뷰티 브랜드 들도 디자인을 앞세운 제품을 잇달아 선보이고 있다. ● 붙이고 외출까지…아이패치 SNS... 구다이글로벌도 자체 브랜드 ‘뎁티(Depthi)’를 론칭 하며 아이패치를 대표 제품으로 내세웠다. ‘본딩 배리어...",
+ "published_at": "2026-10-26T11:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "샤넬",
+   "디올",
+   "뎁티"
+  ],
+  "companies": [
+   "구다이글로벌"
+  ],
+  "keywords": [
+   "아이패치",
+   "보여주는 뷰티",
+   "디자인 패치"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "뎁티(Depthi)",
+    "brand": "구다이글로벌",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "구다이글로벌도 자체 브랜드 ‘뎁티(Depthi)’를 론칭 하며 아이패치를 대표 제품으로 내세웠다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아이패치가 디자인을 앞세운 보여주는 뷰티 제품으로 자리 잡고 있다.",
+  "key_fact_quote": "국내외 뷰티 브랜드 들도 디자인을 앞세운 제품을 잇달아 선보이고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

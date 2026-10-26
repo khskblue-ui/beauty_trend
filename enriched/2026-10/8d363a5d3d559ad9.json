@@ -1,0 +1,47 @@
+{
+ "doc_id": "8d363a5d3d559ad9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=137282",
+ "title": "앳홈 톰, 영국 뷰티 편집숍 '모이다' 입점...유럽 시장 공략 본격화",
+ "summary": "피부 관리 기기와 기능성 스킨케어 제품을 함께 선보여 기기와 화장품 을 연계한 전문적인 홈케어 경험을... 적용한 신제품 을 추가해 총 6종으로 확대했다. 모공과 피부 톤, 피부 장벽, 탄력, 수분, 트러블 및 진정 등...",
+ "published_at": "2026-10-26T10:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [
+   "톰"
+  ],
+  "companies": [
+   "앳홈"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "유럽 진출",
+   "홈케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "앳홈의 톰이 영국 뷰티 편집숍에 입점해 유럽 시장 공략을 본격화한다.",
+  "key_fact_quote": "앳홈 톰, 영국 뷰티 편집숍 '모이다' 입점...유럽 시장 공략 본격화",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

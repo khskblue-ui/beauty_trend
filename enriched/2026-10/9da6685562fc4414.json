@@ -1,0 +1,55 @@
+{
+ "doc_id": "9da6685562fc4414",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=137259",
+ "title": "헤라, 2026 홀리데이 컬렉션 '스노우 왈츠' 출시...겨울 메이크업 제안",
+ "summary": "아모레퍼시픽의 컨템포러리 서울 뷰티 브랜드 헤라가 연말 시즌을 겨냥한 한정판 메이크업 컬렉션을... 이번 컬렉션은 10월 26일 카카오에서 선 론칭 하며, 11월 2일부터 네이버 브랜드 스토어와 전국 백화점 등 주요 온...",
+ "published_at": "2026-10-26T09:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "헤라",
+   "아모레퍼시픽"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "겨울 메이크업",
+   "한정판"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "스노우 왈츠",
+    "brand": "헤라",
+    "launch_date": "2026-10-26",
+    "launch_status": "launched",
+    "launch_quote": "이번 컬렉션은 10월 26일 카카오에서 선 론칭 하며, 11월 2일부터 네이버 브랜드 스토어와 전국 백화점 등 주요 온...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "헤라가 연말 시즌을 겨냥한 한정판 메이크업 컬렉션 스노우 왈츠를 출시했다.",
+  "key_fact_quote": "아모레퍼시픽의 컨템포러리 서울 뷰티 브랜드 헤라가 연말 시즌을 겨냥한 한정판 메이크업 컬렉션을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

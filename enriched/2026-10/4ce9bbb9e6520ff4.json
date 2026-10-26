@@ -1,0 +1,48 @@
+{
+ "doc_id": "4ce9bbb9e6520ff4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261026_0003840433",
+ "title": "\"녹은 플라스틱인줄\"…美 해변서 발견된 '금'보다 2배 비싼 향수 원료",
+ "summary": "용연향은 한때 고급 향수에 사용되는 천연 향료 로 주목받았다. 샤넬 넘버 5 등 유명 향수와도 관련해 알려져 있지만, 오늘날에는 희소성과 비용 등의 이유로 합성 대체 물질을 사용하는 경우가 많다. 이를 발견했다고 해서...",
+ "published_at": "2026-10-26T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "천연 향료",
+   "용연향",
+   "합성 대체 원료",
+   "고급 향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "용연향은 고급 향수의 천연 향료였지만 지금은 합성 대체 물질을 쓰는 경우가 많다.",
+  "key_fact_quote": "오늘날에는 희소성과 비용 등의 이유로 합성 대체 물질을 사용하는 경우가 많다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "용연향",
+    "quote": "용연향은 한때 고급 향수에 사용되는 천연 향료 로 주목받았다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

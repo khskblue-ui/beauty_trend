@@ -1,0 +1,45 @@
+{
+ "doc_id": "d3ee134afab42976",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/science-chosun/bio/2026/10/26/XMYQROQRQ5HC7JLWDLYF6ITDRE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "‘염증·노화’ 겨냥 샤페론, 호주 법인 설립·K뷰티 사업 확대",
+ "summary": "샤페론은 항염증 연구를 통해 축적한 피부과학 역량을 화장품 사업에 접목해 피부 노화 관리 시장을... 니즈테크는 최소기능제품을 빠르게 출시 해 소비자 반응을 확인한 뒤 제품을 개선하는 전략으로 최근 5년간...",
+ "published_at": "2026-10-26T13:35:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "AU"
+  ],
+  "brands": [],
+  "companies": [
+   "샤페론"
+  ],
+  "keywords": [
+   "항염 스킨케어",
+   "피부 노화 관리",
+   "해외 법인 설립"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "샤페론이 호주 법인을 설립하고 K뷰티 사업을 넓힌다.",
+  "key_fact_quote": "‘염증·노화’ 겨냥 샤페론, 호주 법인 설립·K뷰티 사업 확대",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

@@ -1,0 +1,67 @@
+{
+ "doc_id": "0a7f691893898e9f",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100255",
+ "title": "루나, ‘롱래스팅 하이드로 본딩 프렙 베이스’ 출시",
+ "summary": "메이크업 전문 브랜드 ‘루나’(LUNA)에서 들뜨는 메이크업 베이스를 붙잡아 균일하고 매끈하게 보정해 주는 ‘롱래스팅 하이드로 본딩 프렙 베이스’를 출시했다.루나 롱래스팅 하이드로 본딩 프렙 베이스는 건조함으로 인해 베이스 메이크업이 들뜨거나 피부에 고르게 밀착되지 않는 고민에 주목해 개발됐다. 피부에 수분을 채워 매끈하고 윤기 있는 피부 표현을 돕는 동시에, 쿠션, 컨실러 등 베이스 메이크업 제품의 밀착력과 지속력을 높여주는 것이 특징이다. 특히 기존에 사용하던 제품과 함께 활용해 베이스 메이크업의 완성도를 높일 수 있도록 기획했",
+ "published_at": "2026-10-26T10:29:36+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "루나"
+  ],
+  "companies": [],
+  "keywords": [
+   "프렙 베이스",
+   "베이스 메이크업",
+   "수분 밀착"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "롱래스팅 하이드로 본딩 프렙 베이스",
+    "brand": "루나",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "메이크업 전문 브랜드 ‘루나’(LUNA)에서 들뜨는 메이크업 베이스를 붙잡아 균일하고 매끈하게 보정해 주는 ‘롱래스팅 하이드로 본딩 프렙 베이스’를 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "루나가 건조함으로 들뜨는 베이스 메이크업을 잡아 주는 프렙 베이스를 출시했다.",
+  "key_fact_quote": "메이크업 전문 브랜드 ‘루나’(LUNA)에서 들뜨는 메이크업 베이스를 붙잡아 균일하고 매끈하게 보정해 주는 ‘롱래스팅 하이드로 본딩 프렙 베이스’를 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "루나 롱래스팅 하이드로 본딩 프렙 베이스는 다양한 크기의 9종 히알루론산을 함유해 피부 속부터 겉까지 수분을 촘촘하게 채우고 수분 밸런스를 유지하도록 도와준다."
+   },
+   {
+    "name": "판테놀",
+    "quote": "여기에 보습과 피부 장벽 케어에 도움을 주는 판테놀, 피부의 수분 유지에 도움을 주는 펜타비틴을 더해 건조하고 푸석한 피부를 촉촉하게 관리할 수 있도록 했다."
+   },
+   {
+    "name": "펜타비틴",
+    "quote": "여기에 보습과 피부 장벽 케어에 도움을 주는 판테놀, 피부의 수분 유지에 도움을 주는 펜타비틴을 더해 건조하고 푸석한 피부를 촉촉하게 관리할 수 있도록 했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

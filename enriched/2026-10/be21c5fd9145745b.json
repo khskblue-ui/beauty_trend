@@ -1,0 +1,41 @@
+{
+ "doc_id": "be21c5fd9145745b",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/color-cosmetics/best-lip-combos-celebrity-makeup-artist-tips-1239343025/",
+ "title": "5 of Your Favorite Makeup Artists on Their Favorite Lip Combos",
+ "summary": "From breakout artist @paintedbyesther to the legendary Sam Fine, five makeup artists share their favorite lip looks of late, and how to achieve them.",
+ "published_at": "2026-10-27T03:36:55+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "립 메이크업",
+   "립 콤보"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "메이크업 아티스트 다섯 명이 요즘 즐겨 하는 립 조합과 연출법을 소개한다.",
+  "key_fact_quote": "From breakout artist @paintedbyesther to the legendary Sam Fine, five makeup artists share their favorite lip looks of late, and how to achieve them.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

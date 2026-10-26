@@ -1,0 +1,45 @@
+{
+ "doc_id": "c65dab9e5ee17419",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.econonews.co.kr/news/articleView.html?idxno=446241",
+ "title": "현대글로비스·쇼피코리아, 화장품 수출 물류 통합 서비스…\" K뷰티 동남...",
+ "summary": "국제운송, 수출 입 통관, 현지 인허가와 풀필먼트(물류 일괄 대행)까지 공급망 전 과정을 단일 창구로... 서비스에는 국내 화물 픽업, 항공·해상 국제운송, 수출 입 통관, 현지 인허가 지원, 풀필먼트가 포함된다. 판매자가...",
+ "published_at": "2026-10-26T19:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "현대글로비스",
+   "쇼피코리아"
+  ],
+  "keywords": [
+   "화장품 수출 물류",
+   "K뷰티 동남아 진출",
+   "풀필먼트"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "현대글로비스와 쇼피코리아가 화장품 수출 물류 통합 서비스를 내놨다.",
+  "key_fact_quote": "서비스에는 국내 화물 픽업, 항공·해상 국제운송, 수출 입 통관, 현지 인허가 지원, 풀필먼트가 포함된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

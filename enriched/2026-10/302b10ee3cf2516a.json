@@ -1,0 +1,42 @@
+{
+ "doc_id": "302b10ee3cf2516a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.metroseoul.co.kr/article/20261026500443",
+ "title": "화장품·반도체가 이끈 中企 수출 3분기 '역대 최고' 기록",
+ "summary": "3분기 중소기업 최대 수출 국으로 부상했다. K - 뷰티 의 대형 유통망 입점확대로 인한 화장품 수출 증가와 이차전지 관련 에너지 저장장치 등 축전지 및 소재 수요 영향이다. 인도는 12% 증가한 9억8000만 달러로...",
+ "published_at": "2026-10-26T15:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "대형 유통망 입점",
+   "중소기업 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티의 대형 유통망 입점 확대로 화장품 수출이 늘었다.",
+  "key_fact_quote": "K - 뷰티 의 대형 유통망 입점확대로 인한 화장품 수출 증가와 이차전지 관련 에너지 저장장치 등 축전지 및 소재 수요 영향이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

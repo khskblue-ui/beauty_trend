@@ -1,0 +1,59 @@
+{
+ "doc_id": "2a372a5d70c42f82",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53773",
+ "title": "한국화학융합시험연구원, 클린화장품 단체표준 인증 수여",
+ "summary": "한국화학융합시험연구원(원장 이승렬)이 23일 ‘2026 오송화장품뷰티산업엑스포’ 행사장에서 클린화장품 단체표준 인증식을 개최했다. 단체표준은 산업표준화법에 따라 단체·기업이 제정해 운영하는 민간 인증제도다. 국가표준(KS)에 없는 신기술이나 특화 품목의 품질을 보증하는 역할을 한다. 이번…",
+ "published_at": "2026-10-26T10:43:40+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국화학융합시험연구원"
+  ],
+  "keywords": [
+   "클린화장품",
+   "단체표준 인증",
+   "EU 포장 규제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국화학융합시험연구원이 클린화장품 단체표준 인증서를 수여했다.",
+  "key_fact_quote": "한국화학융합시험연구원(원장 이승렬)이 23일 ‘2026 오송화장품뷰티산업엑스포’ 행사장에서 클린화장품 단체표준 인증식을 개최했다.",
+  "events": [
+   {
+    "name": "클린화장품 단체표준 인증식",
+    "start_date": "2026-10-23",
+    "end_date": null,
+    "place": "2026 오송화장품뷰티산업엑스포 행사장",
+    "quote": "한국화학융합시험연구원(원장 이승렬)이 23일 ‘2026 오송화장품뷰티산업엑스포’ 행사장에서 클린화장품 단체표준 인증식을 개최했다."
+   },
+   {
+    "name": "패키징 시프트(Packaging Shift) 2026",
+    "start_date": "2026-10-22",
+    "end_date": null,
+    "place": null,
+    "quote": "22일에는 ‘패키징 시프트(Packaging Shift) 2026?"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

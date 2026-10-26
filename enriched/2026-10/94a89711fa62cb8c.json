@@ -1,0 +1,51 @@
+{
+ "doc_id": "94a89711fa62cb8c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876353",
+ "title": "한미사이언스 아데시, 병원 유통망 진입…더마 코스메틱 강화",
+ "summary": "아데시는 자체 개발 원료인 'H-EGTI'를 기반으로 인공색소와 향료 를 배제하고 피부 회복과 탄력 관리에 초점을 맞춘 제품군을 선보이고 있다. 회사는 피부과 시술 이후의 홈케어나 지속적인 안티에이징 관리를 원하는...",
+ "published_at": "2026-10-26T16:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아데시"
+  ],
+  "companies": [
+   "한미사이언스"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "병원 유통",
+   "무향료 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한미사이언스의 더마 코스메틱 아데시가 병원 유통망에 들어간다.",
+  "key_fact_quote": "한미사이언스 아데시, 병원 유통망 진입…더마 코스메틱 강화",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "H-EGTI",
+    "quote": "아데시는 자체 개발 원료인 'H-EGTI'를 기반으로 인공색소와 향료 를 배제하고 피부 회복과 탄력 관리에 초점을 맞춘 제품군을 선보이고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

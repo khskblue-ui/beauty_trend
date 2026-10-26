@@ -1,0 +1,58 @@
+{
+ "doc_id": "e6d976721a03b412",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/10/26/2026102602045.html",
+ "title": "[ 뷰티 업계 이모저모] 사이노슈어 루트로닉, 북미·유럽서 세르프 임상 ...",
+ "summary": "■뉴셀렉트, 플립플라워와 협약… 청각장애 플로리스트 지원 뷰티 ·웰니스 기업 뉴셀렉트가 소셜벤처... 제이시스메디칼은 지난 9월 출시 한 신제품 ‘덴서티 느와르’도 함께 소개했다. 덴서티 느와르는 기존 덴서티...",
+ "published_at": "2026-10-26T15:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "사이노슈어",
+   "루트로닉",
+   "뉴셀렉트",
+   "플립플라워",
+   "제이시스메디칼"
+  ],
+  "keywords": [
+   "에스테틱 디바이스",
+   "임상",
+   "사회공헌"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "덴서티 느와르",
+    "brand": "제이시스메디칼",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "제이시스메디칼은 지난 9월 출시 한 신제품 ‘덴서티 느와르’도 함께 소개했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 업계에서 임상 결과 발표와 협약, 신제품 소개가 이어졌다.",
+  "key_fact_quote": "[ 뷰티 업계 이모저모] 사이노슈어 루트로닉, 북미·유럽서 세르프 임상 ...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

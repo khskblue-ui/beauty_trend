@@ -1,0 +1,42 @@
+{
+ "doc_id": "509a5565c161523f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.segye.com/newsView/20261026515351?OutUrl=naver",
+ "title": "중기 수출 , 화장품 호조 속 반도체 급성장",
+ "summary": "글로벌 인공지능(AI) 수요 급증으로 반도체 수출 이 증가했고 ‘ K뷰티 ’ 확산 속 화장품 수출 이 호조세를 띤 덕분이다. 중소벤처기업부가 26일 발표한 올해 3분기 중소기업 수출 동향에 따르면 3분기 기준...",
+ "published_at": "2026-10-27T06:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "화장품 수출",
+   "중소기업 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 확산 속에 화장품 수출이 호조를 보였다.",
+  "key_fact_quote": "글로벌 인공지능(AI) 수요 급증으로 반도체 수출 이 증가했고 ‘ K뷰티 ’ 확산 속 화장품 수출 이 호조세를 띤 덕분이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

@@ -1,0 +1,49 @@
+{
+ "doc_id": "8e7d398c85b68f33",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/2026102659271",
+ "title": "지놈앤컴퍼니, 美 K뷰티 유통사 인수",
+ "summary": "지놈앤컴퍼니가 K뷰티 수출 ·유통기업 올블룸을 인수하고 자체 화장품 브랜드 ‘유이크’의 미국 오프라인 판매 채널을 강화한다. 지놈앤컴퍼니는 100% 자회사 블룸파트너스를 통해 올블룸 지분 64.5%와 경영권을...",
+ "published_at": "2026-10-26T17:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "유이크"
+  ],
+  "companies": [
+   "지놈앤컴퍼니",
+   "올블룸"
+  ],
+  "keywords": [
+   "K-뷰티 유통",
+   "마이크로바이옴 스킨케어",
+   "미국 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "a32471ebb7ab1d57",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

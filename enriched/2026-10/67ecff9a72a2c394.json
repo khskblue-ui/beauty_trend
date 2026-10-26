@@ -1,0 +1,44 @@
+{
+ "doc_id": "67ecff9a72a2c394",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kyeonggi.com/article/20261026580566",
+ "title": "중소기업 수출 3분기 334억 ‘역대 최고치’… K - 뷰티 ·반도체 호황",
+ "summary": "올해 중소기업 수출 이 K - 뷰티 와 반도체 선전에 힘입어 역대 3분기 기준 최고 실적을 기록했다. 특히 미국이 중국을 제치고 최대 수출 국으로 올라서며 글로벌 시장에서의 입지 변화가 뚜렷해진 모양새다....",
+ "published_at": "2026-10-26T17:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "중소기업 수출",
+   "신흥시장 공략"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "699d68593c60463b",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

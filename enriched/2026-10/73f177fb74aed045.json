@@ -1,0 +1,129 @@
+{
+ "doc_id": "73f177fb74aed045",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100248",
+ "title": "스킨1004, 네이버 ‘넾다세일’서 슬로우에이징 세트 첫선",
+ "summary": "글로벌 뷰티 밸류체인 기업 크레이버코퍼레이션(이하 크레이버, 대표 전항일)이 전개하는 원료주의 스킨케어 브랜드 스킨1004(스킨천사)가 26일부터 오는 11월 8일까지 진행되는 네이버 최대 쇼핑 프로모션 '넾다세일'에 참여해 네이버 단독 기획 상품을 선보인다. 네이버 채널의 성장세를 바탕으로 고객 특성에 맞춘 상품 기획을 강화하고, 주력 제품과 신규 기획 상품을 통해 국내 온라인 판매 확대를 이어간다는 계획이다.스킨1004는 이번 행사에서는 네이버 고객 특성과 선물세트 수요를 반영한 ‘프로바이오시카 슬로우에이징 3-S",
+ "published_at": "2026-10-26T10:05:59+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "스킨1004"
+  ],
+  "companies": [
+   "크레이버코퍼레이션",
+   "네이버"
+  ],
+  "keywords": [
+   "슬로우 에이징",
+   "센텔라 스킨케어",
+   "쇼핑 프로모션",
+   "선물세트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "프로바이오시카 슬로우에이징 3-STEP 세트",
+    "brand": "스킨1004",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "스킨1004는 이번 행사에서는 네이버 고객 특성과 선물세트 수요를 반영한 ‘프로바이오시카 슬로우에이징 3-STEP 세트’를 처음 선보이며",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "프로바이오시카 인텐시브 앰플",
+    "brand": "스킨1004",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "인리치 크림",
+    "brand": "스킨1004",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "바쿠치올 아이크림",
+    "brand": "스킨1004",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "히알루-시카 워터핏 선세럼 트윈팩",
+    "brand": "스킨1004",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마다가스카르 센텔라 퀵 카밍패드 리미티드 에디션",
+    "brand": "스킨1004",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "히알루-테카 3-STEP 샤쉐",
+    "brand": "스킨1004",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스킨1004가 네이버 쇼핑 프로모션에서 단독 기획 세트를 처음 선보인다.",
+  "key_fact_quote": "스킨1004는 이번 행사에서는 네이버 고객 특성과 선물세트 수요를 반영한 ‘프로바이오시카 슬로우에이징 3-STEP 세트’를 처음 선보이며",
+  "events": [
+   {
+    "name": "넾다세일",
+    "start_date": "2026-10-26",
+    "end_date": "2026-11-08",
+    "place": null,
+    "quote": "스킨1004(스킨천사)가 26일부터 오는 11월 8일까지 진행되는 네이버 최대 쇼핑 프로모션 '넾다세일'에 참여해 네이버 단독 기획 상품을 선보인다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "바쿠치올",
+    "quote": "해당 기획 세트는 프로바이오시카 인텐시브 앰플 95ml, 인리치 크림 50ml, 바쿠치올 아이크림 20ml로 구성됐다."
+   },
+   {
+    "name": "센텔라",
+    "quote": "발효 센텔라를 활용한 프로바이오시카 라인은 센텔라 중심의 진정 케어를 넘어 피부 장벽과 탄력 관리에 초점을 맞춘 라인이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

@@ -1,0 +1,76 @@
+{
+ "doc_id": "ea84d36636f5412a",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100264",
+ "title": "폴앤조보떼, ‘메이크업 컬렉션 2026’ 공개",
+ "summary": "프렌치 감성 뷰티 브랜드 폴앤조 보떼(PAUL & JOE BEAUTÉ)가 별빛으로 물든 파리의 겨울을 담은 홀리데이 리미티드 에디션 '메이크업 컬렉션 2026'을 10월 26일 공개했다.매년 감각적인 디자인으로 주목받는 폴앤조의 홀리데이 에디션, 올해는 빈센트 반 고흐의 명화 ‘별이 빛나는 밤’에서 영감을 받아 폴앤조 특유의 사랑스러운 감성으로 재해석했다. 반짝이는 밤하늘 아래 브랜드의 마스코트인 고양이 ‘집시’와 ‘나네트’를 그려 넣은 패키지에는 ▲쉬머한 펄감으로 반짝이는 눈매를 연출해 줄 ‘아이 컬러 팔레트’ ▲촉",
+ "published_at": "2026-10-26T13:41:54+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "폴앤조 보떼"
+  ],
+  "companies": [
+   "SSG",
+   "롯데ON",
+   "네이버"
+  ],
+  "keywords": [
+   "홀리데이 에디션",
+   "리미티드 에디션",
+   "메이크업 컬렉션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아이 컬러 팔레트",
+    "brand": "폴앤조 보떼",
+    "launch_date": "2026-11-09",
+    "launch_status": "upcoming",
+    "launch_quote": "‘폴앤조 메이크업 컬렉션 2026’은 10월 26일 SSG 단독 사전예약을 시작으로 11월 9일 정식 출시되며",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스파클링 틴트",
+    "brand": "폴앤조 보떼",
+    "launch_date": "2026-11-09",
+    "launch_status": "upcoming",
+    "launch_quote": "‘폴앤조 메이크업 컬렉션 2026’은 10월 26일 SSG 단독 사전예약을 시작으로 11월 9일 정식 출시되며",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "젤리 하이라이터",
+    "brand": "폴앤조 보떼",
+    "launch_date": "2026-11-09",
+    "launch_status": "upcoming",
+    "launch_quote": "‘폴앤조 메이크업 컬렉션 2026’은 10월 26일 SSG 단독 사전예약을 시작으로 11월 9일 정식 출시되며",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "폴앤조 보떼가 반 고흐의 그림에서 영감을 받은 홀리데이 메이크업 컬렉션을 공개했다.",
+  "key_fact_quote": "프렌치 감성 뷰티 브랜드 폴앤조 보떼(PAUL & JOE BEAUTÉ)가 별빛으로 물든 파리의 겨울을 담은 홀리데이 리미티드 에디션 '메이크업 컬렉션 2026'을 10월 26일 공개했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

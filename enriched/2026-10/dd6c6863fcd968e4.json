@@ -1,0 +1,95 @@
+{
+ "doc_id": "dd6c6863fcd968e4",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100253",
+ "title": "오브제, 대만·홍콩 오프라인 유통망 확대…중화권서 K-뷰티 저력 보여줘",
+ "summary": "라이프솔루션 기반 D2C 미디어커머스 기업 어댑트(ADAPT, 대표 박정하)의 K-뷰티 브랜드 오브제(OBgE)가 대만과 홍콩의 주요 오프라인 유통 채널에 입점하며 중화권 시장 공략을 강화하고 있다. 온라인 판매 성과를 바탕으로 오프라인 유통망을 확대하고, 현지 맞춤형 마케팅을 통해 소비자 접점을 넓힌다는 전략이다.오브제는 대만과 홍콩의 왓슨스(Watsons) 전 매장을 비롯한 현지 주요 유통 채널에 입점했다. 대만에서는 코스메드(COSMED), 포야(POYA), 세븐일레븐(7-Eleven), 돈돈돈키(DON DON DONKI) 등",
+ "published_at": "2026-10-26T10:25:46+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "TW",
+   "HK"
+  ],
+  "brands": [
+   "오브제"
+  ],
+  "companies": [
+   "어댑트"
+  ],
+  "keywords": [
+   "중화권 진출",
+   "오프라인 유통",
+   "젠더 뉴트럴 뷰티",
+   "H&B 채널"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "내추럴 커버 파운데이션",
+    "brand": "오브제",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "특히 홍콩에서는 ‘내추럴 커버 파운데이션’, ‘내추럴 커버 로션’, ‘오일 컨트롤 피니셔’ 등 주요 제품 3종이 지난 8월 출시 이후 최고 월 매출을 기록했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "내추럴 커버 로션",
+    "brand": "오브제",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "특히 홍콩에서는 ‘내추럴 커버 파운데이션’, ‘내추럴 커버 로션’, ‘오일 컨트롤 피니셔’ 등 주요 제품 3종이 지난 8월 출시 이후 최고 월 매출을 기록했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "오일 컨트롤 피니셔",
+    "brand": "오브제",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "특히 홍콩에서는 ‘내추럴 커버 파운데이션’, ‘내추럴 커버 로션’, ‘오일 컨트롤 피니셔’ 등 주요 제품 3종이 지난 8월 출시 이후 최고 월 매출을 기록했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "블랙헤드 스크럽 밤",
+    "brand": "오브제",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "포어 제로 오일 컨트롤 선스틱",
+    "brand": "오브제",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "K-뷰티 브랜드 오브제가 대만과 홍콩의 주요 오프라인 유통 채널에 입점했다.",
+  "key_fact_quote": "오브제는 대만과 홍콩의 왓슨스(Watsons) 전 매장을 비롯한 현지 주요 유통 채널에 입점했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

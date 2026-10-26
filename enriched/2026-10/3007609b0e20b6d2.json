@@ -1,0 +1,79 @@
+{
+ "doc_id": "3007609b0e20b6d2",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100263",
+ "title": "K-뷰티 성장의 주역 'BIGS', 뷰티썸수원에 집결한다",
+ "summary": "K-뷰티의 성장을 이끄는 네 가지 키워드 BIGS(B2B, Influencer, Global, Startup) 분야 기업 13개사가 11월 5일(목)부터 7일(토)까지 수원컨벤션센터에서 열리는 '뷰티썸수원 2026'에서 'BIGS 특별관'을 선보인다.'뷰티썸수원'은 국내 최대 화장품 제조·R&D 집적지인 경기도의 인프라를 제조, 연구, 투자, 유통 전 과정을 다루는 B2B2C 뷰티전시회로, 2026년 국내에서 개최되는 마지막 국제뷰티전시회다. BIGS 특별관은 이 전시회 안에서 16부스 규",
+ "published_at": "2026-10-26T13:28:57+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "포백",
+   "바오젠",
+   "위시포뮬러",
+   "포레드플로",
+   "포코블"
+  ],
+  "companies": [
+   "슬록"
+  ],
+  "keywords": [
+   "B2B 뷰티전시회",
+   "화장품 ODM",
+   "클린뷰티",
+   "더마코스메틱"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "BIGS 분야 기업들이 뷰티썸수원에서 특별관을 연다.",
+  "key_fact_quote": "K-뷰티의 성장을 이끄는 네 가지 키워드 BIGS(B2B, Influencer, Global, Startup) 분야 기업 13개사가 11월 5일(목)부터 7일(토)까지 수원컨벤션센터에서 열리는 '뷰티썸수원 2026'에서 'BIGS 특별관'을 선보인다.",
+  "events": [
+   {
+    "name": "뷰티썸수원 2026",
+    "start_date": "2026-11-05",
+    "end_date": "2026-11-07",
+    "place": "수원컨벤션센터",
+    "quote": "K-뷰티의 성장을 이끄는 네 가지 키워드 BIGS(B2B, Influencer, Global, Startup) 분야 기업 13개사가 11월 5일(목)부터 7일(토)까지 수원컨벤션센터에서 열리는 '뷰티썸수원 2026'에서 'BIGS 특별관'을 선보인다."
+   },
+   {
+    "name": "오픈 세미나 & 이노베이션",
+    "start_date": "2026-11-06",
+    "end_date": null,
+    "place": null,
+    "quote": "11월 6일(금) 오후 1시에는 '오픈 세미나 & 이노베이션'이 열린다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "바오젠: 비건 PDRN·엑소좀 등 자체 개발 원료 기반 두피·헤어케어"
+   },
+   {
+    "name": "엑소좀",
+    "quote": "바오젠: 비건 PDRN·엑소좀 등 자체 개발 원료 기반 두피·헤어케어"
+   },
+   {
+    "name": "바이오셀룰로오스",
+    "quote": "리안코스메틱스(BASED ON): 바이오셀룰로오스 등 소재 개발부터 완제품까지 ODM/OBM 원스톱 공급 서비스"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

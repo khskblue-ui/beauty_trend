@@ -1,0 +1,48 @@
+{
+ "doc_id": "a54a939af1353264",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211790",
+ "title": "앳홈 톰, 영국 K뷰티 편집숍 '모이다' 입점…유럽 시장 공략",
+ "summary": "사진=톰 앳홈의 뷰티 브랜드 톰(THOME)이 영국 오프라인 유통시장에 진출하며 유럽 사업 확대에 나선다.... 톰 관계자는 \"영국을 비롯한 유럽 시장에서 한국 화장품 수출 이 성장하고 있다는 점에 주목하고 있다\"며...",
+ "published_at": "2026-10-26T16:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [
+   "톰"
+  ],
+  "companies": [
+   "앳홈"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "유럽 진출",
+   "홈케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "8d363a5d3d559ad9",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "aa47ea0ef90bed4b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=228514",
+ "title": "이번엔 K 향수 …본투스탠드아웃·논픽션·탬버린즈 3인방 주목",
+ "summary": "런칭 5년 만에 연 매출 1,200억 원을 바라보는 니치 향수 브랜드도 있다. 바로 '본투스탠드아웃'이다. 2022년 런칭한 '본투스탠드아웃'은 20년 이상 향수를 수집해 온 임호준 대표가 국내 향수 산업의 틀을 깨겠다는...",
+ "published_at": "2026-10-26T22:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "본투스탠드아웃",
+   "논픽션",
+   "탬버린즈"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "K 향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "니치 향수 브랜드 본투스탠드아웃이 빠르게 성장하고 있다.",
+  "key_fact_quote": "런칭 5년 만에 연 매출 1,200억 원을 바라보는 니치 향수 브랜드도 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

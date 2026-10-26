@@ -1,0 +1,49 @@
+{
+ "doc_id": "48724c42278a85a2",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100246",
+ "title": "뉴셀렉트, 플립플라워와 업무협약",
+ "summary": "뉴셀렉트(NewSelect)가 소셜벤처 플립플라워(Flip Flower)와 업무협약을 체결하고, 청각장애 플로리스트의 직업적 기회를 지원하며 기업 활동을 통한 사회적 가치 실천에 나선다.뉴셀렉트는 신규 입사자를 환영하고 새로운 시작과 성장을 응원하는 웰컴플라워 프로그램에 플립플라워의 꽃다발을 도입하기로 했다. 구성원에게 환영의 마음을 전하는 동시에 청각장애 플로리스트의 전문성과 역량을 알리고, 이들이 직업인으로서 활동할 수 있는 기회를 지원한다는 취지다.플립플라워는 청각장애 플로리스트가 자신의 전문성과 역량을 발휘할 수 있는 기회를",
+ "published_at": "2026-10-26T10:00:19+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "트리코닉스",
+   "샤르드",
+   "이옴"
+  ],
+  "companies": [
+   "뉴셀렉트",
+   "플립플라워"
+  ],
+  "keywords": [
+   "업무협약",
+   "사회적 가치",
+   "두피·모발 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "뉴셀렉트가 플립플라워와 업무협약을 체결했다.",
+  "key_fact_quote": "뉴셀렉트(NewSelect)가 소셜벤처 플립플라워(Flip Flower)와 업무협약을 체결하고, 청각장애 플로리스트의 직업적 기회를 지원하며 기업 활동을 통한 사회적 가치 실천에 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

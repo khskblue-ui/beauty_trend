@@ -1,0 +1,44 @@
+{
+ "doc_id": "e47177e62ee48385",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoul.co.kr/news/economy/2026/10/27/20261027030001?wlog_tag3=naver",
+ "title": "중소기업도 3분기 수출 ‘역대 최대’… 효자는 화장품·반도체",
+ "summary": "국가별로는 미국 수출 이 57억 3000만 달러로 19.6% 증가하며 중국을 제치고 3분기 중소기업 최대 수출 국에 올랐다. K뷰티 의 대형 유통망 입점 확대에 따른 화장품 수출 증가와 에너지저장장치(ESS)에 대한 수요...",
+ "published_at": "2026-10-27T05:05:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K 뷰티 수출",
+   "중소기업 수출",
+   "화장품 수출",
+   "신흥시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "b547ef01db6be68e",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

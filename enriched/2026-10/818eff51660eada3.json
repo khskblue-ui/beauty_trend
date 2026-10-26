@@ -1,0 +1,48 @@
+{
+ "doc_id": "818eff51660eada3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20105938?ref=naver",
+ "title": "지놈앤컴퍼니, 화장품 유통사 올블룸 인수…유이크 美 진출 가속",
+ "summary": "지놈앤컴퍼니(314130)가 화장품 유통사 올블룸의 경영권을 인수한다. 지놈앤컴퍼니는 26일 이달 설립한 100... 지놈앤컴퍼니가 2021년 출시 한 마이크로바이옴 스킨케어 브랜드 유이크는 독자 개발한 마이크로바이옴 특허...",
+ "published_at": "2026-10-26T08:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "유이크"
+  ],
+  "companies": [
+   "지놈앤컴퍼니",
+   "올블룸"
+  ],
+  "keywords": [
+   "K-뷰티 유통",
+   "마이크로바이옴 스킨케어",
+   "미국 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지놈앤컴퍼니가 화장품 유통사 올블룸의 경영권을 인수한다.",
+  "key_fact_quote": "지놈앤컴퍼니(314130)가 화장품 유통사 올블룸의 경영권을 인수한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

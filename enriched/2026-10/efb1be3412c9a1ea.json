@@ -1,0 +1,52 @@
+{
+ "doc_id": "efb1be3412c9a1ea",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58588",
+ "title": "CJ올리브영, 발견형 커머스 강화 ‘셔터브리티’ 8기 모집",
+ "summary": "[코스인코리아닷컴 길태윤 기자] CJ올리브영이 모바일 앱 내 뷰티 커뮤니티 ‘셔터(Shutter)’에서 활동하며 제품의 실제 사용 경험을 콘텐츠로 전달할 공식 크리에이터 그룹 ‘셔터브리티’ 8기를 모집한다고 26일 밝혔다. ‘셔터’는 올리브영 회원들이 직접 제작한 이미지와 숏폼 콘텐츠를 통해 뷰…",
+ "published_at": "2026-10-26T13:36:11+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "발견형 커머스",
+   "숏폼 콘텐츠",
+   "뷰티 크리에이터"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "올리브영이 뷰티 커뮤니티 셔터의 공식 크리에이터 신규 기수를 모집한다.",
+  "key_fact_quote": "CJ올리브영이 모바일 앱 내 뷰티 커뮤니티 ‘셔터(Shutter)’에서 활동하며 제품의 실제 사용 경험을 콘텐츠로 전달할 공식 크리에이터 그룹 ‘셔터브리티’ 8기를 모집한다고 26일 밝혔다.",
+  "events": [
+   {
+    "name": "셔터브리티 8기 오리엔테이션 파티",
+    "start_date": "2026-12-11",
+    "end_date": null,
+    "place": "CJ인재원",
+    "quote": "선발된 셔터브리티는 12월 11일 CJ인재원에서 열리는 오리엔테이션 파티를 시작으로 2027년 1월 1일부터 6월 30일까지 6개월간 공식 활동을 펼친다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

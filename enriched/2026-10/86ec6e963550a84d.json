@@ -1,0 +1,54 @@
+{
+ "doc_id": "86ec6e963550a84d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=55666",
+ "title": "링커스글로벌, K-뷰티 엑스포 참가 성료···신규시장 바이어 상담·현...",
+ "summary": "특히 스킨 베리어 크림은 향료 를 첨가하지 않은 제품으로, 시술 후 관리와 민감성 피부를 고려한 사용감으로 호응을 얻었다. 링커스글로벌 관계자는 \"이번 K-뷰티 엑스포에서는 신규 시장 바이어들과의 상담을 통해 전문...",
+ "published_at": "2026-10-26T10:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "링커스글로벌"
+  ],
+  "keywords": [
+   "시술 후 피부 관리",
+   "무향료 스킨케어",
+   "민감성 피부"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "스킨 베리어 크림",
+    "brand": "링커스글로벌",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "링커스글로벌의 스킨 베리어 크림이 K뷰티 엑스포에서 호응을 얻었다.",
+  "key_fact_quote": "특히 스킨 베리어 크림은 향료 를 첨가하지 않은 제품으로, 시술 후 관리와 민감성 피부를 고려한 사용감으로 호응을 얻었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

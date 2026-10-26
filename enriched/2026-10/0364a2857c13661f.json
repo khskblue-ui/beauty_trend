@@ -1,0 +1,54 @@
+{
+ "doc_id": "0364a2857c13661f",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/ingredients-seppic-s-montanov,28415",
+ "title": "Ingredients: Seppic's Montanov emulsifiers also help repair hair",
+ "summary": "After demonstrating the effectiveness of its Montanov emulsifier range in hydrating skin across all phototypes, Seppic presents new data highlighting the benefits of these ingredients for hair repair. According to Seppic, new scientific findings demonstrate how these eco-designed, non-ionic glucolipid emulsifiers achieve high-performance hair restoration through biomimetic textures containing liquid crystal structure, successfully bridging the gap between clinical efficacy and exceptional... - Industry buzz",
+ "published_at": "2026-10-27T03:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "Seppic"
+  ],
+  "keywords": [
+   "유화제",
+   "모발 손상 복원",
+   "액정 구조",
+   "친환경 설계"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "세픽이 몬타노브 유화제가 모발 손상 복원에도 효과가 있다는 새 자료를 내놨다.",
+  "key_fact_quote": "After demonstrating the effectiveness of its Montanov emulsifier range in hydrating skin across all phototypes , Seppic presents new data highlighting the benefits of these ingredients for hair repair.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Montanov 202",
+    "quote": "The application of an emulsion with Montanov 202 on damaged hair restores the lipid organization compared to natural hair and creates a protective film at the surface of the hair."
+   },
+   {
+    "name": "Montanov L",
+    "quote": "Montanov 202 thus offers a light sensoriality and a matte finish, while Montanov L provides a soft and light skin feel with easy spreading."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

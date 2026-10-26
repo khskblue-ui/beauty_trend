@@ -1,0 +1,48 @@
+{
+ "doc_id": "6b4d6b9a059fae34",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=55683",
+ "title": "K - 뷰티 디바이스 브랜드 '뷰앤디', 뉴욕 신세계 하이퍼그라운드 팝업 참...",
+ "summary": "제품을 수출 하며 글로벌 유통망을 확대해 왔다. 홍콩과 대만에는 현지 법인을 운영하고 있으며, 지난 9월 일본 큐텐(Qoo10)의 할인 행사인 '메가와리'에서 뷰티 디바이스 부문 3위를 기록했다고 회사 측은 설명했다....",
+ "published_at": "2026-10-26T14:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [
+   "뷰앤디"
+  ],
+  "companies": [
+   "신세계"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "팝업 스토어",
+   "해외 유통망"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "뷰티 디바이스 브랜드 뷰앤디가 뉴욕 팝업에 참가한다.",
+  "key_fact_quote": "K - 뷰티 디바이스 브랜드 '뷰앤디', 뉴욕 신세계 하이퍼그라운드 팝업",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

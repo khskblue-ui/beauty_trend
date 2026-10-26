@@ -1,0 +1,87 @@
+{
+ "doc_id": "f8e695e76bc9534f",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58510",
+ "title": "K-뷰티 테크의 신성 (주)유니엔코리아, AI 피부 분석부터 비침습 케어까지 솔루션 다각화",
+ "summary": "[코스인코리아닷컴 김세화 기자]뷰티·헬스케어 유통 전문기업 (주)유니엔코리아가 AI 피부 분석 기술과 차별화된 미용 솔루션을 앞세워 글로벌 시장에서 존재감을 키우고 있다. ‘Beauty begins with understaing your skin’를 슬로건으로 내건 유니엔코리아는 정밀한 피부 분석과 개인별 맞춤 관리에 대한 수요 확대에 대응해 폭넓은 제품",
+ "published_at": "2026-10-26T14:34:45+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "시세이도",
+   "디올",
+   "클라랑스",
+   "시슬리",
+   "설화수"
+  ],
+  "companies": [
+   "유니엔코리아"
+  ],
+  "keywords": [
+   "AI 피부 분석",
+   "뷰티 테크",
+   "무바늘 인젝터",
+   "홈케어 디바이스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Eve Muse",
+    "brand": "유니엔코리아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "EVE YOUNG",
+    "brand": "유니엔코리아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "A-DERM",
+    "brand": "유니엔코리아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유니엔코리아가 AI 피부 분석기와 무바늘 인젝터로 뷰티 테크 사업을 넓히고 있다.",
+  "key_fact_quote": "뷰티·헬스케어 유통 전문기업 (주)유니엔코리아가 AI 피부 분석 기술과 차별화된 미용 솔루션을 앞세워 글로벌 시장에서 존재감을 키우고 있다.",
+  "events": [
+   {
+    "name": "2026 K-뷰티 엑스포",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-17",
+    "place": "경기 고양시 킨텍스",
+    "quote": "지난 15~17일 경기 고양시 킨텍스에서 열린 '2026 K-뷰티 엑스포(K-Beauty Expo)'에서는 국내외 바이어들이 부스를 찾은 가운데 대표 라인업인 AI 기반 3D 피부 분석기 Eve Muse와 EVE YOUNG을 비롯해 다양한 장비를 선보였다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

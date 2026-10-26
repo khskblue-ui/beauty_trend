@@ -1,0 +1,46 @@
+{
+ "doc_id": "dfab03843f746265",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312418",
+ "title": "K-Beauty Eye Makeup Exports Post Double-Digit Growth as Global Demand Expands",
+ "summary": "South Korea’s eye makeup exports recorded double-digit growth in both the third quarter and September 2026, highlighting the growing global appeal of K-beauty color cosmetics.Export gains were accompanied by a sharp increase in trade surplus, underscoring the strengthening competitiveness of Korean",
+ "published_at": "2026-10-26T09:40:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "JP",
+   "CN",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "아이 메이크업 수출",
+   "K뷰티 색조",
+   "수출 시장 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 아이 메이크업 수출이 3분기와 9월 모두 두 자릿수로 늘었다.",
+  "key_fact_quote": "South Korea’s eye makeup exports recorded double-digit growth in both the third quarter and September 2026, highlighting the growing global appeal of K-beauty color cosmetics.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

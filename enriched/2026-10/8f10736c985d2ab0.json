@@ -1,0 +1,52 @@
+{
+ "doc_id": "8f10736c985d2ab0",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53783",
+ "title": "올리브영, ‘셔터브리티’ 8기 모집",
+ "summary": "올리브영이 11월 15일까지 ‘셔터브리티’ 8기 최대 300명을 모집한다. 셔터브리티는 올리브영 모바일 앱에서 활동하는 크리에이터를 말한다. 앱에 마련된 뷰티 커뮤니티인 셔터(Shutter)에서 뷰티·웰니스 제품을 홍보하는 역할을 맡는다. 셔터브리티는 올리브영 앱 이벤트 탭에서 지원할 수 있다. 셔터…",
+ "published_at": "2026-10-26T17:35:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "뷰티 크리에이터",
+   "발견형 커머스",
+   "뷰티 커뮤니티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 뷰티 크리에이터 셔터브리티 8기를 모집한다.",
+  "key_fact_quote": "올리브영이 11월 15일까지 ‘셔터브리티’ 8기 최대 300명을 모집한다.",
+  "events": [
+   {
+    "name": "오리엔테이션(OT) 파티",
+    "start_date": "2026-12-11",
+    "end_date": null,
+    "place": "CJ인재원",
+    "quote": "셔터브리티 8기는 12월 11일 CJ인재원에서 열리는 오리엔테이션(OT) 파티를 시작으로 2027년 1월 1일부터 6월 30일까지 6개월 동안 활동한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

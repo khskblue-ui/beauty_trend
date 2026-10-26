@@ -1,0 +1,68 @@
+{
+ "doc_id": "61df9de48925f813",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newspim.com/news/view/20261026000578",
+ "title": "100년 제약사의 다이소 공략…동화약품 vs 유한양행 코스메틱 경쟁",
+ "summary": "유도하고, 화장품 사업의 고객 저변을 넓히려는 전략이다. 동화약품은 다이소 전용 더마 브랜드 '후시덤' 출시 5개월 만에 누적 판매량 100만개를 넘기며 제품군을 확대하고 있다. 유한양행도 최근 '더마푸라민Rx' 신제품 ...",
+ "published_at": "2026-10-27T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "후시덤",
+   "더마푸라민Rx"
+  ],
+  "companies": [
+   "동화약품",
+   "유한양행",
+   "다이소"
+  ],
+  "keywords": [
+   "제약사 코스메틱",
+   "더마 브랜드",
+   "다이소 화장품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "후시덤",
+    "brand": "동화약품",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "동화약품은 다이소 전용 더마 브랜드 '후시덤' 출시 5개월 만에 누적 판매량 100만개를 넘기며 제품군을 확대하고 있다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "더마푸라민Rx",
+    "brand": "유한양행",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "유한양행도 최근 '더마푸라민Rx' 신제품",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동화약품과 유한양행이 다이소에서 더마 코스메틱 경쟁을 벌이고 있다.",
+  "key_fact_quote": "100년 제약사의 다이소 공략…동화약품 vs 유한양행 코스메틱 경쟁",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

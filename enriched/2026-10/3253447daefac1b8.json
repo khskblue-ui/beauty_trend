@@ -1,0 +1,65 @@
+{
+ "doc_id": "3253447daefac1b8",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53777",
+ "title": "티르티르, 인도 ‘나이카랜드 2026’ 참가",
+ "summary": "티르티르가 23일부터 25일까지 3일 동안 인도 뉴델리 NSIC전시장에서 열린 ‘나이카랜드 2026’에 참가했다. 나이카랜드(Nykaaland)는 인도 뷰티 유통기업 나이카가 주최한 뷰티 페스티벌이다. 올해 4회째 행사에는 글로벌·인도 뷰티 브랜드 60여 개사가 참가했다. 이 행사에서 티르티르는 부스를…",
+ "published_at": "2026-10-26T13:15:19+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "IN",
+   "KR"
+  ],
+  "brands": [
+   "티르티르"
+  ],
+  "companies": [
+   "나이카"
+  ],
+  "keywords": [
+   "인도 뷰티 시장",
+   "뷰티 페스티벌",
+   "K-메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "마스크 핏 레드 쿠션",
+    "brand": "티르티르",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "티르티르가 인도 뷰티 페스티벌에 참가해 제품을 소개했다.",
+  "key_fact_quote": "티르티르가 23일부터 25일까지 3일 동안 인도 뉴델리 NSIC전시장에서 열린 ‘나이카랜드 2026’에 참가했다.",
+  "events": [
+   {
+    "name": "나이카랜드 2026",
+    "start_date": "2026-10-23",
+    "end_date": "2026-10-25",
+    "place": "인도 뉴델리 NSIC전시장",
+    "quote": "티르티르가 23일부터 25일까지 3일 동안 인도 뉴델리 NSIC전시장에서 열린 ‘나이카랜드 2026’에 참가했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

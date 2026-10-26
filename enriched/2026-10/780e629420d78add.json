@@ -1,0 +1,78 @@
+{
+ "doc_id": "780e629420d78add",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58587",
+ "title": "슬록, ‘뷰티썸수원 2026’서 K뷰티 13개사 ‘BIGS 특별관’ 운영",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 뷰티 B2B 마케팅 플랫폼 기업 슬록이 11월 5일부터 7일까지 수원컨벤션센터에서 열리는 ‘뷰티썸수원 2026’에서 K뷰티 유망기업 13개사가 참여하는 ‘BIGS 특별관’을 운영한다고 26일 밝혔다. BIGS는 B2B와 인플루언서(Influencer), 글로벌(Global), 스…",
+ "published_at": "2026-10-26T13:19:55+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "400:포백",
+   "바오젠",
+   "위시포뮬러",
+   "포레드플로",
+   "포코블"
+  ],
+  "companies": [
+   "슬록"
+  ],
+  "keywords": [
+   "B2B 뷰티 전시회",
+   "K-뷰티 스타트업",
+   "비즈니스 밋업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "슬록이 뷰티썸수원 2026에서 K뷰티 기업 특별관을 운영한다.",
+  "key_fact_quote": "뷰티 B2B 마케팅 플랫폼 기업 슬록이 11월 5일부터 7일까지 수원컨벤션센터에서 열리는 ‘뷰티썸수원 2026’에서 K뷰티 유망기업 13개사가 참여하는 ‘BIGS 특별관’을 운영한다고 26일 밝혔다.",
+  "events": [
+   {
+    "name": "뷰티썸수원 2026",
+    "start_date": "2026-11-05",
+    "end_date": "2026-11-07",
+    "place": "수원컨벤션센터",
+    "quote": "뷰티 B2B 마케팅 플랫폼 기업 슬록이 11월 5일부터 7일까지 수원컨벤션센터에서 열리는 ‘뷰티썸수원 2026’에서 K뷰티 유망기업 13개사가 참여하는 ‘BIGS 특별관’을 운영한다고 26일 밝혔다."
+   },
+   {
+    "name": "오픈 세미나 & 이노베이션",
+    "start_date": "2026-11-06",
+    "end_date": null,
+    "place": null,
+    "quote": "11월 6일 오후 1시부터 4시 30분까지는 참가기업 8개사가 연사로 나서는 ‘오픈 세미나 & 이노베이션’이 이어진다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "비건 PDRN과 엑소좀 등 자체 개발 원료를 활용하는 두피·헤어케어 브랜드 바오젠과 뷰티 도구·프로그램을 접목한 코떼랑의 위시포뮬러도 제품 경쟁력을 알린다."
+   },
+   {
+    "name": "엑소좀",
+    "quote": "비건 PDRN과 엑소좀 등 자체 개발 원료를 활용하는 두피·헤어케어 브랜드 바오젠과 뷰티 도구·프로그램을 접목한 코떼랑의 위시포뮬러도 제품 경쟁력을 알린다."
+   },
+   {
+    "name": "바이오셀룰로오스",
+    "quote": "바이오셀룰로오스 소재 개발부터 마스크팩과 패치, 완제품 공급까지 아우르는 리안코스메틱스와 티백형 입욕제를 제조하는 소폼도 맞춤형 제품 개발 역량을 내세운다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

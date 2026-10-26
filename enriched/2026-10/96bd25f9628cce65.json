@@ -1,0 +1,42 @@
+{
+ "doc_id": "96bd25f9628cce65",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dailian.co.kr/news/view/1705485/?sc=Naver",
+ "title": "K뷰티 육성, '보여주기' 말고 '진짜 필요'에 집중하라 [기자수첩-유통]",
+ "summary": "그러나 향수의 핵심 원료인 향료 는 해외 의존도가 높고, 국내 전문 조향 인력과 연구개발 기반도 상대적으로 부족한 실정이다. 개별 기업들이 브랜드를 키우고 해외 판로를 개척하는 것은 가능하지만, 향료 연구개발과...",
+ "published_at": "2026-10-26T06:49:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "향료 해외 의존",
+   "조향 인력",
+   "K뷰티 육성"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "향수의 핵심 원료인 향료는 해외 의존도가 높고 국내 조향 인력과 연구개발 기반이 부족하다.",
+  "key_fact_quote": "그러나 향수의 핵심 원료인 향료 는 해외 의존도가 높고, 국내 전문 조향 인력과 연구개발 기반도 상대적으로 부족한 실정이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

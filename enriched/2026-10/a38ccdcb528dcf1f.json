@@ -1,0 +1,46 @@
+{
+ "doc_id": "a38ccdcb528dcf1f",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/pantene-reunites-with-john-stamos",
+ "title": "Pantene reunites with ‘Ultimate Ambassador’ John Stamos after more than three decades",
+ "summary": "Pantene has tapped actor John Stamos as its ‘Ultimate Ambassador’ 30-plus years after his original partnership with the Procter & Gamble-owned hair care brand, fronting a new video series in which he proves his famous hair is a product of the company",
+ "published_at": "2026-10-26T20:55:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Pantene"
+  ],
+  "companies": [
+   "Procter & Gamble"
+  ],
+  "keywords": [
+   "셀럽 앰배서더",
+   "헤어케어 마케팅",
+   "영상 시리즈"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "팬틴이 30년 넘게 지나 배우 존 스타모스를 다시 앰배서더로 기용했다.",
+  "key_fact_quote": "Pantene has tapped actor John Stamos as its ‘Ultimate Ambassador’ 30-plus years after his original partnership with the Procter & Gamble-owned hair care brand",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

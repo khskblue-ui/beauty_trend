@@ -1,0 +1,54 @@
+{
+ "doc_id": "5bf56669d4d30655",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.cstimes.com/news/articleView.html?idxno=725315",
+ "title": "링커스글로벌, '2026 K-뷰티엑스포' 참가 성료",
+ "summary": "회사 측은 스킨 베리어 크림에 향료 를 첨가하지 않았으며, 시술 후 피부 관리용 제품을 찾는 방문객들의 관심을 받았다고 전했다. 다만 제품별 판매량이나 구매자 반응을 보여주는 구체적인 수치는 공개하지 않았다....",
+ "published_at": "2026-10-26T17:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "링커스글로벌"
+  ],
+  "keywords": [
+   "K-뷰티 엑스포",
+   "시술 후 피부 관리",
+   "무향료 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "스킨 베리어 크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "링커스글로벌이 2026 K-뷰티엑스포 참가를 마쳤다.",
+  "key_fact_quote": "링커스글로벌, '2026 K-뷰티엑스포' 참가 성료",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

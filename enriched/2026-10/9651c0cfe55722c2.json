@@ -1,0 +1,45 @@
+{
+ "doc_id": "9651c0cfe55722c2",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/loreal-ceo-on-glp-1-impact-on-skin-care-consumption",
+ "title": "L’Oréal CEO Nicolas Hieronimus on GLP-1’s ‘impact’ on skin care sales",
+ "summary": "Nicolas Hieronimus, CEO of French beauty giant L’Oréal, says the rise in GLP-1 weight loss drugs is ‘a very important phenomenon’ for the cosmetics industry, affecting skin care consumption, following the company’s Q3 2026 results",
+ "published_at": "2026-10-26T21:09:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "L’Oréal"
+  ],
+  "companies": [
+   "L’Oréal"
+  ],
+  "keywords": [
+   "GLP-1 비만 치료제",
+   "스킨케어 소비"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "로레알 대표가 비만 치료제 확산이 스킨케어 소비에 중요한 영향을 준다고 말했다.",
+  "key_fact_quote": "says the rise in GLP-1 weight loss drugs is ‘a very important phenomenon’ for the cosmetics industry, affecting skin care consumption",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "b5b2ddb38996afc1",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100244",
+ "title": "제1회 에바끌레르 파크골프대회 성황리 개최",
+ "summary": "골프 전용 화장품 에바끌레르(회장 끌레르 정)가 주최한 ‘제1회 에바끌레르 파크골프대회’가 최근 강원도 화천 파크 골프장에서 성황리에 개최됐다.강원도 화천 파크 골프장에서 열린 이번 대회는 탁 트인 자연 속에서 파크골프의 매력을 느끼게 하는 축제의 장이 되었으며 에바끌레르는 1100만원 상당의 제품을 증정했다.이번 대회는 최근 중장년층을 중심으로 폭발적인 인기를 끌고 있는 생활체육 파크골프의 저변을 확대하고, 동호인들 간의 화합과 건강 증진을 도모하기 위해 마련됐다. 특히 유튜브 채널 및 다양한 문화 활동을 통해 소통을 이어오고 있",
+ "published_at": "2026-10-26T09:53:14+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에바끌레르"
+  ],
+  "companies": [],
+  "keywords": [
+   "골프 전용 화장품",
+   "스포츠 마케팅",
+   "자외선 차단"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "골프 전용 화장품 에바끌레르가 제1회 파크골프대회를 열었다.",
+  "key_fact_quote": "골프 전용 화장품 에바끌레르(회장 끌레르 정)가 주최한 ‘제1회 에바끌레르 파크골프대회’가 최근 강원도 화천 파크 골프장에서 성황리에 개최됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

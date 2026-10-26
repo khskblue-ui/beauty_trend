@@ -1,0 +1,42 @@
+{
+ "doc_id": "54db06349f7de91e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202610261842320862",
+ "title": "中企 수출 신기록… 뷰티 ·반도체 쌍끌이",
+ "summary": "특히 중남미 수출 은 1억달러로 141.3% 급증했다. K뷰티 의 인기가 기존 주력 시장을 넘어 신흥시장으로 확산하면서 수출 지역이 다변화하고 있는 것이다. 반도체도 수출 증가를 이끌었다. 3·4분기 반도체 수출 액은...",
+ "published_at": "2026-10-26T18:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "중남미 시장",
+   "수출 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 인기가 신흥시장으로 확산하며 수출 지역이 다변화하고 있다.",
+  "key_fact_quote": "K뷰티 의 인기가 기존 주력 시장을 넘어 신흥시장으로 확산하면서 수출 지역이 다변화하고 있는 것이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

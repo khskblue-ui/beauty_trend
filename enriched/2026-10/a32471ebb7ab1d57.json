@@ -1,0 +1,48 @@
+{
+ "doc_id": "a32471ebb7ab1d57",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.press9.kr/news/articleView.html?idxno=84872",
+ "title": "지놈앤컴퍼니, 美 K-뷰티 유통사 올블룸 인수…유이크 판로 확대",
+ "summary": "올블룸은 국내 화장품 브랜드의 미국 수출과 현지 유통을 담당하는 기업으로, 지난해 매출 약 230억원을... 지놈앤컴퍼니가 2021년 출시 한 마이크로바이옴 스킨케어 브랜드 유이크는 지난해 매출 약 120억원을 기록해...",
+ "published_at": "2026-10-26T09:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "유이크"
+  ],
+  "companies": [
+   "지놈앤컴퍼니",
+   "올블룸"
+  ],
+  "keywords": [
+   "K-뷰티 유통",
+   "마이크로바이옴 스킨케어",
+   "미국 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지놈앤컴퍼니가 미국 K-뷰티 유통사 올블룸을 인수한다.",
+  "key_fact_quote": "지놈앤컴퍼니, 美 K-뷰티 유통사 올블룸 인수…유이크 판로 확대",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

@@ -1,0 +1,48 @@
+{
+ "doc_id": "a63ef9920b48a063",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211757",
+ "title": "한미사이언스 더마 코스메틱 '아데시', 피부과 입점으로 유통 채널 확대",
+ "summary": "회사는 인공색소와 향료 를 배제한 스킨케어 제품을 통해 피부과 시술 이후의 홈케어와 지속적인 피부 관리를 원하는 소비자를 겨냥한다는 계획이다. 피부과 입점은 소비자가 제품을 접하는 경로를 넓히는 동시에...",
+ "published_at": "2026-10-26T16:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아데시"
+  ],
+  "companies": [
+   "한미사이언스"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "제약 뷰티",
+   "피부과 입점",
+   "무향료 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "489605ef4bc06427",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

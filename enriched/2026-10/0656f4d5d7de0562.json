@@ -1,0 +1,96 @@
+{
+ "doc_id": "0656f4d5d7de0562",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100257",
+ "title": "레이시올로지, 론칭 6개월 만에 전국 한의원 600곳 입점",
+ "summary": "한의학 기반 더마 코스메틱 브랜드 레이시올로지(RATIOLOGY, 대표 정희범)가 론칭 반년 만에 전국 600개 한의원에 입점하며 K-뷰티 시장에서 한의학을 기반으로 독자적인 입지를 구축했다고 26일 밝혔다.올해 4월 론칭한 레이시올로지는 짧은 기간에 한의원이라는 특화된 판매 채널을 통해 전국 단위의 유통망을 확보하며 가파른 성장세를 이어가고 있다. 특히 론칭 2개월 만에 전국 한의원 400곳에 입점하며 차세대 K-뷰티 브랜드로서의 존재감을 입증한 바 있다. 기존 메디컬 화장품이 주로 피부과·약국을 중심으로 유통되는 것과 달리, 레",
+ "published_at": "2026-10-26T10:35:08+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "레이시올로지",
+   "설화수"
+  ],
+  "companies": [
+   "레이시올로지"
+  ],
+  "keywords": [
+   "한방 더마 코스메틱",
+   "한의원 유통",
+   "K헤리티지 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "5:5:5 리페어 크림",
+    "brand": "레이시올로지",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아쿠아 익스프레스 세럼",
+    "brand": "레이시올로지",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "레티노맥스 1.3% 세럼",
+    "brand": "레이시올로지",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "한의학 기반 더마 코스메틱 브랜드 레이시올로지가 전국 한의원에 입점하며 입지를 구축했다.",
+  "key_fact_quote": "한의학 기반 더마 코스메틱 브랜드 레이시올로지(RATIOLOGY, 대표 정희범)가 론칭 반년 만에 전국 600개 한의원에 입점하며 K-뷰티 시장에서 한의학을 기반으로 독자적인 입지를 구축했다고 26일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "골든 릴리프",
+    "quote": "특히 레이시올로지는 ‘선진정 후효능’ 설계에 초점을 맞추며, 황련·황금·황백·치자 4가지 본초 유래 추출물을 배합한 독자 성분 ‘골든 릴리프(GOLDEN-RELIEF™)’를 전 제품에 적용하는 것이 특징이다."
+   },
+   {
+    "name": "황련",
+    "quote": "특히 레이시올로지는 ‘선진정 후효능’ 설계에 초점을 맞추며, 황련·황금·황백·치자 4가지 본초 유래 추출물을 배합한 독자 성분 ‘골든 릴리프(GOLDEN-RELIEF™)’를 전 제품에 적용하는 것이 특징이다."
+   },
+   {
+    "name": "황금",
+    "quote": "특히 레이시올로지는 ‘선진정 후효능’ 설계에 초점을 맞추며, 황련·황금·황백·치자 4가지 본초 유래 추출물을 배합한 독자 성분 ‘골든 릴리프(GOLDEN-RELIEF™)’를 전 제품에 적용하는 것이 특징이다."
+   },
+   {
+    "name": "황백",
+    "quote": "특히 레이시올로지는 ‘선진정 후효능’ 설계에 초점을 맞추며, 황련·황금·황백·치자 4가지 본초 유래 추출물을 배합한 독자 성분 ‘골든 릴리프(GOLDEN-RELIEF™)’를 전 제품에 적용하는 것이 특징이다."
+   },
+   {
+    "name": "치자",
+    "quote": "특히 레이시올로지는 ‘선진정 후효능’ 설계에 초점을 맞추며, 황련·황금·황백·치자 4가지 본초 유래 추출물을 배합한 독자 성분 ‘골든 릴리프(GOLDEN-RELIEF™)’를 전 제품에 적용하는 것이 특징이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

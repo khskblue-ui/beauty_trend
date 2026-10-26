@@ -1,0 +1,60 @@
+{
+ "doc_id": "80fabe3c4cb9b3c1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610260935531960064",
+ "title": "[ 뷰티 톡톡] CJ올리브영ㆍ헤라ㆍ루나ㆍ에스쁘아ㆍ닥터지ㆍ아이오페ㆍ스...",
+ "summary": "▲CJ올리브영, 뷰티 크리에이터 ‘셔터브리티’ 8기 300명 모집 CJ올리브영이 자사 앱 내 뷰티 커뮤니티... ▲루나, 수분 밀착 프렙 베이스 신제품 출시 루나가 베이스 메이크업 전 단계에 쓰는 프렙 베이스 ‘롱래스팅...",
+ "published_at": "2026-10-26T09:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "헤라",
+   "루나",
+   "에스쁘아",
+   "닥터지",
+   "아이오페"
+  ],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "프렙 베이스",
+   "뷰티 크리에이터",
+   "신제품 출시"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "수분 밀착 프렙 베이스",
+    "brand": "루나",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "루나, 수분 밀착 프렙 베이스 신제품 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "올리브영과 여러 브랜드가 크리에이터 모집과 신제품 출시 소식을 알렸다.",
+  "key_fact_quote": "[ 뷰티 톡톡] CJ올리브영ㆍ헤라ㆍ루나ㆍ에스쁘아ㆍ닥터지ㆍ아이오페ㆍ스...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

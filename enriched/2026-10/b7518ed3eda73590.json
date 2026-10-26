@@ -1,0 +1,70 @@
+{
+ "doc_id": "b7518ed3eda73590",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/from-field-to-fragrance-givaudan-s,28413",
+ "title": "From field to fragrance: Givaudan's House of Naturals is taking shape in Grasse",
+ "summary": "In early 2028, at Grasse Campus 52, Givaudan will inaugurate a Center of Excellence dedicated to innovation and to the production of natural raw materials. Spreading across 2.7 hectares, the new site will represent the centrepiece of House of Naturals, a program designed to highlight the group's expertise in natural ingredients. The project is also based on the sourcing partnerships established around the world. House of Naturals was created when “in 2023, we found that we needed to bring... - Companies & industry",
+ "published_at": "2026-10-27T01:39:16+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "ES"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan",
+   "Albert Vieille",
+   "Roure"
+  ],
+  "keywords": [
+   "천연 원료",
+   "원료 소싱",
+   "분자 분획",
+   "업사이클링",
+   "프리미엄화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지보단이 프랑스 그라스에 천연 원료 혁신과 생산을 맡을 센터를 세운다.",
+  "key_fact_quote": "In early 2028, at Grasse Campus 52, Givaudan will inaugurate a Center of Excellence dedicated to innovation and to the production of natural raw materials.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Jasmine Sambac",
+    "quote": "They express their needs for new facets, including molecular fractionation applied to Jasmine Sambac, which helped obtain a less animal-like, greener, more floral note."
+   },
+   {
+    "name": "Rose Concentrate NatSource®",
+    "quote": "as could be seen with Rose Concentrate NatSource®, which adorns rose with a touch of clean, modern freshness."
+   },
+   {
+    "name": "tonka bean",
+    "quote": "Then came the tonka bean supply chains in Venezuela in 2008, and lavender, in France, in 2012, which reinforced this commitment."
+   },
+   {
+    "name": "lavender",
+    "quote": "Then came the tonka bean supply chains in Venezuela in 2008, and lavender, in France, in 2012, which reinforced this commitment."
+   },
+   {
+    "name": "patchouli",
+    "quote": "The Origination initiative in 2013 marked a strategic turning point, when we directly settled at the source, in Indonesia, for patchouli"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

@@ -1,0 +1,62 @@
+{
+ "doc_id": "953e5a60957f40ae",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876267",
+ "title": "앳홈 톰, 영국 모이다 입점…뷰티 디바이스 및 스킨케어 14종 선보여",
+ "summary": "(수분)에 신제품 PHA(피지·유분 등으로 인한 트러블 및 진정)를 더해 6종으로 구성됐다. 피부 고민과 관리... 톰 브랜드 관계자는 \"영국을 비롯한 유럽 시장에서의 한국 화장품 수출 성장에 주목하고 있다\"며 \"물방울...",
+ "published_at": "2026-10-26T16:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [
+   "톰"
+  ],
+  "companies": [
+   "앳홈"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "더마 스킨케어",
+   "K-뷰티 유럽 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "PHA",
+    "brand": "톰",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "앳홈의 톰이 영국 모이다에 입점해 뷰티 디바이스와 스킨케어를 선보인다.",
+  "key_fact_quote": "앳홈 톰, 영국 모이다 입점…뷰티 디바이스 및 스킨케어 14종 선보여",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PHA",
+    "quote": "(수분)에 신제품 PHA(피지·유분 등으로 인한 트러블 및 진정)를 더해 6종으로 구성됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

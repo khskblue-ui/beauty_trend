@@ -1,0 +1,46 @@
+{
+ "doc_id": "f7e19df67f2aa27d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876417",
+ "title": "더마라인, K뷰티 엑스포·런던 CCR 참가…글로벌 시장 공략",
+ "summary": "참가해 화장품 과 의료기기 제품군을 선보이며 글로벌 시장 공략에 나섰다. 더마라인은 고양 킨텍스에서... 글로벌 더마 스킨케어 시장을 겨냥해 신제품 과 주력 제품군을 소개하고 해외 바이어 및 업계 관계자들과...",
+ "published_at": "2026-10-26T18:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [],
+  "companies": [
+   "더마라인"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "메디컬 스킨케어",
+   "해외 전시"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "6e62200c3eb40709",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

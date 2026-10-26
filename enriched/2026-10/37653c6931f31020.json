@@ -1,0 +1,61 @@
+{
+ "doc_id": "37653c6931f31020",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/ingredients-les-emulsifiants,28414",
+ "title": "Ingrédients : Les émulsifiants Montanov de Seppic réparent aussi les cheveux",
+ "summary": "Après avoir démontré l'efficacité de sa gamme d'émulsionnants Montanov pour l'hydratation des peaux de tous phototypes, Seppic révèle de nouvelles données concernant leur bénéfices capillaires. Selon Seppic, de nouvelles études démontrent comment ces émulsifiants glucolipidiques non ioniques éco-conçus parviennent à restaurer les cheveux de manière très performante, grâce à des textures biomimétiques contenant une structure en cristaux liquides, \"comblant ainsi avec succès l'écart entre... - Brèves",
+ "published_at": "2026-10-27T02:53:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "Seppic"
+  ],
+  "keywords": [
+   "모발 케어 원료",
+   "유화제",
+   "바이오미메틱 텍스처"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "Seppic의 Montanov 유화제가 손상된 모발을 복원하는 효과를 보였다.",
+  "key_fact_quote": "L’application sur cheveux abîmés d’une émulsion avec Montanov 202 rétablit ainsi l’organisation lipidique par rapport aux cheveux naturels et crée un film protecteur à la surface du cheveu.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "Montanov 202",
+    "quote": "L’application sur cheveux abîmés d’une émulsion avec Montanov 202 rétablit ainsi l’organisation lipidique par rapport aux cheveux naturels et crée un film protecteur à la surface du cheveu."
+   },
+   {
+    "name": "Montanov L",
+    "quote": "Montanov 202 offre ainsi une sensorialité légère et un fini mat, tandis que Montanov L apporte un toucher doux et léger avec un étalement facile."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

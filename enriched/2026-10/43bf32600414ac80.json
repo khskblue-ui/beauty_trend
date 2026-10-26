@@ -1,0 +1,54 @@
+{
+ "doc_id": "43bf32600414ac80",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211709",
+ "title": "링커스글로벌 K뷰티엑스포서 해외 바이어 접점 확대",
+ "summary": "특히 향료 를 첨가하지 않은 스킨 베리어 크림은 시술 후 피부 관리와 민감성 피부를 고려한 사용감으로 호응을 얻었다고 회사 측은 설명했다. 링커스글로벌 관계자는 \"이번 전시에서 신규 시장 바이어들과의 상담을 통해...",
+ "published_at": "2026-10-26T11:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "링커스글로벌"
+  ],
+  "keywords": [
+   "K뷰티 엑스포",
+   "해외 바이어",
+   "민감성 피부 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "스킨 베리어 크림",
+    "brand": "링커스글로벌",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "링커스글로벌이 K뷰티엑스포에서 해외 바이어와의 접점을 넓혔다.",
+  "key_fact_quote": "링커스글로벌 K뷰티엑스포서 해외 바이어 접점 확대",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

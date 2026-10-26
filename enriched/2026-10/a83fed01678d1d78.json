@@ -1,0 +1,69 @@
+{
+ "doc_id": "a83fed01678d1d78",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/a-paris-la-parfumerie-kams-mise,28410",
+ "title": "À Paris, la parfumerie Kams mise sur la découverte de signatures olfactives",
+ "summary": "Installé depuis 1960 à quelques pas du Palais-Royal, du musée du Louvre et de l'Opéra Garnier, la parfumerie Kams est devenue un lieu de référence, mêlant marques historiques et parfumerie de niche indépendante. Du 26 septembre au 31 octobre 2026, en partenariat avec Notes Shanghai, le détaillant a accueilli 26 maisons asiatiques révélées lors de l'Asia Perfume Show, organisé par Nez fin septembre. Les maisons présentées illustrent la diversité des nombreuses scènes olfactives asiatiques,... - Brèves / Europe",
+ "published_at": "2026-10-26T21:14:34+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "FR",
+   "CN",
+   "TH"
+  ],
+  "brands": [
+   "To Define",
+   "Cottee",
+   "Chu Jian",
+   "Dusita",
+   "Borntostandout"
+  ],
+  "companies": [
+   "Kams",
+   "Notes Shanghai"
+  ],
+  "keywords": [
+   "니치 향수",
+   "독립 향수",
+   "아시아 향수 브랜드",
+   "팝업 스토어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "파리의 향수 전문점 Kams가 아시아 독립 향수 브랜드를 소개하는 팝업을 열었다.",
+  "key_fact_quote": "Du 26 septembre au 31 octobre 2026, en partenariat avec Notes Shanghai, le détaillant a accueilli 26 maisons asiatiques révélées lors de l'Asia Perfume Show, organisé par Nez fin septembre.",
+  "events": [
+   {
+    "name": "pop-up",
+    "start_date": "2026-09-26",
+    "end_date": "2026-10-31",
+    "place": "parfumerie Kams",
+    "quote": "Du 26 septembre au 31 octobre 2026, en partenariat avec Notes Shanghai, le détaillant a accueilli 26 maisons asiatiques révélées lors de l'Asia Perfume Show, organisé par Nez fin septembre."
+   },
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

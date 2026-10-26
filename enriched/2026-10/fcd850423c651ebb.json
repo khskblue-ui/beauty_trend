@@ -1,0 +1,75 @@
+{
+ "doc_id": "fcd850423c651ebb",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100243",
+ "title": "KTR, 국내 첫 클린화장품 단체표준 인증 수여",
+ "summary": "KTR(한국화학융합시험연구원, 원장 이승렬)이 국내 시험기관 최초로 클린화장품 단체표준(SPS)을 마련하고 첫 인증을 수여했다.KTR은 23일 ‘2026 오송 화장품 뷰티산업 엑스포’ 장에서 클린화장품 단체표준 인증 수여식을 열고 화장품 제조 8개사 14개 제품에 인증서를 수여했다고 밝혔다.인증기업 및 제품은 ▲(주)기린화장품(바디제품, 바디클렌저, 샴푸) ▲레스케미(주)(로션, 크림) ▲(주)메디아크(로션, 크림) ▲(주)바디야씨앤디랩(폼클렌저) ▲(주)에버바이오(화장수, 크림) ▲(주)온당(샴푸바) ▲제이앤지코스메틱스(화장수)",
+ "published_at": "2026-10-26T09:32:23+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "KTR",
+   "기린화장품",
+   "레스케미",
+   "메디아크",
+   "바디야씨앤디랩",
+   "에버바이오",
+   "온당",
+   "제이앤지코스메틱스",
+   "피에노"
+  ],
+  "keywords": [
+   "클린 뷰티",
+   "단체표준 인증",
+   "친환경 용기",
+   "포장 폐기물 규제"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "KTR이 국내 시험기관 최초로 클린화장품 단체표준을 마련하고 첫 인증을 수여했다.",
+  "key_fact_quote": "KTR(한국화학융합시험연구원, 원장 이승렬)이 국내 시험기관 최초로 클린화장품 단체표준(SPS)을 마련하고 첫 인증을 수여했다.",
+  "events": [
+   {
+    "name": "2026 오송 화장품 뷰티산업 엑스포",
+    "start_date": "2026-10-22",
+    "end_date": null,
+    "place": null,
+    "quote": "특히, 엑스포 개막일인 22일에는 「패키징 시프트(Packaging Shift) 2026 — EU PPWR가 바꾸는 K-클린뷰티」 세미나를 개최하고 EU 포장 및 포장 폐기물 규제(PPWR) 대응 사례 발표 등 화장품 수출기업을 위한 규제 대응 전략을 공유했다."
+   },
+   {
+    "name": "패키징 시프트(Packaging Shift) 2026",
+    "start_date": "2026-10-22",
+    "end_date": null,
+    "place": null,
+    "quote": "특히, 엑스포 개막일인 22일에는 「패키징 시프트(Packaging Shift) 2026 — EU PPWR가 바꾸는 K-클린뷰티」 세미나를 개최하고 EU 포장 및 포장 폐기물 규제(PPWR) 대응 사례 발표 등 화장품 수출기업을 위한 규제 대응 전략을 공유했다."
+   },
+   {
+    "name": "클린화장품 단체표준 인증 수여식",
+    "start_date": "2026-10-23",
+    "end_date": null,
+    "place": null,
+    "quote": "KTR은 23일 ‘2026 오송 화장품 뷰티산업 엑스포’ 장에서 클린화장품 단체표준 인증 수여식을 열고 화장품 제조 8개사 14개 제품에 인증서를 수여했다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

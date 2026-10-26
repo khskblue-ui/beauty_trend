@@ -1,0 +1,55 @@
+{
+ "doc_id": "d2a6f50ab2608177",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58585",
+ "title": "‘2027 화장품 글로벌 hot 이슈와 전망 컨퍼런스’ 11월 20일 개최... 무엇을, 어떻게 준비할 것인가?",
+ "summary": "[코스인코리아닷컴 김민석 기자]AI가 초개인화를 촉진하고, Z세대는 ‘세계관’(universe, worldbuilding, lore, aesthetic)을 말한다. 콘텐츠·브랜드·취향에서의 ‘추구미’가 바탕이다. ‘내가 지향하는 이미지’를 둘러싼 이야기·규칙·관계까지 아우르는 단어가 세계관이다. 추…",
+ "published_at": "2026-10-26T08:48:03+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스인",
+   "에이피알",
+   "아시아비엔씨"
+  ],
+  "keywords": [
+   "K-뷰티 글로벌 확장",
+   "초개인화",
+   "홈뷰티 디바이스",
+   "안티에이징"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스인이 K-뷰티의 새로운 기준을 주제로 전망 컨퍼런스를 연다.",
+  "key_fact_quote": "이를 모색하는 ‘2027년 화장품 글로벌 hot 이슈와 전망 컨퍼런스’ 가 오는 11월 20일(금) 10:00~17:00 누리꿈스퀘어 비즈니스타워 3층 국제회의실(서울 상암동 소재)에서 열린다.",
+  "events": [
+   {
+    "name": "2027년 화장품 글로벌 hot 이슈와 전망 컨퍼런스",
+    "start_date": "2026-11-20",
+    "end_date": null,
+    "place": "누리꿈스퀘어 비즈니스타워 3층 국제회의실",
+    "quote": "이를 모색하는 ‘2027년 화장품 글로벌 hot 이슈와 전망 컨퍼런스’ 가 오는 11월 20일(금) 10:00~17:00 누리꿈스퀘어 비즈니스타워 3층 국제회의실(서울 상암동 소재)에서 열린다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

@@ -1,0 +1,78 @@
+{
+ "doc_id": "e4a9be0d7ec0b071",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53780",
+ "title": "뷰티썸 수원에 BIGS 뜬다",
+ "summary": "B2B, 인플루언서(Influencer), 글로벌(Global), 스타트업(Startup). K-뷰티의 성장을 이끄는 네 가지 키워드다. 이들 키워드를 앞세운 13개 기업이 11월 5일(목)부터 7일(토)까지 수원컨벤션센터에서 열리는 ‘뷰티썸 수원 2026’에서 BIGS 특별관을 선보인다. BIGS 특별관은 △ 뷰티 전시회 △…",
+ "published_at": "2026-10-26T14:42:40+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "400:포백",
+   "바오젠",
+   "위시포뮬러",
+   "레드플로",
+   "포코블"
+  ],
+  "companies": [
+   "슬록"
+  ],
+  "keywords": [
+   "B2B 뷰티 전시회",
+   "K-뷰티 스타트업",
+   "비즈니스 밋업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "슬록이 뷰티썸 수원 2026에서 K-뷰티 기업 특별관을 운영한다.",
+  "key_fact_quote": "이들 키워드를 앞세운 13개 기업이 11월 5일(목)부터 7일(토)까지 수원컨벤션센터에서 열리는 ‘뷰티썸 수원 2026’에서 BIGS 특별관을 선보인다.",
+  "events": [
+   {
+    "name": "뷰티썸 수원 2026",
+    "start_date": "2026-11-05",
+    "end_date": "2026-11-07",
+    "place": "수원컨벤션센터",
+    "quote": "이들 키워드를 앞세운 13개 기업이 11월 5일(목)부터 7일(토)까지 수원컨벤션센터에서 열리는 ‘뷰티썸 수원 2026’에서 BIGS 특별관을 선보인다."
+   },
+   {
+    "name": "오픈 세미나 & 이노베이션",
+    "start_date": "2026-11-06",
+    "end_date": null,
+    "place": null,
+    "quote": "11월 6일(금) 오후 1시에는 ‘오픈 세미나 & 이노베이션’이 열린다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "바오젠(비건 PDRN·엑소좀 기반 두피·헤어케어)"
+   },
+   {
+    "name": "엑소좀",
+    "quote": "바오젠(비건 PDRN·엑소좀 기반 두피·헤어케어)"
+   },
+   {
+    "name": "바이오셀룰로오스",
+    "quote": "리안코스메틱스(BASED ON)(바이오셀룰로오스 등 소재 개발부터 완제품까지 ODM·OBM 원스톱 서비스)"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

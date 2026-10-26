@@ -1,0 +1,66 @@
+{
+ "doc_id": "26d79d8821f77fac",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=264655",
+ "title": "애경산업 루나, 메이크업 밀착력 높이는 프렙 베이스 출시",
+ "summary": "고려한 신제품 을 출시했다. 건조함으로 화장이 들뜨는 현상을 줄이고 기존 쿠션이나 컨실러와 함께 사용할... 한편, 애경산업의 화장품 브랜드 'AGE20'S(에이지투웨니스)'는 지난 9월 출시한 '스킨 퍼스트 히든 프렙...",
+ "published_at": "2026-10-26T22:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "루나",
+   "AGE20'S"
+  ],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "프렙 베이스",
+   "베이스 메이크업",
+   "메이크업 밀착력"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "프렙 베이스",
+    "brand": "루나",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "애경산업 루나, 메이크업 밀착력 높이는 프렙 베이스 출시",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스킨 퍼스트 히든 프렙",
+    "brand": "AGE20'S",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "한편, 애경산업의 화장품 브랜드 'AGE20'S(에이지투웨니스)'는 지난 9월 출시한",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "애경산업의 루나가 메이크업 밀착력을 높이는 프렙 베이스를 출시했다.",
+  "key_fact_quote": "애경산업 루나, 메이크업 밀착력 높이는 프렙 베이스 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

@@ -1,0 +1,82 @@
+{
+ "doc_id": "02e380abc5584c23",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53778",
+ "title": "바스프, ‘인-코스메틱스 아시아 2026’ 참가",
+ "summary": "바스프(BASF)가 11월 3일부터 5일까지 태국 방콕 국제무역전시센터에서 열리는 ‘인-코스메틱스 아시아 2026’에 참가한다. 인-코스메틱스 아시아(incosmetics Asia)는 아시아·태평양 지역을 대표하는 화장품 원료 전시회다. 글로벌 원료기업과 화장품 제조사, 연구개발 전문가들이 참여해 최…",
+ "published_at": "2026-10-26T13:16:06+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "DE",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "바스프"
+  ],
+  "keywords": [
+   "화장품 원료 전시회",
+   "자외선 차단",
+   "스마트 클렌징",
+   "콜라겐 과학"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "모이스처 터치 톤업 선로션",
+    "brand": "바스프",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "워터 스플래시 라이트 플루이드 로션",
+    "brand": "바스프",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "바스프가 인-코스메틱스 아시아에 참가해 혁신 기술과 제형을 소개한다.",
+  "key_fact_quote": "바스프(BASF)가 11월 3일부터 5일까지 태국 방콕 국제무역전시센터에서 열리는 ‘인-코스메틱스 아시아 2026’에 참가한다.",
+  "events": [
+   {
+    "name": "인-코스메틱스 아시아 2026",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-05",
+    "place": "태국 방콕 국제무역전시센터",
+    "quote": "바스프(BASF)가 11월 3일부터 5일까지 태국 방콕 국제무역전시센터에서 열리는 ‘인-코스메틱스 아시아 2026’에 참가한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "NeoHelix™ Regenerate",
+    "quote": "이노베이션 존 어워드에는 바스프의 NeoHelix™ Regenerate와 Emulgade ® Verde PE가 선정됐다."
+   },
+   {
+    "name": "Emulgade ® Verde PE",
+    "quote": "이노베이션 존 어워드에는 바스프의 NeoHelix™ Regenerate와 Emulgade ® Verde PE가 선정됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

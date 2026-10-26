@@ -1,0 +1,55 @@
+{
+ "doc_id": "bdeb21d2d4ece21e",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58591",
+ "title": "대한화장품산업연구원, AI·수출규제 대응 ‘글로벌 화장품 시장 세미나’ 11월 26일 개최",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 대한화장품산업연구원(원장 조신행, 이하 연구원)이 오는 11월 26일 서울 삼성동 코엑스 컨퍼런스룸 308호에서 ‘제16회 글로벌 화장품 시장 동향 분석 세미나’를 개최한다고 26일 밝혔다. 보건복지부가 후원하는 이번 세미나는 국내 화장품 기업의 해외시장 진출과…",
+ "published_at": "2026-10-26T18:05:44+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CN",
+   "AE",
+   "SA"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원"
+  ],
+  "keywords": [
+   "수출 규제 대응",
+   "AI 수출정보",
+   "포장폐기물 규정"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대한화장품산업연구원이 글로벌 시장 동향과 수출 규제 대응을 다루는 세미나를 연다.",
+  "key_fact_quote": "대한화장품산업연구원(원장 조신행, 이하 연구원)이 오는 11월 26일 서울 삼성동 코엑스 컨퍼런스룸 308호에서 ‘제16회 글로벌 화장품 시장 동향 분석 세미나’를 개최한다고 26일 밝혔다.",
+  "events": [
+   {
+    "name": "제16회 글로벌 화장품 시장 동향 분석 세미나",
+    "start_date": "2026-11-26",
+    "end_date": null,
+    "place": "서울 삼성동 코엑스 컨퍼런스룸 308호",
+    "quote": "대한화장품산업연구원(원장 조신행, 이하 연구원)이 오는 11월 26일 서울 삼성동 코엑스 컨퍼런스룸 308호에서 ‘제16회 글로벌 화장품 시장 동향 분석 세미나’를 개최한다고 26일 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

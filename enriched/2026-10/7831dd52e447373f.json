@@ -1,0 +1,47 @@
+{
+ "doc_id": "7831dd52e447373f",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/mona-kattan-kayali-eyes-china-top-three-fragrance-spot-sephora",
+ "title": "Mona Kattan's Kayali eyes China top three fragrance spot in exclusive Sephora launch",
+ "summary": "Fragrance brand Kayali, founded by Mona Kattan, made its exclusive omnichannel debut in China on 15 October across more than 300 stores and Sephora’s digital platforms, aiming to become one of Sephora China’s top three fragrance brands",
+ "published_at": "2026-10-26T21:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "CN"
+  ],
+  "brands": [
+   "Kayali"
+  ],
+  "companies": [
+   "Sephora"
+  ],
+  "keywords": [
+   "향수",
+   "옴니채널",
+   "중국 시장",
+   "독점 입점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "카얄리가 중국 세포라에서 독점 판매를 시작하며 향수 상위 브랜드를 노린다.",
+  "key_fact_quote": "Fragrance brand Kayali, founded by Mona Kattan, made its exclusive omnichannel debut in China on 15 October across more than 300 stores and Sephora’s digital platforms, aiming to become one of Sephora China’s top three fragrance brands",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

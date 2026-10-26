@@ -1,0 +1,67 @@
+{
+ "doc_id": "b7edc38db1206039",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/du-champ-au-parfum-house-of,28412",
+ "title": "Du champ au parfum : House of Naturals de Givaudan prend forme à Grasse",
+ "summary": "Début 2028, Givaudan inaugurera à Grasse Campus 52, un centre d'excellence dédié à l'innovation et à la production de matières premières naturelles. Implanté sur 2,7 hectares, ce nouveau site constituera la pièce maîtresse de House of Naturals, programme voué à valoriser son expertise en ingrédients naturels. Le projet repose également sur le développement des partenariats de sourcing noués à travers le monde. À l'origine de House of Naturals, il y a “le constat, en 2023, qu'il faut... - Sociétés & industrie",
+ "published_at": "2026-10-27T01:23:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "ES"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan"
+  ],
+  "keywords": [
+   "천연 향료 원료",
+   "원료 소싱",
+   "분자 분획",
+   "업사이클링"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지보단이 그라스에 천연 원료의 혁신과 생산을 모으는 거점을 세운다.",
+  "key_fact_quote": "Début 2028, Givaudan inaugurera à Grasse Campus 52, un centre d'excellence dédié à l'innovation et à la production de matières premières naturelles.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Rose Concentrate NatSource®",
+    "quote": "à l’image du Rose Concentrate NatSource®, qui habille la rose d’une fraîcheur propre et moderne"
+   },
+   {
+    "name": "jasmin sambac",
+    "quote": "Ils expriment notamment leurs besoins de nouvelles facettes, à l’instar du fractionnement moléculaire appliqué au jasmin sambac, qui a fait éclore une note moins animale, plus verte et florale."
+   },
+   {
+    "name": "fève tonka",
+    "quote": "Les filières d’approvisionnement en fève tonka au Venezuela en 2008, ou celles de lavande en France en 2012, sont venues consolider cet engagement."
+   },
+   {
+    "name": "lavande",
+    "quote": "Les filières d’approvisionnement en fève tonka au Venezuela en 2008, ou celles de lavande en France en 2012, sont venues consolider cet engagement."
+   },
+   {
+    "name": "patchouli",
+    "quote": "L’initiative Origination, en 2013, marque un tournant stratégique, avec l’implantation directe à la source, en Indonésie, pour le patchouli"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

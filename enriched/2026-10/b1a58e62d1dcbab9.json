@@ -1,0 +1,44 @@
+{
+ "doc_id": "b1a58e62d1dcbab9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261026_0003840441",
+ "title": "이영애, 화장품 브랜드 대표의 일상…민낯도 청순",
+ "summary": "특히 화장기 없는 얼굴에도 불구하고 청순한 분위기를 풍겼다. 한편 이영애는 2013년 순식물성 화장품 브랜드 리아네이처를 출시 했다. 쌍둥이 자녀를 임신한 뒤 화학성분을 배제한 화장품 을 만들고자 직접 설립한 브랜드다.",
+ "published_at": "2026-10-26T09:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리아네이처"
+  ],
+  "companies": [],
+  "keywords": [
+   "순식물성 화장품",
+   "셀럽 브랜드",
+   "화학성분 배제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "이영애는 화학성분을 배제한 화장품을 만들고자 순식물성 브랜드 리아네이처를 직접 세웠다.",
+  "key_fact_quote": "쌍둥이 자녀를 임신한 뒤 화학성분을 배제한 화장품 을 만들고자 직접 설립한 브랜드다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

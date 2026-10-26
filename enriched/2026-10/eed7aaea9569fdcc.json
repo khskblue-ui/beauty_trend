@@ -1,0 +1,43 @@
+{
+ "doc_id": "eed7aaea9569fdcc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=267901",
+ "title": "K뷰티 수출 , 유럽이 북미보다 더 뛰었다...성장축 넓히는 비중화권",
+ "summary": "기초화장품과 기타 품목의 수출 추정액을 합산하면 전체 수출 의 88%에 달해, K - 뷰티 가 기존 색조 중심에서 기초·선케어 위주의 수익성 높은 포트폴리오로 재편되고 있음을 보여준다. 기초화장품 중심의 성장은 현지...",
+ "published_at": "2026-10-26T15:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "기초화장품",
+   "선케어",
+   "비중화권 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 수출이 색조 중심에서 기초와 선케어 중심으로 바뀌고 있다.",
+  "key_fact_quote": "기초화장품과 기타 품목의 수출 추정액을 합산하면 전체 수출 의 88%에 달해, K - 뷰티 가 기존 색조 중심에서 기초·선케어 위주의 수익성 높은 포트폴리오로 재편되고 있음을 보여준다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

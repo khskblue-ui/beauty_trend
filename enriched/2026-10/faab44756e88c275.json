@@ -1,0 +1,47 @@
+{
+ "doc_id": "faab44756e88c275",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312426",
+ "title": "중국 화장품 해외 수출 47% 급증…한국향 수출은 237.6% 폭증",
+ "summary": "중국 화장품의 수출이 증가하면서 글로벌 시장에서 영향력을 강화하고 있다. 뷰티경제가 최근 중국 해관총서의 무역 통계를 분석한 결과, 2026년 9월 중국 화장품 수출액은 20억9906만 위안으로 집계돼 전년 동기(14억2843만 위안) 대비 47% 증가했다.이는 8월 기록한 23.1% 성장률을 크게 웃도는 수치로, 중국 화장품의 글로벌 시장 확대가 더욱 가속화되고 있는 것으로 분석됐다.특히 한국은 8월에 이어 9월에도 가장 높은 성장률을 기록하며 중국 화장품 수출 확대를 이끌었다. 미국 역시 최대 수출시장 지위를 유지한 가운데 영국",
+ "published_at": "2026-10-26T09:35:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR",
+   "US",
+   "FR",
+   "GB",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "중국 화장품 수출",
+   "C뷰티",
+   "한국향 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 화장품 수출이 늘었고 한국향 수출이 가장 가파르게 늘었다.",
+  "key_fact_quote": "특히 한국은 8월에 이어 9월에도 가장 높은 성장률을 기록하며 중국 화장품 수출 확대를 이끌었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

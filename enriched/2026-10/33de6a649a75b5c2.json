@@ -1,0 +1,45 @@
+{
+ "doc_id": "33de6a649a75b5c2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=264636",
+ "title": "한진, LA 이어 토론토에 물류거점··· K뷰티 수출 지원 확대",
+ "summary": "K뷰티 수출 기업을 대상으로 상품 보관과 통관, 소비자 배송을 연계하는 물류 서비스를 강화한다. 미국 중심의 물류망을 캐나다로 확장해 현지 배송 수요에 대응한다는 전략이다. 한진은 26일 캐나다 토론토 피어슨...",
+ "published_at": "2026-10-26T16:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CA"
+  ],
+  "brands": [],
+  "companies": [
+   "한진"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "풀필먼트",
+   "북미 물류"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한진이 캐나다 토론토에 K뷰티 수출 기업을 위한 물류거점을 연다.",
+  "key_fact_quote": "K뷰티 수출 기업을 대상으로 상품 보관과 통관, 소비자 배송을 연계하는 물류 서비스를 강화한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

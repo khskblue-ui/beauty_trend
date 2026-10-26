@@ -1,0 +1,57 @@
+{
+ "doc_id": "58b1616f9d51801b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=303399",
+ "title": "3CE, 산리오 '쿠로미' 협업 화장품 출시 …올리브영 선판매",
+ "summary": "메이크업 브랜드 3CE가 산리오의 캐릭터 '쿠로미'를 적용한 한정판 화장품 을 출시 했다. 3CE가 산리오 캐릭터와 협업한 것은 이번이 처음이다. 3CE는 26일 올리브영에서 '3CE X 쿠로미 에디션'을 단독 선 출시 했다고 밝혔다....",
+ "published_at": "2026-10-26T14:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "3CE"
+  ],
+  "companies": [
+   "산리오",
+   "올리브영"
+  ],
+  "keywords": [
+   "캐릭터 협업",
+   "한정판 화장품",
+   "올리브영 선판매"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "3CE X 쿠로미 에디션",
+    "brand": "3CE",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "3CE는 26일 올리브영에서 '3CE X 쿠로미 에디션'을 단독 선 출시 했다고 밝혔다....",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "3CE가 산리오 캐릭터 쿠로미를 적용한 한정판 화장품을 출시했다.",
+  "key_fact_quote": "메이크업 브랜드 3CE가 산리오의 캐릭터 '쿠로미'를 적용한 한정판 화장품 을 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

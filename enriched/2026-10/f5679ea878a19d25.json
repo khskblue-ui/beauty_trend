@@ -1,0 +1,50 @@
+{
+ "doc_id": "f5679ea878a19d25",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/all-eyes-on-paris-as-registration-opens-for",
+ "title": "All eyes on Paris as registration opens for Paris Packaging Week’s biggest edition yet",
+ "summary": "Paris Packaging Week will see 950 exhibitors put packaging innovation centre stage in Paris on 3 & 4 February 2027, with more than 80 conference sessions offering fresh perspectives on the industry’s future",
+ "published_at": "2026-10-26T20:56:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "포장 박람회",
+   "패키징 혁신",
+   "참가 등록"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "파리 패키징 위크가 내년 2월 개최를 앞두고 참가 등록을 시작했다.",
+  "key_fact_quote": "All eyes on Paris as registration opens for Paris Packaging Week’s biggest edition yet",
+  "events": [
+   {
+    "name": "Paris Packaging Week",
+    "start_date": "2027-02-03",
+    "end_date": "2027-02-04",
+    "place": "Paris",
+    "quote": "Paris Packaging Week will see 950 exhibitors put packaging innovation centre stage in Paris on 3 & 4 February 2027"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

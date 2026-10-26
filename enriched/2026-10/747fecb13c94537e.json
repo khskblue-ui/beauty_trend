@@ -1,0 +1,85 @@
+{
+ "doc_id": "747fecb13c94537e",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100267",
+ "title": "[창간특집] 브랜드 위상 위해 글로벌 규제 돌파 노력 필요",
+ "summary": "2026년 글로벌 화장품 규제를 한마디로 표현한다면, 새로운 제도가 대거 등장한 해라기보다는 지난 몇 년간 만들어진 규제가 실제 시장에서 시행되기 시작한 해라고 할 수 있다. 2023년부터 2025년 사이 EU의 원료 규제 강화, 미국의 MoCRA, 중국의 CSAR 이후 안전성평가 제도, 한국의 화장품 안전성평가 법제화처럼 큰 방향을 정하는 변화들이 연이어 발표됐다면, 2026년에는 이들 제도의 전환기간이 종료되고 기업의 실제 의무가 발생하기 시작했다.EU에서는 4-MBC의 시장 철수기한과 확대된 향료 알러젠 표시기준의 적용시점이",
+ "published_at": "2026-10-26T13:59:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "EU",
+   "GB",
+   "US",
+   "CN",
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "글로벌 화장품 규제",
+   "향료 알러젠 표시",
+   "안전성평가",
+   "포장 규제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "최근 몇 년간 만들어진 글로벌 화장품 규제가 실제 시장에서 시행되기 시작했다.",
+  "key_fact_quote": "2026년 글로벌 화장품 규제를 한마디로 표현한다면, 새로운 제도가 대거 등장한 해라기보다는 지난 몇 년간 만들어진 규제가 실제 시장에서 시행되기 시작한 해라고 할 수 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "4-Methylbenzylidene Camphor",
+    "quote": "대표적인 사례가 4-Methylbenzylidene Camphor, 즉 4-MBC다."
+   },
+   {
+    "name": "Benzyl Salicylate",
+    "quote": "이어 4월에는 Regulation (EU) 2026/909가 채택되어 Benzyl Salicylate, Triphenyl Phosphate, Citral, DHHB를 비롯해 aluminium, 수용성 zinc salts, Acetylated Vetiver Oil 및 일부 염모제와 방부제의 조건이 조정됐다."
+   },
+   {
+    "name": "Triphenyl Phosphate",
+    "quote": "이어 4월에는 Regulation (EU) 2026/909가 채택되어 Benzyl Salicylate, Triphenyl Phosphate, Citral, DHHB를 비롯해 aluminium, 수용성 zinc salts, Acetylated Vetiver Oil 및 일부 염모제와 방부제의 조건이 조정됐다."
+   },
+   {
+    "name": "Citral",
+    "quote": "이어 4월에는 Regulation (EU) 2026/909가 채택되어 Benzyl Salicylate, Triphenyl Phosphate, Citral, DHHB를 비롯해 aluminium, 수용성 zinc salts, Acetylated Vetiver Oil 및 일부 염모제와 방부제의 조건이 조정됐다."
+   },
+   {
+    "name": "DHHB",
+    "quote": "이어 4월에는 Regulation (EU) 2026/909가 채택되어 Benzyl Salicylate, Triphenyl Phosphate, Citral, DHHB를 비롯해 aluminium, 수용성 zinc salts, Acetylated Vetiver Oil 및 일부 염모제와 방부제의 조건이 조정됐다."
+   },
+   {
+    "name": "aluminium",
+    "quote": "이어 4월에는 Regulation (EU) 2026/909가 채택되어 Benzyl Salicylate, Triphenyl Phosphate, Citral, DHHB를 비롯해 aluminium, 수용성 zinc salts, Acetylated Vetiver Oil 및 일부 염모제와 방부제의 조건이 조정됐다."
+   },
+   {
+    "name": "zinc salts",
+    "quote": "이어 4월에는 Regulation (EU) 2026/909가 채택되어 Benzyl Salicylate, Triphenyl Phosphate, Citral, DHHB를 비롯해 aluminium, 수용성 zinc salts, Acetylated Vetiver Oil 및 일부 염모제와 방부제의 조건이 조정됐다."
+   },
+   {
+    "name": "Acetylated Vetiver Oil",
+    "quote": "이어 4월에는 Regulation (EU) 2026/909가 채택되어 Benzyl Salicylate, Triphenyl Phosphate, Citral, DHHB를 비롯해 aluminium, 수용성 zinc salts, Acetylated Vetiver Oil 및 일부 염모제와 방부제의 조건이 조정됐다."
+   },
+   {
+    "name": "formaldehyde-releasing",
+    "quote": "영국에서는 SI 2026 No. 23에 따라 4-MBC가 금지원료로 전환되고 자외선 필터 목록에서 삭제됐으며, formaldehyde-releasing 보존제의 경고표시 기준도 기존 0.05%에서 0.001%로 크게 강화됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

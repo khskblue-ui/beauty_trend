@@ -1,0 +1,42 @@
+{
+ "doc_id": "c3f1dd8a3bee9d1c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323634",
+ "title": "K - 뷰티 수출 호황에 ODM 3사 '실적 잔치'…'화장품 용기 대란'이 복병?",
+ "summary": "이들 3사의 호실적은 단연 K - 뷰티 의 수출 호황 영향이다. 식품의약품안전처에 따르면 올해 1~9월 화장품 수출 액은 111억4000만 달러(약 14조9000억원)로 전년 동기보다 31% 올랐다. 지난해 연간 수출 액이 114억 달러 규모인...",
+ "published_at": "2026-10-27T00:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "ODM",
+   "화장품 용기 공급난"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티 수출 호황이 ODM 기업들의 호실적으로 이어졌다.",
+  "key_fact_quote": "이들 3사의 호실적은 단연 K - 뷰티 의 수출 호황 영향이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

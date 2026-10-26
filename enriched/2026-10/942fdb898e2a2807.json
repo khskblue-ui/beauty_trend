@@ -1,0 +1,67 @@
+{
+ "doc_id": "942fdb898e2a2807",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100254",
+ "title": "사이노슈어 루트로닉, 북미·유럽서 콘퍼런스 성료",
+ "summary": "미국에 본사를 둔 글로벌 메디컬 에스테틱 기업 사이노슈어 루트로닉(Cynosure Lutronic)이 최근 미국과 유럽에서 현지 의료진을 대상으로 대규모 콘퍼런스를 성공적으로 개최했다고 밝혔다.이번 콘퍼런스는 모노폴라 고주파(RF) 의료기기 세르프(XERF)의 최신 임상 성과를 공유하고, 각국 의료진 간 교류를 촉진하기 위해 마련됐다. 세르프는 지난 9월 글로벌 3,000대 판매 기록을 달성하는 등 주요 시장에서 빠르게 입지를 넓혀가고 있다.미국 캘리포니아주 샌디에이고에서 열린 '사이노슈어 루트로닉 아카데미(Cynosure",
+ "published_at": "2026-10-26T10:28:04+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "ES",
+   "KR"
+  ],
+  "brands": [
+   "사이노슈어 루트로닉"
+  ],
+  "companies": [
+   "사이노슈어 루트로닉"
+  ],
+  "keywords": [
+   "미용의료 기기",
+   "고주파 시술",
+   "복합 시술"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "세르프",
+    "brand": "사이노슈어 루트로닉",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "스페인 바르셀로나에서는 ‘EMEA 레이저 앤드 사이언스 심포지엄(EMEA Laser and Science Symposium) 2026’을 개최하며 세르프의 유럽·중동·아프리카(EMEA) 지역 공식 출시 행사를 병행했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "라셈드 울트라(LaseMD Ultra)",
+    "brand": "사이노슈어 루트로닉",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "사이노슈어 루트로닉이 북미와 유럽에서 콘퍼런스를 열고 세르프를 EMEA 지역에 공식 출시했다.",
+  "key_fact_quote": "스페인 바르셀로나에서는 ‘EMEA 레이저 앤드 사이언스 심포지엄(EMEA Laser and Science Symposium) 2026’을 개최하며 세르프의 유럽·중동·아프리카(EMEA) 지역 공식 출시 행사를 병행했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

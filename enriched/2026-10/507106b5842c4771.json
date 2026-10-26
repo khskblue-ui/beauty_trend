@@ -1,0 +1,45 @@
+{
+ "doc_id": "507106b5842c4771",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312306",
+ "title": "K-뷰티 수출 빅데이터 리포트⑤: 페이스파우더 13% 감소...일본 의존도 높아",
+ "summary": "[편집자 주] 산업통상자원부에 따르면 2026년 9월 화장품 수출은 15억달러로 전년 동기 대비 31% 증가했다. 이에 따라 관세청 수출입무역통계를 바탕으로 K-뷰티 8대 핵심 품목의 수출 현황과 국가별 수출단가 변화를 분석하는 연속 기획을 시작한다. 다섯 번째 순서로 페이스파우더(HS 3304911000)를 분석한다.⑤ 페이스파우더 수출페이스파우더 수출이 2026년 3분기와 9월 모두 감소하며 부진했다. 수출 감소와 함께 무역수지 흑자 규모도 줄어들면서 성장세가 다소 둔화된 것으로 나타났다.관세청 수출입무역통계를 분석한 결과, 2",
+ "published_at": "2026-10-26T09:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "JP",
+   "US",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "페이스파우더 수출",
+   "일본 의존",
+   "색조화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "페이스파우더 수출이 3분기와 9월 모두 줄었고 일본 의존도가 높게 나타났다.",
+  "key_fact_quote": "페이스파우더 수출이 2026년 3분기와 9월 모두 감소하며 부진했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

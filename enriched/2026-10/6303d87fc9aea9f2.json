@@ -1,0 +1,87 @@
+{
+ "doc_id": "6303d87fc9aea9f2",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312435",
+ "title": "[뷰티 신상] 가을 메이크업시장, '메이크업+케어' 하이브리드 경쟁",
+ "summary": "가을 메이크업 시즌을 앞두고 뷰티업계가 립과 아이 메이크업을 중심으로 신제품 경쟁에 돌입했다.다만 이번 시즌 신제품들의 특징은 단순한 색조 표현에 머물지 않고 메이크업 기능에 보습과 탄력, 피부 컨디셔닝 효과를 결합한 \\'하이브리드 뷰티(Hybrid Beauty)\\'를 내세우고 있다는 점이다. 스킨케어와 메이크업의 경계를 허무는 제품들이 잇따라 출시되며 가을 색조 시장 공략에 나서고 있다.마몽드는 틴트를 선보이며 립 메이크업과 보습 기능을 결합했다. 플라워 추출물과 시어버터, 세라마이드 등을 더해 편안한 사용감과 입술 케어 기능을 동시",
+ "published_at": "2026-10-26T09:40:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "마몽드",
+   "디오디너리",
+   "에뛰드"
+  ],
+  "companies": [],
+  "keywords": [
+   "하이브리드 뷰티",
+   "립 케어",
+   "메이크업과 스킨케어 결합"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "크리미 틴트 컬러 밤",
+    "brand": "마몽드",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "마몽드가 대표 립 제품 ‘크리미 틴트 컬러 밤’ 출시 10주년을 맞아 제형과 성분, 컬러를 업그레이드해 재출시했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "립 트리트먼트",
+    "brand": "디오디너리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번에 선보인 마몽드의 립밤과 디오디너리의 립 트리트먼트, 에뛰드의 아이 메이크업 제품 역시 이러한 흐름을 반영한 사례로 볼 수 있다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아이라이터",
+    "brand": "에뛰드",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번에 선보인 마몽드의 립밤과 디오디너리의 립 트리트먼트, 에뛰드의 아이 메이크업 제품 역시 이러한 흐름을 반영한 사례로 볼 수 있다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "가을 색조 신제품이 메이크업에 보습과 탄력 같은 케어 기능을 더한 하이브리드 뷰티를 내세운다.",
+  "key_fact_quote": "다만 이번 시즌 신제품들의 특징은 단순한 색조 표현에 머물지 않고 메이크업 기능에 보습과 탄력, 피부 컨디셔닝 효과를 결합한 '하이브리드 뷰티(Hybrid Beauty)'를 내세우고 있다는 점이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "플라워 추출물",
+    "quote": "플라워 추출물과 시어버터, 세라마이드 등을 더해 편안한 사용감과 입술 케어 기능을 동시에 구현했다."
+   },
+   {
+    "name": "시어버터",
+    "quote": "플라워 추출물과 시어버터, 세라마이드 등을 더해 편안한 사용감과 입술 케어 기능을 동시에 구현했다."
+   },
+   {
+    "name": "세라마이드",
+    "quote": "플라워 추출물과 시어버터, 세라마이드 등을 더해 편안한 사용감과 입술 케어 기능을 동시에 구현했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

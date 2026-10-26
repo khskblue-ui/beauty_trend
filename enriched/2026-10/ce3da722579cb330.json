@@ -1,0 +1,52 @@
+{
+ "doc_id": "ce3da722579cb330",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100260",
+ "title": "연구원, 글로벌 시장 동향 분석 세미나 개최",
+ "summary": "(재)대한화장품산업연구원(원장 조신행, 이하 '연구원')은 국내 화장품 기업의 해외 시장 진출 및 수출 경쟁력 강화를 지원하기 위해 오는 11월 26일(목), 서울 COEX 컨퍼런스룸 308호에서 '제16회 글로벌 화장품 시장 동향 분석 세미나'를 개최한다고 밝혔다.이번 세미나는 연구원이 올해 추진한 주요 기업지원 사업의 성과를 공유하고, 글로벌 화장품 시장 동향과 소비 트렌드, 주요 수출국의 규제 변화 및 대응 전략 등 국내 화장품 기업의 해외 진출에 필요한 정보를 종합적으로 제공하기 위해 마련됐다.세",
+ "published_at": "2026-10-26T12:53:49+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "해외 인허가 대응",
+   "포장 폐기물 규제"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대한화장품산업연구원이 해외 진출을 돕는 글로벌 시장 동향 세미나를 연다.",
+  "key_fact_quote": "오는 11월 26일(목), 서울 COEX 컨퍼런스룸 308호에서 '제16회 글로벌 화장품 시장 동향 분석 세미나'를 개최한다고 밝혔다.",
+  "events": [
+   {
+    "name": "제16회 글로벌 화장품 시장 동향 분석 세미나",
+    "start_date": "2026-11-26",
+    "end_date": null,
+    "place": "서울 COEX 컨퍼런스룸 308호",
+    "quote": "오는 11월 26일(목), 서울 COEX 컨퍼런스룸 308호에서 '제16회 글로벌 화장품 시장 동향 분석 세미나'를 개최한다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

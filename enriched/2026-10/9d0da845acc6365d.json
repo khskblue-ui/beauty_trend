@@ -1,0 +1,54 @@
+{
+ "doc_id": "9d0da845acc6365d",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/the-untold-story-of-garnier-micellar-cleansing-water",
+ "title": "The untold story of Garnier’s Micellar Cleansing Water",
+ "summary": "The L’Oréal-owned legacy beauty brand lifts the lid on how its 13-year-old Micellar Cleansing Water became, and has remained, a category-defining multipurpose skin care item in Cosmetics Business’ ‘Untold Story’ series",
+ "published_at": "2026-10-26T20:46:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [
+   "Garnier"
+  ],
+  "companies": [
+   "L’Oréal"
+  ],
+  "keywords": [
+   "미셀라 워터",
+   "멀티퍼포스 스킨케어",
+   "레거시 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Micellar Cleansing Water",
+    "brand": "Garnier",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "가르니에의 미셀라 클렌징 워터가 출시 이후 대표 멀티 스킨케어 제품으로 자리를 지켜 왔다.",
+  "key_fact_quote": "how its 13-year-old Micellar Cleansing Water became, and has remained, a category-defining multipurpose skin care item",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "77cb6ca2bf250c3e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoulfn.com/news/articleView.html?idxno=640968",
+ "title": "[ 뷰티 브리핑] 아모레퍼시픽, 재생에너지 산업발전 유공 대통령표창 수상...",
+ "summary": "아모레퍼시픽은 2021년 국내 뷰티 업계 최초로 글로벌 RE100에 가입한 뒤 재생전력 사용을 확대해 2025년 전사... 베이스'를 출시 했다. 신제품 은 피부 톤을 자연스럽게 보정하고 쿠션·컨실러 등 후속 메이크업 제품이...",
+ "published_at": "2026-10-26T13:45:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "RE100",
+   "재생에너지",
+   "ESG 경영"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "8c368eca1be19197",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

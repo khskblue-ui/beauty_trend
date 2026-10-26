@@ -1,0 +1,44 @@
+{
+ "doc_id": "daa5e187ed906d6f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498599",
+ "title": "남원 화장품 기업 5개사, '춘향미인' 통해 판로 확대",
+ "summary": "판매 현장에서 확보한 소비자 반응과 제품 선호도도 참여 기업에 제공해 신제품 개발과 마케팅 전략 수립에 활용하도록 지원한다. 양충모 남원시장은 \"지역 화장품 기업이 지속적으로 성장하려면 안정적인 판매망과...",
+ "published_at": "2026-10-26T17:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "춘향미인"
+  ],
+  "companies": [],
+  "keywords": [
+   "지역 화장품",
+   "판로 확대",
+   "소비자 반응"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "남원 화장품 기업들이 춘향미인을 통해 판로를 넓힌다.",
+  "key_fact_quote": "남원 화장품 기업 5개사, '춘향미인' 통해 판로 확대",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

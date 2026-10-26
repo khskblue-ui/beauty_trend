@@ -1,0 +1,47 @@
+{
+ "doc_id": "a0125e55076eb7a9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.babytimes.co.kr/news/articleView.html?idxno=74463",
+ "title": "CJ웰케어, 츄어블 이너 뷰티 신제품 '이너비 브이캔디' 출시",
+ "summary": "이너비 브이캔디 이미지 (사진=CJ웰케어) CJ웰케어가 일상 속 순환 밸런스 관리를 위한 츄어블 타입의 이너 뷰티 신제품 '이너비 브이캔디'를 출시 했다고 26일 밝혔다. '이너비 브이캔디'는 디오스민과 헤스페리딘을 함유한...",
+ "published_at": "2026-10-26T14:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이너비"
+  ],
+  "companies": [
+   "CJ웰케어"
+  ],
+  "keywords": [
+   "이너 뷰티",
+   "기능성 식품",
+   "식물 유래 성분"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "6346115642e2ac5f",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

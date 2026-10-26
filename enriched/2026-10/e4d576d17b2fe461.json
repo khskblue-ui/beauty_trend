@@ -1,0 +1,51 @@
+{
+ "doc_id": "e4d576d17b2fe461",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.venturesquare.net/1123009/",
+ "title": "슬록, ‘뷰티썸수원 2026’서 K-뷰티 기업 협업 특별관 운영…12개사 참...",
+ "summary": "출시 경험을 기반으로 제조 협력 기회를 모색한다. 패키징 분야에는 신일피비씨와 아폴로산업이 참여한다. 신일피비씨는 친환경 에어리스 분리용기를 중심으로 화장품 ...",
+ "published_at": "2026-10-26T20:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "400:포백",
+   "바오젠",
+   "위시포뮬러",
+   "포레드플로",
+   "포코블"
+  ],
+  "companies": [
+   "슬록"
+  ],
+  "keywords": [
+   "B2B 뷰티 전시회",
+   "K-뷰티 스타트업",
+   "비즈니스 밋업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "780e629420d78add",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}

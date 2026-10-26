@@ -1,0 +1,92 @@
+{
+ "doc_id": "5811e6fdcbcdcd1e",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/esxence-brings-30-italian-niche,28411",
+ "title": "Esxence brings 30 Italian niche fragrance brands to New York's AURA",
+ "summary": "Following its inaugural edition in 2025, the second edition of AURA took place at Aspire at One World Observatory in New York on October 22, 2026. Organized by Esxence - The Art Perfumery Event in partnership with the Italian Trade Agency (ITA), the invitation-only event brought together 30 Italian artistic perfumery brands to showcase their creations to US buyers, distributors, and media professionals. The selection, ranges from established names to new voices in independent perfumery,... - Industry buzz / North America",
+ "published_at": "2026-10-27T01:01:56+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "IT"
+  ],
+  "brands": [
+   "Acqua di Giulietta",
+   "In Astra",
+   "Ozmé",
+   "Giardini di Toscana",
+   "Accendis",
+   "L’Eau Maliz",
+   "WA:IT",
+   "Acqua di Sardegna Shardana Collection",
+   "Malva 1979",
+   "Carthusia I Profumi Di Capri",
+   "Nobile 1942",
+   "Agarthi",
+   "Farmacia SS Annunziata 1561",
+   "Les Folies Du Parfum",
+   "Jusbox Perfumes",
+   "Coreterno",
+   "Zavyla",
+   "Acqua dell’Elba",
+   "Parco1923",
+   "Xerjoff",
+   "Casamorati",
+   "Acqua di Portofino",
+   "Sikelia Parfums",
+   "Gianluca Gariboldi",
+   "Rito – Italian Artistic Perfumes",
+   "Lila Franklin",
+   "Ischia Ritual",
+   "Abaton",
+   "Rocco D’Orazio",
+   "Devertere"
+  ],
+  "companies": [
+   "Esxence",
+   "Italian Trade Agency"
+  ],
+  "keywords": [
+   "니치 향수",
+   "아티스틱 퍼퓸",
+   "미국 시장 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에센스가 뉴욕에서 이탈리아 아티스틱 향수 브랜드를 미국 바이어와 유통사에 소개했다.",
+  "key_fact_quote": "the invitation-only event brought together 30 Italian artistic perfumery brands to showcase their creations to US buyers, distributors, and media professionals.",
+  "events": [
+   {
+    "name": "AURA",
+    "start_date": "2026-10-22",
+    "end_date": null,
+    "place": "Aspire at One World Observatory in New York",
+    "quote": "Following its inaugural edition in 2025, the second edition of AURA took place at Aspire at One World Observatory in New York on October 22, 2026."
+   },
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": true
+}

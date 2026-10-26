@@ -1,0 +1,48 @@
+{
+ "doc_id": "c28ac4c076e22ca1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244475",
+ "title": "고기능성 제품으로 피부건강 꿈꾸는 중동유럽 뷰티시장, 한국기업 진출...",
+ "summary": "색조, 향수 등 트렌디 스킨케어 특화 ((메디큐브, 스킨1004 등 한국 브랜드 입점) Müller (크로아티아 및 슬로베니아 120여개 매장 운영) - 독일계 프리미엄 드럭스토어로 럭셔리 화장품, 유기농 제품 등 특화...",
+ "published_at": "2026-10-26T09:19:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "HR",
+   "SI"
+  ],
+  "brands": [
+   "메디큐브",
+   "스킨1004"
+  ],
+  "companies": [
+   "Müller"
+  ],
+  "keywords": [
+   "중동 유럽 진출",
+   "드럭스토어 입점",
+   "K-뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 뷰티 브랜드가 중동과 유럽 시장에 진출하고 있다.",
+  "key_fact_quote": "고기능성 제품으로 피부건강 꿈꾸는 중동유럽 뷰티시장, 한국기업 진출",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-26T21:40:04+00:00",
+ "had_body": false
+}
