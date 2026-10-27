@@ -1,0 +1,42 @@
+{
+ "doc_id": "f024fc4b8e7f3c6c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=621228",
+ "title": "아마존 행사서 K뷰티 미래 조명…윤상현 부회장 '100% 확신'",
+ "summary": "K뷰티 산업의 수출 실적이 꾸준히 증가하고 중소 브랜드의 약진이 두드러지면서, 업계에서는 K뷰티 가 일시적 유행을 넘어 지속 가능한 산업으로 자리 잡고 있다는 평가가 이어지고 있다. 올해 1~9월 화장품 수출 액은...",
+ "published_at": "2026-10-27T15:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 지속 성장",
+   "중소 브랜드",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티가 일시적 유행을 넘어 지속 가능한 산업이 되고 있다는 평가가 이어진다.",
+  "key_fact_quote": "K뷰티 산업의 수출 실적이 꾸준히 증가하고 중소 브랜드의 약진이 두드러지면서, 업계에서는 K뷰티 가 일시적 유행을 넘어 지속 가능한 산업으로 자리 잡고 있다는 평가가 이어지고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

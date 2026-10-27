@@ -1,0 +1,45 @@
+{
+ "doc_id": "156a80d050f82673",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/thebio/2026/10/27/2026102715091798707",
+ "title": "일동제약그룹, 기능성 피부관리 시장 진출…나인앤컴퍼니와 JV 설립",
+ "summary": "자체 개발한 마이크로바이옴 기반 화장품 원료에 나인앤컴퍼니의 브랜드 운영 및 마케팅 역량을 접목해... 순차적으로 출시 할 예정이다. 일동제약그룹의 소재 개발 및 연구개발 역량과 나인앤컴퍼니의 브랜드 운영...",
+ "published_at": "2026-10-27T15:17:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "일동제약그룹",
+   "나인앤컴퍼니"
+  ],
+  "keywords": [
+   "마이크로바이옴 화장품",
+   "기능성 스킨케어",
+   "합작법인"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "일동제약그룹이 나인앤컴퍼니와 합작사를 세워 기능성 피부관리 시장에 진출한다.",
+  "key_fact_quote": "자체 개발한 마이크로바이옴 기반 화장품 원료에 나인앤컴퍼니의 브랜드 운영 및 마케팅 역량을 접목해...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

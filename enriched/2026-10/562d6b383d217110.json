@@ -1,0 +1,55 @@
+{
+ "doc_id": "562d6b383d217110",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kr.aving.net/news/articleView.html?idxno=1816253",
+ "title": "큐라, 2026 푸드위크 코리아서 '먹는 젤리 스킨케어' 2종 소개... \"아침과...",
+ "summary": "영어권 크리에이터를 대상으로 제품 시딩을 진행하고 있으며 글로벌 SNS 계정도 운영 중으로, 2026 수출 붐업코리아에서는 해외 바이어 상담을 진행했다. 회사 관계자는 \"첫 해외 시장은 미국으로, K - 뷰티 스킨케어...",
+ "published_at": "2026-10-27T20:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "큐라"
+  ],
+  "keywords": [
+   "먹는 스킨케어",
+   "젤리 스킨케어",
+   "K뷰티 수출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "먹는 젤리 스킨케어",
+    "brand": "큐라",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "큐라가 푸드위크 코리아에서 먹는 젤리 스킨케어를 소개했다.",
+  "key_fact_quote": "큐라, 2026 푸드위크 코리아서 '먹는 젤리 스킨케어' 2종 소개",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

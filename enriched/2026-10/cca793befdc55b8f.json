@@ -1,0 +1,47 @@
+{
+ "doc_id": "cca793befdc55b8f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.greened.kr/news/articleView.html?idxno=353152",
+ "title": "피엠인터내셔널코리아, 'AI 피부 분석 솔루션' 공개... 뷰티 라인업 강화",
+ "summary": "최적의 '피트라인' 화장품 을 추천해 주는 솔루션이다. PMIK 측은 해당 솔루션 적용을 위해 '브라이트닝 포에버 라이트', '포에버 오버나이트 라이트', '포에버 인리치드' 등 뷰티 신제품 5종도 함께 선보였다. 행사에는...",
+ "published_at": "2026-10-27T15:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피트라인"
+  ],
+  "companies": [
+   "피엠인터내셔널코리아"
+  ],
+  "keywords": [
+   "AI 피부 분석",
+   "맞춤형 화장품",
+   "AI 스캐너"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "560a8a5f1f206339",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

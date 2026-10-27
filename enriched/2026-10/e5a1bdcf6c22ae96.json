@@ -1,0 +1,44 @@
+{
+ "doc_id": "e5a1bdcf6c22ae96",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279719",
+ "title": "저출산 위기 뚫고 성장하는 아기화장품 시장...몽디에스, 브랜드평판 1위...",
+ "summary": "아기화장품은 만 3세 이하 영유아가 사용하는 샴푸, 로션, 선크림 등을 포함하며 성인용 제품보다 자극이 적고 향료 사용을 최소화한 것이 특징이다. 브랜드평판지수는 소비자들의 온라인 습관이 구매에 미치는...",
+ "published_at": "2026-10-27T10:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "몽디에스"
+  ],
+  "companies": [],
+  "keywords": [
+   "아기화장품",
+   "저자극 화장품",
+   "브랜드평판"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "저출산 속에서도 아기화장품 시장이 자라고 몽디에스가 브랜드평판 1위에 올랐다",
+  "key_fact_quote": "아기화장품은 만 3세 이하 영유아가 사용하는 샴푸, 로션, 선크림 등을 포함하며 성인용 제품보다 자극이 적고 향료 사용을 최소화한 것이 특징이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

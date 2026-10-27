@@ -1,0 +1,45 @@
+{
+ "doc_id": "3deeced441c240a3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026102715022939938",
+ "title": "신화숙 아마존 대표 \"5명 중 4명은 K뷰티 안 사\"…유럽·헤어케어 공략",
+ "summary": "신 대표는 \"15년 전 미국 바이어에게 한국의 고가 화장품 을 선물했을 때만 해도 얼굴에 발라도 되는지... 신 대표는 이러한 성장의 배경으로 신제품 개발과 고객 접점 확대를 꼽았다. 그는 \"지난 2년간 신규 셀러의...",
+ "published_at": "2026-10-27T15:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존"
+  ],
+  "keywords": [
+   "K뷰티 해외 확장",
+   "헤어케어",
+   "유럽 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아마존 대표가 유럽 진출과 헤어케어 분야 공략 계획을 밝혔다",
+  "key_fact_quote": "신화숙 아마존 대표 \"5명 중 4명은 K뷰티 안 사\"…유럽·헤어케어 공략",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

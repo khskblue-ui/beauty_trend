@@ -1,0 +1,45 @@
+{
+ "doc_id": "4bc7b9f723a45476",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.venturesquare.net/1123451/",
+ "title": "“K-뷰티 성장 여력 여전히 크다”…아마존 신화숙 대표 “내년엔 더 큰...",
+ "summary": "한국 화장품 이 미국 시장에서 빠르게 영향력을 넓히고 있지만, K-뷰티를 구매하지 않은... 아마존은 지난해 말부터 일부 브랜드와 신제품 을 개발하거나 기존 제품을 재출시하며 시장...",
+ "published_at": "2026-10-27T17:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존"
+  ],
+  "keywords": [
+   "K뷰티 미국 진출",
+   "신제품 공동 개발",
+   "제품 재출시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아마존이 일부 브랜드와 신제품을 개발하거나 기존 제품을 재출시하며 시장을 키우고 있다.",
+  "key_fact_quote": "아마존은 지난해 말부터 일부 브랜드와 신제품 을 개발하거나 기존 제품을 재출시하며 시장...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

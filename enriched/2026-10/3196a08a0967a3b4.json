@@ -1,0 +1,46 @@
+{
+ "doc_id": "3196a08a0967a3b4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261027_0003842933",
+ "title": "[현장]아마존, K뷰티 '지속성장' 승부수…2027년 4대 프로젝트 가동",
+ "summary": "향후 3년간 K뷰티 선도 브랜드 7곳과 협력해 공동 사업 계획 수립부터 주문 처리, 가격 책정, 신제품 출시... 윤상현 한국콜마 부회장은 K뷰티의 경쟁력으로 새로운 브랜드가 끊임없이 등장하는 국내 화장품 산업 생태계와...",
+ "published_at": "2026-10-27T14:05:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존",
+   "한국콜마"
+  ],
+  "keywords": [
+   "K뷰티 글로벌 유통",
+   "K뷰티 지속성장",
+   "브랜드 육성"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아마존이 K뷰티 선도 브랜드와 협력해 신제품 출시까지 아우르는 사업 계획을 세운다",
+  "key_fact_quote": "향후 3년간 K뷰티 선도 브랜드 7곳과 협력해 공동 사업 계획 수립부터 주문 처리, 가격 책정, 신제품 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

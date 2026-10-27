@@ -1,0 +1,44 @@
+{
+ "doc_id": "d3d7fca082ea802e",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/nivea-sales-drag-down-beiersdorf-in-q3-2026",
+ "title": "Nivea sales drag down Beiersdorf in Q3 2026 amid Middle East war concerns",
+ "summary": "Beiersdorf’s hero skin care brand Nivea was impacted by temporary sell-in headwinds, which resulted in group net sales declining 1.3% to €2.4bn",
+ "published_at": "2026-10-27T21:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "DE"
+  ],
+  "brands": [
+   "Nivea"
+  ],
+  "companies": [
+   "Beiersdorf"
+  ],
+  "keywords": [
+   "스킨케어 실적"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "니베아의 일시적인 공급 부진으로 바이어스도르프 그룹 순매출이 줄었다",
+  "key_fact_quote": "Beiersdorf’s hero skin care brand Nivea was impacted by temporary sell-in headwinds, which resulted in group net sales declining 1.3% to €2.4bn",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

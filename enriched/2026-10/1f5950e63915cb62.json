@@ -1,0 +1,42 @@
+{
+ "doc_id": "1f5950e63915cb62",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312428",
+ "title": "중국,수입 화장품 시장 13% 증가…한국, 14.4억 위안 기록 - 뷰티경제",
+ "summary": "중국 화장품 수입시장이 8월에 이어 9월에도 두 자릿수 성장세를 이어가며 회복 흐름을 지속했다.뷰티경제가 중국 해관총서의 자료를 분석한 결과, 2026년 9월 화",
+ "published_at": "2026-10-27T14:20:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "중국 화장품 수입",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 화장품 수입 시장이 9월에도 두 자릿수 성장세를 이어갔다.",
+  "key_fact_quote": "중국 화장품 수입시장이 8월에 이어 9월에도 두 자릿수 성장세를 이어가며 회복 흐름을 지속했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

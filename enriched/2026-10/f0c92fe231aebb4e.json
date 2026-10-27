@@ -1,0 +1,55 @@
+{
+ "doc_id": "f0c92fe231aebb4e",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/lipotrue-introduces-three-new-biotechnological-actives-glintarine-red",
+ "title": "LipoTrue introduces three new biotechnological actives: Glintarine, Red Aternaliss and Kalizyme",
+ "summary": "At in-cosmetics Asia 2026, LipoTrue expands its portfolio with Glintarine, Red Aternaliss and Kalizyme, three new actives combining marine biotechnology, plant-based technologies and biomimetic science to address skin radiance, longevity and renewal. Discover them at booth V50",
+ "published_at": "2026-10-27T20:02:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "LipoTrue"
+  ],
+  "keywords": [
+   "바이오테크 원료",
+   "해양 바이오",
+   "피부 광채"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "LipoTrue가 해양 바이오와 식물 기술을 결합한 새 화장품 원료 세 종을 선보인다",
+  "key_fact_quote": "At in-cosmetics Asia 2026, LipoTrue expands its portfolio with Glintarine, Red Aternaliss and Kalizyme",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Glintarine",
+    "quote": "At in-cosmetics Asia 2026, LipoTrue expands its portfolio with Glintarine, Red Aternaliss and Kalizyme"
+   },
+   {
+    "name": "Red Aternaliss",
+    "quote": "At in-cosmetics Asia 2026, LipoTrue expands its portfolio with Glintarine, Red Aternaliss and Kalizyme"
+   },
+   {
+    "name": "Kalizyme",
+    "quote": "At in-cosmetics Asia 2026, LipoTrue expands its portfolio with Glintarine, Red Aternaliss and Kalizyme"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

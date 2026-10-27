@@ -1,0 +1,45 @@
+{
+ "doc_id": "e12ff4104de2aeb1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.abcn.kr/news/articleView.html?idxno=93677",
+ "title": "프롬더스킨, '피티 프라그란체 2026' 참가…유럽 뷰티 시장 공략 박차",
+ "summary": "ABC뉴스=김수찬 기자 / 국내 스킨케어 브랜드 프롬더스킨이 이탈리아 피렌체에서 열린 세계적인 니치 향수 ·뷰티 박람회 '2026 피티 프라그란체(Pitti Fragranze)'에 참가해 제품을 소개하고 유럽 시장 진출 확대에...",
+ "published_at": "2026-10-27T18:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "IT",
+   "KR"
+  ],
+  "brands": [
+   "프롬더스킨"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "뷰티 박람회",
+   "유럽 시장 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 스킨케어 브랜드 프롬더스킨이 이탈리아 니치 향수 박람회에 참가했다.",
+  "key_fact_quote": "국내 스킨케어 브랜드 프롬더스킨이 이탈리아 피렌체에서 열린 세계적인 니치 향수 ·뷰티 박람회 '2026 피티 프라그란체(Pitti Fragranze)'에 참가해 제품을 소개하고 유럽 시장 진출 확대에...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

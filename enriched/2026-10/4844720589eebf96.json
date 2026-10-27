@@ -1,0 +1,57 @@
+{
+ "doc_id": "4844720589eebf96",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sateconomy.co.kr/news/view/1065602129807526",
+ "title": "아모레퍼시픽·LG생활건강, 연말 뷰티 경쟁의 승부처 바뀐다…한정판·...",
+ "summary": "LG생활건강은 신제품 출시와 함께 장수제품의 판매 기반을 강화하고 있다. 더마 화장품 브랜드 피지오겔의 '사이언수티컬즈 데일리뮨 앰플'은 2021년 5월 출시 이후 누적 출하량 200만병을 넘어섰다. 지난 9월 올리브영...",
+ "published_at": "2026-10-27T18:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피지오겔"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "LG생활건강"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "한정판",
+   "장수 제품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "사이언수티컬즈 데일리뮨 앰플",
+    "brand": "피지오겔",
+    "launch_date": "2021-05",
+    "launch_status": "unknown",
+    "launch_quote": "더마 화장품 브랜드 피지오겔의 '사이언수티컬즈 데일리뮨 앰플'은 2021년 5월 출시 이후 누적 출하량 200만병을 넘어섰다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "LG생활건강이 신제품과 함께 장수 제품의 판매 기반도 강화하고 있다.",
+  "key_fact_quote": "LG생활건강은 신제품 출시와 함께 장수제품의 판매 기반을 강화하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

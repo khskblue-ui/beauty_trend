@@ -1,0 +1,49 @@
+{
+ "doc_id": "46bc505c1b9da435",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=311815",
+ "title": "기술 중심 K-뷰티 부상…수용성 실리카 스킨케어로 해외시장 공략 - 뷰티경제",
+ "summary": "30년 이상 특수화학·산업소재 사업을 해온 우정산업사(Woojeong Ind. Inc. 대표 현자희)가 기술력을 기반으로 글로벌 스킨케어 시장에 진입한다.1994",
+ "published_at": "2026-10-27T14:15:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "우정산업사"
+  ],
+  "keywords": [
+   "수용성 실리카",
+   "K뷰티 기술",
+   "스킨케어 소재"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "우정산업사가 수용성 실리카 스킨케어로 해외 시장에 나선다",
+  "key_fact_quote": "기술 중심 K-뷰티 부상…수용성 실리카 스킨케어로 해외시장 공략 - 뷰티경제",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "수용성 실리카",
+    "quote": "기술 중심 K-뷰티 부상…수용성 실리카 스킨케어로 해외시장 공략 - 뷰티경제"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

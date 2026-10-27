@@ -1,0 +1,43 @@
+{
+ "doc_id": "a8f82c12aced3f26",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=766889",
+ "title": "윤상현 콜마그룹 부회장, \" K뷰티 성장 원동력은 새로운 브랜드의 끊임없...",
+ "summary": "실제 K - 뷰티 의 글로벌 시장 성장세도 이어지고 있다. 해외 뷰티 전문매체 뷰티 매터에 따르면 올해 8월 기준... 식품의약품안전처에 따르면 올해 3분기 누적 국내 화장품 수출 액은 111억 달러(한화 약 14조7000억 원)로 전년...",
+ "published_at": "2026-10-27T14:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "콜마그룹"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "신규 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티의 글로벌 시장 성장세가 이어지고 있다.",
+  "key_fact_quote": "실제 K - 뷰티 의 글로벌 시장 성장세도 이어지고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

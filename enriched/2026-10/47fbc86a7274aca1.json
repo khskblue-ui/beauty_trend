@@ -1,0 +1,45 @@
+{
+ "doc_id": "47fbc86a7274aca1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.00news.co.kr/news/articleView.html?idxno=107503",
+ "title": "한국콜마 윤상현, K뷰티 향한 이유있는 자신감",
+ "summary": "아이디어만 있으면 누구나 브랜드를 만들고 해외로 나갈 수 있는 산업 생태계가 K뷰티 의 힘이라는 것이다. 다만 수출 이 미국 한 곳으로 빠르게 쏠리고 국내 시장의 브랜드 경쟁이 갈수록 치열해지는 점은 앞으로 풀어야...",
+ "published_at": "2026-10-27T15:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K뷰티 성장",
+   "수출 쏠림",
+   "브랜드 경쟁"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국콜마 부회장이 K뷰티 성장의 근거를 설명하며 수출의 미국 쏠림을 과제로 꼽았다.",
+  "key_fact_quote": "다만 수출 이 미국 한 곳으로 빠르게 쏠리고 국내 시장의 브랜드 경쟁이 갈수록 치열해지는 점은 앞으로 풀어야...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

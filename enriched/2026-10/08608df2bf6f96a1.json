@@ -1,0 +1,42 @@
+{
+ "doc_id": "08608df2bf6f96a1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=202996",
+ "title": "4조5,000억 다단계 시장, 디지털 전환으로 돌파구 찾아야 [최기자의 뷰티 ...",
+ "summary": "K - 뷰티 가 세계 화장품 수출 2위 국가로 성장하며 글로벌 시장의 주목을 받고 있다. 하지만 숫자는 성장의 결과를 보여줄 뿐 산업의 미래까지 설명하지는 못한다. '최기자의 뷰티 인사이드'를 통해 기자의 시선으로...",
+ "published_at": "2026-10-27T23:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "다단계 화장품",
+   "디지털 전환",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티가 수출 강국으로 성장했지만 다단계 시장은 디지털 전환이 필요하다",
+  "key_fact_quote": "K - 뷰티 가 세계 화장품 수출 2위 국가로 성장하며 글로벌 시장의 주목을 받고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

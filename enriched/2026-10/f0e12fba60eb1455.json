@@ -1,0 +1,45 @@
+{
+ "doc_id": "f0e12fba60eb1455",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610271626324580399",
+ "title": "아마존, K뷰티 셀러 대상 4대 지원 프로젝트 발표",
+ "summary": "셀러 뷰티 매출 증가율이 미국 스토어를 웃돌았다. 식품의약품안전처가 집계한 상반기 화장품 수출 액이... 신화숙 아마존 글로벌셀링 코리아 대표는 “ K - 뷰티 는 일시적인 트렌드를 넘어 하나의 글로벌 산업으로 자리...",
+ "published_at": "2026-10-27T16:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존"
+  ],
+  "keywords": [
+   "K뷰티 글로벌 유통",
+   "셀러 지원",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아마존이 K뷰티 셀러를 위한 지원 프로젝트를 발표했다",
+  "key_fact_quote": "아마존, K뷰티 셀러 대상 4대 지원 프로젝트 발표",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

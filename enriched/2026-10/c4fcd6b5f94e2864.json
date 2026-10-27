@@ -1,0 +1,42 @@
+{
+ "doc_id": "c4fcd6b5f94e2864",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.vogue.co.kr/2026/10/27/%ea%b0%80%ec%9e%a5-%eb%b9%a0%eb%a5%b4%ea%b2%8c-%ec%a7%84%ed%99%94%ed%95%9c-%ec%8a%a4%ed%82%a8%ec%bc%80%ec%96%b4%ec%9d%98-%ec%a4%91%ec%8b%ac-%ec%84%b8%eb%9f%bc/?utm_source=naver&utm_medium=partnership",
+ "title": "가장 빠르게 진화한 스킨케어의 중심, 세럼",
+ "summary": "화장품 에서 유효 성분이 좋다는 것만으로는 이야기가 끝나지 않는다. 특히 분자가 크거나 쉽게 변질되는... Back to Life 실시간 신제품 을 자주 쓰다 보니 피부가 예민해지는 순간도 적지 않다. 어느 날에는 평소 잘 쓰던...",
+ "published_at": "2026-10-27T10:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "세럼",
+   "유효 성분",
+   "스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "세럼은 유효 성분이 좋은 것만으로는 부족하고 성분의 안정성과 전달이 중요하다",
+  "key_fact_quote": "화장품 에서 유효 성분이 좋다는 것만으로는 이야기가 끝나지 않는다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "33914252e4e3e212",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1418814",
+ "title": "[현장] \"K뷰티 성장 더 키운다\"…아마존, 유럽 공략 등 '4대 프로젝트' ...",
+ "summary": "아마존은 향후 3년간 K뷰티 선도 브랜드 7개사와 협력해 주문 처리와 가격 전략, 신제품 출시, 마케팅 등을... 유럽은 국가별 세무 등록과 제품 인증, 규제 준수, 다국어 상품 등록 등이 필요해 국내 중소 화장품 기업들이...",
+ "published_at": "2026-10-27T14:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존"
+  ],
+  "keywords": [
+   "K뷰티 유럽 진출",
+   "선도 브랜드 협력",
+   "규제 준수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아마존이 선도 브랜드와 협력해 운영 모델을 만들고 유럽 진출의 부담을 줄이려 한다.",
+  "key_fact_quote": "아마존은 향후 3년간 K뷰티 선도 브랜드 7개사와 협력해 주문 처리와 가격 전략, 신제품 출시, 마케팅 등을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

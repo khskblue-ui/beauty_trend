@@ -1,0 +1,56 @@
+{
+ "doc_id": "d5213d4ba93e436b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://economist.co.kr/article/view/ecn202610270027",
+ "title": "브랜디노, 신규 뷰티 브랜드 ‘소르블’ 11월 론칭 …버블 선크림 리뷰 ...",
+ "summary": "신규 뷰티 브랜드 ‘소르블(Sorble)’ 공식 론칭 을 앞두고 첫 제품인 ‘버블 선크림’ 리뷰 영상을 공개하며 사전 마케팅에 나섰다. 지난 21일 유튜브 채널 ‘이너홈’의 뷰티 콘텐츠 ‘워너비 인 뷰티 라이프’를 통해...",
+ "published_at": "2026-10-27T13:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "소르블"
+  ],
+  "companies": [
+   "브랜디노"
+  ],
+  "keywords": [
+   "선크림",
+   "신규 뷰티 브랜드",
+   "사전 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "버블 선크림",
+    "brand": "소르블",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "신규 뷰티 브랜드 ‘소르블(Sorble)’ 공식 론칭 을 앞두고 첫 제품인 ‘버블 선크림’ 리뷰 영상을 공개하며 사전 마케팅에 나섰다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "브랜디노가 신규 브랜드 소르블의 첫 제품 버블 선크림 리뷰 영상을 공개했다",
+  "key_fact_quote": "신규 뷰티 브랜드 ‘소르블(Sorble)’ 공식 론칭 을 앞두고 첫 제품인 ‘버블 선크림’ 리뷰 영상을 공개하며 사전 마케팅에 나섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

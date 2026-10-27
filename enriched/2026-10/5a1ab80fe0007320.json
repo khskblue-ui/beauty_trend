@@ -1,0 +1,59 @@
+{
+ "doc_id": "5a1ab80fe0007320",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/thea-care-the-dermatologist-built,28423",
+ "title": "Thea Care: The dermatologist-built AI closing skincare's advice gap",
+ "summary": "A shopper clicks on a skincare ad, lands on a page with 40 products and no one to ask. Most leave the shop without buying. Those who buy pick one product instead of a routine, and if it's the wrong one, they don't come back. Thea Care, a Berlin-based company, gives skincare brands the advisor their online shop is missing: a dermatologist-built AI skin analysis that runs under the brand's own name. Three ways skincare brands lose the sale online Skincare doesn't have a traffic problem... - Companies & industry / publi-redac",
+ "published_at": "2026-10-27T08:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "DE",
+   "NL",
+   "AT",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "Thea Care",
+   "Weleda",
+   "Dr. Emi",
+   "The Body Shop",
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "AI 피부 분석",
+   "맞춤 루틴 추천",
+   "온라인 스킨케어 상담"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "Thea Care는 피부과 전문의가 만든 AI 피부 분석을 브랜드 온라인 매장에 제공한다.",
+  "key_fact_quote": "Thea Care, a Berlin-based company, gives skincare brands the advisor their online shop is missing: a dermatologist-built AI skin analysis that runs under the brand's own name.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": true
+}

@@ -1,0 +1,72 @@
+{
+ "doc_id": "d4c42b521d0a5345",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoulfn.com/news/articleView.html?idxno=641139",
+ "title": "[ 뷰티 브리핑] 피지오겔, '데일리뮨 앰플' 누적 200만병 판매 외",
+ "summary": "정샘물 뷰티 , 아마존 글로벌 다큐 '라이징 스타' 시즌3 출연 정샘물 뷰티 는 아마존 광고의 글로벌... 소비자와의 접점을 넓혔으며, 미국 전용 제품인 'PDRN 세럼 스킨틴트'는 출시 직후 신제품 인기 순위 톱10에 진입했다.",
+ "published_at": "2026-10-27T17:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "피지오겔",
+   "정샘물 뷰티"
+  ],
+  "companies": [
+   "아마존"
+  ],
+  "keywords": [
+   "K뷰티 글로벌 유통",
+   "PDRN 화장품",
+   "더마 화장품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "데일리뮨 앰플",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PDRN 세럼 스킨틴트",
+    "brand": "정샘물 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "미국 전용 제품인 'PDRN 세럼 스킨틴트'는 출시 직후 신제품 인기 순위 톱10에 진입했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "정샘물 뷰티가 아마존 다큐에 출연했고 미국 전용 신제품이 인기 순위 상위권에 들었다",
+  "key_fact_quote": "미국 전용 제품인 'PDRN 세럼 스킨틴트'는 출시 직후 신제품 인기 순위 톱10에 진입했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "미국 전용 제품인 'PDRN 세럼 스킨틴트'는 출시 직후 신제품 인기 순위 톱10에 진입했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

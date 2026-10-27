@@ -1,0 +1,44 @@
+{
+ "doc_id": "c4230bc7580fd695",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/industry/2026/10/27/2026102714162463839",
+ "title": "쿼드비, '테크크런치 디스럽트 2026' 참가…글로벌 뷰티 패키징 시장 진...",
+ "summary": "디스트리뷰션 테크 기업 및 인도 향수 기업과는 후속 데모 진행과 현지 유통 협력 방안을 논의했으며, 이를 통해 쿼드비는 화장품 용기 제조사와 브랜드 사 간 용기 탐색 및 주문 과정을 간소화하는 디지털 솔루션의...",
+ "published_at": "2026-10-27T17:33:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "쿼드비"
+  ],
+  "keywords": [
+   "뷰티 패키징",
+   "화장품 용기",
+   "디지털 솔루션"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "쿼드비가 화장품 용기 탐색과 주문 과정을 간소화하는 디지털 솔루션으로 해외 시장을 두드렸다",
+  "key_fact_quote": "이를 통해 쿼드비는 화장품 용기 제조사와 브랜드 사 간 용기 탐색 및 주문 과정을 간소화하는 디지털 솔루션의",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

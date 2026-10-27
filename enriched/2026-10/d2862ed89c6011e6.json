@@ -1,0 +1,44 @@
+{
+ "doc_id": "d2862ed89c6011e6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.dealsitetv.com/articles/177548",
+ "title": "아마존, K-뷰티 해외 진출 지원…4대 프로젝트 가동",
+ "summary": "향후 3년간 국내 주요 뷰티 브랜드 7개사와 공동 사업 계획을 수립하고 주문 처리, 가격 책정, 신제품 출시... 국내 화장품 수출도 성장세를 이어가고 있다. 식품의약품안전처에 따르면 올해 상반기 화장품 수출액은 전년...",
+ "published_at": "2026-10-27T13:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존"
+  ],
+  "keywords": [
+   "K뷰티 해외 진출",
+   "공동 사업 계획"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아마존이 K뷰티 해외 진출을 돕는 4대 프로젝트를 가동한다",
+  "key_fact_quote": "아마존, K-뷰티 해외 진출 지원…4대 프로젝트 가동",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

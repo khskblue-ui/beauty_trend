@@ -1,0 +1,56 @@
+{
+ "doc_id": "5f536739ab9ae1f9",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/color-cosmetics/valentino-launches-first-haute-beaute-product-china-1239387646/",
+ "title": "EXCLUSIVE: Valentino Is Launching in China Its First Haute Beauté Product",
+ "summary": "The limited-edition Haute Beauté Go-Cushion Glow is launching in the brand’s flagship in Shanghai’s Xintiandi neighborhood.",
+ "published_at": "2026-10-28T04:02:22+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "CN"
+  ],
+  "brands": [
+   "Valentino"
+  ],
+  "companies": [
+   "Valentino"
+  ],
+  "keywords": [
+   "하이 뷰티",
+   "한정판 쿠션",
+   "플래그십 스토어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Haute Beauté Go-Cushion Glow",
+    "brand": "Valentino",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "The limited-edition Haute Beauté Go-Cushion Glow is launching in the brand’s flagship in Shanghai’s Xintiandi neighborhood.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "발렌티노가 중국에서 첫 오트 뷰테 제품을 선보인다.",
+  "key_fact_quote": "EXCLUSIVE: Valentino Is Launching in China Its First Haute Beauté Product",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

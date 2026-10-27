@@ -1,0 +1,41 @@
+{
+ "doc_id": "48b0a94514f95310",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312427",
+ "title": "China’s Cosmetics Exports Surge 47% in September as Global Expansion Accelerates - 뷰티경제",
+ "summary": "China's cosmetics industry continues to strengthen its position in international markets,",
+ "published_at": "2026-10-27T14:20:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "중국 화장품 수출",
+   "해외 시장 확대"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 화장품 수출이 크게 늘었다.",
+  "key_fact_quote": "China's cosmetics industry continues to strengthen its position in international markets,",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

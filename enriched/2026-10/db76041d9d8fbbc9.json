@@ -1,0 +1,41 @@
+{
+ "doc_id": "db76041d9d8fbbc9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dailian.co.kr/news/view/1706649/?sc=Naver",
+ "title": "' K - 뷰티 ' 날개 단 바이오헬스 수출 …올해 3분기 '역대 최대'",
+ "summary": "올해 3분기 국내 바이오헬스산업 누적 수출 액이 K - 뷰티 날개를 달고 역대 최대 실적을 달성했다. 기초 화장품, 보툴리눔 톡신은 물론 미용 목적의 의료기기까지 가파르게 성장한 영향이다. 한국보건산업진흥원은...",
+ "published_at": "2026-10-27T11:29:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "바이오헬스 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올해 3분기 바이오헬스 수출이 K뷰티 덕에 역대 최대 실적을 냈다.",
+  "key_fact_quote": "올해 3분기 국내 바이오헬스산업 누적 수출 액이 K - 뷰티 날개를 달고 역대 최대 실적을 달성했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

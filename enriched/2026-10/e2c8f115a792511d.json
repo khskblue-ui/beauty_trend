@@ -1,0 +1,54 @@
+{
+ "doc_id": "e2c8f115a792511d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.segyebiz.com/newsView/20261027513100?OutUrl=naver",
+ "title": "펜할리곤스, 더현대 서울 팝업 마련… 향수 ·바디·홈 제품 한자리에",
+ "summary": "George)’ 향수 를 비롯해 현장에 전시된 다양한 제품을 경험했다. 팝업에서는 2026 홀리데이 컬렉션의 단독 선판매도 진행한다. 정식 출시 일은 11월 1일로 예정돼 있으며 행사 방문객은 그보다 앞서 연말 시즌 제품을...",
+ "published_at": "2026-10-27T15:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "펜할리곤스"
+  ],
+  "companies": [],
+  "keywords": [
+   "팝업스토어",
+   "홀리데이 컬렉션",
+   "홈 프래그런스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "2026 홀리데이 컬렉션",
+    "brand": "펜할리곤스",
+    "launch_date": "2026-11-01",
+    "launch_status": "upcoming",
+    "launch_quote": "정식 출시 일은 11월 1일로 예정돼 있으며 행사 방문객은 그보다 앞서 연말 시즌 제품을...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "펜할리곤스가 더현대 서울 팝업에서 홀리데이 컬렉션을 먼저 판매한다",
+  "key_fact_quote": "팝업에서는 2026 홀리데이 컬렉션의 단독 선판매도 진행한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

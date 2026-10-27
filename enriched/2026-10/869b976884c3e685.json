@@ -1,0 +1,55 @@
+{
+ "doc_id": "869b976884c3e685",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.marieclairekorea.com/beauty/2026/10/lip-balm-2/?utm_source=naver&utm_medium=partnership",
+ "title": "가을 칼바람 막아줄 촉촉한 뷰티템, 림밤 추천ㅣ마리끌레르",
+ "summary": "속속 출시 되고 있습니다. 건조한 환절기, 당신의 입술에 생기를 불어넣어 줄 립밤을 추천합니다. 프라다... ㅤ 논픽션 ‘빈티지 로즈 비건 립 앤 치크 밤’ 볼과 입술에 물드는 수채화 생기 감각적인 향수 로 굳건한 팬덤을...",
+ "published_at": "2026-10-27T08:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "논픽션",
+   "프라다"
+  ],
+  "companies": [],
+  "keywords": [
+   "립밤",
+   "비건 뷰티",
+   "환절기 보습"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "빈티지 로즈 비건 립 앤 치크 밤",
+    "brand": "논픽션",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "환절기 입술 보습용 립밤 제품들을 소개했다",
+  "key_fact_quote": "건조한 환절기, 당신의 입술에 생기를 불어넣어 줄 립밤을 추천합니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

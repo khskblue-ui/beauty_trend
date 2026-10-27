@@ -1,0 +1,44 @@
+{
+ "doc_id": "13aef40d822c016c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsprime.co.kr/news/article.html?no=752558",
+ "title": "국내까지 파고든 '짝퉁 K뷰티 '…관세청, 해외 세관과 차단망 확대",
+ "summary": "해외에서 제조된 K뷰티 위조품이 국내 온라인 오픈마켓까지 파고들면서 관세청이 국경단계 차단망 확대에 나선다. 한국 브랜드를 모방한 상품의 수출 입을 막기 위해 해외 세관과 합동단속을 추진하고, 지식재산권 보호를...",
+ "published_at": "2026-10-27T14:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "관세청"
+  ],
+  "keywords": [
+   "K뷰티 위조품",
+   "국경 단속",
+   "지식재산권 보호"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "관세청이 K뷰티 위조품 차단을 위해 해외 세관과 합동 단속을 추진한다.",
+  "key_fact_quote": "해외에서 제조된 K뷰티 위조품이 국내 온라인 오픈마켓까지 파고들면서 관세청이 국경단계 차단망 확대에 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

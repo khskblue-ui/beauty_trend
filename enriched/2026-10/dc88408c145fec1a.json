@@ -1,0 +1,45 @@
+{
+ "doc_id": "dc88408c145fec1a",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/sephora-unveils-seth-rogen-as-2026-holiday-campaign-star",
+ "title": "Sephora unveils Seth Rogen as 2026 holiday campaign star following ‘Sethphora’ marketing stunt",
+ "summary": "Sephora US and Canada has partnered with comedic actor Seth Rogen on its 2026 ‘We All Sephora’ Christmas campaign following the retailer’s recent guerrilla marketing stunt, aiming to make beauty gifting ‘more approachable, personal and fun’",
+ "published_at": "2026-10-27T21:29:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "CA"
+  ],
+  "brands": [
+   "Sephora"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 캠페인",
+   "뷰티 선물",
+   "리테일 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "세포라가 배우 세스 로건과 연말 선물 캠페인을 함께한다",
+  "key_fact_quote": "Sephora US and Canada has partnered with comedic actor Seth Rogen on its 2026 ‘We All Sephora’ Christmas campaign",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

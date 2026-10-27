@@ -1,0 +1,43 @@
+{
+ "doc_id": "eca549497c30f73f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1418771",
+ "title": "[현장] \" K뷰티 성공 계속된다\"…윤상현 콜마 부회장, 산업 경쟁력 자신...",
+ "summary": "2026)'에서 ' K뷰티 는 지속 가능한가?( K -Beauty Sustainable?)'를 주제로 축사에 나서 이같이 말했다. 그는 \"최근 가장... 식품의약품안전처에 따르면 지난해 한국 화장품 수출 액은 114억 달러로 역대 최대를 기록했다. 올해는...",
+ "published_at": "2026-10-27T11:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "콜마"
+  ],
+  "keywords": [
+   "K뷰티 지속가능성",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "콜마 부회장이 K뷰티 산업 경쟁력에 자신감을 밝혔다",
+  "key_fact_quote": "[현장] \" K뷰티 성공 계속된다\"…윤상현 콜마 부회장, 산업 경쟁력 자신...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

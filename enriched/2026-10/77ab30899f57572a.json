@@ -1,0 +1,44 @@
+{
+ "doc_id": "77ab30899f57572a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211933",
+ "title": "펜할리곤스 더현대 서울서 팝업 오픈 향수 체험 확대",
+ "summary": "11월 1일 정식 출시 를 앞둔 제품군을 단독 선판매하며, 향수 와 바디, 홈 프래그런스 기프트 등 다양한 구성을 소개한다. 선물 세트별 구매 혜택과 기프트 래핑 서비스도 운영한다. 방문객은 제품의 향조와 특징을...",
+ "published_at": "2026-10-27T16:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "펜할리곤스"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 팝업",
+   "홈 프래그런스",
+   "연말 선물 세트"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "펜할리곤스가 더현대 서울에서 향수 팝업을 열고 정식 출시 전 제품을 먼저 판매한다.",
+  "key_fact_quote": "11월 1일 정식 출시 를 앞둔 제품군을 단독 선판매하며, 향수 와 바디, 홈 프래그런스 기프트 등 다양한 구성을 소개한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

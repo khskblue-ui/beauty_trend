@@ -1,0 +1,45 @@
+{
+ "doc_id": "6c6b7f41097e2102",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=334325",
+ "title": "일동제약그룹·나인앤컴퍼니, 뷰티·헬스케어 합작법인 ‘아이디나인’...",
+ "summary": "최근 글로벌 화장품 산업은 단순한 외적 미용을 강조하던 과거의 트렌드에서 벗어나, 근본적인 피부 장벽... 스킨케어 신제품 라인업을 순차적으로 시장에 선보일 계획이다.일동제약그룹 관계자는 “일동이 오랜 시간...",
+ "published_at": "2026-10-27T10:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "일동제약그룹",
+   "나인앤컴퍼니"
+  ],
+  "keywords": [
+   "뷰티 헬스케어",
+   "피부 장벽",
+   "합작법인"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "일동제약그룹과 나인앤컴퍼니가 뷰티와 헬스케어 합작법인 아이디나인을 세운다",
+  "key_fact_quote": "일동제약그룹·나인앤컴퍼니, 뷰티·헬스케어 합작법인 ‘아이디나인’...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

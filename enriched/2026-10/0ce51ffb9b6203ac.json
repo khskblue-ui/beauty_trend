@@ -1,0 +1,45 @@
+{
+ "doc_id": "0ce51ffb9b6203ac",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newspim.com/news/view/20261027001045",
+ "title": "\"K뷰티, 지속성 중요\"…아마존, 4대 전략으로 K뷰티 더 키운다",
+ "summary": "한국 화장품 의 인기가 일시적 유행에 그치지 않고 오래 유지되도록 입점 첫해부터 해외 사업 확장까지... 2027년 신규 셀러 50곳 입점과 신제품 200종 확보가 목표다. 신 대표는 \"샴푸와 컨디셔너로 머리를 감던 시절에서...",
+ "published_at": "2026-10-27T15:07:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존"
+  ],
+  "keywords": [
+   "아마존",
+   "K뷰티 해외 진출",
+   "신규 셀러 입점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아마존이 K뷰티 신규 셀러 입점과 신제품 확보를 목표로 세웠다.",
+  "key_fact_quote": "2027년 신규 셀러 50곳 입점과 신제품 200종 확보가 목표다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

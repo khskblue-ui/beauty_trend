@@ -1,0 +1,45 @@
+{
+ "doc_id": "d626aea18e107530",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53795",
+ "title": "AI 가짜 전문가까지 동원…화장품 부당광고 72건 적발",
+ "summary": "AI가 만든 가짜 전문가가 화장품을 추천하고, 의약품처럼 효능을 내세우는 부당광고가 유튜브에서 무더기로 적발됐다. 한국소비자원(원장 윤수현)은 지난 해 10월부터 올해 6월까지 9개월 동안 유튜브 광고를 모니터링했다. 광고 점검 결과 인공지능으로 생성한 가짜 전문가 광고와 기만적인 전후 비교 광고…",
+ "published_at": "2026-10-27T18:09:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국소비자원",
+   "구글"
+  ],
+  "keywords": [
+   "화장품 부당광고",
+   "AI 가짜 전문가",
+   "화장품법 개정"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국소비자원이 유튜브에서 AI로 만든 가짜 전문가를 내세운 화장품 부당광고를 적발했다",
+  "key_fact_quote": "AI가 만든 가짜 전문가가 화장품을 추천하고, 의약품처럼 효능을 내세우는 부당광고가 유튜브에서 무더기로 적발됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": true
+}

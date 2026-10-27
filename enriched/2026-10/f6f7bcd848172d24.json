@@ -1,0 +1,47 @@
+{
+ "doc_id": "f6f7bcd848172d24",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=209540",
+ "title": "피엠인터내셔널코리아, AI 피부 분석으로 뷰티 사업 확장",
+ "summary": "뷰티 신제품 을 공개했다. 회사에 따르면 행사에는 현장 참가자 8000명이 참석했으며 온라인 라이브 누적... 이번에 선보인 AI 스캐너는 전용 앱에서 얼굴을 촬영하면 피부 상태를 분석하고 피트라인 화장품 을 추천하는...",
+ "published_at": "2026-10-27T17:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피트라인"
+  ],
+  "companies": [
+   "피엠인터내셔널코리아"
+  ],
+  "keywords": [
+   "AI 피부 분석",
+   "맞춤형 화장품",
+   "AI 스캐너"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "560a8a5f1f206339",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

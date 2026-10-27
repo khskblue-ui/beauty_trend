@@ -1,0 +1,45 @@
+{
+ "doc_id": "ac3d8f2c40c65a47",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/skin-care/medicube-cerave-skin-care-brands-k-beauty-1239381886/",
+ "title": "Korean Brands Now Account for a Quarter of Skin Care VIT",
+ "summary": "Data from Traackr shows that in the U.S., nearly one-fourth of online skin care buzz during the third quarter was driven by and about K-beauty brands.",
+ "published_at": "2026-10-27T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Traackr"
+  ],
+  "keywords": [
+   "K뷰티",
+   "소셜 버즈",
+   "스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 온라인 스킨케어 화제에서 한국 브랜드가 큰 비중을 차지했다",
+  "key_fact_quote": "Data from Traackr shows that in the U.S., nearly one-fourth of online skin care buzz during the third quarter was driven by and about K-beauty brands.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

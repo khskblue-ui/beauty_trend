@@ -1,0 +1,52 @@
+{
+ "doc_id": "dd6bc2dcb538ab8a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065615844837478",
+ "title": "기술 일동제약·브랜드 나인앤컴퍼니 '맞손'…뷰티 합작 기업 출범",
+ "summary": "프로바이오틱스·마이크로바이옴 연구를 통해 축적한 기술을 화장품 원료와 완제품으로 연결하는 것이 아이디나인의 초기 사업 과제가 될 전망이다. 제품 출시 일정도 제시했다. 아이디나인은 세라글로우를 활용한...",
+ "published_at": "2026-10-27T21:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "일동제약",
+   "나인앤컴퍼니",
+   "아이디나인"
+  ],
+  "keywords": [
+   "마이크로바이옴 화장품",
+   "프로바이오틱스",
+   "합작법인",
+   "더마 스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "일동제약과 나인앤컴퍼니가 뷰티 합작 기업을 출범시켰다.",
+  "key_fact_quote": "기술 일동제약·브랜드 나인앤컴퍼니 '맞손'…뷰티 합작 기업 출범",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라글로우",
+    "quote": "아이디나인은 세라글로우를 활용한..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

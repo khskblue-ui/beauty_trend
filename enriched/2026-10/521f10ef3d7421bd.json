@@ -1,0 +1,56 @@
+{
+ "doc_id": "521f10ef3d7421bd",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/skin-care/dove-cameron-curology-skin-care-line-1239381828/",
+ "title": "Curology Taps Dove Cameron to Create Nonprescription Skin Care Brand",
+ "summary": "The line will include three drops, starting with the first collection, Ethereal Glow, which is available now.",
+ "published_at": "2026-10-27T13:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Curology"
+  ],
+  "companies": [
+   "Curology"
+  ],
+  "keywords": [
+   "비처방 스킨케어",
+   "셀러브리티 브랜드",
+   "한정 드롭"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Ethereal Glow",
+    "brand": "Curology",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "The line will include three drops, starting with the first collection, Ethereal Glow, which is available now.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "큐롤로지가 배우 도브 카메론과 비처방 스킨케어 브랜드를 만든다.",
+  "key_fact_quote": "Curology Taps Dove Cameron to Create Nonprescription Skin Care Brand",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

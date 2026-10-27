@@ -1,0 +1,96 @@
+{
+ "doc_id": "3b7956d69faa345e",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58596",
+ "title": "바스프, ‘인-코스메틱스 아시아 2026’에서 미래를 여는 뷰티 솔루션 공개",
+ "summary": "[코스인코리아닷컴 김민석 기자]글로벌 화학기업 바스프(BASF)는 ‘인-코스메틱스 아시아 2026(in-cosmetics Asia 2026)’에서 ‘아름다움, 그 너머: 미래를 열다(Beyond Beauty: Future Unlocked)’를 주제로 과학 기반 혁신 기술과 제형 개발 전문성, 시장 인사이트를 선…",
+ "published_at": "2026-10-27T14:29:13+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "TH",
+   "DE"
+  ],
+  "brands": [],
+  "companies": [
+   "바스프"
+  ],
+  "keywords": [
+   "인코스메틱스 박람회",
+   "원료 혁신",
+   "사용감",
+   "자외선 차단"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "모이스처 터치 톤업 선로션(Moisture Touch Tone-up Sun Lotion)",
+    "brand": "바스프",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "워터 스플래시 라이트 플루이드 로션(Water Splash Light Fluid Lotion)",
+    "brand": "바스프",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "바스프가 태국에서 열리는 인-코스메틱스 아시아에서 원료와 제형 기술을 선보인다.",
+  "key_fact_quote": "바스프(BASF)는 ‘인-코스메틱스 아시아 2026(in-cosmetics Asia 2026)’에서",
+  "events": [
+   {
+    "name": "인-코스메틱스 아시아 2026(in-cosmetics Asia 2026)",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-05",
+    "place": "태국 방콕 국제무역전시센터(BITEC)",
+    "quote": "전시회는 11월 3일부터 5일까지 태국 방콕 국제무역전시센터(BITEC)에서 열린다."
+   },
+   {
+    "name": "보호·회복·재생: 시술 후 피부를 위한 고기능성 선케어",
+    "start_date": "2026-11-03",
+    "end_date": null,
+    "place": "시어터1 A70 부스",
+    "quote": "➊ 보호·회복·재생: 시술 후 피부를 위한 고기능성 선케어 _ 추타왓 왓타나 (11. 3 오후 1:10~40, 시어터1 A70 부스)"
+   },
+   {
+    "name": "간편한 활성 성분 전달 구현: Emulgade®VerdePE",
+    "start_date": "2026-11-05",
+    "end_date": null,
+    "place": "시어터2 A50 부스",
+    "quote": "➋ 간편한 활성 성분 전달 구현: Emulgade®VerdePE_ 목윤정 (11. 5 오전 11:25~55, 시어터2 A50 부스)에서 발표할 예정이다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "NeoHelix™ Regenerate",
+    "quote": "이노베이션 존 어워드에는 바스프의 NeoHelix™ Regenerate와 Emulgade® Verde PE가 선정됐다."
+   },
+   {
+    "name": "Emulgade® Verde PE",
+    "quote": "이노베이션 존 어워드에는 바스프의 NeoHelix™ Regenerate와 Emulgade® Verde PE가 선정됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": true
+}

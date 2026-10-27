@@ -1,0 +1,59 @@
+{
+ "doc_id": "a9646891f844b92d",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/thea-care-l-ia-concue-par-des,28422",
+ "title": "Thea Care : l'IA conçue par des dermatologues contre le déficit de conseil",
+ "summary": "Des clientes cliquent sur une publicité et arrivent sur une page de 40 produits, sans personne à qui demander conseil. La plupart repartent sans acheter. Les autres prennent un seul produit au lieu d'une routine et, s'il ne convient pas, ne reviennent pas. L'entreprise berlinoise Thea Care offre aux marques de soin le conseiller qui manque à leur boutique en ligne : une analyse de peau par IA conçue par des dermatologues, aux couleurs de la marque. Trois façons de perdre des ventes en... - Sociétés & industrie / publi-redac",
+ "published_at": "2026-10-27T08:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "DE",
+   "AT",
+   "CH",
+   "NL"
+  ],
+  "brands": [
+   "Weleda",
+   "Dr. Emi",
+   "The Body Shop"
+  ],
+  "companies": [
+   "Thea Care"
+  ],
+  "keywords": [
+   "AI 피부 분석",
+   "맞춤형 루틴 추천",
+   "온라인 뷰티 커머스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "독일 기업 테아 케어가 뷰티 브랜드에 AI 피부 분석 서비스를 제공한다.",
+  "key_fact_quote": "L'entreprise berlinoise Thea Care offre aux marques de soin le conseiller qui manque à leur boutique en ligne",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": true
+}

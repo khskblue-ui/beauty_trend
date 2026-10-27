@@ -1,0 +1,90 @@
+{
+ "doc_id": "4918cba4b7e8437d",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100272",
+ "title": "설화수, 영국 해롯 백화점 입점… 유럽 럭셔리 시장 공략 본격화",
+ "summary": "홀리스틱 뷰티를 추구하는 글로벌 럭셔리 뷰티 브랜드 설화수가 영국을 대표하는 럭셔리 백화점 ‘해롯(Harrods)’에 공식 입점하며 유럽 럭셔리 뷰티 시장 공략을 본격화한다.설화수는 지난 10월 23일 해롯에 공식 매장을 열었다. 1849년 설립된 해롯은 오랜 역사와 전통을 바탕으로 세계적인 럭셔리 브랜드를 선보여 온 영국의 대표 백화점이다. 설화수는 이번 입점을 통해 한국적 헤리티지와 독자적인 인삼 연구를 기반으로 완성한 제품과 브랜드 경험을 유럽 고객에게 선보인다.해롯 설화수 매장에서는 브랜드 대표 제품인 윤조에센스와 자음생크림",
+ "published_at": "2026-10-27T11:59:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "해롯"
+  ],
+  "keywords": [
+   "럭셔리 뷰티",
+   "인삼 스킨케어",
+   "유럽 진출",
+   "스킨 롱제비티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "윤조에센스",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "자음생크림",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "진설 라인",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "진설명작 라인",
+    "brand": "설화수",
+    "launch_date": "2026-12",
+    "launch_status": "upcoming",
+    "launch_quote": "오는 12월에는 ‘진설명작 라인’도 전 세계 최초로 해롯에서 사전 출시할 예정이다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "설화수가 영국 해롯 백화점에 공식 입점해 유럽 럭셔리 시장 공략에 나섰다.",
+  "key_fact_quote": "설화수는 지난 10월 23일 해롯에 공식 매장을 열었다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "인삼",
+    "quote": "설화수는 이번 입점을 통해 한국적 헤리티지와 독자적인 인삼 연구를 기반으로 완성한 제품과 브랜드 경험을 유럽 고객에게 선보인다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": true
+}

@@ -1,0 +1,53 @@
+{
+ "doc_id": "1252c16f6370eab5",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/the-burberry-prorsum-collection-of-fragrance-debuts-1239387116/",
+ "title": "EXCLUSIVE: The Burberry Prorsum Collection of Fragrance Debuts",
+ "summary": "The line of eaux de parfum will be the brand’s most luxurious.",
+ "published_at": "2026-10-28T01:02:22+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Burberry"
+  ],
+  "companies": [],
+  "keywords": [
+   "럭셔리 향수",
+   "오 드 퍼퓸"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Burberry Prorsum Collection",
+    "brand": "Burberry",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "EXCLUSIVE: The Burberry Prorsum Collection of Fragrance Debuts",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "버버리가 오 드 퍼퓸 라인으로 프로섬 컬렉션 향수를 선보였다",
+  "key_fact_quote": "The line of eaux de parfum will be the brand’s most luxurious.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

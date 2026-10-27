@@ -1,0 +1,42 @@
+{
+ "doc_id": "806ba692104dd86a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312307",
+ "title": "K - 뷰티 수출 빅데이터 리포트⑥: 샴푸 46% 급증…글로벌 시장서 영향력...",
+ "summary": "시사점 샴푸는 8대 주요 품목 가운데 가장 가파른 성장세를 기록하며 새로운 K - 뷰티 수출 유망 품목으로 부상했다. 3분기 수출은 46%, 무역수지는 72% 증가해 기초화장품에 이어 높은 성장성을 입증했다. 국가별로는...",
+ "published_at": "2026-10-27T14:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "샴푸 수출",
+   "K뷰티 수출",
+   "헤어케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "샴푸가 K뷰티 수출 유망 품목으로 부상했다",
+  "key_fact_quote": "샴푸는 8대 주요 품목 가운데 가장 가파른 성장세를 기록하며 새로운 K - 뷰티 수출 유망 품목으로 부상했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

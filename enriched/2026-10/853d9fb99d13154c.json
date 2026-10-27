@@ -1,0 +1,66 @@
+{
+ "doc_id": "853d9fb99d13154c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://theviewers.co.kr/View.aspx?No=4283218",
+ "title": "펜할리곤스, 더현대 서울 팝업 오픈… 연말 향수 선물 컬렉션 소개",
+ "summary": "뷰어스 백진엽 기­자 jinebito@theviewers.co.kr 영국 니치 향수 브랜드 펜할리곤스(Penhaligon’s)가 연말 선물 수요를 겨냥해 홀리데이 컬렉션을 선보이고 오프라인 체험 공간을 마련한다.펜할리곤스는 10월 27일부터 11월...",
+ "published_at": "2026-10-27T15:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "GB",
+   "KR"
+  ],
+  "brands": [
+   "펜할리곤스"
+  ],
+  "companies": [
+   "펜할리곤스"
+  ],
+  "keywords": [
+   "니치 향수",
+   "홀리데이 컬렉션",
+   "향수 선물",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "홀리데이 컬렉션",
+    "brand": "펜할리곤스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "영국 니치 향수 브랜드 펜할리곤스(Penhaligon’s)가 연말 선물 수요를 겨냥해 홀리데이 컬렉션을 선보이고 오프라인 체험 공간을 마련한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "펜할리곤스가 연말 선물 수요를 겨냥해 홀리데이 컬렉션과 팝업 공간을 선보인다.",
+  "key_fact_quote": "영국 니치 향수 브랜드 펜할리곤스(Penhaligon’s)가 연말 선물 수요를 겨냥해 홀리데이 컬렉션을 선보이고 오프라인 체험 공간을 마련한다.",
+  "events": [
+   {
+    "name": "더현대 서울 팝업",
+    "start_date": "2026-10-27",
+    "end_date": null,
+    "place": "더현대 서울",
+    "quote": "펜할리곤스는 10월 27일부터 11월..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "fd8ea54407d3ea4b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20106610?ref=naver",
+ "title": "윤상현 콜마 부회장 “韓, 독보적 뷰티 생태계 보유”",
+ "summary": "만큼 화장품 브랜드를 만들거나 관련 사업을 하기 가장 좋은 나라”라고 평가했다. 아마존 글로벌셀링... 및 신제품 200종 확보 등을 목표로 제시했다. 아마존에 따르면 올해 1~9월 아마존 내 한국 셀러의 뷰티 제품 매출은...",
+ "published_at": "2026-10-27T14:21:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "콜마",
+   "아마존"
+  ],
+  "keywords": [
+   "K뷰티 생태계",
+   "화장품 브랜드 육성",
+   "아마존 셀러"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "윤상현 콜마 부회장이 한국을 화장품 브랜드를 만들기 가장 좋은 나라라고 평가했다.",
+  "key_fact_quote": "만큼 화장품 브랜드를 만들거나 관련 사업을 하기 가장 좋은 나라”라고 평가했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

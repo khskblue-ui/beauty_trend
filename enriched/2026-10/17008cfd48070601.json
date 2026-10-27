@@ -1,0 +1,43 @@
+{
+ "doc_id": "17008cfd48070601",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dkilbo.com/news/articleView.html?idxno=558677",
+ "title": "대구과학대 헤어디자인과, 청소년 축제서 뷰티 체험 운영",
+ "summary": "참가자들에게 다양한 향료 의 종류와 특징을 설명하고 취향에 맞는 향을 직접 선택하고 조합하도록 도왔다. 참가자들은 자신만의 퍼퓸미스트를 제작하며 뷰티 분야의 다양한 활동을 경험했다. 재학생들도 전공 수업에서...",
+ "published_at": "2026-10-27T19:07:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "퍼퓸 미스트",
+   "향 체험",
+   "뷰티 재능기부"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "dbdeaaf74c7218e4",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

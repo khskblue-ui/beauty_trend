@@ -1,0 +1,40 @@
+{
+ "doc_id": "a57f6cc239504eff",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58599",
+ "title": "4분기 소매유통업 경기전망 ‘주춤’... 선택적·절약형 소비 확산 등 복합 작용",
+ "summary": "[코스인코리아닷컴 길태윤 기자]대한상의가 백화점, 대형마트, 편의점, 슈퍼마켓, 온라인쇼핑 등 서울 및 6대 광역시 소재 500개 소매유통업체 대한 ‘2026년 4분기 소매유통업경기전망지수(RBSI) 조사 결과 전망치가 3분기(92)보다 낮은 ’88‘로 집계됐다. RBSI는 유통업계의 당해 분기 대비 다음 분…",
+ "published_at": "2026-10-27T14:58:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한상의"
+  ],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": true
+}

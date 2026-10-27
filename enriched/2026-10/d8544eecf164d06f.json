@@ -1,0 +1,56 @@
+{
+ "doc_id": "d8544eecf164d06f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sentv.co.kr/article/view/sentv202610270182",
+ "title": "일동제약, 패션기업과 손잡고 뷰티시장 진출…'아이디나인' 설립",
+ "summary": "특히 아이디나인은 일동제약그룹이 개발한 프로바이오틱스 화장품 원료 '세라글로우(Cera-Glow)'를 핵심... 순차적으로 출시 할 계획이다. 협력사인 나인앤컴퍼니는 여성 패션 브랜드 '공구우먼(09WOMEN)' 등을 운영하는...",
+ "published_at": "2026-10-27T15:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이디나인"
+  ],
+  "companies": [
+   "일동제약",
+   "나인앤컴퍼니"
+  ],
+  "keywords": [
+   "프로바이오틱스 화장품",
+   "패션 기업 협업",
+   "합작법인"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "일동제약이 패션기업과 합작법인 아이디나인을 세워 뷰티 시장에 진출한다.",
+  "key_fact_quote": "특히 아이디나인은 일동제약그룹이 개발한 프로바이오틱스 화장품 원료 '세라글로우(Cera-Glow)'를 핵심...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라글로우",
+    "quote": "특히 아이디나인은 일동제약그룹이 개발한 프로바이오틱스 화장품 원료 '세라글로우(Cera-Glow)'를 핵심..."
+   },
+   {
+    "name": "프로바이오틱스",
+    "quote": "특히 아이디나인은 일동제약그룹이 개발한 프로바이오틱스 화장품 원료 '세라글로우(Cera-Glow)'를 핵심..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

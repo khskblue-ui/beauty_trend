@@ -1,0 +1,55 @@
+{
+ "doc_id": "d0580fb420843106",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.jemin.com/news/articleView.html?idxno=845501",
+ "title": "[인터뷰] \"제주 밭과 바다가 경쟁력\"…세계시장 두드리는 K - 뷰티",
+ "summary": "19일 JDC 건물 내 ㈜대한 뷰티 산업진흥원에서 인터뷰에 응하는 강유안 대표. 제주 밭에서 자란 풋귤과 울금... 인도네시아에 제품을 수출 하고 러시아 등과 공급 계약을 체결했으며 제주 지역 농가와는 원료 공급을 넘어 체험...",
+ "published_at": "2026-10-27T19:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "ID",
+   "RU"
+  ],
+  "brands": [],
+  "companies": [
+   "㈜대한 뷰티 산업진흥원"
+  ],
+  "keywords": [
+   "제주 원료",
+   "K뷰티 수출",
+   "지역 농가 협업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제주 원료를 앞세운 뷰티 기업이 해외로 수출을 넓히고 있다",
+  "key_fact_quote": "인도네시아에 제품을 수출 하고 러시아 등과 공급 계약을 체결했으며 제주 지역 농가와는 원료 공급을 넘어 체험",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "풋귤",
+    "quote": "제주 밭에서 자란 풋귤과 울금"
+   },
+   {
+    "name": "울금",
+    "quote": "제주 밭에서 자란 풋귤과 울금"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,54 @@
+{
+ "doc_id": "2ff93881ed7104c4",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53794",
+ "title": "달리프 ‘글램 스타일링 돈모 브러쉬’",
+ "summary": "달리프(Daleaf)가 ‘글램 스타일링 돈모 브러쉬’를 출시했다. 이 제품은 균일하고 촘촘한 돈모로 이뤄져 모발을 섬세하게 정돈한다. 모가 두상에 밀착해 머리카락을 매끄럽게 쓸어 넘긴다. 깔끔한 스타일 연출과 애교머리 정돈 등에 다양하게 활용 가능하다. . 감각적인 디자인과 휴대성을 갖춰 가방이나 키…",
+ "published_at": "2026-10-27T17:28:32+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "달리프"
+  ],
+  "companies": [],
+  "keywords": [
+   "헤어 브러쉬",
+   "슬릭번",
+   "잔머리 스타일링"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "글램 스타일링 돈모 브러쉬",
+    "brand": "달리프",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "달리프(Daleaf)가 ‘글램 스타일링 돈모 브러쉬’를 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "달리프가 글램 스타일링 돈모 브러쉬를 출시했다",
+  "key_fact_quote": "달리프(Daleaf)가 ‘글램 스타일링 돈모 브러쉬’를 출시했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": true
+}

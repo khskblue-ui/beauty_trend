@@ -1,0 +1,42 @@
+{
+ "doc_id": "ce43ab66563750c3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/bio/pharmaceutical-bio/6333370",
+ "title": "K뷰티 날았다…3분기 누적 바이오헬스 수출 248억 달러, 역대 최대",
+ "summary": "특히 화장품은 미국과 유럽 등에서 K뷰티 수요가 빠르게 확산하면서 수출 기록을 새로 썼다. 전체 화장품 수출 의 78.3%를 차지하는 기초화장품 수출 액은 87억 1000만 달러(11조 5300억 원)로 37.7% 늘어났다. 미국...",
+ "published_at": "2026-10-27T14:41:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "기초화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국과 유럽의 K뷰티 수요 확산으로 화장품 수출이 기록을 새로 썼다",
+  "key_fact_quote": "특히 화장품은 미국과 유럽 등에서 K뷰티 수요가 빠르게 확산하면서 수출 기록을 새로 썼다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "2c7b9a5f26fb1268",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etoday.co.kr/news/view/2640470",
+ "title": "“포장재 데이터까지 다 내라”…K식품· 뷰티 , EU 포장규제에 비용 부담...",
+ "summary": "이투데이=황민주 기자 | EU PPWR 8월 본격 적용… 수출 기업 82.5% “잘 모르거나 개략적 인지” 농심·삼양... EU에 수출 중이거나 수출 을 계획하는 국내 기업 610개사 가운데 82.5%는 PPWR을 전혀 모르거나 개략적인 내용만...",
+ "published_at": "2026-10-27T17:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "EU 포장 규제",
+   "포장재 데이터",
+   "수출 비용 부담"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "EU 포장 규제에 대해 국내 수출 기업 대부분이 잘 모르거나 개략적으로만 알고 있다",
+  "key_fact_quote": "EU에 수출 중이거나 수출 을 계획하는 국내 기업 610개사 가운데 82.5%는 PPWR을 전혀 모르거나 개략적인 내용만",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

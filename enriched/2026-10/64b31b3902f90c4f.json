@@ -1,0 +1,42 @@
+{
+ "doc_id": "64b31b3902f90c4f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=766008",
+ "title": "[ K - 뷰티 신화를 쓰다 ①] 프랑스에 이어 세계 2위 수출 대국으로 우뚝…...",
+ "summary": "K - 뷰티 의 수출 지형 변화와 성장 동력, 기업들의 글로벌 전략을 분석하고 지속 가능한 성장을 위한 과제를 짚어본다.[편집자주] K - 뷰티 가 지난 20년간 수출 규모를 38배로 키우며 글로벌 화장품 시장의 핵심...",
+ "published_at": "2026-10-28T06:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "수출 지형 변화",
+   "글로벌 전략"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티가 수출 규모를 크게 키워 글로벌 화장품 시장의 핵심으로 올라섰다",
+  "key_fact_quote": "K - 뷰티 가 지난 20년간 수출 규모를 38배로 키우며 글로벌 화장품 시장의 핵심",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

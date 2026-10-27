@@ -1,0 +1,63 @@
+{
+ "doc_id": "360feeb862ad2978",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/wellness/higherdose-advertising-claims-referred-to-regulators-1239388176/",
+ "title": "HigherDose Advertising Claims Referred to Regulators After Noncompliance With NAD Inquiries",
+ "summary": "The wellness brand declined to participate in two NAD inquiries into performance claims about its Red Light Hat and Red Light Face Mask, prompting a referral to regulatory authorities.",
+ "published_at": "2026-10-28T06:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "HigherDose"
+  ],
+  "companies": [],
+  "keywords": [
+   "광고 표시 규제",
+   "효능 주장",
+   "레드라이트 디바이스"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Red Light Hat",
+    "brand": "HigherDose",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Red Light Face Mask",
+    "brand": "HigherDose",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "HigherDose가 NAD 조사에 응하지 않아 광고 주장이 규제 당국에 회부됐다.",
+  "key_fact_quote": "The wellness brand declined to participate in two NAD inquiries into performance claims about its Red Light Hat and Red Light Face Mask, prompting a referral to regulatory authorities.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

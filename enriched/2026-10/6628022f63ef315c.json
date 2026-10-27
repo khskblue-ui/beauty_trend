@@ -1,0 +1,46 @@
+{
+ "doc_id": "6628022f63ef315c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=202997",
+ "title": "K뷰티 수출 질주... 3분기 누적 111억 달러 돌파, 역대 최대",
+ "summary": "특히 미국 시장에서 기초화장품 수요가 확대된 데 이어 영국과 네덜란드 등 유럽 시장에서도 가파른 성장세가 나타나면서 K - 뷰티 의 수출 저변이 넓어지는 모습이다. 미국 중심의 수출 성장에 유럽과 캐나다 등...",
+ "published_at": "2026-10-28T00:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "GB",
+   "NL",
+   "CA"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "기초화장품",
+   "유럽 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 기초화장품 수요가 늘고 유럽에서도 성장세가 나타나 K뷰티 수출 저변이 넓어졌다",
+  "key_fact_quote": "특히 미국 시장에서 기초화장품 수요가 확대된 데 이어 영국과 네덜란드 등 유럽 시장에서도 가파른 성장세가 나타나면서 K - 뷰티 의 수출 저변이 넓어지는 모습이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

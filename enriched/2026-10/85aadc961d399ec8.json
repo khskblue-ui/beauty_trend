@@ -1,0 +1,53 @@
+{
+ "doc_id": "85aadc961d399ec8",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/the-best-vitamin-a-products-contain-stabilised-retinaldehyde",
+ "title": "The best vitamin a products Contain stabilised retinaldehyde using IconicA",
+ "summary": "Retinol is currently used as the industry benchmark, by virtue of its own capability to improve the appearance of aging skin. However, formulation challenges and irritation phenomena reduce retinol’s broad acceptance amongst consumers",
+ "published_at": "2026-10-27T07:05:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "비타민 A",
+   "레티날",
+   "안정화 성분"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "안정화한 레티날데하이드가 레티놀의 자극 문제를 줄이는 대안으로 소개됐다",
+  "key_fact_quote": "The best vitamin a products Contain stabilised retinaldehyde using IconicA",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "retinaldehyde",
+    "quote": "The best vitamin a products Contain stabilised retinaldehyde using IconicA"
+   },
+   {
+    "name": "Retinol",
+    "quote": "Retinol is currently used as the industry benchmark, by virtue of its own capability to improve the appearance of aging skin."
+   },
+   {
+    "name": "IconicA",
+    "quote": "The best vitamin a products Contain stabilised retinaldehyde using IconicA"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

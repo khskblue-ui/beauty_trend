@@ -1,0 +1,44 @@
+{
+ "doc_id": "d314eb93a3c9ac92",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=264782",
+ "title": "\"K뷰티 성장 동력은 새 브랜드\"···윤상현이 자신한 이유",
+ "summary": "생성형 AI를 활용한 마케팅과 글로벌 인플루언서 협업, 신제품 개발 전략 등도 발표됐다. 한국콜마는 행사장에 스킨케어와 메이크업, 퍼스널케어, 선케어 제품 및 기술을 소개하는 부스를 마련했다. 화장품 패키징...",
+ "published_at": "2026-10-27T17:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K뷰티 성장",
+   "생성형 AI 마케팅",
+   "인플루언서 협업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국콜마 부회장이 K뷰티 성장 동력으로 새 브랜드를 꼽았다.",
+  "key_fact_quote": "\"K뷰티 성장 동력은 새 브랜드\"···윤상현이 자신한 이유",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

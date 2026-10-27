@@ -1,0 +1,44 @@
+{
+ "doc_id": "b07edb39767d541c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.bizwatch.co.kr/article/consumer/2026/10/26/0036",
+ "title": "패션플랫폼, 패션 찍고 뷰티로…그 다음은 '리빙'",
+ "summary": "입점 브랜드 도 꾸준히 늘고 있다. 올해 9월 말 기준 29CM의 홈·리빙 입점 브랜드 는 약 4000개로 2년 전보다 40... 기념일에 프리미엄 디저트, 인테리어 소품, 홈 프래그런스( 향수 ) 등을 모바일로 선물하는 트렌드도 이 같은...",
+ "published_at": "2026-10-27T07:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "29CM"
+  ],
+  "keywords": [
+   "패션 플랫폼 뷰티",
+   "홈 프래그런스",
+   "선물하기"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "패션 플랫폼이 뷰티를 거쳐 리빙으로 영역을 넓히고 있다.",
+  "key_fact_quote": "패션플랫폼, 패션 찍고 뷰티로…그 다음은 '리빙'",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

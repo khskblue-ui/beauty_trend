@@ -1,0 +1,55 @@
+{
+ "doc_id": "402096b140e0915e",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/drake-launches-new-fragrance-dosayado-to-celebrate-40th-birthday",
+ "title": "Drake launches new fragrance Dosayado to celebrate 40th birthday",
+ "summary": "The new Dosayado unisex fragrance was created by Better World Fragrance House in collaboration with rapper Drake’s Canadian lifestyle brand, record label and entertainment group, October's Very Own",
+ "published_at": "2026-10-27T21:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "CA"
+  ],
+  "brands": [
+   "October's Very Own"
+  ],
+  "companies": [
+   "Better World Fragrance House"
+  ],
+  "keywords": [
+   "셀럽 향수",
+   "유니섹스 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Dosayado",
+    "brand": "October's Very Own",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Drake launches new fragrance Dosayado to celebrate 40th birthday",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "드레이크가 생일을 기념해 새 유니섹스 향수 도사야도를 내놓았다",
+  "key_fact_quote": "The new Dosayado unisex fragrance was created by Better World Fragrance House in collaboration with rapper Drake’s Canadian lifestyle brand, record label and entertainment group, October's Very Own",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

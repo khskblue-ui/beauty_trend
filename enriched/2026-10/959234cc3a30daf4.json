@@ -1,0 +1,53 @@
+{
+ "doc_id": "959234cc3a30daf4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/living/2026/10/28/2026102614495431376",
+ "title": "핑크빛 라운지서 '부스터 프로' 한 잔…런더너 홀린 K뷰티 [르포]",
+ "summary": "우리 소비재 기업의 목표는 수출 확대에 그치지 않는다. 현지 거점에 공장을 짓고, 혁신 물류 시스템을... 메뉴 이름에는 뷰티 디바이스 '부스터 프로'의 기능인 부스터, 더마샷 등을 따왔다. 음료를 받아 들면 피부...",
+ "published_at": "2026-10-27T15:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "GB",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 팝업",
+   "뷰티 디바이스",
+   "체험형 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "부스터 프로",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 디바이스 부스터 프로의 기능을 메뉴 이름으로 삼은 라운지가 런던에서 운영됐다",
+  "key_fact_quote": "메뉴 이름에는 뷰티 디바이스 '부스터 프로'의 기능인 부스터, 더마샷 등을 따왔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

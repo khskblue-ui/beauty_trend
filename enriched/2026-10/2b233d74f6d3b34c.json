@@ -1,0 +1,44 @@
+{
+ "doc_id": "2b233d74f6d3b34c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/27/2026102700139.html",
+ "title": "신화숙 아마존 글로벌셀링 코리아 대표 \"아마존 뷰티 초기 1년 매출이 사...",
+ "summary": "1~9월 화장품 수출액은 잠정 집계 기준 111억달러로 전년 동기 대비 31.1% 증가했다. 지난해 연간 수출액인... 2027년 신규 판매자 50개사 입점과 신제품 200종 확보를 추진한다. 전략 제품 20개는 내년 프라임 데이 전에 출시할...",
+ "published_at": "2026-10-27T11:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "아마존 입점",
+   "신제품 확보"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아마존이 신규 판매자 입점과 신제품 확보를 추진한다.",
+  "key_fact_quote": "2027년 신규 판매자 50개사 입점과 신제품 200종 확보를 추진한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

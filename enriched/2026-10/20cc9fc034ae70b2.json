@@ -1,0 +1,72 @@
+{
+ "doc_id": "20cc9fc034ae70b2",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58598",
+ "title": "아마존, K-뷰티의 글로벌 성장 가속화 위한 4대 프로젝트 발표",
+ "summary": "[코스인코리아닷컴 김민석 기자]아마존글로벌셀링코리아가 주최하는 ‘아마존 뷰티 인 서울 2026(Amazon Beauty in Seoul 2026)’이 10월 27일 그랜드 인터컨티넨탈 서울파르나스에서 열렸다. 이날 행사는 ‘전 세계 K-뷰티의 중심, 아마존(Amazon, the Global Standard…",
+ "published_at": "2026-10-27T14:38:48+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "바이트랩"
+  ],
+  "companies": [
+   "아마존",
+   "바이트랩"
+  ],
+  "keywords": [
+   "K뷰티 글로벌 진출",
+   "아마존 입점",
+   "헤어케어 확장",
+   "유럽 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "그로우턴 엑소좀 브러쉬 앰플",
+    "brand": "바이트랩",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아마존이 K뷰티의 글로벌 성장을 돕는 4대 프로젝트를 발표했다.",
+  "key_fact_quote": "➊ 프로젝트 밀리언(Million) ➋ 프로젝트 타이탄(Titan) ➌ 프로젝트 실크로드(Silk Road) ➍ 프로젝트 아우토반(Autobahn)은 신규 셀러의 입점과 첫해 성장부터 사업 규모 확대 → 카테고리 확장 및 유럽시장 진출까지 단계별 지원을 제공한다는 설명이다.",
+  "events": [
+   {
+    "name": "아마존 뷰티 인 서울 2026",
+    "start_date": "2026-10-27",
+    "end_date": null,
+    "place": "그랜드 인터컨티넨탈 서울파르나스",
+    "quote": "아마존글로벌셀링코리아가 주최하는 ‘아마존 뷰티 인 서울 2026(Amazon Beauty in Seoul 2026)’이 10월 27일 그랜드 인터컨티넨탈 서울파르나스에서 열렸다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "엑소좀",
+    "quote": "“대표 제품인 ‘그로우턴 엑소좀 브러쉬 앰플’의 매출은 두 배 이상 증가했으며, 확대하고 있는 제품 라인업 전반에서도 견조한 매출 성장세를 이어가며 한국 뷰티 제품 혁신의 글로벌 잠재력을 보여주고 있다”고 말했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": true
+}

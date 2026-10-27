@@ -1,0 +1,57 @@
+{
+ "doc_id": "db1f58f25a557fc6",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/influenceurs-et-dupes-l-affaire,28419",
+ "title": "Influenceurs et dupes : l'affaire Noel Deyzel relance la controverse",
+ "summary": "La suspension puis la restauration des comptes TikTok et Instagram de l'influenceur parfum Noel Deyzel ont ravivé les tensions entre marques de luxe et créateurs de contenu faisant la promotion d'alternatives bon marché. Au cœur du différend : la distinction entre critique indépendante et publicité comparative déloyale susceptible d'enfreindre les droits de propriété intellectuelle. Les comptes Instagram et TikTok de Noel Deyzel, influenceur spécialiste du parfum, suivis respectivement par... - Réglementations",
+ "published_at": "2026-10-27T08:06:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "regulation",
+  "countries": [
+   "DE",
+   "FR"
+  ],
+  "brands": [
+   "Creed",
+   "Amouage"
+  ],
+  "companies": [
+   "Nobilis Group"
+  ],
+  "keywords": [
+   "향수 듀프",
+   "인플루언서 마케팅",
+   "비교 광고",
+   "지식재산권"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "향수 인플루언서의 계정 정지를 계기로 듀프 홍보와 지식재산권 논란이 다시 커졌다.",
+  "key_fact_quote": "Au cœur du différend : la distinction entre critique indépendante et publicité comparative déloyale susceptible d'enfreindre les droits de propriété intellectuelle.",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": true
+}

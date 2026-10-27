@@ -1,0 +1,41 @@
+{
+ "doc_id": "2de57cd78b895618",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312421",
+ "title": "K-Beauty Face Powder Exports Decline as Market Growth Slows - 뷰티경제",
+ "summary": "South Korea’s face powder exports declined in both the third quarter and September 2026, s",
+ "published_at": "2026-10-27T14:20:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "페이스 파우더",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국의 페이스 파우더 수출이 줄었다.",
+  "key_fact_quote": "South Korea’s face powder exports declined in both the third quarter and September 2026",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

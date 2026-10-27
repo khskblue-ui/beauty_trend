@@ -1,0 +1,45 @@
+{
+ "doc_id": "3c1e7f96faa1971b",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312492",
+ "title": "주가로 읽는 K-뷰티: 수출 호황에도 중견기업 '울상'…토니모리·한국화장품 반토막 - 뷰티경제",
+ "summary": "올해 화장품 수출이 증가세를 이어갔음에도 불구하고 화장품 중견 상장사들의 주가는 지난 1년 동안 일제히 하락한 것으로 나타났다.토니모리와 한국화장품은 주가가 절반",
+ "published_at": "2026-10-27T19:33:28+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "토니모리",
+   "한국화장품"
+  ],
+  "keywords": [
+   "화장품 주가",
+   "중견 화장품 기업",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "수출이 늘었는데도 화장품 중견 상장사들의 주가는 일제히 내렸다",
+  "key_fact_quote": "올해 화장품 수출이 증가세를 이어갔음에도 불구하고 화장품 중견 상장사들의 주가는 지난 1년 동안 일제히 하락한 것으로 나타났다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

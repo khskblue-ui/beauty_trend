@@ -1,0 +1,64 @@
+{
+ "doc_id": "36f7e58548b08dd0",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53792",
+ "title": "라인플러스, AI 콘텐츠 제작 솔루션 ‘워너블 AI’ 론칭",
+ "summary": "라인플러스(이은정)가 오늘(27일) 인터컨티넨탈 서울 파르나스에서 열린 ‘아마존 뷰티 인 서울 2026’에 참가했다. 이번 행사에서 라인플러스는 AI 마케팅 솔루션 ‘워너블 AI’를 소개했다. 워너블 AI(Oneable AI)는 AI 기반 콘텐츠 제작 솔루션이다. 라인플러스는 체험형 부스를 열고 상품을 활용한…",
+ "published_at": "2026-10-27T17:02:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "라인플러스",
+   "아마존"
+  ],
+  "keywords": [
+   "AI 콘텐츠 제작",
+   "아마존 판매",
+   "K뷰티 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "워너블 AI",
+    "brand": "라인플러스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "라인플러스, AI 콘텐츠 제작 솔루션 ‘워너블 AI’ 론칭",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "라인플러스가 아마존 판매자를 위한 AI 콘텐츠 제작 솔루션을 소개했다.",
+  "key_fact_quote": "워너블 AI는 아마존 판매자와 브랜드를 위한 프로그램이다.",
+  "events": [
+   {
+    "name": "아마존 뷰티 인 서울 2026",
+    "start_date": "2026-10-27",
+    "end_date": null,
+    "place": "인터컨티넨탈 서울 파르나스",
+    "quote": "라인플러스(이은정)가 오늘(27일) 인터컨티넨탈 서울 파르나스에서 열린 ‘아마존 뷰티 인 서울 2026’에 참가했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": true
+}

@@ -1,0 +1,57 @@
+{
+ "doc_id": "734f3e8b82bbaa86",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876661",
+ "title": "일동제약그룹, 뷰티 시장 출사표…내년 더마 스킨케어 출시",
+ "summary": "핵심 소재로는 일동제약그룹이 독자 개발한 마이크로바이옴 기반 프로바이오틱스 화장품 원료 '세라글로우(Cera-Glow)'를 내세웠다. 회사 측에 따르면 세라글로우는 피부 장벽을 구성하는 주요 지질 성분인 세라마이드의...",
+ "published_at": "2026-10-27T15:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "일동제약그룹"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "마이크로바이옴",
+   "프로바이오틱스 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "일동제약그룹이 마이크로바이옴 기반 원료 세라글로우를 앞세워 뷰티 시장에 진출한다.",
+  "key_fact_quote": "핵심 소재로는 일동제약그룹이 독자 개발한 마이크로바이옴 기반 프로바이오틱스 화장품 원료 '세라글로우(Cera-Glow)'를 내세웠다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라글로우",
+    "quote": "핵심 소재로는 일동제약그룹이 독자 개발한 마이크로바이옴 기반 프로바이오틱스 화장품 원료 '세라글로우(Cera-Glow)'를 내세웠다."
+   },
+   {
+    "name": "프로바이오틱스",
+    "quote": "핵심 소재로는 일동제약그룹이 독자 개발한 마이크로바이옴 기반 프로바이오틱스 화장품 원료 '세라글로우(Cera-Glow)'를 내세웠다."
+   },
+   {
+    "name": "세라마이드",
+    "quote": "회사 측에 따르면 세라글로우는 피부 장벽을 구성하는 주요 지질 성분인 세라마이드의..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

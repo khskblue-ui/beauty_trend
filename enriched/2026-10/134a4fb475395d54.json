@@ -1,0 +1,45 @@
+{
+ "doc_id": "134a4fb475395d54",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211941",
+ "title": "윤상현 콜마그룹 부회장 \"K뷰티 지속성장 가능\"…ODM·글로벌 유통 생태...",
+ "summary": "자체 생산시설과 해외 유통망을 갖추지 못한 신생 브랜드도 시장에 진입할 수 있다는 점에서 국내 화장품 산업의 분업 구조가 경쟁력으로 작용한다는 취지다. 다만 브랜드 출시 기회가 늘어나는 것만으로 장기 성장이...",
+ "published_at": "2026-10-27T16:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "콜마그룹"
+  ],
+  "keywords": [
+   "K뷰티 성장",
+   "화장품 수출",
+   "산업 생태계"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "456e0641c8a41620",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

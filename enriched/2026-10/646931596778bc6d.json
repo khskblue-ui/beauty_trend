@@ -1,0 +1,66 @@
+{
+ "doc_id": "646931596778bc6d",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58601",
+ "title": "39개국 바이어·방문객 어우러진 축제의 장... 오송화장품뷰티엑스포 성료",
+ "summary": "[코스인코리아닷컴 김민석 기자]글로벌 K-뷰티 산업의 미래와 최신 트렌드를 한눈에 확인할 수 있는 역대 최대 규모의 ’2026 오송화장품뷰티엑스포‘가 24일 대단원의 막을 내렸다. 이번 뷰티엑스포는 세계와 소통하는 활기찬 축제의 장으로 펼쳐졌다는 반응을 얻었다. 전 세계 39개국에서 찾아온 해…",
+ "published_at": "2026-10-27T19:38:49+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽",
+   "충북화장품산업협회",
+   "마루이그룹",
+   "이토요카도"
+  ],
+  "keywords": [
+   "K뷰티 박람회",
+   "AI 피부진단",
+   "수출 상담회",
+   "롱제비티 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "2026 오송화장품뷰티엑스포가 해외 바이어와 관람객이 찾은 가운데 막을 내렸다.",
+  "key_fact_quote": "글로벌 K-뷰티 산업의 미래와 최신 트렌드를 한눈에 확인할 수 있는 역대 최대 규모의 ’2026 오송화장품뷰티엑스포‘가 24일 대단원의 막을 내렸다.",
+  "events": [
+   {
+    "name": "차세대 화장품 기술과 글로벌 K-뷰티 혁신전략 세미나",
+    "start_date": "2026-10-23",
+    "end_date": null,
+    "place": null,
+    "quote": "10월 23일(금) 충북화장품산업협회 주관으로 열린 ’차세대 화장품 기술과 글로벌 K-뷰티 혁신전략 세미나‘에는 화장품 기업 관계자와 전문가 등 200여 명이 참석해 높은 관심을 보였다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "이날 세미나에서는 롱제비티 뷰티 트렌드와 미생물 유래 PDRN의 항노화 소재 가능성, 필라그린 기반 기술, 바이오인캡슐레이션 및 하이브리드 제형 등 차세대 화장품 기술이 소개됐다."
+   },
+   {
+    "name": "필라그린",
+    "quote": "이날 세미나에서는 롱제비티 뷰티 트렌드와 미생물 유래 PDRN의 항노화 소재 가능성, 필라그린 기반 기술, 바이오인캡슐레이션 및 하이브리드 제형 등 차세대 화장품 기술이 소개됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": true
+}

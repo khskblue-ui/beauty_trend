@@ -1,0 +1,44 @@
+{
+ "doc_id": "55540cf32337af9e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734160",
+ "title": "펜할리곤스, 더현대 서울 팝업 운영 \" 향수 체험과 연말 선물 제안...배우...",
+ "summary": "11월 1일 공식 출시 를 앞둔 제품군으로, 향수 와 바디·홈 프래그런스 기프트 등 연말 선물에 활용할 수 있는 다양한 구성을 선보인다. 펜할리곤스의 홀리데이 캠페인은 선물을 주고받는 순간을 기차 여행에 빗대어...",
+ "published_at": "2026-10-27T15:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "펜할리곤스"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 팝업",
+   "홈 프래그런스",
+   "연말 선물 세트"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "펜할리곤스가 더현대 서울에서 향수 체험 팝업을 운영한다.",
+  "key_fact_quote": "11월 1일 공식 출시 를 앞둔 제품군으로, 향수 와 바디·홈 프래그런스 기프트 등 연말 선물에 활용할 수 있는 다양한 구성을 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

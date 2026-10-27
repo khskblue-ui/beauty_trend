@@ -1,0 +1,45 @@
+{
+ "doc_id": "f87b4daaeae9fb67",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.betanews.net/article/view/beta202610270159",
+ "title": "\"동국제약, 성장축 '제약'서 '해외 화장품'으로 이동\"-미래에셋證",
+ "summary": "헬스& 뷰티 영역으로의 본격적 확장 의지를 반영한 것으로 보인다”며 “향후 화장품 중심의 수출 다각화를... 서 연구원은 “국내 화장품 매출 성장 단계를 넘어 글로벌 K -더마 브랜드로 확장되는 국면에 진입했다”고...",
+ "published_at": "2026-10-27T17:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "동국제약",
+   "미래에셋증권"
+  ],
+  "keywords": [
+   "K더마",
+   "화장품 수출",
+   "해외 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미래에셋증권이 동국제약의 성장축이 해외 화장품으로 옮겨 간다고 봤다",
+  "key_fact_quote": "\"동국제약, 성장축 '제약'서 '해외 화장품'으로 이동\"-미래에셋證",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:38:28+00:00",
+ "had_body": false
+}

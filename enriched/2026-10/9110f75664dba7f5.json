@@ -1,0 +1,42 @@
+{
+ "doc_id": "9110f75664dba7f5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261027000295",
+ "title": "K뷰티 주문 폭주에 리드타임 증가…화장품 공급망 납기 지연 비상",
+ "summary": "업계 관계자는 “초기 리드타임 지연에 불만을 가지던 고객사도 속수무책인 상황을 인지하고 늘어난 리드타임을 반영해 제품 출고 계획을 세우는 식으로 대응한다”라면서 “ K뷰티 수출 확대 속 제조·원료·부자재 등...",
+ "published_at": "2026-10-27T16:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "공급망 납기",
+   "리드타임"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 주문이 몰리면서 화장품 공급망의 납기가 늦어지고 있다.",
+  "key_fact_quote": "K뷰티 주문 폭주에 리드타임 증가…화장품 공급망 납기 지연 비상",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

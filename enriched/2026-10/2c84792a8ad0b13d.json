@@ -1,0 +1,47 @@
+{
+ "doc_id": "2c84792a8ad0b13d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.apsk.co.kr/news/articleView.html?idxno=540881",
+ "title": "화장품으로 눈 돌리는 제약사들… K - 뷰티 신성장동력 부상",
+ "summary": "일동제약그룹은 지난 27일 나인앤컴퍼니와 합작법인 '아이디나인'을 출범시키고 뷰티 헬스케어 시장 진출을... 동국제약의 화장품 수출 액은 2024년 163억원에서 지난해 300억원으로 증가했으며, 올해는 1200억~1400억원에 이를...",
+ "published_at": "2026-10-28T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "일동제약그룹",
+   "나인앤컴퍼니",
+   "아이디나인",
+   "동국제약"
+  ],
+  "keywords": [
+   "제약사 화장품 진출",
+   "뷰티 헬스케어",
+   "합작법인"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "일동제약그룹이 나인앤컴퍼니와 합작법인을 세우고 뷰티 헬스케어 시장에 진출한다.",
+  "key_fact_quote": "일동제약그룹은 지난 27일 나인앤컴퍼니와 합작법인 '아이디나인'을 출범시키고 뷰티 헬스케어 시장 진출을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

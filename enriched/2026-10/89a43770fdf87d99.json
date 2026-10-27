@@ -1,0 +1,54 @@
+{
+ "doc_id": "89a43770fdf87d99",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202610278111g",
+ "title": "\"매출 두 배 뛰었다\"…K뷰티 대박에 아마존이 찜한 새 '금맥' [현장+]",
+ "summary": "유치하고 신제품 200종을 선보인다. 최근 미국에서는 PDRN, 펩타이드 등 스킨케어에 사용되던 성분을 헤어 제품에 접목하는 흐름이 확산하고 있다. 신 대표는 성분 배합과 제형 개발에 강점이 있는 한국 화장품 기업들이...",
+ "published_at": "2026-10-28T06:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존"
+  ],
+  "keywords": [
+   "헤어케어 성분",
+   "스킨케어 성분 접목",
+   "K뷰티 글로벌 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국에서 스킨케어 성분을 헤어 제품에 접목하는 흐름이 확산하고 있다",
+  "key_fact_quote": "최근 미국에서는 PDRN, 펩타이드 등 스킨케어에 사용되던 성분을 헤어 제품에 접목하는 흐름이 확산하고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "최근 미국에서는 PDRN, 펩타이드 등 스킨케어에 사용되던 성분을 헤어 제품에 접목하는 흐름이 확산하고 있다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "최근 미국에서는 PDRN, 펩타이드 등 스킨케어에 사용되던 성분을 헤어 제품에 접목하는 흐름이 확산하고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "82266044d34fa0b0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/distribution/channel/2026/10/27/EY73WOR2IBD27LYC2FJLFP63GE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "아마존, 내년 K뷰티 100곳 유럽 진출 지원… “가품엔 무관용”",
+ "summary": "1%뿐“… 신제품 200종 투입 아마존이 K뷰티 브랜드의 글로벌 영토 확장에 속도를 낸다. 내년 K뷰티 브랜드... 국내 화장품 산업 생태계를 꼽았다. 신생 브랜드가 끊임없이 등장하고, 올리브영, 네이버, 쿠팡, 무신사 등...",
+ "published_at": "2026-10-27T15:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존"
+  ],
+  "keywords": [
+   "아마존",
+   "K뷰티 유럽 진출",
+   "가품 단속"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아마존이 K뷰티 브랜드의 해외 진출을 지원한다.",
+  "key_fact_quote": "아마존이 K뷰티 브랜드의 글로벌 영토 확장에 속도를 낸다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-27T21:35:49+00:00",
+ "had_body": false
+}
