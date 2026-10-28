@@ -1,0 +1,80 @@
+{
+ "doc_id": "16cf38f4c5134f7b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100282",
+ "title": "제니하우스, 미국 대형 유통 채널 입점 성과…1~9월 해외 매출 21%↑",
+ "summary": "청담 프레스티지 살롱 제니하우스(JENNYHOUSE)의 홈 살롱 브랜드 제니하우스 코스메틱은 올해 초 미국 대형 유통 채널에 입점한 '살롱테라피 데미지케어 헤어오일세럼' 등의 판매 호조로 2026년 1~9월 해외 매출이 전년 동기보다 21% 늘었다고 27일 밝혔다.살롱테라피 데미지케어 헤어오일세럼은 청담 살롱 제니하우스의 손상모 케어 노하우로 만든 리브인 헤어오일이다. 가볍고 산뜻한 사용감에, 드라이기·고데기 열로부터 모발을 보호하는 기능과 특허 성분을 담아 손상모에 영양을 채우는 케어 기능을 함께 갖춘 '듀얼",
+ "published_at": "2026-10-28T10:30:08+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "CA",
+   "IN",
+   "VN"
+  ],
+  "brands": [
+   "제니하우스 코스메틱",
+   "제니하우스"
+  ],
+  "companies": [
+   "제니하우스"
+  ],
+  "keywords": [
+   "헤어오일",
+   "살롱 브랜드",
+   "북미 수출",
+   "해외 판로 확대"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "살롱테라피 데미지케어 헤어오일세럼",
+    "brand": "제니하우스 코스메틱",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "실크케어 에센스 미스트",
+    "brand": "제니하우스 코스메틱",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "데미지케어 샴푸·트리트먼트",
+    "brand": "제니하우스 코스메틱",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "제니하우스 코스메틱이 미국 대형 유통 채널 입점 후 재발주가 이어지며 해외 매출이 늘었다.",
+  "key_fact_quote": "미국 대형 유통 채널과의 거래는 2026년 초 입점 이후 정기적인 재발주로 이어졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r3-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:36:46+00:00",
+ "had_body": true
+}

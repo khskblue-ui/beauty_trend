@@ -1,0 +1,45 @@
+{
+ "doc_id": "2ceeb685ea03da4d",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58609",
+ "title": "AI 가짜 전문가 부당 광고·체험 후기 조작 등 420건 차단",
+ "summary": "[코스인코리아닷컴 김민석 기자]유튜브 광고 모니터링 결과 AI로 생성한 가짜 전문가 광고 및 체험 후기 조작, 기만적인 전후 비교 광고 등 총 420건의 부당광고가 적발, 차단됐다. 한국소비자원은 ‘25. 10~’26. 6 9개월간 유튜브 광고를 조사했으며 AI를 악용한 허위·과장 광고로 확인되는 경우 신속…",
+ "published_at": "2026-10-28T16:25:49+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국소비자원",
+   "구글"
+  ],
+  "keywords": [
+   "부당광고",
+   "AI 가짜 전문가",
+   "화장품 광고 규제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국소비자원이 AI로 만든 가짜 전문가 광고 등 부당광고를 적발해 차단했다.",
+  "key_fact_quote": "유튜브 광고 모니터링 결과 AI로 생성한 가짜 전문가 광고 및 체험 후기 조작, 기만적인 전후 비교 광고 등 총 420건의 부당광고가 적발, 차단됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": true
+}

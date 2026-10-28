@@ -1,0 +1,81 @@
+{
+ "doc_id": "e1fde590b65585f7",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58608",
+ "title": "달바, 펩타이드 엑소좀 30% 담은 ‘화이트 트러플 더블 라인’ 2종 업그레이드",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 프리미엄 비건 뷰티 브랜드 달바(d’Alba)가 독자 성분인 펩타이드 엑소좀™ 30%를 담은 ‘화이트 트러플 더블 라인’ 2종을 2026년 버전으로 업그레이드해 선보였다고밝혔다. 화이트 트러플 더블 라인은 ‘화이트 트러플 더블 세럼 앤 크림’과 ‘화이트 트러플 더…",
+ "published_at": "2026-10-28T16:24:15+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "달바"
+  ],
+  "companies": [],
+  "keywords": [
+   "비건 뷰티",
+   "안티에이징",
+   "이중 제형",
+   "엑소좀"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "화이트 트러플 더블 세럼 앤 크림",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "프리미엄 비건 뷰티 브랜드 달바(d’Alba)가 독자 성분인 펩타이드 엑소좀™ 30%를 담은 ‘화이트 트러플 더블 라인’ 2종을 2026년 버전으로 업그레이드해 선보였다고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "화이트 트러플 더블 레이어 세럼 펩타이드",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "프리미엄 비건 뷰티 브랜드 달바(d’Alba)가 독자 성분인 펩타이드 엑소좀™ 30%를 담은 ‘화이트 트러플 더블 라인’ 2종을 2026년 버전으로 업그레이드해 선보였다고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "달바가 화이트 트러플 더블 라인 2종의 핵심 성분을 보강해 업그레이드했다.",
+  "key_fact_quote": "달바는 서로 다른 제형을 하나의 제품에 결합한 더블 라인의 특징을 유지하면서 핵심 성분을 보강해 사용 편의성과 기능성을 함께 끌어올렸다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "펩타이드 엑소좀™",
+    "quote": "아쿠아 세럼에는 판테놀 5%를 배합해 수분과 진정 관리에 집중했으며 인텐스 크림에는 펩타이드 엑소좀™ 30%를 적용해 영양과 탄력 케어를 고려했다."
+   },
+   {
+    "name": "판테놀",
+    "quote": "아쿠아 세럼에는 판테놀 5%를 배합해 수분과 진정 관리에 집중했으며 인텐스 크림에는 펩타이드 엑소좀™ 30%를 적용해 영양과 탄력 케어를 고려했다."
+   },
+   {
+    "name": "나이아신아마이드",
+    "quote": "나이아신아마이드 2%도 더해 미백과 주름개선 2중 기능성을 갖췄다."
+   },
+   {
+    "name": "토코페롤",
+    "quote": "해당 세럼에는 펩타이드 엑소좀™ 30%와 토코페롤 1%를 조합해 보습과 광채 및 영양과 탄력 관리에 집중했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": true
+}

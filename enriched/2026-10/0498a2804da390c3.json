@@ -1,0 +1,59 @@
+{
+ "doc_id": "0498a2804da390c3",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100288",
+ "title": "무협, LA서 북미 첫 ‘K-프리미엄 소비재전’ 성료",
+ "summary": "한국무역협회(KITA, 회장 윤진식)는 ㈜엑스포럼(대표 신현대)과 공동으로 22일(목, 현지시간)부터 24일(토)까지 미국 로스앤젤레스(LA) 매직박스(Magic Box LA) 전시장에서 ‘2026 LA K-프리미엄 소비재전(KOREA EXPO LA 2026)’을 개최했다.‘K-프리미엄 소비재전’은 무역협회가 매년 도쿄·파리·자카르타 등 해외 주요 도시에서 개최하는 B2C 연계형 전시·상담회로, 우리 소비재 기업과 현지 바이어를 직접 연결해 실제 수출 성과로 이어지도록 지원하는 플랫폼이다. 특히 이번 행사는 올해 1~9월 대미 K-",
+ "published_at": "2026-10-28T13:02:03+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US",
+   "MX",
+   "CA"
+  ],
+  "brands": [],
+  "companies": [
+   "한국무역협회",
+   "엑스포럼",
+   "샐리뷰티",
+   "델솔",
+   "H마트"
+  ],
+  "keywords": [
+   "K소비재",
+   "K뷰티 수출",
+   "B2C 연계 전시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무역협회가 북미 첫 K-프리미엄 소비재전을 로스앤젤레스에서 열었다.",
+  "key_fact_quote": "한국무역협회(KITA, 회장 윤진식)는 ㈜엑스포럼(대표 신현대)과 공동으로 22일(목, 현지시간)부터 24일(토)까지 미국 로스앤젤레스(LA) 매직박스(Magic Box LA) 전시장에서 ‘2026 LA K-프리미엄 소비재전(KOREA EXPO LA 2026)’을 개최했다.",
+  "events": [
+   {
+    "name": "2026 LA K-프리미엄 소비재전(KOREA EXPO LA 2026)",
+    "start_date": "2026-10-22",
+    "end_date": "2026-10-24",
+    "place": "미국 로스앤젤레스(LA) 매직박스(Magic Box LA) 전시장",
+    "quote": "한국무역협회(KITA, 회장 윤진식)는 ㈜엑스포럼(대표 신현대)과 공동으로 22일(목, 현지시간)부터 24일(토)까지 미국 로스앤젤레스(LA) 매직박스(Magic Box LA) 전시장에서 ‘2026 LA K-프리미엄 소비재전(KOREA EXPO LA 2026)’을 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r3-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:36:46+00:00",
+ "had_body": true
+}

@@ -1,0 +1,80 @@
+{
+ "doc_id": "fbe25ac072901715",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/ex-nihilo-investit-le-bon-marche,28429",
+ "title": "Ex Nihilo investit Le Bon Marché Rive Gauche avec un pop-up d'avant fêtes",
+ "summary": "Du 19 octobre au 15 novembre 2026, la maison de haute parfumerie Ex Nihilo déploie un espace éphémère au cœur du Bon Marché Rive Gauche, à Paris, autour de son univers olfactif et de ses créations emblématiques. Installée sous la coupole principale du grand magasin, au pied des escalators conçus par Andrée Putman, cette installation met en scène un décor architectural dominé par le bleu électrique. Des jeux de lumière et des sphères miroir accompagnent un sapin de Noël graphique, conçu dans... - Brèves",
+ "published_at": "2026-10-29T02:46:29+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Ex Nihilo"
+  ],
+  "companies": [
+   "Ex Nihilo"
+  ],
+  "keywords": [
+   "니치 향수",
+   "팝업스토어",
+   "향 컨설팅"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Blue Talisman",
+    "brand": "Ex Nihilo",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Demon Dancer",
+    "brand": "Ex Nihilo",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "엑스 니힐로가 파리 봉마르셰 리브 고슈에서 연말 시즌 팝업을 연다.",
+  "key_fact_quote": "Du 19 octobre au 15 novembre 2026 , la maison de haute parfumerie Ex Nihilo déploie un espace éphémère au cœur du Bon Marché Rive Gauche, à Paris, autour de son univers olfactif et de ses créations emblématiques.",
+  "events": [
+   {
+    "name": "pop-up d'avant fêtes",
+    "start_date": "2026-10-19",
+    "end_date": "2026-11-15",
+    "place": "Bon Marché Rive Gauche, à Paris",
+    "quote": "Du 19 octobre au 15 novembre 2026 , la maison de haute parfumerie Ex Nihilo déploie un espace éphémère au cœur du Bon Marché Rive Gauche, à Paris, autour de son univers olfactif et de ses créations emblématiques."
+   },
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": true
+}

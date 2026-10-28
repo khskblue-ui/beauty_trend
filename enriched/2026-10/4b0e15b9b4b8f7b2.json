@@ -1,0 +1,49 @@
+{
+ "doc_id": "4b0e15b9b4b8f7b2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=248440",
+ "title": "디벨니티, 신보 퍼스트펭귄 기업 선정...\"글로벌 K-뷰티 성장성 인정 받...",
+ "summary": "대표 브랜드 인 너티퍼센트는 립 메이크업 제품을 중심으로 국내 무신사와 일본 Qoo10 등 주요 플랫폼에서 판매 성과를 기록했으며, 디브리오는 향수 시장을 중심으로 국내외 유통 접점을 확대하고 있다. 또한 회사는...",
+ "published_at": "2026-10-28T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "너티퍼센트",
+   "디브리오"
+  ],
+  "companies": [
+   "디벨니티",
+   "신보"
+  ],
+  "keywords": [
+   "K-뷰티 브랜드",
+   "립 메이크업",
+   "향수 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "디벨니티가 신보 퍼스트펭귄 기업으로 선정됐다",
+  "key_fact_quote": "디벨니티, 신보 퍼스트펭귄 기업 선정",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": false
+}

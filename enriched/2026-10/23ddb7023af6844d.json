@@ -1,0 +1,50 @@
+{
+ "doc_id": "23ddb7023af6844d",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58603",
+ "title": "3분기 누적 바이오헬스산업 수출액 중 화장품이 45% 차지",
+ "summary": "[코스인코리아닷컴 김민석 기자]3분기 누적 화장품 수출이 111.3억달러(+31%)로 전체 바이오헬스산업 수출액 247.5억달러의 45%로 가장 많은 것으로 나타났다. 27일 한국보건산업진흥원의 3분기 바이오헬스산업 수출 동향에 따르면 “화장품은 미국과 유럽 신규 시장의 기초화장품 수요 확산으로 역…",
+ "published_at": "2026-10-28T09:48:16+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "GB",
+   "NL",
+   "CA",
+   "VN",
+   "ID"
+  ],
+  "brands": [],
+  "companies": [
+   "한국보건산업진흥원"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "기초화장품",
+   "인체세정용 제품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품이 바이오헬스산업 수출에서 가장 큰 비중을 차지했다.",
+  "key_fact_quote": "3분기 누적 화장품 수출이 111.3억달러(+31%)로 전체 바이오헬스산업 수출액 247.5억달러의 45%로 가장 많은 것으로 나타났다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": true
+}

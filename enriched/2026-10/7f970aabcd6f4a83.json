@@ -1,0 +1,44 @@
+{
+ "doc_id": "7f970aabcd6f4a83",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58606",
+ "title": "美 FDA, 화장품 강제 리콜 가이드라인 확정... MoCRA 따른 명령 절차 구체화",
+ "summary": "[코스인코리아닷컴 김세화 기자]미국 식품의약국(The US Food and Drug Administration, FDA)이 화장품 강제 리콜의 판단 기준과 집행 절차를 담은 최종 가이드라인을 확정했다. 지난해 12월 공개한 초안에서 실질적인 변경 없이 최종 확정된 것으로, 화장품 규제 현대화법(MoCRA)에…",
+ "published_at": "2026-10-28T13:53:27+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "FDA"
+  ],
+  "keywords": [
+   "강제 리콜",
+   "MoCRA",
+   "화장품 규제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 FDA가 화장품 강제 리콜의 판단 기준과 집행 절차를 담은 최종 가이드라인을 확정했다.",
+  "key_fact_quote": "미국 식품의약국(The US Food and Drug Administration, FDA)이 화장품 강제 리콜의 판단 기준과 집행 절차를 담은 최종 가이드라인을 확정했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": true
+}

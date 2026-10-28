@@ -1,0 +1,45 @@
+{
+ "doc_id": "0d77afb0994e726a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/future/2026/10/28/2026100715141012835",
+ "title": "K뷰티 스타트업, SNS 바이럴 넘어 '체험'으로 브랜드 알린다",
+ "summary": "사우나를 마친 뒤 로딕의 홈케어 기기와 화장품 을 직접 사용해보고 제품에 대한 반응을 확인하는 방식으로 행사를 진행했다. 액시옴은 이와 별도로 출시 전 3개월간 제품을 미리 사용해보는 테스트와 4주간 소비자 체험...",
+ "published_at": "2026-10-28T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "로딕",
+   "액시옴"
+  ],
+  "companies": [],
+  "keywords": [
+   "체험형 마케팅",
+   "홈케어 기기",
+   "K뷰티 스타트업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 스타트업이 SNS 바이럴을 넘어 체험 행사로 브랜드를 알린다.",
+  "key_fact_quote": "K뷰티 스타트업, SNS 바이럴 넘어 '체험'으로 브랜드 알린다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": false
+}

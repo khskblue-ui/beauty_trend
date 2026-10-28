@@ -1,0 +1,43 @@
+{
+ "doc_id": "ab5ddfd4a1fee685",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=228589",
+ "title": "약사가 만든 스킨케어 '알엑스미', 약국 채널서 성장",
+ "summary": "약사들이 제품 기획과 설계에 참여하고, 전문 성분과 차별화된 브랜드 경험을 결합해 약국 화장품 시장에서... 인지도를 신제품 으로 연결한다는 전략이다. 해외 시장 공략도 추진하고 있다. 국내 소비자 반응을...",
+ "published_at": "2026-10-28T22:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "알엑스미"
+  ],
+  "companies": [],
+  "keywords": [
+   "약국 화장품",
+   "전문 성분"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "약사가 기획에 참여한 스킨케어 브랜드가 약국 채널에서 성장하고 있다.",
+  "key_fact_quote": "약사들이 제품 기획과 설계에 참여하고, 전문 성분과 차별화된 브랜드 경험을 결합해 약국 화장품 시장에서",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": false
+}

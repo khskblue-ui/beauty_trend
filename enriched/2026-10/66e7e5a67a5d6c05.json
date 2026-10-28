@@ -1,0 +1,43 @@
+{
+ "doc_id": "66e7e5a67a5d6c05",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/sb-founded/6334305",
+ "title": "\" 수출 액 900% 쑥\"… K - 뷰티 이을 K -소비재 188개 브랜드 키운다",
+ "summary": "K - 수출 전략품목은 뷰티 ·패션·라이프·푸드 등 소비재 분야에서 우리나라를 대표할 우수 제품을 발굴해 글로벌 경쟁력을 갖춘 수출 기업으로 육성하는 사업이다. 중기부는 2024년부터 올리브영 등 유통 대기업과 협업해...",
+ "published_at": "2026-10-28T14:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "K소비재 수출",
+   "수출 전략품목"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-수출 전략품목은 소비재 분야의 우수 제품을 수출 기업으로 키우는 사업이다.",
+  "key_fact_quote": "K - 수출 전략품목은 뷰티 ·패션·라이프·푸드 등 소비재 분야에서 우리나라를 대표할 우수 제품을 발굴해 글로벌 경쟁력을 갖춘 수출 기업으로 육성하는 사업이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": false
+}

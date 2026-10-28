@@ -1,0 +1,56 @@
+{
+ "doc_id": "87e759669f74c6fd",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58605",
+ "title": "지에프씨생명과학, 우유 엑소좀 miRNA-200c 미백 원료 기술 확보",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 바이오 소재 전문기업 지에프씨생명과학(대표 강희철)이 우유 엑소좀 유래 miRNA-200c를 활용한 미백 화장품 원료 기술의 특허 결정을 받으며 고기능성 바이오 소재 포트폴리오 확대에 나섰다고 27일 밝혔다. 이번 성과는 지에프씨생명과학이 추진해 온 miRNA 기반…",
+ "published_at": "2026-10-28T12:34:06+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "fmk"
+  ],
+  "companies": [
+   "지에프씨생명과학"
+  ],
+  "keywords": [
+   "엑소좀",
+   "미백 원료",
+   "마이크로바이옴",
+   "핵산 기반 소재"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지에프씨생명과학이 우유 엑소좀 유래 소재로 미백 화장품 원료 기술의 특허 결정을 받았다",
+  "key_fact_quote": "바이오 소재 전문기업 지에프씨생명과학(대표 강희철)이 우유 엑소좀 유래 miRNA-200c를 활용한 미백 화장품 원료 기술의 특허 결정을 받으며 고기능성 바이오 소재 포트폴리오 확대에 나섰다고 27일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "miRNA-200c",
+    "quote": "이번에는 우유 유래 엑소좀에 포함된 miRNA-200c에 주목해 미백 소재로 활용할 수 있는 기술 기반을 마련했다."
+   },
+   {
+    "name": "비피도박테리움 브레베 SAUER1-5",
+    "quote": "마이크로바이옴 분야에서는 사우어크라우트에서 분리한 ‘비피도박테리움 브레베 SAUER1-5’를 활용한 화장료 조성물 특허를 등록했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": true
+}

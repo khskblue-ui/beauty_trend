@@ -1,0 +1,47 @@
+{
+ "doc_id": "1e6ae3d93f3b4c46",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/beiersdorf-cfo-on-the-middle-east-conflict-tariffs-russia",
+ "title": "Beiersdorf CFO on the Middle East conflict, US tariffs and its Russia presence",
+ "summary": "Beiersdorf Group CFO Astrid Hermann claimed that a continued oil price above US$100, the result of the ongoing conflict in the Middle East, could cause significant upward pressure on costs, and talked about the company’s ongoing presence in Russia",
+ "published_at": "2026-10-28T21:09:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "DE",
+   "RU"
+  ],
+  "brands": [
+   "Beiersdorf"
+  ],
+  "companies": [
+   "Beiersdorf"
+  ],
+  "keywords": [
+   "원가 압력",
+   "관세",
+   "중동 분쟁"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "바이어스도르프 CFO는 중동 분쟁에 따른 유가 상승이 비용 부담을 키울 수 있다고 말했다.",
+  "key_fact_quote": "Beiersdorf Group CFO Astrid Hermann claimed that a continued oil price above US$100, the result of the ongoing conflict in the Middle East, could cause significant upward pressure on costs",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r3-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:36:46+00:00",
+ "had_body": false
+}

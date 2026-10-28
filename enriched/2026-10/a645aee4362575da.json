@@ -1,0 +1,46 @@
+{
+ "doc_id": "a645aee4362575da",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://theviewers.co.kr/View.aspx?No=4286771",
+ "title": "프래그런스 브랜드 912, 카카오톡 선물하기 입점… 향수 선물 수요 공략",
+ "summary": "912는 오드퍼퓸과 엑스트레 드 퍼퓸을 비롯해 헤어·바디 미스트, 핸드크림, 샤쉐 방향제, 디퓨저, 바디케어 제품 등을 선보이는 국내 향수 브랜드 다. 자체 생산 시설과 조향 노하우를 바탕으로 다양한 향기 제품군을...",
+ "published_at": "2026-10-28T13:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "912"
+  ],
+  "companies": [
+   "카카오톡"
+  ],
+  "keywords": [
+   "향수 선물",
+   "바디 미스트",
+   "디퓨저"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "향수 브랜드 912가 카카오톡 선물하기에 입점해 선물 수요를 겨냥한다.",
+  "key_fact_quote": "프래그런스 브랜드 912, 카카오톡 선물하기 입점",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": false
+}

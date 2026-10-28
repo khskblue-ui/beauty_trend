@@ -1,0 +1,46 @@
+{
+ "doc_id": "59f5409a08aafd4c",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312422",
+ "title": "K-Beauty Shampoo Exports Surge as Korean Haircare Gains Global Momentum",
+ "summary": "South Korea\\'s shampoo exports posted one of the strongest growth rates among major beauty categories in 2026, underscoring the rising global appeal of K-beauty haircare products.Strong export growth and a widening trade surplus suggest that Korean shampoo brands are strengthening their position in i",
+ "published_at": "2026-10-28T10:15:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-헤어케어",
+   "샴푸 수출",
+   "두피 케어",
+   "기능성 헤어케어",
+   "클린 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 샴푸 수출이 큰 폭으로 늘며 K-헤어케어의 해외 수요가 커지고 있다.",
+  "key_fact_quote": "According to Korea Customs Service trade data, shampoo exports (HS 330510) reached $70.1 million in the third quarter of 2026, up 46% year-on-year from $47.8 million.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r3-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:36:46+00:00",
+ "had_body": true
+}

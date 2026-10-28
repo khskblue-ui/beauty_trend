@@ -1,0 +1,53 @@
+{
+ "doc_id": "10bc58dea9e7043b",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/fenty-moves-into-wearable-beauty-tech-with-casetify-collection",
+ "title": "Fenty Beauty moves into ‘wearable beauty tech’ with Casetify phone accessories range",
+ "summary": "Singer Rihanna’s Fenty Beauty has teamed up with Casetify on a limited edition collection that spans phone cases, straps and charm hooks, and also securely pairs miniature versions of the make-up brand’s hero skus with the accessory brand’s hands-free technology",
+ "published_at": "2026-10-28T19:54:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Fenty Beauty",
+   "Casetify"
+  ],
+  "companies": [],
+  "keywords": [
+   "웨어러블 뷰티",
+   "뷰티 협업",
+   "한정판 컬렉션"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Casetify phone accessories range",
+    "brand": "Fenty Beauty",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Fenty Beauty가 Casetify와 손잡고 휴대폰 액세서리 한정판 컬렉션을 선보인다.",
+  "key_fact_quote": "Singer Rihanna’s Fenty Beauty has teamed up with Casetify on a limited edition collection that spans phone cases, straps and charm hooks",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": false
+}

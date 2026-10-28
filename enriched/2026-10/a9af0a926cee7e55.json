@@ -1,0 +1,56 @@
+{
+ "doc_id": "a9af0a926cee7e55",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://theviewers.co.kr/View.aspx?No=4283363",
+ "title": "리칼지메디 '써마드PLX', 김희애 전속 모델 발탁…홈 뷰티 디바이스 시...",
+ "summary": "뷰어스 백진엽 기­자 jinebito@theviewers.co.kr 홈 뷰티 디바이스 브랜드 리칼지메디는 배우 김희애를 새로운... 이어 향후 출시 할 신제품 홍보에도 김희애와의 협업을 이어갈 예정이라고 덧붙였다. 리칼지메디와 써마드PLX...",
+ "published_at": "2026-10-28T10:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리칼지메디",
+   "써마드PLX"
+  ],
+  "companies": [
+   "리칼지메디"
+  ],
+  "keywords": [
+   "홈 뷰티 디바이스",
+   "전속 모델"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "써마드PLX",
+    "brand": "리칼지메디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "리칼지메디가 써마드PLX 전속 모델로 배우 김희애를 발탁했다.",
+  "key_fact_quote": "홈 뷰티 디바이스 브랜드 리칼지메디는 배우 김희애를 새로운",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": false
+}

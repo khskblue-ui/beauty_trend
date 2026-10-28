@@ -1,0 +1,46 @@
+{
+ "doc_id": "d73c47abc7d8535d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.socialvalue.kr/news/view/1065595363480722",
+ "title": "중소 브랜드 타고 더 커진 K-뷰티…코스맥스·콜마도 역대급 실적",
+ "summary": "글로벌 K-뷰티 열풍 속에서 국내 화장품 제조자개발생산(ODM) 기업들이 주목받고 있다. 중소·인디... 로레알과 코스맥스는 20년 이상 제품 공급 관계를 이어온 가운데 지난 9월 글로벌 신제품 과 혁신 원료 공동 개발...",
+ "published_at": "2026-10-28T07:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "콜마",
+   "로레알"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "화장품 ODM",
+   "인디 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티 열풍 속에서 코스맥스와 콜마 등 국내 ODM 기업이 주목받고 있다.",
+  "key_fact_quote": "글로벌 K-뷰티 열풍 속에서 국내 화장품 제조자개발생산(ODM) 기업들이 주목받고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": false
+}

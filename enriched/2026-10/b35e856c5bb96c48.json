@@ -1,0 +1,78 @@
+{
+ "doc_id": "b35e856c5bb96c48",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/coptis-devoile-purple-une-ia,28431",
+ "title": "Coptis dévoile Purple, une IA \"Prompt-to-Formula\" dédiée à la R&D cosmétique",
+ "summary": "À l'occasion de son Club Utilisateurs annuel, organisé le 13 octobre 2026 à Paris, l'éditeur de logiciels pour la formulation et la conformité réglementaire a dévoilé deux innovations fondées sur l'intelligence artificielle : Purple et Document Reader. Destinées aux équipes de R&D, de formulation et des affaires réglementaires, elles visent à accélérer le développement des produits cosmétiques et à simplifier la gestion des données techniques. Un agent IA \" Prompt-to-Formula\" Intégré... - Brèves",
+ "published_at": "2026-10-29T06:11:16+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "Coptis"
+  ],
+  "keywords": [
+   "화장품 R&D AI",
+   "처방 설계 소프트웨어",
+   "규제 대응 자동화"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Purple",
+    "brand": "Coptis",
+    "launch_date": "2026-10-13",
+    "launch_status": "launched",
+    "launch_quote": "À l'occasion de son Club Utilisateurs annuel, organisé le 13 octobre 2026 à Paris, l'éditeur de logiciels pour la formulation et la conformité réglementaire a dévoilé deux innovations fondées sur l'intelligence artificielle : Purple et Document Reader.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Document Reader",
+    "brand": "Coptis",
+    "launch_date": "2026-10-13",
+    "launch_status": "launched",
+    "launch_quote": "À l'occasion de son Club Utilisateurs annuel, organisé le 13 octobre 2026 à Paris, l'éditeur de logiciels pour la formulation et la conformité réglementaire a dévoilé deux innovations fondées sur l'intelligence artificielle : Purple et Document Reader.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코프티스가 화장품 처방 개발과 원료 자료 정리를 돕는 AI 도구 두 가지를 공개했다.",
+  "key_fact_quote": "À l'occasion de son Club Utilisateurs annuel, organisé le 13 octobre 2026 à Paris, l'éditeur de logiciels pour la formulation et la conformité réglementaire a dévoilé deux innovations fondées sur l'intelligence artificielle : Purple et Document Reader.",
+  "events": [
+   {
+    "name": "Club Utilisateurs",
+    "start_date": "2026-10-13",
+    "end_date": null,
+    "place": "Paris",
+    "quote": "À l'occasion de son Club Utilisateurs annuel, organisé le 13 octobre 2026 à Paris, l'éditeur de logiciels pour la formulation et la conformité réglementaire a dévoilé deux innovations fondées sur l'intelligence artificielle : Purple et Document Reader."
+   },
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": true
+}

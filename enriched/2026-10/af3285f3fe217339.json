@@ -1,0 +1,74 @@
+{
+ "doc_id": "af3285f3fe217339",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=149726",
+ "title": "여성 케어 시장 커진다…뷰티·바이오까지 경쟁 확대",
+ "summary": "스위트아몬드오일과 호호바오일을 기반으로 합성 향료 를 사용하지 않은 '내추럴 테라피'와 전문 조향사가 아로마 오일을 배합한 '아로마 테라피'로 구성했다. 회사 측은 향 관리 외에 마사지와 목욕 등에서도 활용할 수...",
+ "published_at": "2026-10-28T16:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "여성 케어",
+   "이너퍼퓸",
+   "아로마 테라피"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "내추럴 테라피",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아로마 테라피",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "여성 케어 시장이 커지면서 뷰티와 바이오 업계까지 경쟁이 넓어지고 있다.",
+  "key_fact_quote": "스위트아몬드오일과 호호바오일을 기반으로 합성 향료 를 사용하지 않은 '내추럴 테라피'와 전문 조향사가 아로마 오일을 배합한 '아로마 테라피'로 구성했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "스위트아몬드오일",
+    "quote": "스위트아몬드오일과 호호바오일을 기반으로 합성 향료 를 사용하지 않은 '내추럴 테라피'와 전문 조향사가 아로마 오일을 배합한 '아로마 테라피'로 구성했다."
+   },
+   {
+    "name": "호호바오일",
+    "quote": "스위트아몬드오일과 호호바오일을 기반으로 합성 향료 를 사용하지 않은 '내추럴 테라피'와 전문 조향사가 아로마 오일을 배합한 '아로마 테라피'로 구성했다."
+   },
+   {
+    "name": "아로마 오일",
+    "quote": "스위트아몬드오일과 호호바오일을 기반으로 합성 향료 를 사용하지 않은 '내추럴 테라피'와 전문 조향사가 아로마 오일을 배합한 '아로마 테라피'로 구성했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": false
+}

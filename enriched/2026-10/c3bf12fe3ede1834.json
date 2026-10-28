@@ -1,0 +1,98 @@
+{
+ "doc_id": "c3bf12fe3ede1834",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100295",
+ "title": "‘건조주의보 발령“… 가을철 환절기, 스킨케어 핵심 ‘보습’",
+ "summary": "여름철 가벼운 스킨케어를 고수하던 이들이 본격적인 가을 추위와 함께 보습 중심의 뷰티 루틴으로 전환하고 있다. 아침저녁으로 커지는 일교차와 찬 바람은 피부의 유수분 밸런스를 무너뜨리고, 얼굴뿐만 아니라 모발과 입술까지 쉽게 건조하고 거칠게 만들기 십상이다. 이에 뷰티업계의 깊은 보습과 지속력을 내세운 다양한 환절기 맞춤형 제품들이 주목을 받고 있다.에바끌레르 ‘히알루로닉 캘러스 마스크팩’은 환절기 예민해진 피부를 위한 대안으로 꾸준히 성장세를 보이고 있다. 식물성 줄기세포를 핵심 원료로 사용하여 세포 재생을 촉진하고 피부 건강을 전",
+ "published_at": "2026-10-28T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에바끌레르",
+   "오하입",
+   "AGE20’S"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "환절기 보습",
+   "헤어팩",
+   "립 세럼",
+   "마스크팩"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "히알루로닉 캘러스 마스크팩",
+    "brand": "에바끌레르",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "본딩 알파 케라틴 헤어팩 퍼글러 에디션",
+    "brand": "오하입",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "오하입(OHYPE)이 무신사와의 단독 협업을 통해 재미를 더한 ‘본딩 알파 케라틴 헤어팩 퍼글러 에디션’을 선보여 좋은 반응을 얻고 있다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "립시크 글로우 세럼",
+    "brand": "AGE20’S",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "환절기 건조에 맞춰 보습을 내세운 제품들이 주목받고 있다.",
+  "key_fact_quote": "이에 뷰티업계의 깊은 보습과 지속력을 내세운 다양한 환절기 맞춤형 제품들이 주목을 받고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "식물성 줄기세포",
+    "quote": "식물성 줄기세포를 핵심 원료로 사용하여 세포 재생을 촉진하고 피부 건강을 전반적으로 개선하며, 저분자 히알루로닉을 함유해 피부 깊숙한 층까지 수분과 탄력을 공급한다."
+   },
+   {
+    "name": "저분자 히알루로닉",
+    "quote": "식물성 줄기세포를 핵심 원료로 사용하여 세포 재생을 촉진하고 피부 건강을 전반적으로 개선하며, 저분자 히알루로닉을 함유해 피부 깊숙한 층까지 수분과 탄력을 공급한다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "9종 히알루론산, 3종 세라마이드, 12종 펩타이드 등 24가지 영양 성분을 함유해 입술 보습과 탄력을 동시에 케어한다."
+   },
+   {
+    "name": "세라마이드",
+    "quote": "9종 히알루론산, 3종 세라마이드, 12종 펩타이드 등 24가지 영양 성분을 함유해 입술 보습과 탄력을 동시에 케어한다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "9종 히알루론산, 3종 세라마이드, 12종 펩타이드 등 24가지 영양 성분을 함유해 입술 보습과 탄력을 동시에 케어한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": true
+}

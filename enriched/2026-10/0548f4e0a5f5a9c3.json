@@ -1,0 +1,40 @@
+{
+ "doc_id": "0548f4e0a5f5a9c3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.sbs.co.kr/article_hub/20000342540?division=NAVER",
+ "title": "K- 뷰티 이어 이번엔 K-가방…올 1~9월 수출 40%↑",
+ "summary": "해외 매입 물량과 'H백' 수출은 증가하고 있습니다. 패션업계에서는 가방이 제품별 사이즈나 시즌별 신제품 출시 등에 대한 부담이 낮아 일반 의류에 비해 해외 시장 진출에 유리하다는 분석이 나옵니다.",
+ "published_at": "2026-10-28T07:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-가방 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r3-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:36:46+00:00",
+ "had_body": false
+}

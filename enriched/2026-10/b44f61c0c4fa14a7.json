@@ -1,0 +1,66 @@
+{
+ "doc_id": "b44f61c0c4fa14a7",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100284",
+ "title": "라인플러스 ‘워너블 AI’, ‘아마존 뷰티 인 서울 2026’ 참가",
+ "summary": "라인플러스(LINE PLUS, 대표: 이은정)의 AI 마케팅 솔루션 ‘워너블 AI(Oneable AI)’가 27일 그랜드 인터컨티넨탈 서울 파르나스에서 열린 ‘아마존 뷰티 인 서울 2026(Amazon Beauty in Seoul 2026)’에 참가해 K-뷰티 브랜드를 위한 AI 기반 상품 콘텐츠 제작 솔루션을 선보였다. 현장에서는 방문객들이 자신의 상품을 활용해 콘텐츠 제작 과정을 직접 체험할 수 있는 기회도 마련했다.워너블 AI는 이번 행사에서 체험형 부스를 운영하고, K-뷰티 셀러와 브랜드 관계자를 대상으로 실제 상품을 활용한",
+ "published_at": "2026-10-28T10:34:19+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "워너블 AI"
+  ],
+  "companies": [
+   "라인플러스"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "AI 마케팅",
+   "아마존 판매",
+   "콘텐츠 현지화"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "워너블 AI",
+    "brand": "라인플러스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "지난 7일 출시한 워너블 AI는 아마존 셀러와 브랜드를 위한 AI 마케팅 솔루션으로, 상품·시장 분석부터 콘텐츠 기획·제작, 아마존의 판매 이미지 주요 가이드라인 점검과 현지화까지 지원한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "라인플러스가 K-뷰티 브랜드를 위한 AI 콘텐츠 제작 솔루션을 뷰티 행사에서 선보였다",
+  "key_fact_quote": "라인플러스(LINE PLUS, 대표: 이은정)의 AI 마케팅 솔루션 ‘워너블 AI(Oneable AI)’가 27일 그랜드 인터컨티넨탈 서울 파르나스에서 열린 ‘아마존 뷰티 인 서울 2026(Amazon Beauty in Seoul 2026)’에 참가해 K-뷰티 브랜드를 위한 AI 기반 상품 콘텐츠 제작 솔루션을 선보였다.",
+  "events": [
+   {
+    "name": "아마존 뷰티 인 서울 2026",
+    "start_date": "2026-10-27",
+    "end_date": null,
+    "place": "그랜드 인터컨티넨탈 서울 파르나스",
+    "quote": "라인플러스(LINE PLUS, 대표: 이은정)의 AI 마케팅 솔루션 ‘워너블 AI(Oneable AI)’가 27일 그랜드 인터컨티넨탈 서울 파르나스에서 열린 ‘아마존 뷰티 인 서울 2026(Amazon Beauty in Seoul 2026)’에 참가해 K-뷰티 브랜드를 위한 AI 기반 상품 콘텐츠 제작 솔루션을 선보였다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": true
+}

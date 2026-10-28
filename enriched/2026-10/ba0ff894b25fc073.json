@@ -1,0 +1,68 @@
+{
+ "doc_id": "ba0ff894b25fc073",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/brazil-brings-six-ingredient,28430",
+ "title": "Brazil brings six ingredient suppliers to In cosmetics Asia 2026",
+ "summary": "Six Brazilian companies specializing in beauty and personal care ingredients will take part in the 2026 edition of the in-cosmetics Asia trade show in Bangkok, Thailand, from November 3 to 5. Their participation will be coordinated by Beautycare Brazil, an internationalization program developed by the Brazilian Association of the Personal Hygiene, Perfumery and Cosmetics Industry (ABIHPEC) in partnership with the Brazilian Trade and Investment Promotion Agency (ApexBrasil). Beautycare... - Industry buzz",
+ "published_at": "2026-10-29T03:11:34+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "BR",
+   "TH",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "100% Amazonia Ingredientes",
+   "Bielus Ingredientes",
+   "Granatum Ingredients",
+   "Kaapi",
+   "NanoScoping",
+   "Plantus Indústria",
+   "ABIHPEC",
+   "ApexBrasil"
+  ],
+  "keywords": [
+   "화장품 원료 박람회",
+   "천연 활성 원료",
+   "지속가능 원료"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "브라질 원료 기업 여섯 곳이 방콕에서 열리는 in-cosmetics Asia 2026에 참가한다.",
+  "key_fact_quote": "Six Brazilian companies specializing in beauty and personal care ingredients will take part in the 2026 edition of the in-cosmetics Asia trade show in Bangkok, Thailand, from November 3 to 5.",
+  "events": [
+   {
+    "name": "in-cosmetics Asia 2026",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-05",
+    "place": "Bangkok, Thailand",
+    "quote": "Six Brazilian companies specializing in beauty and personal care ingredients will take part in the 2026 edition of the in-cosmetics Asia trade show in Bangkok, Thailand, from November 3 to 5."
+   },
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": true
+}

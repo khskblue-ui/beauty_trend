@@ -1,0 +1,47 @@
+{
+ "doc_id": "4c3768664b9f17a1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/living/2026/10/28/2026102814343343859",
+ "title": "[단독]올리브영 '두 번째 축' 웰니스, 뷰티 1번지 성수 입성",
+ "summary": "상품을 화장품 에 이은 두 번째 축으로 키우려는 움직임이 구체화됐다. 초기 성과가 확장의 배경으로 꼽힌다. 올리브영은 지난 5월 올리브베러 출시 100일을 맞아 국내외 웰니스 브랜드 560여개와 상품 1만3000여종을...",
+ "published_at": "2026-10-28T16:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영",
+   "올리브베러"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "웰니스",
+   "헬스앤뷰티 스토어",
+   "성수 상권"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 웰니스를 화장품에 이은 두 번째 축으로 키우려 성수에 들어선다.",
+  "key_fact_quote": "상품을 화장품 에 이은 두 번째 축으로 키우려는 움직임이 구체화됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r3-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:36:46+00:00",
+ "had_body": false
+}

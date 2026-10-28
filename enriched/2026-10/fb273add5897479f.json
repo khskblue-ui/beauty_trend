@@ -1,0 +1,84 @@
+{
+ "doc_id": "fb273add5897479f",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100292",
+ "title": "에이피 뷰티, 더현대 서울서 팝업스토어 ‘M.D. 클리니컬 라운지’ 운영",
+ "summary": "아모레퍼시픽의 하이엔드 스킨케어 브랜드 에이피 뷰티(AP BEAUTY)가 브랜드 첫 번째 팝업스토어인 ‘M.D. 클리니컬 라운지 (M.D. Clinical Lounge)’를 10월 27일부터 11월 4일까지 더현대 서울에서 운영한다.이번 팝업스토어는 전문적인 피부 케어를 받는 듯한 여정을 모티브로, 에이피 뷰티만의 고기능성 스킨케어 기술력과 가치를 경험할 수 있도록 기획됐다. 제품 체험과 함께 프라이빗 뷰티 클래스를 운영해 방문객에게 차별화된 럭셔리 스킨케어 경험을 제공할 예정이다.‘M.D. 클리니컬 라운지’에서는 피부과 관리 수준",
+ "published_at": "2026-10-28T13:10:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이피 뷰티",
+   "아모레퍼시픽"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "하이엔드 스킨케어",
+   "고기능성 스킨케어",
+   "피부과 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리쥬브네이팅 부스터샷 M.D. 세럼",
+    "brand": "에이피 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "듀얼 리페어 리프트 크림",
+    "brand": "에이피 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "M.D. 듀얼 리페어 리프트 크림 넥 마스크",
+    "brand": "에이피 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피 뷰티가 더현대 서울에서 브랜드 첫 팝업스토어를 열고 대표 제품을 선보인다.",
+  "key_fact_quote": "아모레퍼시픽의 하이엔드 스킨케어 브랜드 에이피 뷰티(AP BEAUTY)가 브랜드 첫 번째 팝업스토어인 ‘M.D. 클리니컬 라운지 (M.D. Clinical Lounge)’를 10월 27일부터 11월 4일까지 더현대 서울에서 운영한다.",
+  "events": [
+   {
+    "name": "M.D. 클리니컬 라운지",
+    "start_date": "2026-10-27",
+    "end_date": "2026-11-04",
+    "place": "더현대 서울",
+    "quote": "아모레퍼시픽의 하이엔드 스킨케어 브랜드 에이피 뷰티(AP BEAUTY)가 브랜드 첫 번째 팝업스토어인 ‘M.D. 클리니컬 라운지 (M.D. Clinical Lounge)’를 10월 27일부터 11월 4일까지 더현대 서울에서 운영한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": true
+}

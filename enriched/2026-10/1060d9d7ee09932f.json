@@ -1,0 +1,71 @@
+{
+ "doc_id": "1060d9d7ee09932f",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=311816",
+ "title": "Woojeong Expands into Global Skincare Market with Patented Water-Soluble Silica Technology",
+ "summary": "As demand for science-backed skincare products continues to grow in global beauty markets, Korea\\'s Woojeong Ind. Inc. is expanding into the skincare sector based on its experience in specialty materials and industrial products.The move comes as technology-led skincare and science-backed formulations",
+ "published_at": "2026-10-28T10:20:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "CN",
+   "VN",
+   "JP",
+   "MN"
+  ],
+  "brands": [
+   "MAMANGTTE"
+  ],
+  "companies": [
+   "Woojeong Ind. Inc."
+  ],
+  "keywords": [
+   "수용성 실리카",
+   "과학 기반 스킨케어",
+   "특허 기술",
+   "K뷰티 수출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Rebalance Bio Essence",
+    "brand": "MAMANGTTE",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "산업용 소재 기업 우정산업이 수용성 실리카를 앞세운 스킨케어 브랜드로 해외 진출을 추진한다.",
+  "key_fact_quote": "Korea's Woojeong Ind. Inc. is expanding into the skincare sector based on its experience in specialty materials and industrial products.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "water-soluble silica",
+    "quote": "MAMANGTTE is a skincare brand that incorporates water-soluble silica as a core ingredient."
+   },
+   {
+    "name": "aroma microcapsules",
+    "quote": "Founded in 1994, Woojeong has built its business around the export of specialty chemicals and industrial materials, including aroma microcapsules, thermochromic powders, textile auxiliaries, sublimation inks, and eco-friendly coating technologies."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": true
+}

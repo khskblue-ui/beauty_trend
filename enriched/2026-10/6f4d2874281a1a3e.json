@@ -1,0 +1,68 @@
+{
+ "doc_id": "6f4d2874281a1a3e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.apsk.co.kr/news/articleView.html?idxno=540876",
+ "title": "'헬스케어 매출, OTC 2배'…동국제약의 이유있는 화장품 사명 장착",
+ "summary": "해외에서도 화장품 수출 이 의약품을 앞질렀다. 사명에 대표 화장품 브랜드를 넣은 동국제약의 결정도... 5월 얼타 뷰티 에 들어갈 때 가져간 제품은 '마데카 크림 타임리버스' 하나였다. 8월부터 PDRN·말차·멜라캡처...",
+ "published_at": "2026-10-28T11:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "더마 화장품",
+   "K-뷰티 해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "마데카 크림 타임리버스",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동국제약이 화장품 수출 확대를 배경으로 사명에 대표 화장품 브랜드를 넣었다",
+  "key_fact_quote": "해외에서도 화장품 수출 이 의약품을 앞질렀다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "8월부터 PDRN·말차·멜라캡처..."
+   },
+   {
+    "name": "말차",
+    "quote": "8월부터 PDRN·말차·멜라캡처..."
+   },
+   {
+    "name": "멜라캡처",
+    "quote": "8월부터 PDRN·말차·멜라캡처..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": false
+}

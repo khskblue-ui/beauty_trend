@@ -1,0 +1,59 @@
+{
+ "doc_id": "f7a9261705b9dc44",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.theguru.co.kr/news/article.html?no=108938",
+ "title": "휴젤 웰라쥬, 헬로키티 컬래버로 日 뷰티 시장 공략↑…플라자 입점",
+ "summary": "'HA블루세럼' 한정판 2종 출시 …10~30대 여성층 겨냥 美 세포라 이어 日 오프라인 확대…해외 판매처 다변화... 1966년 도쿄 긴자에 '소니플라자'라는 이름으로 1호점을 낸 뒤 화장품 과 캐릭터 상품, 수입 과자 등을...",
+ "published_at": "2026-10-28T13:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "JP",
+   "US"
+  ],
+  "brands": [
+   "웰라쥬"
+  ],
+  "companies": [
+   "휴젤"
+  ],
+  "keywords": [
+   "캐릭터 컬래버",
+   "한정판 세럼",
+   "K뷰티 해외 진출",
+   "오프라인 유통 확대"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "HA블루세럼",
+    "brand": "웰라쥬",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "'HA블루세럼' 한정판 2종 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "휴젤 웰라쥬가 헬로키티 컬래버 한정판 세럼을 내놓고 일본 플라자에 입점했다.",
+  "key_fact_quote": "'HA블루세럼' 한정판 2종 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r3-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:36:46+00:00",
+ "had_body": false
+}

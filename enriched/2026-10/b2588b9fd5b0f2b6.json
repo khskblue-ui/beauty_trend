@@ -1,0 +1,58 @@
+{
+ "doc_id": "b2588b9fd5b0f2b6",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100294",
+ "title": "지에프씨생명과학, miRNA 기반 미백 기술 확보",
+ "summary": "지에프씨생명과학(388610, 대표 강희철)은 miRNA(마이크로RNA)를 활용한 피부 개선 기술을 확보하고, 이를 기반으로 기능성 화장품 원료 개발을 확대하고 있다고 27일 밝혔다.회사는 최근 핵심 기술인 ‘miRNA를 유효성분으로 포함하는 피부 상태 개선용 조성물’ 특허 등록을 완료했다. 이를 바탕으로 차세대 바이오 활성 성분으로 주목받고 있는 miRNA 연구를 미백 등 고기능성 소재 개발로 확대하고 있다.miRNA는 유전자 발현을 조절하는 짧은 비암호화 RNA로, 특정 miRNA는 피부 개선에 관여하는 것으로 연구되고 있다.",
+ "published_at": "2026-10-28T13:17:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "지에프씨생명과학"
+  ],
+  "keywords": [
+   "miRNA 원료",
+   "마이크로바이옴",
+   "엑소좀",
+   "미백 소재"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지에프씨생명과학이 miRNA를 활용한 피부 개선 기술을 확보하고 기능성 화장품 원료 개발을 넓히고 있다.",
+  "key_fact_quote": "지에프씨생명과학(388610, 대표 강희철)은 miRNA(마이크로RNA)를 활용한 피부 개선 기술을 확보하고, 이를 기반으로 기능성 화장품 원료 개발을 확대하고 있다고 27일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "miRNA",
+    "quote": "miRNA는 유전자 발현을 조절하는 짧은 비암호화 RNA로, 특정 miRNA는 피부 개선에 관여하는 것으로 연구되고 있다."
+   },
+   {
+    "name": "miRNA-200c",
+    "quote": "미백 분야에서는 우유 엑소좀 유래 miRNA-200c를 활용한 소재 기술을 확보했다."
+   },
+   {
+    "name": "비피도박테리움 브레베 SAUER1-5",
+    "quote": "회사는 양배추 발효식품인 사우어크라우트에서 유래한 ‘비피도박테리움 브레베 SAUER1-5’를 활용한 피부 상태 개선용 화장품 원료 조성물 특허를 등록했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": true
+}

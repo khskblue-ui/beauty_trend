@@ -1,0 +1,62 @@
+{
+ "doc_id": "77940ce6e27da202",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53806",
+ "title": "코스맥스, 글로벌 규제 대응·원료 공급망 혁신 가속",
+ "summary": "글로벌 화장품 ODM 기업 코스맥스(대표 최경)가 글로벌 화장품 규제 변화에 선제 대응하고 프리미엄·친환경 원료 확보를 위한 공급망 혁신에 속도를 낸다. 원료 파트너 기업의 소재 기술과 자체 제형 개발 역량을 결합, 제품 경쟁력을 높이는 동시에 글로벌 시장 변화에 대응할 수 있는 협력 체계를 강화한다…",
+ "published_at": "2026-10-28T18:44:55+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "원료 공급망",
+   "글로벌 규제 대응",
+   "클린뷰티",
+   "기능성 성분"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스가 원료 파트너사 간담회를 열고 규제 대응과 원료 공급망 혁신 방안을 논의했다.",
+  "key_fact_quote": "글로벌 화장품 ODM 기업 코스맥스(대표 최경)가 글로벌 화장품 규제 변화에 선제 대응하고 프리미엄·친환경 원료 확보를 위한 공급망 혁신에 속도를 낸다.",
+  "events": [
+   {
+    "name": "2026 코스맥스 원료 파트너사 간담회",
+    "start_date": "2026-10-27",
+    "end_date": null,
+    "place": "경기도 성남 판교 스타트업 캠퍼스",
+    "quote": "코스맥스는 지난 27일 경기도 성남 판교 스타트업 캠퍼스에서 ‘2026 코스맥스 원료 파트너사 간담회’(Strategic Partnership Forum)를 가졌다. 최경 대표이사 부회장과 강승현 R&I유닛 원장을 비롯해 20여 원료사 관계자 등 약 40명이 참석했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "레티놀",
+    "quote": "레티놀·NAD+ 등 글로벌 시장에서의 수요 확대를 예상하는 기능성 성분은 스킨케어를 넘어 퍼스널케어 분야까지 적용 가능성을 검토한다."
+   },
+   {
+    "name": "NAD+",
+    "quote": "레티놀·NAD+ 등 글로벌 시장에서의 수요 확대를 예상하는 기능성 성분은 스킨케어를 넘어 퍼스널케어 분야까지 적용 가능성을 검토한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": true
+}

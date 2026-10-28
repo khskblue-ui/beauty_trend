@@ -1,0 +1,46 @@
+{
+ "doc_id": "56a5d9a42f26192a",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/unilever-beauty-power-brands-dove-vaseline-k18-drive-growth-q3",
+ "title": "Unilever’s beauty ‘power brands’ Dove and Vaseline help drive Q3 growth",
+ "summary": "Double-digit growth at Unilever’s body care brands Dove and Vaseline, as well as prestige hair care brand K18, helped drive third quarter 2026 sales as the conglomerate upgraded its full-year outlook",
+ "published_at": "2026-10-28T20:07:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Dove",
+   "Vaseline",
+   "K18"
+  ],
+  "companies": [
+   "Unilever"
+  ],
+  "keywords": [
+   "바디케어",
+   "프레스티지 헤어케어",
+   "파워 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유니레버가 바디케어와 헤어케어 브랜드의 성장에 힘입어 연간 전망을 상향했다.",
+  "key_fact_quote": "Double-digit growth at Unilever’s body care brands Dove and Vaseline, as well as prestige hair care brand K18, helped drive third quarter 2026 sales as the conglomerate upgraded its full-year outlook",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": false
+}

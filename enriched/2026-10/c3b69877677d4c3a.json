@@ -1,0 +1,44 @@
+{
+ "doc_id": "c3b69877677d4c3a",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100286",
+ "title": "K-뷰티 순풍 탄 중소기업 수출, 역대 3분기 최고치 경신",
+ "summary": "중소벤처기업부가 발표한 지난 26일 발표한 ‘2026년 3분기 중소기업 수출 동향’에 따르면, 불안정한 대외 여건 속에서도 K-뷰티를 앞세운 북미·유럽 및 신흥시장 공략에 힘입어 분기 및 누계 기준 모두 역대 최고 실적을 경신했다.2026년 3분기 중소기업 수출액은 전년 동기 대비 8.8% 증가한 334억 달러를 기록했으며, 1~9월 누계 수출액 역시 9.5% 증가한 965억 달러로 당기 및 누계 모두 역대 최고치를 달성했다. 아울러 1~9월 누계 기준 수출 중소기업 수도 전년 대비 1.6% 증가한 90,765개사로 역대 최고치를",
+ "published_at": "2026-10-28T12:59:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "화장품 수출",
+   "인디브랜드",
+   "온라인 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중소기업 화장품 수출이 분기와 누계 모두 역대 최고치를 기록했다.",
+  "key_fact_quote": "화장품은 북미(+33.1%)와 유럽(+58.6%)의 지속적인 성장세에 힘입어 3분기 27.9억 달러(+28.6%), 누계 76.5억 달러(+26.4%)를 기록하며 분기와 누계 모두 역대 최고치를 딜상했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r3-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:36:46+00:00",
+ "had_body": true
+}

@@ -1,0 +1,81 @@
+{
+ "doc_id": "1ca77de4e90f304c",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/a-mixed-q3-for-beiersdorf-as-la,28427",
+ "title": "A mixed Q3 for Beiersdorf as La Prairie accelerates and Nivea struggles",
+ "summary": "Beiersdorf's third-quarter 2026 results highlighted contrasting performances across its skincare portfolio, with double-digit growth in Derma and a strong rebound at La Prairie offset by continued pressure on Nivea. The group's net sales reached EUR 2.36 billion, down 1.3% organically in the July-September period, compared with a 2.3% decline in the second quarter. In the first nine months, Beiersdorf net sales reached EUR 7.3 billion, representing an organic decline of 2.8%. Derma delivers... - Industry buzz",
+ "published_at": "2026-10-28T19:50:05+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "DE",
+   "US",
+   "CN",
+   "FR"
+  ],
+  "brands": [
+   "Nivea",
+   "La Prairie",
+   "Eucerin",
+   "Aquaphor",
+   "Labello"
+  ],
+  "companies": [
+   "Beiersdorf"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "럭셔리 스킨케어",
+   "마이크로바이옴",
+   "진입 라인"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Dermopure Clinical Probiom8",
+    "brand": "Eucerin",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Eucerin continued to build on its scientific expertise with the launch of Dermopure Clinical Probiom8 , a new solution for acne-prone skin based on a patented cosmetic active ingredient and the brand’s microbiome research.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Swiss Pristine",
+    "brand": "La Prairie",
+    "launch_date": "2026-09",
+    "launch_status": "launched",
+    "launch_quote": "In September, La Prairie introduced Swiss Pristine , an entry-level line designed to attract a younger generation of consumers and support selective distribution expansion.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "바이어스도르프의 3분기는 더마와 라프레리가 성장하고 니베아가 부진해 엇갈렸다.",
+  "key_fact_quote": "A mixed Q3 for Beiersdorf as La Prairie accelerates and Nivea struggles",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": true
+}

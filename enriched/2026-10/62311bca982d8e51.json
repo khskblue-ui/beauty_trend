@@ -1,0 +1,50 @@
+{
+ "doc_id": "62311bca982d8e51",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://platum.kr/archives/297249",
+ "title": "인도 소비자 앞에 선 K뷰티 창업가 4명, 어피닛 '프리 유니콘 인디아' 첫...",
+ "summary": "남성 향수 브랜드 테토원(TETO1)을 운영하는 바이스퀘어, 클린 스킨케어 브랜드 언마스크, 현지 살롱과 클리닉의 빈 공간에 한국식 에스테틱 공간을 여는 모델을 준비하는 링크케이, 그리고 필오프 립 타투 브랜드를...",
+ "published_at": "2026-10-28T17:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "IN"
+  ],
+  "brands": [
+   "테토원",
+   "언마스크",
+   "링크케이"
+  ],
+  "companies": [
+   "바이스퀘어",
+   "어피닛"
+  ],
+  "keywords": [
+   "K뷰티 인도 진출",
+   "남성 향수",
+   "클린 스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "어피닛의 프리 유니콘 인디아 첫 행사에 K뷰티 창업가 4명이 참여했다.",
+  "key_fact_quote": "남성 향수 브랜드 테토원(TETO1)을 운영하는 바이스퀘어, 클린 스킨케어 브랜드 언마스크",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": false
+}

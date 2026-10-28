@@ -1,0 +1,47 @@
+{
+ "doc_id": "147423261afb76f5",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312429",
+ "title": "China’s Cosmetics Imports Rise 13% in September; France, Japan and UK Lead Growth",
+ "summary": "China\\'s cosmetics import market maintained solid momentum in September, extending the recovery trend seen in August and highlighting the country\\'s continued importance as one of the world\\'s largest beauty consumption markets.According to data released by China\\'s General Administration of Customs, co",
+ "published_at": "2026-10-28T10:15:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "FR",
+   "JP",
+   "KR",
+   "GB",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "수입 화장품",
+   "프리미엄화",
+   "중국 화장품 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국의 수입 화장품 시장이 프랑스, 일본, 영국 중심으로 성장세를 이어 갔다.",
+  "key_fact_quote": "China's cosmetics import market maintained solid momentum in September, extending the recovery trend seen in August and highlighting the country's continued importance as one of the world's largest beauty consumption markets.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": true
+}

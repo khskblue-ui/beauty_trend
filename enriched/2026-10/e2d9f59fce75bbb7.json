@@ -1,0 +1,48 @@
+{
+ "doc_id": "e2d9f59fce75bbb7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877070",
+ "title": "레이셀, ECM 기반 스킨케어 도전장…'라이즌' 출시",
+ "summary": "디지털 덴탈 솔루션 기업 레이의 자회사 레이셀은 ECM 기반 스킨케어 브랜드 '라이즌'을 공식 출시 했다고 28일 밝혔다. 라이즌은 피부 진피를 구성하는 단백질 복합체인 탈세포 세포외기질(dECM)을 화장품 에 적용한...",
+ "published_at": "2026-10-28T15:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라이즌"
+  ],
+  "companies": [
+   "레이",
+   "레이셀"
+  ],
+  "keywords": [
+   "ECM 스킨케어",
+   "더마 코스메틱",
+   "뷰티 사업 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "e0aaec6403dda154",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": false
+}

@@ -1,0 +1,57 @@
+{
+ "doc_id": "d6e301f89bacb618",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/10/28/2026102803069.html",
+ "title": "[ 뷰티 업계 이모저모] 켄델라 코리아, 의료진 대상 레이저 치료 임상 교...",
+ "summary": "■EOA ‘풀써마 프로’, CJ온스타일 첫 방송서 준비 물량 소진 더퓨처의 항노화 뷰티 브랜드 EOA가 홈케어 디바이스 ‘풀써마 프로’의 CJ온스타일 론칭 방송에서 준비 수량을 모두 판매했다. 지난 24일 진행된 70분간의...",
+ "published_at": "2026-10-28T17:33:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "EOA"
+  ],
+  "companies": [
+   "더퓨처",
+   "CJ온스타일"
+  ],
+  "keywords": [
+   "홈케어 디바이스",
+   "항노화 뷰티",
+   "홈쇼핑 판매"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "풀써마 프로",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "항노화 뷰티 브랜드 EOA가 홈케어 디바이스 풀써마 프로를 홈쇼핑 첫 방송에서 준비 물량을 모두 팔았다.",
+  "key_fact_quote": "더퓨처의 항노화 뷰티 브랜드 EOA가 홈케어 디바이스 ‘풀써마 프로’의 CJ온스타일 론칭 방송에서 준비 수량을 모두 판매했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": false
+}

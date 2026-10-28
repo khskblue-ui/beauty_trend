@@ -1,0 +1,48 @@
+{
+ "doc_id": "3814f14bfd63b918",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dkilbo.com/news/articleView.html?idxno=558829",
+ "title": "한국장학재단, 서울 입주기업 그리닝 ' K뷰티 엑스포 대만' 참가 스킨케어...",
+ "summary": "열린' K뷰티 엑스포 대만'에 참가해 자사 스킨케어 브랜드'다칸토'를 선보였다. 재단에 따르면 그리닝은 이번 전시에서 현지 유통사·바이어와 수출 상담을 진행하고 수출 계약 13만 달러와 현지 판매 1만 달러의 성과를...",
+ "published_at": "2026-10-28T17:11:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "TW"
+  ],
+  "brands": [
+   "다칸토"
+  ],
+  "companies": [
+   "한국장학재단",
+   "그리닝"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "스킨케어",
+   "해외 박람회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "그리닝이 K뷰티 엑스포 대만에서 현지 바이어와 수출 상담을 진행했다.",
+  "key_fact_quote": "재단에 따르면 그리닝은 이번 전시에서 현지 유통사·바이어와 수출 상담을 진행하고",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": false
+}

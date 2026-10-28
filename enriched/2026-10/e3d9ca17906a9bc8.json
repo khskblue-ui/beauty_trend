@@ -1,0 +1,42 @@
+{
+ "doc_id": "e3d9ca17906a9bc8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://cc.newdaily.co.kr/site/data/html/2026/10/28/2026102800354.html",
+ "title": "신용한 충북지사, K뷰티 ·농식품 들고 하노이 세일즈",
+ "summary": "기업들은 개별 부스에서 제품을 홍보하고 바이어들과 일대일 수출 상담을 진행했다. 신용한 지사도 부스를 돌며 기업인들을 격려하고 충북 제품의 기술력과 품질을 알렸다. 신 지사를 비롯한 도 대표단은 하노이 K -마켓...",
+ "published_at": "2026-10-28T17:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "수출 상담"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "충북 도 대표단이 하노이에서 기업 제품을 알리고 수출 상담을 진행했다.",
+  "key_fact_quote": "기업들은 개별 부스에서 제품을 홍보하고 바이어들과 일대일 수출 상담을 진행했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": false
+}

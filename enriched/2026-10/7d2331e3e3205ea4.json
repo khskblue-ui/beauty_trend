@@ -1,0 +1,91 @@
+{
+ "doc_id": "7d2331e3e3205ea4",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100290",
+ "title": "아이소이, 최대 80% 할인 ‘아주쎄 올블랙프라이데이’ 진행",
+ "summary": "식물 유래 기능성 화장품 브랜드 아이소이가 연중 최대 쇼핑 시즌을 맞아 오는 10월 30일부터 11월 15일까지 약 2주간 공식몰에서 ‘아이소이 아주쎄 올블랙프라이데이(이하 아주쎄 블프)’를 진행한다.이번 ‘아주쎄 블프’는 아이소이의 스테디셀러부터 고기능성 제품까지 최대 80% 할인된 가격에 선보이는 프로모션이다. 올리브영에서 12년 1위를 기록한 베스트셀러 잡티세럼부터 피부고민을 집중 케어 하는 스팟·세럼·크림 등 아이소이 전제품을 파격적인 혜택으로 만나 볼 수 있다.특히 공식몰에서는 첫 구매 고객을 위한 특별 혜택을 대폭 강화했",
+ "published_at": "2026-10-28T13:08:21+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이소이"
+  ],
+  "companies": [
+   "아이소이"
+  ],
+  "keywords": [
+   "블랙프라이데이 할인",
+   "식물 유래 화장품",
+   "PDRN"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "잡티세럼",
+    "brand": "아이소이",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "콜라겐 올세라 탄력크림",
+    "brand": "아이소이",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "로즈PDRN 잡티세럼",
+    "brand": "아이소이",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아이소이가 공식몰에서 블랙프라이데이 할인 행사를 진행한다.",
+  "key_fact_quote": "식물 유래 기능성 화장품 브랜드 아이소이가 연중 최대 쇼핑 시즌을 맞아 오는 10월 30일부터 11월 15일까지 약 2주간 공식몰에서 ‘아이소이 아주쎄 올블랙프라이데이(이하 아주쎄 블프)’를 진행한다.",
+  "events": [
+   {
+    "name": "아이소이 아주쎄 올블랙프라이데이",
+    "start_date": "2026-10-30",
+    "end_date": "2026-11-15",
+    "place": "공식몰",
+    "quote": "식물 유래 기능성 화장품 브랜드 아이소이가 연중 최대 쇼핑 시즌을 맞아 오는 10월 30일부터 11월 15일까지 약 2주간 공식몰에서 ‘아이소이 아주쎄 올블랙프라이데이(이하 아주쎄 블프)’를 진행한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "인기 제품인 ‘콜라겐 올세라 탄력크림’부터 브랜드 히어로 상품인 ‘로즈PDRN 잡티세럼’까지 4,900원부터 시작되는 특가로 구성해"
+   },
+   {
+    "name": "콜라겐",
+    "quote": "인기 제품인 ‘콜라겐 올세라 탄력크림’부터 브랜드 히어로 상품인 ‘로즈PDRN 잡티세럼’까지 4,900원부터 시작되는 특가로 구성해"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": true
+}

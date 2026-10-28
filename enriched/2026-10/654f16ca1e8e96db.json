@@ -1,0 +1,45 @@
+{
+ "doc_id": "654f16ca1e8e96db",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.g-enews.com/view.php?ud=202610272253246976fda4f5ab74_1",
+ "title": "안방 점유율 50% 넘긴 중국 뷰티, K-뷰티 글로벌 영토 넘본다",
+ "summary": "중국 향료 향신료화장품산업협회에 따르면 중국 브랜드는 지난해 1590억 달러(약 211조 1043억 원) 규모의 자국 시장에서 57.4%의 점유율을 기록하며 해외 브랜드를 앞질렀다. 전기차와 인공지능 모델 등 중국발 산업 혁신이...",
+ "published_at": "2026-10-28T11:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "중국 향료 향신료화장품산업협회"
+  ],
+  "keywords": [
+   "중국 뷰티",
+   "K뷰티",
+   "자국 브랜드 점유율"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 브랜드가 자국 시장에서 해외 브랜드를 앞질렀다.",
+  "key_fact_quote": "중국 향료 향신료화장품산업협회에 따르면 중국 브랜드는 지난해 1590억 달러(약 211조 1043억 원) 규모의 자국 시장에서 57.4%의 점유율을 기록하며 해외 브랜드를 앞질렀다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": false
+}

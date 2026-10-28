@@ -1,0 +1,47 @@
+{
+ "doc_id": "19a46a038cf7926b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441541",
+ "title": "[뷰티人] 박윤주 3CE GM \"K인디 성공 레시피에 로레알 글로벌망 더해 성...",
+ "summary": "그래서 3CE 립스틱과 블러셔는 개별 화장품 을 넘어 전체 스타일을 완성하는 스타일링 아이템이 된다. 이런 관점은 로레알 팀에도 영감을 줘 신제품 구상의 새로운 가능성을 열었다. -- 글로벌 시장에서 K뷰티 위상이...",
+ "published_at": "2026-10-28T09:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "3CE"
+  ],
+  "companies": [
+   "로레알"
+  ],
+  "keywords": [
+   "스타일링 아이템",
+   "K뷰티",
+   "글로벌 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "3CE 립스틱과 블러셔는 전체 스타일을 완성하는 스타일링 아이템으로 소개됐다.",
+  "key_fact_quote": "그래서 3CE 립스틱과 블러셔는 개별 화장품 을 넘어 전체 스타일을 완성하는 스타일링 아이템이 된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r3-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:36:46+00:00",
+ "had_body": false
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "446b7be389eb42ad",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/novelties-in-plant-pdrn-skin-and-hair-care",
+ "title": "Novelties in plant PDRN: skin and hair care",
+ "summary": "Vytrus Biotech presents its latest novelties in plant-based PDRN, extending to hair care a technology the company first introduced for skin care at in-cosmetics Global 2026",
+ "published_at": "2026-10-28T05:05:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Vytrus Biotech"
+  ],
+  "keywords": [
+   "식물 유래 PDRN",
+   "헤어케어 원료",
+   "스킨케어 원료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "Vytrus Biotech가 식물 유래 PDRN 기술을 스킨케어에서 헤어케어로 넓혔다.",
+  "key_fact_quote": "Vytrus Biotech presents its latest novelties in plant-based PDRN, extending to hair care a technology the company first introduced for skin care at in-cosmetics Global 2026",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "Vytrus Biotech presents its latest novelties in plant-based PDRN, extending to hair care a technology the company first introduced for skin care at in-cosmetics Global 2026"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r3-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:36:46+00:00",
+ "had_body": false
+}

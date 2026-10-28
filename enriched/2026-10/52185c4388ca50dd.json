@@ -1,0 +1,48 @@
+{
+ "doc_id": "52185c4388ca50dd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://byline.network/?p=9004111222625125",
+ "title": "너무 잘 팔려 문제…아마존이 K 뷰티 물류에 힘주는 이유",
+ "summary": "신 대표는 “현재 K 뷰티 의 헤어케어 침투율은 약 1%”라며, 신규 헤어 브랜드 50개와 신제품 200개를 출시 하겠다는 목표를 밝혔습니다. 헤어케어 브랜드 릴리브를 운영하는 조용훈 바이트랩 대표는 이날 기자간담회에서...",
+ "published_at": "2026-10-28T15:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "릴리브"
+  ],
+  "companies": [
+   "아마존",
+   "바이트랩"
+  ],
+  "keywords": [
+   "K 뷰티 물류",
+   "헤어케어",
+   "K 뷰티 해외 판매"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아마존이 K 뷰티 헤어케어 분야에서 신규 브랜드와 신제품 출시 목표를 밝혔다.",
+  "key_fact_quote": "신 대표는 “현재 K 뷰티 의 헤어케어 침투율은 약 1%”라며, 신규 헤어 브랜드 50개와 신제품 200개를 출시 하겠다는 목표를 밝혔습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": false
+}

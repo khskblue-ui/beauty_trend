@@ -1,0 +1,42 @@
+{
+ "doc_id": "c8fb12ea59e55556",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.sbs.co.kr/article_hub/20000342661?division=NAVER",
+ "title": "K뷰티 ·패션 '왕중왕' 누가 될까…내가 투표하고 경품까지",
+ "summary": "K -브랜드 챌린지는 성장 가능성이 높은 국내 소비재 기업을 발굴해 글로벌 수출 기업으로 육성하는 프로그램입니다. 예선과 본선, 결선을 거쳐 뷰티 ·패션·라이프 분야에서 각각 3개사씩 모두 9개 기업이 최종 왕중왕전에...",
+ "published_at": "2026-10-28T14:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "소비재 육성 프로그램",
+   "브랜드 챌린지"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-브랜드 챌린지는 유망 소비재 기업을 글로벌 수출 기업으로 육성하는 프로그램이다.",
+  "key_fact_quote": "K -브랜드 챌린지는 성장 가능성이 높은 국내 소비재 기업을 발굴해 글로벌 수출 기업으로 육성하는 프로그램입니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": false
+}

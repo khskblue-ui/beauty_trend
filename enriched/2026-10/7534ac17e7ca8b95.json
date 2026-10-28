@@ -1,0 +1,40 @@
+{
+ "doc_id": "7534ac17e7ca8b95",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026102816561363049",
+ "title": "로컬창업 소상공인, '립스' 통해 1227억원 투자 유치",
+ "summary": "차별화된 신제품 을 개발해 3년 연속 매출 증가와 2호점 개점에 성공한 '안다미로 늘봄'이 있다. 민간... 수출액 기준으로 화장품 (117억원, 45.1%), 의류(29억원, 11.1%) 순이었으며, 수출기업 수 기준으로는 화장품 (22개사...",
+ "published_at": "2026-10-29T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "소상공인 투자"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r3-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:36:46+00:00",
+ "had_body": false
+}

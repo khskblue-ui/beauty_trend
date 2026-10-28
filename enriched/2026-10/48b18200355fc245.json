@@ -1,0 +1,42 @@
+{
+ "doc_id": "48b18200355fc245",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/policy/policy_sub/2026/10/28/HBMZVODFJZEQ5GK5Y7CYCPZL4Q/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "[경제 포커스] 중소기업 수출 품목 1위로 올라선 화장품·2위로 내려간 ...",
+ "summary": "업계 관계자는 “세계적으로 K 뷰티 에 대한 선호가 커지고 있다”고 말했다. 반면 중소기업의 중고차 수출 액은 올들어 9월까지 48억달러로 전년 동기 대비 26% 줄었다. 감소폭도 분기별로 커졌다. 1분기...",
+ "published_at": "2026-10-28T15:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "화장품 수출",
+   "중소기업 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "세계적으로 K뷰티에 대한 선호가 커지고 있다는 업계 관계자의 말이 나왔다.",
+  "key_fact_quote": "업계 관계자는 “세계적으로 K 뷰티 에 대한 선호가 커지고 있다”고 말했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": false
+}

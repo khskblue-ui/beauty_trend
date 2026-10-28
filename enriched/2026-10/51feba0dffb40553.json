@@ -1,0 +1,49 @@
+{
+ "doc_id": "51feba0dffb40553",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newspim.com/news/view/20261028000434",
+ "title": "신세계·롯데·현대 등 백화점 3사, 해외서 'K브랜드 패션· 뷰티 팝업' 왜",
+ "summary": "더현대 글로벌은 국내 유망 브랜드를 소싱해 해외 유통 점포 안에서 매장을 운영하는 'K콘텐츠 수출 플랫폼... LA한국문화원 '라온'에서 문화체육관광부의 '글로벌 K -존'을 활용해 스킨케어·향수 중심의 K뷰티 팝업을...",
+ "published_at": "2026-10-28T10:53:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "더현대 글로벌"
+  ],
+  "companies": [
+   "신세계",
+   "롯데",
+   "현대"
+  ],
+  "keywords": [
+   "K뷰티 팝업",
+   "해외 팝업스토어",
+   "K브랜드 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "백화점 3사가 해외에서 K브랜드 패션과 뷰티 팝업을 운영한다.",
+  "key_fact_quote": "LA한국문화원 '라온'에서 문화체육관광부의 '글로벌 K -존'을 활용해 스킨케어·향수 중심의 K뷰티 팝업을",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": false
+}

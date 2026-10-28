@@ -1,0 +1,56 @@
+{
+ "doc_id": "8fbdea4fb74c1007",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.e2news.com/news/articleView.html?idxno=335485",
+ "title": "스킨냅스, 맞춤형 뷰티 큐레이션 '에이아우라' 론칭…AI로 피부별 화장...",
+ "summary": "이어 \"피부 상태는 나이와 환경 등에 따라 달라질 수 있고 새로운 성분과 제형을 적용한 제품도 꾸준히 출시 되고 있다\"며 \"개인별 피부 상태와 관리 목적을 고려한 큐레이션을 통해 소비자의 화장품 선택 부담을 줄여나갈...",
+ "published_at": "2026-10-28T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이아우라"
+  ],
+  "companies": [
+   "스킨냅스"
+  ],
+  "keywords": [
+   "맞춤형 뷰티",
+   "뷰티 큐레이션",
+   "AI 추천"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "에이아우라",
+    "brand": "스킨냅스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "스킨냅스, 맞춤형 뷰티 큐레이션 '에이아우라' 론칭",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스킨냅스가 AI로 피부별 화장품을 골라 주는 맞춤형 뷰티 큐레이션 에이아우라를 선보였다.",
+  "key_fact_quote": "스킨냅스, 맞춤형 뷰티 큐레이션 '에이아우라' 론칭",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": false
+}

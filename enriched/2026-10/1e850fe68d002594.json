@@ -1,0 +1,42 @@
+{
+ "doc_id": "1e850fe68d002594",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/sb-founded/6335418",
+ "title": "\"동네서 키운 브랜드, 해외로\"…립스 기업 수출시장 57곳으로 확대",
+ "summary": "화장품 과 의류 등 K소비재를 중심으로 해외 판로를 넓히면서 지역에서 출발한 소상공인이 수출기업으로... 소상공인에게 신제품 개발 및 사업 고도화 등 기업 경영에 필요한 자금을 지원하는 민간투자 연계형...",
+ "published_at": "2026-10-29T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K소비재 수출",
+   "소상공인 수출",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지역 소상공인의 수출 시장이 넓어지며 화장품 등 K소비재 해외 판로가 확대되고 있다.",
+  "key_fact_quote": "화장품 과 의류 등 K소비재를 중심으로 해외 판로를 넓히면서 지역에서 출발한 소상공인이 수출기업으로",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": false
+}

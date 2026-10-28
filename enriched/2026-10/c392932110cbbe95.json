@@ -1,0 +1,46 @@
+{
+ "doc_id": "c392932110cbbe95",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=205577",
+ "title": "K뷰티 , 중남미 공략 본격화…친환경·지속가능성 '무기'",
+ "summary": "수출 급증·한류 호감에 성장 기대…관세 부담은 과제 중남미는 K뷰티 수요가 빠르게 늘고 한류에 대한... 이재명 대통령은 지난달 멕시코시티 월드트레이드센터에서 열린 K -엑스포를 찾아 아모레퍼시픽 등 뷰티 기업의...",
+ "published_at": "2026-10-28T15:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "MX"
+  ],
+  "brands": [
+   "아모레퍼시픽"
+  ],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "중남미 시장",
+   "친환경 뷰티",
+   "지속가능성"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중남미에서 K뷰티 수요가 빠르게 늘어 업계가 시장 공략을 본격화하고 있다.",
+  "key_fact_quote": "중남미는 K뷰티 수요가 빠르게 늘고 한류에 대한",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": false
+}

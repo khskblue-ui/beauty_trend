@@ -1,0 +1,63 @@
+{
+ "doc_id": "2846257f773de4e8",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100285",
+ "title": "코스맥스, 프리미엄·친환경 원료 협력 강화",
+ "summary": "글로벌 화장품 ODM(연구·개발·생산) 기업 코스맥스는 지난 27일 경기도 성남시 판교 스타트업 캠퍼스에서 ‘2026 코스맥스 원료 파트너사 간담회(Strategic Partnership Forum)’를 개최했다고 28일 밝혔다.이번 간담회는 코스맥스의 제형 기술과 원료사의 소재 역량을 연계해 원료 공급 기반을 강화하고, 글로벌 규제 및 시장 변화에 선제적으로 대응하기 위해 마련됐다.간담회에는 최경 코스맥스 대표이사와 강승현 R&I(Research & Innovation)유닛 원장 등 코스맥스 관계자와, 20여 개 원료사 관계자 약",
+ "published_at": "2026-10-28T10:37:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "원료 파트너십",
+   "클린뷰티",
+   "안전성 평가 제도",
+   "기능성 성분",
+   "친환경 소재"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 원료사들과 간담회를 열고 프리미엄 원료와 친환경 소재 협력을 강화하기로 했다.",
+  "key_fact_quote": "글로벌 화장품 ODM(연구·개발·생산) 기업 코스맥스는 지난 27일 경기도 성남시 판교 스타트업 캠퍼스에서 ‘2026 코스맥스 원료 파트너사 간담회(Strategic Partnership Forum)’를 개최했다고 28일 밝혔다.",
+  "events": [
+   {
+    "name": "2026 코스맥스 원료 파트너사 간담회",
+    "start_date": "2026-10-27",
+    "end_date": null,
+    "place": "경기도 성남시 판교 스타트업 캠퍼스",
+    "quote": "글로벌 화장품 ODM(연구·개발·생산) 기업 코스맥스는 지난 27일 경기도 성남시 판교 스타트업 캠퍼스에서 ‘2026 코스맥스 원료 파트너사 간담회(Strategic Partnership Forum)’를 개최했다고 28일 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "레티놀",
+    "quote": "또한 레티놀, NAD+ 등 기능성 성분에 대한 글로벌 수요 확대에 맞춰 스킨케어뿐만 아니라 퍼스널케어 적용 가능성도 검토한다."
+   },
+   {
+    "name": "NAD+",
+    "quote": "또한 레티놀, NAD+ 등 기능성 성분에 대한 글로벌 수요 확대에 맞춰 스킨케어뿐만 아니라 퍼스널케어 적용 가능성도 검토한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": true
+}

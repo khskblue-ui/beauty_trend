@@ -1,0 +1,48 @@
+{
+ "doc_id": "0e77d43f6cb769a1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.donga.com/109780/",
+ "title": "[스케일업] \"지금 시대 피부 연구\" 뷰티빌딩, 시장·연구 잇는 R&D 화장품 ...",
+ "summary": "재구매로 검증하는 제품에 집중 구혜정 대표는 CJ올리브영, 뷰티팩토리, 아우딘퓨처스 등 화장품 업계에서 10년 이상 국내외 온·오프라인 영업과 마케팅을 맡아온 MD 출신이다. 처음부터 제품을 직접 개발하는 브랜드...",
+ "published_at": "2026-10-28T11:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "뷰티빌딩"
+  ],
+  "companies": [
+   "CJ올리브영",
+   "뷰티팩토리",
+   "아우딘퓨처스"
+  ],
+  "keywords": [
+   "R&D 화장품",
+   "재구매 제품",
+   "MD 출신 창업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티빌딩은 MD 출신 대표가 재구매로 검증되는 제품에 집중하는 R&D 화장품 브랜드다.",
+  "key_fact_quote": "구혜정 대표는 CJ올리브영, 뷰티팩토리, 아우딘퓨처스 등 화장품 업계에서 10년 이상 국내외 온·오프라인 영업과 마케팅을 맡아온 MD 출신이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": false
+}

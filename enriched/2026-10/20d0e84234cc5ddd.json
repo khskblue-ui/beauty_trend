@@ -1,0 +1,46 @@
+{
+ "doc_id": "20d0e84234cc5ddd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450528",
+ "title": "한국콜마에 3년째 러브콜 보낸 아마존, K뷰티 판 커질수록 윤상현 '안목...",
+ "summary": "28일 화장품 업계의 상황을 종합하면 아마존이 K뷰티 육성에 이른바 '4대 프로젝트'를 가동하면서... 헤어케어 분야에서도 신규 판매자 50곳을 유치하고 신제품 200종을 확보하기로 했다. 아마존은 미국에서도 K뷰티를...",
+ "published_at": "2026-10-28T16:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존",
+   "한국콜마"
+  ],
+  "keywords": [
+   "K뷰티",
+   "헤어케어",
+   "해외 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아마존이 K뷰티 육성 프로젝트를 가동하며 한국콜마에 협력을 요청해 왔다.",
+  "key_fact_quote": "28일 화장품 업계의 상황을 종합하면 아마존이 K뷰티 육성에 이른바 '4대 프로젝트'를 가동하면서",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": false
+}

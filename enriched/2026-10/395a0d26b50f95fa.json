@@ -1,0 +1,44 @@
+{
+ "doc_id": "395a0d26b50f95fa",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/givaudan-gold-sponsor-global-fragrance-summit-2027",
+ "title": "Givaudan joins Global Fragrance Summit 2027 as Gold Sponsor",
+ "summary": "The International Fragrance Association ( IFRA ) is pleased to welcome Givaudan, a member of IFRA , as a Gold Sponsor of Global Fragrance Summit 2027 in Mumbai.",
+ "published_at": "2026-10-28T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "IN"
+  ],
+  "brands": [],
+  "companies": [
+   "Givaudan",
+   "IFRA"
+  ],
+  "keywords": [
+   "향료 업계 행사",
+   "행사 후원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지보단이 국제향료협회가 여는 글로벌 프래그런스 서밋의 골드 스폰서로 참여한다.",
+  "key_fact_quote": "The International Fragrance Association ( IFRA ) is pleased to welcome Givaudan, a member of IFRA , as a Gold Sponsor of Global Fragrance Summit 2027 in Mumbai.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": false
+}

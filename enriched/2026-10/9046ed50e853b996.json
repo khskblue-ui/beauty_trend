@@ -1,0 +1,51 @@
+{
+ "doc_id": "9046ed50e853b996",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/local/sejong-chungbuk/6334925",
+ "title": "충북도, 하노이서 무역상품 전시상담회…화장품 등 40개사 참여",
+ "summary": "대규모 수출 상담회를 열고 베트남 시장 진출을 위한 세일즈 외교를 펼쳤다. 도는 28일 그랜드플라자 하노이 호텔에서 충북무역상품 전시상담회를 열었다. 이틀간 진행하는 상담회에는 K - 뷰티 화장품과 식품, 생활용품...",
+ "published_at": "2026-10-28T14:53:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "VN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티",
+   "수출 상담회",
+   "베트남 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "충북도가 하노이에서 화장품 등 수출 상담회를 열었다",
+  "key_fact_quote": "도는 28일 그랜드플라자 하노이 호텔에서 충북무역상품 전시상담회를 열었다.",
+  "events": [
+   {
+    "name": "충북무역상품 전시상담회",
+    "start_date": "2026-10-28",
+    "end_date": "2026-10-29",
+    "place": "그랜드플라자 하노이 호텔",
+    "quote": "도는 28일 그랜드플라자 하노이 호텔에서 충북무역상품 전시상담회를 열었다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": false
+}

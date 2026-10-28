@@ -1,0 +1,51 @@
+{
+ "doc_id": "93492f7aca47c94d",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100277",
+ "title": "한국화장품전문가협회, 제14회 마스터강사 워크샵 성료",
+ "summary": "한국화장품전문가협회(회장 양일훈)는 지난 10월 24일부터 25일까지 1박 2일간 충북 괴산 선녀탕펜션에서 ‘제14회 마스터강사 워크샵’을 성황리에 개최했다고 밝혔다.이번 워크샵은 ‘함께라서 더 좋다’를 주제로, 화장품 전문교육 과정을 수료한 마스터강사들이 한자리에 모여 서로의 경험과 노하우를 공유하고 유대감을 강화하기 위해 마련됐다.특히 올해는 기존의 교육 중심 프로그램에서 벗어나 참가자 간 소통과 화합, 재충전에 초점을 맞춰 진행됐다.첫날에는 마스터강사 과정을 통해 성장한 자신의 경험과 현장 사례를 나누는 ‘마스터 이야기’를 시",
+ "published_at": "2026-10-28T10:19:38+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국화장품전문가협회"
+  ],
+  "keywords": [
+   "화장품 전문교육",
+   "마스터강사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국화장품전문가협회가 마스터강사 워크샵을 열었다.",
+  "key_fact_quote": "한국화장품전문가협회(회장 양일훈)는 지난 10월 24일부터 25일까지 1박 2일간 충북 괴산 선녀탕펜션에서 ‘제14회 마스터강사 워크샵’을 성황리에 개최했다고 밝혔다.",
+  "events": [
+   {
+    "name": "제14회 마스터강사 워크샵",
+    "start_date": "2026-10-24",
+    "end_date": "2026-10-25",
+    "place": "충북 괴산 선녀탕펜션",
+    "quote": "한국화장품전문가협회(회장 양일훈)는 지난 10월 24일부터 25일까지 1박 2일간 충북 괴산 선녀탕펜션에서 ‘제14회 마스터강사 워크샵’을 성황리에 개최했다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": true
+}

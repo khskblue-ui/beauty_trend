@@ -1,0 +1,40 @@
+{
+ "doc_id": "a7cf5b3499935234",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.yna.co.kr/view/AKR20261028162600030?input=1195m",
+ "title": "립스 지원 로컬 소상공인, 매출 43%·고용 31% 늘어",
+ "summary": "중기업으로 성장한 기업은 식음료 분야 4개사, 뷰티 2개사, 라이프스타일 분야 4개사였다 기업당 누적... 비수도권에 투자액 47.5% 유입… 수출 대상 32곳→57곳 비수도권에서는 298개사가 582억7천만원의 민간투자를...",
+ "published_at": "2026-10-29T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "소상공인 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": false
+}

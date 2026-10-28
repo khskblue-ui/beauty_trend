@@ -1,0 +1,46 @@
+{
+ "doc_id": "7338903bc268a024",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://economist.co.kr/article/view/ecn202610270066",
+ "title": "“K뷰티 열풍 언제까지?”…아마존, ‘신규 셀러·헤어케어’로 답 찾는...",
+ "summary": "글로벌 온라인 이커머스 채널 아마존이 개최한 ‘아마존 뷰티 인 서울’은 화장품 제조사와 ▲브랜드... 책정 ▲제품 출시 ▲마케팅 ▲브랜드 보호 ▲이슈 대응 등 운영 전반을 아우르는 ‘엔드투엔드’(end-to-end)...",
+ "published_at": "2026-10-28T09:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존"
+  ],
+  "keywords": [
+   "K뷰티 열풍",
+   "신규 셀러",
+   "헤어케어",
+   "이커머스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아마존이 서울에서 뷰티 행사를 열고 신규 셀러와 헤어케어 분야를 K뷰티의 다음 성장 축으로 제시했다.",
+  "key_fact_quote": "글로벌 온라인 이커머스 채널 아마존이 개최한 ‘아마존 뷰티 인 서울’은 화장품 제조사와 ▲브랜드",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": false
+}

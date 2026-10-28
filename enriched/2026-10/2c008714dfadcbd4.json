@@ -1,0 +1,44 @@
+{
+ "doc_id": "2c008714dfadcbd4",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312432",
+ "title": "AI가 재편하는 중국 뷰티 시장①: AI 추천이 화장품 판매 좌우",
+ "summary": "중국 뷰티 시장에서 인공지능(AI)이 새로운 구매 가이드로 떠오르고 있다.소비자들이 화장품을 선택하는 과정에서 브랜드 광고나 지인의 추천보다 AI와 데이터 기반 분석을 활용하는 비중이 빠르게 높아지고 있는 것으로 나타났다.중국 뷰티 전문 조사기관 칭옌정보(青眼情报)가 발표한 \\'2026 중국 뷰티 재고시장 시대의 구조적 성장 백서\\'에 따르면 화장품 구매 전 더우바오와 ChatGPT 등 AI 도구를 활용한다는 응답은 21.1%를 기록했다.이는 친구·가족 추천(8.3%)보다 2.5배 이상 높은 수준이며 피부과 전문의 등 전문가 조언(5.",
+ "published_at": "2026-10-28T10:15:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "칭옌정보"
+  ],
+  "keywords": [
+   "AI 구매 가이드",
+   "효능 중심 검색",
+   "숏폼 플랫폼"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 소비자가 화장품을 고를 때 AI를 구매 가이드로 쓰는 경향이 커지고 있다.",
+  "key_fact_quote": "중국 뷰티 시장에서 인공지능(AI)이 새로운 구매 가이드로 떠오르고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r3-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:36:46+00:00",
+ "had_body": true
+}

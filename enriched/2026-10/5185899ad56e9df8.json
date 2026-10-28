@@ -1,0 +1,50 @@
+{
+ "doc_id": "5185899ad56e9df8",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312512",
+ "title": "주가로 읽는 K-뷰티: 색조는 울고 용기는 웃었다",
+ "summary": "k-뷰티의 수출 실적이 가파르데 성장하고 있는데도 색조 브랜드 기업들은 주가 조정을 받았고, 원료·소재 기업들은 종목별로 희비가 엇갈렸다. 반면 화장품 용기 기업은 높은 프리미엄을 인정받았다.이는 뷰티경제가 네이버증권 자료를 바탕으로 색조·원료·소재 관련 6개 종목의 지난해 10월 27일과 올해 10월 27일 주가 및 외국인 보유율 변화를 비교, 분석한 결과다.아이패밀리에스씨와 선진뷰티사이언스는 외국인 이탈과 함께 성장성 재평가 압력을 받았다. 반면 대봉엘에스는 주가가 47% 넘게 하락했음에도 외국인 보유율이 증가해 기업가치 회복에",
+ "published_at": "2026-10-28T19:32:36+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "클리오",
+   "아이패밀리에스씨",
+   "선진뷰티사이언스",
+   "대봉엘에스",
+   "현대바이오랜드",
+   "펌텍코리아"
+  ],
+  "keywords": [
+   "K-뷰티 주가",
+   "색조 화장품",
+   "화장품 용기",
+   "원료·소재 기업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "색조와 원료 기업 주가는 부진했고 화장품 용기 기업 펌텍코리아만 주가가 올랐다.",
+  "key_fact_quote": "화장품 용기 기업인 펌텍코리아는 조사 대상 기업 가운데 유일하게 주가 상승을 기록했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": true
+}

@@ -1,0 +1,81 @@
+{
+ "doc_id": "077068855ee50970",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/coptis-unveils-purple-a-prompt-to,28432",
+ "title": "Coptis unveils Purple, a “Prompt-to-Formula” AI agent for cosmetic R&D",
+ "summary": "At its annual Users Club, held in Paris on October 13, 2026, software publisher Coptis, which specializes in formulation and regulatory compliance, unveiled two AI-powered innovations: Purple and Document Reader. Designed for R&D, formulation and regulatory affairs teams, the tools aim to accelerate cosmetic product development and streamline technical data management. \"Prompt-to-Formula” AI agent Integrated into Coptis solutions, Purple draws on each company's own raw materials and... - Industry buzz",
+ "published_at": "2026-10-29T06:16:35+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Coptis"
+  ],
+  "companies": [
+   "Coptis"
+  ],
+  "keywords": [
+   "AI 처방 개발",
+   "화장품 연구개발 자동화",
+   "규제 대응 소프트웨어",
+   "원료 데이터 관리"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Purple",
+    "brand": "Coptis",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "At its annual Users Club, held in Paris on October 13, 2026, software publisher Coptis , which specializes in formulation and regulatory compliance, unveiled two AI-powered innovations: Purple and Document Reader . Designed for R&D, formulation and regulatory affairs teams, the tools aim to accelerate cosmetic product development and streamline technical data management.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Document Reader",
+    "brand": "Coptis",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "At its annual Users Club, held in Paris on October 13, 2026, software publisher Coptis , which specializes in formulation and regulatory compliance, unveiled two AI-powered innovations: Purple and Document Reader . Designed for R&D, formulation and regulatory affairs teams, the tools aim to accelerate cosmetic product development and streamline technical data management.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Coptis가 화장품 연구개발과 규제 업무를 돕는 인공지능 도구 두 가지를 공개했다.",
+  "key_fact_quote": "At its annual Users Club, held in Paris on October 13, 2026, software publisher Coptis , which specializes in formulation and regulatory compliance, unveiled two AI-powered innovations: Purple and Document Reader . Designed for R&D, formulation and regulatory affairs teams, the tools aim to accelerate cosmetic product development and streamline technical data management.",
+  "events": [
+   {
+    "name": "Users Club",
+    "start_date": "2026-10-13",
+    "end_date": null,
+    "place": "Paris",
+    "quote": "At its annual Users Club, held in Paris on October 13, 2026, software publisher Coptis , which specializes in formulation and regulatory compliance, unveiled two AI-powered innovations: Purple and Document Reader . Designed for R&D, formulation and regulatory affairs teams, the tools aim to accelerate cosmetic product development and streamline technical data management."
+   },
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will once again be an opportunity for..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": true
+}

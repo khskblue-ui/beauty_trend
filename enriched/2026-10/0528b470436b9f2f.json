@@ -1,0 +1,52 @@
+{
+ "doc_id": "0528b470436b9f2f",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/shark-beauty-kevin-hart-co-design-cryoglow",
+ "title": "Shark Beauty and actor Kevin Hart co-design limited edition CryoGlow LED Mask",
+ "summary": "Shark Beauty’s CryoGlow LED Mask lands in a new colourway co-designed by comedian and brand ambassador Kevin Hart, who is set to take part in the upcoming ‘Glow Like A Bro’ campaign",
+ "published_at": "2026-10-28T21:16:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Shark Beauty"
+  ],
+  "companies": [],
+  "keywords": [
+   "LED 마스크",
+   "홈 뷰티 디바이스",
+   "셀러브리티 협업"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "CryoGlow LED Mask",
+    "brand": "Shark Beauty",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Shark Beauty’s CryoGlow LED Mask lands in a new colourway co-designed by comedian and brand ambassador Kevin Hart, who is set to take part in the upcoming ‘Glow Like A Bro’ campaign",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Shark Beauty의 LED 마스크가 Kevin Hart와 함께 디자인한 새 색상으로 나온다.",
+  "key_fact_quote": "Shark Beauty’s CryoGlow LED Mask lands in a new colourway co-designed by comedian and brand ambassador Kevin Hart, who is set to take part in the upcoming ‘Glow Like A Bro’ campaign",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r1-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:34:10+00:00",
+ "had_body": false
+}

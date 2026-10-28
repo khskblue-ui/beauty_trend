@@ -1,0 +1,47 @@
+{
+ "doc_id": "fcd2a75ac72f5821",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mkhealth.co.kr/news/articleView.html?idxno=80630",
+ "title": "열도 공략 속도내는 K- 뷰티 스킨케어 '마리엔메이'",
+ "summary": "후지경제 조사에서는 일본 뷰티 이커머스 시장 점유율 30%를 기록해 K- 뷰티 브랜드 가 일본 소비자를 만나는 주요 창구로 꼽힌다. 메가 데뷔는 큐텐이 국내 신생 브랜드 의 일본 시장 안착을 돕기 위해 운영하는 론칭 ...",
+ "published_at": "2026-10-28T08:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "마리엔메이"
+  ],
+  "companies": [
+   "큐텐"
+  ],
+  "keywords": [
+   "K뷰티 일본 진출",
+   "뷰티 이커머스",
+   "스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "스킨케어 브랜드 마리엔메이가 큐텐의 론칭 프로그램을 통해 일본 시장 공략에 속도를 내고 있다.",
+  "key_fact_quote": "열도 공략 속도내는 K- 뷰티 스킨케어 '마리엔메이'",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": false
+}

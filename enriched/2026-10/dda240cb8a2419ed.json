@@ -1,0 +1,50 @@
+{
+ "doc_id": "dda240cb8a2419ed",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mhns.co.kr/news/articleView.html?idxno=766147",
+ "title": "말콤, 이마트와 전략적 상품 협업… '와우샵' 전용 뷰티 라인업 첫선",
+ "summary": "뷰티 브랜드 말콤(MALCOM)이 올리브영과 컬리 등 주요 뷰티 유통 채널에서 쌓아온 경쟁력을 바탕으로... 말콤은 10월 22일 문을 여는 스타필드 마켓 월계점과 이마트 은평점의 와우샵에 전용 신제품 12종을 동시 출시 한다고...",
+ "published_at": "2026-10-28T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "말콤"
+  ],
+  "companies": [
+   "이마트",
+   "올리브영",
+   "컬리"
+  ],
+  "keywords": [
+   "유통 채널 협업",
+   "전용 라인업",
+   "뷰티 신제품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "말콤이 이마트 와우샵 전용 뷰티 신제품을 출시한다.",
+  "key_fact_quote": "말콤은 10월 22일 문을 여는 스타필드 마켓 월계점과 이마트 은평점의 와우샵에 전용 신제품 12종을 동시 출시 한다고",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "product:와우샵 전용 신제품 12종"
+  ]
+ },
+ "model": "claude-session:enricher-r2-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": false
+}

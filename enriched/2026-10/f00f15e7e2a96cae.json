@@ -1,0 +1,107 @@
+{
+ "doc_id": "f00f15e7e2a96cae",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53807",
+ "title": "반디, 서울 네일엑스포서 신제품 40종 공개",
+ "summary": "위미인터내셔날(대표 배선미)의 친환경 프로페셔널 네일 브랜드 반디(BANDI)가 지난 23일부터 25일까지 서울 학여울역 SETEC에서 열린 ‘2026 서울 네일 엑스포’에 참가해 신규 마그넷 젤과 뷰티·케어 제품을 선보였다. 반디는 이번 전시회에서 인기 마그넷 젤 라인 ‘에어엠쥐’(Air MG)의 신규 ‘…",
+ "published_at": "2026-10-28T19:35:16+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "반디"
+  ],
+  "companies": [
+   "위미인터내셔날"
+  ],
+  "keywords": [
+   "네일 엑스포",
+   "마그넷 젤",
+   "핸드앤바디 케어",
+   "립케어",
+   "네일 디바이스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "애쉬",
+    "brand": "반디",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "반디는 이번 전시회에서 인기 마그넷 젤 라인 ‘에어엠쥐’(Air MG)의 신규 ‘…\n위미인터내셔날(대표 배선미) 의 친환경 프로페셔널 네일 브랜드 반디(BANDI) 가 지난 23일부터 25일까지 서울 학여울역 SETEC에서 열린 ‘2026 서울 네일 엑스포’ 에 참가해 신규 마그넷 젤과 뷰티·케어 제품을 선보였다.\n반디는 이번 전시회에서 인기 마그넷 젤 라인 ‘에어엠쥐’(Air MG)의 신규 ‘애쉬’(ASH) 컬렉션을 포함한 마그넷 젤 네일 40종을 공개 했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "겟레드",
+    "brand": "반디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "플라워비타",
+    "brand": "반디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "노르딕디어",
+    "brand": "반디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "립드립",
+    "brand": "반디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "반디가 서울 네일 엑스포에서 마그넷 젤 신제품과 핸드·보디·립케어 제품을 선보였다.",
+  "key_fact_quote": "위미인터내셔날(대표 배선미)의 친환경 프로페셔널 네일 브랜드 반디(BANDI)가 지난 23일부터 25일까지 서울 학여울역 SETEC에서 열린 ‘2026 서울 네일 엑스포’에 참가해 신규 마그넷 젤과 뷰티·케어 제품을 선보였다.",
+  "events": [
+   {
+    "name": "2026 서울 네일 엑스포",
+    "start_date": "2026-10-23",
+    "end_date": "2026-10-25",
+    "place": "서울 학여울역 SETEC",
+    "quote": "위미인터내셔날(대표 배선미)의 친환경 프로페셔널 네일 브랜드 반디(BANDI)가 지난 23일부터 25일까지 서울 학여울역 SETEC에서 열린 ‘2026 서울 네일 엑스포’에 참가해 신규 마그넷 젤과 뷰티·케어 제품을 선보였다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "보르피린",
+    "quote": "△ 퍼퓸 핸드&보디로션 ‘플라워비타’(FLOWER VITA) △ 고보습 핸드&보디로션 ‘노르딕디어’(NORDIC DEER) △ 보르피린 성분을 함유한 립케어 제품 ‘립드립’(LIP DRIP) 등이 대표 제품이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": true
+}

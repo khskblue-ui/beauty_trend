@@ -1,0 +1,60 @@
+{
+ "doc_id": "81b494440a349fba",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100283",
+ "title": "‘제18차 WFDSA 직접판매 세계대회’ 성료",
+ "summary": "‘제18차 WFDSA 직접판매 세계대회(이하 WFDSA 2026 직접판매 세계대회)’가 10월 19일부터 21일까지 인천 인스파이어 엔터테인먼트 리조트에서 사흘간의 일정을 마치고 성황리에 막을 내렸다. 동북아시아에서 처음 열린 이번 대회에는 전 세계 직접판매 기업과 각국 협회 관계자 등 35개국 350여 명이 참석해 산업 현안과 각국의 경험을 공유하고 교류의 폭을 넓혔다.이번 세계대회는 ‘Direct Selling: Powering Human Transformation(직접판매, 사람의 변화를 이끌다)’이라는 슬로건 아래, 기술 혁",
+ "published_at": "2026-10-28T10:32:48+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "SG"
+  ],
+  "brands": [
+   "아모레퍼시픽",
+   "애터미"
+  ],
+  "companies": [
+   "암웨이",
+   "애터미",
+   "피엠인터내셔널",
+   "아모레퍼시픽",
+   "베스트월드 인터내셔널"
+  ],
+  "keywords": [
+   "직접판매",
+   "K-뷰티",
+   "AI 디지털 전환"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제18차 WFDSA 직접판매 세계대회가 인천에서 열려 동북아시아에서 처음 개최됐다.",
+  "key_fact_quote": "‘제18차 WFDSA 직접판매 세계대회(이하 WFDSA 2026 직접판매 세계대회)’가 10월 19일부터 21일까지 인천 인스파이어 엔터테인먼트 리조트에서 사흘간의 일정을 마치고 성황리에 막을 내렸다.",
+  "events": [
+   {
+    "name": "제18차 WFDSA 직접판매 세계대회",
+    "start_date": "2026-10-19",
+    "end_date": "2026-10-21",
+    "place": "인천 인스파이어 엔터테인먼트 리조트",
+    "quote": "‘제18차 WFDSA 직접판매 세계대회(이하 WFDSA 2026 직접판매 세계대회)’가 10월 19일부터 21일까지 인천 인스파이어 엔터테인먼트 리조트에서 사흘간의 일정을 마치고 성황리에 막을 내렸다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": true
+}

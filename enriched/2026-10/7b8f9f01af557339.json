@@ -1,0 +1,45 @@
+{
+ "doc_id": "7b8f9f01af557339",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.huffingtonpost.kr/article/261615",
+ "title": "일동제약 왜 '빅사이즈' 여성 패션기업과 ' 화장품 ' 합작하나 : 윤웅섭 기...",
+ "summary": "제품을 출시 하게 될 것이다\"라고만 말했다. 이어 \"나인앤컴퍼니가 패션을 기본으로 하는 컬처 플랫폼 콘셉트를 가진 기업이고 일동제약은 제약, 헬스케어와 건기식, 기능성 화장품 사업을 하는 만큼 양사의 역량을...",
+ "published_at": "2026-10-28T15:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "일동제약",
+   "나인앤컴퍼니"
+  ],
+  "keywords": [
+   "기능성 화장품",
+   "패션 협업",
+   "헬스케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "일동제약이 여성 패션기업 나인앤컴퍼니와 화장품을 합작한다.",
+  "key_fact_quote": "나인앤컴퍼니가 패션을 기본으로 하는 컬처 플랫폼 콘셉트를 가진 기업이고 일동제약은 제약, 헬스케어와 건기식, 기능성 화장품 사업을 하는 만큼 양사의 역량을",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": false
+}

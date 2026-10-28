@@ -1,0 +1,45 @@
+{
+ "doc_id": "5d482ee97d9373c4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://news.lghellovision.net/news/articleView.html?idxno=560044",
+ "title": "경산시, 카르마코스메틱 39억 원 투자 유치",
+ "summary": "립스틱 등을 생산해 아시아 각국으로 수출 하는 유망 기업입니다. 조현일 경산시장은 기업이 안심하고 투자할 수 있는 환경을 조성해 지역 화장품 산업이 K - 뷰티 시장을 이끌 수 있도록 적극적으로 돕겠다고 밝혔습니다.",
+ "published_at": "2026-10-28T15:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "카르마코스메틱",
+   "경산시"
+  ],
+  "keywords": [
+   "K뷰티",
+   "립스틱",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "카르마코스메틱은 립스틱 등을 만들어 아시아 각국에 수출하는 기업이다.",
+  "key_fact_quote": "립스틱 등을 생산해 아시아 각국으로 수출 하는 유망 기업입니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r3-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:36:46+00:00",
+ "had_body": false
+}

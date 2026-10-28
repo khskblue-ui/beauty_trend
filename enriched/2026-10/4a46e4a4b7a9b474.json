@@ -1,0 +1,40 @@
+{
+ "doc_id": "4a46e4a4b7a9b474",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/unilever-q3-revenue-boosts-full-year-growth-outlook-1239389030/",
+ "title": "Unilever Posts 13.3B Euro Q3 Revenue, Boosts Full-Year Growth Outlook",
+ "summary": "Driven by strong performance in beauty and personal care, Unilever raised its full-year forecast, projecting at least 3 percent volume growth for 2026.",
+ "published_at": "2026-10-29T01:11:59+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Unilever"
+  ],
+  "keywords": [
+   "뷰티·퍼스널케어 성장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유니레버가 뷰티와 퍼스널케어 호조로 연간 성장 전망을 상향했다.",
+  "key_fact_quote": "Driven by strong performance in beauty and personal care, Unilever raised its full-year forecast, projecting at least 3 percent volume growth for 2026.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": false
+}

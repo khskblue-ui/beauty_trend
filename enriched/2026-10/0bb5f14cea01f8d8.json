@@ -1,0 +1,48 @@
+{
+ "doc_id": "0bb5f14cea01f8d8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://platum.kr/archives/297206",
+ "title": "누리하우스, 뉴욕 '하우스 오브 케이'서 K뷰티 더마 브랜드와 미국 약국...",
+ "summary": "더마는 피부과학 기반 화장품 을 말한다. 프로그램은 뉴욕 브루클린의 오프라인 거점 '하우스 오브 케이... 맞춤형 스킨케어 브랜드 톤28은 신제품 공개 행사 '언팩 NYC'를 열었고, 아이스트는 단독 브랜드 데이를...",
+ "published_at": "2026-10-28T13:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "톤28",
+   "아이스트"
+  ],
+  "companies": [
+   "누리하우스"
+  ],
+  "keywords": [
+   "K뷰티 더마",
+   "미국 진출",
+   "맞춤형 스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "누리하우스가 뉴욕 하우스 오브 케이에서 K뷰티 더마 브랜드의 미국 진출 프로그램을 진행한다.",
+  "key_fact_quote": "프로그램은 뉴욕 브루클린의 오프라인 거점 '하우스 오브 케이",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": false
+}

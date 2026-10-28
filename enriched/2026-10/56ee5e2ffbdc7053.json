@@ -1,0 +1,48 @@
+{
+ "doc_id": "56ee5e2ffbdc7053",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/guerlain-patricia-de-nicolai-scentxplore-niche-fragrance-1239387515/",
+ "title": "For Guerlain Descendant Patricia de Nicolaï, Perfume Isn’t Just About Legacy — It’s About Freedom",
+ "summary": "The perfumer, who is expanding her eponymous brand Nicolaï Paris into Neiman Marcus this fall, is ScentXplore's 2026 Lifetime Achievement Award honoree.",
+ "published_at": "2026-10-28T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Nicolaï Paris",
+   "Guerlain"
+  ],
+  "companies": [
+   "Neiman Marcus",
+   "ScentXplore"
+  ],
+  "keywords": [
+   "니치 향수",
+   "조향사 브랜드",
+   "백화점 입점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "조향사 패트리샤 드 니콜라이가 자신의 브랜드를 백화점으로 넓히고 시상식에서 공로상을 받는다",
+  "key_fact_quote": "The perfumer, who is expanding her eponymous brand Nicolaï Paris into Neiman Marcus this fall, is ScentXplore's 2026 Lifetime Achievement Award honoree.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": false
+}

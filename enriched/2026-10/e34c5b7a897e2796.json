@@ -1,0 +1,81 @@
+{
+ "doc_id": "e34c5b7a897e2796",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100280",
+ "title": "달바, ‘화이트 트러플 더블 라인’ 2026 업그레이드",
+ "summary": "프리미엄 비건 뷰티 브랜드 달바(d’Alba)가 최근 펩타이드 엑소좀™ 30%를 함유한 ‘화이트 트러플 더블 라인’ 2종을 2026년 버전으로 업그레이드해 선보였다.펩타이드 엑소좀™ 30%를 함유한 ‘화이트트러플 더블 라인’은 ‘화이트 트러플 더블 세럼 앤 크림’과 ‘화이트 트러플 더블 레이어 세럼 펩타이드’ 2종으로 기존 제품의 차별화된 제형과 사용감은 유지하면서 핵심 성분을 강화해 보습, 탄력, 영양을 아우르는 안티에이징 케어에 집중한 것이 특징이다.‘화이트 트러플 더블 세럼앤 크림’은 아쿠아 세럼과 인텐스 크림을 하나의 용기에",
+ "published_at": "2026-10-28T10:25:43+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "달바"
+  ],
+  "companies": [],
+  "keywords": [
+   "비건 뷰티",
+   "안티에이징 스킨케어",
+   "올인원 크림",
+   "기능성 성분"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "화이트 트러플 더블 세럼 앤 크림",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "프리미엄 비건 뷰티 브랜드 달바(d’Alba)가 최근 펩타이드 엑소좀™ 30%를 함유한 ‘화이트 트러플 더블 라인’ 2종을 2026년 버전으로 업그레이드해 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "화이트 트러플 더블 레이어 세럼 펩타이드",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "프리미엄 비건 뷰티 브랜드 달바(d’Alba)가 최근 펩타이드 엑소좀™ 30%를 함유한 ‘화이트 트러플 더블 라인’ 2종을 2026년 버전으로 업그레이드해 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "달바가 화이트 트러플 더블 라인 2종을 핵심 성분을 강화해 2026년 버전으로 선보였다.",
+  "key_fact_quote": "프리미엄 비건 뷰티 브랜드 달바(d’Alba)가 최근 펩타이드 엑소좀™ 30%를 함유한 ‘화이트 트러플 더블 라인’ 2종을 2026년 버전으로 업그레이드해 선보였다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "펩타이드 엑소좀™",
+    "quote": "프리미엄 비건 뷰티 브랜드 달바(d’Alba)가 최근 펩타이드 엑소좀™ 30%를 함유한 ‘화이트 트러플 더블 라인’ 2종을 2026년 버전으로 업그레이드해 선보였다."
+   },
+   {
+    "name": "판테놀",
+    "quote": "아쿠아 세럼은 이번 업그레이드를 통해 판테놀 5%를, 인텐스 크림에는 달바의 독자 성분인 펩타이드 엑소좀™ 30%를 함유했다."
+   },
+   {
+    "name": "나이아신아마이드",
+    "quote": "여기에 나이아신아마이드 2%를 더해 미백과 주름개선 2중 기능성으로 깊은 속보습과 속탄력 개선, 외부 자극으로 예민해진피부 진정과 수분 장벽 개선까지 고려한 고기능성 케어를 제안한다."
+   },
+   {
+    "name": "토코페롤",
+    "quote": "달바의 독자 성분인 펩타이드 엑소좀™ 30%와토코페롤 1%를 함유해 보습·광채·영양·탄력 케어에 초점을 맞췄다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r4-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:37:51+00:00",
+ "had_body": true
+}

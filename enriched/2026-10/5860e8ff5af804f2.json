@@ -1,0 +1,44 @@
+{
+ "doc_id": "5860e8ff5af804f2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20106839?ref=naver",
+ "title": "이병주표 신사업 본격화…코스맥스, 브랜드 마케팅 전문법인 설립",
+ "summary": "코스맥스가 브랜드 육성 분야에 주목하는 것은 화장품 시장에 진입하는 사업자가 빠르게 늘고 있기 때문이다. 제조 설비를 직접 갖추지 않아도 외부 전문업체에 생산을 맡겨 브랜드를 출시 할 수 있는 환경이...",
+ "published_at": "2026-10-28T07:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "브랜드 육성",
+   "화장품 위탁생산",
+   "브랜드 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스가 브랜드 마케팅 전문법인을 세워 브랜드 육성 사업에 나선다.",
+  "key_fact_quote": "코스맥스가 브랜드 육성 분야에 주목하는 것은 화장품 시장에 진입하는 사업자가 빠르게 늘고 있기 때문이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-r2-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-28T21:35:32+00:00",
+ "had_body": false
+}
