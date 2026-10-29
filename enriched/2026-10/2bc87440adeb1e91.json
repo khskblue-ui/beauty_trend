@@ -1,0 +1,43 @@
+{
+ "doc_id": "2bc87440adeb1e91",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsverse.kr/news/articleView.html?idxno=11795",
+ "title": "[ K - 뷰티 를 만든 사람들 ①] 실패한 앱에서 K - 뷰티 의 길을 찾다- 김병훈",
+ "summary": "각 기사의 제목을 클릭하면 해당 기사로 이동합니다 편 시리즈에 이어 2부로 오늘의 [ K - 뷰티 를 만든 사람들]... 중국에 수출 하면서 현지 소비자가 어떤 제품을 원하는지 익히고 있었다. 두 사람의 경험은 달랐다....",
+ "published_at": "2026-10-30T05:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "other",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 창업",
+   "중국 수출",
+   "현지 소비자 분석"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "실패한 앱에서 출발해 중국 수출로 현지 소비자가 원하는 제품을 익힌 창업 이야기다.",
+  "key_fact_quote": "중국에 수출 하면서 현지 소비자가 어떤 제품을 원하는지 익히고 있었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

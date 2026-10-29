@@ -1,0 +1,62 @@
+{
+ "doc_id": "1db0fe0422300f65",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065597664860657",
+ "title": "\"성수동엔 먹는 레티놀, 여의도엔 럭셔리 뷰티 \"…아모레퍼시픽, 팝업 마...",
+ "summary": "바이탈 뷰티 는 신제품 출시 와 함께 온·오프라인 유통망도 확대한다. 슈퍼레티놀 젤리는 지난 26일부터 아모레몰에서 판매 중이며, 오는 11월 1일부터 올리브영 오프라인 매장에서도 판매할 예정이다. 성수동...",
+ "published_at": "2026-10-29T16:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "바이탈 뷰티"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "이너 뷰티",
+   "먹는 레티놀",
+   "팝업스토어",
+   "유통망 확대"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "슈퍼레티놀 젤리",
+    "brand": "바이탈 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "슈퍼레티놀 젤리는 지난 26일부터 아모레몰에서 판매 중이며, 오는 11월 1일부터 올리브영 오프라인 매장에서도 판매할 예정이다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "바이탈 뷰티가 슈퍼레티놀 젤리를 내놓고 온라인과 오프라인 판매를 넓힌다.",
+  "key_fact_quote": "바이탈 뷰티 는 신제품 출시 와 함께 온·오프라인 유통망도 확대한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레티놀",
+    "quote": "성수동엔 먹는 레티놀, 여의도엔 럭셔리 뷰티"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "0c1f2b0542b27991",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261029000038",
+ "title": "K뷰티 수출 지원…화장품 안전정보 DB 개편",
+ "summary": "화장품 수출 중소기업이 해외 규제 대응에 필요한 성분 안전성 자료를 보다 쉽고 구체적으로 확인할 수 있는 체계가 마련된다. 세부 독성시험 자료나 급변한 해외 안전성 평가 정보까지 파악할 수 있어, 관련 문제로 해외...",
+ "published_at": "2026-10-29T09:11:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 안전정보",
+   "성분 안전성",
+   "K뷰티 수출 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 수출 중소기업이 성분 안전성 자료를 더 쉽게 확인하도록 안전정보 DB가 개편된다.",
+  "key_fact_quote": "화장품 수출 중소기업이 해외 규제 대응에 필요한 성분 안전성 자료를 보다 쉽고 구체적으로 확인할 수 있는 체계가 마련된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

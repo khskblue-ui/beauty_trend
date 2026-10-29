@@ -1,0 +1,46 @@
+{
+ "doc_id": "84e5e07fe71f4480",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/celebrity-hair-care-oversaturated-can-mes-break-through",
+ "title": "Celebrity hair care is oversaturated, but can Jennifer Lawrence’s mes° breakthrough?",
+ "summary": "With actress Jennifer Lawrence the latest A-lister to launch a hair care brand, and to mixed reviews, she joins the likes of Beyoncé, Rihanna and Blake Lively in the celebrity beauty space. Cosmetics Business explores why the real challenge facing celebrity hair care brands is differentiation",
+ "published_at": "2026-10-29T21:09:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "mes°"
+  ],
+  "companies": [
+   "Cosmetics Business"
+  ],
+  "keywords": [
+   "셀럽 헤어케어",
+   "브랜드 차별화",
+   "헤어케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배우 제니퍼 로렌스가 헤어케어 브랜드를 내놓았지만 셀럽 헤어케어 시장은 포화 상태다.",
+  "key_fact_quote": "With actress Jennifer Lawrence the latest A-lister to launch a hair care brand, and to mixed reviews, she joins the likes of Beyoncé, Rihanna and Blake Lively in the celebrity beauty space.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

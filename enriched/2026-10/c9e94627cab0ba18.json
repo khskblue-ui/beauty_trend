@@ -1,0 +1,43 @@
+{
+ "doc_id": "c9e94627cab0ba18",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58617",
+ "title": "유럽 PPWR 8월 12일 시행 이후 지금은... 바이어와 유통업체 간 문서 제공 역량이 거래조건",
+ "summary": "[코스인코리아닷컴 김민석 기자]유럽에서 시행 중인 PPWR은 ‘26. 8. 12일 예정대로 일반 적용되어 쟁점은 ‘연기여부’에서 ‘집행 방식과 후속 입법’으로 이동하고 있다고 브뤼셀무역관은 밝혔다. 이와 관련 EU 일반법원의 무효소송 12건도 받아들여지지 않았다. 집행은 ‘경고·시정기회 우선’…",
+ "published_at": "2026-10-29T11:04:13+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "EU",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "포장 규제",
+   "확대생산자책임",
+   "지속가능 포장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유럽 포장 규제가 예정대로 적용되면서 바이어와 유통업체가 문서 제공 역량을 거래조건으로 삼기 시작했다.",
+  "key_fact_quote": "이런 상황에서 EU 현지에서는 바이어와 유통업체가 문서 제공 역량을 거래조건 으로 삼기 시작했다는 소식이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

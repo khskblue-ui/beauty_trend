@@ -1,0 +1,59 @@
+{
+ "doc_id": "04f8a48fbd01f0fe",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businessplus.kr/news/articleView.html?idxno=118912",
+ "title": "\"사르르 녹는 버터 글로우 립밤 출시\"…LF 아떼, 프랑스 '이즈니 생메르...",
+ "summary": "사진=LF 아떼 프랑스 유명 버터 브랜드 가 국내 뷰티 브랜드 와 컬래버해 버터 색과 질감을 재해석한 립밤... 한정판 '아떼 립 글로이밤 프리미엄 버터 글로우 에디션'은 다음달 1일 올리브영을 통해 단독으로 선 론칭 한다....",
+ "published_at": "2026-10-29T09:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "아떼",
+   "이즈니 생메르"
+  ],
+  "companies": [
+   "LF",
+   "올리브영"
+  ],
+  "keywords": [
+   "립밤",
+   "버터 컬래버",
+   "한정판 에디션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아떼 립 글로이밤 프리미엄 버터 글로우 에디션",
+    "brand": "아떼",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "한정판 '아떼 립 글로이밤 프리미엄 버터 글로우 에디션'은 다음달 1일 올리브영을 통해 단독으로 선 론칭 한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "LF 아떼가 프랑스 버터 브랜드와 협업한 한정판 립밤을 올리브영에서 선 론칭한다.",
+  "key_fact_quote": "한정판 '아떼 립 글로이밤 프리미엄 버터 글로우 에디션'은 다음달 1일 올리브영을 통해 단독으로 선 론칭 한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

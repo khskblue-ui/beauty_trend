@@ -1,0 +1,46 @@
+{
+ "doc_id": "2b1ce082970b0492",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202610292050r",
+ "title": "비건 스킨케어부터 AI 신약개발까지…스타트업 투자 잇따라 [VC 브리핑]",
+ "summary": "한국 수출 입은행이 투자에 참여했습니다. 화학단백질체학 기반 인공지능(AI) 신약개발 플랫폼 기업... 효율화 기업 멀티스케일인스트루먼트, K - 뷰티 브랜드 올블룸 등이 투자 유치 또는 인수합병(M&A)을 진행했습니다.",
+ "published_at": "2026-10-29T07:25:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올블룸"
+  ],
+  "companies": [
+   "멀티스케일인스트루먼트"
+  ],
+  "keywords": [
+   "스타트업 투자",
+   "비건 스킨케어",
+   "K뷰티 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 브랜드 올블룸 등이 투자 유치 또는 인수합병을 진행했다.",
+  "key_fact_quote": "효율화 기업 멀티스케일인스트루먼트, K - 뷰티 브랜드 올블룸 등이 투자 유치 또는 인수합병(M&A)을 진행했습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

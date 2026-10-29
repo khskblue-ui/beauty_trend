@@ -1,0 +1,44 @@
+{
+ "doc_id": "aef561fa273407b8",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100311",
+ "title": "EU 포장규제 본격 시행…수출기업 10곳 중 8곳 \"내용 잘 몰라\"",
+ "summary": "EU의 포장 및 포장폐기물 규정(PPWR)이 지난 8월 12일부터 시행된 가운데, 국내 수출기업 상당수는 규제 내용 파악 등 대응 준비가 아직 초기 단계에 머물러 있는 것으로 나타났다.한국무역협회(KITA, 회장 윤진식) 국제무역통상연구원이 27일(화) 발표한 ‘EU 포장 및 포장폐기물 규정(PPWR) 대응 실태와 과제’ 보고서의 설문조사*에 따르면, 응답기업의 82.5%가 PPWR을 전혀 모르거나 개략적인 내용만 알고 있다고 답했다. 자사 제품에 대한 규제 적용 진단을 완료했거나 진행 중인 기업은 16.7%에 그쳤다.설문조사에 따",
+ "published_at": "2026-10-29T13:18:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "EU"
+  ],
+  "brands": [],
+  "companies": [
+   "한국무역협회"
+  ],
+  "keywords": [
+   "EU 포장규제",
+   "수출기업 규제 대응"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "EU 포장 및 포장폐기물 규정 시행에도 국내 수출기업 상당수는 대응 준비가 초기 단계에 머물러 있다.",
+  "key_fact_quote": "EU의 포장 및 포장폐기물 규정(PPWR)이 지난 8월 12일부터 시행된 가운데, 국내 수출기업 상당수는 규제 내용 파악 등 대응 준비가 아직 초기 단계에 머물러 있는 것으로 나타났다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

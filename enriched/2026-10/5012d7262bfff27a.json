@@ -1,0 +1,61 @@
+{
+ "doc_id": "5012d7262bfff27a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877691",
+ "title": "샤넬, 신제품 향수 출시",
+ "summary": "샤넬 하우스 조향사 올리비에 뽈쥬가 추운 겨울 아늑하고 친밀한 온기를 전하도록 구성했다. 제품은 과즙이 풍부한 배 어코드의 청량감으로 시작해 스파이시 미네랄 느낌의 로즈 노트로 이어진다. 이어 머스크 앰버 노트가...",
+ "published_at": "2026-10-29T16:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "샤넬"
+  ],
+  "companies": [],
+  "keywords": [
+   "겨울 향수",
+   "머스크 앰버",
+   "배 어코드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "샤넬이 겨울의 아늑한 온기를 주제로 한 신제품 향수를 출시했다.",
+  "key_fact_quote": "샤넬 하우스 조향사 올리비에 뽈쥬가 추운 겨울 아늑하고 친밀한 온기를 전하도록 구성했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "배",
+    "quote": "제품은 과즙이 풍부한 배 어코드의 청량감으로 시작해 스파이시 미네랄 느낌의 로즈 노트로 이어진다."
+   },
+   {
+    "name": "로즈",
+    "quote": "제품은 과즙이 풍부한 배 어코드의 청량감으로 시작해 스파이시 미네랄 느낌의 로즈 노트로 이어진다."
+   },
+   {
+    "name": "머스크",
+    "quote": "이어 머스크 앰버 노트가"
+   },
+   {
+    "name": "앰버",
+    "quote": "이어 머스크 앰버 노트가"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

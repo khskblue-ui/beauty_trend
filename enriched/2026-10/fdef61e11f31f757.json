@@ -1,0 +1,57 @@
+{
+ "doc_id": "fdef61e11f31f757",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244929",
+ "title": "작게 써보고 크게 산다...미국 뷰티 시장의 미니 사이즈 열풍",
+ "summary": "메이크업, 향수 등 다양한 분야에서 독립적인 상품군으로 자리 잡았다. 이러한 미니 사이즈 제품은... 라네즈(Laneige)는 2026년 출시 한 'JuicePop Box' 립 틴트에 키링 연결 고리를 적용했으며, Sephora에서는 손목...",
+ "published_at": "2026-10-29T08:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "라네즈"
+  ],
+  "companies": [
+   "세포라"
+  ],
+  "keywords": [
+   "미니 사이즈",
+   "휴대용 뷰티",
+   "키링 패키지"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "JuicePop Box",
+    "brand": "라네즈(Laneige)",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "라네즈(Laneige)는 2026년 출시 한 'JuicePop Box' 립 틴트에 키링 연결 고리를 적용했으며",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "미국 뷰티 시장에서 미니 사이즈 제품이 독립적인 상품군으로 자리 잡았다.",
+  "key_fact_quote": "메이크업, 향수 등 다양한 분야에서 독립적인 상품군으로 자리 잡았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

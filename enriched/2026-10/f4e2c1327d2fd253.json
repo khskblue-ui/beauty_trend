@@ -1,0 +1,68 @@
+{
+ "doc_id": "f4e2c1327d2fd253",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53816",
+ "title": "중기부 K-수출전략품목 '뷰티가 37.2%'",
+ "summary": "중소벤처기업부(장관 이소영)가 28일(수) 서울 스타트업벤처캠퍼스에서 ’2026년 K-수출전략품목 출범식‘을 개최했다. 중기부가 선정한 K-수출전략품목은 뷰티 70개를 비롯해 패션 38개, 라이프 40개, 푸드 40개 등 총 188개다. 10월 31일까지 행사장 1층 팝업스토어에 전시한다. 누구나 자유롭게 제…",
+ "published_at": "2026-10-29T10:24:10+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "중소벤처기업부",
+   "라이프위드코퍼레이션"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "수출 지원",
+   "탄산 마스크팩"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "탄산 마스크팩",
+    "brand": "라이프위드코퍼레이션",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "중기부가 뷰티를 포함한 K-수출전략품목을 선정해 해외 진출을 지원한다.",
+  "key_fact_quote": "중기부는 K-수출전략품목에 오른 기업에게 해외 유통채널 입점을 돕는다.",
+  "events": [
+   {
+    "name": "2026년 K-수출전략품목 출범식",
+    "start_date": "2026-10-28",
+    "end_date": null,
+    "place": "서울 스타트업벤처캠퍼스",
+    "quote": "중소벤처기업부(장관 이소영)가 28일(수) 서울 스타트업벤처캠퍼스에서 ’2026년 K-수출전략품목 출범식‘을 개최했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "홀리바질",
+    "quote": "이 회사는 인도 홀리바질 등을 주성분으로 한 탄산 마스크팩을 판매한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

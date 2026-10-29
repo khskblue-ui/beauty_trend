@@ -1,0 +1,71 @@
+{
+ "doc_id": "b87ca866cac4c09f",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58618",
+ "title": "이소이비, ‘KIMES BUSAN 2026’ 참가... 3D 피부분석기 앞세워 글로벌 바이어와 접점 확대",
+ "summary": "[코스인코리아닷컴 김세화 기자]피부 분석 및 뷰티 디바이스 전문기업 ㈜이소이비(ISO EV)가 지난 23일부터 25일까지 부산 벡스코(BEXCO)에서 열린 ‘KIMES BUSAN 2026’에 참가해 3D 피부분석기 ‘Eve Muse(이브 뮤즈)’와 ‘EVE YOUNG (이브 영)’을 선보이며 국내외 뷰티·헬스케어…",
+ "published_at": "2026-10-29T12:07:46+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "이소이비"
+  ],
+  "keywords": [
+   "피부분석기",
+   "뷰티 디바이스",
+   "맞춤형 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Eve Muse",
+    "brand": "이소이비",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "EVE YOUNG",
+    "brand": "이소이비",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이소이비가 의료기기 전시회에 참가해 3D 피부분석기를 선보였다.",
+  "key_fact_quote": "이소이비는 전시부스를 운영하며 제품의 핵심 기능과 활용 방안을 소개하는 한편, 현장을 찾은 방문객들에게 피부 솔루션을 알리는 데 주력했다.",
+  "events": [
+   {
+    "name": "KIMES BUSAN 2026",
+    "start_date": "2026-10-23",
+    "end_date": "2026-10-25",
+    "place": "부산 벡스코(BEXCO)",
+    "quote": "피부 분석 및 뷰티 디바이스 전문기업 ㈜이소이비(ISO EV)가 지난 23일부터 25일까지 부산 벡스코(BEXCO)에서 열린 ‘KIMES BUSAN 2026’에 참가해 3D 피부분석기 ‘Eve Muse(이브 뮤즈)’와 ‘EVE YOUNG (이브 영)’을 선보이며 국내외 뷰티·헬스케어 업계 관계자들과의 접점을 넓혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

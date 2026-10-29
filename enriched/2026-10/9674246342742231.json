@@ -1,0 +1,45 @@
+{
+ "doc_id": "9674246342742231",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576265323077",
+ "title": "\"틱톡서 뜬 K뷰티 , 이제 美 매장으로\"…랜딩인터내셔널, '제3의 물결' 공...",
+ "summary": "지난해 한국 화장품 수출 액도 114억 달러로 사상 최대치를 기록했으며, 미국은 중국을 제치고 최대 수출 시장으로 올라섰다. 정 대표는 미국 K뷰티 시장이 현재 '제3의 물결'에 진입했다고 진단했다. 제1의 물결은 세포라와...",
+ "published_at": "2026-10-29T10:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "랜딩인터내셔널"
+  ],
+  "keywords": [
+   "K뷰티 미국 진출",
+   "화장품 수출",
+   "틱톡 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국이 중국을 제치고 한국 화장품의 최대 수출 시장이 됐다.",
+  "key_fact_quote": "지난해 한국 화장품 수출 액도 114억 달러로 사상 최대치를 기록했으며, 미국은 중국을 제치고 최대 수출 시장으로 올라섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

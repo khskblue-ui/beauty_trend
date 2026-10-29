@@ -1,0 +1,44 @@
+{
+ "doc_id": "d18b2944e3fe89ca",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/storied-paris-department-store-bhv,28434",
+ "title": "Storied Paris department store BHV Marais seeks bankruptcy protection",
+ "summary": "Paris department store BHV Marais, which courted controversy last year with a partnership with Asian fast-fashion giant Shein, said on Tuesday, October 28, that it had filed for bankruptcy protection to safeguard its operations and jobs. The bankruptcy procedure \"is part of BHV's relaunch, not its failure,\" the company said, adding that the landmark store opposite Paris City Hall that employs 700 people will remain open. The store's previous owner already had problems with brand-name... - Industry buzz",
+ "published_at": "2026-10-29T19:54:59+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "BHV Marais",
+   "Shein",
+   "Brookfield"
+  ],
+  "keywords": [
+   "백화점 파산보호"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "파리 백화점 BHV Marais가 파산보호를 신청했다.",
+  "key_fact_quote": "said on Tuesday, October 28, that it had filed for bankruptcy protection to safeguard its operations and jobs.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

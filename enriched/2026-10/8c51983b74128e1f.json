@@ -1,0 +1,60 @@
+{
+ "doc_id": "8c51983b74128e1f",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53809",
+ "title": "올리브영, ‘올리브베러 성수점’ 오픈",
+ "summary": "올리브영이 30일(금) 올리브베러 성수점을 연다. 올리브베러는 올리브영이 선보인 웰니스 제품 전문 매장이다. 1월 30일 서울 광화문점을 시작으로 강남역점 코엑스몰점 스타필드안성점을 열었다. 이번 성수점까지 올해 총 5개 매장을 선보이며 웰니스 시장 확대에 나섰다. 올리브베러 성수점은 총 4개층(지…",
+ "published_at": "2026-10-29T09:14:34+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "웰니스 매장",
+   "올리브베러",
+   "체험형 매장",
+   "인앤아웃 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "올리브영이 웰니스 제품 전문 매장 올리브베러 성수점을 연다.",
+  "key_fact_quote": "올리브영이 30일(금) 올리브베러 성수점을 연다.",
+  "events": [
+   {
+    "name": "올리브베러 성수점",
+    "start_date": "2026-10-30",
+    "end_date": null,
+    "place": null,
+    "quote": "올리브영이 30일(금) 올리브베러 성수점을 연다."
+   },
+   {
+    "name": "SMCC 모닝 레이브 with 올리브베러",
+    "start_date": "2026-11-07",
+    "end_date": null,
+    "place": "서울숲",
+    "quote": "올리브영은 11월 7일 ‘SMCC 모닝 레이브 with 올리브베러’ 행사를 연다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

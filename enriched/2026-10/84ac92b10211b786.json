@@ -1,0 +1,44 @@
+{
+ "doc_id": "84ac92b10211b786",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.job-post.co.kr/news/articleView.html?idxno=235378",
+ "title": "에이피알 28만2000원으로 2.42% 하락…뷰티기기 해외 성장성 점검",
+ "summary": "화장품 재구매율과 디바이스 신제품 효과도 중요하다. 장중 변동폭은 16,000원으로 계산된다. 저가 277,000원 이후의 회복력과 고가 293,000원 부근 매물 소화가 단기 흐름을 가를 수 있다. 단기 등락보다 중요한...",
+ "published_at": "2026-10-29T15:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "뷰티기기",
+   "해외 성장성",
+   "화장품 재구매율"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에이피알의 뷰티기기 해외 성장성을 점검하는 기사다.",
+  "key_fact_quote": "화장품 재구매율과 디바이스 신제품 효과도 중요하다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

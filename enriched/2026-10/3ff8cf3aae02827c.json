@@ -1,0 +1,80 @@
+{
+ "doc_id": "3ff8cf3aae02827c",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100306",
+ "title": "EOA, CJ온스타일 ‘풀써마 프로’ 론칭 방송서 준비 수량 완판",
+ "summary": "글로벌 웰니스 그룹 더퓨처의 항노화 뷰티 전문 브랜드 EOA가 홈케어 디바이스 ‘풀써마 프로’의 CJ온스타일 론칭 방송에서 준비 수량 전량 매진을 기록하며 성공적인 출발을 알렸다.EOA는 지난 24일 CJ온스타일에서 진행된 70분간의 론칭 방송을 통해 ‘풀써마 프로’와 ‘콜라겐 시너지 부스팅 젤’ 2개로 구성된 기획세트를 선보였다. 포토리뷰 작성 고객에게 부스팅 젤 1개를 추가 증정하는 특별 혜택도 마련했으며, 방송에서 준비한 수량이 모두 판매되는 성과를 거뒀다.이번 완판 성과는 집에서도 전문적인 피부 관리를 경험하려는 소비자들의",
+ "published_at": "2026-10-29T10:24:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "EOA"
+  ],
+  "companies": [
+   "더퓨처",
+   "CJ온스타일"
+  ],
+  "keywords": [
+   "홈케어 디바이스",
+   "고주파 뷰티 디바이스",
+   "항노화 뷰티",
+   "홈쇼핑 론칭"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "풀써마 프로",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "EOA는 지난 24일 CJ온스타일에서 진행된 70분간의 론칭 방송을 통해 ‘풀써마 프로’와 ‘콜라겐 시너지 부스팅 젤’ 2개로 구성된 기획세트를 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "콜라겐 시너지 부스팅 젤",
+    "brand": "EOA",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "EOA는 지난 24일 CJ온스타일에서 진행된 70분간의 론칭 방송을 통해 ‘풀써마 프로’와 ‘콜라겐 시너지 부스팅 젤’ 2개로 구성된 기획세트를 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "EOA가 홈케어 디바이스 풀써마 프로를 CJ온스타일 론칭 방송에서 준비 수량 전량 판매했다.",
+  "key_fact_quote": "글로벌 웰니스 그룹 더퓨처의 항노화 뷰티 전문 브랜드 EOA가 홈케어 디바이스 ‘풀써마 프로’의 CJ온스타일 론칭 방송에서 준비 수량 전량 매진을 기록하며 성공적인 출발을 알렸다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "콜라겐",
+    "quote": "함께 구성된 ‘콜라겐 시너지 부스팅 젤’은 더블 콜라겐을 비롯해 3중 히알루론산과 시카 성분을 함유한 제품이다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "함께 구성된 ‘콜라겐 시너지 부스팅 젤’은 더블 콜라겐을 비롯해 3중 히알루론산과 시카 성분을 함유한 제품이다."
+   },
+   {
+    "name": "시카",
+    "quote": "함께 구성된 ‘콜라겐 시너지 부스팅 젤’은 더블 콜라겐을 비롯해 3중 히알루론산과 시카 성분을 함유한 제품이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

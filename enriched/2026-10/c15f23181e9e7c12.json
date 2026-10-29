@@ -1,0 +1,42 @@
+{
+ "doc_id": "c15f23181e9e7c12",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=361513",
+ "title": "GS샵, 패션∙리빙∙ 뷰티 까지...\"대표 카테고리 자체 브랜드 강화\"",
+ "summary": "GS샵이 자체 언더웨어 브랜드 'UBGS' FW 라인으로 피치기모 멀티웨어 론칭 |GS샵 GS샵이 패션, 리빙, 뷰티 등 주요 카테고리별 자체 브랜드 상품을 확대하며 단독 상품 경쟁력 강화에 나선다고 29일 밝혔다. 먼저 30일...",
+ "published_at": "2026-10-29T14:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "GS샵"
+  ],
+  "keywords": [
+   "자체 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

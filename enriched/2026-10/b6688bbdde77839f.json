@@ -1,0 +1,46 @@
+{
+ "doc_id": "b6688bbdde77839f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dongponews.net/news/articleView.html?idxno=61353",
+ "title": "K - 뷰티 UAE 수출 5년 새 9배…중소기업, 중동·북아프리카 시장 공략",
+ "summary": "한국의 아랍에미리트(UAE) 화장품 수출 이 5년 만에 9배 이상 증가했다. K - 뷰티 를 중심으로 한국 소비재의 중동시장 진출이 확대되는 가운데 국내 중소·중견기업들이 UAE와 모로코를 거점으로 중동·북아프리카(MENA) 시장...",
+ "published_at": "2026-10-29T16:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "AE",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국무역협회"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "중동 시장",
+   "MENA"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "e4101b0049621108",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

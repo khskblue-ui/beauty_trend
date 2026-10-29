@@ -1,0 +1,78 @@
+{
+ "doc_id": "bfb3a52a93d57ccc",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53818",
+ "title": "퓨어앤텍, 하이드로겔 앞세워 글로벌 ODM 확대 잰걸음",
+ "summary": "화장품 OEM·ODM 전문기업 퓨어앤텍(주)이 오는 11월 11일부터 13일까지 홍콩 컨벤션amp;엑시비션센터(HKCEC)에서 열리는 ‘코스모프로프 아시아 인 홍콩 2026’에 참가해 하이드로겔·스킨케어 제조 경쟁력을 선보인다. 퓨어앤텍은 이번 전시회에서 신제품 캡슐크림과 그라인더 타입의 ‘…",
+ "published_at": "2026-10-29T18:13:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [
+   "퓨어앤텍"
+  ],
+  "keywords": [
+   "하이드로겔",
+   "OEM ODM",
+   "뷰티 박람회",
+   "아이패치"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "캡슐크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "퓨어앤텍은 이번 전시회에서 신제품 캡슐크림과 그라인더 타입의 ‘트위스트 글로우 아이패치’(Twist Glow Eye Patch)를 공개한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "트위스트 글로우 아이패치",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "퓨어앤텍은 이번 전시회에서 신제품 캡슐크림과 그라인더 타입의 ‘트위스트 글로우 아이패치’(Twist Glow Eye Patch)를 공개한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "퓨어앤텍이 홍콩 박람회에 참가해 하이드로겔 제조 경쟁력과 신제품을 선보인다.",
+  "key_fact_quote": "화장품 OEM·ODM 전문기업 퓨어앤텍(주) 이 오는 11월 11일부터 13일까지 홍콩 컨벤션&엑시비션센터(HKCEC)에서 열리는 ‘코스모프로프 아시아 인 홍콩 2026’ 에 참가해 하이드로겔·스킨케어 제조 경쟁력을 선보인다.",
+  "events": [
+   {
+    "name": "코스모프로프 아시아 인 홍콩 2026",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "홍콩 컨벤션&엑시비션센터(HKCEC)",
+    "quote": "화장품 OEM·ODM 전문기업 퓨어앤텍(주) 이 오는 11월 11일부터 13일까지 홍콩 컨벤션&엑시비션센터(HKCEC)에서 열리는 ‘코스모프로프 아시아 인 홍콩 2026’ 에 참가해 하이드로겔·스킨케어 제조 경쟁력을 선보인다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "하이드로겔",
+    "quote": "화장품 OEM·ODM 전문기업 퓨어앤텍(주) 이 오는 11월 11일부터 13일까지 홍콩 컨벤션&엑시비션센터(HKCEC)에서 열리는 ‘코스모프로프 아시아 인 홍콩 2026’ 에 참가해 하이드로겔·스킨케어 제조 경쟁력을 선보인다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

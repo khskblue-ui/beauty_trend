@@ -1,0 +1,47 @@
+{
+ "doc_id": "c6e8978fbd713720",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=777512",
+ "title": "팅커벨, '대용량 고체 퍼퓸 탈취제' 출시 ...최대 200일 사용",
+ "summary": "저자극 향기 큐레이션 브랜드 팅커벨이 '대용량 고체 퍼퓸 탈취제'을 선보였다. 넉넉한 용량으로 거실과... '팅커벨 대용량 고체 퍼퓸 탈취제'는 향으로 냄새를 덮는 대신 팅커벨의 악취 흡착·분해 기술로 냄새의 원인에...",
+ "published_at": "2026-10-29T17:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "퍼퓸 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "팅커벨"
+  ],
+  "companies": [
+   "불스원"
+  ],
+  "keywords": [
+   "고체 퍼퓸",
+   "탈취제",
+   "향기 큐레이션"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "4fe14300f4e98a6d",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

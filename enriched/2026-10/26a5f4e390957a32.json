@@ -1,0 +1,58 @@
+{
+ "doc_id": "26a5f4e390957a32",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=121059",
+ "title": "LF 아떼, 프랑스 '이즈니 생메르' 협업 립 글로이밤 한정판 출시",
+ "summary": "LF의 뷰티 브랜드 아떼가 프랑스 프리미엄 버터 브랜드 '이즈니 생메르(Isigny Sainte-Mère)'와 손잡고 한정판... 선 론칭 한다고 29일 밝혔다. 이번 협업은 이즈니 생메르의 대표 제품인 버터에서 영감을 받아 기획됐다. 버터...",
+ "published_at": "2026-10-29T08:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "아떼",
+   "이즈니 생메르"
+  ],
+  "companies": [
+   "LF"
+  ],
+  "keywords": [
+   "브랜드 협업",
+   "한정판",
+   "립 글로이밤"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "립 글로이밤 한정판",
+    "brand": "아떼",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "선 론칭 한다고 29일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "LF 아떼가 이즈니 생메르와 협업한 립 글로이밤 한정판을 선보인다.",
+  "key_fact_quote": "이번 협업은 이즈니 생메르의 대표 제품인 버터에서 영감을 받아 기획됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

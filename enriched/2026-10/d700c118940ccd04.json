@@ -1,0 +1,69 @@
+{
+ "doc_id": "d700c118940ccd04",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://kor.theasian.asia/archives/420291",
+ "title": "바이탈 뷰티 , 성수동에 ‘슈퍼 글로우 사우나’ 팝업 오픈… 먹는 레티놀...",
+ "summary": "10월 28일~11월 3일 운영… 사우나 콘셉트로 피부 턴오버·광채 체험 콘텐츠 마련 신제품 ‘슈퍼레티놀 젤리’ 출시 … 레티놀 1,000㎍ 함유, 11월 1일부터 올리브영 판매아모레퍼시픽의 이너 뷰티 브랜드 바이탈 뷰티 가 서울...",
+ "published_at": "2026-10-29T10:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "바이탈 뷰티"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "이너 뷰티",
+   "먹는 레티놀",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "슈퍼레티놀 젤리",
+    "brand": "바이탈 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신제품 ‘슈퍼레티놀 젤리’ 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아모레퍼시픽 바이탈 뷰티가 성수동 팝업과 함께 슈퍼레티놀 젤리를 내놓았다.",
+  "key_fact_quote": "신제품 ‘슈퍼레티놀 젤리’ 출시",
+  "events": [
+   {
+    "name": "슈퍼 글로우 사우나",
+    "start_date": "2026-10-28",
+    "end_date": "2026-11-03",
+    "place": "성수동",
+    "quote": "10월 28일~11월 3일 운영… 사우나 콘셉트로 피부 턴오버·광채 체험 콘텐츠 마련"
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "레티놀",
+    "quote": "신제품 ‘슈퍼레티놀 젤리’ 출시 … 레티놀 1,000㎍ 함유"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

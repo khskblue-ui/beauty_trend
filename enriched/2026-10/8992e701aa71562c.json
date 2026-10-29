@@ -1,0 +1,45 @@
+{
+ "doc_id": "8992e701aa71562c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877685",
+ "title": "뷰티업계, 부위별 집중 케어 강화",
+ "summary": "제형은 밀도감 있는 크림 타입으로 눈가 등 섬세한 부위 특성을 고려해 향료 를 넣지 않았다. 한편 세르본은 1998년 론칭된 피부 과학 기반 스킨케어 브랜드다. 디오디너리는 지난 10월 입술 수분과 탄력 관리에 초점을...",
+ "published_at": "2026-10-29T16:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "세르본",
+   "디오디너리"
+  ],
+  "companies": [],
+  "keywords": [
+   "부위별 케어",
+   "무향료 크림",
+   "립 케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티업계가 부위별 집중 케어를 강화하고 있다.",
+  "key_fact_quote": "뷰티업계, 부위별 집중 케어 강화",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

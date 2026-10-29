@@ -1,0 +1,41 @@
+{
+ "doc_id": "ad90bbc65803bc06",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244788",
+ "title": "스페인 슈퍼마켓의 뷰티 경쟁, 진화하는 PB 화장품",
+ "summary": "스페인 향수 ·화장품협회(STANPA)에 따르면, 향수 와 개인위생용품 등을 포함한 스페인 화장품 시장의 2025년... 이러한 시장에서 주요 슈퍼마켓 체인들은 자체 브랜드 화장품의 종류를 늘리고 성분과 제형을 차별화하며...",
+ "published_at": "2026-10-29T11:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "ES"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "PB 화장품",
+   "슈퍼마켓 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "스페인 슈퍼마켓 체인들이 자체 브랜드 화장품의 종류를 늘리고 성분과 제형을 차별화하고 있다.",
+  "key_fact_quote": "이러한 시장에서 주요 슈퍼마켓 체인들은 자체 브랜드 화장품의 종류를 늘리고 성분과 제형을 차별화하며",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

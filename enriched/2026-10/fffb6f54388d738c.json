@@ -1,0 +1,49 @@
+{
+ "doc_id": "fffb6f54388d738c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10918522?ref=naver",
+ "title": "한국콜마, 문지르면 녹는 ‘가루형 화장품 ’ 개발",
+ "summary": "한국콜마가 피부에 뿌린 뒤 문지르면 녹아 흡수되는 신개념 가루형 화장품 기술을 개발했다. 한국콜마는... 히알루론산을 뾰족한 파우더형 결정으로 구현한 것은 국내 화장품 업계 최초다. 기존 스피큘 화장품 의 피부...",
+ "published_at": "2026-10-29T09:35:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "가루형 화장품",
+   "스피큘",
+   "히알루론산 파우더"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국콜마가 피부에 뿌려 문지르면 녹아 흡수되는 가루형 화장품 기술을 개발했다.",
+  "key_fact_quote": "한국콜마가 피부에 뿌린 뒤 문지르면 녹아 흡수되는 신개념 가루형 화장품 기술을 개발했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "히알루론산을 뾰족한 파우더형 결정으로 구현한 것은 국내 화장품 업계 최초다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

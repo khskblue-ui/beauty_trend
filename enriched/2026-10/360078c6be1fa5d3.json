@@ -1,0 +1,69 @@
+{
+ "doc_id": "360078c6be1fa5d3",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100309",
+ "title": "코비아, 레티놀 캡슐 담는 휴대용 마그네틱 케이스 특허 출원",
+ "summary": "프레시도스랩스(대표 강성용)가 자사 스킨케어 브랜드 코비아(COVIA)의 레티놀 캡슐 세럼을 담는 휴대용 마그네틱 케이스를 직접 설계하고, 특허 1건과 힌지 고정 구조 실용신안 1건, 디자인 1건 등 지식재산권 3건을 출원했다고 밝혔다.케이스는 누구나 들고 다니는 무선 이어폰 케이스에서 출발했다. 또 컴팩트한 크기에 뚜껑 안쪽에는 거울을 달아, 캐슬을 꺼내 바로 바를 수 있도록 했다.개발 과정에서는 휴대성이 떨어지는 문제를 먼저 줄였고, 뚜껑을 연결하는 힌지 부분의 내구성을 높이기 위해 여러 차례 구조를 바꿨다. 또 습도에 약한 식",
+ "published_at": "2026-10-29T11:05:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN",
+   "VN"
+  ],
+  "brands": [
+   "코비아"
+  ],
+  "companies": [
+   "프레시도스랩스",
+   "GL Electronics"
+  ],
+  "keywords": [
+   "레티놀 캡슐",
+   "휴대용 케이스",
+   "지식재산권 출원",
+   "스킨케어 디바이스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "나이트 리뉴 레티놀 캡슐 세럼",
+    "brand": "코비아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "프레시도스랩스가 레티놀 캡슐 세럼을 담는 휴대용 마그네틱 케이스의 지식재산권을 출원했다.",
+  "key_fact_quote": "프레시도스랩스(대표 강성용)가 자사 스킨케어 브랜드 코비아(COVIA)의 레티놀 캡슐 세럼을 담는 휴대용 마그네틱 케이스를 직접 설계하고, 특허 1건과 힌지 고정 구조 실용신안 1건, 디자인 1건 등 지식재산권 3건을 출원했다고 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레티놀",
+    "quote": "케이스에 담기는 ‘나이트 리뉴 레티놀 캡슐 세럼’은 레티놀 3,000ppm과 펙타이드 12종을 식물성 캡슐에 1회분씩 담았다."
+   },
+   {
+    "name": "펙타이드",
+    "quote": "케이스에 담기는 ‘나이트 리뉴 레티놀 캡슐 세럼’은 레티놀 3,000ppm과 펙타이드 12종을 식물성 캡슐에 1회분씩 담았다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

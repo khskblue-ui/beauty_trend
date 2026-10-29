@@ -1,0 +1,66 @@
+{
+ "doc_id": "b86dc678e572fce3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.goodkyung.com/news/articleView.html?idxno=292912",
+ "title": "아모레퍼시픽, 11월 '도쿄 뷰티위크' 출격…日 소비자 접점 확대",
+ "summary": "최근 선보인 신제품 등 다양한 화장품 을 홍보할 전망이다. 아모레퍼시픽은 지난 8월 라네즈 베스트셀러 '립 슬리핑 마스크(립슬마)' 신제품 아사이 망고 스무디 립슬마와 아사이 망고 스무디 립 글로이 밤을 론칭한 데...",
+ "published_at": "2026-10-29T16:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "라네즈"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "일본 시장",
+   "뷰티 박람회",
+   "립 케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "아사이 망고 스무디 립슬마",
+    "brand": "라네즈",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아모레퍼시픽은 지난 8월 라네즈 베스트셀러 '립 슬리핑 마스크(립슬마)' 신제품 아사이 망고 스무디 립슬마와 아사이 망고 스무디 립 글로이 밤을 론칭한 데",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아사이 망고 스무디 립 글로이 밤",
+    "brand": "라네즈",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아모레퍼시픽은 지난 8월 라네즈 베스트셀러 '립 슬리핑 마스크(립슬마)' 신제품 아사이 망고 스무디 립슬마와 아사이 망고 스무디 립 글로이 밤을 론칭한 데",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아모레퍼시픽이 도쿄 뷰티위크에 참가해 일본 소비자 접점을 넓힌다.",
+  "key_fact_quote": "아모레퍼시픽, 11월 '도쿄 뷰티위크' 출격…日 소비자 접점 확대",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

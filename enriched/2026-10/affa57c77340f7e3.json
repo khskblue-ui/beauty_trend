@@ -1,0 +1,71 @@
+{
+ "doc_id": "affa57c77340f7e3",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53812",
+ "title": "샤넬 ‘레 조 드 샤넬 파리-생모리츠’",
+ "summary": "샤넬이 향수 ‘레 조 드 샤넬 파리-생모리츠’를 선보인다. 이 향수는 가브리엘 샤넬이 즐겨찾던 알프스의 설원도시에서 영감을 받았다. 생모리츠의 포근한 온기와 세련된 분위기를 담았다. 조향사 올리비에 뽈쥬는 추운 겨울날 온몸을 부드럽게 감싸주는 아늑하고 친밀한 온기를 향기로 구현했다. 화사하고…",
+ "published_at": "2026-10-29T09:32:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "샤넬"
+  ],
+  "companies": [],
+  "keywords": [
+   "프레스티지 향수",
+   "향수 신제품",
+   "겨울 향수"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "레 조 드 샤넬 파리-생모리츠",
+    "brand": "샤넬",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "샤넬이 향수 ‘레 조 드 샤넬 파리-생모리츠’를 선보인다.",
+    "notes": [
+     "배",
+     "장미",
+     "머스크 앰버"
+    ],
+    "notes_quote": "‘레 조 드 샤넬 파리-생모리츠’는 신선하고 과즙이 풍부한 배 향기로 시작한다. 신선한 청량감을 터트리며 우아한 장미 향으로 연결된다. 마지막으로 피부 위에 은은하게 녹아드는 머스크 앰버 노트가 은은한 잔향을 남긴다."
+   }
+  ],
+  "key_fact": "샤넬이 알프스 도시 생모리츠에서 영감을 받은 향수를 선보인다.",
+  "key_fact_quote": "이 향수는 가브리엘 샤넬이 즐겨찾던 알프스의 설원도시에서 영감을 받았다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "배",
+    "quote": "‘레 조 드 샤넬 파리-생모리츠’는 신선하고 과즙이 풍부한 배 향기로 시작한다."
+   },
+   {
+    "name": "장미",
+    "quote": "신선한 청량감을 터트리며 우아한 장미 향으로 연결된다."
+   },
+   {
+    "name": "머스크 앰버",
+    "quote": "마지막으로 피부 위에 은은하게 녹아드는 머스크 앰버 노트가 은은한 잔향을 남긴다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

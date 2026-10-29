@@ -1,0 +1,61 @@
+{
+ "doc_id": "d82c2e392eb2aaaf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.metroseoul.co.kr/article/20261029500407",
+ "title": "뷰티·제약·유통 경계 없는 'K웰니스'...\"국내외 소비의 재발견\"",
+ "summary": "화장품 을 바르거나 영양제를 섭취하는 수준에서 업종을 넘나드는 융합 비즈니스 경쟁이다. 29일 국내 뷰티... 신제품 '슈퍼레티놀 젤리'는 30년 레티놀 연구 기술을 바탕으로 개발되어 1포당 레티놀 1000㎍과 히알루론산...",
+ "published_at": "2026-10-29T15:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K웰니스",
+   "이너 뷰티",
+   "먹는 레티놀"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "슈퍼레티놀 젤리",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신제품 '슈퍼레티놀 젤리'는 30년 레티놀 연구 기술을 바탕으로 개발되어 1포당 레티놀 1000㎍과 히알루론산",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티, 제약, 유통의 경계를 넘나드는 융합 사업 경쟁이 벌어지고 있다.",
+  "key_fact_quote": "화장품 을 바르거나 영양제를 섭취하는 수준에서 업종을 넘나드는 융합 비즈니스 경쟁이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레티놀",
+    "quote": "신제품 '슈퍼레티놀 젤리'는 30년 레티놀 연구 기술을 바탕으로 개발되어 1포당 레티놀 1000㎍과 히알루론산"
+   },
+   {
+    "name": "히알루론산",
+    "quote": "신제품 '슈퍼레티놀 젤리'는 30년 레티놀 연구 기술을 바탕으로 개발되어 1포당 레티놀 1000㎍과 히알루론산"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

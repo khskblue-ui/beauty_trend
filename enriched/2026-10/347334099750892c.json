@@ -1,0 +1,56 @@
+{
+ "doc_id": "347334099750892c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.kdfnews.com/news/articleView.html?idxno=190128",
+ "title": "편의점서 뷰티 팔고 홈쇼핑은 PB 육성…유통업계 상품 전략 변화",
+ "summary": "(왼쪽부터) GS샵이 자체 언더웨어 브랜드 'UBGS' FW 라인으로 론칭 한 '피치기모 멀티웨어', GS샵 자체 뷰티 브랜드 '뷰'가 출시한 '스킨핏 마스크팩', GS샵이 오는 30일 진행하는 헤리든 '삶아쓰는 양모 이불' 2차 방송. 사진...",
+ "published_at": "2026-10-29T16:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "뷰"
+  ],
+  "companies": [
+   "GS샵"
+  ],
+  "keywords": [
+   "편의점 뷰티",
+   "홈쇼핑 PB",
+   "마스크팩"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "스킨핏 마스크팩",
+    "brand": "뷰",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "GS샵 자체 뷰티 브랜드 '뷰'가 출시한 '스킨핏 마스크팩'",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유통업계가 편의점에서 뷰티를 팔고 홈쇼핑은 자체 브랜드를 키우고 있다.",
+  "key_fact_quote": "편의점서 뷰티 팔고 홈쇼핑은 PB 육성…유통업계 상품 전략 변화",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

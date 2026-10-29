@@ -1,0 +1,43 @@
+{
+ "doc_id": "32fc0318a5426b35",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.edaily.co.kr/News/Read?newsId=04674006645617840&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+ "title": "'색조' 앞세워 K뷰티 안방 파고드는 C뷰티",
+ "summary": "중국 화장품 (C뷰티)이 색조를 앞세워 한국 시장을 파고들고 있다. 기초 화장품 에 강점을 지닌 한국 화장품 ... 틱톡, 더우인 등 사회관계망서비스(SNS)에서 유행하는 화장 방식을 빠르게 신제품 에 반영하고 이는 다시...",
+ "published_at": "2026-10-29T14:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "C뷰티",
+   "색조 화장품",
+   "SNS 트렌드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 화장품이 색조를 앞세워 한국 시장에 진출하고 있다.",
+  "key_fact_quote": "중국 화장품 (C뷰티)이 색조를 앞세워 한국 시장을 파고들고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

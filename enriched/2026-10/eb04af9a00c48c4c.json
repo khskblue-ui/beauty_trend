@@ -1,0 +1,46 @@
+{
+ "doc_id": "eb04af9a00c48c4c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.joongdo.co.kr/web/view.php?key=20261029010008805",
+ "title": "[뷰티산업] 피부 장벽 관리로 시장 공략…일동·나인앤컴퍼니 ‘아이디...",
+ "summary": "양측이 설립한 합작법인 '아이디나인'은 일동제약그룹의 화장품 원료 기술을 제품 개발에 활용하고... 아이디나인은 이러한 연구 기반을 제품 개발에 반영하고, 내년부터 관련 제품을 순차적으로 출시 할 방침이다. 제약...",
+ "published_at": "2026-10-29T17:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "일동제약그룹",
+   "나인앤컴퍼니",
+   "아이디나인"
+  ],
+  "keywords": [
+   "피부 장벽 케어",
+   "합작법인",
+   "화장품 원료 기술"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "일동제약그룹과 나인앤컴퍼니의 합작법인 아이디나인이 피부 장벽 관리 제품을 순차적으로 출시할 방침이다.",
+  "key_fact_quote": "양측이 설립한 합작법인 '아이디나인'은 일동제약그룹의 화장품 원료 기술을 제품 개발에 활용하고",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

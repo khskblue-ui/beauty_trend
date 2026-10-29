@@ -1,0 +1,64 @@
+{
+ "doc_id": "e136c7ceb6937c5d",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53819",
+ "title": "아모레퍼시픽그룹, 3분기 영업이익 24.7% 증가",
+ "summary": "아모레퍼시픽그룹이 국내 사업의 수익성 개선과 글로벌 멀티브랜드 전략에 힘입어 지난 3분기 외형 성장과 영업이익 확대를 동시에 달성했다. 아모레퍼시픽그룹(아모레퍼시픽홀딩스 연결 기준)의 3분기 매출은 1조2천73억 원으로 전년 동기 대비 8.9% 증가했다. 영업이익은 1천301억 원으로 24.7% 늘었…",
+ "published_at": "2026-10-29T19:34:42+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "JP",
+   "IN"
+  ],
+  "brands": [
+   "설화수",
+   "헤라",
+   "에스트라",
+   "일리윤",
+   "이니스프리",
+   "코스알엑스",
+   "에뛰드",
+   "에스쁘아",
+   "미쟝센",
+   "려",
+   "라보에이치",
+   "아모스프로페셔널"
+  ],
+  "companies": [
+   "아모레퍼시픽그룹",
+   "아모레퍼시픽",
+   "아모레퍼시픽홀딩스"
+  ],
+  "keywords": [
+   "더마뷰티",
+   "헤어케어",
+   "멀티브랜드 전략",
+   "클리니컬 스킨케어",
+   "분기 실적"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아모레퍼시픽그룹이 3분기에 국내 수익성 개선과 멀티브랜드 전략으로 매출과 영업이익이 함께 늘었다.",
+  "key_fact_quote": "아모레퍼시픽그룹이 국내 사업의 수익성 개선과 글로벌 멀티브랜드 전략에 힘입어 지난 3분기 외형 성장과 영업이익 확대를 동시에 달성했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

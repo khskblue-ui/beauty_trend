@@ -1,0 +1,43 @@
+{
+ "doc_id": "d1e0d3bd5180083e",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/lady-gaga-assumes-ceo-role-of-haus-labs",
+ "title": "Lady Gaga assumes CEO role of Haus Labs",
+ "summary": "Lady Gaga, whose birth name is Stefani Germanotta, has succeeded Ben Jones at Haus Labs, co-founder and former CEO, who is said to have departed the make-up business in October",
+ "published_at": "2026-10-29T21:31:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Haus Labs"
+  ],
+  "companies": [],
+  "keywords": [
+   "셀럽 브랜드",
+   "경영진 교체"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "레이디 가가가 하우스 랩스의 CEO를 맡았다.",
+  "key_fact_quote": "Lady Gaga assumes CEO role of Haus Labs",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

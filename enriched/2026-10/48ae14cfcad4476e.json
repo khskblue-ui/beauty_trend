@@ -1,0 +1,45 @@
+{
+ "doc_id": "48ae14cfcad4476e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/living/2026/10/30/2026101515142647126",
+ "title": "\"2030년 中 매출 1조\"…코스맥스차이나, 中 뷰티 시장 '초격차' 승부수[...",
+ "summary": "우리 소비재 기업의 목표는 수출 확대에 그치지 않는다. 현지 거점에 공장을 짓고, 혁신 물류 시스템을... 이 총경리는 \"중국 소비자들은 K뷰티 라고 선호하는게 아니라 제품 효능을 검증하고 구매를 결정한다\"며 \"한국의...",
+ "published_at": "2026-10-29T12:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스차이나"
+  ],
+  "keywords": [
+   "K뷰티 중국 진출",
+   "현지 생산 거점",
+   "효능 검증 소비"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스차이나가 중국 현지 생산 거점과 물류 시스템을 앞세워 성장을 노린다.",
+  "key_fact_quote": "현지 거점에 공장을 짓고, 혁신 물류 시스템을",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

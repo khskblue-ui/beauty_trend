@@ -1,0 +1,59 @@
+{
+ "doc_id": "bf164948e4a3e9f0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsway.co.kr/news/view?ud=2026102915034749432",
+ "title": "향수 에도 '프라이머' 바른다…'한국산' 기술 찾는 글로벌 뷰티들",
+ "summary": "29일 업계에 따르면, 세포라가 출시 한 유럽 최초 향수 케어 브랜드인 오바트(OBART)의 '프래그런스 프라이머 P3'는 미국과 영국 세포라에서 판매되고 있다. 향수 를 사용하기 전 손목과 목 등에 바르는 무향 베이스로, 한국에서...",
+ "published_at": "2026-10-29T15:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "GB"
+  ],
+  "brands": [
+   "오바트"
+  ],
+  "companies": [
+   "세포라"
+  ],
+  "keywords": [
+   "향수 프라이머",
+   "향수 케어",
+   "한국산 기술",
+   "무향 베이스"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "프래그런스 프라이머 P3",
+    "brand": "오바트(OBART)",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "세포라가 출시한 향수 케어 브랜드 오바트의 프래그런스 프라이머가 미국과 영국 세포라에서 판매되고 있다.",
+  "key_fact_quote": "29일 업계에 따르면, 세포라가 출시 한 유럽 최초 향수 케어 브랜드인 오바트(OBART)의 '프래그런스 프라이머 P3'는 미국과 영국 세포라에서 판매되고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

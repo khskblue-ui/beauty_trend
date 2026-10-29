@@ -1,0 +1,46 @@
+{
+ "doc_id": "a82e54a1610c118d",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312543",
+ "title": "아모레퍼시픽그룹, 3분기 영업이익 25% 증가…북미·일본 성장에 실적 개선 - 뷰티경제",
+ "summary": "아모레퍼시픽그룹이 2026년 3분기 연결 기준 매출 1조2073억원, 영업이익 1301억원을 기록하며 성장세를 이어갔다.아모레퍼시픽은 29일 실적 발표를 통해 3",
+ "published_at": "2026-10-29T17:53:41+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽그룹"
+  ],
+  "keywords": [
+   "북미 성장",
+   "일본 성장",
+   "실적 개선"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아모레퍼시픽그룹이 북미와 일본 성장에 힘입어 분기 실적을 개선했다.",
+  "key_fact_quote": "아모레퍼시픽그룹이 2026년 3분기 연결 기준 매출 1조2073억원, 영업이익 1301억원을 기록하며 성장세를 이어갔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

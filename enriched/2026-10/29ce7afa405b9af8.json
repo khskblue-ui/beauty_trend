@@ -1,0 +1,51 @@
+{
+ "doc_id": "29ce7afa405b9af8",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/wellness/cloud-cafe-matcha-coffee-korean-wellness-1239390170/",
+ "title": "Meet the Korean Wellness Brand Bringing Matcha to the Beauty Aisle",
+ "summary": "From the CEO that built The Crème Shop, Cloüd Cafe is quickly expanding its assortment of collagen-infused beverages as it moves in on beauty retail.",
+ "published_at": "2026-10-29T13:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "Cloüd Cafe"
+  ],
+  "companies": [
+   "The Crème Shop"
+  ],
+  "keywords": [
+   "웰니스 뷰티",
+   "이너 뷰티",
+   "콜라겐 음료"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 웰니스 브랜드가 콜라겐 음료 제품군을 늘리며 뷰티 유통에 진출하고 있다.",
+  "key_fact_quote": "Cloüd Cafe is quickly expanding its assortment of collagen-infused beverages as it moves in on beauty retail.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "collagen",
+    "quote": "Cloüd Cafe is quickly expanding its assortment of collagen-infused beverages as it moves in on beauty retail."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

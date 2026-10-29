@@ -1,0 +1,56 @@
+{
+ "doc_id": "5abe741e1a1e5525",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/fr/dans-une-impasse-le-bhv-marais,28433",
+ "title": "Dans une impasse, le BHV Marais demande à être placé en redressement judiciaire",
+ "summary": "Le grand magasin parisien BHV Marais a annoncé, mercredi 28 octobre, avoir demandé son placement en redressement judiciaire, une décision attribuée en partie à un différend avec son bailleur, le fonds canadien Brookfield, qui conteste fermement cette version. L'emblématique enseigne du centre de la capitale, qui affirmait encore récemment ne pas être en cessation de paiement, a déposé mardi au Tribunal des activités économiques de Lyon un dossier pour être placé en redressement judiciaire.... - Brèves / Europe",
+ "published_at": "2026-10-29T19:52:19+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Dior",
+   "Guerlain"
+  ],
+  "companies": [
+   "BHV Marais",
+   "Brookfield",
+   "Shein"
+  ],
+  "keywords": [
+   "백화점 회생",
+   "리테일 위기"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "파리의 백화점 BHV Marais가 회생 절차를 신청했다.",
+  "key_fact_quote": "Le grand magasin parisien BHV Marais a annoncé, mercredi 28 octobre, avoir demandé son placement en redressement judiciaire",
+  "events": [
+   {
+    "name": "in-cosmetics Global",
+    "start_date": "2026-04-14",
+    "end_date": "2026-04-16",
+    "place": "Paris",
+    "quote": "L’édition 2026 du salon in-cosmetics Global qui se tiendra à Paris du 14 au 16 avril 2026 sera une nouvelle fois pour les fabricants..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

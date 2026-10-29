@@ -1,0 +1,51 @@
+{
+ "doc_id": "aa4919561eb1ebb5",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58613",
+ "title": "아모레퍼시픽, ‘2026 기업지식재산대상’ 단체부문 최고 표창 수상",
+ "summary": "[코스인코리아닷컴 길태윤 기자]아모레퍼시픽이 ‘2026 기업지식재산대상’에서 단체부문 최고 표창인 국가지식재산위원회 공동위원장 표창을 수상했다. 시상식은 10월 28일 서울 광진구 그랜드 워커힐 서울에서 열린 ‘KINPA Conference 2026’에서 진행됐으며, 아모레퍼시픽 안재성 준법…",
+ "published_at": "2026-10-29T09:50:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "지식재산 경영",
+   "위조상품 차단"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아모레퍼시픽이 기업지식재산대상 단체부문 최고 표창을 받았다.",
+  "key_fact_quote": "아모레퍼시픽이 ‘2026 기업지식재산대상’에서 단체부문 최고 표창인 국가지식재산위원회 공동위원장 표창을 수상했다.",
+  "events": [
+   {
+    "name": "KINPA Conference 2026",
+    "start_date": "2026-10-28",
+    "end_date": null,
+    "place": "서울 광진구 그랜드 워커힐 서울",
+    "quote": "시상식은 10월 28일 서울 광진구 그랜드 워커힐 서울에서 열린 ‘KINPA Conference 2026’에서 진행됐으며, 아모레퍼시픽 안재성 준법경영실장이 참석해 표창을 받았다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "3c32ec483ceafefd",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53808",
+ "title": "피지에스로지스틱스, K-뷰티 글로벌 물류 지원 확대",
+ "summary": "국제물류 전문기업 피지에스로지스틱스가 국내 화장품 기업의 해외 시장 진출을 지원하기 위한 통합 물류 서비스 확대에 나선다. 피지에스로지스틱스는 최근 K-뷰티엑스포와 오송화장품뷰티엑스포에 참가, 화장품 브랜드·유통사와 협업을 추진하기로 합의하고 기업별 수출 단계와 물류 수요에 맞춘 협력…",
+ "published_at": "2026-10-29T08:30:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "피지에스로지스틱스"
+  ],
+  "keywords": [
+   "K뷰티 물류",
+   "화장품 수출",
+   "이커머스 물류"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "피지에스로지스틱스가 화장품 기업의 해외 진출을 위한 통합 물류 서비스를 확대한다.",
+  "key_fact_quote": "국제물류 전문기업 피지에스로지스틱스가 국내 화장품 기업의 해외 시장 진출을 지원하기 위한 통합 물류 서비스 확대에 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

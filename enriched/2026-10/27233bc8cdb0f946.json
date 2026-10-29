@@ -1,0 +1,45 @@
+{
+ "doc_id": "27233bc8cdb0f946",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244753",
+ "title": "K -팝에서 K - 뷰티 까지, 포르투갈에서 확대되는 한류 소비재 시장",
+ "summary": "한국무역협회 통계에 따르면, 한국의 대(對)포르투갈 화장품 수출 은 최근 3년간 꾸준한 증가세를 보이고... 첫째는 K - 뷰티 의 일상화다. 한국 특유의 단계별 스킨케어 루틴이 SNS를 통해 알려지면서 한국 화장품에...",
+ "published_at": "2026-10-29T11:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "PT",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국무역협회"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "한류 소비재",
+   "스킨케어 루틴"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국의 포르투갈 화장품 수출이 꾸준히 늘고 있다.",
+  "key_fact_quote": "한국무역협회 통계에 따르면, 한국의 대(對)포르투갈 화장품 수출 은 최근 3년간 꾸준한 증가세를 보이고",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

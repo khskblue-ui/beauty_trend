@@ -1,0 +1,46 @@
+{
+ "doc_id": "d932a77ad6d157dc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=777560",
+ "title": "눈가부터 입술·두피까지…뷰티업계, 부위별 집중 케어 강화",
+ "summary": "또한 눈가 등 섬세한 부위의 사용을 고려해 향료 를 첨가하지 않은 것이 특징이다. 사진=디오디너리 스킨케어 브랜드 디오디너리에서는 지난 10월 입술의 보습과 탄력 관리에 초점을 맞춘 'HA + 아시아티코사이드 립...",
+ "published_at": "2026-10-29T23:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "세르본",
+   "디오디너리"
+  ],
+  "companies": [],
+  "keywords": [
+   "부위별 케어",
+   "무향료 크림",
+   "립 케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "8992e701aa71562c",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

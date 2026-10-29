@@ -1,0 +1,49 @@
+{
+ "doc_id": "515f7510531bd6bb",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/inspired-by-skin-science-designed-for-hair-vitality",
+ "title": "Inspired by skin science. Designed for hair vitality.",
+ "summary": "Upcycled from sugar beets, GENENCARE OSMS MI is a 100% natural inositol bringing skincare-inspired care to hair vitality, supporting scalp and follicle health for fuller-looking hair",
+ "published_at": "2026-10-29T16:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "업사이클 원료",
+   "두피 케어",
+   "천연 이노시톨"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "사탕무에서 얻은 천연 이노시톨 원료가 모발 활력과 두피 건강을 겨냥한다.",
+  "key_fact_quote": "Upcycled from sugar beets, GENENCARE OSMS MI is a 100% natural inositol bringing skincare-inspired care to hair vitality, supporting scalp and follicle health for fuller-looking hair",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "GENENCARE OSMS MI",
+    "quote": "Upcycled from sugar beets, GENENCARE OSMS MI is a 100% natural inositol bringing skincare-inspired care to hair vitality, supporting scalp and follicle health for fuller-looking hair"
+   },
+   {
+    "name": "inositol",
+    "quote": "Upcycled from sugar beets, GENENCARE OSMS MI is a 100% natural inositol bringing skincare-inspired care to hair vitality, supporting scalp and follicle health for fuller-looking hair"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

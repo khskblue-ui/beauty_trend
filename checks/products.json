@@ -3362,5 +3362,169 @@
  "fc474544bccbb83a|launch|레이셀|라이즌|": {
   "kept": true,
   "reason": null
+ },
+ "d82c2e392eb2aaaf|launch||슈퍼레티놀 젤리|": {
+  "kept": false,
+  "reason": "no_brand"
+ },
+ "f401548cd959963e|launch||슈퍼레티놀 젤리|": {
+  "kept": false,
+  "reason": "no_brand"
+ },
+ "6336fbbdbc011e4f|notes|센녹|퍼퓸 노 모어 키스|플럼,무화과,화이트 로즈,매그놀리아": {
+  "kept": true,
+  "reason": null
+ },
+ "affa57c77340f7e3|notes|샤넬|레 조 드 샤넬 파리-생모리츠|배,장미,머스크 앰버": {
+  "kept": true,
+  "reason": null
+ },
+ "f49351e510b421bf|notes|샤넬|레 조 드 샤넬|앰버리 머스크": {
+  "kept": false,
+  "reason": "entailment:uncertain"
+ },
+ "0a9d18051e73fb39|launch|바이탈 뷰티|슈퍼레티놀 젤리|": {
+  "kept": true,
+  "reason": null
+ },
+ "0b2c43257e6612c9|launch|드앤덤|퍼퓸 핸드크림 2종|": {
+  "kept": true,
+  "reason": null
+ },
+ "1db0fe0422300f65|launch|바이탈 뷰티|슈퍼레티놀 젤리|": {
+  "kept": true,
+  "reason": null
+ },
+ "26a5f4e390957a32|launch|아떼|립 글로이밤 한정판|": {
+  "kept": true,
+  "reason": null
+ },
+ "347334099750892c|launch|뷰|스킨핏 마스크팩|": {
+  "kept": true,
+  "reason": null
+ },
+ "34ea8c469b0bc177|launch|드앤덤|시그니처 향수 7종 컬렉션|": {
+  "kept": true,
+  "reason": null
+ },
+ "3ff8cf3aae02827c|launch|EOA|풀써마 프로|": {
+  "kept": true,
+  "reason": null
+ },
+ "3ff8cf3aae02827c|launch|EOA|콜라겐 시너지 부스팅 젤|": {
+  "kept": false,
+  "reason": "entailment:uncertain"
+ },
+ "4fe14300f4e98a6d|launch|팅커벨|대용량 고체 퍼퓸 탈취제|": {
+  "kept": true,
+  "reason": null
+ },
+ "56f66dd6e0205365|launch|드앤덤|브라인 베일|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "56f66dd6e0205365|launch|드앤덤|라일락 허쉬|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "602c505ebb74153a|launch|디올 뷰티|디올 뷰티 홀리데이 메이크업 컬렉션|": {
+  "kept": false,
+  "reason": "entailment:uncertain"
+ },
+ "6ff0c3890c868ffd|launch|올리브영|올리브영 K뷰티에딧|": {
+  "kept": true,
+  "reason": null
+ },
+ "810f0c5c7a53eb6c|launch|바이탈 뷰티|슈퍼레티놀 젤리|": {
+  "kept": true,
+  "reason": null
+ },
+ "8af2d80894865962|launch|한국콜마|가루형 스킨케어|": {
+  "kept": true,
+  "reason": null
+ },
+ "8dad733fe71cd72a|launch|바이탈 뷰티|슈퍼레티놀 젤리|": {
+  "kept": true,
+  "reason": null
+ },
+ "a21f0e2fa544d3fc|launch|이니스프리|레티놀 시카 모공 흔적 앰플|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "a21f0e2fa544d3fc|launch|이니스프리|레티놀 시카 앰플 인 하이드로겔 마스크|": {
+  "kept": true,
+  "reason": null
+ },
+ "b526e68751af129c|launch|정샘물 뷰티|PDRN 세럼 스킨틴트|": {
+  "kept": true,
+  "reason": null
+ },
+ "b62abfe912e066d0|launch|아이소이|히알 눈꽃딸기 듀얼 젤리 크림|": {
+  "kept": true,
+  "reason": null
+ },
+ "b86dc678e572fce3|launch|라네즈|아사이 망고 스무디 립슬마|": {
+  "kept": true,
+  "reason": null
+ },
+ "b86dc678e572fce3|launch|라네즈|아사이 망고 스무디 립 글로이 밤|": {
+  "kept": true,
+  "reason": null
+ },
+ "b91640643db2399f|launch|솔루시안|EGFX 콜라겐 리프팅 앰플|": {
+  "kept": true,
+  "reason": null
+ },
+ "b91640643db2399f|launch|솔루시안|EGFX콜라겐 토너|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "b91640643db2399f|launch|솔루시안|EGFX 콜라겐 코어 퍼밍 크림|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "b91640643db2399f|launch|솔루시안|EGFX콜라겐 코어 리프샷|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "b91640643db2399f|launch|솔루시안|EGFX콜라겐 랩핑 마스크|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "c7a750ae61f791a3|launch|팅커벨|대용량 고체 퍼퓸 탈취제|": {
+  "kept": true,
+  "reason": null
+ },
+ "cc74d96ea1dd4528|launch|드앤덤|시그니처 향수|": {
+  "kept": true,
+  "reason": null
+ },
+ "d69d8c1d581bbd4c|launch|샤넬|레 조 드 샤넬 파리-생모리츠|": {
+  "kept": true,
+  "reason": null
+ },
+ "d700c118940ccd04|launch|바이탈 뷰티|슈퍼레티놀 젤리|": {
+  "kept": true,
+  "reason": null
+ },
+ "eaf104c5809900a2|launch|리노이아|광채 듀얼 바디 스크럽|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "eaf104c5809900a2|launch|리노이아|촉촉 듀얼 바디 스크럽|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "ec909d655dd55180|launch|정샘물 뷰티|PDRN 세럼 스킨틴트|": {
+  "kept": true,
+  "reason": null
+ },
+ "f1e567f42ea113f2|launch|샤넬|새 향수|": {
+  "kept": true,
+  "reason": null
+ },
+ "fdef61e11f31f757|launch|라네즈(Laneige)|JuicePop Box|": {
+  "kept": true,
+  "reason": null
  }
 }

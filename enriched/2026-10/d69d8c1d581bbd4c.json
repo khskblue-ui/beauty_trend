@@ -1,0 +1,54 @@
+{
+ "doc_id": "d69d8c1d581bbd4c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=55799",
+ "title": "샤넬, 컬렉션 최초의 겨울 향수 '레 조 드 샤넬 파리-생모리츠' 출시 \"알...",
+ "summary": "눈 덮인 고즈넉한 풍경 이상의 깊이를 지닌 생모리츠를 표현하고자 샤넬 하우스 조향사 올리비에 뽈쥬는 매서운 겨울바람에도 몸을 부드럽게 감싸주는 포근하고 안락한 온기를 담아냈다. 평소 애정하는 옷을 입었을 때처럼...",
+ "published_at": "2026-10-29T09:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "샤넬"
+  ],
+  "companies": [],
+  "keywords": [
+   "겨울 향수",
+   "컬렉션 향수",
+   "조향사"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "레 조 드 샤넬 파리-생모리츠",
+    "brand": "샤넬",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "샤넬, 컬렉션 최초의 겨울 향수 '레 조 드 샤넬 파리-생모리츠' 출시 \"알...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "샤넬이 컬렉션 최초의 겨울 향수를 출시했다.",
+  "key_fact_quote": "샤넬, 컬렉션 최초의 겨울 향수 '레 조 드 샤넬 파리-생모리츠' 출시 \"알...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

@@ -1,0 +1,40 @@
+{
+ "doc_id": "11c646541c34a008",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thepowernews.co.kr/view.php?ud=202610291040332516de3f0aa1be_7",
+ "title": "시몬스, ' 뷰티 레스트' 앞세워 연말 마케팅…침구까지 확대",
+ "summary": "시몬스는 29일 매트리스 컬렉션 ' 뷰티 레스트'와 최상위 제품군 ' 뷰티 레스트 블랙' 등을 대상으로 '엔드 오브... 시즌 출시 한 프레임 신제품 3종도 행사 대상에 포함했다. 배송 부문에서는 구매 고객에게 무료 배송을...",
+ "published_at": "2026-10-29T10:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "시몬스"
+  ],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "시몬스가 매트리스 컬렉션을 대상으로 연말 행사를 연다.",
+  "key_fact_quote": "시몬스는 29일 매트리스 컬렉션 ' 뷰티 레스트'와 최상위 제품군 ' 뷰티 레스트 블랙' 등을 대상으로 '엔드 오브",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

@@ -1,0 +1,49 @@
+{
+ "doc_id": "e8de41f6b9445528",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66706",
+ "title": "피부에 뿌리면 '따끔', 문지르면 '사르르'…한국콜마, 녹는 가루 화장품 ...",
+ "summary": "한국콜마가 피부에 뿌려 문지르면 녹아 흡수되는 가루 형태의 화장품 원료 기술을 국내 최초로 개발하고... 한국콜마는 이번 특허 기술을 기반으로 한 신규 스킨케어 라인 출시 를 준비 중이다. 특히 히알루론산 파우더에...",
+ "published_at": "2026-10-29T12:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "가루형 화장품",
+   "화장품 원료 기술",
+   "히알루론산 파우더"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국콜마가 피부에 뿌려 문지르면 녹는 가루 형태의 화장품 원료 기술을 개발했다.",
+  "key_fact_quote": "한국콜마가 피부에 뿌려 문지르면 녹아 흡수되는 가루 형태의 화장품 원료 기술을 국내 최초로 개발하고",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "특히 히알루론산 파우더에"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

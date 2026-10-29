@@ -1,0 +1,48 @@
+{
+ "doc_id": "389e967fd9c52004",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.tf.co.kr/read/economy/2382260.htm",
+ "title": "내실 다진 호텔신라, 남은 과제는 주가…뷰티로 돌파구 찾을까",
+ "summary": "지방시만의 럭셔리한 브랜드 가치를 메이크업과 향수 를 통해 고객들에게 전달하기 위함이다. 아울러 프랑스 뷰티 브랜드 '겔랑'의 메이크업 쇼를 추가로 개최하며, 전문가의 메이크업 노하우를 직접 배워볼 수 있는...",
+ "published_at": "2026-10-29T17:41:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "지방시",
+   "겔랑"
+  ],
+  "companies": [
+   "호텔신라"
+  ],
+  "keywords": [
+   "메이크업 쇼",
+   "럭셔리 뷰티",
+   "면세 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "호텔신라가 지방시와 겔랑 메이크업 행사를 열며 뷰티 사업에 힘을 싣고 있다.",
+  "key_fact_quote": "아울러 프랑스 뷰티 브랜드 '겔랑'의 메이크업 쇼를 추가로 개최하며",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "f5d0f2933f9f6c2d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.smarttoday.co.kr/ko-kr/articles/113270",
+ "title": "한국콜마, 히알루론산 파우더 개발…가루형 스킨케어 출시",
+ "summary": "따끔한 사용감으로 인기를 끈 스피큘 화장품 의 자극과 세안 부담은 줄이고, 유효성분은 효과적으로 전달하는... 대표적인 보습 성분인 히알루론산을 파우더형 뾰족한 결정으로 구현한 것은 화장품 업계 처음이다. 스피큘은...",
+ "published_at": "2026-10-29T14:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "가루형 스킨케어",
+   "히알루론산 파우더",
+   "스피큘 화장품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "d28c85bc57ad1dba",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

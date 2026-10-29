@@ -1,0 +1,57 @@
+{
+ "doc_id": "881f9790fbee9f96",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/activon-to-exhibit-at-in-cosmetics-asia-2026",
+ "title": "Activon to exhibit at in-cosmetics Asia 2026, showcasing sustainable ingredients and exosome-based solutions",
+ "summary": "Activon, a specialist in clean beauty ingredients, will participate in in-cosmetics Asia 2026, taking place from November 3 to 5 at the Bangkok International Trade & Exhibition Centre (BITEC) in Bangkok, Thailand",
+ "published_at": "2026-10-29T05:37:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "Activon"
+  ],
+  "keywords": [
+   "지속가능 원료",
+   "엑소좀",
+   "클린 뷰티 원료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "Activon이 in-cosmetics Asia 2026에 참가해 지속가능 원료와 엑소좀 기반 솔루션을 선보인다.",
+  "key_fact_quote": "Activon, a specialist in clean beauty ingredients, will participate in in-cosmetics Asia 2026, taking place from November 3 to 5 at the Bangkok International Trade & Exhibition Centre (BITEC) in Bangkok, Thailand",
+  "events": [
+   {
+    "name": "in-cosmetics Asia 2026",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-05",
+    "place": "Bangkok International Trade & Exhibition Centre (BITEC)",
+    "quote": "Activon, a specialist in clean beauty ingredients, will participate in in-cosmetics Asia 2026, taking place from November 3 to 5 at the Bangkok International Trade & Exhibition Centre (BITEC) in Bangkok, Thailand"
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "exosome",
+    "quote": "Activon to exhibit at in-cosmetics Asia 2026, showcasing sustainable ingredients and exosome-based solutions"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

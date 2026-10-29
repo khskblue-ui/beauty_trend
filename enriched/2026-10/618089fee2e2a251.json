@@ -1,0 +1,44 @@
+{
+ "doc_id": "618089fee2e2a251",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news2day.co.kr/article/20261029500148",
+ "title": "이마트24, 뷰티·패션 상품 확대 속도… 출시 13일 만에 1800점 도입",
+ "summary": "뷰티·패션 상품 출시 13일 만에 도입 점포가 1800곳을 넘어섰다. 화장품 과 일상 의류를 편의점에서 구매하려는 수요를 겨냥해 상품 구색을 넓히고, 브랜드 협업과 할인 혜택을 통해 고객 유입을 확대한다는 계획이다....",
+ "published_at": "2026-10-29T10:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "이마트24"
+  ],
+  "keywords": [
+   "편의점 뷰티",
+   "뷰티 유통",
+   "브랜드 협업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "이마트24가 뷰티와 패션 상품을 편의점에서 판매하며 도입 점포를 빠르게 늘리고 있다.",
+  "key_fact_quote": "뷰티·패션 상품 출시 13일 만에 도입 점포가 1800곳을 넘어섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

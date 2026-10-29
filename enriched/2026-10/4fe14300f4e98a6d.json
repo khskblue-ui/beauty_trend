@@ -1,0 +1,56 @@
+{
+ "doc_id": "4fe14300f4e98a6d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10918698?ref=naver",
+ "title": "불스원, 팅커벨 ‘대용량 고체 퍼퓸 탈취제’ 출시 …“최대 200일 사용”",
+ "summary": "공기 접촉 면적 2.2배·최대 10평 공간 사용 공인 기관 시험서 암모니아 5분 만에 제거 불스원 향기연구소의 연구 노하우를 바탕으로 출범한 향기 큐레이션 브랜드 팅커벨이 ‘대용량 고체 퍼퓸 탈취제’를 출시 했다고...",
+ "published_at": "2026-10-29T10:35:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "퍼퓸 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "팅커벨"
+  ],
+  "companies": [
+   "불스원"
+  ],
+  "keywords": [
+   "고체 퍼퓸",
+   "탈취제",
+   "향기 큐레이션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "대용량 고체 퍼퓸 탈취제",
+    "brand": "팅커벨",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "불스원 향기연구소의 연구 노하우를 바탕으로 출범한 향기 큐레이션 브랜드 팅커벨이 ‘대용량 고체 퍼퓸 탈취제’를 출시 했다고",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "불스원의 향기 브랜드 팅커벨이 대용량 고체 퍼퓸 탈취제를 출시했다.",
+  "key_fact_quote": "불스원 향기연구소의 연구 노하우를 바탕으로 출범한 향기 큐레이션 브랜드 팅커벨이 ‘대용량 고체 퍼퓸 탈취제’를 출시 했다고",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

@@ -1,0 +1,63 @@
+{
+ "doc_id": "b62abfe912e066d0",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53811",
+ "title": "아이소이 ‘히알 눈꽃딸기 듀얼 젤리 크림’",
+ "summary": "아이소이가 ‘히알 눈꽃딸기 듀얼 젤리 크림’을 출시했다. 이 제품은 수분 젤리와 탄력 크림을 결합한 제형으로 나왔다. 피부를 촉촉하고 탄력있게 가꿔준다. 아이소이의 독자 성분인 히알 눈꽃딸기™가 들어있다. 눈꽃딸기의 유효 성분을 히알루론산 수분망에 담았다. 피부에 수분을 공급해 촉촉하고 부드럽…",
+ "published_at": "2026-10-29T09:24:57+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이소이"
+  ],
+  "companies": [],
+  "keywords": [
+   "젤리 크림",
+   "스킨 프렙",
+   "수분 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "히알 눈꽃딸기 듀얼 젤리 크림",
+    "brand": "아이소이",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아이소이가 ‘히알 눈꽃딸기 듀얼 젤리 크림’을 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아이소이가 수분 젤리와 탄력 크림을 결합한 제품을 출시했다.",
+  "key_fact_quote": "아이소이가 ‘히알 눈꽃딸기 듀얼 젤리 크림’을 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알 눈꽃딸기™",
+    "quote": "아이소이의 독자 성분인 히알 눈꽃딸기™가 들어있다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "눈꽃딸기의 유효 성분을 히알루론산 수분망에 담았다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

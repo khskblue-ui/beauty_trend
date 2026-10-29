@@ -1,0 +1,57 @@
+{
+ "doc_id": "7e1b982ec34b00a0",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100303",
+ "title": "랜딩인터내셔널, ‘코리아 엑스포 LA 2026’서 K뷰티 美 리테일 공략법 제시",
+ "summary": "글로벌 K뷰티 유통 전문기업 랜딩인터내셔널(Landing International) 정새라 대표가 미국 로스앤젤레스에서 열린 ‘코리아 엑스포 LA 2026(Korea Expo LA 2026)’의 ‘K뷰티 데이’ 메인 스테이지 연사로 나서 한국 뷰티 브랜드의 미국 리테일 진출 전략을 발표했다.랜딩인터내셔널은 행사 기간 자사 K뷰티 리테일 플랫폼 ‘K뷰티 월드(K-Beauty World)’ 부스를 함께 운영하며 현지 바이어와 소비자에게 다양한 K뷰티 브랜드와 제품들을 선보였다.‘코리아 엑스포 LA 2026’은 한국무역협회와 엑스포럼이",
+ "published_at": "2026-10-29T10:21:04+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "랜딩인터내셔널",
+   "한국무역협회",
+   "엑스포럼",
+   "NielsenIQ"
+  ],
+  "keywords": [
+   "K뷰티 미국 진출",
+   "틱톡샵",
+   "리테일 전략",
+   "제3의 물결"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "랜딩인터내셔널 대표가 코리아 엑스포 LA에서 K뷰티의 미국 리테일 진출 전략을 발표했다.",
+  "key_fact_quote": "글로벌 K뷰티 유통 전문기업 랜딩인터내셔널(Landing International) 정새라 대표가 미국 로스앤젤레스에서 열린 ‘코리아 엑스포 LA 2026(Korea Expo LA 2026)’의 ‘K뷰티 데이’ 메인 스테이지 연사로 나서 한국 뷰티 브랜드의 미국 리테일 진출 전략을 발표했다.",
+  "events": [
+   {
+    "name": "코리아 엑스포 LA 2026",
+    "start_date": "2026-10-22",
+    "end_date": "2026-10-24",
+    "place": "미국 로스앤젤레스 다운타운 매직박스 LA(Magic Box LA)",
+    "quote": "‘코리아 엑스포 LA 2026’은 한국무역협회와 엑스포럼이 공동 주최한 한국 소비재 전시회로, 현지 시각 10월 22일부터 24일까지 사흘간 미국 로스앤젤레스 다운타운 매직박스 LA(Magic Box LA)에서 개최됐다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

@@ -1,0 +1,56 @@
+{
+ "doc_id": "913c5564347a36ee",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900063.html",
+ "title": "딘토 립밤부터 W컨셉 러닝웨어까지 … 이마트24 1800개점에 뷰티·패션 ...",
+ "summary": "먹거리 중심의 상품 구성에서 벗어나 화장품 과 의류를 구매하기 위해 편의점을 찾는 고객을 늘린다는 전략이다. 29일 이마트24에 따르면 지난 28일 기준 전국 1800여개 점포에 뷰티·패션 상품을 도입했다. 상품 출시 ...",
+ "published_at": "2026-10-29T10:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "딘토"
+  ],
+  "companies": [
+   "이마트24",
+   "W컨셉"
+  ],
+  "keywords": [
+   "편의점 뷰티",
+   "뷰티 패션 상품 확대"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "딘토 립밤",
+    "brand": "딘토",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이마트24가 전국 점포에 뷰티와 패션 상품을 도입했다.",
+  "key_fact_quote": "29일 이마트24에 따르면 지난 28일 기준 전국 1800여개 점포에 뷰티·패션 상품을 도입했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

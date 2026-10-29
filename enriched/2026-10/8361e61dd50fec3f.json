@@ -1,0 +1,42 @@
+{
+ "doc_id": "8361e61dd50fec3f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mediapen.com/news/view/1133568",
+ "title": "K뷰티 '빅3', 올해 3분기 실적 전망 '날개'",
+ "summary": "업계는 4분기 블랙프라이데이와 사이버먼데이(BFCM), 크리스마스 등 연말 대규모 쇼핑 행사가 집중된 만큼 K뷰티 의 수출 증가세가 연말까지 지속될 것으로 내다보고 있다. 한편 글로벌 시장 속 K뷰티 의 수요는...",
+ "published_at": "2026-10-29T16:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "연말 쇼핑 시즌",
+   "블랙프라이데이"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "업계는 K뷰티 수출 증가세가 연말까지 이어질 것으로 보고 있다.",
+  "key_fact_quote": "업계는 4분기 블랙프라이데이와 사이버먼데이(BFCM), 크리스마스 등 연말 대규모 쇼핑 행사가 집중된 만큼 K뷰티 의 수출 증가세가 연말까지 지속될 것으로 내다보고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

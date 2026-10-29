@@ -1,0 +1,45 @@
+{
+ "doc_id": "4eee5694908fab85",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212103",
+ "title": "샤넬 레 조 드 샤넬 파리 생모리츠 향수 출시",
+ "summary": "눈 덮인 풍경 이상의 서정적인 매력을 발산하는 생모리츠를 표현하기 위해 샤넬 조향사 올리비에 뽈쥬는 추운 계절 온몸을 부드럽게 감싸주는 아늑하고 따스한 온기를 향수로 빚어냈다. 평소 가장 즐겨 입는 옷을 착용했을...",
+ "published_at": "2026-10-29T10:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "샤넬"
+  ],
+  "companies": [],
+  "keywords": [
+   "프레스티지 향수",
+   "향수 신제품",
+   "겨울 향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "affa57c77340f7e3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

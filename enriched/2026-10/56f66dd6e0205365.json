@@ -1,0 +1,63 @@
+{
+ "doc_id": "56f66dd6e0205365",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=248722",
+ "title": "드앤덤, 7가지 식물 추출물 함유한 '퍼퓸드 핸드크림' 2종 출시",
+ "summary": "이번 신제품 은 드앤덤의 시그니처 퍼퓸 컬렉션 중 브라인 베일(BRINE VEIL)과 라일락 허쉬(LILAC HUSH)의 향기를 핸드크림으로 구현한 제품이다. 향수 에서 경험할 수 있는 감각적인 향기를 일상 속 핸드 케어에서도...",
+ "published_at": "2026-10-29T16:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "드앤덤"
+  ],
+  "companies": [],
+  "keywords": [
+   "퍼퓸드 핸드크림",
+   "식물 추출물",
+   "향수 같은 핸드케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "브라인 베일",
+    "brand": "드앤덤",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번 신제품 은 드앤덤의 시그니처 퍼퓸 컬렉션 중 브라인 베일(BRINE VEIL)과 라일락 허쉬(LILAC HUSH)의 향기를 핸드크림으로 구현한 제품이다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "라일락 허쉬",
+    "brand": "드앤덤",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번 신제품 은 드앤덤의 시그니처 퍼퓸 컬렉션 중 브라인 베일(BRINE VEIL)과 라일락 허쉬(LILAC HUSH)의 향기를 핸드크림으로 구현한 제품이다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "드앤덤이 시그니처 퍼퓸 컬렉션의 향을 담은 퍼퓸드 핸드크림 2종을 출시했다.",
+  "key_fact_quote": "이번 신제품 은 드앤덤의 시그니처 퍼퓸 컬렉션 중 브라인 베일(BRINE VEIL)과 라일락 허쉬(LILAC HUSH)의 향기를 핸드크림으로 구현한 제품이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

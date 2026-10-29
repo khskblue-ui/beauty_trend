@@ -1,0 +1,92 @@
+{
+ "doc_id": "6336fbbdbc011e4f",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53813",
+ "title": "센녹, 엔하이픈 선우와 ‘노 모어 키스’ 화보 촬영",
+ "summary": "센녹(SENNOK)이 엔하이픈 선우와 촬영한 ‘퍼퓸 노 모어 키스’ 화보를 선보였다. K팝그룹 엔하이픈(ENHYPEN)의 멤버 선우는 화보에 깨끗한 소년미를 담았다. 섬세하고 몽환적인 분위기를 더해 시선을 모았다. 선우가 소개한 제품은 센녹 ‘퍼퓸 노 모어 키스’와 ‘핸드크림 노 모어 키스’ 두 가지다…",
+ "published_at": "2026-10-29T09:45:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센녹"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "겨울 향수",
+   "머스크 향",
+   "아이돌 마케팅",
+   "핸드크림"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퍼퓸 노 모어 키스",
+    "brand": "센녹",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "플럼",
+     "무화과",
+     "화이트 로즈",
+     "매그놀리아"
+    ],
+    "notes_quote": "달콤한 플럼과 싱그러운 무화과, 화이트 로즈, 매그놀리아가 어우러졌다."
+   },
+   {
+    "name": "핸드크림 노 모어 키스",
+    "brand": "센녹",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "센녹이 엔하이픈 선우와 촬영한 퍼퓸 노 모어 키스 화보를 선보였다.",
+  "key_fact_quote": "센녹(SENNOK)이 엔하이픈 선우와 촬영한 ‘퍼퓸 노 모어 키스’ 화보를 선보였다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "플럼",
+    "quote": "달콤한 플럼과 싱그러운 무화과, 화이트 로즈, 매그놀리아가 어우러졌다."
+   },
+   {
+    "name": "무화과",
+    "quote": "달콤한 플럼과 싱그러운 무화과, 화이트 로즈, 매그놀리아가 어우러졌다."
+   },
+   {
+    "name": "화이트 로즈",
+    "quote": "달콤한 플럼과 싱그러운 무화과, 화이트 로즈, 매그놀리아가 어우러졌다."
+   },
+   {
+    "name": "매그놀리아",
+    "quote": "달콤한 플럼과 싱그러운 무화과, 화이트 로즈, 매그놀리아가 어우러졌다."
+   },
+   {
+    "name": "머스크",
+    "quote": "머스크의 잔향이 살결에 포근하게 머물러 기분 좋은 온기를 선사한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

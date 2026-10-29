@@ -1,0 +1,61 @@
+{
+ "doc_id": "810f0c5c7a53eb6c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=716582",
+ "title": "아모레 바이탈 뷰티 , 먹는 레티놀 시장 공략··· 신제품 출시 ·성수 팝업...",
+ "summary": "아모레퍼시픽의 이너 뷰티 브랜드 바이탈 뷰티 가 먹는 레티놀 제품군을 확대하고 소비자 접점 강화에 나섰다. 신제품 '슈퍼레티놀 젤리'를 출시 하는 동시에 서울 성수동에서 체험형 팝업스토어를 운영한다. 바이탈 뷰티 는...",
+ "published_at": "2026-10-29T09:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "바이탈 뷰티"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "이너 뷰티",
+   "먹는 레티놀",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "슈퍼레티놀 젤리",
+    "brand": "바이탈 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신제품 '슈퍼레티놀 젤리'를 출시 하는 동시에 서울 성수동에서 체험형 팝업스토어를 운영한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아모레퍼시픽 바이탈 뷰티가 먹는 레티놀 제품군을 확대했다.",
+  "key_fact_quote": "아모레퍼시픽의 이너 뷰티 브랜드 바이탈 뷰티 가 먹는 레티놀 제품군을 확대하고 소비자 접점 강화에 나섰다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레티놀",
+    "quote": "아모레퍼시픽의 이너 뷰티 브랜드 바이탈 뷰티 가 먹는 레티놀 제품군을 확대하고 소비자 접점 강화에 나섰다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

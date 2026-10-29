@@ -1,0 +1,53 @@
+{
+ "doc_id": "bd97003f70be351b",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58614",
+ "title": "웰니스를 즐거운 일상 루틴으로... CJ올리브영, ‘올리브베러 성수점’ 오픈",
+ "summary": "[코스인코리아닷컴 길태윤 기자]CJ올리브영(이하 올리브영)이 서울 성수동에 ‘올리브베러 성수점’을 30일 오픈한다고 밝혔다. 올리브베러는 올리브영의 웰니스 큐레이팅 플랫폼으로 올리브영은 지난 1월 30일 서울 광화문점을 처음 오픈한 이후 성수점까지 올해 총 5개 매장을 선보이며 시장에 안착…",
+ "published_at": "2026-10-29T09:53:48+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "웰니스",
+   "이너뷰티",
+   "체험형 매장",
+   "K웰니스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "CJ올리브영이 웰니스 플랫폼 올리브베러의 성수점을 열어 체험형 콘텐츠를 강화한다.",
+  "key_fact_quote": "CJ올리브영(이하 올리브영)이 서울 성수동에 ‘올리브베러 성수점’을 30일 오픈한다고 밝혔다.",
+  "events": [
+   {
+    "name": "올리브베러 성수점",
+    "start_date": "2026-10-30",
+    "end_date": null,
+    "place": "서울 성수동",
+    "quote": "CJ올리브영(이하 올리브영)이 서울 성수동에 ‘올리브베러 성수점’을 30일 오픈한다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

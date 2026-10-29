@@ -1,0 +1,57 @@
+{
+ "doc_id": "8667b77e17176161",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100300",
+ "title": "K-뷰티 새로운 도전! ‘서울뷰티페스티벌 2026’ 11월 25일 첫 개최",
+ "summary": "(사)한메이크업전문가직업교류협회(회장 안미려)는 (사)아시아모델페스티벌조직위원회와 공동주최하고, (사)한국뷰티스타일리스트직업기능협회 및 (사)한국모델협회가 공동주관하는 「서울뷰티페스티벌 2026」을 오는 11월 25일(수) 서울 광화문광장 세종대왕상 앞에서 개최한다.「서울모델페스티벌 2026」과 연계해 처음 개최되는 이번 행사는 뷰티와 모델, 패션, 예술이 하나로 어우러지는 국제 문화축제로, 대한민국 뷰티 아티스트들의 창의성과 전문성을 세계에 알리기 위해 마련됐다.전체 행사는 11월 23일부터 25일까지 3일간 광화문광장에서 진행된",
+ "published_at": "2026-10-29T10:04:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 축제",
+   "메이크업 경연",
+   "뷰티 런웨이"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "서울뷰티페스티벌 2026이 광화문광장에서 처음 열린다.",
+  "key_fact_quote": "「서울뷰티페스티벌 2026」을 오는 11월 25일(수) 서울 광화문광장 세종대왕상 앞에서 개최한다.",
+  "events": [
+   {
+    "name": "서울뷰티페스티벌 2026",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "place": "서울 광화문광장 세종대왕상 앞",
+    "quote": "「서울뷰티페스티벌 2026」을 오는 11월 25일(수) 서울 광화문광장 세종대왕상 앞에서 개최한다."
+   },
+   {
+    "name": "서울모델페스티벌 2026",
+    "start_date": "2026-11-23",
+    "end_date": "2026-11-25",
+    "place": "광화문광장",
+    "quote": "전체 행사는 11월 23일부터 25일까지 3일간 광화문광장에서 진행된다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

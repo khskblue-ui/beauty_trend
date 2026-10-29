@@ -1,0 +1,57 @@
+{
+ "doc_id": "f48a143f2a19a8f2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gpkorea.com/news/articleView.html?idxno=148069",
+ "title": "샤넬·디올·불가리, 향수부터 스니커즈·현대미술까지 '럭셔리 경험' 확...",
+ "summary": "샤넬 하우스 조향사 올리비에 뽈쥬가 조향을 맡았으며, 기존 레 조 드 샤넬 컬렉션과 같은 둥근 형태의 유리 보틀을 적용했다. 디올은 조나단 앤더슨의 2027년 봄 컬렉션을 통해 새로운 'Dior Ribbon' 스니커즈를...",
+ "published_at": "2026-10-29T12:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "KR"
+  ],
+  "brands": [
+   "샤넬",
+   "디올",
+   "불가리"
+  ],
+  "companies": [],
+  "keywords": [
+   "럭셔리 경험",
+   "향수",
+   "브랜드 확장"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Dior Ribbon",
+    "brand": "디올",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "샤넬, 디올, 불가리가 향수를 넘어 다양한 럭셔리 경험으로 영역을 넓히고 있다.",
+  "key_fact_quote": "샤넬 하우스 조향사 올리비에 뽈쥬가 조향을 맡았으며, 기존 레 조 드 샤넬 컬렉션과 같은 둥근 형태의 유리 보틀을 적용했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

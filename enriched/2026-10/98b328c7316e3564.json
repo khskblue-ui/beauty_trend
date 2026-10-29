@@ -1,0 +1,54 @@
+{
+ "doc_id": "98b328c7316e3564",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58619",
+ "title": "본업 한계 넘어 'K뷰티' 뛰어든 中長大 기업들... 화장품 사업으로 '신성장판' 연다",
+ "summary": "[코스인코리아닷컴 김세화 기자]본업의 성장세가 둔화하면서 사업 포트폴리오 재편에 나선 기업들이 K뷰티의 글로벌 성장 가능성에 주목하고 있다.유망한 화장품기업을 인수하거나 뷰티 전용 펀드를 조성하는가 하면, 기존 브랜드와 해외 네트워크를 활용해새로운 사업 기회를 모색하는 등 진출 방식도…",
+ "published_at": "2026-10-29T14:45:11+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "참존",
+   "에이지투웨니스"
+  ],
+  "companies": [
+   "효성벤처스",
+   "동원홈푸드",
+   "하이트진로",
+   "서영이앤티",
+   "비앤비코리아",
+   "태광그룹",
+   "애경산업"
+  ],
+  "keywords": [
+   "화장품 인수합병",
+   "뷰티 펀드",
+   "ODM",
+   "신성장 사업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "본업이 둔화한 기업들이 화장품 기업 인수와 펀드 조성으로 K뷰티에 진출하고 있다.",
+  "key_fact_quote": "본업의 성장세가 둔화하면서 사업 포트폴리오 재편에 나선 기업들이 K뷰티의 글로벌 성장 가능성에 주목하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": true
+}

@@ -1,0 +1,48 @@
+{
+ "doc_id": "06d6c7adca1be6d6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244777",
+ "title": "바르는 화장품 넘어 ‘먹는 뷰티 ’로… 독일 이너 뷰티 시장의 기회와 과...",
+ "summary": "예를 들어 네덜란드의 K - 뷰티 전문몰 NoticeMe와 뷰티 온라인몰 Boozyshop은 각각 뉴트리원의 비비랩(BB LAB)... KOTRA 수출 상담회에서 성사된 한국 이너 뷰티 수입 합의 한국 이너 뷰티 제품이 주로 전문 온라인몰을...",
+ "published_at": "2026-10-29T13:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "DE",
+   "NL",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "뉴트리원",
+   "NoticeMe",
+   "Boozyshop"
+  ],
+  "keywords": [
+   "이너 뷰티",
+   "먹는 뷰티",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "독일 이너 뷰티 시장에서 한국 제품의 수출 기회가 열리고 있다.",
+  "key_fact_quote": "예를 들어 네덜란드의 K - 뷰티 전문몰 NoticeMe와 뷰티 온라인몰 Boozyshop은 각각 뉴트리원의 비비랩(BB LAB)",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}

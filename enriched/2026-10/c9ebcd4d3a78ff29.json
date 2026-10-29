@@ -1,0 +1,49 @@
+{
+ "doc_id": "c9ebcd4d3a78ff29",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.e-science.co.kr/news/articleView.html?idxno=138423",
+ "title": "한국콜마, 히알루론산 파우더 특허 확보...세럼·크림으로 적용 확대",
+ "summary": "활용한 신제품 개발에도 나선다. 한국콜마는 히알루론산을 뾰족한 결정 형태의 미세 파우더로 만드는 기술을 개발하고 관련 특허를 확보했다. 히알루론산을 파우더형 결정으로 구현한 것은 국내 화장품 업계 최초라는 게...",
+ "published_at": "2026-10-29T10:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "히알루론산 파우더",
+   "특허 기술",
+   "스킨케어 제형"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국콜마가 히알루론산을 파우더 결정으로 만드는 기술의 특허를 확보했다.",
+  "key_fact_quote": "한국콜마는 히알루론산을 뾰족한 결정 형태의 미세 파우더로 만드는 기술을 개발하고 관련 특허를 확보했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "한국콜마는 히알루론산을 뾰족한 결정 형태의 미세 파우더로 만드는 기술을 개발하고 관련 특허를 확보했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-29T21:45:33+00:00",
+ "had_body": false
+}
