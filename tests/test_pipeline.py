@@ -304,3 +304,15 @@ def test_datalab_period_never_ends_in_the_future(monkeypatch):
     monkeypatch.setattr(util, "now_kst", lambda: datetime(2026, 10, 25, 9, 17, tzinfo=util.KST))
     assert datalab._period("2026-10", 6) == ("2026-05-01", "2026-10-24")
     assert datalab._period("2026-09", 6) == ("2026-04-01", "2026-09-30")
+
+
+def test_month_counts_an_article_stored_under_two_urls_once(monkeypatch, tmp_path):
+    from trend import store
+    from trend.normalize import load_month
+    monkeypatch.setenv("DATA_DIR", str(tmp_path))
+    for did, url in (("a1", "http://www.cosinkorea.com/news/article.html?no=1"),
+                     ("b2", "https://www.cosinkorea.com/news/article.html?no=1"),
+                     ("c3", "https://www.cosinkorea.com/news/article.html?no=2")):
+        store.write_json(f"enriched/2026-10/{did}.json", {"doc_id": did, "url": url, "title": did,
+                         "published_at": "2026-10-15T09:00:00+09:00", "extraction": {"relevant": True}})
+    assert [r["doc_id"] for r in load_month("2026-10")] == ["a1", "c3"]

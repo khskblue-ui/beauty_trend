@@ -68,7 +68,7 @@ def main(argv=None) -> int:
         from .collect.run import run
         only = set(a.only.split(",")) if a.only else None
         health = run(only, a.naver_pages, a.since, a.backfill_since)
-        failed = [k for k, v in health["sources"].items() if not v["ok"]]
+        failed = [k for k, ok in health["this_run"].items() if not ok]
         print(json.dumps({"failed": failed}, ensure_ascii=False))
         return 0
     if a.cmd == "enrich":

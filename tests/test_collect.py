@@ -173,3 +173,53 @@ def test_second_collect_run_on_a_day_keeps_the_first_runs_health(monkeypatch, tm
     monkeypatch.setattr(runmod.rss, "collect", lambda src, client, known: Result("mfds_press", True, []))
     h = runmod.run(only={"mfds_press"})
     assert set(h["sources"]) == {"jangup", "mfds_press"}
+
+
+def test_backfill_by_day_skips_a_failed_day_and_known_url_variants(monkeypatch):
+    from datetime import date
+    from trend.collect import backfill
+    from trend.util import url_key
+
+    class R:
+        def __init__(self, text, ok=True): self.text, self.ok, self.status = text, ok, 200 if ok else None
+
+    class C:
+        def __init__(self): self.calls = []
+        def allowed(self, url): return True
+        def request(self, url, **kw):
+            self.calls.append(url)
+            if "sdate=" in url:
+                day = url.split("sdate=")[1][:10]
+                if day == "2026-10-02":
+                    return R("", ok=False)            # connection reset on one day's list
+                return R(f'<a href="https://t.test/news/articleView.html?idxno={day[-2:]}">x</a>')
+            n = url.rsplit("=", 1)[1]
+            return R(f'<meta property="og:title" content="기사 {n}"><meta property="article:published_time" content="2026-10-{n}T09:00:00+09:00">')
+
+    monkeypatch.setattr(backfill.store, "save_body", lambda *a: None)
+    src = {"id": "t", "name": "T", "group": "kr_trade",
+           "archive": {"kind": "list", "url": "https://t.test/l?sdate={day}", "link_pattern": r"idxno=\d+$"}}
+    # day 01 is stored already under the feed's http:// link
+    known = {url_key("http://www.t.test/news/articleView.html?idxno=01"): date(2026, 10, 1)}
+    c = C()
+    res = backfill.collect(src, c, date(2026, 10, 1), date(2026, 10, 3), known)
+    assert [d["title"] for d in res.docs] == ["기사 03"]                 # day 02 failed, day 03 still read
+    assert "https://t.test/news/articleView.html?idxno=01" not in c.calls  # not opened again
+    assert "list failed: 2026-10-02" in res.note
+
+
+def test_later_run_on_the_same_day_clears_an_earlier_failure(monkeypatch, tmp_path):
+    from trend import store
+    from trend.collect import run as runmod
+    from trend.collect import Result
+    monkeypatch.setenv("DATA_DIR", str(tmp_path))
+    store.write_json("health/2026-10-30.json", {"day": "2026-10-30", "sources": {
+        "thebk": {"ok": False, "seen": 0, "new": 0, "error": "URLError: reset", "note": None}}})
+    monkeypatch.setattr(runmod, "now_kst", lambda: __import__("datetime").datetime(2026, 10, 30, 13, 0))
+    monkeypatch.setattr(runmod, "load", lambda n: {"rss": [{"id": "thebk"}]})
+    doc = {"doc_id": "d1", "url": "https://t.test/1", "source": "thebk"}
+    monkeypatch.setattr(runmod.rss, "collect", lambda src, client, known: Result("thebk", True, [doc]))
+    h = runmod.run(only={"thebk"})
+    assert h["sources"]["thebk"] == {"ok": True, "seen": 1, "new": 1, "error": None, "note": None}
+    assert h["this_run"] == {"thebk": True}
+    assert "this_run" not in store.read_json(tmp_path / "health" / "2026-10-30.json")

@@ -21,7 +21,7 @@ from datetime import date, timedelta
 
 from .. import store
 from ..http import Client
-from ..util import clean_text, doc_id, kst_date, parse_date, to_kst_iso, utcnow_iso
+from ..util import clean_text, doc_id, kst_date, parse_date, to_kst_iso, url_key, utcnow_iso
 from . import Result
 from .article import extract_body
 from .rss import parse_feed
@@ -85,14 +85,23 @@ def _in_range(d: date | None, since: date, until: date) -> bool:
     return d is not None and since <= d <= until
 
 
+def _stored(known: dict[str, date | None], url: str) -> tuple[bool, date | None]:
+    """Already stored? By id, or by url_key when the archive links another form of the
+    feed's URL (cosinkorea: http in the feed, https in the list)."""
+    for k in (doc_id(url), url_key(url)):
+        if k in known:
+            return True, known[k]
+    return False, None
+
+
 def collect(src: dict, client: Client, since: date, until: date,
             known: dict[str, date | None]) -> Result:
-    """known: doc_id → KST publish date of docs already stored (skipped, but their
-    dates still tell when the list has gone past the window)."""
+    """known: doc_id (and url_key) → KST publish date of docs already stored (skipped, but
+    their dates still tell when the list has gone past the window)."""
     arc = src.get("archive")
     if not arc:
         return Result(src["id"], True, note="no archive configured")
-    kind, docs = arc["kind"], []
+    kind, docs, failed_days = arc["kind"], [], []
     try:
         if kind == "feed":
             for page in range(1, arc.get("max_pages", 20) + 1):
@@ -117,7 +126,7 @@ def collect(src: dict, client: Client, since: date, until: date,
                 return Result(src["id"], False, error=f"sitemap HTTP {r.status}")
             for loc, lastmod in re.findall(r"<loc>([^<]+)</loc>\s*<lastmod>([^<]+)</lastmod>", r.text):
                 d = date.fromisoformat(lastmod[:10])
-                if not _in_range(d, since, until) or doc_id(loc) in known:
+                if not _in_range(d, since, until) or _stored(known, loc)[0]:
                     continue
                 if not re.search(arc.get("link_pattern", "."), loc):
                     continue
@@ -138,6 +147,9 @@ def collect(src: dict, client: Client, since: date, until: date,
                     return Result(src["id"], False, docs, error="robots disallow list page")
                 r = client.request(url, headers={"Accept": "text/html"})
                 if not r.ok:
+                    if by_day:      # one day's list failing (connection reset) skips that day only
+                        failed_days.append(page.isoformat())
+                        continue
                     break
                 b = re.search(r'<base\s+href="([^"]+)"', r.text)   # SPIP pages set <base>
                 base = urllib.parse.urljoin(url, b.group(1)) if b else url
@@ -150,9 +162,8 @@ def collect(src: dict, client: Client, since: date, until: date,
                 for ln in links:
                     if ln in visited:
                         continue
-                    if doc_id(ln) in known:
-                        d = known[doc_id(ln)]
-                    else:
+                    stored, d = _stored(known, ln)
+                    if not stored:
                         doc, d = _article(src, client, ln)
                         if doc and _in_range(d, since, until):
                             docs.append(doc)
@@ -176,7 +187,7 @@ def collect(src: dict, client: Client, since: date, until: date,
                 links += [urllib.parse.urljoin(base, h) for h in re.findall(r'href="([^"]+)"', r.text)
                           if re.search(arc["link_pattern"], h)]
             for ln in dict.fromkeys(links):
-                if doc_id(ln) in known:
+                if _stored(known, ln)[0]:
                     continue
                 doc, d = _article(src, client, ln)
                 if doc and _in_range(d, since, until):
@@ -187,4 +198,5 @@ def collect(src: dict, client: Client, since: date, until: date,
         log.warning("backfill %s: %s", src["id"], e)
         return Result(src["id"], False, docs, error=str(e))
     uniq = list({d["doc_id"]: d for d in docs}.values())
-    return Result(src["id"], True, uniq, note=f"backfill {since}~{until}")
+    note = f"backfill {since}~{until}" + (f", list failed: {','.join(failed_days)}" if failed_days else "")
+    return Result(src["id"], True, uniq, note=note)

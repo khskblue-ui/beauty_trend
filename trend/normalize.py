@@ -7,7 +7,7 @@ from datetime import timedelta
 
 from . import store
 from .config import load
-from .util import kst_date, month_bounds
+from .util import kst_date, month_bounds, url_key
 
 
 @dataclass
@@ -46,7 +46,7 @@ def similar(a: str, b: str, threshold: float = 0.5) -> bool:
 
 def load_month(ym: str, relevant_only: bool = True) -> list[dict]:
     first, last = month_bounds(ym)
-    out = []
+    out, seen = [], set()
     for p in sorted((store.data_dir() / "enriched").glob("*/*.json")):
         rec = store.read_json(p)
         d = kst_date(rec.get("published_at"))
@@ -54,6 +54,12 @@ def load_month(ym: str, relevant_only: bool = True) -> list[dict]:
             continue
         if relevant_only and not rec["extraction"].get("relevant"):
             continue
+        # the same article stored under two ids (http and https links, before collect compared
+        # url_key) would count twice, e.g. pass the two-article rule for events on its own
+        k = url_key(rec.get("url") or rec["doc_id"])
+        if k in seen:
+            continue
+        seen.add(k)
         out.append(rec)
     return out
 

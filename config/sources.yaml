@@ -72,34 +72,35 @@ rss:
     fetch_body: false        # 유료벽
     evidence_grade: headline
     archive: {kind: feed, url: "https://wwd.com/beauty-industry-news/feed/?paged={page}"}
+  # 식약처 제목 거르기: 'K-뷰티 할랄 인증 세미나'처럼 '화장품'이 없는 화장품 보도자료가 있어 '뷰티'도 넣는다(2026-10-30)
   - id: mfds_press
     name: 식약처 보도자료
     url: https://www.mfds.go.kr/www/rss/brd.do?brdId=ntc0021
     lang: ko
     group: regulation
     fetch_body: false
-    title_filter: [화장품, 향료, 착향, 기능성, 염모, 자외선]
+    title_filter: [화장품, 뷰티, 향료, 착향, 기능성, 염모, 자외선]
   - id: mfds_notice
     name: 식약처 고시전문
     url: https://www.mfds.go.kr/www/rss/brd.do?brdId=data0005
     lang: ko
     group: regulation
     fetch_body: false
-    title_filter: [화장품, 향료, 착향, 기능성, 염모, 자외선]
+    title_filter: [화장품, 뷰티, 향료, 착향, 기능성, 염모, 자외선]
   - id: mfds_preannounce
     name: 식약처 행정예고
     url: https://www.mfds.go.kr/www/rss/brd.do?brdId=data0009
     lang: ko
     group: regulation
     fetch_body: false
-    title_filter: [화장품, 향료, 착향, 기능성, 염모, 자외선]
+    title_filter: [화장품, 뷰티, 향료, 착향, 기능성, 염모, 자외선]
   - id: mfds_law
     name: 식약처 최근 개정 법령
     url: https://www.mfds.go.kr/www/rss/brd.do?brdId=data0008
     lang: ko
     group: regulation
     fetch_body: false
-    title_filter: [화장품, 향료, 착향, 기능성, 염모, 자외선]
+    title_filter: [화장품, 뷰티, 향료, 착향, 기능성, 염모, 자외선]
   - id: givaudan
     name: Givaudan
     url: https://www.givaudan.com/rss
