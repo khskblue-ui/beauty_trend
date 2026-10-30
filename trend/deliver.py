@@ -55,10 +55,10 @@ def send(status: str, ym: str, paths: dict, summary: list, gate: dict) -> None:
         _send([maint], f"[드라이런] {ym} 리포트", body, [paths.get("pdf"), paths.get("html")])
     elif status == "publish":
         to = [recipient] if recipient else [maint]
-        _send(to, f"[월간 뷰티 향료 트렌드] {ym}", body, [paths.get("pdf")])
+        _send(to, f"[월간 뷰티와 향료 트렌드] {ym}", body, [paths.get("pdf")])
     elif status == "hold":
         _send([maint], f"[경보] {ym} 리포트 발행 보류", body, [paths.get("pdf"), paths.get("html")])
         if recipient:
-            _send([recipient], f"[월간 뷰티 향료 트렌드] {ym} 발행 지연 안내",
+            _send([recipient], f"[월간 뷰티와 향료 트렌드] {ym} 발행 지연 안내",
                   "이번 달 리포트는 데이터 품질 확인으로 발행이 지연되고 있습니다. "
                   "확인 후 다시 보내드리겠습니다. (자동 발송)", [])

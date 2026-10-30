@@ -32,7 +32,7 @@ a:focus-visible{outline:2px solid var(--k-launch);outline-offset:2px}
 .motion .slide.active{clip-path:inset(0);transition:clip-path .55s var(--snap)}
 .static .slide,.stacked .slide,.doc .slide{clip-path:none}
 .doc .slide:not(.sl-cover)::before{content:"";padding:0}   /* document: one rule between sections, not a repeated masthead */
-.slide::before{content:"뷰티 향료 업계 소식 {{ period.tag }}";display:block;margin:0 -72px 34px;padding:14px 72px;border-bottom:2px solid var(--rule);font:500 13px/1 var(--sans)}
+.slide::before{content:"뷰티와 향료 업계 소식 {{ period.tag }}";display:block;margin:0 -72px 34px;padding:14px 72px;border-bottom:2px solid var(--rule);font:500 13px/1 var(--sans)}
 .s-head{display:grid;grid-template-columns:120px 1fr;column-gap:24px;margin-bottom:22px}
 .s-kicker{grid-row:1/3;font:600 15px/1.2 var(--mono);color:var(--k-launch);padding-top:6px}
 .s-head h2{font:700 34px/1.25 var(--sans);margin:0;letter-spacing:-.01em}
@@ -50,7 +50,7 @@ a:focus-visible{outline:2px solid var(--k-launch);outline-offset:2px}
 
 /* cover */
 .sl-cover{padding-bottom:24px}
-.sl-cover::before{content:"뷰티 향료 업계 소식";}
+.sl-cover::before{content:"뷰티와 향료 업계 소식";}
 .mast{flex:1;display:grid;grid-template-columns:auto 1fr;gap:44px;align-items:center}
 .bignum{font:600 260px/.8 var(--mono);letter-spacing:-.06em}
 .bignum small{display:block;font-size:.17em;letter-spacing:0;color:var(--muted);margin-bottom:14px}
@@ -116,6 +116,7 @@ ul.sents li{padding:11px 0 11px 20px;border-bottom:1px solid var(--grid);positio
 ul.sents li::before{content:"";position:absolute;left:0;top:23px;width:9px;height:2px;background:var(--ink)}
 .cite{font:500 11px/1 var(--mono);margin-left:2px;vertical-align:super}.cite a{text-decoration:none;color:var(--k-launch)}
 table{width:100%;border-collapse:collapse;font-size:15px}
+table.compact{font-size:13px}table.compact th,table.compact td{padding:5px 8px}
 th,td{text-align:left;padding:10px 10px;border-bottom:1px solid var(--grid);vertical-align:top}
 th{font:500 13px var(--sans);color:var(--muted);border-bottom:1.5px solid var(--ink)}
 th.c,td.c{text-align:center;width:70px}
@@ -162,6 +163,28 @@ td.mono{white-space:nowrap}
   path.draw{stroke-dashoffset:0!important}
 }
 </style>
+{% if doc_mode %}
+<style>
+@page{size:A4;margin:14mm 10mm 16mm}
+@media print{
+  html,body{background:#fff}
+  .doc .deck{max-width:none;padding:0}
+  .doc .slide{box-shadow:none;margin:0 0 24px;padding-bottom:20px;break-inside:avoid;page-break-inside:avoid}
+  .doc .slide.sl-table,.doc .slide.sl-sources{break-inside:auto;page-break-inside:auto}   /* long lists flow */
+  .sl-cover{padding-top:8px}
+  /* the section rule rides on the heading, so a page never ends on a bare rule */
+  .doc .slide:not(.sl-cover)::before{display:none}
+  .doc .slide:not(.sl-cover) .s-head{border-top:2px solid var(--rule);margin:0 -72px 22px;padding:34px 72px 0}
+  .s-head{break-inside:avoid;page-break-inside:avoid}
+  .s-head,.s-head h2,h3{break-after:avoid;page-break-after:avoid}
+  tbody.lead{break-inside:avoid;page-break-inside:avoid}
+  .sources li{word-break:normal;overflow-wrap:anywhere}
+  tr,li,.kbar,.stat,.cal li,.rank li,figure,.chart,.month-strip,.mast{break-inside:avoid;page-break-inside:avoid}
+  thead{display:table-header-group}
+  a{text-decoration:none}
+}
+</style>
+{% endif %}
 <script>if(!(window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches))document.documentElement.classList.add('motion')</script>
 </head>
 <body>
@@ -171,13 +194,13 @@ td.mono{white-space:nowrap}
   <div class="mast">
     <div class="bignum rv"><small>{{ month[:4] }}</small>{{ month[5:] }}</div>
     <div>
-      <h1 class="rv" style="--i:1">{{ period.span }} 뷰티 향료 업계 소식</h1>
+      <h1 class="rv" style="--i:1">{{ period.span }} 뷰티와 향료 업계 소식</h1>
       <div class="stats rv" style="--i:2">
         <div class="stat"><b data-count="{{ agg.counts.docs }}">{{ agg.counts.docs }}</b><span>분석한 기사</span></div>
         <div class="stat"><b data-count="{{ agg.counts.clusters }}">{{ agg.counts.clusters }}</b><span>서로 다른 소식</span></div>
         <div class="stat"><b data-count="{{ agg.launches|length }}">{{ agg.launches|length }}</b><span>출시가 확인된 신제품</span></div>
       </div>
-      <p class="note rv" style="--i:3">분석 기간 {{ period.start }} ~ {{ period.end }}(한국 시간){% if period.interim %}, 월말 전 자료라 전월 비교는 넣지 않음{% endif %}, 수출입 통계는 아직 싣지 않음, 작성 {{ generated }}</p>
+      <p class="note rv" style="--i:3">분석 기간 {{ period.start }} ~ {{ period.end }}(KST){% if period.interim %}, 월말 전 자료라 전월 비교는 넣지 않음{% endif %}, 수출입 통계는 아직 싣지 않음, 작성 {{ generated }}</p>
       <div class="rv" style="--i:4">{{ b.banners() }}</div>
     </div>
   </div>
@@ -242,6 +265,7 @@ td.mono{white-space:nowrap}
 {{ b.events_slides('10') }}
 {{ b.reg_slides('11') }}
 {{ b.calendar_slide('12') }}
+{{ b.launch_appendix('부록') }}
 
 <!--SOURCE_SLIDES-->
 </main>

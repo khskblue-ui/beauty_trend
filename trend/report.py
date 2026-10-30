@@ -242,5 +242,7 @@ def deliver_run(run_dir: str | Path) -> dict:
     ym = ctx["month"]
     paths = {k: run_dir / n for k, n in (("pdf", f"report_{ym}.pdf"), ("html", f"report_{ym}.html"),
                                           ("mail", "mail.txt")) if (run_dir / n).exists()}
+    if (run_dir / f"report_{ym}_signal_doc.html").exists():     # the PDF's design, as HTML
+        paths["html"] = run_dir / f"report_{ym}_signal_doc.html"
     deliver.send(ctx["status"], ym, paths, ctx["summary"], ctx["gate"])
     return {"status": ctx["status"], "month": ym, "sent": deliver.configured()}

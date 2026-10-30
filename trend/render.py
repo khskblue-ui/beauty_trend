@@ -65,7 +65,7 @@ def line_chart(series: dict, anchor: str, width: int = 640, height: int = 220) -
     y = lambda v: pad_t + h - h * v / vmax
     colors = ["#2a6f97", "#c0587e", "#e09f3e", "#4f772d", "#7b5ea7"]
     parts = [f'<svg class="chart" viewBox="0 0 {width} {height}" role="img" '
-             f'aria-label="검색 지수 상대값 추이(기준: {html.escape(anchor)})">']
+             f'aria-label="검색량 추이(\'{html.escape(anchor)}\' 대비)">']
     for k in range(4):
         v = vmax * k / 3
         parts.append(f'<line x1="{pad_l}" x2="{pad_l + w}" y1="{y(v):.1f}" y2="{y(v):.1f}" class="grid"/>'
@@ -281,7 +281,7 @@ def render_all(ctx: dict, out_dir: Path, pdf: bool = True) -> dict[str, Path]:
             **ctx, cites=mc, events=events(ctx), viz=viz_data(ctx), doc_mode=doc_mode)
         # sources come last so every citation number is already assigned
         doc = doc.replace("<!--SOURCE_SLIDES-->", env.get_template("motion/_sources_slides.j2").render(
-            sources=mc.entries(ctx["links"]), month=ctx["period"]["tag"], title=ctx["cfg"]["title"],
+            sources=mc.entries(ctx["links"]), month=ctx["period"]["tag"], title=ctx["cfg"]["title"], doc_mode=doc_mode,
             kicker=SOURCE_KICKER.get(v, "")))
         key = f"motion_{v}_doc" if doc_mode else f"motion_{v}"
         paths[key] = out_dir / f"report_{ctx['month']}_{v}{'_doc' if doc_mode else ''}.html"
@@ -289,22 +289,31 @@ def render_all(ctx: dict, out_dir: Path, pdf: bool = True) -> dict[str, Path]:
     env.globals.update(cite=cites)
     if pdf:
         try:
-            paths["pdf"] = to_pdf(paths["html"], out_dir / f"report_{ctx['month']}.pdf")
+            # the PDF is the B design's document format when it was rendered, else the plain report
+            src = paths.get("motion_signal_doc")
+            paths["pdf"] = to_pdf(src or paths["html"], out_dir / f"report_{ctx['month']}.pdf", doc=bool(src))
         except Exception as e:  # noqa: BLE001 - PDF failure must not lose the HTML
             log.error("PDF render failed: %s", e)
     return paths
 
 
-def to_pdf(html_path: Path, pdf_path: Path) -> Path:
+def to_pdf(html_path: Path, pdf_path: Path, doc: bool = False) -> Path:
+    """A4 PDF. doc=True: the deck's document format, motion off (every count and chart in its
+    final state), web fonts loaded, printed at scale .7 so its desktop layout (≥760px) stays."""
     from playwright.sync_api import sync_playwright
     exe = os.getenv("PLAYWRIGHT_CHROMIUM_PATH")
     with sync_playwright() as p:
         browser = p.chromium.launch(executable_path=exe) if exe else p.chromium.launch()
         page = browser.new_page()
-        page.goto(html_path.resolve().as_uri(), wait_until="load")
-        page.emulate_media(media="print")
-        page.pdf(path=str(pdf_path), format="A4", print_background=True,
-                 margin={"top": "16mm", "bottom": "18mm", "left": "14mm", "right": "14mm"},
+        page.emulate_media(media="print", reduced_motion="reduce")
+        try:
+            page.goto(html_path.resolve().as_uri(), wait_until="networkidle", timeout=60000)
+        except Exception:  # noqa: BLE001 - fonts unreachable: print with the fallback fonts
+            page.goto(html_path.resolve().as_uri(), wait_until="load")
+        page.evaluate("document.fonts.ready.then(() => true)")
+        page.pdf(path=str(pdf_path), format="A4", print_background=True, scale=0.7 if doc else 1,
+                 margin=({"top": "14mm", "bottom": "16mm", "left": "10mm", "right": "10mm"} if doc else
+                         {"top": "16mm", "bottom": "18mm", "left": "14mm", "right": "14mm"}),
                  display_header_footer=True, header_template="<span></span>",
                  footer_template='<div style="font-size:8px;width:100%;text-align:center;color:#888">'
                                  '<span class="pageNumber"></span> / <span class="totalPages"></span></div>')

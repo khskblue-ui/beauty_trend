@@ -138,7 +138,9 @@ def launch_groups(items: list[dict], other_max: int) -> dict:
     rest = [x for x in items if x.get("category") != "fragrance"]
     ranked = sorted(rest, key=lambda x: (x.get("group") in TRADE_GROUPS, x.get("n_sources", 1)), reverse=True)
     shown = sorted(ranked[:other_max], key=lambda x: x["launch_date"])
-    cats = Counter(CATEGORY_KO.get(x.get("category"), "기타") for x in rest).most_common()
+    # largest first, '기타' last whatever its size
+    cats = sorted(Counter(CATEGORY_KO.get(x.get("category"), "기타") for x in rest).most_common(),
+                  key=lambda kv: kv[0] == "기타")
     return {"fragrance": frag, "other": shown, "other_total": len(rest),
             "by_category_text": ", ".join(f"{k} {n}개" for k, n in cats)}
 

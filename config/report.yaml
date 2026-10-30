@@ -1,5 +1,5 @@
 # 리포트 섹션과 품질 게이트 기준(PLAN "리포트 구성").
-title: 월간 뷰티 향료 트렌드 리포트
+title: 월간 뷰티와 향료 트렌드 리포트
 # 모션 HTML(templates/motion/<이름>.html.j2).
 motion_variants: [signal]   # B안 확정(2026-10-15). accord, chromatogram은 MOTION_VARIANTS로만
 motion_doc: true            # 같은 디자인의 보고서형(스크롤) HTML도 만든다(2026-10-15 요청)

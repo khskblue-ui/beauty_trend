@@ -1,5 +1,5 @@
 {# Rendered after the deck so citation numbers are final. 8 sources per slide. #}
-{% for chunk in sources|batch(8) %}
+{% for chunk in sources|batch(10000 if doc_mode else 8) %}
 <section class="slide sl-sources" data-title="출처{% if loop.length > 1 %} ({{ loop.index }}/{{ loop.length }}){% endif %}">
   <header class="s-head">{% if kicker %}<div class="s-kicker">{{ kicker }}</div>{% endif %}
     <h2 class="rv">출처{% if loop.length > 1 %}<span class="s-page"> ({{ loop.index }}/{{ loop.length }})</span>{% endif %}</h2></header>
@@ -9,6 +9,6 @@
     {% endfor %}</ol>
     {% if loop.last %}<p class="ai-note">AI가 자동으로 만든 리포트입니다. 자사 제품 포트폴리오는 반영하지 않았습니다.</p>{% endif %}
   </div>
-  <footer class="s-foot"><span>{{ title }}, {{ month }}</span><span class="s-num"></span></footer>
+  <footer class="s-foot"><span>{{ title }} {{ month }}</span><span class="s-num"></span></footer>
 </section>
 {% endfor %}
