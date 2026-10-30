@@ -329,3 +329,15 @@ def test_month_counts_an_article_stored_under_two_urls_once(monkeypatch, tmp_pat
         store.write_json(f"enriched/2026-10/{did}.json", {"doc_id": did, "url": url, "title": did,
                          "published_at": "2026-10-15T09:00:00+09:00", "extraction": {"relevant": True}})
     assert [r["doc_id"] for r in load_month("2026-10")] == ["a1", "c3"]
+
+
+def test_sentence_evidence_names_the_issuing_agency_for_official_notices(monkeypatch):
+    from trend import verify
+    seen = []
+    monkeypatch.setattr(verify, "entailment", lambda pairs, ledger: seen.extend(pairs) or ["supported"] * len(pairs))
+    r = rec("m1", "[보도참고] ’25년 화장품 안전성 정보 보고 사례 발표")
+    r.update(group="regulation", source_name="식약처 보도자료")
+    s = {"text": "식약처가 화장품 안전성 정보 보고 사례를 발표했다.", "doc_ids": ["m1"],
+         "quote": "[보도참고] ’25년 화장품 안전성 정보 보고 사례 발표"}
+    kept, _ = verify.verify_sentences([s], {"m1"}, {"m1": r}, {"식약처"}, "")
+    assert kept and seen[0][1].startswith("(발표 기관) 식약처 보도자료\n(기사 제목) ")

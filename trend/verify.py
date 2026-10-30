@@ -102,7 +102,12 @@ def verify_sentences(sents: list[dict], allowed: set[str], recs: dict[str, dict]
     # usually in the title, not in the quoted sentence
     def evidence(s):
         titles = " / ".join(recs[i].get("title", "") for i in s["doc_ids"] if i in recs)
-        return f"(기사 제목) {titles}\n(인용) {s['quote']}"
+        # an official board's name says who issued it ('[보도참고] ’25년 화장품 안전성 정보 보고
+        # 사례 발표' names no agency); the static check already counts it, the verifier must see it too
+        issuers = " / ".join(recs[i].get("source_name") or "" for i in s["doc_ids"]
+                             if i in recs and recs[i].get("group") == "regulation")
+        head = f"(발표 기관) {issuers}\n" if issuers else ""
+        return f"{head}(기사 제목) {titles}\n(인용) {s['quote']}"
     verdicts = entailment([(s["text"], evidence(s)) for s in survivors], ledger)
     kept = []
     for s, v in zip(survivors, verdicts):
