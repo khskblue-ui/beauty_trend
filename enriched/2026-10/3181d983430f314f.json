@@ -1,0 +1,45 @@
+{
+ "doc_id": "3181d983430f314f",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/thea-green-founder-nails-inc-exits-company-following-sale-1239393014/",
+ "title": "Thea Green, Founder of Nails Inc., Exits Company Following Sale to Pacific World Corp.",
+ "summary": "Green, who sold her nail salon and products company two years ago, said \"the customer has always been my number-one obsession — without them, nothing is possible.\"",
+ "published_at": "2026-10-31T00:44:49+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "Nails Inc."
+  ],
+  "companies": [
+   "Pacific World Corp."
+  ],
+  "keywords": [
+   "네일 브랜드 매각",
+   "창업자 퇴임"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "네일스 인크 창업자 테아 그린이 회사 매각 후 회사를 떠났다.",
+  "key_fact_quote": "Thea Green, Founder of Nails Inc., Exits Company Following Sale to Pacific World Corp.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

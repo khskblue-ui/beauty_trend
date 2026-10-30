@@ -1,0 +1,48 @@
+{
+ "doc_id": "6e865a4885a4aac8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Economy/article/all/20261030/134939348/1",
+ "title": "원바이오젠, 이마트 노브랜드 전용 스킨케어 6종 출시",
+ "summary": "의료기기· 화장품 제조사 ㈜원바이오젠은 이마트 자체 브랜드(PB) 노브랜드 전용 스킨케어 화장품 6종을 출시했다고 30일 밝혔다. 회사 측은 신제품 이 클렌저, 토너, 미스트, 세럼, 크림으로 구성된 기초 스킨케어...",
+ "published_at": "2026-10-30T15:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "원바이오젠",
+   "노브랜드"
+  ],
+  "companies": [
+   "원바이오젠"
+  ],
+  "keywords": [
+   "EGF 원료",
+   "특허 원료 조합",
+   "유통사 전용 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "9d52cd0e6aac90fa",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

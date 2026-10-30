@@ -1,0 +1,51 @@
+{
+ "doc_id": "76f31b87eb8bac26",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312561",
+ "title": "주가로 읽는 K-뷰티: 외국인 자금, 브랜드 넘어 생태계 전반으로",
+ "summary": "외국인 투자자들은 지난 1년간 K-뷰티 주요 종목에 대한 투자 비중을 확대하며 산업의 성장 가능성을 긍정적으로 평가했다.다만 투자 자금의 향방은 달랐다. 전통 브랜드주보다 ODM과 뷰티테크, 글로벌 유통 플랫폼 기업에 대한 선호가 두드러진 반면 파마리서치는 주가와 외국인 지분율이 동반 하락하며 성장주 내에서도 차별화가 나타났다.뷰티경제가 네이버증권 자료를 토대로 최근 1년간 K-뷰티 7개 주요 종목의 주가와 외국인 지분율 변화를 분석한 결과, 투자자들의 관심이 전통 화장품 대형주에서 ODM과 뷰티테크, 플랫폼 기업으로 확산되는 흐름",
+ "published_at": "2026-10-30T19:36:07+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽",
+   "LG생활건강",
+   "한국콜마",
+   "코스맥스",
+   "에이피알",
+   "파마리서치",
+   "실리콘투"
+  ],
+  "keywords": [
+   "ODM",
+   "뷰티테크",
+   "글로벌 유통 플랫폼",
+   "외국인 투자"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티 투자 자금이 전통 브랜드에서 ODM과 뷰티테크, 유통 플랫폼으로 옮겨 가고 있다.",
+  "key_fact_quote": "따라서 최근 K-뷰티 투자 자금은 전통 브랜드 중심에서 제조 경쟁력을 갖춘 ODM 기업과 뷰티테크, 글로벌 유통 플랫폼으로 분산되는 양상이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": true
+}

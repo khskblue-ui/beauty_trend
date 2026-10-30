@@ -1,0 +1,46 @@
+{
+ "doc_id": "bfa79599a55ff0c6",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/hailey-bieber-rhode-womens-health-5-million-1239392562/",
+ "title": "EXCLUSIVE: Hailey Bieber Opens Up About Women’s Health as Rhode Commits $5 Million to Research",
+ "summary": "The Rhode founder discusses her personal connection to women's health, motherhood, her evolving role at E.l.f. Beauty and what's next for the brand.",
+ "published_at": "2026-10-31T01:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Rhode"
+  ],
+  "companies": [
+   "E.l.f. Beauty"
+  ],
+  "keywords": [
+   "여성 건강",
+   "셀럽 브랜드",
+   "연구 후원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "로드가 여성 건강 연구를 후원하기로 했다.",
+  "key_fact_quote": "EXCLUSIVE: Hailey Bieber Opens Up About Women’s Health as Rhode Commits $5 Million to Research",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

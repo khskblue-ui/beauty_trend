@@ -1,0 +1,49 @@
+{
+ "doc_id": "a9396325d18af270",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/retilance-elevating-retinol-science-for-multidimensional-radiance",
+ "title": "Retilance, elevating retinol science for multidimensional radiance",
+ "summary": "Retilance™ is a next-generation active that elevates retinol science for multidimensional radiance",
+ "published_at": "2026-10-30T19:28:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "레티놀",
+   "차세대 활성 성분",
+   "브라이트닝"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Retilance는 레티놀 과학을 발전시킨 차세대 활성 성분이다.",
+  "key_fact_quote": "Retilance™ is a next-generation active that elevates retinol science for multidimensional radiance",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Retilance",
+    "quote": "Retilance™ is a next-generation active that elevates retinol science for multidimensional radiance"
+   },
+   {
+    "name": "retinol",
+    "quote": "Retilance™ is a next-generation active that elevates retinol science for multidimensional radiance"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

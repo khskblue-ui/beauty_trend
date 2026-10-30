@@ -1,0 +1,45 @@
+{
+ "doc_id": "8be863af74b72c9c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=2026103015542027318ef25b590_30",
+ "title": "NS홈쇼핑, 뷰티 브랜드 구노 피부 탄력 관리 제품 ‘쥬락실 볼유리프트...",
+ "summary": "NS홈쇼핑이 뷰티 브랜드 구노의 피부 탄력 관리 제품 ‘쥬락실 볼유리프트 앰플’을 오는 31일 오후 7시 35분 첫 방송한다고 30일 밝혔다. ‘구노 쥬락실 볼유리프트 앰플’ 핵심 성분 ‘쥬락실’은 4년간의...",
+ "published_at": "2026-10-30T15:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "구노"
+  ],
+  "companies": [
+   "NS홈쇼핑"
+  ],
+  "keywords": [
+   "피부 탄력 관리",
+   "홈쇼핑 론칭",
+   "앰플"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "6eaaad5dc1453af9",
+ "enriched_at": "2026-10-30T21:28:32+00:00",
+ "had_body": false
+}

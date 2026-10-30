@@ -1,0 +1,47 @@
+{
+ "doc_id": "43826ac07c0d5a3a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ajunews.com/view/20261030173417385",
+ "title": "무신사, 홍대 이어 성수에 400평 뷰티 매장…700개 브랜드 집결",
+ "summary": "키보와 아쿠엘라 등 차별화된 제품을 앞세운 신진 브랜드 도 선보인다. 매장 1층은 스킨케어와 메이크업, 향수 제품을 직접 체험할 수 있는 공간을 중심으로 꾸민다. 신진 브랜드 를 소개하는 '넥스트 뷰티'존과 메이크업...",
+ "published_at": "2026-10-30T17:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "키보",
+   "아쿠엘라"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "뷰티 매장",
+   "신진 브랜드",
+   "오프라인 뷰티 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 홍대에 이어 성수에 대형 뷰티 매장을 연다.",
+  "key_fact_quote": "무신사, 홍대 이어 성수에 400평 뷰티 매장…700개 브랜드 집결",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

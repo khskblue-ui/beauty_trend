@@ -1,0 +1,44 @@
+{
+ "doc_id": "e5a2a62b112a4bf6",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/mercury-lead-and-methanol-discovered-in-seized-counterfeit-cosmetics",
+ "title": "Mercury, lead and methanol discovered in seized counterfeit cosmetics in the UK",
+ "summary": "An investigation by the Intellectual Property Office (IPO) found that four in ten seized counterfeit cosmetics tested failed safety checks, and the IPO is highlighting these risks via a new ‘Face the Fakes’ campaign",
+ "published_at": "2026-10-30T21:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "GB"
+  ],
+  "brands": [],
+  "companies": [
+   "Intellectual Property Office"
+  ],
+  "keywords": [
+   "위조 화장품",
+   "안전성 검사",
+   "소비자 보호 캠페인"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "영국에서 압수된 위조 화장품 상당수가 안전 검사를 통과하지 못했다.",
+  "key_fact_quote": "An investigation by the Intellectual Property Office (IPO) found that four in ten seized counterfeit cosmetics tested failed safety checks",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

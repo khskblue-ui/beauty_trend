@@ -1,0 +1,53 @@
+{
+ "doc_id": "c4b534a4916a3f06",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dt.co.kr/article/12092258?ref=naver",
+ "title": "래하벨, 첫 니치퍼퓸 ‘화이트 티 온 셔츠’ 내달 1일 출시",
+ "summary": "향료 의 특성을 분석하고 소설 속 복선과 장면 전환을 구성하듯 각각의 향이 자연스럽게 이어지도록 조합했다. ‘화이트 티 온 셔츠’는 성별에 구애받지 않고 사용할 수 있는 젠더리스 향수로 개발됐다....",
+ "published_at": "2026-10-30T13:45:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "래하벨"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "젠더리스 향수"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "화이트 티 온 셔츠",
+    "brand": "래하벨",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "래하벨, 첫 니치퍼퓸 ‘화이트 티 온 셔츠’ 내달 1일 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "래하벨이 첫 니치퍼퓸을 젠더리스 향수로 내놓는다.",
+  "key_fact_quote": "‘화이트 티 온 셔츠’는 성별에 구애받지 않고 사용할 수 있는 젠더리스 향수로 개발됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

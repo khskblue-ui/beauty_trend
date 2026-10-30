@@ -1,0 +1,62 @@
+{
+ "doc_id": "18bf868fb750953f",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53833",
+ "title": "“무진장 뷰티 많은 곳”…무신사, 성수에 400평 뷰티 성지 연다",
+ "summary": "무신사가 11월 11일 서울 성수동에 ‘무신사 뷰티 성수’를 연다. 400평 규모의 매장에 약 700개 브랜드를 선보인다. 지난 9월 개점한 홍대점에 이어 두 번째 뷰티 단독 매장을 열고 오프라인 유통 사업 확장에 나선다. 무신사 뷰티 성수는 서울 성동구 연무장길 87에 자리잡는다. 지상 1~2층, 전용면적 약 4…",
+ "published_at": "2026-10-30T14:59:50+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사 뷰티",
+   "코스알엑스",
+   "바이오더마",
+   "질스튜어트 뷰티",
+   "아멜리",
+   "더이유",
+   "리쥬엑셀",
+   "인피덤"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "뷰티 오프라인 매장",
+   "파머시 뷰티",
+   "인디 뷰티",
+   "성수 상권"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 성수에 두 번째 뷰티 단독 매장을 열고 오프라인 유통을 넓힌다.",
+  "key_fact_quote": "지난 9월 개점한 홍대점에 이어 두 번째 뷰티 단독 매장을 열고 오프라인 유통 사업 확장에 나선다.",
+  "events": [
+   {
+    "name": "무신사 뷰티 성수",
+    "start_date": "2026-11-11",
+    "end_date": null,
+    "place": "서울 성수동",
+    "quote": "무신사가 11월 11일 서울 성수동에 ‘무신사 뷰티 성수’를 연다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": true
+}

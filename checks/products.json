@@ -3670,5 +3670,89 @@
  "9916c60198042228|launch|쿠오카|와일드 피치 솔리드 퍼퓸|와일드 피치": {
   "kept": true,
   "reason": null
+ },
+ "08de61827d3e1651|launch||스킨라이크 톤업데이션|": {
+  "kept": false,
+  "reason": "no_brand"
+ },
+ "bf96a07dcd485ca9|notes|막스마라|르 퍼퓸(Le Parfum)|우디,튜베로즈": {
+  "kept": true,
+  "reason": null
+ },
+ "ed455b3a914c2004|notes|막스마라|르 퍼퓸|우디,튜베로즈,플로럴": {
+  "kept": true,
+  "reason": null
+ },
+ "fd3d4e6f05cc8944|notes|Tate McRae|Tate 01|bergamot,clary sage,white florals,amber,tonka bean,sandalwood,soft woods": {
+  "kept": true,
+  "reason": null
+ },
+ "08629afff94d23d5|launch|밀크터치|실버베일 티슈 오프 립타투|": {
+  "kept": true,
+  "reason": null
+ },
+ "08629afff94d23d5|launch|밀크터치|글로우 핏 컬러 스테인 립 틴트|": {
+  "kept": true,
+  "reason": null
+ },
+ "08629afff94d23d5|launch|밀크터치|듀이 핏 글로우 세럼 블러쉬|": {
+  "kept": true,
+  "reason": null
+ },
+ "3539e9846286db2f|launch|허벌에센스|파파야+시트러스 스트렝스|": {
+  "kept": true,
+  "reason": null
+ },
+ "3539e9846286db2f|launch|프로야|어드밴스드 퍼밍(Advanced Firming)|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "3539e9846286db2f|launch|프로야|오리지널 리페어(Original Repair)|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "64ee379f6f1924d2|launch|구노|쥬락실 볼유리프트 앰플|": {
+  "kept": false,
+  "reason": "entailment:uncertain"
+ },
+ "8af78f3e07d079e0|launch|데일리랩스|뮤설|": {
+  "kept": true,
+  "reason": null
+ },
+ "9d52cd0e6aac90fa|launch|원바이오젠|노브랜드 전용 스킨케어 6종|": {
+  "kept": true,
+  "reason": null
+ },
+ "ae19a9de059f1f11|launch|바이탈뷰티|먹는 레티놀|": {
+  "kept": false,
+  "reason": "entailment:uncertain"
+ },
+ "bd44f39c5c4b952e|launch|에뛰드|글로이 구미 밤|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "bf96a07dcd485ca9|launch|막스마라|르 퍼퓸(Le Parfum)|": {
+  "kept": true,
+  "reason": null
+ },
+ "c2927417e6f3bf86|launch|막스마라|르 퍼퓸(Le Parfum)|": {
+  "kept": false,
+  "reason": "entailment:uncertain"
+ },
+ "dfab5d430ecfd7c4|launch|앰플엔|세라마이드샷 앰플|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "ed455b3a914c2004|launch|막스마라|르 퍼퓸|": {
+  "kept": true,
+  "reason": null
+ },
+ "f6c1d143d3e5c89f|launch|노브랜드|더마 스킨케어 6종|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "fd3d4e6f05cc8944|launch|Tate McRae|Tate 01|": {
+  "kept": true,
+  "reason": null
  }
 }

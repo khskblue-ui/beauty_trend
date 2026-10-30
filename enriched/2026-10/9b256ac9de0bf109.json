@@ -1,0 +1,45 @@
+{
+ "doc_id": "9b256ac9de0bf109",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/cosmetics-business-picks-7-new-launches-oct26",
+ "title": "Cosmetics Business picks: 7 new beauty launches to know this October",
+ "summary": "From blind-box collaborations with Hello Kitty to JVN Hair’s first foam product, a hairdryer designed for kids and a new entry into the skin care market from tech-led beauty brand ZIIP, discover this month’s biggest beauty launches",
+ "published_at": "2026-10-30T21:29:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "JVN Hair",
+   "ZIIP",
+   "Hello Kitty"
+  ],
+  "companies": [],
+  "keywords": [
+   "블라인드박스 협업",
+   "폼 헤어 제품",
+   "뷰티테크 스킨케어",
+   "어린이 헤어드라이어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스메틱스 비즈니스가 이달 주목할 신제품을 골라 소개했다.",
+  "key_fact_quote": "Cosmetics Business picks: 7 new beauty launches to know this October",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,57 @@
+{
+ "doc_id": "272a9585037cf2f6",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/dr-jart-signs-katseye-yoonchae-jeung-as-ambassador",
+ "title": "Dr.Jart+ signs Katseye’s Yoonchae Jeung as first North America Brand Ambassador",
+ "summary": "South Korean singer and Katseye girl group member, Yoonchae Jeung, is the new face of Dr.Jart+’s Premium BB Cream, building on the Estée Lauder Companies-owned brand’s ‘legacy’ of collaborating with Korea’s ‘most exciting artists’",
+ "published_at": "2026-10-30T22:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "Dr.Jart+"
+  ],
+  "companies": [
+   "Estée Lauder Companies"
+  ],
+  "keywords": [
+   "K팝 앰배서더",
+   "BB 크림",
+   "북미 시장"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Premium BB Cream",
+    "brand": "Dr.Jart+",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "닥터자르트가 케이팝 가수를 북미 첫 브랜드 앰배서더로 발탁했다.",
+  "key_fact_quote": "South Korean singer and Katseye girl group member, Yoonchae Jeung, is the new face of Dr.Jart+’s Premium BB Cream",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

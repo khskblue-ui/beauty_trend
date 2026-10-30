@@ -1,0 +1,56 @@
+{
+ "doc_id": "8af78f3e07d079e0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00013&news_seq_no=5228187",
+ "title": "데일리랩스, 유혜원과 메이크업 브랜드 출시",
+ "summary": "데일리랩스는 10월 30일 뮤설을 공식 출시 했다고 밝혔습니다. 회사가 처음 선보이는 메이크업 전문 브랜드로... 뮤설은 인플루언서의 뷰티 콘텐츠 경험과 국내 화장품 제조사의 생산 역량을 결합한 브랜드입니다....",
+ "published_at": "2026-10-31T04:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "뮤설"
+  ],
+  "companies": [
+   "데일리랩스"
+  ],
+  "keywords": [
+   "인플루언서 협업 브랜드",
+   "메이크업 브랜드",
+   "인플루언서 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "뮤설",
+    "brand": "데일리랩스",
+    "launch_date": "2026-10-30",
+    "launch_status": "launched",
+    "launch_quote": "데일리랩스는 10월 30일 뮤설을 공식 출시 했다고 밝혔습니다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "데일리랩스가 인플루언서와 함께 첫 메이크업 전문 브랜드를 출시했다.",
+  "key_fact_quote": "데일리랩스는 10월 30일 뮤설을 공식 출시 했다고 밝혔습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "6f044ec0f55b3873",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.nocutnews.co.kr/news/6599892?utm_source=naver&utm_medium=article&utm_campaign=20261030153936",
+ "title": "한일 관세당국, K - 뷰티 위조품 차단·마약 밀수정보 공유 손잡는다",
+ "summary": "이 청장은 \"양국 관세당국 간 공조를 강화해 K - 뷰티 등 우리 핵심 브랜드를 보호하고 역직구 수출 을 지원하는 한편, 국제공조망을 통해 마약류의 국내 반입을 국경단계에서 차단하겠다\"고 밝혔다.",
+ "published_at": "2026-10-30T15:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "관세청"
+  ],
+  "keywords": [
+   "위조품 단속",
+   "역직구 수출",
+   "마약 밀수 정보 공유"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한일 관세당국이 K-뷰티 위조품 차단과 밀수 정보 공유에 손잡는다.",
+  "key_fact_quote": "양국 관세당국 간 공조를 강화해 K - 뷰티 등 우리 핵심 브랜드를 보호하고 역직구 수출 을 지원하는 한편, 국제공조망을 통해 마약류의 국내 반입을 국경단계에서 차단하겠다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

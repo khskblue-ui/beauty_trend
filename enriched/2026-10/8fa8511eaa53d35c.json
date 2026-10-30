@@ -1,0 +1,56 @@
+{
+ "doc_id": "8fa8511eaa53d35c",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312553",
+ "title": "\"성분 넘어 임상 경쟁 시대\"...홈 뷰티도 검증 경쟁 돌입",
+ "summary": "최근 화장품 시장이 새로운 성분을 앞세운 경쟁에서 나아가 효능을 객관적으로 입증하는 경쟁으로 빠르게 전환되고 있는 가운데 홈 뷰티 디바이스 시장에서도 안전성과 효과를 검증하려는 움직임이 나타나고 있다.실제로 글로벌 화학기업 BASF는 최근 뷰티경제와의 인터뷰에서 향후 뷰티 산업의 핵심 경쟁력으로 과학적 효능 입증과 전달기술, 포뮬레이션 과학을 꼽았다.또 BASF는 미래 혁신이 특정 \\'히어로 성분\\' 자체보다 활성 성분과 전달 시스템, 효능 입증, 소비자 경험을 얼마나 효과적으로 결합하느냐에 달려 있다고 진단했다.이 같은 흐름은 홈 뷰",
+ "published_at": "2026-10-30T16:42:05+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "LG 프라엘"
+  ],
+  "companies": [
+   "LG생활건강",
+   "BASF"
+  ],
+  "keywords": [
+   "홈 뷰티 디바이스",
+   "효능 검증",
+   "임상 근거",
+   "뷰티테크"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품과 홈 뷰티 디바이스 시장 모두 효능을 입증하는 경쟁으로 옮겨 가고 있다.",
+  "key_fact_quote": "최근 화장품 시장이 새로운 성분을 앞세운 경쟁에서 나아가 효능을 객관적으로 입증하는 경쟁으로 빠르게 전환되고 있는 가운데 홈 뷰티 디바이스 시장에서도 안전성과 효과를 검증하려는 움직임이 나타나고 있다.",
+  "events": [
+   {
+    "name": "LG 프라엘 피부과학 자문단 1차 연구회",
+    "start_date": "2026-10-22",
+    "end_date": null,
+    "place": "서울 강남구 리을피부과",
+    "quote": "지난 22일 서울 강남구 리을피부과에서 열린 1차 연구회에는 LG생활건강 뷰티연구소 정의택 담당을 비롯한 연구진과 자문위원단이 참석했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": true
+}

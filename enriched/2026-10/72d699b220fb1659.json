@@ -1,0 +1,48 @@
+{
+ "doc_id": "72d699b220fb1659",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.segye.com/newsView/20261030511493?OutUrl=naver",
+ "title": "요즘 화장품 살 때 약사 찾고 성분 따진다…뷰티업계 전문성 경쟁 [트렌...",
+ "summary": "앞서 선보인 캐릭터 ‘폼폼푸린’ 협업 제품은 올리브영에서 출시 2시간 만에 품절됐다. 해외로 유통망을 넓히려는 움직임도 활발하다. 뷰티 브랜드 몽클로스는 호주 화장품 유통업체 W 코스메틱에 입점했다. 현지...",
+ "published_at": "2026-10-30T19:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "AU"
+  ],
+  "brands": [
+   "몽클로스"
+  ],
+  "companies": [
+   "올리브영",
+   "W 코스메틱"
+  ],
+  "keywords": [
+   "성분 중시 소비",
+   "약국 뷰티",
+   "캐릭터 협업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "소비자가 약사 상담과 성분을 따지면서 뷰티업계의 전문성 경쟁이 커지고 있다.",
+  "key_fact_quote": "요즘 화장품 살 때 약사 찾고 성분 따진다…뷰티업계 전문성 경쟁 [트렌...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

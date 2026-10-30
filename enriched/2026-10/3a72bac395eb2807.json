@@ -1,0 +1,44 @@
+{
+ "doc_id": "3a72bac395eb2807",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/ifra-joins-the-china-detergent-safety-seminar-in-nanchang",
+ "title": "IFRA joins the China Detergent Safety Seminar in Nanchang",
+ "summary": "IFRA presented the IFRA Standards and risk-based fragrance safety to around 200 participants at a detergent safety seminar in Nanchang, China.",
+ "published_at": "2026-10-30T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "IFRA"
+  ],
+  "keywords": [
+   "향료 안전 기준",
+   "위험 기반 안전성 평가",
+   "세제 안전"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "IFRA가 중국 난창의 세제 안전 세미나에서 향료 안전 기준을 소개했다.",
+  "key_fact_quote": "IFRA presented the IFRA Standards and risk-based fragrance safety to around 200 participants at a detergent safety seminar in Nanchang, China.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

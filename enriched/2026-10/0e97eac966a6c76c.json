@@ -1,0 +1,47 @@
+{
+ "doc_id": "0e97eac966a6c76c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etoday.co.kr/news/view/2642484",
+ "title": "향은 못 맡아도 소장욕구 자극… 뷰티 업계, 각양각색 연말 ‘모바일 선물...",
+ "summary": "30일 업계에 따르면 지난해 5월 론칭 한 헤어케어 브랜드 퍼리키는 향과 기능, 디자인을 결합한 기획 상품으로... LF 비건 뷰티 브랜드 아떼도 선물하기 채널의 특성을 반영한 전용 상품 기획을 내놨다. 12일 선보인 카카오톡...",
+ "published_at": "2026-10-31T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "퍼리키",
+   "아떼"
+  ],
+  "companies": [
+   "LF"
+  ],
+  "keywords": [
+   "모바일 선물하기",
+   "연말 기획 상품",
+   "비건 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 업계가 연말을 맞아 모바일 선물하기 전용 상품을 내놓고 있다.",
+  "key_fact_quote": "LF 비건 뷰티 브랜드 아떼도 선물하기 채널의 특성을 반영한 전용 상품 기획을 내놨다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

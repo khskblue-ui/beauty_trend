@@ -1,0 +1,74 @@
+{
+ "doc_id": "faab62f8f3601f55",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoultimes.news/news/article.html?no=2000101582",
+ "title": "LG생활건강 프라엘, 피부과학 자문단 발족…홈 뷰티 기기 연구 강화",
+ "summary": "LG생활건강은 갈바닉 부스터와 써마샷 얼티밋, 멜라빔 토닝 등 홈 뷰티 기기를 잇달아 출시 했다. 앞으로 정기적인 자문단 연구회를 통해 신제품 기획 단계부터 피부과 의료진의 의견을 듣기로 했다. 제품 개발에 필요한...",
+ "published_at": "2026-10-30T13:55:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프라엘"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "홈 뷰티 기기",
+   "뷰티테크",
+   "피부과학 자문단"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "갈바닉 부스터",
+    "brand": "프라엘",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "LG생활건강은 갈바닉 부스터와 써마샷 얼티밋, 멜라빔 토닝 등 홈 뷰티 기기를 잇달아 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "써마샷 얼티밋",
+    "brand": "프라엘",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "LG생활건강은 갈바닉 부스터와 써마샷 얼티밋, 멜라빔 토닝 등 홈 뷰티 기기를 잇달아 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "멜라빔 토닝",
+    "brand": "프라엘",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "LG생활건강은 갈바닉 부스터와 써마샷 얼티밋, 멜라빔 토닝 등 홈 뷰티 기기를 잇달아 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "LG생활건강 프라엘이 피부과학 자문단을 발족해 홈 뷰티 기기 연구를 강화한다.",
+  "key_fact_quote": "앞으로 정기적인 자문단 연구회를 통해 신제품 기획 단계부터 피부과 의료진의 의견을 듣기로 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

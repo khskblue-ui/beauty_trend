@@ -1,0 +1,92 @@
+{
+ "doc_id": "fd3d4e6f05cc8944",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/tate-mcrae-launches-namesake,28438",
+ "title": "Tate McRae launches namesake fragrance brand in partnership with Scent Beauty",
+ "summary": "Canadian singer, songwriter, and dancer Tate McRae is entering into the fragrance industry with the launch of Tate 01, created in partnership with New York City-headquartered Scent Beauty, Inc. (AllSaints; Dolly Parton; Kylie Minogue; Megan Moroney; Sabrina Carpenter; Stetson). Crafted in collaboration with Givaudan master perfumers Adriana Medina and Antoine Maisondieu, Tate 01 is described as “a sophisticated approach to second-skin fragrance.” Anchored by Iso E Super, a synthetic... - Industry buzz",
+ "published_at": "2026-10-30T17:44:32+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "US",
+   "CA"
+  ],
+  "brands": [
+   "Tate McRae"
+  ],
+  "companies": [
+   "Scent Beauty",
+   "Givaudan"
+  ],
+  "keywords": [
+   "셀럽 향수",
+   "세컨드 스킨 향",
+   "개인 맞춤형 향",
+   "우디 앰버"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Tate 01",
+    "brand": "Tate McRae",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Canadian singer, songwriter, and dancer Tate McRae is entering into the fragrance industry with the launch of Tate 01",
+    "notes": [
+     "bergamot",
+     "clary sage",
+     "white florals",
+     "amber",
+     "tonka bean",
+     "sandalwood",
+     "soft woods"
+    ],
+    "notes_quote": "The fragrance opens with sparkling bergamot and airy clary sage before unfolding into a heart of white florals. As the scent settles, warm amber, creamy tonka bean, sandalwood, and soft woods meld seamlessly into the skin"
+   }
+  ],
+  "key_fact": "가수 테이트 맥레이가 지방시 조향사와 협업한 이름 내건 향수 브랜드를 선보였다.",
+  "key_fact_quote": "Canadian singer, songwriter, and dancer Tate McRae is entering into the fragrance industry with the launch of Tate 01",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Iso E Super",
+    "quote": "Anchored by Iso E Super, a synthetic chemical with a transparent, soft, velvety, and dry woody-amber scent"
+   },
+   {
+    "name": "bergamot",
+    "quote": "The fragrance opens with sparkling bergamot and airy clary sage before unfolding into a heart of white florals."
+   },
+   {
+    "name": "clary sage",
+    "quote": "The fragrance opens with sparkling bergamot and airy clary sage before unfolding into a heart of white florals."
+   },
+   {
+    "name": "amber",
+    "quote": "As the scent settles, warm amber, creamy tonka bean, sandalwood, and soft woods meld seamlessly into the skin"
+   },
+   {
+    "name": "tonka bean",
+    "quote": "As the scent settles, warm amber, creamy tonka bean, sandalwood, and soft woods meld seamlessly into the skin"
+   },
+   {
+    "name": "sandalwood",
+    "quote": "As the scent settles, warm amber, creamy tonka bean, sandalwood, and soft woods meld seamlessly into the skin"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": true
+}

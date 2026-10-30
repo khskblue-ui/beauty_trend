@@ -1,0 +1,47 @@
+{
+ "doc_id": "2f9dfe68abbc9fa4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=44947",
+ "title": "두 달 만에 2호점 개점… 무신사 뷰티 , 홍대에 이어 성수동에 400평 뷰티 ...",
+ "summary": "서울 성수동이 뷰티 브랜드 들의 지속적인 입점으로 K- 뷰티 를 대표하는 상권으로 자리를 잡아가고 있다. 앞선 올리브영은 성수동에 초대형 매장을 운영하고, 30일 4층 규모의 웰니스 큐레이팅 플랫폼인 올리브베러도 론칭 ...",
+ "published_at": "2026-10-30T15:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사 뷰티",
+   "올리브영"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "뷰티 오프라인 매장",
+   "성수동 상권",
+   "K-뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티가 홍대에 이어 성수동에 대형 뷰티 매장을 연다.",
+  "key_fact_quote": "두 달 만에 2호점 개점… 무신사 뷰티 , 홍대에 이어 성수동에 400평 뷰티 ...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

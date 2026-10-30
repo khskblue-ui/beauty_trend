@@ -1,0 +1,52 @@
+{
+ "doc_id": "3951c494406624b8",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100328",
+ "title": "에바끌레르, KBS 스포츠예술과학원 골프대회 공식 후원",
+ "summary": "에바끌레르 골프화장품은 오늘(30일) 양지파인에서 개최되는 ‘제5회 KBS 스포츠예술과학원 경영자 원우회장배 골프대회'에 후원사로 참여한다고 밝혔다.\"함께하는 열정, 더 큰 내일을 향해!\"라는 슬로건 아래 열린 이번 대회는 KBS 스포츠예술과학원 경영자과정 원우회가 주최하고 서연협동조합이 주관, 경영자과정 원우들 간의 깊은 친목을 다지고, 건강한 체육활동을 통해 상생과 화합을 도모하기 위해 마련됐다. 경기가 끝난 후 진행된 시상식에서는 남·녀 메달리스트를 비롯해 롱기스트상, 니어리스트상, 다버디상, 다파상, 다보기상 등 다양",
+ "published_at": "2026-10-30T13:26:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에바끌레르"
+  ],
+  "companies": [],
+  "keywords": [
+   "골프 화장품",
+   "스포츠 마케팅",
+   "유튜브 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에바끌레르가 골프대회에 후원사로 참여한다.",
+  "key_fact_quote": "에바끌레르 골프화장품은 오늘(30일) 양지파인에서 개최되는 ‘제5회 KBS 스포츠예술과학원 경영자 원우회장배 골프대회'에 후원사로 참여한다고 밝혔다.",
+  "events": [
+   {
+    "name": "제5회 KBS 스포츠예술과학원 경영자 원우회장배 골프대회",
+    "start_date": "2026-10-30",
+    "end_date": null,
+    "place": "양지파인",
+    "quote": "에바끌레르 골프화장품은 오늘(30일) 양지파인에서 개최되는 ‘제5회 KBS 스포츠예술과학원 경영자 원우회장배 골프대회'에 후원사로 참여한다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": true
+}

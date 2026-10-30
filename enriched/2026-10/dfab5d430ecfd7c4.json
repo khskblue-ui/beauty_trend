@@ -1,0 +1,63 @@
+{
+ "doc_id": "dfab5d430ecfd7c4",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100327",
+ "title": "앰플엔, 올리브영 단독 ‘세라마이드샷 앰플’ 대용량 한정 기획세트",
+ "summary": "코리아나화장품의 더마 코스메틱 브랜드 앰플엔이 건조한 FW 시즌을 맞아 올리브영 단독으로 ‘세라마이드샷 앰플’ 대용량 한정 기획세트를 선보인다.이번 기획세트는 앰플엔의 대표 보습 제품인 ‘세라마이드샷 앰플’을 보다 넉넉한 용량으로 경험할 수 있도록 구성한 것이 특징이다. 기존 100ml 본품에 10ml를 추가 증정하던 구성에서 30ml 대용량 증정품으로 혜택을 3배 확대, 총 130ml의 용량을 제공한다.특히 이번 기획세트는 11월부터 오직 올리브영에서만 만나볼 수 있는 단독 한정 상품이다. 본격적인 겨울철을 앞두고 보습 케어에 대",
+ "published_at": "2026-10-30T13:25:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "앰플엔",
+   "올리브영"
+  ],
+  "companies": [
+   "코리아나화장품"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "보습 앰플",
+   "피부 장벽 케어",
+   "올리브영 단독"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "세라마이드샷 앰플",
+    "brand": "앰플엔",
+    "launch_date": "2026-11",
+    "launch_status": "launched",
+    "launch_quote": "코리아나화장품의 더마 코스메틱 브랜드 앰플엔이 건조한 FW 시즌을 맞아 올리브영 단독으로 ‘세라마이드샷 앰플’ 대용량 한정 기획세트를 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "앰플엔이 올리브영 단독으로 세라마이드샷 앰플의 대용량 한정 기획세트를 선보인다.",
+  "key_fact_quote": "코리아나화장품의 더마 코스메틱 브랜드 앰플엔이 건조한 FW 시즌을 맞아 올리브영 단독으로 ‘세라마이드샷 앰플’ 대용량 한정 기획세트를 선보인다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "‘세라마이드샷 앰플’은 세라마이드 성분을 함유한 고농축 보습 앰플이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": true
+}

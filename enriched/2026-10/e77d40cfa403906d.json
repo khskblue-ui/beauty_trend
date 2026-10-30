@@ -1,0 +1,79 @@
+{
+ "doc_id": "e77d40cfa403906d",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58626",
+ "title": "코스메틱저널코리아(CJK) 2026년 11월호 발간, 2028년 화장품 안전성 평가·글로벌 규제 대응 집중 분석",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 코스인이 발행하는 국내 대표 화장품 연구개발(Ramp;D)·마케팅 전문 저널 코스메틱저널코리아(CJK) 2026년 11월호가 발간됐다. 통권 139호인 이번 호는 2028년 화장품 안전성 평가 제도 시행을 앞두고 국내 기업이 준비해야 할 평가자료와 전문인력, 비동물시…",
+ "published_at": "2026-10-30T12:55:49+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스인",
+   "피코스텍",
+   "필코코스팜"
+  ],
+  "keywords": [
+   "화장품 안전성 평가",
+   "비동물시험법",
+   "수출 규제 대응",
+   "바이오 원료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스메틱저널코리아 11월호가 화장품 안전성 평가 제도와 글로벌 규제 대응을 집중 분석했다.",
+  "key_fact_quote": "통권 139호인 이번 호는 2028년 화장품 안전성 평가 제도 시행을 앞두고 국내 기업이 준비해야 할 평가자료와 전문인력, 비동물시험법, 주요 수출국의 규제 변화를 집중 분석했다.",
+  "events": [
+   {
+    "name": "2026 화장품 위해평가 국제심포지엄",
+    "start_date": "2026-10-08",
+    "end_date": null,
+    "place": null,
+    "quote": "지난 10월 8일 열린 ‘2026 화장품 위해평가 국제심포지엄’에는 사전등록자 255명이 참여했다."
+   },
+   {
+    "name": "2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-15",
+    "place": null,
+    "quote": "10월 14일부터 15일까지 열린 ‘2026년 제5회 K-Beauty 수출 규제 대응 컨퍼런스’에서는 국내외 전문가 14명이 EU·영국·아세안·호주·뉴질랜드 등 주요 시장의 제도 변화를 조망했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "하이드록시아세토페논",
+    "quote": "‘현대 제품 보호의 영웅들 8. 하이드록시아세토페논’은 항산화와 진정, 제품 보호 기능을 함께 갖춘 다기능 성분의 특성과 활용법을 풀어내며 처방 설계의 선택지를 넓혀준다."
+   },
+   {
+    "name": "AC Curezyme",
+    "quote": "신원료·신소재 코너에는 모발 내부의 단백질 결합을 강화하는 ‘AC Curezyme: 모발 결합을 강화하는(Bond-Building) 차세대 헤어케어 설루션’을 실었다."
+   },
+   {
+    "name": "재조합 인간 제III형 콜라겐",
+    "quote": "‘재조합 인간 제III형 콜라겐의 구조적 특성 및 피부 관련 세포에서의 생물학적 활성 평가’를 통해 바이오 기반 콜라겐 소재의 구조와 피부 관련 세포에서의 활용 가능성까지 살펴볼 수 있다."
+   },
+   {
+    "name": "카프릴릭애씨드",
+    "quote": "카프릴릭애씨드 기반 천연 공융 용매를 적용한 화장품 크림의 안정성과 유변학, 사용자 인식을 평가한 연구개발뉴스도 함께 만나볼 수 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": true
+}

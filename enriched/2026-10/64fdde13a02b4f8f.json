@@ -1,0 +1,51 @@
+{
+ "doc_id": "64fdde13a02b4f8f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=777882",
+ "title": "에스쁘아, '플럼프 스킨커버 쿠션' 출시...막스마라, 첫 르퍼퓸 선봬",
+ "summary": "향수는 조향사 파브리스 펠레그린과 마리 살라마뉴의 협업으로 탄생했다. 강렬하고 깊이 있는 우디 노트에 섬세하고 여성스러운 튜베로즈 향을 조합해 우아하면서도 세련된 향을 완성했다. 보틀 디자인에도...",
+ "published_at": "2026-10-30T21:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "에스쁘아"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "세더마"
+  ],
+  "keywords": [
+   "롱제비티",
+   "고효능 메이크업",
+   "관리쿠션",
+   "세미 글로우",
+   "비건 인증"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "3560b87dc7a98f79",
+ "enriched_at": "2026-10-30T21:28:32+00:00",
+ "had_body": false
+}

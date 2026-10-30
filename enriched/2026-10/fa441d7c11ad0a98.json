@@ -1,0 +1,44 @@
+{
+ "doc_id": "fa441d7c11ad0a98",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.00news.co.kr/news/articleView.html?idxno=107618",
+ "title": "약국 품은 무신사, 성수에 둥지 튼 400평 뷰티 매장에 쏠린 눈",
+ "summary": "1층은 스킨케어와 메이크업 그리고 향수 상품으로 채웠다. 신생 브랜드 를 따로 모은 '넥스트 뷰티' 구역과 색조 제품을 써 볼 수 있는 '터치업 바'가 들어선다. 약 50㎡(15평) 크기의 단독 팝업 공간도 1층에 마련했다. 자체...",
+ "published_at": "2026-10-30T13:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사"
+  ],
+  "companies": [],
+  "keywords": [
+   "파머시 뷰티",
+   "신진 브랜드",
+   "뷰티 오프라인 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 약사 상담 공간을 갖춘 대형 뷰티 매장을 성수에 연다.",
+  "key_fact_quote": "신생 브랜드 를 따로 모은 '넥스트 뷰티' 구역과 색조 제품을 써 볼 수 있는 '터치업 바'가 들어선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": false
+}

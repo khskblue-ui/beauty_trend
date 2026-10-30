@@ -1,0 +1,48 @@
+{
+ "doc_id": "4a25549b5aee489a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.peoplewatch.co.kr/article/view/ppw202610300007",
+ "title": "무신사, '올리브영 안방' 성수에 400평 뷰티 매장 '도전장'",
+ "summary": "스킨케어와 메이크업, 향수 , 헤어·바디케어 등 700여개 브랜드의 상품 1만여 개를 판매한다. 무신사가 두... 성수동은 팝업스토어와 브랜드 체험 공간이 밀집해 신제품 에 민감한 젊은 소비자와 외국인 관광객의 발길이...",
+ "published_at": "2026-10-30T13:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사 뷰티"
+  ],
+  "companies": [
+   "무신사",
+   "올리브영"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "매장 내 약국",
+   "성수 상권"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "3f5afe5f22aa6aab",
+ "enriched_at": "2026-10-30T21:28:32+00:00",
+ "had_body": false
+}

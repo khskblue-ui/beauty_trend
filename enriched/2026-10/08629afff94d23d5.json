@@ -1,0 +1,100 @@
+{
+ "doc_id": "08629afff94d23d5",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58627",
+ "title": "올리브인터내셔널, 밀크터치 日·美 흥행 글로벌 인재 5개 직무 채용",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 뷰티 브랜드 기업 올리브인터내셔널(대표 이진호)이 색조 브랜드 밀크터치의 일본과 미국 및 유럽 시장 확대를 이끌 제품기획과 글로벌 마케팅 및 BX 분야 인재 채용에 나선다고 30일 밝혔다. 이번 채용은 일본에서 축적한 브랜드 인지도와 미국 타겟(Target) 입점 성…",
+ "published_at": "2026-10-30T13:11:13+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP",
+   "US",
+   "GB",
+   "IT",
+   "RO"
+  ],
+  "brands": [
+   "밀크터치",
+   "성분에디터",
+   "마미케어"
+  ],
+  "companies": [
+   "올리브인터내셔널"
+  ],
+  "keywords": [
+   "K뷰티 색조",
+   "일본 시장",
+   "미국 시장 진출",
+   "글로벌 채용"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "실버베일 티슈 오프 립타투",
+    "brand": "밀크터치",
+    "launch_date": "2026-08",
+    "launch_status": "launched",
+    "launch_quote": "지난 8월 출시한 ‘실버베일 티슈 오프 립타투’는 큐텐재팬(Qoo10 JP) 8월 메가포 전 기간 종합 랭킹 1위를 지켰으며 실시간 랭킹과 누적 판매량 및 누적 판매액에서도 동시에 정상에 올랐다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "듀 스테인 쉬어 립글로스",
+    "brand": "밀크터치",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "일본 뷰티 매체 ‘비테키(美的)’는 듀 스테인 쉬어 립글로스를 베스트 코스메틱 1위로 선정했으며 ‘VOCE’는 아이코닉 롱 마스카라를 2위로 평가했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아이코닉 롱 마스카라",
+    "brand": "밀크터치",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "일본 뷰티 매체 ‘비테키(美的)’는 듀 스테인 쉬어 립글로스를 베스트 코스메틱 1위로 선정했으며 ‘VOCE’는 아이코닉 롱 마스카라를 2위로 평가했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "글로우 핏 컬러 스테인 립 틴트",
+    "brand": "밀크터치",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이후 ‘글로우 핏 컬러 스테인 립 틴트’와 ‘듀이 핏 글로우 세럼 블러쉬’ 등 립·치크 라인을 연이어 선보이며 제품 구성을 보강했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "듀이 핏 글로우 세럼 블러쉬",
+    "brand": "밀크터치",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이후 ‘글로우 핏 컬러 스테인 립 틴트’와 ‘듀이 핏 글로우 세럼 블러쉬’ 등 립·치크 라인을 연이어 선보이며 제품 구성을 보강했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "올리브인터내셔널이 밀크터치의 해외 시장 확대를 이끌 인재를 채용한다.",
+  "key_fact_quote": "뷰티 브랜드 기업 올리브인터내셔널(대표 이진호)이 색조 브랜드 밀크터치의 일본과 미국 및 유럽 시장 확대를 이끌 제품기획과 글로벌 마케팅 및 BX 분야 인재 채용에 나선다고 30일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T21:31:49+00:00",
+ "had_body": true
+}
