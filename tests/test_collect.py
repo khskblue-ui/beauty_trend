@@ -249,3 +249,22 @@ def test_naver_paging_stops_at_the_backfill_window(monkeypatch, tmp_path):
     monkeypatch.setattr(runmod.naver_news, "collect", fake)
     runmod.run(only={"naver_news"}, naver_pages=5, backfill_since=date(2026, 10, 27))
     assert seen == {"pages": 5, "since": date(2026, 10, 27)}
+
+
+def test_rss_skips_excluded_links(monkeypatch):
+    from trend.collect import rss
+
+    class FakeClient:
+        def request(self, url, **kw):
+            from trend.http import Response
+            return Response(url, 200, {}, b"""<rss><channel>
+                <item><title>Sothys celebrates its 80th anniversary</title><link>https://p.test/en/sothys,1</link>
+                <pubDate>Sun, 18 Oct 2026 10:00:00 +0000</pubDate><description>en</description></item>
+                <item><title>Sothys entre dans sa 8e decennie</title><link>https://p.test/fr/sothys,2</link>
+                <pubDate>Sun, 18 Oct 2026 10:00:00 +0000</pubDate><description>fr</description></item>
+                </channel></rss>""")
+
+    monkeypatch.setattr(rss.store, "save_body", lambda *a: None)
+    src = {"id": "pbn", "name": "PBN", "group": "global_trade", "url": "https://p.test/rss", "exclude_link": "/fr/"}
+    res = rss.collect(src, FakeClient(), set())
+    assert [d["url"] for d in res.docs] == ["https://p.test/en/sothys,1"]

@@ -46,6 +46,9 @@ def similar(a: str, b: str, threshold: float = 0.5) -> bool:
 
 def load_month(ym: str, relevant_only: bool = True) -> list[dict]:
     first, last = month_bounds(ym)
+    # links a source no longer collects (PBN's French edition repeats its English articles)
+    excluded = {s["id"]: re.compile(s["exclude_link"]) for s in load("sources").get("rss", [])
+                if s.get("exclude_link")}
     out, seen = [], set()
     for p in sorted((store.data_dir() / "enriched").glob("*/*.json")):
         rec = store.read_json(p)
@@ -53,6 +56,8 @@ def load_month(ym: str, relevant_only: bool = True) -> list[dict]:
         if d is None or not (first <= d <= last):
             continue
         if relevant_only and not rec["extraction"].get("relevant"):
+            continue
+        if rec.get("source") in excluded and excluded[rec["source"]].search(rec.get("url") or ""):
             continue
         # the same article stored under two ids (http and https links, before collect compared
         # url_key) would count twice, e.g. pass the two-article rule for events on its own

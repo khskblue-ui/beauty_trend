@@ -331,6 +331,17 @@ def test_month_counts_an_article_stored_under_two_urls_once(monkeypatch, tmp_pat
     assert [r["doc_id"] for r in load_month("2026-10")] == ["a1", "c3"]
 
 
+def test_month_skips_links_the_source_excludes(monkeypatch, tmp_path):
+    from trend import store, normalize
+    monkeypatch.setenv("DATA_DIR", str(tmp_path))
+    monkeypatch.setattr(normalize, "load", lambda name: {"rss": [{"id": "pbn", "exclude_link": "/fr/"}]})
+    for did, url in (("en1", "https://www.premiumbeautynews.com/en/sothys-celebrates,28367"),
+                     ("fr1", "https://www.premiumbeautynews.com/fr/sothys-entre-dans,28366")):
+        store.write_json(f"enriched/2026-10/{did}.json", {"doc_id": did, "url": url, "title": did, "source": "pbn",
+                         "published_at": "2026-10-18T09:00:00+09:00", "extraction": {"relevant": True}})
+    assert [r["doc_id"] for r in normalize.load_month("2026-10")] == ["en1"]
+
+
 def test_sentence_evidence_names_the_issuing_agency_for_official_notices(monkeypatch):
     from trend import verify
     seen = []

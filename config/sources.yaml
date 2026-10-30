@@ -54,6 +54,8 @@ rss:
     lang: en
     group: global_trade
     fetch_body: true
+    # 피드에 같은 기사의 프랑스어판(/fr/)이 따로 실린다. 영어판만 쓴다(2026-10-30: 같은 제품이 두 번 집계됨)
+    exclude_link: '/fr/'
     # 목록에 페이지 넘김이 없어(debut_articles 무시) 분야별 목록을 합친다(분야마다 최근 30건)
     archive:
       kind: pages

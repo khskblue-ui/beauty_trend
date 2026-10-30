@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import logging
+import re
 import urllib.parse
 import xml.etree.ElementTree as ET
 
@@ -60,6 +61,8 @@ def collect(src: dict, client: Client, known: set[str]) -> Result:
         # Some feeds (Symrise) use site-relative links.
         it["link"] = urllib.parse.urljoin(src["url"], it["link"].strip())
         if keep and not any(k in it["title"] for k in keep):
+            continue
+        if src.get("exclude_link") and re.search(src["exclude_link"], it["link"]):
             continue
         did = doc_id(it["link"])
         body = it["content"] if len(it["content"]) > 300 else None

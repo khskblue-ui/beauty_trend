@@ -20,7 +20,8 @@ def _kw(s: str) -> str:
 
 
 def _nospace(s: str) -> str:
-    return re.sub(r"\s+", "", s).lower()
+    """Spacing, case and apostrophe style ignored ('L’Entropiste' = 'L'Entropiste')."""
+    return re.sub(r"[\s'’‘`]+", "", s).lower()
 
 
 def doc_keywords(d: dict, stop: set[str]) -> set[str]:

@@ -131,7 +131,7 @@
 {% endfor %}
 {% if lg.other %}
 {% for chunk in lg.other|batch(ROWS) %}
-{% call slide('향수 외 신제품', kicker, ('향수 외 신제품은 모두 ' ~ lg.other_total ~ '개입니다(' ~ lg.by_category_text ~ '). 여기에는 업계지가 보도한 제품을 중심으로 ' ~ lg.other|length ~ '개를 싣고, 전체 목록은 PDF에 있습니다.') if loop.first else '', 'sl-table', pg(loop)) %}
+{% call slide('향수 외 신제품', kicker, ('향수 외 신제품은 모두 ' ~ lg.other_total ~ '개입니다(' ~ lg.by_category_text ~ '). 여기에는 업계지가 보도한 제품을 중심으로 ' ~ lg.other|length ~ '개를 싣고, 전체 목록은 PDF 부록에 있습니다.') if loop.first else '', 'sl-table', pg(loop)) %}
 {{ launch_table(chunk) }}
 {% endcall %}
 {% endfor %}

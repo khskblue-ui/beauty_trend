@@ -2,6 +2,15 @@
 {%- macro reduced(name) -%}
 <p class="reduced">자료가 적습니다. {{ S[name].reason }}</p>
 {%- endmacro -%}
+{%- macro launch_table(rows) -%}
+<table>
+  <thead><tr><th>날짜</th><th>브랜드</th><th>제품</th><th>향 노트</th><th>출처</th></tr></thead>
+  <tbody>{% for x in rows %}
+  <tr><td class="d">{{ x.launch_date }}{% if x.date_basis == 'published' %}*{% endif %}</td><td>{{ x.brand or '-' }}</td><td>{{ x.name }}{% if x.press_release %}<span class="tag">보도자료</span>{% endif %}</td>
+      <td>{{ x.notes|join(', ') if x.notes else '-' }}</td><td>{{ cite([x.doc_id]) }}</td></tr>
+  {% endfor %}</tbody>
+</table>
+{%- endmacro -%}
 {%- macro grade(g) -%}{% if g == 'headline' %}<span class="tag">제목, 요약 기준</span>{% elif g == 'official' %}<span class="tag tag-off">공식 문서</span>{% endif %}{%- endmacro -%}
 <!doctype html>
 <html lang="ko">
@@ -29,7 +38,8 @@ ul.sents{padding-left:18px}ul.sents li{margin:7px 0}
 table{width:100%;border-collapse:collapse;font-size:13px;margin:8px 0}
 th,td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--line);vertical-align:top}
 th{color:var(--muted);font-weight:600;background:var(--soft)}
-td.n,th.n{text-align:right;white-space:nowrap}
+td.n,th.n{text-align:right;white-space:nowrap}td.d{white-space:nowrap}
+table.compact{font-size:11.5px}table.compact td{padding:3px 6px}
 .tag{display:inline-block;font-size:11px;padding:0 6px;border-radius:3px;background:var(--soft);color:var(--muted);border:1px solid var(--line);margin-left:4px;white-space:nowrap}
 .tag-off{color:var(--accent)}
 .reduced{background:var(--soft);border-left:3px solid var(--muted);padding:8px 12px;color:var(--muted);font-size:14px}
@@ -100,14 +110,15 @@ td.n,th.n{text-align:right;white-space:nowrap}
 {% endif %}
 
 {% set sec.n = sec.n + 1 %}<h2><span class="num">{{ sec.n }}</span>{{ cfg.sections.launches.title }}</h2>
+{% set lg = launch_groups(agg.launches, cfg.sections.launches.other_max) %}
 {% if agg.launches %}
-<table>
-  <thead><tr><th>날짜</th><th>브랜드</th><th>제품</th><th>향 노트</th><th>출처</th></tr></thead>
-  <tbody>{% for x in agg.launches %}
-  <tr><td>{{ x.launch_date }}{% if x.date_basis == 'published' %}*{% endif %}</td><td>{{ x.brand or '-' }}</td><td>{{ x.name }}{% if x.press_release %}<span class="tag">보도자료</span>{% endif %}</td>
-      <td>{{ x.notes|join(', ') if x.notes else '-' }}</td><td>{{ cite([x.doc_id]) }}</td></tr>
-  {% endfor %}</tbody>
-</table>
+<h3>향수 신제품</h3>
+{% if lg.fragrance %}{{ launch_table(lg.fragrance) }}{% else %}<p class="reduced">분석 기간에 출시가 확인된 향수가 없습니다.</p>{% endif %}
+{% if lg.other %}
+<h3>향수 외 신제품</h3>
+<p class="note">향수 외 신제품은 모두 {{ lg.other_total }}개입니다({{ lg.by_category_text }}). 업계지가 보도한 제품을 중심으로 {{ lg.other|length }}개를 싣고, 전체 목록은 부록에 있습니다.</p>
+{{ launch_table(lg.other) }}
+{% endif %}
 {% endif %}
 {% if S.launches.status != 'ok' %}{{ reduced('launches') }}{% else %}<p class="note">분석 기간에 출시됐다고 기사로 확인된 제품만 실었습니다.</p>{% endif %}
 {% if agg.launches|selectattr('date_basis', 'equalto', 'published')|list %}<p class="note">날짜는 기사에 적힌 출시일이고, * 표시가 붙은 날짜는 출시일이 기사에 없어 기사가 나온 날을 적은 것입니다.</p>{% endif %}
@@ -165,6 +176,16 @@ td.n,th.n{text-align:right;white-space:nowrap}
 {% if S.signals.status != 'hidden' %}{% set sec.n = sec.n + 1 %}<h2><span class="num">{{ sec.n }}</span>{{ cfg.sections.signals.title }}</h2>{% endif %}
 
 {% set sec.n = sec.n + 1 %}<h2><span class="num">{{ sec.n }}</span>부록</h2>
+{% if lg.other|length < lg.other_total %}
+<h3>신제품 전체 목록</h3>
+<p class="note">분석 기간에 출시가 확인된 제품 {{ agg.launches|length }}개입니다. 제품 이름을 누르면 기사가 열립니다.</p>
+<table class="compact">
+  <thead><tr><th>날짜</th><th>브랜드</th><th>제품</th><th>매체</th></tr></thead>
+  <tbody>{% for x in agg.launches|sort(attribute='launch_date') %}
+  <tr><td class="d">{{ x.launch_date }}{% if x.date_basis == 'published' %}*{% endif %}</td><td>{{ x.brand or '-' }}</td><td><a href="{{ x.url }}" target="_blank" rel="noopener">{{ x.name }}</a></td><td>{{ x.source_name }}</td></tr>
+  {% endfor %}</tbody>
+</table>
+{% endif %}
 <h3>출처</h3>
 <!--SOURCES-->
 <p class="note">AI가 자동으로 만든 리포트입니다. 자사 제품 포트폴리오는 반영하지 않았습니다. 숫자는 공개 자료의 상대값이므로 중요한 내용은 원문으로 확인하시기 바랍니다.</p>
