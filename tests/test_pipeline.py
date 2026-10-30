@@ -360,3 +360,31 @@ def test_generic_product_names_are_not_rows():
         assert generic_product(n), n
     for n in ("Tate 01", "e.l.f. POP", "myBLEMISHpen", "르 퍼퓸", "버블세럼", "Festin", "신제품 세럼 3종"):
         assert not generic_product(n), n
+
+
+def test_search_trend_puts_a_fifth_keyword_in_a_second_request(monkeypatch):
+    from trend import datalab
+    calls = []
+
+    def fake_post(path, body):
+        names = [g["groupName"] for g in body["keywordGroups"]]
+        calls.append(names)
+        scale = 50 if len(names) == 2 else 100          # ratios are scaled per request
+        return {"results": [{"title": n, "data": [{"period": "2026-09-01", "ratio": scale * (1 if n == "화장품" else 0.5)}]}
+                            for n in names]}
+    monkeypatch.setattr(datalab, "_post", fake_post)
+    monkeypatch.setattr(datalab, "_period", lambda *a, **k: ("2026-05-01", "2026-09-30"))
+    out = datalab.search_trend(["a", "b", "c", "d", "e"], "화장품", "2026-09")
+    assert calls == [["화장품", "a", "b", "c", "d"], ["화장품", "e"]]
+    assert set(out["series"]) == {"화장품", "a", "b", "c", "d", "e"}
+    assert out["series"]["e"][0]["vs_anchor"] == out["series"]["a"][0]["vs_anchor"] == 0.5
+
+
+def test_line_chart_end_labels_stay_above_the_month_labels():
+    import re
+    from trend.render import line_chart
+    pt = lambda v: [{"period": "2026-09-01", "vs_anchor": v}, {"period": "2026-10-01", "vs_anchor": v}]
+    svg = str(line_chart({"화장품": pt(1.0), "a": pt(1.2), "b": pt(0.01), "c": pt(0.02), "d": pt(0.0), "e": pt(0.03)}, "화장품"))
+    ys = [float(y) for y in re.findall(r'<text x="[\d.]+" y="([\d.]+)" class="label"', svg)]
+    assert len(ys) == 5 and max(ys) <= 220 - 28 + 4      # plot bottom + baseline offset, above the ticks
+    assert all(abs(a - b) >= 14 for i, a in enumerate(ys) for b in ys[i + 1:])

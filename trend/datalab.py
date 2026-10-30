@@ -35,22 +35,28 @@ def _period(end_ym: str, months: int, until=None) -> tuple[str, str]:
 
 
 def search_trend(terms: list[str], anchor: str, end_ym: str, months: int = 6, until=None) -> dict:
-    """Monthly ratios for up to 4 terms + anchor in ONE request (same scale).
+    """Monthly ratios of each term against the anchor term.
 
-    Returns {term: [{period, ratio, vs_anchor}]} where vs_anchor = ratio / anchor ratio.
+    One request holds the anchor and up to 4 terms (the API takes 5 groups); a fifth
+    keyword goes in a second request with the same anchor. Ratios are scaled per request,
+    but vs_anchor = ratio / anchor ratio is not, so the series compare across requests.
+    Returns {term: [{period, ratio, vs_anchor}]}.
     """
     start, end = _period(end_ym, months, until)
-    groups = [{"groupName": anchor, "keywords": [anchor]}] + [
-        {"groupName": t, "keywords": [t]} for t in terms[:4]]
-    d = _post("/search-trend/v1/search", {"startDate": start, "endDate": end,
-                                          "timeUnit": "month", "keywordGroups": groups})
-    series = {r["title"]: {x["period"]: x["ratio"] for x in r["data"]} for r in d["results"]}
-    base = series.get(anchor, {})
     out = {}
-    for t, s in series.items():
-        out[t] = [{"period": p, "ratio": round(v, 2),
-                   "vs_anchor": round(v / base[p], 4) if base.get(p) else None}
-                  for p, v in sorted(s.items())]
+    for i in range(0, max(len(terms), 1), 4):
+        groups = [{"groupName": anchor, "keywords": [anchor]}] + [
+            {"groupName": t, "keywords": [t]} for t in terms[i:i + 4]]
+        d = _post("/search-trend/v1/search", {"startDate": start, "endDate": end,
+                                              "timeUnit": "month", "keywordGroups": groups})
+        series = {r["title"]: {x["period"]: x["ratio"] for x in r["data"]} for r in d["results"]}
+        base = series.get(anchor, {})
+        for t, s in series.items():
+            if t == anchor and anchor in out:
+                continue
+            out[t] = [{"period": p, "ratio": round(v, 2),
+                       "vs_anchor": round(v / base[p], 4) if base.get(p) else None}
+                      for p, v in sorted(s.items())]
     return {"start": start, "end": end, "anchor": anchor, "series": out}
 
 

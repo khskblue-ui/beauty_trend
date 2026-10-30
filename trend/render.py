@@ -63,7 +63,7 @@ def line_chart(series: dict, anchor: str, width: int = 640, height: int = 220) -
     w, h = width - pad_l - pad_r, height - pad_t - pad_b
     x = lambda i: pad_l + (w * i / max(1, len(periods) - 1))
     y = lambda v: pad_t + h - h * v / vmax
-    colors = ["#2a6f97", "#c0587e", "#e09f3e", "#4f772d"]
+    colors = ["#2a6f97", "#c0587e", "#e09f3e", "#4f772d", "#7b5ea7"]
     parts = [f'<svg class="chart" viewBox="0 0 {width} {height}" role="img" '
              f'aria-label="검색 지수 상대값 추이(기준: {html.escape(anchor)})">']
     for k in range(4):
@@ -79,6 +79,11 @@ def line_chart(series: dict, anchor: str, width: int = 640, height: int = 220) -
     for yy, t in ends:
         yy = max(yy, last_y + 14)
         label_y[t], last_y = yy, yy
+    # ...and stay above the month labels: several near-zero series pushed the last one onto them
+    floor = pad_t + h
+    for _, t in reversed(ends):
+        label_y[t] = min(label_y[t], floor)
+        floor = label_y[t] - 14
     for ci, t in enumerate(terms):
         c = colors[ci % len(colors)]
         xy = [(x(i), y(v)) for i, (_, v) in enumerate(pts[t]) if v is not None]
