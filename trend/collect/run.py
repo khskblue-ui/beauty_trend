@@ -60,7 +60,10 @@ def run(only: set[str] | None = None, naver_pages: int = 1,
                 res.source = src["id"]
                 results.append((src["id"] + "+backfill", res))
     if want("naver_news"):
-        results.append(("naver_news", naver_news.collect(cfg["naver_news"], client, pages=naver_pages, since=since)))
+        # extra pages stop at the backfill window too: a busy query ('K뷰티 수출' on 10/26)
+        # fills its first 100 results within a day
+        results.append(("naver_news", naver_news.collect(cfg["naver_news"], client, pages=naver_pages,
+                                                         since=since or backfill_since)))
 
     day = now_kst().date().isoformat()
     # a second run on the same day (Actions for MFDS, the work session for the rest) adds to

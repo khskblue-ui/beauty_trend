@@ -31,7 +31,9 @@ export DATA_DIR=data
 
 ## 매일 (06:30 KST)
 
-1. 수집: `python -m trend collect --backfill-since "$(TZ=Asia/Seoul date -d '3 days ago' +%F)"`
+1. 수집: `python -m trend collect --naver-pages 5 --backfill-since "$(TZ=Asia/Seoul date -d '3 days ago' +%F)"`
+   (네이버는 검색어마다 사흘 전 기사가 나올 때까지 최대 5쪽을 읽는다. 첫 쪽 100건만 읽던 때는
+   10/26 'K뷰티 수출'처럼 기사가 몰린 날 58건을 놓쳤다)
 2. 정리: `python -m trend enrich` → 결과의 `waiting_for_answers`가 0이 될 때까지 아래를 되풀이한다.
    - `python -m trend llm export --role enrich --out work/enrich_<k>.json --limit 40`
      (내보낸 요청은 '배정됨'으로 표시돼 다음 내보내기에서 빠진다. 일꾼이 실패하면 `--again`으로 다시 내보낸다)

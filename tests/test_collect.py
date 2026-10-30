@@ -223,3 +223,19 @@ def test_later_run_on_the_same_day_clears_an_earlier_failure(monkeypatch, tmp_pa
     assert h["sources"]["thebk"] == {"ok": True, "seen": 1, "new": 1, "error": None, "note": None}
     assert h["this_run"] == {"thebk": True}
     assert "this_run" not in store.read_json(tmp_path / "health" / "2026-10-30.json")
+
+
+def test_naver_paging_stops_at_the_backfill_window(monkeypatch, tmp_path):
+    from datetime import date
+    from trend.collect import run as runmod
+    from trend.collect import Result
+    monkeypatch.setenv("DATA_DIR", str(tmp_path))
+    monkeypatch.setattr(runmod, "load", lambda n: {"naver_news": {"queries": []}})
+    seen = {}
+
+    def fake(cfg, client, pages=1, since=None):
+        seen.update(pages=pages, since=since)
+        return Result("naver_news", True, [])
+    monkeypatch.setattr(runmod.naver_news, "collect", fake)
+    runmod.run(only={"naver_news"}, naver_pages=5, backfill_since=date(2026, 10, 27))
+    assert seen == {"pages": 5, "since": date(2026, 10, 27)}
