@@ -86,9 +86,11 @@
       root.classList.add('static');
       slides.forEach(reveal);
     } else {
+      // any part in the lower 88% of the window: a ratio threshold never fires for a section
+      // taller than the window several times over (the full launch list)
       var io = new IntersectionObserver(function (es) {
         es.forEach(function (e) { if (e.isIntersecting) { reveal(e.target); io.unobserve(e.target); } });
-      }, { threshold: 0.12 });
+      }, { threshold: 0, rootMargin: '0px 0px -12% 0px' });
       slides.forEach(function (s) { io.observe(s); });
     }
     var from = null;
