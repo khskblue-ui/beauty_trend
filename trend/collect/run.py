@@ -48,7 +48,10 @@ def run(only: set[str] | None = None, naver_pages: int = 1,
         results.append(naver_news.collect(cfg["naver_news"], client, pages=naver_pages, since=since))
 
     day = now_kst().date().isoformat()
-    health = {"day": day, "finished_at": utcnow_iso(), "sources": {}}
+    # a second run on the same day (Actions for MFDS, the work session for the rest) adds to
+    # the day's record instead of replacing it
+    prev = store.read_json(store.data_dir() / "health" / f"{day}.json", {}) or {}
+    health = {"day": day, "finished_at": utcnow_iso(), "sources": dict(prev.get("sources", {}))}
     for res in results:
         # same article under another id (http vs https, www): skip it too
         new = [d for d in res.docs if d["doc_id"] not in known and url_key(d["url"]) not in known_urls]

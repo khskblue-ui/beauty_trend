@@ -160,3 +160,16 @@ def test_backfill_list_by_day_reads_one_list_per_day(monkeypatch):
            "archive": {"kind": "list", "url": "https://t.test/l?sdate={day}", "link_pattern": r"idxno=\d+$"}}
     res = backfill.collect(src, C(), date(2026, 10, 1), date(2026, 10, 3), {})
     assert sorted(d["title"] for d in res.docs) == ["기사 01", "기사 02", "기사 03"]
+
+
+def test_second_collect_run_on_a_day_keeps_the_first_runs_health(monkeypatch, tmp_path):
+    from trend import store
+    from trend.collect import run as runmod
+    from trend.collect import Result
+    monkeypatch.setenv("DATA_DIR", str(tmp_path))
+    store.write_json("health/2026-10-30.json", {"day": "2026-10-30", "sources": {"jangup": {"ok": True, "new": 5}}})
+    monkeypatch.setattr(runmod, "now_kst", lambda: __import__("datetime").datetime(2026, 10, 30, 5, 47))
+    monkeypatch.setattr(runmod, "load", lambda n: {"rss": [{"id": "mfds_press"}]})
+    monkeypatch.setattr(runmod.rss, "collect", lambda src, client, known: Result("mfds_press", True, []))
+    h = runmod.run(only={"mfds_press"})
+    assert set(h["sources"]) == {"jangup", "mfds_press"}
