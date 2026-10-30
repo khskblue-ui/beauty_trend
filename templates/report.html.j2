@@ -58,7 +58,7 @@ td.n,th.n{text-align:right;white-space:nowrap}
 <section class="cover">
   <h1>{{ cfg.title }}</h1>
   <div class="meta">
-    <span>분석 기간</span><span>{{ period.start }} ~ {{ period.end }}(한국 시간){% if period.interim %}, 월중 중간 보고라 전월 비교는 넣지 않음{% endif %}</span>
+    <span>분석 기간</span><span>{{ period.start }} ~ {{ period.end }}(한국 시간){% if period.interim %}, 월말 전 자료라 전월 비교는 넣지 않음{% endif %}</span>
     <span>자료 기준</span><span>기사, 규제 {{ period.start }} ~ {{ period.end }}, 네이버 데이터랩 {{ period.end }}까지(월별 상대값), 수출입 통계는 아직 싣지 않음</span>
     <span>분석한 기사</span><span>{{ agg.counts.docs }}건(서로 다른 소식 {{ agg.counts.clusters }}건)</span>
     <span>작성</span><span>{{ generated }}</span>

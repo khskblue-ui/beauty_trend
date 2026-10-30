@@ -177,7 +177,7 @@ td.mono{white-space:nowrap}
         <div class="stat"><b data-count="{{ agg.counts.clusters }}">{{ agg.counts.clusters }}</b><span>서로 다른 소식</span></div>
         <div class="stat"><b data-count="{{ agg.launches|length }}">{{ agg.launches|length }}</b><span>출시가 확인된 신제품</span></div>
       </div>
-      <p class="note rv" style="--i:3">분석 기간 {{ period.start }} ~ {{ period.end }}(한국 시간){% if period.interim %}, 월중 중간 보고라 전월 비교는 넣지 않음{% endif %}, 수출입 통계는 아직 싣지 않음, 작성 {{ generated }}</p>
+      <p class="note rv" style="--i:3">분석 기간 {{ period.start }} ~ {{ period.end }}(한국 시간){% if period.interim %}, 월말 전 자료라 전월 비교는 넣지 않음{% endif %}, 수출입 통계는 아직 싣지 않음, 작성 {{ generated }}</p>
       <div class="rv" style="--i:4">{{ b.banners() }}</div>
     </div>
   </div>

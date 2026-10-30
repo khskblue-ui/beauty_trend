@@ -163,7 +163,7 @@ def test_interim_period():
     assert p == {"start": "2026-10-01", "end": "2026-10-15", "interim": True}
     assert period("2026-09", date(2026, 10, 1))["interim"] is False
     ctx = with_period({"month": "2026-10", "period": p})
-    assert ctx["period"]["span"] == "10월 1~15일" and ctx["period"]["tag"] == "2026-10 중간"
+    assert ctx["period"]["span"] == "10월 1~15일" and ctx["period"]["tag"] == "2026-10 (1~15일)"
     assert with_period({"month": "2026-09"})["period"]["end"] == "2026-09-30"
 
 

@@ -229,7 +229,8 @@ def with_period(ctx: dict) -> dict:
                                    "interim": False})
     end_day = int(p["end"][8:])
     p["span"] = f"{first.month}월 {first.day}~{end_day}일" if p["interim"] else f"{first.month}월"
-    p["tag"] = f"{ctx['month']} 중간" if p["interim"] else ctx["month"]
+    # a report before the month ends names its day range (1~15일, 1~30일), not "interim"
+    p["tag"] = f"{ctx['month']} ({first.day}~{end_day}일)" if p["interim"] else ctx["month"]
     ctx["period"] = p
     return ctx
 
