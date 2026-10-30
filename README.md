@@ -11,7 +11,7 @@
 | 매월 25일 09:47 KST | `report-monthly` | 이번 달 드라이런(유지보수자에게만) |
 | 매월 1일 09:47 KST | `report-monthly` | 전월 리포트 생성 → 품질 게이트 → 발행 또는 보류 |
 
-결과물: PDF(상사 제출용 문서) + 슬라이드형 모션 HTML(`templates/motion/`, 시안 A·B·C). 수집 현황·방법론은 유지보수자 메일에만 들어갑니다.
+결과물: PDF(상사 제출용 문서) + 슬라이드형 모션 HTML(`templates/motion/`, 시안 A·B·C, 기본 B안). PDF는 B안 보고서형 HTML을 A4로 찍은 것이고(2026-10-30부터), B안을 만들지 않으면 기본 템플릿(`templates/report.html.j2`)으로 찍습니다. 수집 현황·방법론은 유지보수자 메일에만 들어갑니다.
 
 월간 단계: `normalize`(중복 묶기·보도자료 태그·엔티티) → `aggregate`(숫자는 모두 코드) → `write`(Gemini, 문장마다 출처·원문 인용) → `verify`(인용 일치·숫자 금지·엔티티·근거 함의, 실패 문장 삭제) → `gate`(섹션 최소 기준, 핵심 과반 미달 시 보류) → `render`(HTML·PDF) → `deliver`(SMTP).
 
