@@ -16,13 +16,18 @@ STRIP = re.compile(r"<(script|style|figure|figcaption|table|iframe)[^>]*>.*?</\1
 # Site notices and footers that the paragraph fallback picks up (seen on cosinkorea, cosmorning)
 BOILERPLATE = re.compile(r"Internet Explorer|최신 브라우저|All Rights Reserved|Copyright|사업자등록번호|"
                          r"인터넷신문 등록|청소년보호책임자|무단전재|무단 전재", re.I)
+# Premium Beauty News closes each page with 3~4 cut-off summaries of other articles
+# ("...will once again be an opportunity for..."); their events and ingredients are not this article's
+TEASER = re.compile(r"(\.\.\.|…)\s*$")
 
 
 def clean_body(text: str | None) -> str | None:
-    """Drop notice/footer lines; returns None when nothing is left."""
+    """Drop notice/footer lines and trailing related-article teasers; None when nothing is left."""
     if not text:
         return text
     lines = [ln for ln in text.split("\n") if not BOILERPLATE.search(ln)]
+    while lines and (not lines[-1].strip() or TEASER.search(lines[-1])):
+        lines.pop()
     return "\n".join(lines).strip() or None
 
 

@@ -105,6 +105,16 @@ def test_clean_body_drops_site_notices_and_footers():
     assert clean_body(t) == "유씨엘이 바디케어 트렌드북을 발표했다."
 
 
+def test_clean_body_drops_trailing_teasers_of_other_articles():
+    from trend.collect.article import clean_body
+    t = ("Symrise has inaugurated a new production site in Grasse.\n"
+         "“Grasse gives Lautier 1795 deep roots...” is how the CEO put it, and the site opens this month.\n"
+         "This summer, dsm-firmenich opened the fields of the Plateau d’Albion in Provence, France, to the...\n"
+         "The 2026 edition of in-cosmetics Global, which will be held in Paris from April 14 to 16, 2026, will…\n")
+    assert clean_body(t) == ("Symrise has inaugurated a new production site in Grasse.\n"
+                             "“Grasse gives Lautier 1795 deep roots...” is how the CEO put it, and the site opens this month.")
+
+
 def test_backfill_list_ignores_repeated_sidebar_links(monkeypatch):
     from datetime import date
     from trend.collect import backfill
