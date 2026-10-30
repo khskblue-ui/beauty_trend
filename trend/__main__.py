@@ -2,6 +2,7 @@
 
   collect [--only a,b] [--since YYYY-MM-DD] [--naver-pages N] [--backfill-since YYYY-MM-DD]
   enrich  [--month YYYY-MM] [--limit N] [--upgrade] [--workers N] [--yes]
+  feed-list --ids a,b                 audit: all items a feed holds now (for sources the session cannot reach)
   check-products [--month YYYY-MM]   daily: verdicts for new notes/launch claims (bodies on disk)
   llm pending|export|import         session backend: list, hand out and take back model work
   deliver --run-dir DIR             mail a finished run (Actions, after the session commits it)
@@ -42,6 +43,8 @@ def main(argv=None) -> int:
     rr = sub.add_parser("render")
     rr.add_argument("--run-dir", required=True)
     rr.add_argument("--no-pdf", action="store_true")
+    fl = sub.add_parser("feed-list")
+    fl.add_argument("--ids", required=True, help="RSS source ids, comma separated")
     cp = sub.add_parser("check-products")
     cp.add_argument("--month")
     lm = sub.add_parser("llm")
@@ -81,6 +84,29 @@ def main(argv=None) -> int:
         from .report import rerender
         paths = rerender(a.run_dir, pdf=not a.no_pdf)
         print(json.dumps({k: str(v) for k, v in paths.items()}, ensure_ascii=False, indent=1))
+        return 0
+    if a.cmd == "feed-list":
+        # audit: every item a feed holds right now (date, title, whether the title filter keeps it)
+        from .collect.rss import parse_feed
+        from .config import load
+        from .http import Client
+        from .util import kst_date, parse_date, to_kst_iso
+        cfg = {s["id"]: s for s in load("sources")["rss"]}
+        client = Client()
+        for sid in a.ids.split(","):
+            src = cfg[sid]
+            r = client.request(src["url"])
+            if not r.ok:
+                print(json.dumps({"id": sid, "error": r.error or r.status}, ensure_ascii=False))
+                continue
+            items = parse_feed(r.body)
+            keep = src.get("title_filter")
+            dates = [kst_date(to_kst_iso(parse_date(i["date"], src.get("naive_tz", "UTC")))) for i in items]
+            print(json.dumps({"id": sid, "items": len(items), "oldest": str(min(d for d in dates if d)),
+                              "newest": str(max(d for d in dates if d))}, ensure_ascii=False))
+            for i, d in zip(items, dates):
+                ok = not keep or any(k in i["title"] for k in keep)
+                print(f"  {d} {'KEEP' if ok else 'skip'} {i['title'][:90]}")
         return 0
     if a.cmd == "check-products":
         from .normalize import load_month

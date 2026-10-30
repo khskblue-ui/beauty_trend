@@ -1,0 +1,29 @@
+# 수동 점검: 작업 세션 환경에서 접속이 안 되는 피드(식약처 등)가 지금 어떤 항목을 들고 있는지
+# 러너에서 날짜, 제목, 걸러 내기 통과 여부로 출력한다. 수집하지 않고 아무것도 커밋하지 않는다.
+name: feed-check
+
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: "RSS 소스 id(쉼표 구분)"
+        required: true
+        default: "mfds_press,mfds_notice,mfds_preannounce,mfds_law"
+
+permissions:
+  contents: read
+
+jobs:
+  list:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml==6.0.1
+      - name: List feed items
+        env:
+          IDS: ${{ inputs.ids }}
+        run: python -m trend feed-list --ids "$IDS"
