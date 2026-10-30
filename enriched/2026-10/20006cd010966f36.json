@@ -1,0 +1,45 @@
+{
+ "doc_id": "20006cd010966f36",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.segye.com/newsView/20261026507503?OutUrl=naver",
+ "title": "KTR, 국내 시험기관 최초 클린화장품 단체표준 제정",
+ "summary": "화장품 수출 기업의 환경규제 대응 전략을 공유했다. 이승렬 KTR 원장은 “단체표준 제정과 인증을 통해 클린화장품의 품질 기준을 제시하고 K -클린 뷰티 에 대한 신뢰를 높이는 데 기여할 수 있게 됐다”며 “국내...",
+ "published_at": "2026-10-26T11:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "KTR"
+  ],
+  "keywords": [
+   "클린 뷰티",
+   "단체표준",
+   "포장 규제 대응"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "3f061625ec261feb",
+ "enriched_at": "2026-10-30T04:04:54+00:00",
+ "had_body": false
+}

@@ -1,0 +1,48 @@
+{
+ "doc_id": "7f05f7fa7ae13d01",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312431",
+ "title": "China Emerges as Both a Beauty Powerhouse and a Major Consumer Market",
+ "summary": "China\\'s cosmetics industry is entering a new phase of global relevance.According to September trade data released by China\\'s General Administration of Customs, the country\\'s cosmetics exports reached 2.10 billion yuan, up 47.0% year-on-year, while cosmetics imports climbed 13.0% to 8.64 billion yuan",
+ "published_at": "2026-10-29T11:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR",
+   "US",
+   "FR",
+   "GB",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "중국 뷰티 브랜드",
+   "C뷰티",
+   "한중 경쟁 심화",
+   "프리미엄 화장품 수입"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 화장품 수출이 수입보다 훨씬 빠르게 늘면서 중국 뷰티 브랜드의 해외 확장이 두드러졌다.",
+  "key_fact_quote": "China's cosmetics exports significantly outpaced import growth in September, underlining the rapid international expansion of Chinese beauty brands.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": true
+}

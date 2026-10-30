@@ -1,0 +1,57 @@
+{
+ "doc_id": "a6b898d5701dedf3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261030_0003847622",
+ "title": "NS홈쇼핑, 고기능성 뷰티 공략…'구노 쥬락실 앰플' 첫선",
+ "summary": "NS홈쇼핑이 고기능성 홈케어 제품에 대한 수요에 맞춰 뷰티 브랜드 구노(GÓUNOD)의 피부 탄력 관리 제품... 론칭 방송에서는 5㎖ 앰플 5병으로 구성된 제품을 3박스 15만9000원, 6박스 25만8000원에 판매한다.",
+ "published_at": "2026-10-30T08:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "구노"
+  ],
+  "companies": [
+   "NS홈쇼핑"
+  ],
+  "keywords": [
+   "홈쇼핑 뷰티",
+   "고기능성 앰플",
+   "탄력 케어",
+   "홈케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "쥬락실 앰플",
+    "brand": "구노",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "NS홈쇼핑, 고기능성 뷰티 공략…'구노 쥬락실 앰플' 첫선",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "NS홈쇼핑이 뷰티 브랜드 구노의 피부 탄력 관리 앰플을 처음 선보였다.",
+  "key_fact_quote": "NS홈쇼핑, 고기능성 뷰티 공략…'구노 쥬락실 앰플' 첫선",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

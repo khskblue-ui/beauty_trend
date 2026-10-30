@@ -1,0 +1,45 @@
+{
+ "doc_id": "c35f9b69add24f33",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/skin-care/enhanse-skin-care-nordstrom-launch-1239389023/",
+ "title": "EXCLUSIVE: Men’s Skin Care Brand Enhanse Makes Its Inaugural Move Into Brick-and-Mortar",
+ "summary": "The brand, founded by fashion veteran Evangelo Bousis, is hitting Nordstrom stores nationwide.",
+ "published_at": "2026-10-30T13:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Enhanse"
+  ],
+  "companies": [
+   "Nordstrom"
+  ],
+  "keywords": [
+   "남성 스킨케어",
+   "오프라인 매장 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "남성 스킨케어 브랜드 Enhanse가 처음으로 오프라인 매장에 진출해 전국 Nordstrom 매장에 입점한다.",
+  "key_fact_quote": "The brand, founded by fashion veteran Evangelo Bousis, is hitting Nordstrom stores nationwide.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "a00012ad02aa6cfb",
+ "source": "mfds_press",
+ "source_name": "식약처 보도자료",
+ "group": "regulation",
+ "lang": "ko",
+ "url": "https://www.mfds.go.kr/brd/m_99/view.do?seq=50444",
+ "title": "[보도참고] 식약처, '식품첨가물 향료 바로 알기：자주 묻는 질의·응답집' 발간",
+ "summary": "",
+ "published_at": "2026-10-29T07:59:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "식품 향료",
+   "식품첨가물 규제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식약처가 식품첨가물 향료에 관해 자주 묻는 질문과 답변을 모은 자료집을 발간했다.",
+  "key_fact_quote": "식약처, '식품첨가물 향료 바로 알기：자주 묻는 질의·응답집' 발간",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

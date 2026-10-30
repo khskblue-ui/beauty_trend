@@ -1,0 +1,49 @@
+{
+ "doc_id": "95778c7c3d8dbf33",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=107329",
+ "title": "설화수, 영국 해롯백화점 입점...유럽 럭셔리 뷰티 시장 공략",
+ "summary": "우먼타임스 = 심은혜 기자 아모레퍼시픽의 화장품 브랜드 설화수가 영국 럭셔리 백화점 해롯에 매장을 열고... 사전 출시 할 계획이다. 매장에는 페이셜·핸드 트리트먼트로 구성된 '홀리스틱 터치' 스파 프로그램도...",
+ "published_at": "2026-10-27T09:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "해롯"
+  ],
+  "keywords": [
+   "럭셔리 뷰티",
+   "인삼 스킨케어",
+   "유럽 진출",
+   "스킨 롱제비티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "4918cba4b7e8437d",
+ "enriched_at": "2026-10-30T04:04:54+00:00",
+ "had_body": false
+}

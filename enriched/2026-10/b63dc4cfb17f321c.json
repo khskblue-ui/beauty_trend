@@ -1,0 +1,41 @@
+{
+ "doc_id": "b63dc4cfb17f321c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365236",
+ "title": "K뷰티 앞세운 바이오헬스, 3분기 최대 수출",
+ "summary": "한국 바이오헬스산업의 올해 1~3분기 누적 수출 이 역대 같은 기간 기준 최고치를 갈아치웠다. 화장품이 수출 증가를 이끌고 바이오의약품이 뒷받침하면서, 올해 연간 수출 이 처음으로 300억 달러 선을 넘을 것이라는...",
+ "published_at": "2026-10-27T11:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "바이오헬스 수출",
+   "화장품 수출 증가"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 수출이 늘면서 한국 바이오헬스산업의 올해 누적 수출이 같은 기간 기준 역대 최고치를 기록했다.",
+  "key_fact_quote": "한국 바이오헬스산업의 올해 1~3분기 누적 수출 이 역대 같은 기간 기준 최고치를 갈아치웠다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

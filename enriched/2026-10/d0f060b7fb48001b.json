@@ -1,0 +1,46 @@
+{
+ "doc_id": "d0f060b7fb48001b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/industry/2026/10/26/2026102609172869772",
+ "title": "한진, 캐나다 토론토 풀필먼트 센터 가동… K - 뷰티 북미 물류망 확장",
+ "summary": "한진이 캐나다 토론토에 풀필먼트 센터를 새로 가동하며 K - 뷰티 수출 기업을 위한 북미 물류 거점을 확대한다. 지난 2월 미국 로스앤젤레스(LA) 풀필먼트 센터를 세 번째 확장한 데 이어 캐나다까지 현지 물류망을 넓힌...",
+ "published_at": "2026-10-26T09:29:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CA"
+  ],
+  "brands": [],
+  "companies": [
+   "한진"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "풀필먼트",
+   "북미 물류"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "29a3cf81ab5fd053",
+ "enriched_at": "2026-10-30T04:04:54+00:00",
+ "had_body": false
+}

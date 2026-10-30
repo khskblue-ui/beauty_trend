@@ -1,0 +1,47 @@
+{
+ "doc_id": "18bf3846b7fea7fd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/industry/company/2026/10/26/5GGC7XIX7JBCFKEZX7QOQ5OLZY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "현대글로비스, 동남아 최대 쇼핑 플랫폼 쇼피와 K뷰티 수출 물류 협력",
+ "summary": "최근 동남아시아에서 한국 화장품의 인기가 높아지면서 쇼피 내에서도 K뷰티 가 주요 상품군으로 자리 잡고 있다. 현대글로비스는 국내 화장품 판매업체를 대상으로 제품 수거부터 항공·해상 운송, 수출 입 통관, 현지...",
+ "published_at": "2026-10-26T09:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "현대글로비스",
+   "쇼피"
+  ],
+  "keywords": [
+   "K뷰티 물류",
+   "풀필먼트",
+   "동남아 이커머스",
+   "통합 물류 서비스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "06eafa772c6d99cb",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": false
+}

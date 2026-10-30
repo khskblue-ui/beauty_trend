@@ -1,0 +1,47 @@
+{
+ "doc_id": "63547bfbb6cbf9f9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498654",
+ "title": "몽디에스, 10월 아기 화장품 브랜드평판 1위…아토팜·일리윤 順",
+ "summary": "전체 아기 화장품 브랜드 빅데이터는 전월보다 3.32% 증가했다. 선두 몽디에스의 브랜드평판지수는 소폭 하락했지만, 아토팜과 일리윤 등 상위권 브랜드는 상승세를 보였다. 한국기업평판연구소가 신제품 런칭...",
+ "published_at": "2026-10-27T07:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "몽디에스",
+   "아토팜",
+   "일리윤"
+  ],
+  "companies": [],
+  "keywords": [
+   "아기 화장품",
+   "저자극 화장품",
+   "브랜드 평판"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "649cf2e7d8cf0f5e",
+ "enriched_at": "2026-10-30T04:04:54+00:00",
+ "had_body": false
+}

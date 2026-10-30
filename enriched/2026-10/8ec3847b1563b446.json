@@ -1,0 +1,46 @@
+{
+ "doc_id": "8ec3847b1563b446",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/article/all/20261014/134840669/2",
+ "title": "“처음 보는 화장품 인데?”…무신사가 신생 K뷰티에 매장 내준 이유 [룩...",
+ "summary": "신제품 출시나 리브랜딩 등이 대표적이다. 현장 체험 프로그램과 공간 콘셉트가 방문을 유도할 수 있는지도 함께 검토한다. 제품을 진열하는 것만으로는 처음 보는 브랜드에 방문객의 관심을 끌기 어렵다. 공간에 들어와...",
+ "published_at": "2026-10-14T15:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "신생 뷰티 브랜드",
+   "오프라인 매장",
+   "체험형 매장",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "e6495846d2c711be",
+ "enriched_at": "2026-10-30T04:04:54+00:00",
+ "had_body": false
+}

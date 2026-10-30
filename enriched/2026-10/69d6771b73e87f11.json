@@ -1,0 +1,64 @@
+{
+ "doc_id": "69d6771b73e87f11",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312470",
+ "title": "AI가 재편하는 중국 뷰티 시장②: 챗GPT와 더우바오에 물어보니…중국 Z세대 인기 화장품 브랜드는?",
+ "summary": "중국 소비자들이 화장품 구매 전 AI를 활용하는 비중이 빠르게 늘고 있는 가운데, 실제 AI는 어떤 브랜드를 중국 젊은 소비자들의 인기 브랜드로 인식하고 있을까.뷰티경제는 글로벌 생성형 AI 챗GPT(ChatGPT)와 중국 바이트댄스의 AI 서비스 더우바오(豆包)에 동일한 질문을 입력했다.\\\"요즘 중국 젊은 사람들이 가장 좋아하는 화장품 브랜드는 무엇인가?\\\"라고 질문했다. 답변은 비슷하면서도 달랐다.챗GPT는 시장조사 자료와 브랜드 구매율을 중심으로 답변했다. 대표 브랜드로 마오거핑(毛戈平), 차이탕(彩棠), 화시즈(花西子)를 꼽았으",
+ "published_at": "2026-10-29T10:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [
+   "마오거핑",
+   "차이탕",
+   "화시즈",
+   "플라워노즈",
+   "주디돌",
+   "3CE",
+   "입생로랑",
+   "프로야",
+   "위노나",
+   "커푸메이",
+   "랑콤",
+   "에스티 로더",
+   "Joocyee",
+   "컬러키",
+   "릴리바이레드",
+   "토리든",
+   "아비브"
+  ],
+  "companies": [
+   "바이트댄스"
+  ],
+  "keywords": [
+   "AI 쇼핑 가이드",
+   "중국 Z세대",
+   "저채도 메이크업",
+   "자연스러운 피부 표현"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티경제가 챗GPT와 더우바오에 중국 젊은 층의 인기 화장품 브랜드를 물은 결과 AI마다 시장을 보는 기준이 달랐다.",
+  "key_fact_quote": "이번 본 기자가 직접 실험에서 확인된 가장 큰 특징은 AI마다 시장을 바라보는 기준이 다르다는 점이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": true
+}

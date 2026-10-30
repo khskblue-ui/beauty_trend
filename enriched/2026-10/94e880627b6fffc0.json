@@ -1,0 +1,42 @@
+{
+ "doc_id": "94e880627b6fffc0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026103008245811957",
+ "title": "무신사 뷰티, 홍대 이어 성수 진출…인디 브랜드 ·약국 결합",
+ "summary": "1층에는 스킨케어·메이크업· 향수 브랜드 와 신진 브랜드를 소개하는 '넥스트 뷰티존', 제품을 직접 체험하는 '터치업 바'를 마련했다. 인디 브랜드를 위한 약 15평 규모의 단독 팝업 공간도 운영한다. 2층에는 헤어·바디...",
+ "published_at": "2026-10-30T08:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "인디 브랜드",
+   "약국 화장품",
+   "단독 팝업 공간"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "무신사 뷰티가 홍대에 이어 성수에 인디 브랜드와 약국을 결합한 매장을 낸다.",
+  "key_fact_quote": "무신사 뷰티, 홍대 이어 성수 진출…인디 브랜드 ·약국 결합",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

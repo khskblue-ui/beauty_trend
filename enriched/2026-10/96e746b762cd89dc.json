@@ -1,0 +1,52 @@
+{
+ "doc_id": "96e746b762cd89dc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.greened.kr/news/articleView.html?idxno=353462",
+ "title": "디올 홀리데이 컬렉션 뜨거운 인기...립밤 하나에 10만원인데 매장 오픈...",
+ "summary": "매장 출시 일에 많은 이들이 백화점 개점 전부터 구매를 위한 대기 줄을 서는 등 인기가 뜨겁다. 크리스챤... 홀리데이 컬렉션답게 화려한 패키지와 제형이 화장품 마니아와 소비자들의 눈길을 끈 것인데 그중에서도...",
+ "published_at": "2026-10-30T11:19:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "디올"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "럭셔리 립밤",
+   "오픈런"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "홀리데이 컬렉션",
+    "brand": "디올",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "매장 출시 일에 많은 이들이 백화점 개점 전부터 구매를 위한 대기 줄을 서는 등 인기가 뜨겁다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디올 홀리데이 컬렉션이 매장 출시일에 백화점 개점 전부터 대기 줄이 생길 만큼 인기를 끌었다.",
+  "key_fact_quote": "매장 출시 일에 많은 이들이 백화점 개점 전부터 구매를 위한 대기 줄을 서는 등 인기가 뜨겁다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": false
+}

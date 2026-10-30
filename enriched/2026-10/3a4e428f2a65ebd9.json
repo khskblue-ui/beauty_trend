@@ -1,0 +1,72 @@
+{
+ "doc_id": "3a4e428f2a65ebd9",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312503",
+ "title": "미국 뷰티시장 2026 인사이드②: \"K-뷰티만으로는 부족하다\"…美 전문가가 본 성공 조건",
+ "summary": "미국에서 K-뷰티는 더 이상 낯선 트렌드가 아니다.세포라와 얼타 등 주요 유통 채널에는 K-뷰티 전용 공간이 자리 잡았고, 소비자들 역시 K-뷰티를 하나의 독립된 뷰티 카테고리로 인식하고 있다. 하지만 현지 전문가들은 K-뷰티라는 이름만으로 성공할 수 있는 시대는 지났다고 진단한다.지난 28일 우주비행피알원이 개최한 \\'2026 미국 뷰티 마켓 INSIDER\\' 웨비나에 연사로 참여한 RF|Binder 공동 창립자 겸 전략총괄 아탈란타 래퍼티(Atalanta Rafferty)는 뷰티경제와의 서면 인터뷰에서 \\\"브랜드는 효능을 약속으로 제",
+ "published_at": "2026-10-30T10:40:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "RF|Binder",
+   "우주비행피알원",
+   "세포라",
+   "얼타",
+   "아마존"
+  ],
+  "keywords": [
+   "글래스 스킨",
+   "슬로우 에이징",
+   "피부장벽 회복",
+   "K뷰티 헤어케어",
+   "AI 최적화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "RF|Binder의 아탈란타 래퍼티는 성분 중심 메시지와 K뷰티라는 사실만으로는 미국 시장에서 차별화가 되지 않는다고 말했다.",
+  "key_fact_quote": "래퍼티는 \"성분 중심 메시지는 이제 시장 어디에서나 볼 수 있고 K-뷰티라는 사실 자체도 차별화 요소가 아니다\"라며 \"브랜드만의 목소리와 관점을 소비자에게 제공할 가치가 필요하다\"고 말했다.",
+  "events": [
+   {
+    "name": "2026 미국 뷰티 마켓 INSIDER",
+    "start_date": "2026-10-28",
+    "end_date": null,
+    "place": null,
+    "quote": "지난 28일 우주비행피알원이 개최한 '2026 미국 뷰티 마켓 INSIDER' 웨비나에 연사로 참여한"
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "그에 따르면 K-뷰티를 떠올릴 때 연상되는 주요 키워드는 글래스 스킨(Glass Skin), 스킨 퍼스트(Skin First), 피부장벽 회복, 슬로우 에이징(Slow Aging), PDRN, 센텔라(Centella), 엑소좀 등이다."
+   },
+   {
+    "name": "센텔라",
+    "quote": "그에 따르면 K-뷰티를 떠올릴 때 연상되는 주요 키워드는 글래스 스킨(Glass Skin), 스킨 퍼스트(Skin First), 피부장벽 회복, 슬로우 에이징(Slow Aging), PDRN, 센텔라(Centella), 엑소좀 등이다."
+   },
+   {
+    "name": "엑소좀",
+    "quote": "그에 따르면 K-뷰티를 떠올릴 때 연상되는 주요 키워드는 글래스 스킨(Glass Skin), 스킨 퍼스트(Skin First), 피부장벽 회복, 슬로우 에이징(Slow Aging), PDRN, 센텔라(Centella), 엑소좀 등이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

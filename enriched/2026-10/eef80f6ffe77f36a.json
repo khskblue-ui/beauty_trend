@@ -1,0 +1,75 @@
+{
+ "doc_id": "eef80f6ffe77f36a",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/myblend-expands-its-beauty-tech,28280",
+ "title": "myBlend expands its beauty tech offering with Nuon Medical",
+ "summary": "Barely a year after the launch of myLIFTINGroller and a new LED mask model, French skincare brand myBlend is expanding its ecosystem of beauty tech tools focused on skincare with two new devices: myBLEMISHpen and myDARKSPOTpen. myBLEMISHpen targets skin imperfections using the effectiveness of blue light, while myDARKSPOTpen targets dark spots using green light. myBLEMISHpen is inspired by dermatological protocols, combining the power of blue light and red light together with...",
+ "published_at": "2026-10-01T05:43:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "myBlend"
+  ],
+  "companies": [
+   "Nuon Medical"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "LED 광 테라피",
+   "트러블 케어",
+   "색소 침착 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "myBLEMISHpen",
+    "brand": "myBlend",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "French skincare brand myBlend is expanding its ecosystem of beauty tech tools focused on skincare with two new devices: myBLEMISHpen and myDARKSPOTpen",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "myDARKSPOTpen",
+    "brand": "myBlend",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "French skincare brand myBlend is expanding its ecosystem of beauty tech tools focused on skincare with two new devices: myBLEMISHpen and myDARKSPOTpen",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "myLIFTINGroller",
+    "brand": "myBlend",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "프랑스 스킨케어 브랜드 myBlend가 트러블 자국과 색소 침착을 관리하는 뷰티 테크 기기 두 종을 새로 선보였다.",
+  "key_fact_quote": "French skincare brand myBlend is expanding its ecosystem of beauty tech tools focused on skincare with two new devices: myBLEMISHpen and myDARKSPOTpen",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": true
+}

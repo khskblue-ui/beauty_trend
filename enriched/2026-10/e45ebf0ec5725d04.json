@@ -1,0 +1,75 @@
+{
+ "doc_id": "e45ebf0ec5725d04",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100318",
+ "title": "LG 프라엘, 피부 전문의와 손잡고 ‘피부과학 자문단’ 공식 발족",
+ "summary": "LG생활건강의 럭셔리 K-뷰티 테크 리더(Tech Leader) 디바이스 브랜드 'LG 프라엘(LG Pra.L)'이 차세대 홈 뷰티 기기 경쟁력 강화를 위한 '피부과학 자문단'을 공식 발족해 첫 연구회를 진행했다.피부과 현장에서 평균 10년 이상 경력을 가진 의료진과 연구원으로 구성된 피부과학 자문단은 디바이스 기전과 피부 작용 메커니즘을 심도 있게 분석하고, 가정에서도 안심하고 사용할 수 있는 안전한 홈 케어 뷰티 솔루션을 마련할 예정이다.지난 22일 서울 강남구 리을피부과에서 열린 1차 연구회에는 L",
+ "published_at": "2026-10-30T10:37:33+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "LG 프라엘"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "홈케어",
+   "뷰티테크",
+   "피부과 전문의 협업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "갈바닉 부스터",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "써마샷 얼티밋",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "멜라빔 토닝",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "LG생활건강의 뷰티 기기 브랜드 LG 프라엘이 피부과학 자문단을 꾸리고 첫 연구회를 열었다.",
+  "key_fact_quote": "LG생활건강의 럭셔리 K-뷰티 테크 리더(Tech Leader) 디바이스 브랜드 'LG 프라엘(LG Pra.L)'이 차세대 홈 뷰티 기기 경쟁력 강화를 위한 '피부과학 자문단'을 공식 발족해 첫 연구회를 진행했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

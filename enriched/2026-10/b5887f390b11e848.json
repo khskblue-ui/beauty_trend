@@ -1,0 +1,42 @@
+{
+ "doc_id": "b5887f390b11e848",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.unn.net/news/articleView.html?idxno=599621",
+ "title": "광주여대 화장품 학과, 오송 화장품 뷰티엑스포 현장탐방",
+ "summary": "학생들은 엑스포에 참가한 화장품 기업 전시관을 둘러보며 기능성 화장품 과 신소재, 신제품 등을 살펴보고 국내외 화장품 산업의 시장 변화를 확인했다. 또 기업별 제품 특징과 적용 기술을 비교하며 화장품 연구개발과...",
+ "published_at": "2026-10-30T11:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 인재 양성",
+   "기능성 화장품",
+   "화장품 신소재"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "광주여대 화장품 학과 학생들이 오송 화장품 뷰티엑스포를 찾아 참가 기업의 신소재와 신제품을 살펴봤다.",
+  "key_fact_quote": "학생들은 엑스포에 참가한 화장품 기업 전시관을 둘러보며 기능성 화장품 과 신소재, 신제품 등을 살펴보고 국내외 화장품 산업의 시장 변화를 확인했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": false
+}

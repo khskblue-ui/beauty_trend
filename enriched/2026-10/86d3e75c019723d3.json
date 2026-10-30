@@ -1,0 +1,66 @@
+{
+ "doc_id": "86d3e75c019723d3",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100320",
+ "title": "에스트라, 한국광고학회 ‘2026 올해의 브랜드상’ 수상",
+ "summary": "아모레퍼시픽의 정통 더마 브랜드 에스트라(AESTURA)가 한국광고학회가 선정한 ‘2026 올해의 브랜드상’ 수상자로 선정됐다. 시상식은 30일 부산 파라다이스호텔에서 열린다.한국광고학회가 2006년 제정한 ‘올해의 브랜드상’은 마케팅 커뮤니케이션을 통해 고객 만족과 브랜드 자산 구축 등에 우수한 성과를 보인 브랜드를 선정해 수여하는 상이다. 올해는 에스트라를 포함해 총 6개 브랜드가 수상 브랜드로 선정됐다. 에스트라는 제품의 혁신을 넘어 소비자의 인식과 경험을 변화시키고, 차별화된 커뮤니케이션을 통해 브랜드 경쟁력을 높였다고 평가",
+ "published_at": "2026-10-30T10:41:22+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "에스트라"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "피부장벽",
+   "민감피부",
+   "K-더마"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아토베리어365 크림",
+    "brand": "에스트라",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아모레퍼시픽의 더마 브랜드 에스트라가 한국광고학회가 주는 올해의 브랜드상 수상 브랜드로 뽑혔다.",
+  "key_fact_quote": "아모레퍼시픽의 정통 더마 브랜드 에스트라(AESTURA)가 한국광고학회가 선정한 ‘2026 올해의 브랜드상’ 수상자로 선정됐다.",
+  "events": [
+   {
+    "name": "2026 올해의 브랜드상 시상식",
+    "start_date": "2026-10-30",
+    "end_date": null,
+    "place": "부산 파라다이스호텔",
+    "quote": "시상식은 30일 부산 파라다이스호텔에서 열린다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

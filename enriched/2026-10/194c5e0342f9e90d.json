@@ -1,0 +1,48 @@
+{
+ "doc_id": "194c5e0342f9e90d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=777246",
+ "title": "SSG닷컴, '쓱데이' 단독 100여종...반값 과일박스부터 명품 화장품",
+ "summary": "선 출시 하며 키엘 울트라 훼이셜 크림 홀리데이 듀오세트 구매 고객에게는 홀리데이 파우치를 증정한다. 카테고리별 특가 상품도 눈여겨볼 만하다. 샬랑 드 파리 기미개선 풀케어 8종 화장품 세트를 64% 할인한...",
+ "published_at": "2026-10-29T07:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "샤넬",
+   "디올"
+  ],
+  "companies": [
+   "SSG닷컴"
+  ],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "명품 뷰티",
+   "온라인 쇼핑 행사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "de1a8df10f6fae0d",
+ "enriched_at": "2026-10-30T04:04:54+00:00",
+ "had_body": false
+}

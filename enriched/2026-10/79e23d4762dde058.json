@@ -1,0 +1,41 @@
+{
+ "doc_id": "79e23d4762dde058",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5227056",
+ "title": "K - 뷰티 알렸다…오송화장품 뷰티 엑스포 성황리 폐막",
+ "summary": "전시와 체험거리는 물론 수출 상담회도 마련돼 K - 뷰티 를 한눈에 볼 수 있는 장이 됐습니다. 김영현 기자가 보도합니다. 미용기기와 화장품을 홍보하는 부스가 전시장을 가득 메웠습니다. 관람객들은 화장품 효능에 대해...",
+ "published_at": "2026-10-26T09:37:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "미용기기",
+   "체험형 전시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "전시와 체험, 수출 상담회를 갖춘 오송화장품 뷰티 엑스포가 성황리에 폐막했다.",
+  "key_fact_quote": "전시와 체험거리는 물론 수출 상담회도 마련돼 K - 뷰티 를 한눈에 볼 수 있는 장이 됐습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

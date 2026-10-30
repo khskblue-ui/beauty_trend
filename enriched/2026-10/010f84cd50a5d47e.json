@@ -1,0 +1,49 @@
+{
+ "doc_id": "010f84cd50a5d47e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.press9.kr/news/articleView.html?idxno=85233",
+ "title": "아이큐어 흑전 비결은...제약 연질캡슐, 화장품 용 재탄생",
+ "summary": "올해 들어서는 태광그룹의 신설 화장품 계열사 실(SIL)에도 연질캡슐 제품을 공급하기 시작했다. 실은 지난 6월 첫 스킨케어 브랜드 '사핀(Safin)'을 출시 한 업체다. 아이큐어는 한국과 중국에서 확보한 공급 실적을...",
+ "published_at": "2026-10-30T08:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "사핀"
+  ],
+  "companies": [
+   "아이큐어",
+   "태광그룹",
+   "실"
+  ],
+  "keywords": [
+   "연질캡슐 화장품",
+   "제약 기술 응용",
+   "화장품 B2B 공급"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아이큐어가 제약용 연질캡슐을 화장품용으로 바꿔 흑자로 돌아섰다.",
+  "key_fact_quote": "아이큐어 흑전 비결은...제약 연질캡슐, 화장품 용 재탄생",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

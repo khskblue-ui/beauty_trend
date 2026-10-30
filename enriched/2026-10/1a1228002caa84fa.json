@@ -1,0 +1,56 @@
+{
+ "doc_id": "1a1228002caa84fa",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=20261030095255290046a9e4dd7f_30",
+ "title": "막스마라, 우디·튜베로즈 향 조합한 '르 퍼퓸' 공개",
+ "summary": "향은 조향사 파브리스 펠레그린과 마리 살라마뉴가 공동 개발했다. 우디 계열의 향과 흰 꽃 계열인 튜베로즈 향을 조합한 것이 특징이다. 펠레그린은 우디 계열 향을, 살라마뉴는 튜베로즈 향을 중심으로 제품 개발에...",
+ "published_at": "2026-10-30T09:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "막스마라"
+  ],
+  "companies": [],
+  "keywords": [
+   "우디 향",
+   "튜베로즈",
+   "흰 꽃 계열 향",
+   "조향사 공동 개발"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "르 퍼퓸",
+    "brand": "막스마라",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "막스마라, 우디·튜베로즈 향 조합한 '르 퍼퓸' 공개",
+    "notes": [
+     "우디",
+     "튜베로즈"
+    ],
+    "notes_quote": "우디 계열의 향과 흰 꽃 계열인 튜베로즈 향을 조합한 것이 특징이다."
+   }
+  ],
+  "key_fact": "막스마라가 우디 향과 튜베로즈 향을 조합한 르 퍼퓸을 공개했다.",
+  "key_fact_quote": "막스마라, 우디·튜베로즈 향 조합한 '르 퍼퓸' 공개",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": false
+}

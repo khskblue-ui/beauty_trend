@@ -1,0 +1,60 @@
+{
+ "doc_id": "e192bb6a1e7671da",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.lawissue.co.kr/view.php?ud=202610300852334636204ead0791_12",
+ "title": "에스쁘아, 보르피린 함유 쿠션 제품 선보여",
+ "summary": "알레르기 유발 향료 를 제외하고 비건 인증도 획득했다. 회사 측은 “보르피린 3만ppm을 비롯한 성분 구성을 바탕으로 메이크업과 피부 관리 요소를 함께 담은 제품이며, 7종의 색상 체계로 피부 톤에 맞는 선택이...",
+ "published_at": "2026-10-30T08:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에스쁘아"
+  ],
+  "companies": [],
+  "keywords": [
+   "쿠션 메이크업",
+   "비건 인증",
+   "알레르기 유발 향료 배제",
+   "스킨케어 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "보르피린 함유 쿠션",
+    "brand": "에스쁘아",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에스쁘아, 보르피린 함유 쿠션 제품 선보여",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에스쁘아가 보르피린을 함유한 쿠션 제품을 선보였다.",
+  "key_fact_quote": "에스쁘아, 보르피린 함유 쿠션 제품 선보여",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "보르피린",
+    "quote": "에스쁘아, 보르피린 함유 쿠션 제품 선보여"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": false
+}

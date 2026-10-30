@@ -1,0 +1,41 @@
+{
+ "doc_id": "69b9443645cd1a89",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=93177",
+ "title": "애프터스쿨 가희, 화장품 가히와 상표권 분쟁서 패소",
+ "summary": "두 상품 모두 외모 관리와 건강 증진이라는 영역에 걸쳐 있어 소비자들이 동일한 회사에서 출시 한 제품으로 오인할 가능성이 있다는 것이다. 특히 건강과 미용을 함께 관리하려는 소비자가 늘면서 화장품 업체가 건강...",
+ "published_at": "2026-10-21T07:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "other",
+  "countries": [],
+  "brands": [
+   "가히"
+  ],
+  "companies": [],
+  "keywords": [
+   "상표권 분쟁",
+   "헬스앤뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "애프터스쿨 가희가 화장품 브랜드 가히와의 상표권 분쟁에서 패소했다.",
+  "key_fact_quote": "애프터스쿨 가희, 화장품 가히와 상표권 분쟁서 패소",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

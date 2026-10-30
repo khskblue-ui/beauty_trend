@@ -15,7 +15,7 @@
  "celex": null,
  "extraction": {
   "relevant": true,
-  "category": "business",
+  "category": "fragrance",
   "event_type": "business",
   "countries": [
    "SG"
@@ -25,18 +25,21 @@
    "Symrise"
   ],
   "keywords": [
-   "센트 크리에이티브 센터",
-   "향료 연구개발",
-   "클렌징 연구 센터"
+   "향 크리에이티브 센터",
+   "공동 창작",
+   "스킨 클렌징",
+   "아시아 거점"
   ],
   "is_press_release": true,
   "products": [],
-  "key_fact": "심라이즈가 아시아 시장 성장을 가속화하기 위해 싱가포르에 새로운 센트 크리에이티브 센터를 개소했다.",
+  "key_fact": "심라이즈가 아시아 성장을 위해 싱가포르에 새 향 크리에이티브 센터를 열었다.",
   "key_fact_quote": "Symrise opens new Scent Creative Center in Singapore to accelerate growth in Asia",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
- "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:08:12+00:00",
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
  "had_body": false
 }

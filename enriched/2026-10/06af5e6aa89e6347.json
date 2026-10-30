@@ -1,0 +1,42 @@
+{
+ "doc_id": "06af5e6aa89e6347",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.youthdaily.co.kr/news/article.html?no=229102",
+ "title": "무신사, 홍대 이어 성수에 뷰티 매장 오픈…온·오프라인 고객 접점 확...",
+ "summary": "스킨케어와 메이크업, 향수 , 헤어·바디케어 등 약 700개 브랜드의 상품 1만여개를 판매한다. 이 가운데 99개... 온라인에서 신제품 을 먼저 선보이는 단독 선론칭도 운영하고 있다. 회사에 따르면 올해 1~9월 단독 선론칭...",
+ "published_at": "2026-10-30T08:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "단독 선론칭",
+   "온오프라인 연계",
+   "뷰티 전문 매장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "무신사가 홍대에 이어 성수에도 뷰티 매장을 연다.",
+  "key_fact_quote": "무신사, 홍대 이어 성수에 뷰티 매장 오픈",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

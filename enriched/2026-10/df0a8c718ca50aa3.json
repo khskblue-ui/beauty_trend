@@ -1,0 +1,45 @@
+{
+ "doc_id": "df0a8c718ca50aa3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businessplus.kr/news/articleView.html?idxno=119015",
+ "title": "[잘먹잘살+]무신사 뷰티 ·롯데百·웅진씽크빅·다이닝브랜즈그룹·애슐리...",
+ "summary": "사진=무신사 ◇1만여개 상품 집결한 '무신사 뷰티 성수' 다음달 오픈 무신사가 오는 11월 11일 서울 성동구... 동원F&B의 국내 조미김 시장 1위 브랜드 '양반김'은 미국·일본·태국 등 전세계 30여개국에 수출 되며 K -푸드...",
+ "published_at": "2026-10-30T10:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사 뷰티"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "성수 상권"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 다음 달 무신사 뷰티 성수를 연다.",
+  "key_fact_quote": "1만여개 상품 집결한 '무신사 뷰티 성수' 다음달 오픈",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": false
+}

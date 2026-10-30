@@ -1,0 +1,49 @@
+{
+ "doc_id": "06f10b916832eac1",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/symrise-inaugurates-new-grasse,28287",
+ "title": "Symrise inaugurates new Grasse site for natural fragrance ingredients",
+ "summary": "Symrise has inaugurated a new production site for its natural fragrance ingredients brand Lautier 1795 in the Grasse region. This strengthens its capabilities in southern France jointly with the recently acquired premium natural qualities of Floral Concept. The new site forms an integral part of the Symrise fragrance ecosystem in southern France jointly with the premium naturals' expertise of Floral Concept and SFA Neroli's creative capabilities. The aim is to offer expertise in natural raw...",
+ "published_at": "2026-10-02T07:45:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Lautier 1795"
+  ],
+  "companies": [
+   "Symrise",
+   "Floral Concept",
+   "SFA Neroli"
+  ],
+  "keywords": [
+   "천연 향료 원료",
+   "원료 추적성",
+   "프리미엄 천연 원료",
+   "향료 생산 거점"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "Symrise가 프랑스 그라스 지역에 천연 향료 원료 생산 시설을 새로 열었다.",
+  "key_fact_quote": "Symrise has inaugurated a new production site for its natural fragrance ingredients brand Lautier 1795 in the Grasse region.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": true
+}

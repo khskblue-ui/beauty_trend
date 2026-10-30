@@ -1,0 +1,85 @@
+{
+ "doc_id": "4b5b3fe285782281",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/rhode-makes-european-retail-debut,28278",
+ "title": "rhode makes European retail debut at Sephora in 19 countries",
+ "summary": "Previously available in Europe exclusively through rhodeskin.com, the brand founded by Hailey Rhode Bieber and acquired by e.l.f. Beauty last year will now be sold in more than 500 Sephora stores across the region, starting September 30, 2026. Following its launch at Sephora in the United States, Canada and the United Kingdom in 2025, rhode is continuing to expand its physical retail presence across a number of key markets. rhode is now available for consumers to shop at Sephora in 19 new...",
+ "published_at": "2026-10-01T01:45:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "BE",
+   "BG",
+   "HR",
+   "CZ",
+   "DK",
+   "FR",
+   "DE",
+   "GR",
+   "IT",
+   "LU",
+   "MC",
+   "PL",
+   "PT",
+   "RO",
+   "RS",
+   "ES",
+   "SE",
+   "CH",
+   "TR"
+  ],
+  "brands": [
+   "rhode"
+  ],
+  "companies": [
+   "e.l.f. Beauty",
+   "Sephora"
+  ],
+  "keywords": [
+   "셀러브리티 뷰티 브랜드",
+   "오프라인 유통",
+   "하이브리드 메이크업",
+   "소셜 퍼스트 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Pocket Bronze",
+    "brand": "rhode",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Highlight Milk",
+    "brand": "rhode",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "e.l.f. Beauty가 인수한 rhode가 유럽 세포라 매장에서 판매를 시작했다.",
+  "key_fact_quote": "the brand founded by Hailey Rhode Bieber and acquired by e.l.f. Beauty last year will now be sold in more than 500 Sephora stores across the region, starting September 30, 2026",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": true
+}

@@ -1,0 +1,69 @@
+{
+ "doc_id": "99fb73d15ccf544e",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53820",
+ "title": "‘인-코스메틱스 아시아 2026’ 글로벌 규제 전문가로 참석",
+ "summary": "글로벌 화장품 규제 컨설팅 전문기업 윈게이트코리아(주)의 손성민 대표가 오는 11월 3일부터 5일까지 태국 방콕 국제무역전시센터(BITEC)에서 열리는 ‘인-코스메틱스 아시아 2026’(in-cosmetics Asia 2026)에 주최 측 공식 초청으로 참석한다. 손 대표는 이번 행사에서 화장품 원료 혁신상…",
+ "published_at": "2026-10-30T06:58:57+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "TH",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "윈게이트코리아"
+  ],
+  "keywords": [
+   "글로벌 화장품 규제",
+   "원료 혁신",
+   "규제 컨설팅",
+   "아세안 시장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "윈게이트코리아 손성민 대표가 태국 방콕에서 열리는 인-코스메틱스 아시아에 주최 측 공식 초청으로 참석한다.",
+  "key_fact_quote": "글로벌 화장품 규제 컨설팅 전문기업 윈게이트코리아(주)의 손성민 대표가 오는 11월 3일부터 5일까지 태국 방콕 국제무역전시센터(BITEC)에서 열리는 ‘인-코스메틱스 아시아 2026’(in-cosmetics Asia 2026)에 주최 측 공식 초청으로 참석한다.",
+  "events": [
+   {
+    "name": "인-코스메틱스 아시아 2026",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-05",
+    "place": "태국 방콕 국제무역전시센터(BITEC)",
+    "quote": "글로벌 화장품 규제 컨설팅 전문기업 윈게이트코리아(주)의 손성민 대표가 오는 11월 3일부터 5일까지 태국 방콕 국제무역전시센터(BITEC)에서 열리는 ‘인-코스메틱스 아시아 2026’(in-cosmetics Asia 2026)에 주최 측 공식 초청으로 참석한다."
+   },
+   {
+    "name": "인-코스메틱스 아시아 어워즈 시상식",
+    "start_date": "2026-11-03",
+    "end_date": null,
+    "place": null,
+    "quote": "11월 3일 오후 열리는 시상식에도 참석할 계획이다."
+   },
+   {
+    "name": "글로벌 화장품 규제 패널토론",
+    "start_date": "2026-11-05",
+    "end_date": null,
+    "place": null,
+    "quote": "행사 마지막 날인 11월 5일에는 글로벌 화장품 규제 패널토론의 좌장을 맡는다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": true
+}

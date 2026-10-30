@@ -23,18 +23,19 @@
   "brands": [],
   "companies": [],
   "keywords": [
-   "화장품 규제",
-   "정보 수집 승인",
-   "행정 절차"
+   "미국 화장품 규제",
+   "화장품 정보 수집"
   ],
   "is_press_release": false,
   "products": [],
-  "key_fact": "미국 식품의약국이 화장품 요건과 관련된 정보 수집 안건을 관리예산처에 검토 및 승인을 위해 제출했다.",
-  "key_fact_quote": "The Food and Drug Administration (FDA, Agency, or we) is announcing that a proposed collection of information has been submitted to the Office of Management and Budget (OMB) for review and clearance under the Paperwork Reduction Act of 1995.",
+  "key_fact": "미국 식품의약국(FDA)이 화장품 요건 정보 수집안을 관리예산처(OMB) 심사에 제출했다고 공고했다.",
+  "key_fact_quote": "The Food and Drug Administration (FDA, Agency, or we) is announcing that a proposed collection of information has been submitted to the Office of Management and Budget (OMB) for review and clearance",
+  "events": [],
+  "ingredients": [],
   "dropped": []
  },
- "model": "gemini-3.8-flash",
- "prompt_version": "enrich-v1",
- "enriched_at": "2026-10-15T00:04:08+00:00",
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
  "had_body": false
 }

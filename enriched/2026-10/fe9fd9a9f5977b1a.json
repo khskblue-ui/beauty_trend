@@ -1,0 +1,49 @@
+{
+ "doc_id": "fe9fd9a9f5977b1a",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312424",
+ "title": "Korea’s Children’s Cosmetics Exports Rise 22% in Q3 2026 as China Drives Demand",
+ "summary": "South Korea’s children’s cosmetics exports continued to expand in the third quarter of 2026, supported by strong demand from China and other Asian markets.However, shrinking trade surplus figures in September suggest rising import costs and increasing pressure on profitability.According to Korea Cus",
+ "published_at": "2026-10-30T11:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN",
+   "IN",
+   "ID",
+   "US",
+   "MY",
+   "DE"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "어린이 화장품",
+   "유아동 스킨케어",
+   "수출 시장 다변화",
+   "동남아 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 어린이 화장품 수출이 중국을 비롯한 아시아 수요에 힘입어 계속 늘고 있다.",
+  "key_fact_quote": "South Korea’s children’s cosmetics exports continued to expand in the third quarter of 2026, supported by strong demand from China and other Asian markets.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

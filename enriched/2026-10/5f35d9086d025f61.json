@@ -1,0 +1,44 @@
+{
+ "doc_id": "5f35d9086d025f61",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.socialvalue.kr/news/view/1065589718753612",
+ "title": "[SV CEO] 서경배 아모레퍼시픽 회장, K뷰티 경쟁력 높인다…브랜드 혁신...",
+ "summary": "뉴 뷰티 (Create New Beauty)'를 발표하고 있다./사진=아모레퍼시픽그룹 제공 아모레퍼시픽이 글로벌 사업 구조... 실제 지난해 전체 매출에서 해외법인 및 수출 이 차지하는 비중은 47%였으며, 올해 상반기에는 48%를 기록했다....",
+ "published_at": "2026-10-26T07:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "해외 매출 비중",
+   "글로벌 사업 구조",
+   "브랜드 혁신"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아모레퍼시픽의 전체 매출에서 해외법인과 수출이 차지하는 비중이 지난해보다 올해 상반기에 높아졌다.",
+  "key_fact_quote": "실제 지난해 전체 매출에서 해외법인 및 수출 이 차지하는 비중은 47%였으며, 올해 상반기에는 48%를 기록했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

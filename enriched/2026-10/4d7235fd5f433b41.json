@@ -1,0 +1,42 @@
+{
+ "doc_id": "4d7235fd5f433b41",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.mtn.co.kr/article/2026102610042532823",
+ "title": "' K뷰티 ·반도체'가 이끈 성장세…3분기 中企 수출 '역대 최대'",
+ "summary": "K뷰티 를 중심으로 판로를 넓히고 있다\"며 \" 수출 바우처와 해외인증 지원, 대기업과의 동반 해외진출 프로그램 등을 확대해 중소기업의 글로벌 시장 진입과 성장을 뒷받침하고 수출 과정에서 겪는 어려움도 줄여...",
+ "published_at": "2026-10-26T12:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "중소기업 수출",
+   "수출 바우처",
+   "해외인증 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티와 반도체 수출이 늘면서 중소기업 수출이 분기 기준 역대 최대를 기록했다.",
+  "key_fact_quote": "' K뷰티 ·반도체'가 이끈 성장세…3분기 中企 수출 '역대 최대'",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

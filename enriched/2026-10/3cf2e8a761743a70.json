@@ -1,0 +1,46 @@
+{
+ "doc_id": "3cf2e8a761743a70",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newstree.kr/newsView/ntr202610270013",
+ "title": "일동제약, 뷰티·헬스케어 시장진출...'아이디나인' 합작사 출범",
+ "summary": "양사는 제약·바이오 기술과 브랜드 마케팅 역량을 결합해 피부장벽 관리에 특화된 화장품 을 개발하고, 오는 2027년부터 제품을 순차적으로 출시 할 계획이다. 일동제약그룹은 지난 26일 서울 성동구 나인앤컴퍼니에서...",
+ "published_at": "2026-10-27T11:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "일동제약",
+   "아이디나인",
+   "나인앤컴퍼니"
+  ],
+  "keywords": [
+   "피부장벽",
+   "제약사 화장품",
+   "합작사 설립"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "일동제약이 합작사 아이디나인을 세워 피부장벽 관리에 특화된 화장품을 개발하고 순차적으로 출시할 계획이다.",
+  "key_fact_quote": "양사는 제약·바이오 기술과 브랜드 마케팅 역량을 결합해 피부장벽 관리에 특화된 화장품 을 개발하고, 오는 2027년부터 제품을 순차적으로 출시 할 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "d1dbe295307f4d52",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261013178830080",
+ "title": "현대글로비스, 동남아 이커머스 쇼피와 협력… K - 뷰티 수출 물류 지원",
+ "summary": "카테고리가 K - 뷰티 다. 현지에서 한국 화장품이 고급 제품으로 인식되며 수요가 빠르게 늘고 있어서다. 현대글로비스는 쇼피코리아 판매자들에게 국내 화물 픽업부터 항공ㆍ해상 운송, 수출 입 통관, 현지 인허가...",
+ "published_at": "2026-10-26T10:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "현대글로비스",
+   "쇼피",
+   "쇼피코리아"
+  ],
+  "keywords": [
+   "수출 물류",
+   "동남아 이커머스",
+   "K-뷰티 물류"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "현대글로비스가 동남아 이커머스 쇼피와 손잡고 K-뷰티 수출 물류를 지원한다.",
+  "key_fact_quote": "현대글로비스, 동남아 이커머스 쇼피와 협력… K - 뷰티 수출 물류 지원",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

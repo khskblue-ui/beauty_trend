@@ -1,0 +1,44 @@
+{
+ "doc_id": "6a47186514b2f99a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.cstimes.com/news/articleView.html?idxno=724349",
+ "title": "그로쓰리서치 \" K - 뷰티 성장세, 마스크팩·헤어케어로 확산\"",
+ "summary": "같은 기간 샴푸와 트리트먼트 등을 포함한 두발용 제품류 수출 도 34.7% 늘었다. 트러블 패치 관련 품목 역시 지난해 감소세를 보인 이후 올해 들어 증가세로 전환했다. 기존 기초화장품에 집중됐던 K - 뷰티 의 해외 성장세가...",
+ "published_at": "2026-10-19T08:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "그로쓰리서치"
+  ],
+  "keywords": [
+   "마스크팩",
+   "헤어케어",
+   "트러블 패치"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "그로쓰리서치는 기초화장품에 집중됐던 K뷰티의 해외 성장세가 마스크팩과 헤어케어로 넓어지고 있다고 분석했다.",
+  "key_fact_quote": "그로쓰리서치 \" K - 뷰티 성장세, 마스크팩·헤어케어로 확산\"",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

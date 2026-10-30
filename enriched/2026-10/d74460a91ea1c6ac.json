@@ -1,0 +1,63 @@
+{
+ "doc_id": "d74460a91ea1c6ac",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/lubrizol-advances-sulfate-free,28295",
+ "title": "Lubrizol advances sulfate-free formulation with new Glucamate Evolve thickener",
+ "summary": "Lubrizol is launching Glucamate Evolve thickener, a brand new biodegradable, high-performance thickener designed specifically for sulfate-free surfactant systems. According to the company, the ingredient delivers efficient viscosity building, high clarity, enhanced foam quality and fragrance tolerance, enabling formulators to develop cleansing and hair care products combining “mildness, performance and sensory appeal.” With this new development, Lubrizol aims to address evolving...",
+ "published_at": "2026-10-04T02:36:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Lubrizol"
+  ],
+  "keywords": [
+   "설페이트 프리",
+   "생분해성 원료",
+   "증점제",
+   "클린 뷰티",
+   "클렌징 텍스처"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Glucamate Evolve",
+    "brand": "Lubrizol",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Lubrizol is launching Glucamate Evolve thickener, a brand new biodegradable, high-performance thickener designed specifically for sulfate-free surfactant systems.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "루브리졸이 설페이트 프리 계면활성제 시스템에 쓰는 생분해성 증점제 ‘Glucamate Evolve’를 출시했다.",
+  "key_fact_quote": "Lubrizol is launching Glucamate Evolve thickener, a brand new biodegradable, high-performance thickener designed specifically for sulfate-free surfactant systems.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Glucamate Evolve",
+    "quote": "Lubrizol is launching Glucamate Evolve thickener, a brand new biodegradable, high-performance thickener designed specifically for sulfate-free surfactant systems."
+   },
+   {
+    "name": "silicones",
+    "quote": "Its compatibility with silicones and ability to support efficient cationic deposition provide additional flexibility for multifunctional cleansing applications."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": true
+}

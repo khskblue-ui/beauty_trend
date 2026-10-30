@@ -1,0 +1,46 @@
+{
+ "doc_id": "bdeadc94223e9141",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10914463?ref=naver",
+ "title": "한진, LA 이어 토론토에 4200평 물류센터… K뷰티 북미 배송망 확대",
+ "summary": "미국 로스앤젤레스(LA)에 이어 캐나다까지 물류 거점을 확보해 K - 뷰티 기업들의 현지 상품 보관부터 배송까지... 한진은 미국을 중심으로 운영해 온 물류 서비스를 캐나다로 넓혀 국내 수출 기업들의 현지 유통과 배송...",
+ "published_at": "2026-10-26T09:59:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "CA"
+  ],
+  "brands": [],
+  "companies": [
+   "한진"
+  ],
+  "keywords": [
+   "K뷰티 물류",
+   "북미 시장",
+   "현지 물류 거점"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한진이 미국 LA에 이어 캐나다 토론토에 물류센터를 마련해 K뷰티 기업의 북미 배송망을 넓혔다.",
+  "key_fact_quote": "미국 로스앤젤레스(LA)에 이어 캐나다까지 물류 거점을 확보해 K - 뷰티 기업들의 현지 상품 보관부터 배송까지",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

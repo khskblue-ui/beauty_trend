@@ -1,0 +1,44 @@
+{
+ "doc_id": "dd22935ae4699728",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=265142",
+ "title": "무신사, 홍대 이어 성수에 뷰티 매장···약국 전략 확대",
+ "summary": "매장 1층은 스킨케어와 메이크업, 향수 브랜드 를 중심으로 구성했다. 신진 브랜드를 소개하는 '넥스트 뷰티'존과 메이크업 제품을 직접 사용해 볼 수 있는 '터치업 바'를 운영한다. 약 50㎡(15평) 규모의 브랜드 단독...",
+ "published_at": "2026-10-30T09:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "체험형 매장",
+   "신진 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "무신사가 홍대에 이어 성수에 뷰티 매장을 마련하고 스킨케어와 메이크업, 향수 브랜드 위주로 꾸몄다.",
+  "key_fact_quote": "매장 1층은 스킨케어와 메이크업, 향수 브랜드 를 중심으로 구성했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": false
+}

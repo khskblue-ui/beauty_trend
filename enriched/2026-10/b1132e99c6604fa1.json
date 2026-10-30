@@ -1,0 +1,53 @@
+{
+ "doc_id": "b1132e99c6604fa1",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/boots-sold-to-canada-s-wittington,28312",
+ "title": "Boots sold to Canada's Wittington in USD 8.9 billion takeover deal",
+ "summary": "UK pharmacy and beauty retailer Boots is set to be acquired by the Canadian branch of the billionaire Weston family, whose UK arm is the majority owner of Primark, in an USD 8.9 billion (GBP 6.7 billion) takeover deal. Under the terms of the agreement, the family's Wittington Investments, in partnership with Toronto-based Fairfax Financial Holdings, will acquire Boots' retail operations in the UK and Ireland, Boots Opticians and No7 Beauty Company, as well as Boots' Thailand and franchised...",
+ "published_at": "2026-10-08T07:32:39+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "GB",
+   "CA",
+   "IE",
+   "TH"
+  ],
+  "brands": [
+   "No7"
+  ],
+  "companies": [
+   "Boots",
+   "Wittington Investments",
+   "Fairfax Financial Holdings",
+   "Sycamore Partners",
+   "No7 Beauty Company"
+  ],
+  "keywords": [
+   "뷰티 인수합병",
+   "헬스앤뷰티",
+   "드럭스토어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "영국 약국 겸 뷰티 유통업체 Boots가 캐나다 웨스턴 가문의 Wittington Investments에 인수된다.",
+  "key_fact_quote": "UK pharmacy and beauty retailer Boots is set to be acquired by the Canadian branch of the billionaire Weston family",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": true
+}

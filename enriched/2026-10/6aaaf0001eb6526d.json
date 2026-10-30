@@ -1,0 +1,60 @@
+{
+ "doc_id": "6aaaf0001eb6526d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.segyebiz.com/newsView/20261027515076?OutUrl=naver",
+ "title": "스킨퍼즐랩, 공식 론칭… 화살나무 성분 기반 신규 스킨케어 2종 출시",
+ "summary": "2종 출시 사진=스킨퍼즐랩(SKIN PUZZLE LAB) 주식회사 노드메종이 전개하는 신규 스킨케어 브랜드 스킨퍼즐랩... 스킨퍼즐랩은 화살나무의 원료적 특성에 주목해 화장품 원료로서의 새로운 활용 가능성을 모색했다....",
+ "published_at": "2026-10-30T08:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "스킨퍼즐랩"
+  ],
+  "companies": [
+   "노드메종"
+  ],
+  "keywords": [
+   "신규 스킨케어 브랜드",
+   "화살나무 성분"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "화살나무 성분 기반 신규 스킨케어 2종",
+    "brand": "스킨퍼즐랩",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "스킨퍼즐랩, 공식 론칭… 화살나무 성분 기반 신규 스킨케어 2종 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스킨퍼즐랩이 공식 론칭하며 화살나무 성분을 기반으로 한 신규 스킨케어 제품을 출시했다.",
+  "key_fact_quote": "스킨퍼즐랩, 공식 론칭… 화살나무 성분 기반 신규 스킨케어 2종 출시",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "화살나무",
+    "quote": "스킨퍼즐랩은 화살나무의 원료적 특성에 주목해 화장품 원료로서의 새로운 활용 가능성을 모색했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

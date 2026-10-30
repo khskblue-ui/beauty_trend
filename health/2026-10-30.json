@@ -1,6 +1,6 @@
 {
  "day": "2026-10-30",
- "finished_at": "2026-10-30T03:42:02+00:00",
+ "finished_at": "2026-10-30T04:02:56+00:00",
  "sources": {
   "cosmorning": {
    "ok": true,
@@ -123,57 +123,64 @@
   },
   "cosmorning+backfill": {
    "ok": true,
-   "seen": 12,
+   "seen": 11,
    "new": 0,
    "error": null,
-   "note": "backfill 2026-10-27~2026-10-30"
+   "note": "backfill 2026-10-01~2026-10-30"
   },
   "jangup+backfill": {
    "ok": true,
-   "seen": 17,
+   "seen": 11,
    "new": 0,
    "error": null,
-   "note": "backfill 2026-10-27~2026-10-30"
+   "note": "backfill 2026-10-01~2026-10-30"
   },
   "thebk+backfill": {
    "ok": true,
-   "seen": 20,
-   "new": 20,
+   "seen": 5,
+   "new": 0,
    "error": null,
-   "note": "backfill 2026-10-27~2026-10-30"
+   "note": "backfill 2026-10-01~2026-10-30"
   },
   "cosinkorea+backfill": {
    "ok": true,
-   "seen": 25,
+   "seen": 104,
    "new": 0,
    "error": null,
-   "note": "backfill 2026-10-27~2026-10-30"
+   "note": "backfill 2026-10-01~2026-10-30"
   },
   "cosmeticsbusiness+backfill": {
    "ok": true,
-   "seen": 8,
+   "seen": 0,
    "new": 0,
    "error": null,
-   "note": "backfill 2026-10-27~2026-10-30"
+   "note": "backfill 2026-10-01~2026-10-30"
   },
   "premiumbeautynews+backfill": {
    "ok": true,
-   "seen": 2,
+   "seen": 0,
    "new": 0,
    "error": null,
-   "note": "backfill 2026-10-27~2026-10-30"
+   "note": "backfill 2026-10-01~2026-10-30"
   },
   "wwd+backfill": {
    "ok": true,
-   "seen": 15,
-   "new": 0,
+   "seen": 107,
+   "new": 2,
    "error": null,
-   "note": "backfill 2026-10-27~2026-10-30"
+   "note": "backfill 2026-10-01~2026-10-30"
   },
   "naver_news": {
    "ok": true,
    "seen": 362,
    "new": 105,
+   "error": null,
+   "note": null
+  },
+  "naver_news+backfill": {
+   "ok": true,
+   "seen": 2140,
+   "new": 149,
    "error": null,
    "note": null
   }

@@ -1,0 +1,62 @@
+{
+ "doc_id": "9fe383120d4b94b5",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312502",
+ "title": "미국 뷰티시장 2026 인사이드①: 효능·AI·웰니스가 K-뷰티 가른다",
+ "summary": "미국 뷰티 시장의 소비 기준이 빠르게 변화하면서 K-뷰티 기업들의 대응 전략도 새롭게 요구되고 있다.과거에는 브랜드 인지도나 프리미엄 이미지가 소비자 선택의 주요 기준이었다면, 최근에는 임상적 근거와 효능 검증 여부가 구매 결정에 큰 영향을 미치고 있다는 분석이다. 생성형 AI 확산으로 소비자들의 정보 탐색 방식까지 변화하면서 브랜드의 시장 접근 전략도 전환점에 놓였다는 평가다.지난 28일 우주비행바이피알원이 개최한 \\'2026 미국 뷰티 마켓 INSIDER\\' 웨비나에 연사로 나선 유로모니터 인터내셔널 최세령(Julia Choi) 헬",
+ "published_at": "2026-10-29T10:55:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "유로모니터 인터내셔널",
+   "우주비행바이피알원",
+   "아마존"
+  ],
+  "keywords": [
+   "효능 검증",
+   "피부장벽",
+   "웰니스",
+   "AI 추천",
+   "토너패드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유로모니터는 미국 뷰티 시장의 소비 기준이 브랜드 중심에서 효능과 과학적 검증 중심으로 바뀌고 있다고 분석했다.",
+  "key_fact_quote": "유로모니터 인터내셔널 최세령(Julia Choi) 헬스&뷰티 사업개발 매니저는 미국 뷰티 시장의 소비 기준이 브랜드 중심에서 효능과 과학적 검증 중심으로 이동하고 있다고 분석했다.",
+  "events": [
+   {
+    "name": "2026 미국 뷰티 마켓 INSIDER",
+    "start_date": "2026-10-28",
+    "end_date": null,
+    "place": null,
+    "quote": "지난 28일 우주비행바이피알원이 개최한 '2026 미국 뷰티 마켓 INSIDER' 웨비나에 연사로 나선 유로모니터 인터내셔널 최세령(Julia Choi) 헬스&뷰티 사업개발 매니저는 뷰티경제와의 인터뷰에서 \"미국 소비자들은 더 적게 구매하지만 더 까다롭게 선택하고 있다\"고 진단했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "실제로 세라마이드를 핵심 성분으로 내세운 장벽 케어 브랜드들의 성장세도 두드러지고 있다는 설명이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": true
+}

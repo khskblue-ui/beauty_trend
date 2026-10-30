@@ -1,0 +1,44 @@
+{
+ "doc_id": "f717578659228b53",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312310",
+ "title": "3분기 K-뷰티 8대 품목 수출 결산: 기초화장품·샴푸 질주, 립메이크업은 후퇴",
+ "summary": "산업통상자원부에 따르면 2026년 3분기 화장품 수출은 41억6500만 달러를 기록했다. 관세청 수출입무역통계를 분석한 결과, K-뷰티 8대 주요 품목은 전반적으로 성장세를 이어갔지만 품목별 희비는 뚜렷하게 갈린 것으로 나타났다.기초화장품과 샴푸, 마스크팩, 아이메이크업은 두 자릿수 성장률을 기록하며 수출 확대를 이끌었다. 반면 립메이크업과 페이스파우더는 감소세를 보였고 메이크업 전체는 정체에 가까운 흐름을 나타냈다.기초화장품, 16억 달러 돌파…K-뷰티 수출 견인가장 돋보인 품목은 기초화장품이었다.2026년 3분기 기초화장품 수출",
+ "published_at": "2026-10-30T10:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "기초화장품 수출",
+   "샴푸 수출",
+   "마스크팩",
+   "립메이크업 감소",
+   "어린이화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "기초화장품과 샴푸, 마스크팩, 아이메이크업 수출은 큰 폭으로 늘었지만 립메이크업 수출은 줄었다.",
+  "key_fact_quote": "기초화장품과 샴푸, 마스크팩, 아이메이크업은 두 자릿수 성장률을 기록하며 수출 확대를 이끌었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

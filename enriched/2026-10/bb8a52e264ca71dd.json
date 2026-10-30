@@ -1,0 +1,52 @@
+{
+ "doc_id": "bb8a52e264ca71dd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.cstimes.com/news/articleView.html?idxno=725264",
+ "title": "앳홈 '톰', 英 K뷰티 편집숍 '모이다' 입점…초음파 디바이스 등 14종 판...",
+ "summary": "등 뷰티 전문 채널로 판매처를 넓혔다. 유럽에서는 프랑스·이탈리아·독일 등에서 모이다 입점을 논의 중이다. 톰 브랜드 관계자는 \"영국을 비롯한 유럽 시장에서 한국 화장품 수출 성장에 주목하고 있다\"며 \"영국 판매...",
+ "published_at": "2026-10-26T11:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB",
+   "FR",
+   "IT",
+   "DE"
+  ],
+  "brands": [
+   "톰",
+   "모이다"
+  ],
+  "companies": [
+   "앳홈"
+  ],
+  "keywords": [
+   "K뷰티 편집숍",
+   "영국 시장",
+   "유럽 시장",
+   "뷰티 디바이스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "앳홈의 톰이 영국 K뷰티 편집숍 모이다에 입점했다.",
+  "key_fact_quote": "앳홈 '톰', 英 K뷰티 편집숍 '모이다' 입점",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "e1f2fd0f68b42272",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/italy-s-beauty-retail-chain,28292",
+ "title": "Italy's beauty retail chain Pinalli acquired by Borletti Group",
+ "summary": "The investment firm Borletti, which owns the Lafarmacia pharmacy chain (Hippocrates Holding) and fashion brands including True Religion, Moose Knuckles, and Twinset, has acquired Italian perfume retailer Pinalli (www.pinalli.it) from private equity firm H.I.G. Capital. Financial terms were not disclosed. Founded in 1984 in Fiorenzuola d'Arda (Piacenza), Pinalli has steadily expanded its retail footprint and now operates 108 stores specializing in fragrances and beauty products. Today,...",
+ "published_at": "2026-10-02T21:44:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "IT"
+  ],
+  "brands": [],
+  "companies": [
+   "Borletti Group",
+   "Pinalli",
+   "H.I.G. Capital"
+  ],
+  "keywords": [
+   "향수 전문 유통",
+   "유통 체인 인수",
+   "매장 확장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "투자회사 보를레티 그룹이 이탈리아 뷰티 유통 체인 피날리를 인수했다.",
+  "key_fact_quote": "Italy's beauty retail chain Pinalli acquired by Borletti Group",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": true
+}

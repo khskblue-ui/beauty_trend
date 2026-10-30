@@ -1,0 +1,84 @@
+{
+ "doc_id": "d05ba9e6d597f7e0",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100317",
+ "title": "아모레퍼시픽그룹, 3분기 영업익 1301억 24.7%↑…해외·국내 동반 성장",
+ "summary": "아모레퍼시픽 그룹이 2026년 3분기 연결 기준 매출 1조 2,073억 원, 영업이익 1,301억 원을 기록했다. 전년 동기 대비 매출은 8.9%, 영업이익은 24.7% 증가했다. 영업이익률도 전년 동기 9.4%에서 10.8%로 1.4%p 개선됐다.올해 3분기 아모레퍼시픽 그룹은 국내 사업의 수익성이 개선된 가운데 ▲북미에서 에스트라와 이니스프리 등이 고성장하며 멀티브랜드 성장 체제가 강화됐다. ▲일본과 인도 등 주요 성장 시장에서도 고객 접점이 증가하고 성과가 확대됐으며 ▲차세대 글로벌 성장축으로 육성 중인 더마와 헤어케어 카테고",
+ "published_at": "2026-10-30T09:47:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "JP",
+   "IN",
+   "GB",
+   "CN"
+  ],
+  "brands": [
+   "에스트라",
+   "이니스프리",
+   "설화수",
+   "헤라",
+   "일리윤",
+   "아이오페",
+   "한율",
+   "미쟝센",
+   "코스알엑스",
+   "라네즈",
+   "마몽드",
+   "려",
+   "라보에이치",
+   "에뛰드",
+   "에스쁘아",
+   "아모스프로페셔널",
+   "오설록"
+  ],
+  "companies": [
+   "아모레퍼시픽그룹",
+   "아모레퍼시픽",
+   "세포라",
+   "아마존",
+   "Boots",
+   "Matas",
+   "틱톡샵"
+  ],
+  "keywords": [
+   "멀티브랜드 성장",
+   "더마뷰티",
+   "헤어케어",
+   "클리니컬 스킨케어",
+   "PDRN"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아모레퍼시픽그룹의 분기 매출과 영업이익이 해외와 국내 사업의 동반 성장으로 전년 같은 기간보다 늘었다.",
+  "key_fact_quote": "전년 동기 대비 매출은 8.9%, 영업이익은 24.7% 증가했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "이니스프리도 그린티·선케어 제품과 PDRN 라인의 판매 확대에 힘입어 50% 이상 성장했다."
+   },
+   {
+    "name": "그린티",
+    "quote": "이니스프리도 그린티·선케어 제품과 PDRN 라인의 판매 확대에 힘입어 50% 이상 성장했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

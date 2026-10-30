@@ -1,0 +1,48 @@
+{
+ "doc_id": "1da10aa7bc1e41e7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.greened.kr/news/articleView.html?idxno=353481",
+ "title": "3CE 김소희·롬앤(rom&nd) 민새롬...K-뷰티 대표 브랜드 이끈 여성 리더 ...",
+ "summary": "김 대표는 지난 2월 화장품 제조 및 전자상거래 기업 '와닿다'를 세우고 시튜에아를 출시 했는데 시튜에아는 프랑스어로 '자리하다', '머무르다'란 뜻이다. 일상의 모든 상황(situation)에서 편안한 메이크업을 제안한다는...",
+ "published_at": "2026-10-30T12:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "3CE",
+   "롬앤",
+   "시튜에아"
+  ],
+  "companies": [
+   "와닿다"
+  ],
+  "keywords": [
+   "K-뷰티 여성 리더",
+   "뷰티 창업",
+   "편안한 메이크업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "김 대표가 화장품 제조와 전자상거래 기업 와닿다를 세우고 시튜에아를 출시했다.",
+  "key_fact_quote": "김 대표는 지난 2월 화장품 제조 및 전자상거래 기업 '와닿다'를 세우고 시튜에아를 출시 했는데 시튜에아는 프랑스어로 '자리하다', '머무르다'란 뜻이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": false
+}

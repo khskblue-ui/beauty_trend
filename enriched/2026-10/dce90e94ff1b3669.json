@@ -1,0 +1,43 @@
+{
+ "doc_id": "dce90e94ff1b3669",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.m-i.kr/news/articleView.html?idxno=2010110",
+ "title": "中企 수출 334억달러 '역대 3분기 최대'… K - 뷰티 ·반도체 견인",
+ "summary": "북미와 유럽을 중심으로 K - 뷰티 수출 이 확대되고 인공지능(AI) 산업 호황에 따른 반도체 수요가 늘어났다. 중소벤처기업부는 올해 3분기 중소기업 수출액이 334억달러로 지난해 같은 기간보다 8.8% 증가했다고 26일...",
+ "published_at": "2026-10-26T12:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K 뷰티 수출",
+   "중소기업 수출",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "e04507850af58cb5",
+ "enriched_at": "2026-10-30T04:04:54+00:00",
+ "had_body": false
+}

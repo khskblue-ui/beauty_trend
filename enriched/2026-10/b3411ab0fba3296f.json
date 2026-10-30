@@ -1,0 +1,103 @@
+{
+ "doc_id": "b3411ab0fba3296f",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53829",
+ "title": "리쥬비, 도레미약국 성수점서 팝업스토어 운영",
+ "summary": "파마리서치메디케어(대표 서영재)가 10월 30일부터 11월 12일까지 14일 동안 서울 도레미약국 성수점에서 리쥬비 팝업스토어를 운영한다. 이번 팝업스토어에선 약국 전용 뷰티 브랜드 리쥬비를 소개한다. 대표 제품인 △ c-PDRN 기반 ‘리쥬비-에스 앰플’ △ 점착성투명창상피복재 ‘리쥬비-MD 크림…",
+ "published_at": "2026-10-30T09:26:56+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리쥬비"
+  ],
+  "companies": [
+   "파마리서치메디케어",
+   "파마리서치"
+  ],
+  "keywords": [
+   "팜뷰티",
+   "PDRN 화장품",
+   "약국 화장품",
+   "코스메슈티컬",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리쥬비-에스 앰플",
+    "brand": "리쥬비",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "리쥬비-MD 크림",
+    "brand": "리쥬비",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "리쥬비-에스 마스크",
+    "brand": "리쥬비",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "디엔에이 핏 젤리",
+    "brand": "리쥬비",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "파마리서치메디케어가 서울 도레미약국 성수점에서 리쥬비 팝업스토어를 운영한다.",
+  "key_fact_quote": "파마리서치메디케어(대표 서영재)가 10월 30일부터 11월 12일까지 14일 동안 서울 도레미약국 성수점에서 리쥬비 팝업스토어를 운영한다.",
+  "events": [
+   {
+    "name": "리쥬비 팝업스토어",
+    "start_date": "2026-10-30",
+    "end_date": "2026-11-12",
+    "place": "서울 도레미약국 성수점",
+    "quote": "파마리서치메디케어(대표 서영재)가 10월 30일부터 11월 12일까지 14일 동안 서울 도레미약국 성수점에서 리쥬비 팝업스토어를 운영한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "파마리서치메디케어 관계자는 “리쥬비는 파마리서치의 독자적인 PDRN 연구 기술력을 바탕으로 개발됐다."
+   },
+   {
+    "name": "c-PDRN",
+    "quote": "대표 제품인 △ c-PDRN 기반 ‘리쥬비-에스 앰플’ △ 점착성투명창상피복재 ‘리쥬비-MD 크림’ △ 리쥬비-에스 마스크’ 4종 △ 이너뷰티 제품인 ‘디엔에이 핏 젤리’ 등을 전시한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

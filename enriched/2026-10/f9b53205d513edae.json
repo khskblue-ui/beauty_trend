@@ -1,0 +1,45 @@
+{
+ "doc_id": "f9b53205d513edae",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=120847",
+ "title": "[키-리포트] 미래에셋 \"동국제약, 해외 화장품으로 성장 중심 이동\"",
+ "summary": "헬스& 뷰티 영역으로의 본격적 확장 의지를 반영한 것으로 보인다. 향후 화장품 중심의 수출 다각화를 통한... 글로벌 K -더마 브랜드로 확장되는 국면에 진입했다\"라고 판단했다. 서 연구원은 이를 감안한 동국제약의...",
+ "published_at": "2026-10-27T07:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "동국제약",
+   "미래에셋"
+  ],
+  "keywords": [
+   "K-더마",
+   "제약사 화장품 사업",
+   "화장품 수출 다각화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미래에셋은 동국제약의 성장 중심이 해외 화장품 사업으로 옮겨 가고 있다고 분석했다.",
+  "key_fact_quote": "미래에셋 \"동국제약, 해외 화장품으로 성장 중심 이동\"",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

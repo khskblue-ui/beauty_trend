@@ -1,0 +1,45 @@
+{
+ "doc_id": "320b5a7e170d5f19",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=248580",
+ "title": "베몽테스, 美 LA K - 뷰티 팝업 성료…\"프리미엄 스킨케어 브랜드 경쟁력...",
+ "summary": "열린 K - 뷰티 팝업 행사 '송 오브 스킨(Song of Skin)'에 참가해 현지 소비자와 에스테틱 업계의 관심을 받으며... 제품을 수출 하고 있는 스킨케어 브랜드다. 전문 에스테틱 시장에서 축적한 피부 관리 노하우와 전문가용...",
+ "published_at": "2026-10-28T09:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "베몽테스"
+  ],
+  "companies": [],
+  "keywords": [
+   "프리미엄 스킨케어",
+   "에스테틱",
+   "팝업 행사"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "베몽테스가 미국 LA에서 열린 K뷰티 팝업 행사 송 오브 스킨에 참가해 현지 소비자와 에스테틱 업계의 관심을 받았다.",
+  "key_fact_quote": "열린 K - 뷰티 팝업 행사 '송 오브 스킨(Song of Skin)'에 참가해 현지 소비자와 에스테틱 업계의 관심을 받으며",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

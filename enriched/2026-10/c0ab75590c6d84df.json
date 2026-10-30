@@ -1,0 +1,48 @@
+{
+ "doc_id": "c0ab75590c6d84df",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/science-chosun/bio/2026/10/30/SXKKMNH3AVAIXIYIQDSUT5Q6LU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "뷰티 키워 신약개발 자금 버는 K바이오…美·유럽 판로 넓힌다",
+ "summary": "100% 자회사 블룸파트너스를 통해 국내 뷰티 브랜드의 미국 수출 ·유통사인 올블룸 지분 64.46%를 인수해 경영권을 확보했다. 자사 화장품 브랜드 ‘유이크(UIQ)’의 미국 시장 진출을 확대하기 위해서다. 올블룸은 미국...",
+ "published_at": "2026-10-30T06:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "유이크"
+  ],
+  "companies": [
+   "블룸파트너스",
+   "올블룸"
+  ],
+  "keywords": [
+   "제약바이오 뷰티 진출",
+   "미국 유통",
+   "뷰티 인수합병"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 브랜드 유이크를 가진 바이오 기업이 자회사 블룸파트너스로 미국 수출과 유통을 맡는 올블룸의 경영권을 확보했다.",
+  "key_fact_quote": "100% 자회사 블룸파트너스를 통해 국내 뷰티 브랜드의 미국 수출 ·유통사인 올블룸 지분 64.46%를 인수해 경영권을 확보했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

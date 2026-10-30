@@ -1,0 +1,44 @@
+{
+ "doc_id": "1cf523820231ab51",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261026000121",
+ "title": "K뷰티 ·반도체 수출 호조…中企 수출 334억달러 '역대 분기 최대'",
+ "summary": "K뷰티 와 반도체 수출 호조에 힘입어 올해 3분기 중소기업 수출 이 역대 3분기 최고치를 기록했다. 미국과 유럽 등 주력시장에서 화장품 수출 이 가파르게 증가한 데다 중남미 등 신흥시장으로 판로가 확대되면서...",
+ "published_at": "2026-10-26T12:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "중소기업 수출",
+   "신흥시장",
+   "중남미 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "d5b572a613d6bde8",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": false
+}

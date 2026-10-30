@@ -1,0 +1,50 @@
+{
+ "doc_id": "0e75e1e8f600a38c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sentv.co.kr/article/view/sentv202610300075",
+ "title": "랜딩인터내셔널, ‘코리아 엑스포 LA’서 K뷰티 美 리테일 진출 해법 제...",
+ "summary": "바이어들과 수출 상담을 전개했다. 정 대표는 ‘새로운 K뷰티 플레이북: 틱톡샵, 리테일, 그리고 지속 성장 전략’ 강연을 통해 급변하는 북미 뷰티 시장의 소비 지형을 집중 분석했다. 닐슨IQ 집계 기준 미국 내 K뷰티 ...",
+ "published_at": "2026-10-30T11:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "랜딩인터내셔널",
+   "한국무역협회",
+   "엑스포럼",
+   "NielsenIQ"
+  ],
+  "keywords": [
+   "K뷰티 미국 진출",
+   "틱톡샵",
+   "리테일 전략",
+   "제3의 물결"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "7e1b982ec34b00a0",
+ "enriched_at": "2026-10-30T04:04:54+00:00",
+ "had_body": false
+}

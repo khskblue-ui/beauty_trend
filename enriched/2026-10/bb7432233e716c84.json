@@ -1,0 +1,48 @@
+{
+ "doc_id": "bb7432233e716c84",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53827",
+ "title": "올리브인터내셔널, 밀크터지 인재 채용",
+ "summary": "올리브인터내셔널은 색조 브랜드 밀크터치의 글로벌 성장을 이끌 인재를 채용한다. 모집 분야는 △ 제품기획 △ 글로벌 SNS 콘텐츠 기획·운영 △ 국내 IMC 마케터 △ 글로벌 인플루언서 마케터 △ BX(Brand Experience) 등이다. 담당 업무는 차기 히트 제품 기획부터 일본·북미 바이럴 확산, 올리…",
+ "published_at": "2026-10-30T09:09:29+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "other",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "밀크터치"
+  ],
+  "companies": [
+   "올리브인터내셔널"
+  ],
+  "keywords": [
+   "뷰티 인재 채용",
+   "글로벌 SNS 마케팅",
+   "인플루언서 마케팅",
+   "바이럴 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "올리브인터내셔널이 색조 브랜드 밀크터치의 글로벌 성장을 이끌 인재를 뽑는다.",
+  "key_fact_quote": "올리브인터내셔널은 색조 브랜드 밀크터치의 글로벌 성장을 이끌 인재를 채용한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

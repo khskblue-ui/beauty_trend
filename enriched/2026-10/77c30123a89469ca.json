@@ -1,0 +1,50 @@
+{
+ "doc_id": "77c30123a89469ca",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://byline.network/?p=9004111222625441",
+ "title": "위고페어, 위조 화장품 ‘시범구매’ 기능 정식 도입",
+ "summary": "한국소비자원이 해외 유명 브랜드 위조 화장품 34개를 조사한 결과 11개 제품에서 안전기준을 초과한 유해물질이 검출됐다. 일부 위조 향수 에서는 메탄올이 허용 기준보다 최대 484배 높은 수준으로 확인됐다. 온라인...",
+ "published_at": "2026-10-30T11:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "위고페어"
+  ],
+  "keywords": [
+   "위조 화장품",
+   "위조 향수",
+   "시범구매",
+   "유해물질 검출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "위고페어가 위조 화장품 ‘시범구매’ 기능을 정식 도입했다.",
+  "key_fact_quote": "위고페어, 위조 화장품 ‘시범구매’ 기능 정식 도입",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "메탄올",
+    "quote": "일부 위조 향수 에서는 메탄올이 허용 기준보다 최대 484배 높은 수준으로 확인됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": false
+}

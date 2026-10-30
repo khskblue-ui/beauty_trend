@@ -1,0 +1,58 @@
+{
+ "doc_id": "ad963bedb7a92456",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/distribution/6332908",
+ "title": "피지오겔, 비타민C 화장품 '데일리뮨 앰플' 200만병 판매 돌파",
+ "summary": "시장에서도 핵심 제품으로 안착하며 성과를 거두고 있다\"고 밝혔다. 최근 뷰티업계에서는 성분과 효능을 꼼꼼히 따지는 소비자가 늘면서 미백과 색소침착 개선 기능이 있는 비타민C를 넣은 화장품 을 출시 하고 있다.",
+ "published_at": "2026-10-27T09:49:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "피지오겔"
+  ],
+  "companies": [],
+  "keywords": [
+   "비타민C 화장품",
+   "미백",
+   "색소침착 개선",
+   "성분 중심 소비"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "데일리뮨 앰플",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "피지오겔은 비타민C 화장품 데일리뮨 앰플이 많이 팔리며 핵심 제품으로 자리 잡았다고 밝혔다.",
+  "key_fact_quote": "피지오겔, 비타민C 화장품 '데일리뮨 앰플' 200만병 판매 돌파",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "비타민C",
+    "quote": "최근 뷰티업계에서는 성분과 효능을 꼼꼼히 따지는 소비자가 늘면서 미백과 색소침착 개선 기능이 있는 비타민C를 넣은 화장품 을 출시 하고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

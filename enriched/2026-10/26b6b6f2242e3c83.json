@@ -1,0 +1,43 @@
+{
+ "doc_id": "26b6b6f2242e3c83",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365218",
+ "title": "K뷰티 ·반도체 날개…중기 수출 역대 최대",
+ "summary": "북미와 유럽뿐 아니라 중남미까지 K - 뷰티 수출 시장이 넓어진 가운데 중동 지역 자동차 수출은 크게 줄었다. 중소벤처기업부가 26일 발표한 '2026년 3분기 중소기업 수출 동향'에 따르면 3분기 중소기업...",
+ "published_at": "2026-10-27T08:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "수출국 다변화",
+   "중소기업 온라인 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "4603cd3d90ea1a23",
+ "enriched_at": "2026-10-30T04:04:54+00:00",
+ "had_body": false
+}

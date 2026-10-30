@@ -1,0 +1,89 @@
+{
+ "doc_id": "d97e4d368b4d4a9d",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100319",
+ "title": "에뛰드, ‘글로이 구미 밤’",
+ "summary": "즐거운 화장놀이 문화를 전파하는 글로벌 메이크업 브랜드 '에뛰드’에서 부드러운 발림성과 맑은 발색, 탱글한 광을 모두 갖춘 신제품 ‘글로이 구미 밤’을 출시한다.‘진저슈가 오버나이트 립 마스크’, ‘진저슈가 립 세럼’ 등 다양한 립케어 제품으로 꾸준히 사랑받아온 에뛰드는 다가오는 겨울, 보습은 물론 예쁜 컬러와 광까지 모두 잡은 새로운 컬러 립밤을 선보인다. 신제품 ‘글로이 구미 밤’은 푸딩 젤리처럼 탱글하게 차오르는 ‘구미광’이 특징으로, 입술 위에 부드럽게 녹아들 듯 발려 한 번만 발라도 편안하면서 생기 있는 립 메이크업",
+ "published_at": "2026-10-30T10:38:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "에뛰드"
+  ],
+  "companies": [],
+  "keywords": [
+   "컬러 립밤",
+   "립케어",
+   "뮤트 컬러",
+   "크리에이터 협업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "글로이 구미 밤",
+    "brand": "에뛰드",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "즐거운 화장놀이 문화를 전파하는 글로벌 메이크업 브랜드 '에뛰드’에서 부드러운 발림성과 맑은 발색, 탱글한 광을 모두 갖춘 신제품 ‘글로이 구미 밤’을 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "진저슈가 오버나이트 립 마스크",
+    "brand": "에뛰드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "진저슈가 립 세럼",
+    "brand": "에뛰드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "누디 베이스 립펜슬 미니",
+    "brand": "에뛰드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에뛰드가 맑은 발색과 탱글한 광을 갖춘 립밤 신제품 글로이 구미 밤을 출시한다.",
+  "key_fact_quote": "즐거운 화장놀이 문화를 전파하는 글로벌 메이크업 브랜드 '에뛰드’에서 부드러운 발림성과 맑은 발색, 탱글한 광을 모두 갖춘 신제품 ‘글로이 구미 밤’을 출시한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "아보카도 유래 성분",
+    "quote": "또한 건조해지기 쉬운 겨울철에도 편안하게 사용할 수 있도록 아보카도 유래 성분, 100% 올리브 유래 스쿠알란 등 보습 성분을 더해 립 케어 기능도 놓치지 않았다."
+   },
+   {
+    "name": "스쿠알란",
+    "quote": "또한 건조해지기 쉬운 겨울철에도 편안하게 사용할 수 있도록 아보카도 유래 성분, 100% 올리브 유래 스쿠알란 등 보습 성분을 더해 립 케어 기능도 놓치지 않았다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "c9cfd0f230cf86a0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kukinews.com/article/view/kuk202610290209",
+ "title": "가짜가 번 돈, ‘찐’ K뷰티 가 치르는 값 [취재진담]",
+ "summary": "K뷰티 의 수출 이 늘고 해외에서 한국 화장품을 찾는 소비자가 많아질수록, 그 이름을 도용한 제품에 노출될 가능성도 살펴야 한다. 소비자는 가짜를 사겠다고 선택하지 않았다. 정품을 믿고 구매한 사람이 출처를 알 수...",
+ "published_at": "2026-10-30T08:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "위조 화장품",
+   "브랜드 도용"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 수출이 늘수록 해외 소비자가 한국 화장품 이름을 도용한 제품에 노출될 가능성도 살펴야 한다는 지적이 나왔다.",
+  "key_fact_quote": "K뷰티 의 수출 이 늘고 해외에서 한국 화장품을 찾는 소비자가 많아질수록, 그 이름을 도용한 제품에 노출될 가능성도 살펴야 한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

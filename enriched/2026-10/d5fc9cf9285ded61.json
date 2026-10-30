@@ -1,0 +1,46 @@
+{
+ "doc_id": "d5fc9cf9285ded61",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.segyebiz.com/newsView/20261026504750?OutUrl=naver",
+ "title": "베몽테스, 美 LA서 ‘송 오브 스킨’ 팝업 마무리…프리미엄 K - 뷰티 경쟁...",
+ "summary": "글로벌 K - 뷰티 브랜드들과 함께한 ‘송 오브 스킨’ 팝업 하루 평균 1,000명 이상 방문 13시간 운전해 찾은... 베몽테스는 국내 약 7000개 에스테틱 및 전문기관을 기반으로 성장해 현재 전 세계 26개국에 제품을 수출 하고...",
+ "published_at": "2026-10-26T09:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "베몽테스"
+  ],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 팝업스토어",
+   "프리미엄 K-뷰티",
+   "에스테틱 브랜드",
+   "미국 시장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "베몽테스가 미국 LA에서 송 오브 스킨 팝업을 마쳤다.",
+  "key_fact_quote": "베몽테스, 美 LA서 ‘송 오브 스킨’ 팝업 마무리",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

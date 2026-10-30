@@ -1,0 +1,51 @@
+{
+ "doc_id": "4eb077c6eb049350",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=578531&class=17&grp=",
+ "title": "홍대 이어 성수서 재격돌…무신사 '인디 뷰티' vs 올리브영 '웰니스'",
+ "summary": "스킨케어와 메이크업, 향수 , 헤어·바디케어 등 700여개 브랜드 의 상품 1만여개를 선보인다. 특히 입점 브랜드 가운데 99개는 무신사 뷰티 오프라인 매장에 처음 입점한다. 코스알엑스와 바이오더마, 질스튜어트 뷰티...",
+ "published_at": "2026-10-30T10:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사 뷰티",
+   "코스알엑스",
+   "바이오더마",
+   "질스튜어트 뷰티"
+  ],
+  "companies": [
+   "무신사",
+   "올리브영"
+  ],
+  "keywords": [
+   "인디 뷰티",
+   "웰니스",
+   "오프라인 뷰티 매장",
+   "성수 상권"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 인디 뷰티를, 올리브영이 웰니스를 내세워 홍대에 이어 성수에서 다시 맞붙는다.",
+  "key_fact_quote": "홍대 이어 성수서 재격돌…무신사 '인디 뷰티' vs 올리브영 '웰니스'",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,84 @@
+{
+ "doc_id": "fa55a048c1e1fb7a",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53828",
+ "title": "스킨수티컬즈 피티옥스 크림",
+ "summary": "로레알 스킨수티컬즈가 ‘피티옥스 크림’을 선보였다. 피티옥스 크림(P-TIOX Cream)은 주름과 느슨해진 모공 등 피부 노화 징후를 정밀하게 관리한다. 로레알 독자 성분인 식물 추출물 복합체 미릭신™(Myrixin™)과 다이펩타이드를 함유했다. 피부를 젊고 탄력있게 가꿔준다. 크리스탈라이드(테트라…",
+ "published_at": "2026-10-30T09:16:50+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "스킨수티컬즈"
+  ],
+  "companies": [
+   "로레알"
+  ],
+  "keywords": [
+   "안티에이징",
+   "모공 케어",
+   "펩타이드",
+   "주름 개선"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "피티옥스 크림",
+    "brand": "스킨수티컬즈",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "로레알 스킨수티컬즈가 ‘피티옥스 크림’을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "로레알 스킨수티컬즈가 주름과 모공 같은 피부 노화 징후를 관리하는 피티옥스 크림을 선보였다.",
+  "key_fact_quote": "로레알 스킨수티컬즈가 ‘피티옥스 크림’을 선보였다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "미릭신",
+    "quote": "로레알 독자 성분인 식물 추출물 복합체 미릭신™(Myrixin™)과 다이펩타이드를 함유했다."
+   },
+   {
+    "name": "다이펩타이드",
+    "quote": "로레알 독자 성분인 식물 추출물 복합체 미릭신™(Myrixin™)과 다이펩타이드를 함유했다."
+   },
+   {
+    "name": "크리스탈라이드",
+    "quote": "크리스탈라이드(테트라펩타이드)와 나이아신아마이드, 징크 PCA, LHA 등이 모공과 피부결을 케어한다."
+   },
+   {
+    "name": "테트라펩타이드",
+    "quote": "크리스탈라이드(테트라펩타이드)와 나이아신아마이드, 징크 PCA, LHA 등이 모공과 피부결을 케어한다."
+   },
+   {
+    "name": "나이아신아마이드",
+    "quote": "크리스탈라이드(테트라펩타이드)와 나이아신아마이드, 징크 PCA, LHA 등이 모공과 피부결을 케어한다."
+   },
+   {
+    "name": "징크 PCA",
+    "quote": "크리스탈라이드(테트라펩타이드)와 나이아신아마이드, 징크 PCA, LHA 등이 모공과 피부결을 케어한다."
+   },
+   {
+    "name": "LHA",
+    "quote": "크리스탈라이드(테트라펩타이드)와 나이아신아마이드, 징크 PCA, LHA 등이 모공과 피부결을 케어한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

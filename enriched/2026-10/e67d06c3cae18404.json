@@ -1,0 +1,48 @@
+{
+ "doc_id": "e67d06c3cae18404",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etoday.co.kr/news/view/2642130",
+ "title": "무신사, 11월 성수에 ‘뷰티 놀이터’ 연다…400평에 약국까지",
+ "summary": "이어패치 브랜드 키보, 샤워장갑 브랜드 아쿠엘라 등 신진 브랜드 도 판매한다. 1층은 스킨케어·메이크업· 향수 중심으로 구성한다. 성장 가능성이 높은 신진 브랜드 를 소개하는 ‘넥스트 뷰티존’과 메이크업 제품을...",
+ "published_at": "2026-10-30T09:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "키보",
+   "아쿠엘라"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "뷰티 편집숍",
+   "오프라인 유통",
+   "신진 브랜드",
+   "약국 결합 매장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "무신사가 성수에 약국까지 갖춘 뷰티 매장을 연다.",
+  "key_fact_quote": "무신사, 11월 성수에 ‘뷰티 놀이터’ 연다…400평에 약국까지",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,91 @@
+{
+ "doc_id": "b61752c3f8697775",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100325",
+ "title": "나스(NARS), ‘더 홀리데이 2026 컬렉션’",
+ "summary": "모던 메이크업 아티스트리 브랜드 나스(NARS)가 반짝이는 설원과 스키 슬로프의 짜릿한 순간에서 영감을 받은 ‘더 홀리데이 2026 컬렉션(THE HOLIDAY 2026 COLLECTION)’을 선보인다.이번 컬렉션은 찬 공기에 물든 듯한 치크와 눈꽃 쌓인 설원처럼 반짝이는 아이시 글로우 등 겨울의 눈부신 순간을 ‘스노우 키스드(SNOW-KISSED)’ 메이크업 룩으로 연출할 수 있는 컬렉션이다. 스키웨어에서 영감 받은 메탈릭 실버와 패딩 디테일의 한정판 패키지를 비롯해 다양한 카테고리의 제품과 활용도 높은 듀오 구성으로 홀리데이",
+ "published_at": "2026-10-30T11:00:57+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "나스"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "한정판 패키지",
+   "아이시 글로우",
+   "겨울 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "라이트 리플렉팅™ 세럼 쿠션 파운데이션 리미티드 케이스",
+    "brand": "나스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "먼저 나스의 베스트셀러 ‘라이트 리플렉팅™ 세럼 쿠션 파운데이션’을 더욱 특별하게 완성해 줄 홀리데이 한정판 쿠션 케이스가 출시된다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "라이트 리플렉팅™ 프리즈마틱 파우더",
+    "brand": "나스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "매년 리미티드 쉐이드 출시마다 큰 사랑을 받아온 ‘라이트 리플렉팅™ 프리즈마틱 파우더’는 이번 홀리데이 시즌을 맞아 ‘이터널 스노우’ 컬러로 출시된다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아틱 립 쉰",
+    "brand": "나스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "새롭게 선보이는 ‘아틱 립 쉰’은 ‘아이시 립 밤’이라는 애칭에 걸맞은 블루 컬러의 립 밤으로, 입술 pH에 반응해 자연스러운 핑크빛 혈색을 연출한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아프레 스키 치크 & 아이 팔레트",
+    "brand": "나스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "‘아프레 스키 치크 & 아이 팔레트’는 우아한 아이 메이크업을 완성하는 아이섀도우, 찬 바람에 물든 듯한 치크를 연출하는 블러쉬, 눈꽃처럼 반짝이는 아이시 하이라이터로 구성된 #아스펜 하이랜드, #스노우 게임즈 두가지 컬러로 출시되어 겨울 무드 가득한 SNOW-KISSED 홀리데이 메이크업 룩을 연출할 수 있다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "라인 앤 샤인 립 듀오",
+    "brand": "나스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "주요 제품은 ▲라이트 리플렉팅™ 세럼 쿠션 파운데이션 리미티드 케이스 ▲라이트 리플렉팅™ 프리즈마틱 파우더 ▲아틱 립 쉰 ▲아프레 스키 치크 & 아이 팔레트 ▲라인 앤 샤인 립 듀오로 구성된다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "나스가 설원과 스키 슬로프에서 영감을 받은 홀리데이 컬렉션을 선보인다.",
+  "key_fact_quote": "모던 메이크업 아티스트리 브랜드 나스(NARS)가 반짝이는 설원과 스키 슬로프의 짜릿한 순간에서 영감을 받은 ‘더 홀리데이 2026 컬렉션(THE HOLIDAY 2026 COLLECTION)’을 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

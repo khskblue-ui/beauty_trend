@@ -1,0 +1,51 @@
+{
+ "doc_id": "103364c6603567fe",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.bloter.net/news/articleView.html?idxno=676195",
+ "title": "제네셀, 日 줄기세포 원료 입고…첫 화장품 양산은 검증 후",
+ "summary": "입고를 마쳤지만 코스맥스의 화장품 양산은 시작되지 않았다. 연내 출시 는 불발됐고 첫 제품은 빠르면 내년 1분기 선보인다. 상업용 원료 확보로 제네셀의 첫 화장품 사업은 실제 제품 생산을 앞둔 단계로 옮겨갔다....",
+ "published_at": "2026-10-21T07:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "제네셀",
+   "코스맥스"
+  ],
+  "keywords": [
+   "줄기세포 원료",
+   "줄기세포 화장품",
+   "화장품 양산"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제네셀이 일본 줄기세포 원료를 들여왔고 첫 화장품 양산은 검증을 거친 뒤 시작한다.",
+  "key_fact_quote": "제네셀, 日 줄기세포 원료 입고…첫 화장품 양산은 검증 후",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "줄기세포 원료",
+    "quote": "제네셀, 日 줄기세포 원료 입고…첫 화장품 양산은 검증 후"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

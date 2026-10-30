@@ -1,0 +1,73 @@
+{
+ "doc_id": "3560b87dc7a98f79",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100323",
+ "title": "에스쁘아, ‘플럼프 스킨 커버 쿠션’",
+ "summary": "메이크업 전문 브랜드 에스쁘아가 고효능 스킨케어 성분을 담아 메이크업과 피부 관리를 동시에 실현하는 ‘플럼프 스킨 커버 쿠션’을 새롭게 출시한다.최근 뷰티 트렌드는 건강한 아름다움을 오랫동안 유지하려는 ‘롱제비티(Longevity)’가 주도하고 있다. 일회성 시술보다 매일 지속하는 습관으로 피부를 가꾸는 라이프스타일이 자리 잡으면서, 메이크업 영역에서도 단순한 결점 커버를 넘어 피부에 영양을 공급하는 고효능 메이크업 제품에 대한 수요가 급증하는 추세다.에스쁘아는 이러한 변화에 발맞춰 수정 화장 등 일상에서 자주 사용하는 쿠션에 스킨",
+ "published_at": "2026-10-30T10:58:29+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "에스쁘아"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "세더마"
+  ],
+  "keywords": [
+   "롱제비티",
+   "고효능 메이크업",
+   "관리쿠션",
+   "세미 글로우",
+   "비건 인증"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "플럼프 스킨 커버 쿠션",
+    "brand": "에스쁘아",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "메이크업 전문 브랜드 에스쁘아가 고효능 스킨케어 성분을 담아 메이크업과 피부 관리를 동시에 실현하는 ‘플럼프 스킨 커버 쿠션’을 새롭게 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에스쁘아가 고효능 스킨케어 성분을 담은 쿠션 ‘플럼프 스킨 커버 쿠션’을 새로 출시한다.",
+  "key_fact_quote": "메이크업 전문 브랜드 에스쁘아가 고효능 스킨케어 성분을 담아 메이크업과 피부 관리를 동시에 실현하는 ‘플럼프 스킨 커버 쿠션’을 새롭게 출시한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "보르피린",
+    "quote": "핵심 성분은 최근 뷰티 업계에서 가장 뜨거운 성분으로 꼽히는 ‘보르피린’이다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "에스쁘아는 이 보르피린을 30,000ppm 담고 펩타이드와 아데노신까지 더해, 3단계로 피부의 겉탄력과 속탄력을 탄탄하게 채우는 ‘3 STEP 스킨 플럼핑’ 시스템을 완성했다."
+   },
+   {
+    "name": "아데노신",
+    "quote": "에스쁘아는 이 보르피린을 30,000ppm 담고 펩타이드와 아데노신까지 더해, 3단계로 피부의 겉탄력과 속탄력을 탄탄하게 채우는 ‘3 STEP 스킨 플럼핑’ 시스템을 완성했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "801d923cc6c079f4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/article/all/20261022/134887497/2",
+ "title": "“틱톡샵 매출 11.2배”…K-뷰티·푸드, 해외서 성과 낸 비결은 [룩앤씬...",
+ "summary": "화장품 브랜드 에스쁘아는 2025년 블랙프라이데이·사이버먼데이 기간 틱톡 광고를 통해 3104건의 추가... 다만 한국 내 틱톡샵 출시 일정은 아직 정해지지 않았다. 틱톡코리아 관계자는 “2026년 10월 현재 틱톡샵의 한국...",
+ "published_at": "2026-10-22T11:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에스쁘아"
+  ],
+  "companies": [
+   "틱톡코리아"
+  ],
+  "keywords": [
+   "틱톡샵",
+   "소셜 커머스",
+   "K-뷰티 해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "1b5c7caa3a9242c7",
+ "enriched_at": "2026-10-30T04:04:54+00:00",
+ "had_body": false
+}

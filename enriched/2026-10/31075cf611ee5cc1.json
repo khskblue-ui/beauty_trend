@@ -1,0 +1,66 @@
+{
+ "doc_id": "31075cf611ee5cc1",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/iff-develops-aquascent-a-new-water,28298",
+ "title": "IFF develops Aquascent, a new water-based fragrance technology",
+ "summary": "The fragrance specialist has announced the launch of Aquascent, a new vegan, water-based carrier for fine fragrance applications. Crafted from a proprietary formula based on biodegradable materials, Aquascent is designed, according to International Flavors & Fragrances (IFF), to deliver enhanced olfactive performance and visual clarity while supporting a more sustainable approach to fragrance formulation. Aquascent supports fragrance loads from 10% to up to 25%, compared with up to...",
+ "published_at": "2026-10-05T21:06:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "IFF"
+  ],
+  "keywords": [
+   "워터 베이스 향수",
+   "무알코올 향수",
+   "비건 향수",
+   "지속 가능한 포뮬러"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Aquascent",
+    "brand": "IFF",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "The fragrance specialist has announced the launch of Aquascent, a new vegan, water-based carrier for fine fragrance applications.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "IFF가 파인 프래그런스에 쓰는 비건 수성 캐리어 ‘Aquascent’를 출시했다.",
+  "key_fact_quote": "The fragrance specialist has announced the launch of Aquascent, a new vegan, water-based carrier for fine fragrance applications.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Aquascent",
+    "quote": "The fragrance specialist has announced the launch of Aquascent, a new vegan, water-based carrier for fine fragrance applications."
+   },
+   {
+    "name": "ethanol",
+    "quote": "Formulated without intentionally added ethanol, preservatives or silicone"
+   },
+   {
+    "name": "silicone",
+    "quote": "Formulated without intentionally added ethanol, preservatives or silicone"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": true
+}

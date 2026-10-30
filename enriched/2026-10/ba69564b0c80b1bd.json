@@ -1,0 +1,44 @@
+{
+ "doc_id": "ba69564b0c80b1bd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.nocutnews.co.kr/news/6596964?utm_source=naver&utm_medium=article&utm_campaign=20261026120111",
+ "title": "K - 뷰티 ·반도체 날았다…中企 3분기 수출 334억달러 '역대 최대'",
+ "summary": "중남미 수출도 141.3% 급증하면서 K - 뷰티 수출 시장이 기존 주력 시장을 넘어 빠르게 다변화되는 모습이다. 중기부는 인디 브랜드가 아마존·틱톡샵 등 온라인 플랫폼에서 쌓은 인지도가 북미 대형 오프라인 유통망...",
+ "published_at": "2026-10-26T12:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "중소기업 수출",
+   "신흥시장 공략"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "699d68593c60463b",
+ "enriched_at": "2026-10-30T04:04:54+00:00",
+ "had_body": false
+}

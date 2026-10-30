@@ -1,0 +1,57 @@
+{
+ "doc_id": "f03e28d4fab7ba17",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/bogart-h1-revenue-falls-7-4-amid,28284",
+ "title": "Bogart H1 revenue falls 7.4% amid weak consumer demand",
+ "summary": "The Bogart Group reported revenue of EUR 114.7 million in the first half of 2026, down 7.4% at current exchange rates and 5.3% on a like-for-like basis. Bogart attributed the decline to an unfavorable economic and geopolitical environment that continues to weigh on consumer spending, particularly in its retail business, where the group is also pursuing an ongoing network reorganization. The group nevertheless highlighted the resilience of its fragrances and cosmetics business, which posted...",
+ "published_at": "2026-10-01T21:35:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "BE",
+   "DE"
+  ],
+  "brands": [
+   "Aholic",
+   "Carven",
+   "Chevignon",
+   "Jacques Bogart",
+   "Rose et Marius",
+   "Méthode Jeanne Piaubert",
+   "Stendhal"
+  ],
+  "companies": [
+   "Bogart Group",
+   "Parfümerie Pieper",
+   "Marionnaud"
+  ],
+  "keywords": [
+   "프리미엄화",
+   "매장 구조조정",
+   "향수 라이선스",
+   "리테일 재편"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Bogart 그룹의 상반기 매출이 소비 부진으로 지난해보다 줄었다.",
+  "key_fact_quote": "The Bogart Group reported revenue of EUR 114.7 million in the first half of 2026, down 7.4% at current exchange rates and 5.3% on a like-for-like basis.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": true
+}

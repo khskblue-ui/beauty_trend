@@ -1,0 +1,66 @@
+{
+ "doc_id": "0d24abf7ec6dc4a1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=600680",
+ "title": "모아제, 케어 메이크업 제품 3종 공개…서울창조경제혁신센터 품평회 참...",
+ "summary": "기존 제품은 출시 당시 크라우드펀딩에서 약 7,700만원의 모금액을 기록했다. 틴티드 선크림은 자외선... 크림 랩핑 마스크는 주름 개선 기능성 화장품 으로, 크림 제형을 시트에 적용한 것이 특징이다. 무드랩스는 일본과...",
+ "published_at": "2026-10-27T14:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "모아제"
+  ],
+  "companies": [
+   "무드랩스"
+  ],
+  "keywords": [
+   "케어 메이크업",
+   "틴티드 선크림",
+   "주름 개선 기능성",
+   "크라우드펀딩"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "틴티드 선크림",
+    "brand": "모아제",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "크림 랩핑 마스크",
+    "brand": "모아제",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "모아제가 서울창조경제혁신센터 품평회에서 케어 메이크업 제품을 공개했다.",
+  "key_fact_quote": "모아제, 케어 메이크업 제품 3종 공개…서울창조경제혁신센터 품평회",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

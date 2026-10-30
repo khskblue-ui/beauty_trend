@@ -1,0 +1,45 @@
+{
+ "doc_id": "dedb3dd2ad2b6eb2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.globalepic.co.kr/view.php?ud=2026102214150818499aeda69934_29",
+ "title": "메르베르, 얼미부부 협업 ‘수딩세럼·더마크림’ 11월 2일 2차 판매 오...",
+ "summary": "수딩세럼은 총 120만 구독자·팔로워를 보유한 얼미부부와의 협업으로 출시 초기부터 시장의 이목을... 기능성 화장품 인증을 획득했다. 민감성 피부의 장벽 케어와 깊은 보습을 원하는 소비자들에게 꾸준히 선택받고...",
+ "published_at": "2026-10-30T08:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메르베르"
+  ],
+  "companies": [],
+  "keywords": [
+   "협업 제품",
+   "수딩 세럼",
+   "피부 장벽 강화"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "8e57e4627fd76dfa",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "7ad20bd3087d573c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323209",
+ "title": "딜리버드코리아, \"러시아는 K - 뷰티 ·중남미는 K -팝 역직구 급증\"",
+ "summary": "2026년 상반기 한국의 대러시아 화장품 수출 액은 약 2억 1,260만 달러로, 전년 동기 대비 약 24% 증가했다. 딜리버드코리아의 자체 데이터에서도 K - 뷰티 가 러시아 내 구매 건수에서 가장 높은 비중을 차지해 한국 화장품에...",
+ "published_at": "2026-10-26T10:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "RU"
+  ],
+  "brands": [],
+  "companies": [
+   "딜리버드코리아"
+  ],
+  "keywords": [
+   "역직구",
+   "러시아 시장",
+   "크로스보더 이커머스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "딜리버드코리아 자체 데이터에서 K뷰티가 러시아 내 구매 건수 가운데 가장 큰 비중을 차지했다.",
+  "key_fact_quote": "딜리버드코리아의 자체 데이터에서도 K - 뷰티 가 러시아 내 구매 건수에서 가장 높은 비중을 차지해",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

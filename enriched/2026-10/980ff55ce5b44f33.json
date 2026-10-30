@@ -1,0 +1,43 @@
+{
+ "doc_id": "980ff55ce5b44f33",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/industry/business-venture/2026/10/26/MQEZZ6K7WNAHFNXFPFNQC5HQAQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "화장품·반도체가 이끈 中企 수출 …3분기 334억달러 ‘역대 최대’",
+ "summary": "미국은 19.6% 증가한 57억3000만달러(약 7조5900억원)로 최대 수출 시장에 올랐다. K뷰티 의 대형 유통망 입점 확대와 에너지저장장치(ESS) 등 수요 증가로 화장품과 축전지 및 소재 수출 이 각각 14.5%, 45.7% 늘었다....",
+ "published_at": "2026-10-26T12:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "대형 유통망 입점",
+   "중소기업 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "302b10ee3cf2516a",
+ "enriched_at": "2026-10-30T04:04:54+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "2e4b63e3a1877efe",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.insight.co.kr/news/578528",
+ "title": "애프터스쿨 가희, '가희' 상표 못 쓴다... 화장품 '가히'와 소송서 패소",
+ "summary": "그룹 애프터스쿨 출신 가희가 상표권 소송에서 화장품 회사에 패하며 자신의 예명을 사용한 상표 등록이 무효화됐다. 지난 19일 특허법원은 2025년 4월 23일 화장품 회사 가히(KAHI)가 제기한 상표권 등록 무효 청구...",
+ "published_at": "2026-10-21T08:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "가히"
+  ],
+  "companies": [
+   "가히"
+  ],
+  "keywords": [
+   "상표권 분쟁",
+   "화장품 상표"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "애프터스쿨 출신 가희가 화장품 회사 가히와 벌인 상표권 소송에서 져 자신의 예명을 쓴 상표 등록이 무효가 됐다.",
+  "key_fact_quote": "그룹 애프터스쿨 출신 가희가 상표권 소송에서 화장품 회사에 패하며 자신의 예명을 사용한 상표 등록이 무효화됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

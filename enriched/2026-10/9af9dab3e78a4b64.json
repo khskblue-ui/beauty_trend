@@ -1,0 +1,44 @@
+{
+ "doc_id": "9af9dab3e78a4b64",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.busan.com/view/busan/view.php?code=2026102611361588306",
+ "title": "현대글로비스, 동남아 최대 쇼핑몰과 K - 뷰티 물류 맞손",
+ "summary": "현지 소비자들이 K - 뷰티 를 고급 제품으로 받아들이면서 수요가 빠르게 늘고 있다. 실제 식품의약품안전처에 따르면 올해 1~3분기 국내 화장품 수출 액은 111억 달러로 1년 전보다 31.1% 늘어, 같은 기간 기준 역대 최대를...",
+ "published_at": "2026-10-26T11:41:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "현대글로비스"
+  ],
+  "keywords": [
+   "수출 물류",
+   "동남아 시장",
+   "K-뷰티 물류"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "현대글로비스가 동남아 최대 쇼핑몰과 K-뷰티 물류에서 손을 잡았다.",
+  "key_fact_quote": "현대글로비스, 동남아 최대 쇼핑몰과 K - 뷰티 물류 맞손",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

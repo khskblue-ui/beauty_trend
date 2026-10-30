@@ -1,0 +1,52 @@
+{
+ "doc_id": "b16455f2911b5213",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53830",
+ "title": "에이피알, 2026년 3분기 누적 매출 2조 원 돌파",
+ "summary": "에이피알이 3분기 누적 매출 2조 원을 돌파했다. 에이피알(대표 김병훈)은 2026년 3분기 연결 기준 매출액 7,731억 원, 영업이익 1,606억 원을 기록했다고 잠성 실적을 공시했다. 이는 전년 동기 대비 각각 100.3%, 68.9% 증가한 수치다. 3분기 누적 매출액과 영업이익은 각각 2조 1,340억 원, 5,035억 원…",
+ "published_at": "2026-10-30T09:56:11+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알",
+   "아마존",
+   "틱톡샵",
+   "타겟",
+   "월마트",
+   "코스트코",
+   "CVS 파머시"
+  ],
+  "keywords": [
+   "해외 매출 비중",
+   "북미 오프라인 유통",
+   "미국 온라인 채널",
+   "유럽 시장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에이피알이 여러 악재 속에서도 분기 기준 최고 매출을 경신했다.",
+  "key_fact_quote": "에이피알은 각종 악재 속에서도 분기 기준 최고 매출을 경신했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

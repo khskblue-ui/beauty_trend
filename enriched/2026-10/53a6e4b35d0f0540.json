@@ -1,0 +1,44 @@
+{
+ "doc_id": "53a6e4b35d0f0540",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hani.co.kr/arti/economy/startup/1284145.html",
+ "title": "K - 뷰티 ·반도체 날았다…3분기 중소기업 수출 334억달러 ‘역대 최고’",
+ "summary": "수출 성장을 견인한 1등 공신은 케이( K )- 뷰티 였다. 3분기 중소기업 화장품 수출 액은 27억9000만달러로 지난해 같은 기간과 견줘 28.6% 급증하며 3년 연속 역대 3분기 최고 실적을 경신했다. 아마존과 틱톡샵 등 온라인...",
+ "published_at": "2026-10-26T12:03:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "중소기업 수출",
+   "신흥시장 공략"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "699d68593c60463b",
+ "enriched_at": "2026-10-30T04:04:54+00:00",
+ "had_body": false
+}

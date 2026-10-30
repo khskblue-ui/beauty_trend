@@ -1,0 +1,75 @@
+{
+ "doc_id": "e2353c7063c6152b",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53832",
+ "title": "LG 프라엘, 피부과학 자문단 발족…뷰티테크 경쟁력 강화",
+ "summary": "LG생활건강의 홈 뷰티 디바이스 브랜드 ‘LG 프라엘'(LG Pra.L)이 피부과 전문의들과 손잡고 ‘피부과학 자문단’을 공식 발족했다. 피부과 현장의 임상 경험과 자체 연구개발 역량을 결합해 홈 뷰티 기기의 안전성과 기술 경쟁력을 강화하기 위한 행보다. 피부과학 자문단은 피부과 현장에서 평균 10년…",
+ "published_at": "2026-10-30T11:19:40+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "LG 프라엘"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "홈 뷰티 디바이스",
+   "뷰티테크",
+   "피부과 전문의 협업",
+   "홈 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "갈바닉 부스터",
+    "brand": "LG 프라엘",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "LG 프라엘은 최근 갈바닉 부스터·써마샷 얼티밋·멜라빔 토닝 등 홈 뷰티 디바이스 신제품을 잇달아 선보이며 제품군을 확대하고 있다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "써마샷 얼티밋",
+    "brand": "LG 프라엘",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "LG 프라엘은 최근 갈바닉 부스터·써마샷 얼티밋·멜라빔 토닝 등 홈 뷰티 디바이스 신제품을 잇달아 선보이며 제품군을 확대하고 있다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "멜라빔 토닝",
+    "brand": "LG 프라엘",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "LG 프라엘은 최근 갈바닉 부스터·써마샷 얼티밋·멜라빔 토닝 등 홈 뷰티 디바이스 신제품을 잇달아 선보이며 제품군을 확대하고 있다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "LG생활건강의 홈 뷰티 디바이스 브랜드 LG 프라엘이 피부과 전문의들과 피부과학 자문단을 꾸렸다.",
+  "key_fact_quote": "LG생활건강의 홈 뷰티 디바이스 브랜드 ‘LG 프라엘'(LG Pra.L)이 피부과 전문의들과 손잡고 ‘피부과학 자문단’을 공식 발족했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

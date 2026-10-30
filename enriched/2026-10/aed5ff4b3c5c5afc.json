@@ -1,0 +1,42 @@
+{
+ "doc_id": "aed5ff4b3c5c5afc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news2day.co.kr/article/20261027500018",
+ "title": "[JOB리포트] K뷰티 수출 호황, 채용문도 열렸나…해외영업·마케팅서 신...",
+ "summary": "[챗지피티/뉴스투데이 이은지 기자] [뉴스투데이=이은지 기자] 중소기업 화장품 수출 이 역대 최대치를 기록한 가운데 K뷰티 기업들의 해외영업·마케팅 채용에서도 신입 구직자의 진입 기회가 확인됐다. 해외 거래처를...",
+ "published_at": "2026-10-27T10:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 업계 채용",
+   "해외영업 채용",
+   "중소기업 화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중소기업 화장품 수출이 역대 최대치를 기록한 가운데 K뷰티 기업의 해외영업과 마케팅 채용에서 신입 구직자에게도 기회가 열렸다.",
+  "key_fact_quote": "중소기업 화장품 수출 이 역대 최대치를 기록한 가운데 K뷰티 기업들의 해외영업·마케팅 채용에서도 신입 구직자의 진입 기회가 확인됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

@@ -1,0 +1,63 @@
+{
+ "doc_id": "8e57e4627fd76dfa",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=2026102214101273589aeda69934_30",
+ "title": "메르베르, 얼미부부 협업 수딩세럼·더마크림 판매 재개",
+ "summary": "지난 8월 첫 출시 당시 약 20시간 만에 준비된 물량이 모두 소진된 이후 추가 생산분을 확보해 진행된다.... 기능성 화장품 으로 인정받았다. 보습과 피부 장벽 강화를 동시에 필요로 하는 소비자층에서 지속적인 신뢰를...",
+ "published_at": "2026-10-30T08:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메르베르"
+  ],
+  "companies": [],
+  "keywords": [
+   "협업 제품",
+   "수딩 세럼",
+   "피부 장벽 강화"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "수딩세럼",
+    "brand": "메르베르",
+    "launch_date": "2026-08",
+    "launch_status": "unknown",
+    "launch_quote": "지난 8월 첫 출시 당시 약 20시간 만에 준비된 물량이 모두 소진된 이후 추가 생산분을 확보해 진행된다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "더마크림",
+    "brand": "메르베르",
+    "launch_date": "2026-08",
+    "launch_status": "unknown",
+    "launch_quote": "지난 8월 첫 출시 당시 약 20시간 만에 준비된 물량이 모두 소진된 이후 추가 생산분을 확보해 진행된다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "메르베르가 얼미부부와 협업한 수딩세럼과 더마크림을 추가 생산해 판매를 재개한다.",
+  "key_fact_quote": "지난 8월 첫 출시 당시 약 20시간 만에 준비된 물량이 모두 소진된 이후 추가 생산분을 확보해 진행된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

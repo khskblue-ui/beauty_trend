@@ -1,0 +1,45 @@
+{
+ "doc_id": "1e721628788b4351",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/south-korea-launches-k-brand,28310",
+ "title": "South Korea launches 'K-brand' scheme to fight counterfeits",
+ "summary": "South Korea's president said on Wednesday, October 7, the country is taking steps to protect its booming cultural cache, launching a new \"K-brand\" authentication system that will let consumers know if goods they are purchasing are the real deal. Led by K-pop acts such as BTS, hit Netflix series \"Squid Game\" and \"KPop Demon Hunters\", the so-called \"Hallyu\", or Korean cultural wave, saw content exports hit a record USD 14.9 billion last year, surpassing overseas sales of computers and home...",
+ "published_at": "2026-10-08T03:32:30+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Samyang Foods",
+   "Amorepacific"
+  ],
+  "keywords": [
+   "위조품 대응",
+   "정품 인증 제도",
+   "QR코드 인증"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 정부가 해외 위조품 피해에 대응해 K브랜드 정품 인증 제도를 도입했다.",
+  "key_fact_quote": "South Korea launches 'K-brand' scheme to fight counterfeits",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": true
+}

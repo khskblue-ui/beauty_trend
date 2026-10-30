@@ -1,0 +1,103 @@
+{
+ "doc_id": "3487917f2c71edd8",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100326",
+ "title": "파마리서치메디케어 ‘리쥬비’, 도레미약국 성수점서 단독 팝업 오픈",
+ "summary": "파마리서치의 자회사 파마리서치메디케어(대표 서영재)는 30일부터 11월 12일까지 총 14일간 서울 성동구 ‘도레미약국 성수점’에서 약국 브랜드 ‘리쥬비’의 단독 팝업스토어를 운영한다고 30일 밝혔다.이번 팝업스토어는 최근 스스로 건강과 뷰티를 관리하는 ‘셀프 메디케이션’ 수요가 확대됨에 따라, 국내외 소비자와의 접점을 넓히고 PDRN 리더십 기반의 차별화된 제품력을 알리기 위해 기획됐다. 행사는 매일 오전 11시부터 오후 8시까지 운영된다.현장에서는 리쥬비의 주력 품목인 c-PDRN 케어 ‘리쥬비-에스 앰플’을 비롯해 점착성투명창",
+ "published_at": "2026-10-30T11:02:12+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리쥬비"
+  ],
+  "companies": [
+   "파마리서치메디케어",
+   "파마리서치"
+  ],
+  "keywords": [
+   "팜뷰티",
+   "셀프 메디케이션",
+   "PDRN 화장품",
+   "약국 화장품",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리쥬비-에스 앰플",
+    "brand": "리쥬비",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "리쥬비 - MD 크림",
+    "brand": "리쥬비",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "리쥬비-에스 마스크",
+    "brand": "리쥬비",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "디엔에이 핏 젤리",
+    "brand": "리쥬비",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "파마리서치메디케어가 서울 성동구 도레미약국 성수점에서 약국 브랜드 리쥬비의 단독 팝업스토어를 운영한다.",
+  "key_fact_quote": "파마리서치의 자회사 파마리서치메디케어(대표 서영재)는 30일부터 11월 12일까지 총 14일간 서울 성동구 ‘도레미약국 성수점’에서 약국 브랜드 ‘리쥬비’의 단독 팝업스토어를 운영한다고 30일 밝혔다.",
+  "events": [
+   {
+    "name": "리쥬비 단독 팝업스토어",
+    "start_date": "2026-10-30",
+    "end_date": "2026-11-12",
+    "place": "서울 성동구 도레미약국 성수점",
+    "quote": "파마리서치의 자회사 파마리서치메디케어(대표 서영재)는 30일부터 11월 12일까지 총 14일간 서울 성동구 ‘도레미약국 성수점’에서 약국 브랜드 ‘리쥬비’의 단독 팝업스토어를 운영한다고 30일 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "이번 팝업스토어는 최근 스스로 건강과 뷰티를 관리하는 ‘셀프 메디케이션’ 수요가 확대됨에 따라, 국내외 소비자와의 접점을 넓히고 PDRN 리더십 기반의 차별화된 제품력을 알리기 위해 기획됐다."
+   },
+   {
+    "name": "c-PDRN",
+    "quote": "현장에서는 리쥬비의 주력 품목인 c-PDRN 케어 ‘리쥬비-에스 앰플’을 비롯해 점착성투명창상피복재 ‘리쥬비 - MD 크림’, ‘리쥬비-에스 마스크’ 4종, 이너뷰티 제품인 ‘디엔에이 핏 젤리’ 등 리쥬비 전 라인업이 전시된다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

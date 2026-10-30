@@ -1,0 +1,53 @@
+{
+ "doc_id": "beea1386916d4512",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/anjac-health-beauty-unveils,28302",
+ "title": "Anjac Health & Beauty unveils dedicated offering for GLP-1 users",
+ "summary": "The French industrial group specializing in the formulation, manufacturing and packaging of products for the healthcare, beauty and food supplement sectors, is launching a new platform dedicated to supporting individuals on GLP-1 treatments. At CPHI Milan, taking place from 6 to 8 October 2026, Anjac Health & Beauty is unveiling a range of solutions designed to address the key needs associated with these treatments and support patients throughout their care journey. Used for around...",
+ "published_at": "2026-10-06T00:10:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "IT"
+  ],
+  "brands": [],
+  "companies": [
+   "Anjac Health & Beauty"
+  ],
+  "keywords": [
+   "GLP-1 사용자 케어",
+   "더마 코스메틱",
+   "뷰티 웰니스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "Anjac Health & Beauty가 비만과 체중 관리 치료제를 쓰는 사람들을 위한 전용 제품군을 공개했다.",
+  "key_fact_quote": "Anjac Health & Beauty unveils dedicated offering for GLP-1 users",
+  "events": [
+   {
+    "name": "CPHI Milan",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-08",
+    "place": "Milan",
+    "quote": "At CPHI Milan, taking place from 6 to 8 October 2026, Anjac Health & Beauty is unveiling a range of solutions designed to address the key needs associated with these treatments"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": true
+}

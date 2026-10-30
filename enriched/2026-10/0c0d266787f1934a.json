@@ -1,0 +1,80 @@
+{
+ "doc_id": "0c0d266787f1934a",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58624",
+ "title": "아모레퍼시픽, 매출(+11%)과 영업익(+25%) 두 자릿수 성장... 해외 포트폴리오 확대",
+ "summary": "[코스인코리아닷컴 길태윤 기자]아모레퍼시픽 그룹이 2026년 3분기 연결 기준 매출 1조 2,073억 원, 영업이익 1,301억 원을 기록했다. 전년 동기 대비 매출은 8.9%, 영업이익은 24.7% 증가했다. 영업이익률도 전년 동기 9.4%에서 10.8%로 1.4%p 개선됐다. 올해 3분기 아모레퍼시픽 그룹은 국내 사…",
+ "published_at": "2026-10-30T10:12:04+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP",
+   "IN",
+   "GB"
+  ],
+  "brands": [
+   "설화수",
+   "헤라",
+   "에스트라",
+   "일리윤",
+   "이니스프리",
+   "코스알엑스",
+   "라네즈",
+   "마몽드",
+   "미쟝센",
+   "려",
+   "라보에이치"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "멀티브랜드 전략",
+   "더마 코스메틱",
+   "헤어케어",
+   "소셜 커머스",
+   "뷰티 웰니스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "자음생크림",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아토베리어 365",
+    "brand": "에스트라",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아모레퍼시픽의 매출과 영업이익이 지난해 같은 분기보다 두 자릿수로 늘며 그룹 실적 개선을 이끌었다.",
+  "key_fact_quote": "주력 계열사 아모레퍼시픽의 매출은 전년 동기 대비 11% 증가한 1조 1,295억 원, 영업이익은 25% 증가한 1,152억 원을 기록하며 그룹 전체 실적 개선을 이끌었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

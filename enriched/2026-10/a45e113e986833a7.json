@@ -1,0 +1,79 @@
+{
+ "doc_id": "a45e113e986833a7",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100322",
+ "title": "듀이트리, 네이버웹툰 ‘마루는 강쥐’와 역대급 콜라보",
+ "summary": "‘진정의 기준, 듀이트리’를 슬로건으로 스킨케어 제품을 선보이는 브랜드 듀이트리가 인기 네이버웹툰 ‘마루는 강쥐’와 협업해 올리브영 단독 ‘3-STEP 꿀잠 루틴’ 한정판 기획세트 3종을 출시했다고 밝혔다.이번 기획세트는 듀이트리의 대표 베스트셀러 제품들과 ‘클렌징 명가’의 노하우를 담은 신제품 젤 클렌저를 포함한 총 3종으로 구성됐다. 자극 없이 촉촉한 속보습 세안을 선사하는 ‘하이 아미노 올 클렌징 밀크’와 피부 온도를 -5.7°C 낮춰 즉각적인 열감 진정 및 모공 케어를 돕는 ‘AC 딥 진정 모공 패드’는 단독 대용량 구성으로",
+ "published_at": "2026-10-30T10:57:01+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "듀이트리"
+  ],
+  "companies": [
+   "네이버웹툰",
+   "올리브영",
+   "다이소",
+   "쿠팡"
+  ],
+  "keywords": [
+   "웹툰 콜라보",
+   "한정판 기획세트",
+   "젤 클렌저",
+   "모공 패드",
+   "진정 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "3-STEP 꿀잠 루틴",
+    "brand": "듀이트리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "‘진정의 기준, 듀이트리’를 슬로건으로 스킨케어 제품을 선보이는 브랜드 듀이트리가 인기 네이버웹툰 ‘마루는 강쥐’와 협업해 올리브영 단독 ‘3-STEP 꿀잠 루틴’ 한정판 기획세트 3종을 출시했다고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "하이 아미노 올 수분 젤 클렌저",
+    "brand": "듀이트리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "여기에 PDRN과 PHA 성분을 함유해 세안 후에도 스킨케어한 듯 매끈한 수분결을 완성해 주는 신제품 ‘하이 아미노 올 수분 젤 클렌저’가 더해져 밤 세안부터 진정까지 책임지는 라인업을 완성했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "듀이트리가 네이버웹툰 ‘마루는 강쥐’와 협업한 올리브영 단독 한정판 기획세트를 출시했다.",
+  "key_fact_quote": "‘진정의 기준, 듀이트리’를 슬로건으로 스킨케어 제품을 선보이는 브랜드 듀이트리가 인기 네이버웹툰 ‘마루는 강쥐’와 협업해 올리브영 단독 ‘3-STEP 꿀잠 루틴’ 한정판 기획세트 3종을 출시했다고 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "여기에 PDRN과 PHA 성분을 함유해 세안 후에도 스킨케어한 듯 매끈한 수분결을 완성해 주는 신제품 ‘하이 아미노 올 수분 젤 클렌저’가 더해져 밤 세안부터 진정까지 책임지는 라인업을 완성했다."
+   },
+   {
+    "name": "PHA",
+    "quote": "여기에 PDRN과 PHA 성분을 함유해 세안 후에도 스킨케어한 듯 매끈한 수분결을 완성해 주는 신제품 ‘하이 아미노 올 수분 젤 클렌저’가 더해져 밤 세안부터 진정까지 책임지는 라인업을 완성했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:49+00:00",
+ "had_body": true
+}

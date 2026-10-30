@@ -1,0 +1,46 @@
+{
+ "doc_id": "edb761a4bd8c7632",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026102608564747400",
+ "title": "한진, 캐나다 토론토 풀필먼트 센터 가동… 북미 K뷰티 물류망 확장",
+ "summary": "한진이 미국에 이어 캐나다 핵심 경제권에 신규 물류 거점을 열고 북미 K - 뷰티 수출 기업을 위한 통합 물류망 확장에 나섰다. 한진은 캐나다 토론토 피어슨 국제공항 인근에 '한진 토론토 풀필먼트 센터'를 신규...",
+ "published_at": "2026-10-26T08:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CA"
+  ],
+  "brands": [],
+  "companies": [
+   "한진"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "풀필먼트",
+   "북미 물류"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "29a3cf81ab5fd053",
+ "enriched_at": "2026-10-30T04:04:54+00:00",
+ "had_body": false
+}

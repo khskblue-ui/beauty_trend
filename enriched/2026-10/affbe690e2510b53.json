@@ -1,0 +1,56 @@
+{
+ "doc_id": "affbe690e2510b53",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=70088",
+ "title": "파마리서치, 화장품 성장에 내년 매출 8000억 전망…리넥스도 출격",
+ "summary": "파마리서치가 리쥬란 화장품 의 해외 성장과 신규 의료기기 출시 를 바탕으로 내년에도 외형 확대를 이어갈 것이 전망이다. 3분기에는 원화 강세와 제품 구성 영향으로 수익성이 주춤할 것으로 예상되지만 화장품 ...",
+ "published_at": "2026-10-29T07:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리쥬란"
+  ],
+  "companies": [
+   "파마리서치"
+  ],
+  "keywords": [
+   "화장품 해외 성장",
+   "신규 의료기기",
+   "실적 전망"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "리넥스",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "파마리서치, 화장품 성장에 내년 매출 8000억 전망…리넥스도 출격",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "파마리서치가 리쥬란 화장품의 해외 성장과 신규 의료기기 출시로 내년에도 외형을 키울 것이라는 전망이 나왔다.",
+  "key_fact_quote": "파마리서치가 리쥬란 화장품 의 해외 성장과 신규 의료기기 출시 를 바탕으로 내년에도 외형 확대를 이어갈 것이 전망이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

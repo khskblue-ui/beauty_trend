@@ -1,0 +1,81 @@
+{
+ "doc_id": "869d46def9d06599",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/dr-g-expands-u-s-presence-with,28286",
+ "title": "Dr.G expands U.S. presence with TikTok Shop launch",
+ "summary": "Korean skincare brand Dr.G has officially launched on TikTok Shop in the United States, strengthening its retail presence in the market as it accelerates its international expansion under L'Oréal ownership. The launch follows L'Oréal's acquisition of Dr.G in 2024 and comes as the French beauty giant continues to invest in the global K-beauty category. The United States is one of the first key markets targeted in Dr.G's next phase of international growth. The expansion comes against a...",
+ "published_at": "2026-10-02T05:47:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "Dr.G"
+  ],
+  "companies": [
+   "L'Oréal",
+   "TikTok Shop"
+  ],
+  "keywords": [
+   "소셜 커머스",
+   "미국 K뷰티 시장",
+   "민감 피부 케어",
+   "크리에이터 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "R.E.D",
+    "brand": "Dr.G",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Black Snail",
+    "brand": "Dr.G",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "로레알이 인수한 한국 스킨케어 브랜드 Dr.G가 미국 틱톡샵에 공식 입점했다.",
+  "key_fact_quote": "Korean skincare brand Dr.G has officially launched on TikTok Shop in the United States",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Centella Asiatica",
+    "quote": "The brand’s portfolio includes ingredients associated with Korean skincare, including Centella Asiatica, PDRN and Black Snail Mucin."
+   },
+   {
+    "name": "PDRN",
+    "quote": "The brand’s portfolio includes ingredients associated with Korean skincare, including Centella Asiatica, PDRN and Black Snail Mucin."
+   },
+   {
+    "name": "Black Snail Mucin",
+    "quote": "The brand’s portfolio includes ingredients associated with Korean skincare, including Centella Asiatica, PDRN and Black Snail Mucin."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": true
+}

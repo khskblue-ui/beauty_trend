@@ -1,0 +1,42 @@
+{
+ "doc_id": "29189e65ecbac628",
+ "source": "mfds_press",
+ "source_name": "식약처 보도자료",
+ "group": "regulation",
+ "lang": "ko",
+ "url": "https://www.mfds.go.kr/brd/m_99/view.do?seq=50437",
+ "title": "식약처, 감미료 사용 저당 식품의 혈당 관련 기능성 표시 제한",
+ "summary": "",
+ "published_at": "2026-10-26T08:00:39+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "저당 식품",
+   "감미료",
+   "기능성 표시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식약처가 감미료를 넣은 저당 식품에 혈당 관련 기능성 표시를 제한한다.",
+  "key_fact_quote": "식약처, 감미료 사용 저당 식품의 혈당 관련 기능성 표시 제한",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "ea9f9ea83fe11cb6",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/mane-to-invest-eur-45-million-in,28357",
+ "title": "Mane to invest EUR 45 million in new Fragrance Design Centre in France",
+ "summary": "The French flavour and fragrance manufacturer laid the foundation stone in late September for its future Fragrance Design Centre in Bar-sur-Loup, in the Grasse region of southern France. Spanning an 8,900 m² site, the new facility will be dedicated to the creation, evaluation, and development of fragrances for Mane's Consumer Goods business. The group plans to invest EUR 45 million in the project, which will accommodate around 250 people, including perfumers, evaluators, scientific experts,...",
+ "published_at": "2026-10-16T16:52:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "Mane"
+  ],
+  "keywords": [
+   "향료 설비 투자",
+   "조향 센터",
+   "지속가능성"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "향료 회사 마네(Mane)가 프랑스에 새 향료 디자인 센터를 짓는 데 투자한다.",
+  "key_fact_quote": "Mane to invest EUR 45 million in new Fragrance Design Centre in France",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": true
+}

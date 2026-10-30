@@ -1,0 +1,42 @@
+{
+ "doc_id": "e8c5a70b39904021",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.viva100.com/article/20261026500509",
+ "title": "K - 뷰티 앞세운 중소기업 수출 ‘역대 최대’… 3분기 334억달러",
+ "summary": "미국 수출 액은 57억3000만달러로 전년 동기 대비 19.6% 증가해 3분기 중소기업 최대 수출 국에 올랐다. K - 뷰티 제품의 대형 유통망 입점 확대에 따른 화장품 수출 증가와 에너지저장장치(ESS) 등 축전지·소재 수요...",
+ "published_at": "2026-10-26T12:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "중소기업 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "01a476337b6bd274",
+ "enriched_at": "2026-10-30T04:04:54+00:00",
+ "had_body": false
+}

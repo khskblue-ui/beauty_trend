@@ -1,0 +1,54 @@
+{
+ "doc_id": "70b9e961637f237e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.elle.co.kr/article/1911389",
+ "title": "뷰티 에디터, 뉴욕에서 올리브영을 만나다",
+ "summary": "세포라의 수많은 브랜드 사이에서 K뷰티를 하나의 카테고리로 묶어 보여주는 방식입니다. 그런데 실제로... 딸기와 바닐라의 조합이 북미 소비자들에게는 어릴 적 스무디나 디저트를 떠올리게 하는 향수 로 다가간 것...",
+ "published_at": "2026-10-15T18:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영",
+   "세포라"
+  ],
+  "keywords": [
+   "K뷰티 카테고리",
+   "딸기 바닐라 조합"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티가 세포라의 수많은 브랜드 사이에서 하나의 카테고리로 묶여 소개되고 있다.",
+  "key_fact_quote": "세포라의 수많은 브랜드 사이에서 K뷰티를 하나의 카테고리로 묶어 보여주는 방식입니다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "딸기",
+    "quote": "딸기와 바닐라의 조합이 북미 소비자들에게는 어릴 적 스무디나 디저트를 떠올리게 하는 향수 로 다가간 것"
+   },
+   {
+    "name": "바닐라",
+    "quote": "딸기와 바닐라의 조합이 북미 소비자들에게는 어릴 적 스무디나 디저트를 떠올리게 하는 향수 로 다가간 것"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-30T04:26:48+00:00",
+ "had_body": false
+}
