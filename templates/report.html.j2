@@ -54,7 +54,7 @@ table.compact{font-size:11.5px}table.compact td{padding:3px 6px}
 @media (max-width:600px){main{padding:20px 16px 48px}h1{font-size:23px}table{font-size:12px}th,td{padding:5px 4px}}
 @media print{
   body{font-size:10.5pt}main{max-width:none;padding:0}
-  h2{break-after:avoid}table,tr,figure,li{break-inside:avoid}
+  h2,h3{break-after:avoid}tr,figure,li{break-inside:avoid}thead{display:table-header-group}
   .cite a{color:var(--ink)}a{color:var(--ink);text-decoration:none}
   .sources a::after{content:" " attr(href);color:var(--muted)}
   .sources a.back::after,.sources .back::before{content:none}
@@ -165,12 +165,12 @@ table.compact{font-size:11.5px}table.compact td{padding:3px 6px}
 {% if reg.regulation %}<ul class="sents">{% for s in reg.regulation %}<li>{{ s.text }}{{ cite(s.doc_ids) }}</li>{% endfor %}</ul>{% endif %}
 {% if regs %}
 <table><thead><tr><th>날짜</th><th>기관</th><th>제목</th><th>출처</th></tr></thead><tbody>
-{% for c in regs %}<tr><td>{{ c.published }}</td><td>{{ c.source_name }}{{ grade(c.evidence_grade) }}</td><td>{{ c.title }}</td><td>{{ cite(c.doc_ids[:1]) }}</td></tr>{% endfor %}
+{% for c in regs %}<tr><td class="d">{{ c.published }}</td><td>{{ c.source_name }}{{ grade(c.evidence_grade) }}</td><td>{{ c.title }}</td><td>{{ cite(c.doc_ids[:1]) }}</td></tr>{% endfor %}
 </tbody></table>
 {% else %}<p>변경 없음. 식약처(보도자료, 고시, 행정예고, 개정 법령), EU 화장품 규정, 미국 연방관보(FDA)에 분석 기간 새로 나온 공시가 없습니다.</p>{% endif %}
 <h3>시행일 일정</h3>
 <table><thead><tr><th>날짜</th><th>내용</th></tr></thead><tbody>
-{% for c in agg.calendar %}<tr><td>{{ c.date }}</td><td>{{ c.item }} <a href="{{ c.source }}" target="_blank" rel="noopener">원문</a></td></tr>{% endfor %}
+{% for c in agg.calendar %}<tr><td class="d">{{ c.date }}</td><td>{{ c.item }} <a href="{{ c.source }}" target="_blank" rel="noopener">원문</a></td></tr>{% endfor %}
 </tbody></table>
 
 {% if S.signals.status != 'hidden' %}{% set sec.n = sec.n + 1 %}<h2><span class="num">{{ sec.n }}</span>{{ cfg.sections.signals.title }}</h2>{% endif %}

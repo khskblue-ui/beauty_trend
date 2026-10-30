@@ -74,6 +74,19 @@ def keywords(clusters: list[Cluster], prev: list[Cluster], cfg: dict,
     return {"has_prev": has_prev, "items": items[: cfg["max_items"]]}
 
 
+# a product type or a description, not a product's name ('fragrance mists' from a list of
+# picks, '샤넬 | 새 향수'): the row tells the reader nothing, so it is left out
+GENERIC_PRODUCT = re.compile(r"(?:새|신규)?\s?(?:향수|신제품|제품|마스크팩|립스틱|립밤|샴푸|헤어팩|토닉|토너|"
+                             r"컨실러|선크림|에센스|세럼|크림|앰플|쿠션)")
+
+
+def generic_product(name: str) -> bool:
+    n = (name or "").strip()
+    if re.fullmatch(r"[ -~]+", n) and not re.search(r"[A-Z]", n):
+        return True    # all-lowercase English: 'colour cosmetics', 'three new fragrances'
+    return bool(GENERIC_PRODUCT.fullmatch(n))
+
+
 def launches(clusters: list[Cluster], ym: str, ents: Entities, until=None) -> list[dict]:
     """Products launched in the window, with a verbatim quote saying so.
 
@@ -89,7 +102,7 @@ def launches(clusters: list[Cluster], ym: str, ents: Entities, until=None) -> li
         for d in c.docs:
             for p in d["extraction"].get("products", []):
                 ld, basis = p.get("launch_date"), "article"
-                if not p.get("launch_quote"):
+                if not p.get("launch_quote") or generic_product(p["name"]):
                     continue
                 if not (ld and _in_month(ld, first, last)):
                     pub = kst_date(d.get("published_at"))
@@ -154,6 +167,8 @@ def product_claims(rec: dict, ents: Entities) -> dict[str, list[dict]]:
     so the daily product check and the monthly report share verdicts."""
     out: dict[str, list[dict]] = {"notes": [], "launch": []}
     for p in rec["extraction"].get("products", []):
+        if generic_product(p["name"]):
+            continue
         brand = ents.canon(p.get("brand") or "")
         if p.get("notes") and p.get("notes_quote"):
             out["notes"].append({"brand": brand, "name": p["name"], "notes": p["notes"],
@@ -174,7 +189,7 @@ def notes(clusters: list[Cluster], ents: Entities) -> dict:
     for c in clusters:
         for d in c.docs:
             for p in d["extraction"].get("products", []):
-                if p.get("notes") and p.get("notes_quote"):
+                if p.get("notes") and p.get("notes_quote") and not generic_product(p["name"]):
                     cand = {"brand": ents.canon(p.get("brand") or ""), "name": p["name"]}
                     dup = next((it for it in items if same_product(it, cand)), None)
                     if dup:

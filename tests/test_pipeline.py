@@ -352,3 +352,11 @@ def test_sentence_evidence_names_the_issuing_agency_for_official_notices(monkeyp
          "quote": "[보도참고] ’25년 화장품 안전성 정보 보고 사례 발표"}
     kept, _ = verify.verify_sentences([s], {"m1"}, {"m1": r}, {"식약처"}, "")
     assert kept and seen[0][1].startswith("(발표 기관) 식약처 보도자료\n(기사 제목) ")
+
+
+def test_generic_product_names_are_not_rows():
+    from trend.aggregate import generic_product
+    for n in ("fragrance mists", "colour cosmetics", "collection of 13 original creations", "새 향수", "향수", "마스크팩"):
+        assert generic_product(n), n
+    for n in ("Tate 01", "e.l.f. POP", "myBLEMISHpen", "르 퍼퓸", "버블세럼", "Festin", "신제품 세럼 3종"):
+        assert not generic_product(n), n
