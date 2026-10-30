@@ -265,6 +265,19 @@ def test_upcoming_events_drop_promotions_and_merge_spellings():
     assert [(x["name"], x["n_docs"]) for x in out] == [("2026 K-뷰티 엑스포(K-BEAUTY EXPO)", 2)]
 
 
+def test_upcoming_events_merge_english_names_and_drop_store_openings():
+    from datetime import date
+    from trend.aggregate import upcoming_events
+    ev = lambda name, s, e=None: {"name": name, "start_date": s, "end_date": e, "place": None, "quote": "q"}
+    docs = [rec("1", "A", events=[ev("in-cosmetics Asia 2026", "2026-11-03", "2026-11-05"),
+                                  ev("올리브베러 성수점", "2026-10-30")]),
+            rec("2", "B", events=[ev("인-코스메틱스 아시아 2026", "2026-11-03", "2026-11-05"),
+                                  ev("올리브베러 성수점", "2026-10-30")]),
+            rec("3", "C", events=[ev("오리엔테이션(OT) 파티", "2026-12-11"), ev("오리엔테이션(OT) 파티", "2026-12-11")])]
+    out = upcoming_events(cluster(docs), date(2026, 10, 30))
+    assert [(x["name"], x["n_docs"]) for x in out] == [("인-코스메틱스 아시아 2026", 2)]
+
+
 def test_enrich_copies_near_duplicates_and_stops_on_big_estimates(monkeypatch, tmp_path):
     from trend import enrich, store
     monkeypatch.setenv("DATA_DIR", str(tmp_path))

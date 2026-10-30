@@ -263,15 +263,22 @@ def datalab_block(terms: list[str], ym: str, cfg: dict, until=None) -> dict:
 
 # Store promotions are not industry events for a sales calendar.
 PROMO = re.compile(r"할인|프로모션|세일|기획전|특가|이벤트|광군절|블랙프라이데이|DAY|데이|위크|증정|판촉|"
-                   r"주주총회|사전 행사|인증식|수여식", re.I)
+                   r"주주총회|사전 행사|인증식|수여식|"
+                   # store openings ('올리브베러 성수점') and in-house gatherings are not industry dates
+                   r"[가-힣](?:점|매장)$|개점|그랜드\s?오픈|플래그십|flagship|오리엔테이션|파티|발대식", re.I)
+# English names of the same gathering ('in-cosmetics Asia' = '인-코스메틱스 아시아')
+EVENT_WORDS = (("incosmetics", "인코스메틱스"), ("cosmoprof", "코스모프로프"), ("beautyworld", "뷰티월드"),
+               ("hongkong", "홍콩"), ("asia", "아시아"), ("beauty", "뷰티"), ("expo", "엑스포"),
+               ("fair", "페어"), ("show", "쇼"))
 
 
 def _event_key(name: str) -> str:
     """'2026 K-뷰티 엑스포(K-BEAUTY EXPO)' and 'K-뷰티엑스포 코리아' → comparable core."""
     s = re.sub(r"\(.*?\)|\d+|코리아|korea|제\s*\d+\s*회", "", name, flags=re.I).lower()
-    for en, ko in (("beauty", "뷰티"), ("expo", "엑스포"), ("fair", "페어"), ("show", "쇼")):
+    s = re.sub(r"[^가-힣a-z]", "", s)
+    for en, ko in EVENT_WORDS:
         s = s.replace(en, ko)
-    return re.sub(r"[^가-힣a-z]", "", s)
+    return s
 
 
 # Industry gatherings; other events stay only when two or more articles report them.
@@ -301,6 +308,9 @@ def upcoming_events(clusters: list[Cluster], after, days: int = 60, limit: int =
                             and (k in x["key"] or x["key"] in k or similar(k, x["key"], 0.5))), None)
                 if dup:
                     dup["n_docs"] += 1
+                    # the report is Korean: name the event as a Korean outlet writes it
+                    if not re.search(r"[가-힣]", dup["name"]) and re.search(r"[가-힣]", e["name"]):
+                        dup.update(name=e["name"], place=e.get("place"), quote=e["quote"], doc_id=d["doc_id"])
                     continue
                 out.append({"name": e["name"], "key": k, "start": start.isoformat(),
                             "end": end.isoformat() if end != start else None,
