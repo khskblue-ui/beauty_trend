@@ -1,9 +1,13 @@
-# 예비용 수집(수동 실행만). 2026-10-16부터 매일 수집과 정리는 Claude 작업 세션이 맡는다
-# (docs/session_routine.md). 같은 기사를 Actions가 먼저 받으면 세션에 본문이 없어 정리 품질이
-# 떨어지므로 일정 실행은 끈다. 모델 호출(enrich)도 하지 않는다.
+# 매일 수집과 정리는 Claude 작업 세션이 맡는다(docs/session_routine.md). Actions는 두 가지만 한다.
+# 1) 일정 실행(05:47 KST): 식약처 RSS 4개만 받는다. 작업 세션 환경에서는 식약처 연결이 끊긴다
+#    (2026-10 루틴 15일 중 11일 실패, Actions 러너에서는 정상). 본문을 받지 않는 소스라 세션의
+#    정리 품질에 영향이 없고, 다음 세션이 정리한다.
+# 2) 수동 실행: 예비용 전체 수집. 모델 호출(enrich)은 하지 않는다.
 name: collect-daily
 
 on:
+  schedule:
+    - cron: "47 20 * * *"   # 05:47 KST, 작업 세션(06:21 KST)보다 먼저
   workflow_dispatch:
     inputs:
       only:
@@ -36,7 +40,7 @@ jobs:
       - run: pip install pyyaml==6.0.1 jinja2==3.1.6
       - name: Collect
         env:
-          ONLY: ${{ inputs.only }}
+          ONLY: ${{ github.event_name == 'schedule' && 'mfds_press,mfds_notice,mfds_preannounce,mfds_law' || inputs.only }}
         # backfill: re-read the last 3 days of each source archive so a failed run
         # or a feed that rotates quickly does not lose articles (known ones are skipped)
         run: python -m trend collect ${ONLY:+--only "$ONLY"} --backfill-since "$(TZ=Asia/Seoul date -d '3 days ago' +%F)"

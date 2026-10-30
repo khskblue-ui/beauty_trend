@@ -79,3 +79,15 @@ def test_entailment_evidence_includes_the_article_title(data_dir, monkeypatch):
     rec = {"title": "CJ올리브영, 세포라 매장 입점을 마쳤다", "extraction": {}}
     kept, _ = verify.verify_sentences([s], {"d"}, {"d": rec}, set(), None)
     assert kept and "(기사 제목) CJ올리브영, 세포라 매장 입점을 마쳤다" in seen[0][1] and "입점을 마쳤다" in seen[0][1]
+
+
+def test_export_hands_out_different_batches(data_dir):
+    for i in range(5):
+        with pytest.raises(PendingLLM):
+            generate_json({"backend": "session", "role": "enrich"}, f"a{i}", SCHEMA, "rules")
+    a, b = data_dir / "b1.json", data_dir / "b2.json"
+    assert exchange.export("enrich", a, limit=3) == 3 and exchange.export("enrich", b, limit=3) == 2
+    ids = lambda f: {x["id"] for x in json.loads(f.read_text("utf-8"))["items"]}
+    assert not ids(a) & ids(b)
+    assert exchange.export("enrich", data_dir / "b3.json") == 0
+    assert exchange.export("enrich", data_dir / "b4.json", again=True) == 5      # a worker failed: hand out again

@@ -51,6 +51,7 @@ def main(argv=None) -> int:
     lm.add_argument("--file")
     lm.add_argument("--by", help="name of the agent that wrote the answers (verify: must start with 'verifier')")
     lm.add_argument("--limit", type=int)
+    lm.add_argument("--again", action="store_true", help="export: include requests already handed to a worker")
     dl = sub.add_parser("deliver")
     dl.add_argument("--run-dir", required=True)
     u = sub.add_parser("usage")
@@ -99,7 +100,7 @@ def main(argv=None) -> int:
             print(json.dumps({"open": len(reqs), "by_role": Counter(r["role"] for r in reqs)}, ensure_ascii=False))
             return 0
         if a.action == "export":
-            n = exchange.export(a.role, Path(a.out), a.limit)
+            n = exchange.export(a.role, Path(a.out), a.limit, a.again)
             print(json.dumps({"exported": n, "file": a.out}, ensure_ascii=False))
             return 0
         out = exchange.import_answers(Path(a.file), a.by or "")

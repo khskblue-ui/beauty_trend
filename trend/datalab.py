@@ -23,6 +23,11 @@ def _period(end_ym: str, months: int, until=None) -> tuple[str, str]:
     _, last = month_bounds(end_ym)
     if until:   # interim report: the current month is counted up to `until`
         last = min(last, until)
+    # DataLab rejects end dates that have not happened yet (400 Invalid Date Range):
+    # a dry run on the 25th must stop at yesterday (KST)
+    from datetime import timedelta
+    from .util import now_kst
+    last = min(last, now_kst().date() - timedelta(days=1))
     y, m = last.year, last.month - months + 1
     while m <= 0:
         y, m = y - 1, m + 12

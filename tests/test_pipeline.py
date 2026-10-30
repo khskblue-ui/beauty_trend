@@ -295,3 +295,12 @@ def test_enrich_copies_near_duplicates_and_stops_on_big_estimates(monkeypatch, t
                         if n == "models" else real_load(n))                 # the cost gate is for the paid API
     stopped = enrich.enrich_pending("2026-10", upgrade=True)             # redo needs --yes
     assert stopped["ran"] is False and stopped["estimate"]["docs"] == 2
+
+
+def test_datalab_period_never_ends_in_the_future(monkeypatch):
+    from datetime import datetime
+    from trend import datalab
+    import trend.util as util
+    monkeypatch.setattr(util, "now_kst", lambda: datetime(2026, 10, 25, 9, 17, tzinfo=util.KST))
+    assert datalab._period("2026-10", 6) == ("2026-05-01", "2026-10-24")
+    assert datalab._period("2026-09", 6) == ("2026-04-01", "2026-09-30")

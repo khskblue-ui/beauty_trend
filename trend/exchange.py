@@ -99,11 +99,15 @@ def reset() -> None:
 
 # ---- session side: list, export to a worker, import its answers ----------------
 
-def open_requests(role: str | None = None) -> list[dict]:
+def open_requests(role: str | None = None, unassigned: bool = False) -> list[dict]:
+    """Requests without an answer. unassigned=True also skips ones already exported to a worker
+    (so parallel workers get different batches)."""
     d = root()
     out = []
     for p in sorted(d.glob("*.req.json")) if d.exists() else []:
         if (d / p.name.replace(".req.", ".res.")).exists():
+            continue
+        if unassigned and (d / p.name.replace(".req.json", ".assigned")).exists():
             continue
         r = store.read_json(p, {}) or {}
         if role is None or r.get("role") == role:
@@ -111,10 +115,14 @@ def open_requests(role: str | None = None) -> list[dict]:
     return out
 
 
-def export(role: str, out: Path, limit: int | None = None) -> int:
+def export(role: str, out: Path, limit: int | None = None, again: bool = False) -> int:
     """Bundle open requests of one role for a worker. Shared system prompts and schemas
-    are written once, so a batch of 40 articles does not repeat 40 copies of the rules."""
-    reqs = open_requests(role)[:limit]
+    are written once, so a batch of 40 articles does not repeat 40 copies of the rules.
+    Exported requests are marked assigned, so the next export hands out the next batch;
+    again=True re-exports assigned but still unanswered requests (a worker failed)."""
+    reqs = open_requests(role, unassigned=not again)[:limit]
+    for r in reqs:
+        (root() / f"{r['id']}.assigned").write_text(str(out), "utf-8")
     systems: dict[str, str] = {}
     schemas: dict[str, dict] = {}
     items = []

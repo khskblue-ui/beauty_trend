@@ -18,6 +18,11 @@
 
 ## 준비 (매일, 월간 공통)
 
+0. 저장소를 **푸시 권한으로** 붙인다. 세션에 저장소가 없거나 읽기 전용이면 `add_repo` 도구로
+   owner `khskblue-ui`, repo `beauty_trend`, access `"push"`를 붙이고 도구가 알려 주는 명령으로 받는다.
+   (2026-10-25 월간 세션은 이 단계 없이 받아 data 브랜치 푸시가 403으로 막혔다.)
+   시작할 때 `git push --dry-run origin HEAD:refs/heads/data`로 푸시가 되는지 먼저 확인한다.
+
 ```bash
 pip install -q -r requirements.txt          # 월간에 PDF가 필요 없으면 playwright 설치는 건너뛴다
 git fetch -q origin data && (git worktree add data data 2>/dev/null || (cd data && git pull -q origin data))
@@ -29,6 +34,7 @@ export DATA_DIR=data
 1. 수집: `python -m trend collect --backfill-since "$(TZ=Asia/Seoul date -d '3 days ago' +%F)"`
 2. 정리: `python -m trend enrich` → 결과의 `waiting_for_answers`가 0이 될 때까지 아래를 되풀이한다.
    - `python -m trend llm export --role enrich --out work/enrich_<k>.json --limit 40`
+     (내보낸 요청은 '배정됨'으로 표시돼 다음 내보내기에서 빠진다. 일꾼이 실패하면 `--again`으로 다시 내보낸다)
    - 일꾼 서브에이전트(`enricher-<k>`)에게 준다. 동시에 4개까지. 일꾼 지시문:
      "work/enrich_<k>.json의 how_to_answer를 따른다. 각 item에 systems[item.system] 규칙을 적용해
      schemas[item.schema]에 맞는 JSON 하나로 답한다. 목록 항목(제품, 날짜가 있는 행사, 이름이 나온 원료)은
