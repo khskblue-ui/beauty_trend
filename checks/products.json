@@ -3646,5 +3646,29 @@
  "fced98c1cb4d2b3b|launch|리프티카|리프티카 3RF|": {
   "kept": false,
   "reason": "entailment:not_supported"
+ },
+ "c85f6bbbebfea72a|launch|L’Entropiste|Festin|mûre,truffe,caviar,cuir galuchat,oud": {
+  "kept": false,
+  "reason": "brand_not_in_article"
+ },
+ "b9d0a96a805457d6|launch|L'Entropiste|Festin|blackberry,caviar,truffle,shagreen leather,oud": {
+  "kept": true,
+  "reason": null
+ },
+ "70cefdc2b0384ab2|launch|Dossier|Tropical Oud|Oud": {
+  "kept": true,
+  "reason": null
+ },
+ "70cefdc2b0384ab2|launch|Dossier|Oud de Rose|Oud": {
+  "kept": true,
+  "reason": null
+ },
+ "70cefdc2b0384ab2|launch|Dossier|Golden Amber Oud|Oud": {
+  "kept": true,
+  "reason": null
+ },
+ "9916c60198042228|launch|쿠오카|와일드 피치 솔리드 퍼퓸|와일드 피치": {
+  "kept": true,
+  "reason": null
  }
 }

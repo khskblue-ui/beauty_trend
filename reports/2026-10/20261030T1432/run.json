@@ -1,0 +1,64 @@
+{
+ "month": "2026-10",
+ "period": {
+  "start": "2026-10-01",
+  "end": "2026-10-30",
+  "interim": true
+ },
+ "status": "dry_run",
+ "models": {
+  "enrich": {
+   "backend": "session",
+   "role": "enrich",
+   "model": "gemini-3.8-flash",
+   "fallback": "gemini-3.5-flash",
+   "thinking_budget": 512,
+   "max_retries": 2,
+   "krw_per_1k_tokens": 1.9,
+   "tokens_per_doc": 1100,
+   "confirm_over_krw": 3000
+  },
+  "write": {
+   "backend": "session",
+   "role": "write",
+   "model": "gemini-4-argon",
+   "fallback": "gemini-3.1-pro-preview",
+   "thinking_budget": 2048,
+   "max_retries": 2
+  },
+  "verify": {
+   "backend": "session",
+   "role": "verify",
+   "model": "gemini-3.8-flash",
+   "fallback": "gemini-3.5-flash",
+   "thinking_budget": 256,
+   "max_retries": 1
+  }
+ },
+ "prompt_versions": {
+  "write": "write-v5",
+  "style": "style-v2"
+ },
+ "docs": 3767,
+ "clusters": 3215,
+ "prev_docs": 0,
+ "paths": {
+  "html": "/tmp/claude-0/-home-user-beauty-trend/6fda6f61-7a03-5b52-81a3-d675feb1eedc/scratchpad/oct2/reports/2026-10/20261030T1432/report_2026-10.html",
+  "mail": "/tmp/claude-0/-home-user-beauty-trend/6fda6f61-7a03-5b52-81a3-d675feb1eedc/scratchpad/oct2/reports/2026-10/20261030T1432/mail.txt",
+  "motion_signal": "/tmp/claude-0/-home-user-beauty-trend/6fda6f61-7a03-5b52-81a3-d675feb1eedc/scratchpad/oct2/reports/2026-10/20261030T1432/report_2026-10_signal.html",
+  "motion_signal_doc": "/tmp/claude-0/-home-user-beauty-trend/6fda6f61-7a03-5b52-81a3-d675feb1eedc/scratchpad/oct2/reports/2026-10/20261030T1432/report_2026-10_signal_doc.html",
+  "pdf": "/tmp/claude-0/-home-user-beauty-trend/6fda6f61-7a03-5b52-81a3-d675feb1eedc/scratchpad/oct2/reports/2026-10/20261030T1432/report_2026-10.pdf"
+ },
+ "verify": {
+  "total": 18,
+  "kept": 16,
+  "dropped": 2,
+  "reasons": {
+   "entailment:uncertain": 2
+  }
+ },
+ "style": {
+  "rewritten": 0,
+  "warnings": []
+ }
+}

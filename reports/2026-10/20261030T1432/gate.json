@@ -1,0 +1,63 @@
+{
+ "sections": {
+  "keywords": {
+   "status": "ok",
+   "reason": null,
+   "n": 5,
+   "min": 1
+  },
+  "launches": {
+   "status": "ok",
+   "reason": null,
+   "n": 304,
+   "min": 5
+  },
+  "notes": {
+   "status": "ok",
+   "reason": null,
+   "n": 27,
+   "min": 1
+  },
+  "customers": {
+   "status": "hidden",
+   "reason": "고객사 목록 미수신"
+  },
+  "market": {
+   "status": "ok",
+   "reason": null,
+   "n": 8,
+   "min": 3
+  },
+  "regulation": {
+   "status": "ok",
+   "reason": null,
+   "n": 4,
+   "min": 1
+  },
+  "signals": {
+   "status": "hidden",
+   "reason": "고객사 목록 미수신"
+  },
+  "events": {
+   "status": "ok",
+   "reason": null,
+   "n": 15,
+   "min": 1
+  },
+  "ingredients": {
+   "status": "ok",
+   "reason": null,
+   "n": 10,
+   "min": 1
+  },
+  "shopping": {
+   "status": "ok",
+   "reason": null,
+   "n": 5,
+   "min": 1
+  }
+ },
+ "core_failed": 0,
+ "core_total": 4,
+ "hold": false
+}

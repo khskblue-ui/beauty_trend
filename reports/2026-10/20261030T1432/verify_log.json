@@ -1,0 +1,205 @@
+[
+ {
+  "term": "더마 코스메틱",
+  "text": "한미사이언스가 자체 개발 원료를 적용한 더마코스메틱 브랜드 '아데시'를 출시했다.",
+  "doc_ids": [
+   "f054c27231b6162c"
+  ],
+  "quote": "한미사이언스도 자체 개발 원료를 적용한 더마코스메틱 브랜드 ‘아데시’를 출시 했다.",
+  "model": "claude-session:writer-1",
+  "kept": true,
+  "reason": null,
+  "section": "keywords"
+ },
+ {
+  "term": "팝업스토어",
+  "text": "에이지투웨니스가 '스킨 퍼스트 메이크업'을 새 브랜드 철학으로 정하고, 리브랜딩에 맞춰 팝업스토어를 운영할 계획이다.",
+  "doc_ids": [
+   "4fef3daa6c5e37fc"
+  ],
+  "quote": "스킨 퍼스트 메이크업 브랜드 ‘AGE20’S’(에이지투웨니스)가 ‘Skin First Makeup’을 새로운 브랜드 철학으로 정립하며, 리브랜딩의 일환으로 브랜드 팝업 ‘THE AGE20’S HOUSE’를 운영한다.",
+  "model": "claude-session:writer-1",
+  "kept": false,
+  "reason": "entailment:uncertain",
+  "section": "keywords"
+ },
+ {
+  "term": "헤어케어",
+  "text": "에코바이오의학연구소가 푸에르토리코에 K-스칼프케어 학과목을 개설하고 두피와 헤어케어 제품 공급을 시작했다.",
+  "doc_ids": [
+   "b21f22995b15b34d"
+  ],
+  "quote": "(주)에코바이오의학연구소가 푸에르토리코에 K-스칼프케어 관련 학과목을 개설하고 두피·헤어케어 제품 공급을 시작하며",
+  "model": "claude-session:writer-1",
+  "kept": true,
+  "reason": null,
+  "section": "keywords"
+ },
+ {
+  "term": "이너 뷰티",
+  "text": "구다이글로벌이 이너 뷰티 브랜드 '이세비'를 론칭하고 주력 제품 '에어리 페이스 드링크'를 올리브영에서 선공개했다.",
+  "doc_ids": [
+   "f73f0c813904bb56"
+  ],
+  "quote": "구다이글로벌이 1일 이너 뷰티 브랜드 '이세비(eseve)'를 론칭 하고 주력 제품인 '에어리 페이스 드링크'를 올리브영에서 선공개했다고 밝혔다.",
+  "model": "claude-session:writer-1",
+  "kept": true,
+  "reason": null,
+  "section": "keywords"
+ },
+ {
+  "term": "뷰티 디바이스",
+  "text": "프랑스 스킨케어 브랜드 myBlend가 myBLEMISHpen과 myDARKSPOTpen을 새로 더해 뷰티 디바이스 라인업을 넓혔다.",
+  "doc_ids": [
+   "eef80f6ffe77f36a"
+  ],
+  "quote": "French skincare brand myBlend is expanding its ecosystem of beauty tech tools focused on skincare with two new devices: myBLEMISHpen and myDARKSPOTpen",
+  "model": "claude-session:writer-1",
+  "kept": true,
+  "reason": null,
+  "section": "keywords"
+ },
+ {
+  "text": "킨텍스가 국내 뷰티기업의 수출과 판로 개척을 지원하는 'K-뷰티엑스포 코리아'를 개최한다고 밝혔다.",
+  "doc_ids": [
+   "280f2e827e1bc4e9"
+  ],
+  "quote": "킨텍스가 오는 15일부터 17일까지 사흘간 킨텍스 제1전시장 3~5홀에서 국내 뷰티기업의 수출과 판로 개척을 지원하는 ‘2026 K-뷰티엑스포 코리아’를 개최한다고 12일 밝혔다.",
+  "model": "claude-session:writer-1",
+  "kept": true,
+  "reason": null,
+  "section": "market_kr"
+ },
+ {
+  "text": "올리브영이 한 달 일정으로 헤어와 보디케어 프로모션에 나섰다.",
+  "doc_ids": [
+   "ebcd1ccb68e91c6c"
+  ],
+  "quote": "올리브영이 10월 한 달 동인 헤어·보디케어 프로모션을 전개한다.",
+  "model": "claude-session:writer-1",
+  "kept": false,
+  "reason": "entailment:uncertain",
+  "section": "market_kr"
+ },
+ {
+  "text": "이소영 중소벤처기업부 장관이 화장품 ODM 기업 한국콜마의 세종공장을 찾았다.",
+  "doc_ids": [
+   "2ea0215a47694e72"
+  ],
+  "quote": "이소영 중소벤처기업부 장관이 지난 16일(금) 국내 최초의 화장품 ODM 기업 한국콜마 세종공장을 방문했다고 한국콜마(대표 최현규)가 밝혔다.",
+  "model": "claude-session:writer-1",
+  "kept": true,
+  "reason": null,
+  "section": "market_kr"
+ },
+ {
+  "text": "한의학 기반 더마 코스메틱 브랜드 레이시올로지가 론칭 반년 만에 전국 각지의 한의원에 입점했다.",
+  "doc_ids": [
+   "0656f4d5d7de0562"
+  ],
+  "quote": "한의학 기반 더마 코스메틱 브랜드 레이시올로지(RATIOLOGY, 대표 정희범)가 론칭 반년 만에 전국 600개 한의원에 입점하며 K-뷰티 시장에서 한의학을 기반으로 독자적인 입지를 구축했다고 26일 밝혔다.",
+  "model": "claude-session:writer-1",
+  "kept": true,
+  "reason": null,
+  "section": "market_kr"
+ },
+ {
+  "text": "크로마엑스가 '뷰티월드 두바이'에 참가해 헤어 브랜드 다슈와 달리프를 선보였다.",
+  "doc_ids": [
+   "e5f0e96e58c0100f"
+  ],
+  "quote": "크로마엑스는 이번 행사에서 헤어 브랜드 다슈(DASHU)와 달리프(DALEAF)를 선보였다.",
+  "model": "claude-session:writer-1",
+  "kept": true,
+  "reason": null,
+  "section": "market_kr"
+ },
+ {
+  "text": "스위스 스킨케어 기업 Galderma가 캘리포니아에 본사를 둔 ZO Skin Health를 인수하기로 합의했다고 밝혔다.",
+  "doc_ids": [
+   "18b9c064630826bd"
+  ],
+  "quote": "Swiss skincare group Galderma announced on Wednesday, October 14, that it has agreed to acquire California-based ZO Skin Health",
+  "model": "claude-session:writer-2",
+  "kept": true,
+  "reason": null,
+  "section": "market_global"
+ },
+ {
+  "text": "웰빙 향수 브랜드 Vyrao가 새로 출범한 헬스앤뷰티 플랫폼 Tresalis에 인수됐고, 창업자 야스민 슈얼은 최고브랜드책임자를 맡게 됐다.",
+  "doc_ids": [
+   "006c477ee73c4331"
+  ],
+  "quote": "Wellbeing fragrance brand Vyrao’s acquisition by newly established health and beauty platform Tresalis will see founder Yasmin Sewell step into a new role as Chief Brand Officer",
+  "model": "claude-session:writer-2",
+  "kept": true,
+  "reason": null,
+  "section": "market_global"
+ },
+ {
+  "text": "DSM-Firmenich가 첼시에 파인 프래그런스 플래그십 허브를 공개했다.",
+  "doc_ids": [
+   "e35ea3a3df08da09"
+  ],
+  "quote": "DSM-Firmenich Unveils Flagship Fine Fragrance Hub in Chelsea",
+  "model": "claude-session:writer-2",
+  "kept": true,
+  "reason": null,
+  "section": "market_global"
+ },
+ {
+  "text": "소비자들이 패션, 가죽 제품, 주얼리보다 부담이 덜한 프레스티지 뷰티 제품을 고르면서 매출이 계속 늘고 있다.",
+  "doc_ids": [
+   "2a3af2b40644e077"
+  ],
+  "quote": "sales of prestige beauty products continue to grow, driven by consumers who favor these more accessible purchases over fashion, leather goods, and jewelry.",
+  "model": "claude-session:writer-2",
+  "kept": true,
+  "reason": null,
+  "section": "market_global"
+ },
+ {
+  "text": "식약처가 '화장품의 점자 표시 등에 대한 가이드라인'을 제정해 용기나 포장에 점자와 음성, 수어 영상 변환용 코드를 표시하는 방법을 안내했다.",
+  "doc_ids": [
+   "5a9c5136a5b5cb93"
+  ],
+  "quote": "식품의약품안전처(처장 오유경)는 화장품 용기 또는 포장에 점자 및 음성·수어영상변환용 코드 표시를 활성화하고, 표준화된 표시방안을 안내하기 위해 「화장품의 점자 표시 등에 대한 가이드라인」을 10월 20일 제정했다고 밝혔다.",
+  "model": "claude-session:writer-1",
+  "kept": true,
+  "reason": null,
+  "section": "regulation"
+ },
+ {
+  "text": "식약처가 식품첨가물 향료에 관해 자주 묻는 질의응답집을 펴냈다.",
+  "doc_ids": [
+   "a00012ad02aa6cfb"
+  ],
+  "quote": "식약처, '식품첨가물 향료 바로 알기：자주 묻는 질의·응답집' 발간",
+  "model": "claude-session:writer-1",
+  "kept": true,
+  "reason": null,
+  "section": "regulation"
+ },
+ {
+  "text": "미국 식품의약국(FDA)이 화장품 요건을 다룬 정보 수집안을 관리예산처(OMB) 심사에 제출했다고 공고했다.",
+  "doc_ids": [
+   "d566996b446d7f0a"
+  ],
+  "quote": "The Food and Drug Administration (FDA, Agency, or we) is announcing that a proposed collection of information has been submitted to the Office of Management and Budget (OMB) for review and clearance",
+  "model": "claude-session:writer-1",
+  "kept": true,
+  "reason": null,
+  "section": "regulation"
+ },
+ {
+  "text": "식약처가 화장품 안전성 정보 보고 사례를 발표했다.",
+  "doc_ids": [
+   "4428b8ef9f515821"
+  ],
+  "quote": "[보도참고] ’25년 화장품 안전성 정보 보고 사례 발표",
+  "model": "claude-session:writer-1",
+  "kept": true,
+  "reason": null,
+  "section": "regulation"
+ }
+]
