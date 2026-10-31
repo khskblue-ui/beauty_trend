@@ -1,0 +1,42 @@
+{
+ "doc_id": "9b3c96df96bc380f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=578590&class=17&grp=",
+ "title": "K-뷰티, 수출 호조에 실적 개선…기술·유통 경쟁도 가열 [뷰티풀위크]",
+ "summary": "등을 출시 하며 제품군을 확대해 왔다. 앞으로 피부과 전문의의 임상 경험과 자체 화장품 연구개발 역량을... 성수점에는 스킨케어와 메이크업, 향수 등 700여개 브랜드의 상품 1만여개가 입점하며 이 가운데 99개...",
+ "published_at": "2026-10-31T08:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "유통 경쟁",
+   "유통 경쟁"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티가 수출 호조로 실적이 좋아졌고 기술과 유통 경쟁도 거세지고 있다.",
+  "key_fact_quote": "K-뷰티, 수출 호조에 실적 개선…기술·유통 경쟁도 가열 [뷰티풀위크]",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-31T21:29:51+00:00",
+ "had_body": false
+}

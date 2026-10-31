@@ -1,0 +1,55 @@
+{
+ "doc_id": "c66ef61638fc3379",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/ouai-heaven-mayhem-fragrance-necklace-collaboration-1239394550/",
+ "title": "EXCLUSIVE: Ouai and Heaven Mayhem Team Up on Refillable Fragrance Necklaces",
+ "summary": "The amulet necklaces bring together Ouai’s signature scents and Heaven Mayhem’s vintage-inspired jewelry designs.",
+ "published_at": "2026-11-01T01:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Ouai",
+   "Heaven Mayhem"
+  ],
+  "companies": [],
+  "keywords": [
+   "리필형 향수",
+   "향수 주얼리",
+   "브랜드 협업"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Refillable Fragrance Necklaces",
+    "brand": "Ouai",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Ouai와 Heaven Mayhem이 리필형 향수 목걸이를 함께 내놓는다.",
+  "key_fact_quote": "The amulet necklaces bring together Ouai’s signature scents and Heaven Mayhem’s vintage-inspired jewelry designs.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-31T21:29:51+00:00",
+ "had_body": false
+}

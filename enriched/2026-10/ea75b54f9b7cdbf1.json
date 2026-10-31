@@ -1,0 +1,52 @@
+{
+ "doc_id": "ea75b54f9b7cdbf1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12184164",
+ "title": "홍합의 비밀을 샴푸에…아마존서 빅히트 [K뷰티 숨은 거인]",
+ "summary": "‘ 화장품 업계의 CES’로 불리는 이탈리아 코스모프로프 볼로냐에서는 주최 측이 꼽은 차세대 스마트 샴푸... 지난해 4월 토너, 올해 6월 PDRN(연어 등에서 얻는 재생 성분) 샴푸를 더했고 4분기에도 신제품 을 낼 예정이다....",
+ "published_at": "2026-10-31T21:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "기능성 샴푸",
+   "K-뷰티 헤어케어",
+   "아마존 수출",
+   "PDRN"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "홍합 성분을 담은 샴푸가 아마존에서 큰 인기를 얻고 있다.",
+  "key_fact_quote": "홍합의 비밀을 샴푸에…아마존서 빅히트 [K뷰티 숨은 거인]",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "지난해 4월 토너, 올해 6월 PDRN(연어 등에서 얻는 재생 성분) 샴푸를 더했고 4분기에도 신제품 을 낼 예정이다."
+   },
+   {
+    "name": "홍합",
+    "quote": "홍합의 비밀을 샴푸에…아마존서 빅히트 [K뷰티 숨은 거인]"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-31T21:29:51+00:00",
+ "had_body": false
+}

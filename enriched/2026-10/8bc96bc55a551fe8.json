@@ -1,0 +1,44 @@
+{
+ "doc_id": "8bc96bc55a551fe8",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312546",
+ "title": "K-Beauty Exports Shift Toward Skincare and Haircare as Color Cosmetics Lose Momentum",
+ "summary": "South Korea’s beauty industry continued its export expansion in the third quarter of 2026, but the latest trade data reveal a growing divide between fast-growing skincare and haircare categories and a slowing color cosmetics segment.According to trade statistics analyzed from Korea Customs Service d",
+ "published_at": "2026-10-31T11:50:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "스킨케어",
+   "헤어케어",
+   "샴푸",
+   "색조 화장품 둔화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "스킨케어와 헤어케어가 K-뷰티 수출을 이끌고 색조 화장품은 힘이 빠지고 있다.",
+  "key_fact_quote": "South Korea’s cosmetics exports continue to grow, with skincare and haircare products leading the expansion in overseas markets.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-31T21:29:51+00:00",
+ "had_body": true
+}

@@ -1,0 +1,57 @@
+{
+ "doc_id": "59e3c0d759cffb43",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoulfn.com/news/articleView.html?idxno=641471",
+ "title": "K뷰티 3사, 해외 시장서 승부수···브랜드·지역별 전략 차별화",
+ "summary": "국내 화장품 업계가 해외 시장을 중심으로 사업 전략을 재편하고 있다. 에이피알은 메디큐브를 앞세워... 설화수는 자음생크림 출시 60주년 캠페인과 주요 판매 채널의 호조에 힘입어 두 자릿수 성장률을 기록했다....",
+ "published_at": "2026-10-31T13:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수",
+   "메디큐브"
+  ],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "K-뷰티 해외 진출",
+   "지역별 전략",
+   "브랜드 차별화"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "자음생크림",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "국내 화장품 업계가 해외 시장을 중심으로 사업 전략을 재편하고 있다.",
+  "key_fact_quote": "국내 화장품 업계가 해외 시장을 중심으로 사업 전략을 재편하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-31T21:29:51+00:00",
+ "had_body": false
+}

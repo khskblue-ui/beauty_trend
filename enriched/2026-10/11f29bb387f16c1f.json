@@ -1,0 +1,46 @@
+{
+ "doc_id": "11f29bb387f16c1f",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58630",
+ "title": "[10월 5주 화장품 주가] AI 투자 수익성 불안으로 매크로 부진... 11월 실적 발표와 블랙프라이데이 등 쇼핑 시즌 영향 가시화",
+ "summary": "[코스인코리아닷컴 김민석 기자]AI 투자 수익성에 대한 불안으로 미국 기술주가 급락하며, 신용시장이 불안하다. 미국은 고물가 억제 위해 추가 금리 인상 필요성이 강조되고 있다. 국내 증시는 반도체 수급 논란 등의 여파로 코스피와 코스닥 모두 약세를 보이며 전체적인 지수 흐름이 지지부진한 모습이다…",
+ "published_at": "2026-10-31T17:48:22+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "웰라이언트",
+   "마루베니",
+   "아이패밀리에스씨"
+  ],
+  "keywords": [
+   "화장품 주가",
+   "K-뷰티 수출",
+   "공개매수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 기업 주가가 대부분 조정을 받거나 하락했다.",
+  "key_fact_quote": "화장품 기업들의 주가도 대부분 조정을 받거나 하락했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-31T21:29:51+00:00",
+ "had_body": true
+}

@@ -1,0 +1,54 @@
+{
+ "doc_id": "f2824f2d1b2f5443",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/willy-chavarria-xinu-candle-collab-mexico-1239393054/",
+ "title": "Willy Chavarria Teams With Xinú for Limited-Edition Candle Vessel",
+ "summary": "The fashion designer is officially launching the collaboration he teased during his spring 2027 ready-to-wear presentation last June.",
+ "published_at": "2026-11-01T04:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Willy Chavarria",
+   "Xinú"
+  ],
+  "companies": [],
+  "keywords": [
+   "브랜드 협업",
+   "한정판 캔들"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Limited-Edition Candle Vessel",
+    "brand": "Xinú",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "The fashion designer is officially launching the collaboration he teased during his spring 2027 ready-to-wear presentation last June.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디자이너 윌리 차바리아가 자이누와 협업한 한정판 캔들 용기를 공식 출시한다.",
+  "key_fact_quote": "The fashion designer is officially launching the collaboration he teased during his spring 2027 ready-to-wear presentation last June.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-31T21:29:51+00:00",
+ "had_body": false
+}

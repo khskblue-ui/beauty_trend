@@ -1,0 +1,42 @@
+{
+ "doc_id": "dd19c34e0f4e14ed",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=203117",
+ "title": "겨울철 메이크업 고민 잡는다... 기능성 신제품 경쟁 [최기자의 화장품 ...",
+ "summary": "기온이 낮아지고 건조한 날씨가 이어지는 겨울 시즌을 앞두고 화장품 업계가 계절별 소비자 고민을 겨냥한 신제품 을 잇달아 선보이고 있어 주목된다. 이번 주에는 건조함으로 인한 베이스 메이크업 들뜸을 줄이는...",
+ "published_at": "2026-10-31T11:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "겨울 메이크업",
+   "기능성 베이스",
+   "건조 케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 업계가 겨울 시즌 소비자 고민을 겨냥한 기능성 신제품을 잇달아 내놓고 있다.",
+  "key_fact_quote": "기온이 낮아지고 건조한 날씨가 이어지는 겨울 시즌을 앞두고 화장품 업계가 계절별 소비자 고민을 겨냥한 신제품 을 잇달아 선보이고 있어 주목된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-31T21:29:51+00:00",
+ "had_body": false
+}

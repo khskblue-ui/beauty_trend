@@ -1,0 +1,63 @@
+{
+ "doc_id": "46df1d1f3450f38a",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312516",
+ "title": "US Beauty Market 2026: K-Beauty's Next Challenge Is No Longer Awareness, but Credibility",
+ "summary": "K-beauty is no longer a niche phenomenon in the United States.Dedicated K-beauty sections have become commonplace at major retailers such as Sephora and Ulta Beauty, while consumers increasingly recognize Korean beauty as a distinct category within the broader beauty market. What was once viewed as",
+ "published_at": "2026-10-31T10:05:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "Sephora",
+   "Ulta Beauty"
+  ],
+  "companies": [
+   "RF|Binder"
+  ],
+  "keywords": [
+   "K-뷰티 신뢰",
+   "미국 시장",
+   "브랜드 차별화",
+   "PDRN",
+   "엑소좀"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국에서 K-뷰티의 다음 과제는 인지도가 아니라 소비자 신뢰다.",
+  "key_fact_quote": "K-beauty is no longer a niche phenomenon in the United States.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "Among the terms most frequently connected with Korean beauty today are Glass Skin, Skin-First Beauty, Barrier Repair, Slow Aging, PDRN, Centella and exosomes."
+   },
+   {
+    "name": "Centella",
+    "quote": "Among the terms most frequently connected with Korean beauty today are Glass Skin, Skin-First Beauty, Barrier Repair, Slow Aging, PDRN, Centella and exosomes."
+   },
+   {
+    "name": "exosomes",
+    "quote": "Among the terms most frequently connected with Korean beauty today are Glass Skin, Skin-First Beauty, Barrier Repair, Slow Aging, PDRN, Centella and exosomes."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-31T21:29:51+00:00",
+ "had_body": true
+}

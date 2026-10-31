@@ -1,0 +1,56 @@
+{
+ "doc_id": "b3ed481276a8a1ef",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sports.khan.co.kr/article/202610310747003?pt=nv",
+ "title": "로레알 스킨수티컬즈, 화제의 ‘피티옥스 세럼’에 이어 ‘피티옥스 크...",
+ "summary": "오는 11월 2일부터는 ▲네이버 ▲SSG ▲ 뷰티 컬리 등 전 채널에서 만나볼 수 있으며, 11월 4일 오후 7시에는 뷰티 ·패션 크리에이터 희재홀릭과 함께 신제품 출시 를 기념한 네이버 쇼핑라이브를 진행할 예정이다....",
+ "published_at": "2026-10-31T07:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "로레알 스킨수티컬즈"
+  ],
+  "companies": [
+   "로레알"
+  ],
+  "keywords": [
+   "스킨케어 신제품",
+   "라이브 커머스",
+   "크리에이터 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "피티옥스 세럼",
+    "brand": "로레알 스킨수티컬즈",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "로레알 스킨수티컬즈가 피티옥스 세럼에 이어 신제품을 내놓고 전 채널에서 판매한다.",
+  "key_fact_quote": "오는 11월 2일부터는 ▲네이버 ▲SSG ▲ 뷰티 컬리 등 전 채널에서 만나볼 수 있으며, 11월 4일 오후 7시에는 뷰티 ·패션 크리에이터 희재홀릭과 함께 신제품 출시 를 기념한 네이버 쇼핑라이브를 진행할 예정이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-10-31T21:29:51+00:00",
+ "had_body": false
+}
