@@ -1,0 +1,43 @@
+{
+ "doc_id": "295a232d7b13847d",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53837",
+ "title": "화장품 수출, 10개월 만에 125억6900만$ 달성",
+ "summary": "대한민국 화장품 수출이 올해 10개월 만에 지난해 연간 실적을 넘어서며 다시 한 번 새 역사를 열었다. 산업통상부(장관 김정관· www.motir.go.kr )가 오늘(1일) 집계 발표한 ‘10월 수출입동향’ 자료에 의하면 화장품 수출은 14억4천400만 달러를 기록, 지난해 같은 기간의 9억1천700만 달러보다 57…",
+ "published_at": "2026-11-01T14:16:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "화장품 수출 신기록"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올해 화장품 수출이 지난해 연간 실적을 일찌감치 넘어서며 새 기록을 세웠다.",
+  "key_fact_quote": "대한민국 화장품 수출이 올해 10개월 만에 지난해 연간 실적을 넘어서며 다시 한 번 새 역사를 열었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-01T21:35:21+00:00",
+ "had_body": true
+}

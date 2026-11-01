@@ -1,0 +1,70 @@
+{
+ "doc_id": "1e78fb71f2a5b97b",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312563",
+ "title": "10월 티몰 뷰티시장 판매량 급증…광군제 특수 본격화",
+ "summary": "8월과 9월 연속 판매 둔화세를 보였던 중국 티몰(Tmall) 뷰티시장이 10월 들어 반등한 것으로 나타났다.뷰티경제가 티몰 내 화장품 카테고리 판매 데이터를 조사한 결과, 주요 8개 품목 TOP10 판매량은 9월 126만 개 이상에서 10월 706만 개 이상으로 증가하며 전월 대비 460.3% 늘었다.이는 11월 11일 광군제(双11)를 앞두고 사전 프로모션과 예약판매가 본격화된 데 따른 것으로 분석된다.품목별로는 쿠션이 가장 높은 증가율을 기록했다. 쿠션 TOP10 판매량은 9월 6만 개 이상에서 10월 54만 개 이상으로 80",
+ "published_at": "2026-11-01T14:20:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [
+   "라로슈포제",
+   "로레알",
+   "메디힐",
+   "미스틴",
+   "궁중비책",
+   "ELL",
+   "라네즈",
+   "토리든",
+   "지본",
+   "BUV",
+   "더마펌",
+   "마오거핑",
+   "dpdp",
+   "에이지투웨니스",
+   "비생지연",
+   "미구하라",
+   "가복미"
+  ],
+  "companies": [],
+  "keywords": [
+   "티몰 뷰티",
+   "광군제",
+   "쿠션",
+   "마스크팩"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "광군제를 앞두고 티몰 뷰티시장 판매량이 크게 반등했다.",
+  "key_fact_quote": "8월과 9월 연속 판매 둔화세를 보였던 중국 티몰(Tmall) 뷰티시장이 10월 들어 반등한 것으로 나타났다.",
+  "events": [
+   {
+    "name": "광군제",
+    "start_date": "2026-11-11",
+    "end_date": null,
+    "place": null,
+    "quote": "이는 11월 11일 광군제(双11)를 앞두고 사전 프로모션과 예약판매가 본격화된 데 따른 것으로 분석된다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-01T21:35:21+00:00",
+ "had_body": true
+}

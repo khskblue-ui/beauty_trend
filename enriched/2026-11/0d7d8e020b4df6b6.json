@@ -1,0 +1,44 @@
+{
+ "doc_id": "0d7d8e020b4df6b6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12192787",
+ "title": "K뷰티 투자 1년새 20% 감소 … 웰니스·헤어 분야는 돈 몰려",
+ "summary": "K뷰티 는 여전히 전 세계적인 인기로 수출 품목에서도 큰 비중을 차지하고 있다. 하지만 K뷰티 브랜드들에 대한 현지 소비자들의 관심이 둔화되는 모습도 나타나고 있다. 일례로 구글 트렌드에 따르면 미국의 K뷰티 ...",
+ "published_at": "2026-11-01T16:21:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 투자",
+   "웰니스",
+   "헤어케어",
+   "K뷰티 관심 둔화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 투자는 줄었지만 웰니스와 헤어 분야에는 돈이 몰리고 있다.",
+  "key_fact_quote": "K뷰티 투자 1년새 20% 감소 … 웰니스·헤어 분야는 돈 몰려",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-01T21:35:21+00:00",
+ "had_body": false
+}

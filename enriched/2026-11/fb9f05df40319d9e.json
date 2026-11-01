@@ -1,0 +1,45 @@
+{
+ "doc_id": "fb9f05df40319d9e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=172801",
+ "title": "기술보증기금, K - 뷰티 ㈜노디너리 현장 방문..기대 효과는?",
+ "summary": "기보에 따르면 이번 방문은 케이( K )- 뷰티 의 세계화를 추진하는 화장품 분야 Kibo-Star밸리 선정기업의 성장... 포용금융이 확대될 경우 혁신 중소기업 육성은 물론 우리나라 수출 활성화에도 기여하게 될 것\"이라고 진단했다.",
+ "published_at": "2026-11-01T09:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "기술보증기금",
+   "노디너리"
+  ],
+  "keywords": [
+   "K뷰티 세계화",
+   "포용금융",
+   "중소 화장품 기업 육성"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "기술보증기금이 화장품 분야 선정기업 노디너리를 찾아 성장을 지원한다.",
+  "key_fact_quote": "기보에 따르면 이번 방문은 케이( K )- 뷰티 의 세계화를 추진하는 화장품 분야 Kibo-Star밸리 선정기업의 성장...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-01T21:35:21+00:00",
+ "had_body": false
+}

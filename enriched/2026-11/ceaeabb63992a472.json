@@ -1,0 +1,43 @@
+{
+ "doc_id": "ceaeabb63992a472",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/living/2026/11/01/2026102616315584110",
+ "title": "[르포]\"다른 채널과 경쟁 치열\"…런던 뷰티 매장마다 K뷰티 존",
+ "summary": "우리 소비재 기업의 목표는 수출 확대에 그치지 않는다. 현지 거점에 공장을 짓고, 혁신 물류 시스템을... 요즘 다른 채널이랑 경쟁이 너무 심해서요.\" 지난달 10일(현지시간) 영국 런던의 한 뷰티 매장에서 사진을 찍자...",
+ "published_at": "2026-11-01T13:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 존",
+   "영국 시장",
+   "유통 채널 경쟁"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "영국 런던 뷰티 매장마다 K뷰티 존이 생겼지만 다른 채널과의 경쟁이 치열하다.",
+  "key_fact_quote": "요즘 다른 채널이랑 경쟁이 너무 심해서요.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-01T21:35:21+00:00",
+ "had_body": false
+}

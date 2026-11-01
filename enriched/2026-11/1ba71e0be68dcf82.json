@@ -1,0 +1,71 @@
+{
+ "doc_id": "1ba71e0be68dcf82",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.marieclairekorea.com/beauty/2026/11/11-beauty-newnew-2/?utm_source=naver&utm_medium=partnership",
+ "title": "11월의 뷰티 신제품 #2",
+ "summary": "가브리엘 샤넬이 자유롭게 누비던 파리와 생모리츠의 정수를 담은 향수 . 따뜻한 앰버 머스크 향이 포근한 잔향을 남긴다. 125ml, 26만4천원. 12 SULWHASOO 옥용팩. 히알루론산 5종을 함유해 팩을 하는 동안은 물론...",
+ "published_at": "2026-11-01T11:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "샤넬",
+   "SULWHASOO"
+  ],
+  "companies": [],
+  "keywords": [
+   "11월 신제품",
+   "앰버 머스크 향",
+   "히알루론산 팩"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "파리와 생모리츠의 정수를 담은 향수",
+    "brand": "샤넬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "앰버 머스크"
+    ],
+    "notes_quote": "따뜻한 앰버 머스크 향이 포근한 잔향을 남긴다."
+   },
+   {
+    "name": "옥용팩",
+    "brand": "SULWHASOO",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "11월의 뷰티 신제품으로 샤넬 향수와 SULWHASOO 옥용팩이 소개됐다.",
+  "key_fact_quote": "11월의 뷰티 신제품 #2",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "히알루론산 5종을 함유해 팩을 하는 동안은 물론..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-01T21:35:21+00:00",
+ "had_body": false
+}

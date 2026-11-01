@@ -1,0 +1,47 @@
+{
+ "doc_id": "f75b54da4e1d3e92",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ekn.kr/web/view.php?key=20261101021263742",
+ "title": "스킨케어 다음은 ‘헤어케어’…화장품업계 차세대 격전지로",
+ "summary": "라인을 수출 한다는 계획이다. 조하니 기자 inahohc@ekn.kr ‘스키니피케이션’ 트렌드 확산… K - 뷰티 ‘新 성장 동력’ 부상 LG생건·아모레, 고객 취향 맞춤형 ‘멀티 브랜드 전략’ 맞불 ODM, R&D 강화…코스맥스 ‘AI 탈모...",
+ "published_at": "2026-11-01T14:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "LG생건",
+   "아모레",
+   "코스맥스"
+  ],
+  "keywords": [
+   "헤어케어",
+   "스키니피케이션",
+   "멀티 브랜드 전략",
+   "탈모 케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "스킨케어 다음으로 헤어케어가 화장품업계의 차세대 격전지로 떠올랐다.",
+  "key_fact_quote": "스킨케어 다음은 ‘헤어케어’…화장품업계 차세대 격전지로",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-01T21:35:21+00:00",
+ "had_body": false
+}

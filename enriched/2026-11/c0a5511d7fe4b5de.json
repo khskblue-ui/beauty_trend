@@ -1,0 +1,42 @@
+{
+ "doc_id": "c0a5511d7fe4b5de",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoultimes.news/news/article.html?no=2000101632",
+ "title": "[리테일 위클리] 식품부터 뷰티까지…소비자 입맛 잡는 신제품 경쟁",
+ "summary": "뷰티업계 역시 연말을 앞두고 한정판 화장품 을 준비하는 한편 새로운 판매처를 통한 소비자 확보에 나섰다. 1일 유통업계에 따르면 동서식품은 시리얼과 쿠키 신제품 을 잇달아 출시했다. '오레오오즈 마시멜로 파티'는...",
+ "published_at": "2026-11-01T13:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "한정판 화장품",
+   "연말 시즌 마케팅",
+   "신규 판매처"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티업계가 연말을 앞두고 한정판 화장품을 준비하며 새 판매처로 소비자를 넓히고 있다.",
+  "key_fact_quote": "뷰티업계 역시 연말을 앞두고 한정판 화장품 을 준비하는 한편 새로운 판매처를 통한 소비자 확보에 나섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-01T21:35:21+00:00",
+ "had_body": false
+}

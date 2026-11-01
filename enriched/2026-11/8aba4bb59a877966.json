@@ -1,0 +1,46 @@
+{
+ "doc_id": "8aba4bb59a877966",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://economist.co.kr/article/view/ecn202610270045",
+ "title": "직원 25명으로 50개국 공략… K뷰티 성장 공식 바꾼 'AI 경영'[이코노 인...",
+ "summary": "K - 뷰티 브랜드 ‘OOTD’(오오티디)를 운영하는 아트앤디자인인터내셔날 얘기다. 이 회사의 매출은 2022년 대비... 단순히 국내에서 잘 팔리는 제품을 수출 하는 것이 아니라 현지 바이어의 요구에 맞춰 제품을 개발하고...",
+ "published_at": "2026-11-01T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "OOTD"
+  ],
+  "companies": [
+   "아트앤디자인인터내셔날"
+  ],
+  "keywords": [
+   "AI 경영",
+   "K뷰티 수출",
+   "현지 맞춤 제품 개발"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "소수 인원의 K뷰티 기업 아트앤디자인인터내셔날이 AI 경영으로 해외 시장을 넓혔다.",
+  "key_fact_quote": "K - 뷰티 브랜드 ‘OOTD’(오오티디)를 운영하는 아트앤디자인인터내셔날 얘기다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-01T21:35:21+00:00",
+ "had_body": false
+}

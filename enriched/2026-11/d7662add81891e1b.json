@@ -1,0 +1,52 @@
+{
+ "doc_id": "d7662add81891e1b",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/next-generation-paris-packaging,28440",
+ "title": "Next generation: Paris Packaging Week unveils its 2027 Future Leaders cohort",
+ "summary": "Paris Packaging Week has unveiled the ten young professionals who will be celebrated on February 3-4, 2027, at Paris Expo Porte de Versailles. Representing businesses across Europe, Africa and North America, they make up the Future Leaders 2027 cohort which, each year, recognizes young professionals for their achievements in materials development, luxury design, manufacturing and entrepreneurship within the packaging industry. Ten talents from eight countries The ten selected... - Industry buzz",
+ "published_at": "2026-11-01T05:38:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "Paris Packaging Week"
+  ],
+  "keywords": [
+   "패키징 혁신",
+   "재활용 소재",
+   "지속가능 패키징"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "파리 패키징 위크가 포장 업계 젊은 인재 열 명으로 구성된 2027년 퓨처 리더 명단을 발표했다.",
+  "key_fact_quote": "Paris Packaging Week has unveiled the ten young professionals who will be celebrated on February 3-4, 2027, at Paris Expo Porte de Versailles.",
+  "events": [
+   {
+    "name": "Paris Packaging Week",
+    "start_date": "2027-02-03",
+    "end_date": "2027-02-04",
+    "place": "Paris Expo Porte de Versailles",
+    "quote": "Paris Packaging Week has unveiled the ten young professionals who will be celebrated on February 3-4, 2027, at Paris Expo Porte de Versailles."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-01T21:35:21+00:00",
+ "had_body": true
+}

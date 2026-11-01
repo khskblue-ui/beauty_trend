@@ -1,0 +1,64 @@
+{
+ "doc_id": "3b826e3acaaf510d",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53838",
+ "title": "[코스모닝] 2026년 하반기 화장품 산업 M&A·경영권 인수 동향 종합 분석",
+ "summary": "2026년 하반기 대한민국 화장품 산업에서 눈에 띄는 변화 가운데 하나는 인수합병(M&A)과 지분투자, 경영권 인수 움직임이 한층 활발해지고 있다는 사실이다. 과거 화장품 기업 간 인수합병이 브랜드 포트폴리오 확대나 생산능력 보강에 초점을 맞췄다면 최근에는 기존 화장품 산업과 직접적인 연관성이 크지 않았던 대기업과 해외 사모펀드(PEF)까지 시장에",
+ "published_at": "2026-11-02T04:45:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이지투웨니스",
+   "루나",
+   "원씽",
+   "사핀"
+  ],
+  "companies": [
+   "효성그룹",
+   "동원그룹",
+   "솔루엠",
+   "맥쿼리자산운용",
+   "태광그룹",
+   "참존",
+   "아이큐어",
+   "화성코스메틱",
+   "나우코스",
+   "애경산업"
+  ],
+  "keywords": [
+   "화장품 M&A",
+   "경영권 인수",
+   "제조 ODM 투자",
+   "이종산업 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대기업과 사모펀드가 화장품 기업 인수와 지분투자에 잇달아 나서고 있다.",
+  "key_fact_quote": "2026년 하반기 대한민국 화장품 산업에서 눈에 띄는 변화 가운데 하나는 인수합병(M&A)과 지분투자, 경영권 인수 움직임이 한층 활발해지고 있다는 사실이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "바이오 부탄다이올(BDO)",
+    "quote": "특히 효성티앤씨가 추진하는 바이오 부탄다이올(BDO) 사업은 화장품 보습 원료 등으로 활용할 가능성이 있어 기존 화학·소재 기술과 화장품 사업의 접목이라는 측면에서도 의미가 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-01T21:35:21+00:00",
+ "had_body": true
+}

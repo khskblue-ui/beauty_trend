@@ -1,0 +1,46 @@
+{
+ "doc_id": "8e22abdcf748a301",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/living/2026/11/01/2026102616324655222",
+ "title": "\" K뷰티 는 트렌드 아닌 카테고리\"…아모레퍼시픽, 유럽 공략 속도",
+ "summary": "우리 소비재 기업의 목표는 수출 확대에 그치지 않는다. 현지 거점에 공장을 짓고, 혁신 물류 시스템을... \" K뷰티 가 일부 인기 제품이나 일시적인 트렌드를 넘어 하나의 뷰티 카테고리로 자리매김하고 있습니다.\" 이준식...",
+ "published_at": "2026-11-01T13:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아모레퍼시픽"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "K뷰티 카테고리화",
+   "유럽 시장 진출",
+   "현지 생산 거점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아모레퍼시픽은 K뷰티가 하나의 뷰티 카테고리가 됐다고 보고 유럽 공략을 서두른다.",
+  "key_fact_quote": "K뷰티 가 일부 인기 제품이나 일시적인 트렌드를 넘어 하나의 뷰티 카테고리로 자리매김하고 있습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-01T21:35:21+00:00",
+ "had_body": false
+}

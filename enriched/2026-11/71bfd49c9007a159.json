@@ -1,0 +1,55 @@
+{
+ "doc_id": "71bfd49c9007a159",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fashionbiz.co.kr/article/230473",
+ "title": "애프터블로우 몬치치, 향기부터 굿즈까지 특별한 퍼퓸 컬렉션 선보여",
+ "summary": "프래그런스 브랜드 '애프터블로우(Afterblow)'가 글로벌 인기 캐릭터 몬치치(Monchhichi)와 협업한 퍼퓸 컬렉션을 11월 1일 출시 했다. 향수 에 캐릭터 패키지와 스페셜 굿즈를 더해, 화장대 위부터 가방 속까지 좋아하는...",
+ "published_at": "2026-11-01T11:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "애프터블로우",
+   "몬치치"
+  ],
+  "companies": [],
+  "keywords": [
+   "캐릭터 협업 향수",
+   "퍼퓸 컬렉션",
+   "굿즈 기획세트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퍼퓸 컬렉션",
+    "brand": "애프터블로우",
+    "launch_date": "2026-11-01",
+    "launch_status": "launched",
+    "launch_quote": "프래그런스 브랜드 '애프터블로우(Afterblow)'가 글로벌 인기 캐릭터 몬치치(Monchhichi)와 협업한 퍼퓸 컬렉션을 11월 1일 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "애프터블로우가 몬치치와 협업한 퍼퓸 컬렉션을 출시했다.",
+  "key_fact_quote": "프래그런스 브랜드 '애프터블로우(Afterblow)'가 글로벌 인기 캐릭터 몬치치(Monchhichi)와 협업한 퍼퓸 컬렉션을 11월 1일 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-01T21:35:21+00:00",
+ "had_body": false
+}

@@ -1,0 +1,38 @@
+{
+ "doc_id": "b5f39607b25b665f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261102.22015000177",
+ "title": "캐릭터로 동심 공략하고, 어른 향수 도 자극하고",
+ "summary": "신세계 센텀시티는 오는 5일까지 백화점 6층 키즈스테이에서 교육 완구 브랜드 ‘레일큐브’ 팝업스토어를... 기존 팬들에게는 향수 를, 태권브이를 처음 접하는 어린 세대에게는 국산 캐릭터를 만날 기회를 제공한다는...",
+ "published_at": "2026-11-01T18:03:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-01T21:35:21+00:00",
+ "had_body": false
+}

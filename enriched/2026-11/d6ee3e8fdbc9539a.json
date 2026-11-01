@@ -1,0 +1,45 @@
+{
+ "doc_id": "d6ee3e8fdbc9539a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sports.khan.co.kr/article/202611011826003?pt=nv",
+ "title": "[단독] 성유리, 핑클 복귀하는데··· 화장품 매출 ‘반토막’에 자본잠...",
+ "summary": "1일 업계에 따르면 성유리의 화장품 브랜드 유리드 운영사 율리아엘은 올해 1~6월 매출 4022만1011원을... 그가 론칭에 참여한 유리드는 제품 개발과 디자인 등에 성유리가 직접 참여했다는 점을 홍보해 2020년 출시 됐다....",
+ "published_at": "2026-11-01T18:27:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "유리드"
+  ],
+  "companies": [
+   "율리아엘"
+  ],
+  "keywords": [
+   "연예인 브랜드",
+   "화장품 매출 부진"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "성유리의 화장품 브랜드 유리드 운영사 율리아엘의 매출이 반토막이 됐다.",
+  "key_fact_quote": "1일 업계에 따르면 성유리의 화장품 브랜드 유리드 운영사 율리아엘은 올해 1~6월 매출 4022만1011원을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-01T21:35:21+00:00",
+ "had_body": false
+}

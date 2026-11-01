@@ -1,0 +1,54 @@
+{
+ "doc_id": "ce40b53254885783",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53836",
+ "title": "IBITA, 아시아 뷰티포럼 공동 추진",
+ "summary": "국제뷰티산업교역협회(회장 윤주택·이하 IBITA)가 글로벌 화장품 산업 클러스터와 협력해 2027년 일본, 2028년 한국에서 개최할 ‘아시아 뷰티포럼amp;코스메틱 엑스포’ 공동 추진에 나선다. IBITA는 지난달 30일 대만 타이베이 IEAT 회의센터에서 열린 ‘Taiwan Beauty Valley’(T…",
+ "published_at": "2026-11-01T08:08:43+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP",
+   "TW"
+  ],
+  "brands": [],
+  "companies": [
+   "IBITA"
+  ],
+  "keywords": [
+   "화장품 산업 클러스터",
+   "국제 협력",
+   "OEM·ODM"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "IBITA가 해외 화장품 산업 클러스터와 아시아 뷰티포럼 공동 추진에 합의했다.",
+  "key_fact_quote": "국제뷰티산업교역협회(회장 윤주택·이하 IBITA)가 글로벌 화장품 산업 클러스터와 협력해 2027년 일본, 2028년 한국에서 개최할 ‘아시아 뷰티포럼&코스메틱 엑스포’ 공동 추진에 나선다.",
+  "events": [
+   {
+    "name": "창립 10주년 기념 국제 뷰티 산업 정상회의",
+    "start_date": "2026-10-30",
+    "end_date": null,
+    "place": "대만 타이베이 IEAT 회의센터",
+    "quote": "IBITA는 지난달 30일 대만 타이베이 IEAT 회의센터에서 열린 ‘Taiwan Beauty Valley’(TBV) 창립 10주년 기념 국제 뷰티 산업 정상회의에 참가, 이 같은 국제 공동사업 추진에 합의했다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-01T21:35:21+00:00",
+ "had_body": true
+}
