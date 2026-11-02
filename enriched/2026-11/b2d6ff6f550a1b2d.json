@@ -1,0 +1,112 @@
+{
+ "doc_id": "b2d6ff6f550a1b2d",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100341",
+ "title": "성수 물들인 K-뷰티, SBA ‘서울어워드×서울바이브 2026’성황리 개최",
+ "summary": "서울시의 경쟁력을 만드는 중소기업 지원기관 서울경제진흥원(SBA)은 지난 10월 23일 서울 성수동 ‘맵달SEOUL’에서 ‘서울어워드×서울바이브 2026’을 개최했다고 밝혔다. 이번 행사는 서울어워드 선정 우수제품의 전시·체험과 브랜드 팝업을 통해 제품을 알리고, 크리에이터와의 접점을 확대해 참여기업의 글로벌 확산을 지원하기 위해 마련됐다.이번 행사는 서울경제진흥원과 글로벌 크리에이터 플랫폼 서울바이브, 픽엔터테인먼트가 공동 주최하고 서울과학종합대학원대학교(aSSIST) 인플루언서 MBA(iMBA)가 주관했다. 주한미국상공회의소(A",
+ "published_at": "2026-11-02T09:58:28+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "roobliss",
+   "BALANX"
+  ],
+  "companies": [
+   "서울경제진흥원",
+   "3일애",
+   "루토닉스",
+   "릴리커버",
+   "유알픽",
+   "커스틱스"
+  ],
+  "keywords": [
+   "크리에이터 마케팅",
+   "K-뷰티 북미 진출",
+   "맞춤형 화장품",
+   "헤어 퍼퓸"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "타임72 엑소미어 리커버리밤 플러스",
+    "brand": "3일애",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "벨벳 베일 헤어 퍼퓸",
+    "brand": "roobliss",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "엑소메라 글로우 포어 커버 쿠션",
+    "brand": "유알픽",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Lesstopy(리스토피) 아토크림",
+    "brand": "커스틱스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "서울경제진흥원이 서울어워드 선정 제품을 전시하고 크리에이터와 연결하는 행사를 열었다.",
+  "key_fact_quote": "이번 행사는 서울어워드 선정 우수제품의 전시·체험과 브랜드 팝업을 통해 제품을 알리고, 크리에이터와의 접점을 확대해 참여기업의 글로벌 확산을 지원하기 위해 마련됐다.",
+  "events": [
+   {
+    "name": "서울어워드×서울바이브 2026",
+    "start_date": "2026-10-23",
+    "end_date": null,
+    "place": "서울 성수동 ‘맵달SEOUL’",
+    "quote": "서울경제진흥원(SBA)은 지난 10월 23일 서울 성수동 ‘맵달SEOUL’에서 ‘서울어워드×서울바이브 2026’을 개최했다고 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "엑소좀",
+    "quote": "3일애(2025년 선정)의 '타임72 엑소미어 리커버리밤 플러스'는 한라봉 줄기세포에서 추출한 엑소좀과 각종 영양성분을 결합시켜 만든 비비크림이다."
+   },
+   {
+    "name": "NMN",
+    "quote": "유알픽(2025·2026년 2년 연속 선정)의 '엑소메라 글로우 포어 커버 쿠션'은 NMN을 함유한 쿠션 제품이다."
+   },
+   {
+    "name": "쉽싸리 잎 추출물",
+    "quote": "커스틱스(2026년 선정)의 'Lesstopy(리스토피) 아토크림'은 쉽싸리 잎 추출물 특허 성분과 유기농 성분을 더해 피부 장벽 회복에 집중한 민감 피부용 보습 크림이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

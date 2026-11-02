@@ -1,0 +1,42 @@
+{
+ "doc_id": "3471cc046f15f397",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.sbs.co.kr/article_hub/20000343673?division=NAVER",
+ "title": "뷰티 타고 역직구 6년 만에 최대…고환율에 직구는 '뚝'",
+ "summary": "온라인 수출 , 이른바 역직구가 K - 뷰티 열풍에 힘입어 40% 넘게 늘었습니다. 3분기 기준으로 6년 만에 최대인데요. 반면 해외 직구는 고환율 여파로 크게 주춤한 것으로 나타났습니다. 자세히 알아봅니다. 지웅배 기자...",
+ "published_at": "2026-11-02T15:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "역직구",
+   "K뷰티 수출",
+   "온라인 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 열풍으로 역직구가 크게 늘었다.",
+  "key_fact_quote": "온라인 수출 , 이른바 역직구가 K - 뷰티 열풍에 힘입어 40% 넘게 늘었습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

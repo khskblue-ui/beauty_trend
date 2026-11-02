@@ -1,0 +1,48 @@
+{
+ "doc_id": "a2bf9b37d8268aab",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/tnt-group-broadens-its-expertise,28450",
+ "title": "TNT Group broadens its expertise to expand into new markets",
+ "summary": "Recently acquired by PM Studio Group, TNT Group is set to take its development in the luxury packaging market a step further. A specialist in high-value-added primary and secondary packaging, the company, founded in 2013, is focusing on diversifying its offering, expanding internationally and advancing eco-design. Recently appointed CEO, Damon Kennish will lead this new phase of growth. “Our strength lies in our ability to combine technical expertise with agility to meet the specific needs... - Packaging & design",
+ "published_at": "2026-11-02T17:51:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "HK",
+   "FR",
+   "CN",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "TNT Group",
+   "PM Studio Group"
+  ],
+  "keywords": [
+   "고급 패키지",
+   "친환경 디자인",
+   "니치 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "PM Studio Group에 인수된 TNT Group이 새 시장으로 사업을 넓힌다.",
+  "key_fact_quote": "Recently acquired by PM Studio Group, TNT Group is set to take its development in the luxury packaging market a step further.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": true
+}

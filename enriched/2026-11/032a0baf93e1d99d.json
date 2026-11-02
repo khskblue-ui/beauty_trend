@@ -1,0 +1,48 @@
+{
+ "doc_id": "032a0baf93e1d99d",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312612",
+ "title": "'화장품 대장주' 에이피알 시총 10조원 붕괴",
+ "summary": "국내 화장품 상장사 시가총액 1위 자리를 지켜온 에이피알의 기업가치가 10조원 아래로 내려앉았다. 불과 반년 전 국내 화장품 업계에서 독보적인 몸집을 자랑했던 에이피알과 아모레퍼시픽의 시가총액 격차도 크게 좁혀졌다.2일 현재 네이버증권에 따르면 에이피알의 시가총액은 9조9960억원으로 집계됐다. 10월 30일 종가는 25만5500원이며 외국인 보유율은 38.67%를 기록했다.반면 올해 4월 15일 에이피알의 시가총액은 약 15조원에 달했다. 당시 주가는 41만3000원이었고 외국인 보유율은 36.98%였다. 약 6개월여 만에 시가총",
+ "published_at": "2026-11-02T09:54:34+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알",
+   "아모레퍼시픽",
+   "LG생활건강",
+   "코스맥스",
+   "한국콜마",
+   "달바글로벌"
+  ],
+  "keywords": [
+   "화장품 시가총액",
+   "K-뷰티 ODM"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에이피알의 시가총액이 크게 내려가 아모레퍼시픽과의 격차가 좁혀졌다.",
+  "key_fact_quote": "국내 화장품 상장사 시가총액 1위 자리를 지켜온 에이피알의 기업가치가 10조원 아래로 내려앉았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": true
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "d61cc6d904c1e31c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=228681",
+ "title": "화장품 사업 뛰어드는 제약社, '독자 성분'의 더마 시장 공략",
+ "summary": "대표적인 사례는 팜에이스(대표 권민지·정수진)의 약국 전용 화장품 '알엑스미(RXme)'다. 약사 출신 권민지·정수진 공동대표가 이끄는 알엑스미는 약국 현장에서 접하는 소비자의 피부 고민을 제품 기획에 반영하고...",
+ "published_at": "2026-11-02T22:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "알엑스미"
+  ],
+  "companies": [
+   "팜에이스"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "약국 전용 화장품",
+   "제약사 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제약사들이 독자 성분을 앞세워 더마 화장품 시장을 공략하고 있다.",
+  "key_fact_quote": "대표적인 사례는 팜에이스(대표 권민지·정수진)의 약국 전용 화장품 '알엑스미(RXme)'다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

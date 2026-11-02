@@ -1,0 +1,45 @@
+{
+ "doc_id": "b596504b9a15f243",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newspost.kr/news/articleView.html?idxno=226940",
+ "title": "지식재산처, 코스맥스 방문…최경 대표 \" K뷰티 기술 경쟁력 지킬 것\"",
+ "summary": "K뷰티 수출 이 확대되면서 화장품 제조 기술과 지식재산 보호의 중요성도 커지고 있다. 올해 1~3분기 국내 화장품 수출액은 111억3000만달러로 전년 동기 대비 31% 증가하며 사상 최대 실적을 기록했다. 다만 시장 확대와...",
+ "published_at": "2026-11-02T13:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "지식재산처"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "지식재산 보호",
+   "화장품 제조 기술"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지식재산처가 코스맥스를 방문해 K뷰티 기술 경쟁력과 지식재산 보호를 논의했다.",
+  "key_fact_quote": "K뷰티 수출 이 확대되면서 화장품 제조 기술과 지식재산 보호의 중요성도 커지고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

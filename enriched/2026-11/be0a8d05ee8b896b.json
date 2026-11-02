@@ -1,0 +1,46 @@
+{
+ "doc_id": "be0a8d05ee8b896b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.bizwatch.co.kr/article/consumer/2026/11/02/0006",
+ "title": "hy, 뷰티 시장 진출…피부 유산균 스킨케어 '아이오셀' 론칭",
+ "summary": "hy는 웰니스 뷰티 브랜드 '아이오셀(IOCell)'을 론칭 하고 마이크로바이옴 스킨케어 시장 공략에 나선다고 2일 밝혔다. 아이오셀은 'Only the Essential(오직 본질에 집중하다)'을 콘셉트로 피부 본연의 건강에 초점을 맞춘...",
+ "published_at": "2026-11-02T09:41:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오셀"
+  ],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "피부 유산균",
+   "마이크로바이옴 스킨케어",
+   "웰니스 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "hy가 웰니스 뷰티 브랜드 아이오셀을 론칭하고 스킨케어 시장에 진출한다.",
+  "key_fact_quote": "hy는 웰니스 뷰티 브랜드 '아이오셀(IOCell)'을 론칭 하고 마이크로바이옴 스킨케어 시장 공략에 나선다고 2일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": false
+}

@@ -1,0 +1,56 @@
+{
+ "doc_id": "c5a5d6b0b09dc47e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280168",
+ "title": "그립비, 현대백화점 판교점서 11월 팝업스토어 운영",
+ "summary": "분들이 많아 제품을 직접 열어 보고 발색을 확인한 뒤 구매로 이어지는 경우가 많았다\"고 말했다. 한편 고체 향수 는 입술에 사용하지 않는 별도 제품으로, 립 뷰티팟과 구분해 사용해야 한다고 브랜드 측은 안내했다.",
+ "published_at": "2026-11-02T10:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "그립비"
+  ],
+  "companies": [
+   "현대백화점"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "고체 향수",
+   "립 제품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "립 뷰티팟",
+    "brand": "그립비",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "그립비가 현대백화점 판교점에서 팝업스토어를 운영한다.",
+  "key_fact_quote": "한편 고체 향수 는 입술에 사용하지 않는 별도 제품으로, 립 뷰티팟과 구분해 사용해야 한다고 브랜드 측은 안내했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

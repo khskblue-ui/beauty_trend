@@ -1,0 +1,49 @@
+{
+ "doc_id": "1f2c6ad907081f13",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=578645&class=17&grp=",
+ "title": "식품·제약업계도 K - 뷰티 공략…hy, '유산균 화장품' 가세",
+ "summary": "K - 뷰티 수출 증가세가 이어지는 가운데 식품·제약기업들도 기존 연구개발 역량을 활용해 화장품 시장 공략에 나서고 있다. 유산균 전문기업 hy는 자체 개발한 피부 유산균을 활용한 스킨케어 브랜드를 출시하며...",
+ "published_at": "2026-11-02T09:45:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "유산균 화장품",
+   "K뷰티 수출",
+   "이종산업 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "유산균 전문기업 hy가 자체 개발한 피부 유산균으로 스킨케어 브랜드를 내며 화장품 시장에 들어온다.",
+  "key_fact_quote": "유산균 전문기업 hy는 자체 개발한 피부 유산균을 활용한 스킨케어 브랜드를 출시하며...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "피부 유산균",
+    "quote": "유산균 전문기업 hy는 자체 개발한 피부 유산균을 활용한 스킨케어 브랜드를 출시하며..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": false
+}

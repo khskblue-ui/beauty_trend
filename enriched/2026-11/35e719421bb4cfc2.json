@@ -1,0 +1,61 @@
+{
+ "doc_id": "35e719421bb4cfc2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=265304",
+ "title": "hy, 피부 유산균 앞세워 뷰티 확대···'아이오셀' 론칭",
+ "summary": "hy의 균주 선별과 배양, 발효 기술을 적용한 화장품 원료로 신제품 5종 모두에 사용했다. hy는 세포시험과 인체적용시험에서 코어바이오덤 원료의 피부 개선 효과를 확인했다고 밝혔다. 마이크로바이옴 연구에서는...",
+ "published_at": "2026-11-02T14:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오셀"
+  ],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "피부 유산균",
+   "마이크로바이옴 스킨케어",
+   "웰니스 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아이오셀",
+    "brand": "hy",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "hy, 피부 유산균 앞세워 뷰티 확대···'아이오셀' 론칭",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "hy가 피부 유산균 기술을 앞세운 뷰티 브랜드 아이오셀을 론칭했다.",
+  "key_fact_quote": "hy, 피부 유산균 앞세워 뷰티 확대···'아이오셀' 론칭",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "코어바이오덤",
+    "quote": "hy는 세포시험과 인체적용시험에서 코어바이오덤 원료의 피부 개선 효과를 확인했다고 밝혔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

@@ -1,0 +1,48 @@
+{
+ "doc_id": "86325a9de6bb612d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191763",
+ "title": "hy, 마이크로바이옴 뷰티 브랜드 '아이오셀' 출시",
+ "summary": "독자 균주와 발효 기술을 적용한 웰니스 뷰티 브랜드 '아이오셀(IOCell)'을 출시 한다고 2일 밝혔다.... 균주 선별과 배양, 발효 기술을 적용한 화장품 원료로 세포시험과 인체적용시험을 거쳤다. 회사 측은 원료 사용...",
+ "published_at": "2026-11-02T14:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오셀"
+  ],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "마이크로바이옴 스킨케어",
+   "피부 유산균",
+   "웰니스 뷰티",
+   "이너뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "7de89a8d6a8e0679",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

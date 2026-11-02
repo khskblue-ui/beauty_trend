@@ -1,0 +1,46 @@
+{
+ "doc_id": "e8b1f758b9bcfa31",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.metroseoul.co.kr/article/20261102500623",
+ "title": "한국콜마, 지속가능성·생산성 '대통령표창' 2관왕...\" K뷰티 혁신 공로\"",
+ "summary": "세계 시장의 눈길을 사로잡은 K뷰티 의 성공에는 화장품이 만들어지는 첫 순간부터 환경과 효율을 함께... 특히 폭발적으로 늘어나는 한국 화장품 수출 수요에 안정적으로 대응할 수 있는 기반을 구축했다. 한국콜마...",
+ "published_at": "2026-11-02T16:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마",
+   "한국생산성본부"
+  ],
+  "keywords": [
+   "ESG 경영",
+   "ODM",
+   "지속가능경영"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "ddef01a2990c5bf0",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

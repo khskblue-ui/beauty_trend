@@ -1,0 +1,38 @@
+{
+ "doc_id": "d34dc810d1fd258f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://theviewers.co.kr/View.aspx?No=4292805",
+ "title": "[ESG리포트] 한국필립모리스, 임직원·시민과 함께 ‘해피쓰담데이’ 성...",
+ "summary": "이 부사장은 한국콜마 생산부문 총괄 책임자로서 디지털 전환(DT), 생산 자동화, 물류 혁신을 주도하며 생산성과 품질 경쟁력을 획기적으로 높이고 K뷰티 수출 확대에 대응할 수 있는 생산 체계를 구축한 공로를...",
+ "published_at": "2026-11-02T10:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": false
+}

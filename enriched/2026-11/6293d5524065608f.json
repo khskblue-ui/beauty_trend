@@ -1,0 +1,125 @@
+{
+ "doc_id": "6293d5524065608f",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100343",
+ "title": "어댑트, 美 아마존 PBDD 매출 전년 대비 약 727% 증가",
+ "summary": "라이프솔루션 기반 D2C 미디어커머스 기업 어댑트(ADAPT, 대표 박정하)가 아마존 프라임 빅 딜 데이즈(Prime Big Deal Days, 이하 PBDD)에서 매출 성장과 브랜드별 제품 성과를 거두며 글로벌 시장에서 경쟁력을 입증했다. 행사 기간 어댑트의 미국 매출은 전년 동일 프로모션 기간 대비 약 727% 증가했다. 푸드올로지(FOODOLOGY), 풀리(FULLY), 오브제(OBgE), 에이페(epais) 등 4개 브랜드도 미국과 일본, 호주 등 각국 아마존에서 주요 제품이 카테고리 상위권에 오르는 성과를 거뒀다.PBDD는",
+ "published_at": "2026-11-02T10:03:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "JP",
+   "AU"
+  ],
+  "brands": [
+   "푸드올로지",
+   "풀리",
+   "오브제",
+   "에이페"
+  ],
+  "companies": [
+   "어댑트",
+   "아마존"
+  ],
+  "keywords": [
+   "아마존 프로모션",
+   "K-이너뷰티",
+   "두피 케어",
+   "글로벌 D2C"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "콜레올로지 컷 다이어트 유산균",
+    "brand": "푸드올로지",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "콜레올로지 컷팅 젤리",
+    "brand": "푸드올로지",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "지중해 레몬 그린티",
+    "brand": "푸드올로지",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "포어 펩타이드 피지 멜팅 크림 투 오일",
+    "brand": "풀리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "비건 하이퍼포먼스 스킨케어 브랜드 풀리(FULLY)는 미국 출시 신제품 ‘포어 펩타이드 피지 멜팅 크림 투 오일’이 론칭 한 달 만에 얼굴 각질 제거(Facial Peels) 카테고리 3위에 올랐다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "내추럴 커버 파운데이션 PRO",
+    "brand": "오브제",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스칼프 부스팅 앰플",
+    "brand": "에이페",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아이래쉬 에센셜 세럼",
+    "brand": "에이페",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "어댑트가 아마존 프라임 빅 딜 데이즈에서 미국 매출이 크게 늘었다고 밝혔다.",
+  "key_fact_quote": "행사 기간 어댑트의 미국 매출은 전년 동일 프로모션 기간 대비 약 727% 증가했다.",
+  "events": [
+   {
+    "name": "아마존 프라임 빅 딜 데이즈",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-07",
+    "place": "미국 아마존",
+    "quote": "PBDD는 아마존이 하반기 쇼핑 시즌을 앞두고 진행하는 대규모 할인 행사로, 올해 미국에서는 10월 6일부터 7일까지 이틀간 열렸다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

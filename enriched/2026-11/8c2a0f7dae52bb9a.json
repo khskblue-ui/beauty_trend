@@ -1,0 +1,53 @@
+{
+ "doc_id": "8c2a0f7dae52bb9a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91325",
+ "title": "한화호텔앤드리조트, 객실 어메니티 전면 교체…프리미엄 뷰티 브랜드 ...",
+ "summary": "식물 유래 보습 성분을 활용해 피부와 모발에 수분을 공급하도록 했으며, 베르가모트와 로즈메리 등에서 추출한 향료 오일을 사용해 산뜻한 시트러스 계열의 향을 구현했다. 일상적인 세정과 보습 기능은 물론 향을 통한...",
+ "published_at": "2026-11-02T10:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한화호텔앤드리조트"
+  ],
+  "keywords": [
+   "호텔 어메니티",
+   "시트러스 향",
+   "식물 유래 성분"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한화호텔앤드리조트가 객실 어메니티를 프리미엄 뷰티 브랜드 제품으로 전면 교체했다.",
+  "key_fact_quote": "한화호텔앤드리조트, 객실 어메니티 전면 교체",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "베르가모트",
+    "quote": "식물 유래 보습 성분을 활용해 피부와 모발에 수분을 공급하도록 했으며, 베르가모트와 로즈메리 등에서 추출한 향료 오일을 사용해 산뜻한 시트러스 계열의 향을 구현했다."
+   },
+   {
+    "name": "로즈메리",
+    "quote": "식물 유래 보습 성분을 활용해 피부와 모발에 수분을 공급하도록 했으며, 베르가모트와 로즈메리 등에서 추출한 향료 오일을 사용해 산뜻한 시트러스 계열의 향을 구현했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

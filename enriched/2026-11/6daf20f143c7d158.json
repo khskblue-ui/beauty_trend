@@ -1,0 +1,73 @@
+{
+ "doc_id": "6daf20f143c7d158",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100338",
+ "title": "링탭, ’글루타치온 아이패치’",
+ "summary": "뉴셀렉트가 전개하는 패치형 웰니스 브랜드 링탭(RINGTAP)이 눈가 피부 톤 관리와 쿨링 케어를 위한 신제품 ‘글루타치온 아이패치’를 출시했다. 글루타치온과 나이아신아마이드, PDRN 등 주요 성분을 배합하여 하이드로겔 제형을 적용해 성분과 사용감을 고려한 일상에서 손쉽게 관리할 수 있는 눈가 관리 제품을 선보인다.최근 스킨케어 제품은 기능과 성분뿐 아니라 시각적인 디자인과 사용 경험까지 소비자의 선택 기준으로 고려되고 있다. 특히 얼굴에 부착한 제품을 활용해 자신의 뷰티 루틴을 사진이나 영상으로 공유하는 ‘보여주는 뷰티’ 트렌드",
+ "published_at": "2026-11-02T09:33:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "링탭"
+  ],
+  "companies": [
+   "뉴셀렉트"
+  ],
+  "keywords": [
+   "아이패치",
+   "하이드로겔",
+   "피부 톤 관리"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "글루타치온 아이패치",
+    "brand": "링탭",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "뉴셀렉트가 전개하는 패치형 웰니스 브랜드 링탭(RINGTAP)이 눈가 피부 톤 관리와 쿨링 케어를 위한 신제품 ‘글루타치온 아이패치’를 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "링탭이 눈가 피부 톤 관리와 쿨링을 위한 글루타치온 아이패치를 출시했다.",
+  "key_fact_quote": "뉴셀렉트가 전개하는 패치형 웰니스 브랜드 링탭(RINGTAP)이 눈가 피부 톤 관리와 쿨링 케어를 위한 신제품 ‘글루타치온 아이패치’를 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "글루타치온",
+    "quote": "글루타치온과 나이아신아마이드, PDRN 등 주요 성분을 배합하여 하이드로겔 제형을 적용해 성분과 사용감을 고려한 일상에서 손쉽게 관리할 수 있는 눈가 관리 제품을 선보인다."
+   },
+   {
+    "name": "나이아신아마이드",
+    "quote": "글루타치온과 나이아신아마이드, PDRN 등 주요 성분을 배합하여 하이드로겔 제형을 적용해 성분과 사용감을 고려한 일상에서 손쉽게 관리할 수 있는 눈가 관리 제품을 선보인다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "글루타치온과 나이아신아마이드, PDRN 등 주요 성분을 배합하여 하이드로겔 제형을 적용해 성분과 사용감을 고려한 일상에서 손쉽게 관리할 수 있는 눈가 관리 제품을 선보인다."
+   },
+   {
+    "name": "알파부틴",
+    "quote": "글루타치온과 PDRN, 알파부틴 성분을 배합했으며, 성분 전달법을 고려해 ‘피디알엔좀(PDRN SOME)’을 적용해 흡수에 특화되도록 했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

@@ -1,0 +1,61 @@
+{
+ "doc_id": "c27748cc3419424a",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100330",
+ "title": "트리엔바이오,마이크로에멀젼 특허공정 주목",
+ "summary": "현대인의 두피는 극심한 스트레스, 자외선, 화학적 시술(펌, 염색) 등 다양한 외부 자극에 무방비로 노출되어 있다. 이러한 요인들은 두피 내 산화 스트레스를 유발하고, 이는 곧 만성적인 두피 염증과 탈모의 근본적인 원인이 된다. 뷰티 및 바이오 업계는 이를 해결하기 위해 강력한 천연 항산화 물질인 '안토시아닌(Anthocyanin)'에 주목해왔다. 안토시아닌은 식물계에 널리 존재하는 천연 색소로, 강력한 항산화 및 항염증 특성을 통해 산화 스트레스와 염증을 동시에 타겟팅하는 이중 작용 기전을 지니고 있다. 그러나 이",
+ "published_at": "2026-11-02T08:41:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "트리엔바이오"
+  ],
+  "keywords": [
+   "두피 케어",
+   "천연 항산화 소재",
+   "추출 공정"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "트리엔바이오가 안토시아닌을 보존하는 마이크로에멀젼 추출 공정으로 특허를 출원했다.",
+  "key_fact_quote": "㈜트리엔바이오(대표 김용수)는 이 오랜 난제를 해결하기 위해 독자적인 '마이크로에멀젼(Micro-emulsion) 추출 공정'을 개발하여 특허 출원을 완료했다",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "안토시아닌",
+    "quote": "뷰티 및 바이오 업계는 이를 해결하기 위해 강력한 천연 항산화 물질인 '안토시아닌(Anthocyanin)'에 주목해왔다."
+   },
+   {
+    "name": "블랙캐롯",
+    "quote": "블랙캐롯은 두피 속 세포 산화를 막아주는 강력한 안티에이징 소재다."
+   },
+   {
+    "name": "블루베리",
+    "quote": "연구 결과, 자외선(UV-B) 자극으로 급격히 감소한 콜라겐과 프로콜라겐의 발현량이 블루베리 추출물 투여 농도에 따라 뚜렷하게 회복 및 증가하는 양상이 확인됐다."
+   },
+   {
+    "name": "크랜베리",
+    "quote": "크랜베리는 농도가 높아질수록 다양한 유해 균주에 대한 억제 효과가 강력해지는 천연 항균 소재다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

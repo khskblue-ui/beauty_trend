@@ -1,0 +1,55 @@
+{
+ "doc_id": "57a4b9efc22e0b23",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/maria-galland-paris-and-revieve-launch-skin-alyze-pro",
+ "title": "Maria Galland Paris and Revieve Launch [SKIN]ALYZE PRO across seven european markets",
+ "summary": "Building on Maria Galland Paris’ longstanding Skin Intelligence and professional skin care expertise, the AI-powered Skin Advisor takes this signature approach further, translating individual skin analysis into personalised product recommendations and tailored skin care rituals",
+ "published_at": "2026-11-02T15:47:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Maria Galland Paris"
+  ],
+  "companies": [
+   "Maria Galland Paris",
+   "Revieve"
+  ],
+  "keywords": [
+   "AI 피부 진단",
+   "맞춤 제품 추천",
+   "전문가용 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "[SKIN]ALYZE PRO",
+    "brand": "Maria Galland Paris",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Maria Galland Paris and Revieve Launch [SKIN]ALYZE PRO across seven european markets",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Maria Galland Paris와 Revieve가 AI 피부 상담 서비스를 유럽 시장에 선보였다.",
+  "key_fact_quote": "Maria Galland Paris and Revieve Launch [SKIN]ALYZE PRO across seven european markets",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

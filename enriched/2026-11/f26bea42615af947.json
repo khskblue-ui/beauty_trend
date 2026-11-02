@@ -1,0 +1,49 @@
+{
+ "doc_id": "f26bea42615af947",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/luneia-brands-brings-k-beauty-to-selfridges",
+ "title": "Luneia Brands brings K-beauty to Selfridges through Medicube and Biodance counters",
+ "summary": "UK beauty distributor Luneia Brands will unveil permanent standalone counters for Korean skin care giants Biodance and Medicube as luxury department store Selfridges opens its new dedicated K-beauty destination",
+ "published_at": "2026-11-02T20:33:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "GB",
+   "KR"
+  ],
+  "brands": [
+   "Biodance",
+   "Medicube"
+  ],
+  "companies": [
+   "Luneia Brands",
+   "Selfridges"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "백화점 카운터",
+   "스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Luneia Brands가 Selfridges에 Biodance와 Medicube의 상설 카운터를 연다.",
+  "key_fact_quote": "UK beauty distributor Luneia Brands will unveil permanent standalone counters for Korean skin care giants Biodance and Medicube as luxury department store Selfridges opens its new dedicated K-beauty destination",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

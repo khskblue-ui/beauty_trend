@@ -1,0 +1,69 @@
+{
+ "doc_id": "5ec80f0c33f02ee6",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100331",
+ "title": "윈게이트코리아(주) 손성민 대표, in-cosmetics Asia 초청 참석",
+ "summary": "글로벌 규제 컨설팅 전문기업 윈게이트코리아(주)(대표 손성민)가 오는 11월 3일부터 5일까지 태국 방콕 국제무역전시센터(BITEC)에서 개최되는 화장품 원료 전문 전시회 ‘2026 인코스메틱스 아시아(in-cosmetics Asia 2026)’에 참가한다. 특히 손성민 대표는 주최 측의 공식 초청 자격으로 원료혁신상 심사위원, 글로벌 규제 패널토론 좌장, 전문가 상담 코너(Ask the Experts) 등에서 다양한 역할을 수행할 예정이다.이번 전시회에서 윈게이트코리아(주)는 현장 부스(H90)를 운영하면서 현장 상담을 실시하게",
+ "published_at": "2026-11-02T08:45:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "TH",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "윈게이트코리아",
+   "케어젠",
+   "스킨이데아"
+  ],
+  "keywords": [
+   "글로벌 규제 대응",
+   "원료 전시회",
+   "시상식"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "윈게이트코리아 대표가 방콕 인코스메틱스 아시아에 심사위원과 패널 좌장으로 참여한다.",
+  "key_fact_quote": "특히 손성민 대표는 주최 측의 공식 초청 자격으로 원료혁신상 심사위원, 글로벌 규제 패널토론 좌장, 전문가 상담 코너(Ask the Experts) 등에서 다양한 역할을 수행할 예정이다.",
+  "events": [
+   {
+    "name": "in-cosmetics Asia 2026",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-05",
+    "place": "태국 방콕 국제무역전시센터(BITEC)",
+    "quote": "오는 11월 3일부터 5일까지 태국 방콕 국제무역전시센터(BITEC)에서 개최되는 화장품 원료 전문 전시회 ‘2026 인코스메틱스 아시아(in-cosmetics Asia 2026)’에 참가한다."
+   },
+   {
+    "name": "in-cosmetics Asia Awards 시상식",
+    "start_date": "2026-11-03",
+    "end_date": null,
+    "place": null,
+    "quote": "심사결과가 발표되는 행사 1일차인 11월 3일 오후 5시 15분 시상식에 참석할 예정이다."
+   },
+   {
+    "name": "글로벌 화장품 규제 패널토론",
+    "start_date": "2026-11-05",
+    "end_date": null,
+    "place": null,
+    "quote": "행사 3일차인 11월 5일(목) 오후에 손 대표는 글로벌 화장품 규제 패널토론(Panel Discussion)의 좌장(Moderator)을 맡는다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

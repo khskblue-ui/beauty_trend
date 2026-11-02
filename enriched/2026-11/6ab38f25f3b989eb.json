@@ -1,0 +1,68 @@
+{
+ "doc_id": "6ab38f25f3b989eb",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/throwback-to-pitti-fragranze-2026,28441",
+ "title": "Throwback to Pitti Fragranze 2026: Why it still matters",
+ "summary": "The 24th edition of Pitti Fragranze, held September 11-13, 2026, at Florence's Stazione Leopolda, Italy, attracted 290 exhibitors and more than 2,200 buyers and industry professionals, according to figures supplied by Pitti Immagine. Among them were nearly 600 international buyers from more than 50 countries, as well as approximately 460 members of the press and media. “We received a great deal of positive feedback on the presence of highly qualified, high-profile buyers from Italy and... - Companies & industry / Europe",
+ "published_at": "2026-11-01T07:19:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "IT",
+   "DE",
+   "FR"
+  ],
+  "brands": [
+   "Kajal Perfumes",
+   "FUMparFUM",
+   "Atelier Des Ors",
+   "15West",
+   "ScentFest SF",
+   "Réserve en Afrique",
+   "Mezel",
+   "Nobile 1942",
+   "Maison Duquesne"
+  ],
+  "companies": [
+   "Pitti Immagine",
+   "dsm-firmenich",
+   "50 ml Distribution",
+   "Essenses"
+  ],
+  "keywords": [
+   "니치 향수",
+   "아티스틱 퍼퓸",
+   "향수 박람회",
+   "바이어 네트워킹"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "피티 프라그란체는 규모가 가장 크지 않아도 니치 향수 업계에서 의미를 지키고 있다.",
+  "key_fact_quote": "Across interviews conducted by Premium Beauty News with brand founders, executives, perfumers, distributors, retailers, and organizers, one answer emerged consistently: Pitti has evolved without losing the distinctive identity that makes it matter.",
+  "events": [
+   {
+    "name": "Pitti Fragranze",
+    "start_date": "2026-09-11",
+    "end_date": "2026-09-13",
+    "place": "Florence's Stazione Leopolda, Italy",
+    "quote": "The 24th edition of Pitti Fragranze, held September 11-13, 2026, at Florence's Stazione Leopolda, Italy"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

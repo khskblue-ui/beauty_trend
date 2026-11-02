@@ -1,0 +1,60 @@
+{
+ "doc_id": "a4b6e8b28f4f2183",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021434229450206",
+ "title": "[뷰티톡톡] 한국콜마ㆍ코스맥스ㆍ설화수ㆍ이니스프리ㆍhy",
+ "summary": "▲지식재산처, 코스맥스 방문… 화장품 ODM 지재권 보호 제도 개선 논의 지식재산처가 지난달 29일 코스맥스... ▲설화수, 홀리데이 한정판 컬렉션 출시 …어드벤트 캘린더도 구성 설화수가 2026 홀리데이 컬렉션...",
+ "published_at": "2026-11-02T18:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수",
+   "이니스프리"
+  ],
+  "companies": [
+   "한국콜마",
+   "코스맥스",
+   "hy",
+   "지식재산처"
+  ],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "화장품 ODM",
+   "지식재산권"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "홀리데이 한정판 컬렉션",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "▲설화수, 홀리데이 한정판 컬렉션 출시 …어드벤트 캘린더도 구성",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "설화수가 홀리데이 한정판 컬렉션을 출시하고 어드벤트 캘린더도 구성했다.",
+  "key_fact_quote": "▲설화수, 홀리데이 한정판 컬렉션 출시 …어드벤트 캘린더도 구성",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

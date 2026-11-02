@@ -1,0 +1,56 @@
+{
+ "doc_id": "356839e871651109",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100344",
+ "title": "IBITA, 대만 TBV 창립 10주년 국제 뷰티 산업 정상회의 참가",
+ "summary": "한국 화장품 산업의 글로벌 진출과 국제협력을 선도하는 국제뷰티산업교역협회(IBITA, 회장 윤주택)는 지난 10월 30일 대만 타이베이 IEAT 회의센터에서 개최된 ‘Taiwan Beauty Valley(TBV) 창립 10주년 기념식 및 국제 뷰티 산업 정상회의’에 공식 초청을 받아 참가했다.이번 행사는 대만 화장품 산업의 지난 10년간의 성과를 기념하고, 향후 글로벌 시장에서의 성장과 국제협력 확대를 모색하기 위해 마련됐다. 또 프랑스 Cosmetic Valley, 스페인 Beauty Cluster, 태국 TCOS, 일본 JCC,",
+ "published_at": "2026-11-02T10:12:17+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "TW",
+   "KR",
+   "FR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "IBITA",
+   "Taiwan Beauty Valley"
+  ],
+  "keywords": [
+   "국제 협력",
+   "화장품 클러스터",
+   "K-뷰티 해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "IBITA가 대만 TBV 창립 기념 국제 뷰티 산업 정상회의에 초청받아 참가했다.",
+  "key_fact_quote": "한국 화장품 산업의 글로벌 진출과 국제협력을 선도하는 국제뷰티산업교역협회(IBITA, 회장 윤주택)는 지난 10월 30일 대만 타이베이 IEAT 회의센터에서 개최된 ‘Taiwan Beauty Valley(TBV) 창립 10주년 기념식 및 국제 뷰티 산업 정상회의’에 공식 초청을 받아 참가했다.",
+  "events": [
+   {
+    "name": "Taiwan Beauty Valley(TBV) 창립 10주년 기념식 및 국제 뷰티 산업 정상회의",
+    "start_date": "2026-10-30",
+    "end_date": null,
+    "place": "대만 타이베이 IEAT 회의센터",
+    "quote": "한국 화장품 산업의 글로벌 진출과 국제협력을 선도하는 국제뷰티산업교역협회(IBITA, 회장 윤주택)는 지난 10월 30일 대만 타이베이 IEAT 회의센터에서 개최된 ‘Taiwan Beauty Valley(TBV) 창립 10주년 기념식 및 국제 뷰티 산업 정상회의’에 공식 초청을 받아 참가했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

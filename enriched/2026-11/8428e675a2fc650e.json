@@ -1,0 +1,49 @@
+{
+ "doc_id": "8428e675a2fc650e",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312632",
+ "title": "애경산업, 3분기 매출 1904억원…영업손실 33억원",
+ "summary": "애경산업은 연결 기준 올해 3분기 매출액 1904억원, 영업손실 33억원을 기록했다고 2일 밝혔다.매출액은 전년 동기 대비 12.5% 증가하며 3분기 기준 최대 실적을 달성했다. 반면 영업이익은 지난해 흑자에서 적자로 전환했다.회사 측은 생활용품과 화장품 사업의 해외 성장세가 이어졌지만 글로벌 앰배서더 기용, 체험형 마케팅 확대 등 브랜드 투자 비용이 늘면서 수익성이 악화됐다고 설명했다.올해 3분기 누적 매출액은 5433억원으로 전년 동기 대비 10.5% 증가했다.사업부문별로는 생활용품사업이 실적 성장을 이끌었다. 3분기 생활용품",
+ "published_at": "2026-11-02T16:45:58+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN",
+   "US",
+   "JP"
+  ],
+  "brands": [
+   "에이지투웨니스"
+  ],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "실적 발표",
+   "글로벌 마케팅",
+   "브랜드 투자"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "애경산업이 해외 성장에도 브랜드 투자 비용이 늘어 3분기 영업손실을 기록했다.",
+  "key_fact_quote": "회사 측은 생활용품과 화장품 사업의 해외 성장세가 이어졌지만 글로벌 앰배서더 기용, 체험형 마케팅 확대 등 브랜드 투자 비용이 늘면서 수익성이 악화됐다고 설명했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": true
+}

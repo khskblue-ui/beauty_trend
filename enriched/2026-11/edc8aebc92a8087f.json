@@ -1,0 +1,54 @@
+{
+ "doc_id": "edc8aebc92a8087f",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/dove-launches-a-fine-fragrance,28447,en",
+ "title": "Dove launches a fine fragrance inspired by its iconic beauty bar",
+ "summary": "Dove is turning one of beauty's most recognizable scents into a fine fragrance. The brand has bottled the signature scent of its iconic bar soap in a limited-edition launch. Created in collaboration with fragrance developer Ann Gottlieb, the new fragrance translates the familiar scent of the Dove Original Beauty Bar into a wearable format, with a soft, clean and familiar olfactory profile. The launch also draws on the brand's heritage through its packaging. The fragrance comes in a glass... - Industry buzz",
+ "published_at": "2026-11-01T02:29:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Dove"
+  ],
+  "companies": [],
+  "keywords": [
+   "한정판 향수",
+   "소셜 미디어 드롭",
+   "비누 향 향수"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Dove Original Fragrance",
+    "brand": "Dove",
+    "launch_date": "2026-10-27",
+    "launch_status": "launched",
+    "launch_quote": "The brand has bottled the signature scent of its iconic bar soap in a limited-edition launch.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Dove가 대표 비누의 향을 담은 한정판 향수를 출시했다.",
+  "key_fact_quote": "The brand has bottled the signature scent of its iconic bar soap in a limited-edition launch.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

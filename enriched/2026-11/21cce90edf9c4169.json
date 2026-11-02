@@ -1,0 +1,54 @@
+{
+ "doc_id": "21cce90edf9c4169",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58633",
+ "title": "K-뷰티, 10월 수출도 '역대 최대'…10개월 만에 지난해 연간 수출 뛰어넘어",
+ "summary": "[코스인코리아닷컴 김세화 기자]국내 화장품 수출이 10월에도 가파른 성장세를 이어가며 역대 10월 기준 최대 실적을 경신했다. 미국, 중국 등 주요 시장에서 안정적인 성장세를 유지한 가운데 유럽연합(EU)을 비롯한 신흥 시장에서도 수출이 확대되면서 K-뷰티의 글로벌 시장 확장세가 더욱 뚜렷해지고…",
+ "published_at": "2026-11-02T10:38:58+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [
+   "에스트라",
+   "일리윤",
+   "아이오페"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "코스맥스",
+   "에이피알",
+   "펌텍코리아",
+   "유안타증권"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "수출 다변화",
+   "인디 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 화장품 수출이 10월에도 성장해 역대 10월 기준 최대 실적을 냈다.",
+  "key_fact_quote": "국내 화장품 수출이 10월에도 가파른 성장세를 이어가며 역대 10월 기준 최대 실적을 경신했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": true
+}

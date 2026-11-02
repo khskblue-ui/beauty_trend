@@ -1,0 +1,48 @@
+{
+ "doc_id": "119b72fb89fe9c20",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202611021816350375",
+ "title": "신약 넘어 새 성장동력 찾는 제약사들… ' K뷰티 ' 영토 공략",
+ "summary": "2일 제약·바이오 업계에 따르면 지놈앤컴퍼니는 최근 미국 K뷰티 수출 ·유통기업 올블룸 지분 64.46%를 인수해 경영권을 확보했다. 자체 마이크로바이옴 스킨케어 브랜드 '유이크'의 미국 진출을 확대하고 현지 유통망을...",
+ "published_at": "2026-11-02T18:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "유이크"
+  ],
+  "companies": [
+   "지놈앤컴퍼니",
+   "올블룸"
+  ],
+  "keywords": [
+   "제약사 화장품 진출",
+   "마이크로바이옴 스킨케어",
+   "K뷰티 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지놈앤컴퍼니가 미국 K뷰티 유통기업 올블룸의 경영권을 확보했다.",
+  "key_fact_quote": "2일 제약·바이오 업계에 따르면 지놈앤컴퍼니는 최근 미국 K뷰티 수출 ·유통기업 올블룸 지분 64.46%를 인수해 경영권을 확보했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

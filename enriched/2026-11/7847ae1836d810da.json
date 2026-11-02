@@ -1,0 +1,56 @@
+{
+ "doc_id": "7847ae1836d810da",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=878644",
+ "title": "디올 뷰티 , 홀리데이 컬렉션 출시",
+ "summary": "| 서울=한스경제 김종효 기자 | 크리스챤 디올 뷰티 가 홀리데이 시즌을 겨냥해 '디올 백스테이지 홀리데이 – 팝 글로우 컬렉션' 9종을 공식 출시 했다. 이번 신제품 은 디올 메이크업 크리에이티브 & 이미지 디렉터인 피터...",
+ "published_at": "2026-11-02T11:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "디올 뷰티"
+  ],
+  "companies": [
+   "크리스챤 디올 뷰티"
+  ],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "메이크업 신제품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "디올 백스테이지 홀리데이 – 팝 글로우 컬렉션",
+    "brand": "디올 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "크리스챤 디올 뷰티 가 홀리데이 시즌을 겨냥해 '디올 백스테이지 홀리데이 – 팝 글로우 컬렉션' 9종을 공식 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디올 뷰티가 홀리데이 시즌을 겨냥한 메이크업 컬렉션을 출시했다.",
+  "key_fact_quote": "디올 뷰티 , 홀리데이 컬렉션 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

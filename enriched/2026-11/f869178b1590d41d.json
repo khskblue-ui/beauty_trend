@@ -1,0 +1,44 @@
+{
+ "doc_id": "f869178b1590d41d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sidae.com/article/2026110211101370025",
+ "title": "강승현 코스맥스 연구원장 \"보톡스급 화장품 시대 온다\"",
+ "summary": "\"향후 화장품 업계는 점진적으로 의약 수준의 효과를 추구하는 방향으로 갈 것입니다.\" 강승현 코스맥스 R... 강 원장은 \"가장 강력한 무기는 연간 신제품 개발 건수와 개발 스피드\"라고 설명했다. 코스맥스가 한해...",
+ "published_at": "2026-11-02T16:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "의약 수준 화장품",
+   "신제품 개발 속도",
+   "화장품 ODM"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스 연구원장은 화장품이 점차 의약 수준의 효과를 추구하게 될 것이라고 말했다.",
+  "key_fact_quote": "향후 화장품 업계는 점진적으로 의약 수준의 효과를 추구하는 방향으로 갈 것입니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

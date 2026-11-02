@@ -1,0 +1,41 @@
+{
+ "doc_id": "fde491b8960502fe",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.viva100.com/article/20261102500120",
+ "title": "K -푸드· 뷰티 해외시장 영토 확장... 원주서 열린 ‘2026 해외바이어 상...",
+ "summary": "규모의 수출 계약과 업무협약이 성사되며 지역 경제에 훈풍이 불고 있다. 원주시는 재외동포청, 강원특별자치도와 공동으로 주최·주관한 ‘2026 해외바이어 초청 통합 수출 상담회’가 성공리에 막을 내렸다고 밝혔다....",
+ "published_at": "2026-11-02T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "수출 상담회",
+   "K뷰티 해외시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "원주에서 해외바이어 초청 통합 수출 상담회가 열려 수출 계약과 업무협약이 성사됐다.",
+  "key_fact_quote": "원주시는 재외동포청, 강원특별자치도와 공동으로 주최·주관한 ‘2026 해외바이어 초청 통합 수출 상담회’가 성공리에 막을 내렸다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

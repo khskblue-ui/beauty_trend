@@ -1,0 +1,45 @@
+{
+ "doc_id": "4dff134c1faf8c73",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312609",
+ "title": "K-Beauty Exports Hit Record High, Surpass Last Year’s Annual Total by October",
+ "summary": "South Korea’s cosmetics industry is strengthening its position in the global beauty market.After recording export growth for ten consecutive months in 2026, cumulative cosmetics exports had already exceeded last year’s annual total by October, highlighting the continued rise of K-beauty as a global",
+ "published_at": "2026-11-02T10:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "수출 시장 다변화",
+   "더마 화장품",
+   "기능성 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 화장품 수출이 10월까지 지난해 연간 총액을 넘어섰다.",
+  "key_fact_quote": "K-Beauty Exports Hit Record High, Surpass Last Year’s Annual Total by October",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

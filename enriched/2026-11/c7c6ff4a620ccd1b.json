@@ -1,0 +1,49 @@
+{
+ "doc_id": "c7c6ff4a620ccd1b",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/estee-lauder-raises-f2027-outlook-as-q1-sales-rise-1239395282/",
+ "title": "Estée Lauder Raises FY 2027 Outlook as Q1 Sales Rise to $3.7B, Driven by Fragrance Growth",
+ "summary": "The beauty giant saw growth across key categories like skin care and fragrance, with strong performances from brands including La Mer, Tom Ford and Jo Malone London.",
+ "published_at": "2026-11-02T20:17:14+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Estée Lauder",
+   "La Mer",
+   "Tom Ford",
+   "Jo Malone London"
+  ],
+  "companies": [
+   "Estée Lauder"
+  ],
+  "keywords": [
+   "향수 성장",
+   "프레스티지 뷰티",
+   "실적 상향"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에스티 로더가 향수 성장에 힘입어 연간 전망을 올렸다.",
+  "key_fact_quote": "Estée Lauder Raises FY 2027 Outlook as Q1 Sales Rise to $3.7B, Driven by Fragrance Growth",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

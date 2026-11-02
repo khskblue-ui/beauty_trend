@@ -1,0 +1,53 @@
+{
+ "doc_id": "d199d8f45a591ea9",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312564",
+ "title": "China's Tmall Beauty Market Rebounds in October Ahead of Singles’ Day",
+ "summary": "After two consecutive months of slower sales activity in August and September, China\\'s Tmall beauty market recorded a sharp increase in October as pre-promotions and pre-sales for the November 11 Singles’ Day shopping festival (Double 11) got underway.According to THEbk\\'s(Beauty Economy) analysis of",
+ "published_at": "2026-11-02T10:05:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [
+   "Laneige",
+   "AGE 20's",
+   "Mao Geping",
+   "dpdp",
+   "Mediheal",
+   "La Roche-Posay"
+  ],
+  "companies": [
+   "Tmall"
+  ],
+  "keywords": [
+   "광군제 프리세일",
+   "쿠션 파운데이션",
+   "중국 로컬 브랜드",
+   "티몰 뷰티 매출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "광군제 사전 판매로 10월 티몰 뷰티 매출이 크게 늘었다.",
+  "key_fact_quote": "After two consecutive months of slower sales activity in August and September, China's Tmall beauty market recorded a sharp increase in October as pre-promotions and pre-sales for the November 11 Singles’ Day shopping festival (Double 11) got underway.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": true
+}

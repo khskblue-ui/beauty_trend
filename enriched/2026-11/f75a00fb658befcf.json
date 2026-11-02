@@ -1,0 +1,106 @@
+{
+ "doc_id": "f75a00fb658befcf",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100340",
+ "title": "설화수, 2026 홀리데이 컬렉션 ‘대즐링 홀리데이 딜라이트’",
+ "summary": "글로벌 럭셔리 뷰티 브랜드 설화수가 신비로운 겨울 정원을 담은 2026 홀리데이 컬렉션 ‘대즐링 홀리데이 딜라이트(Dazzling Holiday Delight)’를 선보인다.이번 컬렉션은 ‘한겨울 눈 속에서 피어나는 매화의 경이로움’에 주목했다. 꽃이 피어나며 빛으로 물드는 설화수의 겨울 정원에 홀리데이 시즌의 설렘과 기쁨을 담았다. 동양의 정원과 민화 속 자연에서 영감 받은 아트워크에 은은한 실버 컬러와 반짝이는 빛을 더해 설화수만의 화려하면서도 우아한 홀리데이 디자인을 완성했다.이번 홀리데이 컬렉션은 윤조에센스, 자음생크림, 진",
+ "published_at": "2026-11-02T09:49:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US",
+   "JP",
+   "HK",
+   "TH",
+   "VN",
+   "MY",
+   "SG"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "한정판 디자인",
+   "어드벤트 캘린더"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "대즐링 홀리데이 딜라이트",
+    "brand": "설화수",
+    "launch_date": "2026-11-02",
+    "launch_status": "launched",
+    "launch_quote": "설화수 2026 홀리데이 컬렉션은 11월 2일 롯데온에서 먼저 선보이며, 11월 9일부터 네이버 브랜드스토어, 아모레몰, 북촌 설화수의 집 등 설화수의 주요 온·오프라인 채널에서 만나볼 수 있다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "설화수 어드벤트 캘린더",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "이와 함께 연말을 맞아 특별한 선물 경험을 선사하는 ‘설화수 어드벤트 캘린더’도 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "윤조에센스",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "자음생크림",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "진설크림",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퍼펙팅 쿠션 에어리",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "설화수가 겨울 정원을 주제로 한 홀리데이 컬렉션을 선보인다.",
+  "key_fact_quote": "글로벌 럭셔리 뷰티 브랜드 설화수가 신비로운 겨울 정원을 담은 2026 홀리데이 컬렉션 ‘대즐링 홀리데이 딜라이트(Dazzling Holiday Delight)’를 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

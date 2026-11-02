@@ -1,0 +1,65 @@
+{
+ "doc_id": "2969b5b55ead603b",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58637",
+ "title": "지에프씨생명과학, 토종 꿀벌 유래 스킨 롱제비티 원료 ‘EternalBee ECM’ 韓·中 독점 공급",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 화장품·바이오 소재 전문기업 지에프씨생명과학(대표 강희철)이 제이크리컴퍼니(대표 지숙희)와 토종 꿀벌 유래 스킨 롱제비티 원료 ‘EternalBee ECM’의 한국·중국 독점 공급 계약을 체결했다고 2일 밝혔다. 이번 계약은 양사가 지난해 맺은 우유 유래 엑소좀…",
+ "published_at": "2026-11-02T14:55:18+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "레필레오"
+  ],
+  "companies": [
+   "지에프씨생명과학",
+   "제이크리컴퍼니"
+  ],
+  "keywords": [
+   "스킨 롱제비티",
+   "엑소좀",
+   "독점 공급 계약"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지에프씨생명과학이 꿀벌 유래 스킨 롱제비티 원료의 한국·중국 독점 공급 계약을 체결했다.",
+  "key_fact_quote": "화장품·바이오 소재 전문기업 지에프씨생명과학(대표 강희철)이 제이크리컴퍼니(대표 지숙희)와 토종 꿀벌 유래 스킨 롱제비티 원료 ‘EternalBee ECM’의 한국·중국 독점 공급 계약을 체결했다고 2일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "EternalBee ECM",
+    "quote": "‘EternalBee ECM’은 토종 꿀벌에서 유래한 독자 유익균주를 기반으로 진세노사이드와 인삼열매추출물을 결합한 화장품 원료다."
+   },
+   {
+    "name": "진세노사이드",
+    "quote": "‘EternalBee ECM’은 토종 꿀벌에서 유래한 독자 유익균주를 기반으로 진세노사이드와 인삼열매추출물을 결합한 화장품 원료다."
+   },
+   {
+    "name": "인삼열매추출물",
+    "quote": "‘EternalBee ECM’은 토종 꿀벌에서 유래한 독자 유익균주를 기반으로 진세노사이드와 인삼열매추출물을 결합한 화장품 원료다."
+   },
+   {
+    "name": "엑소좀",
+    "quote": "이번 계약은 양사가 지난해 맺은 우유 유래 엑소좀 원료 2종 공급 협력의 후속 계약이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": true
+}

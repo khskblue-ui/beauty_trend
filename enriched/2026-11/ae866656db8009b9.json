@@ -1,0 +1,45 @@
+{
+ "doc_id": "ae866656db8009b9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=149832",
+ "title": "립밤 키링 다음은 패션 협업…뷰티업계, '입는 취향'에 주목",
+ "summary": "쿠션을 출시 하고 플러피 파우치를 결합한 기획 상품을 선보였다. VDL이 밀로 우먼의 레이스를, 투쿨포스쿨이 하이다나의 포근한 패브릭 감성을 활용한 것처럼 의류 소재에서 출발한 디자인이 화장품 패키지로 옮겨지고...",
+ "published_at": "2026-11-02T16:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "VDL",
+   "투쿨포스쿨"
+  ],
+  "companies": [],
+  "keywords": [
+   "패션 협업",
+   "패키지 디자인",
+   "립밤 키링"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 브랜드가 의류 소재에서 출발한 디자인을 화장품 패키지에 옮기고 있다.",
+  "key_fact_quote": "VDL이 밀로 우먼의 레이스를, 투쿨포스쿨이 하이다나의 포근한 패브릭 감성을 활용한 것처럼 의류 소재에서 출발한 디자인이 화장품 패키지로 옮겨지고...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

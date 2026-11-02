@@ -1,0 +1,55 @@
+{
+ "doc_id": "f8f5b799fefba8c4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026110209004910117",
+ "title": "야쿠르트의 변신…hy, 뷰티 브랜드 '아이오셀' 론칭",
+ "summary": "핵심 소재 '코어바이오덤'은 자체 개발 피부 유산균 'HY7714'를 기반으로 만든 화장품 원료다. hy의 균주 선별·배양·발효 기술을 적용한 발효물로, 세포시험과 인체적용시험에서 원료 자체의 피부 개선 효과를 확인했다....",
+ "published_at": "2026-11-02T10:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오셀"
+  ],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "피부 유산균",
+   "마이크로바이옴 스킨케어",
+   "발효 원료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "hy가 뷰티 브랜드 아이오셀을 론칭했다.",
+  "key_fact_quote": "야쿠르트의 변신…hy, 뷰티 브랜드 '아이오셀' 론칭",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "코어바이오덤",
+    "quote": "핵심 소재 '코어바이오덤'은 자체 개발 피부 유산균 'HY7714'를 기반으로 만든 화장품 원료다."
+   },
+   {
+    "name": "HY7714",
+    "quote": "핵심 소재 '코어바이오덤'은 자체 개발 피부 유산균 'HY7714'를 기반으로 만든 화장품 원료다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": false
+}

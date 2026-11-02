@@ -1,0 +1,50 @@
+{
+ "doc_id": "67a1e2915f0e5770",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312637",
+ "title": "주가로 읽는 K-뷰티: 수출은 사상 최대인데 주가는 하락…엇갈린 평가",
+ "summary": "화장품 수출이 사상 최대 수준을 기록하고 주요 기업들의 실적도 개선됐지만 화장품 대형주들이 10월 들어 일제히 하락세를 나타냈다.10월 30일 네이버증권 화장품섹터 기준 K-뷰티 시가총액 상위 5개 기업인 에이피알, 아모레퍼시픽, LG생활건강, 코스맥스, 한국콜마의 주가는 1개월 전에 비해 모두 하락했다.에이피알은 9월 말 36만5000원에서 25만5500원으로 30.0% 급락했다. 한국콜마는 24.1%, 코스맥스는 9.3%, 아모레퍼시픽은 7.5%, LG생활건강은 5.4% 각각 하락했다.K-뷰티 대형주, 한 달 새 동반 하락가장",
+ "published_at": "2026-11-02T19:39:25+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알",
+   "아모레퍼시픽",
+   "LG생활건강",
+   "코스맥스",
+   "한국콜마"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "화장품 주가",
+   "외국인 지분율"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 수출은 사상 최대 수준인데 K-뷰티 대형주 주가는 하락했다.",
+  "key_fact_quote": "화장품 수출이 사상 최대 수준을 기록하고 주요 기업들의 실적도 개선됐지만 화장품 대형주들이 10월 들어 일제히 하락세를 나타냈다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": true
+}

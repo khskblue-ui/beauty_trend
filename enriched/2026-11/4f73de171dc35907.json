@@ -1,0 +1,55 @@
+{
+ "doc_id": "4f73de171dc35907",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212459",
+ "title": "리엔케이, 美 코스트코 오프라인에 '셀 투 셀 크림' 출시 …K뷰티 유통망...",
+ "summary": "사진=리엔케이 국내 화장품 브랜드들이 북미 시장에서 온라인 판매 실적을 오프라인 유통망 진출로 연결하며... 크림'을 출시 했다고 2일 밝혔다. 지난달 코스트코의 신규 뷰티 브랜드 소개 프로그램인 '뷰티 테이블'을 통해...",
+ "published_at": "2026-11-02T16:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "리엔케이"
+  ],
+  "companies": [],
+  "keywords": [
+   "K뷰티 북미 오프라인",
+   "코스트코 입점",
+   "크림"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "셀 투 셀 크림",
+    "brand": "리엔케이",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "크림'을 출시 했다고 2일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "리엔케이가 미국 코스트코 오프라인 매장에 크림을 출시했다.",
+  "key_fact_quote": "리엔케이, 美 코스트코 오프라인에 '셀 투 셀 크림' 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

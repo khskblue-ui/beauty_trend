@@ -1,0 +1,46 @@
+{
+ "doc_id": "2bf4bfd73f7698a9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=878669",
+ "title": "어나더레이어, 넌플래쉬 설립…2027년 색조 브랜드 출시 목표",
+ "summary": "이민미 CCO는 \"이번 캠페인은 브랜드 의 단순한 론칭 예고가 아닌, 뷰티 팬들과 메이크업 아티스트, 나아가 아름다움을 사랑하는 모든 이들에게 창작의 영감이 되는 시각적 아카이브를 공유하는 작업\"이라며 \"수많은...",
+ "published_at": "2026-11-02T13:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "넌플래쉬"
+  ],
+  "companies": [
+   "어나더레이어"
+  ],
+  "keywords": [
+   "색조 브랜드",
+   "인플루언서 브랜드",
+   "프리티징 캠페인"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "어나더레이어가 넌플래쉬를 세우고 새 색조 브랜드 출시를 준비한다.",
+  "key_fact_quote": "어나더레이어, 넌플래쉬 설립…2027년 색조 브랜드 출시 목표",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

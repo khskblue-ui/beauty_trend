@@ -1,0 +1,54 @@
+{
+ "doc_id": "d7361e13820b7fd3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=20261102081721437946a9e4dd7f_30",
+ "title": "이니스프리, 다마고치 협업 화장품 출시",
+ "summary": "이니스프리가 다마고치 캐릭터를 활용한 한정판 화장품 '이니스프리 다마고치 에디션'의 판매처를 전국 오프라인 매장으로 확대했다. 지난 1일부터 전국 매장에 출시 를 시작으로 오는 5일부터는 이니스프리 공식...",
+ "published_at": "2026-11-02T08:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이니스프리",
+   "다마고치"
+  ],
+  "companies": [],
+  "keywords": [
+   "캐릭터 협업",
+   "한정판"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "이니스프리 다마고치 에디션",
+    "brand": "이니스프리",
+    "launch_date": "2026-11-01",
+    "launch_status": "launched",
+    "launch_quote": "지난 1일부터 전국 매장에 출시 를 시작으로 오는 5일부터는 이니스프리 공식...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이니스프리가 다마고치 협업 한정판 화장품의 판매처를 전국 오프라인 매장으로 넓혔다.",
+  "key_fact_quote": "이니스프리가 다마고치 캐릭터를 활용한 한정판 화장품 '이니스프리 다마고치 에디션'의 판매처를 전국 오프라인 매장으로 확대했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

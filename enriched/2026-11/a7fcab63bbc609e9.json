@@ -1,0 +1,44 @@
+{
+ "doc_id": "a7fcab63bbc609e9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/stock/2026/11/02/2026110208535927664",
+ "title": "뉴온, 이상민과 라이브커머스 진출… '클릭메이트'서 뷰티 신제품 공개",
+ "summary": "기존 건강기능식품과 생활용품에 더해 화장품 라인업을 확장하고 라이브커머스로 직판(D2C) 유통 채널을... 뷰티 신제품 의 특장점과 사용법을 소개하며 소비자와 실시간 소통에 나설 예정이다. 뉴온은 이번 방송을 통해...",
+ "published_at": "2026-11-02T09:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "뉴온"
+  ],
+  "keywords": [
+   "라이브커머스",
+   "D2C",
+   "화장품 라인업 확장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뉴온이 라이브커머스로 화장품 라인업을 확장하며 직판 채널을 넓힌다.",
+  "key_fact_quote": "기존 건강기능식품과 생활용품에 더해 화장품 라인업을 확장하고 라이브커머스로 직판(D2C) 유통 채널을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

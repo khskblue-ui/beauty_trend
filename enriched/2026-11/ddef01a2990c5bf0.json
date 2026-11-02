@@ -1,0 +1,53 @@
+{
+ "doc_id": "ddef01a2990c5bf0",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100349",
+ "title": "한국콜마, 지속가능경영·생산혁신 대통령표창 ‘2관왕’",
+ "summary": "한국콜마가 지속가능경영 유공 대통령표창에 이어 생산성 향상 유공 대통령표창까지 받으며 ‘2관왕'에 올랐다. K뷰티의 지속가능한 성장을 위해 ESG 경영과 생산 체계 고도화에 힘써 온 결과다.한국콜마는 지난 29일 서울 여의도 KBS홀에서 열린 ‘2026 대한민국 생산성·지속가능경영 혁신대상'에서 지속가능경영 유공과 생산성향상 유공 부문 대통령표창을 각각 받았다고 밝혔다.이번 혁신대상은 산업통상부가 주최하고 한국생산성본부(KPC)가 주관했다. 산업 전반의 지속가능성 향상과 생산성 혁신으로 산업 경쟁력 제고에 기여한 개인",
+ "published_at": "2026-11-02T10:24:27+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마",
+   "한국생산성본부"
+  ],
+  "keywords": [
+   "ESG 경영",
+   "ODM",
+   "지속가능경영"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국콜마가 지속가능경영과 생산성 향상 부문에서 대통령표창을 받았다.",
+  "key_fact_quote": "한국콜마가 지속가능경영 유공 대통령표창에 이어 생산성 향상 유공 대통령표창까지 받으며 ‘2관왕'에 올랐다.",
+  "events": [
+   {
+    "name": "2026 대한민국 생산성·지속가능경영 혁신대상",
+    "start_date": "2026-10-29",
+    "end_date": null,
+    "place": "서울 여의도 KBS홀",
+    "quote": "한국콜마는 지난 29일 서울 여의도 KBS홀에서 열린 ‘2026 대한민국 생산성·지속가능경영 혁신대상'에서 지속가능경영 유공과 생산성향상 유공 부문 대통령표창을 각각 받았다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": true
+}

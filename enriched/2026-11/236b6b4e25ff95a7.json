@@ -1,0 +1,47 @@
+{
+ "doc_id": "236b6b4e25ff95a7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.m-i.kr/news/articleView.html?idxno=2012975",
+ "title": "hy, 웰니스 뷰티 브랜드 '아이오셀' 론칭…마이크로바이옴 시장 공략",
+ "summary": "매일일보 = 류빈 기자 | hy가 자체 개발한 유산균 기술을 앞세워 화장품 시장 공략에 나선다. 기존... 함께 출시 한 '동결건조 부스팅 세럼'은 동결건조 제형을 적용해 피부 결 및 윤기 관리에 초점을 맞췄다....",
+ "published_at": "2026-11-02T10:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오셀"
+  ],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "마이크로바이옴 스킨케어",
+   "피부 유산균",
+   "웰니스 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "3566869ed76f8dd4",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

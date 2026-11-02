@@ -1,0 +1,57 @@
+{
+ "doc_id": "501fea7e3bfe445e",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/lipotrue-introduces-three-new-biotechnological-actives-glintarine-red-1",
+ "title": "LipoTrue introduces three new biotechnological actives: Glintarine, Red Aternaliss and Kalizyme",
+ "summary": "Together, the three launches reflect LipoTrue’s commitment to precise, innovative and nature-inspired cosmetic biotechnology. Each ingredient approaches skin performance from a different biological perspective, while sharing the same objective: to translate advanced science into effective solutions for modern cosmetic formulations",
+ "published_at": "2026-11-02T04:05:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "ES"
+  ],
+  "brands": [],
+  "companies": [
+   "LipoTrue"
+  ],
+  "keywords": [
+   "바이오테크 원료",
+   "자연 유래 활성 원료",
+   "스킨케어 활성 성분"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "립오트루가 바이오기술 기반 신규 활성 원료들을 선보였다.",
+  "key_fact_quote": "LipoTrue introduces three new biotechnological actives: Glintarine, Red Aternaliss and Kalizyme",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Glintarine",
+    "quote": "LipoTrue introduces three new biotechnological actives: Glintarine, Red Aternaliss and Kalizyme"
+   },
+   {
+    "name": "Red Aternaliss",
+    "quote": "LipoTrue introduces three new biotechnological actives: Glintarine, Red Aternaliss and Kalizyme"
+   },
+   {
+    "name": "Kalizyme",
+    "quote": "LipoTrue introduces three new biotechnological actives: Glintarine, Red Aternaliss and Kalizyme"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": false
+}

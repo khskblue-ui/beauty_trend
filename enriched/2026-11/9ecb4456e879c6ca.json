@@ -1,0 +1,47 @@
+{
+ "doc_id": "9ecb4456e879c6ca",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.job-post.co.kr/news/articleView.html?idxno=235973",
+ "title": "디올 뷰티 , 백스테이지 영감 담은 홀리데이 컬렉션 출시 …글로우 메이크...",
+ "summary": "이번 신제품 은 지난 10월 15일 디올 뷰티 온라인 부티크에서 먼저 공개됐으며, 10월 26일 카카오톡 선물하기를 통해서도 선 출시 됐다. 11월 1일부터는 전국 백화점 크리스챤 디올 뷰티 매장과 디올 뷰티 부티크를 포함한 65개...",
+ "published_at": "2026-11-02T15:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "디올 뷰티"
+  ],
+  "companies": [
+   "크리스챤 디올 뷰티"
+  ],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "글로우 메이크업",
+   "선출시"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "디올 뷰티가 홀리데이 컬렉션을 온라인과 카카오톡 선물하기에 이어 매장에서 판매한다.",
+  "key_fact_quote": "이번 신제품 은 지난 10월 15일 디올 뷰티 온라인 부티크에서 먼저 공개됐으며, 10월 26일 카카오톡 선물하기를 통해서도 선 출시 됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

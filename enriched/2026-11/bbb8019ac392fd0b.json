@@ -1,0 +1,54 @@
+{
+ "doc_id": "bbb8019ac392fd0b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100336",
+ "title": "에바끌레르, ‘제2회 오케이좋아 연예인봉사단 자선골프대회’ 참여",
+ "summary": "골프 전용 화장품 에바끌레르(회장 끌레르 정)가 오는 11월 5일 개최되는 ‘제2회 오케이좋아 연예인봉사단 자선골프대회’에 함께한다고 밝혔다.오케이좋아 연예인봉사단이 주최하는 이번 자선골프대회는 사회 각계각층의 유명 셀럽과 연예인들이 뜻을 모아 나눔을 실천하고 기부 문화를 확산하기 위해 마련된 행사다. 행사 일정은 2026년 11월 5일(목)이며, 경기도에 위치한 더크로스비CC에서 진행된다. 동아회원권 등이 후원사로 참여해 자리를 빛낸다.골프 및 야외 활동 시 피부 보호를 위한 기능성 제품들로 두터운 마니아층을 보유하고 있는 에바끌",
+ "published_at": "2026-11-02T09:27:16+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에바끌레르"
+  ],
+  "companies": [
+   "오케이좋아 연예인봉사단",
+   "동아회원권"
+  ],
+  "keywords": [
+   "골프 화장품",
+   "자선 행사"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "골프 전용 화장품 에바끌레르가 자선골프대회에 참여한다.",
+  "key_fact_quote": "골프 전용 화장품 에바끌레르(회장 끌레르 정)가 오는 11월 5일 개최되는 ‘제2회 오케이좋아 연예인봉사단 자선골프대회’에 함께한다고 밝혔다.",
+  "events": [
+   {
+    "name": "제2회 오케이좋아 연예인봉사단 자선골프대회",
+    "start_date": "2026-11-05",
+    "end_date": null,
+    "place": "더크로스비CC",
+    "quote": "행사 일정은 2026년 11월 5일(목)이며, 경기도에 위치한 더크로스비CC에서 진행된다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

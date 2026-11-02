@@ -1,0 +1,65 @@
+{
+ "doc_id": "eda99c366c76efb1",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100347",
+ "title": "누그레이 세모 탭 잼 코어 컬렉션, 올리브영 입점",
+ "summary": "피부 건강까지 생각하는 케어-인 메이크업 브랜드 누그레이(nuegray)에서 지난달 19일 출시한 '세모 탭 치크 잼 코어 컬렉션' 5종이 올리브영에 입점했다.2026 F/W 시즌을 겨냥한 잼 코어 컬렉션은 뭉근하게 졸여낸 잼처럼 부드럽고 달콤한 무드가 특징이다.▲소이밀크 탭 ▲너티피치 탭 ▲차이로즈 탭 ▲초코퍼지 탭 ▲베리파이 탭 등 5가지 쉐이드로 라인업 됐으며, 뉴트럴 톤부터 딥 톤까지 아우르는 농축되고 깊이감 있는 컬러로 맑은 속광은 그대로 유지한 채 차분한 분위기 연출이 가능하다.세모 탭 치크는 세라마이드와",
+ "published_at": "2026-11-02T10:19:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "누그레이"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "케어-인 메이크업",
+   "치크 메이크업",
+   "스킨케어 성분 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "세모 탭 치크 잼 코어 컬렉션",
+    "brand": "누그레이",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "피부 건강까지 생각하는 케어-인 메이크업 브랜드 누그레이(nuegray)에서 지난달 19일 출시한 '세모 탭 치크 잼 코어 컬렉션' 5종이 올리브영에 입점했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "누그레이가 세모 탭 치크 잼 코어 컬렉션을 올리브영에 입점시켰다.",
+  "key_fact_quote": "피부 건강까지 생각하는 케어-인 메이크업 브랜드 누그레이(nuegray)에서 지난달 19일 출시한 '세모 탭 치크 잼 코어 컬렉션' 5종이 올리브영에 입점했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "세모 탭 치크는 세라마이드와 바쿠치올 등 스킨케어 성분을 함유해 메이크업과 동시에 촉촉하고 탄탄한 피부 케어가 가능하고, 이지 블렌딩 제형이 적용돼 뭉치거나 베이스 까짐이 없는 것이 특징이다."
+   },
+   {
+    "name": "바쿠치올",
+    "quote": "세모 탭 치크는 세라마이드와 바쿠치올 등 스킨케어 성분을 함유해 메이크업과 동시에 촉촉하고 탄탄한 피부 케어가 가능하고, 이지 블렌딩 제형이 적용돼 뭉치거나 베이스 까짐이 없는 것이 특징이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": true
+}

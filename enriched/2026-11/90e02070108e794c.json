@@ -1,0 +1,71 @@
+{
+ "doc_id": "90e02070108e794c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/11/02/2026110201985.html",
+ "title": "[ 뷰티 업계 이모저모] 스킨수티컬즈, ‘피티옥스 크림’ 출시 … 안티에이...",
+ "summary": "크림’ 출시 … 안티에이징 라인 확대 로레알의 더마 코스메틱 브랜드 스킨수티컬즈가 신제품 ‘피티옥스... ■링탭, 글루타치온 함유 아이패치 출시 뷰티 브랜드 링탭이 눈가 피부 관리를 위한 ‘글루타치온...",
+ "published_at": "2026-11-02T15:17:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "스킨수티컬즈",
+   "링탭"
+  ],
+  "companies": [
+   "로레알"
+  ],
+  "keywords": [
+   "안티에이징",
+   "더마 코스메틱",
+   "아이패치"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "피티옥스 크림",
+    "brand": "스킨수티컬즈",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "스킨수티컬즈, ‘피티옥스 크림’ 출시",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "글루타치온 함유 아이패치",
+    "brand": "링탭",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "■링탭, 글루타치온 함유 아이패치 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스킨수티컬즈와 링탭이 각각 신제품을 출시했다.",
+  "key_fact_quote": "■링탭, 글루타치온 함유 아이패치 출시",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "글루타치온",
+    "quote": "■링탭, 글루타치온 함유 아이패치 출시"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

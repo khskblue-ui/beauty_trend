@@ -1,0 +1,49 @@
+{
+ "doc_id": "bca6adb40b94ceb8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2487041",
+ "title": "뷰티 판 키우는 지그재그, 다음 먹거리는 '기초'",
+ "summary": "지난 6월 비건 뷰티 브랜드 '딘시'를 시작으로 8월 '웰라쥬', 9월 '프롬리에', 지난달 '닥터자르트' 등이... 신규 입점 브랜드 의 거래 실적도 확대되고 있다. 지난달 입점한 닥터자르트는 공식 론칭 약 2주 만에 스토어...",
+ "published_at": "2026-11-02T09:15:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "딘시",
+   "웰라쥬",
+   "프롬리에",
+   "닥터자르트"
+  ],
+  "companies": [
+   "지그재그"
+  ],
+  "keywords": [
+   "뷰티 플랫폼",
+   "기초케어",
+   "브랜드 입점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지그재그가 기초케어 브랜드를 잇따라 입점시키며 뷰티 사업을 키우고 있다.",
+  "key_fact_quote": "지난 6월 비건 뷰티 브랜드 '딘시'를 시작으로 8월 '웰라쥬', 9월 '프롬리에', 지난달 '닥터자르트' 등이...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": false
+}

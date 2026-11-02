@@ -1,0 +1,61 @@
+{
+ "doc_id": "9ce9d28e3305a536",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58635",
+ "title": "코리아나화장품 앰플엔, 가을·겨울 보습 겨냥 ‘세라마이드샷 앰플’ 대용량 출시",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 코리아나화장품의 더마 코스메틱 브랜드 앰플엔이 건조한 가을·겨울철 피부 보습을 위한 ‘세라마이드샷 앰플’ 대용량 한정 기획세트를 출시한다고 지난달 30일 밝혔다. 이번 기획세트는 ‘세라마이드샷 앰플’ 100ml 본품과 30ml 증정품을 묶어 총 130ml 용량으로…",
+ "published_at": "2026-11-02T13:55:30+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "앰플엔"
+  ],
+  "companies": [
+   "코리아나화장품"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "보습",
+   "피부 장벽"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "세라마이드샷 앰플",
+    "brand": "앰플엔",
+    "launch_date": "2026-11",
+    "launch_status": "upcoming",
+    "launch_quote": "코리아나화장품의 더마 코스메틱 브랜드 앰플엔이 건조한 가을·겨울철 피부 보습을 위한 ‘세라마이드샷 앰플’ 대용량 한정 기획세트를 출시한다고 지난달 30일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "앰플엔이 세라마이드샷 앰플의 대용량 한정 기획세트를 올리브영에서 선보인다.",
+  "key_fact_quote": "코리아나화장품의 더마 코스메틱 브랜드 앰플엔이 건조한 가을·겨울철 피부 보습을 위한 ‘세라마이드샷 앰플’ 대용량 한정 기획세트를 출시한다고 지난달 30일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "‘세라마이드샷 앰플’은 세라마이드 성분을 함유한 고농축 보습 앰플이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": true
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "9c4f036c39465e51",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.smartbizn.com/news/articleView.html?idxno=158197",
+ "title": "코스맥스, K뷰티 기술 보호 강화 건의···특허·위조상품 제도 개선 요...",
+ "summary": "K뷰티 산업의 성장세도 가파르다. 식품의약품안전처에 따르면 올해 1~3분기 국내 화장품 수출 액은 111억달러로 전년 동기 대비 31.1% 증가하며 역대 같은 기간 최대치를 기록했다. 지난해 연간 수출 액인 114억달러에...",
+ "published_at": "2026-11-02T15:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "식품의약품안전처"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "특허",
+   "위조상품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스가 K뷰티 기술 보호를 위한 특허·위조상품 제도 개선을 건의했다.",
+  "key_fact_quote": "K뷰티 산업의 성장세도 가파르다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

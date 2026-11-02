@@ -1,0 +1,63 @@
+{
+ "doc_id": "82ff3957029b0162",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.bloter.net/news/articleView.html?idxno=677374",
+ "title": "[데스크시각] 매력자본과 K뷰티",
+ "summary": "한국 화장품 수출은 지난해 114억달러를 기록하며 역대 최대치를 경신했다. K뷰티는 더 이상 한국 연예인의... 펩타이드와 PDRN 같은 신제품 을 내놓고서야 반등했다. '리들샷'으로 이름을 알린 브이티는 다른 K인디...",
+ "published_at": "2026-11-02T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "브이티"
+  ],
+  "companies": [],
+  "keywords": [
+   "K-뷰티",
+   "화장품 수출",
+   "펩타이드"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "리들샷",
+    "brand": "브이티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "K뷰티의 성장 요인을 짚은 칼럼이다.",
+  "key_fact_quote": "한국 화장품 수출은 지난해 114억달러를 기록하며 역대 최대치를 경신했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "펩타이드",
+    "quote": "펩타이드와 PDRN 같은 신제품 을 내놓고서야 반등했다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "펩타이드와 PDRN 같은 신제품 을 내놓고서야 반등했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

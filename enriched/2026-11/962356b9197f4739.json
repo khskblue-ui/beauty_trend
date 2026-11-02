@@ -1,0 +1,46 @@
+{
+ "doc_id": "962356b9197f4739",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.catchnews.kr/news/articleView.html?idxno=130066",
+ "title": "\"특허 균주 활용한 스킨케어 5종\" hy, 웰니스 뷰티브랜드 '아이오셀' 론...",
+ "summary": "hy가 웰니스 뷰티 브랜드 '아이오셀(IOCell)'을 론칭 하고 마이크로바이옴 스킨케어 시장 공략에 나선다고 2일 밝혔다. [사진 hy] \"장과 피부의 상호작용에 주목한 '장-피부축(Gut-Skin Axis)' 연구를 바탕으로 핵심 성분뿐...",
+ "published_at": "2026-11-02T15:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오셀"
+  ],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "마이크로바이옴",
+   "장-피부축",
+   "스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "hy가 아이오셀을 론칭하고 마이크로바이옴 스킨케어 시장에 나선다.",
+  "key_fact_quote": "hy가 웰니스 뷰티 브랜드 '아이오셀(IOCell)'을 론칭 하고 마이크로바이옴 스킨케어 시장 공략에 나선다고 2일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

@@ -1,0 +1,84 @@
+{
+ "doc_id": "ba61543bc04b6d40",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100342",
+ "title": "이너랩, 인기 캐릭터 ‘와사비베어’ 협업 컬렉션 4종",
+ "summary": "셀트리온스킨큐어의 이너뷰티 브랜드 이너랩(INNERLAB)이 인기 캐릭터 ‘와사비베어(WASABI BEAR)’와 협업한 컬래버레이션 컬렉션 4종을 선보인다.이번 컬렉션은 이너랩의 대표 제품에 와사비베어 특유의 유쾌하고 사랑스러운 감성을 접목한 것이 특징이다. 일상 속 건강한 자기관리 루틴에 개성있는 캐릭터 굿즈를 활용해 재미와 소장 가치를 높이고, 소비자들에게 색다른 브랜드 경험을 제공한다.협업 제품은 ▲홀드잇 ▲홀드잇 MAD 매드 ▲홀드잇 JELLY 그린포켓젤리 ▲작은 다이어트 카페 슬림 한 잔으로 총 4종이다. ‘홀드잇’은 식사",
+ "published_at": "2026-11-02T10:02:31+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이너랩"
+  ],
+  "companies": [
+   "셀트리온스킨큐어",
+   "올리브영"
+  ],
+  "keywords": [
+   "캐릭터 협업",
+   "이너뷰티",
+   "굿즈 증정"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "홀드잇",
+    "brand": "이너랩",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "셀트리온스킨큐어의 이너뷰티 브랜드 이너랩(INNERLAB)이 인기 캐릭터 ‘와사비베어(WASABI BEAR)’와 협업한 컬래버레이션 컬렉션 4종을 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "홀드잇 MAD 매드",
+    "brand": "이너랩",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "셀트리온스킨큐어의 이너뷰티 브랜드 이너랩(INNERLAB)이 인기 캐릭터 ‘와사비베어(WASABI BEAR)’와 협업한 컬래버레이션 컬렉션 4종을 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "홀드잇 JELLY 그린포켓젤리",
+    "brand": "이너랩",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "셀트리온스킨큐어의 이너뷰티 브랜드 이너랩(INNERLAB)이 인기 캐릭터 ‘와사비베어(WASABI BEAR)’와 협업한 컬래버레이션 컬렉션 4종을 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "작은 다이어트 카페 슬림 한 잔",
+    "brand": "이너랩",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "셀트리온스킨큐어의 이너뷰티 브랜드 이너랩(INNERLAB)이 인기 캐릭터 ‘와사비베어(WASABI BEAR)’와 협업한 컬래버레이션 컬렉션 4종을 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이너랩이 인기 캐릭터 와사비베어와 협업한 컬렉션을 선보였다.",
+  "key_fact_quote": "셀트리온스킨큐어의 이너뷰티 브랜드 이너랩(INNERLAB)이 인기 캐릭터 ‘와사비베어(WASABI BEAR)’와 협업한 컬래버레이션 컬렉션 4종을 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

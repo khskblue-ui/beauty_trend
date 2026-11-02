@@ -1,0 +1,48 @@
+{
+ "doc_id": "d752fa6592b45072",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92301",
+ "title": "\"남성 전용 화장품 안 산다\"… 닐슨IQ, 젠더리스 스킨케어 부상 조명",
+ "summary": "2026년 6월까지 1년 동안 영국·프랑스·스페인·이탈리아·독일 5개국 평균 기준 남성은 온라인 향수 지출의... 57개국 분석에서도 남성을 대상으로 명시적으로 마케팅한 브랜드 의 성장률은 3%에 그쳤다. 같은 기간 뷰티...",
+ "published_at": "2026-11-03T01:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "GB",
+   "FR",
+   "ES",
+   "IT",
+   "DE"
+  ],
+  "brands": [],
+  "companies": [
+   "닐슨IQ"
+  ],
+  "keywords": [
+   "젠더리스 스킨케어",
+   "남성 향수",
+   "온라인 소비"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "닐슨IQ는 남성 전용으로 마케팅한 화장품이 잘 팔리지 않고 젠더리스 스킨케어가 뜬다고 짚었다.",
+  "key_fact_quote": "\"남성 전용 화장품 안 산다\"… 닐슨IQ, 젠더리스 스킨케어 부상 조명",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

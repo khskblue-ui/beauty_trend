@@ -1,0 +1,65 @@
+{
+ "doc_id": "b3b7b1ba9aec8105",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/silab-unveils-new-efficacy-data,28444",
+ "title": "Silab unveils new efficacy data for Cicactyl in post-laser skin care",
+ "summary": "Silab, a France-headquartered developer of natural cosmetic active ingredients, has released new efficacy data for Cicactyl, its active ingredient designed to support skin repair following fractional laser procedures. Silab has conducted new efficacy studies for Cicactyl, a natural active ingredient derived from carob gum (Ceratonia siliqua). Cicactyl was developed to accelerate and improve skin healing. It targets four key processes involved in the proliferation phase of wound healing:... - Ingredients & formulation",
+ "published_at": "2026-10-31T06:29:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "Silab"
+  ],
+  "keywords": [
+   "레이저 시술 후 케어",
+   "피부 재생",
+   "천연 유래 활성 성분"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "Silab이 레이저 시술 후 피부 회복을 돕는 Cicactyl의 새 효능 시험 결과를 공개했다.",
+  "key_fact_quote": "Silab unveils new efficacy data for Cicactyl in post-laser skin care",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Cicactyl",
+    "quote": "Cicactyl was developed to accelerate and improve skin healing."
+   },
+   {
+    "name": "carob gum",
+    "quote": "Silab has conducted new efficacy studies for Cicactyl, a natural active ingredient derived from carob gum (Ceratonia siliqua)."
+   },
+   {
+    "name": "Ceratonia siliqua",
+    "quote": "Silab has conducted new efficacy studies for Cicactyl, a natural active ingredient derived from carob gum (Ceratonia siliqua)."
+   },
+   {
+    "name": "Galactomannan",
+    "quote": "INCI : Galactomannan & Maltodextrin"
+   },
+   {
+    "name": "Maltodextrin",
+    "quote": "INCI : Galactomannan & Maltodextrin"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

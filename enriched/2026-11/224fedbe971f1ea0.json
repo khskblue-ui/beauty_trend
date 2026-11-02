@@ -1,0 +1,48 @@
+{
+ "doc_id": "224fedbe971f1ea0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12193469",
+ "title": "hy, 웰니스 뷰티 브랜드 ‘아이오셀’ 론칭…독자 균주 기술로 스킨케어...",
+ "summary": "자체개발 피부 유산균으로 화장품 원료 개발 세럼·크림·선세럼 등 스킨케어 5종 출시 hy(구 한국야구르트)가 자체 개발 유산균을 활용한 화장품 을 내놓으며 스킨케어 사업에 진출한다. 식품과 건강기능식품에...",
+ "published_at": "2026-11-02T14:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오셀"
+  ],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "마이크로바이옴 스킨케어",
+   "피부 유산균",
+   "웰니스 뷰티",
+   "이너뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "21b3c1e506f1887c",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

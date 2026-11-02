@@ -1,0 +1,47 @@
+{
+ "doc_id": "940aa81601aa77f9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/general-industry/6339825",
+ "title": "\"121년 英 리테일도 콕 집었다\"…K-뷰티, 라이징 브랜드 로 입성",
+ "summary": "프리먼스는 향수 와 색조화장품, 바디케어, 스킨케어 전반에서 판매가 호조를 보였다며 메디큐브를 성과가 두드러진 브랜드 중 하나로 지목했다. 이번 판매망 확대가 눈길을 끄는 것은 프리먼스가 공략하는 소비자층...",
+ "published_at": "2026-11-03T06:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [
+   "메디큐브"
+  ],
+  "companies": [
+   "프리먼스"
+  ],
+  "keywords": [
+   "K-뷰티 해외 진출",
+   "라이징 브랜드",
+   "영국 리테일"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "영국 리테일러 프리먼스가 K-뷰티 브랜드 메디큐브를 성과가 두드러진 브랜드로 꼽았다.",
+  "key_fact_quote": "프리먼스는 향수 와 색조화장품, 바디케어, 스킨케어 전반에서 판매가 호조를 보였다며 메디큐브를 성과가 두드러진 브랜드 중 하나로 지목했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

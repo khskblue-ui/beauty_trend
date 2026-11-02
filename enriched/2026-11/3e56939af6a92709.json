@@ -1,0 +1,85 @@
+{
+ "doc_id": "3e56939af6a92709",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100333",
+ "title": "달리프, 헬로키티와 만났다",
+ "summary": "여성 헤어케어&스타일링 브랜드 달리프(Daleaf)가 산리오캐릭터즈의 인기 캐릭터 헬로키티와 협업한 ‘글램 스타일링 라인’ 한정판 에디션을 올리브영에서 선보인다.이번 협업은 달리프의 글램 스타일링 라인에 헬로키티의 사랑스러운 디자인을 더한 특별 에디션으로, 제품의 기능적 매력은 물론 소장 가치까지 높인 것이 특징이다. 헬로키티 특유의 귀엽고 친근한 감성을 담아 일상 속 헤어 스타일링에 색다른 즐거움을 더했으며, 기존 달리프 제품을 즐겨 사용하는 소비자는 물론 캐릭터 굿즈에 관심이 높은 소비자들에게도 특별한 선택지를 제공할 예정이다.",
+ "published_at": "2026-11-02T09:18:43+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "달리프",
+   "헬로키티"
+  ],
+  "companies": [
+   "산리오캐릭터즈",
+   "올리브영"
+  ],
+  "keywords": [
+   "캐릭터 협업",
+   "헤어 스타일링",
+   "한정판 에디션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "글램 스타일링 픽서",
+    "brand": "달리프",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "여성 헤어케어&스타일링 브랜드 달리프(Daleaf)가 산리오캐릭터즈의 인기 캐릭터 헬로키티와 협업한 ‘글램 스타일링 라인’ 한정판 에디션을 올리브영에서 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "글램 피니쉬 하드 스프레이",
+    "brand": "달리프",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "여성 헤어케어&스타일링 브랜드 달리프(Daleaf)가 산리오캐릭터즈의 인기 캐릭터 헬로키티와 협업한 ‘글램 스타일링 라인’ 한정판 에디션을 올리브영에서 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "글램 컬크림",
+    "brand": "달리프",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "여성 헤어케어&스타일링 브랜드 달리프(Daleaf)가 산리오캐릭터즈의 인기 캐릭터 헬로키티와 협업한 ‘글램 스타일링 라인’ 한정판 에디션을 올리브영에서 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "글램 듀얼 픽스 헤어 마스카라",
+    "brand": "달리프",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "여성 헤어케어&스타일링 브랜드 달리프(Daleaf)가 산리오캐릭터즈의 인기 캐릭터 헬로키티와 협업한 ‘글램 스타일링 라인’ 한정판 에디션을 올리브영에서 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "달리프가 헬로키티와 협업한 헤어 스타일링 한정판을 올리브영에서 선보인다.",
+  "key_fact_quote": "여성 헤어케어&스타일링 브랜드 달리프(Daleaf)가 산리오캐릭터즈의 인기 캐릭터 헬로키티와 협업한 ‘글램 스타일링 라인’ 한정판 에디션을 올리브영에서 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

@@ -1,0 +1,62 @@
+{
+ "doc_id": "ea78c875a658867a",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58639",
+ "title": "코스메틱저널코리아(CJK) 제139호 2026년 11월호 발간",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 국내 대표 화장품 연구개발(Ramp;D) 마케팅 전문 저널 코스메틱저널코리아(CJK) 2026년 11월호를 제작해 배포하고 있다. 코스메틱저널코리아(CJK)는 2023년 11월 독일 SOFW Journal과 업무제휴를 체결하고 2024년 1월호부터 SOFW Journal 한국판…",
+ "published_at": "2026-11-02T17:51:01+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "other",
+  "countries": [
+   "KR",
+   "DE"
+  ],
+  "brands": [],
+  "companies": [
+   "코스인코리아"
+  ],
+  "keywords": [
+   "화장품 연구개발",
+   "신원료",
+   "화장품 저널"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스메틱저널코리아 2026년 11월호가 발간됐다.",
+  "key_fact_quote": "[코스인코리아닷컴 길태윤 기자] 국내 대표 화장품 연구개발(R&D) 마케팅 전문 저널 코스메틱저널코리아(CJK) 2026년 11월호를 제작해 배포하고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "하이드록시아세토페논",
+    "quote": "현대 제품 보호의 영웅들 8. 하이드록시아세토페논"
+   },
+   {
+    "name": "AC Curezуme",
+    "quote": "AC Curezуme: 모발 결합을 강화하는(Bond-Building) 차세대 헤어케어 솔루션"
+   },
+   {
+    "name": "콜라겐",
+    "quote": "재조합 인간 제III형 콜라겐의 구조적 특성 및 피부 관련 세포에서의 생물학적 활성 평가"
+   },
+   {
+    "name": "카프릴릭애씨드",
+    "quote": "카프릴릭애씨드 기반 천연 공융(共融) 용매를 함유한 화장품 크림: 안정성, 유변학 및 사용자 인식"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": true
+}

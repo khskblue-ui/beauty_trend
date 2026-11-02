@@ -1,0 +1,42 @@
+{
+ "doc_id": "1ba77e54682a0330",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://magazine.hankyung.com/job-joy/article/202611021326d",
+ "title": "[2026 오늘전통창업 도약 3기 CEO] 한국의 향 개발을 통한 뷰티·홈 프래...",
+ "summary": "다른 향을 흉내낸것이 아닌, 직접 한국에서 30년 이상 살아온 경험과 배워온 역사, 문화를 통해 한국인 조향사 가 향을 조향합니다. 저희 향은 한국을 여행하는 듯한 여정을 표현하고, 한국을 대표하는 향을 만듭니다.”...",
+ "published_at": "2026-11-02T21:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "한국의 향",
+   "조향",
+   "홈 프래그런스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국인 조향사가 한국을 대표하는 향을 만드는 브랜드가 소개됐다.",
+  "key_fact_quote": "저희 향은 한국을 여행하는 듯한 여정을 표현하고, 한국을 대표하는 향을 만듭니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

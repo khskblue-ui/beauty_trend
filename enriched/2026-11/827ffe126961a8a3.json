@@ -1,0 +1,47 @@
+{
+ "doc_id": "827ffe126961a8a3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ttlnews.com/news/articleView.html?idxno=3157725",
+ "title": "hy, 웰니스 뷰티 브랜드 '아이오셀' 론칭 … 마이크로바이옴 스킨케어 시...",
+ "summary": "hy는 11월 2일 피부 유산균에서 추출한 고유 원료를 스킨케어 전반에 접목한 신규 뷰티 브랜드 '아이오셀'을 공식 선보였다. 피부 본연의 건강한 균형을 회복한다는 가치를 핵심 콘셉트로 내세웠으며, 장벽 강화부터...",
+ "published_at": "2026-11-02T09:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오셀"
+  ],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "마이크로바이옴 스킨케어",
+   "피부 유산균",
+   "웰니스 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "3566869ed76f8dd4",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

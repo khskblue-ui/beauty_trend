@@ -1,0 +1,53 @@
+{
+ "doc_id": "6adfdeb9db7c6bb5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.wsobi.com/news/articleView.html?idxno=320786",
+ "title": "제약· 뷰티 업계 '마데카 크림패치' 2종 출시·상주고 학생 대상 견학 프...",
+ "summary": "이 부사장은 한국콜마 생산부문 총괄 책임자로서 디지털 전환(DT), 생산 자동화, 물류 혁신을 주도하며 생산성과 품질 경쟁력을 획기적으로 높이고, K뷰티 수출 확대에 대응할 수 있는 생산 체계를 구축한 공로를...",
+ "published_at": "2026-11-02T10:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "패치 제품",
+   "제약·뷰티 협업"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "마데카 크림패치",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "'마데카 크림패치' 2종 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "제약·뷰티 업계에서 마데카 크림패치가 새로 나왔다.",
+  "key_fact_quote": "'마데카 크림패치' 2종 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "2dcbefea5ff0eb1f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=578694&class=17&grp=",
+ "title": "'먼작귀'부터 '다마고치'까지…뷰티업계, 캐릭터 한정판 경쟁↑",
+ "summary": "화장품 업계는 이처럼 기존 인기 제품에 캐릭터 디자인과 한정 굿즈를 결합하는 한편 온라인 선 출시 와 오프라인 프로모션을 연계해 캐릭터 팬층과의 접점을 넓히고 있다.",
+ "published_at": "2026-11-02T14:19:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "캐릭터 협업",
+   "한정판",
+   "온라인 선출시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티업계가 캐릭터 한정판 경쟁을 벌이고 있다.",
+  "key_fact_quote": "'먼작귀'부터 '다마고치'까지…뷰티업계, 캐릭터 한정판 경쟁↑",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

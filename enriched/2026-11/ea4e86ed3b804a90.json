@@ -1,0 +1,65 @@
+{
+ "doc_id": "ea4e86ed3b804a90",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45982",
+ "title": "[오늘의 뷰티] 한국콜마·가히·프레비츠·링탭·네오팜·넌플래쉬",
+ "summary": "국내 화장품 기업 중 유일하게 2년 연속 선정됐다. 2023년부터는 한국ESG기준원(KCGS) ESG 평가에서 3년 연속 A등급을 받았다. /사진=가히 #가히, 팩과 클렌징을 한 번에… '율무 클렌징 브라이트너' 신제품 출시 이번 신제품 은...",
+ "published_at": "2026-11-02T17:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "가히",
+   "링탭",
+   "넌플래쉬"
+  ],
+  "companies": [
+   "한국콜마",
+   "프레비츠",
+   "네오팜"
+  ],
+  "keywords": [
+   "클렌징 브라이트너",
+   "ESG",
+   "신제품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "율무 클렌징 브라이트너",
+    "brand": "가히",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "#가히, 팩과 클렌징을 한 번에… '율무 클렌징 브라이트너' 신제품 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "가히가 팩과 클렌징을 한 번에 하는 신제품을 내놨다.",
+  "key_fact_quote": "#가히, 팩과 클렌징을 한 번에… '율무 클렌징 브라이트너' 신제품 출시",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "율무",
+    "quote": "#가히, 팩과 클렌징을 한 번에… '율무 클렌징 브라이트너' 신제품 출시"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "4feddb7d2b3261cd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261102000266",
+ "title": "지그재그, '직잭 뷰티 ' 카테고리 기초케어까지 확대",
+ "summary": "닥터자르트는 공식 론칭 약 2주 만에 스토어 즐겨찾기 2000건을 넘겼고, 구매 고객의 약 50%가 30대였다. 지그재그는 올해 인디 뷰티 브랜드 인큐베이팅 프로그램을 시작하고 벤처캐피탈(VC)과 손잡고 뷰티 브랜드 지분...",
+ "published_at": "2026-11-02T13:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "닥터자르트"
+  ],
+  "companies": [
+   "지그재그"
+  ],
+  "keywords": [
+   "기초케어",
+   "인디 뷰티",
+   "브랜드 인큐베이팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지그재그가 직잭 뷰티 카테고리를 기초케어까지 넓혔다.",
+  "key_fact_quote": "지그재그, '직잭 뷰티 ' 카테고리 기초케어까지 확대",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

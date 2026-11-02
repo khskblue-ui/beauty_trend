@@ -1,0 +1,90 @@
+{
+ "doc_id": "a440f3ffad4cc333",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100345",
+ "title": "모로칸오일, 네이버 ‘넾다세일’ 참여",
+ "summary": "프리미엄 헤어 & 바디 케어 브랜드 모로칸오일(Moroccanoil)이 네이버 플러스 스토어에서 진행하는 하반기 최대 쇼핑 행사 ‘넾다세일’에 참여해 최대 21% 할인과 특별 증정 혜택을 제공한다고 2일 밝혔다.오는 8일까지 모로칸오일 네이버 플러스 스토어에서 진행되는 이번 행사에서는 브랜드 대표 제품인 ‘모로칸오일 트리트먼트’를 중심으로 다양한 제품을 특별한 가격에 구매할 수 있다. 특히 넾다세일 전용 혜택으로 구매 고객 전원에게 ‘올 인 원 리브인 컨디셔너’ 20ml를 증정하고, 라운지 멤버에게는 3,000원 할인 쿠폰을 추가",
+ "published_at": "2026-11-02T10:16:30+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "모로칸오일"
+  ],
+  "companies": [],
+  "keywords": [
+   "온라인 쇼핑 행사",
+   "헤어 트리트먼트",
+   "기획세트"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "모로칸오일 트리트먼트",
+    "brand": "모로칸오일",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "올 인 원 리브인 컨디셔너",
+    "brand": "모로칸오일",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "얼티메이트 샤인 키트",
+    "brand": "모로칸오일",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스칼프 밸런싱 샴푸",
+    "brand": "모로칸오일",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "에어리 모이스처 샴푸",
+    "brand": "모로칸오일",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "모로칸오일이 네이버 플러스 스토어 쇼핑 행사에 참여해 할인과 증정 혜택을 제공한다.",
+  "key_fact_quote": "프리미엄 헤어 & 바디 케어 브랜드 모로칸오일(Moroccanoil)이 네이버 플러스 스토어에서 진행하는 하반기 최대 쇼핑 행사 ‘넾다세일’에 참여해 최대 21% 할인과 특별 증정 혜택을 제공한다고 2일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

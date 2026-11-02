@@ -1,0 +1,61 @@
+{
+ "doc_id": "32791d210e0c7fd1",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100351",
+ "title": "파마리서치, 제7회 글로벌 심포지엄 성료",
+ "summary": "재생의학 전문기업 파마리서치(대표이사 손지훈)는 지난 26일부터 28일까지 강원도 강릉에서 전 세계 의료진을 대상으로 하는 ‘제7회 파마리서치 글로벌 심포지엄(PharmaResearch Global Symposium, PGS)’을 성황리에 개최했다고 2일 밝혔다.올해로 7회째를 맞이한 PGS는 파마리서치가 재생의학과 PDRN·PN 분야의 연구 성과와 임상 경험을 공유하고, 글로벌 의료진 간 학술 교류를 확대하기 위해 마련한 대규모 국제 학술 행사다. 이번 행사에는 미국, 호주, 태국, 일본, 인도네시아 등 전 세계 64 개국에서 7",
+ "published_at": "2026-11-02T11:17:48+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "파마리서치"
+  ],
+  "keywords": [
+   "재생의학",
+   "PDRN",
+   "메디컬 에스테틱"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "파마리서치가 강릉에서 전 세계 의료진을 대상으로 글로벌 심포지엄을 열었다.",
+  "key_fact_quote": "재생의학 전문기업 파마리서치(대표이사 손지훈)는 지난 26일부터 28일까지 강원도 강릉에서 전 세계 의료진을 대상으로 하는 ‘제7회 파마리서치 글로벌 심포지엄(PharmaResearch Global Symposium, PGS)’을 성황리에 개최했다고 2일 밝혔다.",
+  "events": [
+   {
+    "name": "제7회 파마리서치 글로벌 심포지엄(PharmaResearch Global Symposium, PGS)",
+    "start_date": "2026-10-26",
+    "end_date": "2026-10-28",
+    "place": "강원도 강릉",
+    "quote": "재생의학 전문기업 파마리서치(대표이사 손지훈)는 지난 26일부터 28일까지 강원도 강릉에서 전 세계 의료진을 대상으로 하는 ‘제7회 파마리서치 글로벌 심포지엄(PharmaResearch Global Symposium, PGS)’을 성황리에 개최했다고 2일 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "올해로 7회째를 맞이한 PGS는 파마리서치가 재생의학과 PDRN·PN 분야의 연구 성과와 임상 경험을 공유하고, 글로벌 의료진 간 학술 교류를 확대하기 위해 마련한 대규모 국제 학술 행사다."
+   },
+   {
+    "name": "PN",
+    "quote": "올해로 7회째를 맞이한 PGS는 파마리서치가 재생의학과 PDRN·PN 분야의 연구 성과와 임상 경험을 공유하고, 글로벌 의료진 간 학술 교류를 확대하기 위해 마련한 대규모 국제 학술 행사다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": true
+}

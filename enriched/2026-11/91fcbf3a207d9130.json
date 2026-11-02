@@ -1,0 +1,45 @@
+{
+ "doc_id": "91fcbf3a207d9130",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=265261",
+ "title": "한화호텔앤드리조트, 객실 어메니티 전면 교체···호주 뷰티 브랜드 도...",
+ "summary": "해당 제품은 식물 유래 보습 성분을 사용하고 베르가모트와 로즈메리 등 천연 향료 오일을 적용했다. 그로운 알케미스트는 스킨케어와 보디케어, 헤어케어 등을 취급하는 브랜드로, 국내에는 지난해 12월 정식 출시했다....",
+ "published_at": "2026-11-02T14:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한화호텔앤드리조트"
+  ],
+  "keywords": [
+   "호텔 어메니티",
+   "시트러스 향",
+   "식물 유래 성분"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "8c2a0f7dae52bb9a",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

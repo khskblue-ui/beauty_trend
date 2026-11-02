@@ -1,0 +1,102 @@
+{
+ "doc_id": "569d41af1f39ff7f",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100334",
+ "title": "더샘, ‘먼작귀 에디션’ 출시…11월 올영픽 선정",
+ "summary": "더샘(대표이사 임진서)이 글로벌 인기 캐릭터 먼작귀와 협업한 에디션을 출시하고, 11월 올영픽 선정을 기념해 다양한 이벤트를 진행한다.이번 콜라보는 ‘먼작귀 달콤 뷰티샵’을 콘셉트로, 더샘의 베스트셀러 제품 6종에 먼작귀 캐릭터의 매력을 더한 것이 특징이다. 제품별 캐릭터 굿즈를 함께 구성해 소장 가치를 높였으며, 협업을 통해 새롭게 선보이는 컬러도 만나볼 수 있다.먼작귀는 동글동글한 얼굴과 앙증맞은 몸집, 개성 넘치는 매력으로 사랑받는 캐릭터다. 귀엽고 독특한 감성으로 국내에서도 큰 인기를 얻고 있다.먼저 ‘커버 퍼펙션 트리플 팟",
+ "published_at": "2026-11-02T09:20:22+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더샘",
+   "먼작귀"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "캐릭터 콜라보",
+   "한정 굿즈",
+   "기획세트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "커버 퍼펙션 트리플 팟 컨실러",
+    "brand": "더샘",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "더샘(대표이사 임진서)이 글로벌 인기 캐릭터 먼작귀와 협업한 에디션을 출시하고, 11월 올영픽 선정을 기념해 다양한 이벤트를 진행한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "커버 퍼펙션 트리플 팟 컨실러 글로우",
+    "brand": "더샘",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "더샘(대표이사 임진서)이 글로벌 인기 캐릭터 먼작귀와 협업한 에디션을 출시하고, 11월 올영픽 선정을 기념해 다양한 이벤트를 진행한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "커버 퍼펙션 컨실러 펜슬",
+    "brand": "더샘",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "더샘(대표이사 임진서)이 글로벌 인기 캐릭터 먼작귀와 협업한 에디션을 출시하고, 11월 올영픽 선정을 기념해 다양한 이벤트를 진행한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "커버 퍼펙션 포어제로 에어 프라이머",
+    "brand": "더샘",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "더샘(대표이사 임진서)이 글로벌 인기 캐릭터 먼작귀와 협업한 에디션을 출시하고, 11월 올영픽 선정을 기념해 다양한 이벤트를 진행한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "글램 퍼펙션 베이크드 하이라이터",
+    "brand": "더샘",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "더샘(대표이사 임진서)이 글로벌 인기 캐릭터 먼작귀와 협업한 에디션을 출시하고, 11월 올영픽 선정을 기념해 다양한 이벤트를 진행한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "샘물 섀도우 박스 팔레트",
+    "brand": "더샘",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "더샘(대표이사 임진서)이 글로벌 인기 캐릭터 먼작귀와 협업한 에디션을 출시하고, 11월 올영픽 선정을 기념해 다양한 이벤트를 진행한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더샘이 먼작귀와 협업한 에디션을 출시했다.",
+  "key_fact_quote": "더샘(대표이사 임진서)이 글로벌 인기 캐릭터 먼작귀와 협업한 에디션을 출시하고, 11월 올영픽 선정을 기념해 다양한 이벤트를 진행한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": true
+}

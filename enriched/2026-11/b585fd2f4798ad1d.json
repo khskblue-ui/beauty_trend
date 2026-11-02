@@ -1,0 +1,47 @@
+{
+ "doc_id": "b585fd2f4798ad1d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.tf.co.kr/read/economy/2383726.htm",
+ "title": "hy, 뷰티 브랜드 '아이오셀' 론칭 …피부 유산균 스킨케어 출격",
+ "summary": "특허 균주 'HY7714' 기반 원료 개발 장벽·탄력 등 신제품 5종 선봬 hy가 독자적인 프로바이오틱스 기술력을 바탕으로 웰니스 뷰티 브랜드 '아이오셀(IOCell)'을 론칭 하고 마이크로바이옴 스킨 케어 시장 공략에...",
+ "published_at": "2026-11-02T14:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오셀"
+  ],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "피부 유산균",
+   "마이크로바이옴 스킨케어",
+   "웰니스 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "be0a8d05ee8b896b",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "c430de47361372ed",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91651",
+ "title": "[유통 브리핑] 삼립·동원시스템즈·삼양그룹·롯데웰푸드",
+ "summary": "삼양그룹은 기존 조직의 안정화와 지난 6월 일본 향료 기업 인수에 따른 스페셜티 식품 사업 확대 등을 고려해 경영진 교체를 추진했다. [사진 = 롯데웰푸드 제공] ◇ 롯데웰푸드, 빼빼로데이 맞아 도심 순회 팝업...",
+ "published_at": "2026-11-02T15:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "삼양그룹",
+   "롯데웰푸드"
+  ],
+  "keywords": [
+   "향료 기업 인수",
+   "스페셜티 식품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "삼양그룹이 일본 향료 기업 인수에 따른 사업 확대를 고려해 경영진을 교체했다.",
+  "key_fact_quote": "삼양그룹은 기존 조직의 안정화와 지난 6월 일본 향료 기업 인수에 따른 스페셜티 식품 사업 확대 등을 고려해 경영진 교체를 추진했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

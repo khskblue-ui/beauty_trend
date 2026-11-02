@@ -1,0 +1,45 @@
+{
+ "doc_id": "4649c181732ceea1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/living/2026/11/03/2026102915223266469",
+ "title": "\"7초마다 1개 팔린다\"…영국 드럭스토어의 K뷰티 공략법",
+ "summary": "우리 소비재 기업의 목표는 수출 확대에 그치지 않는다. 현지 거점에 공장을 짓고, 혁신 물류 시스템을... \"부츠에서는 K뷰티 제품이 7초마다 1개씩 팔립니다.\" 그레이스 버논(Grace Vernon) 부츠 이그나이트(Boots Ignite)...",
+ "published_at": "2026-11-02T14:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "GB",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "부츠"
+  ],
+  "keywords": [
+   "K뷰티",
+   "드럭스토어",
+   "해외 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "영국 드럭스토어 부츠에서 K뷰티 제품이 빠르게 팔리고 있다.",
+  "key_fact_quote": "부츠에서는 K뷰티 제품이 7초마다 1개씩 팔립니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

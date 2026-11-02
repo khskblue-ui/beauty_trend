@@ -1,0 +1,51 @@
+{
+ "doc_id": "3a739633afd902b8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66813",
+ "title": "스킨퍼즐랩 공식 론칭… 화살나무 원료 담은 토너·세럼 2종 선보여",
+ "summary": "노드메종은 원료사와 협업해 화살나무잎/줄기수를 화장품 원료로 개발했으며, 이 성분은 지난 6월 15일... 브랜드 측은 이번 신제품 이 자연 유래 원료의 장점을 살리면서도 성분 조합과 사용 목적을 명확히 구분했다는...",
+ "published_at": "2026-11-02T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "스킨퍼즐랩"
+  ],
+  "companies": [
+   "노드메종"
+  ],
+  "keywords": [
+   "자연 유래 원료",
+   "토너",
+   "세럼"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "스킨퍼즐랩이 화살나무 원료를 담은 토너와 세럼을 선보였다.",
+  "key_fact_quote": "스킨퍼즐랩 공식 론칭… 화살나무 원료 담은 토너·세럼 2종 선보여",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "화살나무잎/줄기수",
+    "quote": "노드메종은 원료사와 협업해 화살나무잎/줄기수를 화장품 원료로 개발했으며, 이 성분은 지난 6월 15일..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": false
+}

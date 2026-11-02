@@ -1,0 +1,44 @@
+{
+ "doc_id": "9086d8ae6aeacf6e",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/kenvue-hails-overall-bump-in-q3-2026-results",
+ "title": "Kenvue hails overall bump in Q3 2026 results despite mixed beauty sales",
+ "summary": "Despite Kenvue’s Q3 2026 net sales rising 3.2% to $3.8 billion, the Johnson & Johnson (J&J) spinoff consumer health company’s skin health and beauty sales division only saw sales increase by 0.1%",
+ "published_at": "2026-11-02T21:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "Kenvue",
+   "Johnson & Johnson"
+  ],
+  "keywords": [
+   "분기 실적",
+   "스킨 헬스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Kenvue의 3분기 전체 매출은 늘었지만 스킨 헬스·뷰티 부문 매출은 거의 제자리였다.",
+  "key_fact_quote": "Kenvue hails overall bump in Q3 2026 results despite mixed beauty sales",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

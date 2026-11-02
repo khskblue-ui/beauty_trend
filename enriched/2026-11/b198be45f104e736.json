@@ -1,0 +1,54 @@
+{
+ "doc_id": "b198be45f104e736",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.joongangenews.com/news/articleView.html?idxno=560374",
+ "title": "호텔 객실에 호주 뷰티 브랜드…한화리조트, 어메니티 바꿨다",
+ "summary": "식물 유래 보습 성분을 활용했으며 베르가모트와 로즈메리 등 향료 오일을 사용해 시트러스 계열의 향을 구현했다. 객실 밖에서도 브랜드를 경험할 수 있도록 협업 범위도 넓혔다. 거제 벨버디어와 한화리조트 해운대 등...",
+ "published_at": "2026-11-02T14:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "AU"
+  ],
+  "brands": [],
+  "companies": [
+   "한화리조트"
+  ],
+  "keywords": [
+   "호텔 어메니티",
+   "식물 유래 성분",
+   "시트러스 향"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한화리조트가 호주 뷰티 브랜드로 객실 어메니티를 바꿨다.",
+  "key_fact_quote": "호텔 객실에 호주 뷰티 브랜드…한화리조트, 어메니티 바꿨다",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "베르가모트",
+    "quote": "식물 유래 보습 성분을 활용했으며 베르가모트와 로즈메리 등 향료 오일을 사용해 시트러스 계열의 향을 구현했다."
+   },
+   {
+    "name": "로즈메리",
+    "quote": "식물 유래 보습 성분을 활용했으며 베르가모트와 로즈메리 등 향료 오일을 사용해 시트러스 계열의 향을 구현했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

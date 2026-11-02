@@ -1,0 +1,44 @@
+{
+ "doc_id": "9b778b21ab314f71",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026870",
+ "title": "\"먹고 바르는 유산균\"… hy, 스킨케어 진출, 이너뷰티·웰니스 시너지 낸...",
+ "summary": "| 내외경제TV=김슬빈 기자 | hy가 자체 개발한 유산균 발효 성분을 적용한 기능성 기초 화장품 5종을 새롭게 내놓고 화장품 사업 확장에 본격적으로 나섰다고 2일 밝혔다. 이번 신제품 군은 세안 직후 사용하는 원액형 보습...",
+ "published_at": "2026-11-02T21:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "유산균 발효 성분",
+   "기능성 기초 화장품",
+   "이너뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "hy가 유산균 발효 성분을 적용한 기초 화장품 5종을 내놓았다.",
+  "key_fact_quote": "hy가 자체 개발한 유산균 발효 성분을 적용한 기능성 기초 화장품 5종을 새롭게 내놓고 화장품 사업 확장에 본격적으로 나섰다고 2일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

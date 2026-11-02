@@ -1,0 +1,70 @@
+{
+ "doc_id": "c80bf1809cd40343",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100329",
+ "title": "윈게이트 손성민 대표, 홍콩 컨퍼런스 규제 세션서 발표",
+ "summary": "홍콩에서 열리는 ‘코스모프로프 아시아 2026(Cosmoprof Asia 2026)’에 글로벌 수출 규제 대응 컨설팅 기업 윈게이트코리아(주)(대표 손성민)가 참석한다. 손성민 대표는 11월 10일(화)과 11일(수) 아시아월드엑스포(AsiaWorld-Expo)에서 열리는 원료·포뮬레이션 심포지엄 ‘BIFA(Beauty Ingredients & Formulation Asia) 2026’의 규제 세션에서 좌장을 맡는다.BIFA 심포지엄은 Cosmoprof Asia Ltd가 주최하고 홍콩화장품화학자협회(HKSCC)가 공동 주관하는 원료",
+ "published_at": "2026-11-02T08:21:44+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "HK",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "윈게이트코리아",
+   "Cosmoprof Asia Ltd",
+   "로레알",
+   "지보단",
+   "시세이도",
+   "미벨 바이오케미스트리"
+  ],
+  "keywords": [
+   "글로벌 규제 대응",
+   "원료·포뮬레이션",
+   "그린워싱 규정"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "윈게이트코리아 대표가 홍콩 BIFA 심포지엄의 규제 세션에서 좌장을 맡는다.",
+  "key_fact_quote": "손성민 대표는 11월 10일(화)과 11일(수) 아시아월드엑스포(AsiaWorld-Expo)에서 열리는 원료·포뮬레이션 심포지엄 ‘BIFA(Beauty Ingredients & Formulation Asia) 2026’의 규제 세션에서 좌장을 맡는다.",
+  "events": [
+   {
+    "name": "BIFA(Beauty Ingredients & Formulation Asia) 2026",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-11",
+    "place": "아시아월드엑스포(AsiaWorld-Expo)",
+    "quote": "손성민 대표는 11월 10일(화)과 11일(수) 아시아월드엑스포(AsiaWorld-Expo)에서 열리는 원료·포뮬레이션 심포지엄 ‘BIFA(Beauty Ingredients & Formulation Asia) 2026’의 규제 세션에서 좌장을 맡는다."
+   },
+   {
+    "name": "From Lab to Market: Regulatory Challenges Across Regions",
+    "start_date": "2026-11-11",
+    "end_date": null,
+    "place": "아시아월드엑스포 2층 Room 201 A&B",
+    "quote": "손성민 대표는 행사 이틀째인 11일(수) 오후 4시 40분부터 5시 15분까지 아시아월드엑스포 2층 Room 201 A&B에서 열리는 마지막 세션 ‘From Lab to Market: Regulatory Challenges Across Regions’의 좌장을 맡는다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "사이클로펩타이드",
+    "quote": "마이크로바이옴, 사이클로펩타이드 등 펩타이드 기반 연구, AI를 활용한 제형 개발과 피부 분석, 롱제비티(Longevity) 스킨케어, 향료(Fragrance) 연구 등 다양한 주제가 다뤄질 예정이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

@@ -1,0 +1,48 @@
+{
+ "doc_id": "b947fa6d9e40ad26",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.dailypop.kr/news/articleView.html?idxno=104054",
+ "title": "가히·동국제약·리엔케이 등 뷰티업계, 소비자 접점 확대...코스맥스, ...",
+ "summary": "화장품 업계에서 기존 제품의 사용 불편을 줄인 신제품 출시와 소비자 접점 확대가 이어지고 있다. 물에 개거나 붙여야 했던 제품을 바르기만 하면 되는 제형으로 바꾼 신제품 이 나왔고, 블랙프라이데이 행사는 헤어...",
+ "published_at": "2026-11-02T17:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "가히",
+   "리엔케이"
+  ],
+  "companies": [
+   "동국제약",
+   "코스맥스"
+  ],
+  "keywords": [
+   "사용 편의 제형",
+   "블랙프라이데이",
+   "소비자 접점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 업계에서 사용 불편을 줄인 신제품과 소비자 접점 확대가 이어지고 있다.",
+  "key_fact_quote": "화장품 업계에서 기존 제품의 사용 불편을 줄인 신제품 출시와 소비자 접점 확대가 이어지고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:39:18+00:00",
+ "had_body": false
+}

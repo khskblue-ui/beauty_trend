@@ -1,0 +1,45 @@
+{
+ "doc_id": "255c0b1cab1f3bfc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.mtn.co.kr/article/2026110214382444593",
+ "title": "스킨케어 성장 공식 따르는 K헤어케어…성분으로 승부",
+ "summary": "신제품 200개를 출시 한다는 계획이다. 이 가운데 전략 제품 20개는 내년 프라임데이 이전에 선보일 예정이다. 신화숙 아마존 글로벌셀링 코리아 대표는 \"스킨케어만큼 큰 시장이 헤어 시장이지만, 헤어케어 내 K 뷰티 의...",
+ "published_at": "2026-11-03T06:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존"
+  ],
+  "keywords": [
+   "K-헤어케어",
+   "성분 중심 헤어케어",
+   "해외 판매"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-헤어케어가 스킨케어의 성장 공식을 따라 성분을 앞세워 해외 시장을 공략한다.",
+  "key_fact_quote": "신제품 200개를 출시 한다는 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

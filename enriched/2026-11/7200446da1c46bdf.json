@@ -1,0 +1,75 @@
+{
+ "doc_id": "7200446da1c46bdf",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100348",
+ "title": "마리엔메이, 싱가포르 ‘가디언’ 입점 동남아 오프라인 공략 속도",
+ "summary": "K-뷰티 스킨케어 브랜드 마리엔메이(Mary&May)가 싱가포르 대표 헬스앤뷰티(H&B) 체인 가디언(Guardian)에 공식 입점했다. 글로벌 온라인 시장에서 쌓은 인지도를 바탕으로 싱가포르 오프라인 매장까지 판매 채널을 넓힌 것이다. 가디언 매장에서는 ‘스피큘 PDRN 크림 3종’과 아이크림 등 주요 베스트셀러를 만날 수 있다. 소비자가 매장에서 제품을 직접 보고 고를 수 있도록 해, 온라인에서 쌓인 브랜드 경험을 실제 구매로 이어간다는 계획이다.가디언 입점의 대표 제품은 마리엔메이의 히어로 라인 ‘스피큘 PDRN 크림 3종(레",
+ "published_at": "2026-11-02T10:22:27+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "SG",
+   "KR"
+  ],
+  "brands": [
+   "마리엔메이"
+  ],
+  "companies": [
+   "가디언",
+   "그레이스"
+  ],
+  "keywords": [
+   "H&B 해외 입점",
+   "PDRN 스킨케어",
+   "K-클린 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "스피큘 PDRN 크림 3종",
+    "brand": "마리엔메이",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "마리엔메이가 싱가포르 가디언에 공식 입점했다.",
+  "key_fact_quote": "K-뷰티 스킨케어 브랜드 마리엔메이(Mary&May)가 싱가포르 대표 헬스앤뷰티(H&B) 체인 가디언(Guardian)에 공식 입점했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "마리엔메이의 히어로 라인 ‘스피큘 PDRN 크림 3종(레티놀·콜라겐·아젤라익)’이다."
+   },
+   {
+    "name": "레티놀",
+    "quote": "마리엔메이의 히어로 라인 ‘스피큘 PDRN 크림 3종(레티놀·콜라겐·아젤라익)’이다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "마리엔메이의 히어로 라인 ‘스피큘 PDRN 크림 3종(레티놀·콜라겐·아젤라익)’이다."
+   },
+   {
+    "name": "아젤라익",
+    "quote": "마리엔메이의 히어로 라인 ‘스피큘 PDRN 크림 3종(레티놀·콜라겐·아젤라익)’이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": true
+}

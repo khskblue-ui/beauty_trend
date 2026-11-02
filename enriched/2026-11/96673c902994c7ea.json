@@ -1,0 +1,97 @@
+{
+ "doc_id": "96673c902994c7ea",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosinkorea.com/news/article.html?no=58612",
+ "title": "코스모코스 알지쓰리, 홍삼 성분 강화한 '레드진생 RX' 두피 케어 6종 리뉴얼 출시",
+ "summary": "[코스인코리아닷컴 길태윤 기자]KT&G 계열사 코스모코스(대표이사 이정훈)가 두피 케어 브랜드 '알지쓰리(RGⅢ)'의 '레드진생' 라인을 리뉴얼한 '알지쓰리 레드진생 RX' 6종을 다이소에 출시했다. 알지쓰리는 코스모코스의 홍삼 연구와 헤어케어 기술을 바탕으로 한 두피·모발 케어 브랜드다. 홍삼 유래 진세노사이드를 활용하고 탈모증상 완화와 두피",
+ "published_at": "2026-11-02T12:53:07+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "알지쓰리"
+  ],
+  "companies": [
+   "코스모코스",
+   "KT&G",
+   "다이소"
+  ],
+  "keywords": [
+   "두피 케어",
+   "홍삼",
+   "탈모 증상 완화",
+   "맞춤형 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "알지쓰리 레드진생 RX",
+    "brand": "알지쓰리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "KT&G 계열사 코스모코스(대표이사 이정훈)가 두피 케어 브랜드 '알지쓰리(RGⅢ)'의 '레드진생' 라인을 리뉴얼한 '알지쓰리 레드진생 RX' 6종을 다이소에 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스칼프 버블앰플",
+    "brand": "알지쓰리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번 리뉴얼에서 새롭게 선보인 '스칼프 버블앰플'은 헹굼 없이 쓰는 거품형 두피 앰플이다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코스모코스가 홍삼 성분을 강화한 두피 케어 라인을 다이소에 새로 냈다.",
+  "key_fact_quote": "KT&G 계열사 코스모코스(대표이사 이정훈)가 두피 케어 브랜드 '알지쓰리(RGⅢ)'의 '레드진생' 라인을 리뉴얼한 '알지쓰리 레드진생 RX' 6종을 다이소에 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "프로 레드 진생 콤플렉스",
+    "quote": "리뉴얼의 핵심은 코스모코스가 독자 개발한 '프로 레드 진생 콤플렉스'다."
+   },
+   {
+    "name": "홍삼수",
+    "quote": "홍삼수에 홍삼 유래 PDRN(소듐디엔에이)을 배합한 성분으로, 두피 보습과 영양 공급에 초점을 맞췄다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "홍삼수에 홍삼 유래 PDRN(소듐디엔에이)을 배합한 성분으로, 두피 보습과 영양 공급에 초점을 맞췄다."
+   },
+   {
+    "name": "진세노사이드",
+    "quote": "홍삼 유래 진세노사이드를 활용하고 탈모증상 완화와 두피 환경 관리(두피 세정·각질·유분·보습·열감 관리)에 초점을 맞춘 것이 특징."
+   },
+   {
+    "name": "황해쑥잎추출물",
+    "quote": "황해쑥잎추출물, 감초뿌리추출물, 울금뿌리줄기추출물 등 시너지 부스터 성분도 함께 배합했다."
+   },
+   {
+    "name": "감초뿌리추출물",
+    "quote": "황해쑥잎추출물, 감초뿌리추출물, 울금뿌리줄기추출물 등 시너지 부스터 성분도 함께 배합했다."
+   },
+   {
+    "name": "울금뿌리줄기추출물",
+    "quote": "황해쑥잎추출물, 감초뿌리추출물, 울금뿌리줄기추출물 등 시너지 부스터 성분도 함께 배합했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": true
+}

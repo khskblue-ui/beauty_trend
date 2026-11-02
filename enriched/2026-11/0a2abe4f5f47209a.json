@@ -1,0 +1,45 @@
+{
+ "doc_id": "0a2abe4f5f47209a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611020158&t=NN",
+ "title": "쪼그라든 애경산업… K뷰티 날아갈 때 나홀로 '적자'",
+ "summary": "국내 뷰티 기업들은 미국과 일본, 유럽 등으로 수출 시장을 확대하며 성장세를 이어가는 것과 달리 애경산업은 기존 주력 시장인 중국에서 어려움을 겪고 있기 때문이다. 애경산업의 대표 화장품 브랜드인...",
+ "published_at": "2026-11-02T17:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "중국 시장",
+   "실적 부진"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "애경산업은 주력 시장인 중국에서 어려움을 겪으며 적자를 냈다.",
+  "key_fact_quote": "국내 뷰티 기업들은 미국과 일본, 유럽 등으로 수출 시장을 확대하며 성장세를 이어가는 것과 달리 애경산업은 기존 주력 시장인 중국에서 어려움을 겪고 있기 때문이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:08+00:00",
+ "had_body": false
+}

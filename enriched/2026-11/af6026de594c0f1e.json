@@ -1,0 +1,48 @@
+{
+ "doc_id": "af6026de594c0f1e",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100337",
+ "title": "라카 창업자 이민미·뷰티 크리에이터 민스코 손잡는다",
+ "summary": "국내 최초 젠더 뉴트럴 메이크업 브랜드 ‘라카(Laka)’를 창업했던 이민미 디렉터와 독보적인 영향력을 지닌 탑 뷰티 크리에이터 민스코가 손잡고 신규 색조 브랜드 론칭에 나선다. ‘브랜드 넥서스 그룹’ 어나더레이어(대표 문형락)는 두 핵심 인물을 주축으로 한 신규 법인 넌플래쉬(NUNFLASH Inc.)를 설립하고, 오는 2027년 론칭을 목표로 차세대 색조 브랜드 준비에 본격 돌입했다고 2일 밝혔다.이번 ‘넌플래쉬’의 출범은 K-뷰티 색조 분야에서 각자 뚜렷한 족적을 남겨온 두 주역의 전략적 결합이라는 점에서 주목을 받고 있다.‘",
+ "published_at": "2026-11-02T09:30:49+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라카",
+   "넌플래쉬"
+  ],
+  "companies": [
+   "어나더레이어",
+   "레페리"
+  ],
+  "keywords": [
+   "색조 브랜드",
+   "인플루언서 브랜드",
+   "젠더 뉴트럴 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "라카 창업자와 뷰티 크리에이터가 새 색조 브랜드를 위한 법인을 세웠다.",
+  "key_fact_quote": "‘브랜드 넥서스 그룹’ 어나더레이어(대표 문형락)는 두 핵심 인물을 주축으로 한 신규 법인 넌플래쉬(NUNFLASH Inc.)를 설립하고, 오는 2027년 론칭을 목표로 차세대 색조 브랜드 준비에 본격 돌입했다고 2일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": true
+}

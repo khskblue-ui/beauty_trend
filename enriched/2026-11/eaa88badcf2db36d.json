@@ -1,0 +1,44 @@
+{
+ "doc_id": "eaa88badcf2db36d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.betanews.net/article/view/beta202611020006",
+ "title": "지그재그, 뷰티 카테고리 확대",
+ "summary": "2022년 '직잭 뷰티 ' 론칭 후 립, 아이, 치크 등 색조 품목을 카테고리 성장의 주요 축으로 삼아왔으며, 색조를 넘어 기초케어까지 품목군을 다변화할 방침이다. 지그재그는 올해 하반기부터 관련 신규 브랜드 입점에 나서고...",
+ "published_at": "2026-11-02T08:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "지그재그"
+  ],
+  "keywords": [
+   "뷰티 플랫폼",
+   "기초케어",
+   "색조 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지그재그가 색조를 넘어 기초케어까지 뷰티 품목군을 넓힐 방침이다.",
+  "key_fact_quote": "색조를 넘어 기초케어까지 품목군을 다변화할 방침이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-02T21:37:07+00:00",
+ "had_body": false
+}
