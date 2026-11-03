@@ -1,0 +1,41 @@
+{
+ "doc_id": "118bb06e0f7818f9",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/spa-formulations-for-rebooting-rituals-115968",
+ "title": "Spa formulations for rebooting rituals",
+ "summary": "Formulations for spa products, from masks and scrubs to products to aid relaxation",
+ "published_at": "2026-11-03T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "other",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "스파 제품",
+   "마스크",
+   "스크럽",
+   "릴랙스 케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "마스크, 스크럽 등 스파 제품의 처방을 소개한다.",
+  "key_fact_quote": "Formulations for spa products, from masks and scrubs to products to aid relaxation",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

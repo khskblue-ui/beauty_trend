@@ -1,0 +1,47 @@
+{
+ "doc_id": "71258b04b840b146",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/wellness/phases-launches-women-focused-peptide-treatments-1239391316/",
+ "title": "Phases Launches With Women-Focused Peptide Treatments",
+ "summary": "Phases, founded by husband-and-wife team Lana and Joseph Elie-Meyers, debuts with nine peptide-based treatments tailored to women’s health needs.",
+ "published_at": "2026-11-03T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Phases"
+  ],
+  "companies": [],
+  "keywords": [
+   "펩타이드 트리트먼트",
+   "여성 건강",
+   "신규 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Phases가 여성 건강에 맞춘 펩타이드 기반 트리트먼트로 출시했다.",
+  "key_fact_quote": "Phases, founded by husband-and-wife team Lana and Joseph Elie-Meyers, debuts with nine peptide-based treatments tailored to women’s health needs.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "peptide",
+    "quote": "Phases, founded by husband-and-wife team Lana and Joseph Elie-Meyers, debuts with nine peptide-based treatments tailored to women’s health needs."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

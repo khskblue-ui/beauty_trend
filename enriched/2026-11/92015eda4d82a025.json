@@ -1,0 +1,48 @@
+{
+ "doc_id": "92015eda4d82a025",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fntimes.com/html/view.php?ud=202611031613397515b5b890e35c_18",
+ "title": "LG생활건강, 3분기 영업이익 52.4% 증가…뷰티 적자폭 축소",
+ "summary": "면세 채널 회복에 힘입어 럭셔리 화장품 브랜드 ‘더후’의 매출이 성장세로 돌아섰다. 닥터그루트와... LG생활건강은 신제품 출시를 통해 생활용품 시장 내 경쟁력도 강화하고 있다. 온더바디는 여름철 한정판...",
+ "published_at": "2026-11-03T16:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더후",
+   "닥터그루트",
+   "온더바디"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "면세 채널 회복",
+   "럭셔리 화장품",
+   "실적 개선"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "면세 채널이 살아나며 더후의 매출이 성장세로 돌아섰다.",
+  "key_fact_quote": "면세 채널 회복에 힘입어 럭셔리 화장품 브랜드 ‘더후’의 매출이 성장세로 돌아섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

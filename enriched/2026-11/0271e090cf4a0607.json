@@ -1,0 +1,64 @@
+{
+ "doc_id": "0271e090cf4a0607",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/fareva-in-france-and-chromavis-in,28457",
+ "title": "Fareva in France and Chromavis in Italy join forces in high-end skincare",
+ "summary": "Fareva and Chromavis are combining their scientific, formulation and creative expertise to develop new skincare concepts, bringing together advanced skin science and Italian creativity. The collaboration within the Fareva group aims to leverage Chromavis' expertise in product design, innovative textures and sensorial experiences with Fareva's formulation and skincare development capabilities in France. The partnership aims to explore new approaches to high-end skincare, with a focus on... - Industry buzz",
+ "published_at": "2026-11-03T05:26:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "IT"
+  ],
+  "brands": [],
+  "companies": [
+   "Fareva",
+   "Chromavis"
+  ],
+  "keywords": [
+   "하이엔드 스킨케어",
+   "제형 기술",
+   "기능성 원료",
+   "텍스처"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Fareva와 Chromavis가 하이엔드 스킨케어 콘셉트를 함께 개발한다.",
+  "key_fact_quote": "Fareva and Chromavis are combining their scientific, formulation and creative expertise to develop new skincare concepts, bringing together advanced skin science and Italian creativity.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "eco-collagen",
+    "quote": "The concepts also incorporate next-generation functional ingredients such as eco-collagen, plumping tripeptides, fermented plant-derived sugars and biotech vegan PDRN."
+   },
+   {
+    "name": "plumping tripeptides",
+    "quote": "The concepts also incorporate next-generation functional ingredients such as eco-collagen, plumping tripeptides, fermented plant-derived sugars and biotech vegan PDRN."
+   },
+   {
+    "name": "fermented plant-derived sugars",
+    "quote": "The concepts also incorporate next-generation functional ingredients such as eco-collagen, plumping tripeptides, fermented plant-derived sugars and biotech vegan PDRN."
+   },
+   {
+    "name": "biotech vegan PDRN",
+    "quote": "The concepts also incorporate next-generation functional ingredients such as eco-collagen, plumping tripeptides, fermented plant-derived sugars and biotech vegan PDRN."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

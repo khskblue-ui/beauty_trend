@@ -1,0 +1,55 @@
+{
+ "doc_id": "f1c161b1d0a53b02",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039720",
+ "title": "11월 5일 막 오르는 '2026 뷰티 썸 수원'",
+ "summary": "3회차인 지난해엔 84건, 560만달러 상당의 수출 상담 실적을 올리며 실질적인 성과를 일궜다.... 수원시는 뷰티 산업을 차별화하고, K - 뷰티 경쟁력을 확보하기 위해 뷰티 썸 수원의 무게중심을 산업 부문에 집중시켰다....",
+ "published_at": "2026-11-03T17:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CN",
+   "JP",
+   "TH"
+  ],
+  "brands": [
+   "LYSEVE"
+  ],
+  "companies": [
+   "수원컨벤션센터",
+   "메쎄이상",
+   "INBA Thailand",
+   "씨케이앤비",
+   "셀위버스"
+  ],
+  "keywords": [
+   "화장품 전시회",
+   "정품인증 솔루션",
+   "바디케어",
+   "K뷰티 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "4647c45bd7ac9dbb",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

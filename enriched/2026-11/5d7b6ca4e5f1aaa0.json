@@ -1,0 +1,49 @@
+{
+ "doc_id": "5d7b6ca4e5f1aaa0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88831",
+ "title": "LG생활건강, 3분기 영업익 704억 전년비 52.4%↑…\"뷰티 적자 축소가 실...",
+ "summary": "LG생활건강은 더후의 '비첩 NAD 파워 앰풀'을 중심으로 프리미엄 화장품 사업을 강화하고, 유시몰의 '화이트닝 퍼플코렉터 세럼 치약' 등 신제품 을 출시하며 브랜드별 제품군을 확대하고 있다. 해외사업에서는 북미...",
+ "published_at": "2026-11-03T16:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "유시몰",
+   "닥터그루트",
+   "힌스"
+  ],
+  "companies": [
+   "LG생활건강",
+   "비바웨이브"
+  ],
+  "keywords": [
+   "뷰티 적자 축소",
+   "세럼 치약"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "e297693f96051345",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

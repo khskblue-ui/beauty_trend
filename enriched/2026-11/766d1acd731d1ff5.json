@@ -1,0 +1,43 @@
+{
+ "doc_id": "766d1acd731d1ff5",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/santa-maria-novella-ceo-roberto-pesenti-new-general-manager-1239396303/",
+ "title": "EXCLUSIVE: Officina Profumo-Farmaceutica di Santa Maria Novella Names CEO, General Manager",
+ "summary": "Roberto Pesenti has been appointed CEO of the historic Florentine beauty brand, and will be joined by Marco Barberini in the newly created role of general manager.",
+ "published_at": "2026-11-03T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "IT"
+  ],
+  "brands": [
+   "Officina Profumo-Farmaceutica di Santa Maria Novella"
+  ],
+  "companies": [],
+  "keywords": [
+   "경영진 인사",
+   "역사 있는 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "피렌체의 역사 있는 뷰티 브랜드가 새 CEO와 총괄 매니저를 임명했다.",
+  "key_fact_quote": "Roberto Pesenti has been appointed CEO of the historic Florentine beauty brand, and will be joined by Marco Barberini in the newly created role of general manager.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

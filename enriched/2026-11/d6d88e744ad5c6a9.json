@@ -1,0 +1,44 @@
+{
+ "doc_id": "d6d88e744ad5c6a9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=203250",
+ "title": "에스아이피, 화성 신공장 착공... 화장품 패키징 생산·연구개발 역량 ...",
+ "summary": "제품 기획과 디자인, 연구개발, 생산 현장 간 협업을 강화해 신제품 개발 기간을 줄이고 고객사별 맞춤형 패키징 솔루션을 개발하는 데 집중할 계획이다. 최근 화장품 패키징 시장에서는 내용물을 담는 기능을 넘어...",
+ "published_at": "2026-11-03T22:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에스아이피"
+  ],
+  "keywords": [
+   "화장품 패키징",
+   "맞춤형 패키징",
+   "신공장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에스아이피가 신공장을 지어 맞춤형 패키징 개발에 집중한다.",
+  "key_fact_quote": "제품 기획과 디자인, 연구개발, 생산 현장 간 협업을 강화해 신제품 개발 기간을 줄이고 고객사별 맞춤형 패키징 솔루션을 개발하는 데 집중할 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

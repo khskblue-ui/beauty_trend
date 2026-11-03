@@ -1,0 +1,91 @@
+{
+ "doc_id": "dcc201a15b4f0c0c",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58643",
+ "title": "에이피알, 메디큐브 ‘부스터 프로 X2’ 美·유럽 팝업에 1만5000여 명 방문",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 에이피알(대표이사 김병훈)은 메디큐브가 미국과 유럽 4개 도시에서 진행한 첫 글로벌 릴레이 팝업스토어에 1만5000여 명이 다녀갔다고 3일 밝혔다. ‘메디큐브 웰니스 클럽 X2(medicube Wellness Club X2)’는 뉴욕에서 지난 9월 10일부터 12일까지 열…",
+ "published_at": "2026-11-03T11:48:44+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "GB",
+   "FR",
+   "ES",
+   "KR"
+  ],
+  "brands": [
+   "메디큐브",
+   "에이지알"
+  ],
+  "companies": [
+   "에이피알",
+   "PRIMOR"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "글로벌 팝업스토어",
+   "홈 뷰티 기기"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "부스터 프로 X2",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에이피알은 미국과 유럽 시장에서 판로를 넓히는 가운데 현지에 새롭게 선보인 메디큐브 에이지알(AGE-R) ‘부스터 프로 X2’를 알리고 뷰티 디바이스 기술을 소개하기 위해 행사를 마련했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "메디큐브가 미국과 유럽 도시를 잇는 첫 글로벌 릴레이 팝업을 열었다.",
+  "key_fact_quote": "에이피알(대표이사 김병훈)은 메디큐브가 미국과 유럽 4개 도시에서 진행한 첫 글로벌 릴레이 팝업스토어에 1만5000여 명이 다녀갔다고 3일 밝혔다.",
+  "events": [
+   {
+    "name": "메디큐브 웰니스 클럽 X2",
+    "start_date": "2026-09-10",
+    "end_date": "2026-09-12",
+    "place": "뉴욕",
+    "quote": "‘메디큐브 웰니스 클럽 X2(medicube Wellness Club X2)’는 뉴욕에서 지난 9월 10일부터 12일까지 열린 뒤 로스앤젤레스(9월 25~27일), 런던(10월 9~11일), 파리(10월 23·24·26일)로 이어졌다."
+   },
+   {
+    "name": "메디큐브 웰니스 클럽 X2",
+    "start_date": "2026-09-25",
+    "end_date": "2026-09-27",
+    "place": "로스앤젤레스",
+    "quote": "‘메디큐브 웰니스 클럽 X2(medicube Wellness Club X2)’는 뉴욕에서 지난 9월 10일부터 12일까지 열린 뒤 로스앤젤레스(9월 25~27일), 런던(10월 9~11일), 파리(10월 23·24·26일)로 이어졌다."
+   },
+   {
+    "name": "메디큐브 웰니스 클럽 X2",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-11",
+    "place": "런던",
+    "quote": "‘메디큐브 웰니스 클럽 X2(medicube Wellness Club X2)’는 뉴욕에서 지난 9월 10일부터 12일까지 열린 뒤 로스앤젤레스(9월 25~27일), 런던(10월 9~11일), 파리(10월 23·24·26일)로 이어졌다."
+   },
+   {
+    "name": "메디큐브 웰니스 클럽 X2",
+    "start_date": "2026-10-23",
+    "end_date": "2026-10-26",
+    "place": "파리",
+    "quote": "‘메디큐브 웰니스 클럽 X2(medicube Wellness Club X2)’는 뉴욕에서 지난 9월 10일부터 12일까지 열린 뒤 로스앤젤레스(9월 25~27일), 런던(10월 9~11일), 파리(10월 23·24·26일)로 이어졌다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

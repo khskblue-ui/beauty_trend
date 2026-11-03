@@ -1,0 +1,53 @@
+{
+ "doc_id": "29f7b35ae14e3605",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58652",
+ "title": "2026년 글로벌 화장품 규제 동향 세미나(6차)... 이커머스 요구 사항 대응 전략 소개",
+ "summary": "[코스인코리아닷컴 길태윤 기자]대한화장품산업연구원은 오는 11월 18일 수요일 서울 스페이스쉐어 강남센터 쥬피터홀에서 \"2026년 글로벌 화장품 규제 동향 세미나(6차)\" 를 개최한다고 밝혔다. 해당 세미나는 국내 화장품 기업의 주요 수출국인 미국 및 EU에 대한 규제와 이커머스 요구사항을 이해하…",
+ "published_at": "2026-11-03T21:50:43+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원"
+  ],
+  "keywords": [
+   "화장품 규제",
+   "MoCRA",
+   "이커머스 컴플라이언스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한화장품산업연구원이 미국과 EU 화장품 규제를 다루는 세미나를 연다.",
+  "key_fact_quote": "대한화장품산업연구원은 오는 11월 18일 수요일 서울 스페이스쉐어 강남센터 쥬피터홀에서 \"2026년 글로벌 화장품 규제 동향 세미나(6차)\" 를 개최한다고 밝혔다.",
+  "events": [
+   {
+    "name": "2026년 글로벌 화장품 규제 동향 세미나(6차)",
+    "start_date": "2026-11-18",
+    "end_date": null,
+    "place": "서울 스페이스쉐어 강남센터 쥬피터홀",
+    "quote": "대한화장품산업연구원은 오는 11월 18일 수요일 서울 스페이스쉐어 강남센터 쥬피터홀에서 \"2026년 글로벌 화장품 규제 동향 세미나(6차)\" 를 개최한다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

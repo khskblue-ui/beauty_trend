@@ -1,0 +1,44 @@
+{
+ "doc_id": "63fffa588f271504",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100356",
+ "title": "에스아이피(SIP), 화성시 신공장 착공, 첨단 생산시설 및 R&D 연구소 구축",
+ "summary": "화장품 및 플라스틱 용기 전문기업 ㈜에스아이피(SIP)가 경기도 화성시 송산면에 신공장 건립을 본격 추진하며 새로운 도약에 나섰다.에스아이피는 지난 10월 30일 경기도 시흥시 배곧 소재 '좋은교회' 박요셉 담임목사와 교회 성도들, EJ Pack 은진 및 SIP 임직원들이 참석한 가운데 신공장 착공 감사예배를 가졌다.이번 착공 감사예배는 신공장 건립의 성공적인 추진과 안전한 공사 진행을 기원하고, 회사의 새로운 출발을 함께 축하하는 뜻깊은 자리로 마련됐다.신공장은 경기도 화성시 송산면 사강리 366-3번지에 대지면적",
+ "published_at": "2026-11-03T09:42:01+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에스아이피"
+  ],
+  "keywords": [
+   "화장품 패키징",
+   "친환경 패키징",
+   "에어리스 용기"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에스아이피가 화성시에 신공장을 지어 패키징 생산과 연구개발을 한곳에 모은다.",
+  "key_fact_quote": "화장품 및 플라스틱 용기 전문기업 ㈜에스아이피(SIP)가 경기도 화성시 송산면에 신공장 건립을 본격 추진하며 새로운 도약에 나섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

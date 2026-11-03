@@ -1,0 +1,57 @@
+{
+ "doc_id": "d73c34c7112a123a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451002",
+ "title": "애경산업 자체 메이크업 브랜드 '루나', 메이크업 도구 브랜드 '피카소...",
+ "summary": "애경산업은 3일 자체 메이크업 브랜드 '루나'가 피카소와 협업한 '피카소 콜라보 에디션' 3종을 출시 했다고... 이번 협업 제품은 루나의 화장품 에 피카소가 제품 특성에 맞춰 개발한 메이크업 퍼프(스펀지)를 함께 구성한...",
+ "published_at": "2026-11-03T10:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "루나",
+   "피카소"
+  ],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "메이크업 협업",
+   "메이크업 도구",
+   "콜라보 에디션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "피카소 콜라보 에디션",
+    "brand": "루나",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "애경산업은 3일 자체 메이크업 브랜드 '루나'가 피카소와 협업한 '피카소 콜라보 에디션' 3종을 출시 했다고",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "애경산업의 루나가 피카소와 함께 화장품과 퍼프를 묶은 협업 제품을 냈다.",
+  "key_fact_quote": "이번 협업 제품은 루나의 화장품 에 피카소가 제품 특성에 맞춰 개발한 메이크업 퍼프(스펀지)를 함께 구성한...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

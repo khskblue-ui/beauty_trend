@@ -1,0 +1,51 @@
+{
+ "doc_id": "0eb74a06a651a5d7",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100357",
+ "title": "NIQ 조사, 남성 외모 관심 증가…36% ‘최상의 모습 중요해져’",
+ "summary": "글로벌 소비자 인텔리전스 기업 닐슨IQ(NIQ)의 최신 글로벌 보고서에 따르면, 전 세계 남성들의 뷰티 및 스킨케어에 대한 관심이 눈에 띄게 증가하고 있다. 조사 대상 남성의 36%는 5년 전보다 ‘최상의 외모를 유지하는 것’이 더 중요해졌다고 답했으며, 54%는 ‘건강한 노화(웰에이징)’의 중요성이 커졌다고 응답했다.특히 이러한 태도 변화는 국가별로 차이를 보여, 인도(69%), 멕시코(63%), UAE(57%) 등에서 외모 관리의 중요성을 높게 인식한 반면, 미국(37%), 영국(22%), 독일(17%)은 상대적으로 낮은 수치를",
+ "published_at": "2026-11-03T09:53:18+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "IN",
+   "MX",
+   "AE",
+   "US",
+   "GB",
+   "DE"
+  ],
+  "brands": [],
+  "companies": [
+   "닐슨IQ",
+   "NIQ"
+  ],
+  "keywords": [
+   "남성 뷰티",
+   "성별 무관 스킨케어",
+   "건강한 노화",
+   "성분 중심 소비"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "남성의 뷰티 관심이 커지지만 남성용 표시 제품이 가장 큰 수혜를 받지는 않는다.",
+  "key_fact_quote": "글로벌 소비자 인텔리전스 기업 닐슨IQ(NIQ)의 최신 글로벌 보고서에 따르면, 전 세계 남성들의 뷰티 및 스킨케어에 대한 관심이 눈에 띄게 증가하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

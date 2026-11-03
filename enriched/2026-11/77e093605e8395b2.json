@@ -1,0 +1,46 @@
+{
+ "doc_id": "77e093605e8395b2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.econonews.co.kr/news/articleView.html?idxno=446634",
+ "title": "루나, 메이크업 툴 브랜드 피카소와 협업…콜라보 에디션 3종 출시",
+ "summary": "3종'을 출시 한다고 3일 밝혔다. 협업 제품은 '롱래스팅 컨실 쿠션', '컨실 블렌더 팔레트', '멜티드 치크밤' 등 3종이다. 색조 화장품 브랜드와 메이크업 도구 전문 브랜드가 각자의 기술과 노하우를 결합해 제품의 활용도를...",
+ "published_at": "2026-11-03T15:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "루나",
+   "피카소"
+  ],
+  "companies": [],
+  "keywords": [
+   "브랜드 협업",
+   "메이크업 툴",
+   "베이스 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "09b1adb0cad53fab",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

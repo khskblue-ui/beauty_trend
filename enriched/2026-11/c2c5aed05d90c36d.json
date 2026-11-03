@@ -1,0 +1,102 @@
+{
+ "doc_id": "c2c5aed05d90c36d",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/roc-skincare-aims-to-rank-among,28462",
+ "title": "RoC Skincare aims to rank among France's top 3 anti-aging brands",
+ "summary": "Two years after its comeback to the French market, dermocosmetics brand RoC Skincare achieved 500% sell-out growth in 2025, and is forecasting a 200% increase in 2026. This performance reflects an ambitious relaunch strategy across Europe. Read on for more. Two years ago, Julien Pasquini took the reins of RoC Skincare France, a hypoallergenic skincare brand that pioneered the stabilization and incorporation of retinol into formulas designed for the mass market. “We aim to establish RoC... - Companies & industry",
+ "published_at": "2026-11-03T08:15:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "US",
+   "CA",
+   "AU"
+  ],
+  "brands": [
+   "RoC Skincare"
+  ],
+  "companies": [
+   "Bridgepoint",
+   "Gryphon Investors",
+   "Johnson & Johnson"
+  ],
+  "keywords": [
+   "더모코스메틱",
+   "안티에이징",
+   "레티놀",
+   "약국 채널"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Triple Serum",
+    "brand": "RoC Skincare",
+    "launch_date": "2026-10",
+    "launch_status": "launched",
+    "launch_quote": "Launched in October 2026, the Triple Serum combines retinol, hyaluronic acid and PDRN derived from ginseng.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Lip Volumizer",
+    "brand": "RoC Skincare",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "facial serum sticks",
+    "brand": "RoC Skincare",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Keops deodorant range",
+    "brand": "RoC Skincare",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "RoC Skincare가 프랑스에서 상위 안티에이징 더모코스메틱 브랜드 자리를 노리며 재도약하고 있다.",
+  "key_fact_quote": "Two years after its comeback to the French market, dermocosmetics brand RoC Skincare achieved 500% sell-out growth in 2025, and is forecasting a 200% increase in 2026.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "retinol",
+    "quote": "Launched in October 2026, the Triple Serum combines retinol, hyaluronic acid and PDRN derived from ginseng."
+   },
+   {
+    "name": "hyaluronic acid",
+    "quote": "Launched in October 2026, the Triple Serum combines retinol, hyaluronic acid and PDRN derived from ginseng."
+   },
+   {
+    "name": "PDRN",
+    "quote": "Launched in October 2026, the Triple Serum combines retinol, hyaluronic acid and PDRN derived from ginseng."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

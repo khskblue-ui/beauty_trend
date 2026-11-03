@@ -1,0 +1,59 @@
+{
+ "doc_id": "3bcea5bf03a4f405",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100368",
+ "title": "티르티르, 포브스코리아 ‘고객신뢰도 1위’ 대상 수상",
+ "summary": "글로벌 메이크업 브랜드 티르티르(TIRTIR)가 포브스코리아가 선정한 ‘2026 고객신뢰도 1위 프리미엄 브랜드 대상’에서 쿠션·베이스 메이크업 부문 대상을 수상했다.‘고객신뢰도 1위 프리미엄 브랜드 대상’은 소비자 리서치와 빅데이터 분석을 비롯해 브랜드 경쟁력과 고객 신뢰도, 브랜드의 미래 가치 및 대내외 평가 등을 종합적으로 고려해 각 부문별 우수 브랜드를 선정하는 시상이다. 티르티르는 쿠션·베이스 메이크업 부문에서 대상을 수상하며 제품 경쟁력과 브랜드 가치를 인정받았다.티르티르는 소비자 니즈를 반영한 제품 개발과 차별화된 제품",
+ "published_at": "2026-11-03T13:32:39+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "AE"
+  ],
+  "brands": [
+   "티르티르"
+  ],
+  "companies": [
+   "포브스코리아",
+   "얼타뷰티"
+  ],
+  "keywords": [
+   "쿠션 파운데이션",
+   "베이스 메이크업",
+   "글로벌 유통 확대"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "마스크 핏 레드 쿠션",
+    "brand": "티르티르",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "티르티르가 포브스코리아의 고객신뢰도 대상에서 쿠션·베이스 메이크업 부문 대상을 받았다.",
+  "key_fact_quote": "글로벌 메이크업 브랜드 티르티르(TIRTIR)가 포브스코리아가 선정한 ‘2026 고객신뢰도 1위 프리미엄 브랜드 대상’에서 쿠션·베이스 메이크업 부문 대상을 수상했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "8f33ab465b304010",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=879454",
+ "title": "경산의 빛깔 담은 K - 뷰티 , 시민 품으로 다가선다",
+ "summary": "경산시는 글로벌 코스메틱 비즈니스센터를 중심으로 연구개발부터 생산· 수출 까지 지원 체계를 강화한다. 산학연 협력을 바탕으로 경산을 화장품 제조 도시이자 K - 뷰티 산업 거점으로 육성할 계획이다.",
+ "published_at": "2026-11-03T18:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 산업 거점",
+   "화장품 제조 도시",
+   "수출 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "경산시가 연구개발부터 수출까지 화장품 산업 지원 체계를 강화한다.",
+  "key_fact_quote": "경산시는 글로벌 코스메틱 비즈니스센터를 중심으로 연구개발부터 생산· 수출 까지 지원 체계를 강화한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

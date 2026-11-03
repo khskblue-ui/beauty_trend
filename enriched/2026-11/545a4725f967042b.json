@@ -1,0 +1,45 @@
+{
+ "doc_id": "545a4725f967042b",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312567",
+ "title": "10월 티몰 K-뷰티 선케어 분석②: 판매량 34.4% 감소…2년째 역성장 - 뷰티경제",
+ "summary": "[편집자 주] 뷰티경제는 2019년부터 중국 티몰(Tmall) 한국관의 K-뷰티 8개 주요 품목의 판매 데이터를 추적·분석하고 있다. 이번 기사에서는 선케어 카테",
+ "published_at": "2026-11-03T09:50:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "티몰"
+  ],
+  "keywords": [
+   "티몰 K뷰티",
+   "선케어",
+   "중국 시장 역성장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "티몰의 K뷰티 선케어 판매량이 2년째 줄었다.",
+  "key_fact_quote": "10월 티몰 K-뷰티 선케어 분석②: 판매량 34.4% 감소…2년째 역성장 - 뷰티경제",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

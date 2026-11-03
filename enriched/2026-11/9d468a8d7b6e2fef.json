@@ -1,0 +1,63 @@
+{
+ "doc_id": "9d468a8d7b6e2fef",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/aros-group-unveils-a-hinged-paper,28454",
+ "title": "Aros Group unveils a hinged paper makeup case with an adjustable mirror",
+ "summary": "Aros Group, formerly known as Jujin New York, received two distinctions at the 2026 Pentawards for Paper Palette, a paper-based compact built around a proprietary, patent-pending hinge that holds the lid, and its mirror, steady at any angle the user chooses. The result brings the precise, confident movement of a premium compact to a mono-material paper structure designed for circularity. Aros Group's Paper Palette has won two Pentawards 2026 distinctions: Silver in Supplier Innovation of... - Industry buzz",
+ "published_at": "2026-11-02T19:18:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "US",
+   "GB"
+  ],
+  "brands": [],
+  "companies": [
+   "Aros Group"
+  ],
+  "keywords": [
+   "종이 패키징",
+   "지속가능 패키징",
+   "메이크업 컴팩트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Paper Palette",
+    "brand": "Aros Group",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Aros Group unveils a hinged paper makeup case with an adjustable mirror",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Aros Group이 종이로 만든 메이크업 컴팩트로 상을 받았다.",
+  "key_fact_quote": "Aros Group’s Paper Palette has won two Pentawards 2026 distinctions: Silver in Supplier Innovation of the Year and Bronze in Sustainable Design - Body, Health and Beauty.",
+  "events": [
+   {
+    "name": "Pentawards 2026",
+    "start_date": "2026-10-16",
+    "end_date": null,
+    "place": "Magazine London",
+    "quote": "The awards were presented at the gala ceremony at Magazine London on October 16."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

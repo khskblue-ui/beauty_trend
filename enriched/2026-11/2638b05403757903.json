@@ -1,0 +1,58 @@
+{
+ "doc_id": "2638b05403757903",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100369",
+ "title": "IBITA, ‘2026 인코스메틱스 아시아’ 한국관 참가",
+ "summary": "국제뷰티산업교역협회(IBITA·회장 윤주택)가 한국 화장품 산업의 우수한 원료 및 기술 경쟁력을 앞세워 글로벌 시장 공략에 나섰다. IBITA는 현지 시각으로 11월 3일부터 5일까지 태국 방콕 BITEC(Bangkok International Trade & Exhibition Centre)에서 열리는 아시아 최대 화장품 원료 전문 박람회 ‘2026 인코스메틱스 아시아(in-cosmetics Asia 2026)’에 15년 연속 한국관을 구성하여 직접 지원, 운영한다고 밝혔다.‘인코스메틱스 아시아’는 아시아·태평양 지역을 대표하는 글",
+ "published_at": "2026-11-03T14:26:32+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "IBITA"
+  ],
+  "keywords": [
+   "화장품 원료 박람회",
+   "한국관",
+   "K뷰티 해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "IBITA가 태국에서 열리는 화장품 원료 박람회에 한국관을 운영한다.",
+  "key_fact_quote": "IBITA는 현지 시각으로 11월 3일부터 5일까지 태국 방콕 BITEC(Bangkok International Trade & Exhibition Centre)에서 열리는 아시아 최대 화장품 원료 전문 박람회 ‘2026 인코스메틱스 아시아(in-cosmetics Asia 2026)’에 15년 연속 한국관을 구성하여 직접 지원, 운영한다고 밝혔다.",
+  "events": [
+   {
+    "name": "2026 인코스메틱스 아시아",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-05",
+    "place": "태국 방콕 BITEC",
+    "quote": "IBITA는 현지 시각으로 11월 3일부터 5일까지 태국 방콕 BITEC(Bangkok International Trade & Exhibition Centre)에서 열리는 아시아 최대 화장품 원료 전문 박람회 ‘2026 인코스메틱스 아시아(in-cosmetics Asia 2026)’에 15년 연속 한국관을 구성하여 직접 지원, 운영한다고 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "펩타이드",
+    "quote": "올해 행사에는 730개 이상의 글로벌 기업이 참가해 바이오테크놀로지, 펩타이드, 차세대 활성 성분, 지속 가능한 원료, 멀티센서리 뷰티 등 미래 화장품 산업의 핵심 기술을 선보였다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

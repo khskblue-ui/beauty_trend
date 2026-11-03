@@ -1,0 +1,55 @@
+{
+ "doc_id": "712ba6b66412bac0",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/ouai-enters-fragrance-wearables-heaven-mayhem-collaboration",
+ "title": "Ouai enters fragrance wearables through Heaven Mayhem jewellery collaboration",
+ "summary": "Jen Atkin’s hair and body care brand, Ouai, has partnered with accessories and lifestyle brand Heaven Mayhem to launch a collection of amulets which reimagine how fragrance is worn",
+ "published_at": "2026-11-03T20:02:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Ouai",
+   "Heaven Mayhem"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 웨어러블",
+   "주얼리 협업",
+   "향 아뮬렛"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "collection of amulets",
+    "brand": "Ouai",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Ouai가 Heaven Mayhem과 손잡고 향을 지니는 방식을 새로 해석한 아뮬렛 컬렉션을 낸다.",
+  "key_fact_quote": "Jen Atkin’s hair and body care brand, Ouai, has partnered with accessories and lifestyle brand Heaven Mayhem to launch a collection of amulets which reimagine how fragrance is worn",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

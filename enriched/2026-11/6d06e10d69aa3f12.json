@@ -1,0 +1,45 @@
+{
+ "doc_id": "6d06e10d69aa3f12",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=361785",
+ "title": "hy, 뷰티브랜드 '아이오셀' 론칭… 균주기술 영역 확장",
+ "summary": "5종을 출시 했다고 3일 밝혔다. 브랜드 콘셉트는 '오직 본질에 집중한다(Only the Essential)'로, 피부 본연... hy는 5100여종 균주를 보유하고 있으며, 자체 개발 프로바이오틱스와 천연물 소재를 건강기능식품· 화장품 ...",
+ "published_at": "2026-11-03T14:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오셀"
+  ],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "균주 기술",
+   "프로바이오틱스 화장품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "hy가 균주 기술을 앞세운 뷰티 브랜드 아이오셀을 선보였다.",
+  "key_fact_quote": "hy, 뷰티브랜드 '아이오셀' 론칭… 균주기술 영역 확장",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

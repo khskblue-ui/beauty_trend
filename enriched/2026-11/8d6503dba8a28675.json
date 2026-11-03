@@ -1,0 +1,43 @@
+{
+ "doc_id": "8d6503dba8a28675",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91387",
+ "title": "서울 중소기업, 오만서 중동시장 공략 … K - 뷰티 ·푸드 등 30개사 진출",
+ "summary": "분야별로는 뷰티 기업이 26개사로 가장 많고, 푸드 3개사와 패션 1개사가 뒤를 이었다. 중동시장 진출에 처음... 실질적인 수출 성과로 이어지도록 지원하겠다\"고 말했다. 이번 사업은 해외 진출 초기 단계에서 중소기업이...",
+ "published_at": "2026-11-03T10:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "OM"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "중동 진출",
+   "K뷰티 수출",
+   "중소기업 해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "서울 중소기업이 오만에서 중동시장 공략에 나섰고 뷰티 기업이 가장 많다.",
+  "key_fact_quote": "분야별로는 뷰티 기업이 26개사로 가장 많고, 푸드 3개사와 패션 1개사가 뒤를 이었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:36:42+00:00",
+ "had_body": false
+}

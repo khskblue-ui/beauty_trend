@@ -1,0 +1,73 @@
+{
+ "doc_id": "0d180eba510eeba5",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100361",
+ "title": "아모레퍼시픽, 제2회 ‘설화수 롱제비티 심포지엄’ 개최",
+ "summary": "아모레퍼시픽이 지난 2일 서울 아모레퍼시픽 세계 본사에서 제2회 ‘설화수 롱제비티 심포지엄(Sulwhasoo Longevity Symposium)’을 개최했다.지난해 미국 뉴욕에서 처음 열린 데 이어 두 번째로 마련된 이번 심포지엄에는 존스홉킨스 의과대학과 중국 교수진, 아모레퍼시픽 연구진이 참여해 피부 노화와 면역, 피부 구조 및 세포 기능에 관한 최신 연구 성과를 공유했다.‘인삼 과학을 통한 피부 장수 연구(Exploring Skin Longevity through Ginseng Science)’를 주제로 열린 이번 심포지엄의",
+ "published_at": "2026-11-03T10:30:28+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "피부 장수",
+   "세포 정체성",
+   "인삼 과학"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아모레퍼시픽이 피부 노화를 세포 정체성 관점에서 살핀 심포지엄을 열었다.",
+  "key_fact_quote": "아모레퍼시픽이 지난 2일 서울 아모레퍼시픽 세계 본사에서 제2회 ‘설화수 롱제비티 심포지엄(Sulwhasoo Longevity Symposium)’을 개최했다.",
+  "events": [
+   {
+    "name": "설화수 롱제비티 심포지엄",
+    "start_date": "2026-11-02",
+    "end_date": null,
+    "place": "서울 아모레퍼시픽 세계 본사",
+    "quote": "아모레퍼시픽이 지난 2일 서울 아모레퍼시픽 세계 본사에서 제2회 ‘설화수 롱제비티 심포지엄(Sulwhasoo Longevity Symposium)’을 개최했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "진세노믹스™",
+    "quote": "상하이시 피부병 병원(Shanghai Skin Disease Hospital)의 위안차오(Yuan Chao) 교수는 염증 반응과 피부 구조 변화 등 다양한 관점에서 피부 노화를 살펴보고, 진세노믹스™ 관련 연구와 임상 결과를 바탕으로 피부 장수에 대한 통합적인 접근법을 소개했다."
+   },
+   {
+    "name": "림파낙스™",
+    "quote": "마틴 알폰스(Martin Alphonse) 교수는 아모레퍼시픽 독자 성분인 림파낙스™와 피부 면역의 관계를 소개했다."
+   },
+   {
+    "name": "레드플라보노이드™",
+    "quote": "애나 치엔(Anna Chien) 교수는 아모레퍼시픽 독자 성분인 레드플라보노이드™에 관한 연구 성과를 발표했다."
+   },
+   {
+    "name": "인삼",
+    "quote": "아모레퍼시픽은 이번 심포지엄에서 60년간 이어온 인삼 연구를 ‘세포 정체성’이라는 새로운 영역으로 확장했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

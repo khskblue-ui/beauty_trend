@@ -1,0 +1,41 @@
+{
+ "doc_id": "58185605cd501406",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8009",
+ "title": "[쇼핑 돋보기] 백화점 3사, 캐릭터· 향수 ·피트니스 '3色 전략'…\"소비 ...",
+ "summary": "최근에는 대전관광공사와 협력해 대전 대표 캐릭터 '꿈돌이'와 공동 제작한 문구·잡화 16종을 출시 했다. 일부 상품이 조기 품절되면서 당초 지난달 31일까지였던 판매 기간을 오는 29일까지 연장했다. 향수 시장에서는...",
+ "published_at": "2026-11-03T15:23:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "백화점 향수",
+   "향수 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "백화점 3사가 캐릭터, 향수, 피트니스를 앞세운 전략을 펼친다.",
+  "key_fact_quote": "백화점 3사, 캐릭터· 향수 ·피트니스 '3色 전략'",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "2025b0494dbbefac",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54266",
+ "title": "롯데백화점, 영등포점에 K-퍼퓸 편집숍 '센트트레이' 오픈",
+ "summary": "롯데백화점이 직접 기획한 K-퍼퓸 전문 매장으로, 국내 유망 향수 브랜드 를 한자리에 모아 소개하고 고객의 분위기와 스타일에 맞는 시그니처 향을 제안한다. 성장세가 이어지는 향수 시장에서 퍼퓸 카테고리 경쟁력을...",
+ "published_at": "2026-11-03T19:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센트트레이"
+  ],
+  "companies": [
+   "롯데백화점"
+  ],
+  "keywords": [
+   "K-퍼퓸",
+   "향수 편집숍",
+   "큐레이션 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "d36f801e91caf837",
+ "enriched_at": "2026-11-03T21:36:42+00:00",
+ "had_body": false
+}

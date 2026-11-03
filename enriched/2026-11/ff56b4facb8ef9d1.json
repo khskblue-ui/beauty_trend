@@ -1,0 +1,60 @@
+{
+ "doc_id": "ff56b4facb8ef9d1",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100364",
+ "title": "에바끌레르, 코타키나발루서 '2026 LoveLove 골프대회' 개최",
+ "summary": "골프 전용 화장품 에바끌레르(회장 끌레르 정)가 아름다운 자연과 힐링을 동시에 만끽할 수 있는 ‘2026 코타키나발루 에바끌레르 LoveLove 골프대회’를 개최한다고일 밝혔다.이번 골프 대회는 세계 3대 석양 휴양지로 꼽히는 말레이시아 코타키나발루의 ‘아티타야 보르네오 골프 & 리조트(Artitaya Borneo Golf & Resort)’에서 펼쳐진다. 아름다운 바다와 이국적인 열대 자연이 어우러진 최고급 리조트 환경 속에서, 골프와 힐링, 그리고 특별한 만남을 동시에 즐길 수 있는 기회를 제공한다.대회 일정은 총 2개의 차수로",
+ "published_at": "2026-11-03T11:00:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "MY"
+  ],
+  "brands": [
+   "에바끌레르"
+  ],
+  "companies": [],
+  "keywords": [
+   "골프 화장품",
+   "골프 대회",
+   "고객 행사"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "골프 전용 화장품 에바끌레르가 코타키나발루에서 골프대회를 연다.",
+  "key_fact_quote": "골프 전용 화장품 에바끌레르(회장 끌레르 정)가 아름다운 자연과 힐링을 동시에 만끽할 수 있는 ‘2026 코타키나발루 에바끌레르 LoveLove 골프대회’를 개최한다고일 밝혔다.",
+  "events": [
+   {
+    "name": "2026 코타키나발루 에바끌레르 LoveLove 골프대회",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-06",
+    "place": "아티타야 보르네오 골프 & 리조트(Artitaya Borneo Golf & Resort)",
+    "quote": "▲1차는 2026년 11월 1일(일)부터 11월 6일(금)까지 4박 6일 일정이며, ▲2차는 2026년 11월 2일(월)부터 11월 7일(토)까지 4박 6일 일정으로 진행된다."
+   },
+   {
+    "name": "2026 코타키나발루 에바끌레르 LoveLove 골프대회",
+    "start_date": "2026-11-02",
+    "end_date": "2026-11-07",
+    "place": "아티타야 보르네오 골프 & 리조트(Artitaya Borneo Golf & Resort)",
+    "quote": "▲1차는 2026년 11월 1일(일)부터 11월 6일(금)까지 4박 6일 일정이며, ▲2차는 2026년 11월 2일(월)부터 11월 7일(토)까지 4박 6일 일정으로 진행된다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

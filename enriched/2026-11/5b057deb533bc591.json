@@ -1,0 +1,43 @@
+{
+ "doc_id": "5b057deb533bc591",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244818",
+ "title": "프랑스 화장품 시장, 기능성·프리미엄화 속 K-뷰티 입지 확대",
+ "summary": "② 선케어 시장의 높은 잠재력 선케어와 향수 시장도 향후 성장 잠재력이 높은 카테고리다. 선케어는... 인디, 니치 브랜드까지 폭넓은 브랜드 구성 오프라인 매장에서 테스트하고 상담을 받을 수 있는 체험형...",
+ "published_at": "2026-11-03T08:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "FR",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "프랑스 화장품 시장",
+   "선케어",
+   "향수 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "프랑스에서 선케어와 향수 시장이 성장 잠재력이 높은 카테고리로 꼽힌다.",
+  "key_fact_quote": "② 선케어 시장의 높은 잠재력 선케어와 향수 시장도 향후 성장 잠재력이 높은 카테고리다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

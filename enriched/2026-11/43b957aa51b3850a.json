@@ -1,0 +1,46 @@
+{
+ "doc_id": "43b957aa51b3850a",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312656",
+ "title": "주가로 읽는 K-뷰티: 중견 화장품주 동반 약세…토니모리 투자 위축 - 뷰티경제",
+ "summary": "국내 중견 화장품주가 지난 한 달 동안 동반 약세를 나타냈다.뷰티경제가 네이버증권 화장품 섹터 자료를 토대로 한국화장품, 토니모리, 에이블씨엔씨, 잇츠한불, 애경",
+ "published_at": "2026-11-03T19:17:23+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국화장품",
+   "토니모리",
+   "에이블씨엔씨",
+   "잇츠한불"
+  ],
+  "keywords": [
+   "화장품주",
+   "중견 화장품 기업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 중견 화장품주가 한 달 동안 함께 약세를 보였다.",
+  "key_fact_quote": "국내 중견 화장품주가 지난 한 달 동안 동반 약세를 나타냈다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

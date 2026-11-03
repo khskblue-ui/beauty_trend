@@ -1,0 +1,48 @@
+{
+ "doc_id": "23a51f824dd2b0be",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2487980",
+ "title": "애경산업, 생활용품· 화장품 쌍끌이 성장···수익성 회복 숙제",
+ "summary": "애경산업이 올해 3분기 생활용품과 화장품 사업의 성장세에 힘입어 3분기 기준 역대 최대 매출 기록을... 바디워시 신제품 으로 여름철 수요에 대응했다. 해외 시장에서는 '케라시스'(KERASYS), '샤워메이트'(SHOWERMATE)...",
+ "published_at": "2026-11-03T17:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "케라시스",
+   "샤워메이트"
+  ],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "생활용품",
+   "화장품",
+   "해외 시장",
+   "수익성"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "애경산업이 생활용품과 화장품 사업의 성장으로 분기 기준 역대 최대 매출을 냈다.",
+  "key_fact_quote": "애경산업이 올해 3분기 생활용품과 화장품 사업의 성장세에 힘입어 3분기 기준 역대 최대 매출 기록을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

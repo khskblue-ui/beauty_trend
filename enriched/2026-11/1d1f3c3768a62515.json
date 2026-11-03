@@ -1,0 +1,46 @@
+{
+ "doc_id": "1d1f3c3768a62515",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/how-luxury-beauty-is-taking-off-in-travel-retail",
+ "title": "How luxury beauty is taking off in travel retail",
+ "summary": "Beauty’s premium players such as L’Oréal and Estée Lauder Companies have been increasingly benefiting from travel retail, as the humble airport creates a shift in consumer shopping habits that is allowing luxury beauty to thrive",
+ "published_at": "2026-11-03T20:45:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [
+   "L’Oréal",
+   "Estée Lauder Companies"
+  ],
+  "companies": [
+   "L’Oréal",
+   "Estée Lauder Companies"
+  ],
+  "keywords": [
+   "트래블 리테일",
+   "럭셔리 뷰티",
+   "프리미엄 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "프리미엄 뷰티 기업들이 공항 면세 유통에서 점점 더 큰 이익을 얻고 있다.",
+  "key_fact_quote": "Beauty’s premium players such as L’Oréal and Estée Lauder Companies have been increasingly benefiting from travel retail, as the humble airport creates a shift in consumer shopping habits that is allowing luxury beauty to thrive",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:36:42+00:00",
+ "had_body": false
+}

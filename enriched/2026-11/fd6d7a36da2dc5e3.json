@@ -1,0 +1,43 @@
+{
+ "doc_id": "fd6d7a36da2dc5e3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bulkyo21.com/news/articleView.html?idxno=65424",
+ "title": "뷰티 의 모든 것 수원컨벤션센터에서 볼수 있다",
+ "summary": "뷰티 썸(BeautySum)은 아름다움(Beauty)과 모든 것을 아우르는 합(Sum)의 의미를 담은 합성어로, 다양한 K - 뷰티 ... 3회차인 지난해엔 84건, 560만달러 상당의 수출 상담 실적을 올리며 실질적인 성과를 일궈냈다는 평가를 받고...",
+ "published_at": "2026-11-03T14:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 박람회",
+   "수출 지원",
+   "체험 전시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "9ea924c2a8a3777e",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "dddd37c74c985392",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003281294&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+ "title": "걸그룹 리센느도 가고 싶다는 ' 뷰티 썸'… 수원, K - 뷰티 세계시장 공략 ...",
+ "summary": "원료 개발부터 인공지능(AI) 기술, 제품 상품화와 해외시장 진출까지 K - 뷰티 산업의 경쟁력을 한자리에서... 지난해 84건, 560만 달러 규모의 수출 상담 성과를 거둔 데 이어 올해는 전시 규모와 산업 전문성을 한층...",
+ "published_at": "2026-11-03T14:21:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 박람회",
+   "수출 상담",
+   "원료 개발",
+   "AI 기술"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 썸 수원은 지난해 수출 상담 성과에 이어 올해 전시 규모를 키운다.",
+  "key_fact_quote": "지난해 84건, 560만 달러 규모의 수출 상담 성과를 거둔 데 이어 올해는 전시 규모와 산업 전문성을 한층...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

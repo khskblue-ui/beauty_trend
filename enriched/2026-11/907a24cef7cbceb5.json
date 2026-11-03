@@ -1,0 +1,61 @@
+{
+ "doc_id": "907a24cef7cbceb5",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/givaudan-active-beauty-unveils-sensotrue-dm5-a-bioptimised",
+ "title": "Givaudan Active Beauty unveils SensoTrue DM5, a bioptimised alternative to DM5 silicone for professional hair care",
+ "summary": "Leveraging biotechnology to redefine silicone substitutes through professional performance, naturality and formulation versatility",
+ "published_at": "2026-11-03T17:05:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Givaudan Active Beauty"
+  ],
+  "keywords": [
+   "실리콘 대체 원료",
+   "바이오 원료",
+   "전문가용 헤어케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "SensoTrue DM5",
+    "brand": "Givaudan Active Beauty",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Givaudan Active Beauty unveils SensoTrue DM5, a bioptimised alternative to DM5 silicone for professional hair care",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "지보당 액티브 뷰티가 DM5 실리콘을 대체하는 바이오 기반 헤어케어 원료를 선보였다.",
+  "key_fact_quote": "Givaudan Active Beauty unveils SensoTrue DM5, a bioptimised alternative to DM5 silicone for professional hair care",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "SensoTrue DM5",
+    "quote": "Givaudan Active Beauty unveils SensoTrue DM5, a bioptimised alternative to DM5 silicone for professional hair care"
+   },
+   {
+    "name": "DM5 silicone",
+    "quote": "Givaudan Active Beauty unveils SensoTrue DM5, a bioptimised alternative to DM5 silicone for professional hair care"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

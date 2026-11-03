@@ -1,0 +1,46 @@
+{
+ "doc_id": "5a4901cd273d30bd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=265434",
+ "title": "애경산업 루나, 피카소와 협업···메이크업 도구 결합한 3종 출시",
+ "summary": "현대경제신문 전수연 기자 | 애경산업의 메이크업 브랜드 루나(LUNA)가 메이크업 도구 전문 브랜드 피카소(Piccasso)와 손잡고 협업 제품을 출시 한다. 기존 화장품 에 제품별 특성을 고려한 전용 퍼프를 결합해 사용 경험을...",
+ "published_at": "2026-11-03T10:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "루나",
+   "피카소"
+  ],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "메이크업 도구",
+   "브랜드 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "루나가 메이크업 도구 브랜드 피카소와 협업 제품을 낸다.",
+  "key_fact_quote": "애경산업의 메이크업 브랜드 루나(LUNA)가 메이크업 도구 전문 브랜드 피카소(Piccasso)와 손잡고 협업 제품을 출시 한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

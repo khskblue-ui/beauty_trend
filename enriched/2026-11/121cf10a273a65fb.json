@@ -1,0 +1,47 @@
+{
+ "doc_id": "121cf10a273a65fb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730329",
+ "title": "LG생건, 3분기 영업익 52.4% 증가…뷰티 적자 축소·힌스 완전자회사화",
+ "summary": "면세 채널 매출이 늘면서 럭셔리 화장품 브랜드 더후가 성장세로 전환했고, 닥터그루트와 도미나스... 코카콜라는 '코카콜라 제로 레몬라임'과 '스프라이트 뉴 제로'를 출시 하고, 몬스터에너지는 '2026 인천 펜타포트...",
+ "published_at": "2026-11-03T17:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더후",
+   "닥터그루트",
+   "도미나스"
+  ],
+  "companies": [
+   "LG생건"
+  ],
+  "keywords": [
+   "뷰티 적자 축소",
+   "면세 채널"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "LG생건이 뷰티 적자를 줄였고 힌스를 완전자회사로 만들기로 했다.",
+  "key_fact_quote": "LG생건, 3분기 영업익 52.4% 증가…뷰티 적자 축소·힌스 완전자회사화",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

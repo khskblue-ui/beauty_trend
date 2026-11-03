@@ -1,0 +1,49 @@
+{
+ "doc_id": "8f42aeafc4054adc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.job-post.co.kr/news/articleView.html?idxno=236283",
+ "title": "LG생활건강, 3분기 영업이익 704억원 '52.4% 증가'…뷰티 적자폭 축소",
+ "summary": "면세 채널 매출 증가에 힘입어 럭셔리 화장품 브랜드 '더후'가 성장세로 돌아섰으며, 닥터그루트와... 신제품 출시를 통한 시장 대응도 이어졌다. 온더바디는 여름철 한정 제품인 '발을씻자 수박향'을 선보였으며...",
+ "published_at": "2026-11-03T17:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더후",
+   "닥터그루트",
+   "온더바디"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "면세 채널 회복",
+   "럭셔리 화장품",
+   "실적 개선"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "92015eda4d82a025",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "af57f7144456b840",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100354",
+ "title": "식약처, 화장품 점자·QR코드 자율표시 지원 행보",
+ "summary": "식품의약품안전처(처장 오유경)는 ‘한글 점자의 날(11월4일)’를 맞아 시각장애인의 화장품 안심사용을 지원하기 위해 화장품 용기에 점자를 표시하고 있는 이닛컴퍼니(경기도 구리시 소재)를 11월 2일 현장 방문하여 간담회를 개최했다고 밝혔다.식약처는 시·청각 장애인의 정보 접근성을 높이기 위해 지난 2025년 4월 1일 화장품의 용기 또는 포장 기재사항을 점자 또는 음성·수어영상변환용 코드로 표시할 수 있도록 '화장품법'을 개정하고, 올해 10월 20일에는 '화장품의 점자 표시 등에 대한 가이드라인'을 제",
+ "published_at": "2026-11-03T08:44:12+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "식품의약품안전처",
+   "이닛컴퍼니"
+  ],
+  "keywords": [
+   "점자 표시",
+   "접근성",
+   "화장품법 개정"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식약처가 점자 표시 화장품 업체를 찾아 현장 의견을 들었다.",
+  "key_fact_quote": "식품의약품안전처(처장 오유경)는 ‘한글 점자의 날(11월4일)’를 맞아 시각장애인의 화장품 안심사용을 지원하기 위해 화장품 용기에 점자를 표시하고 있는 이닛컴퍼니(경기도 구리시 소재)를 11월 2일 현장 방문하여 간담회를 개최했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

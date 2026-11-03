@@ -1,0 +1,100 @@
+{
+ "doc_id": "4647c45bd7ac9dbb",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100362",
+ "title": "2026 뷰티썸 수원, 11월 5일 개막",
+ "summary": "수원특례시와 (재)수원컨벤션센터, (주)메쎄이상이 공동 주관하는 ‘2026 뷰티썸 수원(BeautySum Suwon 2026)’이 오는 11월 5일(목)부터 7일(토)까지 수원컨벤션센터에서 열린다.화장품·에스테틱 기업이 참여하는 B2B·B2C 융합 전시회로, 제품 전시와 체험 프로그램은 물론 전문 컨퍼런스, 해외 바이어 수출상담회, OEM·ODM 비즈니스 매칭까지 산업 현장에서 필요한 프로그램을 한곳에 담았다.■ 개막일 '수원 글로벌 뷰티 서밋'…중국·일본 협력 모색공식 개막식은 11월 5일(목) 오후 2시에 열린다.",
+ "published_at": "2026-11-03T10:45:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CN",
+   "JP",
+   "TH"
+  ],
+  "brands": [
+   "LYSEVE"
+  ],
+  "companies": [
+   "수원컨벤션센터",
+   "메쎄이상",
+   "INBA Thailand",
+   "씨케이앤비",
+   "셀위버스"
+  ],
+  "keywords": [
+   "화장품 전시회",
+   "정품인증 솔루션",
+   "바디케어",
+   "K뷰티 수출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "히든태그",
+    "brand": "씨케이앤비",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "LYSEVE",
+    "brand": "셀위버스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "수원에서 화장품과 에스테틱 기업이 참여하는 융합 전시회 뷰티썸이 열린다.",
+  "key_fact_quote": "화장품·에스테틱 기업이 참여하는 B2B·B2C 융합 전시회로, 제품 전시와 체험 프로그램은 물론 전문 컨퍼런스, 해외 바이어 수출상담회, OEM·ODM 비즈니스 매칭까지 산업 현장에서 필요한 프로그램을 한곳에 담았다.",
+  "events": [
+   {
+    "name": "2026 뷰티썸 수원",
+    "start_date": "2026-11-05",
+    "end_date": "2026-11-07",
+    "place": "수원컨벤션센터",
+    "quote": "수원특례시와 (재)수원컨벤션센터, (주)메쎄이상이 공동 주관하는 ‘2026 뷰티썸 수원(BeautySum Suwon 2026)’이 오는 11월 5일(목)부터 7일(토)까지 수원컨벤션센터에서 열린다."
+   },
+   {
+    "name": "공식 개막식",
+    "start_date": "2026-11-05",
+    "end_date": null,
+    "place": null,
+    "quote": "공식 개막식은 11월 5일(목) 오후 2시에 열린다."
+   },
+   {
+    "name": "화장품 소재 인사이트 세미나",
+    "start_date": "2026-11-06",
+    "end_date": null,
+    "place": null,
+    "quote": "6일에는 차세대 화장품 소재와 산업 동향을 소개하는 '화장품 소재 인사이트 세미나'가 이어진다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "SINICX",
+    "quote": "독자 개발한 체취 케어 소재 ‘SINICX(시니씨엑스)’를 적용한 바디워시, 바디로션, 바디미스트 등을 소개하며, 관람객이 제품을 직접 체험할 수 있도록 할 예정이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

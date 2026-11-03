@@ -1,0 +1,54 @@
+{
+ "doc_id": "0dad525667786732",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/geka-s-lumiloop-turns-lash-care-into-a-complete",
+ "title": "GEKA’s lumiLOOP turns lash care into a complete ritual",
+ "summary": "Lash care no longer begins and ends with mascara. As beauty routines become increasingly holistic, make-up performance, removal and targeted care are moving closer together. GEKA’s Lash Care Essentials translate this idea into one complete routine",
+ "published_at": "2026-11-03T04:31:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "DE"
+  ],
+  "brands": [],
+  "companies": [
+   "GEKA"
+  ],
+  "keywords": [
+   "속눈썹 케어",
+   "통합 루틴",
+   "마스카라"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "lumiLOOP",
+    "brand": "GEKA",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "속눈썹 케어가 마스카라를 넘어 하나의 루틴으로 이어지고 있다.",
+  "key_fact_quote": "Lash care no longer begins and ends with mascara.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "ddfd1dcef69ed0c0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etoday.co.kr/news/view/2643506",
+ "title": "롯데百 영등포점, K- 향수 편집숍 '센트트레이' 열어…고객 맞춤 향 추천",
+ "summary": "국내 향수 브랜드 를 한데 모으고 개인별 맞춤형 컨설팅을 제공해 성장하는 향수 시장 공략에 나선다. 롯데백화점은 영등포점 3층에 K퍼퓸 전문 편집숍 '센트트레이(SCENTRAY)'를 열었다고 3일 밝혔다. 센트트레이는...",
+ "published_at": "2026-11-03T13:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데백화점"
+  ],
+  "keywords": [
+   "K퍼퓸",
+   "향수 편집숍",
+   "맞춤 향 추천"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "롯데백화점이 영등포점에 K퍼퓸 전문 편집숍 센트트레이를 열었다.",
+  "key_fact_quote": "롯데백화점은 영등포점 3층에 K퍼퓸 전문 편집숍 '센트트레이(SCENTRAY)'를 열었다고 3일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

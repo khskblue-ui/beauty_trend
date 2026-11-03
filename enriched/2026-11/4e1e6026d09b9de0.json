@@ -1,0 +1,47 @@
+{
+ "doc_id": "4e1e6026d09b9de0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.abcn.kr/news/articleView.html?idxno=93958",
+ "title": "스킨퍼즐랩 공식 론칭… 화살나무 원료 담은 토너·세럼 2종 선보여",
+ "summary": "기초 화장품 시장에 진출했다고 밝혔다. 스킨퍼즐랩은 피부 고민 유형에 맞춰 필요한 성분을 선별하고 이를... 브랜드는 향후 고유한 자연 유래 원료와 피부 고민별 맞춤 성분 조합을 접목한 신제품 을 순차 출시하며...",
+ "published_at": "2026-11-03T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "스킨퍼즐랩"
+  ],
+  "companies": [
+   "노드메종"
+  ],
+  "keywords": [
+   "자연 유래 원료",
+   "토너",
+   "세럼"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "3a739633afd902b8",
+ "enriched_at": "2026-11-03T21:32:49+00:00",
+ "had_body": false
+}

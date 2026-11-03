@@ -1,0 +1,52 @@
+{
+ "doc_id": "29d435d35abf123e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=2026110309251455414c878f8fa1_30",
+ "title": "이재준 수원시장, 뷰티 산업 육성 본격화…‘2026 뷰티 썸 수원’ 5일 개...",
+ "summary": "◇중국·태국 연결하고 8개국 수출 상담 해외 진출 지원도 박람회의 주요 축이다. 중국 상하이의 뷰티 바이오 산업단지 동방미곡은 시와 협력해 중국 전문 상담관을 운영한다. 상담관에는 동방미곡 입주기업 제품 119개를...",
+ "published_at": "2026-11-03T09:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CN",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 박람회",
+   "수출 상담",
+   "중국 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "수원시가 박람회에서 중국 전문 상담관을 운영한다.",
+  "key_fact_quote": "중국 상하이의 뷰티 바이오 산업단지 동방미곡은 시와 협력해 중국 전문 상담관을 운영한다.",
+  "events": [
+   {
+    "name": "2026 뷰티 썸 수원",
+    "start_date": "2026-11-05",
+    "end_date": null,
+    "place": null,
+    "quote": "이재준 수원시장, 뷰티 산업 육성 본격화…‘2026 뷰티 썸 수원’ 5일 개..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

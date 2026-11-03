@@ -1,0 +1,42 @@
+{
+ "doc_id": "20051341a778726c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442780",
+ "title": "韓화장품 수출 10개월의 기록…작년 연간실적 넘어 유럽시장 확장",
+ "summary": "오 연구원은 \"아직 스킨케어 대비 수출 규모가 작다는 점에서 향후 성장 여력도 충분하다\"며 \"헤어케어가 K뷰티 수출 의 새로운 성장축으로 자리잡을 것\"이라고 분석했다. 기초화장품 수출은 5억8천800만달러로...",
+ "published_at": "2026-11-03T15:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "헤어케어",
+   "유럽 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "헤어케어가 K뷰티 수출의 새로운 성장축이 될 것이라는 분석이 나왔다.",
+  "key_fact_quote": "오 연구원은 \"아직 스킨케어 대비 수출 규모가 작다는 점에서 향후 성장 여력도 충분하다\"며 \"헤어케어가 K뷰티 수출 의 새로운 성장축으로 자리잡을 것\"이라고 분석했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

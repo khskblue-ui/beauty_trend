@@ -1,0 +1,48 @@
+{
+ "doc_id": "e19cbcec53e24617",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730575",
+ "title": "화장품 부진 털어내나… LG생활건강, 실적 반등 시동",
+ "summary": "면세 매출 증가에 힘입어 럭셔리 화장품 브랜드 '더후'가 성장세로 돌아섰고 닥터그루트와 도미나스... 강화한 신제품 을 출시했다. 해외 유통망 확대에도 속도를 냈다. 닥터그루트는 지난 8월 미국 뷰티 편집숍...",
+ "published_at": "2026-11-03T16:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더후",
+   "닥터그루트",
+   "도미나스"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "럭셔리 화장품",
+   "면세 회복",
+   "해외 유통망 확대"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "LG생활건강이 면세 매출 증가로 화장품 실적 반등을 시작했다.",
+  "key_fact_quote": "면세 매출 증가에 힘입어 럭셔리 화장품 브랜드 '더후'가 성장세로 돌아섰고",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

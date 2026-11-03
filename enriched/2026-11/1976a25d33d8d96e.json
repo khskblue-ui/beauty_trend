@@ -1,0 +1,52 @@
+{
+ "doc_id": "1976a25d33d8d96e",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53851",
+ "title": "\"알프스 생모리츠의 겨울로\" 샤넬 홀리데이 팝업",
+ "summary": "샤넬이 새하얀 설산이 펼쳐진 알프스 생모리츠의 겨울로 초대한다. 샤넬은 11월 21일부터 12월 31일까지 서울 성수동에서 홀리데이 팝업을 선보인다. 가브리엘 샤넬이 겨울마다 머물렀던 여행지인 생모리츠에서 영감을 받은 공간이다. 이 매장에는 알프스 생모리츠의 설산에 자리한 산장과 눈 내리는 겨울…",
+ "published_at": "2026-11-03T11:12:21+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "샤넬"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 팝업",
+   "팝업스토어",
+   "향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "샤넬이 서울 성수동에서 홀리데이 팝업을 연다.",
+  "key_fact_quote": "샤넬은 11월 21일부터 12월 31일까지 서울 성수동에서 홀리데이 팝업을 선보인다.",
+  "events": [
+   {
+    "name": "샤넬 홀리데이 팝업",
+    "start_date": "2026-11-21",
+    "end_date": "2026-12-31",
+    "place": "서울 성수동",
+    "quote": "샤넬은 11월 21일부터 12월 31일까지 서울 성수동에서 홀리데이 팝업을 선보인다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

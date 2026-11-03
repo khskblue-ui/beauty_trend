@@ -1,0 +1,80 @@
+{
+ "doc_id": "075439b6929feeed",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53854",
+ "title": "엑티브온, ‘인코스메틱스 아시아 2026’ 참가",
+ "summary": "엑티브온(대표 조윤기)이 3일부터 5일까지 태국 방콕 국제무역전시센터에서 열리는 ‘인코스메틱스 아시아 2026’에 참가한다. 인코스메틱스 아시아(in-cosmetics Asia)는 아시아·태평양 지역의 화장품 원료기업과 연구·개발·제조 관계자가 참여하는 전시회다. 이번 행사에서 엑티브온은 지…",
+ "published_at": "2026-11-03T16:09:51+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "엑티브온",
+   "서밋 케미컬"
+  ],
+  "keywords": [
+   "지속가능 소재",
+   "바이오 원료",
+   "엑소좀",
+   "화장품 원료 전시회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "엑티브온이 방콕 화장품 원료 전시회에서 지속가능 기능성 소재와 바이오 원료를 알린다.",
+  "key_fact_quote": "이번 행사에서 엑티브온은 지속가능 기능성 소재와 바이오 원료 분야의 경쟁력을 알릴 전략이다.",
+  "events": [
+   {
+    "name": "인코스메틱스 아시아 2026",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-05",
+    "place": "태국 방콕 국제무역전시센터",
+    "quote": "엑티브온(대표 조윤기)이 3일부터 5일까지 태국 방콕 국제무역전시센터에서 열리는 ‘인코스메틱스 아시아 2026’에 참가한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "Activonol-PG Green",
+    "quote": "Activonol-PG Green은 재생 가능한 원료를 기반으로 생산한 프로필렌글라이콜이다."
+   },
+   {
+    "name": "프로필렌글라이콜",
+    "quote": "Activonol-PG Green은 재생 가능한 원료를 기반으로 생산한 프로필렌글라이콜이다."
+   },
+   {
+    "name": "Activonol-BDO 90 RSPO MB",
+    "quote": "Activonol-BDO 90 RSPO MB는 바이오 기반 공정을 적용한 2,3-부탄다이올 원료다."
+   },
+   {
+    "name": "2,3-부탄다이올",
+    "quote": "Activonol-BDO 90 RSPO MB는 바이오 기반 공정을 적용한 2,3-부탄다이올 원료다."
+   },
+   {
+    "name": "Acxosome™-Heartleaf",
+    "quote": "Acxosome™-Heartleaf는 어성초에서 유래한 엑소좀 원료다."
+   },
+   {
+    "name": "어성초",
+    "quote": "Acxosome™-Heartleaf는 어성초에서 유래한 엑소좀 원료다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

@@ -1,0 +1,73 @@
+{
+ "doc_id": "b3be0b5c70545bf0",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100360",
+ "title": "리나우 파란쉐이크, 와디즈 오픈예정 랭킹 뷰티 & 푸드 동시 1위",
+ "summary": "아마존 코리아에서 K웰니스 브랜드 91개사의 해외 진출을 맡았던 손정호 대표의 리나우(RENOW)는 첫 제품 '파란쉐이크'가 와디즈 오픈예정 실시간 랭킹 뷰티, 푸드 두 부문에서 1위에 올랐다고 2일 밝혔다.손 대표는 아마존에서 3년간 'K뷰티를 이을 다음 카테고리 발굴'을 맡아 300여 개 제품의 해외 진출을 함께했다. 그 과정에서 비만치료제(GLP-1) 사용자를 위한 이너뷰티라는 제품 기회를 확인했고, 직접 브랜드를 만들기 위해 올해 6월 리나우를 세웠다. 브랜드 이름 RENOW에는 '지금부터",
+ "published_at": "2026-11-03T10:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US",
+   "JP",
+   "SG"
+  ],
+  "brands": [
+   "리나우"
+  ],
+  "companies": [
+   "리나우",
+   "와디즈"
+  ],
+  "keywords": [
+   "이너뷰티",
+   "미용기능성 대체식",
+   "GLP-1 사용자"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "파란쉐이크",
+    "brand": "리나우",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "본펀딩은 오는 10일 오전 11시에 시작한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "리나우가 비만치료제 사용자를 겨냥한 이너뷰티 대체식 파란쉐이크를 와디즈에서 먼저 선보인다.",
+  "key_fact_quote": "아마존 코리아에서 K웰니스 브랜드 91개사의 해외 진출을 맡았던 손정호 대표의 리나우(RENOW)는 첫 제품 '파란쉐이크'가 와디즈 오픈예정 실시간 랭킹 뷰티, 푸드 두 부문에서 1위에 올랐다고 2일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "저분자 피쉬콜라겐",
+    "quote": "한 잔(57g)에 단백질 23g, 식이섬유 8.5g, 저분자 피쉬콜라겐 2,500mg, L-글루타치온 250mg, 비타민C 1,000mg 등 이너뷰티 원료 10종과 비타민, 미네랄 13종을 담았다."
+   },
+   {
+    "name": "L-글루타치온",
+    "quote": "한 잔(57g)에 단백질 23g, 식이섬유 8.5g, 저분자 피쉬콜라겐 2,500mg, L-글루타치온 250mg, 비타민C 1,000mg 등 이너뷰티 원료 10종과 비타민, 미네랄 13종을 담았다."
+   },
+   {
+    "name": "비타민C",
+    "quote": "한 잔(57g)에 단백질 23g, 식이섬유 8.5g, 저분자 피쉬콜라겐 2,500mg, L-글루타치온 250mg, 비타민C 1,000mg 등 이너뷰티 원료 10종과 비타민, 미네랄 13종을 담았다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

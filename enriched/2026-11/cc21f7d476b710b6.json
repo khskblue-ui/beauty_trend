@@ -1,0 +1,43 @@
+{
+ "doc_id": "cc21f7d476b710b6",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/sephora-collection-turns-30-whatsnext-1239392859/",
+ "title": "Sephora Collection Turns 30. What’s Next?",
+ "summary": "The strategy for Sephora’s eponymous beauty line is four-pronged.",
+ "published_at": "2026-11-03T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Sephora Collection"
+  ],
+  "companies": [
+   "Sephora"
+  ],
+  "keywords": [
+   "자체 브랜드",
+   "리테일 브랜드 전략"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "세포라 자체 브랜드 세포라 컬렉션이 앞으로의 전략을 내놨다.",
+  "key_fact_quote": "The strategy for Sephora’s eponymous beauty line is four-pronged.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

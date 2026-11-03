@@ -1,0 +1,73 @@
+{
+ "doc_id": "0ce08a70e5b4158e",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58644",
+ "title": "아모레퍼시픽, 설화수 롱제비티 심포지엄서 피부 노화 ‘세포 정체성’ 조명",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 아모레퍼시픽은 지난 2일 서울 세계 본사에서 제2회 ‘설화수 롱제비티 심포지엄’을 열고 피부 노화를 ‘세포 정체성’ 관점에서 살핀 연구 성과를 공유했다고 3일 밝혔다. 지난해 미국 뉴욕에서 열린 첫 심포지엄에 이어 마련된 이번 행사에는 존스홉킨스 의과대학과 중…",
+ "published_at": "2026-11-03T12:02:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "피부 장수",
+   "세포 정체성",
+   "인삼 과학"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아모레퍼시픽이 피부 노화를 세포 정체성 관점에서 살핀 연구 성과를 공유했다.",
+  "key_fact_quote": "아모레퍼시픽은 지난 2일 서울 세계 본사에서 제2회 ‘설화수 롱제비티 심포지엄’을 열고 피부 노화를 ‘세포 정체성’ 관점에서 살핀 연구 성과를 공유했다고 3일 밝혔다.",
+  "events": [
+   {
+    "name": "설화수 롱제비티 심포지엄",
+    "start_date": "2026-11-02",
+    "end_date": null,
+    "place": "서울 세계 본사",
+    "quote": "아모레퍼시픽은 지난 2일 서울 세계 본사에서 제2회 ‘설화수 롱제비티 심포지엄’을 열고 피부 노화를 ‘세포 정체성’ 관점에서 살핀 연구 성과를 공유했다고 3일 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "진세노믹스™",
+    "quote": "위안차오 상하이시 피부병 병원 교수는 염증 반응과 피부 구조 변화에 주목하고 진세노믹스™ 관련 연구와 임상 결과를 토대로 피부 장수에 대한 통합적 접근을 공유했다."
+   },
+   {
+    "name": "림파낙스™",
+    "quote": "마틴 알폰스 교수는 아모레퍼시픽 독자 성분 림파낙스™와 피부 면역의 관계를 소개했다."
+   },
+   {
+    "name": "레드플라보노이드™",
+    "quote": "애나 치엔 교수는 독자 성분 레드플라보노이드™ 연구 성과를 발표했다."
+   },
+   {
+    "name": "인삼",
+    "quote": "아모레퍼시픽은 60년간 이어온 인삼 연구와 글로벌 공동 연구를 바탕으로 피부 노화 원리를 탐구하고 건강한 피부 기능의 유지와 회복을 위한 연구를 이어갈 계획이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

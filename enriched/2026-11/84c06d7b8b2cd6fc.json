@@ -1,0 +1,43 @@
+{
+ "doc_id": "84c06d7b8b2cd6fc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202611020767O",
+ "title": "모로코서 K - 뷰티 팝업스토어 운영… 수출 상담 300만 달러·MOU 7건 체결",
+ "summary": "지난달 모로코 라바트 리아드 스퀘어 쇼핑센터에서 열린 ‘ K - 뷰티 팝업스토어’가 약 300만 달러 규모의 수출 상담과 업무협약(MOU) 7건 체결 등의 성과를 내며 마무리됐다고 3일 밝혔다. 이번 행사는...",
+ "published_at": "2026-11-03T09:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "MA"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 팝업스토어",
+   "수출 상담",
+   "업무협약"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "모로코에서 열린 K-뷰티 팝업스토어가 수출 상담과 업무협약 성과를 내고 마무리됐다.",
+  "key_fact_quote": "지난달 모로코 라바트 리아드 스퀘어 쇼핑센터에서 열린 ‘ K - 뷰티 팝업스토어’가 약 300만 달러 규모의 수출 상담과 업무협약(MOU) 7건 체결 등의 성과를 내며 마무리됐다고 3일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

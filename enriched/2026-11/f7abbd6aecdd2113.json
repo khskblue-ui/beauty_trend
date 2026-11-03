@@ -1,0 +1,50 @@
+{
+ "doc_id": "f7abbd6aecdd2113",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/kimberly-clark-completes-48-7-billion-acquisition-of-kenvue",
+ "title": "Kimberly-Clark completes $48.7 billion acquisition of Kenvue",
+ "summary": "The acquisition marks Kimberly-Clark’s expansion into the beauty category, and will see Kenvue’s health and beauty brands Neutrogena, Aveeno, OGX and Listerine sit under the same umbrella as Kenvue’s personal care brands",
+ "published_at": "2026-11-03T21:41:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Neutrogena",
+   "Aveeno",
+   "OGX",
+   "Listerine"
+  ],
+  "companies": [
+   "Kimberly-Clark",
+   "Kenvue"
+  ],
+  "keywords": [
+   "인수합병",
+   "뷰티 시장 진출",
+   "퍼스널케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Kimberly-Clark가 Kenvue 인수를 마치고 뷰티 분야로 사업을 넓혔다.",
+  "key_fact_quote": "The acquisition marks Kimberly-Clark’s expansion into the beauty category",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

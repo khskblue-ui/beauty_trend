@@ -1,0 +1,49 @@
+{
+ "doc_id": "b564ec7ddb82a418",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.efnews.co.kr/news/articleView.html?idxno=133702",
+ "title": "LG생활건강, 3분기 영업익 704억원…뷰티 적자 축소로 실적 개선",
+ "summary": "면세 매출 증가에 힘입어 럭셔리 화장품 브랜드 더후가 성장세로 전환했으며, 닥터그루트와 도미나스... 제품 경쟁력 강화를 위한 신제품 출시도 이어졌다. 바디케어 브랜드 온더바디는 여름철 한정판 '발을씻자...",
+ "published_at": "2026-11-03T17:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "유시몰",
+   "닥터그루트",
+   "힌스"
+  ],
+  "companies": [
+   "LG생활건강",
+   "비바웨이브"
+  ],
+  "keywords": [
+   "뷰티 적자 축소",
+   "세럼 치약"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "e297693f96051345",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

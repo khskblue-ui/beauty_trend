@@ -1,0 +1,58 @@
+{
+ "doc_id": "fbdbd41a866fb3a7",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58649",
+ "title": "[인사이트코리아 기획연재 ⑤] 응답은 AI 소비자가, 분석은 AI 전문가가 — 뷰티 NPD에 ‘협업 전문가 AI’ 시대가 왔다",
+ "summary": "데이터는 공동연구로 신뢰성이 입증된 AI 합성 소비자가 내고, 분석과 시사점은 NPD 전문 모형을 학습한 AI 에이전트가 마케터의 관점에서 정리한다. 마케터와 NPD 연구자는 꼭 필요한 정보를 빠르게 받아 결정에 집중한다. 기술이 평준화된 뷰티 시장에서 성패를 가르는 것은 소비자가 원하는, 경쟁 제품과…",
+ "published_at": "2026-11-03T14:52:26+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "인사이트코리아",
+   "인텔리시아"
+  ],
+  "keywords": [
+   "AI 합성 소비자",
+   "신제품 컨셉 검증",
+   "NPD"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "인사이트코리아가 AI 합성 소비자로 신제품 컨셉을 검증하는 협업 전문가 AI를 소개했다.",
+  "key_fact_quote": "데이터는 공동연구로 신뢰성이 입증된 AI 합성 소비자가 내고, 분석과 시사점은 NPD 전문 모형을 학습한 AI 에이전트가 마케터의 관점에서 정리한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레티놀",
+    "quote": "한 스킨케어 브랜드의 연구소가 저자극 레티놀과 저분자 히알루론산을 결합한 처방을 완성했다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "한 스킨케어 브랜드의 연구소가 저자극 레티놀과 저분자 히알루론산을 결합한 처방을 완성했다."
+   },
+   {
+    "name": "나이아신아마이드",
+    "quote": "같은 나이아신아마이드라도 어떤 브랜드는 ‘톤업’으로, 어떤 브랜드는 ‘모공’으로, 또 다른 브랜드는 ‘트러블 자국’으로 말한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

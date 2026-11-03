@@ -1,0 +1,49 @@
+{
+ "doc_id": "c5de15a82e259380",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=284414",
+ "title": "[3Q 실적] LG생활건강, 3분기 영업익 52% 증가…뷰티 적자 축소",
+ "summary": "면세점 매출 증가에 힘입어 럭셔리 화장품 브랜드 더후가 성장세로 돌아섰고, 닥터그루트와 도미나스... 더후는 피부 노화 관리 기술을 적용한 제품을 선보였고, 유시몰은 미백 성분을 강화한 치약을 출시 했다....",
+ "published_at": "2026-11-03T16:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더후",
+   "닥터그루트",
+   "온더바디"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "면세 채널 회복",
+   "럭셔리 화장품",
+   "실적 개선"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "92015eda4d82a025",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "3e7e66d4093cd555",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/ulta-beauty-unveils-star-studded-2026-holiday-campaign",
+ "title": "Ulta Beauty unveils star-studded holiday campaign with Selena Gomez and Tate McRae",
+ "summary": "Ulta Beauty’s 2026 festive campaign has arrived, featuring a star studded cast including beauty brand founders Selena Gomez, Tracee Ellis Ross, Jennifer Aniston and Ice Spice",
+ "published_at": "2026-11-03T20:09:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "Ulta Beauty"
+  ],
+  "keywords": [
+   "홀리데이 캠페인",
+   "리테일 마케팅",
+   "창업자 모델"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "Ulta Beauty가 뷰티 브랜드 창업자들을 내세운 연말 캠페인을 공개했다.",
+  "key_fact_quote": "Ulta Beauty’s 2026 festive campaign has arrived, featuring a star studded cast including beauty brand founders Selena Gomez, Tracee Ellis Ross, Jennifer Aniston and Ice Spice",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:36:42+00:00",
+ "had_body": false
+}

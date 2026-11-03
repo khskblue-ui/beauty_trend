@@ -1,0 +1,43 @@
+{
+ "doc_id": "c9f21f113812d133",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000180",
+ "title": "﻿중국에서 멀어진 K - 뷰티 [박지민의 중국과 미래]",
+ "summary": "반면 중국 수출 은 약 20억달러로 전년보다 19% 감소했고 전체 수출 에서 차지하는 비중은 17.7%까지 낮아졌다. K - 뷰티 의 세계적 성공과 중국에서의 후퇴가 동시에 진행된 것이다. 2021년만 해도 중국은 한국 화장품 수출 의 절반...",
+ "published_at": "2026-11-04T06:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "중국 수출 감소",
+   "K뷰티 수출 구조",
+   "시장 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티가 세계에서 성공하는 동안 중국에서는 후퇴했다.",
+  "key_fact_quote": "K - 뷰티 의 세계적 성공과 중국에서의 후퇴가 동시에 진행된 것이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

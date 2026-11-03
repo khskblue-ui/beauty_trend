@@ -1,0 +1,45 @@
+{
+ "doc_id": "2783b9e9240b1d26",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442721",
+ "title": "'톰 포드·르 라보' Z세대 잡았다…에스티 로더, 향수 로 '대박'",
+ "summary": "스테판 드 라 파베리 에스티 로더 최고경영자(CEO)는 언론 브리핑을 통해 \"톰 포드를 비롯한 주요 브랜드 의 소비 연령층이 점점 더 젊어지고 있다\"며 \"전 세계적으로 향수 시장 전반에서 젊은 소비자가 늘어나는...",
+ "published_at": "2026-11-03T10:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [
+   "톰 포드",
+   "르 라보"
+  ],
+  "companies": [
+   "에스티 로더"
+  ],
+  "keywords": [
+   "향수 시장",
+   "Z세대",
+   "젊은 소비자"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "향수 시장에서 젊은 소비자가 늘고 있다고 에스티 로더 CEO가 밝혔다.",
+  "key_fact_quote": "톰 포드를 비롯한 주요 브랜드 의 소비 연령층이 점점 더 젊어지고 있다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

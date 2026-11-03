@@ -1,0 +1,45 @@
+{
+ "doc_id": "ac186ff7aa35602b",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312642",
+ "title": "APR’s Lead Over Amorepacific Shrinks Amid Changing Investor Sentiment in K-Beauty - 뷰티경제",
+ "summary": "APR, the most valuable listed company in South Korea’s beauty sector, has seen its market",
+ "published_at": "2026-11-03T10:10:43+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "APR",
+   "Amorepacific"
+  ],
+  "keywords": [
+   "K뷰티 투자",
+   "시가총액",
+   "투자 심리"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "APR과 아모레퍼시픽의 시가총액 격차가 줄었다.",
+  "key_fact_quote": "APR, the most valuable listed company in South Korea’s beauty sector, has seen its market",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

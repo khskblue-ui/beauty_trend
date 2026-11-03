@@ -1,0 +1,95 @@
+{
+ "doc_id": "9feb0980a7aeb193",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58646",
+ "title": "수원특례시, ‘2026 뷰티썸 수원’ 5일 개막 글로벌 수출상담·기업 지원 프로그램 운영",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 수원특례시와 (재)수원컨벤션센터, (주)메쎄이상이 공동 주관하는 ‘2026 뷰티썸 수원(BeautySum Suwon 2026)’이 오는 5일부터 7일까지 수원컨벤션센터에서 개최된다고 3일 밝혔다. 이번 행사는 화장품과 에스테틱 분야의 기업이 참여하는 B2B·B2C 융합…",
+ "published_at": "2026-11-03T12:55:05+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "수원특례시",
+   "메쎄이상",
+   "씨케이앤비",
+   "셀위버스",
+   "INBA Thailand"
+  ],
+  "keywords": [
+   "뷰티 박람회",
+   "수출 상담회",
+   "정품인증 솔루션",
+   "체취 케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "히든태그",
+    "brand": "씨케이앤비",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "K-뷰티 제품의 해외 가품 유통 방지와 유통 관리를 지원하는 ‘히든태그(HiddenTag)’를 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "리시브",
+    "brand": "셀위버스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "바이오 소재 전문기업 셀위버스는 천연물 소재를 활용한 바디케어 브랜드 ‘리시브(LYSEVE)’를 공개하고",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "수원에서 화장품과 에스테틱 기업이 참여하는 B2B·B2C 전시회가 열린다.",
+  "key_fact_quote": "수원특례시와 (재)수원컨벤션센터, (주)메쎄이상이 공동 주관하는 ‘2026 뷰티썸 수원(BeautySum Suwon 2026)’이 오는 5일부터 7일까지 수원컨벤션센터에서 개최된다고 3일 밝혔다.",
+  "events": [
+   {
+    "name": "2026 뷰티썸 수원",
+    "start_date": "2026-11-05",
+    "end_date": "2026-11-07",
+    "place": "수원컨벤션센터",
+    "quote": "수원특례시와 (재)수원컨벤션센터, (주)메쎄이상이 공동 주관하는 ‘2026 뷰티썸 수원(BeautySum Suwon 2026)’이 오는 5일부터 7일까지 수원컨벤션센터에서 개최된다고 3일 밝혔다."
+   },
+   {
+    "name": "수원 글로벌 뷰티 서밋",
+    "start_date": "2026-11-05",
+    "end_date": null,
+    "place": null,
+    "quote": "공식 개막식은 5일 오후 2시에 열리며 같은 날 진행되는 ‘수원 글로벌 뷰티 서밋’에서는 중국과 일본 뷰티 산업의 협력 기회를 모색한다."
+   },
+   {
+    "name": "화장품 소재 인사이트 세미나",
+    "start_date": "2026-11-06",
+    "end_date": null,
+    "place": null,
+    "quote": "이어 6일에는 차세대 화장품 소재와 산업 동향을 소개하는 ‘화장품 소재 인사이트 세미나’를 개최해 국내 화장품 기업과 관계자들에게 관련 정보를 제공한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "시니씨엑스",
+    "quote": "바이오 소재 전문기업 셀위버스는 천연물 소재를 활용한 바디케어 브랜드 ‘리시브(LYSEVE)’를 공개하고 독자 개발한 체취 케어 소재 ‘시니씨엑스(SINICX)’를 적용한 제품을 소개한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

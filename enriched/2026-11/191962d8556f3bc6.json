@@ -1,0 +1,43 @@
+{
+ "doc_id": "191962d8556f3bc6",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/skin-care/dermocosmetics-heats-up-la-rosee-could-change-hands-1239397890/",
+ "title": "As Dermocosmetics Heat Up, La Rosée Could Change Hands",
+ "summary": "The French brand is luring interest from both strategics and investment funds, sources say.",
+ "published_at": "2026-11-03T21:33:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "La Rosée"
+  ],
+  "companies": [],
+  "keywords": [
+   "더모코스메틱",
+   "인수합병"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "프랑스 브랜드 La Rosée가 전략적 투자자와 투자 펀드의 관심을 받고 있다.",
+  "key_fact_quote": "The French brand is luring interest from both strategics and investment funds, sources say.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

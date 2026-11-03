@@ -1,0 +1,44 @@
+{
+ "doc_id": "2591946990eab7dc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newscj.com/news/articleView.html?idxno=3445646",
+ "title": "[요즘신상] 호빵맨, 겨울 앞두고 다시 날았다… 식품·뷰티·굿즈까지 유...",
+ "summary": "적용한 신제품 을 출시하고 있다. 편의점과 뷰티업계도 호빵맨을 활용한 제품과 굿즈를 선보이며 소비자... 기초 화장품 과 핸드워시·풋샴푸 등 스킨·바디케어 제품부터 구강·위생용품, 메이크업 소품, 홈웨어·이너웨어...",
+ "published_at": "2026-11-03T21:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "호빵맨"
+  ],
+  "companies": [],
+  "keywords": [
+   "캐릭터 콜라보",
+   "겨울 한정 제품",
+   "굿즈 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "호빵맨을 활용한 식품, 뷰티 제품과 굿즈가 겨울을 앞두고 나오고 있다.",
+  "key_fact_quote": "편의점과 뷰티업계도 호빵맨을 활용한 제품과 굿즈를 선보이며 소비자",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

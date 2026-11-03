@@ -1,0 +1,53 @@
+{
+ "doc_id": "280669f89b68ceec",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100358",
+ "title": "중국 1위 소비시장 충칭, K-소비재 내륙 진출 교두보로 부상",
+ "summary": "소비재 분야 한·중 협력이 활발해지는 가운데, 그동안 중국 연해 지역에 집중됐던 한국 소비재 판로를 내륙까지 넓히기 위한 물꼬가 트이고 있다. 중국 최대 소비시장 중 하나인 충칭에서 현지 유통망과 직접 협력을 통해 우리 기업의 중국 내륙 시장 진출을 확대하는 장이 마련됐다.대한무역투자진흥공사(이하 코트라, 사장 강경성)는 충칭시 정부와 공동으로 10월 30일부터 사흘간 충칭 최대 상권인 관인차오(观音桥)에서 ‘한국 프리미엄 소비재 판촉전’을 개최했다. 이번 판촉전은 성장세를 보이는 충칭 소비시장에서 K-소비재 수출 기회를 넓히고,",
+ "published_at": "2026-11-03T10:09:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "코트라"
+  ],
+  "keywords": [
+   "중국 내륙 진출",
+   "K-소비재",
+   "판촉전"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코트라가 충칭에서 한국 소비재 판촉전을 열었다.",
+  "key_fact_quote": "대한무역투자진흥공사(이하 코트라, 사장 강경성)는 충칭시 정부와 공동으로 10월 30일부터 사흘간 충칭 최대 상권인 관인차오(观音桥)에서 ‘한국 프리미엄 소비재 판촉전’을 개최했다.",
+  "events": [
+   {
+    "name": "한국 프리미엄 소비재 판촉전",
+    "start_date": "2026-10-30",
+    "end_date": "2026-11-01",
+    "place": "충칭 관인차오(观音桥)",
+    "quote": "대한무역투자진흥공사(이하 코트라, 사장 강경성)는 충칭시 정부와 공동으로 10월 30일부터 사흘간 충칭 최대 상권인 관인차오(观音桥)에서 ‘한국 프리미엄 소비재 판촉전’을 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

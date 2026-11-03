@@ -1,0 +1,49 @@
+{
+ "doc_id": "e915c207beb5c522",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.suwonilbo.kr/view.html?id=L261103132537f98a",
+ "title": "[기획] 130개사 참여 ' 뷰티 썸 수원'… K뷰티 산업전으로 진화",
+ "summary": "총 8개국 바이어 24명이 참여하는 수출 상담회도 열린다. 국내 뷰티 기업들은 베트남·중국·일본·태국·몽골·미국·방글라데시·파키스탄 등으로의 진출 가능성을 타진할 수 있다. 시민 참여 체험 프로그램도 운영 일반...",
+ "published_at": "2026-11-03T13:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "VN",
+   "CN",
+   "JP",
+   "TH",
+   "MN",
+   "US",
+   "BD",
+   "PK"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 산업전",
+   "수출 상담회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 썸 수원이 K뷰티 산업전으로 커지고 있다.",
+  "key_fact_quote": "총 8개국 바이어 24명이 참여하는 수출 상담회도 열린다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

@@ -1,0 +1,72 @@
+{
+ "doc_id": "8a0090583f91edc2",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53849",
+ "title": "정샘물뷰티 '2026 홀리데이 에디션'",
+ "summary": "정샘물뷰티가 2026 홀리데이 에디션을 선보였다. 이번 제품은 ‘LUMINOUS YOUTIFUL’을 주제로 기획했다. 은은한 빛과 맑게 물드는 컬러, 피부 결을 따라 입체적으로 살아나는 광채감이 특징이다. 대표 제품인 ‘에센셜 스킨 누더 쿠션’와 아이 팔레트, 립 제품 등으로 구성했다. ‘에센셜 스킨 누더…",
+ "published_at": "2026-11-03T10:52:03+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "정샘물뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 에디션",
+   "글로우 메이크업",
+   "한정 컬렉션"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "에센셜 스킨 누더 쿠션",
+    "brand": "정샘물뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "정샘물뷰티가 2026 홀리데이 에디션을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아티스트 아이 팔레트 코어 스노우볼",
+    "brand": "정샘물뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "정샘물뷰티가 2026 홀리데이 에디션을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "립프레션 메탈 세럼 글로스",
+    "brand": "정샘물뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "정샘물뷰티가 2026 홀리데이 에디션을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "정샘물뷰티가 올해 홀리데이 에디션을 선보였다.",
+  "key_fact_quote": "정샘물뷰티가 2026 홀리데이 에디션을 선보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

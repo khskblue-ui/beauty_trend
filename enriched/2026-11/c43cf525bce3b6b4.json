@@ -1,0 +1,87 @@
+{
+ "doc_id": "c43cf525bce3b6b4",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100363",
+ "title": "더파운더즈, 지파운데이션에 20억 원 상당 ‘아누아’ 제품 후원",
+ "summary": "글로벌 브랜드 빌더 기업 더파운더즈가 국제개발협력 NGO 지파운데이션에 올해 총 20억 원 상당의 스킨케어 제품을 기부했다.더파운더즈는 지난달 28일 서울 강남구 소재 본사에서 지파운데이션과 기부 물품 전달식을 진행했다. 이날 행사에서는 올해 4회에 걸쳐 전달한 제품 9만 7,250개의 후원 성과를 공유하고, 지속적인 파트너십과 나눔 활동에 대한 의지를 다졌다.이번 후원은 ‘스킨케어는 사치재가 아닌 모두에게 필요한 일상의 필수재’라는 더파운더즈의 사회공헌 기조를 바탕으로 기획됐다. 성장기 청소년부터 어르신까지 누구나 스스로를 건강하",
+ "published_at": "2026-11-03T10:58:55+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아누아"
+  ],
+  "companies": [
+   "더파운더즈",
+   "지파운데이션"
+  ],
+  "keywords": [
+   "스킨케어 기부",
+   "사회공헌"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "어성초 77 토너",
+    "brand": "아누아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "복숭아 나이아신아마이드 세럼",
+    "brand": "아누아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "결 쿠션",
+    "brand": "아누아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더파운더즈가 아누아 스킨케어 제품을 지파운데이션에 기부했다.",
+  "key_fact_quote": "더파운더즈가 국제개발협력 NGO 지파운데이션에 올해 총 20억 원 상당의 스킨케어 제품을 기부했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "어성초",
+    "quote": "기부 물품은 ‘어성초 77 토너’, ‘복숭아 나이아신아마이드 세럼’, ‘결 쿠션’ 등 더파운더즈 대표 브랜드 아누아(Anua)의 스킨케어 제품으로 구성됐다."
+   },
+   {
+    "name": "나이아신아마이드",
+    "quote": "기부 물품은 ‘어성초 77 토너’, ‘복숭아 나이아신아마이드 세럼’, ‘결 쿠션’ 등 더파운더즈 대표 브랜드 아누아(Anua)의 스킨케어 제품으로 구성됐다."
+   },
+   {
+    "name": "복숭아",
+    "quote": "기부 물품은 ‘어성초 77 토너’, ‘복숭아 나이아신아마이드 세럼’, ‘결 쿠션’ 등 더파운더즈 대표 브랜드 아누아(Anua)의 스킨케어 제품으로 구성됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

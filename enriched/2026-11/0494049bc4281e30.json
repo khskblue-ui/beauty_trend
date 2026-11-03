@@ -1,0 +1,41 @@
+{
+ "doc_id": "0494049bc4281e30",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2487635",
+ "title": "수원시, ' 뷰티 썸' 5일 개막…130개사·8개국 바이어 참여",
+ "summary": "지난해에는 84건, 560만달러 상당의 수출 상담 실적을 기록했다. ▷원료·기술·마케팅 연결하는 특화 전시관 수원시는 K - 뷰티 경쟁력 강화를 위해 올해 박람회의 산업 부문을 확대했다. 원료와 소재부터 브랜드·유통까지...",
+ "published_at": "2026-11-03T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 박람회",
+   "수출 상담회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "수원시가 뷰티 썸 박람회를 연다.",
+  "key_fact_quote": "수원시, ' 뷰티 썸' 5일 개막…130개사·8개국 바이어 참여",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

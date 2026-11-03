@@ -1,0 +1,54 @@
+{
+ "doc_id": "fd409298231a5023",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.yna.co.kr/view/AKR20261103178000030?input=1195m",
+ "title": "배민, 화장품 즉시배송 'B뷰티' 출시 …서울 일부 지역서 시작",
+ "summary": "배달의민족이 뷰티 상품을 30분∼1시간 내 배송하는 서비스를 선보이며 화장품 퀵커머스 시장에 진출한다.... 배민 관계자는 \"온라인 뷰티 시장이 커지고 배민에서도 화장품 을 찾는 고객이 늘면서 B뷰티를 선보이게 됐다...",
+ "published_at": "2026-11-03T19:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "배달의민족"
+  ],
+  "keywords": [
+   "화장품 퀵커머스",
+   "즉시배송",
+   "뷰티 배달"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "B뷰티",
+    "brand": "배달의민족",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "배달의민족이 뷰티 상품을 30분∼1시간 내 배송하는 서비스를 선보이며 화장품 퀵커머스 시장에 진출한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "배달의민족이 화장품 즉시배송 서비스를 내놨다.",
+  "key_fact_quote": "배달의민족이 뷰티 상품을 30분∼1시간 내 배송하는 서비스를 선보이며 화장품 퀵커머스 시장에 진출한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

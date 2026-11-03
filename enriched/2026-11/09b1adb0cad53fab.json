@@ -1,0 +1,82 @@
+{
+ "doc_id": "09b1adb0cad53fab",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100365",
+ "title": "루나, 메이크업 툴 전문 브랜드 피카소와 협업",
+ "summary": "메이크업 전문 브랜드 ‘루나’(LUNA)에서 프로페셔널 메이크업 툴 브랜드 ‘피카소(Piccasso)’와 협업해 베이스 메이크업의 완성도를 높이는 ‘루나 X 피카소 콜라보 에디션 3종’을 선보인다.이번 협업은 제품의 제형과 메이크업 툴을 함께 활용하는 사용 경험에 초점을 맞췄다. 루나가 오랜 기간 쌓아 온 컨실러 및 베이스 메이크업 전문성과 피카소의 메이크업 툴 노하우를 결합해 제품의 특성을 더욱 효과적으로 경험할 수 있도록 기획했다.피카소는 청담동 메이크업 아티스트를 기반으로 성장한 프로페셔널 브러쉬 브랜드로, 35년간 국내 메이",
+ "published_at": "2026-11-03T11:02:23+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "루나",
+   "피카소"
+  ],
+  "companies": [],
+  "keywords": [
+   "브랜드 협업",
+   "메이크업 툴",
+   "베이스 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "루나 X 피카소 콜라보 에디션 3종",
+    "brand": "루나",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "메이크업 전문 브랜드 ‘루나’(LUNA)에서 프로페셔널 메이크업 툴 브랜드 ‘피카소(Piccasso)’와 협업해 베이스 메이크업의 완성도를 높이는 ‘루나 X 피카소 콜라보 에디션 3종’을 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "롱래스팅 컨실 쿠션",
+    "brand": "루나",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "메이크업 전문 브랜드 ‘루나’(LUNA)에서 프로페셔널 메이크업 툴 브랜드 ‘피카소(Piccasso)’와 협업해 베이스 메이크업의 완성도를 높이는 ‘루나 X 피카소 콜라보 에디션 3종’을 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "컨실 블렌더 팔레트",
+    "brand": "루나",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "메이크업 전문 브랜드 ‘루나’(LUNA)에서 프로페셔널 메이크업 툴 브랜드 ‘피카소(Piccasso)’와 협업해 베이스 메이크업의 완성도를 높이는 ‘루나 X 피카소 콜라보 에디션 3종’을 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "멜티드 치크밤",
+    "brand": "루나",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "메이크업 전문 브랜드 ‘루나’(LUNA)에서 프로페셔널 메이크업 툴 브랜드 ‘피카소(Piccasso)’와 협업해 베이스 메이크업의 완성도를 높이는 ‘루나 X 피카소 콜라보 에디션 3종’을 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "루나가 메이크업 툴 브랜드 피카소와 협업한 에디션을 선보인다.",
+  "key_fact_quote": "메이크업 전문 브랜드 ‘루나’(LUNA)에서 프로페셔널 메이크업 툴 브랜드 ‘피카소(Piccasso)’와 협업해 베이스 메이크업의 완성도를 높이는 ‘루나 X 피카소 콜라보 에디션 3종’을 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

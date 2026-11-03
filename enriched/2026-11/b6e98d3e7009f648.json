@@ -1,0 +1,42 @@
+{
+ "doc_id": "b6e98d3e7009f648",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=879512",
+ "title": "수원특례시, K - 뷰티 기업 130곳 집결…해외 바이어와 수출 시장 확대모색",
+ "summary": "아우르는 K - 뷰티 산업 교류의 장을 마련한다. 올해는 국내외 기업과 기관 130곳이 참여하고 8개국 해외 바이어를 초청하는 등 산업 전시와 수출 상담 기능을 강화한 것이 특징이다. 수원특례시는 오는 5일부터 7일까지...",
+ "published_at": "2026-11-03T19:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 박람회",
+   "수출 상담",
+   "해외 바이어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "수원특례시가 산업 전시와 수출 상담 기능을 강화한 K-뷰티 박람회를 연다.",
+  "key_fact_quote": "올해는 국내외 기업과 기관 130곳이 참여하고 8개국 해외 바이어를 초청하는 등 산업 전시와 수출 상담 기능을 강화한 것이 특징이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

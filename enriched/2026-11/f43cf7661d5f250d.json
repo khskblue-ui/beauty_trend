@@ -1,0 +1,44 @@
+{
+ "doc_id": "f43cf7661d5f250d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.geconomy.co.kr/news/article.html?no=325254",
+ "title": "“스타일에 맞춰 향수 찾아준다”… 롯데百, K- 향수 편집숍 ‘센트트레...",
+ "summary": "있는 ' 니치 향수 (취향 반영 맞춤형 향수)'와 K-뷰티 브랜드가 프리미엄 뷰티 시장의 새로운 대세로 부상했다. 이에 유통업계가 고객의 옷차림과 스타일에 맞춰 가장 잘 어울리는 향수를 일대일로 찾아주는 이색 체험...",
+ "published_at": "2026-11-03T22:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데백화점"
+  ],
+  "keywords": [
+   "니치 향수",
+   "맞춤형 향수",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유통업계가 고객의 옷차림과 스타일에 맞춰 향수를 찾아 주는 체험을 내놓고 있다.",
+  "key_fact_quote": "이에 유통업계가 고객의 옷차림과 스타일에 맞춰 가장 잘 어울리는 향수를 일대일로 찾아주는 이색 체험...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

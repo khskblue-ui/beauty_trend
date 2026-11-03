@@ -1,0 +1,43 @@
+{
+ "doc_id": "b99425bb5abec332",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=172843",
+ "title": "KCC실리콘, '인-코스메틱스 아시아 2026' 참가…동남아 뷰티 공략",
+ "summary": "한국산 화장품은 이제 수출 시장에서 큰 효자 노릇을 하고 있다. 한국산 화장품의 경우 중국에서의 부진을... 함께 K - 뷰티 산업의 지속적인 도약 여부가 향후 계속 눈길을 끌게 될 것\"이라고 전했다. 이런 가운데 화장품...",
+ "published_at": "2026-11-03T09:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "KCC실리콘"
+  ],
+  "keywords": [
+   "동남아 뷰티",
+   "화장품 원료 박람회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "KCC실리콘이 인-코스메틱스 아시아 2026에 참가해 동남아 뷰티 시장을 겨냥한다.",
+  "key_fact_quote": "KCC실리콘, '인-코스메틱스 아시아 2026' 참가…동남아 뷰티 공략",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

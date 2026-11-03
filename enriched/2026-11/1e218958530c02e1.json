@@ -1,0 +1,53 @@
+{
+ "doc_id": "1e218958530c02e1",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53848",
+ "title": "서울 뷰티기업, 중동의 진주 ‘오만’ 진출",
+ "summary": "서울경제진흥원이 뷰티기업의 중동 진출을 추진하고 나섰다. 서울경제진흥원은 10월 5일 중동 오만 무스카트에 서울 뷰티기업 26개사의 거점을 마련했다. 이어 10월 22일에는 오만 유통업계 관계자를 초청해 론칭 행사를 열고 브랜드를 소개했다. 이번 서울 뷰티기업의 중동 행사는 ‘서울 라이프스타일 거…",
+ "published_at": "2026-11-03T10:12:28+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "OM"
+  ],
+  "brands": [],
+  "companies": [
+   "서울경제진흥원",
+   "탈라밧 오만"
+  ],
+  "keywords": [
+   "중동 진출",
+   "뷰티 수출 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "서울경제진흥원이 서울 뷰티기업의 오만 진출 거점을 마련했다.",
+  "key_fact_quote": "서울경제진흥원은 10월 5일 중동 오만 무스카트에 서울 뷰티기업 26개사의 거점을 마련했다.",
+  "events": [
+   {
+    "name": "론칭 행사",
+    "start_date": "2026-10-22",
+    "end_date": null,
+    "place": "오만",
+    "quote": "이어 10월 22일에는 오만 유통업계 관계자를 초청해 론칭 행사를 열고 브랜드를 소개했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

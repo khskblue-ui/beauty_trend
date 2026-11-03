@@ -1,0 +1,44 @@
+{
+ "doc_id": "a804f59762a63f7f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.4th.kr/news/articleView.html?idxno=2120971",
+ "title": "[유통소식] 롯데百, 맞춤형 K-퍼퓸 편집숍 '센트트레이' 선봬",
+ "summary": "국내 향수 브랜드를 모은 K-퍼퓸 전문 매장 '센트트레이(SCENTRAY)'를 개점했다고 밝혔다. 센트트레이는... 마련하고 신제품 '한강라면'을 선보인다. 즉석 조리 시식과 놀이 프로그램을 결합해 관람객이 제품을 체험하도록...",
+ "published_at": "2026-11-03T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데백화점"
+  ],
+  "keywords": [
+   "K-퍼퓸",
+   "향수 편집숍",
+   "국내 향수 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "롯데백화점이 국내 향수 브랜드를 모은 K-퍼퓸 전문 매장을 열었다.",
+  "key_fact_quote": "국내 향수 브랜드를 모은 K-퍼퓸 전문 매장 '센트트레이(SCENTRAY)'를 개점했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

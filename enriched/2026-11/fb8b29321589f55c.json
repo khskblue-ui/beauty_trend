@@ -1,0 +1,47 @@
+{
+ "doc_id": "fb8b29321589f55c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=228732",
+ "title": "LG생활건강, 3분기 뷰티 적자 축소…'힌스' 지분 100% 확보",
+ "summary": "美 에이본 매각 등에도 전년 수준 매출 유지 국내 뷰티 실적 호조로 수익성 큰 폭 개선 LG생활건강(대표... 코카콜라는 꾸준한 신제품 출시 와 마케팅 활동으로 고객 접점을 확대하고 있다. 3분기에는 천연 레몬라임...",
+ "published_at": "2026-11-03T17:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "힌스",
+   "에이본"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "뷰티 실적 개선",
+   "지분 확보"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "LG생활건강이 뷰티 적자를 줄이고 힌스 지분을 모두 확보했다.",
+  "key_fact_quote": "LG생활건강, 3분기 뷰티 적자 축소…'힌스' 지분 100% 확보",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

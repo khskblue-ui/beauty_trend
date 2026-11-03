@@ -1,0 +1,45 @@
+{
+ "doc_id": "d8176125110824e1",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/van-dang-fragrances-saks-launch-1239392873/",
+ "title": "EXCLUSIVE: Van Dang Fragrances Expands Its Retail Footprint",
+ "summary": "The scent brand, cofounded by Kim-Van Dang and her husband, Anthony Roberts, is debuting its full assortment in two Saks doors.",
+ "published_at": "2026-11-03T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Van Dang Fragrances"
+  ],
+  "companies": [
+   "Saks"
+  ],
+  "keywords": [
+   "니치 향수",
+   "백화점 입점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Van Dang Fragrances가 전체 제품군을 Saks 두 매장에서 선보인다.",
+  "key_fact_quote": "The scent brand, cofounded by Kim-Van Dang and her husband, Anthony Roberts, is debuting its full assortment in two Saks doors.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

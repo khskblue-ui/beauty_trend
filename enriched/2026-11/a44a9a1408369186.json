@@ -1,0 +1,44 @@
+{
+ "doc_id": "a44a9a1408369186",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.naeil.com/news/read/607392?ref=naver",
+ "title": "진화하는 K뷰티…세심함까지 무장",
+ "summary": "눈가 등 섬세한 부위의 사용 특성을 고려해 향료 를 첨가하지 않았다. 그만큼 애초부터 섬세하고 세심하게 제품을 만들었다는 얘기다. 스킨케어 브랜드 디오디너리도 지난달 입술 수분과 탄력 관리에 초점을 맞춘 ‘HA...",
+ "published_at": "2026-11-03T13:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "디오디너리"
+  ],
+  "companies": [],
+  "keywords": [
+   "무향 제품",
+   "민감 부위 케어",
+   "립 케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "섬세한 부위용 제품에 향료를 넣지 않은 K뷰티 제품이 나왔다.",
+  "key_fact_quote": "눈가 등 섬세한 부위의 사용 특성을 고려해 향료 를 첨가하지 않았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

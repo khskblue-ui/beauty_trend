@@ -1,0 +1,48 @@
+{
+ "doc_id": "bd310385e7e9283b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=578807&class=17&grp=",
+ "title": "LG생활건강, 화장품 적자 줄여 영업익 반등…해외 매출은 뒷걸음",
+ "summary": "LG생활건강이 올해 3분기 화장품 사업의 적자 축소에 힘입어 영업이익을 50% 이상 늘렸다. 다만 전체... LG생활건강은 더후·오휘·닥터그루트·유시몰 등 주요 브랜드의 신제품 출시와 해외 유통망 확대를 추진하고...",
+ "published_at": "2026-11-03T16:09:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더후",
+   "오휘",
+   "닥터그루트",
+   "유시몰"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "화장품 적자 축소",
+   "해외 매출 부진"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "LG생활건강이 화장품 적자를 줄여 영업이익이 늘었다.",
+  "key_fact_quote": "LG생활건강이 올해 3분기 화장품 사업의 적자 축소에 힘입어 영업이익을 50% 이상 늘렸다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

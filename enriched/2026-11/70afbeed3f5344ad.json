@@ -1,0 +1,56 @@
+{
+ "doc_id": "70afbeed3f5344ad",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/wellness/whoop-ulta-launch-mg-5-0-wellness-tracker-1239396456/",
+ "title": "EXCLUSIVE: Whoop to Enter Ulta Beauty",
+ "summary": "The health tech company will launch its wearable fitness trackers online and in select stores in March 2027.",
+ "published_at": "2026-11-03T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Whoop"
+  ],
+  "companies": [
+   "Whoop",
+   "Ulta Beauty"
+  ],
+  "keywords": [
+   "뷰티 유통 확장",
+   "웨어러블 기기"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Whoop",
+    "brand": "Whoop",
+    "launch_date": "2027-03",
+    "launch_status": "upcoming",
+    "launch_quote": "The health tech company will launch its wearable fitness trackers online and in select stores in March 2027.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Whoop이 웨어러블 피트니스 트래커를 얼타 뷰티에 들여온다.",
+  "key_fact_quote": "The health tech company will launch its wearable fitness trackers online and in select stores in March 2027.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

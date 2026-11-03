@@ -1,0 +1,57 @@
+{
+ "doc_id": "96e9c22ddbf467df",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.widedaily.com/news/articleView.html?idxno=302638",
+ "title": "미주·유럽 홀린 K- 뷰티 테크…에이피알 '메디큐브' 글로벌 팝업에 1만 5...",
+ "summary": "글로벌 뷰티 테크 기업 에이피알의 뷰티 브랜드 '메디큐브'가 서구권 시장 오프라인 공략에 청신호를 켰다.... 이번 릴레이 팝업스토어의 핵심은 미주 및 유럽 시장에 새롭게 론칭 한 차세대 뷰티 디바이스 '부스터 프로 X2...",
+ "published_at": "2026-11-03T09:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "메디큐브"
+  ],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "글로벌 팝업스토어",
+   "K뷰티 테크"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "부스터 프로 X2",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번 릴레이 팝업스토어의 핵심은 미주 및 유럽 시장에 새롭게 론칭 한 차세대 뷰티 디바이스 '부스터 프로 X2",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피알 메디큐브가 미주와 유럽에서 팝업스토어를 열고 뷰티 디바이스를 선보였다.",
+  "key_fact_quote": "이번 릴레이 팝업스토어의 핵심은 미주 및 유럽 시장에 새롭게 론칭 한 차세대 뷰티 디바이스 '부스터 프로 X2",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

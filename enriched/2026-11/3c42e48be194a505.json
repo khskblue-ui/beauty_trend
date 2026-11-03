@@ -1,0 +1,44 @@
+{
+ "doc_id": "3c42e48be194a505",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.joongangenews.com/news/articleView.html?idxno=560737",
+ "title": "옷차림 분석해 향수 추천…롯데百, K-퍼퓸 편집숍 열었다",
+ "summary": "[사진=롯데백화점] 롯데백화점이 국내 향수 브랜드 를 모은 전문 편집숍을 열고 개인 취향에 맞춘 향수 큐레이션을 강화한다. 고객의 패션 이미지와 선호하는 감정, 향을 사용할 상황을 분석해 어울리는 향을 추천하는...",
+ "published_at": "2026-11-03T13:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데백화점"
+  ],
+  "keywords": [
+   "K퍼퓸",
+   "향수 큐레이션",
+   "향수 편집숍"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "롯데백화점이 국내 향수 브랜드를 모은 전문 편집숍을 열었다.",
+  "key_fact_quote": "롯데백화점이 국내 향수 브랜드 를 모은 전문 편집숍을 열고 개인 취향에 맞춘 향수 큐레이션을 강화한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

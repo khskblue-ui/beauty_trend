@@ -1,0 +1,43 @@
+{
+ "doc_id": "503d73c184e9f48b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100366",
+ "title": "미·중·EU 고른 성장세...화장품 수출, 역대 10월 최대 실적 경신",
+ "summary": "산업통상부가 1일 발표한 2026년 10월 수출입 동향에 따르면, 우리 경제는 주력 산업의 탄탄한 경쟁력과 글로벌 수요 확대를 바탕으로 역대급의 호조세를 이어가고 있다. 특히 전체 수출이 전년 동월 대비 93.7%라는 폭발적인 증가율을 기록하며 1,152억 8천만 달러를 달성, 지난 9월에 이어 2개월 연속 1,100억 달러 상회라는 대기록을 수성했다. 수입 역시 36.0% 증가한 727억 8천만 달러를 기록하였으나, 수출의 압도적인 우위에 힘입어 무역수지는 425억 달러 흑자를 기록하며 2개월 연속 400억 달러 이상 흑자를 안정",
+ "published_at": "2026-11-03T13:22:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "K뷰티 수출 호조"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "10월 화장품 수출이 역대 10월 가운데 가장 큰 실적을 냈다.",
+  "key_fact_quote": "10월 한 달간 화장품 수출액은 14억 4천만 달러를 기록하여 전년 동월 대비 57.5% 급증했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

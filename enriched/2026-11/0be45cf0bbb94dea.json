@@ -1,0 +1,69 @@
+{
+ "doc_id": "0be45cf0bbb94dea",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=778684",
+ "title": "가히, 율무 클렌징 신제품 출시 ...디올 뷰티 , 홀리데이 글로우 컬렉션 ...",
+ "summary": "뷰티 브랜드 가히에서는 세안과 팩을 한 번에 할 수 있는 신제품 '가히 율무 클렌징 브라이트너'를 출시 했다고 2일 밝혔다. 사진=가히 이번 신제품 은 단순한 세안을 넘어 피부 영양 공급과 모공, 요철 등 피부결 고민을 한...",
+ "published_at": "2026-11-03T22:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "가히",
+   "디올 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "클렌징",
+   "홀리데이 컬렉션",
+   "피부결 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "가히 율무 클렌징 브라이트너",
+    "brand": "가히",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "뷰티 브랜드 가히에서는 세안과 팩을 한 번에 할 수 있는 신제품 '가히 율무 클렌징 브라이트너'를 출시 했다고 2일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "홀리데이 글로우 컬렉션",
+    "brand": "디올 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "가히가 세안과 팩을 한 번에 할 수 있는 클렌징 신제품을 출시했다.",
+  "key_fact_quote": "뷰티 브랜드 가히에서는 세안과 팩을 한 번에 할 수 있는 신제품 '가히 율무 클렌징 브라이트너'를 출시 했다고 2일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "율무",
+    "quote": "뷰티 브랜드 가히에서는 세안과 팩을 한 번에 할 수 있는 신제품 '가히 율무 클렌징 브라이트너'를 출시 했다고 2일 밝혔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

@@ -1,0 +1,55 @@
+{
+ "doc_id": "32a048afed635b4f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91406",
+ "title": "루나, 피카소와 손잡고 메이크업 툴 결합한 베이스 제품 3종 출시",
+ "summary": "화장품 제형과 전용 도구를 함께 구성해 제품의 활용도를 높이고 소비자에게 차별화된 메이크업 경험을 제공한다는 전략이다. 루나는 피카소와 공동 기획한 '루나 X 피카소 콜라보 에디션'을 출시 한다고 3일 밝혔다. 이번...",
+ "published_at": "2026-11-03T12:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "루나",
+   "피카소"
+  ],
+  "companies": [],
+  "keywords": [
+   "메이크업 협업",
+   "메이크업 도구",
+   "콜라보 에디션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "루나 X 피카소 콜라보 에디션",
+    "brand": "루나",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "루나는 피카소와 공동 기획한 '루나 X 피카소 콜라보 에디션'을 출시 한다고 3일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "루나가 화장품 제형과 전용 도구를 함께 구성한 협업 제품을 냈다.",
+  "key_fact_quote": "화장품 제형과 전용 도구를 함께 구성해 제품의 활용도를 높이고 소비자에게 차별화된 메이크업 경험을 제공한다는 전략이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}

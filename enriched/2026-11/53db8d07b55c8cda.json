@@ -1,0 +1,80 @@
+{
+ "doc_id": "53db8d07b55c8cda",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53856",
+ "title": "J2K바이오, 美 카사바파마와 손잡고 사업 확장",
+ "summary": "바이오액티브 소재 전문기업 제이투케이바이오(대표 이재섭)가 미국의 의약·화장품용 타피오카 전분 전문기업 카사바파마(Cassava Pharma)와 한국 대리점 계약을 체결했다. 양사는 미국 유통망 협력을 위한 양해각서(MOU)도 체결, 국내 원료 공급 확대와 함께 미국 시장 진출을 위한 협력 기반…",
+ "published_at": "2026-11-03T21:01:17+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "제이투케이바이오",
+   "카사바파마",
+   "브렌탁"
+  ],
+  "keywords": [
+   "타피오카 전분",
+   "화장품 원료 유통",
+   "바이오 소재"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "제이투케이바이오가 미국 카사바파마와 타피오카 전분 원료의 국내 대리점 계약을 맺었다.",
+  "key_fact_quote": "바이오액티브 소재 전문기업 제이투케이바이오(대표 이재섭) 가 미국의 의약·화장품용 타피오카 전분 전문기업 카사바파마(Cassava Pharma) 와 한국 대리점 계약을 체결했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "타피오카 전분",
+    "quote": "이번 계약에 따라 제이투케이바이오는 카사바파마의 타피오카 전분 기반 원료 11종을 국내 화장품·의약품·건강기능식품 제조사에 공급한다."
+   },
+   {
+    "name": "카사바 스타치 1580GG",
+    "quote": "대표 제품 ‘카사바 스타치 1580GG’는 부분 전호화 타피오카 전분으로 미국 약전(USP-NF)의 전호화 전분 규격에 부합한다."
+   },
+   {
+    "name": "2535GG PV",
+    "quote": "국내 공급 제품은 △ 유동성을 높인 미분화 전분 ‘2535GG PV’ △ 냉수 용해성과 동결·해동 안정성을 갖춘 점도 조절용 ‘6090GG HPS’ △ 직타정용 ‘3780GG’ △ 쓴맛 차폐 기능을 갖춘 ‘9045GG DC’ 등이다."
+   },
+   {
+    "name": "6090GG HPS",
+    "quote": "국내 공급 제품은 △ 유동성을 높인 미분화 전분 ‘2535GG PV’ △ 냉수 용해성과 동결·해동 안정성을 갖춘 점도 조절용 ‘6090GG HPS’ △ 직타정용 ‘3780GG’ △ 쓴맛 차폐 기능을 갖춘 ‘9045GG DC’ 등이다."
+   },
+   {
+    "name": "3780GG",
+    "quote": "국내 공급 제품은 △ 유동성을 높인 미분화 전분 ‘2535GG PV’ △ 냉수 용해성과 동결·해동 안정성을 갖춘 점도 조절용 ‘6090GG HPS’ △ 직타정용 ‘3780GG’ △ 쓴맛 차폐 기능을 갖춘 ‘9045GG DC’ 등이다."
+   },
+   {
+    "name": "9045GG DC",
+    "quote": "국내 공급 제품은 △ 유동성을 높인 미분화 전분 ‘2535GG PV’ △ 냉수 용해성과 동결·해동 안정성을 갖춘 점도 조절용 ‘6090GG HPS’ △ 직타정용 ‘3780GG’ △ 쓴맛 차폐 기능을 갖춘 ‘9045GG DC’ 등이다."
+   },
+   {
+    "name": "0065GG",
+    "quote": "화장품 분야에서는 △ 각질 제거용 마이크로비즈 ‘0065GG’ △ 수분·유분 흡수력이 뛰어난 드라이 샴푸·파우더용 프리미엄 전분 ‘0092GG’ 등을 통해 활용 범위를 넓힐 수 있다."
+   },
+   {
+    "name": "0092GG",
+    "quote": "화장품 분야에서는 △ 각질 제거용 마이크로비즈 ‘0065GG’ △ 수분·유분 흡수력이 뛰어난 드라이 샴푸·파우더용 프리미엄 전분 ‘0092GG’ 등을 통해 활용 범위를 넓힐 수 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": true
+}

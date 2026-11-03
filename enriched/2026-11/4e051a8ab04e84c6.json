@@ -1,0 +1,49 @@
+{
+ "doc_id": "4e051a8ab04e84c6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.ifm.kr/news/articleView.html?idxno=483383",
+ "title": "이재준 수원시장, K - 뷰티 글로벌 시장 공략...기업 수출 확대 발판",
+ "summary": "이와 함께 베트남과 중국, 일본, 태국, 몽골, 미국, 방글라데시, 파키스탄 등 8개국에서 24명의 해외 바이어가 참여하는 수출 상담회도 열린다. ■AI 뷰티 테크부터 원료 개발까지...산업 경쟁력 강화 글로벌 시장에서...",
+ "published_at": "2026-11-03T16:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "VN",
+   "CN",
+   "JP",
+   "TH",
+   "MN",
+   "US",
+   "BD",
+   "PK"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "수출 상담회",
+   "K뷰티 글로벌 공략"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "수원시가 해외 바이어 수출 상담회로 K뷰티 기업의 수출 확대를 돕는다.",
+  "key_fact_quote": "이와 함께 베트남과 중국, 일본, 태국, 몽골, 미국, 방글라데시, 파키스탄 등 8개국에서 24명의 해외 바이어가 참여하는 수출 상담회도 열린다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-03T21:35:41+00:00",
+ "had_body": false
+}
