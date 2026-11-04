@@ -1,0 +1,57 @@
+{
+ "doc_id": "42db7dc8b315ed2c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2361426",
+ "title": "[유통ㆍ 뷰티 ]NS홈쇼핑, 2026 푸드위크 코리아 참가 협력사 판로확대 지원...",
+ "summary": "▶에스트라, '아토베리어365 립 배리어 밤' 출시 아모레퍼시픽 에스트라는 건조하고 민감한 입술을 위한 신제품 '아토베리어365 립 배리어 밤'을 이달 출시 한다고 4일 밝혔다. 회사에 따르면 '아토베리어365 립 배리어 밤...",
+ "published_at": "2026-11-04T16:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에스트라"
+  ],
+  "companies": [
+   "NS홈쇼핑",
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "립 케어",
+   "홈쇼핑 협력사 지원"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아토베리어365 립 배리어 밤",
+    "brand": "에스트라",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "아모레퍼시픽 에스트라는 건조하고 민감한 입술을 위한 신제품 '아토베리어365 립 배리어 밤'을 이달 출시 한다고 4일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에스트라가 건조하고 민감한 입술을 위한 립 배리어 밤을 이달 출시한다.",
+  "key_fact_quote": "아모레퍼시픽 에스트라는 건조하고 민감한 입술을 위한 신제품 '아토베리어365 립 배리어 밤'을 이달 출시 한다고 4일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

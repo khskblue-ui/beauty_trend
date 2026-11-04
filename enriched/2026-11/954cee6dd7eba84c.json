@@ -1,0 +1,42 @@
+{
+ "doc_id": "954cee6dd7eba84c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20320",
+ "title": "K-뷰티 성장에 상표·특허출원 증가… 브랜드·기술 보호 위한 지식재산...",
+ "summary": "화장품 산업에서 브랜드는 소비자의 제품 선택에 영향을 미치는 중요한 경쟁 요소다. 따라서 새로운 브랜드를 출시 할 때에는 브랜드명과 주요 제품명에 대한 상표출원을 검토하고, 향후 사업 확장 가능성을 고려해...",
+ "published_at": "2026-11-04T10:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "상표 출원",
+   "특허 출원",
+   "브랜드 보호"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 성장에 맞춰 상표와 특허 출원이 늘고 있다.",
+  "key_fact_quote": "화장품 산업에서 브랜드는 소비자의 제품 선택에 영향을 미치는 중요한 경쟁 요소다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:35:57+00:00",
+ "had_body": false
+}

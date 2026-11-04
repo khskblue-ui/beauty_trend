@@ -1,0 +1,47 @@
+{
+ "doc_id": "420b622564ba34e7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.ifm.kr/news/articleView.html?idxno=483431",
+ "title": "[유통街] 배민B마트·교촌엔프앤비·한국필립모리스·LG생활건강",
+ "summary": "해외에 수출 했다. 하룬 바셰르 양산공장장은 \"앞으로도 제조 현장의 실질적인 환경 개선을 통해 탄소중립과 재생에너지 확산에 기여하겠다\"고 밝혔다. ■ LG생활건강 더페이스샵, 미국 얼타 뷰티 500여곳 입점… K뷰티 ...",
+ "published_at": "2026-11-04T09:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "더페이스샵"
+  ],
+  "companies": [
+   "LG생활건강",
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "북미 진출",
+   "K-뷰티 유통"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "LG생활건강 더페이스샵이 미국 얼타 뷰티에 입점했다.",
+  "key_fact_quote": "■ LG생활건강 더페이스샵, 미국 얼타 뷰티 500여곳 입점… K뷰티 ...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

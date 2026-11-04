@@ -1,0 +1,105 @@
+{
+ "doc_id": "3ebda4ae4b4ff140",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58661",
+ "title": "에이피알, 메디큐브 캐나다 샤퍼스 약 1,300개 매장에 스킨케어 13종 입점",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 글로벌 뷰티 기업 에이피알(대표 김병훈)이 자사 뷰티 브랜드 메디큐브를 캐나다 최대 규모 드럭스토어 체인 ‘샤퍼스 드럭 마트(Shoppers Drug Mart)’ 약 1,300개 매장에 입점시키며 북미 오프라인 유통망을 확대했다고 4일 밝혔다. 에이피알은 지난달 샤퍼스…",
+ "published_at": "2026-11-04T15:23:12+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CA"
+  ],
+  "brands": [
+   "메디큐브"
+  ],
+  "companies": [
+   "에이피알",
+   "샤퍼스 드럭 마트",
+   "로블로",
+   "코스트코",
+   "닐슨IQ"
+  ],
+  "keywords": [
+   "북미 유통망 확대",
+   "K-뷰티 수출",
+   "드럭스토어 입점"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "제로모공패드",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PDRN 핑크 펩타이드 앰플",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PDRN 핑크 콜라겐 겔 마스크",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "딥 비타C 캡슐 크림",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피알이 메디큐브를 캐나다 샤퍼스 매장에 입점시켰다.",
+  "key_fact_quote": "글로벌 뷰티 기업 에이피알(대표 김병훈)이 자사 뷰티 브랜드 메디큐브를 캐나다 최대 규모 드럭스토어 체인 ‘샤퍼스 드럭 마트(Shoppers Drug Mart)’ 약 1,300개 매장에 입점시키며 북미 오프라인 유통망을 확대했다고 4일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "이번에 입점한 주요 제품은 ▲ 제로모공패드 ▲ PDRN 핑크 펩타이드 앰플 ▲ PDRN 핑크 콜라겐 겔 마스크 ▲ 딥 비타C 캡슐 크림 등으로 북미 시장에서 판매 중인 메디큐브의 인기 스킨케어 제품을 중심으로 구성됐다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "이번에 입점한 주요 제품은 ▲ 제로모공패드 ▲ PDRN 핑크 펩타이드 앰플 ▲ PDRN 핑크 콜라겐 겔 마스크 ▲ 딥 비타C 캡슐 크림 등으로 북미 시장에서 판매 중인 메디큐브의 인기 스킨케어 제품을 중심으로 구성됐다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "이번에 입점한 주요 제품은 ▲ 제로모공패드 ▲ PDRN 핑크 펩타이드 앰플 ▲ PDRN 핑크 콜라겐 겔 마스크 ▲ 딥 비타C 캡슐 크림 등으로 북미 시장에서 판매 중인 메디큐브의 인기 스킨케어 제품을 중심으로 구성됐다."
+   },
+   {
+    "name": "비타C",
+    "quote": "이번에 입점한 주요 제품은 ▲ 제로모공패드 ▲ PDRN 핑크 펩타이드 앰플 ▲ PDRN 핑크 콜라겐 겔 마스크 ▲ 딥 비타C 캡슐 크림 등으로 북미 시장에서 판매 중인 메디큐브의 인기 스킨케어 제품을 중심으로 구성됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

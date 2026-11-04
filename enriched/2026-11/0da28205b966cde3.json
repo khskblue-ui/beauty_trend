@@ -1,0 +1,42 @@
+{
+ "doc_id": "0da28205b966cde3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026110408223142929",
+ "title": "[글로벌 마켓노트]EU 전자상거래 수입품 수수료…K패션· 뷰티 역직구기...",
+ "summary": "K패션· 뷰티 역직구 기업의 부담이 커질 전망입니다. 지난 7월 도입된 임시 관세에 이어 추가 비용이... EU 집행위원회는 우회 수출 등 무역 흐름의 변화를 살핀 뒤 현재 150유로 이하 원격판매 상품에 부과하는 임시 관세를...",
+ "published_at": "2026-11-04T10:45:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "역직구",
+   "수입품 관세",
+   "전자상거래"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "EU의 전자상거래 수입품 추가 비용으로 K뷰티 역직구 기업의 부담이 커질 전망이다.",
+  "key_fact_quote": "K패션· 뷰티 역직구 기업의 부담이 커질 전망입니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "8813e90ada225ff4",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/products/unilever-35-million-euros-india-product-innovation-invest-1239400211/",
+ "title": "Unilever Makes 35 Million-Euro Investment in Indian R&D Centers to Develop ‘Next Generation’ Products",
+ "summary": "The consumer giant has earmarked the funds for existing projects including Liquids Lab of the Future, the Unilever Fragrance House, and AI and digital modeling platforms.",
+ "published_at": "2026-11-05T03:51:31+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "IN"
+  ],
+  "brands": [],
+  "companies": [
+   "Unilever"
+  ],
+  "keywords": [
+   "연구개발 투자",
+   "향료 연구소",
+   "AI 모델링"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유니레버가 인도 연구개발 센터에 투자해 차세대 제품을 개발한다.",
+  "key_fact_quote": "Unilever Makes 35 Million-Euro Investment in Indian R&D Centers to Develop ‘Next Generation’ Products",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

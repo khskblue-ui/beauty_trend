@@ -1,0 +1,43 @@
+{
+ "doc_id": "cc124663825e722f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/local/daegu-gyeongbuk/6342540",
+ "title": "\" K - 뷰티 효과\"…대구·경북 화장품 수출 두 자릿수 성장",
+ "summary": "' K - 뷰티 ' 영향으로 대구와 경북의 화장품 수출 이 두 자릿수 성장을 기록한 것으로 나타났다. 4일 한국무역협회 대구경북지역본부가 발표한 '화장품 수출 동향 및 시사점' 보고서에 따르면 올해 1~9월 대구와 경북의...",
+ "published_at": "2026-11-04T10:53:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국무역협회"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "화장품 수출 동향"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티 영향으로 대구와 경북의 화장품 수출이 두 자릿수 성장을 기록했다.",
+  "key_fact_quote": "' K - 뷰티 ' 영향으로 대구와 경북의 화장품 수출 이 두 자릿수 성장을 기록한 것으로 나타났다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

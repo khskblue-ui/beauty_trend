@@ -1,0 +1,135 @@
+{
+ "doc_id": "bdc57735ad232e9a",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58666",
+ "title": "K-화장품 중견·중소기업, 수출의 90% 이상 견인... 미텔슈탄트(Mittelstand) 브랜드·제조사 동반 성장",
+ "summary": "[코스인코리아닷컴 김민석 기자]K-뷰티의 미텔슈탄트 시대가 열리고 있다. 니치버스터 탄생이 중견 인디브랜드와 제조업으로 확산되면서 산업 구조가 항아리형으로 바뀌고 있다는 분석이다. 또한 수출 호조에 힘입어 중소중견기업 비중이 91%로 다양화 트렌디를 선도하고 수출다변화로 지역이나 대기…",
+ "published_at": "2026-11-04T22:47:15+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN",
+   "HK"
+  ],
+  "brands": [
+   "조선미녀",
+   "바닐라코",
+   "메디힐",
+   "달바",
+   "가히",
+   "스킨1004",
+   "메디큐브"
+  ],
+  "companies": [
+   "대한상의",
+   "아마존 글로벌셀링 코리아"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "니치버스터",
+   "중견 인디브랜드",
+   "수출 다변화"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "맑은쌀 선크림",
+    "brand": "조선미녀",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "클린 잇 제로 클렌징 밤",
+    "brand": "바닐라코",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "N.M.F 아쿠아링 마스크팩",
+    "brand": "메디힐",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "네모 패드 라인",
+    "brand": "메디힐",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "화이트 트러플 퍼스트 스프레이 세럼",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "멀티밤",
+    "brand": "가히",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마다가스카르 센텔라 앰플",
+    "brand": "스킨1004",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "콜라겐 나이트 랩핑 마스크",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "대한상의 분석에서 K-뷰티 수출을 중견·중소기업이 주도하는 것으로 나타났다.",
+  "key_fact_quote": "대한상의의 K-뷰티 분석에 따르면 시장이 넓어지고 중견·중소기업이 수출의 90% 이상을 이끌고 있는 것으로 나타났다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "센텔라",
+    "quote": "▲ 스킨1004- 마다가스카르 센텔라 앰플"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

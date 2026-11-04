@@ -1,0 +1,41 @@
+{
+ "doc_id": "b44fcc6c32c18961",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bizwnews.com/news/articleView.html?idxno=150943",
+ "title": "부산시·부산테크노파크, 화장품· 뷰티 산업 경쟁력 강화 위한 다양한 기...",
+ "summary": "한국무역협회 K -stat 통계를 바탕으로 분석한 결과 2026년 1~9월 부산지역 화장품 누적 수출 액은 3억23만9000달러로 전년 동기 대비 148.6% 증가했다는 것이다. 부산시와 부산테크노파크 측은 올해 화장품 뷰티 산업...",
+ "published_at": "2026-11-04T17:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출 증가",
+   "지역 뷰티 산업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "부산지역 화장품 수출이 크게 늘었다.",
+  "key_fact_quote": "2026년 1~9월 부산지역 화장품 누적 수출 액은 3억23만9000달러로 전년 동기 대비 148.6% 증가했다는 것이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:35:57+00:00",
+ "had_body": false
+}

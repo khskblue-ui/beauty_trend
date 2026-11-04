@@ -1,0 +1,55 @@
+{
+ "doc_id": "7847d2aeafd08b18",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kukinews.com/article/view/kuk202611040137",
+ "title": "동화약품 ‘후시덤’ 누적 판매 100만개… 화장품 사업 확대",
+ "summary": "후시덤은 동화약품이 올해 5월 다이소에 선보인 전용 화장품 브랜드다. 출시 이후 다이소에서 월평균 20만개 이상 판매됐으며, 지난 10월 출시 한 ‘흔적 리페어 캡슐 크림’은 다이소 온라인몰 뷰티 판매 순위 1위에...",
+ "published_at": "2026-11-04T14:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "후시덤"
+  ],
+  "companies": [
+   "동화약품"
+  ],
+  "keywords": [
+   "다이소 화장품",
+   "더마 코스메틱"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "흔적 리페어 캡슐 크림",
+    "brand": "후시덤",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "지난 10월 출시 한 ‘흔적 리페어 캡슐 크림’은 다이소 온라인몰 뷰티 판매 순위 1위에",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동화약품이 다이소 전용 화장품 브랜드 후시덤으로 화장품 사업을 넓히고 있다.",
+  "key_fact_quote": "후시덤은 동화약품이 올해 5월 다이소에 선보인 전용 화장품 브랜드다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

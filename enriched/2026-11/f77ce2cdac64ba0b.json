@@ -1,0 +1,44 @@
+{
+ "doc_id": "f77ce2cdac64ba0b",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58662",
+ "title": "경희대, 피부 색소 조절 새로운 분자기전 규명 ‘멜라노좀 이동 원리 확인’",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 경희대학교 황재성 교수 연구팀이 피부 색소를 운반하는 멜라노좀의 이동과 분포를 조절하는 새로운 분자기전을 규명했다. 이번 연구는 보건복지부가 지원하는 ‘혁신성장 피부건강 기반기술 개발사업’의 일환으로 황재성 교수가 수행 중인 ‘화장품 기술수요 충족연구…",
+ "published_at": "2026-11-04T16:00:34+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "경희대학교"
+  ],
+  "keywords": [
+   "피부 색소",
+   "멜라노좀",
+   "분자기전 연구"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "경희대 연구팀이 피부 색소를 운반하는 멜라노좀의 이동을 조절하는 새로운 분자기전을 규명했다.",
+  "key_fact_quote": "경희대학교 황재성 교수 연구팀이 피부 색소를 운반하는 멜라노좀의 이동과 분포를 조절하는 새로운 분자기전을 규명했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

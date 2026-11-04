@@ -1,0 +1,47 @@
+{
+ "doc_id": "83b292e7d3ad1d61",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=138633",
+ "title": "더페이스샵, 美 얼타 뷰티 온·오프라인 입점...북미 K- 뷰티 시장 공략 ...",
+ "summary": "LG생활건강의 대표 K- 뷰티 브랜드 더페이스샵이 미국 대형 뷰티 유통업체 얼타 뷰티 (Ulta Beauty)에 입점하며... 더페이스샵은 지난 10월 얼타 뷰티 온라인몰에 제품을 선 론칭 한 데 이어 이달 초 미국 오프라인 매장...",
+ "published_at": "2026-11-04T09:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "더페이스샵"
+  ],
+  "companies": [
+   "LG생활건강",
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "북미 유통망",
+   "K-뷰티 해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "더페이스샵이 미국 얼타 뷰티 온라인몰과 오프라인 매장에 입점했다.",
+  "key_fact_quote": "더페이스샵은 지난 10월 얼타 뷰티 온라인몰에 제품을 선 론칭 한 데 이어 이달 초 미국 오프라인 매장",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

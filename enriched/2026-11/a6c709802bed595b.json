@@ -1,0 +1,64 @@
+{
+ "doc_id": "a6c709802bed595b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212697",
+ "title": "HLB제넥스 지에프퍼멘텍, '인코스메틱스 아시아'서 복합 세라마이드 신...",
+ "summary": "최근에는 발효 기반 세라마이드와 펩타이드를 중심으로 화장품 원료 사업을 확대하고 있다. 이번 신제품 은 세라마이드 생산에 발효 기술을 적용하고 복합 조성을 구현했다는 점에서 소재 차별화를 내세우고 있다....",
+ "published_at": "2026-11-04T18:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "HLB제넥스",
+   "지에프퍼멘텍"
+  ],
+  "keywords": [
+   "발효 세라마이드",
+   "펩타이드 원료",
+   "화장품 소재"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "복합 세라마이드",
+    "brand": "지에프퍼멘텍",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "지에프퍼멘텍이 발효 기술로 만든 복합 세라마이드를 새 소재로 내세웠다.",
+  "key_fact_quote": "이번 신제품 은 세라마이드 생산에 발효 기술을 적용하고 복합 조성을 구현했다는 점에서 소재 차별화를 내세우고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "최근에는 발효 기반 세라마이드와 펩타이드를 중심으로 화장품 원료 사업을 확대하고 있다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "최근에는 발효 기반 세라마이드와 펩타이드를 중심으로 화장품 원료 사업을 확대하고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

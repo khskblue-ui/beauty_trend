@@ -1,0 +1,50 @@
+{
+ "doc_id": "6be939536780cd93",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=265659",
+ "title": "더페이스샵, 美얼타 뷰티 500여곳 입점···북미 유통망 확대",
+ "summary": "현대경제신문 전수연 기자 | LG생활건강의 화장품 브랜드 더페이스샵이 미국 화장품 유통업체 '얼타 뷰티... 더페이스샵은 올해 미감수 출시 20주년을 맞아 제품 포장 디자인도 새롭게 변경했다. 지난 6월에는 미감수...",
+ "published_at": "2026-11-04T17:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "더페이스샵",
+   "미감수"
+  ],
+  "companies": [
+   "LG생활건강",
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "미국 유통 진출",
+   "K뷰티 수출",
+   "클렌징"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "00b7b107d2d8dfcb",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

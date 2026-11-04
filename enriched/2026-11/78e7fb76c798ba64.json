@@ -1,0 +1,56 @@
+{
+ "doc_id": "78e7fb76c798ba64",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.betanews.net/article/view/beta202611040052",
+ "title": "에스트라, 입술 보습제 '아토베리어365 립 배리어 밤' 출시",
+ "summary": "아모레퍼시픽의 더마 화장품 브랜드 에스트라가 이달 입술 보습 제품 '아토베리어365 립 배리어 밤'을 출시 한다. 입술은 얼굴 피부에 비해 가장 바깥층인 각질층이 얇고, 피지를 내보내는 피지선과 땀샘이 없다. 이 때문에...",
+ "published_at": "2026-11-04T10:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에스트라"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "립 케어",
+   "더마 화장품",
+   "보습"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아토베리어365 립 배리어 밤",
+    "brand": "에스트라",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "아모레퍼시픽의 더마 화장품 브랜드 에스트라가 이달 입술 보습 제품 '아토베리어365 립 배리어 밤'을 출시 한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에스트라가 입술 보습 제품을 이달 내놓는다.",
+  "key_fact_quote": "아모레퍼시픽의 더마 화장품 브랜드 에스트라가 이달 입술 보습 제품 '아토베리어365 립 배리어 밤'을 출시 한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

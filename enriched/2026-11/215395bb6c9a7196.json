@@ -1,0 +1,63 @@
+{
+ "doc_id": "215395bb6c9a7196",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53860",
+ "title": "페리페라 ‘무드 글로이 틴트 키’ F/W 컬러",
+ "summary": "페리페라가 ‘무드 글로이 틴트 키’의 새로운 색상을 선보인다. 올 가을 나온 색상은 △ 07 호 리치청 △ 08 호 사과청 △ 09 호 복분자청 등 세가지다. 과일청에서 영감을 받은 고채도 색감이 특징이다. 맑고 투명한 ‘물먹광택’ 질감이 입술에 얇게 밀착한다. 입술에 선명한 색을 선사해 생기 있는 립 메이크…",
+ "published_at": "2026-11-04T09:49:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "페리페라"
+  ],
+  "companies": [],
+  "keywords": [
+   "립 틴트",
+   "립글로스",
+   "과일청 컬러"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "무드 글로이 틴트 키",
+    "brand": "페리페라",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "올 가을 나온 색상은 △ 07 호 리치청 △ 08 호 사과청 △ 09 호 복분자청 등 세가지다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "잉크 글래스팅 립글로스",
+    "brand": "페리페라",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "‘잉크 글래스팅 립글로스’는 신규 컬러 ‘26 호 피치 우베’를 추가했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "페리페라가 립 제품의 가을 겨울 신규 색상을 선보인다.",
+  "key_fact_quote": "페리페라가 ‘무드 글로이 틴트 키’의 새로운 색상을 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:35:57+00:00",
+ "had_body": true
+}

@@ -1,0 +1,48 @@
+{
+ "doc_id": "56099cc38412e897",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.4th.kr/news/articleView.html?idxno=2121069",
+ "title": "LG생활건강 더페이스샵, 美얼타 뷰티 500곳 입점…북미 유통망 확대",
+ "summary": "포쓰저널 성은숙 기자 더페이스샵 미감수 브라이트 라아./LG생활건강 LG생활건강의 화장품 브랜드... 올해 출시 20주년을 맞은 미감수 라인의 패키지 디자인도 새롭게 단장했다. 지난해에는 서로 다른 두 가지 제형을...",
+ "published_at": "2026-11-04T10:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "더페이스샵"
+  ],
+  "companies": [
+   "LG생활건강",
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "북미 유통망",
+   "스킨 프렙"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "17f4f3285ac92942",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

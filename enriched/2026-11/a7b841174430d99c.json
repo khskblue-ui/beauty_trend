@@ -1,0 +1,48 @@
+{
+ "doc_id": "a7b841174430d99c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/living/2026/11/05/2026110410212148657",
+ "title": "LG생활건강 더페이스샵, 美얼타 뷰티 온·오프라인 입점",
+ "summary": "LG생활건강의 화장품 브랜드 더페이스샵이 미국 대형 뷰티 유통업체 얼타 뷰티에 입점했다. 지난 7월... 올해 미감수 출시 20주년을 맞아 패키지 디자인을 변경했으며 신제품 을 추가해 제품군을 다변화하고 있다....",
+ "published_at": "2026-11-04T10:27:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "더페이스샵"
+  ],
+  "companies": [
+   "LG생활건강",
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "북미 유통망",
+   "K-뷰티 해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "83b292e7d3ad1d61",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

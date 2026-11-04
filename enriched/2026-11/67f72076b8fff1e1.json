@@ -1,0 +1,62 @@
+{
+ "doc_id": "67f72076b8fff1e1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.donga.com/109835/",
+ "title": "' 뷰티 10년' 다이슨, '에어스무스'·'코랄 쿨샤인'으로 증명하고 싶은 것",
+ "summary": "다이슨 뷰티 사업의 출발점을 이렇게 설명했다. 해당 행사는 전 세계 미디어를 초청해 신제품 과 신기술을... 여러 뷰티 제품을 전 세계에서 가장 먼저 한국에 출시 해 왔다”고 말했다. 실제로 다이슨의 프리미엄 뷰티 ...",
+ "published_at": "2026-11-04T17:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "다이슨"
+  ],
+  "companies": [],
+  "keywords": [
+   "뷰티 디바이스",
+   "헤어 스타일링"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "에어스무스",
+    "brand": "다이슨",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "코랄 쿨샤인",
+    "brand": "다이슨",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "다이슨이 뷰티 사업 10년을 맞아 신제품을 소개했다.",
+  "key_fact_quote": "' 뷰티 10년' 다이슨, '에어스무스'·'코랄 쿨샤인'으로 증명하고 싶은 것",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:35:57+00:00",
+ "had_body": false
+}

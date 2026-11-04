@@ -1,0 +1,45 @@
+{
+ "doc_id": "3dddf6e28eea2eb1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/distribution/fashion-beauty/2026/11/04/NYAGX62SI5GI7FJVYM2ROD6VP4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "뷰티 수출 사상 최대인데… 에이피알은 환율에 울고, LG생건은 재편에 ...",
+ "summary": "케이( K ) 뷰티 의 해외 질주가 이어지고 있다. 올해 1~9월 화장품 수출 은 111억4000만달러(약 15조원)로 30.8% 늘며, 9개월 만에 지난해 연간 수출 의 98%를 채웠다. 하지만 주요 화장품 기업의 3분기 실적은 수출 통계만큼...",
+ "published_at": "2026-11-04T15:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알",
+   "LG생활건강"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "환율",
+   "기업 실적"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 수출은 늘었지만 주요 기업의 실적은 수출 통계만큼 따라오지 못했다.",
+  "key_fact_quote": "하지만 주요 화장품 기업의 3분기 실적은 수출 통계만큼...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

@@ -1,0 +1,68 @@
+{
+ "doc_id": "d9d7ce78ddb108ea",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100371",
+ "title": "엔하이픈 선우 겨울향수 '노 모어 키스', 올영 블프 완판",
+ "summary": "엔하이픈 선우의 겨울향수 '센녹 퍼퓸 노 모어 키스'가 11월 올리브영 대규모 쇼핑 축제 시작과 동시에 품절 대란을 일으키며 연이은 완판 행진을 기록하고 있다.코스닥 상장사 '세화피앤씨'의 라이프스타일 뷰티브랜드 '센녹'(SENNOK)은 11월 '올영픽' 및 '올영 블랙프라이데이' 한정으로 선보인 '센녹 퍼퓸 노 모어 키스 이어폰 기획세트'가 11월 1일 올리브영 판매 첫날부터 반나절 만에 온라인 물량이 전량 소진되고, 추가 물량 입고 후에도 지속",
+ "published_at": "2026-11-04T09:21:44+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센녹"
+  ],
+  "companies": [
+   "세화피앤씨",
+   "올리브영"
+  ],
+  "keywords": [
+   "겨울 향수",
+   "머스크 향",
+   "연예인 협업 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "센녹 퍼퓸 노 모어 키스 이어폰 기획세트",
+    "brand": "센녹",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "코스닥 상장사 '세화피앤씨'의 라이프스타일 뷰티브랜드 '센녹'(SENNOK)은 11월 '올영픽' 및 '올영 블랙프라이데이' 한정으로 선보인 '센녹 퍼퓸 노 모어 키스 이어폰 기획세트'가",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "센녹 퍼퓸 노 모어 키스",
+    "brand": "센녹",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "머스크"
+    ],
+    "notes_quote": "갓 씻고 나온 살결처럼 부드럽고 말랑한 촉감을 연상시켜 뷰티에디터와 코덕들 사이에 일명 '말랑머스크향'으로 불린다."
+   }
+  ],
+  "key_fact": "엔하이픈 선우의 겨울향수가 올리브영 행사 시작과 함께 품절됐다.",
+  "key_fact_quote": "엔하이픈 선우의 겨울향수 '센녹 퍼퓸 노 모어 키스'가 11월 올리브영 대규모 쇼핑 축제 시작과 동시에 품절 대란을 일으키며 연이은 완판 행진을 기록하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

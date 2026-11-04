@@ -1,0 +1,41 @@
+{
+ "doc_id": "27fde520603f194b",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/celebrity-hairdresser-and-salon-legend-john-frieda-dies",
+ "title": "Celebrity hairdresser and salon legend John Frieda dies aged 75",
+ "summary": "John Frieda, the celebrity hairstylist and founder of the eponymous hair care line, passed away on 3 November, surrounded by his family",
+ "published_at": "2026-11-04T21:10:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "John Frieda"
+  ],
+  "companies": [],
+  "keywords": [
+   "헤어 케어",
+   "헤어스타일리스트"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "헤어케어 브랜드 존 프리다의 창업자 John Frieda가 세상을 떠났다.",
+  "key_fact_quote": "John Frieda, the celebrity hairstylist and founder of the eponymous hair care line, passed away on 3 November, surrounded by his family",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

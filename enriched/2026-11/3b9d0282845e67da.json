@@ -1,0 +1,55 @@
+{
+ "doc_id": "3b9d0282845e67da",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58656",
+ "title": "화이트큐브, 日 메가와리 첫날 판매 19.3% 집중·5단계 마케팅 전략 제시",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 화이트큐브(대표 최혁준)가 운영하는 커머스 마케팅 솔루션 챌린저스 재팬이 일본 큐텐 재팬의 11월 메가와리를 앞두고 판매 데이터 분석을 바탕으로 K-뷰티 브랜드를 위한 5단계 마케팅 전략을 제시했다고 4일 밝혔다. 메가와리는 일본 이커머스 플랫폼 큐텐 재팬이 분…",
+ "published_at": "2026-11-04T10:47:02+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "화이트큐브",
+   "챌린저스 재팬",
+   "큐텐 재팬"
+  ],
+  "keywords": [
+   "일본 이커머스",
+   "할인 행사 마케팅",
+   "K-뷰티 일본 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "화이트큐브가 큐텐 재팬 메가와리를 앞두고 K-뷰티 브랜드를 위한 마케팅 전략을 제시했다.",
+  "key_fact_quote": "[코스인코리아닷컴 길태윤 기자] 화이트큐브(대표 최혁준)가 운영하는 커머스 마케팅 솔루션 챌린저스 재팬이 일본 큐텐 재팬의 11월 메가와리를 앞두고 판매 데이터 분석을 바탕으로 K-뷰티 브랜드를 위한 5단계 마케팅 전략을 제시했다고 4일 밝혔다.",
+  "events": [
+   {
+    "name": "11월 메가와리",
+    "start_date": "2026-11-20",
+    "end_date": "2026-12-02",
+    "place": "큐텐 재팬",
+    "quote": "오는 20일부터 12월 2일까지 13일간 진행되는 11월 메가와리를 앞두고 챌린저스 재팬은 지난 9월 행사에서 나타난 일자별 판매 흐름과 구매 집중 시점을 분석해 효과적인 광고 운영과 판매 전략을 수립할 수 있는 방향을 제안했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

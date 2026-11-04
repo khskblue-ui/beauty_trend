@@ -1,0 +1,58 @@
+{
+ "doc_id": "08d92471148928d6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ekn.kr/web/view.php?key=20261104028065153",
+ "title": "[똑똑한뷰티] 에이피알 메디큐브, 설화수, 더페이스샵, 토니모리, 신세...",
+ "summary": "아모레퍼시픽에 따르면 신제품 은 피부 탄력 관리에 초점을 맞춘 '자음생크림콜라겐마스크'와 피부 진정 및... 팬들 사이에서 '선우의 겨울 향수 '로 알려진 것이 판매 증가에 영향을 미쳤다는 게 회사 측 설명이다. '퍼퓸 노...",
+ "published_at": "2026-11-04T10:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메디큐브",
+   "설화수",
+   "더페이스샵",
+   "토니모리"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "스킨케어 신제품",
+   "연예인 향수"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "자음생크림콜라겐마스크",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아모레퍼시픽이 피부 탄력 관리에 초점을 맞춘 신제품을 내놓았다는 내용이다.",
+  "key_fact_quote": "아모레퍼시픽에 따르면 신제품 은 피부 탄력 관리에 초점을 맞춘 '자음생크림콜라겐마스크'와 피부 진정 및",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

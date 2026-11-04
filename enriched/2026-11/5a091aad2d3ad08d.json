@@ -1,0 +1,42 @@
+{
+ "doc_id": "5a091aad2d3ad08d",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/dsm-firmenich-sales-top-2-3-billion-in-q3",
+ "title": "DSM-Firmenich sales top €2.3 billion in Q3 2026 due to volume-led growth",
+ "summary": "The fragrance and flavour company’s earnings were bolstered by its fine fragrance offering, alongside benefiting from reformulations across its beauty portfolio",
+ "published_at": "2026-11-04T20:12:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "DSM-Firmenich"
+  ],
+  "keywords": [
+   "고급 향수",
+   "향료 시장",
+   "처방 재설계"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "DSM-Firmenich의 3분기 실적이 고급 향수 부문과 처방 재설계 수요로 늘었다.",
+  "key_fact_quote": "The fragrance and flavour company’s earnings were bolstered by its fine fragrance offering, alongside benefiting from reformulations across its beauty portfolio",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

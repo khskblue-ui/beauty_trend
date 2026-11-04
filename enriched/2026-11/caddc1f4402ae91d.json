@@ -1,0 +1,41 @@
+{
+ "doc_id": "caddc1f4402ae91d",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/watch-the-ifra-newscent-for-november-december-2026",
+ "title": "Watch: the IFRA Newscent for November – December 2026 in three minutes",
+ "summary": "The bimonthly round-up of news from the International Fragrance Association ( IFRA ) is also a short video. The November – December 2026 edition runs from registration for Global Fragrance Summit 2027 to the question of whether a perfumer is born, or made.",
+ "published_at": "2026-11-03T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "other",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "IFRA"
+  ],
+  "keywords": [
+   "향료 업계 소식",
+   "국제향료협회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국제향료협회가 격월 소식을 짧은 영상으로 전했다.",
+  "key_fact_quote": "The bimonthly round-up of news from the International Fragrance Association ( IFRA ) is also a short video.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

@@ -1,0 +1,38 @@
+{
+ "doc_id": "8004ff4f31511686",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/living/2026/11/05/2026110309561454213",
+ "title": "화장품 팔던 남자가 만든 '말차 케이크' 대박...베트남 K베이커리 성공...",
+ "summary": "우리 소비재 기업의 목표는 수출 확대에 그치지 않는다. 현지 거점에 공장을 짓고, 혁신 물류 시스템을... 베트남 뷰티 업계에 종사하다 2년 전 뚜레쥬르에 합류한 차민혁 뚜레쥬르 베트남 마케팅 팀장(30)이 주인공이다....",
+ "published_at": "2026-11-04T16:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "VN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

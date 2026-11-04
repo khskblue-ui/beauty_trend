@@ -1,0 +1,43 @@
+{
+ "doc_id": "09b1b3eeea11442c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sports.khan.co.kr/article/202611040855018?pt=nv",
+ "title": "배우 최강희 내세운 오키 뷰티 , 더현대 서울 팝업 오늘 오픈",
+ "summary": "론칭 1년도 채 되지 않은 신생 브랜드 오키 뷰티 는 배우 최강희를 브랜드 모델로 내세워 이름을 알렸다. 온라인을 넘어 오프라인 팝업 등 다양한 채널로 고객 접점을 넓히고 있다. 팝업 기간 중인 오는 5일에는 배우...",
+ "published_at": "2026-11-04T08:55:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오키 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "팝업스토어",
+   "신생 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신생 브랜드 오키 뷰티가 배우 최강희를 모델로 내세워 이름을 알렸다.",
+  "key_fact_quote": "론칭 1년도 채 되지 않은 신생 브랜드 오키 뷰티 는 배우 최강희를 브랜드 모델로 내세워 이름을 알렸다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

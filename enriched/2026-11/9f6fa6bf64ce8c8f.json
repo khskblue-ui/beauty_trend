@@ -1,0 +1,47 @@
+{
+ "doc_id": "9f6fa6bf64ce8c8f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=121459",
+ "title": "LG생활건강, 미국 뷰티 유통망 확대… 얼타 뷰티 온·오프라인 동시 진...",
+ "summary": "더페이스샵은 기존 클렌징 중심의 제품 구성을 기초 화장품 영역으로 넓혀 북미 시장 내 제품군을 다변화한다는 방침이다. 더페이스샵은 올해 미감수 브랜드 출시 20주년을 맞아 용기 디자인을 전면 개편하고, 지난...",
+ "published_at": "2026-11-04T11:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "더페이스샵"
+  ],
+  "companies": [
+   "LG생활건강",
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "북미 유통망",
+   "K-뷰티 해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "더페이스샵이 북미 시장에서 클렌징 중심의 제품군을 기초 화장품으로 넓힌다.",
+  "key_fact_quote": "더페이스샵은 기존 클렌징 중심의 제품 구성을 기초 화장품 영역으로 넓혀 북미 시장 내 제품군을 다변화한다는 방침이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

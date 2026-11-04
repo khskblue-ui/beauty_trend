@@ -1,0 +1,47 @@
+{
+ "doc_id": "6c2fa0bd797dc46c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etoday.co.kr/news/view/2644263",
+ "title": "[특허, 톡!] K팝 스타 ‘블랙핑크’의 상표권, 화장품 에도 통할까?",
+ "summary": "미국 화장품 업체가 ‘BLACKPINK’를 화장품 상표로 등록한 데 대해 YG엔터테인먼트가 등록취소를 청구한... 미국 상표법에서는 소비자가 서로 다른 상품이라도 동일한 기업에서 출시 하거나 후원·제휴 관계가 있다고...",
+ "published_at": "2026-11-05T06:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "BLACKPINK"
+  ],
+  "companies": [
+   "YG엔터테인먼트"
+  ],
+  "keywords": [
+   "상표권 분쟁",
+   "연예인 상표",
+   "화장품 상표"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 화장품 업체가 등록한 블랙핑크 화장품 상표에 YG엔터테인먼트가 등록취소를 청구했다.",
+  "key_fact_quote": "미국 화장품 업체가 ‘BLACKPINK’를 화장품 상표로 등록한 데 대해 YG엔터테인먼트가 등록취소를 청구한",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

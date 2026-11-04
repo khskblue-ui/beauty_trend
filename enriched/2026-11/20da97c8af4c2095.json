@@ -1,0 +1,57 @@
+{
+ "doc_id": "20da97c8af4c2095",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58654",
+ "title": "스킨케어 시장, 이제는 효능을 입증해야 산다... 브랜드 경쟁력을 좌우하는 ‘데이터의 힘’",
+ "summary": "[코스인코리아닷컴 김세화 기자]화장품 시장에서 소비자의 구매 기준이 진화하고 있다. 브랜드 인지도와 차별화된 성분, 자연주의 이미지가 주요 경쟁 요소로 작용했던 과거와 달리, 최근에는 제품의 효능을 얼마나 구체적이고 객관적으로 입증할 수 있는지가 브랜드 경쟁력을 좌우하는 요소로 부상하고…",
+ "published_at": "2026-11-04T09:18:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "세라비",
+   "라로슈포제",
+   "머라드",
+   "스킨수티컬즈",
+   "페리콘 MD",
+   "디 오디너리",
+   "드렁크 엘리펀트",
+   "더말로지카",
+   "밀크",
+   "일리아 뷰티"
+  ],
+  "companies": [
+   "TBC",
+   "GCI"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "클린 뷰티",
+   "스킨케어 디바이스",
+   "효능 입증"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 소비자 조사에서 입증된 효능이 브랜드 신뢰와 구매 결정의 핵심 요인으로 나타났다.",
+  "key_fact_quote": "4일 소비자 조사기관 TBC(The Benchmarking Company)가 발표한 소비자 온라인 조사에 따르면, 뷰티 제품의 효능을 입증하는 객관적인 근거가 소비자의 브랜드 신뢰와 구매 결정에 중요한 요인으로 작용하는 것으로 나타났다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

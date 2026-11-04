@@ -1,0 +1,45 @@
+{
+ "doc_id": "5fb6ba785d5e600d",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/hair/andrew-fitzsimons-hair-care-closes-celebrity-stylist-1239400206/",
+ "title": "Andrew Fitzsimons Shutters Namesake Hair Care Line",
+ "summary": "The celebrity hairstylist, whose clients include Kim Kardashian and Megan Fox, originally launched the brand in 2022 in partnership with Maesa.",
+ "published_at": "2026-11-05T03:29:57+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Andrew Fitzsimons"
+  ],
+  "companies": [
+   "Maesa"
+  ],
+  "keywords": [
+   "셀러브리티 헤어케어",
+   "브랜드 폐업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유명 헤어스타일리스트 앤드루 피츠사이먼스가 자신의 이름을 건 헤어케어 라인을 접는다.",
+  "key_fact_quote": "The celebrity hairstylist, whose clients include Kim Kardashian and Megan Fox, originally launched the brand in 2022 in partnership with Maesa.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

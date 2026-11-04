@@ -1,0 +1,68 @@
+{
+ "doc_id": "be95bee00e6ab6af",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newswell.co.kr/news/articleView.html?idxno=23357",
+ "title": "더페이스샵, 미국 얼타 뷰티 500여 매장 입점… 북미 K- 뷰티 공략 가속",
+ "summary": "활용한 신제품 '미감수 레디'를 앞세워 클렌징을 넘어 스킨케어 시장까지 공략합니다. 더페이스샵은 미감수 출시 20주년을 맞아 제품 혁신과 유통망 확대를 동시에 추진하고 있습니다. 이를 통해 미국 시장에서 K- 뷰티 ...",
+ "published_at": "2026-11-04T12:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "더페이스샵",
+   "미감수"
+  ],
+  "companies": [
+   "LG생활건강",
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "스킨케어 확장",
+   "미국 유통 진출",
+   "K뷰티 수출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "미감수 레디",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "활용한 신제품 '미감수 레디'를 앞세워 클렌징을 넘어 스킨케어 시장까지 공략합니다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미감수",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더페이스샵이 미국 얼타 뷰티에 입점하며 클렌징에서 스킨케어로 영역을 넓힌다.",
+  "key_fact_quote": "더페이스샵, 미국 얼타 뷰티 500여 매장 입점… 북미 K- 뷰티 공략 가속",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

@@ -1,0 +1,53 @@
+{
+ "doc_id": "18cdf85d1f2123f1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451136",
+ "title": "한국콜마 용기 자회사 '연우' 체질개선 성과, 박상용 K뷰티 트렌드 대응...",
+ "summary": "사진은 박상용 대표이사가 2026년 7월21일 서울 서초구 한국콜마 종합기술원에서 열린 화장품 패키징 트렌드... 박 대표는 한국콜마가 실적 부진에 빠진 연우의 경영 정상화를 위해 투입한 그룹 출신 전문경영인이다....",
+ "published_at": "2026-11-04T16:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마",
+   "연우"
+  ],
+  "keywords": [
+   "화장품 용기",
+   "패키징 트렌드",
+   "경영 정상화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국콜마가 용기 자회사 연우의 경영 정상화에 나섰다.",
+  "key_fact_quote": "박 대표는 한국콜마가 실적 부진에 빠진 연우의 경영 정상화를 위해 투입한 그룹 출신 전문경영인이다....",
+  "events": [
+   {
+    "name": "화장품 패키징 트렌드",
+    "start_date": "2026-07-21",
+    "end_date": null,
+    "place": "서울 서초구 한국콜마 종합기술원",
+    "quote": "사진은 박상용 대표이사가 2026년 7월21일 서울 서초구 한국콜마 종합기술원에서 열린 화장품 패키징 트렌드..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:35:57+00:00",
+ "had_body": false
+}

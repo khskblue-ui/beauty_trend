@@ -1,0 +1,48 @@
+{
+ "doc_id": "7391410d08decf34",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://theviewers.co.kr/View.aspx?No=4296358",
+ "title": "LG생활건강 더페이스샵, 美 얼타 뷰티 500여곳 입점…북미 공략 확대",
+ "summary": "LG생활건강은 대표 K-뷰티 브랜드 ‘더페이스샵’이 미국 대형 화장품 유통업체 ‘얼타 뷰티(Ulta Beauty)... 신제품 ‘미감수 레디’는 메이크업 전 피부 상태를 정돈하고 준비(Ready)하는 ‘스킨 프렙(Skin Prep)...",
+ "published_at": "2026-11-04T09:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "더페이스샵"
+  ],
+  "companies": [
+   "LG생활건강",
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "북미 유통망",
+   "스킨 프렙"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "17f4f3285ac92942",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

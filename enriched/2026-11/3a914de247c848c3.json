@@ -1,0 +1,43 @@
+{
+ "doc_id": "3a914de247c848c3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026110409423342951",
+ "title": "\" K뷰티 M&A, 브랜드 넘어 원료·유통 등 전반으로 확대\"",
+ "summary": "4일 한국딜로이트그룹은 이 같은 내용을 담은 ' K - 뷰티 의 성장과 새로운 기회' 보고서를 발간했다. 보고서에 따르면 한국 화장품 수출 은 지난해 114억달러(약 15조3421억원)로 프랑스에 이어 세계 2위에 올랐다. 올해 상반기...",
+ "published_at": "2026-11-04T09:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국딜로이트그룹"
+  ],
+  "keywords": [
+   "K뷰티 M&A",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 인수합병이 브랜드를 넘어 원료와 유통 등 전반으로 넓어진다는 보고서가 나왔다.",
+  "key_fact_quote": "4일 한국딜로이트그룹은 이 같은 내용을 담은 ' K - 뷰티 의 성장과 새로운 기회' 보고서를 발간했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

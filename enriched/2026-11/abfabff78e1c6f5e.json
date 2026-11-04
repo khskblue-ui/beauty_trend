@@ -1,0 +1,54 @@
+{
+ "doc_id": "abfabff78e1c6f5e",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/what-dove-s-fine-fragrance-drop-can-teach-brands-about-marketing",
+ "title": "Opinion: What Dove’s exclusive fine fragrance drop can teach beauty brands about marketing",
+ "summary": "Dove’s recent fine fragrance launch, which smells like its 69-year-old hero cleansing sku Original Beauty Bar, highlights how heritage beauty brands can turn the buzz of a limited edition drop into lasting growth, says Ed Hayes, Chief Strategy Officer at creative studio Bloom",
+ "published_at": "2026-11-04T21:06:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Dove"
+  ],
+  "companies": [
+   "Bloom"
+  ],
+  "keywords": [
+   "한정판 향수",
+   "헤리티지 브랜드",
+   "향수 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Dove’s recent fine fragrance",
+    "brand": "Dove",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Dove’s recent fine fragrance launch, which smells like its 69-year-old hero cleansing sku Original Beauty Bar",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "도브가 대표 클렌징 제품의 향을 담은 고급 향수를 내놓았다는 내용이다.",
+  "key_fact_quote": "Dove’s recent fine fragrance launch, which smells like its 69-year-old hero cleansing sku Original Beauty Bar",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

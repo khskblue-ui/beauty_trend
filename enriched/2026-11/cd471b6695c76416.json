@@ -1,0 +1,54 @@
+{
+ "doc_id": "cd471b6695c76416",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dt.co.kr/article/12093086?ref=naver",
+ "title": "봉봉성형외과·피부과, 노바메디코리아와 화장품 공동R&D 협력 확대",
+ "summary": "안티에이징센터가 화장품 전문기업 노바메디코리아(대표 서용택)와 업무협약을 체결하고 화장품 공동... 새롭게 출시 된 ‘테낙신’은 전문 피부관리실과 에스테틱 전문가를 대상으로 개발한 프로페셔널 라인업이다....",
+ "published_at": "2026-11-04T11:45:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "노바메디코리아",
+   "봉봉성형외과·피부과"
+  ],
+  "keywords": [
+   "화장품 공동 연구개발",
+   "프로페셔널 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "테낙신",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "새롭게 출시 된 ‘테낙신’은 전문 피부관리실과 에스테틱 전문가를 대상으로 개발한 프로페셔널 라인업이다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "봉봉성형외과·피부과가 노바메디코리아와 화장품 공동 연구개발 협력을 넓힌다.",
+  "key_fact_quote": "안티에이징센터가 화장품 전문기업 노바메디코리아(대표 서용택)와 업무협약을 체결하고 화장품 공동",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

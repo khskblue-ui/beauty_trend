@@ -1,0 +1,48 @@
+{
+ "doc_id": "8e220877181a5a2b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=361898",
+ "title": "더페이스샵, 美얼타 뷰티 온·오프라인 전격 입점",
+ "summary": "더 페이스샵 미감수 |LG생활건강 LG생활건강의 '더페이스샵'이 미국 대형 화장품 유통업체 '얼타 뷰티(Ulta... 신제품 '미감수 레디'는 메이크업 전 피부 상태를 정돈하고 준비하는 '스킨 프렙' 라인이다. 미감수 고유의...",
+ "published_at": "2026-11-04T21:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "더페이스샵"
+  ],
+  "companies": [
+   "LG생활건강",
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "북미 유통망",
+   "K-뷰티 해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "83b292e7d3ad1d61",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

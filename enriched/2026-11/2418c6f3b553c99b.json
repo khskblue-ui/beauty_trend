@@ -1,0 +1,44 @@
+{
+ "doc_id": "2418c6f3b553c99b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/stock/2026/11/04/2026110408121995001",
+ "title": "\"LG생건, 헤어케어 K뷰티 성장잠재력…목표가 30만원으로↓\"-NH",
+ "summary": "화장품 부문은 적자폭은 축소됐지만 손실을 냈고, 생활용품 영업이익이 전년동기대비 감소했다. 3분기... 입점과 신제품 론칭으로 45% 성장했다\"고 짚었다. 생활용품 3분기 매출액은 전년동기대비 4% 오른 4192억원...",
+ "published_at": "2026-11-04T08:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "헤어케어",
+   "목표주가",
+   "화장품 실적"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "LG생활건강은 헤어케어를 중심으로 한 K뷰티 성장 잠재력이 꼽혔다.",
+  "key_fact_quote": "LG생건, 헤어케어 K뷰티 성장잠재력",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "c031cd68e2073fbf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.tf.co.kr/read/economy/2385002.htm",
+ "title": "美 의회 뒤집은 민주당… K -푸드· 뷰티 , 관세 인하 기대 속 관망",
+ "summary": "미국은 K -푸드와 K - 뷰티 의 최대 수출 시장인 만큼 통상 환경이 나아지면 현지 시장 공략에 탄력이 붙을 수 있다는 관측이다. 다만 아직 구체적인 정책 변화가 나오지 않은 데다 행정부 고유 권한과 환율 변동성 등 변수도...",
+ "published_at": "2026-11-04T23:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "관세 인하",
+   "K-뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 의회 변화로 K-뷰티 업계가 관세 인하를 기대하며 관망하고 있다.",
+  "key_fact_quote": "미국은 K -푸드와 K - 뷰티 의 최대 수출 시장인 만큼 통상 환경이 나아지면 현지 시장 공략에 탄력이 붙을 수 있다는 관측이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

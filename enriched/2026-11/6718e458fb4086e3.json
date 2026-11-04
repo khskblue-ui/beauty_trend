@@ -1,0 +1,61 @@
+{
+ "doc_id": "6718e458fb4086e3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611041404525590610",
+ "title": "[뷰티톡톡] 메디큐브ㆍ더페이스샵ㆍ설화수ㆍ에스트라",
+ "summary": "▲LG생활건강 더페이스샵, 미국 얼타 뷰티 500여 매장 입점 LG생활건강 더페이스샵이 미국 화장품 유통 채널... ▲에스트라, 립케어 신제품 ‘아토베리어365 립 배리어 밤’ 출시 아모레퍼시픽 에스트라가 11월 립케어...",
+ "published_at": "2026-11-04T14:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "메디큐브",
+   "더페이스샵",
+   "설화수",
+   "에스트라"
+  ],
+  "companies": [
+   "LG생활건강",
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "립케어",
+   "미국 유통 진출",
+   "더마 화장품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "아토베리어365 립 배리어 밤",
+    "brand": "에스트라",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "▲에스트라, 립케어 신제품 ‘아토베리어365 립 배리어 밤’ 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더페이스샵이 미국 얼타 뷰티에 입점하고 에스트라가 립케어 신제품을 낸다.",
+  "key_fact_quote": "▲LG생활건강 더페이스샵, 미국 얼타 뷰티 500여 매장 입점",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:35:57+00:00",
+ "had_body": false
+}

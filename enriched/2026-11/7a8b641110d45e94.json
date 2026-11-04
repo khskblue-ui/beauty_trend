@@ -1,0 +1,44 @@
+{
+ "doc_id": "7a8b641110d45e94",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etoday.co.kr/news/view/2643816",
+ "title": "한국 딜로이트 그룹 \"K뷰티 M&A, 브랜드 넘어 소재·제조·유통으로 확산...",
+ "summary": "이를 통해 자체 공장을 보유하지 않은 기업도 신제품 출시와 해외 진출에 나설 수 있게 됐다. 브랜드 중심의 성장 구조는 관련 산업으로 파급되고 있다. 화장품 생산 증가에 따라 원료·소재와 용기 공급 수요가 늘었고...",
+ "published_at": "2026-11-04T08:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "딜로이트"
+  ],
+  "keywords": [
+   "K뷰티 인수합병",
+   "소재 산업",
+   "위탁 생산"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 인수합병이 브랜드를 넘어 소재, 제조, 유통으로 번지고 있다.",
+  "key_fact_quote": "브랜드 중심의 성장 구조는 관련 산업으로 파급되고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

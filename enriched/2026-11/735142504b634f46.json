@@ -1,0 +1,48 @@
+{
+ "doc_id": "735142504b634f46",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367182",
+ "title": "LG생활건강 더페이스샵, 美 얼타 뷰티 500곳 입점…북미 공략 확대",
+ "summary": "(사진 / LG생활건강) LG생활건강의 화장품 브랜드 더페이스샵이 미국 대형 화장품 유통업체 '얼타 뷰티(Ulta... 더페이스샵은 올해 '미감수' 출시 20주년을 맞아 제품 패키지를 개편했으며, 지난 6월 미국 아마존을 통해...",
+ "published_at": "2026-11-04T12:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "더페이스샵"
+  ],
+  "companies": [
+   "LG생활건강",
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "북미 유통망",
+   "스킨 프렙"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "17f4f3285ac92942",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

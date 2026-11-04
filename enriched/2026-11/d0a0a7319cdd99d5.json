@@ -1,0 +1,54 @@
+{
+ "doc_id": "d0a0a7319cdd99d5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=138662",
+ "title": "비디비치, 청담동서 베이스 메이크업 팝업 운영...글로벌 10개 쉐이드 최...",
+ "summary": "최근 출시 한 '블랙 파우더 파운데이션'은 파운데이션의 커버력과 파우더의 보송한 마무리감을 결합했다. 방문객을 위한 맞춤형 뷰티 프로그램과 사은 행사도 마련했다. 전문 메이크업 아티스트가 1대1 메이크업 터치업...",
+ "published_at": "2026-11-04T10:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비디비치"
+  ],
+  "companies": [],
+  "keywords": [
+   "베이스 메이크업",
+   "팝업스토어",
+   "파우더 파운데이션"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "블랙 파우더 파운데이션",
+    "brand": "비디비치",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "최근 출시 한 '블랙 파우더 파운데이션'은 파운데이션의 커버력과 파우더의 보송한 마무리감을 결합했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "비디비치가 청담동에서 베이스 메이크업 팝업을 운영한다.",
+  "key_fact_quote": "비디비치, 청담동서 베이스 메이크업 팝업 운영",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

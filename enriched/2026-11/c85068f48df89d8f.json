@@ -1,0 +1,43 @@
+{
+ "doc_id": "c85068f48df89d8f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000284",
+ "title": "독일 쾰른에서 아내에게 보낸 향수 [이선미의 퍼퓸테크]",
+ "summary": "이탈리아 출신 조향사 요한 마리아 파리나(Johann Maria Farina)가 떠올린 것은 고향에서 맞았던 봄날의... 오 드 콜로뉴는 단순한 시트러스 향이라기보다 한 조향사 의 이동과 정착, 기억이 담긴 향수로 읽힌다. 파리나...",
+ "published_at": "2026-11-05T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "DE",
+   "IT"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "오 드 콜로뉴",
+   "시트러스 향",
+   "조향사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "오 드 콜로뉴는 한 조향사의 이동과 정착, 기억이 담긴 향수로 읽힌다.",
+  "key_fact_quote": "오 드 콜로뉴는 단순한 시트러스 향이라기보다 한 조향사 의 이동과 정착, 기억이 담긴 향수로 읽힌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

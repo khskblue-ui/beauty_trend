@@ -1,0 +1,50 @@
+{
+ "doc_id": "a0da28b6d861e32b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsbrite.net/news/articleView.html?idxno=201290",
+ "title": "더페이스샵, 미국 얼타 뷰티 입점...북미 시장 공략 가속화",
+ "summary": "LG생활건강_더페이스샵 미감수 LG생활건강 '더페이스샵'이 미국 대형 화장품 유통업체 '얼타 뷰티(Ulta... 신제품 '미감수 레디'는 '스킨 프렙(Skin Prep)' 라인으로, 국내산 쌀 유래 성분을 담아 순한 사용감과 피부 광채...",
+ "published_at": "2026-11-04T14:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "더페이스샵",
+   "미감수"
+  ],
+  "companies": [
+   "LG생활건강",
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "스킨케어 확장",
+   "미국 유통 진출",
+   "K뷰티 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "be95bee00e6ab6af",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

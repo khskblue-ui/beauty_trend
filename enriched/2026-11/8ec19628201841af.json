@@ -1,0 +1,58 @@
+{
+ "doc_id": "8ec19628201841af",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newskr.kr/news/articleView.html?idxno=107682",
+ "title": "더페이스샵, 월마트 이어 얼타 뷰티까지... 美 유통망 확대",
+ "summary": "[LG생활건강] LG생활건강 더페이스샵이 미국 화장품 유통업체 얼타 뷰티에 입점했다. 7월 월마트 입점에... 신제품 미감수 레디는 메이크업 전 피부를 정돈하는 스킨 프렙 라인이다. 국내산 쌀 유래 성분을 넣었고...",
+ "published_at": "2026-11-04T11:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "더페이스샵"
+  ],
+  "companies": [
+   "LG생활건강",
+   "얼타 뷰티",
+   "월마트"
+  ],
+  "keywords": [
+   "K뷰티 미국 진출",
+   "스킨 프렙"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "미감수 레디",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더페이스샵이 월마트에 이어 얼타 뷰티에 입점했다.",
+  "key_fact_quote": "LG생활건강 더페이스샵이 미국 화장품 유통업체 얼타 뷰티에 입점했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

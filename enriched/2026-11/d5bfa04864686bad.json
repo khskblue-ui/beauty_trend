@@ -1,0 +1,44 @@
+{
+ "doc_id": "d5bfa04864686bad",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=766431",
+ "title": "[ K - 뷰티 신화를 쓰다②] K뷰티 , '난장이'가 쏘아 올렸다…한국콜마·올리...",
+ "summary": "K - 뷰티 의 수출 지형 변화와 성장 동력, 기업들의 글로벌 전략을 분석하고 지속 가능한 성장을 위한 과제를 짚어본다.[편집자주] 국내 화장품 수출 에서 중소기업이 차지하는 비중이 70%를 넘어서는 등 K - 뷰티 산업의...",
+ "published_at": "2026-11-05T06:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "중소기업 비중",
+   "수출 지형 변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 수출에서 중소기업의 비중이 크게 늘었다.",
+  "key_fact_quote": "국내 화장품 수출 에서 중소기업이 차지하는 비중이 70%를 넘어서는 등 K - 뷰티 산업의...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:35:57+00:00",
+ "had_body": false
+}

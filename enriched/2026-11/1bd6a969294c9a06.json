@@ -1,0 +1,42 @@
+{
+ "doc_id": "1bd6a969294c9a06",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/general-industry/6343130",
+ "title": "美서 잘 팔리는 K - 뷰티 , 관세 불확실성↑…\"가격 정책 유연화 필요\"",
+ "summary": "미국은 전체 화장품 수출 의 21.1%를 차지하는 최대 수출 국이다. K - 뷰티 의 미국 시장 진출이 확대될수록 현지 관세정책 변화가 국내 기업의 수익성에 미치는 영향도 커질 수 있다. 美서 잘 팔릴수록 커지는 비용 부담…관세...",
+ "published_at": "2026-11-05T06:05:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "관세 불확실성"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국은 한국 화장품 수출에서 가장 큰 시장이라는 내용이다.",
+  "key_fact_quote": "미국은 전체 화장품 수출 의 21.1%를 차지하는 최대 수출 국이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

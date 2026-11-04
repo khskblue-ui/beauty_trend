@@ -1,0 +1,50 @@
+{
+ "doc_id": "8459d0f85596f293",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158799",
+ "title": "더페이스샵, 美 얼타 뷰티 500개 매장 입점… 월마트 이어 유통망 확대",
+ "summary": "미감수 출시 20주년을 맞은 올해 패키지 디자인을 개편했으며, 지난 6월에는 미감수 레디를 북미 아마존에... 특히 얼타 뷰티는 화장품 전문 유통망인 만큼 클렌징 제품으로 확보한 고객층을 스킨케어 제품 구매로...",
+ "published_at": "2026-11-04T10:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "더페이스샵",
+   "미감수"
+  ],
+  "companies": [
+   "LG생활건강",
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "미국 유통 진출",
+   "K뷰티 수출",
+   "클렌징"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "00b7b107d2d8dfcb",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

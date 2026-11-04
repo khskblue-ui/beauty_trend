@@ -1,0 +1,70 @@
+{
+ "doc_id": "a44ce2de67a9d6e8",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100373",
+ "title": "지피덤, ‘와사비베어’와 협업",
+ "summary": "셀트리온의 차세대 바이오 기술을 바탕으로 한 리얼 바이오 더마 코스메틱 브랜드 지피덤(zipiderm)이 인기 캐릭터 와사비베어(WASABI BEAR)와 협업해 ‘장벽 수사대 에디션’ 기획세트를 선보인다.이번 협업은 지피덤의 피부 장벽 케어 콘셉트에 와사비베어 특유의 유쾌하고 개성 있는 매력을 더해 기획됐다. ‘무너진 피부 장벽의 범인을 찾아 나서는 ‘탐정 와사비’와 남몰래 피부 장벽 관리 비법을 전수하는 ‘비밀요원 와사비’! 주인의 손상된 피부 장벽의 원인을 찾아라!’라는 미션을 주제로 피부 장벽 이상 징후의 원인을 추적하는 ‘장",
+ "published_at": "2026-11-04T09:24:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "지피덤"
+  ],
+  "companies": [
+   "셀트리온"
+  ],
+  "keywords": [
+   "피부 장벽",
+   "더마 코스메틱",
+   "캐릭터 협업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "장벽 수사대 에디션",
+    "brand": "지피덤",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "셀트리온의 차세대 바이오 기술을 바탕으로 한 리얼 바이오 더마 코스메틱 브랜드 지피덤(zipiderm)이 인기 캐릭터 와사비베어(WASABI BEAR)와 협업해 ‘장벽 수사대 에디션’ 기획세트를 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "EGF 스킨 베리어 인텐시브 크림",
+    "brand": "지피덤",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "지피덤이 와사비베어와 협업한 피부 장벽 케어 기획세트를 선보인다.",
+  "key_fact_quote": "셀트리온의 차세대 바이오 기술을 바탕으로 한 리얼 바이오 더마 코스메틱 브랜드 지피덤(zipiderm)이 인기 캐릭터 와사비베어(WASABI BEAR)와 협업해 ‘장벽 수사대 에디션’ 기획세트를 선보인다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "EGF",
+    "quote": "‘EGF 스킨 베리어 인텐시브 크림’은 셀트리온 특허 고순도 EGF를 함유한 손상 장벽 개선 크림으로, 겨울철 건조한 피부 관리에 적합한 제품이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

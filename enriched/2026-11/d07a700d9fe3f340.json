@@ -1,0 +1,53 @@
+{
+ "doc_id": "d07a700d9fe3f340",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/l-occitane-group-to-offload-elemis,28479",
+ "title": "L'Occitane Group to offload Elemis to PAI Partners",
+ "summary": "L'Occitane is selling British skincare brand Elemis, a premium British skincare brand established in 1989, to French private equity firm PAI Partners, which plans to accelerate the brand's growth in the United States, both companies announced on November 4. The transaction, the financial terms of which have not been disclosed, is expected to close in the first quarter of 2027, subject to customary regulatory approvals, according to a press release. Founded in 1976 in Manosque,... - Industry buzz",
+ "published_at": "2026-11-05T01:18:27+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "GB",
+   "FR",
+   "US"
+  ],
+  "brands": [
+   "Elemis",
+   "L’Occitane en Provence",
+   "Melvita",
+   "Erborian",
+   "Sol de Janeiro"
+  ],
+  "companies": [
+   "L’Occitane Group",
+   "PAI Partners"
+  ],
+  "keywords": [
+   "브랜드 매각",
+   "스킨케어",
+   "프라이빗 에쿼티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "록시땅 그룹이 영국 스킨케어 브랜드 Elemis를 PAI Partners에 매각한다.",
+  "key_fact_quote": "L’Occitane is selling British skincare brand Elemis , a premium British skincare brand established in 1989, to French private equity firm PAI Partners",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

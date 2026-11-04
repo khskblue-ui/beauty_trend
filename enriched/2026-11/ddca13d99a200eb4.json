@@ -1,0 +1,70 @@
+{
+ "doc_id": "ddca13d99a200eb4",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58658",
+ "title": "토니모리, ‘세라마이드 모찌 토너’ 앞세워 홍대 뷰티 약국 입점",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 글로벌 뷰티 브랜드 토니모리가 무신사 뷰티 홍대점 내 ‘뷰티온누리약국’에 세라마이드 모찌 토너를 비롯한 보습·고기능성 스킨케어 제품을 입점하며 뷰티 특화 약국 유통채널 확대에 나섰다고 4일 밝혔다. 뷰티온누리약국은 지난 9월 문을 연 헬스·뷰티 특화 약국으…",
+ "published_at": "2026-11-04T13:23:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "토니모리"
+  ],
+  "companies": [
+   "토니모리",
+   "무신사 뷰티"
+  ],
+  "keywords": [
+   "뷰티 특화 약국",
+   "고기능성 스킨케어",
+   "피부 장벽"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "세라마이드 모찌 토너",
+    "brand": "토니모리",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "토니모리가 홍대 뷰티 특화 약국에 보습과 고기능성 스킨케어 제품을 입점했다.",
+  "key_fact_quote": "글로벌 뷰티 브랜드 토니모리가 무신사 뷰티 홍대점 내 ‘뷰티온누리약국’에 세라마이드 모찌 토너를 비롯한 보습·고기능성 스킨케어 제품을 입점하며 뷰티 특화 약국 유통채널 확대에 나섰다고 4일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "대표 입점 제품인 ‘세라마이드 모찌 토너’는 세라마이드와 판테놀을 함유해 피부 장벽 관리와 보습에 도움을 주는 토니모리의 스테디셀러다."
+   },
+   {
+    "name": "판테놀",
+    "quote": "대표 입점 제품인 ‘세라마이드 모찌 토너’는 세라마이드와 판테놀을 함유해 피부 장벽 관리와 보습에 도움을 주는 토니모리의 스테디셀러다."
+   },
+   {
+    "name": "NAD",
+    "quote": "토니모리는 약사 상담이 함께 이뤄지는 채널 특성을 고려해 주요 보습 제품과 NAD 등 고기능성 성분을 활용한 제품군을 입점시켰으며 향후 뷰티 특화 약국으로 유통망을 넓혀 나갈 계획이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

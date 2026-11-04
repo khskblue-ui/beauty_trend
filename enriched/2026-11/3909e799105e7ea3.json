@@ -1,0 +1,55 @@
+{
+ "doc_id": "3909e799105e7ea3",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100378",
+ "title": "“11월 메가와리, 첫날과 쿠폰 마감일이 핵심”",
+ "summary": "구매 전환 노출 솔루션 ‘챌린저스’를 운영하는 화이트큐브(대표 최혁준)가 큐텐 재팬의 ‘11월 메가와리’를 앞두고, K-뷰티 브랜드의 일본 시장 공략을 위한 판매 데이터 분석 결과와 마케팅 전략을 제시했다.메가와리는 일본 이커머스 플랫폼 큐텐 재팬이 분기마다 한 번, 연 4회 진행하는 대규모 할인 행사로, 일본 시장에 진출한 K-뷰티 브랜드의 주요 판매 기회로 꼽힌다. 이번 11월 메가와리는 오는 20일부터 12월 2일까지 13일간 진행된다.챌린저스 재팬 내부 데이터에 따르면, 지난 9월 메가와리 기간에는 일자별 판매 비중에 뚜렷한",
+ "published_at": "2026-11-04T10:39:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "화이트큐브",
+   "챌린저스 재팬",
+   "큐텐 재팬"
+  ],
+  "keywords": [
+   "일본 이커머스",
+   "할인 행사 마케팅",
+   "K-뷰티 일본 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "화이트큐브가 큐텐 재팬 메가와리를 앞두고 판매 데이터 분석과 마케팅 전략을 제시했다.",
+  "key_fact_quote": "구매 전환 노출 솔루션 ‘챌린저스’를 운영하는 화이트큐브(대표 최혁준)가 큐텐 재팬의 ‘11월 메가와리’를 앞두고, K-뷰티 브랜드의 일본 시장 공략을 위한 판매 데이터 분석 결과와 마케팅 전략을 제시했다.",
+  "events": [
+   {
+    "name": "11월 메가와리",
+    "start_date": "2026-11-20",
+    "end_date": "2026-12-02",
+    "place": "큐텐 재팬",
+    "quote": "이번 11월 메가와리는 오는 20일부터 12월 2일까지 13일간 진행된다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

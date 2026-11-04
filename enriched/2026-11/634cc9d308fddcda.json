@@ -1,0 +1,54 @@
+{
+ "doc_id": "634cc9d308fddcda",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58657",
+ "title": "바이트러스 바이오텍, ‘Toleroxyl™’ 28일 만에 피부 발적 최대 65.3% 감소",
+ "summary": "# 도시 환경에 노출된 피부의 재교육: 피부 면역 관용을 회복시키는 식물 유래 인체 단백질 [코스인코리아닷컴 길태윤 기자] 스페인 바이트러스 바이오텍(Vytrus Biotech)의 식물 유래 재조합 인체 단백질 ‘Toleroxyl™(톨러록실)’이 과민성 피부 대상 임상시험에서 사용 28일 만에 피부 발적…",
+ "published_at": "2026-11-04T12:52:30+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "ES"
+  ],
+  "brands": [],
+  "companies": [
+   "바이트러스 바이오텍"
+  ],
+  "keywords": [
+   "민감성 피부",
+   "피부 면역 관용",
+   "식물 유래 원료",
+   "재조합 단백질"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "식물 유래 재조합 인체 단백질이 과민성 피부 임상시험에서 피부 발적을 줄인 것으로 나타났다.",
+  "key_fact_quote": "스페인 바이트러스 바이오텍(Vytrus Biotech)의 식물 유래 재조합 인체 단백질 ‘Toleroxyl™(톨러록실)’이 과민성 피부 대상 임상시험에서 사용 28일 만에 피부 발적을 최대 65.3% 줄인 것으로 나타났다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Toleroxyl™",
+    "quote": "스페인 바이트러스 바이오텍(Vytrus Biotech)의 식물 유래 재조합 인체 단백질 ‘Toleroxyl™(톨러록실)’이 과민성 피부 대상 임상시험에서 사용 28일 만에 피부 발적을 최대 65.3% 줄인 것으로 나타났다."
+   },
+   {
+    "name": "GM-CSF",
+    "quote": "GM-CSF는 랑게르한스 세포의 분화와 생존, 기능적 프로그래밍을 조절하는 단백질이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

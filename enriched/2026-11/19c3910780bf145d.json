@@ -1,0 +1,75 @@
+{
+ "doc_id": "19c3910780bf145d",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58655",
+ "title": "엑티브온, ‘인코스메틱스 아시아 2026’서 바이오 글리콜 2종·어성초 엑소좀 선봬",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 클린뷰티 소재 전문기업 엑티브온(대표 조윤기)이 태국 방콕에서 열리는 ‘인코스메틱스 아시아 2026’에 참가해 바이오 기반 글리콜 2종과 어성초 유래 엑소좀 원료를 공개한다고 3일 밝혔다. ‘인코스메틱스 아시아 2026(in-cosmetics Asia 2026)’은 3일…",
+ "published_at": "2026-11-04T10:31:59+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "엑티브온",
+   "서밋 케미컬"
+  ],
+  "keywords": [
+   "바이오 기반 글리콜",
+   "엑소좀 원료",
+   "지속가능 소재"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "엑티브온이 인코스메틱스 아시아에서 바이오 기반 글리콜과 어성초 엑소좀 원료를 공개한다.",
+  "key_fact_quote": "클린뷰티 소재 전문기업 엑티브온(대표 조윤기)이 태국 방콕에서 열리는 ‘인코스메틱스 아시아 2026’에 참가해 바이오 기반 글리콜 2종과 어성초 유래 엑소좀 원료를 공개한다고 3일 밝혔다.",
+  "events": [
+   {
+    "name": "인코스메틱스 아시아 2026",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-05",
+    "place": "태국 방콕 국제무역전시센터(BITEC)",
+    "quote": "‘인코스메틱스 아시아 2026(in-cosmetics Asia 2026)’은 3일부터 5일까지 태국 방콕 국제무역전시센터(BITEC)에서 개최되는 아시아·태평양 지역의 대표적인 화장품 원료 전시회다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "Activonol-PG Green",
+    "quote": "‘Activonol-PG Green’은 재생 가능한 원료를 기반으로 생산한 프로필렌글라이콜로 기존 석유계 원료를 대체할 수 있는 지속가능 화장품 소재다."
+   },
+   {
+    "name": "프로필렌글라이콜",
+    "quote": "‘Activonol-PG Green’은 재생 가능한 원료를 기반으로 생산한 프로필렌글라이콜로 기존 석유계 원료를 대체할 수 있는 지속가능 화장품 소재다."
+   },
+   {
+    "name": "Activonol-BDO 90 RSPO MB",
+    "quote": "‘Activonol-BDO 90 RSPO MB’는 바이오 기반 공정을 적용한 2,3-부탄다이올 원료로 항균과 보습 기능을 통해 화장품 제형의 기능성을 높이는 것이 특징이다."
+   },
+   {
+    "name": "2,3-부탄다이올",
+    "quote": "‘Activonol-BDO 90 RSPO MB’는 바이오 기반 공정을 적용한 2,3-부탄다이올 원료로 항균과 보습 기능을 통해 화장품 제형의 기능성을 높이는 것이 특징이다."
+   },
+   {
+    "name": "Acxosome™-Heartleaf",
+    "quote": "바이오 소재 분야에서는 어성초 유래 엑소좀 원료인 ‘Acxosome™-Heartleaf’를 선보인다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

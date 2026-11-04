@@ -1,0 +1,60 @@
+{
+ "doc_id": "0d8d0e0a5b3cef7f",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58660",
+ "title": "맥스클리닉, ‘바르는 멜라토닌’ SBS Plus서 보습·광채 케어 주목",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 메디컬 코스메틱 브랜드 맥스클리닉의 ‘타임리턴 멜라토닌 크림’이 지난달 31일 방송된 SBS Plus 뷰티 프로그램 ‘리뷰 액츄얼리’ 3회에서 피부 톤과 광채, 보습 관리를 위한 스킨케어 제품으로 소개됐다고 4일 밝혔다. ‘리뷰 액츄얼리’는 일상 속 다양한 뷰티 고…",
+ "published_at": "2026-11-04T15:11:18+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "맥스클리닉"
+  ],
+  "companies": [
+   "맥스클리닉"
+  ],
+  "keywords": [
+   "메디컬 코스메틱",
+   "멜라토닌 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "타임리턴 멜라토닌 크림",
+    "brand": "맥스클리닉",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "맥스클리닉의 멜라토닌 크림이 뷰티 방송에서 스킨케어 제품으로 소개됐다.",
+  "key_fact_quote": "메디컬 코스메틱 브랜드 맥스클리닉의 ‘타임리턴 멜라토닌 크림’이 지난달 31일 방송된 SBS Plus 뷰티 프로그램 ‘리뷰 액츄얼리’ 3회에서 피부 톤과 광채, 보습 관리를 위한 스킨케어 제품으로 소개됐다고 4일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "멜라토닌 리포좀",
+    "quote": "‘타임리턴 멜라토닌 크림’은 먹는 멜라토닌과 달리 피부에 직접 바르는 스킨케어 제품으로 멜라토닌 리포좀 성분을 함유한 것이 특징이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

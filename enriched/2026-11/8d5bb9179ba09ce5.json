@@ -1,0 +1,54 @@
+{
+ "doc_id": "8d5bb9179ba09ce5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newspim.com/news/view/20261104000048",
+ "title": "외국계 명품 화장품 中 시장서 약진세",
+ "summary": "최헌규 베이징 특파원= 중국 화장품 시장에서 외국계 고급 화장품 업체들의 영업이 호조를 보이고 있다.... 특히 프로야는 핵심 제품인 '루비 크림 4.0'을 출시 하고 대규모 마케팅을 진행했지만 3분기 스킨케어 매출은 8...",
+ "published_at": "2026-11-04T07:45:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [
+   "프로야"
+  ],
+  "companies": [],
+  "keywords": [
+   "중국 화장품 시장",
+   "외국계 고급 화장품",
+   "프리미엄 스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "루비 크림 4.0",
+    "brand": "프로야",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "특히 프로야는 핵심 제품인 '루비 크림 4.0'을 출시 하고 대규모 마케팅을 진행했지만 3분기 스킨케어 매출은 8...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "중국 화장품 시장에서 외국계 고급 화장품 업체들의 영업이 호조를 보이고 있다.",
+  "key_fact_quote": "중국 화장품 시장에서 외국계 고급 화장품 업체들의 영업이 호조를 보이고 있다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

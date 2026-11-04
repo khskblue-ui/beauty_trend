@@ -1,0 +1,44 @@
+{
+ "doc_id": "3f3915bd3adf8b0a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4116759",
+ "title": "대구·경북 화장품 수출 두 자릿수 급성장… K - 뷰티 시장 다변화 가속",
+ "summary": "대구와 경북 지역의 화장품 수출 이 글로벌 K - 뷰티 열풍에 힘입어 높은 성장세를 기록하며 기존 중화권 중심에서 북미·유럽·신흥시장으로의 판로 다변화를 발 빠르게 추진하고 있습니다. 한국무역협회...",
+ "published_at": "2026-11-04T16:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국무역협회"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "화장품 수출 동향"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "cc124663825e722f",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

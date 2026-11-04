@@ -1,0 +1,63 @@
+{
+ "doc_id": "8f0153e60d6d9081",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312568",
+ "title": "10월 티몰 K-뷰티 베이스메이크업 분석③: 판매량 16.3% 감소…라네즈 1위 유지",
+ "summary": "[편집자 주] 뷰티경제는 2019년부터 중국 티몰(Tmall) 한국관의 K-뷰티 8개 주요 품목의 판매 데이터를 추적·분석하고 있다. 이번 기사에서는 베이스메이크업 카테고리의 10월 판매 동향을 바탕으로 중국 시장의 변화와 소비 트렌드를 살펴본다.중국 티몰(Tmall) 한국관 베이스메이크업 시장이 2026년 10월 감소세를 나타낸 것으로 조사됐다.뷰티경제가 집계한 결과, 2026년 10월 티몰 한국관 베이스메이크업 TOP10 제품의 총 판매량은 11만6000개로 나타났다. 이는 2025년 10월 13만8600개 대비 16.3% 감소",
+ "published_at": "2026-11-04T09:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [
+   "라네즈",
+   "더마펌",
+   "에이지투웨니스",
+   "유니클럽",
+   "더페이스샵",
+   "비디비치",
+   "더블유랩",
+   "바브레아",
+   "키스마일"
+  ],
+  "companies": [],
+  "keywords": [
+   "티몰 한국관",
+   "베이스 메이크업",
+   "판매 순위"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "라네즈 프라이머",
+    "brand": "라네즈",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "티몰 한국관 베이스메이크업 판매가 줄었지만 라네즈가 1위를 지켰다.",
+  "key_fact_quote": "뷰티경제 조사 결과, 2026년 10월 티몰 한국관 베이스메이크업 시장은 전년 대비 16.3% 감소한 가운데 라네즈가 1위를 유지했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

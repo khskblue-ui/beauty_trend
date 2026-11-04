@@ -1,0 +1,59 @@
+{
+ "doc_id": "f4d36dbc95f7df96",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/distribution/6343107",
+ "title": "\" 화장품 도 30분 배송\"…배민, '뷰티 퀵커머스' 판 키운다",
+ "summary": "배민은 이 같은 수요에 대응해 지난 3일 뷰티 전용 서비스 'B뷰티'를 출시 했다. 기존 B마트에서 취급하던 화장품 구색을 대폭 보강하고, 아이오페·에스트라·AHC·라운드랩 등 170여 개 브랜드 상품을 직매입해 판매한다....",
+ "published_at": "2026-11-05T06:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오페",
+   "에스트라",
+   "AHC",
+   "라운드랩"
+  ],
+  "companies": [
+   "배민"
+  ],
+  "keywords": [
+   "뷰티 퀵커머스",
+   "즉시 배송",
+   "직매입"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "B뷰티",
+    "brand": "배민",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "배민은 이 같은 수요에 대응해 지난 3일 뷰티 전용 서비스 'B뷰티'를 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "배민이 화장품을 빠르게 배송하는 뷰티 전용 서비스를 내놨다.",
+  "key_fact_quote": "배민은 이 같은 수요에 대응해 지난 3일 뷰티 전용 서비스 'B뷰티'를 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

@@ -1,0 +1,109 @@
+{
+ "doc_id": "1eb797fff372e62a",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53867",
+ "title": "LG 더페이스샵 미감수 레디, 美 얼타 뷰티 500곳 입점",
+ "summary": "LG생활건강(대표이사 이선주)의 K-뷰티 브랜드 더페이스샵이 미국 대형 화장품 유통기업 얼타 뷰티(Ulta Beauty)의 온·오프라인 유통망에 입점, 북미 시장 공략에 속도를 내기 시작했다. 지난 7월 미국 월마트(Walmart) 입점에 이어 얼타 뷰티까지 주요 유통망을 확대하면서 현지 소비자와의 접점을…",
+ "published_at": "2026-11-04T20:20:18+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "더페이스샵"
+  ],
+  "companies": [
+   "LG생활건강",
+   "얼타 뷰티",
+   "월마트"
+  ],
+  "keywords": [
+   "K뷰티 미국 진출",
+   "스킨 프렙",
+   "쌀뜨물 세안"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "미감수 브라이트",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "이번에 선보인 제품은 베스트셀러 ‘미감수 브라이트’(Rice Water Bright) 클렌징 라인과 신규 스킨케어 라인 ‘미감수 레디’(Rice Water Ready) 등 모두 9종이다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미감수 레디",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "더페이스샵은 지난 6월 북미 아마존 온라인몰에서 미감수 레디를 처음 선보였으며 이번 얼타 뷰티 입점을 통해 판매 채널을 오프라인까지 확대했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "글로위 글레이징 세럼",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "글로위 에센스 젤리 미스트",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "글로위 립 세럼",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미감수 클렌징 폼",
+    "brand": "더페이스샵",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더페이스샵이 미국 얼타 뷰티의 온오프라인 유통망에 입점해 북미 시장 공략에 속도를 낸다.",
+  "key_fact_quote": "LG생활건강(대표이사 이선주)의 K-뷰티 브랜드 더페이스샵이 미국 대형 화장품 유통기업 얼타 뷰티(Ulta Beauty)의 온·오프라인 유통망에 입점, 북미 시장 공략에 속도를 내기 시작했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "쌀뜨물",
+    "quote": "미감수 고유의 쌀뜨물 헤리티지를 계승해 국내산 쌀 유래 성분을 담았으며 순한 사용감과 피부 광채·보습 개선에 초점을 맞췄다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

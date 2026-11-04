@@ -1,0 +1,47 @@
+{
+ "doc_id": "f666907276d87486",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/pai-partners-acquire-british-skin-care-brand-elemis-1239399807/",
+ "title": "PAI Partners to Acquire British Skin Care Brand Elemis",
+ "summary": "L’Occitane Group is selling the brand after seven years of ownership.",
+ "published_at": "2026-11-04T21:52:45+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "Elemis"
+  ],
+  "companies": [
+   "PAI Partners",
+   "L’Occitane Group"
+  ],
+  "keywords": [
+   "브랜드 인수",
+   "스킨케어 브랜드",
+   "사모펀드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "록시땅 그룹이 영국 스킨케어 브랜드 엘레미스를 PAI 파트너스에 판다.",
+  "key_fact_quote": "L’Occitane Group is selling the brand after seven years of ownership.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

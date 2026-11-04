@@ -1,0 +1,46 @@
+{
+ "doc_id": "97494f93b571a7f0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thepublic.kr/news/articleView.html?idxno=325026",
+ "title": "K뷰티 글로벌 영토 확장…브랜드·ODM·물류 기업 동반 성장",
+ "summary": "3일 보도와 89개국 관세청의 올해 상반기 수출 입 데이터 분석 결과에 따르면, 한국 화장품은 미국... 에이피알은 미국 시장에서 아마존에 진출한 뒤 오프라인 유통채널인 울타 뷰티 에 입점하기까지 8년이...",
+ "published_at": "2026-11-04T10:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알",
+   "울타 뷰티"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "ODM",
+   "미국 유통망 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티 수출이 브랜드, ODM, 물류 기업의 동반 성장으로 이어지고 있다.",
+  "key_fact_quote": "K뷰티 글로벌 영토 확장…브랜드·ODM·물류 기업 동반 성장",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

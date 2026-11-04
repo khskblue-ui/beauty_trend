@@ -1,0 +1,46 @@
+{
+ "doc_id": "509cecb41aa31cb3",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312518",
+ "title": "AI Is Becoming Beauty's New Gatekeeper: What China and the U.S. Reveal About the Future of Consumer Discovery",
+ "summary": "The beauty industry is entering a profound shift in how consumers discover, evaluate and purchase products.For years, beauty brands competed for visibility through advertising, retail placement and search engine rankings.Increasingly, however, consumers are turning to generative AI tools to help the",
+ "published_at": "2026-11-04T14:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "Euromonitor International",
+   "Qingyan Intelligence"
+  ],
+  "keywords": [
+   "생성형 AI 추천",
+   "AI 최적화",
+   "소비자 제품 탐색"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "소비자가 화장품을 고를 때 생성형 AI를 쓰면서 검색 최적화에서 AI 최적화로 경쟁 방식이 옮겨 가고 있다.",
+  "key_fact_quote": "The transition may signal the beginning of a new competitive framework for the beauty industry: moving from Search Engine Optimization (SEO) toward AI Optimization (AIO).",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

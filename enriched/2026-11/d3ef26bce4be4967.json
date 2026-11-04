@@ -1,0 +1,49 @@
+{
+ "doc_id": "d3ef26bce4be4967",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.kdfnews.com/news/articleView.html?idxno=190389",
+ "title": "LG생활건강, 3분기 영업익 52.4% 증가…뷰티 수익성 개선·브랜드 투자 ...",
+ "summary": "치약'을 출시 했다. 닥터그루트는 지난 8월 미국 세포라 오프라인 매장 400여곳에 입점했다. 9월에는... LG생활건강은 이날 이사회에서 색조 화장품 브랜드 힌스를 운영하는 비바웨이브의 잔여지분 25%를 추가...",
+ "published_at": "2026-11-04T08:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "닥터그루트",
+   "힌스"
+  ],
+  "companies": [
+   "LG생활건강",
+   "비바웨이브"
+  ],
+  "keywords": [
+   "미국 세포라 입점",
+   "색조 화장품",
+   "지분 인수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "LG생활건강이 힌스를 운영하는 비바웨이브의 잔여 지분을 추가로 취득한다.",
+  "key_fact_quote": "LG생활건강은 이날 이사회에서 색조 화장품 브랜드 힌스를 운영하는 비바웨이브의 잔여지분 25%를 추가...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:35:57+00:00",
+ "had_body": false
+}

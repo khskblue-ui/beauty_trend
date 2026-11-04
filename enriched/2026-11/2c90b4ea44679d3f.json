@@ -1,0 +1,75 @@
+{
+ "doc_id": "2c90b4ea44679d3f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.kdfnews.com/news/articleView.html?idxno=190449",
+ "title": "뷰티업계, 스킨케어 제품군 넓히고 원료∙해외 판로 개발",
+ "summary": "사진=아모레퍼시픽 완제품에 사용되는 화장품 소재 개발도 이어지고 있다. HLB제넥스 자회사 지에프퍼멘텍은 지난 3일 태국 방콕에서 개막한 '인코스메틱스 아시아 2026'에서 복합 세라마이드 신제품 '스킨세라플렉스'를...",
+ "published_at": "2026-11-04T16:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "TH",
+   "KR"
+  ],
+  "brands": [
+   "아모레퍼시픽"
+  ],
+  "companies": [
+   "HLB제넥스",
+   "지에프퍼멘텍"
+  ],
+  "keywords": [
+   "세라마이드",
+   "화장품 소재",
+   "인코스메틱스"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "스킨세라플렉스",
+    "brand": "지에프퍼멘텍",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "지에프퍼멘텍이 인코스메틱스 아시아에서 복합 세라마이드 신제품을 선보였다.",
+  "key_fact_quote": "HLB제넥스 자회사 지에프퍼멘텍은 지난 3일 태국 방콕에서 개막한 '인코스메틱스 아시아 2026'에서 복합 세라마이드 신제품 '스킨세라플렉스'를",
+  "events": [
+   {
+    "name": "인코스메틱스 아시아 2026",
+    "start_date": "2026-11-03",
+    "end_date": null,
+    "place": "태국 방콕",
+    "quote": "HLB제넥스 자회사 지에프퍼멘텍은 지난 3일 태국 방콕에서 개막한 '인코스메틱스 아시아 2026'에서 복합 세라마이드 신제품 '스킨세라플렉스'를"
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "스킨세라플렉스",
+    "quote": "HLB제넥스 자회사 지에프퍼멘텍은 지난 3일 태국 방콕에서 개막한 '인코스메틱스 아시아 2026'에서 복합 세라마이드 신제품 '스킨세라플렉스'를"
+   },
+   {
+    "name": "복합 세라마이드",
+    "quote": "HLB제넥스 자회사 지에프퍼멘텍은 지난 3일 태국 방콕에서 개막한 '인코스메틱스 아시아 2026'에서 복합 세라마이드 신제품 '스킨세라플렉스'를"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

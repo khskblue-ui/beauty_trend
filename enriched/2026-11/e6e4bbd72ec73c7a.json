@@ -1,0 +1,50 @@
+{
+ "doc_id": "e6e4bbd72ec73c7a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008830125&plink=ORI&cooper=NAVER",
+ "title": "금산 인삼, ' K - 뷰티 ' 접목해 새로운 수출 활로 모색",
+ "summary": "만큼, K - 뷰티 와 접목해 인삼 경쟁력을 높이겠다는 전략입니다. 실제 스타트업들의 도전이 이어졌고, 인삼의 항산화 성분인 '진세노이드'가 함유된 마스크팩과 아이크림 등의 수출 성과로도 나타났습니다. 아직 시작...",
+ "published_at": "2026-11-04T12:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "인삼 화장품",
+   "K뷰티 접목"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "금산 인삼을 K뷰티와 접목해 경쟁력을 높이려는 전략이다.",
+  "key_fact_quote": "K - 뷰티 와 접목해 인삼 경쟁력을 높이겠다는 전략입니다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "진세노이드",
+    "quote": "실제 스타트업들의 도전이 이어졌고, 인삼의 항산화 성분인 '진세노이드'가 함유된 마스크팩과 아이크림 등의 수출 성과로도 나타났습니다."
+   },
+   {
+    "name": "인삼",
+    "quote": "실제 스타트업들의 도전이 이어졌고, 인삼의 항산화 성분인 '진세노이드'가 함유된 마스크팩과 아이크림 등의 수출 성과로도 나타났습니다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

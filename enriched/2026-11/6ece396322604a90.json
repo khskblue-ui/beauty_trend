@@ -1,0 +1,52 @@
+{
+ "doc_id": "6ece396322604a90",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53866",
+ "title": "효능 입증 강화(英)·주사기형 화장품 포장 금지(사우디)…높아가는 규제 장벽",
+ "summary": "2026년 글로벌 코스메틱 포커스 제 9호(영국·사우디아라비아 편) 영국과 사우디아라비아가 화장품 효능 광고와 제품 포장에 대한 규제 수위를 높이면서 K-화장품·뷰티 수출기업의 현지 법규 대응에 새로운 과제를 던지고 있다. 영국은 안티에이징 화장품의 효능을 입증하는 시험 근거를 강화하고 나섰으…",
+ "published_at": "2026-11-04T19:08:31+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "GB",
+   "SA"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원",
+   "영국 광고심의기구",
+   "사우디아라비아 식품의약청"
+  ],
+  "keywords": [
+   "효능 입증",
+   "주사기형 포장 금지",
+   "화장품 규제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "영국과 사우디아라비아가 화장품 효능 광고와 제품 포장 규제를 강화하고 있다.",
+  "key_fact_quote": "영국과 사우디아라비아가 화장품 효능 광고와 제품 포장에 대한 규제 수위를 높이면서 K-화장품·뷰티 수출기업의 현지 법규 대응에 새로운 과제를 던지고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "엑소좀",
+    "quote": "엑소좀의 피부 재생 효과를 강조한 세럼 역시 완제품 자체의 효능을 증명하지 못했다는 이유로 제재 대상에 올랐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

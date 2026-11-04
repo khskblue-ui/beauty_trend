@@ -1,0 +1,48 @@
+{
+ "doc_id": "5b8372b15a30376b",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/elf-beauty-shatters-wall-street-estimates-raises-forecast-1239400693/",
+ "title": "E.l.f. Beauty Shatters Wall Street Estimates, Raises 2027 Forecast Amid Record-Breaking Rhode Launch at Sephora Europe",
+ "summary": "E.l.f. Beauty’s second-quarter net sales surged 51 percent to $520.8 million, fueled by Rhode’s Sephora launch and international expansion.",
+ "published_at": "2026-11-05T06:05:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "E.l.f. Beauty",
+   "Rhode"
+  ],
+  "companies": [
+   "E.l.f. Beauty",
+   "Sephora"
+  ],
+  "keywords": [
+   "실적 호조",
+   "유럽 진출",
+   "신규 브랜드 출시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "E.l.f. Beauty가 로드의 유럽 세포라 출시에 힘입어 시장 예상을 웃도는 실적을 냈다.",
+  "key_fact_quote": "E.l.f. Beauty’s second-quarter net sales surged 51 percent to $520.8 million, fueled by Rhode’s Sephora launch and international expansion.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

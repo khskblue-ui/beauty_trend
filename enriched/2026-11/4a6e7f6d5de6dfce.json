@@ -1,0 +1,48 @@
+{
+ "doc_id": "4a6e7f6d5de6dfce",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/stephanie-phair-ai-powered-fragrance-discovery-parfumerie-1239397903/",
+ "title": "AI-powered Fragrance Discovery Platform Parfumerie Launches With 2M Pounds Pre-seed",
+ "summary": "The nascent platform aims to connect personalized scent discovery to purchases through multibrand retailers, beginning in the U.K. with Selfridges, Sephora, Space NK and more.",
+ "published_at": "2026-11-04T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "Parfumerie"
+  ],
+  "companies": [
+   "Selfridges",
+   "Sephora",
+   "Space NK"
+  ],
+  "keywords": [
+   "AI 향수 추천",
+   "향 탐색 플랫폼",
+   "개인 맞춤 향"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "AI 기반 향수 탐색 플랫폼 Parfumerie가 영국에서 시작했다.",
+  "key_fact_quote": "The nascent platform aims to connect personalized scent discovery to purchases through multibrand retailers, beginning in the U.K. with Selfridges, Sephora, Space NK and more.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

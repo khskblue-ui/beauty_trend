@@ -1,0 +1,46 @@
+{
+ "doc_id": "f0f4e96f7bdb02a6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ibabynews.com/news/articleView.html?idxno=156530",
+ "title": "[뷰티 트렌드] 아로마티카, 일본 전문 살롱서 스칼프케어 경험 확대…오...",
+ "summary": "국내외 뷰티·생활건강 기업들이 발표한 신제품 출시, 성분·기술 연구, 캠페인, 사회공헌 활동 등 다양한... 닥터리본은 2020년 설립된 화장품 ·건강기능식품 브랜드다. 서울대학교 화학과를 졸업한 의사 정소담...",
+ "published_at": "2026-11-04T11:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "아로마티카",
+   "닥터리본"
+  ],
+  "companies": [],
+  "keywords": [
+   "스칼프케어",
+   "살롱 채널",
+   "일본 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아로마티카가 일본 전문 살롱에서 스칼프케어 경험을 넓힌다.",
+  "key_fact_quote": "아로마티카, 일본 전문 살롱서 스칼프케어 경험 확대",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": false
+}

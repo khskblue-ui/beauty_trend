@@ -1,0 +1,65 @@
+{
+ "doc_id": "31bf88a616f6bafa",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53864",
+ "title": "페블린 “올 가을엔 애쉬브라운”",
+ "summary": "올 가을 메이크업 키워드는 ‘애쉬브라운’이다. 갑작스레 찾아온 쌀쌀한 날씨와 함께 쨍한 블랙은 가고, 그윽하고 부드러운 음영이 주목받고 있다. 코나드(대표 최대통)의 색조 브랜드 페블린(Feeblin)은 애쉬브라운으로 완성하는 음영 메이크업을 제안했다. 페블린은 이마트의 초저가 생활용품 전문점…",
+ "published_at": "2026-11-04T17:16:23+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "페블린"
+  ],
+  "companies": [
+   "코나드",
+   "이마트"
+  ],
+  "keywords": [
+   "애쉬브라운",
+   "음영 메이크업",
+   "가성비 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "패밀리 키링 메이크업",
+    "brand": "페블린",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "페블린이 애쉬브라운 색상의 눈 화장품으로 가을 음영 메이크업을 제안했다.",
+  "key_fact_quote": "코나드(대표 최대통)의 색조 브랜드 페블린(Feeblin)은 애쉬브라운으로 완성하는 음영 메이크업을 제안했다.",
+  "events": [
+   {
+    "name": "코스모프로프 아시아 홍콩",
+    "start_date": "2026-11-11",
+    "end_date": null,
+    "place": "홍콩",
+    "quote": "페블린은 11일부터 홍콩서 열리는 ‘코스모프로프 아시아 홍콩’에 참가한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}

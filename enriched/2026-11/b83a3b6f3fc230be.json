@@ -1,0 +1,56 @@
+{
+ "doc_id": "b83a3b6f3fc230be",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312683",
+ "title": "월마트 바이어가 본 K-뷰티 성공 공식…\"입점보다 재주문이 중요\"",
+ "summary": "많은 K-뷰티 기업들이 미국 시장에서의 성공을 희망하고 있지만, 현지 대형 유통망 입점의 문턱은 여전히 높다. 그러나 정작 미국 바이어들이 주목하는 것은 화려한 브랜드 스토리보다 판매 실적과 공급망 운영 역량인 것으로 나타났다.한국무역협회가 4일 서울 코엑스에서 개최한 \\'2026 미국 대형 유통망 진출 전략 세미나\\'에서는 미국 최대 유통기업 월마트와 회원제 창고형 할인점 샘스클럽의 입점 기준과 운영 전략이 공개됐다. 행사에는 뷰티·퍼스널케어·웰니스 분야 국내 기업 관계자 200여 명이 참석했다.■ 미국 바이어가 보는 것은 \\'판매 후",
+ "published_at": "2026-11-04T17:25:44+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "한국무역협회",
+   "월마트",
+   "샘스클럽",
+   "발렌라이프"
+  ],
+  "keywords": [
+   "미국 대형 유통망 진출",
+   "재주문 관리",
+   "SNS 소비자 검증"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 대형 유통사는 입점보다 판매 이후의 재주문과 공급망 운영 역량을 더 중요하게 본다.",
+  "key_fact_quote": "미국 바이어들이 주목하는 것은 화려한 브랜드 스토리보다 판매 실적과 공급망 운영 역량인 것으로 나타났다.",
+  "events": [
+   {
+    "name": "2026 미국 대형 유통망 진출 전략 세미나",
+    "start_date": "2026-11-04",
+    "end_date": null,
+    "place": "서울 코엑스",
+    "quote": "한국무역협회가 4일 서울 코엑스에서 개최한 '2026 미국 대형 유통망 진출 전략 세미나'에서는 미국 최대 유통기업 월마트와 회원제 창고형 할인점 샘스클럽의 입점 기준과 운영 전략이 공개됐다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-04T21:34:32+00:00",
+ "had_body": true
+}
