@@ -1,0 +1,55 @@
+{
+ "doc_id": "9166dd727d59d541",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.joongangenews.com/news/articleView.html?idxno=561456",
+ "title": "피부과 관리 후에도 뿌리는 크림…에이피 뷰티, 고기능성 미스트 출시",
+ "summary": "라인은 화장품 에 피부 특수관리 성분과 기술을 접목한 제품군이다. 일상적인 피부 관리뿐 아니라 피부과 관리 후 집중 케어까지 고려해 제품을 구성했다. 신제품 은 네이버 브랜드 스토어 등 주요 온라인몰과 전국...",
+ "published_at": "2026-11-05T15:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이피 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "크림 미스트",
+   "스킨케어 신제품",
+   "피부 장벽 케어",
+   "피부과 관리 후 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "고기능성 미스트",
+    "brand": "에이피 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "피부과 관리 후에도 뿌리는 크림…에이피 뷰티, 고기능성 미스트 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피 뷰티가 고기능성 미스트를 출시했다.",
+  "key_fact_quote": "피부과 관리 후에도 뿌리는 크림…에이피 뷰티, 고기능성 미스트 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

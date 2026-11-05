@@ -1,0 +1,47 @@
+{
+ "doc_id": "eb6b1adb39c7b33f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730669",
+ "title": "에스트라, 입술장벽 케어 확대… '아토베리어365 립 배리어 밤' 출시",
+ "summary": "4일 뷰티업계에 따르면 아모레퍼시픽 더마 브랜드 에스트라는 건조하고 민감한 입술을 위한 신제품 ... 최근 뷰티업계에서는 기초 화장품 에 적용하던 보습·진정 성분을 립케어 제품에도 활용하는 등 피부 관리 영역을...",
+ "published_at": "2026-11-06T01:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에스트라"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "립 케어",
+   "더마 화장품",
+   "보습"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "78e7fb76c798ba64",
+ "enriched_at": "2026-11-05T21:30:36+00:00",
+ "had_body": false
+}

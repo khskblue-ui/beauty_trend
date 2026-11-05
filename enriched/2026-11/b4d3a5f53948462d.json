@@ -1,0 +1,42 @@
+{
+ "doc_id": "b4d3a5f53948462d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pressman.kr/news/articleView.html?idxno=104337",
+ "title": "뷰티업계, 기술력과 감성으로 시장 넓힌다",
+ "summary": "화장품 업계가 독자적인 기술 개발과 소비자 감성을 겨냥한 협업으로 시장 경쟁력을 강화하고 있다.... 매장에 출시 했다. 피부 관리에 재미와 소장 가치를 더하는 방식으로 젊은 소비자층과의 접점을 확대하려는...",
+ "published_at": "2026-11-05T10:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "감성 협업",
+   "기술 개발",
+   "젊은 소비자층"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 업계가 독자 기술과 소비자 감성 협업으로 경쟁력을 높이고 있다.",
+  "key_fact_quote": "화장품 업계가 독자적인 기술 개발과 소비자 감성을 겨냥한 협업으로 시장 경쟁력을 강화하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

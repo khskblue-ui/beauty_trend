@@ -1,0 +1,44 @@
+{
+ "doc_id": "78be4d4102a8a8de",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newstnt.com/news/articleView.html?idxno=726929",
+ "title": "에이피 뷰티 , '듀얼 리페어 리프트 M.D. 크림 미스트' 출시 …크림 효과...",
+ "summary": "아모레퍼시픽은 하이엔드 스킨케어 브랜드인 에이피 뷰티 (AP BEAUTY)가 피부 특수 케어 솔루션 M.D. 라인 신제품 '듀얼 리페어 리프트 M.D. 크림 미스트'를 선보였다고 5일 전했다. 이번 제품은 브랜드 대표작 '듀얼...",
+ "published_at": "2026-11-05T16:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이피 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "크림 미스트",
+   "피부 특수관리"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "699fe2ebfe403ac9",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

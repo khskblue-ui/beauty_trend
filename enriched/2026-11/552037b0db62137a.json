@@ -1,0 +1,46 @@
+{
+ "doc_id": "552037b0db62137a",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/cosmetics-business-reveals-the-top-5-body-care-1",
+ "title": "Cosmetics Business reveals the top 5 body care trends of 2026 in new report",
+ "summary": "Move over face care, body care is seeing a full-on boom this year, with glowing glass skin, vitamin C brightening treatments and body milks topping the trends",
+ "published_at": "2026-11-05T13:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "바디 케어",
+   "글래스 스킨",
+   "비타민 C 브라이트닝",
+   "바디 밀크"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "바디 케어가 올해 크게 성장하며 얼굴 케어를 앞서고 있다.",
+  "key_fact_quote": "Move over face care, body care is seeing a full-on boom this year, with glowing glass skin, vitamin C brightening treatments and body milks topping the trends",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "vitamin C",
+    "quote": "Move over face care, body care is seeing a full-on boom this year, with glowing glass skin, vitamin C brightening treatments and body milks topping the trends"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

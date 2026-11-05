@@ -1,0 +1,45 @@
+{
+ "doc_id": "e0ec2b4260ca9e37",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=334838",
+ "title": "20년 뷰티 파트너 코티‧마크 제이콥스..40년 더~",
+ "summary": "라이센스 유효기간을 장기간 연장키로 합의함에 따라 코티는 앞으로 40년 동안 ‘마크 제이콥스’ 브랜드 의 향수 ‧메이크업 제품들을 자사의 프레스티지 포트폴리오에 포함시켜 계속 소유할 수 있게 됐다.코티는...",
+ "published_at": "2026-11-06T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "마크 제이콥스"
+  ],
+  "companies": [
+   "코티"
+  ],
+  "keywords": [
+   "브랜드 라이선스",
+   "프레스티지 향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코티가 마크 제이콥스 브랜드의 라이선스를 장기간 연장하기로 합의했다.",
+  "key_fact_quote": "라이센스 유효기간을 장기간 연장키로 합의함에 따라 코티는 앞으로 40년 동안 ‘마크 제이콥스’ 브랜드 의 향수 ‧메이크업 제품들을 자사의 프레스티지 포트폴리오에 포함시켜 계속 소유할 수 있게 됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

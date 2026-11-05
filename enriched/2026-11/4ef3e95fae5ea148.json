@@ -1,0 +1,54 @@
+{
+ "doc_id": "4ef3e95fae5ea148",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100393",
+ "title": "SBA, 오만 무스카트에 ‘서울 라이프스타일 거점‘ 오픈",
+ "summary": "서울시의 경쟁력을 만드는 중소기업 지원기관 서울경제진흥원(SBA)은 ‘서울 라이프스타일 거점 진출사업’을 통해 서울기업의 중동 진출 지원에 본격적으로 나선다.서울경제진흥원은 파트너사인 ‘㈜크로스컴바인’과 협력하여 지난 10월 5일 중동 오만 무스카트에 서울 라이프스타일 기업 30개사의 현지 시장성 검증을 위한 테스트베드 거점을 본격 오픈했다고 밝혔다. 이어 10월 22일에는 오만 현지 주요 관계자를 초청한 론칭 행사를 성황리에 개최하며 서울기업의 오만 시장 진출을 위한 교두보를 마련했다.이번 거점에는 오만 진출에 처음 도전하는 뷰티",
+ "published_at": "2026-11-05T10:51:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "OM"
+  ],
+  "brands": [],
+  "companies": [
+   "서울경제진흥원",
+   "㈜크로스컴바인"
+  ],
+  "keywords": [
+   "중동 시장 진출",
+   "테스트베드",
+   "K-뷰티 수출 지원"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "서울경제진흥원이 오만 무스카트에 서울 기업의 중동 진출을 위한 테스트베드 거점을 열었다.",
+  "key_fact_quote": "서울경제진흥원은 파트너사인 ‘㈜크로스컴바인’과 협력하여 지난 10월 5일 중동 오만 무스카트에 서울 라이프스타일 기업 30개사의 현지 시장성 검증을 위한 테스트베드 거점을 본격 오픈했다고 밝혔다.",
+  "events": [
+   {
+    "name": "론칭 행사",
+    "start_date": "2026-10-22",
+    "end_date": null,
+    "place": "오만 무스카트",
+    "quote": "이어 10월 22일에는 오만 현지 주요 관계자를 초청한 론칭 행사를 성황리에 개최하며 서울기업의 오만 시장 진출을 위한 교두보를 마련했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": true
+}

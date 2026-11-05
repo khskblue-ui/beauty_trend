@@ -1,0 +1,64 @@
+{
+ "doc_id": "4f59ac7ea57ea4b2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=4847",
+ "title": "금융의 일상화…iM금융그룹, 노브랜드 손잡고 뷰티 상품군으로 협업 확...",
+ "summary": "신제품 은 '아이엠 클라우드 핏 선스틱(20g)'과 '아이엠 모이스처 젤리 앰플 미스트(100ml)'다. 앞서 식품 분야 협업으로 호응을 얻은 데 이어 화장품 까지 영역을 넓히며 금융업의 보수적 이미지를 탈피한 파격적인 생활...",
+ "published_at": "2026-11-05T15:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드"
+  ],
+  "companies": [
+   "iM금융그룹"
+  ],
+  "keywords": [
+   "이업종 협업",
+   "선케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아이엠 클라우드 핏 선스틱",
+    "brand": "노브랜드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아이엠 모이스처 젤리 앰플 미스트",
+    "brand": "노브랜드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "iM금융그룹이 노브랜드와 협업해 뷰티 상품군으로 영역을 넓혔다.",
+  "key_fact_quote": "신제품 은 '아이엠 클라우드 핏 선스틱(20g)'과 '아이엠 모이스처 젤리 앰플 미스트(100ml)'다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

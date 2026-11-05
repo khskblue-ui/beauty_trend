@@ -1,0 +1,54 @@
+{
+ "doc_id": "022adc4f6a0afdeb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://futurechosun.com/?p=165603",
+ "title": "iM금융, 식음료 이어 이번엔 뷰티 상품 출시 ...기존 금융권 이미지 차별...",
+ "summary": "적용한 신제품 2종을 공개했다. 이번에 출시 된 품목은 자외선 차단용 '아이엠 클라우드 핏 선스틱'과 수분... 이번 프로젝트는 기존의 먹거리 위주 상품 구성에서 나아가 뷰티 ·케어 영역까지 접점을 넓힌 두 번째 대규모...",
+ "published_at": "2026-11-05T13:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "iM금융"
+  ],
+  "keywords": [
+   "이종업계 협업",
+   "PB 화장품",
+   "금융권 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아이엠 클라우드 핏 선스틱",
+    "brand": "iM금융",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번에 출시 된 품목은 자외선 차단용 '아이엠 클라우드 핏 선스틱'과 수분...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "iM금융이 식음료에 이어 뷰티 상품까지 출시했다.",
+  "key_fact_quote": "이번 프로젝트는 기존의 먹거리 위주 상품 구성에서 나아가 뷰티 ·케어 영역까지 접점을 넓힌 두 번째 대규모...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

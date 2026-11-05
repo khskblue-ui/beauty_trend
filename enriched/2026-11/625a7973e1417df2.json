@@ -1,0 +1,45 @@
+{
+ "doc_id": "625a7973e1417df2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ttlnews.com/news/articleView.html?idxno=3159349",
+ "title": "동남아 이너 뷰티 고지 선점... 다브인터네셔널, 베트남 유통망 타고 글...",
+ "summary": "라파 베트남과의 파트너십을 기반으로 베트남 내 추가 바이어 접점을 늘리고, 인근 동남아시아 국가로 수출 전선을 확장한다는 전략이다. ◈ 2억 달러 육박 베트남 이너 뷰티 시장… K -건기식 수혜 기대 이번 행보는...",
+ "published_at": "2026-11-05T17:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "VN"
+  ],
+  "brands": [],
+  "companies": [
+   "다브인터네셔널",
+   "라파 베트남"
+  ],
+  "keywords": [
+   "이너 뷰티",
+   "건강기능식품",
+   "동남아 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "다브인터네셔널이 베트남 파트너십을 바탕으로 동남아 이너 뷰티 시장으로 수출을 넓힌다.",
+  "key_fact_quote": "라파 베트남과의 파트너십을 기반으로 베트남 내 추가 바이어 접점을 늘리고, 인근 동남아시아 국가로 수출 전선을 확장한다는 전략이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:57+00:00",
+ "had_body": false
+}

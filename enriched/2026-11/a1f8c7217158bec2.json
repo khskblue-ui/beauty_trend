@@ -1,0 +1,58 @@
+{
+ "doc_id": "a1f8c7217158bec2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businessplus.kr/news/articleView.html?idxno=119348",
+ "title": "[잘먹잘살+]코웨이·KT&G·코오롱FnC·비욘드·교원라이프·에이피 뷰티 ·...",
+ "summary": "크림 미스트'를 출시 했다고 5일 밝혔다. 이번 신제품 은 에이피 뷰티 의 대표 제품 '듀얼 리페어 리프트 크림'의 핵심 성분을 담은 고기능성 크림 미스트다. 연어 유래 PDRN 대비 2.1배 높은 리페어 효과를 나타내는...",
+ "published_at": "2026-11-05T11:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이피 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "PDRN",
+   "크림 미스트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "크림 미스트",
+    "brand": "에이피 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "크림 미스트'를 출시 했다고 5일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피 뷰티가 대표 크림의 핵심 성분을 담은 크림 미스트를 출시했다.",
+  "key_fact_quote": "이번 신제품 은 에이피 뷰티 의 대표 제품 '듀얼 리페어 리프트 크림'의 핵심 성분을 담은 고기능성 크림 미스트다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "연어 유래 PDRN 대비 2.1배 높은 리페어 효과를 나타내는..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

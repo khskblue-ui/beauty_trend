@@ -1,0 +1,44 @@
+{
+ "doc_id": "056dd29efd9be416",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.greened.kr/news/articleView.html?idxno=353982",
+ "title": "iM금융·hy...금융·식품·제약 등 이종업계의 활발한 K-뷰티 공략",
+ "summary": "형태도 기존 뷰티 브랜드사와의 협업, ODM 사 인수, 자체 PB 브랜드 출시 등 다양한 형태로 뷰티 사업에... 거리감이 느껴지기 쉬운 금융의 기존 이미지를 탈피하고 일상에서 쉽게 접하는 화장품 을 매개로 브랜드...",
+ "published_at": "2026-11-05T17:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "iM금융"
+  ],
+  "keywords": [
+   "이종업계 뷰티 진출",
+   "자체 PB 브랜드",
+   "ODM 인수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "금융·식품·제약 등 이종업계가 여러 형태로 뷰티 사업에 뛰어들고 있다.",
+  "key_fact_quote": "형태도 기존 뷰티 브랜드사와의 협업, ODM 사 인수, 자체 PB 브랜드 출시 등 다양한 형태로 뷰티 사업에...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

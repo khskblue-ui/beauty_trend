@@ -1,0 +1,43 @@
+{
+ "doc_id": "fafd7df61c5783d6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gukjenews.com/news/articleView.html?idxno=3743263",
+ "title": "부산 화장품 수출 '성장세' 지속...9월 수출 전년 동월 대비 148.6% 달성",
+ "summary": "부산 화장품산업이 글로벌 K - 뷰티 열풍을 타고 수출 성장세를 이어가고 있다. 특히 2026년 9월 수출 실적이 전년 동월 대비 실적을 크게 웃돌면서 부산 화장품산업의 성장세가 주목받고 있다. 부산테크노파크가...",
+ "published_at": "2026-11-05T17:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "부산테크노파크"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "지역 화장품 산업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "부산 화장품 수출이 9월에도 크게 늘며 성장세를 이어갔다.",
+  "key_fact_quote": "부산 화장품산업이 글로벌 K - 뷰티 열풍을 타고 수출 성장세를 이어가고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

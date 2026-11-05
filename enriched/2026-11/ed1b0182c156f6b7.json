@@ -1,0 +1,46 @@
+{
+ "doc_id": "ed1b0182c156f6b7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.metroseoul.co.kr/article/20261105500246",
+ "title": "애경산업, '시그닉X지유'...\"젠Z 스킨케어로 공감대 이룰것\"",
+ "summary": "신제품 은 국내 대표 K 뷰티 채널 CJ올리브영에서 출시 되며 오는 9일부터는 해당 제품 구매 고객에게 지유 친필 사인 폴라로이드를 증정한다. 시그닉 관계자는 \"시그닉만의 가치를 효과적으로 전달해 국내를 넘어 글로벌...",
+ "published_at": "2026-11-05T13:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "시그닉"
+  ],
+  "companies": [
+   "애경산업",
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "Z세대 스킨케어",
+   "모델 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "시그닉이 올리브영에서 지유 협업 신제품을 출시한다.",
+  "key_fact_quote": "신제품 은 국내 대표 K 뷰티 채널 CJ올리브영에서 출시 되며 오는 9일부터는 해당 제품 구매 고객에게 지유 친필 사인 폴라로이드를 증정한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

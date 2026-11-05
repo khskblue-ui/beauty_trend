@@ -1,0 +1,75 @@
+{
+ "doc_id": "72a7935eefacd46a",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53875",
+ "title": "엘에스화장품, 쌀 배아유 기반 신원료 개발",
+ "summary": "화장품 OEM·ODM 전문기업 엘에스화장품(대표이사 이영호)이 바이오 소재 전문기업 JAJALE과 공동으로 쌀 배아유 기반 화장품 원료 ‘Rice Germ Oleate’를 개발했다. 두 회사는 신규 국제화장품원료명(INCI) ‘ORYZA SATIVA (RICE) GERM OLEATE’ 등재도 추진 중이다. 이번에 개발한…",
+ "published_at": "2026-11-05T19:06:12+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "엘에스화장품",
+   "JAJALE"
+  ],
+  "keywords": [
+   "쌀 배아유",
+   "식물 유래 에몰리언트",
+   "실리콘 대체 소재",
+   "신규 INCI"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "엘에스화장품이 쌀 배아유 기반 신원료를 개발했다.",
+  "key_fact_quote": "화장품 OEM·ODM 전문기업 엘에스화장품(대표이사 이영호) 이 바이오 소재 전문기업 JAJALE과 공동으로 쌀 배아유 기반 화장품 원료 ‘Rice Germ Oleate’를 개발 했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Rice Germ Oleate",
+    "quote": "화장품 OEM·ODM 전문기업 엘에스화장품(대표이사 이영호) 이 바이오 소재 전문기업 JAJALE과 공동으로 쌀 배아유 기반 화장품 원료 ‘Rice Germ Oleate’를 개발 했다."
+   },
+   {
+    "name": "ORYZA SATIVA (RICE) GERM OLEATE",
+    "quote": "두 회사는 신규 국제화장품원료명(INCI) ‘ORYZA SATIVA (RICE) GERM OLEATE’ 등재 도 추진 중이다."
+   },
+   {
+    "name": "쌀 배아유",
+    "quote": "화장품 OEM·ODM 전문기업 엘에스화장품(대표이사 이영호) 이 바이오 소재 전문기업 JAJALE과 공동으로 쌀 배아유 기반 화장품 원료 ‘Rice Germ Oleate’를 개발 했다."
+   },
+   {
+    "name": "감마오리자놀",
+    "quote": "쌀 배아유에는 △ 감마오리자놀(γ-Oryzanol) △ 비타민 E △ 페룰산 유래 성분 등 다양한 생리활성 물질이 존재한다."
+   },
+   {
+    "name": "비타민 E",
+    "quote": "쌀 배아유에는 △ 감마오리자놀(γ-Oryzanol) △ 비타민 E △ 페룰산 유래 성분 등 다양한 생리활성 물질이 존재한다."
+   },
+   {
+    "name": "페룰산 유래 성분",
+    "quote": "쌀 배아유에는 △ 감마오리자놀(γ-Oryzanol) △ 비타민 E △ 페룰산 유래 성분 등 다양한 생리활성 물질이 존재한다."
+   },
+   {
+    "name": "휘발성 실리콘 D5",
+    "quote": "원료 물성 평가에서 휘발성 실리콘 D5와 유사한 수준의 건조 사용감 지표를 나타냈으며 기존 쌀 배아유보다 빠르고 가벼운 마무리 특성을 보였다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": true
+}

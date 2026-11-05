@@ -1,0 +1,61 @@
+{
+ "doc_id": "51720e1729e16561",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312657",
+ "title": "Tmall Korea Pavilion Base Makeup Sales Fall 16.3% as Market Competition Intensifies",
+ "summary": "Sales of K-beauty base makeup products on China\\'s Tmall Korea Pavilion declined in October 2026, reflecting continued softness in consumer demand.However, the category remained more resilient than several other major K-beauty segments, while competitive dynamics showed signs of diversification beyon",
+ "published_at": "2026-11-05T10:35:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [
+   "Laneige",
+   "VDIVOV",
+   "The Face Shop",
+   "Age 20's",
+   "Dermafirm",
+   "W.Lab",
+   "Bavrea"
+  ],
+  "companies": [],
+  "keywords": [
+   "베이스 메이크업",
+   "티몰 한국관",
+   "시장 집중도 완화"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Laneige Watery Supreme Primer",
+    "brand": "Laneige",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "티몰 한국관의 베이스 메이크업 판매가 줄었지만 신흥 브랜드가 성장하고 있다.",
+  "key_fact_quote": "Sales of K-beauty base makeup products on China's Tmall Korea Pavilion declined in October 2026, reflecting continued softness in consumer demand.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": true
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "0285e083d91df96e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202611051129127604",
+ "title": "F&B에 화장품 까지…iM금융그룹, 노브랜드와 이색 콜라보",
+ "summary": "iM금융그룹은 그룹 대표 캐릭터 단디, 똑디를 활용해 이마트 자체 브랜드인 노브랜드와 두 번째 콜라보 프로젝트를 진행하고, 화장품 2종을 새롭게 출시 했다. iM금융지주 관계자는 \"그룹 캐릭터와 민트라는 브랜드 컬러를...",
+ "published_at": "2026-11-05T11:33:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드"
+  ],
+  "companies": [
+   "iM금융그룹",
+   "이마트"
+  ],
+  "keywords": [
+   "콜라보 화장품",
+   "캐릭터 마케팅",
+   "이종 업계 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "iM금융그룹이 노브랜드와 협업해 화장품 두 종을 냈다.",
+  "key_fact_quote": "iM금융그룹은 그룹 대표 캐릭터 단디, 똑디를 활용해 이마트 자체 브랜드인 노브랜드와 두 번째 콜라보 프로젝트를 진행하고, 화장품 2종을 새롭게 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

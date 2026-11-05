@@ -1,0 +1,68 @@
+{
+ "doc_id": "597f721a0ac59f44",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100389",
+ "title": "더샘, 수분 탄력 플럼핑 스킨케어 ‘콜라겐 레티날 캡슐 세럼’",
+ "summary": "더샘(대표이사 임진서)이 수분과 탄력을 동시에 케어하는 플럼핑 스킨케어 ‘콜라겐 레티날 캡슐 세럼’을 출시했다.신제품 ‘콜라겐 레티날 캡슐 세럼’은 콜라겐 워터와 7종 콜라겐, 순도 98% 순수 레틴알을 함유한 제품으로, 풍부한 수분감과 쫀쫀한 영양 케어를 동시에 선사해 피부를 건강하고 탄탄하게 가꾸는 데 도움을 준다. 특히 350Da 초저분자 콜라겐 워터가 피부 깊은 곳까지 보습감을 더하고, 레틴알이 피부 속부터 겉까지 빈틈없이 탄탄함을 채워준다.‘콜라겐 레티날 캡슐 세럼’은 콜라겐 젤과 레틴알 캡슐이 어우러진 듀얼 제형이 특징이",
+ "published_at": "2026-11-05T09:58:38+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더샘"
+  ],
+  "companies": [],
+  "keywords": [
+   "플럼핑 스킨케어",
+   "레티날 세럼",
+   "콜라겐 케어",
+   "듀얼 제형"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "콜라겐 레티날 캡슐 세럼",
+    "brand": "더샘",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "더샘(대표이사 임진서)이 수분과 탄력을 동시에 케어하는 플럼핑 스킨케어 ‘콜라겐 레티날 캡슐 세럼’을 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더샘이 콜라겐과 레틴알을 함께 담은 듀얼 제형 세럼을 출시했다.",
+  "key_fact_quote": "더샘(대표이사 임진서)이 수분과 탄력을 동시에 케어하는 플럼핑 스킨케어 ‘콜라겐 레티날 캡슐 세럼’을 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "콜라겐 워터",
+    "quote": "신제품 ‘콜라겐 레티날 캡슐 세럼’은 콜라겐 워터와 7종 콜라겐, 순도 98% 순수 레틴알을 함유한 제품으로, 풍부한 수분감과 쫀쫀한 영양 케어를 동시에 선사해 피부를 건강하고 탄탄하게 가꾸는 데 도움을 준다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "신제품 ‘콜라겐 레티날 캡슐 세럼’은 콜라겐 워터와 7종 콜라겐, 순도 98% 순수 레틴알을 함유한 제품으로, 풍부한 수분감과 쫀쫀한 영양 케어를 동시에 선사해 피부를 건강하고 탄탄하게 가꾸는 데 도움을 준다."
+   },
+   {
+    "name": "레틴알",
+    "quote": "신제품 ‘콜라겐 레티날 캡슐 세럼’은 콜라겐 워터와 7종 콜라겐, 순도 98% 순수 레틴알을 함유한 제품으로, 풍부한 수분감과 쫀쫀한 영양 케어를 동시에 선사해 피부를 건강하고 탄탄하게 가꾸는 데 도움을 준다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": true
+}

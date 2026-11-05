@@ -1,0 +1,41 @@
+{
+ "doc_id": "6b1e38617ae1be45",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/2026110590091",
+ "title": "전통 자개·24절기·양양 바다의 향을 품다…서촌 K향수 로드",
+ "summary": "파인다이닝의 철학에서 출발한 브랜드답게 셰프가 좋은 식재료를 골라 요리를 완성하듯 여러 향료 를... 처음에는 익숙한 식재료의 향이 느껴지지만 시간이 흐를수록 여러 향료 가 겹쳐지며 한층 복합적이고 깊이 있는...",
+ "published_at": "2026-11-05T18:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K향수",
+   "향수 브랜드 거리"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "서촌의 향수 브랜드들이 전통과 자연을 담은 향을 선보이고 있다.",
+  "key_fact_quote": "파인다이닝의 철학에서 출발한 브랜드답게 셰프가 좋은 식재료를 골라 요리를 완성하듯 여러 향료 를...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

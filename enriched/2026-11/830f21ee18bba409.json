@@ -1,0 +1,46 @@
+{
+ "doc_id": "830f21ee18bba409",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100384",
+ "title": "시그닉, K-POP 그룹 키키(KiiiKiii) ‘지유’ 전속 모델 발탁",
+ "summary": "감성 뷰티 브랜드 ‘시그닉’(signiq)이 ‘젠지미(Gen Z美)’의 대표 주자인 K-POP 그룹 키키(KiiiKiii)의 ‘지유’를 전속 모델로 발탁하고, 국내 시장은 물론 향후 일본 시장 진출을 겨냥한 단계적 브랜드 마케팅을 본격화한다고 5일 밝혔다.시그닉은 피부 고민에 맞춘 효능과 감각적인 디자인·제형을 결합해, 매일의 뷰티 루틴에 즐거움을 더하는 감성 뷰티 브랜드다. 피부가 보내는 신호(Signal)를 읽고, 전문적인 솔루션(Clinic)과 차별화된 매력(Unique)을 제안한다. 또한 뷰티는 피부 고민을 케어하는 동시에,",
+ "published_at": "2026-11-05T09:37:23+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "시그닉"
+  ],
+  "companies": [],
+  "keywords": [
+   "전속 모델",
+   "젠지미",
+   "수분 장벽 케어",
+   "일본 시장 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "시그닉이 키키 지유를 전속 모델로 발탁하고 일본 시장 진출을 겨냥한 마케팅을 시작한다.",
+  "key_fact_quote": "감성 뷰티 브랜드 ‘시그닉’(signiq)이 ‘젠지미(Gen Z美)’의 대표 주자인 K-POP 그룹 키키(KiiiKiii)의 ‘지유’를 전속 모델로 발탁하고, 국내 시장은 물론 향후 일본 시장 진출을 겨냥한 단계적 브랜드 마케팅을 본격화한다고 5일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": true
+}

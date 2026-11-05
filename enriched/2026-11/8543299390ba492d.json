@@ -1,0 +1,44 @@
+{
+ "doc_id": "8543299390ba492d",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=310333",
+ "title": "[K-Beauty in China Report ①] K-Beauty in China Shifts Toward Performance-Based Consumption",
+ "summary": "K-beauty, long driven by the influence of Korean pop culture in China, is entering a new phase as consumer preferences shift toward product performance and practicality.According to a small-scale survey conducted by Beauty Economy with support from the Korea International Trade Association’s Shangha",
+ "published_at": "2026-11-05T10:45:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "성능 중심 소비",
+   "성분 중시",
+   "K-뷰티 중국 시장",
+   "디지털 후기"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 소비자는 K-뷰티를 고를 때 한류보다 제품 성능과 성분을 더 중시한다.",
+  "key_fact_quote": "K-beauty, long driven by the influence of Korean pop culture in China, is entering a new phase as consumer preferences shift toward product performance and practicality.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": true
+}

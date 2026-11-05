@@ -1,0 +1,57 @@
+{
+ "doc_id": "e9b2a59920d2f72e",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58670",
+ "title": "배민까지 등판한 뷰티 즉시배송... 화장품도 한 시간이면 집 앞으로",
+ "summary": "[코스인코리아닷컴 김세화 기자]배달의민족이 화장품 즉시배송 서비스를 선보이며 뷰티 시장 공략에 나섰다. 식료품과 생필품을 중심으로 성장한 배달 플랫폼이 화장품으로 품목을 넓히면서 뷰티 유통업계의 경쟁 구도에도 변화가 예상된다. 특히 상품 직매입, 기존 뷰티 매장과의 협력 등 유통 방식이 다…",
+ "published_at": "2026-11-05T11:50:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "아이오페",
+   "에스트라",
+   "AHC",
+   "라운드랩",
+   "마녀공장"
+  ],
+  "companies": [
+   "우아한형제들",
+   "배달의민족",
+   "쿠팡이츠",
+   "오프뷰티",
+   "CJ올리브영",
+   "우버이츠",
+   "세포라"
+  ],
+  "keywords": [
+   "뷰티 즉시배송",
+   "퀵커머스",
+   "플랫폼 직매입"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배달의민족이 직매입 방식의 화장품 즉시배송 서비스 B뷰티를 출시했다.",
+  "key_fact_quote": "5일 유통업계에 따르면, 배달의민족 운영사 우아한형제들은 지난 3일 뷰티 상품 즉시배송 서비스 'B뷰티'를 출시했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": true
+}

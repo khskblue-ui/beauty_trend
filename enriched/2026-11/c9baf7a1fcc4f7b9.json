@@ -1,0 +1,40 @@
+{
+ "doc_id": "c9baf7a1fcc4f7b9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/2026110590111",
+ "title": "아무도 몰라야 니치 향수?…모두가 아는 향수가 됐다",
+ "summary": "당시 향료 를 추출하고 제조하는 데는 막대한 비용이 필요했다. 수많은 꽃에서 소량의 향료 를 얻어야 했고, 이를 가공해 보관하는 과정에도 상당한 자본이 투입됐다. 향수는 예술적 창작물이면서 동시에 상업적인 상품일...",
+ "published_at": "2026-11-05T17:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "향료 추출",
+   "향수 대중화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "과거에는 향료를 추출하고 제조하는 데 막대한 비용이 필요했다.",
+  "key_fact_quote": "당시 향료 를 추출하고 제조하는 데는 막대한 비용이 필요했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

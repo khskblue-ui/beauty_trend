@@ -1,0 +1,62 @@
+{
+ "doc_id": "43d4ad9f54ec97c8",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100386",
+ "title": "한국콜마, 노화 원인만 ‘쏙’ 없애는 신소재로 신기술(NET) 지정",
+ "summary": "한국콜마가 개발한 표적 항노화 신소재 ‘TOT’가 국가 신기술로 지정됐다. 지난 4월 SCI급 국제학술지 표지 논문으로 학계의 주목을 받은 데 이어, 정부로부터 기술의 독창성과 사업적 가치를 공식 인정받았다.한국콜마는 항산화 신소재 ‘TOT(Tocopherol-Oxalate-Tocopherol)’ 기술이 산업통상부로부터 신기술(NET)로 지정됐다고 밝혔다.신기술 지정은 국내에서 처음 개발됐거나 기존 기술을 혁신적으로 개선한 우수 기술에 정부가 부여하는 국가 제도다. 기술적∙경제적 파급효과가 크고 국가 기술력 향상에 기여하는 기술을",
+ "published_at": "2026-11-05T09:47:12+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "항노화 소재",
+   "표적 항노화",
+   "신기술 지정",
+   "스마트 리포좀"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국콜마의 항노화 신소재가 국가 신기술로 지정됐다.",
+  "key_fact_quote": "한국콜마가 개발한 표적 항노화 신소재 ‘TOT’가 국가 신기술로 지정됐다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "TOT",
+    "quote": "한국콜마는 항산화 신소재 ‘TOT(Tocopherol-Oxalate-Tocopherol)’ 기술이 산업통상부로부터 신기술(NET)로 지정됐다고 밝혔다."
+   },
+   {
+    "name": "Tocopherol-Oxalate-Tocopherol",
+    "quote": "한국콜마는 항산화 신소재 ‘TOT(Tocopherol-Oxalate-Tocopherol)’ 기술이 산업통상부로부터 신기술(NET)로 지정됐다고 밝혔다."
+   },
+   {
+    "name": "비타민 E",
+    "quote": "한국콜마가 전북대학교 연구팀과 공동 개발한 세상에 없던 소재로, 피부 노화를 일으키는 과산화수소(H₂O₂)를 만날 때 항산화 성분인 비타민 E를 방출한다."
+   },
+   {
+    "name": "과산화수소",
+    "quote": "한국콜마가 전북대학교 연구팀과 공동 개발한 세상에 없던 소재로, 피부 노화를 일으키는 과산화수소(H₂O₂)를 만날 때 항산화 성분인 비타민 E를 방출한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": true
+}

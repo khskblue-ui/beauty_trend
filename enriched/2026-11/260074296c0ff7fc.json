@@ -1,0 +1,59 @@
+{
+ "doc_id": "260074296c0ff7fc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.geconomy.co.kr/news/article.html?no=325329",
+ "title": "“뿌리는 피부과 관리”… 에이피 뷰티 , 1800배 작은 입자 ‘크림 미스...",
+ "summary": "크림 미스트’를 출시 했다고 5일 밝혔다. 이번 신제품 은 에이피 뷰티 의 대표 리프팅 크림 성분을 고기능성 액상 미스트 형태로 재해석한 제품이다. 핵심 성분으로는 연어 유래 성분(PDRN) 대비 피부 회복 효과를 2.1배...",
+ "published_at": "2026-11-05T21:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이피 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "크림 미스트",
+   "리프팅 케어",
+   "피부과 관리"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "크림 미스트",
+    "brand": "에이피 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "크림 미스트’를 출시 했다고 5일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피 뷰티가 리프팅 크림 성분을 미스트 형태로 풀어낸 크림 미스트를 내놨다.",
+  "key_fact_quote": "이번 신제품 은 에이피 뷰티 의 대표 리프팅 크림 성분을 고기능성 액상 미스트 형태로 재해석한 제품이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "핵심 성분으로는 연어 유래 성분(PDRN) 대비 피부 회복 효과를 2.1배..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

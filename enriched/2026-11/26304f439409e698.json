@@ -1,0 +1,43 @@
+{
+ "doc_id": "26304f439409e698",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190656",
+ "title": "K뷰티 호황에도 애경산업은 적자… 실적 발목 잡은 이유는?",
+ "summary": "사진= 애경산업 국내 화장품 수출 이 성장하는 가운데 애경산업이 올해 3분기 역대 최대 매출을 기록하고도... 미국에서는 올리브영 입점과 현지 뷰티 박람회 참가를 통해 유통망 확대에 나섰으며, 일본에서는 시그니처...",
+ "published_at": "2026-11-06T04:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "실적 부진"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "애경산업이 역대 최대 분기 매출에도 적자를 냈다.",
+  "key_fact_quote": "애경산업이 올해 3분기 역대 최대 매출을 기록하고도...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

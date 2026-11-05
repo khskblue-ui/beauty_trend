@@ -1,0 +1,41 @@
+{
+ "doc_id": "5f0b0bd153b7a64d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.mtn.co.kr/article/2026110515511224437",
+ "title": "K뷰티 역대급 호황에도 실적 ‘희비’",
+ "summary": "K뷰티 가 수출 호조를 타고 역대급 성장세를 이어가고 있지만, 화장품 기업들의 3분기 실적은 엇갈렸습니다.해외 시장에서의 성과와 사업 재편 비용, 원화 강세에 따른 수익성 부담이 희비를 가른 것으로 분석됩니다.김가현...",
+ "published_at": "2026-11-05T17:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "실적 희비"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 수출이 호조인데도 화장품 기업들의 분기 실적은 엇갈렸다.",
+  "key_fact_quote": "K뷰티 가 수출 호조를 타고 역대급 성장세를 이어가고 있지만, 화장품 기업들의 3분기 실적은 엇갈렸습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

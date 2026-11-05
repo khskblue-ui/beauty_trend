@@ -1,0 +1,45 @@
+{
+ "doc_id": "5c8b4b5e99214d78",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gukjenews.com/news/articleView.html?idxno=3743138",
+ "title": "iM금융그룹, 두 번째 협업...노브랜드와 화장품 2종 출시",
+ "summary": "최근 iM금융그룹(회장 황병우)은 그룹 대표 캐릭터인 '단디'와 '똑디'를 활용해, 이마트의 자체 브랜드 노브랜드와 두 번째 콜라보 프로젝트를 선보이고 화장품 2종을 새롭게 출시했다고 밝혔다. 이번에 선보인 신제품 은...",
+ "published_at": "2026-11-05T13:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "iM금융"
+  ],
+  "keywords": [
+   "콜라보 화장품",
+   "캐릭터 마케팅",
+   "이종 업계 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "3e159f9bc341c3c4",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

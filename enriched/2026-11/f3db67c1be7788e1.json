@@ -1,0 +1,43 @@
+{
+ "doc_id": "f3db67c1be7788e1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=209735",
+ "title": "부산시·부산테크노파크, 화장품· 뷰티 기업 판로 확대 및 마케팅 지원 ...",
+ "summary": "최근에는 'B- 뷰티 브랜드 성장지원' 프로그램을 통해 디지털 마케팅 지원을 확대하고 있다고 밝혔다. 부산테크노파크가 한국무역협회 K -stat 통계를 분석한 결과, 2026년 1월부터 9월까지 부산지역 화장품 누적 수출 액은...",
+ "published_at": "2026-11-05T10:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "지역 뷰티 기업 지원",
+   "화장품 수출",
+   "디지털 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "de9be5a9ee917bef",
+ "enriched_at": "2026-11-05T21:30:36+00:00",
+ "had_body": false
+}

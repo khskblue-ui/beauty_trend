@@ -1,0 +1,46 @@
+{
+ "doc_id": "abf0a17980b0dad7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=121571",
+ "title": "iM금융, 금융과 유통의 경계 허문다… 노브랜드 협업 뷰티 상품 출시",
+ "summary": "iM금융그룹은 그룹 대표 캐릭터인 '단디'와 '똑디'를 앞세워 이마트 자체 브랜드(PB) 노브랜드와 두 번째 콜라보 프로젝트를 추진하고, 금융권 최초로 화장품 2종을 정식 출시 했다고 5일 밝혔다. 이번에 새롭게 출시 된...",
+ "published_at": "2026-11-05T13:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드"
+  ],
+  "companies": [
+   "iM금융"
+  ],
+  "keywords": [
+   "이종업계 협업",
+   "PB 화장품",
+   "캐릭터 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "iM금융그룹이 노브랜드와 협업해 금융권 최초로 화장품을 정식 출시했다.",
+  "key_fact_quote": "iM금융그룹은 그룹 대표 캐릭터인 '단디'와 '똑디'를 앞세워 이마트 자체 브랜드(PB) 노브랜드와 두 번째 콜라보 프로젝트를 추진하고, 금융권 최초로 화장품 2종을 정식 출시 했다고 5일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

@@ -1,0 +1,57 @@
+{
+ "doc_id": "fb900f3c68641131",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.imaeil.com/page/view/2026110511570537306",
+ "title": "\"금융회사가 화장품 을?\"… iM금융 선스틱·미스트 출시",
+ "summary": "iM금융그룹은 5일 그룹 대표 캐릭터 '단디' '똑디'를 활용해 이마트 자체 브랜드인 노브랜드와 두 번째 콜라보 프로젝트를 진행하고, 화장품 2종을 출시 했다고 밝혔다. 신상품은 '아이엠 클라우드 핏 선스틱(20g)'과 '아이엠...",
+ "published_at": "2026-11-05T11:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드"
+  ],
+  "companies": [
+   "iM금융그룹",
+   "이마트"
+  ],
+  "keywords": [
+   "콜라보 화장품",
+   "선스틱",
+   "캐릭터 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아이엠 클라우드 핏 선스틱",
+    "brand": "iM금융그룹",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "iM금융그룹은 5일 그룹 대표 캐릭터 '단디' '똑디'를 활용해 이마트 자체 브랜드인 노브랜드와 두 번째 콜라보 프로젝트를 진행하고, 화장품 2종을 출시 했다고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "iM금융그룹이 노브랜드와 협업해 화장품 두 종을 출시했다.",
+  "key_fact_quote": "iM금융그룹은 5일 그룹 대표 캐릭터 '단디' '똑디'를 활용해 이마트 자체 브랜드인 노브랜드와 두 번째 콜라보 프로젝트를 진행하고, 화장품 2종을 출시 했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

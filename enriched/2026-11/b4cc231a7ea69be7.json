@@ -1,0 +1,42 @@
+{
+ "doc_id": "b4cc231a7ea69be7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=667604",
+ "title": "[기획] K뷰티 수출 신기록에도 화장품주 약세",
+ "summary": "10월 화장품 수출 57.5% 올라 10월 기준 역대 최대를 달성했다. 사진=연합뉴스 한국금융경제신문=박상민... 특히 뷰티 사업은 109억원의 영업손실을 기록했다. 적자 규모가 이전보다 줄어들기는 했지만 주력 화장품...",
+ "published_at": "2026-11-05T17:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "화장품주",
+   "수출 신기록"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 수출이 10월 기준 역대 최대를 기록했지만 화장품 관련주는 약세다.",
+  "key_fact_quote": "10월 화장품 수출 57.5% 올라 10월 기준 역대 최대를 달성했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

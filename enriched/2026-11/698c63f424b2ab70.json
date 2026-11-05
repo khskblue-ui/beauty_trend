@@ -1,0 +1,46 @@
+{
+ "doc_id": "698c63f424b2ab70",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.g-enews.com/view.php?ud=202611060047439702fda4f5ab74_1",
+ "title": "매출 51% 껑충 뛴 美 엘프 뷰티 … 세포라 타고 유럽 19개국 문 두드린다",
+ "summary": "K - 뷰티 브랜드의 자체 수출 뿐만 아니라 글로벌 인디 브랜드의 성장을 지탱하는 생산 인프라로서 한국 화장품 생태계가 핵심적인 역할을 맡고 있다는 시장의 평가가 나오는 이유다. 또한 엘프 뷰티 의 해외 확장 전략은...",
+ "published_at": "2026-11-06T06:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "엘프 뷰티"
+  ],
+  "companies": [
+   "세포라"
+  ],
+  "keywords": [
+   "글로벌 인디 브랜드",
+   "유럽 진출",
+   "화장품 생산 인프라"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 엘프 뷰티가 세포라를 통해 유럽 시장 진출에 나선다.",
+  "key_fact_quote": "매출 51% 껑충 뛴 美 엘프 뷰티 … 세포라 타고 유럽 19개국 문 두드린다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

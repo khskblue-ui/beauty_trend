@@ -1,0 +1,55 @@
+{
+ "doc_id": "fbcc0bb7d7ccd7a3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=172935",
+ "title": "LG생활건강, 다마고치 협업 화장품 출시 ...IP 활용 확산",
+ "summary": "국내 화장품 업계가 인기 캐릭터 지식재산권(IP)을 활용한 한정판 제품을 잇달아 선보이는 가운데 LG생활건강이 추억의 캐릭터 '다마고치'를 담은 화장품 을 출시 했다. LG생활건강은 5일 \"라이프스타일 브랜드 비욘드가...",
+ "published_at": "2026-11-05T11:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비욘드"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "캐릭터 IP 협업",
+   "한정판 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "다마고치 협업 화장품",
+    "brand": "비욘드",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "LG생활건강이 추억의 캐릭터 '다마고치'를 담은 화장품 을 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "LG생활건강이 캐릭터 다마고치를 담은 화장품을 출시했다.",
+  "key_fact_quote": "LG생활건강이 추억의 캐릭터 '다마고치'를 담은 화장품 을 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

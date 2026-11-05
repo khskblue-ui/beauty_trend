@@ -1,0 +1,55 @@
+{
+ "doc_id": "213550f31c2514b4",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/sid-medicos-expands-lemonbottle-network-in-latin-america",
+ "title": "SID MEDICOS expands LemonBottle network in Latin America",
+ "summary": "Following its third regional industry event of 2026, the South Korean aesthetics company is exploring distribution partnerships and plans to extend its product range into aftercare and daily skincare",
+ "published_at": "2026-11-06T00:46:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "LemonBottle"
+  ],
+  "companies": [
+   "SID MEDICOS"
+  ],
+  "keywords": [
+   "에스테틱",
+   "중남미 유통"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "LemonBottle",
+    "brand": "SID MEDICOS",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "SID MEDICOS가 중남미에서 레몬보틀 유통망을 넓히고 있다.",
+  "key_fact_quote": "Following its third regional industry event of 2026, the South Korean aesthetics company is exploring distribution partnerships and plans to extend its product range into aftercare and daily skincare",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

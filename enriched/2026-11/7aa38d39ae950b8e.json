@@ -1,0 +1,44 @@
+{
+ "doc_id": "7aa38d39ae950b8e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.joongang.co.kr/article/25476099",
+ "title": "부산테크노파크, 화장품· 뷰티 15개사 디지털 마케팅 돕는다",
+ "summary": "부산테크노파크가 지역 화장품· 뷰티 산업의 성장세에 대응해 제품 사업화와 수출 상담, 유통채널 연계, 디지털 마케팅 등 지원에 나선다. 한국무역협회 K -stat 통계에 따르면 2026년 1~9월 부산지역 화장품 누적 수출 액은...",
+ "published_at": "2026-11-05T16:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "부산테크노파크"
+  ],
+  "keywords": [
+   "디지털 마케팅",
+   "화장품 수출",
+   "지역 뷰티 산업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "부산테크노파크가 지역 화장품·뷰티 기업의 사업화, 수출 상담, 유통채널 연계, 디지털 마케팅을 지원한다.",
+  "key_fact_quote": "부산테크노파크가 지역 화장품· 뷰티 산업의 성장세에 대응해 제품 사업화와 수출 상담, 유통채널 연계, 디지털 마케팅 등 지원에 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:57+00:00",
+ "had_body": false
+}

@@ -1,0 +1,40 @@
+{
+ "doc_id": "51209e96583859d3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=138918",
+ "title": "[기자수첩] 향수는 어떻게 탄생되었을까?",
+ "summary": "오래된 향료 제조 전문가 중 한 명으로 평가받는다. 타푸티의 이름은 고대 바빌로니아의 설형 문자 기록에... 향수 역사의 출발점에 타푸티와 같은 고대의 향료 제조 전문가들이 있었다는 사실은 무척 흥미롭다. 이집트...",
+ "published_at": "2026-11-05T18:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "향수 역사",
+   "고대 향료",
+   "향료 제조"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "고대 향료 제조 전문가가 향수 역사의 출발점에 있었다.",
+  "key_fact_quote": "향수 역사의 출발점에 타푸티와 같은 고대의 향료 제조 전문가들이 있었다는 사실은 무척 흥미롭다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

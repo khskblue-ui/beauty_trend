@@ -1,0 +1,45 @@
+{
+ "doc_id": "579fab3aeeabc77a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/05/2026110500102.html",
+ "title": "K뷰티 수출 신기록에도 기업 실적은 '온도차'",
+ "summary": "반면 LG생활건강은 전사 영업이익 증가에도 뷰티 부문의 적자가 이어졌고 애경산업은 3분기 기준 최대 매출을 올리고도 적자로 돌아섰다. 5일 산업통상부에 따르면 올해 1~10월 화장품 수출 액은 125억6900만달러로...",
+ "published_at": "2026-11-05T11:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "LG생활건강",
+   "애경산업"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "기업 실적",
+   "뷰티 부문 적자"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 수출은 신기록을 세웠지만 기업별 실적은 엇갈린다.",
+  "key_fact_quote": "반면 LG생활건강은 전사 영업이익 증가에도 뷰티 부문의 적자가 이어졌고 애경산업은 3분기 기준 최대 매출을 올리고도 적자로 돌아섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

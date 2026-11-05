@@ -1,0 +1,44 @@
+{
+ "doc_id": "ff42394fe42ca820",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/paul-austin-joins-scad-executive-in-residence-1239400749/",
+ "title": "Paul Austin Joins SCAD as Executive in Residence",
+ "summary": "The fragrance industry strategist and founder of Austin Advisory Group will collaborate with SCAD’s Schools of Fashion, Business Innovation, and Building Arts to explore the intersection of scent, design and sensory creativity.",
+ "published_at": "2026-11-05T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "SCAD",
+   "Austin Advisory Group"
+  ],
+  "keywords": [
+   "향료 산업",
+   "향 디자인"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "향료 업계 전략가가 SCAD 상주 임원으로 합류했다.",
+  "key_fact_quote": "The fragrance industry strategist and founder of Austin Advisory Group will collaborate with SCAD’s Schools of Fashion, Business Innovation, and Building Arts to explore the intersection of scent, design and sensory creativity.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

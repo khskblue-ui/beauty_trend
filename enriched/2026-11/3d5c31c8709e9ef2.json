@@ -1,0 +1,48 @@
+{
+ "doc_id": "3d5c31c8709e9ef2",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312703",
+ "title": "주가로 읽는 K-뷰티:ODM주 동반 조정...외국인, 한국제조·제닉 매수세",
+ "summary": "최근 한 달간 주요 화장품 ODM 기업 5개 종목이 모두 주가 조정을 받은 가운데 외국인 투자자들의 수급은 종목별로 다른 흐름을 보인 것으로 나타났다.뷰티경제가 네이버증권 화장품 섹터 자료를 토대로 11월 4일 기준 주요 ODM 기업의 주가와 외국인 보유율 변화를 한 달 전과 비교한 결과, 조사 대상 5개 기업 모두 주가가 하락했다. 반면 외국인 보유율은 모든 기업에서 증가하거나 기존 수준을 유지한 것으로 나타났다.코스메카코리아, 주가 16.8% 하락…외국인 보유율은 상승코스메카코리아는 10월 6일 11만400원에서 11월 4일 9",
+ "published_at": "2026-11-05T19:47:29+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스메카코리아",
+   "잉글우드랩",
+   "씨앤씨인터내셔널",
+   "한국화장품제조",
+   "제닉"
+  ],
+  "keywords": [
+   "ODM 기업",
+   "외국인 수급",
+   "화장품 주가"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 ODM 기업 주가는 내렸지만 외국인 보유율은 늘거나 유지됐다.",
+  "key_fact_quote": "반면 외국인 보유율은 모든 기업에서 증가하거나 기존 수준을 유지한 것으로 나타났다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": true
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "449e126655036c82",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/coty-reports-q1-fy27-amid-transition-year-1239401021/",
+ "title": "Coty Reports Q1 FY27 Results Amid Transition Year",
+ "summary": "The beauty company posted $1.55 billion in net revenue for the quarter.",
+ "published_at": "2026-11-05T06:43:58+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "Coty"
+  ],
+  "keywords": [
+   "분기 실적",
+   "전환기",
+   "뷰티 기업 실적"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코티가 전환기에 접어든 가운데 회계연도 첫 분기 실적을 발표했다.",
+  "key_fact_quote": "Coty Reports Q1 FY27 Results Amid Transition Year",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

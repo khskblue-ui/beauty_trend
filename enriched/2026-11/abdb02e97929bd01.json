@@ -1,0 +1,62 @@
+{
+ "doc_id": "abdb02e97929bd01",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026110509213588713",
+ "title": "[오늘의신상] 뿌리면 크림 보호막…에이피 뷰티 , 'PDRN 크림 미스트' 출...",
+ "summary": "아모레퍼시픽의 하이엔드 스킨케어 브랜드 에이피 뷰티 (AP BEAUTY)가 미스트를 뿌리면 크림 형태의 보호막을 형성하는 '듀얼 리페어 리프트 M.D. 크림 미스트'를 출시 했다고 5일 밝혔다. 신제품 은 브랜드 대표 제품인...",
+ "published_at": "2026-11-05T10:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이피 뷰티"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "크림 미스트",
+   "스킨케어 신제품",
+   "피부 장벽 케어",
+   "PDRN"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "듀얼 리페어 리프트 M.D. 크림 미스트",
+    "brand": "에이피 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아모레퍼시픽의 하이엔드 스킨케어 브랜드 에이피 뷰티 (AP BEAUTY)가 미스트를 뿌리면 크림 형태의 보호막을 형성하는 '듀얼 리페어 리프트 M.D. 크림 미스트'를 출시 했다고 5일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피 뷰티가 미스트 형태의 크림 신제품을 출시했다.",
+  "key_fact_quote": "아모레퍼시픽의 하이엔드 스킨케어 브랜드 에이피 뷰티 (AP BEAUTY)가 미스트를 뿌리면 크림 형태의 보호막을 형성하는 '듀얼 리페어 리프트 M.D. 크림 미스트'를 출시 했다고 5일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "[오늘의신상] 뿌리면 크림 보호막…에이피 뷰티 , 'PDRN 크림 미스트' 출..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

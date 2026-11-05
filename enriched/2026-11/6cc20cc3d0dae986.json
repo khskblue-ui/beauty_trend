@@ -1,0 +1,43 @@
+{
+ "doc_id": "6cc20cc3d0dae986",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/industry/2026/11/05/2026110517485697935",
+ "title": "셀럽몰, 화장품 비즈니스 연결 플랫폼 '코스허브' 론칭 ... 무료 견적부터...",
+ "summary": "정식 론칭 했다고 밝혔다. 코스허브는 브랜드 사가 구상 중인 제품 사양과 제작 조건을 등록하면 관련 제조... 코스허브의 핵심 목표\"라며 \"K- 뷰티 산업의 생산 경쟁력을 높이는 대표 B2B 플랫폼으로 자리매김하겠다\"고 전했다.",
+ "published_at": "2026-11-05T18:05:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "셀럽몰"
+  ],
+  "keywords": [
+   "화장품 B2B 플랫폼",
+   "제조 연결"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "셀럽몰이 화장품 제조 연결 B2B 플랫폼 코스허브를 선보였다.",
+  "key_fact_quote": "코스허브는 브랜드 사가 구상 중인 제품 사양과 제작 조건을 등록하면 관련 제조...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

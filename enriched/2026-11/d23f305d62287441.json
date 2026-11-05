@@ -1,0 +1,57 @@
+{
+ "doc_id": "d23f305d62287441",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212663",
+ "title": "퐁당 엑소줄렌 라인 올리브영 스킨케어 카테고리 입점",
+ "summary": "17개국에 수출 하고 있다. ㈜피플스 관계자는 \"엑소줄렌 라인은 소비자 설문과 임상 데이터를 기반으로... 전반으로 영역을 확대해 국내외 캐주얼 더마 시장을 선도하는 K - 뷰티 브랜드로 성장해 나가겠다\"라고 밝혔다.",
+ "published_at": "2026-11-05T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "퐁당"
+  ],
+  "companies": [
+   "㈜피플스"
+  ],
+  "keywords": [
+   "엑소좀 스킨케어",
+   "올리브영 입점",
+   "캐주얼 더마",
+   "K-뷰티 수출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "엑소줄렌 라인",
+    "brand": "퐁당",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "퐁당의 엑소줄렌 라인이 올리브영 스킨케어 카테고리에 입점했다.",
+  "key_fact_quote": "퐁당 엑소줄렌 라인 올리브영 스킨케어 카테고리 입점",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:57+00:00",
+ "had_body": false
+}

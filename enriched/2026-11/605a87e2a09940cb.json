@@ -1,0 +1,56 @@
+{
+ "doc_id": "605a87e2a09940cb",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58673",
+ "title": "수원특례시, K-뷰티 산업·글로벌 비즈니스 잇는 ‘2026 뷰티썸 수원’ 개막",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 수원특례시가 5일 오후 2시 수원컨벤션센터에서 ‘산업을 잇다, 뷰티를 즐기다’를 슬로건으로 ‘2026 뷰티썸 수원’의 막을 올렸다. 올해로 4회째를 맞은 ‘2026 뷰티썸 수원(BeautySum Korea Suwon 2026)’은 오는 7일까지 수원컨벤션센터 1층 전시홀…",
+ "published_at": "2026-11-05T17:23:30+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "수원컨벤션센터",
+   "메쎄이상"
+  ],
+  "keywords": [
+   "K-뷰티 산업박람회",
+   "수출 상담회",
+   "AI 뷰티테크",
+   "홈뷰티 디바이스",
+   "ODM 브랜드 런칭"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "수원특례시가 국내외 기업 교류를 내세운 뷰티썸 수원을 열었다.",
+  "key_fact_quote": "수원특례시가 5일 오후 2시 수원컨벤션센터에서 ‘산업을 잇다, 뷰티를 즐기다’를 슬로건으로 ‘2026 뷰티썸 수원’의 막을 올렸다.",
+  "events": [
+   {
+    "name": "골든그레이 패션페스타",
+    "start_date": "2026-11-07",
+    "end_date": null,
+    "place": null,
+    "quote": "행사 마지막 날인 7일에는 시니어 모델들이 참여하는 ‘골든그레이 패션페스타’를 선보일 예정이다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": true
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "e76e47653513c73b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10927353?ref=naver",
+ "title": "‘바이오 코스메틱’이 뜬다…신약 물질·피부과학 입고 K-뷰티 확장",
+ "summary": "신약 개발 기술과 제약·바이오 연구 자산이 화장품 산업으로 빠르게 유입되며 ‘바이오 코스메틱’이 K... 이지혜 디엔코스메틱스 본부장은 “효과가 없는 제품은 출시 하지 않는다는 제약사의 원칙을 바탕으로 인체...",
+ "published_at": "2026-11-05T15:29:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "디엔코스메틱스"
+  ],
+  "keywords": [
+   "바이오 코스메틱",
+   "신약 물질",
+   "피부과학"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신약 개발 기술과 제약·바이오 연구 자산이 화장품 산업으로 유입되고 있다.",
+  "key_fact_quote": "신약 개발 기술과 제약·바이오 연구 자산이 화장품 산업으로 빠르게 유입되며 ‘바이오 코스메틱’이 K...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

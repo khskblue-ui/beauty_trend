@@ -1,0 +1,45 @@
+{
+ "doc_id": "db4af2780e0f7927",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/rhode-sephora-europe-launch-helps-e-l-f-beauty-sales-soar-q2",
+ "title": "Rhode’s record-breaking Sephora Europe launch helps e.l.f. Beauty sales soar 51%",
+ "summary": "e.l.f. Beauty has upgraded its sales outlook for the full 2027 financial year after the standout second quarter performance, which was helped by the further international expansion of Hailey Bieber’s beauty brand Rhode",
+ "published_at": "2026-11-05T21:14:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Rhode",
+   "e.l.f. Beauty"
+  ],
+  "companies": [
+   "e.l.f. Beauty",
+   "Sephora"
+  ],
+  "keywords": [
+   "Sephora Europe launch",
+   "international expansion"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "로드의 유럽 세포라 입점에 힘입어 e.l.f. 뷰티가 연간 매출 전망을 올렸다.",
+  "key_fact_quote": "e.l.f. Beauty has upgraded its sales outlook for the full 2027 financial year after the standout second quarter performance",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

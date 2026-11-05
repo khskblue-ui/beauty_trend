@@ -1,0 +1,44 @@
+{
+ "doc_id": "18fd2d6c8e1833f3",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-and-wellness-have-more-space-to-shine-in-a-revamped-cvs-1239400818/",
+ "title": "Will Beauty and Wellness Have More Space to Shine in a Revamped CVS?",
+ "summary": "As the drugstore giant prepares to decouple its retail pharmacy and health care businesses, industry analysts assess the impact on beauty.",
+ "published_at": "2026-11-05T06:35:13+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "CVS"
+  ],
+  "keywords": [
+   "드럭스토어",
+   "뷰티 리테일",
+   "웰니스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "CVS가 소매 약국과 헬스케어 사업을 분리할 준비를 하면서 업계가 뷰티에 미칠 영향을 따지고 있다.",
+  "key_fact_quote": "As the drugstore giant prepares to decouple its retail pharmacy and health care businesses, industry analysts assess the impact on beauty.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

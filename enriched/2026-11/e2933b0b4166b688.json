@@ -1,0 +1,43 @@
+{
+ "doc_id": "e2933b0b4166b688",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.vogue.co.kr/2026/11/05/%ed%97%a4%ec%9d%bc%eb%a6%ac-%eb%b9%84%eb%b2%84%ec%9d%98-%eb%b7%b0%ed%8b%b0-%ec%b2%a0%ed%95%99-%ec%8a%a4%eb%a7%88%ed%8a%b8-%ec%97%90%ec%9d%b4%ec%a7%95/?utm_source=naver&utm_medium=partnership",
+ "title": "헤일리 비버의 뷰티 철학 ‘스마트 에이징’",
+ "summary": "헤일리 비버는 2022년 뷰티 브랜드 ‘로드(RHODE)’를 론칭 하고 대성공을 거두었습니다. 로드가 이토록 빠르게 시장을 장악한 비결은 합리적인 가격과 애써 꾸미지 않은 듯 연출할 수 있는 제품, 그리고 무엇보다...",
+ "published_at": "2026-11-05T15:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "로드"
+  ],
+  "companies": [],
+  "keywords": [
+   "스마트 에이징",
+   "셀럽 뷰티 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "헤일리 비버가 론칭한 뷰티 브랜드 로드가 빠르게 시장을 장악했다.",
+  "key_fact_quote": "헤일리 비버는 2022년 뷰티 브랜드 ‘로드(RHODE)’를 론칭 하고 대성공을 거두었습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

@@ -1,0 +1,56 @@
+{
+ "doc_id": "93940675c73b0fc4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=265805",
+ "title": "아모레퍼시픽 에이피 뷰티 , 피부 보습·탄력 관리 '크림 미스트' 출시",
+ "summary": "현대경제신문 전수연 기자 | 아모레퍼시픽의 하이엔드 스킨케어 브랜드 에이피 뷰티 (AP BEAUTY)가 피부 보습과 탄력 관리를 위한 크림 미스트 신제품 을 출시 했다. 기존 대표 크림의 핵심 성분에 초미세 입자 기술을...",
+ "published_at": "2026-11-05T17:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이피 뷰티"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "크림 미스트",
+   "스킨케어 신제품",
+   "피부 장벽 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "크림 미스트",
+    "brand": "에이피 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아모레퍼시픽의 하이엔드 스킨케어 브랜드 에이피 뷰티 (AP BEAUTY)가 피부 보습과 탄력 관리를 위한 크림 미스트 신제품 을 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피 뷰티가 크림 미스트 신제품을 출시했다.",
+  "key_fact_quote": "아모레퍼시픽의 하이엔드 스킨케어 브랜드 에이피 뷰티 (AP BEAUTY)가 피부 보습과 탄력 관리를 위한 크림 미스트 신제품 을 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

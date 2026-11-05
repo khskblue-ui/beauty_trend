@@ -1,0 +1,61 @@
+{
+ "doc_id": "a37679bb7b2eca19",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53871",
+ "title": "오라클코스메틱, 美 ‘틱톡숍 액셀러레이티드’ 등급 달성",
+ "summary": "오라클코스메틱은 미국 틱톡숍(TikTok Shop)에서 판매자 성과를 기반으로 부여되는 ‘Accelerated Settlement’(빠른 정산) 등급을 달성했다. 틱톡숍의 액셀러레이티드(Accelerated) 등급은 △ 상품 만족도 △ 배송·물류 △ 고객서비스 등을 종합 반영하는 판매자 성과평가에 따라…",
+ "published_at": "2026-11-05T18:12:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "오라클코스메틱"
+  ],
+  "companies": [],
+  "keywords": [
+   "틱톡숍",
+   "더마코스메틱",
+   "크리에이터 협업",
+   "레티노이드"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "레티노타이트닝 앰플",
+    "brand": "오라클코스메틱",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "오라클코스메틱이 미국 틱톡숍에서 빠른 정산 등급을 달성했다.",
+  "key_fact_quote": "오라클코스메틱은 미국 틱톡숍(TikTok Shop)에서 판매자 성과를 기반으로 부여되는 ‘Accelerated Settlement’(빠른 정산) 등급을 달성했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레티노이드",
+    "quote": "레티노타이트닝 앰플은 레티노이드 성분을 중심으로 피부 탄력과 톤 개선을 함께 관리하도록 기획한 오라클코스메틱의 기능성 스킨케어 제품."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": true
+}

@@ -1,0 +1,114 @@
+{
+ "doc_id": "41f7a6bd1ae39f5c",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58671",
+ "title": "대한화장품산업연구원, 英 화장품 광고·사우디 포장 규제 변화 집중 분석",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 대한화장품산업연구원이 영국과 사우디아라비아의 화장품 규제 변화와 시장 트렌드를 분석한 ‘2026 글로벌 코스메틱 포커스’ 9호를 발간했다고 4일 밝혔다. 이번 9호는 양국의 화장품 규제 동향과 소비 트렌드를 비롯해 인기 제품과 마케팅 채널을 폭넓게 다뤘다. 특…",
+ "published_at": "2026-11-05T12:06:21+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "GB",
+   "SA",
+   "KR"
+  ],
+  "brands": [
+   "세라비",
+   "아일루어",
+   "가르니에",
+   "유세린",
+   "메이블린",
+   "로레알"
+  ],
+  "companies": [
+   "대한화장품산업연구원"
+  ],
+  "keywords": [
+   "화장품 광고 규제",
+   "효능 입증",
+   "주사기 형태 용기 금지",
+   "K-뷰티 수출 대응"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "하이드레이팅 클렌저",
+    "brand": "세라비",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "다이브로우 다이키트",
+    "brand": "아일루어",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "헤어푸드 마스크",
+    "brand": "가르니에",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "오일 컨트롤 드라이 터치 선 젤크림",
+    "brand": "유세린",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "슈퍼스테이 바이닐 잉크",
+    "brand": "메이블린",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "엘비브 엑스트라오디너리 오일",
+    "brand": "로레알",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "영국과 사우디아라비아에서 화장품 광고와 용기에 대한 규제가 강화되고 있다.",
+  "key_fact_quote": "대한화장품산업연구원이 영국과 사우디아라비아의 화장품 규제 변화와 시장 트렌드를 분석한 ‘2026 글로벌 코스메틱 포커스’ 9호를 발간했다고 4일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "엑소좀",
+    "quote": "엑소좀의 피부 재생 효과를 내세운 세럼 역시 해당 성분의 특성과 별개로 완제품 상태에서 효능을 입증하지 못해 제재 대상에 포함됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": true
+}

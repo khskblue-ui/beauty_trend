@@ -1,0 +1,54 @@
+{
+ "doc_id": "582641175e4faf62",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=93155",
+ "title": "\"모공 1800분의 1 입자로 장벽 케어\"…에이피 뷰티, '듀얼 리페어 리프트...",
+ "summary": "피부 전문 케어의 핵심 성분을 화장품 에 접목하는 럭셔리 스킨케어 브랜드가 기술 집약형 미스트... 이번 신제품 은 브랜드의 대표 영양 크림인 '듀얼 리페어 리프트 크림'의 핵심 유효 성분을 미스트 제형에 담아낸...",
+ "published_at": "2026-11-05T12:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이피 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "크림 미스트",
+   "스킨케어 신제품",
+   "피부 장벽 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "듀얼 리페어 리프트 크림",
+    "brand": "에이피 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피 뷰티가 대표 크림의 핵심 성분을 담은 미스트를 내놨다.",
+  "key_fact_quote": "이번 신제품 은 브랜드의 대표 영양 크림인 '듀얼 리페어 리프트 크림'의 핵심 유효 성분을 미스트 제형에 담아낸...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

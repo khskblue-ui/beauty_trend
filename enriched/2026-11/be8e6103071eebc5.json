@@ -1,0 +1,44 @@
+{
+ "doc_id": "be8e6103071eebc5",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100392",
+ "title": "한국 여성 55.9% ‘약국템’ 썼다…1020 트러블·4050 안티에이징",
+ "summary": "외국인 관광객 사이에서 약국이 K-뷰티 쇼핑 명소로 떠오른 가운데 국내 여성도 절반 이상이 약국 스킨케어 제품을 써본 것으로 나타났다. 대학내일20대연구소가 전국 15~56세 여성 1200명을 대상으로 ‘스킨케어·헤어&바디케어 행태 및 트렌드 2026’ 조사를 진행한 결과, 응답자의 55.9%가 약국 스킨케어 제품, 이른바 ‘약국템’을 사용해 본 경험이 있었다. 특히 연령대에 따라 약국템을 쓰게 된 계기와 약국템에 기대하는 효과가 뚜렷하게 갈렸다.약국템을 현재 사용 중이라는 응답은 19.4%, 과거 사용해 봤다는 응답은 36.5%로",
+ "published_at": "2026-11-05T10:42:08+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대학내일20대연구소"
+  ],
+  "keywords": [
+   "약국 화장품",
+   "연령대별 피부 고민",
+   "안티에이징"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 여성 절반 이상이 약국 스킨케어 제품을 써 봤다.",
+  "key_fact_quote": "대학내일20대연구소가 전국 15~56세 여성 1200명을 대상으로 ‘스킨케어·헤어&바디케어 행태 및 트렌드 2026’ 조사를 진행한 결과, 응답자의 55.9%가 약국 스킨케어 제품, 이른바 ‘약국템’을 사용해 본 경험이 있었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": true
+}

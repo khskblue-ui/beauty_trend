@@ -1,0 +1,63 @@
+{
+ "doc_id": "530e346cb57f719c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12198772",
+ "title": "[단독] 롯데百, 뷰티 PB 낸다…특허청에 ‘엘트리넬’ 출원",
+ "summary": "NAD+와 PDRN은 요즘 스킨케어 신제품 에서 자주 보이는 성분이다. PDRN은 피부과 시술로 먼저 이름을 알린 뒤 화장품 에도 쓰이기 시작했는데, 엘트리넬은 식물에서 얻은 PDRN을 넣었다. NAD+는 세포가 에너지를 만들 때 쓰는...",
+ "published_at": "2026-11-05T18:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데백화점"
+  ],
+  "keywords": [
+   "PB 화장품",
+   "NAD+",
+   "PDRN"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "엘트리넬",
+    "brand": "롯데백화점",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "롯데백화점이 식물 유래 PDRN을 넣은 뷰티 PB 엘트리넬을 특허청에 출원했다.",
+  "key_fact_quote": "PDRN은 피부과 시술로 먼저 이름을 알린 뒤 화장품 에도 쓰이기 시작했는데, 엘트리넬은 식물에서 얻은 PDRN을 넣었다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "NAD+",
+    "quote": "NAD+와 PDRN은 요즘 스킨케어 신제품 에서 자주 보이는 성분이다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "NAD+와 PDRN은 요즘 스킨케어 신제품 에서 자주 보이는 성분이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

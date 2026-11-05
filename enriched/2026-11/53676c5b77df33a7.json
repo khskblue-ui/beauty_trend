@@ -1,0 +1,45 @@
+{
+ "doc_id": "53676c5b77df33a7",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53873",
+ "title": "시그닉, 키키 멤버 지유 모델 발탁",
+ "summary": "시그닉(signiq)이 K-팝그룹 키키의 멤버 지유를 브랜드 모델로 발탁했다. 시그닉은 지유와 손잡고 국내와 일본 시장에서 브랜드 마케팅을 전개한다. 지유의 맑고 건강한 이미지를 내세워 브랜드 가치를 알릴 예정이다. ‘확실한 효능과 감각적인 즐거움’을 추구하는 브랜드 특징을 소비자에게 소개한다…",
+ "published_at": "2026-11-05T18:33:34+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "시그닉"
+  ],
+  "companies": [],
+  "keywords": [
+   "브랜드 모델",
+   "수분 장벽 케어",
+   "속수분"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "시그닉이 키키 멤버 지유를 브랜드 모델로 발탁했다.",
+  "key_fact_quote": "시그닉(signiq)이 K-팝그룹 키키의 멤버 지유를 브랜드 모델로 발탁했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": true
+}

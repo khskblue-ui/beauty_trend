@@ -1,0 +1,71 @@
+{
+ "doc_id": "59feb24487931a34",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=578966&class=17&grp=",
+ "title": "아모레퍼시픽 에이피 뷰티, 'PDRN 크림 미스트'로 홈케어 공략",
+ "summary": "피부관리 분야에서 활용되는 성분을 분사형 화장품 에 적용해 일상적인 피부관리 수요를 공략한다는 전략이다. 이번 신제품 은 대표 제품인 '듀얼 리페어 리프트 크림'의 핵심 성분을 미스트 형태로 구현했다. 피부...",
+ "published_at": "2026-11-05T10:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이피 뷰티"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "크림 미스트",
+   "스킨케어 신제품",
+   "피부 장벽 케어",
+   "PDRN"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "PDRN 크림 미스트",
+    "brand": "에이피 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "듀얼 리페어 리프트 크림",
+    "brand": "에이피 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피 뷰티가 PDRN 크림 미스트로 홈케어 수요를 공략한다.",
+  "key_fact_quote": "이번 신제품 은 대표 제품인 '듀얼 리페어 리프트 크림'의 핵심 성분을 미스트 형태로 구현했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "아모레퍼시픽 에이피 뷰티, 'PDRN 크림 미스트'로 홈케어 공략"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

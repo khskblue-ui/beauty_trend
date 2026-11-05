@@ -1,0 +1,65 @@
+{
+ "doc_id": "0a00ac62a4a2e560",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611050931168990727",
+ "title": "[뷰티톡톡] 한국콜마ㆍ에이피 뷰티ㆍ비욘드ㆍ시그닉",
+ "summary": "한국콜마는 자체 리포좀 전달 기술을 결합한 프리미엄 항노화 화장품 라인을 개발할 계획이다. ▲에이피 뷰티, PDRN 배합 크림 미스트 신제품 출시 아모레퍼시픽의 하이엔드 브랜드 에이피 뷰티(AP BEAUTY)가 M.D. 라인...",
+ "published_at": "2026-11-05T09:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이피 뷰티",
+   "비욘드",
+   "시그닉"
+  ],
+  "companies": [
+   "한국콜마",
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "PDRN",
+   "항노화 화장품",
+   "리포좀 기술",
+   "크림 미스트"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "크림 미스트",
+    "brand": "에이피 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "▲에이피 뷰티, PDRN 배합 크림 미스트 신제품 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피 뷰티가 PDRN을 배합한 크림 미스트 신제품을 출시했다.",
+  "key_fact_quote": "▲에이피 뷰티, PDRN 배합 크림 미스트 신제품 출시",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "▲에이피 뷰티, PDRN 배합 크림 미스트 신제품 출시"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

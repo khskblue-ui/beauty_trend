@@ -1,0 +1,44 @@
+{
+ "doc_id": "2ec96ffc2edd5939",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254571",
+ "title": "에이피 뷰티, '듀얼 리페어 리프트 M.D. 크림 미스트' 출시",
+ "summary": "라인의 신제품 '듀얼 리페어 리프트 '를 내놨다. 이 제품은 브랜드 대표 제품 '듀얼 리페어 리프트 크림'의... 라인은 화장품 으로 구현하기 어려웠던 피부 특수관리 성분과 기술을 접목한 제품군이다. 일상적인 피부...",
+ "published_at": "2026-11-05T10:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이피 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "크림 미스트",
+   "피부 특수관리"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "699fe2ebfe403ac9",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

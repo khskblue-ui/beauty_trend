@@ -1,0 +1,47 @@
+{
+ "doc_id": "faec8b0a6fadfa29",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.inews24.com/view/2023188",
+ "title": "W컨셉, 호주 한류박람회서 K뷰티 팝업…현지 시장 공략",
+ "summary": "팝업스토어는 'W를 통해 경험하는 K뷰티(Experience K-Beauty through W)'를 주제로 운영된다. 체리엑스엑스와... 호주는 K뷰티 수출 시장으로도 주목받고 있다. 식품의약품안전처에 따르면 지난해 한국 화장품 수출액은 역대...",
+ "published_at": "2026-11-05T17:19:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "AU",
+   "KR"
+  ],
+  "brands": [
+   "체리엑스엑스"
+  ],
+  "companies": [
+   "W컨셉"
+  ],
+  "keywords": [
+   "K-뷰티 팝업스토어",
+   "한류 박람회",
+   "호주 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "W컨셉이 호주 한류박람회에서 K뷰티 팝업스토어를 운영한다.",
+  "key_fact_quote": "팝업스토어는 'W를 통해 경험하는 K뷰티(Experience K-Beauty through W)'를 주제로 운영된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

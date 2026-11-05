@@ -1,0 +1,43 @@
+{
+ "doc_id": "7b67ba6f78266a0d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.jeonmin.co.kr/news/articleView.html?idxno=449937",
+ "title": "전주시 식품·화장품 기업 8곳, 호주 멜버른서 수출 시장 공략",
+ "summary": "시는 귀국 이후에도 견적서 제출과 샘플 발송, 계약 협의 등을 지원해 실제 수출 계약으로 이어지도록 할 방침이다. 김은주 전주시 경제산업국장은 \"호주는 K -푸드와 K - 뷰티 수요가 꾸준히 늘고 있는 유망 시장\"이라며...",
+ "published_at": "2026-11-05T14:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "AU"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "호주 시장",
+   "수출 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "전주시가 호주 수출 시장을 공략하는 지역 기업을 귀국 뒤에도 지원한다.",
+  "key_fact_quote": "시는 귀국 이후에도 견적서 제출과 샘플 발송, 계약 협의 등을 지원해 실제 수출 계약으로 이어지도록 할 방침이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

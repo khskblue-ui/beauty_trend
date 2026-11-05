@@ -1,0 +1,44 @@
+{
+ "doc_id": "4656ae5824b94f74",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gosiweek.com/article/1065590624328040",
+ "title": "2년간 제품 개발에 집중한 신생 K뷰티 ‘고운아씨’… 제품력 앞세워 시...",
+ "summary": "▲고운아씨 국내 화장품 시장에 새로운 스킨케어 브랜드 ‘고운아씨(GOUNASSI)’가 출사표를 던졌다. 방예원... 고운아씨는 첫 제품 출시 를 시작으로 향후 스킨케어 라인업과 유통 채널을 단계적으로 확대해 나갈...",
+ "published_at": "2026-11-05T11:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "고운아씨"
+  ],
+  "companies": [],
+  "keywords": [
+   "신생 브랜드",
+   "스킨케어 브랜드",
+   "제품력"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신생 스킨케어 브랜드 고운아씨가 시장에 나왔다.",
+  "key_fact_quote": "▲고운아씨 국내 화장품 시장에 새로운 스킨케어 브랜드 ‘고운아씨(GOUNASSI)’가 출사표를 던졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}

@@ -1,0 +1,54 @@
+{
+ "doc_id": "c8e225555856690a",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53870",
+ "title": "코스모닝-(주)이젬코 공동 기획 시즌4 스마트팩토리 성공 구축사례④ 피씨엠",
+ "summary": "코스모닝은 ICT 플랫폼 구축과 화장품·식품·의약품 산업 스마트팩토리 소프트웨어 개발 전문기업 (주)이젬코(대표이사 이종극)와 공동으로 지난 2022년과 2024년, 그리고 2025년에 이르기까지 모두 세 차례에 걸쳐 화장품 제조 스마트팩토리 구축 성공사례 기업을 발굴하고 이들 기업이 스마트팩토리…",
+ "published_at": "2026-11-05T07:21:56+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "(주)이젬코",
+   "피씨엠"
+  ],
+  "keywords": [
+   "스마트팩토리",
+   "화장품 제조 디지털 전환",
+   "마스크팩 제조"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "피씨엠이 이젬코와 함께 스마트팩토리를 구축해 생산관리 체계를 디지털로 바꿨다.",
+  "key_fact_quote": "마스크팩·형상 파우치·튜브 제품 전문 제조기업 피씨엠 이 (주)이젬코 와 함께 스마트팩토리 구축을 추진, 충전·포장공정부터 생산실적 모니터링·재고 관리·포장사양서 관리에 이르는 생산관리 체계의 디지털 전환을 통해 제조 경쟁력 강화에 나섰다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "텐셀",
+    "quote": "텐셀·골드 호일·건조 바이오 셀룰로오스 마스크 시트와 투명 선패치 등 다양한 소재를 활용한 제품을 생산하고 있다."
+   },
+   {
+    "name": "바이오 셀룰로오스",
+    "quote": "텐셀·골드 호일·건조 바이오 셀룰로오스 마스크 시트와 투명 선패치 등 다양한 소재를 활용한 제품을 생산하고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": true
+}

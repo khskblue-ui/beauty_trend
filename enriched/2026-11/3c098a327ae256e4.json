@@ -1,0 +1,45 @@
+{
+ "doc_id": "3c098a327ae256e4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261105_0003856491",
+ "title": "부산 화장품 수출 가파른 성장…\"전년 1~3분기보다 48.6%↑\"",
+ "summary": "부산지역 화장품 수출 이 글로벌 K - 뷰티 시장의 성장세에 힘입어 올해 3분기까지 지난해 같은 기간 누적 대비 실적을 크게 웃돌았다. 부산테크노파크(부산TP)는 한국무역협회 통계를 분석한 결과 올해 1~9월 부산지역...",
+ "published_at": "2026-11-05T14:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "부산테크노파크",
+   "한국무역협회"
+  ],
+  "keywords": [
+   "화장품 수출",
+   "K뷰티 성장",
+   "지역 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "부산 화장품 수출이 올해 3분기까지 크게 늘었다.",
+  "key_fact_quote": "부산지역 화장품 수출 이 글로벌 K - 뷰티 시장의 성장세에 힘입어 올해 3분기까지 지난해 같은 기간 누적 대비 실적을 크게 웃돌았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-05T21:33:26+00:00",
+ "had_body": false
+}
