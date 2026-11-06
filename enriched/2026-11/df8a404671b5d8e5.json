@@ -1,0 +1,59 @@
+{
+ "doc_id": "df8a404671b5d8e5",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/kiko-milano-partners-with-stabilo-on-limited-edition-lip-tints",
+ "title": "Kiko Milano partners with Stabilo on limited-edition highlighter-shaped lip tints",
+ "summary": "The Stabilo x Kiko Milano limited-edition lip tint collection combines the Italian make-up brand’s expertise in cosmetics with the German writing instrument manufacturer’s iconic Boss Mini highlighters product design",
+ "published_at": "2026-11-06T21:43:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "IT",
+   "DE"
+  ],
+  "brands": [
+   "Kiko Milano",
+   "Stabilo"
+  ],
+  "companies": [
+   "Kiko Milano",
+   "Stabilo"
+  ],
+  "keywords": [
+   "협업 한정판",
+   "립 틴트",
+   "형광펜 디자인"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Stabilo x Kiko Milano limited-edition lip tint collection",
+    "brand": "Kiko Milano",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "키코 밀라노가 스타빌로와 형광펜 모양의 한정판 립 틴트를 협업으로 내놓는다.",
+  "key_fact_quote": "The Stabilo x Kiko Milano limited-edition lip tint collection combines the Italian make-up brand’s expertise in cosmetics",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

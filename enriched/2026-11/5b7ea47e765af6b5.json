@@ -1,0 +1,50 @@
+{
+ "doc_id": "5b7ea47e765af6b5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/general-industry/6345257",
+ "title": "미샤, 英 베이스 메이크업 시장서 존재감…'올해의 뷰티 제품' 선정",
+ "summary": "입생로랑과 조르지오 아르마니 뷰티, 샤넬, 맥, 에르메스 등 글로벌 브랜드 와 함께 수상 제품 명단에 이름을 올렸다. 하퍼스 바자는 매년 스킨케어와 메이크업, 헤어, 바디, 향수 등 카테고리별 제품을 테스트해 수상작을...",
+ "published_at": "2026-11-06T10:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [
+   "미샤",
+   "입생로랑",
+   "조르지오 아르마니 뷰티",
+   "샤넬",
+   "맥",
+   "에르메스"
+  ],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "뷰티 어워드",
+   "베이스 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "미샤가 영국 베이스 메이크업 시장에서 올해의 뷰티 제품에 선정됐다.",
+  "key_fact_quote": "입생로랑과 조르지오 아르마니 뷰티, 샤넬, 맥, 에르메스 등 글로벌 브랜드 와 함께 수상 제품 명단에 이름을 올렸다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

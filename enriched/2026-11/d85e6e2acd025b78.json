@@ -1,0 +1,52 @@
+{
+ "doc_id": "d85e6e2acd025b78",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58678",
+ "title": "'AI 시대 뷰티 마케팅‘... 한국화장품미용학회 추계학술대회 11월 28일 개최",
+ "summary": "[코스인코리아닷컴 김민석 기자]한국화장품미용학회는 오는 11월 28일(토) 13시~17시 성신여자대학교 C동 311호에서 추계학술대회를 개최한다. 제32회 추계학술대회의 주제는 ‘AI시대의 뷰티 마케팅’이다. 모상현 회장은 “급변하는 산업 환경 속에서 뷰티 마케팅의 새로운 가능성을 탐색하고 화…",
+ "published_at": "2026-11-06T13:28:32+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국화장품미용학회"
+  ],
+  "keywords": [
+   "화장품 학술대회",
+   "AI 뷰티 마케팅",
+   "제조원 표기 자율화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국화장품미용학회가 AI 시대의 뷰티 마케팅을 주제로 추계학술대회를 연다.",
+  "key_fact_quote": "한국화장품미용학회는 오는 11월 28일(토) 13시~17시 성신여자대학교 C동 311호에서 추계학술대회를 개최한다.",
+  "events": [
+   {
+    "name": "제32회 추계학술대회",
+    "start_date": "2026-11-28",
+    "end_date": null,
+    "place": "성신여자대학교 C동 311호",
+    "quote": "한국화장품미용학회는 오는 11월 28일(토) 13시~17시 성신여자대학교 C동 311호에서 추계학술대회를 개최한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

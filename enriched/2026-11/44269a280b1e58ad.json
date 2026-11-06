@@ -1,0 +1,56 @@
+{
+ "doc_id": "44269a280b1e58ad",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=779420",
+ "title": "센슬, 조립형 아이 메이크업 '미니모듈' 출시",
+ "summary": "라이프스타일 뷰티 브랜드 센슬이 신제품 '미니 모듈'을 11일 오전 11시 자사몰에서 출시 한다. 사진=센슬 바쁜 일상 속 정교하고 빠른 메이크업 루틴을 제안하는 퀵 뷰티 제품으로 표준 커넥터 양면에 원하는 육각 펜슬...",
+ "published_at": "2026-11-06T07:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센슬"
+  ],
+  "companies": [
+   "센슬"
+  ],
+  "keywords": [
+   "퀵 뷰티",
+   "아이 메이크업",
+   "조립형 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "미니 모듈",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "라이프스타일 뷰티 브랜드 센슬이 신제품 '미니 모듈'을 11일 오전 11시 자사몰에서 출시 한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "센슬이 조립형 아이 메이크업 신제품을 자사몰에서 출시한다.",
+  "key_fact_quote": "라이프스타일 뷰티 브랜드 센슬이 신제품 '미니 모듈'을 11일 오전 11시 자사몰에서 출시 한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

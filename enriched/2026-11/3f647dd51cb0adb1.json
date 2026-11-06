@@ -1,0 +1,44 @@
+{
+ "doc_id": "3f647dd51cb0adb1",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=310334",
+ "title": "[K-Beauty in China Report ②] K-Beauty in China Becomes Platform-Driven",
+ "summary": "While consumer interest in K-beauty remains strong in China, actual purchasing behavior is increasingly shaped by digital content and practical considerations rather than brand-driven appeal.Industry observations show that Chinese consumers are relying more heavily on platform-based discovery and pe",
+ "published_at": "2026-11-06T10:55:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "플랫폼 기반 구매",
+   "콘텐츠 기반 발견",
+   "색조 화장품",
+   "가격 경쟁력"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국에서 K뷰티 구매는 브랜드보다 소셜 플랫폼의 콘텐츠와 후기가 좌우한다.",
+  "key_fact_quote": "Content-driven platforms have emerged as the primary drivers of purchasing decisions.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "e370abe1e9d2584f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.g-enews.com/view.php?ud=20261106095212285740eacf404_1",
+ "title": "국내 화장품 매출 ‘사상 최대’…한국콜마, 3분기 영업익 40.5%↑",
+ "summary": "국내 화장품 브랜드의 선케어와 스킨케어 제품 주문이 늘었고 글로벌 화장품 기업의 럭셔리 제품 생산과 신제품 출하도 증가했다. 국내 화장품 매출에서 스킨케어 비중은 48%, 선케어 32%, 메이크업 15%로 집계됐다....",
+ "published_at": "2026-11-06T09:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "선케어",
+   "스킨케어",
+   "럭셔리 제품 생산"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국콜마의 국내 화장품 매출이 선케어와 스킨케어 주문 증가로 사상 최대를 기록했다.",
+  "key_fact_quote": "국내 화장품 브랜드의 선케어와 스킨케어 제품 주문이 늘었고 글로벌 화장품 기업의 럭셔리 제품 생산과 신제품 출하도 증가했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

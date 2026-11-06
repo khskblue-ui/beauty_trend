@@ -1,0 +1,58 @@
+{
+ "doc_id": "777f86d576da8537",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53882",
+ "title": "바이오스펙트럼, RSPO 인증 원료 92종 확보",
+ "summary": "화장품 원료·소재 전문기업 바이오스펙트럼(대표 박덕훈)이 자사 원료 92종에 대해 지속가능한 팜유 협의체(RSPO)의 공급망 인증(SCC)을 획득했다고 밝혔다. 이를 통해 글로벌 화장품 브랜드가 요구하는 지속가능한 원료 공급 기준에 대응할 수 있는 기반을 확대했다는 의미도 함께 부여했다. RSPO는 팜…",
+ "published_at": "2026-11-06T09:38:28+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "바이오스펙트럼",
+   "지속가능한 팜유 협의체"
+  ],
+  "keywords": [
+   "지속가능 원료",
+   "RSPO 인증",
+   "원료 공급망"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "바이오스펙트럼이 자사 원료에 지속가능한 팜유 협의체의 공급망 인증을 받았다.",
+  "key_fact_quote": "화장품 원료·소재 전문기업 바이오스펙트럼(대표 박덕훈) 이 자사 원료 92종에 대해 지속가능한 팜유 협의체(RSPO)의 공급망 인증(SCC) 을 획득했다고 밝혔다. 이를 통해 글로벌 화장품 브랜드가 요구하는 지속가능한 원료 공급 기준에 대응할 수 있는 기반을 확대했다는 의미도 함께 부여했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "글리세린",
+    "quote": "회사는 RSPO 공급망 인증을 받은 글리세린·프로판다이올·카프릴릴글라이콜 등을 활용해 제품을 생산하고 있다. 원료 구매부터 생산·출고까지 전 과정의 물량을 기록하고 매년 관련 교육과 내부 감사를 실시하는 등 공급망 관리체계를 운영 중이다."
+   },
+   {
+    "name": "프로판다이올",
+    "quote": "회사는 RSPO 공급망 인증을 받은 글리세린·프로판다이올·카프릴릴글라이콜 등을 활용해 제품을 생산하고 있다. 원료 구매부터 생산·출고까지 전 과정의 물량을 기록하고 매년 관련 교육과 내부 감사를 실시하는 등 공급망 관리체계를 운영 중이다."
+   },
+   {
+    "name": "카프릴릴글라이콜",
+    "quote": "회사는 RSPO 공급망 인증을 받은 글리세린·프로판다이올·카프릴릴글라이콜 등을 활용해 제품을 생산하고 있다. 원료 구매부터 생산·출고까지 전 과정의 물량을 기록하고 매년 관련 교육과 내부 감사를 실시하는 등 공급망 관리체계를 운영 중이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

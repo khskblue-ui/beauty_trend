@@ -1,0 +1,44 @@
+{
+ "doc_id": "aed8b348b240aea1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.m-i.kr/news/articleView.html?idxno=2015410",
+ "title": "한국콜마, 3분기 영업이익 819억원 '40.5%↑'…국내 화장품 사업 호조",
+ "summary": "국내 화장품 브랜드의 선케어와 스킨케어 제품 주문이 늘어난 데다 글로벌 화장품 기업의 신제품 생산 확대가 실적 개선에 영향을 미쳤다. 국내 법인 매출에서 스킨케어가 차지하는 비중은 48%로 가장 높았으며...",
+ "published_at": "2026-11-06T11:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "선케어",
+   "스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 화장품 브랜드의 선케어와 스킨케어 주문이 늘고 글로벌 기업의 신제품 생산이 확대돼 한국콜마 실적이 좋아졌다.",
+  "key_fact_quote": "국내 화장품 브랜드의 선케어와 스킨케어 제품 주문이 늘어난 데다 글로벌 화장품 기업의 신제품 생산 확대가 실적 개선에 영향을 미쳤다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

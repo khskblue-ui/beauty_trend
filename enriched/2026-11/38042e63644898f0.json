@@ -1,0 +1,47 @@
+{
+ "doc_id": "38042e63644898f0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.economytalk.kr/news/articleView.html?idxno=425080",
+ "title": "\"1세대 로드샵의 세계화\"… LG생건 더페이스샵, 美 '얼타 뷰티 ' 진출",
+ "summary": "내수 한계 뚫는 유통 다변화… 오세아니아 등 영미권 전역 확산 LG생활건강은 더페이스샵의 이번 얼타 뷰티 안착을 계기로 오세아니아 등 주요 영미권 시장으로도 유통망 확장을 이어간다는 방침이다. 단기 수출 에...",
+ "published_at": "2026-11-06T14:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "더페이스샵",
+   "얼타 뷰티"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "K-뷰티 유통 확대",
+   "로드샵 해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "LG생활건강 더페이스샵이 미국 얼타 뷰티에 진출했다.",
+  "key_fact_quote": "LG생활건강은 더페이스샵의 이번 얼타 뷰티 안착을 계기로 오세아니아 등 주요 영미권 시장으로도 유통망 확장을 이어간다는 방침이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

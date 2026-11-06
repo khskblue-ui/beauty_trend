@@ -1,0 +1,54 @@
+{
+ "doc_id": "dfe7b5b0e82bcc3c",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53877",
+ "title": "한국콜마, 표적 항노화 신소재 국가 신기술(NET) 지정",
+ "summary": "한국콜마가 전북대학교 연구팀과 공동 개발한 표적 항노화 신소재 ‘TOT(Tocopherol-Oxalate-Tocopherol) 기술’이 산업통상부의 국가 신기술(NET)로 지정됐다. 지난 4월 SCI급 국제학술지의 표지 논문으로 소개된 데 이어 정부로부터 기술의 독창성과 사업 가치를 인정받은 성과다…",
+ "published_at": "2026-11-06T07:17:22+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마",
+   "전북대학교"
+  ],
+  "keywords": [
+   "항노화 소재",
+   "표적 항노화",
+   "리포좀 전달 기술"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국콜마와 전북대 연구팀이 개발한 표적 항노화 신소재가 국가 신기술로 지정됐다.",
+  "key_fact_quote": "한국콜마 가 전북대학교 연구팀과 공동 개발한 표적 항노화 신소재 ‘TOT(Tocopherol-Oxalate-Tocopherol) 기술’ 이 산업통상부의 국가 신기술(NET) 로 지정됐다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "TOT",
+    "quote": "한국콜마 가 전북대학교 연구팀과 공동 개발한 표적 항노화 신소재 ‘TOT(Tocopherol-Oxalate-Tocopherol) 기술’ 이 산업통상부의 국가 신기술(NET) 로 지정됐다."
+   },
+   {
+    "name": "비타민 E",
+    "quote": "피부 노화와 관련한 활성산소 물질 과산화수소(H₂O₂)에 반응해 항산화 성분인 비타민 E를 방출하도록 설계했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

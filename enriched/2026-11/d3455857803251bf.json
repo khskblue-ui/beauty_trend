@@ -1,0 +1,56 @@
+{
+ "doc_id": "d3455857803251bf",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/chanel-unveils-swiss-chalet-gifting-suite-at-harrods",
+ "title": "Chanel unveils Swiss chalet-themed gifting suite at Harrods for festive season",
+ "summary": "The Chanel Holiday Season Animation shop-in-shop activation at London’s luxury department store Harrods is described as a ‘magical alpine escape’, offering exclusive festive gift sets and Holiday 2026 Collection items in a snowy gifting suite",
+ "published_at": "2026-11-06T20:46:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "other",
+  "countries": [
+   "GB",
+   "FR"
+  ],
+  "brands": [
+   "Chanel"
+  ],
+  "companies": [
+   "Harrods"
+  ],
+  "keywords": [
+   "연말 선물 세트",
+   "백화점 팝업"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Holiday 2026 Collection",
+    "brand": "Chanel",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "샤넬이 런던 해러즈 백화점에 알프스 산장 콘셉트의 연말 선물 공간을 열었다.",
+  "key_fact_quote": "Chanel unveils Swiss chalet-themed gifting suite at Harrods for festive season",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,39 @@
+{
+ "doc_id": "8021b203ed046146",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/a-tube-of-this-lash-serum-is-sold",
+ "title": "A tube of this lash serum is sold every 30 seconds",
+ "summary": "Who would’ve thought that a husband’s gift to his wife during her breast cancer battle would become one of beauty’s most recognisable lash innovations?",
+ "published_at": "2026-11-06T21:40:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "other",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "속눈썹 세럼",
+   "뷰티 혁신"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한 부부의 사연에서 시작된 속눈썹 세럼이 가장 널리 알려진 속눈썹 제품이 됐다.",
+  "key_fact_quote": "Who would’ve thought that a husband’s gift to his wife during her breast cancer battle would become one of beauty’s most recognisable lash innovations?",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

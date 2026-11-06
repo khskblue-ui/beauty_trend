@@ -1,0 +1,45 @@
+{
+ "doc_id": "deb7acec892c2798",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.edaily.co.kr/News/Read?newsId=07284886645643096&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+ "title": "iM금융, 노브랜드와 화장품 2종 출시 …식품서 뷰티로 협업 확대",
+ "summary": "iM금융그룹이 이마트 자체 브랜드 노브랜드와 손잡고 선스틱과 앰플 미스트를 출시 했다. 아이스크림과 쿠키 등 식품을 중심으로 진행해 온 협업을 화장품 으로 넓혀 일상 소비 공간에서 브랜드를 알리겠다는 전략이다....",
+ "published_at": "2026-11-06T20:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "iM금융"
+  ],
+  "keywords": [
+   "콜라보 화장품",
+   "캐릭터 마케팅",
+   "이종 업계 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "3e159f9bc341c3c4",
+ "enriched_at": "2026-11-06T21:30:04+00:00",
+ "had_body": false
+}

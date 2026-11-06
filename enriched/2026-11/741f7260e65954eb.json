@@ -1,0 +1,46 @@
+{
+ "doc_id": "741f7260e65954eb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.m-i.kr/news/articleView.html?idxno=2015310",
+ "title": "에이블씨엔씨 미샤, 英 하퍼스 바자 뷰티 어워드 수상",
+ "summary": "하퍼스 바자는 매년 스킨케어와 메이크업, 헤어, 바디, 향수 등 다양한 뷰티 카테고리에서 주목받은 신제품 과 기존 인기 제품을 대상으로 전문가 평가와 제품 테스트를 거쳐 우수 제품을 선정하고 있다. 이번...",
+ "published_at": "2026-11-06T10:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [
+   "미샤"
+  ],
+  "companies": [
+   "에이블씨엔씨"
+  ],
+  "keywords": [
+   "뷰티 어워드",
+   "K-뷰티 해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에이블씨엔씨 미샤가 영국 하퍼스 바자 뷰티 어워드를 수상했다.",
+  "key_fact_quote": "에이블씨엔씨 미샤, 英 하퍼스 바자 뷰티 어워드 수상",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

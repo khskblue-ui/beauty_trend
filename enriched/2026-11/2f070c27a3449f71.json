@@ -1,0 +1,72 @@
+{
+ "doc_id": "2f070c27a3449f71",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53888",
+ "title": "지에프씨생명과학, 인코스메틱스 아시아서 해외사업 확대",
+ "summary": "지에프씨생명과학(대표 강희철)이 3일부터 5일까지 태국 방콕 국제무역전시센터에서 열린 ‘인코스메틱스 아시아 2026’에 참가했다. 이번 전시회에서 지에프씨생명과학은 스킨 롱제비티 관련 기술과 바이오 소재를 소개했다. 고순도 엑소좀과 식물 유래 PDRN 등에 바이어들오 시선이 집중됐다. 지에프씨…",
+ "published_at": "2026-11-06T18:42:56+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "TH",
+   "VN",
+   "JP",
+   "ID",
+   "IN",
+   "DE",
+   "US",
+   "TW"
+  ],
+  "brands": [],
+  "companies": [
+   "지에프씨생명과학",
+   "대한피부과학연구소"
+  ],
+  "keywords": [
+   "스킨 롱제비티",
+   "바이오 소재",
+   "엑소좀",
+   "식물 유래 PDRN",
+   "임상평가 서비스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지에프씨생명과학이 인코스메틱스 아시아에서 스킨 롱제비티 기술과 바이오 소재를 소개하고 해외 바이어와 협의했다.",
+  "key_fact_quote": "지에프씨생명과학(대표 강희철)이 3일부터 5일까지 태국 방콕 국제무역전시센터에서 열린 ‘인코스메틱스 아시아 2026’에 참가했다.",
+  "events": [
+   {
+    "name": "인코스메틱스 아시아 2026",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-05",
+    "place": "태국 방콕 국제무역전시센터",
+    "quote": "지에프씨생명과학(대표 강희철)이 3일부터 5일까지 태국 방콕 국제무역전시센터에서 열린 ‘인코스메틱스 아시아 2026’에 참가했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "엑소좀",
+    "quote": "고순도 엑소좀과 식물 유래 PDRN 등에 바이어들오 시선이 집중됐다."
+   },
+   {
+    "name": "식물 유래 PDRN",
+    "quote": "고순도 엑소좀과 식물 유래 PDRN 등에 바이어들오 시선이 집중됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

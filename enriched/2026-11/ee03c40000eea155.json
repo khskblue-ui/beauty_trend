@@ -1,0 +1,45 @@
+{
+ "doc_id": "ee03c40000eea155",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.socialvalue.kr/news/view/1065573742198483",
+ "title": "한국콜마, 3Q 영업익 819억원 ‘40.5%↑’…선·스킨케어 호조에 ‘역대...",
+ "summary": "글로벌 화장품 기업의 럭셔리 제품 매출도 견조한 가운데 신제품 출하가 시작됐다. 별도 매출에서 스킨케어와 선케어가 차지하는 비중은 각각 48%, 32%였다. 한국콜마는 4분기 별도 매출 증가율이 올해 들어 가장...",
+ "published_at": "2026-11-06T09:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "선케어",
+   "스킨케어",
+   "화장품 ODM",
+   "신제품 출하"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국콜마가 선케어와 스킨케어 호조로 3분기에 역대 최대 실적을 냈다.",
+  "key_fact_quote": "한국콜마, 3Q 영업익 819억원 ‘40.5%↑’…선·스킨케어 호조에 ‘역대...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

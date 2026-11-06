@@ -1,0 +1,96 @@
+{
+ "doc_id": "c2a2261326e66998",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312681",
+ "title": "K-뷰티 브랜드, 홀리데이 컬렉션 시장 합류",
+ "summary": "글로벌 뷰티 브랜드들이 이미 홀리데이 컬렉션을 잇따라 선보이며 연말 시장 선점 경쟁에 돌입했다.K-뷰티 브랜드도 최근 한정판 패키지와 어드벤트 캘린더를 앞세우며 대응하고 있다. 특히 글로벌 럭셔리 브랜드들은 제품 판매보다 브랜드 경험 확대에 초점을 맞추며 홀리데이 마케팅의 새로운 방향을 제시하고 있다.홀리데이 컬렉션은 연말 시즌 한정으로 선보이는 스페셜 에디션이다. 브랜드 정체성을 담은 디자인과 차별화된 스토리텔링을 통해 선물 수요와 소장 가치를 동시에 공략하는 것이 특징이다. 최근에는 제품 자체보다 브랜드가 제공하는 감성 경험과",
+ "published_at": "2026-11-06T11:45:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수",
+   "헤라",
+   "정샘물",
+   "피지오겔",
+   "샤넬"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "한정판 패키지",
+   "체험형 마케팅",
+   "어드벤트 캘린더"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "대즐링 홀리데이 딜라이트",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "설화수는 '대즐링 홀리데이 딜라이트(Dazzling Holiday Delight)'를 통해 한겨울 눈 속에서 피어나는 매화를 테마로 한정판 컬렉션을 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스노우 왈츠",
+    "brand": "헤라",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "헤라는 발레 '호두까기 인형'의 '눈송이 왈츠'에서 영감을 받은 '스노우 왈츠(SNOW WALTZ)' 컬렉션을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "LUMINOUS YOUTIFUL",
+    "brand": "정샘물",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "정샘물 역시 'LUMINOUS YOUTIFUL' 콘셉트 아래 겨울 설원의 맑고 깨끗한 분위기를 담은 홀리데이 에디션을 공개했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "홀리데이 한정판 기획세트",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "LG생활건강의 더마톨로지컬 뷰티 브랜드 피지오겔(PHYSIOGEL)은 일러스트레이터 이이오 작가와 협업한 홀리데이 한정판 기획세트 4종을 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "K뷰티와 글로벌 럭셔리 브랜드가 홀리데이 한정판과 체험형 마케팅으로 연말 시장을 공략한다.",
+  "key_fact_quote": "K-뷰티 브랜드도 최근 한정판 패키지와 어드벤트 캘린더를 앞세우며 대응하고 있다.",
+  "events": [
+   {
+    "name": "홀리데이 팝업",
+    "start_date": "2026-11-21",
+    "end_date": null,
+    "place": "서울 성수동",
+    "quote": "샤넬은 올해 홀리데이 시즌을 맞아 21일부터 서울 성수동에서 대규모 홀리데이 팝업을 운영한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

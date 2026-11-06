@@ -1,0 +1,44 @@
+{
+ "doc_id": "71ea0ddb537295f3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=365796",
+ "title": "화장품 으로 발 넓히는 제약·바이오",
+ "summary": "1970년대 상처 치료제에 활용한 성분을 바탕으로 2015년 화장품 을 출시 하며 제약 분야의 기술과 브랜드 자산을 소비재 시장으로 확장한 경험을 공유했다. 디엔코스메틱스 이지혜 본부장. 사진/한국바이오협회...",
+ "published_at": "2026-11-06T10:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "디엔코스메틱스",
+   "한국바이오협회"
+  ],
+  "keywords": [
+   "제약바이오의 화장품 진출",
+   "더마 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제약과 바이오 기업이 기술과 브랜드 자산을 앞세워 화장품 시장으로 사업을 넓히고 있다.",
+  "key_fact_quote": "1970년대 상처 치료제에 활용한 성분을 바탕으로 2015년 화장품 을 출시 하며 제약 분야의 기술과 브랜드 자산을 소비재 시장으로 확장한 경험을 공유했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

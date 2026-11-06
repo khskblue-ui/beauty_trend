@@ -1,0 +1,55 @@
+{
+ "doc_id": "30d018f533911fda",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312686",
+ "title": "Tmall Korea Pavilion Cleansing Foam Sales Drop 38%, Market Leaders Hold Ground",
+ "summary": "China\\'s Tmall Korea Pavilion cleansing foam market contracted sharply in October 2026, although leading Korean beauty brands continued to dominate category sales.According to Beauty Economy\\'s analysis, total sales volume of the Top 10 cleansing foam products reached 78,500 units in October 2026, dow",
+ "published_at": "2026-11-06T11:05:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "Dermafirm",
+   "VIDIVICI",
+   "Torriden",
+   "VT",
+   "The History of Whoo",
+   "The Face Shop",
+   "AHC Homme",
+   "Laneige",
+   "AHC",
+   "AHC Hyaluronic",
+   "JoaJota"
+  ],
+  "companies": [],
+  "keywords": [
+   "클렌징폼",
+   "티몰 한국관",
+   "K-뷰티 판매"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 티몰 한국관 클렌징폼 시장은 줄었지만 상위 브랜드가 선두를 지켰다.",
+  "key_fact_quote": "Despite the decline in overall market size, established brands including Dermafirm, VIDIVICI, and Torriden maintained their leadership positions",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

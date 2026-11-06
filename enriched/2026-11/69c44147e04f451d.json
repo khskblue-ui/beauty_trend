@@ -1,0 +1,88 @@
+{
+ "doc_id": "69c44147e04f451d",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53884",
+ "title": "다이소에서 즐기는 ’스웨거 무드‘",
+ "summary": "스웨거가 다이소에 ’스웨거 무드‘를 선보였다. 스웨거 무드(SWAGGER mood)는 △ 집시 베일(GYPSY VEIL) △ 뽀 에끌로(PEAU ÉCLOS) △ 와일드 엠버(WILD AMBER) 등 세가지 향으로 나왔다. 각 향은 퍼퓸 보디 스프레이(300mL)와 퍼퓸 핸드크림(50mL) 두 가지 제품으로 구성했다. ’집시…",
+ "published_at": "2026-11-06T17:23:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "스웨거"
+  ],
+  "companies": [
+   "다이소"
+  ],
+  "keywords": [
+   "퍼퓸 보디 스프레이",
+   "퍼퓸 핸드크림",
+   "다이소 향 제품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "집시 베일",
+    "brand": "스웨거",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "스웨거가 다이소에 ’스웨거 무드‘를 선보였다.",
+    "notes": [
+     "시트러스",
+     "주니퍼",
+     "소나무",
+     "바닐라"
+    ],
+    "notes_quote": "’집시 베일’은 시트러스와 주니퍼의 산뜻함으로 시작한다. 소나무 향과 바닐라가 부드러운 잔향을 남기며 아로마틱 우디 향을 완성한다."
+   },
+   {
+    "name": "뽀 에끌로",
+    "brand": "스웨거",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "스웨거가 다이소에 ’스웨거 무드‘를 선보였다.",
+    "notes": [
+     "시트러스",
+     "플로럴",
+     "머스크"
+    ],
+    "notes_quote": "‘뽀 에끌로’는 산뜻한 시트러스와 파우더리한 플로럴이 어우러졌다. 따뜻한 머스크가 이어지며 은은한 살결 향을 나타낸다."
+   },
+   {
+    "name": "와일드 엠버",
+    "brand": "스웨거",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "스웨거가 다이소에 ’스웨거 무드‘를 선보였다.",
+    "notes": [
+     "시트러스",
+     "아로마틱 허브",
+     "앰버",
+     "우디"
+    ],
+    "notes_quote": "‘와일드 엠버’는 강렬한 시트러스와 아로마틱 허브에 앰버와 우디의 깊은 잔향을 결합했다."
+   }
+  ],
+  "key_fact": "스웨거가 다이소에서 세 가지 향의 퍼퓸 보디 스프레이와 핸드크림을 선보였다.",
+  "key_fact_quote": "스웨거가 다이소에 ’스웨거 무드‘를 선보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

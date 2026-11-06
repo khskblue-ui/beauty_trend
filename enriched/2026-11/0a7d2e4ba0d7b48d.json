@@ -1,0 +1,52 @@
+{
+ "doc_id": "0a7d2e4ba0d7b48d",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=311773",
+ "title": "중국 베이스 메이크업 시장, 성장 넘어 경쟁구도 재편",
+ "summary": "중국 베이스 메이크업 시장이 성장세를 이어가는 가운데 제품 경쟁 구조에도 변화가 나타나고 있다.과거에는 커버력과 지속력이 주요 경쟁 요소로 꼽혔지만, 최근에는 스킨케어 기능과 피부 표현 기술, 멀티 기능 등을 강조한 제품이 증가하는 추세다.중국 로컬 색조 브랜드와 글로벌 브랜드, 스킨케어 브랜드들은 최근 베이스 메이크업 제품 출시를 확대하고 있다. 제품군 역시 쿠션과 파운데이션, 파우더 등 기존 카테고리에서 나아가 다양한 기능을 결합한 형태로 확대되고 있다.관련 자료에 따르면 중국 베이스 메이크업 시장 규모는 2022년 732억 위",
+ "published_at": "2026-11-06T11:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "베이스 메이크업",
+   "멀티 기능 제품",
+   "스킨케어 결합",
+   "지속력 경쟁"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 베이스 메이크업 시장은 커버력 경쟁에서 피부 표현, 스킨케어 기능, 멀티 기능 경쟁으로 바뀌고 있다.",
+  "key_fact_quote": "중국 베이스 메이크업 시장은 커버력 중심 경쟁에서 자연스러운 피부 표현과 스킨케어 기능, 멀티 기능 중심의 경쟁 구조로 변화하고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "PDRN, 나이아신아마이드 등 기존 스킨케어 제품에 주로 사용되던 성분도 베이스 메이크업 제품에 적용되고 있다."
+   },
+   {
+    "name": "나이아신아마이드",
+    "quote": "PDRN, 나이아신아마이드 등 기존 스킨케어 제품에 주로 사용되던 성분도 베이스 메이크업 제품에 적용되고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

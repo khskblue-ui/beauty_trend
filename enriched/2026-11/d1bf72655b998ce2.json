@@ -1,0 +1,47 @@
+{
+ "doc_id": "d1bf72655b998ce2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news2day.co.kr/article/20261106500249",
+ "title": "한국콜마, 3분기 역대 최대 매출…선케어·스킨케어 성장에 실적 호조(...",
+ "summary": "여름철 선케어 성수기 효과가 실적을 이끈 가운데, 중소·인디 브랜드의 성장과 글로벌 고객사의 신제품 출시 확대가 힘을 보탰다. 화장품 제조업자개발생산(ODM) 시장에서 국내외 고객사의 주문이 늘면서 외형 성장과...",
+ "published_at": "2026-11-06T15:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마",
+   "연우"
+  ],
+  "keywords": [
+   "선케어",
+   "스킨케어",
+   "화장품 포장재",
+   "신제품 출시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "7e170e4ce70d5dab",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "398e3b6b9bb9c358",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Economy/article/all/20261106/134972757/2",
+ "title": "“마데카솔 성분이 화장품 으로”…신약 기술이 뷰티 시장 향하는 이유 ...",
+ "summary": "아무리 우수한 소재라도 진출하려는 국가에서 화장품 원료로 사용할 수 없다면 제품 출시 가 어려워질 수 있다. 원료의 적합성과 제품 분류, 효능을 설명하는 표시·광고의 근거 등을 개발 단계부터 검토해야 하는 이유다....",
+ "published_at": "2026-11-06T10:03:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 원료 규제",
+   "신약 소재의 화장품 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신약 기술의 소재를 화장품에 쓰려면 진출국의 원료 사용 가능 여부를 개발 단계부터 따져야 한다.",
+  "key_fact_quote": "아무리 우수한 소재라도 진출하려는 국가에서 화장품 원료로 사용할 수 없다면 제품 출시 가 어려워질 수 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

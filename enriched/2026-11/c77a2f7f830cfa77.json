@@ -1,0 +1,53 @@
+{
+ "doc_id": "c77a2f7f830cfa77",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.theguru.co.kr/news/article.html?no=109374",
+ "title": "코스맥스, 99% 고순도 'PRISM PDRN' 상용화…日 '노에라 뷰티'에 공급",
+ "summary": "신제품 에는 PRISM PDRN을 고농도로 사용했다. 부스터 세럼에는 PRISM PDRN을 5만ppm(5%), 크림에는 그 두 배인... 이어 7월에는 일본 미용 전문 상사 후지신과 맞춤형 화장품 합작법인 '트라이넥스(TRINEX)' 설립 계약을...",
+ "published_at": "2026-11-06T09:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "노에라 뷰티"
+  ],
+  "companies": [
+   "코스맥스",
+   "후지신"
+  ],
+  "keywords": [
+   "고순도 PDRN",
+   "맞춤형 화장품",
+   "원료 상용화"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 고순도 PRISM PDRN을 상용화해 일본 노에라 뷰티에 공급한다.",
+  "key_fact_quote": "코스맥스, 99% 고순도 'PRISM PDRN' 상용화…日 '노에라 뷰티'에 공급",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PRISM PDRN",
+    "quote": "신제품 에는 PRISM PDRN을 고농도로 사용했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

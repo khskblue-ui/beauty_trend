@@ -1,0 +1,43 @@
+{
+ "doc_id": "6395a32ec70a4405",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602419.html",
+ "title": "K - 뷰티 수출 신기록 행진… 10개월 만에 지난해 연간 실적 넘어",
+ "summary": "미국과 중국 등 기존 주요 시장뿐 아니라 유럽 등으로 수출 지역이 확대되면서 K - 뷰티 의 성장세가 지속되는 모습이다. 산업통상부가 지난 1일 발표한 '2026년 10월 수출 입 동향'에 따르면, 지난달 우리나라 전체...",
+ "published_at": "2026-11-06T18:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "수출 지역 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티 수출이 신기록을 이어가며 수출 지역이 유럽 등으로 넓어지고 있다.",
+  "key_fact_quote": "미국과 중국 등 기존 주요 시장뿐 아니라 유럽 등으로 수출 지역이 확대되면서 K - 뷰티 의 성장세가 지속되는 모습이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

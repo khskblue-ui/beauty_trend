@@ -1,0 +1,53 @@
+{
+ "doc_id": "40501cfff0e90781",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankookilbo.com/news/article/A2026110614400001278?did=NA",
+ "title": "이젬코, K - 뷰티 의 모든 업무 통합 ‘제조실행시스템’ 구축",
+ "summary": "이젬코(대표 이종극)의 ‘GemCEP’는 화장품 연구개발과 제품 처방관리부터 영업, 생산계획, 구매, 제조, 품질관리, 출하, 물류, 수출 및 인허가까지 전사 업무를 하나의 시스템으로 연결하는 K - 뷰티 특화 통합 MES...",
+ "published_at": "2026-11-06T15:51:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "이젬코"
+  ],
+  "keywords": [
+   "화장품 제조 디지털화",
+   "통합 MES"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "GemCEP",
+    "brand": "이젬코",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이젬코가 K-뷰티 전사 업무를 하나로 잇는 제조실행시스템을 구축했다.",
+  "key_fact_quote": "이젬코(대표 이종극)의 ‘GemCEP’는 화장품 연구개발과 제품 처방관리부터 영업, 생산계획, 구매, 제조, 품질관리, 출하, 물류, 수출 및 인허가까지 전사 업무를 하나의 시스템으로 연결하는 K - 뷰티 특화 통합 MES",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

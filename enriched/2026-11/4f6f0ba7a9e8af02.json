@@ -1,0 +1,55 @@
+{
+ "doc_id": "4f6f0ba7a9e8af02",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312710",
+ "title": "샤넬, 성수동·인천공항 동시 공략…한국 시장 강화",
+ "summary": "샤넬이 홀리데이 시즌을 맞아 서울 성수동과 인천국제공항에서 체험형 마케팅을 전개하며 한국 시장을 강화하고 있다.샤넬은 11월 21일부터 12월 31일까지 서울 성수동에서 \\'샤넬 홀리데이 팝업\\'을 운영한다. 또한 롯데면세점과 협업해 인천국제공항 제2터미널에서 \\'샤넬 홀리데이 메가 포디움\\'도 선보인다.롯데면세점은 샤넬과 협업해 인천국제공항 제2터미널에서 \\'샤넬 홀리데이 메가 포디움\\'을 운영한다. 오는 12월 25일까지 진행되는 이번 포디움은 생모리츠의 설산과 산장에서 영감을 받아 조성됐으며, 홀리데이 한정판 제품과 면세점 전용 상품을",
+ "published_at": "2026-11-06T15:47:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "샤넬"
+  ],
+  "companies": [
+   "롯데면세점"
+  ],
+  "keywords": [
+   "홀리데이 팝업",
+   "체험형 마케팅",
+   "면세점 협업",
+   "홀리데이 한정판"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "샤넬이 홀리데이 시즌에 성수동 팝업과 인천공항 포디움으로 한국 시장을 공략한다.",
+  "key_fact_quote": "샤넬이 홀리데이 시즌을 맞아 서울 성수동과 인천국제공항에서 체험형 마케팅을 전개하며 한국 시장을 강화하고 있다.",
+  "events": [
+   {
+    "name": "샤넬 홀리데이 팝업",
+    "start_date": "2026-11-21",
+    "end_date": "2026-12-31",
+    "place": "서울 성수동",
+    "quote": "샤넬은 11월 21일부터 12월 31일까지 서울 성수동에서 '샤넬 홀리데이 팝업'을 운영한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

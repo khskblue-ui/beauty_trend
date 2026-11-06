@@ -1,0 +1,56 @@
+{
+ "doc_id": "a2e78291982ab7cd",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53879",
+ "title": "한국소비자원, ‘화장품 안전관리 역량 강화 세미나’ 개최",
+ "summary": "한국소비자원(원장 윤수현)이 5일 서울 마곡동 LG사이언스파크에서 ‘화장품 중소기업을 위한 제품 안전관리 역량 강화 세미나’를 개최했다. 이번 세미나는 화장품 사업자정례협의체·대한화장품협회와 공동 주최했다. 화장품 사업자정례협의체는 선제적 안전관리체계를 구축하기 위해 한국소비자원과…",
+ "published_at": "2026-11-06T09:19:21+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국소비자원",
+   "대한화장품협회",
+   "LG생활건강",
+   "로레알코리아",
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "화장품 안전관리",
+   "AI 광고 규제",
+   "해외 안전 규제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국소비자원이 화장품 중소기업을 위한 안전관리 세미나를 열었다.",
+  "key_fact_quote": "이번 세미나는 화장품 사업자정례협의체·대한화장품협회와 공동 주최했다.",
+  "events": [
+   {
+    "name": "화장품 중소기업을 위한 제품 안전관리 역량 강화 세미나",
+    "start_date": "2026-11-05",
+    "end_date": null,
+    "place": "서울 마곡동 LG사이언스파크",
+    "quote": "한국소비자원(원장 윤수현)이 5일 서울 마곡동 LG사이언스파크에서 ‘화장품 중소기업을 위한 제품 안전관리 역량 강화 세미나’를 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

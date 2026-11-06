@@ -1,0 +1,48 @@
+{
+ "doc_id": "3212f171b12e4923",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312712",
+ "title": "코스메카코리아, 누적 매출 6588억원…주가는 한 달 새 13.3% 하락",
+ "summary": "코스메카코리아는 2026년 3분기 연결 기준 매출 2475억원, 영업이익 272억원을 달성했다고 6일 밝혔다.3분기 누적 연결 매출은 6588억원으로 전년 동기 대비 42.4% 증가했다. 이는 지난해 연간 매출 6409억원을 넘어섰다. 3분기 누적 영업이익은 812억원으로 전년 동기 대비 29.9% 증가했으며, 누적 당기순이익은 503억원으로 18.7% 늘었다.한국법인 매출 첫 2000억원 돌파한국법인은 3분기 매출 2011억원, 영업이익 234억원을 기록했다. 전년 동기 대비 각각 54.9%, 61.3% 증가한 수치다. 한국법인",
+ "published_at": "2026-11-06T17:07:07+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "코스메카코리아",
+   "잉글우드랩",
+   "코스메카차이나"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "스킨케어",
+   "스마트팩토리"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스메카코리아는 누적 매출이 지난해 연간 매출을 넘었지만 주가는 조정을 받았다.",
+  "key_fact_quote": "코스메카코리아는 올해 3분기 누적 기준으로 지난해 연간 매출을 넘어서는 실적을 기록했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

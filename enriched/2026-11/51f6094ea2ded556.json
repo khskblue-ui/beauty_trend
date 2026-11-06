@@ -1,0 +1,84 @@
+{
+ "doc_id": "51f6094ea2ded556",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58680",
+ "title": "아모레퍼시픽, GLP-1 사용자 대상 라보에이치 두피관리 만족도 조사 공개",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 아모레퍼시픽의 두피 스킨케어 전문 브랜드 라보에이치(LABO·H)가 GLP-1 계열 비만치료제 사용자를 대상으로 ‘두피강화 클리닉’ 3종의 사용 만족도를 조사한 결과 전반적인 만족도 100%를 기록했다고 6일 밝혔다. 최근 GLP-1 계열 비만치료제 사용이 늘면서…",
+ "published_at": "2026-11-06T15:55:40+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라보에이치"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "두피 케어",
+   "GLP-1",
+   "탈모 케어",
+   "두피 장벽"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "두피강화 클리닉 샴푸",
+    "brand": "라보에이치",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "캡슐 트리트먼트",
+    "brand": "라보에이치",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "헤어라인 앰플",
+    "brand": "라보에이치",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "라보에이치가 GLP-1 계열 비만치료제 사용자를 대상으로 두피 제품 만족도 조사를 공개했다.",
+  "key_fact_quote": "아모레퍼시픽의 두피 스킨케어 전문 브랜드 라보에이치(LABO·H)가 GLP-1 계열 비만치료제 사용자를 대상으로 ‘두피강화 클리닉’ 3종의 사용 만족도를 조사한 결과 전반적인 만족도 100%를 기록했다고 6일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "단백질",
+    "quote": "제품별 기능에도 차이를 뒀다. 두피강화 클리닉 샴푸는 두피와 모발을 세정하면서 탈모 증상 완화에 도움을 주며 캡슐 트리트먼트는 단백질과 비타민 성분을 통해 영양을 공급한다. 롤온 타입의 헤어라인 앰플은 가르마와 헤어라인 등 집중 관리가 필요한 부위에 간편하게 사용할 수 있도록 구성했다."
+   },
+   {
+    "name": "비타민",
+    "quote": "제품별 기능에도 차이를 뒀다. 두피강화 클리닉 샴푸는 두피와 모발을 세정하면서 탈모 증상 완화에 도움을 주며 캡슐 트리트먼트는 단백질과 비타민 성분을 통해 영양을 공급한다. 롤온 타입의 헤어라인 앰플은 가르마와 헤어라인 등 집중 관리가 필요한 부위에 간편하게 사용할 수 있도록 구성했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

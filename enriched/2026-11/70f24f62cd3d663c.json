@@ -1,0 +1,46 @@
+{
+ "doc_id": "70f24f62cd3d663c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ziksir.com/news/articleView.html?idxno=152320",
+ "title": "한국콜마, 선케어·스킨케어 날개…3분기 매출 8282억원 '최대'",
+ "summary": "글로벌 고객사의 신제품 출시 확대와 주력 화장품 제조 사업의 가파른 성장에 자회사 연우의 실적 개선까지 더해지면서 외형 확대와 수익성 향상을 동시에 이뤘다. 한국콜마는 6일 올해 3분기 별도 기준 매출이...",
+ "published_at": "2026-11-06T11:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마",
+   "연우"
+  ],
+  "keywords": [
+   "선케어",
+   "스킨케어",
+   "화장품 ODM",
+   "신제품 출시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국콜마가 글로벌 고객사 신제품 확대와 자회사 실적 개선으로 3분기 최대 실적을 냈다.",
+  "key_fact_quote": "글로벌 고객사의 신제품 출시 확대와 주력 화장품 제조 사업의 가파른 성장에 자회사 연우의 실적 개선까지 더해지면서 외형 확대와 수익성 향상을 동시에 이뤘다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

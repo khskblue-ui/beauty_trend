@@ -1,0 +1,43 @@
+{
+ "doc_id": "7b7ec57a823c9ea4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1422484",
+ "title": "K - 뷰티 훈풍 탄 부산 화장품··· 수출 ·브랜드 동반 성장",
+ "summary": "사진=부산TP 제공 부산 화장품산업이 K - 뷰티 시장 성장세에 힘입어 수출 확대를 이어가고 있다. 부산테크노파크가 한국무역협회 통계를 분석해 발표한 자료에 따르면, 올해 1~9월 부산지역 화장품 수출 액은 지난해 같은...",
+ "published_at": "2026-11-06T10:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "부산테크노파크"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "지역 화장품 산업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "부산 화장품 산업이 K-뷰티 성장세에 힘입어 수출을 늘리고 있다.",
+  "key_fact_quote": "부산 화장품산업이 K - 뷰티 시장 성장세에 힘입어 수출 확대를 이어가고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,60 @@
+{
+ "doc_id": "bd72bd778bc8436b",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/david-konckier-owner-of-bogart,28483",
+ "title": "David Konckier, owner of Bogart Group, completes acquisition of Marionnaud",
+ "summary": "David Konckier, the main shareholder of the Bogart Group, has finalized the acquisition of the Marionnaud Group through his company BEHN. The transaction, undertaken in a personal capacity, was initially announced in a press release on July 6. The selective perfumery retailer thus comes under the control of the businessman, following more than 20 years under the ownership of Hong Kong-based conglomerate CK Hutchison, which also owns the AS Watson retail group. A long-established player in... - Industry buzz / Europe",
+ "published_at": "2026-11-06T07:52:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "HK",
+   "DE",
+   "BE",
+   "LU",
+   "IL",
+   "SK"
+  ],
+  "brands": [
+   "April Beauty",
+   "DI",
+   "HC Parfümerie",
+   "Gottman",
+   "Fann"
+  ],
+  "companies": [
+   "Marionnaud Group",
+   "Bogart Group",
+   "BEHN",
+   "CK Hutchison",
+   "AS Watson"
+  ],
+  "keywords": [
+   "향수 유통",
+   "리테일 인수",
+   "셀렉티브 퍼퓸"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Bogart Group의 주주 David Konckier가 Marionnaud Group 인수를 마무리했다.",
+  "key_fact_quote": "David Konckier, the main shareholder of the Bogart Group , has finalized the acquisition of the Marionnaud Group through his company BEHN.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

@@ -1,0 +1,67 @@
+{
+ "doc_id": "95fee8ff24e0bcd0",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53881",
+ "title": "더샘 ‘콜라겐 레티날 캡슐 세럼’",
+ "summary": "더샘이 ‘콜라겐 레티날 캡슐 세럼’을 출시했다. 이 제품은 피부에 수분과 탄력을 동시에 제공한다. 콜라겐 워터와 7종 콜라겐, 순도 98% 순수 레틴알을 함유했다. 풍부한 수분감과 쫀쫀한 영양 케어를 선사한다. 특히 350Da 초저분자 콜라겐 워터가 피부 깊은 곳까지 보습감을 전달한다. 레틴알이 피부 속…",
+ "published_at": "2026-11-06T09:31:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더샘"
+  ],
+  "companies": [],
+  "keywords": [
+   "레티날",
+   "콜라겐",
+   "듀얼 제형"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "콜라겐 레티날 캡슐 세럼",
+    "brand": "더샘",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "더샘이 ‘콜라겐 레티날 캡슐 세럼’을 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더샘이 콜라겐 젤과 레틴알 캡슐을 함께 담은 세럼을 출시했다.",
+  "key_fact_quote": "더샘이 ‘콜라겐 레티날 캡슐 세럼’을 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "콜라겐 워터",
+    "quote": "더샘이 ‘콜라겐 레티날 캡슐 세럼’을 출시했다. 이 제품은 피부에 수분과 탄력을 동시에 제공한다. 콜라겐 워터와 7종 콜라겐, 순도 98% 순수 레틴알을 함유했다. 풍부한 수분감과 쫀쫀한 영양 케어를 선사한다. 특히 350Da 초저분자 콜라겐 워터가 피부 깊은 곳까지 보습감을 전달한다. 레틴알이 피부 속…"
+   },
+   {
+    "name": "콜라겐",
+    "quote": "더샘이 ‘콜라겐 레티날 캡슐 세럼’을 출시했다. 이 제품은 피부에 수분과 탄력을 동시에 제공한다. 콜라겐 워터와 7종 콜라겐, 순도 98% 순수 레틴알을 함유했다. 풍부한 수분감과 쫀쫀한 영양 케어를 선사한다. 특히 350Da 초저분자 콜라겐 워터가 피부 깊은 곳까지 보습감을 전달한다. 레틴알이 피부 속…"
+   },
+   {
+    "name": "레틴알",
+    "quote": "더샘이 ‘콜라겐 레티날 캡슐 세럼’을 출시했다. 이 제품은 피부에 수분과 탄력을 동시에 제공한다. 콜라겐 워터와 7종 콜라겐, 순도 98% 순수 레틴알을 함유했다. 풍부한 수분감과 쫀쫀한 영양 케어를 선사한다. 특히 350Da 초저분자 콜라겐 워터가 피부 깊은 곳까지 보습감을 전달한다. 레틴알이 피부 속…"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

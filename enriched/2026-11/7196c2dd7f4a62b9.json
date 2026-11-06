@@ -1,0 +1,47 @@
+{
+ "doc_id": "7196c2dd7f4a62b9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://magazine.hankyung.com/business/article/202611060435b",
+ "title": "디어닷, 고체 시트 기술 '셀루블'로 프랑스 '코스메틱 360' 제형 부문 수...",
+ "summary": "뷰티테크 브랜드 디어닷(DEARDOT)이 액상 화장품을 무수 고체 시트로 바꾸는 '셀루블(Celluble)' 기술로 '2026 코스메틱 360 어워즈' 제형 부문을 수상했다. 코스메틱 360은 프랑스 향수 ·화장품 산업 클러스터인 코스메틱...",
+ "published_at": "2026-11-06T10:55:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "디어닷"
+  ],
+  "companies": [
+   "코스메틱 밸리"
+  ],
+  "keywords": [
+   "고체 시트 제형",
+   "무수 화장품",
+   "뷰티테크"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "디어닷이 액상 화장품을 무수 고체 시트로 바꾸는 기술로 프랑스 어워즈 제형 부문을 수상했다.",
+  "key_fact_quote": "뷰티테크 브랜드 디어닷(DEARDOT)이 액상 화장품을 무수 고체 시트로 바꾸는 '셀루블(Celluble)' 기술로 '2026 코스메틱 360 어워즈' 제형 부문을 수상했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,54 @@
+{
+ "doc_id": "8089e7625ddf674b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.itbiznews.com/news/articleView.html?idxno=230570",
+ "title": "프렌치 애비뉴, 무신사 뷰티 홍대 루프탑서 국내 공식 론칭 이벤트 개최",
+ "summary": "글로벌 향수 브랜드 프렌치 애비뉴(FRENCH AVENUE)가 6일 무신사 뷰티 홍대 루프탑에서 국내 공식 론칭을 기념하는 이벤트를 개최한다. 이번 행사는 오후 3시부터 7시까지 진행되며, 국내 소비자들에게 프렌치...",
+ "published_at": "2026-11-06T17:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프렌치 애비뉴"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "글로벌 향수 브랜드",
+   "국내 론칭",
+   "오프라인 이벤트"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "향수 브랜드 프렌치 애비뉴가 무신사 뷰티 홍대 루프탑에서 국내 공식 론칭 이벤트를 연다.",
+  "key_fact_quote": "글로벌 향수 브랜드 프렌치 애비뉴(FRENCH AVENUE)가 6일 무신사 뷰티 홍대 루프탑에서 국내 공식 론칭을 기념하는 이벤트를 개최한다.",
+  "events": [
+   {
+    "name": "국내 공식 론칭 이벤트",
+    "start_date": "2026-11-06",
+    "end_date": null,
+    "place": "무신사 뷰티 홍대 루프탑",
+    "quote": "글로벌 향수 브랜드 프렌치 애비뉴(FRENCH AVENUE)가 6일 무신사 뷰티 홍대 루프탑에서 국내 공식 론칭을 기념하는 이벤트를 개최한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

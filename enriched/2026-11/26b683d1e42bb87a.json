@@ -1,0 +1,58 @@
+{
+ "doc_id": "26b683d1e42bb87a",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58681",
+ "title": "유씨엘, 기존 PDRN 한계 겨냥한 저분자 ‘MDRN’ 연구 성과 공개",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 화장품 ODM·OEM 전문기업 유씨엘(대표 이지원)이 차세대 저분자 소재 ‘MDRN’과 기존 PDRN의 피부 재생 관련 세포 반응을 비교한 공동연구 결과를 국제학술지에 게재했다고 6일 밝혔다. 이번 연구는 기존 PDRN의 피부 전달 한계에 주목해 이를 보완할 저분자 소…",
+ "published_at": "2026-11-06T16:20:31+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "유씨엘"
+  ],
+  "keywords": [
+   "저분자 소재",
+   "피부 재생",
+   "피부 전달",
+   "ODM 처방"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "유씨엘이 저분자 소재 MDRN과 기존 PDRN의 피부 재생 관련 세포 반응을 비교한 연구 결과를 국제학술지에 냈다.",
+  "key_fact_quote": "화장품 ODM·OEM 전문기업 유씨엘(대표 이지원)이 차세대 저분자 소재 ‘MDRN’과 기존 PDRN의 피부 재생 관련 세포 반응을 비교한 공동연구 결과를 국제학술지에 게재했다고 6일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "MDRN",
+    "quote": "화장품 ODM·OEM 전문기업 유씨엘(대표 이지원)이 차세대 저분자 소재 ‘MDRN’과 기존 PDRN의 피부 재생 관련 세포 반응을 비교한 공동연구 결과를 국제학술지에 게재했다고 6일 밝혔다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "화장품 ODM·OEM 전문기업 유씨엘(대표 이지원)이 차세대 저분자 소재 ‘MDRN’과 기존 PDRN의 피부 재생 관련 세포 반응을 비교한 공동연구 결과를 국제학술지에 게재했다고 6일 밝혔다."
+   },
+   {
+    "name": "코디세핀",
+    "quote": "연구에 사용된 MDRN 후보 물질은 코디세핀(Cordycepin)이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

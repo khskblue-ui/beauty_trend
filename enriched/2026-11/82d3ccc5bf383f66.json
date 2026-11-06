@@ -1,0 +1,47 @@
+{
+ "doc_id": "82d3ccc5bf383f66",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730843",
+ "title": "K뷰티 열풍에 웃은 한국콜마… 3분기 '역대 최대' 매출",
+ "summary": "연우의 국내 매출 비중은 74%, 수출 비중은 26%로 집계됐다. 미국 수출 은 전체 매출의 14%를 차지했다. 연우는 튜브 생산라인의 추가 가동을 준비하며 화장품 용기 생산능력을 확대할 계획이다. 제약 계열사 HK이노엔은...",
+ "published_at": "2026-11-06T10:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마",
+   "연우",
+   "HK이노엔"
+  ],
+  "keywords": [
+   "화장품 용기",
+   "튜브 생산라인",
+   "수출 비중"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "연우가 튜브 생산라인을 추가 가동해 화장품 용기 생산능력을 넓힐 계획이다.",
+  "key_fact_quote": "연우는 튜브 생산라인의 추가 가동을 준비하며 화장품 용기 생산능력을 확대할 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

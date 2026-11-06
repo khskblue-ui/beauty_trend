@@ -1,0 +1,44 @@
+{
+ "doc_id": "e644d24b41592ac5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902190",
+ "title": "신약 기술이 화장품으로…한국바이오협회, 5사 뷰티 사업 노하우 공유",
+ "summary": "이태훈 대표는 \" K - 뷰티 라는 이름에 의존하기보다 과학이라는 든든한 기반 위에서 제품을 개발해야 한다\"고... 한편 식품의약품안전처에 따르면 올해 1~9월 국내 화장품 수출 액은 잠정 111억달러로 전년 동기 대비 31.1% 늘어...",
+ "published_at": "2026-11-06T11:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국바이오협회"
+  ],
+  "keywords": [
+   "신약 기술 화장품",
+   "과학 기반 제품 개발",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신약 기술을 화장품 사업에 적용한 5개 회사가 한국바이오협회에서 뷰티 사업 노하우를 공유했다.",
+  "key_fact_quote": "신약 기술이 화장품으로…한국바이오협회, 5사 뷰티 사업 노하우 공유",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

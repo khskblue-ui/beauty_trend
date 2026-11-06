@@ -1,0 +1,57 @@
+{
+ "doc_id": "7be64f0702dc5315",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53878",
+ "title": "화장품 ODM·OEM 창업자가 만든 라벨 시스템 탄생",
+ "summary": "화장품 OEM·ODM 전문기업 나우코스를 창업했던 노향선 전 대표가 화장품 제조 현장의 라벨 출력 업무를 효율화하는 IT 서비스 사업에 나섰다. 노 대표가 설립한 주식회사 알앤엠(브랜드명 ‘유지온’)은 화장품 제조기업의 제품 출고 과정에서 발생하는 라벨 작성 오류와 재작업 문제를 해결하기 위한 ‘…",
+ "published_at": "2026-11-06T09:21:28+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "유지온"
+  ],
+  "companies": [
+   "알앤엠",
+   "나우코스"
+  ],
+  "keywords": [
+   "화장품 제조 디지털화",
+   "AI 활용 서비스",
+   "라벨 자동화"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "유지온 라벨프린트",
+    "brand": "알앤엠",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "‘유지온 라벨프린트’(YOUJION Label Print)를 정식 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "알앤엠이 화장품 제조 현장의 라벨 출력 업무를 효율화하는 서비스를 정식 출시했다.",
+  "key_fact_quote": "화장품 OEM·ODM 전문기업 나우코스를 창업했던 노향선 전 대표가 화장품 제조 현장의 라벨 출력 업무를 효율화하는 IT 서비스 사업에 나섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

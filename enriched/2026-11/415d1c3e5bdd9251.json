@@ -1,0 +1,46 @@
+{
+ "doc_id": "415d1c3e5bdd9251",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/nykaa-profit-surges-premiumisation-drives-beauty",
+ "title": "Nykaa profit surges 207% as premiumisation drives beauty sales",
+ "summary": "The Indian retailer and brand owner also announced the acquisition of SimplyNam, the premium colour cosmetics brand founded by celebrity makeup artist Namrata Son",
+ "published_at": "2026-11-06T20:59:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "IN"
+  ],
+  "brands": [
+   "SimplyNam"
+  ],
+  "companies": [
+   "Nykaa"
+  ],
+  "keywords": [
+   "프리미엄화",
+   "컬러 화장품",
+   "브랜드 인수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인도 뷰티 유통사 Nykaa가 프리미엄 컬러 화장품 브랜드 SimplyNam 인수를 발표했다.",
+  "key_fact_quote": "The Indian retailer and brand owner also announced the acquisition of SimplyNam, the premium colour cosmetics brand founded by celebrity makeup artist Namrata Son",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

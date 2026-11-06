@@ -1,0 +1,77 @@
+{
+ "doc_id": "56e0bd78450108ce",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58676",
+ "title": "에이블씨엔씨, 미샤 BB크림 英 하퍼스 바자 메이크업 부문 K-뷰티 유일 수상",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 에이블씨엔씨(대표 신유정)의 화장품 브랜드 미샤(MISSHA)가 영국 하퍼스 바자의 ‘2026 베스트 오브 베스트 뷰티 어워드’에서 메이크업 부문 K-뷰티 브랜드 중 유일하게 수상했다고 6일 밝혔다. 이번에 수상한 제품은 미샤의 대표 베이스 메이크업 제품인 ‘M 퍼펙…",
+ "published_at": "2026-11-06T12:02:42+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [
+   "미샤",
+   "어퓨"
+  ],
+  "companies": [
+   "에이블씨엔씨"
+  ],
+  "keywords": [
+   "베이스 메이크업",
+   "틴티드 모이스처라이저",
+   "K뷰티 해외 진출",
+   "뷰티 어워드"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "M 퍼펙트 커버 세럼 BB크림 PRO",
+    "brand": "미샤",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PDRN·NAD+",
+    "brand": "미샤",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "미샤가 영국 하퍼스 바자 어워드 메이크업 부문에서 K뷰티 브랜드로는 유일하게 수상했다.",
+  "key_fact_quote": "에이블씨엔씨(대표 신유정)의 화장품 브랜드 미샤(MISSHA)가 영국 하퍼스 바자의 ‘2026 베스트 오브 베스트 뷰티 어워드’에서 메이크업 부문 K-뷰티 브랜드 중 유일하게 수상했다고 6일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "이달부터 고기능성 스킨케어 라인인 ‘PDRN·NAD+’를 중심으로 현지 마케팅을 강화하고 베이스 메이크업에서 확보한 브랜드 신뢰도를 스킨케어 분야로 확장해 유럽 시장 내 입지를 넓혀 나간다는 전략이다."
+   },
+   {
+    "name": "NAD+",
+    "quote": "이달부터 고기능성 스킨케어 라인인 ‘PDRN·NAD+’를 중심으로 현지 마케팅을 강화하고 베이스 메이크업에서 확보한 브랜드 신뢰도를 스킨케어 분야로 확장해 유럽 시장 내 입지를 넓혀 나간다는 전략이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "95fc2f866a5c7aef",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501962",
+ "title": "[코스닥 외국인] AI 반도체 장비주 사고…바이오·화장품주는 매도 우위",
+ "summary": "글로벌 화장품 시장 확대와 K뷰티 수출 성장 기대가 이어지고 있지만 이날은 외국인 투자자들의 매도 우위가 나타났다. 증시에서는 외국인 매수세가 반도체 장비와 검사 관련 종목에 상대적으로 집중된 반면 2차전지와...",
+ "published_at": "2026-11-06T15:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "화장품주",
+   "외국인 매도"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "외국인 투자자들이 이날 바이오와 화장품주를 팔았다.",
+  "key_fact_quote": "글로벌 화장품 시장 확대와 K뷰티 수출 성장 기대가 이어지고 있지만 이날은 외국인 투자자들의 매도 우위가 나타났다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

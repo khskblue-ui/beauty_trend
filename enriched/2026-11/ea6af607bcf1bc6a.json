@@ -1,0 +1,44 @@
+{
+ "doc_id": "ea6af607bcf1bc6a",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/shani-darden-aesthetics-beverly-hills-studio-expansion-1239401143/",
+ "title": "EXCLUSIVE: Shani Darden Expands Beverly Hills Studio With New Aesthetics and Dermatology Services",
+ "summary": "The celebrity aesthetician is bringing injectables, dermatology and plastic surgery guidance under one roof alongside her signature facials.",
+ "published_at": "2026-11-06T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Shani Darden"
+  ],
+  "companies": [],
+  "keywords": [
+   "에스테틱 스튜디오",
+   "피부과 서비스",
+   "주사 시술"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유명 에스테티션 셰이니 다든이 베벌리힐스 스튜디오에 시술과 피부과 서비스를 더한다.",
+  "key_fact_quote": "The celebrity aesthetician is bringing injectables, dermatology and plastic surgery guidance under one roof alongside her signature facials.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

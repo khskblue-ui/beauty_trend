@@ -1,0 +1,181 @@
+{
+ "day": "2026-11-07",
+ "finished_at": "2026-11-06T21:29:57+00:00",
+ "sources": {
+  "cosmorning": {
+   "ok": true,
+   "seen": 50,
+   "new": 14,
+   "error": null,
+   "note": null
+  },
+  "jangup": {
+   "ok": true,
+   "seen": 50,
+   "new": 0,
+   "error": null,
+   "note": null
+  },
+  "thebk": {
+   "ok": true,
+   "seen": 50,
+   "new": 14,
+   "error": null,
+   "note": null
+  },
+  "cosinkorea": {
+   "ok": true,
+   "seen": 25,
+   "new": 7,
+   "error": null,
+   "note": null
+  },
+  "cosmeticsbusiness": {
+   "ok": true,
+   "seen": 20,
+   "new": 14,
+   "error": null,
+   "note": null
+  },
+  "premiumbeautynews": {
+   "ok": true,
+   "seen": 8,
+   "new": 5,
+   "error": null,
+   "note": null
+  },
+  "wwd": {
+   "ok": true,
+   "seen": 10,
+   "new": 2,
+   "error": null,
+   "note": null
+  },
+  "mfds_press": {
+   "ok": false,
+   "seen": 0,
+   "new": 0,
+   "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>",
+   "note": null
+  },
+  "mfds_notice": {
+   "ok": false,
+   "seen": 0,
+   "new": 0,
+   "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>",
+   "note": null
+  },
+  "mfds_preannounce": {
+   "ok": false,
+   "seen": 0,
+   "new": 0,
+   "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>",
+   "note": null
+  },
+  "mfds_law": {
+   "ok": false,
+   "seen": 0,
+   "new": 0,
+   "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>",
+   "note": null
+  },
+  "givaudan": {
+   "ok": true,
+   "seen": 25,
+   "new": 0,
+   "error": null,
+   "note": null
+  },
+  "symrise": {
+   "ok": true,
+   "seen": 40,
+   "new": 0,
+   "error": null,
+   "note": null
+  },
+  "ifra_news": {
+   "ok": true,
+   "seen": 0,
+   "new": 0,
+   "error": null,
+   "note": "12 links on page"
+  },
+  "dsm_firmenich": {
+   "ok": true,
+   "seen": 0,
+   "new": 0,
+   "error": null,
+   "note": "16 links on page"
+  },
+  "eu_cosmetics_reg": {
+   "ok": true,
+   "seen": 20,
+   "new": 0,
+   "error": null,
+   "note": null
+  },
+  "fda_fedreg": {
+   "ok": true,
+   "seen": 1,
+   "new": 0,
+   "error": null,
+   "note": null
+  },
+  "cosmorning+backfill": {
+   "ok": true,
+   "seen": 14,
+   "new": 0,
+   "error": null,
+   "note": "backfill 2026-11-04~2026-11-07"
+  },
+  "jangup+backfill": {
+   "ok": true,
+   "seen": 0,
+   "new": 0,
+   "error": null,
+   "note": "backfill 2026-11-04~2026-11-07"
+  },
+  "thebk+backfill": {
+   "ok": true,
+   "seen": 15,
+   "new": 1,
+   "error": null,
+   "note": "backfill 2026-11-04~2026-11-07"
+  },
+  "cosinkorea+backfill": {
+   "ok": true,
+   "seen": 7,
+   "new": 0,
+   "error": null,
+   "note": "backfill 2026-11-04~2026-11-07"
+  },
+  "cosmeticsbusiness+backfill": {
+   "ok": true,
+   "seen": 14,
+   "new": 0,
+   "error": null,
+   "note": "backfill 2026-11-04~2026-11-07"
+  },
+  "premiumbeautynews+backfill": {
+   "ok": true,
+   "seen": 5,
+   "new": 0,
+   "error": null,
+   "note": "backfill 2026-11-04~2026-11-07"
+  },
+  "wwd+backfill": {
+   "ok": true,
+   "seen": 14,
+   "new": 0,
+   "error": null,
+   "note": "backfill 2026-11-04~2026-11-07"
+  },
+  "naver_news": {
+   "ok": true,
+   "seen": 629,
+   "new": 84,
+   "error": null,
+   "note": null
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "doc_id": "420fd3646ae0faa6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.e-science.co.kr/news/articleView.html?idxno=139146",
+ "title": "영국 진출 반년 만에 성과…에이블씨엔씨, 미샤 BB크림 현지 뷰티상 수...",
+ "summary": "하퍼스 바자의 뷰티 어워드는 스킨케어와 메이크업, 헤어, 바디, 향수 등 다양한 분야의 제품을 대상으로 진행된다. 업계 전문가들이 신제품 과 기존 인기 제품을 직접 테스트하고 제품의 혁신성, 완성도, 브랜드...",
+ "published_at": "2026-11-06T13:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [
+   "미샤"
+  ],
+  "companies": [
+   "에이블씨엔씨"
+  ],
+  "keywords": [
+   "K뷰티",
+   "뷰티 어워드",
+   "BB크림",
+   "해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "미샤 BB크림",
+    "brand": "미샤",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이블씨엔씨의 미샤 BB크림이 영국 진출 반년 만에 현지 뷰티상을 받았다.",
+  "key_fact_quote": "영국 진출 반년 만에 성과…에이블씨엔씨, 미샤 BB크림 현지 뷰티상 수...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

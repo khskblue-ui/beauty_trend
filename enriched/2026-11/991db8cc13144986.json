@@ -1,0 +1,54 @@
+{
+ "doc_id": "991db8cc13144986",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53880",
+ "title": "센슬 ‘미니 모듈’",
+ "summary": "센슬이 ‘미니 모듈’을 11일 오전 11시 공식 온라인몰에서 판매한다. 111명에게 미니모듈 2개입 구성을 50% 할인가에 선보인다. 미니 모듈은 ‘Only What I Need(나에게 필요한 것만 골라 쓰는 미니 모듈)’을 슬로건으로 내세웠다. 바쁜 일상 속에서 정교하고 빠른 메이크업을 돕는다. 이 제품은 표…",
+ "published_at": "2026-11-06T09:28:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센슬"
+  ],
+  "companies": [],
+  "keywords": [
+   "조립형 메이크업",
+   "퀵뷰티",
+   "펜슬 모듈"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "미니 모듈",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "센슬이 ‘미니 모듈’을 11일 오전 11시 공식 온라인몰에서 판매한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "센슬이 필요한 모듈만 골라 쓰는 조립형 펜슬 메이크업을 온라인몰에서 판매한다.",
+  "key_fact_quote": "센슬이 ‘미니 모듈’을 11일 오전 11시 공식 온라인몰에서 판매한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

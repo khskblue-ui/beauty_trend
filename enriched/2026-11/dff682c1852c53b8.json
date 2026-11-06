@@ -1,0 +1,41 @@
+{
+ "doc_id": "dff682c1852c53b8",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/packaging-industry-gives-mixed-verdict-on-2026-budget",
+ "title": "Packaging industry gives mixed verdict on 2026 Budget",
+ "summary": "While manufacturers welcome measures to support investment and reduce energy costs, industry representatives warn that rising taxes, employment costs and the cumulative burden of packaging regulation continue to weigh on businesses",
+ "published_at": "2026-11-06T21:08:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "GB"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "포장 규제",
+   "포장재 산업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "영국 예산안을 두고 포장 업계는 투자 지원은 반기면서도 세금과 포장 규제 부담을 우려했다.",
+  "key_fact_quote": "industry representatives warn that rising taxes, employment costs and the cumulative burden of packaging regulation continue to weigh on businesses",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

@@ -1,0 +1,68 @@
+{
+ "doc_id": "7ec6cd1686059c3e",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/basf-develops-sustainable-supply,28481",
+ "title": "BASF develops sustainable supply chains for cosmetic bioactives in the Amazon",
+ "summary": "Derived from the andiroba tree, also known as crabwood, the emollient Cetiol Forest CG is the first product launched under the Standing Forest programme, which seeks to support local communities while helping protect the rainforest. BASF's Standing Forest program aims to reconcile economic development with the preservation of the Amazon rainforest. “The project grew out of the idea of combining BASF's scientific and technological expertise with the potential of Amazonian biodiversity to... - Ingredients & formulation / Latin America",
+ "published_at": "2026-11-05T07:35:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "BR"
+  ],
+  "brands": [],
+  "companies": [
+   "BASF"
+  ],
+  "keywords": [
+   "지속가능 원료",
+   "아마존 바이오경제",
+   "에몰리언트",
+   "안디로바 오일"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Cetiol Forest CG",
+    "brand": "BASF",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "the emollient Cetiol Forest CG is the first product launched under the Standing Forest programme",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "BASF가 아마존 안디로바 나무 오일로 만든 에몰리언트를 Standing Forest 프로그램의 첫 제품으로 내놨다.",
+  "key_fact_quote": "The first ingredient developed under this approach is Cetiol Forest CG .",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Cetiol Forest CG",
+    "quote": "The first ingredient developed under this approach is Cetiol Forest CG ."
+   },
+   {
+    "name": "Andiroba oil",
+    "quote": "Andiroba oil is also widely used in cosmetics, particularly in skin and hair care products."
+   },
+   {
+    "name": "ethanol",
+    "quote": "using renewable ethanol as a reagent to transform andiroba oil into a high-performance ester"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

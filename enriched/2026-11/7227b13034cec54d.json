@@ -1,0 +1,66 @@
+{
+ "doc_id": "7227b13034cec54d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602006.html",
+ "title": "[뷰티업계 이모저모] 라메디텍, 스킨부스터 특화 레이저 ‘레인젯’ 식...",
+ "summary": "■지에프씨생명과학, 인코스메틱스 아시아서 해외 사업 협의 화장품 ·바이오 소재 기업... 연작은 2018년 베이스 프렙을 출시 한 이후 메이크업 밀착력과 지속력을 돕는 제품군을 선보여 왔다. 올해는 보송한 마무리감을...",
+ "published_at": "2026-11-06T16:07:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "연작"
+  ],
+  "companies": [
+   "라메디텍",
+   "지에프씨생명과학"
+  ],
+  "keywords": [
+   "스킨부스터 레이저",
+   "베이스 프렙",
+   "인코스메틱스 아시아"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "레인젯",
+    "brand": "라메디텍",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "베이스 프렙",
+    "brand": "연작",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "연작은 2018년 베이스 프렙을 출시 한 이후 메이크업 밀착력과 지속력을 돕는 제품군을 선보여 왔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "지에프씨생명과학이 인코스메틱스 아시아에서 해외 사업을 협의했다.",
+  "key_fact_quote": "■지에프씨생명과학, 인코스메틱스 아시아서 해외 사업 협의",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

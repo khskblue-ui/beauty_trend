@@ -1,0 +1,61 @@
+{
+ "doc_id": "ba168d5d4d39acfb",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53886",
+ "title": "센텔리안24, '마데카 크림' 들고 유럽 간다",
+ "summary": "동국제약 센텔리안24가 유럽 공략에 나선다. 센텔리안24는 7월부터 영국 부츠 70곳에 진출해 마데카 크림 등 8종을 판매한다. 영국 드럭스토어 체인 ‘슈퍼드러그(Superdrug)’ 온라인몰에도 입점해 13종을 선보인다. 동유럽 유통망도 확장하고 있다. 센텔리안24는 올해 4월 체코 드럭스토어 체인 ‘…",
+ "published_at": "2026-11-06T17:59:28+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB",
+   "CZ",
+   "SK",
+   "RS",
+   "MK"
+  ],
+  "brands": [
+   "센텔리안24"
+  ],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "유럽 진출",
+   "드럭스토어 입점",
+   "동유럽 유통망"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "마데카 크림",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "센텔리안24는 7월부터 영국 부츠 70곳에 진출해 마데카 크림 등 8종을 판매한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동국제약 센텔리안24가 영국과 동유럽 드럭스토어로 유통망을 넓히고 있다.",
+  "key_fact_quote": "센텔리안24는 7월부터 영국 부츠 70곳에 진출해 마데카 크림 등 8종을 판매한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

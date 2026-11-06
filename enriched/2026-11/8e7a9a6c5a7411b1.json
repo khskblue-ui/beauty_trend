@@ -1,0 +1,48 @@
+{
+ "doc_id": "8e7a9a6c5a7411b1",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/paris-packaging-week-2027",
+ "title": "Paris Packaging Week 2027",
+ "summary": "3-4 February 2027 | Paris",
+ "published_at": "2026-11-06T20:52:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "패키징 박람회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "파리 패키징 위크의 다음 회차 일정이 공개됐다.",
+  "key_fact_quote": "3-4 February 2027 | Paris",
+  "events": [
+   {
+    "name": "Paris Packaging Week 2027",
+    "start_date": "2027-02-03",
+    "end_date": "2027-02-04",
+    "place": "Paris",
+    "quote": "3-4 February 2027 | Paris"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

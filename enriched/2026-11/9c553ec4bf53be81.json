@@ -1,0 +1,42 @@
+{
+ "doc_id": "9c553ec4bf53be81",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261106_0003857808",
+ "title": "美 블루웨이브에 트럼프 관세 제동?… K - 뷰티 수출 셈법 바뀌나",
+ "summary": "미국은 K뷰티 의 주요 수출 시장인 동시에 글로벌 화장품 브랜드와 경쟁하는 핵심 시장이다. 관세 부담이 낮아지면 현지 판매 가격과 수익성 측면에서 긍정적인 효과를 기대할 수 있다. 특히 가격 대비 품질 경쟁력을 앞세워...",
+ "published_at": "2026-11-06T11:57:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "미국 관세",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 관세 부담이 낮아지면 K뷰티 수출의 현지 가격과 수익성에 긍정적일 수 있다.",
+  "key_fact_quote": "관세 부담이 낮아지면 현지 판매 가격과 수익성 측면에서 긍정적인 효과를 기대할 수 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

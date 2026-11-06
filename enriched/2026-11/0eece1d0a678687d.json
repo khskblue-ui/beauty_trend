@@ -1,0 +1,59 @@
+{
+ "doc_id": "0eece1d0a678687d",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58677",
+ "title": "지에프씨생명과학, 롱제비티 소재 앞세워 아시아·미주 사업 확대 추진",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 화장품·바이오 소재 전문기업 지에프씨생명과학(대표 강희철)이 태국 방콕에서 열린 ‘인코스메틱스 아시아 2026(in-cosmetics Asia 2026)’에서 스킨 롱제비티 소재 기술을 선보이고 아시아·미주 기업들과 사업 협력 확대에 나섰다고 6일 밝혔다. 이번 전…",
+ "published_at": "2026-11-06T12:31:01+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR",
+   "TH",
+   "US"
+  ],
+  "brands": [
+   "GFCCELL",
+   "fmk"
+  ],
+  "companies": [
+   "지에프씨생명과학",
+   "대한피부과학연구소"
+  ],
+  "keywords": [
+   "스킨 롱제비티",
+   "바이오 소재",
+   "임상평가 서비스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지에프씨생명과학이 인코스메틱스 아시아에서 롱제비티 소재 기술을 선보이고 해외 협력을 넓혔다.",
+  "key_fact_quote": "화장품·바이오 소재 전문기업 지에프씨생명과학(대표 강희철)이 태국 방콕에서 열린 ‘인코스메틱스 아시아 2026(in-cosmetics Asia 2026)’에서 스킨 롱제비티 소재 기술을 선보이고 아시아·미주 기업들과 사업 협력 확대에 나섰다고 6일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "엑소좀",
+    "quote": "이번 전시회에서는 고순도 엑소좀과 식물 유래 PDRN 등 주요 바이오 소재를 공개하고 원료 연구개발부터 효능·안전성 평가까지 연계한 통합 솔루션을 제안했다. 단순한 원료 공급을 넘어 제품 개발과 임상평가 서비스를 결합한 사업 모델을 앞세워 글로벌 고객사와의 협력 기회를 모색했다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "이번 전시회에서는 고순도 엑소좀과 식물 유래 PDRN 등 주요 바이오 소재를 공개하고 원료 연구개발부터 효능·안전성 평가까지 연계한 통합 솔루션을 제안했다. 단순한 원료 공급을 넘어 제품 개발과 임상평가 서비스를 결합한 사업 모델을 앞세워 글로벌 고객사와의 협력 기회를 모색했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": true
+}

@@ -1,0 +1,55 @@
+{
+ "doc_id": "925a3fd366fc0779",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=265967",
+ "title": "씨와이(CY), '제조 암묵지' 데이터로 AI 공장 구축···F&B 거쳐 K-뷰티...",
+ "summary": "특히, 2018년 출시한 'COS247' 플랫폼을 비롯해 지난 8년간 화장품 신제품 개발 프로젝트 관리 SaaS로 축적한 성공 노하우를 바탕으로, 현장의 레시피나 시험 이력 같은 '제조 암묵지'를 초기 단계부터 정형...",
+ "published_at": "2026-11-06T19:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "COS247"
+  ],
+  "companies": [
+   "씨와이"
+  ],
+  "keywords": [
+   "AI 공장",
+   "화장품 제조 디지털화"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "COS247",
+    "brand": "씨와이",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "씨와이가 제조 현장의 암묵지를 데이터로 만들어 AI 공장을 구축한다.",
+  "key_fact_quote": "특히, 2018년 출시한 'COS247' 플랫폼을 비롯해 지난 8년간 화장품 신제품 개발 프로젝트 관리 SaaS로 축적한 성공 노하우를 바탕으로, 현장의 레시피나 시험 이력 같은 '제조 암묵지'를",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}

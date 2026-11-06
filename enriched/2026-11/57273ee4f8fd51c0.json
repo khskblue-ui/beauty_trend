@@ -1,0 +1,49 @@
+{
+ "doc_id": "57273ee4f8fd51c0",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/new-launch-for-in-cosmetics-asia-phytocelltec-aloha",
+ "title": "New launch for in-cosmetics Asia: PhytoCellTec Aloha",
+ "summary": "Inspired by the remarkable resilience of Waltheria indica, a tropical plant traditionally valued in Polynesian cultures, PhytoCellTec™ Aloha helps the skin remain healthy, balanced, and radiant even during stressful times",
+ "published_at": "2026-11-07T01:35:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "식물 유래 원료",
+   "스트레스 케어",
+   "피부 레질리언스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "폴리네시아에서 전통적으로 쓰인 열대 식물 Waltheria indica에서 영감을 받은 원료가 인코스메틱스 아시아에서 공개됐다.",
+  "key_fact_quote": "PhytoCellTec™ Aloha helps the skin remain healthy, balanced, and radiant even during stressful times",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PhytoCellTec™ Aloha",
+    "quote": "PhytoCellTec™ Aloha helps the skin remain healthy, balanced, and radiant even during stressful times"
+   },
+   {
+    "name": "Waltheria indica",
+    "quote": "Inspired by the remarkable resilience of Waltheria indica, a tropical plant traditionally valued in Polynesian cultures"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-06T21:33:49+00:00",
+ "had_body": false
+}
