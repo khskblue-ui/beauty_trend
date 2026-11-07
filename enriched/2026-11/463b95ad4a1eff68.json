@@ -1,0 +1,101 @@
+{
+ "doc_id": "463b95ad4a1eff68",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53897",
+ "title": "코리아나 앰플엔, 다이소 뷰티 시장 공략 개시",
+ "summary": "코리아나화장품(대표이사 유학수)의 앰플 전문 브랜드 ‘앰플엔’(AMPLE:N)이 다이소 뷰티 채널에 진출, 합리성을 갖춘 가격 전략을 앞세워 국내 소비자 접점 확대에 나선다. 앰플엔은 다이소 고객층의 소비 성향과 가격 수요를 고려해 전용 제품 앰플 샷(4종)을 선보였다. 모든 제품을 50ml 용량에 5천…",
+ "published_at": "2026-11-07T11:47:19+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "앰플엔"
+  ],
+  "companies": [
+   "코리아나화장품",
+   "다이소"
+  ],
+  "keywords": [
+   "다이소 뷰티",
+   "가성비 앰플",
+   "더마 코스메틱"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "펩타 스레드샷 앰플",
+    "brand": "앰플엔",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "앰플엔은 다이소 고객층의 소비 성향과 가격 수요를 고려해 전용 제품 앰플 샷(4종)을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "세라 부스터샷 앰플",
+    "brand": "앰플엔",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "앰플엔은 다이소 고객층의 소비 성향과 가격 수요를 고려해 전용 제품 앰플 샷(4종)을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "멀티 히알루론샷 앰플",
+    "brand": "앰플엔",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "앰플엔은 다이소 고객층의 소비 성향과 가격 수요를 고려해 전용 제품 앰플 샷(4종)을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "파하샷 앰플",
+    "brand": "앰플엔",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "앰플엔은 다이소 고객층의 소비 성향과 가격 수요를 고려해 전용 제품 앰플 샷(4종)을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "앰플엔이 다이소 뷰티 채널에 진출해 전용 앰플 제품을 선보였다.",
+  "key_fact_quote": "앰플엔은 다이소 고객층의 소비 성향과 가격 수요를 고려해 전용 제품 앰플 샷(4종)을 선보였다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "펩타이드",
+    "quote": "각 제품은 펩타이드·세라마이드·히알루론산·PHA 등 피부 고민에 맞춘 성분을 활용해 소비자가 필요한 제품을 쉽게 선택할 수 있도록 구성했다."
+   },
+   {
+    "name": "세라마이드",
+    "quote": "각 제품은 펩타이드·세라마이드·히알루론산·PHA 등 피부 고민에 맞춘 성분을 활용해 소비자가 필요한 제품을 쉽게 선택할 수 있도록 구성했다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "각 제품은 펩타이드·세라마이드·히알루론산·PHA 등 피부 고민에 맞춘 성분을 활용해 소비자가 필요한 제품을 쉽게 선택할 수 있도록 구성했다."
+   },
+   {
+    "name": "PHA",
+    "quote": "각 제품은 펩타이드·세라마이드·히알루론산·PHA 등 피부 고민에 맞춘 성분을 활용해 소비자가 필요한 제품을 쉽게 선택할 수 있도록 구성했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-07T21:31:24+00:00",
+ "had_body": true
+}

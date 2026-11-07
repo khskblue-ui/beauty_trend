@@ -1,0 +1,47 @@
+{
+ "doc_id": "a2aad7534feee8d6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12191516",
+ "title": "세럼으로 아마존 1위…‘홈뷰티’ 새 지평 열다 [K뷰티 숨은 거인]",
+ "summary": "메디테라피 2017년 문을 열고 미국 아마존 세럼 1위까지 올라선 화장품 회사가 있다. 올해로 10년 차를... 이에 대해 메디테라피 관계자는 “지난해 해외 시장에 동시 진출하며 현지 마케팅과 유통망 구축, 신제품 개발...",
+ "published_at": "2026-11-07T21:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "메디테라피"
+  ],
+  "companies": [
+   "메디테라피"
+  ],
+  "keywords": [
+   "홈뷰티",
+   "세럼",
+   "아마존 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "메디테라피가 미국 아마존 세럼 부문 선두까지 올라섰다.",
+  "key_fact_quote": "메디테라피 2017년 문을 열고 미국 아마존 세럼 1위까지 올라선 화장품 회사가 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-07T21:31:24+00:00",
+ "had_body": false
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "2e6007b62938c33f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=579157&class=17&grp=",
+ "title": "'잘 팔려도 남는 건 다르다'…K-뷰티 수출 호황 속 실적 온도차 [뷰티풀...",
+ "summary": "올해 출시 30주년을 맞은 다마고치의 캐릭터를 기존 보습·메이크업 제품에 적용해 과거 이용자의 향수 와 젊은 소비자의 관심을 함께 겨냥했다. 두 브랜드는 기존 제품의 성분이나 기능을 바꾸기보다 캐릭터 디자인과...",
+ "published_at": "2026-11-07T08:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "캐릭터 협업",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "다마고치 캐릭터를 기존 보습·메이크업 제품에 적용한 협업이 소개됐다.",
+  "key_fact_quote": "올해 출시 30주년을 맞은 다마고치의 캐릭터를 기존 보습·메이크업 제품에 적용해 과거 이용자의 향수 와 젊은 소비자의 관심을 함께 겨냥했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-07T21:31:24+00:00",
+ "had_body": false
+}

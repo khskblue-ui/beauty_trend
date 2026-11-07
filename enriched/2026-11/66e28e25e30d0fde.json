@@ -1,0 +1,42 @@
+{
+ "doc_id": "66e28e25e30d0fde",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=203391",
+ "title": "캐릭터부터 굿즈까지... 화장품 업계는 협업 경쟁 중 [최기자의 화장품 ...",
+ "summary": "[최 기자's Pick] 이번 주 협업 신제품 의 핵심은 '캐릭터를 입힌 화장품 '에서 '캐릭터를 경험하는 화장품 '으로의 변화다. 다마고치와 먼작귀처럼 인지도가 높은 캐릭터는 폭넓은 소비자 관심을 끌어내고, 버터베어와...",
+ "published_at": "2026-11-07T07:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "캐릭터 협업",
+   "굿즈 마케팅",
+   "체험형 협업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "협업 신제품의 흐름이 캐릭터를 입힌 화장품에서 캐릭터를 경험하는 화장품으로 바뀌고 있다.",
+  "key_fact_quote": "[최 기자's Pick] 이번 주 협업 신제품 의 핵심은 '캐릭터를 입힌 화장품 '에서 '캐릭터를 경험하는 화장품 '으로의 변화다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-07T21:31:24+00:00",
+ "had_body": false
+}

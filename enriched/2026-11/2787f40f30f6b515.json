@@ -1,0 +1,49 @@
+{
+ "doc_id": "2787f40f30f6b515",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53893",
+ "title": "코스메카코리아, 3분기 누적 매출 6588억 원",
+ "summary": "글로벌 화장품 OGM(글로벌 규격 생산) 전문기업을 표방하는 코스메카코리아(대표이사 조임래·박은희)가 한국법인의 성장세에 힘입어 지난 3분기 누적 매출 6천588억 원을 기록했다. 전년 동기 대비 42.4% 증가한 규모로 지난해 연간 매출 6천409억 원을 3분기 만에 넘어섰다. 코스메카코리아가 발표한…",
+ "published_at": "2026-11-07T08:18:49+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "코스메카코리아",
+   "잉글우드랩",
+   "코스메카차이나"
+  ],
+  "keywords": [
+   "화장품 OGM",
+   "스킨케어 성장",
+   "생산능력 확대",
+   "스마트팩토리"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스메카코리아는 한국법인 성장에 힘입어 3분기 누적 매출이 지난해 연간 매출을 넘어섰다.",
+  "key_fact_quote": "전년 동기 대비 42.4% 증가한 규모로 지난해 연간 매출 6천409억 원을 3분기 만에 넘어섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-07T21:31:24+00:00",
+ "had_body": true
+}

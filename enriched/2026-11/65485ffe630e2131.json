@@ -1,0 +1,45 @@
+{
+ "doc_id": "65485ffe630e2131",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/justin-boxford-exits-estee-lauder-pursue-new-opportunity-1239405250/",
+ "title": "Justin Boxford Exits The Estée Lauder Cos. to Pursue New Opportunity",
+ "summary": "Boxford, who oversaw Estée Lauder’s luxury beauty portfolio, including La Mer, joined the company in 2004. A successor has yet to be named.",
+ "published_at": "2026-11-07T06:52:57+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "La Mer"
+  ],
+  "companies": [
+   "The Estée Lauder Cos."
+  ],
+  "keywords": [
+   "임원 인사",
+   "럭셔리 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에스티 로더 컴퍼니의 럭셔리 뷰티 부문 책임자가 회사를 떠난다.",
+  "key_fact_quote": "Justin Boxford Exits The Estée Lauder Cos. to Pursue New Opportunity",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-07T21:31:24+00:00",
+ "had_body": false
+}

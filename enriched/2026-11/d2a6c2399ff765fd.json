@@ -1,0 +1,67 @@
+{
+ "doc_id": "d2a6c2399ff765fd",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53896",
+ "title": "아모레퍼시픽재단, 일본서 K-뷰티 문화 알렸다",
+ "summary": "아모레퍼시픽재단이 일본 도쿄와 오사카에서 K-뷰티 메이크업 클래스와 체험형 전시를 선보이며 한국의 아름다움과 뷰티 문화 알리기에 나섰다. 아모레퍼시픽재단은 문화체육관광부·한국국제문화교류진흥원(KOFICE)이 후원하는 ‘투어링 케이아츠’(Touring K-Arts) 사업의 일환으로 ‘찾아가…",
+ "published_at": "2026-11-07T11:31:09+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽재단"
+  ],
+  "keywords": [
+   "K뷰티 문화",
+   "메이크업 클래스",
+   "체험형 전시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아모레퍼시픽재단이 일본에서 K뷰티 메이크업 클래스와 체험형 전시를 열었다.",
+  "key_fact_quote": "아모레퍼시픽재단 이 일본 도쿄와 오사카에서 K-뷰티 메이크업 클래스 와 체험형 전시 를 선보이며 한국의 아름다움과 뷰티 문화 알리기에 나섰다.",
+  "events": [
+   {
+    "name": "찾아가는 K-뷰티 메이크업 클래스",
+    "start_date": "2026-10-31",
+    "end_date": "2026-11-01",
+    "place": "주일한국문화원",
+    "quote": "도쿄 행사는 지난달 31일부터 이달 1일까지 주일한국문화원에서, 오사카 행사는 지난 3일과 4일, 주오사카한국문화원에서 각각 진행했다."
+   },
+   {
+    "name": "찾아가는 K-뷰티 메이크업 클래스",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-04",
+    "place": "주오사카한국문화원",
+    "quote": "도쿄 행사는 지난달 31일부터 이달 1일까지 주일한국문화원에서, 오사카 행사는 지난 3일과 4일, 주오사카한국문화원에서 각각 진행했다."
+   },
+   {
+    "name": "뷰티과학자의 집展",
+    "start_date": "2026-10-31",
+    "end_date": "2026-11-12",
+    "place": "주일한국문화원",
+    "quote": "지난달 31일 시작한 전시는 오는 12일까지 이어간다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-07T21:31:24+00:00",
+ "had_body": true
+}

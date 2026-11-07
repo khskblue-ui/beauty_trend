@@ -1,0 +1,57 @@
+{
+ "doc_id": "fe1cc43346b58ddd",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53892",
+ "title": "유씨엘, 차세대 저분자 소재 연구성과 국제학술지 게재",
+ "summary": "화장품 ODM·OEM 전문기업 유씨엘(대표 이지원)이 차세대 저분자 소재 ‘MDRN’과 기존 PDRN의 피부 재생 관련 세포 반응을 비교한 공동연구 성과를 국제학술지 ‘Current Issues in Molecular Biology’에 게재한다. 이번 연구는 기존 PDRN의 고분자 구조에 따른 피부 전달 한계를…",
+ "published_at": "2026-11-07T07:43:52+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "유씨엘"
+  ],
+  "keywords": [
+   "저분자 소재",
+   "피부 재생",
+   "화장품 ODM"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "유씨엘이 저분자 소재 MDRN과 PDRN을 비교한 공동연구를 국제학술지에 게재한다.",
+  "key_fact_quote": "화장품 ODM·OEM 전문기업 유씨엘(대표 이지원)이 차세대 저분자 소재 ‘MDRN’ 과 기존 PDRN의 피부 재생 관련 세포 반응을 비교한 공동연구 성과를 국제학술지 ‘Current Issues in Molecular Biology’ 에 게재한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "MDRN",
+    "quote": "화장품 ODM·OEM 전문기업 유씨엘(대표 이지원)이 차세대 저분자 소재 ‘MDRN’ 과 기존 PDRN의 피부 재생 관련 세포 반응을 비교한 공동연구 성과를 국제학술지 ‘Current Issues in Molecular Biology’ 에 게재한다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "PDRN은 피부 재생·탄력 관리 분야에서 주목받는 소재지만 분자량이 약 50~1,500kDa에 달해 피부 각질층을 통한 전달에 한계가 있다는 지적이 있었다."
+   },
+   {
+    "name": "코디세핀",
+    "quote": "사람 피부세포를 활용한 비교 실험에서 코디세핀은 PDRN보다 약 20~400배 낮은 질량농도에서도 피부 재생 관련 세포 반응을 나타냈다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-07T21:31:24+00:00",
+ "had_body": true
+}

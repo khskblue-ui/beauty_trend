@@ -1,0 +1,52 @@
+{
+ "doc_id": "9164aeea7439450e",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53895",
+ "title": "이젬코, 화장품 제조 AI 활용 방향 제시",
+ "summary": "화장품 제조 스마트팩토리 솔루션 전문기업 (주)이젬코(대표이사 이종극)가 제조실행시스템(MES)에 축적한 데이터를 인공지능(AI)과 연계해 화장품 제조 현장의 생산성과 품질 경쟁력을 높이기 위한 기술 개발 방향을 제시했다. (주)이젬코는 지난 10월 30일 서울 여의도 중소기업회관에서 열린 ‘2025 부…",
+ "published_at": "2026-11-07T11:08:43+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "이젬코"
+  ],
+  "keywords": [
+   "화장품 제조 AI",
+   "스마트팩토리",
+   "디지털 전환"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "이젬코가 화장품 제조 데이터를 AI와 연계하는 기술 개발 방향을 제시했다.",
+  "key_fact_quote": "(주)이젬코(대표이사 이종극) 가 제조실행시스템(MES)에 축적한 데이터를 인공지능(AI)과 연계해 화장품 제조 현장의 생산성과 품질 경쟁력을 높이기 위한 기술 개발 방향을 제시했다.",
+  "events": [
+   {
+    "name": "2025 부처협업형(화장품) 스마트공장 구축지원사업 후속연계 세미나",
+    "start_date": "2026-10-30",
+    "end_date": null,
+    "place": "서울 여의도 중소기업회관",
+    "quote": "(주)이젬코는 지난 10월 30일 서울 여의도 중소기업회관에서 열린 ‘2025 부처협업형(화장품) 스마트공장 구축지원사업 후속연계 세미나’에서"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-07T21:31:24+00:00",
+ "had_body": true
+}

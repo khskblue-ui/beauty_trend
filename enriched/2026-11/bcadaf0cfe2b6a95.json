@@ -1,0 +1,59 @@
+{
+ "doc_id": "bcadaf0cfe2b6a95",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.khan.co.kr/article/202611071300001",
+ "title": "‘유명템 립밤’ 발라도 입술이 갈라진다…성분표부터 확인하세요",
+ "summary": "여기에 향료 나 특정 향을 내는 성분, 청량감을 주는 성분 등이 더해지면 사람에 따라 자극이나 알레르기... 향료 와 향을 내는 성분도 확인 대상이다. 민트와 페퍼민트, 계피, 감귤류 향을 내는 성분이나 에센셜 오일은 일부...",
+ "published_at": "2026-11-07T13:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "립밤 성분",
+   "향료 알레르기",
+   "성분표 확인"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "립밤에 든 향료와 청량감 성분이 사람에 따라 자극을 줄 수 있다.",
+  "key_fact_quote": "여기에 향료 나 특정 향을 내는 성분, 청량감을 주는 성분 등이 더해지면 사람에 따라 자극이나 알레르기...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "민트",
+    "quote": "민트와 페퍼민트, 계피, 감귤류 향을 내는 성분이나 에센셜 오일은 일부..."
+   },
+   {
+    "name": "페퍼민트",
+    "quote": "민트와 페퍼민트, 계피, 감귤류 향을 내는 성분이나 에센셜 오일은 일부..."
+   },
+   {
+    "name": "계피",
+    "quote": "민트와 페퍼민트, 계피, 감귤류 향을 내는 성분이나 에센셜 오일은 일부..."
+   },
+   {
+    "name": "에센셜 오일",
+    "quote": "민트와 페퍼민트, 계피, 감귤류 향을 내는 성분이나 에센셜 오일은 일부..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-07T21:31:24+00:00",
+ "had_body": false
+}

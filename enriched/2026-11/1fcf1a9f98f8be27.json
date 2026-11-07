@@ -1,0 +1,38 @@
+{
+ "doc_id": "1fcf1a9f98f8be27",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=512826",
+ "title": "대전시립합창단, 대전예술의전당서 미국 합창음악 다룬 기획연주회 12일...",
+ "summary": "대전시립합창단은 세계 각국의 다채로운 음악적 유산을 깊이 있게 조명하는 대표 브랜드 기획공연의... 공연의 첫 번째 테마인 '그리움의 노래'는 19세기 미국 개척시대의 애환과 고향에 대한 진한 향수 를 노래한 포스터...",
+ "published_at": "2026-11-07T21:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-07T21:31:24+00:00",
+ "had_body": false
+}

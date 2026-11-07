@@ -4666,5 +4666,25 @@
  "e19d3f3414947b2d|launch|앰플엔|앰플엔 파하샷 앰플|": {
   "kept": true,
   "reason": null
+ },
+ "33d500ec71460556|launch|센슬|센슬 퀵 부스트 핑크 윙·퍼글러 에디션|": {
+  "kept": true,
+  "reason": null
+ },
+ "463b95ad4a1eff68|launch|앰플엔|펩타 스레드샷 앰플|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "463b95ad4a1eff68|launch|앰플엔|세라 부스터샷 앰플|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "463b95ad4a1eff68|launch|앰플엔|멀티 히알루론샷 앰플|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "463b95ad4a1eff68|launch|앰플엔|파하샷 앰플|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
  }
 }

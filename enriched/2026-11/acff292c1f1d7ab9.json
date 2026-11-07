@@ -1,0 +1,43 @@
+{
+ "doc_id": "acff292c1f1d7ab9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/general-industry/6342640",
+ "title": "\" 화장품 안 파는데 예약 하루 만에 마감\"…K-뷰티, 日 마케팅 실험",
+ "summary": "방문객은 피부톤 진단을 통해 자신에게 어울리는 화장품 색상을 찾고 출시를 앞둔 신제품 립밤도 미리 사용해 볼 수 있다. 제품 구매 여부와 관계없이 다양한 화장품 을 경험할 수 있도록 한 것으로, 주말에는 전문 메이크업...",
+ "published_at": "2026-11-07T06:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "other",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "체험형 팝업",
+   "일본 마케팅",
+   "피부톤 진단"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 브랜드가 일본에서 제품을 팔지 않는 체험형 공간을 운영했다.",
+  "key_fact_quote": "방문객은 피부톤 진단을 통해 자신에게 어울리는 화장품 색상을 찾고 출시를 앞둔 신제품 립밤도 미리 사용해 볼 수 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-07T21:31:24+00:00",
+ "had_body": false
+}

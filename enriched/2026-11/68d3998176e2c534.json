@@ -1,0 +1,55 @@
+{
+ "doc_id": "68d3998176e2c534",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312705",
+ "title": "K-Beauty Moisturizer Sales on China's Tmall Jump 53.8%, Led by Torriden",
+ "summary": "The Korean moisturizer category on China\\'s Tmall Korea Pavilion recorded strong growth in October 2026, driven by rising demand for hydration-focused skincare products and expanding competition among K-beauty brands.According to data compiled by Beauty Economy, total sales volume of the Top 10 Korea",
+ "published_at": "2026-11-07T12:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [
+   "Torriden",
+   "Goongbe Secret",
+   "Dermafirm",
+   "Dr.Jart+",
+   "Bioheal BOH",
+   "Heskin",
+   "Dr.G",
+   "Guerisson"
+  ],
+  "companies": [
+   "Beauty Economy"
+  ],
+  "keywords": [
+   "중국 K뷰티",
+   "보습 스킨케어",
+   "피부 장벽 케어",
+   "시장 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "티몰 한국관 보습 크림 부문에서 Torriden이 뚜렷한 선두를 차지했다.",
+  "key_fact_quote": "Torriden emerged as the category's strongest performer, selling 20,000 units of its flagship moisturizer, double the 10,000 units recorded a year earlier.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-07T21:31:24+00:00",
+ "had_body": true
+}
