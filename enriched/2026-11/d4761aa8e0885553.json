@@ -1,0 +1,53 @@
+{
+ "doc_id": "d4761aa8e0885553",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202611081448214553",
+ "title": "\"호주 K뷰티 열풍에 1만5000명 몰렸다\"…한국콜마, 68억 수출 상담",
+ "summary": "호주에서 K뷰티 수요가 커지는 가운데 한국콜마가 고객사들과 현지 박람회에 참가해 약 68억원 규모의 수출 상담을 진행했다. 8일 업계에 따르면 한국콜마는 지난 5~7일(현지시간) 호주 멜버른에서 열린 '2026 멜버른...",
+ "published_at": "2026-11-08T15:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "AU",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "해외 박람회",
+   "ODM 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국콜마가 고객사와 호주 박람회에서 수출 상담을 진행했다.",
+  "key_fact_quote": "8일 업계에 따르면 한국콜마는 지난 5~7일(현지시간) 호주 멜버른에서 열린 '2026 멜버른...",
+  "events": [
+   {
+    "name": "2026 멜버른",
+    "start_date": "2026-11-05",
+    "end_date": "2026-11-07",
+    "place": "호주 멜버른",
+    "quote": "8일 업계에 따르면 한국콜마는 지난 5~7일(현지시간) 호주 멜버른에서 열린 '2026 멜버른..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

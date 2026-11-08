@@ -4686,5 +4686,45 @@
  "463b95ad4a1eff68|launch|앰플엔|파하샷 앰플|": {
   "kept": false,
   "reason": "entailment:not_supported"
+ },
+ "5c15299737b23d44|launch||버터 립밤|": {
+  "kept": false,
+  "reason": "no_brand"
+ },
+ "330c4ffbc376c13f|notes|아프리모|더바디|머스크,복숭아": {
+  "kept": false,
+  "reason": "entailment:uncertain"
+ },
+ "0d3cd799e56402e6|launch|에이피 뷰티|듀얼 리페어 리프트 M.D. 크림 미스트|": {
+  "kept": true,
+  "reason": null
+ },
+ "330c4ffbc376c13f|launch|아프리모|더바디|": {
+  "kept": false,
+  "reason": "entailment:uncertain"
+ },
+ "7bd52205dfc82c27|launch|피지오겔|DMT 페이셜 크림 홀리데이 기획세트|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "7bd52205dfc82c27|launch|피지오겔|DMT 에센스 인 토너 홀리데이 기획세트|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "7bd52205dfc82c27|launch|피지오겔|DMT 핸드크림 더블 홀리데이 기획세트|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "7bd52205dfc82c27|launch|피지오겔|DMT 마일드 립밤 더블 홀리데이 기획세트|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "b92c8ebea97e0c04|launch|Givaudan Active Beauty|SensoTrue DM5|": {
+  "kept": true,
+  "reason": null
+ },
+ "ff32ec1ad1fa85f6|launch|삐아|로 틴트|": {
+  "kept": true,
+  "reason": null
  }
 }

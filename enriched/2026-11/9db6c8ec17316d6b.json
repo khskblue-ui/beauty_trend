@@ -1,0 +1,45 @@
+{
+ "doc_id": "9db6c8ec17316d6b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314867",
+ "title": "호주서 한국산 기초화장품 수입 42% 증가…한국콜마, 고객사 수출 지원",
+ "summary": "현지 유통망 확보가 수출 확대의 과제로 떠오른 가운데 화장품 제조업체 한국콜마가 고객사와 함께 현지... 행사장 메인 출입구 앞에 설치된 K - 뷰티 전시관에서는 선크림과 에센스, 크림, 마스크팩 등 국내 화장품을...",
+ "published_at": "2026-11-08T11:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "AU"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "호주 시장",
+   "기초화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국콜마가 호주 박람회의 K뷰티 전시관을 통해 고객사의 수출을 지원했다.",
+  "key_fact_quote": "행사장 메인 출입구 앞에 설치된 K - 뷰티 전시관에서는 선크림과 에센스, 크림, 마스크팩 등 국내 화장품을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

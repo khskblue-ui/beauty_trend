@@ -1,0 +1,62 @@
+{
+ "doc_id": "330c4ffbc376c13f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thepowernews.co.kr/view.php?ud=2026110609542992939aeda69934_7",
+ "title": "승희, ‘글램미’서 아프리모 ‘더바디’ 향수 공개...머스크·복숭아 ...",
+ "summary": "승희는 머스크 계열 향료 가 체온과 만나면서 보다 깊게 느껴질 수 있다는 점도 언급했다. 피부에 사용했을 때 개인의 체향과 어우러지면서 자연스러운 잔향을 형성하는 것이 특징이라는 설명이다. 향의 변화에 대해서는...",
+ "published_at": "2026-11-08T09:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아프리모"
+  ],
+  "companies": [],
+  "keywords": [
+   "머스크 향",
+   "체취 향수",
+   "피부 향"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "더바디",
+    "brand": "아프리모",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "승희, ‘글램미’서 아프리모 ‘더바디’ 향수 공개...머스크·복숭아",
+    "notes": [
+     "머스크",
+     "복숭아"
+    ],
+    "notes_quote": "승희, ‘글램미’서 아프리모 ‘더바디’ 향수 공개...머스크·복숭아"
+   }
+  ],
+  "key_fact": "승희가 아프리모의 더바디 향수를 공개하며 머스크 향이 체온과 만나 깊어진다고 설명했다.",
+  "key_fact_quote": "승희는 머스크 계열 향료 가 체온과 만나면서 보다 깊게 느껴질 수 있다는 점도 언급했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "머스크",
+    "quote": "승희는 머스크 계열 향료 가 체온과 만나면서 보다 깊게 느껴질 수 있다는 점도 언급했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

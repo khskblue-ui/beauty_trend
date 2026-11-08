@@ -1,0 +1,102 @@
+{
+ "doc_id": "082c13a69ff83b30",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53899",
+ "title": "다름인터내셔널 베르티, 호주 시장 공략",
+ "summary": "다름인터내셔널(대표이사 강인희)의 비건 스킨케어 브랜드 ‘베르티’(VERTTY)가 호주 멜버른 한류박람회에 참가해 현지 시장 진출을 위한 유통 파트너 발굴에 나섰다. 베르티는 지난 5일부터 7일까지 호주 멜버른 쇼그라운즈에서 열린 ‘2026 멜버른 한류박람회’(KBEE 2026)에서 티트리 성분을 활…",
+ "published_at": "2026-11-08T16:57:40+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "AU"
+  ],
+  "brands": [
+   "베르티"
+  ],
+  "companies": [
+   "다름인터내셔널",
+   "KOTRA"
+  ],
+  "keywords": [
+   "비건 스킨케어",
+   "티트리",
+   "K-뷰티 수출",
+   "호주 시장"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "티트리 자일리톨 워터젯 크림",
+    "brand": "베르티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "티트리 시카 리파이닝 패드",
+    "brand": "베르티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "티트리 비타민 부스팅 토너",
+    "brand": "베르티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "베르티가 호주 한류박람회에 참가해 티트리 성분 스킨케어 제품을 선보이며 유통 파트너를 찾았다.",
+  "key_fact_quote": "베르티는 지난 5일부터 7일까지 호주 멜버른 쇼그라운즈에서 열린 ‘2026 멜버른 한류박람회’(KBEE 2026)에서 티트리 성분을 활용한 스킨케어 제품을 선보였다.",
+  "events": [
+   {
+    "name": "2026 멜버른 한류박람회",
+    "start_date": "2026-11-05",
+    "end_date": "2026-11-07",
+    "place": "호주 멜버른 쇼그라운즈",
+    "quote": "베르티는 지난 5일부터 7일까지 호주 멜버른 쇼그라운즈에서 열린 ‘2026 멜버른 한류박람회’(KBEE 2026)에서 티트리 성분을 활용한 스킨케어 제품을 선보였다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "티트리",
+    "quote": "베르티는 지난 5일부터 7일까지 호주 멜버른 쇼그라운즈에서 열린 ‘2026 멜버른 한류박람회’(KBEE 2026)에서 티트리 성분을 활용한 스킨케어 제품을 선보였다."
+   },
+   {
+    "name": "자일리톨",
+    "quote": "베르티는 △ 티트리 자일리톨 워터젯 크림 △ 티트리 시카 리파이닝 패드 △ 티트리 비타민 부스팅 토너 등을 중심으로 제품의 주요 성분과 제형, 사용법을 소개했다."
+   },
+   {
+    "name": "시카",
+    "quote": "베르티는 △ 티트리 자일리톨 워터젯 크림 △ 티트리 시카 리파이닝 패드 △ 티트리 비타민 부스팅 토너 등을 중심으로 제품의 주요 성분과 제형, 사용법을 소개했다."
+   },
+   {
+    "name": "비타민",
+    "quote": "베르티는 △ 티트리 자일리톨 워터젯 크림 △ 티트리 시카 리파이닝 패드 △ 티트리 비타민 부스팅 토너 등을 중심으로 제품의 주요 성분과 제형, 사용법을 소개했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": true
+}

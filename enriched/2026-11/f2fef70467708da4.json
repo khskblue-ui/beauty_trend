@@ -1,0 +1,50 @@
+{
+ "doc_id": "f2fef70467708da4",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/coty-plans-to-axe-155-of-its-200,28498",
+ "title": "Coty plans to axe 155 of its 200 jobs in France, unions say",
+ "summary": "The US beauty and fragrance group Coty, whose brands include Marc Jacobs, Calvin Klein, Rimmel and Bourjois, among others, plans to cut 155 of its 200 jobs in France, union representatives told AFP on Friday, 6 November. The company confirmed that it had proposed an overhaul of its operating model in the country. The proposal, drawn up following a review of the company's operations, is part of “Coty's strategy to implement a simpler, more focused, and more sustainable organization,” a group... - Industry buzz",
+ "published_at": "2026-11-07T08:16:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "US"
+  ],
+  "brands": [
+   "Marc Jacobs",
+   "Calvin Klein",
+   "Rimmel",
+   "Bourjois"
+  ],
+  "companies": [
+   "Coty"
+  ],
+  "keywords": [
+   "구조조정",
+   "향료 사업 집중",
+   "인력 감축"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코티가 프랑스 사업의 운영 모델을 개편하며 인력 대부분을 줄이는 안을 제시했다.",
+  "key_fact_quote": "The company confirmed that it had proposed an overhaul of its operating model in the country.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": true
+}

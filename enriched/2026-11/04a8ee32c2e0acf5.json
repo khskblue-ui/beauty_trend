@@ -1,0 +1,54 @@
+{
+ "doc_id": "04a8ee32c2e0acf5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.lecturernews.com/news/articleView.html?idxno=213408",
+ "title": "K뷰티 열풍에 서울 도심 '뷰티 약국' 확산…외국인 관광객 발길 이어져",
+ "summary": "성분을 화장품 제조에 접목하면서 약국 유통 제품의 영역이 확대되고 있기 때문이다. 대표적으로 상처 치료제 마데카솔을 생산하는 동국제약은 핵심 성분을 활용한 더마 코스메틱 브랜드 '센텔리안24'를 2015년 출시 해...",
+ "published_at": "2026-11-08T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "뷰티 약국",
+   "더마 코스메틱",
+   "외국인 관광객"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "센텔리안24",
+    "brand": "동국제약",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "대표적으로 상처 치료제 마데카솔을 생산하는 동국제약은 핵심 성분을 활용한 더마 코스메틱 브랜드 '센텔리안24'를 2015년 출시 해...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "제약사가 핵심 성분을 화장품에 접목하면서 약국 유통 제품의 영역이 넓어지고 있다.",
+  "key_fact_quote": "성분을 화장품 제조에 접목하면서 약국 유통 제품의 영역이 확대되고 있기 때문이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

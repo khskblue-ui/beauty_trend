@@ -1,0 +1,44 @@
+{
+ "doc_id": "de04fe8b353dd046",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312715",
+ "title": "China's Tmall Korea Pavilion Cushion Market Grows as Competition Broadens",
+ "summary": "China\\'s Tmall Korea Pavilion cushion foundation market continued to grow in October 2026, driven by resilient demand for Korean beauty products and rising sales from a broader range of brands.According to Beauty Economy\\'s analysis, total sales volume of the Top 10 cushion products reached 133,000 un",
+ "published_at": "2026-11-08T11:15:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "쿠션 파운데이션",
+   "프리미엄화",
+   "티몰 한국관",
+   "시장 집중도 완화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "티몰 한국관 쿠션 시장이 커지는 가운데 상위 브랜드 집중도는 낮아지고 있다.",
+  "key_fact_quote": "While the market leader maintained its dominant position, growth among premium and mid-tier competitors reduced overall market concentration, signaling a more competitive landscape.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": true
+}

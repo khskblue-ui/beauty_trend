@@ -1,0 +1,56 @@
+{
+ "doc_id": "0d3cd799e56402e6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bizwnews.com/news/articleView.html?idxno=151248",
+ "title": "아모레퍼시픽 '에이피 뷰티', 듀얼 리페어 리프트 M.D. 크림 미스트 출시",
+ "summary": "라인의 신제품 '듀얼 리페어 리프트 M.D. 크림 미스트'를 최근 출시했다고 밝혔다. 사진=아모레퍼시픽... 라인은 화장품 으로 구현하기 어려웠던 피부 특수관리 성분과 기술을 접목한 제품군이다. 일상적인 피부 관리뿐...",
+ "published_at": "2026-11-09T01:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이피 뷰티"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "크림 미스트",
+   "스킨케어 신제품",
+   "더마 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "듀얼 리페어 리프트 M.D. 크림 미스트",
+    "brand": "에이피 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "라인의 신제품 '듀얼 리페어 리프트 M.D. 크림 미스트'를 최근 출시했다고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아모레퍼시픽 에이피 뷰티가 크림 미스트 신제품을 출시했다.",
+  "key_fact_quote": "라인의 신제품 '듀얼 리페어 리프트 M.D. 크림 미스트'를 최근 출시했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

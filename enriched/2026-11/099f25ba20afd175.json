@@ -1,0 +1,45 @@
+{
+ "doc_id": "099f25ba20afd175",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/general-industry/6340303",
+ "title": "\" 화장품 넘어 호텔 메뉴까지\"…달바글로벌, 日 특급호텔 이색 공략",
+ "summary": "상품을 출시 하는 등 화장품 을 일상생활 속에서 접할 수 있는 기회를 넓혀왔다. 이번 호텔 협업은 이러한 라이프스타일 마케팅을 고급 숙박·미식 분야로 확장한 사례다. 단기간 제품을 체험하는 팝업스토어와 달리 호텔...",
+ "published_at": "2026-11-08T06:35:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "달바글로벌"
+  ],
+  "keywords": [
+   "호텔 협업",
+   "라이프스타일 마케팅",
+   "일본 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "달바글로벌이 일본 특급호텔과 협업해 라이프스타일 마케팅을 고급 숙박과 미식 분야로 넓혔다.",
+  "key_fact_quote": "이번 호텔 협업은 이러한 라이프스타일 마케팅을 고급 숙박·미식 분야로 확장한 사례다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

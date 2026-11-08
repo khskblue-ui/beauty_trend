@@ -1,0 +1,84 @@
+{
+ "doc_id": "7bd52205dfc82c27",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53900",
+ "title": "피지오겔 ‘Moments of Comfort’ 홀리데이 에디션",
+ "summary": "LG생활건강의 더마톨로지컬 뷰티 브랜드 피지오겔(PHYSIOGEL)이 연말을 맞아 일러스트레이터 이이오 작가와 협업한 홀리데이 한정판 기획세트 4종을 선보였다. 이번 에디션은 ‘Moments of Comfort’(피부가 가장 편안해지는 순간)를 주제로 춥고 건조한 겨울철 피부에 포근한 안식처를 제공…",
+ "published_at": "2026-11-08T17:26:33+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피지오겔"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "홀리데이 에디션",
+   "겨울 보습",
+   "피부 장벽 케어",
+   "한정판 기획세트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "DMT 페이셜 크림 홀리데이 기획세트",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "LG생활건강의 더마톨로지컬 뷰티 브랜드 피지오겔(PHYSIOGEL)이 연말을 맞아 일러스트레이터 이이오 작가와 협업한 홀리데이 한정판 기획세트 4종을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "DMT 에센스 인 토너 홀리데이 기획세트",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "LG생활건강의 더마톨로지컬 뷰티 브랜드 피지오겔(PHYSIOGEL)이 연말을 맞아 일러스트레이터 이이오 작가와 협업한 홀리데이 한정판 기획세트 4종을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "DMT 핸드크림 더블 홀리데이 기획세트",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "LG생활건강의 더마톨로지컬 뷰티 브랜드 피지오겔(PHYSIOGEL)이 연말을 맞아 일러스트레이터 이이오 작가와 협업한 홀리데이 한정판 기획세트 4종을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "DMT 마일드 립밤 더블 홀리데이 기획세트",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "LG생활건강의 더마톨로지컬 뷰티 브랜드 피지오겔(PHYSIOGEL)이 연말을 맞아 일러스트레이터 이이오 작가와 협업한 홀리데이 한정판 기획세트 4종을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "피지오겔이 연말을 맞아 일러스트레이터와 협업한 홀리데이 한정판 기획세트를 선보였다.",
+  "key_fact_quote": "LG생활건강의 더마톨로지컬 뷰티 브랜드 피지오겔(PHYSIOGEL)이 연말을 맞아 일러스트레이터 이이오 작가와 협업한 홀리데이 한정판 기획세트 4종을 선보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": true
+}

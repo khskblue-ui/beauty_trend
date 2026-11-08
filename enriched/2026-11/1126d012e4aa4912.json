@@ -1,0 +1,53 @@
+{
+ "doc_id": "1126d012e4aa4912",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/distribution/6346684",
+ "title": "현대百, K패션· 뷰티 브랜드 13곳과 멜버른 한류박람회 참가",
+ "summary": "현대백화점(069960)은 지난 6~7일 호주 멜버른 쇼그라운즈에서 진행된 ‘2026 멜버른 한류박람회'에 K패션· 뷰티 ... K브랜드 수출 기회 확대를 돕기 위해 마련된 행사로, 국내 소비재 기업 100여 곳이 참여했다. 현대백화점은...",
+ "published_at": "2026-11-08T11:21:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "AU",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "현대백화점"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "해외 박람회",
+   "한류박람회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "현대백화점이 K패션·뷰티 브랜드와 함께 멜버른 한류박람회에 참가했다.",
+  "key_fact_quote": "현대백화점(069960)은 지난 6~7일 호주 멜버른 쇼그라운즈에서 진행된 ‘2026 멜버른 한류박람회'에",
+  "events": [
+   {
+    "name": "2026 멜버른 한류박람회",
+    "start_date": "2026-11-06",
+    "end_date": "2026-11-07",
+    "place": "호주 멜버른 쇼그라운즈",
+    "quote": "현대백화점(069960)은 지난 6~7일 호주 멜버른 쇼그라운즈에서 진행된 ‘2026 멜버른 한류박람회'에"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

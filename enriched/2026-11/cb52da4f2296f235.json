@@ -1,0 +1,53 @@
+{
+ "doc_id": "cb52da4f2296f235",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312719",
+ "title": "2026 광군제 공식 변화…할인보다 제품력·운영력 경쟁",
+ "summary": "중국 최대 쇼핑 행사인 광군제(双十一)의 경쟁 공식이 바뀌고 있다.과거 광군제는 대규모 할인과 왕홍(인플루언서) 라이브커머스를 통해 거래액(GMV)을 극대화했다. 올해는 소비자 행동부터 브랜드 전략까지 전반적인 변화가 감지되면서, 시장의 관심도 \\'얼마나 많이 팔았는가\\'에서 \\'왜 선택받았는가\\'로 이동하는 모습이다.티몰 광군제는 지난 10월 20일 본판매 개시 4시간 만에 124개 브랜드의 거래액이 1억 위안을 돌파했고, 2만7681개 브랜드가 지난해 첫날 실적을 넘어서며 소비 열기는 여전히 견조하다.하지만 소비를 만들어내는 방식은 달",
+ "published_at": "2026-11-08T12:32:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [
+   "한슈"
+  ],
+  "companies": [],
+  "keywords": [
+   "광군제",
+   "신제품 경쟁",
+   "라이브커머스",
+   "포트폴리오 전략"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "광군제 경쟁 공식이 할인에서 신제품과 브랜드 운영력으로 바뀌고 있다.",
+  "key_fact_quote": "2026 광군제는 할인 경쟁보다 신제품과 브랜드 경쟁력이 성과를 좌우하는 무대로 변화하고 있다.",
+  "events": [
+   {
+    "name": "티몰 광군제",
+    "start_date": "2026-10-20",
+    "end_date": null,
+    "place": null,
+    "quote": "티몰 광군제는 지난 10월 20일 본판매 개시 4시간 만에 124개 브랜드의 거래액이 1억 위안을 돌파했고, 2만7681개 브랜드가 지난해 첫날 실적을 넘어서며 소비 열기는 여전히 견조하다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": true
+}

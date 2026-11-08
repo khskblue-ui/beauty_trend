@@ -1,0 +1,45 @@
+{
+ "doc_id": "0643a7710d8cac9c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://thetracker.co.kr/View.aspx?No=4302598",
+ "title": "한국콜마, 호주서 K뷰티 알렸다...68억 수출 상담",
+ "summary": "150여건의 수출 상담을 진행했다. 이는 박람회 전체 상담 건수의 10% 이상을 차지하는 규모다. 상담액은 약 68억원으로 추산됐다. 한국콜마 부스에는 선크림을 비롯해 에센스, 크림, 마스크팩 등 대표적인 K - 뷰티 제품이...",
+ "published_at": "2026-11-08T16:17:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "AU",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "해외 박람회",
+   "ODM 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국콜마가 고객사와 호주 박람회에서 수출 상담을 진행했다.",
+  "key_fact_quote": "150여건의 수출 상담을 진행했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

@@ -1,0 +1,93 @@
+{
+ "doc_id": "b92c8ebea97e0c04",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/sensotrue-dm5-givaudan-s-bio-based,28493",
+ "title": "SensoTrue DM5, Givaudan's bio-based alternative to DM5 silicone in hair care",
+ "summary": "Givaudan Active Beauty has just unveiled a new bio-based emollient developed through a combination of white biotechnology and green chemistry as an alternative to 5 cSt dimethicone (DM5 silicone). Designed to move with the hair rather than coat it, SensoTrue DM5 enables hair care formulations that deliver a responsive feel and lightweight performance. According to Givaudan Active Beauty, SensoTrue DM5 pairs premium sensory performance with a significantly improved environmental profile,... - Ingredients & formulation",
+ "published_at": "2026-11-07T08:53:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Givaudan Active Beauty"
+  ],
+  "keywords": [
+   "바이오 기반 원료",
+   "실리콘 대체",
+   "헤어케어 에모리언트",
+   "지속가능 처방"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "SensoTrue DM5",
+    "brand": "Givaudan Active Beauty",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Givaudan Active Beauty has just unveiled a new bio-based emollient developed through a combination of white biotechnology and green chemistry as an alternative to 5 cSt dimethicone (DM5 silicone).",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Live Definition",
+    "brand": "Givaudan Active Beauty",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Bare Texture",
+    "brand": "Givaudan Active Beauty",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Pure Shine",
+    "brand": "Givaudan Active Beauty",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "지보당 액티브 뷰티가 실리콘을 대신할 바이오 기반 에모리언트를 공개했다.",
+  "key_fact_quote": "Givaudan Active Beauty has just unveiled a new bio-based emollient developed through a combination of white biotechnology and green chemistry as an alternative to 5 cSt dimethicone (DM5 silicone).",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "5 cSt dimethicone",
+    "quote": "Givaudan Active Beauty has just unveiled a new bio-based emollient developed through a combination of white biotechnology and green chemistry as an alternative to 5 cSt dimethicone (DM5 silicone)."
+   },
+   {
+    "name": "sugarcane",
+    "quote": "Givaudan Active Beauty has brought this approach to life with an emollient complex made from renewable sugarcane and upcycled pine terpenes ."
+   },
+   {
+    "name": "pine terpenes",
+    "quote": "Givaudan Active Beauty has brought this approach to life with an emollient complex made from renewable sugarcane and upcycled pine terpenes ."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": true
+}

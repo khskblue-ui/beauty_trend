@@ -1,0 +1,55 @@
+{
+ "doc_id": "32fe55ae0339ac59",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53902",
+ "title": "대한화장품산업연구원, 美·EU 화장품 규제 대응 세미나",
+ "summary": "대한화장품산업연구원(원장 조신행· www.kcii.re.kr ·이하 화산연)이 오는 18일(수) 오후 1시부터 4시 30분까지 서울 스페이스쉐어 강남센터 쥬피터홀에서 ‘제 6차 2026년 글로벌 화장품 규제 동향 세미나’를 연다. 이번 세미나는 국내 화장품 기업의 주요 수출시장 미국·유럽연합(EU)의 화장품 규…",
+ "published_at": "2026-11-08T17:56:19+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원",
+   "UL솔루션즈"
+  ],
+  "keywords": [
+   "화장품 규제",
+   "MoCRA",
+   "수출 규제 대응",
+   "CPNP"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대한화장품산업연구원이 미국과 EU의 화장품 규제 변화를 다루는 세미나를 연다.",
+  "key_fact_quote": "대한화장품산업연구원(원장 조신행· www.kcii.re.kr ·이하 화산연)이 오는 18일(수) 오후 1시부터 4시 30분까지 서울 스페이스쉐어 강남센터 쥬피터홀에서 ‘제 6차 2026년 글로벌 화장품 규제 동향 세미나’ 를 연다.",
+  "events": [
+   {
+    "name": "제 6차 2026년 글로벌 화장품 규제 동향 세미나",
+    "start_date": "2026-11-18",
+    "end_date": null,
+    "place": "서울 스페이스쉐어 강남센터 쥬피터홀",
+    "quote": "대한화장품산업연구원(원장 조신행· www.kcii.re.kr ·이하 화산연)이 오는 18일(수) 오후 1시부터 4시 30분까지 서울 스페이스쉐어 강남센터 쥬피터홀에서 ‘제 6차 2026년 글로벌 화장품 규제 동향 세미나’ 를 연다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": true
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "a5235459c9d9a89e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.k-health.com/news/articleView.html?idxno=102079",
+ "title": "호주 멜버른 물들인 ' K - 뷰티 '…한국콜마, 고객사 6곳과 한류박람회 참가",
+ "summary": "넓히고 K - 뷰티 의 글로벌 진출을 적극 지원하겠다\"고 말했다. Q1. 한국콜마가 이번 멜버른 한류박람회에서 거둔 주요 성과는 무엇인가요? 한국콜마는 고객사 6곳과 함께 총 150여 건의 수출 상담을 진행했으며 상담액은 약...",
+ "published_at": "2026-11-08T11:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "AU",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "해외 박람회",
+   "ODM 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "45ce50b34e640a3b",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

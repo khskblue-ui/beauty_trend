@@ -1,0 +1,45 @@
+{
+ "doc_id": "913e81689eaf90f1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.nocutnews.co.kr/news/6603622?utm_source=naver&utm_medium=article&utm_campaign=20261108114521",
+ "title": "호주도 반한 K - 뷰티 …한국콜마, 한류박람회서 68억원 규모 수출 상담",
+ "summary": "한국콜마가 호주에서 열린 한류박람회에서 고객사들과 함께 약 68억원 규모의 수출 상담 실적을 거뒀다.... 한국콜마 관계자는 \"이번 박람회를 통해 고객사와 함께 K - 뷰티 제품의 경쟁력을 현지 바이어와 소비자에게...",
+ "published_at": "2026-11-08T11:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "AU",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "해외 박람회",
+   "ODM 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국콜마가 고객사와 호주 박람회에서 수출 상담을 진행했다.",
+  "key_fact_quote": "한국콜마가 호주에서 열린 한류박람회에서 고객사들과 함께 약 68억원 규모의 수출 상담 실적을 거뒀다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

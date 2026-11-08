@@ -1,0 +1,45 @@
+{
+ "doc_id": "8fa5bd4bc45a5197",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.edaily.co.kr/News/Read?newsId=01400566645643752&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+ "title": "\"호주서도 K뷰티 인기\"…해외 판로 넓히는 한국콜마",
+ "summary": "약 110개 기업이 참가한 박람회에서 한국콜마와 고객사들은 총 150여건의 수출 상담을 진행했다. 이는 박람회... 한국콜마 관계자는 “이번 박람회는 고객사와 함께 K - 뷰티 제품의 경쟁력을 현지 바이어와 소비자에게...",
+ "published_at": "2026-11-08T11:03:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "AU"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "호주 시장",
+   "한류박람회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국콜마와 고객사가 호주 박람회에서 다수의 수출 상담을 진행했다.",
+  "key_fact_quote": "약 110개 기업이 참가한 박람회에서 한국콜마와 고객사들은 총 150여건의 수출 상담을 진행했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

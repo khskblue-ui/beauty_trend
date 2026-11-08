@@ -1,0 +1,45 @@
+{
+ "doc_id": "45ce50b34e640a3b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7192761",
+ "title": "한국콜마, 고객사 6곳과 호주 멜버른 한류박람회 참가… K뷰티 알렸다",
+ "summary": "박람회에는 약 110개 기업이 참여했으며, 한국콜마와 고객사들은 총 150여 건의 수출 상담을 진행했다. 이는 전체 상담 건수의 10% 이상을 차지하는 규모다. 행사장 메인 출입구 앞에 마련된 K뷰티 전시관에는 현지...",
+ "published_at": "2026-11-08T11:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "AU",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "해외 박람회",
+   "ODM 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국콜마가 고객사와 호주 박람회에서 수출 상담을 진행했다.",
+  "key_fact_quote": "박람회에는 약 110개 기업이 참여했으며, 한국콜마와 고객사들은 총 150여 건의 수출 상담을 진행했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

@@ -1,0 +1,54 @@
+{
+ "doc_id": "53e1ebc502cdbd1f",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53903",
+ "title": "코이코, 태국 COSMEX 한국관 성공 마무리!",
+ "summary": "(주)코이코(KOECO·대표 조완수)가 태국 방콕에서 열린 ‘COSMEX 2026’(11월 3일~5일)에 한국관을 구성·운영하며 국내 화장품 기업들의 아세안 시장 진출을 지원했다. 코이코는 태국 방콕 국제무역전시센터(BITEC)에서 개최한 이번 박람회에 스킨케어·색조·원료·용기·패키징 분야 국내 기…",
+ "published_at": "2026-11-08T18:28:21+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "TH",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코이코"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "아세안 시장",
+   "B2B 뷰티 전시회",
+   "더마코스메틱"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코이코가 태국 화장품 박람회에 한국관을 꾸려 국내 기업의 아세안 진출을 지원했다.",
+  "key_fact_quote": "(주)코이코(KOECO·대표 조완수) 가 태국 방콕에서 열린 ‘COSMEX 2026’ (11월 3일~5일)에 한국관을 구성·운영하며 국내 화장품 기업들의 아세안 시장 진출을 지원 했다.",
+  "events": [
+   {
+    "name": "COSMEX 2026",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-05",
+    "place": "태국 방콕 국제무역전시센터(BITEC)",
+    "quote": "(주)코이코(KOECO·대표 조완수) 가 태국 방콕에서 열린 ‘COSMEX 2026’ (11월 3일~5일)에 한국관을 구성·운영하며 국내 화장품 기업들의 아세안 시장 진출을 지원 했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": true
+}

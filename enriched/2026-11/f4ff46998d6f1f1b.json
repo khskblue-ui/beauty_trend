@@ -1,0 +1,41 @@
+{
+ "doc_id": "f4ff46998d6f1f1b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.osen.co.kr/article/G1112907005",
+ "title": "‘47세’ 강예원, 화장품 CEO 되더니..주름 하나 없는 ‘동안 미모’",
+ "summary": "K 뷰티 아이콘 대상을 받게 되었습니다”라는 글과 함께 여러 장의 사진을 게재했다. 또 강예원은 “이틀... 한편, 강예원은 배우 활동과 더불어 화장품 브랜드 론칭 과 인플루언서 커머스, 중국 진출까지 추진하며...",
+ "published_at": "2026-11-09T04:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "연예인 화장품 브랜드",
+   "인플루언서 커머스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배우 강예원이 화장품 브랜드를 론칭하고 중국 진출까지 추진하고 있다.",
+  "key_fact_quote": "한편, 강예원은 배우 활동과 더불어 화장품 브랜드 론칭 과 인플루언서 커머스, 중국 진출까지 추진하며...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

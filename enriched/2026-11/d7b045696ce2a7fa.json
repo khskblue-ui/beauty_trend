@@ -1,0 +1,45 @@
+{
+ "doc_id": "d7b045696ce2a7fa",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065579205761243",
+ "title": "한국콜마, K - 뷰티 열풍 타고 호주 공략…고객사 6곳과 수출 판로 확대",
+ "summary": "150여건의 수출 상담을 진행했다. 전체 상담 건수의 10% 이상을 차지하는 규모다. 상담액은 약 68억원으로 추산됐다. 현지 소비자와 바이어들의 관심도 이어졌다. 행사장 메인 출입구 앞에 마련된 K - 뷰티 전시관에는...",
+ "published_at": "2026-11-08T11:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "AU",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "해외 박람회",
+   "ODM 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국콜마가 고객사와 호주 박람회에서 수출 상담을 진행했다.",
+  "key_fact_quote": "150여건의 수출 상담을 진행했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

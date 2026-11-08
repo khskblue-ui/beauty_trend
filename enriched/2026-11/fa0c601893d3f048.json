@@ -1,0 +1,49 @@
+{
+ "doc_id": "fa0c601893d3f048",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902311",
+ "title": "한국콜마, 호주서 K - 뷰티 판로 확대… 수출 상담액 68억",
+ "summary": "규모의 수출 상담을 진행하며 현지 판로 확대에 나섰다. 8일 한국콜마는 호주 멜버른 쇼그라운즈에서 열린 '2026 멜버른 한류박람회'에 참가해 150여 건의 수출 상담을 진행했다고 밝혔다. 올해 28회째를 맞은...",
+ "published_at": "2026-11-08T11:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "AU"
+  ],
+  "brands": [
+   "라운드랩",
+   "믹순"
+  ],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "호주 시장",
+   "한류박람회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "29e16c350a978c08",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

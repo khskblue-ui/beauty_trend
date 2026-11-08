@@ -1,0 +1,49 @@
+{
+ "doc_id": "3908f42726ab462c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=107692",
+ "title": "한국콜마, 호주서 68억원 규모 수출 상담... K뷰티 고객사 판로 확대",
+ "summary": "다만 상담액은 실제 수출 계약이나 매출로 확정된 금액과는 구분된다. 호주는 최근 K뷰티 의 주요 성장 시장으로 부상하고 있다. 대한무역투자진흥공사(코트라)에 따르면 지난해 호주의 한국산 기초화장품 수입액은...",
+ "published_at": "2026-11-08T13:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "AU"
+  ],
+  "brands": [
+   "라운드랩",
+   "믹순"
+  ],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "호주 시장",
+   "한류박람회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "29e16c350a978c08",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

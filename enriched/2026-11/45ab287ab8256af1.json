@@ -1,0 +1,47 @@
+{
+ "doc_id": "45ab287ab8256af1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1422698",
+ "title": "\"얼굴 넘어 입술·손·발까지\"…뷰티업계, 겨울 보습 경쟁 본격화",
+ "summary": "8일 업계에 따르면 아모레퍼시픽과 LG생활건강 등 주요 화장품 기업들은 최근 고보습 기능을 강화하거나 사용 부위와 목적을 세분화한 신제품 을 잇달아 출시하고 있다. 아모레퍼시픽은 지난 4일 더마 브랜드 에스트라를...",
+ "published_at": "2026-11-08T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에스트라"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "LG생활건강"
+  ],
+  "keywords": [
+   "겨울 보습",
+   "고보습 제품",
+   "부위별 케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티업계가 겨울을 맞아 보습 신제품 경쟁에 들어갔다.",
+  "key_fact_quote": "8일 업계에 따르면 아모레퍼시픽과 LG생활건강 등 주요 화장품 기업들은 최근 고보습 기능을 강화하거나 사용 부위와 목적을 세분화한 신제품 을 잇달아 출시하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}

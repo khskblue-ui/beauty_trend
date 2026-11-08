@@ -1,0 +1,43 @@
+{
+ "doc_id": "e5bca3fa94f85d63",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261107_0003858707",
+ "title": "트럼프 관세 제동?…복잡해진 K -푸드· 뷰티 대미 수출 ·투자 전략[블루...",
+ "summary": "K -푸드와 K - 뷰티 기업들은 이미 미국 시장에서 성장 가능성이 입증된 현재의 성장세가 유지될 수 있도록 수출 및 투자 전략을 재점검하며 미국의 정책 방향을 예의주시하는 모습이다. 산업통상부가 발표한 '2026년 10월...",
+ "published_at": "2026-11-08T13:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "대미 수출",
+   "관세",
+   "K-뷰티 수출 전략"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K푸드와 K뷰티 기업이 미국의 정책 방향을 지켜보며 수출과 투자 전략을 다시 점검하고 있다.",
+  "key_fact_quote": "K -푸드와 K - 뷰티 기업들은 이미 미국 시장에서 성장 가능성이 입증된 현재의 성장세가 유지될 수 있도록 수출 및 투자 전략을 재점검하며 미국의 정책 방향을 예의주시하는 모습이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-08T21:30:52+00:00",
+ "had_body": false
+}
