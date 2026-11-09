@@ -1,0 +1,54 @@
+{
+ "doc_id": "34d7691a82e61da2",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53914",
+ "title": "글로우데이즈, ‘K-뷰티 일본 진출 세미나’",
+ "summary": "글로우데이즈(대표 공준식)가 25일(수) 오전 10시부터 서울 스파크플러스 선릉3호점 이벤트홀에서 ‘K-뷰티 일본 진출 세미나’를 개최한다. 이번 세미나는 일본 앳코스메를 운영하는 아이스타일과 공동 개최한다. 야마미치 카코(Yamamichi Kako) 아이스타일 브랜드 전략 매니저와 공준식 글로우…",
+ "published_at": "2026-11-09T18:24:10+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "글로우데이즈",
+   "아이스타일"
+  ],
+  "keywords": [
+   "K-뷰티 일본 진출",
+   "일본 시장 마케팅",
+   "채널별 전략"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "글로우데이즈가 아이스타일과 함께 K-뷰티 일본 진출 세미나를 연다",
+  "key_fact_quote": "글로우데이즈(대표 공준식)가 25일(수) 오전 10시부터 서울 스파크플러스 선릉3호점 이벤트홀에서 ‘K-뷰티 일본 진출 세미나’를 개최한다.",
+  "events": [
+   {
+    "name": "K-뷰티 일본 진출 세미나",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "place": "서울 스파크플러스 선릉3호점 이벤트홀",
+    "quote": "글로우데이즈(대표 공준식)가 25일(수) 오전 10시부터 서울 스파크플러스 선릉3호점 이벤트홀에서 ‘K-뷰티 일본 진출 세미나’를 개최한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

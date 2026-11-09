@@ -1,0 +1,56 @@
+{
+ "doc_id": "f1f60d0cf0f42048",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312740",
+ "title": "China's Singles' Day Is No Longer Just About Discounts",
+ "summary": "China\\'s annual Singles\\' Day shopping festival, known as Double 11, has long been defined by deep discounts, influencer-driven livestreaming and record-breaking gross merchandise value (GMV). This year, however, a more significant shift is emerging across the world\\'s largest e-commerce event.While sa",
+ "published_at": "2026-11-09T13:49:59+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [
+   "Hanshu"
+  ],
+  "companies": [
+   "Tmall",
+   "Hanshu"
+  ],
+  "keywords": [
+   "광군제",
+   "신제품 경쟁",
+   "인플루언서 커머스",
+   "니치 카테고리"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "광군제가 할인 경쟁에서 제품 혁신과 브랜드 경쟁력을 겨루는 자리로 바뀌고 있다.",
+  "key_fact_quote": "Singles' Day 2026 is shifting from a discount-driven sales event to a showcase of product innovation and brand strength.",
+  "events": [
+   {
+    "name": "Singles' Day",
+    "start_date": "2026-10-20",
+    "end_date": null,
+    "place": null,
+    "quote": "According to Tmall, 124 brands surpassed 100 million yuan ($13.8 million) in sales within four hours of the official sales launch on Oct. 20, while more than 27,000 brands exceeded their first-day performance from a year earlier."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

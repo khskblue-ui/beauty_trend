@@ -1,0 +1,58 @@
+{
+ "doc_id": "bef633a12a49a7e5",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312739",
+ "title": "Why Chanel Is Investing More Heavily in South Korea's Luxury Market",
+ "summary": "Luxury fashion and beauty house Chanel is expanding its presence in South Korea through a series of immersive holiday-themed activations, underscoring the country\\'s growing strategic importance in the global luxury market.The French luxury brand has launched two major experiential marketing initiati",
+ "published_at": "2026-11-09T13:44:27+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "Chanel",
+   "Dior",
+   "Louis Vuitton",
+   "Gucci"
+  ],
+  "companies": [
+   "Lotte Duty Free"
+  ],
+  "keywords": [
+   "경험형 리테일",
+   "팝업 스토어",
+   "면세 채널"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "샤넬이 한국에서 홀리데이 팝업과 공항 면세 행사를 열어 소비자 접점을 넓힌다.",
+  "key_fact_quote": "Luxury fashion and beauty house Chanel is expanding its presence in South Korea through a series of immersive holiday-themed activations",
+  "events": [
+   {
+    "name": "Chanel Holiday Pop-up",
+    "start_date": "2026-11-21",
+    "end_date": "2026-12-31",
+    "place": "Seongsu",
+    "quote": "The Seoul pop-up, running from Nov. 21 to Dec. 31, transforms Seongsu, often referred to as Seoul's cultural and retail hotspot, into a holiday destination inspired by Chanel's seasonal universe."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

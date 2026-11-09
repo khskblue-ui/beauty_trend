@@ -1,0 +1,51 @@
+{
+ "doc_id": "6eba3ffeec84e94d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202610216290i",
+ "title": "그냥 가벼운 향수 아니에요? 황제가 사랑한 '코롱'의 비밀 [김태형의 향...",
+ "summary": "향료 원액이 가장 높은 함량으로 사용된 퍼퓸(Parfum)부터 오 드 퍼퓸(Eau de Parfum), 오 드 뚜왈렛(Eau de... 동방의 향료 를 실은 배들이 드나들던 베네치아에는 사향(Musk)과 용연향(Ambre Gris), 그리고 갖가지 향신료가...",
+ "published_at": "2026-11-09T09:37:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "IT"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "코롱",
+   "향수 역사",
+   "향료 원료"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "향수는 향료 원액의 함량에 따라 퍼퓸, 오 드 퍼퓸, 오 드 뚜왈렛 등으로 나뉜다",
+  "key_fact_quote": "향료 원액이 가장 높은 함량으로 사용된 퍼퓸(Parfum)부터 오 드 퍼퓸(Eau de Parfum), 오 드 뚜왈렛(Eau de...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "사향(Musk)",
+    "quote": "동방의 향료 를 실은 배들이 드나들던 베네치아에는 사향(Musk)과 용연향(Ambre Gris), 그리고 갖가지 향신료가..."
+   },
+   {
+    "name": "용연향(Ambre Gris)",
+    "quote": "동방의 향료 를 실은 배들이 드나들던 베네치아에는 사향(Musk)과 용연향(Ambre Gris), 그리고 갖가지 향신료가..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

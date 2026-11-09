@@ -1,0 +1,43 @@
+{
+ "doc_id": "8650d0f5a615b458",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.widedaily.com/news/articleView.html?idxno=303118",
+ "title": "3년간 수출 6배 뛴 브라질 잡는다…식약처, ' K뷰티 ' 민관 진출지원단 파...",
+ "summary": "특히 K - 뷰티 를 향한 현지 소비자들의 관심이 빠르게 확대되면서, 대(對)브라질 화장품 수출 액은 최근 3년간 6배에 달하는 가파른 성장세를 기록했다. 식약처는 이번 파견을 계기로 그간 다져온 양국 간 규제 외교 성과를...",
+ "published_at": "2026-11-09T14:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "BR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "브라질 진출",
+   "민관 진출지원단"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "브라질에서 K뷰티 관심이 커지며 화장품 수출이 가파르게 늘었다.",
+  "key_fact_quote": "특히 K - 뷰티 를 향한 현지 소비자들의 관심이 빠르게 확대되면서, 대(對)브라질 화장품 수출 액은 최근 3년간 6배에 달하는 가파른 성장세를 기록했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

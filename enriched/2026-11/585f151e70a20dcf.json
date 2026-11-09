@@ -1,0 +1,47 @@
+{
+ "doc_id": "585f151e70a20dcf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611071057240440049",
+ "title": "[부산ㆍ경남 대학 브리핑 모음(11월9일)] 경상국립대, 난민 당사자 초청...",
+ "summary": "◆ 동의대 김진우 학생, 국제학술지에 연구논문 게재 ‘향기 마이크로캡슐 개발… 향료 잔존율 69.7... 높은 향료 를 고분자 외벽으로 감싸 향기 지속성을 높이는 기술을 다뤘다. 연구팀은 일랑일랑 향료 를 중심...",
+ "published_at": "2026-11-09T09:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "향기 마이크로캡슐",
+   "향료 잔존율",
+   "향기 지속성"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "동의대 학생이 향료를 고분자 외벽으로 감싸 향기 지속성을 높이는 마이크로캡슐 기술을 연구했다.",
+  "key_fact_quote": "높은 향료 를 고분자 외벽으로 감싸 향기 지속성을 높이는 기술을 다뤘다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "일랑일랑 향료",
+    "quote": "연구팀은 일랑일랑 향료 를 중심"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

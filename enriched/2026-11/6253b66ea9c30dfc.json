@@ -1,0 +1,46 @@
+{
+ "doc_id": "6253b66ea9c30dfc",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100416",
+ "title": "CJ올리브영, 내년 상반기까지 美 5개점 추가 출점",
+ "summary": "올리브영이 성공적인 미국 시장 안착에 힘입어 오프라인 매장 확대에 속도를 낸다.CJ올리브영(이하 올리브영)은 2027년 상반기까지 미국 캘리포니아주에 5개 매장을 추가 출점해 총 7개점까지 빠르게 확대할 예정이라고 9일 밝혔다.신규 매장은 미국 서부의 문화, 유행, 소비를 주도하는 LA 광역권과 캘리포니아 남부 최대 상권인 샌디에이고 대표 상권에 들어선다. 구체적으로 LA 광역권에서는 ▲어바인의 대표 라이프스타일 쇼핑센터 ‘스펙트럼센터(Spectrum Center)‘를 시작으로 ▲사우스베이 핵심 상권에 소재한 ‘델아모 패션센터(De",
+ "published_at": "2026-11-09T10:32:39+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영",
+   "사이먼프로퍼티그룹"
+  ],
+  "keywords": [
+   "오프라인 매장",
+   "K-뷰티 미국 진출",
+   "신진 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "올리브영이 미국 캘리포니아주 매장을 추가로 연다.",
+  "key_fact_quote": "CJ올리브영(이하 올리브영)은 2027년 상반기까지 미국 캘리포니아주에 5개 매장을 추가 출점해 총 7개점까지 빠르게 확대할 예정이라고 9일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

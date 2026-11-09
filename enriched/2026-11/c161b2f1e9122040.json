@@ -1,0 +1,56 @@
+{
+ "doc_id": "c161b2f1e9122040",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://dealsite.co.kr/articles/172343",
+ "title": "[오늘의 유통가] CJ올리브영, 美 오프라인 매장 7개로 확대…K 뷰티 공략...",
+ "summary": "이를 통해 자체 유통망과 현지 인지도가 부족한 국내 중소·인디 뷰티 브랜드의 미국 시장 진출을... 신제품 ‘클라우드 레이어’ 라인의 일본 출시 를 앞두고 브랜드 인지도를 높이기 위해 마련한 행사로 대표...",
+ "published_at": "2026-11-09T13:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "JP",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "K-뷰티 미국 진출",
+   "오프라인 매장 확대",
+   "중소 인디 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "클라우드 레이어",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "신제품 ‘클라우드 레이어’ 라인의 일본 출시 를 앞두고 브랜드 인지도를 높이기 위해 마련한 행사로 대표...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "CJ올리브영이 미국 오프라인 매장을 늘려 국내 중소 인디 뷰티 브랜드의 미국 진출을 돕는다",
+  "key_fact_quote": "이를 통해 자체 유통망과 현지 인지도가 부족한 국내 중소·인디 뷰티 브랜드의 미국 시장 진출을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

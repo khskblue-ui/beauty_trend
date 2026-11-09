@@ -1,0 +1,61 @@
+{
+ "doc_id": "d5b739325d33d2fe",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/stabilo-and-kiko-turn-the-iconic,28499",
+ "title": "Stabilo and Kiko turn the iconic Boss Mini highlighter into a lip marker",
+ "summary": "Stabilo and Kiko Milano have joined forces to launch a limited-edition lip collection inspired by the design of the Stabilo Boss Mini highlighter. In a playful twist, the iconic highlighter swaps the pencil case for the make-up bag, bringing a fresh splash of colour to the beauty aisle. Launched on 5 November 2026, the Stabilo x Kiko Milano Lip Marker collection comprises five lip shades with playful names inspired by writing and personal expression: Fine Print, Afterthought, Don't Quote... - Industry buzz",
+ "published_at": "2026-11-09T06:04:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "FR",
+   "IT",
+   "ES",
+   "DE",
+   "GB"
+  ],
+  "brands": [
+   "Stabilo",
+   "Kiko Milano"
+  ],
+  "companies": [
+   "Schwan-Stabilo"
+  ],
+  "keywords": [
+   "브랜드 협업",
+   "립 마커",
+   "한정판 컬렉션"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Stabilo x Kiko Milano Lip Marker collection",
+    "brand": "Kiko Milano",
+    "launch_date": "2026-11-05",
+    "launch_status": "launched",
+    "launch_quote": "Launched on 5 November 2026, the Stabilo x Kiko Milano Lip Marker collection comprises five lip shades",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스타빌로와 키코 밀라노가 하이라이터에서 영감을 얻은 한정판 립 컬렉션을 출시했다",
+  "key_fact_quote": "Stabilo and Kiko Milano have joined forces to launch a limited-edition lip collection inspired by the design of the Stabilo Boss Mini highlighter.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "2abd789eb2612e1d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newspim.com/news/view/20261109000585",
+ "title": "신일전자, 갈바닉 뷰티 디바이스 출시 ...홈 뷰티 시장 진출",
+ "summary": "신일전자가 이번 뷰티 디바이스 출시 를 계기로 밝힌 향후 사업 및 라인업 운영 계획은 어떠한가요? A5. 이번 신제품 을 시작으로 소비자 반응과 홈 뷰티 시장 수요를 면밀히 분석한 후 뷰티 디바이스 제품군을 지속적으로...",
+ "published_at": "2026-11-09T11:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "신일전자"
+  ],
+  "companies": [
+   "신일전자"
+  ],
+  "keywords": [
+   "홈 뷰티",
+   "뷰티 디바이스",
+   "미세전류"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "a95b540135e885bb",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

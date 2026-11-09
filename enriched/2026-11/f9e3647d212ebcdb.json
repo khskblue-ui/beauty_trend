@@ -1,0 +1,45 @@
+{
+ "doc_id": "f9e3647d212ebcdb",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53911",
+ "title": "올리브영, 美 ‘2+5’ 출점 전략 시동",
+ "summary": "올리브영이 미국 매장 확대에 속도를 낸다. 올리브영은 2027년 상반기까지 미국 캘리포니아주에 매장 5곳을 새롭게 연다고 밝혔다. 올해 5월과 6월 개점한 패서디나점·센추리시티점을 포함해 총 7개점을 운영하며 현지 시장 경쟁력 강화에 나섰다. 신규 매장은 미국 서부의 문화와 유행을 주도하는 LA 광역…",
+ "published_at": "2026-11-09T17:45:43+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "K-뷰티 유통",
+   "미국 매장 확대",
+   "피부 진단 서비스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 미국 캘리포니아에 매장을 새로 열어 현지 사업을 넓힌다.",
+  "key_fact_quote": "올리브영은 2027년 상반기까지 미국 캘리포니아주에 매장 5곳을 새롭게 연다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

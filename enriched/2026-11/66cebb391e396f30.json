@@ -1,0 +1,46 @@
+{
+ "doc_id": "66cebb391e396f30",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53906",
+ "title": "크레이버코퍼레이션, 사내 AI 에이전트 도입",
+ "summary": "크레이버코퍼레이션이 AI 기반 업무 환경을 구축했다. 크레이버코퍼레이션(대표 전항일)은 사내 AI 에이전트를 도입했다고 밝혔다. AI 에이전트는 임직원이 질문하면 사내 데이터를 조회해 답변과 분석 결과를 제공한다. 매출·광고·물류 등 주요 사업 데이터를 자연어로 조회할 수 있다. 보고서 생성과 문서…",
+ "published_at": "2026-11-09T11:32:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "스킨1004"
+  ],
+  "companies": [
+   "크레이버코퍼레이션"
+  ],
+  "keywords": [
+   "사내 AI 에이전트",
+   "데이터 분석",
+   "글로벌 사업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "크레이버코퍼레이션이 사내 데이터를 자연어로 조회하는 AI 에이전트를 도입했다.",
+  "key_fact_quote": "크레이버코퍼레이션(대표 전항일)은 사내 AI 에이전트를 도입했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

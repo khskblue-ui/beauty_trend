@@ -1,0 +1,135 @@
+{
+ "doc_id": "475cfbea76e1ab8d",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/sustainable-beauty-awards-2026,28513",
+ "title": "Sustainable Beauty Awards 2026: Guerlain, Wella and Unilever among the winners",
+ "summary": "The winners of the 2026 Sustainable Beauty Awards were announced in Paris on 27 October, recognising innovations in sustainable beauty products, ingredients, packaging and responsible sourcing. Organised by Ecovia Intelligence, the awards presented Gold and Silver distinctions across six categories. In the New Sustainable Product category, Wella won Gold for Supernatural Color, a hair colour range containing over 90% ingredients of natural origin, with packaging designed for recyclability.... - Industry buzz",
+ "published_at": "2026-11-09T23:09:55+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Wella",
+   "O’right",
+   "Amika",
+   "Guerlain",
+   "TRESemmé"
+  ],
+  "companies": [
+   "Ecovia Intelligence",
+   "Kensing",
+   "Unilever",
+   "Hashem Brothers",
+   "Primavera Life",
+   "EcoBeautyScore Association",
+   "ADA Cosmetics International",
+   "ÄIO",
+   "Deep Blue BioTech"
+  ],
+  "keywords": [
+   "지속가능 뷰티",
+   "리필 포장",
+   "업사이클 원료"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Supernatural Color",
+    "brand": "Wella",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PRO BioAir Invisible Dry Texturizing Spray",
+    "brand": "O’right",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Orchidée Impériale",
+    "brand": "Guerlain",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "TRESemmé shampoo and conditioner",
+    "brand": "Unilever",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "2026년 지속가능 뷰티 어워드 수상작이 파리에서 발표되어 제품, 원료, 포장 부문의 혁신을 꼽았다",
+  "key_fact_quote": "The winners of the 2026 Sustainable Beauty Awards were announced in Paris on 27 October, recognising innovations in sustainable beauty products, ingredients, packaging and responsible sourcing.",
+  "events": [
+   {
+    "name": "Sustainable Beauty Awards",
+    "start_date": "2026-10-27",
+    "end_date": null,
+    "place": "Paris",
+    "quote": "The winners of the 2026 Sustainable Beauty Awards were announced in Paris on 27 October, recognising innovations in sustainable beauty products, ingredients, packaging and responsible sourcing."
+   },
+   {
+    "name": "Sustainable Cosmetics Summit",
+    "start_date": "2026-10-27",
+    "end_date": "2026-10-28",
+    "place": "Paris",
+    "quote": "The awards reception took place alongside the European edition of the Sustainable Cosmetics Summit, held in Paris on 27–28 October."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "Regenyl",
+    "quote": "Kensing took Gold in the Sustainable Ingredient category for Regenyl, a 100% upcycled glycolipid biosurfactant"
+   },
+   {
+    "name": "vitamin E",
+    "quote": "Regenyl, a 100% upcycled glycolipid biosurfactant produced through microbial fermentation using by-products from its vitamin E manufacturing process."
+   },
+   {
+    "name": "Regenerative Nilotica Shea",
+    "quote": "Amika received Silver for its Regenerative Nilotica Shea, sourced through a partnership with a women-led supplier in Uganda."
+   },
+   {
+    "name": "jasmine",
+    "quote": "The Sustainability Pioneer (Raw Materials) award recognised Egyptian company Hashem Brothers for its ethical jasmine sourcing and responsible procurement programmes"
+   },
+   {
+    "name": "Jatamansi",
+    "quote": "Primavera Life received Silver for its Jatamansi Project in Bhutan, combining biodiversity conservation with community development."
+   },
+   {
+    "name": "Ocean Pure HA™",
+    "quote": "Deep Blue BioTech won Silver for Ocean Pure HA™, produced using photosynthetic biomanufacturing."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

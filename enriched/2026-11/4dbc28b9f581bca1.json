@@ -1,0 +1,53 @@
+{
+ "doc_id": "4dbc28b9f581bca1",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312731",
+ "title": "코스피 9개월 만에 5000으로 후퇴...화장품 시총 변화는?",
+ "summary": "지난 1월 27일 코스피가 5,000포인트를 처음으로 돌파하면서 상승했지만 최근 하락세로 전환했고 11월 6일에는 5000포인트로 후퇴했다.한국거래소에 따르면 코스피는 지난 1월 27일 사상 처음으로 5000포인트를 돌파한 데 이어 불과 한 달 만에 6000선을 넘어섰다. 2월 25일 기준 전체 시가총액은 5017조원으로 사상 최대치를 기록하며 5000선 돌파 당시보다 750조원 이상 증가했다.그러나 상승세는 오래가지 못했다. 한국거래소는 11월 6일 미국 AI 데이터센터 규제 강화 우려에 따른 미국 증시 약세와 외국인 매도세 확대",
+ "published_at": "2026-11-09T09:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알",
+   "아모레퍼시픽",
+   "LG생활건강",
+   "아모레퍼시픽홀딩스",
+   "달바글로벌",
+   "코스맥스",
+   "한국콜마",
+   "코스메카코리아",
+   "현대바이오"
+  ],
+  "keywords": [
+   "화장품 시가총액",
+   "ODM 기업",
+   "브랜드 기업",
+   "K-뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스피가 밀려난 상황에서도 화장품 업종에서는 ODM 기업의 시가총액이 늘고 브랜드 기업은 줄었다",
+  "key_fact_quote": "반면 ODM 기업들은 시장 조정 국면에서도 오히려 기업가치를 확대했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

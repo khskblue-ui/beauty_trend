@@ -1,0 +1,60 @@
+{
+ "doc_id": "d7d87a522832dd76",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100418",
+ "title": "한국보건산업진흥원, 홍콩서 K-뷰티 해외 시장 진출 지원",
+ "summary": "한국보건산업진흥원(원장 고상백, 이하 진흥원)은 11월 11일부터 13일까지 홍콩 컨벤션&익스비션 센터에서 열리는 ‘2026 코스모프로프 아시아’에서 ‘K-뷰티 온(K-BEAUTY ON)’ 체험관을 운영하고, 12일에는 바이어 네트워킹 행사 ‘K-뷰티 나이트 인 홍콩(K-BEAUTY NIGHT in Hongkong)’을 개최한다고 밝혔다.이번 행사는 「2026년 중소화장품 해외진출 지원사업」의 일환으로, 우수한 기술력을 갖춘 국내 중소 화장품 기업이 해외 바이어에게 제품을 알리고 현지 유통망에 성공적으로 안착할 수 있도록 돕기 위해",
+ "published_at": "2026-11-09T10:42:31+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "HK",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국보건산업진흥원"
+  ],
+  "keywords": [
+   "K-뷰티 수출 지원",
+   "뷰티 박람회",
+   "바이어 네트워킹"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국보건산업진흥원이 홍콩 코스모프로프 아시아에서 K-뷰티 체험관과 바이어 네트워킹 행사를 연다.",
+  "key_fact_quote": "한국보건산업진흥원(원장 고상백, 이하 진흥원)은 11월 11일부터 13일까지 홍콩 컨벤션&익스비션 센터에서 열리는 ‘2026 코스모프로프 아시아’에서 ‘K-뷰티 온(K-BEAUTY ON)’ 체험관을 운영하고, 12일에는 바이어 네트워킹 행사 ‘K-뷰티 나이트 인 홍콩(K-BEAUTY NIGHT in Hongkong)’을 개최한다고 밝혔다.",
+  "events": [
+   {
+    "name": "2026 코스모프로프 아시아",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "홍콩 컨벤션&익스비션 센터",
+    "quote": "한국보건산업진흥원(원장 고상백, 이하 진흥원)은 11월 11일부터 13일까지 홍콩 컨벤션&익스비션 센터에서 열리는 ‘2026 코스모프로프 아시아’에서 ‘K-뷰티 온(K-BEAUTY ON)’ 체험관을 운영하고,"
+   },
+   {
+    "name": "K-뷰티 나이트 인 홍콩",
+    "start_date": "2026-11-12",
+    "end_date": null,
+    "place": "노보텔 센추리 홍콩",
+    "quote": "12일 노보텔 센추리 홍콩에서 열리는 ‘K-뷰티 나이트 인 홍콩'에는 참여기업과 글로벌 바이어·유통사·인플루언서 등 약 100명이 참석한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

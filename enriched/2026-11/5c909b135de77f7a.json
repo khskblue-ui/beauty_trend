@@ -1,0 +1,74 @@
+{
+ "doc_id": "5c909b135de77f7a",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100399",
+ "title": "티핏, 11월 11일 ‘무신사 뷰티’ 성수 지역 단독 매장 입점",
+ "summary": "글로벌 메이크업 브랜드 티핏(TFIT)이 오는 11월 11일 오픈하는 ‘무신사 뷰티 성수’에 입점하며 오프라인 고객 접점을 확대한다.무신사 뷰티 성수는 성수 지역에 새롭게 문을 여는 무신사 뷰티 단독 매장으로, 700여 개 뷰티 브랜드와 온누리약국이 입점한다. 티핏은 무신사 뷰티 홍대에 이어 성수에도 입점하며 주요 베이스 메이크업 제품을 선보인다.티핏은 코로나19로 어려운 시장 상황 속에서도 2020년 중국 시장에 론칭하며 해외 진출에 나섰다. 이후 일본으로 시장을 넓혀 큐텐 메가와리 전체 랭킹과 베이스 메이크업 카테고리에서 각각",
+ "published_at": "2026-11-09T08:49:11+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CN",
+   "JP"
+  ],
+  "brands": [
+   "티핏",
+   "무신사 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "베이스 메이크업",
+   "오프라인 입점",
+   "K-메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "커버 업 프로 컨실러",
+    "brand": "티핏",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "트렌스루센트 셋 에센셜 파우더 글로우",
+    "brand": "티핏",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "티핏이 무신사 뷰티 성수 매장에 입점해 오프라인 고객 접점을 넓힌다.",
+  "key_fact_quote": "글로벌 메이크업 브랜드 티핏(TFIT)이 오는 11월 11일 오픈하는 ‘무신사 뷰티 성수’에 입점하며 오프라인 고객 접점을 확대한다.",
+  "events": [
+   {
+    "name": "무신사 뷰티 성수",
+    "start_date": "2026-11-11",
+    "end_date": null,
+    "place": "성수",
+    "quote": "글로벌 메이크업 브랜드 티핏(TFIT)이 오는 11월 11일 오픈하는 ‘무신사 뷰티 성수’에 입점하며 오프라인 고객 접점을 확대한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "0ca558e51ecca16a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.m-i.kr/news/articleView.html?idxno=2016191",
+ "title": "中企 수출 역대 최대에도 생산·고용 뒷걸음… 반도체·화장품 '쏠림 호...",
+ "summary": "K - 뷰티 수출 호조로 화장품 생산 주문이 급증했지만 중동 전쟁에 따른 석유화학 원료 수급 불안이 겹쳐 용기·포장재 공급에 차질이 발생하고 있다. 특히 플라스틱 용기의 주요 원료인 폴리에틸렌(PE)과 폴리프로필렌...",
+ "published_at": "2026-11-09T15:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "용기 포장재 공급난",
+   "원료 수급 불안"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티 수출 호조로 화장품 생산 주문은 늘었지만 원료 수급 불안으로 용기와 포장재 공급에 차질이 생기고 있다",
+  "key_fact_quote": "K - 뷰티 수출 호조로 화장품 생산 주문이 급증했지만 중동 전쟁에 따른 석유화학 원료 수급 불안이 겹쳐 용기·포장재 공급에 차질이 발생하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

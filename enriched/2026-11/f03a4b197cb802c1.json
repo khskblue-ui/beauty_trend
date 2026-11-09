@@ -1,0 +1,96 @@
+{
+ "doc_id": "f03a4b197cb802c1",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/caper-flower-and-onycha-stephane,28512",
+ "title": "Caper flower and onycha: Stéphane Piquart's latest olfactory discoveries",
+ "summary": "Having entered the world of perfumery through Australian sandalwood, Stéphane Piquart founded Behave in 2007 with the ambition of introducing the industry to original ingredients sourced through environmentally responsible practices. From the deserts of Saudi Arabia to the peat bogs of the Congo, he travels the world in search of exceptional natural materials, including Bushman Candle and Namibian myrrh. Earth extract, onycha and caper flower are among his latest discoveries, offering... - Ingredients & formulation",
+ "published_at": "2026-11-09T21:19:17+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "ingredient",
+  "countries": [
+   "FR",
+   "SA",
+   "MA"
+  ],
+  "brands": [
+   "Behave",
+   "Nishane",
+   "Amouage",
+   "Chanel",
+   "Parfum d’Empire"
+  ],
+  "companies": [
+   "Behave",
+   "Nez Éditions"
+  ],
+  "keywords": [
+   "희귀 천연 원료",
+   "천연 향료",
+   "초임계 추출",
+   "니치 향수"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Hold Me Closer",
+    "brand": "Nishane",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Perfumer Alexandre Helwani incorporated the ingredient into Hold Me Closer , Nishane ’s latest launch, enhancing its olfactory impact with synthetic molecules.",
+    "notes": [
+     "earthy",
+     "petrichor"
+    ],
+    "notes_quote": "The extract brings an earthy dimension to the composition, evoking petrichor, the characteristic scent of soil after rain."
+   }
+  ],
+  "key_fact": "희귀 원료 조달 전문가가 토양 추출물, 오니카, 케이퍼 꽃 같은 새 천연 향료 원료를 개발하고 있다.",
+  "key_fact_quote": "Earth extract, onycha and caper flower are among his latest discoveries, offering...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Australian sandalwood",
+    "quote": "Having entered the world of perfumery through Australian sandalwood, Stéphane Piquart founded Behave in 2007 with the ambition of introducing the industry to original ingredients sourced through environmentally responsible practices."
+   },
+   {
+    "name": "Bushman Candle",
+    "quote": "From the deserts of Saudi Arabia to the peat bogs of the Congo, he travels the world in search of exceptional natural materials, including Bushman Candle and Namibian myrrh."
+   },
+   {
+    "name": "Namibian myrrh",
+    "quote": "From the deserts of Saudi Arabia to the peat bogs of the Congo, he travels the world in search of exceptional natural materials, including Bushman Candle and Namibian myrrh."
+   },
+   {
+    "name": "earth extract",
+    "quote": "In 2023, Behave added an earth extract to its portfolio, a world first."
+   },
+   {
+    "name": "onycha",
+    "quote": "Another unusual ingredient in his collection is onycha, a shell operculum used as incense some 3,000 years ago , which he came across while researching ancient perfumery practices."
+   },
+   {
+    "name": "caper flower",
+    "quote": "Earth extract, onycha and caper flower are among his latest discoveries, offering..."
+   },
+   {
+    "name": "labdanum",
+    "quote": "Intrigued by their beauty, he set out to capture their green, tangy scent, with balsamic nuances reminiscent of labdanum ( Cistus ladanifer )."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

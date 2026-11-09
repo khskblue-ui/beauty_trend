@@ -1,0 +1,46 @@
+{
+ "doc_id": "159893e981049ba5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=139116",
+ "title": "신세계 하이퍼그라운드, K -패션· 뷰티 들고 아시아 공략…대만·말레이...",
+ "summary": "미국 뉴욕과 일본 도쿄에서 테스트베드를 거친 신세계백화점의 브랜드 수출 플랫폼이 중화권과 동남아시아... 내년 3월까지 약 5개월 동안 2030 젊은 층과 한류 소비층을 타깃으로 한 K - 뷰티 및 패션 브랜드 10여 개를...",
+ "published_at": "2026-11-09T06:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "TW"
+  ],
+  "brands": [],
+  "companies": [
+   "신세계백화점",
+   "신세계 하이퍼그라운드"
+  ],
+  "keywords": [
+   "K-뷰티 수출 플랫폼",
+   "중화권 진출",
+   "한류 소비층"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신세계 하이퍼그라운드가 K-패션과 K-뷰티 브랜드를 앞세워 중화권과 동남아시아 공략에 나섰다",
+  "key_fact_quote": "미국 뉴욕과 일본 도쿄에서 테스트베드를 거친 신세계백화점의 브랜드 수출 플랫폼이 중화권과 동남아시아",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

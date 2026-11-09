@@ -1,0 +1,57 @@
+{
+ "doc_id": "b98a9abeaad5bfa9",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/beiersdorf-and-novelis-push,28505",
+ "title": "Beiersdorf and Novelis push recycled aluminium in Nivea Creme tin to 95%",
+ "summary": "The German skincare group is building on its partnership with aluminium specialist Novelis to raise the recycled aluminium content of its iconic Nivea Creme tin to 95%. This new achievement builds on an initial milestone reached in 2024, when the partners introduced a tin containing 80% recycled aluminium. Through joint research and development, the two companies have since further optimized alloy composition and manufacturing processes to increase recycled content while preserving the... - Industry buzz",
+ "published_at": "2026-11-09T07:57:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "DE"
+  ],
+  "brands": [
+   "Nivea"
+  ],
+  "companies": [
+   "Beiersdorf",
+   "Novelis"
+  ],
+  "keywords": [
+   "재활용 알루미늄",
+   "지속가능 포장",
+   "순환 포장"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Nivea Creme tin",
+    "brand": "Nivea",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "The 95%-recycled aluminium Nivea Creme tin has been available in Germany since early 2026.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "바이어스도르프와 노벨리스가 니베아 크림 틴의 재활용 알루미늄 함량을 높였다.",
+  "key_fact_quote": "The German skincare group is building on its partnership with aluminium specialist Novelis to raise the recycled aluminium content of its iconic Nivea Creme tin to 95% .",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

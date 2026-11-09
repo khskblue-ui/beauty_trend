@@ -1,0 +1,83 @@
+{
+ "doc_id": "79fce712d8ddb6d9",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100419",
+ "title": "라보에이치, GLP-1 사용자 만족도 조사 진행",
+ "summary": "아모레퍼시픽 두피 스킨케어 전문 브랜드 라보에이치가 GLP-1 계열 비만치료제 사용자들로부터 대표 제품 ‘두피강화 클리닉’ 3종에 대한 높은 사용 만족도 조사 결과를 확인했다.최근 GLP-1 계열 비만치료제 사용이 확대되면서 체중 감량 과정에서 경험할 수 있는 두피·모발 변화에도 관심이 높아지고 있다. 라보에이치는 변화하는 소비자 라이프스타일과 새롭게 나타나는 두피·모발 관리 니즈에 주목해 GLP-1 계열 비만치료제 실사용자를 대상으로 제품 사용 경험과 만족도를 조사했다.조사 결과 제품 사용에 대한 전반적인 만족도는 100%로 나타",
+ "published_at": "2026-11-09T10:46:21+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라보에이치"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "두피 케어",
+   "탈모 케어",
+   "GLP-1 사용자"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "두피강화 클리닉 샴푸",
+    "brand": "라보에이치",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "캡슐 트리트먼트",
+    "brand": "라보에이치",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "헤어라인 앰플",
+    "brand": "라보에이치",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "라보에이치가 GLP-1 계열 비만치료제 사용자를 대상으로 두피 제품 만족도를 조사했다.",
+  "key_fact_quote": "이번 조사에는 라보에이치 ‘두피강화 클리닉 샴푸’, ‘캡슐 트리트먼트’, ‘헤어라인 앰플’ 등 3종을 사용했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "단백질",
+    "quote": "두피강화 클리닉 샴푸는 두피와 모발을 깨끗하게 세정하면서 탈모 증상 완화에 도움을 주며, 캡슐 트리트먼트는 단백질과 비타민 성분을 담아 두피와 모발에 영양을 공급한다."
+   },
+   {
+    "name": "비타민",
+    "quote": "두피강화 클리닉 샴푸는 두피와 모발을 깨끗하게 세정하면서 탈모 증상 완화에 도움을 주며, 캡슐 트리트먼트는 단백질과 비타민 성분을 담아 두피와 모발에 영양을 공급한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

@@ -1,0 +1,71 @@
+{
+ "doc_id": "b3b70a82c48f6545",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100411",
+ "title": "리필드 양미경 연구소장, 네이버 ‘넾다세일’ 출연",
+ "summary": "콘스탄트(대표 정근식)가 운영하는 더마 스칼프 브랜드 리필드가 양미경 연구소장이 직접 출연한 ‘넾다세일X리필드 네이버 쇼핑 라이브’를 성료했다고 밝혔다. 이번 네이버 쇼핑 라이브는 탈모 및 두피 고민이 있지만 어떻게 관리를 시작해야 할지 몰라 망설이는 소비자들을 위해 기획됐다. 이에 양미경 소장은 라이브 방송에 특별 출연해 직접 소비자들과 소통하며 탈모 관련 고민과 궁금증을 해소하는 시간을 가졌다. 어떤 제품을 어떻게 사용해야 할지 망설이는 소비자들을 위한 기본적인 팁과 제품에 대한 궁금증을 쉽게 풀어 전달하는 데 초점을 맞췄다.국",
+ "published_at": "2026-11-09T09:57:58+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리필드"
+  ],
+  "companies": [
+   "콘스탄트"
+  ],
+  "keywords": [
+   "탈모 케어",
+   "두피 케어",
+   "쇼핑 라이브"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "리필드는 cADPR 성분을 앞세운 탈모 완화 제품을 쇼핑 라이브에서 소개했다.",
+  "key_fact_quote": "양미경 연구소장은 오랜 기간 축적한 임상 경험과 두피·모발 연구 데이터를 기반으로 사이토카인 cADPR(사이클릭 ADP-리보스)을 활용한 독자 특허 기술 성분이 포함된 탈모 완화 제품들을 선보였다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "cADPR",
+    "quote": "양미경 연구소장은 오랜 기간 축적한 임상 경험과 두피·모발 연구 데이터를 기반으로 사이토카인 cADPR(사이클릭 ADP-리보스)을 활용한 독자 특허 기술 성분이 포함된 탈모 완화 제품들을 선보였다."
+   },
+   {
+    "name": "사이토카인",
+    "quote": "사이토카인은 인체 안에 원래 존재하는 단백질로 세포 사이에서 신호를 전달한다."
+   },
+   {
+    "name": "VEGF",
+    "quote": "VEGF·FGF7·HGF 같은 성장인자가 사이토카인에 속한다."
+   },
+   {
+    "name": "FGF7",
+    "quote": "VEGF·FGF7·HGF 같은 성장인자가 사이토카인에 속한다."
+   },
+   {
+    "name": "HGF",
+    "quote": "VEGF·FGF7·HGF 같은 성장인자가 사이토카인에 속한다."
+   },
+   {
+    "name": "NAD",
+    "quote": "또한 cADPR은 우리 몸의 세포 안에서 NAD로부터 만들어지는 뉴클레오타이드 계열의 유도체로 칼슘 신호를 전달하는 2차 메신저 역할을 한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

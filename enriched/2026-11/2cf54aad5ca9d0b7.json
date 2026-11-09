@@ -1,0 +1,43 @@
+{
+ "doc_id": "2cf54aad5ca9d0b7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dailian.co.kr/news/view/1712515/?sc=Naver",
+ "title": "K - 뷰티 중소기업 10곳, 홍콩서 해외 판로 개척…글로벌 바이어 공략",
+ "summary": "세계 각국의 바이어가 모이는 국제 뷰티 박람회에서 제품을 선보이고 현지 유통사와 직접 수출 ·입점... 참여하는 ' K - 뷰티 온( K -BEAUTY ON)' 체험관이 운영된다. 이번 행사는 '2026년 중소화장품 해외진출 지원사업'의...",
+ "published_at": "2026-11-09T11:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 해외 판로",
+   "중소 화장품 지원",
+   "홍콩 박람회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중소 K뷰티 기업이 홍콩 국제 뷰티 박람회에서 제품을 선보이고 바이어를 만난다.",
+  "key_fact_quote": "세계 각국의 바이어가 모이는 국제 뷰티 박람회에서 제품을 선보이고 현지 유통사와 직접 수출 ·입점...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "114392956d9c97fa",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sportsworldi.com/newsView/20261109506094",
+ "title": "지피엘, ‘세계관 입힌 K뷰티’로 출시 반년 만에 신세계면세점 진출",
+ "summary": "더프레임리스가 출시 약 6개월 만에 신세계면세점 명동점과 온라인 면세점에 동시 입점하며 글로벌... 단순히 화장품 을 판매하는 데 그치지 않고 매 제품 라인업마다 고유한 이야기를 부여해 소비자가 하나의 세계관을...",
+ "published_at": "2026-11-09T10:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더프레임리스"
+  ],
+  "companies": [
+   "지피엘",
+   "신세계면세점"
+  ],
+  "keywords": [
+   "세계관 마케팅",
+   "면세점 입점",
+   "스토리텔링 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "더프레임리스가 출시 반년 만에 신세계면세점 명동점과 온라인 면세점에 입점했다.",
+  "key_fact_quote": "더프레임리스가 출시 약 6개월 만에 신세계면세점 명동점과 온라인 면세점에 동시 입점하며 글로벌...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

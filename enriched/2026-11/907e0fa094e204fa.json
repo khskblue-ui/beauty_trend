@@ -1,0 +1,93 @@
+{
+ "doc_id": "907e0fa094e204fa",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58690",
+ "title": "천지현황㈜ 흑삼품은 블루베리콜라겐으로 일본 식품시장 문 두드린다",
+ "summary": "[코스인코리아닷컴 김민석 기자]천지현황㈜(대표 신현중)이 오는 11월 11일부터 13일까지 일본 도쿄 빅사이트에서 개최되는 ‘2026 JFEX WINTER’에 ‘흑삼품은 블루베리콜라겐’을 출품하고 소비자 접점 확대에 나선다. ‘흑삼품은 블루베리콜라겐’은 블루베리를 바탕으로 흑삼과 피쉬콜라겐,…",
+ "published_at": "2026-11-09T20:09:36+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "천지현황㈜"
+  ],
+  "keywords": [
+   "이너뷰티",
+   "콜라겐",
+   "액상 스틱"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "흑삼품은 블루베리콜라겐",
+    "brand": "천지현황㈜",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "흑삼품은 석류콜라겐",
+    "brand": "천지현황㈜",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "천지현황이 일본 식품 전시회에 흑삼을 넣은 콜라겐 제품을 출품한다.",
+  "key_fact_quote": "천지현황㈜(대표 신현중)이 오는 11월 11일부터 13일까지 일본 도쿄 빅사이트에서 개최되는 ‘2026 JFEX WINTER’에 ‘흑삼품은 블루베리콜라겐’을 출품하고 소비자 접점 확대에 나선다.",
+  "events": [
+   {
+    "name": "2026 JFEX WINTER",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "일본 도쿄 빅사이트",
+    "quote": "천지현황㈜(대표 신현중)이 오는 11월 11일부터 13일까지 일본 도쿄 빅사이트에서 개최되는 ‘2026 JFEX WINTER’에 ‘흑삼품은 블루베리콜라겐’을 출품하고 소비자 접점 확대에 나선다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "블루베리",
+    "quote": "‘흑삼품은 블루베리콜라겐’은 블루베리를 바탕으로 흑삼과 피쉬콜라겐, 로열젤리를 함께 담았다."
+   },
+   {
+    "name": "흑삼",
+    "quote": "‘흑삼품은 블루베리콜라겐’은 블루베리를 바탕으로 흑삼과 피쉬콜라겐, 로열젤리를 함께 담았다."
+   },
+   {
+    "name": "피쉬콜라겐",
+    "quote": "‘흑삼품은 블루베리콜라겐’은 블루베리를 바탕으로 흑삼과 피쉬콜라겐, 로열젤리를 함께 담았다."
+   },
+   {
+    "name": "로열젤리",
+    "quote": "‘흑삼품은 블루베리콜라겐’은 블루베리를 바탕으로 흑삼과 피쉬콜라겐, 로열젤리를 함께 담았다."
+   },
+   {
+    "name": "석류",
+    "quote": "천지현황㈜은 이번 행사에 ‘흑삼품은 석류콜라겐’을 함께 출품해 두 가지 과일을 활용한 제품을 선보인다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

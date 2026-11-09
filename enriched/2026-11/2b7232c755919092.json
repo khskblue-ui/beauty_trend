@@ -1,0 +1,46 @@
+{
+ "doc_id": "2b7232c755919092",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/11/09/2026110901198.html",
+ "title": "[뷰티업계 이모저모] 낫띵베럴, 올리브영N 성수·올리브베러 성수점 입...",
+ "summary": "이곳에서는 유기농 호박즙과 차 브랜드 ‘럽티’ 신제품 , 액상 스틱 제품 ‘스틱샷’ 등 총 8종을... 도쿄의 화장품 편집숍 앳코스메 도쿄(@cosme TOKYO)에서 애니메이션 ‘약사의 혼잣말’ 협업 팝업을 진행했다. 약 2주간...",
+ "published_at": "2026-11-09T11:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "낫띵베럴",
+   "럽티"
+  ],
+  "companies": [],
+  "keywords": [
+   "팝업스토어",
+   "올리브영 입점",
+   "뷰티 협업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "낫띵베럴이 올리브영N 성수와 올리브베러 성수점에 입점했다.",
+  "key_fact_quote": "도쿄의 화장품 편집숍 앳코스메 도쿄(@cosme TOKYO)에서 애니메이션 ‘약사의 혼잣말’ 협업 팝업을 진행했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

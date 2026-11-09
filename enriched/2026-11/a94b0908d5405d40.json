@@ -1,0 +1,57 @@
+{
+ "doc_id": "a94b0908d5405d40",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100402",
+ "title": "에이페, 美 속눈썹 케어에서 K-뷰티 존재감 확대",
+ "summary": "글로벌 인플루언서 로렌 그레이(Loren Gray)가 글로벌 시장에서 헤어·아이래쉬 카테고리 내 존재감을 키우고 있는 K-뷰티 브랜드 에이페(epais)의 ‘아이래쉬 에센셜 세럼’을 소개해 화제다.에이페는 K-뷰티 멀티 브랜드 기업 어댑트(ADAPT, 대표 박정하)의 고기능 헤어 솔루션 브랜드다. 최근 미국 시장에서 속눈썹 케어 제품을 중심으로 주목할 만한 성과를 거두며 K-뷰티의 새로운 성장 카테고리로 입지를 넓혀가고 있다.5,200만 명 이상의 틱톡 팔로워를 보유한 로렌 그레이는 틱톡 초창기부터 활동해 온 1세대 인플루언서로,",
+ "published_at": "2026-11-09T09:30:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "에이페"
+  ],
+  "companies": [
+   "어댑트"
+  ],
+  "keywords": [
+   "속눈썹 케어",
+   "틱톡샵",
+   "K-뷰티 수출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아이래쉬 에센셜 세럼",
+    "brand": "에이페",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이페의 아이래쉬 에센셜 세럼이 틱톡 인플루언서 영상으로 미국에서 주목받고 있다.",
+  "key_fact_quote": "글로벌 인플루언서 로렌 그레이(Loren Gray)가 글로벌 시장에서 헤어·아이래쉬 카테고리 내 존재감을 키우고 있는 K-뷰티 브랜드 에이페(epais)의 ‘아이래쉬 에센셜 세럼’을 소개해 화제다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

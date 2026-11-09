@@ -1,0 +1,57 @@
+{
+ "doc_id": "5bcf21b792c74909",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pressman.kr/news/articleView.html?idxno=104383",
+ "title": "백화점, 연말 소비심리 잡는다… 크리스마스부터 위스키·K 뷰티 까지",
+ "summary": "신세계백화점의 프리미엄 뷰티 편집숍 시코르는 9일 K-메이크업 브랜드 블룸(BLOOM)을 단독 론칭 한다. 뷰티 디렉터 민새롬이 브랜드 기획을 이끌고, 서로 다른 분야에서 활동하는 크리에이터 4명이 공동 론칭 파트너로...",
+ "published_at": "2026-11-09T14:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "블룸",
+   "시코르"
+  ],
+  "companies": [
+   "신세계백화점"
+  ],
+  "keywords": [
+   "뷰티 편집숍",
+   "K-메이크업",
+   "단독 론칭"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "블룸",
+    "brand": "블룸",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신세계백화점의 프리미엄 뷰티 편집숍 시코르는 9일 K-메이크업 브랜드 블룸(BLOOM)을 단독 론칭 한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "시코르가 K-메이크업 브랜드 블룸을 단독으로 론칭한다.",
+  "key_fact_quote": "신세계백화점의 프리미엄 뷰티 편집숍 시코르는 9일 K-메이크업 브랜드 블룸(BLOOM)을 단독 론칭 한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

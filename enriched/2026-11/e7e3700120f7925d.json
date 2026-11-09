@@ -1,0 +1,45 @@
+{
+ "doc_id": "e7e3700120f7925d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015908",
+ "title": "보건산업진흥원, 홍콩서 K - 뷰티 중소기업 해외 판로 확대 지원",
+ "summary": "아시아'에서 ' K - 뷰티 온' 체험관을 운영하고, 12일에는 글로벌 바이어 네트워킹 행사인 ' K - 뷰티 나이트 인... 후속 상담을 지원하고, 국내 중소 화장품 기업의 실질적인 수출 및 해외 판로 확대를 뒷받침한다는 계획이다.",
+ "published_at": "2026-11-09T10:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [
+   "한국보건산업진흥원"
+  ],
+  "keywords": [
+   "K-뷰티",
+   "해외 판로",
+   "바이어 네트워킹"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "보건산업진흥원이 홍콩에서 K-뷰티 중소기업의 판로 확대를 지원한다.",
+  "key_fact_quote": "아시아'에서 ' K - 뷰티 온' 체험관을 운영하고, 12일에는 글로벌 바이어 네트워킹 행사인 ' K - 뷰티 나이트 인...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

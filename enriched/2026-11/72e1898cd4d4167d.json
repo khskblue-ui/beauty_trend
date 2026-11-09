@@ -1,0 +1,46 @@
+{
+ "doc_id": "72e1898cd4d4167d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fashionbiz.co.kr/article/230938",
+ "title": "피스마이너스원 뷰티 , 첫 이미지 공개… 화려한 네일 비주얼에 기대감",
+ "summary": "선보이는 뷰티 브랜드 다. 양사는 브랜드 콘셉트 수립부터 제품 개발까지 함께 진행하며, 2027년 상반기 국내 공식 론칭 을 목표로 하고 있다. 이후 미국과 일본 등 글로벌 시장으로 사업을 확대할 계획이다. 아직 구체적인...",
+ "published_at": "2026-11-09T10:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [
+   "피스마이너스원 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "네일 뷰티",
+   "브랜드 론칭",
+   "글로벌 확장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "피스마이너스원 뷰티가 국내 공식 론칭을 목표로 하며 이후 미국과 일본으로 사업을 넓힐 계획이다",
+  "key_fact_quote": "양사는 브랜드 콘셉트 수립부터 제품 개발까지 함께 진행하며, 2027년 상반기 국내 공식 론칭 을 목표로 하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

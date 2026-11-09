@@ -1,0 +1,42 @@
+{
+ "doc_id": "641e18cf71285d40",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100400",
+ "title": "피부기반기술사업단, 멜라노즘 이동조절 원리 규명",
+ "summary": "보건복지부가 지원하는 '혁신성장 피부건강 기반기술 개발사업'을 통해 피부 색소의 세포 내 이동과 분포를 조절하는 새로운 원리가 밝혀졌다.경희대학교 황재성 교수(피부 기반기술 개발 사업단장) 연구팀은 피부 색소를 운반하는 멜라노좀의 이동에 관여하는 단백질들의 발현이 특정 신호전달 경로에 의해 조절된다는 사실을 규명했다.이번 연구는 황재성 교수가 수행 중인 ‘화장품 기술수요 충족연구’ 과제에서 도출된 성과로, 피부 색소 조절에 관한 기초연구의 범위를 넓혔다는 점에서 의미가 있다. 연구 결과는 피부과학 분야의 권위 있는 국",
+ "published_at": "2026-11-09T08:57:32+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "피부 색소",
+   "멜라노좀",
+   "피부과학 연구"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "경희대 연구팀이 피부 색소를 옮기는 멜라노좀의 이동이 신호전달 경로로 조절되는 원리를 밝혔다.",
+  "key_fact_quote": "경희대학교 황재성 교수(피부 기반기술 개발 사업단장) 연구팀은 피부 색소를 운반하는 멜라노좀의 이동에 관여하는 단백질들의 발현이 특정 신호전달 경로에 의해 조절된다는 사실을 규명했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

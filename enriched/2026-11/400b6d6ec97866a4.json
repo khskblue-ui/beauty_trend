@@ -1,0 +1,47 @@
+{
+ "doc_id": "400b6d6ec97866a4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.inews24.com/view/2023886",
+ "title": "신일전자, '갈바닉 뷰티 디바이스' 출시 ⋯홈케어 가전 시장 진출",
+ "summary": "신일전자는 미세전류와 진동, 온열 기능을 결합한 갈바닉 뷰티 디바이스를 출시 했다고 9일 밝혔다. 신제품 은 사용자가 피부 관리 목적에 따라 4가지 모드를 선택할 수 있도록 설계됐다. 미세전류를 활용하는 '옐로우 LED...",
+ "published_at": "2026-11-09T09:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "신일전자"
+  ],
+  "companies": [
+   "신일전자"
+  ],
+  "keywords": [
+   "홈 뷰티",
+   "뷰티 디바이스",
+   "미세전류"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "a95b540135e885bb",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

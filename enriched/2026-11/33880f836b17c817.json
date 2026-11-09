@@ -1,0 +1,65 @@
+{
+ "doc_id": "33880f836b17c817",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026110613180342195",
+ "title": "스튜디오17, 피부 컨디션에 따라 골라 쓰는 ‘PDRN 캄셀 버블세럼’ 3종...",
+ "summary": "주식회사 더비코가 전개하는 뷰티 브랜드 스튜디오17(Studio17)이 11월 9일 신제품 'PDRN 캄셀 버블세럼(PDRN... 최근 화장품 업계의 트렌드를 보여주고 있다. 3종 모두 쑥·감·쌀 유래 성분을 약 240nm 크기의...",
+ "published_at": "2026-11-09T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "스튜디오17"
+  ],
+  "companies": [
+   "더비코"
+  ],
+  "keywords": [
+   "PDRN",
+   "버블 세럼",
+   "피부 컨디션 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "PDRN 캄셀 버블세럼",
+    "brand": "스튜디오17",
+    "launch_date": "2026-11-09",
+    "launch_status": "launched",
+    "launch_quote": "주식회사 더비코가 전개하는 뷰티 브랜드 스튜디오17(Studio17)이 11월 9일 신제품 'PDRN 캄셀 버블세럼(PDRN...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스튜디오17이 피부 컨디션에 따라 고르는 PDRN 캄셀 버블세럼 3종을 내놨다.",
+  "key_fact_quote": "주식회사 더비코가 전개하는 뷰티 브랜드 스튜디오17(Studio17)이 11월 9일 신제품 'PDRN 캄셀 버블세럼(PDRN...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "주식회사 더비코가 전개하는 뷰티 브랜드 스튜디오17(Studio17)이 11월 9일 신제품 'PDRN 캄셀 버블세럼(PDRN..."
+   },
+   {
+    "name": "쑥·감·쌀 유래 성분",
+    "quote": "3종 모두 쑥·감·쌀 유래 성분을 약 240nm 크기의..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

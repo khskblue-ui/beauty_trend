@@ -1,0 +1,46 @@
+{
+ "doc_id": "29dfaac184880e91",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.srtimes.kr/news/articleView.html?idxno=217078",
+ "title": "K - 뷰티 호황에 'ODM' 3사 성장 기대감…생산능력 확충 속도",
+ "summary": "심화 K - 뷰티 의 글로벌 시장 확대에 힘입어 코스맥스와 한국콜마, 코스메카코리아 등 국내 주요 화장품... 여름휴가와 추석 연휴로 조업일수가 줄었음에도 수출 용 제품과 해외 유통 채널을 겨냥한 제품 수주가 꾸준히...",
+ "published_at": "2026-11-09T16:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "한국콜마",
+   "코스메카코리아"
+  ],
+  "keywords": [
+   "ODM 생산능력 확충",
+   "K-뷰티 수출",
+   "수출용 제품 수주"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티 확대에 힘입어 주요 ODM 기업들이 수주를 이어 가며 생산능력을 넓히고 있다",
+  "key_fact_quote": "K - 뷰티 의 글로벌 시장 확대에 힘입어 코스맥스와 한국콜마, 코스메카코리아 등 국내 주요 화장품...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

@@ -1,0 +1,66 @@
+{
+ "doc_id": "6cc718d8655fc50c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.metroseoul.co.kr/article/20261109500432",
+ "title": "애경산업, 도쿄 한복판에 'K 뷰티 ' 두둥실 띄워...\"루나 메이크업 확산\"",
+ "summary": "브랜드 대표 제품인 '루나 컨실러'는 물론 일본 출시 를 앞둔 신제품 '클라우드 레이어'까지 다양한 제품을 조합해 K 뷰티 팬들의 발길이 이어졌다. 실제로 루나 컨실러의 경우, 지난 2014년 1월부터 2026년 10월까지 국내...",
+ "published_at": "2026-11-09T15:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "루나"
+  ],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "K-뷰티 일본 진출",
+   "메이크업 팝업",
+   "컨실러"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "루나 컨실러",
+    "brand": "루나",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "클라우드 레이어",
+    "brand": "루나",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "브랜드 대표 제품인 '루나 컨실러'는 물론 일본 출시 를 앞둔 신제품 '클라우드 레이어'까지 다양한 제품을 조합해 K 뷰티 팬들의 발길이 이어졌다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "애경산업이 도쿄에서 루나 제품을 선보이는 행사를 열어 K 뷰티 팬들의 발길이 이어졌다",
+  "key_fact_quote": "브랜드 대표 제품인 '루나 컨실러'는 물론 일본 출시 를 앞둔 신제품 '클라우드 레이어'까지 다양한 제품을 조합해 K 뷰티 팬들의 발길이 이어졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

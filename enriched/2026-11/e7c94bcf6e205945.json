@@ -1,0 +1,75 @@
+{
+ "doc_id": "e7c94bcf6e205945",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53905",
+ "title": "식약처, K-뷰티 남미(브라질) 공략 전면 지원 나선다",
+ "summary": "식품의약품안전처(처장 오유경· www.mfds.go.kr )가 K-화장품의 중남미 시장 진출 확대를 위해 브라질에 민·관 합동 진출지원단을 파견한다. 현지 규제당국과의 협력을 강화하는 동시에 국내 화장품 기업의 수출 애로 해소와 신규 유통망 확보를 지원하기 위한 행보다. 식약처는 내년 2월 24일부터…",
+ "published_at": "2026-11-09T10:09:17+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "BR",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "식품의약품안전처",
+   "ANVISA"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "규제 협력",
+   "중남미 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식약처가 K-화장품의 중남미 진출을 위해 브라질에 민관 합동 진출지원단을 보낸다.",
+  "key_fact_quote": "식품의약품안전처(처장 오유경· www.mfds.go.kr )가 K-화장품의 중남미 시장 진출 확대를 위해 브라질에 민·관 합동 진출지원단 을 파견한다.",
+  "events": [
+   {
+    "name": "2027 한-브라질 화장품 민·관 합동 진출지원단",
+    "start_date": "2027-02-24",
+    "end_date": "2027-02-26",
+    "place": "브라질 상파울루",
+    "quote": "식약처는 내년 2월 24일부터 26일 까지 브라질 상파울루에서 운영할 ‘2027 한-브라질 화장품 민·관 합동 진출지원단’ 참가기업을 오늘(9일)부터 모집에 들어간다."
+   },
+   {
+    "name": "K-뷰티 팝업스토어",
+    "start_date": "2027-02-24",
+    "end_date": null,
+    "place": null,
+    "quote": "진출지원단은 행사 첫날인 2월 24일 현지 소비자를 대상으로 ‘K-뷰티 팝업스토어’ 를 운영하고 국내 참가기업과 브라질 바이어 간 비즈니스 미팅 을 진행한다."
+   },
+   {
+    "name": "기관장급 양자회의",
+    "start_date": "2027-02-25",
+    "end_date": null,
+    "place": null,
+    "quote": "25일에는 식약처와 ANVISA 간 기관장급 양자회의 를 통해 수출 장벽 해소와 규제협력 강화 방안 을 논의한다."
+   },
+   {
+    "name": "민·관 합동 규제 간담회",
+    "start_date": "2027-02-26",
+    "end_date": null,
+    "place": null,
+    "quote": "마지막 날인 26일에는 ANVISA 규제당국자가 참여하는 민·관 합동 규제 간담회 를 열어 현지 수출 규정과 절차를 안내하고 국내 기업의 애로사항에 대한 협력 방안 등도 진행하는 등의 프로그램을 운영한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

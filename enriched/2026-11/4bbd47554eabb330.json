@@ -1,0 +1,45 @@
+{
+ "doc_id": "4bbd47554eabb330",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000081051",
+ "title": "K - 뷰티 유통 '그레이스'·공유오피스 '패스트파이브' 코스닥 노크",
+ "summary": "K - 뷰티 수출 호조를 타고 브랜드사와 제조자개발생산(ODM) 업체에 이어 유통기업까지 잇따라 증시 문을 두드리는 흐름이다. 패스트파이브, 2020년 철회 뒤 재수 패스트파이브는 오피스 운영과 디지털 서비스...",
+ "published_at": "2026-11-09T17:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "그레이스",
+   "패스트파이브"
+  ],
+  "keywords": [
+   "K-뷰티 유통",
+   "코스닥 상장",
+   "K-뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티 수출이 늘면서 유통기업까지 코스닥 상장에 나서고 있다.",
+  "key_fact_quote": "K - 뷰티 수출 호조를 타고 브랜드사와 제조자개발생산(ODM) 업체에 이어 유통기업까지 잇따라 증시 문을 두드리는 흐름이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

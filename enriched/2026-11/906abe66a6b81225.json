@@ -1,0 +1,49 @@
+{
+ "doc_id": "906abe66a6b81225",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100397",
+ "title": "코스메카코리아, 3분기 연결 매출 2,475억원 달성",
+ "summary": "글로벌 화장품 OGM(글로벌 규격 생산) 전문기업 코스메카코리아(대표이사 조임래·박은희)는 2026년 3분기 연결 기준 매출 2,475억원, 영업이익 272억원, 당기순이익 104억원을 기록했다고 6일 밝혔다.3분기 누적 연결 매출은 전년 동기 대비 42.4% 늘어난 6,588억원으로 집계됐다. 2026년연간 매출 6,409억원을 2026년 3분기 만에 넘어선 규모다. 3분기 누적 연결 영업이익은 812억원으로 전년 동기 대비 29.9% 증가했으며, 3분기 누적 당기순이익은 503억원으로 전년 동기 대비 18.7% 증가했다.한국법인",
+ "published_at": "2026-11-09T08:43:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "코스메카코리아",
+   "잉글우드랩",
+   "코스메카차이나"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "스킨케어",
+   "생산 자동화",
+   "K-뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스메카코리아는 한국법인의 스킨케어 성장에 힘입어 3분기 실적이 크게 늘었다.",
+  "key_fact_quote": "한국법인의 성장은 스킨케어 카테고리가 이끌었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

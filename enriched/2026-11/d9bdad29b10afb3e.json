@@ -1,0 +1,50 @@
+{
+ "doc_id": "d9bdad29b10afb3e",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/rhode-cecred-cetaphil-named-in-google-2026-holiday-100",
+ "title": "Rhode, Cécred and Cetaphil named in Google’s most searched for gifts 2026 list",
+ "summary": "Google’s Holiday 100 highlights the top trending gifts of the year in the US across a range of categories, with beauty brands Rhode, Cécred, Cetaphil, Tower 28 and Summer Fridays all making the search engine’s 2026 list",
+ "published_at": "2026-11-09T21:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Rhode",
+   "Cécred",
+   "Cetaphil",
+   "Tower 28",
+   "Summer Fridays"
+  ],
+  "companies": [
+   "Google"
+  ],
+  "keywords": [
+   "선물 검색 트렌드",
+   "홀리데이 시즌",
+   "인기 뷰티 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "구글의 홀리데이 인기 선물 목록에 여러 뷰티 브랜드가 올랐다.",
+  "key_fact_quote": "Google’s Holiday 100 highlights the top trending gifts of the year in the US across a range of categories",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

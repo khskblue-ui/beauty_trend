@@ -1,0 +1,48 @@
+{
+ "doc_id": "2c4002d8fdb2a92f",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58689",
+ "title": "코스메카코리아, 3분기 만에 지난해 연매출 돌파 1조원 시대 가속",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 글로벌 화장품 OGM(글로벌 규격 생산) 전문기업 코스메카코리아(대표이사 조임래·박은희)가 올해 3분기 연결 매출 2475억원을 기록하며 전년 동기 대비 35.7% 성장했다고 6일 밝혔다. 코스메카코리아의 2026년 3분기 누적 연결 매출은 6588억원으로 전년 동기 대…",
+ "published_at": "2026-11-09T17:26:57+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "코스메카코리아",
+   "잉글우드랩",
+   "코스메카차이나"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "3분기 실적",
+   "스킨케어 수요"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스메카코리아가 3분기 만에 지난해 연간 매출을 넘어섰다.",
+  "key_fact_quote": "코스메카코리아의 2026년 3분기 누적 연결 매출은 6588억원으로 전년 동기 대비 42.4% 증가하며 지난해 연간 매출 6409억원을 3분기 만에 넘어섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

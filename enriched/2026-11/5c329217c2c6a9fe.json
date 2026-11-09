@@ -1,0 +1,43 @@
+{
+ "doc_id": "5c329217c2c6a9fe",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.inews24.com/view/2024088",
+ "title": "中 의존도 낮아진 K뷰티 ⋯북미·유럽 영토 확장에 달라진 수출 지도",
+ "summary": "K - 뷰티 의 인기가 북미와 유럽 등 전 세계적으로 확산한 것도 힘을 보탰다. 수출 통계에서도 변화가 드러난다. 식품의약품안전처에 따르면 올해 1~9월 대미 화장품 수출 액은 23억5000만달러로 전년 동기 대비 40.6...",
+ "published_at": "2026-11-09T14:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "대미 수출",
+   "북미 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "북미와 유럽으로 K-뷰티 인기가 퍼지며 수출 지도가 달라졌다.",
+  "key_fact_quote": "K - 뷰티 의 인기가 북미와 유럽 등 전 세계적으로 확산한 것도 힘을 보탰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

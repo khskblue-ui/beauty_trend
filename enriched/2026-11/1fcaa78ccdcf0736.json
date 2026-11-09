@@ -1,0 +1,106 @@
+{
+ "doc_id": "1fcaa78ccdcf0736",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/grasse-jasminum-grandiflorum,28516",
+ "title": "Grasse jasminum grandiflorum: Behind the scenes of an iconic harvest",
+ "summary": "In early October, dsm-firmenich invited a select group of journalists and content creators to the Grasse region, the birthplace of Grandiflorum jasmine (Jasminum grandiflorum), commonly known as Grasse jasmine. The immersive experience offered a glimpse into the heart of the harvest of what locals simply call “the flower,” such is its deep-rooted place in the region's heritage. It was also an opportunity to (re)discover the many facets of this iconic raw material, an essential ingredient in... - Ingredients & formulation",
+ "published_at": "2026-11-10T00:42:54+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "FR",
+   "EG",
+   "IN",
+   "CN",
+   "MA"
+  ],
+  "brands": [
+   "Rabanne"
+  ],
+  "companies": [
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "자스민",
+   "천연 향료 원료",
+   "무용매 추출",
+   "그라스 재배"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Fame",
+    "brand": "Rabanne",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "dsm-firmenich가 그라스 자스민 수확 현장을 공개하고 무용매 추출 기술을 소개했다.",
+  "key_fact_quote": "Grasse jasmine has become a rare raw material , reserved for the luxury brands able to afford its exceptionally high price.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Grasse jasmine",
+    "quote": "Grasse jasmine has become a rare raw material , reserved for the luxury brands able to afford its exceptionally high price."
+   },
+   {
+    "name": "Jasmine grandiflorum",
+    "quote": "Jasmine grandiflorum flowers open towards the end of the day and throughout the night, releasing their most precious fragrance at dawn."
+   },
+   {
+    "name": "Jasmin Pays Firgood",
+    "quote": "Among them is Jasmin Pays Firgood (produced by dsm-firmenich from flowers harvested around Grasse), which features in Rabanne’s Fame fragrance."
+   },
+   {
+    "name": "Jasmine Morning India ABS",
+    "quote": "The dsm-firmenich palette also features Jasmine Morning India ABS and Jasmine Flower India SFE ABS , both obtained from Jasminum grandiflorum flowers cultivated in India."
+   },
+   {
+    "name": "Jasmine Flower India SFE ABS",
+    "quote": "The dsm-firmenich palette also features Jasmine Morning India ABS and Jasmine Flower India SFE ABS , both obtained from Jasminum grandiflorum flowers cultivated in India."
+   },
+   {
+    "name": "Sambac jasmine",
+    "quote": "Sambac jasmine, grown mainly in India and China, is another widely used ingredient in perfumery."
+   },
+   {
+    "name": "green bell pepper",
+    "quote": "extracts of green bell pepper, strawberry, ginger and lavandin, as well as, more recently, ripened white pepper, with its animalic facets, and ripened bay leaf, with its mineral and marine notes"
+   },
+   {
+    "name": "ginger",
+    "quote": "extracts of green bell pepper, strawberry, ginger and lavandin, as well as, more recently, ripened white pepper, with its animalic facets, and ripened bay leaf, with its mineral and marine notes"
+   },
+   {
+    "name": "lavandin",
+    "quote": "extracts of green bell pepper, strawberry, ginger and lavandin, as well as, more recently, ripened white pepper, with its animalic facets, and ripened bay leaf, with its mineral and marine notes"
+   },
+   {
+    "name": "white pepper",
+    "quote": "extracts of green bell pepper, strawberry, ginger and lavandin, as well as, more recently, ripened white pepper, with its animalic facets, and ripened bay leaf, with its mineral and marine notes"
+   },
+   {
+    "name": "bay leaf",
+    "quote": "extracts of green bell pepper, strawberry, ginger and lavandin, as well as, more recently, ripened white pepper, with its animalic facets, and ripened bay leaf, with its mineral and marine notes"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

@@ -1,0 +1,69 @@
+{
+ "doc_id": "ea7af9f9436a1ade",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100406",
+ "title": "파마리서치, 3분기 매출 1,715억 원 달성… 전년 比 27% 성장",
+ "summary": "재생의학 전문기업 파마리서치(대표이사 손지훈)는 2026년 3분기 연결 기준 매출액 1,715억 원, 영업이익 626억 원을 기록했다고 6일 밝혔다. 전년 동기 대비 매출은 약 27% 성장했으며 영업이익률은 36.5%를 기록하며 견조한 수익성을 유지했다.특히 해외 사업 부문의 확장이 두드러졌다. 3분기 전체 매출 중 해외 수출 비중은 약 48%까지 확대되며 글로벌 에스테틱 브랜드로서의 입지를 굳혔다.품목별로는 화장품 사업 부문이 국내외 전 채널에서 폭발적인 성장세를 나타냈다. 3분기 화장품 매출은 총 620억 원을 달성했으며, 이",
+ "published_at": "2026-11-09T09:41:50+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR",
+   "US",
+   "MY",
+   "PH",
+   "JP",
+   "CN",
+   "SG",
+   "ID",
+   "CZ",
+   "TW",
+   "HK",
+   "AE",
+   "MX",
+   "AR",
+   "CL"
+  ],
+  "brands": [],
+  "companies": [
+   "파마리서치"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "에스테틱",
+   "화장품 해외 유통"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리쥬란",
+    "brand": "파마리서치",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "파마리서치가 3분기에 화장품과 의료기기 수출 호조로 해외 매출 비중을 넓혔다.",
+  "key_fact_quote": "품목별로는 화장품 사업 부문이 국내외 전 채널에서 폭발적인 성장세를 나타냈다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

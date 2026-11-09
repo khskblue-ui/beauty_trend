@@ -1,0 +1,46 @@
+{
+ "doc_id": "9ad588865a0efa30",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58685",
+ "title": "CJ올리브영, 내년 상반기 美 5개 매장 추가 출점 K-뷰티 유통망 확대",
+ "summary": "[코스인코리아닷컴 길태윤 기자] CJ올리브영이 2027년 상반기까지 미국 캘리포니아주에 매장 5곳을 추가 출점해 현지 오프라인 매장을 총 7개점으로 확대한다고 9일 밝혔다. CJ올리브영은 이번 추가 출점을 통해 기존 LA 광역권 중심의 미국 사업 기반을 캘리포니아 남부 주요 상권까지 넓히고 국내 중…",
+ "published_at": "2026-11-09T13:23:57+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영",
+   "사이먼프로퍼티그룹(Simon Property Group)"
+  ],
+  "keywords": [
+   "K-뷰티 해외 유통",
+   "오프라인 매장 확대",
+   "피부 진단 서비스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "CJ올리브영이 미국 캘리포니아주에 매장을 추가로 열어 국내 중소 인디 브랜드의 진출을 돕는다",
+  "key_fact_quote": "CJ올리브영이 2027년 상반기까지 미국 캘리포니아주에 매장 5곳을 추가 출점해 현지 오프라인 매장을 총 7개점으로 확대한다고 9일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

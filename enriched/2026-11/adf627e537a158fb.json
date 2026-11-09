@@ -1,0 +1,135 @@
+{
+ "doc_id": "adf627e537a158fb",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58679",
+ "title": "10월 화장품 행정처분 34건... 광고업무정지 22건",
+ "summary": "[코스인코리아닷컴 김세화 기자] 식품의약품안전처의 10월 화장품 분야 전체 행정처분에서도 광고 관련 위반이 64.7%를 차지해 화장품 업계의 광고 표현과 마케팅 문구에 대한 관리 필요성이 다시 부각되고 있다. 6일 식품의약품안전처에 따르면 10월 한 달간 화장품법 위반 등으로 행정처분을 받은 사…",
+ "published_at": "2026-11-06T13:38:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "식품의약품안전처"
+  ],
+  "keywords": [
+   "화장품 행정처분",
+   "광고 위반",
+   "광고업무정지"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "셀로제하이드라리프팅부스터앰플",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "치즈비누",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "애프리 버블여성청결제",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "셀라이징크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "이너시아 더 퓨어 3엑스 마이크로바이옴 케어 여성청결제",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "피디알엔바이옴글로우앰플",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "블랑네이처아크네클렌징폼",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "포뷰트 두피앰플 3종",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아토팜 엠엘이 크림 65ml",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "10월 화장품 행정처분에서는 광고 관련 위반이 가장 큰 비중을 차지했다.",
+  "key_fact_quote": "식품의약품안전처의 10월 화장품 분야 전체 행정처분에서도 광고 관련 위반이 64.7%를 차지해 화장품 업계의 광고 표현과 마케팅 문구에 대한 관리 필요성이 다시 부각되고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "PDRN, 마이크로바이옴, 아크네, 두피 관리, 여성청결제 등 최근 소비자 관심이 높아진 제품군에서도 광고업무정지 사례가 확인됐다."
+   },
+   {
+    "name": "마이크로바이옴",
+    "quote": "PDRN, 마이크로바이옴, 아크네, 두피 관리, 여성청결제 등 최근 소비자 관심이 높아진 제품군에서도 광고업무정지 사례가 확인됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

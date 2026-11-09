@@ -1,0 +1,46 @@
+{
+ "doc_id": "b7f40808697e7a85",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hemophilia.co.kr/news/articleView.html?idxno=45554",
+ "title": "식약처, 내년 2월 브라질서 K뷰티 팝업 행사…참가기업 모집",
+ "summary": "식품의약품안전처는 브라질에서 K뷰티 제품의 우수성을 알리고 현지 바이어와 수출 상담을 진행할 '민·관... 교두보로 중남미 시장 진출을 지원하는 한편 K - 뷰티 의 글로벌 경쟁력을 강화해 나갈 방침이다. [헤모라이프 ]",
+ "published_at": "2026-11-09T15:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "BR"
+  ],
+  "brands": [],
+  "companies": [
+   "식품의약품안전처"
+  ],
+  "keywords": [
+   "K-뷰티 브라질 진출",
+   "수출 상담",
+   "K뷰티 포럼"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "a705cc411460d540",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

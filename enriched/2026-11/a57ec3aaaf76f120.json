@@ -1,0 +1,45 @@
+{
+ "doc_id": "a57ec3aaaf76f120",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/ifra-joins-eu-asean-business-council-mission-to-vietnam",
+ "title": "IFRA joins EU-ASEAN Business Council mission to Vietnam",
+ "summary": "IFRA joined a business mission to Vietnam organized by the EU-ASEAN Business Council, with meetings at the Ministry of Health and the Department of Customs.",
+ "published_at": "2026-11-09T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "VN"
+  ],
+  "brands": [],
+  "companies": [
+   "IFRA",
+   "EU-ASEAN Business Council"
+  ],
+  "keywords": [
+   "향료 규제",
+   "베트남 시장",
+   "업계 협회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "IFRA가 베트남 보건부와 세관을 만나는 사절단에 참여했다.",
+  "key_fact_quote": "IFRA joined a business mission to Vietnam organized by the EU-ASEAN Business Council, with meetings at the Ministry of Health and the Department of Customs.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

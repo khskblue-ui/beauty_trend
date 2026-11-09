@@ -1,0 +1,42 @@
+{
+ "doc_id": "546c00058d777f8e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=334976",
+ "title": "뷰티 지출 절반 이상 시술·관리 서비스에",
+ "summary": "하나의 히트 상품이 브랜드 전체의 판매를 보장하지 않는 만큼, 새로운 제품을 출시 할 때마다 소비자가 기대하는 효과를 입증해야 한다.전문가·AI 영향력 확대…제품 발견과 구매 경로 변화 화장품 선택 과정에서...",
+ "published_at": "2026-11-10T06:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 시술 소비",
+   "히트 상품",
+   "효과 입증"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "히트 상품 하나가 브랜드 전체 판매를 보장하지 않아 신제품마다 기대 효과를 입증해야 한다",
+  "key_fact_quote": "하나의 히트 상품이 브랜드 전체의 판매를 보장하지 않는 만큼, 새로운 제품을 출시 할 때마다 소비자가 기대하는 효과를 입증해야 한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

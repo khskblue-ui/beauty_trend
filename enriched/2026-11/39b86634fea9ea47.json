@@ -1,0 +1,73 @@
+{
+ "doc_id": "39b86634fea9ea47",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53904",
+ "title": "설화수, 피부 노화 연구 새 지평 연다",
+ "summary": "제 2회 설화수 롱제비티 심포지엄(Sulwhasoo Longevity Symposium) 아모레퍼시픽이 피부 노화를 세포 기능의 변화라는 새로운 관점에서 조명하고, 60년간 축적한 인삼 연구를 바탕으로 피부 장수(Skin Longevity) 연구 영역 확대에 나섰다. 아모레퍼시픽은 제 2회 ‘설화수 롱제비티…",
+ "published_at": "2026-11-09T09:18:12+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "피부 장수",
+   "인삼 과학",
+   "세포 정체성"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아모레퍼시픽이 인삼 연구를 바탕으로 피부 노화를 세포 기능의 변화로 보는 피부 장수 연구를 넓힌다.",
+  "key_fact_quote": "아모레퍼시픽이 피부 노화를 세포 기능의 변화라는 새로운 관점에서 조명하고, 60년간 축적한 인삼 연구를 바탕으로 피부 장수(Skin Longevity) 연구 영역 확대에 나섰다.",
+  "events": [
+   {
+    "name": "설화수 롱제비티 심포지엄",
+    "start_date": "2026-11-02",
+    "end_date": null,
+    "place": "용산 본사",
+    "quote": "아모레퍼시픽은 제 2회 ‘설화수 롱제비티 심포지엄’(Sulwhasoo Longevity Symposium ·11월 2일·용산 본사)을 개최했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "인삼",
+    "quote": "아모레퍼시픽이 피부 노화를 세포 기능의 변화라는 새로운 관점에서 조명하고, 60년간 축적한 인삼 연구를 바탕으로 피부 장수(Skin Longevity) 연구 영역 확대에 나섰다."
+   },
+   {
+    "name": "림파낙스™",
+    "quote": "마틴 알폰스 교수는 아모레퍼시픽 독자 성분 ‘림파낙스™’ 와 피부 면역의 관계를 소개했다."
+   },
+   {
+    "name": "레드플라보노이드™",
+    "quote": "애나 치엔 교수는 독자 성분 ‘레드플라보노이드™’ 에 관한 연구 결과를 공개했다."
+   },
+   {
+    "name": "진세노믹스™",
+    "quote": "아모레퍼시픽 R&I센터 박원석 박사는 자외선 스트레스 환경에서 ‘진세노믹스™’ 가 피부 세포의 정체성과 관련된 변화에 미치는 영향을 살펴본 연구 내용에 대해 밝혔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

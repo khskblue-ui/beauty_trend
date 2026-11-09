@@ -1,0 +1,42 @@
+{
+ "doc_id": "273fe9de360bda11",
+ "source": "mfds_press",
+ "source_name": "식약처 보도자료",
+ "group": "regulation",
+ "lang": "ko",
+ "url": "https://www.mfds.go.kr/brd/m_99/view.do?seq=50481",
+ "title": "식약처, K-뷰티 중남미 수출 확대 위해 민·관 합동 진출지원단 파견",
+ "summary": "",
+ "published_at": "2026-11-09T08:00:15+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "중남미 진출",
+   "민관 합동 지원"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "식약처가 K-뷰티의 중남미 수출 확대를 위해 민관 합동 진출지원단을 파견한다.",
+  "key_fact_quote": "식약처, K-뷰티 중남미 수출 확대 위해 민·관 합동 진출지원단 파견",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

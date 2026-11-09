@@ -1,0 +1,60 @@
+{
+ "doc_id": "944823a25369f06a",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/beautyworld-osaka-draws-record-37,28504",
+ "title": "Beautyworld Osaka draws record 37,561 visitors, highlights sleep wellness",
+ "summary": "The beauty trade fair focusing on western Japan concluded its three-day run from 19-21 October 2026 at INTEX Osaka, welcoming a record 37,561 trade visitors, up 7.3% from the previous year. A total of 573 exhibitors from Japan and overseas showcased products and services across the aesthetic, hair, nail, eyelash, wellness and other beauty-related sectors, reflecting current industry trends. International participation included 91 exhibitors from six countries and regions: China, Hong Kong,... - Industry buzz / Asia / Pacific",
+ "published_at": "2026-11-09T06:43:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "Messe Frankfurt",
+   "Japan Nailist Association"
+  ],
+  "keywords": [
+   "미용 박람회",
+   "수면 웰니스",
+   "클리닉 케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "오사카에서 열린 뷰티 박람회가 수면 웰니스 구역을 새로 선보이며 마무리됐다.",
+  "key_fact_quote": "The fair featured 12 zones, including the newly introduced Sleep + Recovery zone , showcasing recovery wear and sleep-related products and services.",
+  "events": [
+   {
+    "name": "Beautyworld Osaka",
+    "start_date": "2026-10-19",
+    "end_date": "2026-10-21",
+    "place": "INTEX Osaka",
+    "quote": "The beauty trade fair focusing on western Japan concluded its three-day run from 19-21 October 2026 at INTEX Osaka, welcoming a record 37,561 trade visitors, up 7.3% from the previous year ."
+   },
+   {
+    "name": "Beautyworld Osaka",
+    "start_date": "2027-10-18",
+    "end_date": "2027-10-20",
+    "place": "INTEX Osaka",
+    "quote": "The next edition of Beautyworld Osaka will take place from 18-20 October 2027 at INTEX Osaka, Halls 1, 2, 4, 5, 6A and 6B."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

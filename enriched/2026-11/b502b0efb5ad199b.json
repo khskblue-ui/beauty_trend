@@ -1,0 +1,72 @@
+{
+ "doc_id": "b502b0efb5ad199b",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/takasago-expands-its-middle-east,28510",
+ "title": "Takasago expands its Middle East presence with new Dubai Creative Centre",
+ "summary": "On October 5, ahead of the Beautyworld Middle East trade show, Takasago officially inaugurated its new Creative Centre in Dubai, marking a further step in strengthening its presence in the region. The opening ceremony brought together several senior executives, including Paul Ireland, President of Takasago's Fragrance Division; Bassel Kouchacji, Managing Director of Fragrance Middle East; Frédéric Rivoire, Head of Fine Fragrance EMEA; Sylvain Eyraud, VP of Fine Fragrance Europe Sales, Global... - Industry buzz / Africa / Middle East",
+ "published_at": "2026-11-09T16:41:56+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "AE",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "Takasago"
+  ],
+  "keywords": [
+   "향료 연구소",
+   "중동 향수 시장",
+   "조향",
+   "오리엔탈 향"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Tears of the Phoenix",
+    "brand": "Takasago",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "resins",
+     "Hinoki"
+    ],
+    "notes_quote": "Named Tears of the Phoenix , the creation combines resins with Hinoki, the renowned Japanese cypress."
+   }
+  ],
+  "key_fact": "Takasago가 두바이에 새 크리에이티브 센터를 열고 중동 시장 기반을 넓혔다.",
+  "key_fact_quote": "On October 5, ahead of the Beautyworld Middle East trade show, Takasago officially inaugurated its new Creative Centre in Dubai, marking a further step in strengthening its presence in the region.",
+  "events": [
+   {
+    "name": "Creative Centre in Dubai",
+    "start_date": "2026-10-05",
+    "end_date": null,
+    "place": "Dubai",
+    "quote": "On October 5, ahead of the Beautyworld Middle East trade show, Takasago officially inaugurated its new Creative Centre in Dubai, marking a further step in strengthening its presence in the region."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "Hinoki",
+    "quote": "Named Tears of the Phoenix , the creation combines resins with Hinoki, the renowned Japanese cypress."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

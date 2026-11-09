@@ -1,0 +1,51 @@
+{
+ "doc_id": "9b968f1e705c3f6a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/bio/pharmaceutical-bio/6347135",
+ "title": "식약처, K - 뷰티 중남미 공략 지원…브라질에 민관 지원단 파견",
+ "summary": "현지 소비자와 바이어를 대상으로 한국 화장품을 홍보하고, 브라질 규제당국과 협력해 수출 장벽... 지원단은 행사 첫날인 2월 24일 상파울루에서 ' K - 뷰티 팝업스토어'를 운영한다. 현지 소비자에게 한국 화장품을...",
+ "published_at": "2026-11-09T08:43:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "BR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "브라질 진출",
+   "규제 협력"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식약처가 브라질에 민관 지원단을 보내 한국 화장품의 수출 장벽 해소를 돕는다.",
+  "key_fact_quote": "현지 소비자와 바이어를 대상으로 한국 화장품을 홍보하고, 브라질 규제당국과 협력해 수출 장벽...",
+  "events": [
+   {
+    "name": "K - 뷰티 팝업스토어",
+    "start_date": "2027-02-24",
+    "end_date": null,
+    "place": "상파울루",
+    "quote": "지원단은 행사 첫날인 2월 24일 상파울루에서 ' K - 뷰티 팝업스토어'를 운영한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

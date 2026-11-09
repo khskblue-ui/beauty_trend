@@ -1,0 +1,72 @@
+{
+ "doc_id": "3d8ce050356a09b9",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100410",
+ "title": "루나, 日 도쿄 시부야서 팝업 스토어 운영…현지 소비자 접점 확대",
+ "summary": "메이크업 전문 브랜드 ‘루나’(LUNA)가 11월 6일부터 7일까지 일본 도쿄 시부야의 미야시타 파크 2층 광장에서 팝업 스토어를 운영하며 현지 소비자와의 접점 확대에 나섰다.이번 팝업 스토어는 신제품 ‘클라우드 레이어’ 라인의 일본 오프라인 출시를 앞두고 사전 인지도를 높이는 한편, 루나의 핵심 경쟁력인 베이스 메이크업 전문성을 현지 소비자에게 알리기 위해 마련됐다. 국내 무신사 팝업에 이어 일본에서도 브랜드 단독 팝업을 순차적으로 운영해 일관된 브랜드 메시지를 전달하고 글로벌 시장에서 토탈 K-뷰티 브랜드로서의 입지를 강화한다는",
+ "published_at": "2026-11-09T09:55:22+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "루나"
+  ],
+  "companies": [],
+  "keywords": [
+   "K-메이크업",
+   "팝업 스토어",
+   "베이스 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "클라우드 레이어",
+    "brand": "루나",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "이번 팝업 스토어는 신제품 ‘클라우드 레이어’ 라인의 일본 오프라인 출시를 앞두고 사전 인지도를 높이는 한편,",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "루나 컨실러",
+    "brand": "루나",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "루나가 신제품 출시를 앞두고 일본 도쿄 시부야에서 팝업 스토어를 열었다.",
+  "key_fact_quote": "메이크업 전문 브랜드 ‘루나’(LUNA)가 11월 6일부터 7일까지 일본 도쿄 시부야의 미야시타 파크 2층 광장에서 팝업 스토어를 운영하며 현지 소비자와의 접점 확대에 나섰다.",
+  "events": [
+   {
+    "name": "LUNA MAKEUP BAR",
+    "start_date": "2026-11-06",
+    "end_date": "2026-11-07",
+    "place": "일본 도쿄 시부야의 미야시타 파크 2층 광장",
+    "quote": "메이크업 전문 브랜드 ‘루나’(LUNA)가 11월 6일부터 7일까지 일본 도쿄 시부야의 미야시타 파크 2층 광장에서 팝업 스토어를 운영하며 현지 소비자와의 접점 확대에 나섰다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

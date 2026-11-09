@@ -1,0 +1,55 @@
+{
+ "doc_id": "8b5f2dd4cae2b029",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2490166",
+ "title": "루나, 도쿄 시부야서 '베이스 메이크업' 입지 다졌다",
+ "summary": "이번 팝업은 신제품 '클라우드 레이어' 라인의 일본 온·오프라인 공식 출시 에 앞서 현지 소비자에게... 일본 주요 뷰티 매체와 유통 관계자를 초청해 브랜드와 신제품 을 소개했으며, 7일에는 일반 소비자를 대상으로...",
+ "published_at": "2026-11-09T17:55:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "루나"
+  ],
+  "companies": [],
+  "keywords": [
+   "베이스 메이크업",
+   "K-뷰티 팝업",
+   "일본 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "클라우드 레이어",
+    "brand": "루나",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "이번 팝업은 신제품 '클라우드 레이어' 라인의 일본 온·오프라인 공식 출시 에 앞서 현지 소비자에게",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "루나가 도쿄에서 팝업을 열어 일본 출시를 앞둔 신제품 라인을 소개했다.",
+  "key_fact_quote": "이번 팝업은 신제품 '클라우드 레이어' 라인의 일본 온·오프라인 공식 출시 에 앞서 현지 소비자에게",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": false
+}

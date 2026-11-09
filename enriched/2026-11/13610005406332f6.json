@@ -1,0 +1,64 @@
+{
+ "doc_id": "13610005406332f6",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53912",
+ "title": "“0.24초당 1개” 달바 ‘프로2X 미스트 펩타이드’",
+ "summary": "달바 ‘프로2X 미스트 펩타이드’가 국내외 시장에서 인기다. 이 제품은 국내 출시 7일 만에 1만개 판매를 돌파했다. 이어 해외 론칭 기념 생방송에서 0.24초당 1개꼴로 판매됐다. 40분 만에 준비물량 1만개가 팔리며 대세감을 입증했다. 미국 아마존에선 한달만에 월 매출이 263% 성장했다. ‘프로2X 미스…",
+ "published_at": "2026-11-09T18:03:58+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "달바"
+  ],
+  "companies": [],
+  "keywords": [
+   "미스트 세럼",
+   "엑소좀",
+   "K-뷰티 해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "프로2X 미스트 펩타이드",
+    "brand": "달바",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이 제품은 국내 출시 7일 만에 1만개 판매를 돌파했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "달바의 프로2X 미스트 펩타이드가 해외 론칭 생방송에서 준비 물량이 모두 팔렸다.",
+  "key_fact_quote": "40분 만에 준비물량 1만개가 팔리며 대세감을 입증했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "펩타이드 엑소좀™",
+    "quote": "펩타이드 엑소좀™, 트러플 엑소좀™, 액티브 세럼을 각각 10% 배합했다."
+   },
+   {
+    "name": "트러플 엑소좀™",
+    "quote": "펩타이드 엑소좀™, 트러플 엑소좀™, 액티브 세럼을 각각 10% 배합했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

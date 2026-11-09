@@ -1,0 +1,72 @@
+{
+ "doc_id": "f37d7565c5f0b57b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100412",
+ "title": "리쥬란코스메틱, 일본 앳코스메 '약사의 혼잣말' 팝업 성료",
+ "summary": "재생의학 전문기업 파마리서치(대표 손지훈)의 프리미엄 더마 코스메틱 브랜드 ‘리쥬란코스메틱’이 지난 10월 약 2주간 일본 앳코스메 도쿄(@cosme TOKYO)에서 인기 TV 애니메이션 '약사의 혼잣말'과 협업한 팝업 이벤트를 성황리에 마쳤다고 9일 밝혔다.이번 팝업은 리쥬란코스메틱의 일본 진출 1주년을 기념해 기획됐으며, 브랜드 최초로 ‘약사의 혼잣말’과 협업해 작품의 세계관과 뷰티 체험을 결합했다. ‘약사의 혼잣말’은 주인공 마오마오가 약학 지식과 추리로 다양한 사건을 해결해 나가는 스토리를 그린 인기 애니메이션",
+ "published_at": "2026-11-09T09:59:52+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "리쥬란코스메틱"
+  ],
+  "companies": [
+   "파마리서치"
+  ],
+  "keywords": [
+   "애니메이션 협업",
+   "K-뷰티 일본 진출",
+   "브랜드 팝업",
+   "더마 코스메틱"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리쥬란 듀얼 이펙트 앰플",
+    "brand": "리쥬란코스메틱",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "포어 타이트닝 앰플",
+    "brand": "리쥬란코스메틱",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "리쥬란코스메틱이 일본 앳코스메 도쿄에서 인기 애니메이션과 협업한 팝업을 열었다",
+  "key_fact_quote": "재생의학 전문기업 파마리서치(대표 손지훈)의 프리미엄 더마 코스메틱 브랜드 ‘리쥬란코스메틱’이 지난 10월 약 2주간 일본 앳코스메 도쿄(@cosme TOKYO)에서 인기 TV 애니메이션 '약사의 혼잣말'과 협업한 팝업 이벤트를 성황리에 마쳤다고 9일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "c-PDRN",
+    "quote": "‘c-PDRN’은 독자적인 기술력을 적용해 피부 개선 효능을 극대화한 리쥬란코스메틱의 시그니처 성분이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

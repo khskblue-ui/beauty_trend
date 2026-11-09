@@ -1,0 +1,74 @@
+{
+ "doc_id": "a85bf6688c4a264d",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312610",
+ "title": "K-뷰티 수출 호황 타고 아이블뷰티 해외 영토 확장",
+ "summary": "국내 화장품 수출이 사상 최대 실적을 향해 질주하는 가운데 인디 뷰티 브랜드들의 해외 진출이 이어지고 있다. 미국과 유럽을 중심으로 K-뷰티 수요가 확대되면서 중소 브랜드들이 신흥 시장 개척에 나서고 있다.산업통상자원부에 따르면 올해 10월 화장품 수출액은 14억4400만 달러로 전년 동기 대비 57.5% 증가하며 역대 10월 기준 최고 실적을 기록했다. 1~10월 누적 수출액도 125억6900만 달러에 달해 지난해 연간 수출액(114억1800만 달러)을 이미 넘어섰다.이 같은 수출 호조 속에서 인디 뷰티 브랜드 아이블뷰티도 유럽과",
+ "published_at": "2026-11-09T15:10:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "KZ",
+   "EG",
+   "AE",
+   "FR",
+   "US",
+   "VN"
+  ],
+  "brands": [
+   "아이블뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "인디 뷰티",
+   "피부 장벽"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아이블 프리미엄 비사보롤 앰플",
+    "brand": "아이블뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "수퍼배리어 수분크림",
+    "brand": "아이블뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아이블뷰티가 카자흐스탄 바이어와 수출 계약을 맺고 중동과 중앙아시아로 사업을 넓히고 있다.",
+  "key_fact_quote": "아이블뷰티는 최근 카자흐스탄 바이어와 20만 달러 규모의 수출 계약을 체결했다고 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "비사보롤",
+    "quote": "해외 시장에서 가장 높은 관심을 받고 있는 제품은 ‘아이블 프리미엄 비사보롤 앰플’이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}

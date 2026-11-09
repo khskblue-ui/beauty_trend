@@ -1,0 +1,48 @@
+{
+ "doc_id": "2d320c8ed988e5ab",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312722",
+ "title": "2026 광군제, '할인' 빼고 'AI 도우미' 등장… K-뷰티의 새 과제는 'GEO'",
+ "summary": "2026년 광군제에서 가장 주목받는 변화 중 하나는 인공지능(AI)의 영향력 확대다.과거 광군제가 할인 경쟁의 무대였다면, 2026년 광군제는 AI가 소비자와 상품을 연결하는 플랫폼으로 진화하고 있다. 복잡한 할인 구조가 단순화되고 AI 쇼핑 도우미 활용이 확대되면서 소비자들은 가격 혜택보다 제품 효능과 실제 사용 경험, 브랜드 신뢰도를 중심으로 구매를 결정하는 경향을 보이고 있다.AI가 단순한 검색 도구를 넘어 소비자의 구매 결정을 지원하는 쇼핑 도우미 역할까지 수행하면서 중국 전자상거래 시장의 경쟁 구도에도 변화가 나타나고 있다",
+ "published_at": "2026-11-09T09:50:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "티몰",
+   "타오바오",
+   "더우인"
+  ],
+  "keywords": [
+   "광군제",
+   "AI 쇼핑 도우미",
+   "생성형 엔진 최적화",
+   "소비자 후기"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "광군제에서 AI 쇼핑 도우미의 영향력이 커져 K-뷰티도 AI가 찾아내기 쉬운 정보를 갖춰야 한다.",
+  "key_fact_quote": "2026년 광군제에서 가장 주목받는 변화 중 하나는 인공지능(AI)의 영향력 확대다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-09T21:36:37+00:00",
+ "had_body": true
+}
