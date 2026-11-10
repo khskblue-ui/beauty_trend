@@ -1,0 +1,52 @@
+{
+ "doc_id": "5f8e59c9d5af993e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/living/2026/11/10/2026111016560614813",
+ "title": "신세계인터내셔날, 3분기 패션·뷰티 고른 성과…외형 확대·이익 반등",
+ "summary": "니치 향수 에 대한 수요가 이어지며 메종 프란시스 커정, 메모 파리, 에르메스 뷰티, 딥티크, 로에베 퍼퓸 등이 성장했다. 로라 메르시에와 아워글래스 등 색조 브랜드도 두 자릿수 매출 증가를 기록하며 향수부터...",
+ "published_at": "2026-11-10T17:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메종 프란시스 커정",
+   "메모 파리",
+   "딥티크",
+   "로에베 퍼퓸",
+   "에르메스 뷰티",
+   "로라 메르시에",
+   "아워글래스"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "니치 향수",
+   "럭셔리 뷰티",
+   "색조 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "니치 향수 수요가 이어지며 신세계인터내셔날의 향수 브랜드들이 성장했다.",
+  "key_fact_quote": "니치 향수 에 대한 수요가 이어지며 메종 프란시스 커정, 메모 파리, 에르메스 뷰티, 딥티크, 로에베 퍼퓸 등이 성장했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

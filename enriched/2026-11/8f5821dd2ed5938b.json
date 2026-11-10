@@ -1,0 +1,55 @@
+{
+ "doc_id": "8f5821dd2ed5938b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100422",
+ "title": "글로벌표준인증원, EU PPWR 대응 전략 세미나 성료",
+ "summary": "글로벌표준인증원(GSC)은 지난 6일 서울 양재 aT센터에서 ‘2026 EU PPWR 기업 대응 전략 세미나’를 성황리에 개최했다고 밝혔다.이번 행사는 글로벌표준인증원, KOECO, 한국에스지에스(SGS), 세명E&C가 공동 주최했다. 유럽 수출과 PPWR 규제 대응을 준비하는 기업 관계자를 대상으로, 규제의 주요 내용과 기업 운영 과정에서 검토해야 할 실무 사항을 공유하는 자리로 마련됐다.발표는 규제 이해와 대응 전략, 포장재 시험·검증, 기업 내부 프로세스, 대응 서비스 등 네 가지 주제로 구성됐다.첫 발표를 맡은 글로벌표준인증",
+ "published_at": "2026-11-10T08:42:40+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "글로벌표준인증원",
+   "KOECO",
+   "한국에스지에스",
+   "세명E&C"
+  ],
+  "keywords": [
+   "EU 포장재 규제",
+   "PPWR 대응",
+   "포장재 적합성 평가"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "글로벌표준인증원 등이 EU 포장재 규제 대응 전략 세미나를 열었다.",
+  "key_fact_quote": "글로벌표준인증원(GSC)은 지난 6일 서울 양재 aT센터에서 ‘2026 EU PPWR 기업 대응 전략 세미나’를 성황리에 개최했다고 밝혔다.",
+  "events": [
+   {
+    "name": "2026 EU PPWR 기업 대응 전략 세미나",
+    "start_date": "2026-11-06",
+    "end_date": null,
+    "place": "서울 양재 aT센터",
+    "quote": "글로벌표준인증원(GSC)은 지난 6일 서울 양재 aT센터에서 ‘2026 EU PPWR 기업 대응 전략 세미나’를 성황리에 개최했다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "38e79ba70a6a7774",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065600214381380",
+ "title": "알럭스, 럭셔리 뷰티 브랜드 확대",
+ "summary": "시세이도는 디자이너 토모 고이즈미와 협업한 제품을 출시 했으며, 아워글래스는 주얼리 디자이너 로렌... 스킨케어 중심의 기존 상품 구성에서 벗어나 헤어와 바디, 향수 , 홈 프래그런스 등으로 카테고리를 확장하고...",
+ "published_at": "2026-11-10T17:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "시세이도",
+   "아워글래스"
+  ],
+  "companies": [
+   "알럭스"
+  ],
+  "keywords": [
+   "럭셔리 뷰티",
+   "홈 프래그런스",
+   "카테고리 확장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "알럭스가 스킨케어 중심에서 헤어, 바디, 향수, 홈 프래그런스로 럭셔리 뷰티 카테고리를 넓힌다.",
+  "key_fact_quote": "스킨케어 중심의 기존 상품 구성에서 벗어나 헤어와 바디, 향수 , 홈 프래그런스 등으로 카테고리를 확장하고",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

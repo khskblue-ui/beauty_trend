@@ -1,0 +1,44 @@
+{
+ "doc_id": "9c9969340e4149d3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.yna.co.kr/view/AKR20261110025951030?input=1195m",
+ "title": "무신사, 100번째 매장 '뷰티 성수' 개점…\"무신사 타운 조성\"(종합)",
+ "summary": "700개 브랜드 1만개 상품 선봬…무신사 매장 간 교차 방문 유도 무신사는 오는 11일 서울 성동구 성수동에... 의류와 신발을 중심으로 형성된 쇼핑 동선에 뷰티를 더해, 고객이 패션 아이템부터 향수 ·메이크업...",
+ "published_at": "2026-11-10T15:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "향수 체험",
+   "인디 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 성수에 뷰티 매장을 열어 패션 쇼핑 동선에 뷰티를 더한다.",
+  "key_fact_quote": "의류와 신발을 중심으로 형성된 쇼핑 동선에 뷰티를 더해, 고객이 패션 아이템부터 향수 ·메이크업",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

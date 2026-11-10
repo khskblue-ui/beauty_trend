@@ -1,0 +1,46 @@
+{
+ "doc_id": "948831b5d89159b0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285805",
+ "title": "무신사, 패션 넘어 뷰티·라이프스타일로 '투 트랙' 사업 확장",
+ "summary": "스킨케어와 메이크업, 향수 , 헤어·바디케어 등 약 700개 브랜드의 1만여 개 상품을 판매한다. 이번 매장은... 무신사 스탠다드는 대한민국 해군 창설 81주년을 기념해 해군과 협업한 '네이비 짐(NAVY GYM)' 컬렉션을 출시 한다....",
+ "published_at": "2026-11-10T10:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사 스탠다드"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "뷰티 편집숍",
+   "라이프스타일 확장",
+   "오프라인 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 패션에 더해 뷰티 매장을 열고 스킨케어부터 향수까지 판매한다.",
+  "key_fact_quote": "스킨케어와 메이크업, 향수 , 헤어·바디케어 등 약 700개 브랜드의 1만여 개 상품을 판매한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

@@ -1,0 +1,54 @@
+{
+ "doc_id": "6fe48314974edd34",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53923",
+ "title": "식약처, 화장품 인체적용시험 신뢰성 강화 나선다",
+ "summary": "식품의약품안전처(처장 오유경· www.mfds.go.kr )가 오는 19일(목) 서울 중구 로얄호텔서울에서 화장품 인체적용시험기관을 대상으로 ‘화장품 분야 정책설명회’를 개최한다. 이번 설명회는 화장품 효능·효과를 강조하는 광고가 늘어남에 따라 인체적용시험을 통해 확보한 실증자료의 신뢰성과…",
+ "published_at": "2026-11-10T17:02:02+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "식품의약품안전처",
+   "한국인체적용시험기관협의회"
+  ],
+  "keywords": [
+   "인체적용시험",
+   "표시·광고 실증",
+   "자외선차단 시험법",
+   "기능성화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식약처가 인체적용시험기관을 대상으로 화장품 정책설명회를 연다.",
+  "key_fact_quote": "식품의약품안전처(처장 오유경· www.mfds.go.kr )가 오는 19일(목) 서울 중구 로얄호텔서울에서 화장품 인체적용시험기관을 대상으로 ‘화장품 분야 정책설명회’를 개최한다.",
+  "events": [
+   {
+    "name": "화장품 분야 정책설명회",
+    "start_date": "2026-11-19",
+    "end_date": null,
+    "place": "서울 중구 로얄호텔서울",
+    "quote": "식품의약품안전처(처장 오유경· www.mfds.go.kr )가 오는 19일(목) 서울 중구 로얄호텔서울에서 화장품 인체적용시험기관을 대상으로 ‘화장품 분야 정책설명회’를 개최한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

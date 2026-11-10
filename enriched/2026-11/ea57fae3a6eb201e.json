@@ -1,0 +1,44 @@
+{
+ "doc_id": "ea57fae3a6eb201e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.e-science.co.kr/news/articleView.html?idxno=139392",
+ "title": "컬리, 마켓컬리 거래액 32.8% 늘었다... 뷰티 ·신사업도 동반 성장",
+ "summary": "뷰티 컬리 거래액은 25% 늘었다. 신규 브랜드 입점을 확대하고 더마 코스메틱 등 기능성 제품군을 강화한... 론칭 1년 만인 올해 9월 월 거래액은 초기 대비 10배로 늘었다. 네이버풀필먼트얼라이언스(NFA) 물량도 같은 기간...",
+ "published_at": "2026-11-10T14:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "컬리"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "기능성 화장품",
+   "뷰티 커머스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 컬리가 신규 브랜드 입점 확대와 기능성 제품군 강화로 거래액을 늘렸다.",
+  "key_fact_quote": "뷰티 컬리 거래액은 25% 늘었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

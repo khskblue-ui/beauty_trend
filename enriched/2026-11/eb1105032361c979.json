@@ -1,0 +1,90 @@
+{
+ "doc_id": "eb1105032361c979",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=56188",
+ "title": "클라랩, 브라이트닝 스킨케어 라인 '멜라샤인' 5종 신규 출시",
+ "summary": "이번 신제품 은 ▲클렌징 워터 ▲폼 클렌저 ▲필링젤 ▲기미 앰플 ▲기미 크림 등 총 5종으로 구성됐다. 피부... 특히 핵심 제품인 멜라 샤인 앰플과 크림은 미백·주름개선 2중 기능성 화장품 으로, 각각의 제품 특성에...",
+ "published_at": "2026-11-10T10:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "클라랩"
+  ],
+  "companies": [],
+  "keywords": [
+   "브라이트닝",
+   "기미 케어",
+   "미백 주름 기능성"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "클렌징 워터",
+    "brand": "클라랩",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "클라랩, 브라이트닝 스킨케어 라인 '멜라샤인' 5종 신규 출시",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "폼 클렌저",
+    "brand": "클라랩",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "클라랩, 브라이트닝 스킨케어 라인 '멜라샤인' 5종 신규 출시",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "필링젤",
+    "brand": "클라랩",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "클라랩, 브라이트닝 스킨케어 라인 '멜라샤인' 5종 신규 출시",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "기미 앰플",
+    "brand": "클라랩",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "클라랩, 브라이트닝 스킨케어 라인 '멜라샤인' 5종 신규 출시",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "기미 크림",
+    "brand": "클라랩",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "클라랩, 브라이트닝 스킨케어 라인 '멜라샤인' 5종 신규 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "클라랩이 브라이트닝 스킨케어 라인 멜라샤인을 새로 출시했다.",
+  "key_fact_quote": "클라랩, 브라이트닝 스킨케어 라인 '멜라샤인' 5종 신규 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

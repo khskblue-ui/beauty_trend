@@ -1,0 +1,75 @@
+{
+ "doc_id": "cf155c9e65a04746",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312744",
+ "title": "K-뷰티 수출 역대 최대…미국·유럽·호주 확장 지속",
+ "summary": "K-뷰티 수출이 사상 최대 실적을 경신한 가운데 국내 뷰티 브랜드들의 해외 진출은 더욱 강화되고 있다. 최근 미국, 유럽, 호주 등 주요 시장의 대형 리테일 채널 입점이 잇따르며 해외 소비자 접점을 확대하고 있다.산업통상자원부에 따르면 올해 10월 화장품 수출액은 14억4,400만 달러로 지난해 같은 기간(9억1,700만 달러)보다 57.5% 증가했다. 1~10월 누적 수출액은 125억6,900만 달러를 기록하며 지난해 연간 수출액인 114억1,800만 달러를 이미 넘어섰다.지역별로는 미국 수출이 2억3,000만 달러로 전년 동기",
+ "published_at": "2026-11-10T10:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "GB",
+   "AU",
+   "MX",
+   "CZ",
+   "CA",
+   "JP",
+   "CN"
+  ],
+  "brands": [
+   "더페이스샵",
+   "리엔케이",
+   "센텔리안24",
+   "몽클로스"
+  ],
+  "companies": [
+   "LG생활건강",
+   "코웨이",
+   "동국제약",
+   "얼타 뷰티",
+   "월마트",
+   "코스트코",
+   "부츠",
+   "더블유코스메틱"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "해외 리테일 입점",
+   "오프라인 유통 채널",
+   "드럭스토어 채널"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "안티에이징 크림",
+    "brand": "리엔케이",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "코웨이의 리엔케이(re:nk)는 미국 코스트코(Costco) 오프라인에 안티에이징 크림을 론칭했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "국내 뷰티 브랜드들이 미국 유럽 호주의 대형 리테일 채널에 잇따라 입점하고 있다.",
+  "key_fact_quote": "최근 미국, 유럽, 호주 등 주요 시장의 대형 리테일 채널 입점이 잇따르며 해외 소비자 접점을 확대하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

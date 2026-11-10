@@ -1,0 +1,44 @@
+{
+ "doc_id": "1fcb658819cfdb85",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fntimes.com/html/view.php?ud=202611101458013480b5b890e35c_18",
+ "title": "컬리 3분기 영업익 100억, 7개 분기 연속 흑자…식품·뷰티에 신사업 성...",
+ "summary": "신규 브랜드 입점을 확대하고 더마 코스메틱 등 기능성 화장품 상품군을 강화한 데 따른 것으로 회사... 출시 1년 만에 월 거래액은 10배, 네이버풀필먼트얼라이언스(NFA) 물량은 21배 증가했다. 매출 증가와 함께 비용...",
+ "published_at": "2026-11-10T15:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "컬리"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "기능성 화장품",
+   "온라인 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "컬리는 신규 브랜드 입점과 더마 코스메틱 강화로 뷰티 부문을 키웠다.",
+  "key_fact_quote": "신규 브랜드 입점을 확대하고 더마 코스메틱 등 기능성 화장품 상품군을 강화한 데 따른 것으로 회사",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

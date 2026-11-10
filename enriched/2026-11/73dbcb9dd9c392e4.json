@@ -1,0 +1,47 @@
+{
+ "doc_id": "73dbcb9dd9c392e4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=20261110100500782246a9e4dd7f_30",
+ "title": "몽클로스, 무신사 뷰티 성수 입점 '헤어·바디케어 10종' 선봬",
+ "summary": "약 400평 규모의 공간에 700여 개 브랜드 의 상품 1만여 개를 선보일 예정이다. 스킨케어와 메이크업, 향수 , 헤어·바디케어 등 다양한 제품군을 취급한다. 몽클로스는 이번 입점을 통해 국내 소비자와 성수를 방문하는...",
+ "published_at": "2026-11-10T10:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "몽클로스"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "헤어케어",
+   "바디케어",
+   "오프라인 뷰티 매장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "faf3a766558570ec",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

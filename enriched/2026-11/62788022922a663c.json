@@ -1,0 +1,46 @@
+{
+ "doc_id": "62788022922a663c",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/sally-beauty-surpasses-expectations-q4-results-1239409629/",
+ "title": "Sally Beauty Surpasses Expectations in Q4 Results",
+ "summary": "The beauty retailer reported modest sales growth, as it leans into its value proposition.",
+ "published_at": "2026-11-11T06:06:34+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Sally Beauty"
+  ],
+  "companies": [
+   "Sally Beauty"
+  ],
+  "keywords": [
+   "뷰티 리테일",
+   "가성비 전략",
+   "실적"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Sally Beauty가 분기 실적에서 소폭 매출 성장을 냈다.",
+  "key_fact_quote": "The beauty retailer reported modest sales growth, as it leans into its value proposition.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

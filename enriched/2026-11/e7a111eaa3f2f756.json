@@ -1,0 +1,45 @@
+{
+ "doc_id": "e7a111eaa3f2f756",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.widedaily.com/news/articleView.html?idxno=303238",
+ "title": "K-뷰티 효능 입증 신뢰도 높인다…식약처, 화장품 인체적용시험 정책설...",
+ "summary": "이와 함께 기능성 화장품 인체적용시험 자료의 신뢰성을 담보하기 위한 구체적인 관리 방안과 국제표준화기구(ISO) 기준 자외선차단제 시험 기법도 상세히 소개될 예정이다. 아울러 제품 출시 전 광고 문구를 점검하는 사전...",
+ "published_at": "2026-11-10T11:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "식약처"
+  ],
+  "keywords": [
+   "인체적용시험",
+   "기능성 화장품",
+   "자외선차단제 시험",
+   "광고 사전 점검"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식약처가 화장품 인체적용시험 정책설명회에서 시험 자료 신뢰성 관리 방안과 자외선차단제 시험 기법을 소개한다.",
+  "key_fact_quote": "이와 함께 기능성 화장품 인체적용시험 자료의 신뢰성을 담보하기 위한 구체적인 관리 방안과 국제표준화기구(ISO) 기준 자외선차단제 시험 기법도 상세히 소개될 예정이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

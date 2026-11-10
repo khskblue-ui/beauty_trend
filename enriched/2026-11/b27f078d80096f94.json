@@ -1,0 +1,50 @@
+{
+ "doc_id": "b27f078d80096f94",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2369092",
+ "title": "[LG생활건강] 3분기 영업이익 52% 증가…미국 유통망 확대·뷰티 사업 재...",
+ "summary": "더페이스샵은 미국 대형 화장품 유통업체 얼타 뷰티의 오프라인 매장 500여 곳에 입점했으며, 피지오겔과 비욘드는 연말 한정판 제품을 출시 했다. 청년 기후환경활동가를 지원하는 환경 프로젝트도 이어갔다....",
+ "published_at": "2026-11-10T18:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "더페이스샵",
+   "피지오겔",
+   "비욘드"
+  ],
+  "companies": [
+   "LG생활건강",
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "미국 유통 확대",
+   "연말 한정판",
+   "분기 실적"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "더페이스샵이 미국 얼타 뷰티 오프라인 매장에 입점했다.",
+  "key_fact_quote": "더페이스샵은 미국 대형 화장품 유통업체 얼타 뷰티의 오프라인 매장 500여 곳에 입점했으며, 피지오겔과 비욘드는 연말 한정판 제품을 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

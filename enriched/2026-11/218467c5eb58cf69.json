@@ -1,0 +1,44 @@
+{
+ "doc_id": "218467c5eb58cf69",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=369328",
+ "title": "[현장] 무신사 100번째 신규 매장은 '뷰티'…성수서 교차 구매 실험",
+ "summary": "1층은 메이크업과 스킨케어, 향수 중심으로 꾸몄고 2층에는 헤어·바디케어와 남성 뷰티, 웰니스... 무신사 측은 신제품 이나 새로운 제품군을 출시한 브랜드가 기존 상품과 구분해 소비자에게 알릴 수 있도록 오프라인...",
+ "published_at": "2026-11-10T16:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "향수 체험",
+   "인디 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티 성수는 1층을 메이크업, 스킨케어, 향수 중심으로 꾸몄다.",
+  "key_fact_quote": "1층은 메이크업과 스킨케어, 향수 중심으로 꾸몄고 2층에는 헤어·바디케어와 남성 뷰티, 웰니스",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

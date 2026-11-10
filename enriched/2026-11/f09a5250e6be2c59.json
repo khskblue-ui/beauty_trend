@@ -1,0 +1,44 @@
+{
+ "doc_id": "f09a5250e6be2c59",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/photos/8207196",
+ "title": "'무신사 뷰티 성수' 정식 개장 하루 앞으로…",
+ "summary": "'무신사 뷰티 성수' 정식 개장을 하루 앞둔 10일 오후 서울시 성동구 연무장길 무신사 뷰티 성수를 찾은 인플루언서와 브랜드 사 관계자들로 북적이고 있다. 무신사 뷰티 성수 1층은 스킨케어와 메이크업, 향수 등을...",
+ "published_at": "2026-11-10T15:33:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "뷰티 편집숍"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "ce33222223abd17c",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

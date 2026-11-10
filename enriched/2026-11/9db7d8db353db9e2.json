@@ -1,0 +1,47 @@
+{
+ "doc_id": "9db7d8db353db9e2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=881645",
+ "title": "히노아(HINOA), 인디뷰티 편집숍 '쁘띠박스' NC부천점 입점",
+ "summary": "인공 향료 를 배제한 무향 포뮬러이며 피부 자극 지수 0.00으로 저자극 임상을 마쳤다. 히노아는 친환경 경영을 실천하고 있다. 올드밀 부산물을 재활용한 친환경 지류 단상자를 사용한다. 분리배출이 쉬운 수분리...",
+ "published_at": "2026-11-10T10:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "히노아"
+  ],
+  "companies": [
+   "쁘띠박스"
+  ],
+  "keywords": [
+   "무향 포뮬러",
+   "저자극",
+   "친환경 패키지",
+   "인디 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "히노아가 인디뷰티 편집숍 쁘띠박스 매장에 입점했다.",
+  "key_fact_quote": "인공 향료 를 배제한 무향 포뮬러이며 피부 자극 지수 0.00으로 저자극 임상을 마쳤다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

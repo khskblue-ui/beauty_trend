@@ -1,0 +1,59 @@
+{
+ "doc_id": "5c763bcee3e9ad88",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/vytrus-launched-hydranode-for-skin-hydration-at-in",
+ "title": "Vytrus launched Hydranode for skin hydration at in-cosmetics Asia",
+ "summary": "Vytrus Biotech launched Hydranode at in-cosmetics Asia 2026, introducing hydration by activation, not by water supply. Inspired by the drought resilience of the Mediterranean forest, this biotech ferment acts on the skin microbiota to activate the Skin Hydric Interactome, boosting water transport and barrier function. Clinical studies show significant improvements in both surface and deep hydration from day 7, along with a more even water distribution and visibly plumper skin..",
+ "published_at": "2026-11-10T19:33:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Vytrus"
+  ],
+  "companies": [
+   "Vytrus Biotech"
+  ],
+  "keywords": [
+   "바이오 발효 원료",
+   "피부 마이크로바이옴",
+   "보습 원료"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Hydranode",
+    "brand": "Vytrus",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Vytrus Biotech launched Hydranode at in-cosmetics Asia 2026, introducing hydration by activation, not by water supply.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Vytrus Biotech이 피부 보습용 바이오 발효 원료 Hydranode를 선보였다.",
+  "key_fact_quote": "Vytrus Biotech launched Hydranode at in-cosmetics Asia 2026, introducing hydration by activation, not by water supply.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Hydranode",
+    "quote": "Vytrus Biotech launched Hydranode at in-cosmetics Asia 2026, introducing hydration by activation, not by water supply."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

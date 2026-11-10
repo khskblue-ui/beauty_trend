@@ -1,0 +1,48 @@
+{
+ "doc_id": "967ef2e4e6f9e7c3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.job-post.co.kr/news/articleView.html?idxno=237417",
+ "title": "한국콜마, 'CES 2027'서 뷰티테크 부문 2년 연속 최고혁신상",
+ "summary": "생산한 화장품 을 고객사와 함께 수출하는 동시에, 미국·중국·캐나다에서는 현지 생산으로 브랜드 주문을 확보하는 것\"이라며 \"2026년 3분기에는 국내에서 생산한 선케어·스킨케어와 글로벌 럭셔리 고객사 신제품 이...",
+ "published_at": "2026-11-10T10:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마",
+   "삼성전자"
+  ],
+  "keywords": [
+   "뷰티테크",
+   "AI 맞춤형 화장품",
+   "맞춤형 립 제조",
+   "피부 케어 디바이스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "5d1406e8a40360aa",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

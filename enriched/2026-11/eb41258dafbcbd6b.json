@@ -1,0 +1,45 @@
+{
+ "doc_id": "eb41258dafbcbd6b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=110&CONTENTS_NO=1&bbsGbn=245&bbsSn=245&pNttSn=245035",
+ "title": "멕시코 뷰티 산업의 최신 제품과 기술을 만나다, Expo Beauty Show 2026 참관...",
+ "summary": "현장 인터뷰 KOTRA 멕시코시티무역관은 전시회에 참가한 뷰티 기업 H사와 멕시코 내 K - 뷰티 시장의 성장과... 한국기업은 기존 제품을 그대로 수출 하기보다 멕시코 소비자의 수요에 맞는 성분과 제형을 갖춘 제품을...",
+ "published_at": "2026-11-10T09:47:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "MX",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "KOTRA"
+  ],
+  "keywords": [
+   "멕시코 뷰티 시장",
+   "K뷰티 수출",
+   "현지화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "멕시코 시장에서는 현지 소비자 수요에 맞는 성분과 제형을 갖춘 제품이 필요하다는 의견이 나왔다.",
+  "key_fact_quote": "한국기업은 기존 제품을 그대로 수출 하기보다 멕시코 소비자의 수요에 맞는 성분과 제형을 갖춘 제품을",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

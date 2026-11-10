@@ -1,0 +1,46 @@
+{
+ "doc_id": "effce8c95f6f63b7",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/skin-care/top-brands-olive-young-sephora-1239398701/",
+ "title": "The Top 10 Brands Inside Olive Young at Sephora",
+ "summary": "Arencia, Torriden, Abib, and more captured the majority share of dot-com sales among the 19 brands curated by Olive Young at the retailer.",
+ "published_at": "2026-11-10T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [
+   "Arencia",
+   "Torriden",
+   "Abib"
+  ],
+  "companies": [
+   "Olive Young",
+   "Sephora"
+  ],
+  "keywords": [
+   "K-뷰티 리테일",
+   "온라인 판매 순위"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "세포라 안 올리브영 큐레이션 브랜드 중 일부 브랜드가 온라인 매출의 대부분을 차지했다.",
+  "key_fact_quote": "Arencia, Torriden, Abib, and more captured the majority share of dot-com sales among the 19 brands curated by Olive Young at the retailer.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

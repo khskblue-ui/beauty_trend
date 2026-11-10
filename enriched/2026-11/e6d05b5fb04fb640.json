@@ -1,0 +1,91 @@
+{
+ "doc_id": "e6d05b5fb04fb640",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100436",
+ "title": "온라인 흥행 업은 미미박스 누니, 올리브영 오프라인 진출",
+ "summary": "글로벌 K뷰티 기업 미미박스(MBX, 대표 하형석)는 뷰티 브랜드 누니(nooni)가 올리브영 주요 거점 매장을 중심으로 오프라인 접점을 확대한다고 5일 밝혔다. 누니는 11월 1일부터 12월 31일까지 올리브영 강남 타운·두타점 등 주요 매장에서 체험 매대를 운영한다.지난 4월 올리브영 온라인몰에 첫 입점한 누니의 10월 올리브영 온라인 매출은 4월 대비 약 15배로 늘었다. 온라인에서 확인한 수요를 바탕으로 연말 주요 쇼핑 시즌에 맞춰 오프라인 유통 기반을 강화한다.매장에서는 ‘애플 립오일’ 10종과 ‘애플 립오일 쉬머’ 2종",
+ "published_at": "2026-11-10T13:23:46+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "누니"
+  ],
+  "companies": [
+   "미미박스",
+   "올리브영"
+  ],
+  "keywords": [
+   "립오일",
+   "오프라인 유통 확대",
+   "체험 매대"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "애플 립오일",
+    "brand": "누니",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "애플 립오일 쉬머",
+    "brand": "누니",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "미미박스의 누니가 올리브영 주요 매장에서 체험 매대를 운영하며 오프라인 접점을 넓힌다.",
+  "key_fact_quote": "누니는 11월 1일부터 12월 31일까지 올리브영 강남 타운·두타점 등 주요 매장에서 체험 매대를 운영한다.",
+  "events": [
+   {
+    "name": "체험 매대",
+    "start_date": "2026-11-01",
+    "end_date": "2026-12-31",
+    "place": "올리브영 강남 타운·두타점 등 주요 매장",
+    "quote": "누니는 11월 1일부터 12월 31일까지 올리브영 강남 타운·두타점 등 주요 매장에서 체험 매대를 운영한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "애플시드 오일",
+    "quote": "애플 립오일은 애플시드 오일과 식물성 오일, 과일 추출물, 비타민 E를 함유했으며, 가벼운 사용감과 편안한 발림성이 특징이다."
+   },
+   {
+    "name": "식물성 오일",
+    "quote": "애플 립오일은 애플시드 오일과 식물성 오일, 과일 추출물, 비타민 E를 함유했으며, 가벼운 사용감과 편안한 발림성이 특징이다."
+   },
+   {
+    "name": "과일 추출물",
+    "quote": "애플 립오일은 애플시드 오일과 식물성 오일, 과일 추출물, 비타민 E를 함유했으며, 가벼운 사용감과 편안한 발림성이 특징이다."
+   },
+   {
+    "name": "비타민 E",
+    "quote": "애플 립오일은 애플시드 오일과 식물성 오일, 과일 추출물, 비타민 E를 함유했으며, 가벼운 사용감과 편안한 발림성이 특징이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

@@ -1,0 +1,71 @@
+{
+ "doc_id": "e1c0a43e9e8c5304",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100430",
+ "title": "제니퍼 로페즈 프래그런스, 신제품 ‘글로우 바이 제이로 퓨어 EDP’",
+ "summary": "제니퍼 로페즈 프래그런스가 2026월 10월, 햄튼의 순수하고 평온한 분위기에서 영감을 받은 신제품 ‘글로우 바이 제이로 퓨어 오 드 퍼퓸(GLOW BY JLO PURE EDP)’을 선보인다. 상쾌한 바닷바람과 따뜻한 햇살, 깨끗한 화이트 코튼 리넨이 어우러진 햄튼의 풍경을 향으로 담아내 맨살에 닿는 깨끗한 흰 옷의 감촉처럼 섬세하고 친밀한 향을 선사한다.글로우 바이 제이로 퓨어 EDP는 청량하고 순수한 분위기에 포근하고 세련된 감성을 더한 플로럴 머스키 우디 계열의 향수이다. 햄튼의 정원을 스치는 산뜻한 바람을 연상시키는 시트러스",
+ "published_at": "2026-11-10T09:57:06+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "제니퍼 로페즈 프래그런스"
+  ],
+  "companies": [],
+  "keywords": [
+   "셀러브리티 향수",
+   "머스크 향수",
+   "클린 향"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "글로우 바이 제이로 퓨어 EDP",
+    "brand": "제니퍼 로페즈 프래그런스",
+    "launch_date": "2026-10",
+    "launch_status": "launched",
+    "launch_quote": "제니퍼 로페즈 프래그런스가 2026월 10월, 햄튼의 순수하고 평온한 분위기에서 영감을 받은 신제품 ‘글로우 바이 제이로 퓨어 오 드 퍼퓸(GLOW BY JLO PURE EDP)’을 선보인다.",
+    "notes": [
+     "플로럴",
+     "머스키",
+     "우디"
+    ],
+    "notes_quote": "글로우 바이 제이로 퓨어 EDP는 청량하고 순수한 분위기에 포근하고 세련된 감성을 더한 플로럴 머스키 우디 계열의 향수이다."
+   }
+  ],
+  "key_fact": "제니퍼 로페즈 프래그런스가 플로럴 머스키 우디 계열의 새 향수 글로우 바이 제이로 퓨어 EDP를 선보인다.",
+  "key_fact_quote": "제니퍼 로페즈 프래그런스가 2026월 10월, 햄튼의 순수하고 평온한 분위기에서 영감을 받은 신제품 ‘글로우 바이 제이로 퓨어 오 드 퍼퓸(GLOW BY JLO PURE EDP)’을 선보인다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "과테말라 카다멈 에센스",
+    "quote": "햄튼의 정원을 스치는 산뜻한 바람을 연상시키는 시트러스와 플럼의 싱그러움으로 시작해 핑크 페퍼와 과테말라 카다멈 에센스가 생기 있는 스파클을 더한다."
+   },
+   {
+    "name": "터키시 다마스크 로즈 앱솔루트",
+    "quote": "이어 은방울꽃과 바이올렛, 매그놀리아의 맑고 투명한 플로럴 향에 터키시 다마스크 로즈 앱솔루트가 은은한 관능미를 더한다."
+   },
+   {
+    "name": "앰버그리스",
+    "quote": "마지막으로 샌달우드와 시더우드, 따뜻한 머스크와 앰버그리스가 부드럽게 어우러지며 피부에 자연스럽게 스며드는 듯 포근하고 우아한 잔향을 완성한다."
+   }
+  ],
+  "dropped": [
+   "notes:글로우 바이 제이로 퓨어 EDP"
+  ]
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

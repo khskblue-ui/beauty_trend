@@ -1,0 +1,56 @@
+{
+ "doc_id": "a5a00d5a2d7e9ea4",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100423",
+ "title": "P&K, 태국 ‘인코스메틱스 아시아 2026’ 참가",
+ "summary": "국내 1위 피부 인체적용시험 전문기업 피엔케이피부임상연구센타(각자대표 박진오·이해광, 이하 P&K)가 지난 3일부터 5일까지 태국 방콕에서 열린 화장품 원료·기술 전시회 ‘인코스메틱스 아시아 2026(in-cosmetics Asia)’에 참가했다.피엔케이는 이번 전시를 통해 피부임상 데이터를 단순 효능 검증을 넘어 해외 마케팅 콘텐츠까지 연계하는 종합 지원 방안을 선보였다. 현장에서는 인체적용시험 결과를 시각화한 이미지와 다양한 효능평가 사례가 공개됐다.특히 광간섭단층촬영(OCT)과 라만 분광법(Raman Spectroscopy)을",
+ "published_at": "2026-11-10T08:50:21+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "피엔케이피부임상연구센타",
+   "아마존",
+   "큐텐"
+  ],
+  "keywords": [
+   "인체적용시험",
+   "피부 임상 데이터",
+   "효능 마케팅",
+   "더마코스메틱"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "피엔케이가 인코스메틱스 아시아에서 피부 임상 데이터를 해외 마케팅에 쓰는 방안을 선보였다.",
+  "key_fact_quote": "국내 1위 피부 인체적용시험 전문기업 피엔케이피부임상연구센타(각자대표 박진오·이해광, 이하 P&K)가 지난 3일부터 5일까지 태국 방콕에서 열린 화장품 원료·기술 전시회 ‘인코스메틱스 아시아 2026(in-cosmetics Asia)’에 참가했다.",
+  "events": [
+   {
+    "name": "인코스메틱스 아시아 2026",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-05",
+    "place": "태국 방콕",
+    "quote": "국내 1위 피부 인체적용시험 전문기업 피엔케이피부임상연구센타(각자대표 박진오·이해광, 이하 P&K)가 지난 3일부터 5일까지 태국 방콕에서 열린 화장품 원료·기술 전시회 ‘인코스메틱스 아시아 2026(in-cosmetics Asia)’에 참가했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

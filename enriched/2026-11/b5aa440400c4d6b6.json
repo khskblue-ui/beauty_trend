@@ -1,0 +1,44 @@
+{
+ "doc_id": "b5aa440400c4d6b6",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-executive-moves-november-2026-1239398638/",
+ "title": "The Latest Beauty Executive Moves at Front Row, the Estée Lauder Cos. and More",
+ "summary": "Lyma and Clinique introduce new leaders to their marketing teams, plus other C-suite changes.",
+ "published_at": "2026-11-10T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Lyma",
+   "Clinique"
+  ],
+  "companies": [
+   "Front Row",
+   "Estée Lauder Cos."
+  ],
+  "keywords": [
+   "경영진 인사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "라이마와 클리니크가 마케팅 조직에 새 리더를 들였다.",
+  "key_fact_quote": "Lyma and Clinique introduce new leaders to their marketing teams, plus other C-suite changes.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

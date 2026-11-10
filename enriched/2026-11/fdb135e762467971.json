@@ -1,0 +1,45 @@
+{
+ "doc_id": "fdb135e762467971",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.lawissue.co.kr/view.php?ud=20261110081504985204ead0791_12",
+ "title": "무신사, 오프라인 100호점 성수에 마련…뷰티 브랜드 700곳 집결",
+ "summary": "스킨케어와 메이크업, 향수 , 헤어·바디케어 등 700여 개 브랜드 의 상품 1만여 종을 갖췄다. 매장 내부에는 무신사 뷰티의 상징색인 코랄을 주요 색상으로 적용했다. 이번 매장은 성수 일대에 형성된 무신사 오프라인 사업...",
+ "published_at": "2026-11-10T08:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사 뷰티"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "뷰티 편집숍"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 오프라인 100호점을 성수 뷰티 매장으로 마련했다.",
+  "key_fact_quote": "스킨케어와 메이크업, 향수 , 헤어·바디케어 등 700여 개 브랜드 의 상품 1만여 종을 갖췄다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

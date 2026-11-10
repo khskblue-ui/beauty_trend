@@ -1,0 +1,46 @@
+{
+ "doc_id": "2e905218930e0995",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.segye.com/newsView/20261110505462?OutUrl=naver",
+ "title": "“성수 일대 동선 하나로 잇는다”…무신사 100번째 매장 ‘무신사 뷰티...",
+ "summary": "약 700개 브랜드의 1만여 개 상품을 갖췄으며 브랜드 팝업존과 스킨케어존, 향수 체험 공간, 피부 고민별... 신제품 출시나 특정 상품의 오프라인 최초 공개 등 팝업을 통해 소개할 만한 콘텐츠가 있는 브랜드를 중심으로...",
+ "published_at": "2026-11-10T17:57:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사 뷰티"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "향수 체험 공간",
+   "팝업존"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 성수에 팝업존과 향수 체험 공간을 갖춘 뷰티 매장을 연다.",
+  "key_fact_quote": "약 700개 브랜드의 1만여 개 상품을 갖췄으며 브랜드 팝업존과 스킨케어존, 향수 체험 공간, 피부 고민별",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

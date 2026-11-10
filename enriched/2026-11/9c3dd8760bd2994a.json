@@ -1,0 +1,44 @@
+{
+ "doc_id": "9c3dd8760bd2994a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54496",
+ "title": "무신사 100번째 '뷰티 매장'…700개 브랜드 선보여",
+ "summary": "700개 브랜드 의 1만여개 상품을 선보인다. 전체 입점 브랜드 의 80%는 인디 브랜드 로 구성됐다. 팝업스토어와... 의류와 신발을 중심으로 형성된 동선에 뷰티를 더해, 패션부터 향수 ·메이크업·라이프스타일 상품까지...",
+ "published_at": "2026-11-10T09:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "뷰티 편집숍",
+   "인디 브랜드",
+   "오프라인 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 인디 브랜드 중심의 뷰티 매장을 열어 향수와 메이크업 상품까지 판매한다.",
+  "key_fact_quote": "전체 입점 브랜드 의 80%는 인디 브랜드 로 구성됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

@@ -1,0 +1,48 @@
+{
+ "doc_id": "111a92b2d33c953a",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312768",
+ "title": "주가로 읽는 K-뷰티: 중견주, 외국인은 담고 기관은 관망",
+ "summary": "최근 5거래일 동안 중견 화장품주의 주가가 일제히 하락한 것으로 나타났다. 외국인 투자자들은 일부 종목을 중심으로 매수세를 보였지만 기관투자자들은 전반적으로 관망하는 모습이었다.뷰티경제가 네이버증권 자료를 바탕으로 한국화장품, 토니모리, 에이블씨엔씨, 잇츠한불, 애경산업 등 국내 중견 화장품주 5개 종목의 최근 5거래일(11월 3일~9일) 투자자별 수급과 주가 흐름을 분석한 결과, 전 종목이 하락세를 나타낸 것으로 집계됐다.분석 기간 동안 5개 종목의 주가는 2.22~5.59% 하락했다. 수급 측면에서는 한국화장품, 토니모리, 에이",
+ "published_at": "2026-11-10T19:42:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국화장품",
+   "토니모리",
+   "에이블씨엔씨",
+   "잇츠한불",
+   "애경산업"
+  ],
+  "keywords": [
+   "화장품주",
+   "외국인 순매수",
+   "투자심리 위축"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중견 화장품주가 외국인 순매수에도 일제히 하락했다.",
+  "key_fact_quote": "최근 5거래일 동안 중견 화장품주의 주가가 일제히 하락한 것으로 나타났다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

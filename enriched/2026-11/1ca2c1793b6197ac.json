@@ -1,0 +1,43 @@
+{
+ "doc_id": "1ca2c1793b6197ac",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/miley-cyrus-maybe-its-maybelline-new-slogan-1239402476/",
+ "title": "EXCLUSIVE: Maybelline New York’s Iconic ‘Maybe She’s Born With It’ Tagline Gets a Revamp",
+ "summary": "For the first time since the slogan was introduced in 1991, Maybelline is adjusting it “in the direction of what women need today,” said global president Sandrine Jolly.",
+ "published_at": "2026-11-10T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Maybelline New York"
+  ],
+  "companies": [],
+  "keywords": [
+   "브랜드 슬로건 개편",
+   "브랜드 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "메이블린이 대표 슬로건을 처음으로 고친다.",
+  "key_fact_quote": "For the first time since the slogan was introduced in 1991, Maybelline is adjusting it “in the direction of what women need today,” said global president Sandrine Jolly.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

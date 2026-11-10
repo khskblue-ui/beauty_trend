@@ -1,0 +1,56 @@
+{
+ "doc_id": "385c3921952d1ac2",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53920",
+ "title": "“PPWR 알아야 K-뷰티 유럽길 열린다”",
+ "summary": "글로벌 뷰티시장에서 환경 규제가 수출 경쟁력을 좌우하는 핵심 변수로 부상했다. 유럽연합(EU)의 ‘포장 및 포장폐기물 규정’(PPWR)은 포장재의 재활용 가능성과 최소화, 재생원료 사용 등을 명시하며 뷰티산업 전반에 변화를 예고하고 있다. K-뷰티업계도 용기·포장재 설계부터 소재 선정, 시험·검증…",
+ "published_at": "2026-11-10T11:48:52+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "글로벌표준인증원",
+   "한국에스지에스",
+   "세명E&C",
+   "코이코"
+  ],
+  "keywords": [
+   "포장재 규제",
+   "재활용 포장",
+   "재생 플라스틱",
+   "친환경 패키징"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "EU 포장 및 포장폐기물 규정이 적용되면서 화장품 기업도 포장재 설계부터 대응해야 한다.",
+  "key_fact_quote": "2026년 8월 12일부터 적용된 이 규정은 포장재의 재활용 가능성, 재생원료 사용, 포장 최소화 등 전 생애주기에 걸친 요건을 담고 있어 제조·유통기업의 포장 설계와 공급망 전반에 영향을 미친다.",
+  "events": [
+   {
+    "name": "2026 EU PPWR 기업 대응 전략 세미나",
+    "start_date": "2026-11-06",
+    "end_date": null,
+    "place": "서울 양재동 aT센터",
+    "quote": "글로벌표준인증원(대표 전재금)은 지난 6일 서울 양재동 aT센터에서 ‘2026 EU PPWR 기업 대응 전략 세미나’를 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

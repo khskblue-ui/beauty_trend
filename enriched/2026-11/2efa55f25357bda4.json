@@ -1,0 +1,44 @@
+{
+ "doc_id": "2efa55f25357bda4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731050",
+ "title": "알럭스, 론칭 2주년 맞아 '럭셔리 뷰티' 축제 개최",
+ "summary": "특히 향수 와 홈 프래그런스는 개인의 취향과 생활방식을 반영하는 상품군이다. 알럭스는 다양한 브랜드 를 확보해 화장품 구매를 넘어 일상생활 전반에서 럭셔리 상품을 찾는 고객들의 수요를 충족한다는 계획이다....",
+ "published_at": "2026-11-10T10:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "알럭스"
+  ],
+  "keywords": [
+   "럭셔리 뷰티",
+   "홈 프래그런스",
+   "향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "알럭스가 론칭 주년을 맞아 럭셔리 뷰티 행사를 열고 향수와 홈 프래그런스 상품을 늘린다.",
+  "key_fact_quote": "알럭스는 다양한 브랜드 를 확보해 화장품 구매를 넘어 일상생활 전반에서 럭셔리 상품을 찾는 고객들의 수요를 충족한다는 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

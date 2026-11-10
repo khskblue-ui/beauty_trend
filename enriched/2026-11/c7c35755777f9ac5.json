@@ -1,0 +1,44 @@
+{
+ "doc_id": "c7c35755777f9ac5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12203805",
+ "title": "“약국서 화장품 사면 뭐가 다를까”…성수에 400평 매장 연 ‘이곳’",
+ "summary": "1층 향수 존에는 56개 브랜드 의 약 520개 상품을 마련했다. 홍대점의 향수 상품 수와 비교하면 두 배 이상이다. 2층에는 약국 외에 바디케어·헤어케어·웰니스 상품과 무신사 뷰티 랭킹존, 더모존 등을 구성했다. 이번 매장은...",
+ "published_at": "2026-11-10T13:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "향수 존",
+   "약국 화장품",
+   "오프라인 뷰티 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티 성수는 1층 향수 존을 홍대점보다 크게 꾸렸다.",
+  "key_fact_quote": "1층 향수 존에는 56개 브랜드 의 약 520개 상품을 마련했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

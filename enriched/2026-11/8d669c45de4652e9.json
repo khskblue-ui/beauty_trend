@@ -1,0 +1,58 @@
+{
+ "doc_id": "8d669c45de4652e9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gokorea.kr/news/articleView.html?idxno=884962",
+ "title": "토리든, 'BeautyMatter ASIA15 2026' 선정…아시아 유망 뷰티 브랜드 15선...",
+ "summary": "특히 대표 스테디셀러인 '다이브인 저분자 히알루론산 세럼'은 2019년 론칭 이후 2021년부터 2025년까지 5년... 유망 뷰티 브랜드 중 하나로 선정돼 뜻깊다\"며 \"앞으로도 국내외 시장에서 소비자 접점을 확대하고, 다양한...",
+ "published_at": "2026-11-10T16:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "토리든"
+  ],
+  "companies": [],
+  "keywords": [
+   "유망 뷰티 브랜드",
+   "히알루론산 세럼"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "다이브인 저분자 히알루론산 세럼",
+    "brand": "토리든",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "토리든이 BeautyMatter ASIA15 2026에 아시아 유망 뷰티 브랜드로 선정됐다.",
+  "key_fact_quote": "토리든, 'BeautyMatter ASIA15 2026' 선정…아시아 유망 뷰티 브랜드 15선...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "저분자 히알루론산",
+    "quote": "특히 대표 스테디셀러인 '다이브인 저분자 히알루론산 세럼'은 2019년 론칭 이후 2021년부터 2025년까지 5년"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

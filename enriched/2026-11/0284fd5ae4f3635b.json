@@ -1,0 +1,42 @@
+{
+ "doc_id": "0284fd5ae4f3635b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.vegannews.co.kr/news/article.html?no=403131",
+ "title": "WHO, 포장식품 분류 초안 공개… 향료 ·색소·감미료도 반영",
+ "summary": "쓰이는 향료 ·색소·감미료다. 영양 기준을 하나 이상 넘거나 지정 성분을 하나 이상 포함하면 분류 대상에 들어간다. WHO는 향료 ·색소·감미료를 포함한 것이 이들 성분이 안전하지 않다는 뜻은 아니라고 명시했다....",
+ "published_at": "2026-11-10T17:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "WHO"
+  ],
+  "keywords": [
+   "식품 향료",
+   "포장식품 분류",
+   "성분 규제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "WHO가 향료와 색소, 감미료를 포함한 포장식품 분류 초안을 공개했다.",
+  "key_fact_quote": "WHO는 향료 ·색소·감미료를 포함한 것이 이들 성분이 안전하지 않다는 뜻은 아니라고 명시했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

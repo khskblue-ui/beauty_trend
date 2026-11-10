@@ -1,0 +1,49 @@
+{
+ "doc_id": "788da3528a318a82",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://economist.co.kr/article/view/ecn202611100041",
+ "title": "해외 패션·뷰티 잘 팔렸다…신세계인터내셔날, 3분기 흑자전환",
+ "summary": "메종 프란시스 커정과 딥티크, 로에베 퍼퓸 등 니치 향수 브랜드의 판매가 늘었고, 로라 메르시에와 아워글래스 등 색조 브랜드도 두 자릿수 성장률을 기록했다. 자회사들은 해외 판매망 확대에 나서고 있다....",
+ "published_at": "2026-11-10T15:09:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메종 프란시스 커정",
+   "딥티크",
+   "로라 메르시에"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "니치 향수",
+   "수입 뷰티",
+   "색조 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "2526f7203d632e74",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

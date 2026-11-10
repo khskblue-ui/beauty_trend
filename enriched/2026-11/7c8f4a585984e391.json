@@ -1,0 +1,44 @@
+{
+ "doc_id": "7c8f4a585984e391",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/distribution/channel/2026/11/10/3N7HNPUGHBEFPGMHWOV6JEMSLE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "무신사, 100번째 매장은 ‘뷰티’…성수에 400평 규모로 개점",
+ "summary": "특히 1층에는 56개 브랜드 의 향수 약 520개를 선보이는 대규모 향수 체험 공간을 마련했다. 홍대점보다 두 배 이상 많은 규모다. 2층에는 향수 와 핸드크림을 조합해 자신만의 향을 찾아볼 수 있는 ‘레이어링존’도...",
+ "published_at": "2026-11-10T13:27:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "향수 체험존",
+   "향 레이어링",
+   "뷰티 편집숍"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 성수에 대규모 향수 체험 공간과 레이어링존을 갖춘 뷰티 매장을 연다.",
+  "key_fact_quote": "특히 1층에는 56개 브랜드 의 향수 약 520개를 선보이는 대규모 향수 체험 공간을 마련했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

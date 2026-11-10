@@ -1,0 +1,60 @@
+{
+ "doc_id": "f45284acb83be214",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100434",
+ "title": "설화수, 카카오톡 기프트X와 특별한 홀리데이 경험 선보여",
+ "summary": "아모레퍼시픽의 글로벌 럭셔리 뷰티 브랜드 설화수가 홀리데이 시즌을 맞아 ‘카카오톡 기프트X’와 함께 특별한 브랜드 경험을 선보인다.카카오톡 기프트X는 상품을 넘어 브랜드가 설계한 오프라인 경험을 선물하는 서비스다. 설화수는 한국적 헤리티지와 인삼 스토리를 담은 브랜드 철학을 전하기 위해 이번 프로그램을 기획했다. 특히 모든 프로그램을 북촌 설화수의 집에서만 경험할 수 있도록 구성해 특별함을 더했다.프로그램 예약은 11월 9일부터 18일까지 진행하며, 조기 마감될 수 있다. 카카오톡 선물하기에서 설화수 기프트X 상품을 선물 받은 고객",
+ "published_at": "2026-11-10T10:10:54+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "카카오톡"
+  ],
+  "keywords": [
+   "체험형 마케팅",
+   "홀리데이 시즌",
+   "경험 선물"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "설화수가 카카오톡 기프트X와 함께 북촌에서 홀리데이 체험 프로그램을 운영한다.",
+  "key_fact_quote": "아모레퍼시픽의 글로벌 럭셔리 뷰티 브랜드 설화수가 홀리데이 시즌을 맞아 ‘카카오톡 기프트X’와 함께 특별한 브랜드 경험을 선보인다.",
+  "events": [
+   {
+    "name": "설화수 기프트X",
+    "start_date": "2026-11-16",
+    "end_date": "2026-12-06",
+    "place": "북촌 설화수의 집",
+    "quote": "카카오톡 선물하기에서 설화수 기프트X 상품을 선물 받은 고객은 동반 1인과 함께 11월 16일부터 12월 6일까지 북촌 설화수의 집에서 다양한 프로그램을 체험할 수 있다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "인삼",
+    "quote": "이어 설화수의 대표 원료인 인삼을 주제로 향낭을 직접 만드는 인삼 클래스와 여유롭게 즐기는 다과 시간이 진행된다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

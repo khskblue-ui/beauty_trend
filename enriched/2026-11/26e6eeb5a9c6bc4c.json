@@ -1,0 +1,52 @@
+{
+ "doc_id": "26e6eeb5a9c6bc4c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=369307",
+ "title": "\"럭셔리 패션·뷰티 선전으로 흑자전환\"… 신세계인터내셔날, 외형·수익...",
+ "summary": "수입 뷰티 부문도 니치 향수 (메종 프란시스 커정, 메모 파리, 에르메스 뷰티, 딥티크, 로에베 퍼퓸 등)와 색조 브랜드(로라 메르시에, 아워글래스)의 수요 지속으로 14.8% 신장했다. 자회사들의 글로벌 사업 확대도...",
+ "published_at": "2026-11-10T14:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메종 프란시스 커정",
+   "메모 파리",
+   "에르메스 뷰티",
+   "딥티크",
+   "로에베 퍼퓸",
+   "로라 메르시에",
+   "아워글래스"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "니치 향수",
+   "수입 뷰티",
+   "색조 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신세계인터내셔날 수입 뷰티 부문이 니치 향수와 색조 브랜드 수요로 성장했다.",
+  "key_fact_quote": "수입 뷰티 부문도 니치 향수 (메종 프란시스 커정, 메모 파리, 에르메스 뷰티, 딥티크, 로에베 퍼퓸 등)와 색조 브랜드(로라 메르시에, 아워글래스)의 수요 지속으로 14.8% 신장했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

@@ -1,0 +1,55 @@
+{
+ "doc_id": "aed74d95379dd88c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2369037",
+ "title": "코트라, 홍콩 K뷰티 ·독일 반도체 시장 공략…한국 기업 수출 지원 확대",
+ "summary": "2025년 수출 액은 6억7646만 달러로 19.2% 증가했고 올해 1~9월에도 5억2895만 달러로 6.6% 늘었다. 코트라는 12일 글로벌 유통기업 왓슨그룹과의 입점 상담을 지원하고, 9~23일 홍콩 오피 뷰티 매장 2곳에서 제품 전시·체험...",
+ "published_at": "2026-11-10T22:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "HK",
+   "DE",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코트라",
+   "왓슨그룹"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "현지 유통 입점",
+   "체험 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코트라가 홍콩에서 K-뷰티 기업의 유통 입점 상담과 매장 제품 전시 체험을 지원한다.",
+  "key_fact_quote": "코트라는 12일 글로벌 유통기업 왓슨그룹과의 입점 상담을 지원하고, 9~23일 홍콩 오피 뷰티 매장 2곳에서 제품 전시·체험",
+  "events": [
+   {
+    "name": "제품 전시·체험",
+    "start_date": "2026-11-09",
+    "end_date": "2026-11-23",
+    "place": "홍콩 오피 뷰티 매장 2곳",
+    "quote": "코트라는 12일 글로벌 유통기업 왓슨그룹과의 입점 상담을 지원하고, 9~23일 홍콩 오피 뷰티 매장 2곳에서 제품 전시·체험"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

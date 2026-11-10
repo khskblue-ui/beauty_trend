@@ -1,0 +1,50 @@
+{
+ "doc_id": "5bd41e9928bccbcd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.economytalk.kr/news/articleView.html?idxno=425138",
+ "title": "[진단] LG·아모레·애경 뷰티 3사 실적 판세는… \"수출 성장 속 '환차손...",
+ "summary": "색조 브랜드 '힌스(Hince)'를 미국 얼타 뷰티 400여 개 매장에 동시 론칭 하며 영미권 확장에 속도를 내고 있다. 아모레퍼시픽은 북미에서 100% 이상 성장한 에스트라를 비롯해 이니스프리가 성장에 탄력이 붙었으며...",
+ "published_at": "2026-11-10T13:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "힌스",
+   "에스트라",
+   "이니스프리"
+  ],
+  "companies": [
+   "얼타 뷰티",
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "미국 유통 확대",
+   "분기 실적",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "힌스가 미국 얼타 뷰티 매장에 동시 입점하며 영미권 확장에 나섰다.",
+  "key_fact_quote": "색조 브랜드 '힌스(Hince)'를 미국 얼타 뷰티 400여 개 매장에 동시 론칭 하며 영미권 확장에 속도를 내고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

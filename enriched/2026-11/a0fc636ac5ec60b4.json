@@ -1,0 +1,43 @@
+{
+ "doc_id": "a0fc636ac5ec60b4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=203510",
+ "title": "유통부터 기술력까지... K뷰티 해외 공략 다변화 행보 눈길",
+ "summary": "화장품 기업과 글로벌 바이어, 유통사, 인플루언서 등 약 100명이 참석하는 'K-뷰티 나이트 인 홍콩'도 개최한다. 전시장에서 형성된 관심을 실제 유통 협력과 거래 상담으로 연결한다는 취지다. 기업 차원의 신제품 ...",
+ "published_at": "2026-11-11T01:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "해외 유통",
+   "바이어 상담"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 기업과 해외 바이어가 모이는 홍콩 네트워킹 행사를 열어 유통 협력으로 연결하려 한다.",
+  "key_fact_quote": "화장품 기업과 글로벌 바이어, 유통사, 인플루언서 등 약 100명이 참석하는 'K-뷰티 나이트 인 홍콩'도 개최한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

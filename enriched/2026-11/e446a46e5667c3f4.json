@@ -1,0 +1,51 @@
+{
+ "doc_id": "e446a46e5667c3f4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718511",
+ "title": "알럭스, 론칭 2주년 기획전···33개 뷰티 브랜드 참여",
+ "summary": "알럭스는 론칭 이후 입점 브랜드 수를 2배 이상 확대했다. 최근에는 논픽션, 미우미우, 연작, 쿨티 등을 추가하며 스킨케어뿐 아니라 헤어·바디· 향수 ·홈 프래그런스 등으로 상품군을 넓히고 있다. 알럭스 관계자는...",
+ "published_at": "2026-11-10T09:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "논픽션",
+   "미우미우",
+   "연작",
+   "쿨티"
+  ],
+  "companies": [
+   "쿠팡",
+   "알럭스"
+  ],
+  "keywords": [
+   "럭셔리 뷰티",
+   "홈 프래그런스",
+   "향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "12e1da74c0ce59e1",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

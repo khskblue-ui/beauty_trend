@@ -1,0 +1,83 @@
+{
+ "doc_id": "aefa47527f4e468e",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58698",
+ "title": "'가치소비' 좇는 호주 시장... 현지 소비자 사로잡을 K-뷰티 키워드는 '기능성·투명성'",
+ "summary": "[코스인코리아닷컴 김세화 기자]호주 화장품 시장이 지속적인 성장세를 이어갈 것으로 전망되는 가운데, 현지 소비자의 구매 기준이가격과 품질,기능성, 지속가능성 등을 종합적으로 고려하는 '가치 소비(Value-based Consumption)’로 진화하고 있다. 10일글로벌 시장조사기관 리서치…",
+ "published_at": "2026-11-10T13:35:33+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "AU",
+   "KR"
+  ],
+  "brands": [
+   "조선미녀"
+  ],
+  "companies": [
+   "리서치앤마켓츠",
+   "사우스 폴",
+   "PwC",
+   "유로모니터",
+   "케미스트 웨어하우스",
+   "프라이스라인",
+   "메카",
+   "세포라",
+   "콜스",
+   "울워스"
+  ],
+  "keywords": [
+   "가치 소비",
+   "스키니피케이션",
+   "클린뷰티",
+   "비건 화장품",
+   "기능성 선케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "호주 소비자의 화장품 구매 기준이 가치 소비로 바뀌며 기능성과 투명성이 중요해지고 있다.",
+  "key_fact_quote": "호주 화장품 시장이 지속적인 성장세를 이어갈 것으로 전망되는 가운데, 현지 소비자의 구매 기준이 가격과 품질, 기능성, 지속가능성 등을 종합적으로 고려하는 '가치 소비(Value-based Consumption)’로 진화하고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "히알루론산과 펩타이드 등 기능성 성분을 활용한 제품도 확대되고 있다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "히알루론산과 펩타이드 등 기능성 성분을 활용한 제품도 확대되고 있다."
+   },
+   {
+    "name": "병풀",
+    "quote": "병풀, 어성초 등 자연 유래 성분을 활용한 세럼, 앰플, 피부 장벽 관리 제품은 기능성과 성분 투명성을 중시하는 소비자 수요에 대응할 수 있다."
+   },
+   {
+    "name": "어성초",
+    "quote": "병풀, 어성초 등 자연 유래 성분을 활용한 세럼, 앰플, 피부 장벽 관리 제품은 기능성과 성분 투명성을 중시하는 소비자 수요에 대응할 수 있다."
+   },
+   {
+    "name": "바쿠치올",
+    "quote": "바쿠치올과 식물성 펩타이드 등을 활용한 웰에이징 제품, 재활용 소재와 리필 시스템을 적용한 마스크팩 및 토너패드도 차별화 가능성이 높은 품목으로 꼽힌다."
+   },
+   {
+    "name": "식물성 펩타이드",
+    "quote": "바쿠치올과 식물성 펩타이드 등을 활용한 웰에이징 제품, 재활용 소재와 리필 시스템을 적용한 마스크팩 및 토너패드도 차별화 가능성이 높은 품목으로 꼽힌다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

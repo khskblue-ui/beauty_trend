@@ -1,0 +1,44 @@
+{
+ "doc_id": "f54ceb60d635338e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.donga.com/109883/",
+ "title": "티와이글로벌 \"문제는 화장품 용기였다... '에어타이트' 기술로 K-뷰티 ...",
+ "summary": "마스카라나 립 틴트 같은 색조 화장품 을 쓰다 보면 용량이 절반도 줄지 않았는데 내용물이 굳어버리거나... - 앞으로 티와이글로벌이 그리고자 하는 중장기 로드맵과 최종 목표는 무엇인가 : 우선 국내에서는 신제품 ...",
+ "published_at": "2026-11-10T16:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "티와이글로벌"
+  ],
+  "keywords": [
+   "화장품 용기",
+   "에어타이트 기술",
+   "색조 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "티와이글로벌이 내용물이 굳는 문제를 막는 에어타이트 화장품 용기 기술을 내세운다.",
+  "key_fact_quote": "마스카라나 립 틴트 같은 색조 화장품 을 쓰다 보면 용량이 절반도 줄지 않았는데 내용물이 굳어버리거나",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

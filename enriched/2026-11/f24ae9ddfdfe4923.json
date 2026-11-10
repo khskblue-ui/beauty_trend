@@ -1,0 +1,68 @@
+{
+ "doc_id": "f24ae9ddfdfe4923",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/a-day-to-explore-the-new,28525",
+ "title": "A day to explore the new dimensions of perfumery",
+ "summary": "Artificial intelligence, neuroscience, groundbreaking discovery techniques, hybridization, dupes, personalization… In just a few years, perfumery has become one of the most dynamic category of the beauty industry. To make sense of these transformations and anticipate what lies ahead, the Fragrance Innovation Summit returns to Paris on November 25 for a full day of presentations from international experts and discussions exploring the forces shaping the future of fragrance. This year's... - Innovation & new products / publi-redac",
+ "published_at": "2026-11-08T09:45:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "FR",
+   "CN",
+   "IN"
+  ],
+  "brands": [
+   "Maison Francis Kurkdjian",
+   "BDK Parfums",
+   "Edeniste",
+   "Maison Marc-Antoine Barrois"
+  ],
+  "companies": [
+   "Harmay",
+   "dsm-firmenich",
+   "Aptar Beauty",
+   "Coty",
+   "Givaudan",
+   "IFF",
+   "Mane",
+   "Circana"
+  ],
+  "keywords": [
+   "니치 향수",
+   "AI 향수 체험",
+   "향 뉴로사이언스",
+   "무알코올 향수",
+   "후각 클럽"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "파리에서 열리는 향수 혁신 서밋에서 업계 전문가들이 향수 시장의 변화를 다룬다.",
+  "key_fact_quote": "the Fragrance Innovation Summit returns to Paris on November 25 for a full day of presentations from international experts",
+  "events": [
+   {
+    "name": "Fragrance Innovation Summit",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "place": "Paris",
+    "quote": "the Fragrance Innovation Summit returns to Paris on November 25 for a full day of presentations from international experts"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

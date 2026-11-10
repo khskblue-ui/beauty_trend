@@ -1,0 +1,58 @@
+{
+ "doc_id": "5a37ae8aaae961cd",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/dove-moisturising-claims-supported-nad-p%26g-challenge",
+ "title": "Dove moisturising claims supported by US advertising watchdog after P&G challenge",
+ "summary": "The National Advertising Division supported claims related to Unilever-owned Dove’s Deep Moisture Body Wash, which were challenged by Procter and Gamble, including that the product offers 24-hours of moisturisation and nourishes dry skin",
+ "published_at": "2026-11-10T21:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "regulation",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Dove"
+  ],
+  "companies": [
+   "Unilever",
+   "Procter and Gamble",
+   "National Advertising Division"
+  ],
+  "keywords": [
+   "광고 표현 검증",
+   "보습 클레임",
+   "바디워시"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Deep Moisture Body Wash",
+    "brand": "Dove",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "미국 광고 자율심의기구가 P&G가 문제 삼은 도브 바디워시의 보습 광고 표현을 인정했다.",
+  "key_fact_quote": "The National Advertising Division supported claims related to Unilever-owned Dove’s Deep Moisture Body Wash, which were challenged by Procter and Gamble, including that the product offers 24-hours of moisturisation and nourishes dry skin",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

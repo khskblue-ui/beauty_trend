@@ -1,0 +1,46 @@
+{
+ "doc_id": "bffbbd93da16826b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.insight.co.kr/news/581445",
+ "title": "먹거리 키우고 뷰티 ·패션 발 넓힌 컬리... 매출 34% 성장하며 7분기 연...",
+ "summary": "패션 브랜드 수는 지난해 같은 기간보다 2배 가까이 늘었다. 식품과 뷰티 에 집중됐던 상품 구성을 넓히며 플랫폼 경쟁력을 강화하고 있는 셈이다.지난해 9월 출시한 컬리N마트의 성장도 눈에 띈다. 론칭 1년 만인 올해...",
+ "published_at": "2026-11-10T15:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "컬리N마트"
+  ],
+  "companies": [
+   "컬리"
+  ],
+  "keywords": [
+   "뷰티 플랫폼",
+   "이커머스 실적",
+   "상품군 확대"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "컬리가 식품과 뷰티 중심 상품 구성을 패션까지 넓히고 있다.",
+  "key_fact_quote": "식품과 뷰티 에 집중됐던 상품 구성을 넓히며 플랫폼 경쟁력을 강화하고 있는 셈이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

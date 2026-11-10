@@ -1,0 +1,44 @@
+{
+ "doc_id": "bafa681ab72f84fe",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://zdnet.co.kr/view/?no=20261110154710",
+ "title": "ITZY 채령도 찾은 400평 규모 '무신사 뷰티 성수' 미리 가보니",
+ "summary": "10일 서울 성동구 무신사 뷰티 성수점에 위치한 프레그런스 존. (사진=지디넷코리아) 에스컬레이터 바로 옆에는 56개 브랜드 , 약 520개의 향수 상품을 배치한 프래그런스 존이 자리한다. 이는 240개 상품을 갖춘 홍대점보다...",
+ "published_at": "2026-11-10T16:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "프레그런스 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "향수 체험",
+   "인디 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티 성수는 에스컬레이터 옆에 향수 상품을 모은 프래그런스 존을 두었다.",
+  "key_fact_quote": "에스컬레이터 바로 옆에는 56개 브랜드 , 약 520개의 향수 상품을 배치한 프래그런스 존이 자리한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

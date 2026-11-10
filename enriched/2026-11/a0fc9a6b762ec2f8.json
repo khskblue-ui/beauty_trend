@@ -1,0 +1,44 @@
+{
+ "doc_id": "a0fc9a6b762ec2f8",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/olive-young-usa-expansion-five-new-california-stores-1239408131/",
+ "title": "Olive Young Accelerates U.S. Expansion With 5 New California Stores by H1 2027",
+ "summary": "The K-beauty retailer is set to open new locations across Greater Los Angeles and San Diego.",
+ "published_at": "2026-11-10T10:09:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Olive Young"
+  ],
+  "keywords": [
+   "K-뷰티 리테일",
+   "미국 오프라인 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 미국 캘리포니아에 새 매장을 열며 미국 진출을 서두른다.",
+  "key_fact_quote": "The K-beauty retailer is set to open new locations across Greater Los Angeles and San Diego.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

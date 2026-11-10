@@ -1,0 +1,80 @@
+{
+ "doc_id": "087a1dcb2542001b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100428",
+ "title": "미우미우 뷰티, 신제품 ‘미우틴 인텐스 EDP’ 런칭",
+ "summary": "이탈리아 럭셔리 패션 하우스 미우미우(MIU MIU)의 뷰티 브랜드 미우미우 뷰티(MIU MIU BEAUTY)가 자유롭고 대담한 여성성을 한층 강렬하게 표현한 신제품 ‘미우틴 인텐스 오 드 퍼퓸(Miutine Intense EDP)’을 선보인다. 미우미우 뷰티는 브랜드 특유의 반항적인 세련미와 복고적인 감각을 향수에 담아내며, 정해진 기준에서 벗어나 자신만의 개성을 자유롭게 표현하는 새로운 프래그런스를 제안한다.새롭게 선보이는 ‘미우틴 인텐스 EDP’는 기존 미우틴의 아이코닉한 시그니처를 더욱 깊고 관능적으로 재해석한 향수이다. 남",
+ "published_at": "2026-11-10T09:52:28+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "IT"
+  ],
+  "brands": [
+   "미우미우 뷰티"
+  ],
+  "companies": [
+   "미우미우"
+  ],
+  "keywords": [
+   "오 드 퍼퓸",
+   "고농도 향수",
+   "플로럴 향수",
+   "디자이너 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "미우틴 인텐스 EDP",
+    "brand": "미우미우 뷰티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이탈리아 럭셔리 패션 하우스 미우미우(MIU MIU)의 뷰티 브랜드 미우미우 뷰티(MIU MIU BEAUTY)가 자유롭고 대담한 여성성을 한층 강렬하게 표현한 신제품 ‘미우틴 인텐스 오 드 퍼퓸(Miutine Intense EDP)’을 선보인다.",
+    "notes": [
+     "가드니아 어코드",
+     "바닐라",
+     "패출리"
+    ],
+    "notes_quote": "이어 가드니아 어코드의 풍성하고 매혹적인 플로럴 향이 세련된 분위기를 더하며, 마지막으로 마다가스카르산 프리미엄 바닐라와 패출리가 따뜻하고 벨벳처럼 부드러운 달콤함을 남겨 깊고 중독적인 잔향을 완성한다."
+   }
+  ],
+  "key_fact": "미우미우 뷰티가 미우틴을 더 진하게 재해석한 오 드 퍼퓸 신제품을 선보인다.",
+  "key_fact_quote": "새롭게 선보이는 ‘미우틴 인텐스 EDP’는 기존 미우틴의 아이코닉한 시그니처를 더욱 깊고 관능적으로 재해석한 향수이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "블랙베리 리퀴르 어코드",
+    "quote": "첫 향에서는 잘 익은 블랙베리 리퀴르 어코드가 풍부한 과즙처럼 생생하고 강렬하게 펼쳐진다."
+   },
+   {
+    "name": "가드니아 어코드",
+    "quote": "이어 가드니아 어코드의 풍성하고 매혹적인 플로럴 향이 세련된 분위기를 더하며, 마지막으로 마다가스카르산 프리미엄 바닐라와 패출리가 따뜻하고 벨벳처럼 부드러운 달콤함을 남겨 깊고 중독적인 잔향을 완성한다."
+   },
+   {
+    "name": "바닐라",
+    "quote": "이어 가드니아 어코드의 풍성하고 매혹적인 플로럴 향이 세련된 분위기를 더하며, 마지막으로 마다가스카르산 프리미엄 바닐라와 패출리가 따뜻하고 벨벳처럼 부드러운 달콤함을 남겨 깊고 중독적인 잔향을 완성한다."
+   },
+   {
+    "name": "패출리",
+    "quote": "이어 가드니아 어코드의 풍성하고 매혹적인 플로럴 향이 세련된 분위기를 더하며, 마지막으로 마다가스카르산 프리미엄 바닐라와 패출리가 따뜻하고 벨벳처럼 부드러운 달콤함을 남겨 깊고 중독적인 잔향을 완성한다."
+   }
+  ],
+  "dropped": [
+   "notes:미우틴 인텐스 EDP"
+  ]
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

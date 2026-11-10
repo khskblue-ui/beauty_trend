@@ -1,0 +1,44 @@
+{
+ "doc_id": "6bd756221f2638e9",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100426",
+ "title": "베트남 진출 한국기업, 인건비 상승에도 핵심 거점 유지",
+ "summary": "베트남 진출 한국기업들은 인건비 상승과 규제 부담에도 현지 사업을 유지하려는 의향이 높은 것으로 나타났다. 다른 국가 대비 비용우위와 향후 수익성 개선 기대가 사업 유지를 뒷받침하는 가운데, 변화한 경영 환경에 맞춰 기능별 경쟁력을 점검하고 운영방식을 개선해야 한다는 주장이 나왔다.한국무역협회(KITA, 회장 윤진식) 국제무역통상연구원이 8일(일) 발표한 ‘베트남 진출 한국기업의 경영 환경 변화와 대응 과제’ 보고서에 따르면, 베트남의 달러 환산 월 최저임금은 2010년 45.4달러에서 2024년 205.3달러로 연평균 11.4%",
+ "published_at": "2026-11-10T09:35:53+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "VN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국무역협회"
+  ],
+  "keywords": [
+   "해외 생산 거점",
+   "인건비 상승"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "베트남 진출 한국기업들은 인건비 상승과 규제 부담에도 현지 사업을 유지하려는 의향이 높았다.",
+  "key_fact_quote": "베트남 진출 한국기업들은 인건비 상승과 규제 부담에도 현지 사업을 유지하려는 의향이 높은 것으로 나타났다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

@@ -1,0 +1,61 @@
+{
+ "doc_id": "24eaab81d9276b77",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312584",
+ "title": "10월 티몰 K-뷰티 8개 품목 종합 분석: 시장은 성장, 브랜드 판도는 변화",
+ "summary": "[편집자 주] 뷰티경제는 2019년부터 중국 티몰(Tmall) 한국관의 K-뷰티 판매 데이터를 추적·분석하고 있다. 이번 기사는 2026년 10월 기준 8개 주요 카테고리의 판매 동향을 종합 분석했다.10월 중국 티몰 한국관의 K-뷰티 시장은 품목별로 상반된 흐름을 보였다. 쿠션과 크림, 에센스는 성장세를 기록한 반면 마스크팩, 자외선차단제, 클렌징폼은 감소세를 나타냈다.뷰티경제 집계 결과, 쿠션은 전년 대비 25.5%, 크림은 53.8%, 에센스는 10.2% 증가했다. 반면 마스크팩은 68.4%, 자외선차단제는 34.4%, 클렌징",
+ "published_at": "2026-11-10T09:50:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "토리든",
+   "라운드랩",
+   "코스알엑스",
+   "에이지투웨니스",
+   "헤라",
+   "라네즈",
+   "설화수",
+   "메디힐",
+   "궁중비책",
+   "스킨1004",
+   "더마펌",
+   "AHC",
+   "바이오힐보",
+   "아누아"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "기능성 스킨케어",
+   "중국 이커머스",
+   "브랜드 재편",
+   "쿠션"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "티몰 한국관에서 크림과 에센스, 쿠션은 늘고 마스크팩과 자외선차단제는 줄었다.",
+  "key_fact_quote": "쿠션과 크림, 에센스는 성장세를 기록한 반면 마스크팩, 자외선차단제, 클렌징폼은 감소세를 나타냈다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

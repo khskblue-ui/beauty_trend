@@ -1,0 +1,47 @@
+{
+ "doc_id": "3a6f8973389435e5",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/coty-restructure-france-operations-amid-turnaround-cotycurated",
+ "title": "Coty to restructure France operations amid turnaround efforts",
+ "summary": "The Kylie Cosmetics and Rimmel London owner has ‘proposed to adapt its operating model’ in France as part of its plans to halt declining sales under its ‘Coty:Curated’ strategy",
+ "published_at": "2026-11-10T20:59:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Kylie Cosmetics",
+   "Rimmel London"
+  ],
+  "companies": [
+   "Coty"
+  ],
+  "keywords": [
+   "구조 조정",
+   "실적 부진",
+   "사업 재편"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Coty가 매출 감소를 멈추기 위해 프랑스 사업 운영 방식을 바꾸려 한다.",
+  "key_fact_quote": "The Kylie Cosmetics and Rimmel London owner has ‘proposed to adapt its operating model’ in France as part of its plans to halt declining sales under its ‘Coty:Curated’ strategy",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "69d3fb5982639537",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ekn.kr/web/view.php?key=20261110026107803",
+ "title": "[똑똑한트렌드] 한국콜마, 조선미녀, 설화수, 무신사 뷰티 성수, 하이모...",
+ "summary": "스킨케어와 색조화장품, 향수 , 헤어·보디용품 등 700여개 브랜드의 1만여개 상품을 판매한다. 입점 브랜드의... ◇ 아이더 '몽글릿 구스 다운' 출시 …장원영 신규 광고 공개 아웃도어 브랜드 아이더가 부드러운 촉감과...",
+ "published_at": "2026-11-10T15:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "조선미녀",
+   "설화수"
+  ],
+  "companies": [
+   "한국콜마",
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "뷰티 편집숍"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티 성수가 다양한 뷰티 브랜드 상품을 판매한다.",
+  "key_fact_quote": "스킨케어와 색조화장품, 향수 , 헤어·보디용품 등 700여개 브랜드의 1만여개 상품을 판매한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

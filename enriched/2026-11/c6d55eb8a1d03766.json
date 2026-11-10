@@ -1,0 +1,48 @@
+{
+ "doc_id": "c6d55eb8a1d03766",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026111014491122712",
+ "title": "[르포]정비소 거리서 'K뷰티 격전지'로…무신사도 400평 승부수",
+ "summary": "1774년 프랑스에서 탄생한 향수 브랜드 '엘티 피베르' 등 국내외 향수를 한자리에서 만나볼 수 있다. 매장 안쪽에는 직접 제품을 사용해볼 수 있는 공간들이 이어진다. 1층 '넥스트 뷰티존'에서는 색조 브랜드 아멜리가...",
+ "published_at": "2026-11-10T15:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "엘티 피베르",
+   "아멜리"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "향수 편집숍",
+   "체험형 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 성수에 뷰티 매장을 열고 국내외 향수 브랜드를 한자리에 모았다.",
+  "key_fact_quote": "1774년 프랑스에서 탄생한 향수 브랜드 '엘티 피베르' 등 국내외 향수를 한자리에서 만나볼 수 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

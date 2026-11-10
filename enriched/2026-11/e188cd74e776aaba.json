@@ -1,0 +1,42 @@
+{
+ "doc_id": "e188cd74e776aaba",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=203509",
+ "title": "연말 소비시장 잡아라... K뷰티, 유통망 확대·체험형 마케팅 경쟁",
+ "summary": "발표에 따르면 약 400평 규모의 공간에 700여개 브랜드 와 1만여개 상품을 집결시켰으며, 스킨케어와 메이크업, 향수 , 헤어·바디케어 등 다양한 뷰티 카테고리를 선보인다. 홍대에 이은 성수의 뷰티 특화 매장으로 전체...",
+ "published_at": "2026-11-11T00:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "체험형 마케팅",
+   "뷰티 편집숍"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "성수에 대형 뷰티 특화 매장이 문을 열어 여러 뷰티 카테고리를 한곳에서 선보인다.",
+  "key_fact_quote": "발표에 따르면 약 400평 규모의 공간에 700여개 브랜드 와 1만여개 상품을 집결시켰으며, 스킨케어와 메이크업, 향수 , 헤어·바디케어 등 다양한 뷰티 카테고리를 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

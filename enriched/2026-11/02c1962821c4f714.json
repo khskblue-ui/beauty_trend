@@ -1,0 +1,44 @@
+{
+ "doc_id": "02c1962821c4f714",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/skin-care/glow-recipe-ulta-beauty-eye-patch-grinder-1239403548/",
+ "title": "EXCLUSIVE: Glow Recipe Is Entering Ulta Beauty",
+ "summary": "Nearly a decade after the brand made its debut at Sephora — and one month since it went viral during \"eye patch gate\" — Glow Recipe is expanding its retail footprint.",
+ "published_at": "2026-11-10T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Glow Recipe"
+  ],
+  "companies": [
+   "Ulta Beauty",
+   "Sephora"
+  ],
+  "keywords": [
+   "유통 채널 확대",
+   "K뷰티 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Glow Recipe가 얼타 뷰티 입점으로 유통망을 넓힌다.",
+  "key_fact_quote": "Nearly a decade after the brand made its debut at Sephora — and one month since it went viral during \"eye patch gate\" — Glow Recipe is expanding its retail footprint.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

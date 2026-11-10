@@ -1,0 +1,57 @@
+{
+ "doc_id": "58ff874ef7b987c7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599468708703",
+ "title": "\" 화장품 넘어 경험까지 판매\"…설화수, 카카오 손잡고 연말 고객 잡기",
+ "summary": "아모레퍼시픽의 화장품 브랜드 설화수가 카카오톡 선물하기와 연계해 온라인 선물을 오프라인 브랜드... 지난 9월에는 자음생크림 출시 60주년을 맞아 제품의 역사와 고객의 시간을 연결하는 체험형 프로그램 ‘시간...",
+ "published_at": "2026-11-10T16:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "카카오"
+  ],
+  "keywords": [
+   "체험형 마케팅",
+   "온라인 선물",
+   "연말 선물"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "자음생크림",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "설화수가 카카오톡 선물하기와 연계해 온라인 선물을 오프라인 매장 체험으로 잇는다.",
+  "key_fact_quote": "아모레퍼시픽의 화장품 브랜드 설화수가 카카오톡 선물하기와 연계해 온라인 선물을 오프라인 브랜드",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

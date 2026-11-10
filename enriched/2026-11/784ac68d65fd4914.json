@@ -1,0 +1,41 @@
+{
+ "doc_id": "784ac68d65fd4914",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/cause-effect-women-for-worth-loreal-paris-new-initiative-1239407415/",
+ "title": "EXCLUSIVE: Cause and Effect: ‘Women for Worth’ Is L’Oréal Paris’ New Initiative",
+ "summary": "The program will support and celebrate people who concretely elevate women’s role in society.",
+ "published_at": "2026-11-10T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "other",
+  "countries": [],
+  "brands": [
+   "L’Oréal Paris"
+  ],
+  "companies": [],
+  "keywords": [
+   "여성 지원 캠페인",
+   "사회공헌"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "로레알 파리가 여성의 사회적 역할을 높이는 사람들을 지원하는 새 프로그램을 내놓았다.",
+  "key_fact_quote": "The program will support and celebrate people who concretely elevate women’s role in society.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

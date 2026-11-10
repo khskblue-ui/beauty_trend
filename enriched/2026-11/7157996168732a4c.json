@@ -1,0 +1,48 @@
+{
+ "doc_id": "7157996168732a4c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=780351",
+ "title": "몽클로스, 무신사 뷰티 성수 입점…시에라디자인, 中 첫 팝업 개장",
+ "summary": "사진=몽클로스 무신사 뷰티 성수는 약 400평 규모로 조성된 뷰티 전문 매장으로, 700여 개 브랜드 의 상품 1만여 개를 선보인다. 스킨케어와 메이크업, 향수 , 헤어·바디케어 등 다양한 뷰티 카테고리를 한자리에서 만나볼 수...",
+ "published_at": "2026-11-10T08:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "몽클로스",
+   "시에라디자인"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "뷰티 편집숍",
+   "팝업스토어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "몽클로스가 대형 뷰티 전문 매장인 무신사 뷰티 성수에 입점했다.",
+  "key_fact_quote": "무신사 뷰티 성수는 약 400평 규모로 조성된 뷰티 전문 매장으로, 700여 개 브랜드 의 상품 1만여 개를 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "a7af2c5153527c67",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=245031",
+ "title": "중국 어린이 화장품 시대 열린다… ’자외선차단제’ 및 ‘색조 화장품 ...",
+ "summary": "및 신제품 트렌드 인사이트(2024年婴童护理品类市场分析与新品趋势洞察)’에 따르면, 2024년 1~9월 온라인 어린이 색조 화장품 판매액은 전년 동기 대비 232%, 판매량은 317% 증가했다. 다만 온라인 영유아 케어 시장에서...",
+ "published_at": "2026-11-10T10:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "어린이 화장품",
+   "어린이 색조 화장품",
+   "자외선차단제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국에서 온라인 어린이 색조 화장품 판매가 크게 늘었다.",
+  "key_fact_quote": "2024년 1~9월 온라인 어린이 색조 화장품 판매액은 전년 동기 대비 232%, 판매량은 317% 증가했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "d6b84fd0ef96d71a",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312717",
+ "title": "Tmall Korea Pavilion Essence Segment Enters New Phase of Diversification",
+ "summary": "China\\'s Tmall Korea Pavilion essence market posted solid growth in October 2026, supported by steady demand for Korean skincare products and rising contributions from a wider range of brands.According to Beauty Economy\\'s analysis, total sales volume of the Top 10 essence products reached 41,000 unit",
+ "published_at": "2026-11-10T10:15:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Tmall"
+  ],
+  "keywords": [
+   "K뷰티 에센스",
+   "기능성 스킨케어",
+   "중국 시장",
+   "브랜드 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "티몰 한국관 에센스 시장에서 신흥 브랜드가 성장하며 경쟁 구도가 다변화했다.",
+  "key_fact_quote": "While the market leader retained its position, the competitive landscape became notably more diversified as several mid-tier and emerging brands expanded their presence.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

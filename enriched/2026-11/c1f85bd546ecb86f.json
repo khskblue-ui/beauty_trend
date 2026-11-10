@@ -1,0 +1,46 @@
+{
+ "doc_id": "c1f85bd546ecb86f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.viva100.com/article/20261110500968",
+ "title": "선풍기·밥솥 잊어라⋯ 신일·쿠쿠·앳홈, 새 먹거리 ‘홈 뷰티 ’ 도전...",
+ "summary": "잇달아 출시 하며 홈 뷰티 시장에 도전장을 던졌다. 10일 업계에 따르면, 최근 다수의 생활가전 기업들이 전통... 디바이스’를 출시 했다. 일렉트로포레이션(EP), 미세전류, 중주파(EMS) 등 3가지 기술이 적용된 신제품 은...",
+ "published_at": "2026-11-11T06:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신일",
+   "쿠쿠",
+   "앳홈"
+  ],
+  "keywords": [
+   "홈 뷰티",
+   "뷰티 디바이스",
+   "생활가전"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "생활가전 기업들이 뷰티 디바이스를 잇달아 내며 홈 뷰티 시장에 뛰어들고 있다.",
+  "key_fact_quote": "10일 업계에 따르면, 최근 다수의 생활가전 기업들이 전통",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

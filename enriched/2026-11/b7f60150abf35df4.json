@@ -1,0 +1,46 @@
+{
+ "doc_id": "b7f60150abf35df4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.segye.com/newsView/20261110503302?OutUrl=naver",
+ "title": "무신사, 100번째 매장 성수에 연다…올리브영·다이소와 'K뷰티 격돌'",
+ "summary": "스킨케어와 메이크업, 향수 , 헤어·바디케어 등 약 700개 브랜드 의 1만여개 상품을 판매한다. 입점 브랜드 의 약 80%는 인디 브랜드 다. 무신사는 이번 매장을 기존 패션 사업과 뷰티를 연결하는 거점으로 활용할 계획이다....",
+ "published_at": "2026-11-10T08:41:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사",
+   "올리브영",
+   "다이소"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "향수 체험",
+   "인디 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 성수에 인디 브랜드 중심의 뷰티 매장을 열어 올리브영, 다이소와 경쟁한다.",
+  "key_fact_quote": "입점 브랜드 의 약 80%는 인디 브랜드 다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

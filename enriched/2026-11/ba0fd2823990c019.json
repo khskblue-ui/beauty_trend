@@ -1,0 +1,47 @@
+{
+ "doc_id": "ba0fd2823990c019",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2490461",
+ "title": "[르포] 무신사의 성공 DNA, 이번엔 뷰티로",
+ "summary": "1774년 프랑스에서 시작된 향수 브랜드 '엘티 피베르(LT PIVER)'를 비롯해 해외 니치 향수 와 국내 인디 프래그런스 브랜드를 함께 선보인다. 무신사는 향수를 패션과 가장 밀접한 뷰티 카테고리 중 하나로 보고 관련 상품...",
+ "published_at": "2026-11-10T13:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "엘티 피베르"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "니치 향수",
+   "인디 프래그런스",
+   "오프라인 뷰티 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티 성수가 해외 니치 향수와 국내 인디 향수 브랜드를 함께 선보인다.",
+  "key_fact_quote": "1774년 프랑스에서 시작된 향수 브랜드 '엘티 피베르(LT PIVER)'를 비롯해 해외 니치 향수 와 국내 인디 프래그런스 브랜드를 함께 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

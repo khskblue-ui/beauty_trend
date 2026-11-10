@@ -1,0 +1,50 @@
+{
+ "doc_id": "cafb556688f762a3",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53921",
+ "title": "[코스모닝] “피부과 대신 집에서” 시술 대체하는 홈뷰티 디바이스",
+ "summary": "“피부과 가기 귀찮고 돈이 많이 들어서요.” “피부과 시술은 아프잖아요.” “집에서 내 맘대로 편하게 피부관리하고 싶어서요.” 소비자들이 피부과 시술 대신 홈뷰티 디바이스를 선택한 이유다. 홈뷰티 디바이스가 피부과 시술을 대체하는 합리적인 선택지로 부상했다. 집에서 원하는 시간에 관리할 수 있다는 편의성과 시술보다 낮은 비용 부담 때문에서다. 피부과 시술과",
+ "published_at": "2026-11-10T17:29:04+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수",
+   "메디큐브",
+   "라로슈포제",
+   "LG"
+  ],
+  "companies": [
+   "오픈서베이"
+  ],
+  "keywords": [
+   "홈뷰티 디바이스",
+   "피부과 시술",
+   "스킨부스터",
+   "이너뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "홈뷰티 디바이스가 피부과 시술을 대신하는 선택지로 떠올랐다는 조사 결과가 나왔다.",
+  "key_fact_quote": "홈뷰티 디바이스가 피부과 시술을 대체하는 합리적인 선택지로 부상했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "2774d7a02c071b43",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.kdfnews.com/news/articleView.html?idxno=190727",
+ "title": "뷰티업계, 체험 공간 키우고 연말 선물 수요 공략",
+ "summary": "알럭스는 론칭 이후 입점 브랜드 를 2배 이상 늘렸으며, 헤어·바디· 향수 등으로 취급 상품군도 확대하고 있다. 사진=쿠팡 뷰티업계의 고객 확보 방식은 구매가 발생하는 순간뿐 아니라 브랜드 를 처음 접하고 선물을...",
+ "published_at": "2026-11-10T15:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "알럭스",
+   "쿠팡"
+  ],
+  "keywords": [
+   "체험형 매장",
+   "연말 선물",
+   "향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "알럭스는 입점 브랜드를 늘리고 향수 등으로 상품군을 넓히고 있다.",
+  "key_fact_quote": "알럭스는 론칭 이후 입점 브랜드 를 2배 이상 늘렸으며, 헤어·바디· 향수 등으로 취급 상품군도 확대하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

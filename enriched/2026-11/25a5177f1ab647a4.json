@@ -1,0 +1,50 @@
+{
+ "doc_id": "25a5177f1ab647a4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=369317",
+ "title": "두 돌 맞은 알럭스, 스킨케어 넘어 향수 ·홈 프래그런스까지…\"연말 선...",
+ "summary": "출시 2주년을 맞은 럭셔리 뷰티·패션 버티컬 서비스 알럭스(R.LUX)가 상품군을 넓히며 연말 선물 수요 공략에... 최근에는 논픽션, 미우미우, 연작, 쿨티 등을 잇달아 선보이며 스킨케어를 비롯해 헤어, 바디, 향수 , 홈...",
+ "published_at": "2026-11-10T15:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "논픽션",
+   "미우미우",
+   "연작",
+   "쿨티"
+  ],
+  "companies": [
+   "알럭스"
+  ],
+  "keywords": [
+   "럭셔리 뷰티",
+   "홈 프래그런스",
+   "연말 선물",
+   "향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "알럭스가 스킨케어를 넘어 향수와 홈 프래그런스로 상품군을 넓히며 연말 선물 수요 공략에 나섰다.",
+  "key_fact_quote": "출시 2주년을 맞은 럭셔리 뷰티·패션 버티컬 서비스 알럭스(R.LUX)가 상품군을 넓히며 연말 선물 수요 공략에",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

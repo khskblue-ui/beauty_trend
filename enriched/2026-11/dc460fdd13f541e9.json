@@ -1,0 +1,44 @@
+{
+ "doc_id": "dc460fdd13f541e9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businessplus.kr/news/articleView.html?idxno=119578",
+ "title": "[가보니]\"20대 공략 '코랄빛' 뷰티 공간\"…무신사 뷰티 성수 오픈",
+ "summary": "하나의 브랜드가 약 15평의 공간에서 신제품 과 새로운 라인업을 소개할 수 있도록 했다. 이 매니저는 \"이는... 2층 바디케어존의 모습 /사진=김현정 기자 또한 1층에는 성수에서 가장 큰 향수 체험존을 마련하고 56개 브랜드...",
+ "published_at": "2026-11-10T12:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "향수 체험",
+   "인디 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티 성수는 1층에 성수에서 가장 큰 향수 체험존을 마련했다.",
+  "key_fact_quote": "또한 1층에는 성수에서 가장 큰 향수 체험존을 마련하고 56개 브랜드",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

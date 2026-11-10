@@ -1,0 +1,46 @@
+{
+ "doc_id": "5fdde59851bf8e00",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.socialvalue.kr/news/view/1065580521149732",
+ "title": "[현장] 옷·화장품 한 번에, 약국은 '덤'…무신사 뷰티, 성수에 두 번째...",
+ "summary": "우선 1층에서는 메이크업과 스킨케어, 향수 브랜드 를 만나볼 수 있다. 브랜드별 팝업과 진단 서비스 등 소비자가 직접 제품을 경험할 수 있는 특화 공간도 마련했다. 무신사 뷰티 오프라인 매장에 처음 입점한 ‘아멜리’...",
+ "published_at": "2026-11-10T14:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아멜리"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "체험형 매장",
+   "오프라인 뷰티 매장",
+   "진단 서비스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티 성수 매장이 메이크업 스킨케어 향수 브랜드와 체험 공간을 갖췄다.",
+  "key_fact_quote": "브랜드별 팝업과 진단 서비스 등 소비자가 직접 제품을 경험할 수 있는 특화 공간도 마련했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

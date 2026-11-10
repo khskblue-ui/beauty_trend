@@ -1,0 +1,51 @@
+{
+ "doc_id": "fd2784e9af9f8ec4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/distribution/channel/2026/11/10/Q3U3IIIQYNAIHLW3VSA7ENGD2M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "쿠팡 알럭스, 출시 2주년 기획전…럭셔리 뷰티 33개 브랜드 참여",
+ "summary": "알럭스는 론칭 이후 입점 브랜드를 2배 이상 늘렸다. 최근에는 논픽션, 미우미우, 연작 등을 선보이며 스킨케어를 비롯해 헤어, 바디, 향수 , 홈 프래그런스까지 상품군을 확대하고 있다.",
+ "published_at": "2026-11-10T10:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "논픽션",
+   "미우미우",
+   "연작",
+   "쿨티"
+  ],
+  "companies": [
+   "쿠팡",
+   "알럭스"
+  ],
+  "keywords": [
+   "럭셔리 뷰티",
+   "홈 프래그런스",
+   "향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "12e1da74c0ce59e1",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

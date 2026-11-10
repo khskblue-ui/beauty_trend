@@ -1,0 +1,56 @@
+{
+ "doc_id": "c9df8cf262cf317d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/economy/2026/11/11/2026111012543056287",
+ "title": "변압기부터 K - 뷰티 까지… 해외인증이 中企 수출 '퀀텀점프' 이끌다",
+ "summary": "㈜미다코스메틱은 한국 쌀 유래 성분을 핵심 원료로 하는 라이스 클린 뷰티 브랜드 '미다(MIDHA)'를 중심으로 K - 뷰티 를 수출 한다. 영국, 독일, 스페인, 폴란드, 그리스 등 21여 개국으로 시장을 넓혀가며 올해 1~9월 수출 ...",
+ "published_at": "2026-11-10T13:09:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB",
+   "DE",
+   "ES",
+   "PL",
+   "GR"
+  ],
+  "brands": [
+   "미다"
+  ],
+  "companies": [
+   "미다코스메틱"
+  ],
+  "keywords": [
+   "라이스 클린 뷰티",
+   "해외인증",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미다코스메틱은 쌀 유래 성분을 쓴 라이스 클린 뷰티 브랜드로 유럽 등으로 수출을 넓히고 있다.",
+  "key_fact_quote": "㈜미다코스메틱은 한국 쌀 유래 성분을 핵심 원료로 하는 라이스 클린 뷰티 브랜드 '미다(MIDHA)'를 중심으로 K - 뷰티 를 수출 한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "쌀",
+    "quote": "㈜미다코스메틱은 한국 쌀 유래 성분을 핵심 원료로 하는 라이스 클린 뷰티 브랜드 '미다(MIDHA)'를 중심으로 K - 뷰티 를 수출 한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

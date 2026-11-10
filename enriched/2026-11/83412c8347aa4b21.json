@@ -1,0 +1,44 @@
+{
+ "doc_id": "83412c8347aa4b21",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12204010",
+ "title": "‘한국 브랜드’라 안 밝힌 K 향수 …82개국 진출해 출범 4년에 1000억",
+ "summary": "국내 향수 브랜드 중에 성공한 사례가 없다는 이유였습니다.” 해외 브랜드가 장악한 국내 향수 시장에서 토종 니치향수 브랜드 ‘본투스탠드아웃’이 출범 4년 만에 매출 1000억원 브랜드로 성장했다. 2022년 4월 서울...",
+ "published_at": "2026-11-10T16:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "본투스탠드아웃"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "국내 향수 브랜드",
+   "글로벌 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "토종 니치 향수 브랜드 본투스탠드아웃이 해외 진출로 빠르게 성장했다.",
+  "key_fact_quote": "해외 브랜드가 장악한 국내 향수 시장에서 토종 니치향수 브랜드 ‘본투스탠드아웃’이 출범 4년 만에 매출 1000억원 브랜드로 성장했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

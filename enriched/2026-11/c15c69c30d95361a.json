@@ -1,0 +1,41 @@
+{
+ "doc_id": "c15c69c30d95361a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=139344",
+ "title": "식품· 뷰티 업계, 한정판부터 이색 스낵까지...연말 소비자 공략",
+ "summary": "식품· 뷰티 업계가 한정판 제품과 신메뉴, 체험형 프로그램을 잇달아 선보이며 소비자 접점 확대에 나섰다.... 1972년 출시 된 죠리퐁이 커피·코코아·밀크화이트에 이어 약 10년 만에 선보이는 신제품 이다. 신제품 은 흑당...",
+ "published_at": "2026-11-10T09:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "연말 한정판",
+   "체험형 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식품과 뷰티 업계가 연말을 맞아 한정판과 체험형 프로그램을 잇달아 내놓고 있다.",
+  "key_fact_quote": "식품· 뷰티 업계가 한정판 제품과 신메뉴, 체험형 프로그램을 잇달아 선보이며 소비자 접점 확대에 나섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

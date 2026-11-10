@@ -1,0 +1,68 @@
+{
+ "doc_id": "bd5e118f0371b663",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100432",
+ "title": "OOTD 스팟 패치, 다이소 런칭 직후 주요 매장 품절",
+ "summary": "글로벌 더마 스킨케어 브랜드 OOTD Beauty(오오티디뷰티, 이하 OOTD)의 스팟 패치가 다이소 입점 직후 주요 매장에서 품절을 기록한 데 이어, 온라인에서도 런칭 약 3주 만에 준비 물량이 소진되는 등 높은 소비자 반응을 이어가고 있다.지난 9월 OOTD LAB(오오티디랩)을 통해 다이소에 입점한 ‘스타 스팟 패치’와 ‘하트 스팟 패치’는 전국 약 1,600개 매장에서 판매되고 있다.판매 초기 주요 오프라인 매장에서 빠르게 물량이 소진된 이후 다른 매장에서도 순차적으로 품절 사례가 이어졌으며, 스타 스팟 패치는 다이소 온라인",
+ "published_at": "2026-11-10T10:06:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "OOTD Beauty",
+   "OOTD LAB"
+  ],
+  "companies": [
+   "다이소",
+   "아트앤디자인인터내셔널"
+  ],
+  "keywords": [
+   "스팟 패치",
+   "트러블 케어",
+   "저가 유통 채널"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "스타 스팟 패치",
+    "brand": "OOTD",
+    "launch_date": "2026-09",
+    "launch_status": "unknown",
+    "launch_quote": "지난 9월 OOTD LAB(오오티디랩)을 통해 다이소에 입점한 ‘스타 스팟 패치’와 ‘하트 스팟 패치’는 전국 약 1,600개 매장에서 판매되고 있다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "하트 스팟 패치",
+    "brand": "OOTD",
+    "launch_date": "2026-09",
+    "launch_status": "unknown",
+    "launch_quote": "지난 9월 OOTD LAB(오오티디랩)을 통해 다이소에 입점한 ‘스타 스팟 패치’와 ‘하트 스팟 패치’는 전국 약 1,600개 매장에서 판매되고 있다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "OOTD 스팟 패치가 다이소 입점 뒤 주요 매장과 온라인에서 품절되며 추가 발주가 이어지고 있다.",
+  "key_fact_quote": "글로벌 더마 스킨케어 브랜드 OOTD Beauty(오오티디뷰티, 이하 OOTD)의 스팟 패치가 다이소 입점 직후 주요 매장에서 품절을 기록한 데 이어, 온라인에서도 런칭 약 3주 만에 준비 물량이 소진되는 등 높은 소비자 반응을 이어가고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

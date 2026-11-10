@@ -1,0 +1,65 @@
+{
+ "doc_id": "869700082c0308f2",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100427",
+ "title": "메종 마르지엘라 프래그런스, 2026 홀리데이 한정판",
+ "summary": "메종 마르지엘라 프래그런스(Maison Margiela Fragrances)가 다가오는 연말을 맞아 2026 홀리데이 한정판 ‘허리 홀리데이(Hurry Holidays)’ 컬렉션을 선보인다. 이번 컬렉션은 홀리데이 시즌 특유의 설렘과 분주한 순간에서 영감을 받아, 브랜드의 베스트셀러 향수인 ‘레플리카 레이지 선데이 모닝(Lazy Sunday Morning)’과 ‘레플리카 재즈 클럽(Jazz Club)’ 두 가지 향을 특별한 홀리데이 에디션으로 출시된다.‘허리 홀리데이(Hurry Holidays)’는 막바지 선물 쇼핑부터 바쁘게 오가",
+ "published_at": "2026-11-10T09:50:03+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "메종 마르지엘라 프래그런스"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 한정판",
+   "기프트 향수",
+   "한정판 패키지"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "레플리카 레이지 선데이 모닝",
+    "brand": "메종 마르지엘라 프래그런스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "메종 마르지엘라 프래그런스(Maison Margiela Fragrances)가 다가오는 연말을 맞아 2026 홀리데이 한정판 ‘허리 홀리데이(Hurry Holidays)’ 컬렉션을 선보인다.",
+    "notes": [
+     "플로럴 머스크"
+    ],
+    "notes_quote": "이번 컬렉션은 깨끗하고 포근한 플로럴 머스크 향의 ‘레이지 선데이 모닝’과 따뜻하고 스모키한 우디 앰버 향의 ‘재즈 클럽’으로 구성된다."
+   },
+   {
+    "name": "레플리카 재즈 클럽",
+    "brand": "메종 마르지엘라 프래그런스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "메종 마르지엘라 프래그런스(Maison Margiela Fragrances)가 다가오는 연말을 맞아 2026 홀리데이 한정판 ‘허리 홀리데이(Hurry Holidays)’ 컬렉션을 선보인다.",
+    "notes": [
+     "우디 앰버"
+    ],
+    "notes_quote": "이번 컬렉션은 깨끗하고 포근한 플로럴 머스크 향의 ‘레이지 선데이 모닝’과 따뜻하고 스모키한 우디 앰버 향의 ‘재즈 클럽’으로 구성된다."
+   }
+  ],
+  "key_fact": "메종 마르지엘라 프래그런스가 베스트셀러 향수 두 가지를 홀리데이 한정판 컬렉션으로 선보인다.",
+  "key_fact_quote": "메종 마르지엘라 프래그런스(Maison Margiela Fragrances)가 다가오는 연말을 맞아 2026 홀리데이 한정판 ‘허리 홀리데이(Hurry Holidays)’ 컬렉션을 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

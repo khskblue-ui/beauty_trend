@@ -1,0 +1,51 @@
+{
+ "doc_id": "4cf16d216068254c",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/greentech-wins-top-ifscc-award-for,28523",
+ "title": "Greentech wins top IFSCC award for breakthrough in neuro-pigmentation",
+ "summary": "Greentech has received the 2026 IFSCC Grand Prize for Applied Research at the 36th International Federation of Societies of Cosmetic Chemists (IFSCC) Congress, held in Perth, Australia, for research highlighting the role of neuronal signaling in age-related hyperpigmentation. The IFSCC jury recognized a major breakthrough in understanding how skin ages and develops pigmentation. Greentech's research sheds light on the direct role of the nervous system in triggering localized melanin... - Science, R&D / publi-redac",
+ "published_at": "2026-11-10T08:19:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "AU"
+  ],
+  "brands": [],
+  "companies": [
+   "Greentech",
+   "LabSkin Creations"
+  ],
+  "keywords": [
+   "뉴로코스메틱",
+   "색소 침착",
+   "안티에이징",
+   "피부 모델"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Greentech가 신경 신호가 노화 색소 침착에 관여한다는 연구로 IFSCC 응용연구 대상을 받았다.",
+  "key_fact_quote": "Greentech has received the 2026 IFSCC Grand Prize for Applied Research at the 36th International Federation of Societies of Cosmetic Chemists (IFSCC) Congress, held in Perth, Australia, for research highlighting the role of neuronal signaling in age-related hyperpigmentation.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "ILUMYS",
+    "quote": "These findings have provided the scientific basis for Greentech ’s development of ILUMYS ®, a natural active ingredient designed to reduce existing age spots and help prevent their formation."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

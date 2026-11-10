@@ -1,0 +1,61 @@
+{
+ "doc_id": "86a7d7fa17b1fc09",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://isplus.com/article/view/isp202611100084",
+ "title": "‘먹고 바르는’ 이중 케어로 뷰티 시장 공략… hy, 웰니스 브랜드 ‘아...",
+ "summary": "글로벌 뷰티 및 건강기능식품 시장에서 바르는 화장품 과 먹는 이너뷰티를 결합해 피부 관리 효과를... 신제품 ‘아이오웰 스킨 프로바이오틱스 HY7714’는 hy가 자체 개발한 특허 유산균 ‘HY7714’를 주원료로 하며...",
+ "published_at": "2026-11-10T13:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오웰"
+  ],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "이너 뷰티",
+   "프로바이오틱스",
+   "웰니스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아이오웰 스킨 프로바이오틱스 HY7714",
+    "brand": "아이오웰",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "hy가 바르는 화장품과 먹는 이너뷰티를 결합한 웰니스 브랜드로 뷰티 시장을 공략한다.",
+  "key_fact_quote": "신제품 ‘아이오웰 스킨 프로바이오틱스 HY7714’는 hy가 자체 개발한 특허 유산균 ‘HY7714’를 주원료로 하며",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "HY7714",
+    "quote": "신제품 ‘아이오웰 스킨 프로바이오틱스 HY7714’는 hy가 자체 개발한 특허 유산균 ‘HY7714’를 주원료로 하며"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

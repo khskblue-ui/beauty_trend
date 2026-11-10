@@ -1,0 +1,44 @@
+{
+ "doc_id": "8281ee029483814f",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/dix-hectares-u-s-expansion-luxury-skin-care-1239408618/",
+ "title": "Seasonal Luxury Skin Care Brand Dix Hectares Eyes U.S. Expansion",
+ "summary": "Founder Charlotte Bouygues described the brand philosophy as being about “crafting exceptional actives, and then giving them to your skin at the right time.”",
+ "published_at": "2026-11-11T03:31:10+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Dix Hectares"
+  ],
+  "companies": [],
+  "keywords": [
+   "럭셔리 스킨케어",
+   "시즌 스킨케어",
+   "미국 시장 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "시즌별 럭셔리 스킨케어 브랜드 Dix Hectares가 미국 진출을 추진한다.",
+  "key_fact_quote": "Seasonal Luxury Skin Care Brand Dix Hectares Eyes U.S. Expansion",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

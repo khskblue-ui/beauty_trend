@@ -1,0 +1,59 @@
+{
+ "doc_id": "7e69348bd96406ad",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/skin-care/dr-amy-wechsler-skin-care-launch-1239406821/",
+ "title": "EXCLUSIVE: Dr. Amy Wechsler of Spotless Launches Eponymous Product Line",
+ "summary": "The brand opens with The Spot Gel, $34, a non-comedogenic, cruelty-free pimple treatment formulated with 2 percent salicylic acid.",
+ "published_at": "2026-11-10T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Dr. Amy Wechsler"
+  ],
+  "companies": [
+   "Spotless"
+  ],
+  "keywords": [
+   "여드름 케어",
+   "논코메도제닉",
+   "크루얼티 프리"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "The Spot Gel",
+    "brand": "Dr. Amy Wechsler",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "The brand opens with The Spot Gel, $34, a non-comedogenic, cruelty-free pimple treatment formulated with 2 percent salicylic acid.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "피부과 의사 이름을 딴 브랜드가 살리실산 여드름 젤로 첫 제품을 냈다.",
+  "key_fact_quote": "The brand opens with The Spot Gel, $34, a non-comedogenic, cruelty-free pimple treatment formulated with 2 percent salicylic acid.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "salicylic acid",
+    "quote": "The brand opens with The Spot Gel, $34, a non-comedogenic, cruelty-free pimple treatment formulated with 2 percent salicylic acid."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

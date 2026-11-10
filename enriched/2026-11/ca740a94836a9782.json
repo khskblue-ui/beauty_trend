@@ -1,0 +1,44 @@
+{
+ "doc_id": "ca740a94836a9782",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.dealsitetv.com/articles/178363",
+ "title": "[가보니] 무신사 뷰티 성수, 체험으로 패션·뷰티 잇는다",
+ "summary": "자신의 피부색에 어울리는 화장품을 체험하고, 다양한 향수 를 직접 뿌려보며 취향에 맞는 향을 찾을 수 있는... 입점 브랜드 역시 700개로 1만여개 상품을 갖췄다. 가장 먼저 둘러본 1층은 '메이크업존'과 '스킨케어존'을...",
+ "published_at": "2026-11-10T22:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "향수 체험",
+   "인디 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티 성수는 화장품과 향수를 직접 체험하는 공간으로 패션과 뷰티를 잇는다.",
+  "key_fact_quote": "입점 브랜드 역시 700개로 1만여개 상품을 갖췄다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "52819fd7d5a32f4b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hani.co.kr/arti/economy/economy_general/1286641.html",
+ "title": "[현장] 인디 브랜드·외국인…‘무신사 뷰티 성수’, 홍대점서 찾은 흥...",
+ "summary": "향수 520여개를 한자리에서 시향하고 조명을 바꿔가며 자신에게 어울리는 화장품을 찾아본다. 바디스크럽을... 교체하며 신제품 을 선보일 기회를 제공하는 점도 눈에 띈다. 무신사는 성수 일대 패션·라이프스타일...",
+ "published_at": "2026-11-10T16:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "체험형 매장",
+   "인디 뷰티 브랜드",
+   "향수 시향"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티 성수에서 많은 향수를 한곳에서 시향하고 화장품을 체험할 수 있다.",
+  "key_fact_quote": "향수 520여개를 한자리에서 시향하고 조명을 바꿔가며 자신에게 어울리는 화장품을 찾아본다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

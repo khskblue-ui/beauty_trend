@@ -1,0 +1,46 @@
+{
+ "doc_id": "798b6154f0fe367c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kmib.co.kr/article/20261110502077",
+ "title": "옷 사러 왔다가 화장품도 사지요… 성수 무신사 타운이 품은 ‘뷰티 천...",
+ "summary": "향수 존에는 56개 브랜드 의 약 520개 상품을 모았다. 상품 수는 홍대점의 두 배 이상이다. 2층에 입점한 뷰티온누리약국에서는 피부 고민에 따라 상주 약사 2명에게 상담받을 수 있다. 무신사는 성수점의 외국인 고객...",
+ "published_at": "2026-11-11T02:57:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "뷰티온누리약국"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "향수 존",
+   "오프라인 뷰티 매장",
+   "약국 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 성수점 향수 존은 홍대점보다 상품 수가 크게 많다.",
+  "key_fact_quote": "향수 존에는 56개 브랜드 의 약 520개 상품을 모았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

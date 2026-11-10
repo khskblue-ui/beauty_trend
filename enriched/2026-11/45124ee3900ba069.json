@@ -1,0 +1,67 @@
+{
+ "doc_id": "45124ee3900ba069",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53891",
+ "title": "티핏, 무신사 뷰티 성수 상륙 작전",
+ "summary": "베이스메이크업 전문 브랜드 티핏(TFIT)이 오는 11일 문을 여는 ‘무신사 뷰티 성수’에 입점, 국내 오프라인 유통망 확대에 나선다. 무신사 뷰티 성수는 서울 성수 지역에 새롭게 들어서는 화장품 전문 매장. 700여 개 뷰티 브랜드와 온누리약국이 입점한다. 티핏은 무신사 뷰티 홍대에 이어 성수 매장에서…",
+ "published_at": "2026-11-10T08:40:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN",
+   "JP"
+  ],
+  "brands": [
+   "티핏"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "베이스메이크업",
+   "오프라인 뷰티 매장",
+   "체험형 매장"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "커버 업 프로 컨실러",
+    "brand": "티핏",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "트렌스루센트 셋 에센셜 파우더 글로우",
+    "brand": "티핏",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "베이스메이크업 브랜드 티핏이 무신사 뷰티 성수 매장에 입점해 오프라인 유통을 넓힌다.",
+  "key_fact_quote": "베이스메이크업 전문 브랜드 티핏(TFIT)이 오는 11일 문을 여는 ‘무신사 뷰티 성수’에 입점, 국내 오프라인 유통망 확대에 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

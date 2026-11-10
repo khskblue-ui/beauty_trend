@@ -1,0 +1,82 @@
+{
+ "doc_id": "ffd120c997f761d6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kr.aving.net/news/articleView.html?idxno=1816879",
+ "title": "라포즈미, 2026 푸드위크 코리아서 이너 뷰티 신제품 '마이브이샷' 공개...",
+ "summary": "주력 출품 제품은 김치유산균 발효 GABA를 활용한 데일리 웰니스 제품 '마이가바'와 식물성 멜라토닌 액상 제품 '마이멜라샷', 오는 12월 출시 를 앞둔 이너 뷰티 신제품 '마이브이샷(MY V SHOT)' 세 가지다. 이 가운데...",
+ "published_at": "2026-11-10T11:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라포즈미"
+  ],
+  "companies": [
+   "라포즈미"
+  ],
+  "keywords": [
+   "이너 뷰티",
+   "웰니스 제품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "마이브이샷",
+    "brand": "라포즈미",
+    "launch_date": "2026-12",
+    "launch_status": "upcoming",
+    "launch_quote": "주력 출품 제품은 김치유산균 발효 GABA를 활용한 데일리 웰니스 제품 '마이가바'와 식물성 멜라토닌 액상 제품 '마이멜라샷', 오는 12월 출시 를 앞둔 이너 뷰티 신제품 '마이브이샷(MY V SHOT)' 세 가지다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마이가바",
+    "brand": "라포즈미",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마이멜라샷",
+    "brand": "라포즈미",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "라포즈미가 푸드위크 코리아에서 이너 뷰티 신제품 마이브이샷을 공개했다.",
+  "key_fact_quote": "주력 출품 제품은 김치유산균 발효 GABA를 활용한 데일리 웰니스 제품 '마이가바'와 식물성 멜라토닌 액상 제품 '마이멜라샷', 오는 12월 출시 를 앞둔 이너 뷰티 신제품 '마이브이샷(MY V SHOT)' 세 가지다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "GABA",
+    "quote": "주력 출품 제품은 김치유산균 발효 GABA를 활용한 데일리 웰니스 제품 '마이가바'와 식물성 멜라토닌 액상 제품 '마이멜라샷', 오는 12월 출시 를 앞둔 이너 뷰티 신제품 '마이브이샷(MY V SHOT)' 세 가지다."
+   },
+   {
+    "name": "식물성 멜라토닌",
+    "quote": "주력 출품 제품은 김치유산균 발효 GABA를 활용한 데일리 웰니스 제품 '마이가바'와 식물성 멜라토닌 액상 제품 '마이멜라샷', 오는 12월 출시 를 앞둔 이너 뷰티 신제품 '마이브이샷(MY V SHOT)' 세 가지다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

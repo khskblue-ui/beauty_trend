@@ -1,0 +1,94 @@
+{
+ "doc_id": "65b1f3e05f63d81f",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53918",
+ "title": "티르티르, 몽골서 브랜드 팝업 행사 개최",
+ "summary": "티르티르가 10월 28일부터 11월 1일까지 5일 동안 몽골 울란바토르 블루몬센터에서 브랜드 행사를 실시했다. 팝업매장에선 △ 틴티드 스킨 글로우 쿠션 △ 하이드라 베일 세럼 파우더 △ 포렉셀 스킨케어 등을 선보였다. 포렉셀 스킨케어 라인은 NMN과 NAD+ 등을 함유했다. 세럼·토너·클렌징 오일·머…",
+ "published_at": "2026-11-10T09:49:38+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "MN",
+   "KR"
+  ],
+  "brands": [
+   "티르티르"
+  ],
+  "companies": [],
+  "keywords": [
+   "K뷰티 해외 팝업",
+   "쿠션 파운데이션",
+   "몽골 시장"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "틴티드 스킨 글로우 쿠션",
+    "brand": "티르티르",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "하이드라 베일 세럼 파우더",
+    "brand": "티르티르",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "포렉셀 스킨케어",
+    "brand": "티르티르",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "티르티르가 몽골에서 처음으로 단독 브랜드 팝업 행사를 열었다.",
+  "key_fact_quote": "티르티르가 10월 28일부터 11월 1일까지 5일 동안 몽골 울란바토르 블루몬센터에서 브랜드 행사를 실시했다.",
+  "events": [
+   {
+    "name": "브랜드 행사",
+    "start_date": "2026-10-28",
+    "end_date": "2026-11-01",
+    "place": "몽골 울란바토르 블루몬센터",
+    "quote": "티르티르가 10월 28일부터 11월 1일까지 5일 동안 몽골 울란바토르 블루몬센터에서 브랜드 행사를 실시했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "NMN",
+    "quote": "포렉셀 스킨케어 라인은 NMN과 NAD+ 등을 함유했다."
+   },
+   {
+    "name": "NAD+",
+    "quote": "포렉셀 스킨케어 라인은 NMN과 NAD+ 등을 함유했다."
+   },
+   {
+    "name": "말차",
+    "quote": "이어 말차 스킨케어 제품과 식음용 말차 쉐이킹 체험을 진행했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

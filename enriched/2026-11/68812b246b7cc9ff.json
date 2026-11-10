@@ -1,0 +1,44 @@
+{
+ "doc_id": "68812b246b7cc9ff",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=780299",
+ "title": "무신사, 100번째 오프라인 매장 '무신사 뷰티 성수' 오픈",
+ "summary": "무신사 뷰티의 상징색인 코랄을 공간 전반에 적용하고 스킨케어, 메이크업, 향수 , 헤어·바디케어 등 700여 개 브랜드 의 상품 1만여 개를 선보인다. 입점 브랜드 의 약 80%는 인디 브랜드 다. 인근에는 무신사 스탠다드...",
+ "published_at": "2026-11-10T07:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "인디 뷰티 브랜드",
+   "오프라인 뷰티 매장",
+   "뷰티 편집숍"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 100번째 오프라인 매장으로 인디 브랜드 중심의 무신사 뷰티 성수를 연다.",
+  "key_fact_quote": "입점 브랜드 의 약 80%는 인디 브랜드 다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

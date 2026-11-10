@@ -1,0 +1,45 @@
+{
+ "doc_id": "3cbb9b9ff202c85a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443884",
+ "title": "K뷰티 주무대 파고드는 엘프 뷰티 …美 점유율 싸움 격화",
+ "summary": "같은 기간 K뷰티 도 미국에서 몸집을 키워왔다. 관세청에 따르면 올해 1~9월 미국으로 향한 기초·색조 화장품 수출 은 전년 동기 대비 40.7% 늘었다. 국제무역센터 통계 기준 미국이 수입한 기초·색조 화장품 가운데...",
+ "published_at": "2026-11-10T09:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "엘프 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "미국 화장품 시장",
+   "K뷰티 수출",
+   "점유율 경쟁"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국에서 K뷰티와 엘프 뷰티의 점유율 경쟁이 치열해지고 있다.",
+  "key_fact_quote": "관세청에 따르면 올해 1~9월 미국으로 향한 기초·색조 화장품 수출 은 전년 동기 대비 40.7% 늘었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

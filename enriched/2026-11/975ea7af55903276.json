@@ -1,0 +1,66 @@
+{
+ "doc_id": "975ea7af55903276",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100429",
+ "title": "아틀리에 코롱, 새로운 디자인과 고영양 포뮬러 ‘핸드크림 컬렉션’",
+ "summary": "프랑스 니치 퍼퓸 브랜드 아틀리에 코롱(ATELIER COLOGNE)이 예술적 감성을 담은 새로운 패키지와 업그레이드된 고영양 포뮬러를 적용한 ‘NEW 50ml 핸드크림 컬렉션’을 선보인다. 아틀리에 코롱은 자연에서 영감을 받은 감각적인 향과 프렌치 장인정신을 바탕으로 독창적인 프래그런스를 선보이는 브랜드로, 이번 신제품을 통해 브랜드의 시그니처 향을 일상 속 핸드 케어에서도 경험할 수 있도록 제안한다.새롭게 출시되는 ‘50ml 핸드크림 컬렉션’은 기존 30ml에서 50ml로 용량을 확대하고, 한층 강화된 보습 포뮬러와 감각적인 디",
+ "published_at": "2026-11-10T09:54:56+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "아틀리에 코롱"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 퍼퓸",
+   "핸드크림",
+   "향 핸드케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "NEW 50ml 핸드크림 컬렉션",
+    "brand": "아틀리에 코롱",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "프랑스 니치 퍼퓸 브랜드 아틀리에 코롱(ATELIER COLOGNE)이 예술적 감성을 담은 새로운 패키지와 업그레이드된 고영양 포뮬러를 적용한 ‘NEW 50ml 핸드크림 컬렉션’을 선보인다.",
+    "notes": [
+     "울랑 앙피니",
+     "오랑쥬 상긴느"
+    ],
+    "notes_quote": "브랜드의 대표적인 향인 ‘울랑 앙피니(Oolang Infini)’와 ‘오랑쥬 상긴느(Orange Sanguine)’ 두 가지 향취로 출시되어 손끝까지 은은하게 머무는 향과 풍부한 보습을 동시에 선사한다."
+   }
+  ],
+  "key_fact": "아틀리에 코롱이 시그니처 향을 담은 핸드크림 컬렉션을 용량과 포뮬러를 바꿔 새로 선보였다.",
+  "key_fact_quote": "프랑스 니치 퍼퓸 브랜드 아틀리에 코롱(ATELIER COLOGNE)이 예술적 감성을 담은 새로운 패키지와 업그레이드된 고영양 포뮬러를 적용한 ‘NEW 50ml 핸드크림 컬렉션’을 선보인다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "글리세린",
+    "quote": "특히 글리세린과 시어버터를 함유한 업그레이드된 고영양 포뮬러가 건조하고 거칠어진 손에 깊은 수분과 영양을 공급해 부드럽고 촉촉하게 가꿔준다."
+   },
+   {
+    "name": "시어버터",
+    "quote": "특히 글리세린과 시어버터를 함유한 업그레이드된 고영양 포뮬러가 건조하고 거칠어진 손에 깊은 수분과 영양을 공급해 부드럽고 촉촉하게 가꿔준다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}

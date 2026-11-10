@@ -1,0 +1,43 @@
+{
+ "doc_id": "c798aa3c2215f7bf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000724",
+ "title": "﻿ K - 뷰티 중국 2.0…제품 수출 에서 공동개발 생태계로 [박지민의 중국과...",
+ "summary": "K - 뷰티 가 중국 시장에서 다시 성장하려면 '한국 제품을 중국에 파는 일'이라는 정의부터 바꿔야 한다. 중국... 완제품 수출 만으로는 현지 브랜드의 속도와 비용, 설명 능력을 이기기 어렵다. 한국의 강점은 분명하다....",
+ "published_at": "2026-11-11T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 중국 시장",
+   "공동개발",
+   "현지화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티가 중국에서 다시 성장하려면 완제품 수출을 넘어 공동개발 방식으로 바뀌어야 한다는 주장이다.",
+  "key_fact_quote": "K - 뷰티 가 중국 시장에서 다시 성장하려면 '한국 제품을 중국에 파는 일'이라는 정의부터 바꿔야 한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

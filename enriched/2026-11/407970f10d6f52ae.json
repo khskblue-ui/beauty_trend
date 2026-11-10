@@ -1,0 +1,46 @@
+{
+ "doc_id": "407970f10d6f52ae",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news2day.co.kr/article/20261110500366",
+ "title": "[현장] 무신사, 성수 패션타운에 뷰티 더했다…상호송객·교차구매 겨냥",
+ "summary": "오는 11일 정식 오픈할 무신사 뷰티 성수에서는 스킨케어와 메이크업, 향수 , 헤어·바디케어 등을 중심으로... 약 15평 규모로 마련된 이 공간은 브랜드가 일정 기간 매장 전체를 활용해 신제품 과 브랜드 콘셉트를...",
+ "published_at": "2026-11-10T18:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "무신사 뷰티"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "팝업 공간",
+   "교차 구매"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 성수 패션 매장 일대에 뷰티 매장을 열어 교차 구매를 노린다.",
+  "key_fact_quote": "오는 11일 정식 오픈할 무신사 뷰티 성수에서는 스킨케어와 메이크업, 향수 , 헤어·바디케어 등을 중심으로",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

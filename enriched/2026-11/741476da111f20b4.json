@@ -1,0 +1,55 @@
+{
+ "doc_id": "741476da111f20b4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5023",
+ "title": "K뷰티 수출 열풍, 홍콩으로… 한국 기업 252곳 역대 최대 출격",
+ "summary": "실질적인 수출 성과를 높이는 데 집중한다. 대한무역투자진흥공사(KOTRA·코트라)는 대한화장품협회, 한국 뷰티 산업무역협회 등 유관기관과 협력해 오는 11일부터 13일까지 열리는 '2026 홍콩 코스모프로프(Cosmoprof Asia)'에서...",
+ "published_at": "2026-11-10T14:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [
+   "대한무역투자진흥공사(KOTRA·코트라)",
+   "대한화장품협회",
+   "한국 뷰티 산업무역협회"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "뷰티 박람회",
+   "한국관"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코트라가 유관기관과 함께 홍콩 코스모프로프에 한국 기업 참가를 지원한다.",
+  "key_fact_quote": "대한무역투자진흥공사(KOTRA·코트라)는 대한화장품협회, 한국 뷰티 산업무역협회 등 유관기관과 협력해 오는 11일부터 13일까지 열리는 '2026 홍콩 코스모프로프(Cosmoprof Asia)'에서",
+  "events": [
+   {
+    "name": "2026 홍콩 코스모프로프(Cosmoprof Asia)",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "홍콩",
+    "quote": "대한무역투자진흥공사(KOTRA·코트라)는 대한화장품협회, 한국 뷰티 산업무역협회 등 유관기관과 협력해 오는 11일부터 13일까지 열리는 '2026 홍콩 코스모프로프(Cosmoprof Asia)'에서"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": false
+}

@@ -1,0 +1,55 @@
+{
+ "doc_id": "81e33f8a263cedc3",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58697",
+ "title": "피엔케이피부임상연구센타, 태국서 피부임상 데이터 기반 글로벌 마케팅 지원 기술 공개",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 피부 인체적용시험 전문기업 피엔케이피부임상연구센타(각자대표 박진오·이해광, 이하 Pamp;K)가 지난 3일부터 5일까지 태국 방콕에서 열린 ‘인코스메틱스 아시아 2026(in-cosmetics Asia)’에 참가해 피부임상 데이터 기반의 글로벌 마케팅 지원 기…",
+ "published_at": "2026-11-10T11:54:08+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "TH",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "피엔케이피부임상연구센타"
+  ],
+  "keywords": [
+   "피부임상 데이터",
+   "인체적용시험",
+   "효능 검증",
+   "라만 분광법"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "피엔케이피부임상연구센타가 인코스메틱스 아시아에서 피부임상 데이터를 해외 마케팅에 활용하는 기술을 선보였다.",
+  "key_fact_quote": "피엔케이는 이번 전시회에서 피부임상 결과를 이미지와 영상 등 시각적 콘텐츠로 전환해 해외 시장의 제품 홍보와 판매에 활용하는 종합 지원 서비스를 소개했다.",
+  "events": [
+   {
+    "name": "인코스메틱스 아시아 2026",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-05",
+    "place": "태국 방콕",
+    "quote": "[코스인코리아닷컴 길태윤 기자] 피부 인체적용시험 전문기업 피엔케이피부임상연구센타(각자대표 박진오·이해광, 이하 P&K)가 지난 3일부터 5일까지 태국 방콕에서 열린 ‘인코스메틱스 아시아 2026(in-cosmetics Asia)’에 참가해 피부임상 데이터 기반의 글로벌 마케팅 지원 기술을 선보였다고 10일 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-10T21:35:39+00:00",
+ "had_body": true
+}
