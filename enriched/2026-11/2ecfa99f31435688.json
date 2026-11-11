@@ -1,0 +1,47 @@
+{
+ "doc_id": "2ecfa99f31435688",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202611107962O",
+ "title": "키사이드, 신규 뷰티 브랜드 '콜빗' 론칭…첫 제품 공개",
+ "summary": "콜빗은 첫 제품 출시 를 시작으로 브랜드 슬로건을 알리고 글로벌 스킨케어 시장 진출을 추진한다. 보습과... 콜빗은 솔루엠헬스케어가 인수한 화장품 제조 전문기업 GDK의 제조와 R&D 역량을 기반으로 한다. GDK는...",
+ "published_at": "2026-11-11T09:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "콜빗"
+  ],
+  "companies": [
+   "키사이드"
+  ],
+  "keywords": [
+   "신규 뷰티 브랜드",
+   "스킨케어",
+   "피부 균형"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "96a4e359eda2e65f",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

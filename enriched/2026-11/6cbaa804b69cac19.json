@@ -1,0 +1,44 @@
+{
+ "doc_id": "6cbaa804b69cac19",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53929",
+ "title": "미용서비스 소비자 피해 급증…상반기 전년比 48.9%↑",
+ "summary": "A씨는 올해 3월 미용실에서 펌과 커트를 한 뒤 35만원을 결재했다. 펌이 사전에 요청한 C컬이 아닌 S컬이 나와 배상을 요구했으나 사업자가 거부했다. B씨는 2월 네일아트 서비스를 받고 8만원을 지급했다. 네일아티스트가 접착제를 잘못 사용해 손톱 일부가 손상됐다. B씨가 네일숍에 일부 환급을 요구했으…",
+ "published_at": "2026-11-11T16:50:45+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국소비자원"
+  ],
+  "keywords": [
+   "미용서비스 소비자 피해",
+   "위약금 분쟁",
+   "피부관리 회원권"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미용서비스 관련 소비자 피해구제 신청이 해마다 늘고 있다.",
+  "key_fact_quote": "한국소비자원이 2023년부터 올해 6월까지 최근 3년 6개월 동안 접수한 미용서비스 관련 피해구제 신청은 총 4,408건으로 2023년부터 매년 늘고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

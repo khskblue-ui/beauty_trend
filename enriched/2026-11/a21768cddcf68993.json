@@ -1,0 +1,45 @@
+{
+ "doc_id": "a21768cddcf68993",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.econovill.com/news/articleView.html?idxno=756882",
+ "title": "코스맥스, 글로벌 뷰티 ODM 1인자 입지 굳건",
+ "summary": "기존 제품에 대한 안정적인 수요에 더해 더마 화장품 분야의 신제품 개발 문의도 활발하다. 색조 제품군 역시 적극적인 신제품 출시에 힘입어 두 자릿수 성장세를 보였다. 중국 법인 연결 매출액은 1770억원으로 전년...",
+ "published_at": "2026-11-11T16:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "더마 화장품",
+   "색조 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스의 색조 제품군이 적극적인 신제품 출시에 힘입어 성장했다.",
+  "key_fact_quote": "색조 제품군 역시 적극적인 신제품 출시에 힘입어 두 자릿수 성장세를 보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

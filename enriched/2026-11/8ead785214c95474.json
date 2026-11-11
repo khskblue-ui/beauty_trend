@@ -1,0 +1,67 @@
+{
+ "doc_id": "8ead785214c95474",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sports.hankooki.com/news/articleView.html?idxno=6943308",
+ "title": "[ 뷰티 브리핑] 유이크 장벽크림부터 피지오겔 홀리데이 에디션까지… 초...",
+ "summary": "따라 뷰티 브랜드 들의 정책도 다변화되고 있다. 이러한 분위기 속에서 지놈앤컴퍼니의 유이크는 까다로운... 정식 론칭 했다. 해당 제품은 일본 대표 이커머스 플랫폼 큐텐 데일리 랭킹과 라쿠텐 페이스크림 부문 1위를...",
+ "published_at": "2026-11-11T11:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "유이크",
+   "피지오겔"
+  ],
+  "companies": [
+   "지놈앤컴퍼니"
+  ],
+  "keywords": [
+   "장벽크림",
+   "홀리데이 에디션",
+   "일본 이커머스"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "장벽크림",
+    "brand": "유이크",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "홀리데이 에디션",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유이크 제품이 일본 이커머스 랭킹 상위에 올랐다.",
+  "key_fact_quote": "해당 제품은 일본 대표 이커머스 플랫폼 큐텐 데일리 랭킹과 라쿠텐 페이스크림 부문 1위를",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

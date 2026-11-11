@@ -1,0 +1,48 @@
+{
+ "doc_id": "cc6d30c02a72311b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kpinews.kr/newsView/1065592101609058",
+ "title": "롯데는 재도전, 한섬·신세계는 재정비…백화점 PB 화장품 승부수",
+ "summary": "리뉴얼과 신제품 출시 등 전방위적으로 고민하고 있다\"고 말했다. 초저가 대신 차별화…재구매·수익성 확보가 관건 이 같은 자체 브랜드 육성은 다이소·이마트의 초저가 화장품 전략과 구분된다. 다이소에서는 화장품 ...",
+ "published_at": "2026-11-11T17:41:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데",
+   "한섬",
+   "신세계",
+   "다이소",
+   "이마트"
+  ],
+  "keywords": [
+   "백화점 PB 화장품",
+   "자체 브랜드 육성",
+   "초저가 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "백화점들이 자체 브랜드 화장품을 키우며 초저가 화장품과 다른 차별화 전략을 택했다.",
+  "key_fact_quote": "이 같은 자체 브랜드 육성은 다이소·이마트의 초저가 화장품 전략과 구분된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

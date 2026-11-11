@@ -1,0 +1,50 @@
+{
+ "doc_id": "2ef0988bf3212793",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20113176?ref=naver",
+ "title": "싱클리, 숏폼 23만건 분석한 소셜 지수 공개…스킨케어 1위 ‘아누아’",
+ "summary": "SSI는 영상 속 브랜드 언급량과 소비자 반응 등을 종합해 브랜드 와 제품의 소셜 영향력을 평가하는 자체... 다른 부문에서는 메이크업의 샬롯틸버리, 건강기능음료의 셀시어스, 바디케어의 바세린, 향수 의 입생로랑이...",
+ "published_at": "2026-11-12T06:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아누아",
+   "샬롯틸버리",
+   "셀시어스",
+   "바세린",
+   "입생로랑"
+  ],
+  "companies": [
+   "싱클리"
+  ],
+  "keywords": [
+   "숏폼 콘텐츠",
+   "소셜 영향력 지수",
+   "브랜드 언급량"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "싱클리의 숏폼 기반 소셜 지수에서 스킨케어 부문 선두는 아누아였다.",
+  "key_fact_quote": "싱클리, 숏폼 23만건 분석한 소셜 지수 공개…스킨케어 1위 ‘아누아’",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

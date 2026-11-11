@@ -1,0 +1,44 @@
+{
+ "doc_id": "b45fabbc418258d8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202611111833384402",
+ "title": "브러쉬 디자인만 6천 가지… 글로벌 뷰티브랜드 공략",
+ "summary": "있다\"며 \"명품 화장품 브랜드의 주문에 맞춰 제품을 설계하고 수차례 테스트를 거치고 있다\"고 설명했다. 지난 2023년에는 자체 브랜드 '콰이어톤(Quietone)'도 선보였다. 당초 해외 시장을 겨냥해 출시 했지만 국내에서 먼저...",
+ "published_at": "2026-11-11T18:35:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "콰이어톤"
+  ],
+  "companies": [],
+  "keywords": [
+   "화장용 브러시",
+   "자체 브랜드",
+   "명품 브랜드 납품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "브러시 제조사가 자체 브랜드 콰이어톤을 선보였다.",
+  "key_fact_quote": "지난 2023년에는 자체 브랜드 '콰이어톤(Quietone)'도 선보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

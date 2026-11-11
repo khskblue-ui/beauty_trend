@@ -1,0 +1,42 @@
+{
+ "doc_id": "0bded23261edb0d8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newskr.kr/news/articleView.html?idxno=107904",
+ "title": "세계 2위 뛰어오른 K뷰티 , 그 뒤에 줄 못 서는 신생 브랜드... 왜?",
+ "summary": "세계 2위 화장품 수출 국에 오른 ' K뷰티 ' 호황 뒤에서, 정작 그 물결에 올라타려는 신생 브랜드는 공장 한 줄조차 얻기 어려워지고 있다. 사진은 기사 내용과 무관. [연합뉴스] 세계 2위 화장품 수출 국에 오른 ' K뷰티 ...",
+ "published_at": "2026-11-11T11:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "화장품 ODM",
+   "신생 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 호황 속에 신생 브랜드는 생산 라인을 확보하기 어려워지고 있다.",
+  "key_fact_quote": "세계 2위 화장품 수출 국에 오른 ' K뷰티 ' 호황 뒤에서, 정작 그 물결에 올라타려는 신생 브랜드는 공장 한 줄조차 얻기 어려워지고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

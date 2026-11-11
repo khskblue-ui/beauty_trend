@@ -1,0 +1,46 @@
+{
+ "doc_id": "c093569d067c6d7d",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312718",
+ "title": "China's K-Beauty Market Rebalances as Functional Skincare Outpaces Traditional Categories",
+ "summary": "China\\'s appetite for Korean beauty products showed diverging trends across categories in October 2026, with growth concentrated in functional skincare and premium complexion products, while traditionally strong segments such as sheet masks and sun care continued to lose momentum.According to Beauty",
+ "published_at": "2026-11-11T09:50:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Tmall"
+  ],
+  "keywords": [
+   "기능성 스킨케어",
+   "프리미엄화",
+   "쿠션 파운데이션",
+   "시트 마스크"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "티몰 한국관에서 크림과 에센스, 쿠션은 늘고 시트 마스크와 선케어는 줄었다.",
+  "key_fact_quote": "categories including cushions, creams, and essences posted year-over-year growth, while sheet masks, sunscreens, cleansing foams, toner, and base makeup products recorded declines.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

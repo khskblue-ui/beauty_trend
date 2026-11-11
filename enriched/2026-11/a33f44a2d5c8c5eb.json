@@ -1,0 +1,96 @@
+{
+ "doc_id": "a33f44a2d5c8c5eb",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58713",
+ "title": "심라이즈, 하이드록시아세토페논 ABTS 시험서 항산화 활성 72%",
+ "summary": "# 현대 제품 보호의 영웅들 8. 하이드록시아세토페논 [코스인코리아닷컴 길태윤 기자] 심라이즈(Symrise)의 다기능 원료 하이드록시아세토페논이 시험관 내 ABTS 분석에서 68ppm 기준 72%의 항산화 활성을 기록했다. 하이드록시아세토페논은 항산화와 진정 효과뿐 아니라 기존 항균 활성 성분…",
+ "published_at": "2026-11-11T18:03:11+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "심라이즈"
+  ],
+  "keywords": [
+   "다기능 원료",
+   "제품 보호 시스템",
+   "항산화 원료",
+   "원료 간소화"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "SymSave H",
+    "brand": "심라이즈",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "SymOcide PH",
+    "brand": "심라이즈",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "SymSave 5E",
+    "brand": "심라이즈",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "심라이즈의 하이드록시아세토페논이 항산화와 진정 효과에 제품 보호 기능까지 갖춘 다기능 원료로 소개됐다.",
+  "key_fact_quote": "원문 저자들은 하이드록시아세토페논이 항산화와 진정 효능, 제품 보호 지원, 폭넓은 제형 상용성, 안전성을 결합한 다기능 성분이라고 결론지었다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "하이드록시아세토페논",
+    "quote": "[코스인코리아닷컴 길태윤 기자] 심라이즈(Symrise)의 다기능 원료 하이드록시아세토페논이 시험관 내 ABTS 분석에서 68ppm 기준 72%의 항산화 활성을 기록했다."
+   },
+   {
+    "name": "4-하이드록시아세토페논",
+    "quote": "4-하이드록시아세토페논은 2013년 심라이즈의 ‘SymSave H’라는 이름으로 화장품 원료 시장에 진출했다."
+   },
+   {
+    "name": "트롤록스",
+    "quote": "양성 대조군인 트롤록스(Trolox)는 6ppm에서 52%로 확인됐다."
+   },
+   {
+    "name": "소듐벤조에이트",
+    "quote": "에어레이드 부직포를 사용한 물티슈에는 하이드록시아세토페논 0.5%와 소듐벤조에이트 0.3%를 조합했다."
+   },
+   {
+    "name": "1,2-헵탄다이올",
+    "quote": "SPF 50+ 자외선 차단 로션에는 하이드록시아세토페논 0.5%와 1,2-헵탄다이올 0.3%, 포타슘솔베이트 0.2%를 사용했다."
+   },
+   {
+    "name": "포타슘솔베이트",
+    "quote": "SPF 50+ 자외선 차단 로션에는 하이드록시아세토페논 0.5%와 1,2-헵탄다이올 0.3%, 포타슘솔베이트 0.2%를 사용했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

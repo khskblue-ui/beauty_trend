@@ -1,0 +1,48 @@
+{
+ "doc_id": "069fc8ff8965a38b",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53927",
+ "title": "코스맥스, 3분기 매출 8758억 원 ‘역대 최대’…영업이익 95% 폭증",
+ "summary": "코스맥스가 화장품 산업의 비수기로 분류하고 있는 3분기에도 역대 최대 분기 매출 실적을 기록하며 성장세를 이어가는 동시에 글로벌 화장품 ODM 시장 선두기업으로서의 입지를 더욱 공고하게 다졌다. 한국법인이 실적 확대를 주도한 가운데 중국·미국·동남아 법인까지 동반 성장하면서 외형 확대와 수…",
+ "published_at": "2026-11-11T15:52:59+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN",
+   "US",
+   "ID",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "실적 성장",
+   "더마코스메틱"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스가 비수기인 3분기에도 역대 최대 분기 매출을 기록했다.",
+  "key_fact_quote": "코스맥스가 화장품 산업의 비수기로 분류하고 있는 3분기에도 역대 최대 분기 매출 실적 을 기록하며 성장세를 이어가는 동시에 글로벌 화장품 ODM 시장 선두기업으로서의 입지를 더욱 공고하게 다졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

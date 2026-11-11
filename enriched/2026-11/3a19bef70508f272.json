@@ -1,0 +1,54 @@
+{
+ "doc_id": "3a19bef70508f272",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2490926",
+ "title": "'홈 셀프케어' 확산···자주, 자신만의 뷰티 루틴 완성 신제품 선보여",
+ "summary": "이러한 흐름에 맞춰 자주(JAJU)는 집에서 손쉽게 자신만의 뷰티 루틴을 완성할 수 있는 홈 셀프케어 아이템 신제품 을 다양하게 출시 했다. 얼굴의 탄력과 윤곽을 쉽게 관리할 수 있는 '메탈 페이스 롤러'와 얼굴부터 바디까지...",
+ "published_at": "2026-11-11T14:41:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "자주"
+  ],
+  "companies": [],
+  "keywords": [
+   "홈 셀프케어",
+   "뷰티 루틴",
+   "뷰티 기기"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "메탈 페이스 롤러",
+    "brand": "자주",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이러한 흐름에 맞춰 자주(JAJU)는 집에서 손쉽게 자신만의 뷰티 루틴을 완성할 수 있는 홈 셀프케어 아이템 신제품 을 다양하게 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "자주가 집에서 쓰는 홈 셀프케어 뷰티 신제품을 다양하게 출시했다.",
+  "key_fact_quote": "이러한 흐름에 맞춰 자주(JAJU)는 집에서 손쉽게 자신만의 뷰티 루틴을 완성할 수 있는 홈 셀프케어 아이템 신제품 을 다양하게 출시 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

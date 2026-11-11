@@ -1,0 +1,43 @@
+{
+ "doc_id": "c44c0971df313265",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731129",
+ "title": "[기자수첩] 황금알 ' K - 뷰티 ', 누구나 품을 수 있을까",
+ "summary": "미국과 일본을 비롯한 해외시장에서 한국 화장품의 인기가 높아지면서 K - 뷰티 는 국내 대표 수출 산업으로 자리 잡았다. 기업들이 앞다퉈 화장품사업에 관심을 보이는 이유도 여기에 있다. 성장 가능성이 큰 시장에서 새로운...",
+ "published_at": "2026-11-11T10:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "화장품 사업 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티가 대표 수출 산업이 되면서 여러 기업이 화장품 사업에 관심을 보이고 있다.",
+  "key_fact_quote": "미국과 일본을 비롯한 해외시장에서 한국 화장품의 인기가 높아지면서 K - 뷰티 는 국내 대표 수출 산업으로 자리 잡았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

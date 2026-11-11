@@ -1,0 +1,74 @@
+{
+ "doc_id": "8ee772696a29d638",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58707",
+ "title": "에이치엔에이파마켐, 日 오키나와서 레틴알 안정화 나노전달체 기술 공개",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 에이치엔에이파마켐(대표 유효경)이 일본 오키나와에서 열린 국제 콜로이드·계면과학 학술대회 ‘Okinawa Colloids 2026’에서 레틴알 안정화를 위한 POx-세라마이드 기반 나노전달체 연구 결과를 발표했다고 11일 밝혔다. ‘Okinawa Colloids 202…",
+ "published_at": "2026-11-11T13:17:11+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "에이치엔에이파마켐"
+  ],
+  "keywords": [
+   "레티날 안정화",
+   "나노전달체",
+   "PEG 프리 전달 플랫폼"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에이치엔에이파마켐이 국제 학술대회에서 레틴알 안정화를 위한 나노전달체 연구 결과를 발표했다.",
+  "key_fact_quote": "[코스인코리아닷컴 길태윤 기자] 에이치엔에이파마켐(대표 유효경)이 일본 오키나와에서 열린 국제 콜로이드·계면과학 학술대회 ‘Okinawa Colloids 2026’에서 레틴알 안정화를 위한 POx-세라마이드 기반 나노전달체 연구 결과를 발표했다고 11일 밝혔다.",
+  "events": [
+   {
+    "name": "Okinawa Colloids 2026",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-06",
+    "place": "일본 오키나와현 나고시 반코쿠 신료칸",
+    "quote": "‘Okinawa Colloids 2026’은 일본화학회 콜로이드·계면화학 분과 창립 50주년을 기념해 지난 1일부터 6일까지 일본 오키나와현 나고시 반코쿠 신료칸에서 개최된 국제 학술대회다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "레틴알",
+    "quote": "레틴알은 화장품에 활용되는 비타민 A 유도체로 이번 연구에서는 나노전달체를 적용했을 때 활성 성분의 함량이 얼마나 유지되는지 평가했다."
+   },
+   {
+    "name": "비타민 A",
+    "quote": "레틴알은 화장품에 활용되는 비타민 A 유도체로 이번 연구에서는 나노전달체를 적용했을 때 활성 성분의 함량이 얼마나 유지되는지 평가했다."
+   },
+   {
+    "name": "POx-Ceramide",
+    "quote": "에이치엔에이파마켐이 이번 행사에서 선보인 기술은 POx-Ceramide 공중합체와 고분자-지질 하이브리드 나노입자(Polymer-Lipid Hybrid Nanoparticles, PLHNs)를 활용한 레틴알(Retinal) 안정화 시스템이다."
+   },
+   {
+    "name": "세라마이드",
+    "quote": "발표 자료에는 POx와 세라마이드 및 POx-Ceramide(5S)의 핵자기공명분광법(NMR) 분석 결과와 POx-Ceramide PLHN(200S)의 극저온 투과전자현미경(Cryo-TEM) 이미지도 포함됐다."
+   },
+   {
+    "name": "폴리에틸렌글리콜",
+    "quote": "이번 연구에서 주목할 또 다른 부분은 폴리에틸렌글리콜(PEG)을 사용하지 않는 PEG-Free 화장품 전달 플랫폼으로의 활용 가능성이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

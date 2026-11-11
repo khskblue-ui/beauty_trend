@@ -1,0 +1,44 @@
+{
+ "doc_id": "8162bfb5304ea8c1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596267362025",
+ "title": "올리브영, 생성형 AI 도입…맞춤형 뷰티 쇼핑 강화",
+ "summary": "상품 추천과 제품별 특징 비교를 비롯해 화장품 사용법, 피부 관리법, 매장별 재고 및 온라인몰 이용 방법... 정식 출시 할 계획이다. 기존 개인화 서비스와의 연계도 추진한다. 올리브영은 고객의 성별과 나이, 첫 구매...",
+ "published_at": "2026-11-11T16:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "생성형 AI",
+   "맞춤형 뷰티 쇼핑",
+   "개인화 서비스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 생성형 AI를 도입해 맞춤형 뷰티 쇼핑을 강화한다.",
+  "key_fact_quote": "올리브영, 생성형 AI 도입…맞춤형 뷰티 쇼핑 강화",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

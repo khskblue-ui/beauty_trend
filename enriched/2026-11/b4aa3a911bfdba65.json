@@ -1,0 +1,47 @@
+{
+ "doc_id": "b4aa3a911bfdba65",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100442",
+ "title": "CJ올리브영, AI 쇼핑 어시스턴트 ‘올영 티키’ 론칭",
+ "summary": "CJ올리브영이 고객이 원하는 상품과 정보를 더욱 쉽고 편리하게 찾을 수 있도록 모바일 앱의 쇼핑 편의 기능을 강화한다.CJ올리브영(이하 올리브영)은 생성형 AI 기반 쇼핑 어시스턴트 '올영 티키'를 시범 운영한다고 11일 밝혔다. 올영 티키는 AI가 고객의 질문 의도와 맥락을 파악해 답변을 제공하는 대화형 쇼핑 지원 서비스로, 별도의 설치 과정 없이 올리브영 앱 내 검색창 오른쪽의 연두색 말풍선 아이콘만 누르면 간편하게 이용할 수 있다.올영 티키는 뷰티와 올리브영 관련 질문에 특화된 쇼핑 어시스턴트로, 쇼핑 전 과정에",
+ "published_at": "2026-11-11T09:37:42+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "AI 쇼핑 어시스턴트",
+   "생성형 AI",
+   "초개인화 플랫폼",
+   "맞춤형 쇼핑"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "올리브영이 생성형 AI 기반 쇼핑 어시스턴트를 앱에서 시범 운영한다.",
+  "key_fact_quote": "CJ올리브영(이하 올리브영)은 생성형 AI 기반 쇼핑 어시스턴트 '올영 티키'를 시범 운영한다고 11일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "5897e42d6a55b2fd",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100440",
+ "title": "KTR, 클린화장품 산업화 지원 인프라 완성",
+ "summary": "KTR(한국화학융합시험연구원, 원장 이승렬)이 충청북도 청주시 오송에 클린화장품 산업화 지원 기반시설을 조성했다.KTR은 10일 충북 청주시 오송읍 첨단복합의료산업단지에서 ‘KTR 클린화장품 바이오 연구소’ 준공식을 개최했다.이날 행사에는 이복원 충청북도 경제부지사, 신병대 청주 부시장, 김유라 보건복지부 의료기기화장품산업과장 및 유관기관장, 학계, 관련 기업 등 100여명이 참석했다.KTR 클린화장품 바이오 연구소는 충청북도와 청주시가 함께 추진한 ‘중소기업 글로벌 클린화장품 산업화 기반구축사업’에 따라 만들어졌으며 지난 2024",
+ "published_at": "2026-11-11T09:15:54+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "KTR"
+  ],
+  "keywords": [
+   "클린화장품",
+   "친환경 포장재",
+   "대체 원료 국산화"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "KTR이 오송에 클린화장품 바이오 연구소를 준공했다.",
+  "key_fact_quote": "KTR은 10일 충북 청주시 오송읍 첨단복합의료산업단지에서 ‘KTR 클린화장품 바이오 연구소’ 준공식을 개최했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

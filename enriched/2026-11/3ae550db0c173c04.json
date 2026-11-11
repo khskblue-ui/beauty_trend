@@ -1,0 +1,56 @@
+{
+ "doc_id": "3ae550db0c173c04",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thevaluenews.co.kr/news/view.php?idx=203159",
+ "title": "두드림, K-스킨케어 브랜드 '스킨나라' 론칭 …쿨링 패드·크림·선세럼 ...",
+ "summary": "두드림이 신규 K-스킨케어 브랜드 '스킨나라(skinnara)'를 론칭 하고 첫 제품으로 '히알루토인 쿨링 라인' 3종을 선보였다. 기존 건강기능식품과 이너 뷰티 사업에서 축적한 경험을 바탕으로 스킨케어 시장에 진출해 H&B(Health...",
+ "published_at": "2026-11-11T10:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "스킨나라"
+  ],
+  "companies": [
+   "두드림"
+  ],
+  "keywords": [
+   "쿨링 스킨케어",
+   "이너 뷰티",
+   "신규 K뷰티 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "히알루토인 쿨링 라인",
+    "brand": "스킨나라",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "두드림이 신규 K-스킨케어 브랜드 '스킨나라(skinnara)'를 론칭 하고 첫 제품으로 '히알루토인 쿨링 라인' 3종을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "두드림이 새 스킨케어 브랜드를 내고 첫 쿨링 라인을 선보였다.",
+  "key_fact_quote": "두드림이 신규 K-스킨케어 브랜드 '스킨나라(skinnara)'를 론칭 하고 첫 제품으로 '히알루토인 쿨링 라인' 3종을 선보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

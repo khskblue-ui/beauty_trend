@@ -1,0 +1,49 @@
+{
+ "doc_id": "25b82aee167d768b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=150080",
+ "title": "[현장] 100호점 '무신사 뷰티 성수', 패션·뷰티 연계 소비 노린다",
+ "summary": "1774년 시작된 프랑스 향수 하우스 엘티 피베르와 프랑스 니치 향수 브랜드 리인벤티드, 국내 인디 향수 브랜드 아뜰리에페이 등이 입점했다. 여러 브랜드의 향을 한자리에서 시향하고 비교할 수 있다. 1층의 AI 퍼스널...",
+ "published_at": "2026-11-11T11:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "엘티 피베르",
+   "리인벤티드",
+   "아뜰리에페이"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "니치 향수",
+   "인디 향수",
+   "시향 공간"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티 성수에 프랑스 니치 향수와 국내 인디 향수 브랜드가 입점했다.",
+  "key_fact_quote": "1774년 시작된 프랑스 향수 하우스 엘티 피베르와 프랑스 니치 향수 브랜드 리인벤티드, 국내 인디 향수 브랜드 아뜰리에페이 등이 입점했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

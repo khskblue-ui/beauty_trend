@@ -1,0 +1,63 @@
+{
+ "doc_id": "f5d9d89ebaa6e076",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026111013251943645",
+ "title": "코스알엑스(COSRX), 펩타이드 스킨케어 노하우 담은 ‘더마 립 라인’ 출...",
+ "summary": "이번 신제품 은 컬러와 케어를 결합한 '5 펩타이드 콜라겐 립 필 틴티드 트리트먼트' 7종과 입술 집중 케어를... 기초 화장품 의 핵심 기능성 원료인 펩타이드와 콜라겐을 립 메이크업과 집중 케어에 접목하여 소비자의...",
+ "published_at": "2026-11-11T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "코스알엑스"
+  ],
+  "companies": [],
+  "keywords": [
+   "펩타이드 립케어",
+   "틴티드 립 트리트먼트",
+   "스킨케어형 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "5 펩타이드 콜라겐 립 필 틴티드 트리트먼트",
+    "brand": "코스알엑스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번 신제품 은 컬러와 케어를 결합한 '5 펩타이드 콜라겐 립 필 틴티드 트리트먼트' 7종과 입술 집중 케어를",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코스알엑스가 펩타이드와 콜라겐을 담은 더마 립 라인을 선보였다.",
+  "key_fact_quote": "이번 신제품 은 컬러와 케어를 결합한 '5 펩타이드 콜라겐 립 필 틴티드 트리트먼트' 7종과 입술 집중 케어를",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "펩타이드",
+    "quote": "기초 화장품 의 핵심 기능성 원료인 펩타이드와 콜라겐을 립 메이크업과 집중 케어에 접목하여 소비자의"
+   },
+   {
+    "name": "콜라겐",
+    "quote": "기초 화장품 의 핵심 기능성 원료인 펩타이드와 콜라겐을 립 메이크업과 집중 케어에 접목하여 소비자의"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

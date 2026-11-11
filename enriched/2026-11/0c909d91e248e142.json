@@ -1,0 +1,44 @@
+{
+ "doc_id": "0c909d91e248e142",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=150067",
+ "title": "K-뷰티 다음 주자는 'K-헤어'…글로벌 시장 공략 본격화",
+ "summary": "스킨케어 시장에서 독보적인 성분 배합과 제형 기술력을 입증한 한국 화장품 기업들이 두피와 모발 케어로... 이에 아마존 글로벌셀링 코리아는 오는 2027년까지 K-헤어케어 브랜드 50개 론칭 및 신제품 200개 출성을...",
+ "published_at": "2026-11-11T11:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존 글로벌셀링 코리아"
+  ],
+  "keywords": [
+   "K-헤어케어",
+   "두피 케어",
+   "모발 케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 화장품 기업들이 스킨케어 기술을 바탕으로 두피와 모발 케어로 영역을 넓히고 있다.",
+  "key_fact_quote": "스킨케어 시장에서 독보적인 성분 배합과 제형 기술력을 입증한 한국 화장품 기업들이 두피와 모발 케어로",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

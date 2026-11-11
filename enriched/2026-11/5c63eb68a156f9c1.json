@@ -1,0 +1,65 @@
+{
+ "doc_id": "5c63eb68a156f9c1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.lawissue.co.kr/view.php?ud=202611111625157521204ead0791_12",
+ "title": "질스튜어트 뷰티, 무신사 뷰티 성수에 오프라인 매장 마련",
+ "summary": "향수 와 메이크업 제품을 오프라인 공간에서 직접 살펴볼 수 있도록 브랜드 주요 제품과 홀리데이 컬렉션을 매장에 구성했다. 매장에서는 ‘화이트 플로럴 오 드 뚜왈렛’을 비롯해 ‘립 블로썸 밤’, ‘파스텔 페탈...",
+ "published_at": "2026-11-11T16:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "질스튜어트 뷰티"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 매장",
+   "홀리데이 컬렉션",
+   "향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "화이트 플로럴 오 드 뚜왈렛",
+    "brand": "질스튜어트 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "립 블로썸 밤",
+    "brand": "질스튜어트 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "질스튜어트 뷰티가 무신사 뷰티 성수에 향수와 메이크업 매장을 열었다.",
+  "key_fact_quote": "향수 와 메이크업 제품을 오프라인 공간에서 직접 살펴볼 수 있도록 브랜드 주요 제품과 홀리데이 컬렉션을 매장에 구성했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

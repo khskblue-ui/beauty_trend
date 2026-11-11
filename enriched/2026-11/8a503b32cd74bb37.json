@@ -1,0 +1,45 @@
+{
+ "doc_id": "8a503b32cd74bb37",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.inews24.com/view/2025152",
+ "title": "\"수부지 선크림 추천해줘\"…올리브영, AI 쇼핑 도우미 도입",
+ "summary": "올영 티키는 고객의 질문 의도와 대화 맥락을 파악해 상품 추천과 비교, 화장품 사용법, 피부 관리법 등... 정식 출시 할 예정이다. 이번 서비스는 올리브영이 추진하는 온·오프라인 AI 쇼핑 서비스 확대의 연장선이다....",
+ "published_at": "2026-11-11T17:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "AI 쇼핑 도우미",
+   "맞춤형 화장품 추천",
+   "개인화 서비스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "ba6ab4b682e02e93",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "41cc0d6548bd6d6a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=455628",
+ "title": "신용한 충북지사 \"오송화장품 뷰티 엑스포 성과, 내년에도 계속\"",
+ "summary": "오송을 K - 뷰티 의 세계적 메카로 만들어 함께 노력하는 자리\"라며 \"오늘 제안된 의견을 차년도 행사 계획과... 국내외 화장품· 뷰티 기업 254개사(348부스)가 참가한 가운데, 1만7339명의 관람객이 방문했으며 수출 계약은...",
+ "published_at": "2026-11-11T16:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 엑스포",
+   "K뷰티 수출",
+   "지역 화장품 산업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "충북지사가 오송화장품 뷰티 엑스포의 성과를 내년 행사에도 이어 가겠다고 밝혔다.",
+  "key_fact_quote": "신용한 충북지사 \"오송화장품 뷰티 엑스포 성과, 내년에도 계속\"",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

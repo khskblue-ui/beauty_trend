@@ -1,0 +1,90 @@
+{
+ "doc_id": "bf67d816fb6ad9f2",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53928",
+ "title": "투에이엔 ‘모브 크러쉬 컬렉션’",
+ "summary": "투에이엔이 겨울을 맞아 ‘모브 크러쉬 컬렉션’을 선보였다. 모브 크러쉬 컬렉션(Mauve Crush Collection)은 아이 팔레트 2종과 듀얼치크 1종, 멜팅 온 마이 립글로스 4종 등 총 7종이다. 제품에 차분하고 깊이감 있는 모브 컬러를 적용했다. ‘베러 미 아이 팔레트’는 ‘24 모브 크러쉬’와 ‘2…",
+ "published_at": "2026-11-11T16:09:22+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "투에이엔"
+  ],
+  "companies": [],
+  "keywords": [
+   "모브 컬러",
+   "겨울 메이크업",
+   "톤온톤 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "모브 크러쉬 컬렉션",
+    "brand": "투에이엔",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "투에이엔이 겨울을 맞아 ‘모브 크러쉬 컬렉션’을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "24 모브 크러쉬",
+    "brand": "투에이엔",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "‘베러 미 아이 팔레트’는 ‘24 모브 크러쉬’와 ‘25 허쉬 크러쉬’ 등 두가지로 나왔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "25 허쉬 크러쉬",
+    "brand": "투에이엔",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "‘베러 미 아이 팔레트’는 ‘24 모브 크러쉬’와 ‘25 허쉬 크러쉬’ 등 두가지로 나왔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "듀얼치크 28 모브 포그",
+    "brand": "투에이엔",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "투에이엔이 겨울을 맞아 ‘모브 크러쉬 컬렉션’을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "멜팅 온 마이 립글로스",
+    "brand": "투에이엔",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "투에이엔이 겨울을 맞아 ‘모브 크러쉬 컬렉션’을 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "투에이엔이 겨울을 맞아 모브 컬러를 적용한 색조 컬렉션을 선보였다.",
+  "key_fact_quote": "투에이엔이 겨울을 맞아 ‘모브 크러쉬 컬렉션’을 선보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

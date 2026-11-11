@@ -1,0 +1,67 @@
+{
+ "doc_id": "4b072499bd64c1f7",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100449",
+ "title": "GSC, 홍콩서 12일 랜선 박람회 '글로벌 트렌드' 확인 가능",
+ "summary": "글로벌표준인증원이 오는 11월 12일 오전 11시(한국시간) ‘2026 홍콩 코스모프로프 아시아’ 현장에서 랜선 박람회를 진행한다. 글로벌 뷰티 기업들이 모이는 국제 전시회의 현장 분위기와 시장 흐름을 온라인으로 전달하며, 국내 기업과 시청자들이 해외 박람회를 간접적으로 경험할 기회를 제공한다.이번 랜선 박람회는 해외 전시장을 직접 방문하기 어려운 국내 화장품·뷰티 기업 관계자들도 현장의 정보를 접할 수 있도록 마련됐다. 글로벌표준인증원은 홍콩 현지에서 전시장의 모습을 생생하게 전하며, 글로벌 뷰티 트렌드에 대한 국내 업계의 관심과",
+ "published_at": "2026-11-11T10:17:22+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [
+   "글로벌표준인증원"
+  ],
+  "keywords": [
+   "뷰티 박람회",
+   "온라인 중계",
+   "해외 전시회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "글로벌표준인증원이 홍콩 코스모프로프 아시아 현장에서 랜선 박람회를 연다.",
+  "key_fact_quote": "글로벌표준인증원이 오는 11월 12일 오전 11시(한국시간) ‘2026 홍콩 코스모프로프 아시아’ 현장에서 랜선 박람회를 진행한다.",
+  "events": [
+   {
+    "name": "랜선 박람회",
+    "start_date": "2026-11-12",
+    "end_date": null,
+    "place": "홍콩",
+    "quote": "글로벌표준인증원이 오는 11월 12일 오전 11시(한국시간) ‘2026 홍콩 코스모프로프 아시아’ 현장에서 랜선 박람회를 진행한다."
+   },
+   {
+    "name": "코스모팩 아시아",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-12",
+    "place": "아시아월드엑스포",
+    "quote": "코스모팩 아시아는 11월 10일부터 12일까지 아시아월드엑스포에서 개최되며, 코스모프로프 아시아는 11월 11일부터 13일까지 홍콩컨벤션전시센터에서 진행된다."
+   },
+   {
+    "name": "코스모프로프 아시아",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "홍콩컨벤션전시센터",
+    "quote": "코스모팩 아시아는 11월 10일부터 12일까지 아시아월드엑스포에서 개최되며, 코스모프로프 아시아는 11월 11일부터 13일까지 홍콩컨벤션전시센터에서 진행된다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

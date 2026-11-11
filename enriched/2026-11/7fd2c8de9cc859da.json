@@ -1,0 +1,45 @@
+{
+ "doc_id": "7fd2c8de9cc859da",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864948_37004.html",
+ "title": "3시간 전부터 오픈런‥'K-뷰티' 성수동에서 맞붙자",
+ "summary": "대만에는 거의 없어요.\" 기초와 색조 화장품, 향수 등 약 700개 브랜드 를 모아놨고, 이 중 80%가 신생 브랜드 입니다. 2층 약국에선 여드름과 기미 같은 피부 고민에 대해 약사의 도움을 받을 수 있습니다. [김연진/무신사 뷰티...",
+ "published_at": "2026-11-11T20:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "TW"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "신생 브랜드",
+   "오픈런"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티 성수가 신생 브랜드 중심 구성으로 개점 전부터 오픈런을 불렀다.",
+  "key_fact_quote": "기초와 색조 화장품, 향수 등 약 700개 브랜드 를 모아놨고, 이 중 80%가 신생 브랜드 입니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

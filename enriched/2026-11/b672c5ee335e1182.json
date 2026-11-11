@@ -1,0 +1,44 @@
+{
+ "doc_id": "b672c5ee335e1182",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026111017464655317",
+ "title": "고점 대비 45% 하락 에이피알…\"K 뷰티 트렌드 계속\" [클릭 e종목]",
+ "summary": "소비자의 뷰티 관심이 높은 만큼 한국 브랜드들이 글로벌 소비자가 원하는 트렌드를 반영해 신제품 을... 에이피알은 브랜드 이미지 구축보다 빠른 제품 출시 와 시장별 콘텐츠 제작, 마케팅에 자원을 더 많이 배분했다....",
+ "published_at": "2026-11-11T07:05:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "K뷰티 트렌드",
+   "화장품 주가",
+   "빠른 신제품 출시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에이피알 주가가 고점에서 크게 떨어졌지만 K뷰티 트렌드는 이어진다는 분석이 나왔다.",
+  "key_fact_quote": "에이피알은 브랜드 이미지 구축보다 빠른 제품 출시 와 시장별 콘텐츠 제작, 마케팅에 자원을 더 많이 배분했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

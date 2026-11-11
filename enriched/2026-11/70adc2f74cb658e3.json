@@ -1,0 +1,45 @@
+{
+ "doc_id": "70adc2f74cb658e3",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/sol-de-janeiro-smashbox-brands-donating-excess-stock-beauty-vessel",
+ "title": "Sol de Janeiro and Smashbox among brands donating $83 million excess stock in new initiative",
+ "summary": "Vessel, a new start-up with $5 million backing, aims to solve the issue of excess inventory going to landfills or incineration in the beauty industry and beyond, with brands Sol de Janeiro and Smashbox taking part in the new initiative",
+ "published_at": "2026-11-11T20:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Sol de Janeiro",
+   "Smashbox"
+  ],
+  "companies": [
+   "Vessel"
+  ],
+  "keywords": [
+   "과잉 재고",
+   "재고 기부",
+   "지속가능성"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "스타트업 Vessel이 뷰티 업계 과잉 재고의 폐기를 막는 기부 사업을 시작했다.",
+  "key_fact_quote": "Vessel, a new start-up with $5 million backing, aims to solve the issue of excess inventory going to landfills or incineration in the beauty industry and beyond",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

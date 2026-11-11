@@ -1,0 +1,82 @@
+{
+ "doc_id": "9862904f0bcc77be",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312549",
+ "title": "BASF가 본 K-뷰티의 경쟁력은? \"과학적 효능 입증 더해야\"",
+ "summary": "글로벌 화학기업 BASF가 K-뷰티의 핵심 경쟁력으로 혁신적인 성분과 차별화된 텍스처, 소비자가 체감할 수 있는 성능을 꼽았다.다만 글로벌 시장에서 지속적인 성장을 이어가기 위해서는 K-뷰티 특유의 창의성에 과학적 효능 입증을 더하고, 고기능 스킨케어와 웰니스 등 새로운 영역에 대한 기술 역량을 강화해야 한다고 진단했다.뷰티경제의 추가 취재에 따르면 BASF는 최근 \\'인-코스메틱스 아시아 2026(in-cosmetics Asia 2026)\\'에서 공개한 \\'Beyond Beauty: Future Unlocked\\'를 통해 글로벌 뷰티 시",
+ "published_at": "2026-11-11T09:40:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "BASF"
+  ],
+  "keywords": [
+   "고기능성 성분",
+   "전달기술",
+   "과학적 효능 입증",
+   "뷰티 웰니스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "BASF는 K-뷰티가 성장을 이어가려면 창의성에 과학적 효능 입증을 더해야 한다고 진단했다.",
+  "key_fact_quote": "글로벌 화학기업 BASF가 K-뷰티의 핵심 경쟁력으로 혁신적인 성분과 차별화된 텍스처, 소비자가 체감할 수 있는 성능을 꼽았다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "이는 현재 시장에서 주목받고 있는 PDRN, 엑소좀, 스피큘, PDLLA 등 고기능성 성분에도 동일하게 적용된다."
+   },
+   {
+    "name": "엑소좀",
+    "quote": "이는 현재 시장에서 주목받고 있는 PDRN, 엑소좀, 스피큘, PDLLA 등 고기능성 성분에도 동일하게 적용된다."
+   },
+   {
+    "name": "스피큘",
+    "quote": "이는 현재 시장에서 주목받고 있는 PDRN, 엑소좀, 스피큘, PDLLA 등 고기능성 성분에도 동일하게 적용된다."
+   },
+   {
+    "name": "PDLLA",
+    "quote": "이는 현재 시장에서 주목받고 있는 PDRN, 엑소좀, 스피큘, PDLLA 등 고기능성 성분에도 동일하게 적용된다."
+   },
+   {
+    "name": "NeoHelix™ Regenerate",
+    "quote": "'NeoHelix™ Regenerate'는 Collagen Hybridizing Peptide(CHP) 기술을 적용해 손상된 부위에 선택적으로 작용하는 콜라겐 과학 기반 솔루션이다."
+   },
+   {
+    "name": "Collagen Hybridizing Peptide",
+    "quote": "'NeoHelix™ Regenerate'는 Collagen Hybridizing Peptide(CHP) 기술을 적용해 손상된 부위에 선택적으로 작용하는 콜라겐 과학 기반 솔루션이다."
+   },
+   {
+    "name": "Emulgade® Verde PE",
+    "quote": "또 다른 수상 기술인 'Emulgade® Verde PE'는 친수성 활성 성분의 전달을 지원하는 폴리글리세릴 기반 나이오좀(niosome) 전구체 기술이다."
+   },
+   {
+    "name": "폴리글리세릴",
+    "quote": "또 다른 수상 기술인 'Emulgade® Verde PE'는 친수성 활성 성분의 전달을 지원하는 폴리글리세릴 기반 나이오좀(niosome) 전구체 기술이다."
+   },
+   {
+    "name": "나이오좀",
+    "quote": "또 다른 수상 기술인 'Emulgade® Verde PE'는 친수성 활성 성분의 전달을 지원하는 폴리글리세릴 기반 나이오좀(niosome) 전구체 기술이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "123b719f676e8352",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312770",
+ "title": "인천항, 중국 르자오항 신규 컨테이너 항로 개설…주 2회 정기 운항",
+ "summary": "인천항과 중국 산동성 남부의 주요 항만인 르자오(日照)항을 직접 연결하는 신규 컨테이너 정기항로가 개설됐다.이번 항로 개설로 인천항의 중국 산동성 권역 물류 네트워크가 확대되고, 수도권과 산동성 남부 간 해상 물류 경쟁력도 한층 강화될 전망이다.인천항만공사(IPA)는 11일 중국 산동성 르자오시에서 열린 ‘르자오-인천 컨테이너 정기선 신규항로 취항 행사’에 참석했다고 밝혔다.이번 행사는 르자오시 인민정부와 산동성항구그룹이 공동 주최하고, 산동원양해운그룹과 산동항구 르자오항그룹이 공동 주관했다.행사에는 정상구 IPA 운영부사장을 비롯",
+ "published_at": "2026-11-11T15:26:02+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "인천항만공사",
+   "산동원양해운그룹"
+  ],
+  "keywords": [
+   "컨테이너 항로",
+   "해상 물류"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "인천항과 중국 르자오항을 잇는 신규 컨테이너 정기항로가 개설됐다.",
+  "key_fact_quote": "인천항과 중국 산동성 남부의 주요 항만인 르자오(日照)항을 직접 연결하는 신규 컨테이너 정기항로가 개설됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

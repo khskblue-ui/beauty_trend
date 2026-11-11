@@ -1,0 +1,43 @@
+{
+ "doc_id": "40b754b8a0485e67",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.jbnews.com/news/articleView.html?idxno=1515707",
+ "title": "충북경자청, 홍콩서 뷰티 기업 투자유치·해외 판로 지원",
+ "summary": "지역기업의 수출 상담을 연계해 전시회 참가를 지원한다. 충북의 산업 기반을 알리는 동시에 참여기업이 해외 바이어와 거래·협력 관계를 구축할 수 있도록 뒷받침한다는 취지다. 오송국제 K - 뷰티 아카데미의 교육 기반과...",
+ "published_at": "2026-11-11T16:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "투자유치",
+   "해외 판로"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "충북경자청이 홍콩에서 지역 뷰티 기업의 전시회 참가와 수출 상담을 지원한다.",
+  "key_fact_quote": "지역기업의 수출 상담을 연계해 전시회 참가를 지원한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

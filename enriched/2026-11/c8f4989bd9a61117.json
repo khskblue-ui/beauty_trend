@@ -1,0 +1,57 @@
+{
+ "doc_id": "c8f4989bd9a61117",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312594",
+ "title": "10월 티몰 뷰티 트렌드 리포트①: 마스크팩 TOP10 판매량 41.9%↓...K-뷰티 68.4%↓",
+ "summary": "[편집자 주] 뷰티경제는 2022년 7월부터 중국 최대 전자상거래 플랫폼 티몰(Tmall)을 통해 8개 주요 품목의 중국 뷰티시장 동향을 분석하고 있다. 아울러 국내 화장품의 중국 시장 경쟁력도 함께 진단하고 있다. 이번 기사에서는 2026년 10월 티몰 마스크팩 소비 트렌드를 점검한다.중국 티몰 마스크팩 시장의 경쟁 구도가 1년 만에 달라졌다.지난해 중국 로컬 브랜드가 판매량 상위권을 독식한 것과 달리 올해는 프랑스 브랜드가 1·2위를 차지하며 시장 전면에 부상했다. 반면 K-뷰티 마스크팩의 시장 영향력은 축소된 것으로 나타났다.",
+ "published_at": "2026-11-11T09:35:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "라로슈포제",
+   "로레알",
+   "자연당",
+   "Voolga",
+   "프로야",
+   "WIS",
+   "푸얼자",
+   "가복미",
+   "OSM"
+  ],
+  "companies": [
+   "티몰"
+  ],
+  "keywords": [
+   "마스크팩",
+   "더마코스메틱",
+   "피부 리페어",
+   "피부진정"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "티몰 마스크팩 시장에서 프랑스 브랜드가 상위권에 오르고 한국 브랜드의 판매는 크게 줄었다.",
+  "key_fact_quote": "지난해 중국 로컬 브랜드가 판매량 상위권을 독식한 것과 달리 올해는 프랑스 브랜드가 1·2위를 차지하며 시장 전면에 부상했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

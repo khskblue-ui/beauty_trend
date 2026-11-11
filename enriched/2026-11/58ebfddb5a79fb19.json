@@ -1,0 +1,42 @@
+{
+ "doc_id": "58ebfddb5a79fb19",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Economy/article/all/20261111/135006627/2",
+ "title": "숏폼 영상 휩쓴 ‘ K뷰티 ’…소셜 영향력 4위까지 모두 한국 브랜드",
+ "summary": "실제 K뷰티 를 찾는 전 세계 소비자는 급격히 늘고 있다. 식품의약품안전처에 따르면 올해 9월까지 화장품 수출 액은 약 111억 달러로 전년 동기 대비 31.1% 늘었다. 분기 누계 기준 역대 최대 수치로, 9개월 만에 지난해...",
+ "published_at": "2026-11-11T14:51:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "숏폼 마케팅",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "숏폼 영상 소셜 영향력 상위권을 한국 뷰티 브랜드가 차지했다.",
+  "key_fact_quote": "실제 K뷰티 를 찾는 전 세계 소비자는 급격히 늘고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

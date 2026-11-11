@@ -1,0 +1,42 @@
+{
+ "doc_id": "45bfcc4986c04675",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.imaeil.com/page/view/2026111111335364362",
+ "title": "피부 관리는 로봇, 네일 체험은 AI 거울… 뷰티 현장에 AI 도입 속도",
+ "summary": "' K 뷰티 ' 산업이 가파른 성장세를 보이는 가운데 대구경북을 중심으로 뷰티 현장에 인공지능(AI)을 접목하는... 한국무역협회 대구경북지역본부에 따르면 올해 1~9월 대구의 화장품 수출 액은 9천870만달러로 전년 동기 대비...",
+ "published_at": "2026-11-11T14:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 테크",
+   "AI 뷰티",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대구경북 뷰티 현장에 AI 기술 도입이 늘고 있다.",
+  "key_fact_quote": "' K 뷰티 ' 산업이 가파른 성장세를 보이는 가운데 대구경북을 중심으로 뷰티 현장에 인공지능(AI)을 접목하는...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

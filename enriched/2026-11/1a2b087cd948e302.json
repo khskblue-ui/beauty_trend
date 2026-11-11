@@ -1,0 +1,46 @@
+{
+ "doc_id": "1a2b087cd948e302",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/shiseido-returns-to-profit-in-q3-26",
+ "title": "Shiseido returns to profit in Q3 26, but Drunk Elephant records ‘severe underperformance’",
+ "summary": "Despite returning to profit, Drunk Elephant global sales decreased 23% during the quarter after recording ‘some severe underperformance’ in US e-commerce sales",
+ "published_at": "2026-11-11T21:35:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "JP",
+   "US"
+  ],
+  "brands": [
+   "Drunk Elephant"
+  ],
+  "companies": [
+   "Shiseido"
+  ],
+  "keywords": [
+   "실적 회복",
+   "미국 이커머스 부진"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "시세이도는 흑자로 돌아섰지만 Drunk Elephant의 글로벌 매출은 줄었다.",
+  "key_fact_quote": "Despite returning to profit, Drunk Elephant global sales decreased 23% during the quarter after recording ‘some severe underperformance’ in US e-commerce sales",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

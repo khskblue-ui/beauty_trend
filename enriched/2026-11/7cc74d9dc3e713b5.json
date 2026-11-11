@@ -1,0 +1,77 @@
+{
+ "doc_id": "7cc74d9dc3e713b5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.lkp.news/news/articleView.html?idxno=85992",
+ "title": "hy, 유산균 연구 성과 사업화…뷰티·펫푸드 시장 공략",
+ "summary": "hy가 유산균 연구·개발 역량을 화장품 과 반려동물 식품에 적용하며 사업 영역을 넓히고 있다. 독자 뷰티... 신제품 은 반려견의 장&면역 인텐시브, 관절 솔루션, 하이포알러제닉 솔루션 등 3종으로 구성했다. 제품별...",
+ "published_at": "2026-11-11T16:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "유산균 화장품",
+   "사업 다각화",
+   "펫푸드"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "장&면역 인텐시브",
+    "brand": "hy",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "관절 솔루션",
+    "brand": "hy",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "하이포알러제닉 솔루션",
+    "brand": "hy",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "hy가 유산균 연구 역량을 화장품과 반려동물 식품에 적용하며 사업을 넓히고 있다.",
+  "key_fact_quote": "hy가 유산균 연구·개발 역량을 화장품 과 반려동물 식품에 적용하며 사업 영역을 넓히고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "유산균",
+    "quote": "hy가 유산균 연구·개발 역량을 화장품 과 반려동물 식품에 적용하며 사업 영역을 넓히고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

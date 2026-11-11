@@ -1,0 +1,48 @@
+{
+ "doc_id": "ed87943eb6e5612c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fashionbiz.co.kr/article/231010",
+ "title": "싱클리, 10월 소셜 지수 발표… 스킨케어 1위 ‘아누아’ · 헤어 1위 ‘...",
+ "summary": "바디케어 부문에서는 바세린, 향수 부문에서는 입생로랑(YSL)이 각각 1위에 올랐다. 싱클리는 부문별 브랜드 순위와 함께 숏폼 영상에서 주목받은 키워드를 분석한 트렌드 리포트도 공개했다. 10월에는 ‘겨울철 피부...",
+ "published_at": "2026-11-11T10:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아누아",
+   "바세린",
+   "입생로랑"
+  ],
+  "companies": [
+   "싱클리"
+  ],
+  "keywords": [
+   "소셜 지수",
+   "숏폼 트렌드",
+   "브랜드 순위"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "싱클리가 10월 부문별 소셜 지수를 발표했고 향수 부문에서는 입생로랑이 선두였다.",
+  "key_fact_quote": "바디케어 부문에서는 바세린, 향수 부문에서는 입생로랑(YSL)이 각각 1위에 올랐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

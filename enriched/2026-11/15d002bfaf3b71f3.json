@@ -1,0 +1,46 @@
+{
+ "doc_id": "15d002bfaf3b71f3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=209838",
+ "title": "AZH, '무신사 뷰티 성수' 입점… 오프라인 고객 접점 확대",
+ "summary": "2018년 론칭 이후 'A부터 Z까지 헤어에 대한 모든 솔루션 제공'을 목표로 전문가급 홈케어 제품을 선보여 온 프리미엄 헤어케어 브랜드 AZH(인터오리진아이엔씨 대표 오영근)가 11월 11일에 새롭게 오픈한 '무신사 뷰티 성수...",
+ "published_at": "2026-11-11T16:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "AZH"
+  ],
+  "companies": [
+   "인터오리진아이엔씨",
+   "무신사"
+  ],
+  "keywords": [
+   "헤어 홈케어",
+   "오프라인 입점"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "헤어케어 브랜드 AZH가 무신사 뷰티 성수에 입점했다.",
+  "key_fact_quote": "2018년 론칭 이후 'A부터 Z까지 헤어에 대한 모든 솔루션 제공'을 목표로 전문가급 홈케어 제품을 선보여 온 프리미엄 헤어케어 브랜드 AZH(인터오리진아이엔씨 대표 오영근)가 11월 11일에 새롭게 오픈한 '무신사 뷰티 성수",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

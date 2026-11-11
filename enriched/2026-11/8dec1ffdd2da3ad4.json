@@ -1,0 +1,49 @@
+{
+ "doc_id": "8dec1ffdd2da3ad4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=150071",
+ "title": "싱클리, 10월 소셜 지수 발표…스킨케어 아누아·헤어 K18 부문별 1위",
+ "summary": "다른 소비재 부문에서는 메이크업의 샬롯틸버리, 건강기능음료의 셀시어스, 바디케어의 바세린, 향수 의 입생로랑(YSL)이 각각 SSI 1위 브랜드 로 조사됐다. 싱클리가 별도로 공개한 트렌드 리포트에서는 '겨울철...",
+ "published_at": "2026-11-11T11:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아누아",
+   "바세린",
+   "입생로랑"
+  ],
+  "companies": [
+   "싱클리"
+  ],
+  "keywords": [
+   "소셜 지수",
+   "숏폼 트렌드",
+   "브랜드 순위"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "ed87943eb6e5612c",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,59 @@
+{
+ "doc_id": "e77609f74f157f00",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thepowernews.co.kr/view.php?ud=2026111117261645779aeda69934_7",
+ "title": "휘란, ‘2026 코스모프로프 아시아’ 참가...한복 원단 적용 쿠션 전시",
+ "summary": "휘란은 이번 전시에서 전통 소재를 화장품 용기에 접목한 ‘ K -헤리티지 뷰티 ( K -Heritage Beauty)’ 제품군을... 국가별 피부톤에 맞춘 색상 전개를 통해 수출 대상국을 넓힌다는 전략이다. 2023년 설립된 휘란은 일본, 중국...",
+ "published_at": "2026-11-11T17:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP",
+   "CN"
+  ],
+  "brands": [
+   "휘란"
+  ],
+  "companies": [
+   "휘란"
+  ],
+  "keywords": [
+   "쿠션 파운데이션",
+   "헤리티지 뷰티",
+   "화장품 용기 디자인",
+   "뷰티 박람회"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "K -헤리티지 뷰티",
+    "brand": "휘란",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "휘란이 코스모프로프 아시아에 참가해 한복 원단을 적용한 쿠션을 전시한다.",
+  "key_fact_quote": "휘란은 이번 전시에서 전통 소재를 화장품 용기에 접목한 ‘ K -헤리티지 뷰티 ( K -Heritage Beauty)’ 제품군을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "3994b57fbc2fc65b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.metroseoul.co.kr/article/20261111500232",
+ "title": "CJ올리브영, 뷰티 챗봇 '올영티키'...\"수부지·화잘먹 다 알아듣죠\"",
+ "summary": "피부 고민이나 목적에 맞는 상품 추천과 비교는 물론 화장품 사용법, 피부 관리법, 매장별 재고 조회... 정식 출시 할 예정이다. 아울러 올리브영은 성별, 연령, 구매 이력, 배송지 등을 분석해 첫 화면을 다르게 구성하는...",
+ "published_at": "2026-11-11T13:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "뷰티 AI 챗봇",
+   "개인화 추천",
+   "AI 쇼핑"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영 뷰티 챗봇이 피부 고민에 맞는 상품 추천과 매장 재고 조회를 제공한다.",
+  "key_fact_quote": "피부 고민이나 목적에 맞는 상품 추천과 비교는 물론 화장품 사용법, 피부 관리법, 매장별 재고 조회",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

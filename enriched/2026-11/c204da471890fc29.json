@@ -1,0 +1,79 @@
+{
+ "doc_id": "c204da471890fc29",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://edu.donga.com/news/articleView.html?idxno=113727",
+ "title": "에이피알 메디큐브, 이탈리아 백화점 K뷰티 팝업 참가… 현지 유통 접점...",
+ "summary": "특히 이탈리아는 프랑스, 독일과 함께 유럽의 주요 화장품 시장으로 꼽히는 국가로, 이번 행사는 현지 유통... 특히 'PDRN 핑크 카페인 콜라겐 아이 패치', 'PDRN 콜라겐 괄사 넥 링클 크림' 등 비교적 최근 출시 된 제품도...",
+ "published_at": "2026-11-11T16:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "IT",
+   "KR"
+  ],
+  "brands": [
+   "메디큐브"
+  ],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "K뷰티 팝업",
+   "유럽 시장 진출",
+   "백화점 유통"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "PDRN 핑크 카페인 콜라겐 아이 패치",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PDRN 콜라겐 괄사 넥 링클 크림",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "메디큐브가 이탈리아 백화점 K뷰티 팝업에 참가해 현지 유통 접점을 넓혔다.",
+  "key_fact_quote": "특히 이탈리아는 프랑스, 독일과 함께 유럽의 주요 화장품 시장으로 꼽히는 국가로, 이번 행사는 현지 유통",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "특히 'PDRN 핑크 카페인 콜라겐 아이 패치', 'PDRN 콜라겐 괄사 넥 링클 크림' 등 비교적 최근 출시 된 제품도"
+   },
+   {
+    "name": "카페인",
+    "quote": "특히 'PDRN 핑크 카페인 콜라겐 아이 패치', 'PDRN 콜라겐 괄사 넥 링클 크림' 등 비교적 최근 출시 된 제품도"
+   },
+   {
+    "name": "콜라겐",
+    "quote": "특히 'PDRN 핑크 카페인 콜라겐 아이 패치', 'PDRN 콜라겐 괄사 넥 링클 크림' 등 비교적 최근 출시 된 제품도"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

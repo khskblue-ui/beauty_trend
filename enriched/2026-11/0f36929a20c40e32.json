@@ -1,0 +1,52 @@
+{
+ "doc_id": "0f36929a20c40e32",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016215",
+ "title": "성수동 약국가에 부는 K-뷰티 바람…에스테틱 유통 확장",
+ "summary": "PDRN과 PN은 피부 미용 분야에서 관심을 받는 소재로 관련 성분을 활용한 다양한 제품이 시장에 출시 되고 있다. 물론 의료기관에서 사용하는 의료기기와 화장품 은 분류와 사용 목적이 다르지만 약국의 주요 판매 품목으로...",
+ "published_at": "2026-11-12T06:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "약국 화장품",
+   "에스테틱 유통",
+   "K뷰티",
+   "PDRN"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "성수동 약국가에서 K뷰티와 에스테틱 제품 유통이 확장되고 있다.",
+  "key_fact_quote": "PDRN과 PN은 피부 미용 분야에서 관심을 받는 소재로 관련 성분을 활용한 다양한 제품이 시장에 출시 되고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "PDRN과 PN은 피부 미용 분야에서 관심을 받는 소재로 관련 성분을 활용한 다양한 제품이 시장에 출시 되고 있다."
+   },
+   {
+    "name": "PN",
+    "quote": "PDRN과 PN은 피부 미용 분야에서 관심을 받는 소재로 관련 성분을 활용한 다양한 제품이 시장에 출시 되고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

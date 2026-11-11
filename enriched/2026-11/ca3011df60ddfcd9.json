@@ -1,0 +1,70 @@
+{
+ "doc_id": "ca3011df60ddfcd9",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58710",
+ "title": "코이코, ‘코스모프로프 아시아 홍콩 2026’ 한국공동관 87개사 참가 지원",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 코이코(KOECO, 대표 조완수)가 11월 10일부터 13일까지 홍콩에서 열리는 ‘2026 코스모프로프 아시아 홍콩(Cosmoprof Asia Hong Kong)’에서 국내 뷰티 기업 87개사로 구성된 한국공동관을 운영하며 글로벌 유통망 확대와 해외 시장 진출을 지원한…",
+ "published_at": "2026-11-11T16:49:08+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [
+   "코이코",
+   "대한무역투자진흥공사"
+  ],
+  "keywords": [
+   "뷰티 박람회",
+   "K-뷰티 수출",
+   "더마코스메틱",
+   "뷰티 디바이스",
+   "수출시장 다변화"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코이코가 코스모프로프 아시아 홍콩에서 한국공동관을 운영한다.",
+  "key_fact_quote": "[코스인코리아닷컴 길태윤 기자] 코이코(KOECO, 대표 조완수)가 11월 10일부터 13일까지 홍콩에서 열리는 ‘2026 코스모프로프 아시아 홍콩(Cosmoprof Asia Hong Kong)’에서 국내 뷰티 기업 87개사로 구성된 한국공동관을 운영하며 글로벌 유통망 확대와 해외 시장 진출을 지원한다고 12일 밝혔다.",
+  "events": [
+   {
+    "name": "2026 코스모프로프 아시아 홍콩",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-13",
+    "place": "홍콩",
+    "quote": "[코스인코리아닷컴 길태윤 기자] 코이코(KOECO, 대표 조완수)가 11월 10일부터 13일까지 홍콩에서 열리는 ‘2026 코스모프로프 아시아 홍콩(Cosmoprof Asia Hong Kong)’에서 국내 뷰티 기업 87개사로 구성된 한국공동관을 운영하며 글로벌 유통망 확대와 해외 시장 진출을 지원한다고 12일 밝혔다."
+   },
+   {
+    "name": "코스모팩 아시아",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-12",
+    "place": "아시아 월드 엑스포",
+    "quote": "지난 10일 개막한 ‘코스모팩 아시아(Cosmopack Asia)’는 12일까지 아시아 월드 엑스포에서 원료와 제조기술 및 패키징 솔루션을 중심으로 운영된다."
+   },
+   {
+    "name": "코스모프로프 아시아",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "홍콩 컨벤션전시센터",
+    "quote": "11일부터 13일까지 홍콩 컨벤션전시센터에서 열리는 ‘코스모프로프 아시아(Cosmoprof Asia)’에서는 스킨케어와 메이크업 및 헤어·네일 제품을 비롯해 에스테틱과 뷰티 디바이스 등 완제품과 전문 미용 분야를 폭넓게 다룬다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

@@ -1,0 +1,75 @@
+{
+ "doc_id": "cb464d531921f94b",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/phlur-opens-festive-pop-up-with-space-nk",
+ "title": "Phlur opens festive pop-up with Space NK to ‘build’ hype around Heavy Cream franchise",
+ "summary": "Phlur has teamed up with the UK beauty retailer on a festive activation to promote the masstige fragrance brand’s new Heavy Cream Eau de Parfum and Heavy Cream Body Butter, alongside Space NK exclusive Cashmere Frost Hair & Body Mist",
+ "published_at": "2026-11-11T21:32:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "Phlur"
+  ],
+  "companies": [
+   "Space NK"
+  ],
+  "keywords": [
+   "매스티지 향수",
+   "팝업스토어",
+   "바디 미스트",
+   "향수 라인 확장"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Heavy Cream Eau de Parfum",
+    "brand": "Phlur",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Phlur has teamed up with the UK beauty retailer on a festive activation to promote the masstige fragrance brand’s new Heavy Cream Eau de Parfum and Heavy Cream Body Butter, alongside Space NK exclusive Cashmere Frost Hair & Body Mist",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Heavy Cream Body Butter",
+    "brand": "Phlur",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Phlur has teamed up with the UK beauty retailer on a festive activation to promote the masstige fragrance brand’s new Heavy Cream Eau de Parfum and Heavy Cream Body Butter, alongside Space NK exclusive Cashmere Frost Hair & Body Mist",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Cashmere Frost Hair & Body Mist",
+    "brand": "Phlur",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Phlur가 Space NK와 함께 신제품 홍보용 연말 팝업을 열었다.",
+  "key_fact_quote": "Phlur opens festive pop-up with Space NK to ‘build’ hype around Heavy Cream franchise",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

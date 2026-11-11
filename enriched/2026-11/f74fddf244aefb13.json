@@ -1,0 +1,46 @@
+{
+ "doc_id": "f74fddf244aefb13",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newstomato.com/ReadNews.aspx?no=1320035&inflow=N",
+ "title": "비앤비컴퍼니, 자체 화장품 브랜드로 사업 확장…해외시장 공략",
+ "summary": "회사는 약 2년 전 자체 화장품 브랜드 콰이어톤을 출시 하며 기업 간 거래(B2B) 중심에서 소비자 직접 판매(B2C)로 영역을 넓혔습니다. 마스카라와 아이라이너, 아이세럼 등을 선보였으며, 자체 생산한 브러시에 자연 유래...",
+ "published_at": "2026-11-11T14:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "콰이어톤"
+  ],
+  "companies": [
+   "비앤비컴퍼니"
+  ],
+  "keywords": [
+   "자체 화장품 브랜드",
+   "소비자 직접 판매",
+   "해외시장 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "비앤비컴퍼니는 자체 화장품 브랜드 콰이어톤을 내놓으며 기업 간 거래에서 소비자 직접 판매로 사업을 넓혔다.",
+  "key_fact_quote": "회사는 약 2년 전 자체 화장품 브랜드 콰이어톤을 출시 하며 기업 간 거래(B2B) 중심에서 소비자 직접 판매(B2C)로 영역을 넓혔습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

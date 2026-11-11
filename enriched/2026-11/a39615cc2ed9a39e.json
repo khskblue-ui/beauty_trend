@@ -1,0 +1,45 @@
+{
+ "doc_id": "a39615cc2ed9a39e",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/rhodes-roadmap-1-billion-sales-1239408689/",
+ "title": "Rhode’s Road Map to $1 Billion in Sales",
+ "summary": "After its $1 billion acquisition by E.l.f. Beauty, Rhode has the goal of being the fastest beauty brand to reach $1 billion in global net sales, fueled by record-breaking launches, strategic Sephora expansion and category innovation.",
+ "published_at": "2026-11-11T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Rhode"
+  ],
+  "companies": [
+   "E.l.f. Beauty",
+   "Sephora"
+  ],
+  "keywords": [
+   "셀럽 뷰티 브랜드",
+   "뷰티 인수합병",
+   "리테일 확장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Rhode가 E.l.f. Beauty 인수 뒤 가장 빠른 대형 뷰티 브랜드가 되는 것을 목표로 한다.",
+  "key_fact_quote": "Rhode’s Road Map to $1 Billion in Sales",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

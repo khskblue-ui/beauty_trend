@@ -1,0 +1,49 @@
+{
+ "doc_id": "14f8aa4ad44648cd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://ditoday.com/%ec%8b%b1%ed%81%b4%eb%a6%ac-10%ec%9b%94-%ec%86%8c%ec%85%9c-%ec%a7%80%ec%88%98-%eb%b0%9c%ed%91%9c-%ec%8a%a4%ed%82%a8%ec%bc%80%ec%96%b4-1%ec%9c%84-%ec%95%84%eb%88%84%ec%95%84/",
+ "title": "싱클리, 10월 소셜 지수 발표... 스킨케어 1위 '아누아'",
+ "summary": "바디케어 부문에서는 ‘바세린’이 1위에 올랐고, 향수 부문 1위는 ‘입생로랑(YSL)’으로 집계됐다. SSI 리포트는 부문별 1위 브랜드 뿐 아니라 영상에서 이번 달 가장 많이 언급된 키워드를 분석한 트렌드 리포트도...",
+ "published_at": "2026-11-11T11:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아누아",
+   "바세린",
+   "입생로랑"
+  ],
+  "companies": [
+   "싱클리"
+  ],
+  "keywords": [
+   "소셜 지수",
+   "숏폼 트렌드",
+   "브랜드 순위"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "ed87943eb6e5612c",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

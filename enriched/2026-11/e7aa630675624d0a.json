@@ -1,0 +1,45 @@
+{
+ "doc_id": "e7aa630675624d0a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.segyebiz.com/newsView/20261111509955?OutUrl=naver",
+ "title": "에코비, 홍콩 코스모프로프서 K- 뷰티 경쟁력 알린다",
+ "summary": "특히 진정 케어와 보습에 중점을 둔 신제품 을 공식 출시 전에 글로벌 바이어들에게 소개하고 해외 유통을 위한 협력 가능성을 모색할 계획이다. 앞서 에코비는 코스모프로프 볼로냐를 비롯한 주요 해외 뷰티 전시회에...",
+ "published_at": "2026-11-11T13:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [
+   "에코비"
+  ],
+  "companies": [],
+  "keywords": [
+   "진정 케어",
+   "보습 화장품",
+   "해외 뷰티 전시회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에코비가 홍콩 코스모프로프에서 출시 전 신제품을 글로벌 바이어에게 소개한다.",
+  "key_fact_quote": "특히 진정 케어와 보습에 중점을 둔 신제품 을 공식 출시 전에 글로벌 바이어들에게 소개하고 해외 유통을 위한 협력 가능성을 모색할 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

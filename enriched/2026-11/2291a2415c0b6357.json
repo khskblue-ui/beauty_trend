@@ -1,0 +1,73 @@
+{
+ "doc_id": "2291a2415c0b6357",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58712",
+ "title": "뷰티맥스, 미세 음압 기술 접목한 3세대 하이드로겔 ‘옥타겔’ 상용화",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 화장품 OEM·ODM 전문기업 뷰티맥스(BEAUTYMAX, 대표 이수영)가 문어 빨판의 미세 음압 구조와 자체 제형 특허 기술을 결합한 3세대 하이드로겔 ‘옥타겔(OKTAGEL)’을 상용화하고 고기능성 스킨케어 시장 공략에 나선다고 11일 밝혔다. 뷰티맥스는 하이드…",
+ "published_at": "2026-11-11T17:15:40+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "루온셀"
+  ],
+  "companies": [
+   "뷰티맥스",
+   "미메틱스",
+   "동국제약"
+  ],
+  "keywords": [
+   "하이드로겔 마스크팩",
+   "미세 음압 기술",
+   "화장품 OEM·ODM",
+   "고기능성 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "옥타겔",
+    "brand": "뷰티맥스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "화장품 OEM·ODM 전문기업 뷰티맥스(BEAUTYMAX, 대표 이수영)가 문어 빨판의 미세 음압 구조와 자체 제형 특허 기술을 결합한 3세대 하이드로겔 ‘옥타겔(OKTAGEL)’을 상용화하고 고기능성 스킨케어 시장 공략에 나선다고 11일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "루온셀 마스크",
+    "brand": "루온셀",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티맥스가 미세 음압 구조를 접목한 하이드로겔 옥타겔을 상용화했다.",
+  "key_fact_quote": "화장품 OEM·ODM 전문기업 뷰티맥스(BEAUTYMAX, 대표 이수영)가 문어 빨판의 미세 음압 구조와 자체 제형 특허 기술을 결합한 3세대 하이드로겔 ‘옥타겔(OKTAGEL)’을 상용화하고 고기능성 스킨케어 시장 공략에 나선다고 11일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "하이드로겔",
+    "quote": "옥타겔은 뷰티테크 기업 미메틱스가 개발한 미세 음압(Micro Vacuum) 구조 필름과 뷰티맥스의 하이드로겔 제형·제조 특허 기술을 결합한 제품이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

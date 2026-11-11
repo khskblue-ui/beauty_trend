@@ -1,0 +1,61 @@
+{
+ "doc_id": "fb9b582a21ddb2d7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.e2news.com/news/articleView.html?idxno=335975",
+ "title": "세라트젠, 'ECM' 기반 스킨케어 '쎌루메(Cellumé)' 공식몰 론칭",
+ "summary": "세라트젠은 COT ECM 기술을 기반으로 화장품 뿐 아니라 의료기기 분야로도 사업 영역을 넓히고 있다. 현재 2등급 의료기기인 흉터관리치료제 'ECM 스카엔겔'을 출시 해 판매 중이며, 3·4등급 의료기기로 연구개발...",
+ "published_at": "2026-11-11T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "쎌루메"
+  ],
+  "companies": [
+   "세라트젠"
+  ],
+  "keywords": [
+   "ECM 스킨케어",
+   "공식몰 론칭",
+   "의료기기 사업 확장"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "ECM 스카엔겔",
+    "brand": "세라트젠",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "세라트젠이 ECM 기반 스킨케어 쎌루메의 공식몰을 열었다.",
+  "key_fact_quote": "세라트젠, 'ECM' 기반 스킨케어 '쎌루메(Cellumé)' 공식몰 론칭",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "ECM",
+    "quote": "세라트젠, 'ECM' 기반 스킨케어 '쎌루메(Cellumé)' 공식몰 론칭"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

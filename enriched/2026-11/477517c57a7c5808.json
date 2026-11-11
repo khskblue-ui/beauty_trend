@@ -1,0 +1,46 @@
+{
+ "doc_id": "477517c57a7c5808",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsprime.co.kr/news/article.html?no=754429",
+ "title": "신세계인터내셔날, 해외 패션·화장품 동반 성장…4분기 실적 개선 '기대...",
+ "summary": "지난해 4분기부터 진행된 지컷(G-CUT) 브랜드 의 매장 축소가 영향을 미쳤다. 화장품 사업도 수입과 제조 부문 모두 두 자릿수 성장률을 기록했다. 수입 화장품 매출은 니치 향수 와 럭셔리 뷰티 수요 확대에 힘입어 전년...",
+ "published_at": "2026-11-11T08:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "지컷"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "니치 향수",
+   "럭셔리 뷰티",
+   "수입 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신세계인터내셔날의 수입 화장품 매출이 니치 향수와 럭셔리 뷰티 수요 확대에 힘입어 늘었다.",
+  "key_fact_quote": "수입 화장품 매출은 니치 향수 와 럭셔리 뷰티 수요 확대에 힘입어",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

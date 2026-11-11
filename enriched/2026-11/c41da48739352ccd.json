@@ -1,0 +1,44 @@
+{
+ "doc_id": "c41da48739352ccd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://m.skyedaily.com/news_view.html?ID=314476",
+ "title": "무신사 매장 100호, 무신사 뷰티 성수 오픈",
+ "summary": "스킨케어와 메이크업, 향수 , 헤어·바디케어 등 700여 개 브랜드 의 상품 1만여 종을 갖췄다. 2층의 ‘뷰티온누리약국 성수점’ 에서는 약사 2명이 상주하며 처방전 조제부터 일반의약품 판매와 복약 상담을 비롯한 전문...",
+ "published_at": "2026-11-11T16:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "뷰티 편집숍",
+   "오프라인 매장",
+   "약국 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 백 번째 매장으로 무신사 뷰티 성수를 열었다.",
+  "key_fact_quote": "스킨케어와 메이크업, 향수 , 헤어·바디케어 등 700여 개 브랜드 의 상품 1만여 종을 갖췄다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

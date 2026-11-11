@@ -1,0 +1,49 @@
+{
+ "doc_id": "a447359fa938a095",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.sbs.co.kr/article_hub/20000345779?division=NAVER",
+ "title": "'설화수 대신 조선미녀'…중소 뷰티 뜨자 한국콜마·코스맥스 날개 [취재...",
+ "summary": "수출 호황을 이야기할 때 반도체가 먼저 떠오르지만, 중소기업 수출 에서는 화장품이 한 축을 맡고... K뷰티 의 저변을 넓혔습니다. 백악관 대변인의 사진에도…브랜드 뒤에는 한국 제조사 [사진=캐롤라인 레빗 SNS] 지난해...",
+ "published_at": "2026-11-11T17:57:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수",
+   "조선미녀"
+  ],
+  "companies": [
+   "한국콜마",
+   "코스맥스"
+  ],
+  "keywords": [
+   "K뷰티",
+   "화장품 수출",
+   "중소 뷰티 브랜드",
+   "화장품 제조사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중소 뷰티 브랜드 수출이 늘면서 한국 화장품 제조사가 수혜를 보고 있다.",
+  "key_fact_quote": "수출 호황을 이야기할 때 반도체가 먼저 떠오르지만, 중소기업 수출 에서는 화장품이 한 축을 맡고",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

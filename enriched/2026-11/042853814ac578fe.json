@@ -1,0 +1,44 @@
+{
+ "doc_id": "042853814ac578fe",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Economy/article/all/20261111/135005509/1",
+ "title": "“화잘먹 선크림 뭐야”…올리브영 앱에 물으면 AI가 답해준다",
+ "summary": "고객이 AI를 통해 상품을 추천받거나 매장 재고와 화장품 사용법 등을 확인하는 등 모바일 앱의 쇼핑 기능을 강화한다는 취지다. 고객 이용 바탕을 경험으로 기능을 고도화해 12월 중 정식 출시 할 예정이다. 올리브영은...",
+ "published_at": "2026-11-11T11:53:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "AI 쇼핑 도우미",
+   "뷰티 리테일 디지털화",
+   "맞춤형 화장품 추천"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 앱에 AI 상품 추천 기능을 시범 도입하고 정식 출시를 준비한다.",
+  "key_fact_quote": "고객 이용 바탕을 경험으로 기능을 고도화해 12월 중 정식 출시 할 예정이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

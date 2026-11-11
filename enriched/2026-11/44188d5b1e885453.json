@@ -1,0 +1,86 @@
+{
+ "doc_id": "44188d5b1e885453",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100445",
+ "title": "마리엔메이, ‘무신사 뷰티 성수점’ 입점",
+ "summary": "K-뷰티 스킨케어 브랜드 마리엔메이(Mary&May, 대표 조규태)가 서울 성수동 ‘무신사 뷰티 성수점’에 입점하며 국내 오프라인 유통 접점을 확대한다. 11월 10일(화) 프리오픈을 거쳐 11일(수) 정식 오픈하며, ‘스피큘 PDRN 크림 라인(Spicule PDRN Cream Line)’과 ‘센서티브 수딩 젤 크림(Sensitive Soothing Gel Cream)’ 등 주요 스킨케어 제품을 선보인다.전 세계 70여 개국에 진출해 해외 매출 비중 85% 이상을 기록하고 있는 마리엔메이는 글로벌 시장에서 쌓아 온 브랜드 경험을",
+ "published_at": "2026-11-11T09:45:51+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "SG",
+   "TW",
+   "BR",
+   "AR",
+   "CL",
+   "PE",
+   "CO",
+   "EC"
+  ],
+  "brands": [
+   "마리엔메이"
+  ],
+  "companies": [
+   "무신사",
+   "가디언",
+   "POYA",
+   "팔라벨라",
+   "디무헤레스"
+  ],
+  "keywords": [
+   "오프라인 유통 확대",
+   "PDRN 스킨케어",
+   "K-클린 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "스피큘 PDRN 크림 라인",
+    "brand": "마리엔메이",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "센서티브 수딩 젤 크림",
+    "brand": "마리엔메이",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "마리엔메이가 무신사 뷰티 성수점에 입점해 국내 오프라인 유통을 넓힌다.",
+  "key_fact_quote": "K-뷰티 스킨케어 브랜드 마리엔메이(Mary&May, 대표 조규태)가 서울 성수동 ‘무신사 뷰티 성수점’에 입점하며 국내 오프라인 유통 접점을 확대한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "글로벌 시장에서 관심을 얻고 있는 PDRN 및 마이크로 스피큘 기반 제품을 국내 소비자가 오프라인에서 직접 살펴보고 경험할 기회도 확대된다."
+   },
+   {
+    "name": "마이크로 스피큘",
+    "quote": "글로벌 시장에서 관심을 얻고 있는 PDRN 및 마이크로 스피큘 기반 제품을 국내 소비자가 오프라인에서 직접 살펴보고 경험할 기회도 확대된다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

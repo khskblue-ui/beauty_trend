@@ -1,0 +1,46 @@
+{
+ "doc_id": "034f5d89de24cab3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=249424",
+ "title": "옵타움, 홍대 이어 성수로… '무신사 뷰티 성수' 내 뷰티온누리약국 입...",
+ "summary": "관계자에 따르면 2018년 론칭한 옵타움은 전문 조향사 들과 협업해 '나의 내면을 채워주는 향기'를 주제로 일상의 다양한 순간에 어울리는 향을 개발해 왔다. 대표 제품으로는 잠들기 전 침구에 뿌려 편안한 수면 분위기를...",
+ "published_at": "2026-11-11T11:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "옵타움"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 입점",
+   "향기 브랜드",
+   "수면 향"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "향기 브랜드 옵타움이 무신사 뷰티 성수 안 뷰티온누리약국에 입점했다.",
+  "key_fact_quote": "관계자에 따르면 2018년 론칭한 옵타움은 전문 조향사 들과 협업해 '나의 내면을 채워주는 향기'를 주제로 일상의 다양한 순간에 어울리는 향을 개발해 왔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

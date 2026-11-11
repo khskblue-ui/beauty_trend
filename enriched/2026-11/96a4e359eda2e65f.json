@@ -1,0 +1,56 @@
+{
+ "doc_id": "96a4e359eda2e65f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dt.co.kr/article/12094313?ref=naver",
+ "title": "키사이드, 신규 뷰티 브랜드 ‘콜빗’ 론칭",
+ "summary": "키사이드(KISIDE)가 10일 신규 뷰티 브랜드 ‘콜빗(KORVVIT)’을 론칭 하고 첫 제품을 공개한다. 콜빗은 피부 본연의 균형을 되찾는 데 초점을 맞춘 스킨케어 브랜드 다. 브랜드 가 지향하는 방향은 슬로건에 담겼다. “피부를...",
+ "published_at": "2026-11-11T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "콜빗"
+  ],
+  "companies": [
+   "키사이드"
+  ],
+  "keywords": [
+   "신규 뷰티 브랜드",
+   "스킨케어",
+   "피부 균형"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "콜빗",
+    "brand": "콜빗",
+    "launch_date": "2026-11-10",
+    "launch_status": "launched",
+    "launch_quote": "키사이드(KISIDE)가 10일 신규 뷰티 브랜드 ‘콜빗(KORVVIT)’을 론칭 하고 첫 제품을 공개한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "키사이드가 스킨케어 브랜드 콜빗을 론칭했다.",
+  "key_fact_quote": "키사이드(KISIDE)가 10일 신규 뷰티 브랜드 ‘콜빗(KORVVIT)’을 론칭 하고 첫 제품을 공개한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,58 @@
+{
+ "doc_id": "76ac6f8bb54f1e7a",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53931",
+ "title": "코나드, 홍콩서 K-뷰티 색조 기술력 알린다",
+ "summary": "글로벌 화장품 시장에서 K-뷰티의 질주가 이어지고 있다. 2025년 중소기업의 화장품 수출액은 83억2,000만 달러로 전년 대비 21.5% 증가했다. 중소기업이 K-뷰티의 성장판으로 떠오른 가운데 중견 화장품 수출기업 코나드가 아시아 뷰티 박람회에서 색조 기술력을 소개했다. 코나드(대표 최대통)가 11일…",
+ "published_at": "2026-11-11T17:23:48+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [
+   "페블린",
+   "티베나"
+  ],
+  "companies": [
+   "코나드",
+   "현대백화점",
+   "이마트"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "색조 화장품",
+   "뷰티 박람회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코나드가 홍콩 코스모프로프 아시아에 참가해 색조 기술력을 알렸다.",
+  "key_fact_quote": "코나드(대표 최대통)가 11일부터 13일까지 개최되는 ‘2026 홍콩 코스모프로프 아시아’에 참가한다.",
+  "events": [
+   {
+    "name": "2026 홍콩 코스모프로프 아시아",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "홍콩",
+    "quote": "코나드(대표 최대통)가 11일부터 13일까지 개최되는 ‘2026 홍콩 코스모프로프 아시아’에 참가한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

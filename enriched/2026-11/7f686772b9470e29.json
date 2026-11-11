@@ -1,0 +1,46 @@
+{
+ "doc_id": "7f686772b9470e29",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/olaplex-helps-henkel-sales-q3-hair-acquistions-boost-growth",
+ "title": "Olaplex helps Henkel’s sales in Q3 as hair care acquisitions set to boost growth",
+ "summary": "Henkel’s newly acquired hair care brands Olaplex and Not your Mother’s are expected to help deliver ‘above-average growth’ and €2bn of annual sales by 2030",
+ "published_at": "2026-11-11T20:44:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "DE"
+  ],
+  "brands": [
+   "Olaplex",
+   "Not your Mother’s"
+  ],
+  "companies": [
+   "Henkel"
+  ],
+  "keywords": [
+   "헤어케어 인수",
+   "헤어케어 성장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "헨켈이 새로 인수한 헤어케어 브랜드들이 성장을 이끌 것으로 기대된다.",
+  "key_fact_quote": "Henkel’s newly acquired hair care brands Olaplex and Not your Mother’s are expected to help deliver ‘above-average growth’ and €2bn of annual sales by 2030",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

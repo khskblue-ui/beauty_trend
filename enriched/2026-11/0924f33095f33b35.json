@@ -1,0 +1,46 @@
+{
+ "doc_id": "0924f33095f33b35",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=579384&class=17&grp=",
+ "title": "\"수부지 화잘먹 선크림 추천해줘\"…올리브영, AI 뷰티 상담 도입",
+ "summary": "CJ올리브영이 고객의 피부 고민과 사용 목적에 맞춰 화장품 을 추천하고 상품 정보를 안내하는 인공지능(AI)... 정식 출시 할 예정이다. 유통업계에서는 생성형 AI를 활용한 상품 탐색과 구매 지원 서비스가 확대되고 있다....",
+ "published_at": "2026-11-11T09:45:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "AI 뷰티 상담",
+   "생성형 AI",
+   "맞춤형 화장품 추천"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "올리브영이 피부 고민에 맞춰 화장품을 추천하는 AI 상담 서비스를 도입한다.",
+  "key_fact_quote": "CJ올리브영이 고객의 피부 고민과 사용 목적에 맞춰 화장품 을 추천하고 상품 정보를 안내하는 인공지능(AI)",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

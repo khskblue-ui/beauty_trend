@@ -1,0 +1,43 @@
+{
+ "doc_id": "eef4446840428ada",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.wikitree.co.kr/articles/1173635",
+ "title": "애터미, 'CES 2027' 뷰티테크 혁신상…피부 장벽 재고 세정 강도 조절하...",
+ "summary": "애터미는 박한길 회장이 이끄는 생활용품· 화장품 유통 기업이다. 회원제 유통 방식으로 화장품 과... 디바이스 출시 를 목표로 하고 있다\"고 전했다.CES 2027 뷰티테크 부문에서는 국내 기업 수상이 이어졌다....",
+ "published_at": "2026-11-11T17:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "애터미"
+  ],
+  "keywords": [
+   "뷰티테크",
+   "뷰티 디바이스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "애터미가 국제 전자 전시회 뷰티테크 부문에서 혁신상을 받았다.",
+  "key_fact_quote": "CES 2027 뷰티테크 부문에서는 국내 기업 수상이 이어졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

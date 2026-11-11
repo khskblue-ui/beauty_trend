@@ -1,0 +1,115 @@
+{
+ "doc_id": "cc79b4fead4e83eb",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100447",
+ "title": "필로디, 2026 코스모프로프 아시아 홍콩 박람회 참가",
+ "summary": "주식회사 제이디티앤티 (대표 방지현)가 전개하고 있는 프리미엄 패밀리 스킨케어 브랜드 필로디 (Feelody)가 2026년 11월 11일부터 13일까지 HKCEC에서 개최되는 2026 코스모프로프 아시아 홍콩 (Cosmoprof Asia Hong Kong) 박람회에 참가한다고 밝혔다. 특히 금번 박람회에 제이디티앤티는 서울시 산하의 K-뷰티 유망 기업의 디자인, 유통, 수출 등 전 과정을 통합 지원하는 서울뷰티허브와 협업하여 참가 예정이다.올해로 29회째를 맞은 이번 전시회는 스킨케어, 헤어, 메이크업, 네일, 화장품 원료, 패키징",
+ "published_at": "2026-11-11T09:48:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [
+   "필로디"
+  ],
+  "companies": [
+   "제이디티앤티",
+   "서울뷰티허브"
+  ],
+  "keywords": [
+   "패밀리 스킨케어",
+   "피부 장벽 강화",
+   "해외 박람회"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "멀티 에센스 선스크린",
+    "brand": "필로디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "5중케어 시럽앰플",
+    "brand": "필로디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "생크림 비타 폼클렌징",
+    "brand": "필로디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스킨 부스터 에센스",
+    "brand": "필로디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "베리어 크림",
+    "brand": "필로디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "필로디가 홍콩 코스모프로프 아시아 박람회에 참가한다.",
+  "key_fact_quote": "주식회사 제이디티앤티 (대표 방지현)가 전개하고 있는 프리미엄 패밀리 스킨케어 브랜드 필로디 (Feelody)가 2026년 11월 11일부터 13일까지 HKCEC에서 개최되는 2026 코스모프로프 아시아 홍콩 (Cosmoprof Asia Hong Kong) 박람회에 참가한다고 밝혔다.",
+  "events": [
+   {
+    "name": "2026 코스모프로프 아시아 홍콩",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "HKCEC",
+    "quote": "주식회사 제이디티앤티 (대표 방지현)가 전개하고 있는 프리미엄 패밀리 스킨케어 브랜드 필로디 (Feelody)가 2026년 11월 11일부터 13일까지 HKCEC에서 개최되는 2026 코스모프로프 아시아 홍콩 (Cosmoprof Asia Hong Kong) 박람회에 참가한다고 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "필로디 Derma 라인의 스킨 부스터 에센스와 베리어 크림은 PDRN, 엑소좀, 7종 히알루론산을 함유하여 홈케어 제품으로 누구나 쉽게 피부 장벽 강화에 도움을 받을 수 있는 고기능성 제품군이다."
+   },
+   {
+    "name": "엑소좀",
+    "quote": "필로디 Derma 라인의 스킨 부스터 에센스와 베리어 크림은 PDRN, 엑소좀, 7종 히알루론산을 함유하여 홈케어 제품으로 누구나 쉽게 피부 장벽 강화에 도움을 받을 수 있는 고기능성 제품군이다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "필로디 Derma 라인의 스킨 부스터 에센스와 베리어 크림은 PDRN, 엑소좀, 7종 히알루론산을 함유하여 홈케어 제품으로 누구나 쉽게 피부 장벽 강화에 도움을 받을 수 있는 고기능성 제품군이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

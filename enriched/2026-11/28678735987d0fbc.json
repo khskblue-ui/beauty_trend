@@ -1,0 +1,46 @@
+{
+ "doc_id": "28678735987d0fbc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sportsseoul.com/news/read/1649014?ref=naver",
+ "title": "네시픽, ‘무신사 뷰티 성수’ 공식 입점… 홍대 이어 성수까지 오프라...",
+ "summary": "대표 뷰티 상권으로 꼽힌다. 이번 입점으로 매장에서는 네시픽의 베스트셀러부터 신제품 까지 대표... 화해 뷰티 어워드’에서 각각 비건 클렌징 부문 1위, 클렌징밤 부문 1위에 올랐다. 특히 튜브 타입으로 출시 된 클렌징...",
+ "published_at": "2026-11-11T14:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "네시픽"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 입점",
+   "비건 클렌징",
+   "클렌징밤"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "네시픽이 무신사 뷰티 성수에 공식 입점했다.",
+  "key_fact_quote": "이번 입점으로 매장에서는 네시픽의 베스트셀러부터 신제품 까지 대표...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "d631aefb87c436bc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=579441&class=17&grp=",
+ "title": "코스맥스, 3Q 영업익 95%↑…K-뷰티 수출 호조에 '역대 최대'",
+ "summary": "효능과 안전성을 강조한 기초 화장품 신제품 출시가 이어지면서 주요 고객사의 주문도 늘었다. 광저우 법인 역시 오프라인과 수출채널 판매 호조에 힘입어 매출이 11% 증가한 505억원으로 집계됐다. 기존 고객사의...",
+ "published_at": "2026-11-11T17:07:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "K-뷰티 수출",
+   "기초 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스가 K-뷰티 수출 호조로 분기 최대 실적을 냈다.",
+  "key_fact_quote": "효능과 안전성을 강조한 기초 화장품 신제품 출시가 이어지면서 주요 고객사의 주문도 늘었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

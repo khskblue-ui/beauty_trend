@@ -1,0 +1,49 @@
+{
+ "doc_id": "afdedbe09cbe7de9",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312774",
+ "title": "코스맥스, 3분기 매출 8758억원 사상 최대…미국 법인 2분기 연속 흑자",
+ "summary": "코스맥스가 3분기에도 역대 최대 분기 매출을 기록했다.한국 법인이 성장을 주도한 가운데 중국·미국·동남아 법인도 모두 전년 동기 대비 성장세를 이어갔다. 미국 법인은 2분기에 이어 3분기에도 흑자를 기록했다.코스맥스는 11일 금융감독원 전자공시시스템을 통해 3분기 연결기준 매출이 전년 동기 대비 50% 증가한 8758억원을 기록했다고 공시했다. 같은 기간 영업이익은 95% 늘어난 833억원으로 집계됐다.화장품 업계가 통상 상반기 실적 비중이 높은 계절적 특성을 보이는 가운데 코스맥스는 비수기로 평가되는 3분기에도 최대 분기 매출 기",
+ "published_at": "2026-11-11T16:07:52+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN",
+   "US",
+   "ID",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "더마 화장품",
+   "선케어",
+   "OBM"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스가 국내외 법인의 고른 성장으로 분기 기준 역대 최대 매출을 냈다.",
+  "key_fact_quote": "코스맥스가 3분기에도 역대 최대 분기 매출을 기록했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

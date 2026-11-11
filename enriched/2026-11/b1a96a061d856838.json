@@ -1,0 +1,44 @@
+{
+ "doc_id": "b1a96a061d856838",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.mtn.co.kr/article/2026111116403077894",
+ "title": "밀려드는 주문에 진땀…K뷰티 호황 속 ODM사 생산능력은 과제로",
+ "summary": "고객사 신제품 출시가 이어지며 3분기 기준 역대 최대 실적을 기록했다\"고 설명했다.제공= 한국콜마하지만 이 같은 호실적에도 최근 화장품 ODM주 주가는 엇갈린 흐름을 보이고 있다. 한국거래소에 따르면 이날...",
+ "published_at": "2026-11-11T16:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "생산능력",
+   "K뷰티 호황"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 호황으로 주문이 몰리면서 화장품 ODM사의 생산능력 확보가 과제로 떠올랐다.",
+  "key_fact_quote": "밀려드는 주문에 진땀…K뷰티 호황 속 ODM사 생산능력은 과제로",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

@@ -1,0 +1,57 @@
+{
+ "doc_id": "a3c9d56e0bcdfe82",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/tri-k-introduces-triglyphix-soothe-advanced-scalp-soothing",
+ "title": "TRI-K introduces TRIglyphix Soothe: advanced scalp soothing for lasting comfort",
+ "summary": "Debuting at in-cosmetics Asia, this new ingredient helps formulators address sensitive scalp needs with visible benefits and a focus on comfort",
+ "published_at": "2026-11-11T23:52:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "TRI-K"
+  ],
+  "keywords": [
+   "두피 진정",
+   "민감성 두피",
+   "신규 원료"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "TRIglyphix Soothe",
+    "brand": "TRI-K",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "TRI-K introduces TRIglyphix Soothe: advanced scalp soothing for lasting comfort",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "TRI-K가 민감성 두피를 위한 진정 원료를 선보였다.",
+  "key_fact_quote": "Debuting at in-cosmetics Asia, this new ingredient helps formulators address sensitive scalp needs with visible benefits and a focus on comfort",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "TRIglyphix Soothe",
+    "quote": "TRI-K introduces TRIglyphix Soothe: advanced scalp soothing for lasting comfort"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

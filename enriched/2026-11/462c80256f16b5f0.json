@@ -1,0 +1,48 @@
+{
+ "doc_id": "462c80256f16b5f0",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58709",
+ "title": "코스맥스, 3Q 연결매출 8758억(+50%) 영업익 833억원(+95%)... 미국법인 2분기 연속 흑자",
+ "summary": "[코스인코리아닷컴 길태윤 기자]글로벌 화장품 ODM(연구·개발·생산) 기업 코스맥스가 3분기에도 사상 최대 분기 매출을 경신했다. 한국 법인이 전사 성장을 이끈 가운데 중국·미국·동남아 법인도 모두 전년 동기 대비 성장세를 이어갔다. 미국 법인은 2분기 창사 첫 분기 흑자 전환에 이어 3분기에도…",
+ "published_at": "2026-11-11T15:30:08+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN",
+   "US",
+   "ID",
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "실적 성장",
+   "더마 화장품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 3분기에도 사상 최대 분기 매출을 경신했다.",
+  "key_fact_quote": "글로벌 화장품 ODM(연구·개발·생산) 기업 코스맥스가 3분기에도 사상 최대 분기 매출을 경신했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

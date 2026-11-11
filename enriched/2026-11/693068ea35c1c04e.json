@@ -1,0 +1,42 @@
+{
+ "doc_id": "693068ea35c1c04e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/living/2026/11/11/2026111113253682929",
+ "title": "K뷰티 호황에 '길 닦는' 유통·브랜드 플랫폼도 뜬다",
+ "summary": "해외 진출을 원하는 국내 브랜드와 현지 유통업체를 연결하는 유통 전문기업부터 여러 자체 브랜드를 키워 글로벌 시장을 공략하는 브랜드 컴퍼니까지 K뷰티 수출 호황의 수혜 범위가 넓어지는 모습이다. 11일 업계에...",
+ "published_at": "2026-11-11T16:21:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "유통 플랫폼",
+   "브랜드 컴퍼니"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 수출 호황으로 유통 전문기업과 브랜드 컴퍼니도 수혜를 보고 있다.",
+  "key_fact_quote": "해외 진출을 원하는 국내 브랜드와 현지 유통업체를 연결하는 유통 전문기업부터 여러 자체 브랜드를 키워 글로벌 시장을 공략하는 브랜드 컴퍼니까지 K뷰티 수출 호황의 수혜 범위가 넓어지는 모습이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

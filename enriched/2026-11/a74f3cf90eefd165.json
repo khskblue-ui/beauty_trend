@@ -1,0 +1,57 @@
+{
+ "doc_id": "a74f3cf90eefd165",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.chosun.com/economy/tech_it/2026/11/11/3SRKLOVGT5BKFLX6VFQWVJ226E/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+ "title": "“립스틱 고르고 스마트 반지도 사세요”... 화장품 매장에 뛰어든 웨어...",
+ "summary": "립스틱과 향수 를 판매하던 뷰티 전문점에서 수면과 스트레스 등을 분석하는 전자기기까지 선보이는... 스마트 반지 업체 오우라는 지난 9일 미국 뷰티 유통업체 울타뷰티와 제휴해 신제품 ‘오우라 링 5’를 판매한다고...",
+ "published_at": "2026-11-11T11:11:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "오우라 링 5"
+  ],
+  "companies": [
+   "오우라",
+   "울타뷰티"
+  ],
+  "keywords": [
+   "뷰티 유통",
+   "웨어러블 기기",
+   "스마트 반지"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "오우라 링 5",
+    "brand": "오우라",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스마트 반지 업체가 미국 뷰티 유통업체와 제휴해 뷰티 매장에서 신제품을 판매한다.",
+  "key_fact_quote": "스마트 반지 업체 오우라는 지난 9일 미국 뷰티 유통업체 울타뷰티와 제휴해 신제품 ‘오우라 링 5’를 판매한다고",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": false
+}

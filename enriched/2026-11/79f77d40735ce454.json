@@ -1,0 +1,53 @@
+{
+ "doc_id": "79f77d40735ce454",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53925",
+ "title": "“내가 지금 홍콩인가?” 안방서 만나는 코스모프로프",
+ "summary": "글로벌표준인증원(대표 전재금)이 11월 12일 오전 11시(한국시간) ‘2026 홍콩 코스모프로프 아시아’ 랜선 박람회를 진행한다. 이번 행사는 해외 전시장을 직접 방문하기 어려운 국내 뷰티업계 관계자들에게 현장 정보를 전달하기 위해 마련됐다. 홍콩 현지 전시장과 온라인을 연결해 전시 분위기와 글로…",
+ "published_at": "2026-11-11T10:14:26+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [
+   "글로벌표준인증원"
+  ],
+  "keywords": [
+   "뷰티 박람회",
+   "온라인 중계",
+   "해외 전시회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "글로벌표준인증원이 홍콩 코스모프로프 아시아 랜선 박람회를 진행한다.",
+  "key_fact_quote": "글로벌표준인증원(대표 전재금)이 11월 12일 오전 11시(한국시간) ‘2026 홍콩 코스모프로프 아시아’ 랜선 박람회를 진행한다.",
+  "events": [
+   {
+    "name": "랜선 박람회",
+    "start_date": "2026-11-12",
+    "end_date": null,
+    "place": "홍콩",
+    "quote": "글로벌표준인증원(대표 전재금)이 11월 12일 오전 11시(한국시간) ‘2026 홍콩 코스모프로프 아시아’ 랜선 박람회를 진행한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}

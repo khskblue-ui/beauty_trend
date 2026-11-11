@@ -1,0 +1,68 @@
+{
+ "doc_id": "3e0b5a308c2c4363",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58705",
+ "title": "민텔, 2027년 글로벌 뷰티 시장 화두로 ‘시스템(Systems)’ 제시…시장 경계 허무는 패러다임 전환 예고",
+ "summary": "[코스인코리아닷컴 김세화 기자]글로벌 소비재 시장의 경쟁 방식이 달라지고 있다. 소비자들이 특정 제품이나 브랜드를 먼저 선택하는 대신, 자신이 달성하고자 하는 목표를 중심으로 여러 제품과 서비스를 조합하기 시작하면서다. 피부를 건강하게 유지하고, 노화를 늦추며, 숙면을 취하고 스트레스를 관…",
+ "published_at": "2026-11-11T11:54:38+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "GB",
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "민텔",
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "이너뷰티",
+   "홀리스틱 뷰티",
+   "AI 피부 진단",
+   "홈케어 디바이스",
+   "시술 연계 스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "스킨사이트",
+    "brand": "아모레퍼시픽",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "민텔은 내년 뷰티 시장의 핵심 키워드로 제품과 서비스를 엮는 시스템을 제시했다.",
+  "key_fact_quote": "개별 제품의 기능과 효능을 넘어 제품, 서비스, 기술, 전문 지식, 소비자 행동이 유기적으로 연결된 통합 시스템이 미래 소비재 시장의 새로운 성장 동력이 될 것이라는 전망이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "세라마이드, 콜라겐 등 피부 건강 관련 성분을 활용한 화장품뿐 아니라 음료, 간식, 건강기능식품 등 섭취형 제품이 함께 주목받는 것도 이러한 변화의 일환이다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "세라마이드, 콜라겐 등 피부 건강 관련 성분을 활용한 화장품뿐 아니라 음료, 간식, 건강기능식품 등 섭취형 제품이 함께 주목받는 것도 이러한 변화의 일환이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-11T21:34:55+00:00",
+ "had_body": true
+}
