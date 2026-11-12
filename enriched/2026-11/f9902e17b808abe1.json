@@ -1,0 +1,97 @@
+{
+ "doc_id": "f9902e17b808abe1",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100460",
+ "title": "머리 건조 시간 줄여주는 ‘그래비티 퀵 드라이 샴푸’ 12일 출시",
+ "summary": "KAIST 화학과 이해신 석좌교수 연구팀의 교원 창업기업인 폴리페놀팩토리가 머리 말리는 시간을 획기적으로 줄여주는 ‘그래비티 퀵 드라이 샴푸’를 선보이며 헤어케어 시장에 새로운 지평을 열고 있다. 기존의 모발 건조 속도를 높이기 위한 경쟁이 주로 드라이어의 성능 향상에 머물렀던 것과 달리, 이번 신제품은 ‘샴푸 단계’ 그 자체에서부터 건조 효율을 극대화한다는 점에서 차별화된 혁신을 보여주고 있다.실제 소비자들의 반응은 정식 출시 이전부터 뜨겁게 달아올랐다. 지난 5일 올리브영을 통해 먼저 선보인 사전 출시 물량은 단 24분 만에 전",
+ "published_at": "2026-11-12T11:08:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "그래비티"
+  ],
+  "companies": [
+   "폴리페놀팩토리",
+   "피엔케이피부임상연구센타㈜",
+   "I-ne",
+   "맨덤",
+   "올리브영"
+  ],
+  "keywords": [
+   "속건 헤어케어",
+   "샴푸",
+   "손상모 케어",
+   "탈모증상 완화 기능성"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "그래비티 퀵 드라이 샴푸",
+    "brand": "그래비티",
+    "launch_date": "2026-11-12",
+    "launch_status": "launched",
+    "launch_quote": "머리 건조 시간 줄여주는 ‘그래비티 퀵 드라이 샴푸’ 12일 출시",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "네리아",
+    "brand": null,
+    "launch_date": "2026-03",
+    "launch_status": "unknown",
+    "launch_quote": "3월에는 밤 루틴을 최단으로 줄이는 ‘속공(速攻) 미용’을 내세워 빨리 마르는 샴푸·트리트먼트 ‘네리아(NELIA)’가 출시돼 라쿠텐 일간 랭킹 1위에 올랐고, 현지 비평지 ‘LDK the Beauty’에서 A평가를 받았다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "프로피",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "지난달에는 ‘드라이어 시간 단축’을 앞세운 올인원 샴푸 ‘프로피(Froffy)’가 출시되기도 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "폴리페놀팩토리가 폴리페놀 기반 기술로 머리 건조 시간을 줄여 주는 그래비티 퀵 드라이 샴푸를 선보였다.",
+  "key_fact_quote": "KAIST 화학과 이해신 석좌교수 연구팀의 교원 창업기업인 폴리페놀팩토리가 머리 말리는 시간을 획기적으로 줄여주는 ‘그래비티 퀵 드라이 샴푸’를 선보이며 헤어케어 시장에 새로운 지평을 열고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "DryMax 609™",
+    "quote": "연구팀이 개발한 핵심 기술인 ‘DryMax 609™’는 거친 파도 속에서도 바위에 찰싹 달라붙는 홍합의 접착 원리에서 착안한 폴리페놀 기반 기술이다."
+   },
+   {
+    "name": "폴리페놀",
+    "quote": "어디에나 강력하게 달라붙는 폴리페놀이 모발 표면에 닻처럼 안정적으로 자리를 잡고, 건조 속도 개선을 위해 특화된 소재를 붙잡아 얇고 고른 막을 형성한다."
+   },
+   {
+    "name": "LiftMax 308™",
+    "quote": "2007년 이해신 교수가 세계적인 학술지에 홍합 접착 원리 연구를 발표한 이후, 20여 년간 이어진 폴리페놀 연구는 'LiftMax 308™', 'PDRN 복합체'를 거쳐 이번 'DryMax 609™'까지 진화해 왔다."
+   },
+   {
+    "name": "PDRN 복합체",
+    "quote": "2007년 이해신 교수가 세계적인 학술지에 홍합 접착 원리 연구를 발표한 이후, 20여 년간 이어진 폴리페놀 연구는 'LiftMax 308™', 'PDRN 복합체'를 거쳐 이번 'DryMax 609™'까지 진화해 왔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

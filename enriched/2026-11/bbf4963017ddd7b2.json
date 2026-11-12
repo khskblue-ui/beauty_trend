@@ -1,0 +1,57 @@
+{
+ "doc_id": "bbf4963017ddd7b2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.theguru.co.kr/news/article.html?no=109636",
+ "title": "롯데면세점, 다낭공항에 샤넬뷰티 '크리스마스 팝업'…동남아 면세 입지...",
+ "summary": "팝업에서는 샤넬의 주력 향수 ·뷰티 제품과 함께 ‘2026 홀리데이 한정판 컬렉션'을 선보인다. 맞춤형 선물... 더 글렌리벳 면세 전용 신제품 팝업도 다음 달 25일까지 운영한다. 지난 6월에는 창이공항그룹이...",
+ "published_at": "2026-11-12T08:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN"
+  ],
+  "brands": [
+   "샤넬"
+  ],
+  "companies": [
+   "롯데면세점"
+  ],
+  "keywords": [
+   "면세 유통",
+   "팝업스토어",
+   "홀리데이 한정판"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "2026 홀리데이 한정판 컬렉션",
+    "brand": "샤넬",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "팝업에서는 샤넬의 주력 향수 ·뷰티 제품과 함께 ‘2026 홀리데이 한정판 컬렉션'을 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "롯데면세점이 다낭공항에서 샤넬뷰티 크리스마스 팝업을 열고 홀리데이 한정판 컬렉션을 선보인다.",
+  "key_fact_quote": "팝업에서는 샤넬의 주력 향수 ·뷰티 제품과 함께 ‘2026 홀리데이 한정판 컬렉션'을 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

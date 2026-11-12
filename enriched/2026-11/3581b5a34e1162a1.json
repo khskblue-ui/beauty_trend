@@ -1,0 +1,54 @@
+{
+ "doc_id": "3581b5a34e1162a1",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53933",
+ "title": "피에프네이처, 홍콩서 화장품 제형·향수 기술력 선보여",
+ "summary": "화장품 연구개발·생산 전문기업 피에프네이처(PF NATURE·대표 양지혜)가 지난 11일 개막, 오는 13일까지 홍콩 컨벤션앤드엑시비션센터에서 열리는 ‘2026 코스모프로프 아시아 인 홍콩’(Cosmoprof Asia 2026)에 참가해 다양한 화장품 제형과 향수를 선보이고 있다. 피에프네이처는 이번 전…",
+ "published_at": "2026-11-12T08:00:25+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "HK",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "피에프네이처"
+  ],
+  "keywords": [
+   "화장품 OEM·ODM",
+   "3D 제형",
+   "향수 개발",
+   "체험형 부스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "피에프네이처가 홍콩 코스모프로프 아시아에 참가해 화장품 제형과 향수 개발 기술을 선보이고 있다.",
+  "key_fact_quote": "화장품 연구개발·생산 전문기업 피에프네이처 (PF NATURE·대표 양지혜)가 지난 11일 개막, 오는 13일까지 홍콩 컨벤션앤드엑시비션센터에서 열리는 ‘2026 코스모프로프 아시아 인 홍콩’(Cosmoprof Asia 2026)에 참가해 다양한 화장품 제형과 향수를 선보이고 있다.",
+  "events": [
+   {
+    "name": "2026 코스모프로프 아시아 인 홍콩",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "홍콩 컨벤션앤드엑시비션센터",
+    "quote": "화장품 연구개발·생산 전문기업 피에프네이처 (PF NATURE·대표 양지혜)가 지난 11일 개막, 오는 13일까지 홍콩 컨벤션앤드엑시비션센터에서 열리는 ‘2026 코스모프로프 아시아 인 홍콩’(Cosmoprof Asia 2026)에 참가해 다양한 화장품 제형과 향수를 선보이고 있다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "fecc16d2b49c1703",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pharmnews.com/news/articleView.html?idxno=307864",
+ "title": "휴메딕스, '코스모프로프 아시아 홍콩 2026' 참가...'엘라비에 코스메틱...",
+ "summary": "헤리티지( K -Derma heritage)' 콘셉트를 소개했다. 휴메딕스는 행사 기간 동남아시아와 중동 등 신흥 시장 바이어들과 개별 미팅을 진행하며 엘라비에 코스메틱의 수출 방안을 논의했다. 앞서 휴메딕스는 지난 6월 중국...",
+ "published_at": "2026-11-12T10:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [
+   "엘라비에 코스메틱"
+  ],
+  "companies": [
+   "휴메딕스"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "신흥 시장 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "휴메딕스가 코스모프로프 아시아 홍콩에서 신흥 시장 바이어와 엘라비에 코스메틱 수출을 논의했다.",
+  "key_fact_quote": "휴메딕스는 행사 기간 동남아시아와 중동 등 신흥 시장 바이어들과 개별 미팅을 진행하며 엘라비에 코스메틱의 수출 방안을 논의했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

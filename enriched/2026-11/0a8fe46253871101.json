@@ -1,0 +1,46 @@
+{
+ "doc_id": "0a8fe46253871101",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/lor%C3%A9al-leads-funding-round-for-biotech-company-PAM2L",
+ "title": "L'Oréal leads funding round for Chinese biotech company PAM2L",
+ "summary": "L'Oréal’s strategic corporate venture capital fund BOLD said it will leverage its beauty and formulation expertise to explore the broader scientific value of innovative bio-actives via a minority investment in PAM2L Biotechnologies",
+ "published_at": "2026-11-12T21:13:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "L'Oréal",
+   "BOLD",
+   "PAM2L Biotechnologies"
+  ],
+  "keywords": [
+   "바이오 활성 성분",
+   "벤처 투자",
+   "바이오테크"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "로레알의 벤처 투자 펀드가 중국 바이오테크 기업에 소수 지분을 투자했다.",
+  "key_fact_quote": "explore the broader scientific value of innovative bio-actives via a minority investment in PAM2L Biotechnologies",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:41+00:00",
+ "had_body": false
+}

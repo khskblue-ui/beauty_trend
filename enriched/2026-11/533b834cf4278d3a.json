@@ -1,0 +1,55 @@
+{
+ "doc_id": "533b834cf4278d3a",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53942",
+ "title": "피엔케이, K-피부임상 기술로 글로벌 시장 공략",
+ "summary": "피엔케이피부임상연구센타(각자대표 박진오·이해광, 이하 Pamp;K)가 지난 3일부터 5일까지 태국 방콕에서 열린 ‘인-코스메틱스 아시아 2026’(in-cosmetics Asia 2026)에 참가, K-피부임상 기술력을 알리고 글로벌 더마코스메틱 시장 공략에 나섰다. Pamp;K는 이번 전시회에서…",
+ "published_at": "2026-11-12T14:08:21+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "TH",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "피엔케이피부임상연구센타"
+  ],
+  "keywords": [
+   "피부임상",
+   "더마코스메틱",
+   "효능 평가",
+   "다인종 인체적용시험"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "피엔케이피부임상연구센타가 인-코스메틱스 아시아 전시회에서 화장품 효능 평가기술과 해외 마케팅 지원 서비스를 선보였다.",
+  "key_fact_quote": "P&K는 이번 전시회에서 화장품 효능을 데이터로 입증하는 평가기술과 임상 결과를 해외 마케팅 콘텐츠로 활용하는 통합 지원 서비스를 선보였다.",
+  "events": [
+   {
+    "name": "인-코스메틱스 아시아 2026",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-05",
+    "place": "태국 방콕",
+    "quote": "피엔케이피부임상연구센타(각자대표 박진오·이해광, 이하 P&K) 가 지난 3일부터 5일까지 태국 방콕에서 열린 ‘인-코스메틱스 아시아 2026’(in-cosmetics Asia 2026) 에 참가, K-피부임상 기술력을 알리고 글로벌 더마코스메틱 시장 공략에 나섰다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

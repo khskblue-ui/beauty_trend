@@ -1,0 +1,72 @@
+{
+ "doc_id": "376e63e6fa960379",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312771",
+ "title": "K-뷰티, 중국 수출 회복 신호…중국 재공략·글로벌 확장 '투트랙' 가속",
+ "summary": "K-뷰티의 대중국 수출이 회복 신호를 보이는 가운데 정부와 유관기관도 중국 시장 공략 지원을 강화하고 있다.산업통상자원부에 따르면 올해 10월 화장품의 대중국 수출액은 1억4,000만 달러로 지난해 같은 기간보다 23.4% 증가했다. 같은 기간 전체 화장품 수출액도 14억4,400만 달러로 57.5% 늘었다.이에 따라 한국무역협회와 대한무역투자진흥공사(KOTRA)는 중국국제수입박람회(CIIE)와 홍콩 코스모프로프를 발판으로 국내 화장품·소비재 기업의 중국 및 아시아 시장 진출 지원을 확대하고 있다.신흥 K-뷰티 브랜드, 중국 재진출",
+ "published_at": "2026-11-12T10:55:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN",
+   "HK"
+  ],
+  "brands": [
+   "정샘물",
+   "Anua",
+   "Dr. Althea",
+   "COSRX",
+   "리쥬란"
+  ],
+  "companies": [
+   "한국무역협회",
+   "대한무역투자진흥공사(KOTRA)",
+   "대한화장품협회",
+   "한국뷰티산업무역협회",
+   "HKTVmall"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "중국 재진출",
+   "크로스보더 전자상거래",
+   "시장 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 대중국 수출이 회복세를 보이며 K-뷰티가 중국 재공략과 글로벌 확장을 함께 추진하고 있다.",
+  "key_fact_quote": "K-뷰티의 대중국 수출이 회복 신호를 보이는 가운데 정부와 유관기관도 중국 시장 공략 지원을 강화하고 있다.",
+  "events": [
+   {
+    "name": "제9회 중국국제수입박람회(CIIE)",
+    "start_date": "2026-11-05",
+    "end_date": null,
+    "place": "중국 상하이 국가전시컨벤션센터(NECC)",
+    "quote": "이 같은 흐름 속에서 한국무역협회와 산업통상자원부는 5일부터 중국 상하이 국가전시컨벤션센터(NECC)에서 열린 제9회 중국국제수입박람회(CIIE)에 9년 연속 한국관을 운영했다."
+   },
+   {
+    "name": "2026 홍콩 코스모프로프",
+    "start_date": "2026-11-11",
+    "end_date": null,
+    "place": null,
+    "quote": "KOTRA는 대한화장품협회, 한국뷰티산업무역협회 등과 함께 11일부터 개최되는 '2026 홍콩 코스모프로프'에 통합 한국관을 운영한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

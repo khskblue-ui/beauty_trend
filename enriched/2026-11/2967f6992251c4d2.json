@@ -1,0 +1,49 @@
+{
+ "doc_id": "2967f6992251c4d2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202611122394O",
+ "title": "바이노텍, 스킨케어 브랜드 ‘리포브’ 프랑스 유통 추진…유럽 시장 확...",
+ "summary": "앞서 에스토니아에 제품을 수출 한 데 이어 프랑스 현지 유통업체와 협력해 유럽 내 판매망을 확대할 계획이다. 바이노텍은 프랑스 K뷰티 전문기업 KBeauty Cosmetics와 협력해 리포브 제품의 현지 판매를...",
+ "published_at": "2026-11-12T11:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR",
+   "EE"
+  ],
+  "brands": [
+   "리포브"
+  ],
+  "companies": [
+   "바이노텍",
+   "KBeauty Cosmetics"
+  ],
+  "keywords": [
+   "유럽 진출",
+   "K뷰티 수출",
+   "현지 유통 협력"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "바이노텍이 프랑스 유통업체와 협력해 스킨케어 브랜드 리포브의 유럽 판매망을 넓힌다.",
+  "key_fact_quote": "앞서 에스토니아에 제품을 수출 한 데 이어 프랑스 현지 유통업체와 협력해 유럽 내 판매망을 확대할 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

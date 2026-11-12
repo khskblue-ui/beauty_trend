@@ -1,0 +1,84 @@
+{
+ "doc_id": "45b76f9aaf896c1d",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100454",
+ "title": "퀵 뷰티 브랜드 센슬(SENSEL), '무신사 뷰티 성수' 입점",
+ "summary": "바쁜 사람들을 위한 '퀵 뷰티'를 지향하는 라이프스타일 뷰티 브랜드 센슬(SENSEL)이 11일 서울 성동구 성수동에 문을 연 '무신사 뷰티 성수'에 입점하며 오프라인 유통 채널 확장에 나선다.'무신사 뷰티 성수'는 지난 9월 오픈한 '무신사 뷰티 홍대'에 이은 무신사 뷰티의 두 번째 단독 매장이다. 연무장길에 지상 1~2층 규모로 들어선 매장에는 스킨케어와 메이크업, 프래그런스, 헤어·바디케어 등 약 700개 브랜드, 1만여 개 상품이 모였다. 약사의 전문 상담을 받을 수",
+ "published_at": "2026-11-12T09:34:46+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센슬"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "퀵 뷰티",
+   "오프라인 유통",
+   "크림 퍼퓸",
+   "스틱 블러셔"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "타임 블러쉬(TIME BLUSH)",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "센슬은 지난 9월 홍대점 입점에 이어 이번 성수점까지 연이어 입점하면서, 시간대별 무드를 담은 스틱 블러셔 '타임 블러쉬(TIME BLUSH)' 3종과 F/W 신규 컬러를 포함한 '퀵 틴트(Quick Tint)' 9종, '퀵 부스트 핑크윙(퍼글러 에디션)', '뮤트 크림 퍼퓸(Mute Cream Perfume)' 4종을 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퀵 틴트(Quick Tint)",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "센슬은 지난 9월 홍대점 입점에 이어 이번 성수점까지 연이어 입점하면서, 시간대별 무드를 담은 스틱 블러셔 '타임 블러쉬(TIME BLUSH)' 3종과 F/W 신규 컬러를 포함한 '퀵 틴트(Quick Tint)' 9종, '퀵 부스트 핑크윙(퍼글러 에디션)', '뮤트 크림 퍼퓸(Mute Cream Perfume)' 4종을 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퀵 부스트 핑크윙(퍼글러 에디션)",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "센슬은 지난 9월 홍대점 입점에 이어 이번 성수점까지 연이어 입점하면서, 시간대별 무드를 담은 스틱 블러셔 '타임 블러쉬(TIME BLUSH)' 3종과 F/W 신규 컬러를 포함한 '퀵 틴트(Quick Tint)' 9종, '퀵 부스트 핑크윙(퍼글러 에디션)', '뮤트 크림 퍼퓸(Mute Cream Perfume)' 4종을 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "뮤트 크림 퍼퓸(Mute Cream Perfume)",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "센슬은 지난 9월 홍대점 입점에 이어 이번 성수점까지 연이어 입점하면서, 시간대별 무드를 담은 스틱 블러셔 '타임 블러쉬(TIME BLUSH)' 3종과 F/W 신규 컬러를 포함한 '퀵 틴트(Quick Tint)' 9종, '퀵 부스트 핑크윙(퍼글러 에디션)', '뮤트 크림 퍼퓸(Mute Cream Perfume)' 4종을 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "센슬이 무신사 뷰티 성수에 입점하며 오프라인 유통 채널을 넓힌다.",
+  "key_fact_quote": "바쁜 사람들을 위한 '퀵 뷰티'를 지향하는 라이프스타일 뷰티 브랜드 센슬(SENSEL)이 11일 서울 성동구 성수동에 문을 연 '무신사 뷰티 성수'에 입점하며 오프라인 유통 채널 확장에 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

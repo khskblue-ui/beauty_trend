@@ -1,0 +1,47 @@
+{
+ "doc_id": "6018fb86744c87c2",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/colgate-palmolive-fined-930-000-chemical-reporting",
+ "title": "Colgate-Palmolive fined $930,000 by US authorities over ‘violations’ of chemical reporting",
+ "summary": "Colgate-Palmolive, the owner of Sanex, failed to report numerous chemical substances imported between 2016 and 2019, and has reached a settlement with the US Environmental Protection Agency over violations of its chemical reporting",
+ "published_at": "2026-11-12T20:20:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Sanex"
+  ],
+  "companies": [
+   "Colgate-Palmolive",
+   "US Environmental Protection Agency"
+  ],
+  "keywords": [
+   "화학물질 보고",
+   "규제 위반",
+   "과징금"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "콜게이트팜올리브가 화학물질 보고 위반으로 미국 환경보호청과 합의했다.",
+  "key_fact_quote": "has reached a settlement with the US Environmental Protection Agency over violations of its chemical reporting",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:41+00:00",
+ "had_body": false
+}

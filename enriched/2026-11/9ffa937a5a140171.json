@@ -1,0 +1,79 @@
+{
+ "doc_id": "9ffa937a5a140171",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53945",
+ "title": "‘머리 말리기 싫어’족 겨냥 샴푸 나왔다",
+ "summary": "샴푸만 바꿔도 머리 말리는 시간이 줄어들 수 있을까. 홍합의 접착 원리에서 출발한 폴리페놀 기술이 이번에는 모발 건조 시간을 단축하는 데 적용됐다. KAIST 교원 창업기업 폴리페놀팩토리(대표 이해신)가 모발의 건조 속도를 개선하는 ‘그래비티 퀵 드라이 샴푸’를 출시했다. 이 제품은 폴리페놀 기반…",
+ "published_at": "2026-11-12T17:05:36+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "그래비티"
+  ],
+  "companies": [
+   "폴리페놀팩토리",
+   "KAIST",
+   "피엔케이피부임상연구센타",
+   "올리브영",
+   "맨덤"
+  ],
+  "keywords": [
+   "퀵 드라이 샴푸",
+   "드라이어 캔슬",
+   "폴리페놀 소재",
+   "모발 볼륨 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "그래비티 퀵 드라이 샴푸",
+    "brand": "그래비티",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "KAIST 교원 창업기업 폴리페놀팩토리(대표 이해신)가 모발의 건조 속도를 개선하는 ‘그래비티 퀵 드라이 샴푸’를 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "폴리페놀팩토리가 모발 건조 속도를 높이는 그래비티 퀵 드라이 샴푸를 출시했다.",
+  "key_fact_quote": "KAIST 교원 창업기업 폴리페놀팩토리(대표 이해신)가 모발의 건조 속도를 개선하는 ‘그래비티 퀵 드라이 샴푸’를 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "DryMax 609™",
+    "quote": "이 제품은 폴리페놀 기반 소재 기술인 ‘DryMax 609™’를 적용했다."
+   },
+   {
+    "name": "LiftMax 308™",
+    "quote": "‘LiftMax 308™’에 이어 PDRN 복합체, 이번 ‘DryMax 609™’까지 연구 성과를 제품으로 연결하고 있다."
+   },
+   {
+    "name": "PDRN 복합체",
+    "quote": "‘LiftMax 308™’에 이어 PDRN 복합체, 이번 ‘DryMax 609™’까지 연구 성과를 제품으로 연결하고 있다."
+   },
+   {
+    "name": "폴리페놀",
+    "quote": "제품에 적용된 폴리페놀 소재는 모발 표면에 얇은 막을 형성하도록 돕고, 표면에 퍼져 있던 물기를 작은 물방울 형태로 뭉치게 한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

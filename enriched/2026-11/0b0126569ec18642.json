@@ -1,0 +1,46 @@
+{
+ "doc_id": "0b0126569ec18642",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=366055",
+ "title": "더 바빠진 K뷰티 ODM 3분기도 질주",
+ "summary": "상하이 법인은 색조 브랜드 주문과 기초 화장품 신제품 이 성장을 이끌었고, 광저우 법인은 선케어와 키즈·베이비 스킨케어로 고객사를 넓혔다. 미국 법인 매출은 695억원으로 88% 증가했고, 인도네시아(288억원, 34...",
+ "published_at": "2026-11-12T10:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN",
+   "US",
+   "ID"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 ODM",
+   "해외 법인 성장",
+   "선케어",
+   "키즈 스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "ODM 업체의 상하이 법인은 색조 주문과 기초 화장품 신제품이 성장을 이끌었다.",
+  "key_fact_quote": "상하이 법인은 색조 브랜드 주문과 기초 화장품 신제품 이 성장을 이끌었고, 광저우 법인은 선케어와 키즈·베이비 스킨케어로 고객사를 넓혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

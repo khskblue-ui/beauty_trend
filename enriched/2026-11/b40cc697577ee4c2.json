@@ -1,0 +1,47 @@
+{
+ "doc_id": "b40cc697577ee4c2",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58719",
+ "title": "퍼펙트·이베이재팬, 큐텐재팬에 AI·AR 개인화 뷰티 쇼핑 도입",
+ "summary": "[코스인코리아닷컴 김민석 기자]퍼펙트 코퍼레이션(Perfect Corp.)이 이베이재팬과 협업해 일본 온라인 오픈마켓 큐텐재팬(Qoo10.jp)에 AR 컬러렌즈 가상 착용과 AI 피부 분석 서비스를 도입했다. 이베이재팬의 제품 소싱 역량에 퍼펙트의 AI·AR 기술을 결합해, 소비자가 자신에게 어울리는 제…",
+ "published_at": "2026-11-12T16:47:51+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "퍼펙트 코퍼레이션",
+   "이베이재팬",
+   "큐텐재팬"
+  ],
+  "keywords": [
+   "뷰티테크",
+   "AI 피부 분석",
+   "AR 가상 착용",
+   "개인화 쇼핑"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "퍼펙트 코퍼레이션이 이베이재팬과 함께 큐텐재팬에 AR 컬러렌즈 가상 착용과 AI 피부 분석 서비스를 도입했다.",
+  "key_fact_quote": "퍼펙트 코퍼레이션(Perfect Corp.)이 이베이재팬과 협업해 일본 온라인 오픈마켓 큐텐재팬(Qoo10.jp)에 AR 컬러렌즈 가상 착용과 AI 피부 분석 서비스를 도입했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "29c676cd9c8e3d8f",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53946",
+ "title": "코스메카, 자생 생물자원 소재화 시동",
+ "summary": "글로벌 화장품 OGM(글로벌 규격 생산) 전문기업 코스메카코리아(대표이사 조임래·박은희)가 국립생물자원관과 손잡고 국내 자생 생물자원을 활용한 친환경 화장품 독자 소재 개발에 나선다. 코스메카코리아는 지난 11일 기후에너지환경부 소속 국립생물자원관과 ‘자생 생물자원의 산업 활용과 친환경…",
+ "published_at": "2026-11-12T20:42:38+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스메카코리아",
+   "국립생물자원관"
+  ],
+  "keywords": [
+   "자생 생물자원",
+   "친환경 화장품 소재",
+   "원료 국산화",
+   "바이오 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스메카코리아가 국립생물자원관과 자생 생물자원 기반 친환경 화장품 소재 개발 협약을 맺었다.",
+  "key_fact_quote": "코스메카코리아는 지난 11일 기후에너지환경부 소속 국립생물자원관 과 ‘자생 생물자원의 산업 활용과 친환경 화장품 소재 개발을 위한 업무협약’ 을 체결했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:41+00:00",
+ "had_body": true
+}

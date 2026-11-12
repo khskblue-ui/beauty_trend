@@ -1,0 +1,56 @@
+{
+ "doc_id": "a5bc321453672ec8",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/color-cosmetics/belgian-beauty-house-very-edie-launch-1239410392/",
+ "title": "EXCLUSIVE: Belgian Beauty House Very Edie Is Born",
+ "summary": "It launches with a first drop of lipsticks that come in sculptural, swirling, wearable packaging.",
+ "published_at": "2026-11-12T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "BE"
+  ],
+  "brands": [
+   "Very Edie"
+  ],
+  "companies": [
+   "Very Edie"
+  ],
+  "keywords": [
+   "신규 뷰티 브랜드",
+   "립스틱",
+   "조형적 패키지"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "lipsticks",
+    "brand": "Very Edie",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "It launches with a first drop of lipsticks that come in sculptural, swirling, wearable packaging.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "벨기에 뷰티 브랜드 Very Edie가 첫 제품으로 립스틱을 내놓았다.",
+  "key_fact_quote": "It launches with a first drop of lipsticks that come in sculptural, swirling, wearable packaging.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

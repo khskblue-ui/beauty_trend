@@ -1,0 +1,58 @@
+{
+ "doc_id": "23b8d6dc598b711d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.mtn.co.kr/article/2026111214205725107",
+ "title": "\"매년 연차 내고 와요\" 아침부터 밤까지 컬리가 짠 '뷰티 시간표' [MTN픽...",
+ "summary": "모닝 존에서는 클렌저와 저자극·더마 스킨케어 제품을 선보이고, 데이 존은 선케어와 색조 화장품 으로... 컬리와 LG생활건강이 기획 단계부터 협업한 자스민향 치약을 비롯해, 최근 출시 한 컬리의 자체브랜드(PB)...",
+ "published_at": "2026-11-13T06:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "컬리",
+   "LG생활건강"
+  ],
+  "keywords": [
+   "뷰티 행사",
+   "자체브랜드",
+   "더마 스킨케어",
+   "협업 상품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "자스민향 치약",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "자스민"
+    ],
+    "notes_quote": "컬리와 LG생활건강이 기획 단계부터 협업한 자스민향 치약을 비롯해, 최근 출시 한 컬리의 자체브랜드(PB)..."
+   }
+  ],
+  "key_fact": "컬리가 시간대별로 구성한 뷰티 행사에서 LG생활건강과 협업한 자스민향 치약 등을 선보였다.",
+  "key_fact_quote": "컬리와 LG생활건강이 기획 단계부터 협업한 자스민향 치약을 비롯해, 최근 출시 한 컬리의 자체브랜드(PB)...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:41+00:00",
+ "had_body": false
+}

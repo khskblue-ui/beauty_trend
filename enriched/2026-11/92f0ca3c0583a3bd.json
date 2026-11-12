@@ -1,0 +1,46 @@
+{
+ "doc_id": "92f0ca3c0583a3bd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.venturesquare.net/1128139/",
+ "title": "센슬, 무신사 뷰티 홍대 이어 성수점 입점…‘퀵 뷰티’ 오프라인 유통...",
+ "summary": "색조 화장품은 화면에서 보이는 색상과 실제 발색에 차이가 있을 수 있고, 향수 는 직접 향을 맡아봐야 취향에 맞는지 판단할 수 있다. 짧은 시간에 메이크업과 스타일을 완성하는 ‘퀵 뷰티’를 내세운 브랜드 라면...",
+ "published_at": "2026-11-12T22:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센슬"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "퀵 뷰티",
+   "오프라인 매장",
+   "색조 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "센슬이 무신사 뷰티 홍대점에 이어 성수점에 입점했다.",
+  "key_fact_quote": "센슬, 무신사 뷰티 홍대 이어 성수점 입점…‘퀵 뷰티’ 오프라인 유통...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:41+00:00",
+ "had_body": false
+}

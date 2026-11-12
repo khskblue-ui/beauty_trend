@@ -1,0 +1,46 @@
+{
+ "doc_id": "0cb0a51b9e3c0f63",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/bio/pharmaceutical-bio/6352243",
+ "title": "휴메딕스, 亞최대 화장품 박람회서 '엘라비에 코스메틱' 알린다",
+ "summary": "이른바 ' K -더마' 경쟁력을 앞세워 해외 바이어들과 접점을 넓혔다. 특히 동남아시아와 중동 등 신흥 뷰티 시장 바이어들과 만나 제품 경쟁력을 소개하고 수출 가능성을 논의했다. 중국에 집중됐던 해외 유통망을 다른...",
+ "published_at": "2026-11-12T16:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "엘라비에 코스메틱"
+  ],
+  "companies": [
+   "휴메딕스"
+  ],
+  "keywords": [
+   "K더마",
+   "신흥 시장",
+   "뷰티 박람회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "휴메딕스가 동남아시아와 중동 바이어들과 만나 수출 가능성을 논의했다.",
+  "key_fact_quote": "특히 동남아시아와 중동 등 신흥 뷰티 시장 바이어들과 만나 제품 경쟁력을 소개하고 수출 가능성을 논의했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

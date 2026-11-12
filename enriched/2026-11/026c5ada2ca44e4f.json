@@ -1,0 +1,51 @@
+{
+ "doc_id": "026c5ada2ca44e4f",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/rina-lipa-first-beauty-campaign-gcds-morso-fragrance-calza-1239408394/",
+ "title": "EXCLUSIVE: Rina Lipa Lands First Beauty Campaign as Face of GCDS Morso Fragrance",
+ "summary": "Lipa and the brand’s founder Giuliano Calza talked with WWD about how the collaboration came up, their favorite moments from the set and mutual interests, spanning from Britney Spears to “La La Land.”",
+ "published_at": "2026-11-12T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [],
+  "brands": [
+   "GCDS"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 캠페인",
+   "셀럽 모델"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Morso",
+    "brand": "GCDS",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "리나 리파가 GCDS 향수 Morso의 첫 뷰티 캠페인 얼굴이 됐다.",
+  "key_fact_quote": "EXCLUSIVE: Rina Lipa Lands First Beauty Campaign as Face of GCDS Morso Fragrance",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

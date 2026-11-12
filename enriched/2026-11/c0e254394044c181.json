@@ -1,0 +1,53 @@
+{
+ "doc_id": "c0e254394044c181",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=228956",
+ "title": "[인터뷰] \"약사가 만든 '알엑스미', 피부과 시술의 효과를 화장품 으로 ...",
+ "summary": "콜라겐 생성 유도 성분 'PDLLA' 화장품 최초 적용 일본·홍콩 등 해외 유통 확대…내년 3배 성장 목표 팜에이스... 신제품 역시 성분을 먼저 정하기보다 소비자의 피부 고민을 출발점으로 기획하고 있다. 특정 성분을...",
+ "published_at": "2026-11-12T22:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "ingredient",
+  "countries": [
+   "KR",
+   "JP",
+   "HK"
+  ],
+  "brands": [
+   "알엑스미"
+  ],
+  "companies": [
+   "팜에이스"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "콜라겐 부스팅",
+   "약사 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "알엑스미가 콜라겐 생성 유도 성분 PDLLA를 화장품에 처음 적용했다.",
+  "key_fact_quote": "콜라겐 생성 유도 성분 'PDLLA' 화장품 최초 적용",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDLLA",
+    "quote": "콜라겐 생성 유도 성분 'PDLLA' 화장품 최초 적용"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:41+00:00",
+ "had_body": false
+}

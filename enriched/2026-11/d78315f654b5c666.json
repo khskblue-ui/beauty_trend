@@ -1,0 +1,45 @@
+{
+ "doc_id": "d78315f654b5c666",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ekn.kr/web/view.php?key=20261112025388845",
+ "title": "K뷰티 ODM사 성적표 ‘희비’…역대급 호황 속 ‘실적 격차’ 이유는?",
+ "summary": "K뷰티 수출 호황에 힘입어 국내 화장품 제조업자개발생산(ODM) 업계가 성장세를 이어가고 있지만 기업별 실적에는 희비가 엇갈리고 있다. 업계 양강인 코스맥스와 한국콜마는 나란히 역대 최대 수준의 3분기 매출을...",
+ "published_at": "2026-11-12T17:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "한국콜마"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "실적 양극화",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스와 한국콜마가 나란히 역대 최대 수준의 분기 매출을 올리는 등 ODM 업계 실적이 엇갈렸다.",
+  "key_fact_quote": "업계 양강인 코스맥스와 한국콜마는 나란히 역대 최대 수준의 3분기 매출을",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

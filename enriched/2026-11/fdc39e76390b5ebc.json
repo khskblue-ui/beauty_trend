@@ -1,0 +1,48 @@
+{
+ "doc_id": "fdc39e76390b5ebc",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/stress-resilient-skin",
+ "title": "Stress-resilient skin",
+ "summary": "Derived from the resilient plant Waltheria indica, PhytoCellTec™ Aloha is based on stem cell technology to protect the skin from the visible impact of psychological stress",
+ "published_at": "2026-11-12T18:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "식물 줄기세포",
+   "스트레스 피부 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "Waltheria indica 줄기세포 기술로 만든 PhytoCellTec Aloha가 심리적 스트레스로 인한 피부 변화를 막는 원료로 소개됐다.",
+  "key_fact_quote": "Derived from the resilient plant Waltheria indica, PhytoCellTec™ Aloha is based on stem cell technology to protect the skin from the visible impact of psychological stress",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Waltheria indica",
+    "quote": "Derived from the resilient plant Waltheria indica, PhytoCellTec™ Aloha is based on stem cell technology to protect the skin from the visible impact of psychological stress"
+   },
+   {
+    "name": "PhytoCellTec™ Aloha",
+    "quote": "Derived from the resilient plant Waltheria indica, PhytoCellTec™ Aloha is based on stem cell technology to protect the skin from the visible impact of psychological stress"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

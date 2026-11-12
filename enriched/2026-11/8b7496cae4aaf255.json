@@ -1,0 +1,46 @@
+{
+ "doc_id": "8b7496cae4aaf255",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sentv.co.kr/article/view/sentv202611120129",
+ "title": "바노바기, ‘무신사 뷰티 성수’ 공식 입점… 오프라인 유통 확장",
+ "summary": "검증된 브랜드 경쟁력을 체험형 오프라인 거점으로 본격 확산한다는 전략이다. 이번에 문을 연 ‘무신사... 스킨케어와 메이크업, 향수 등 다채로운 뷰티 카테고리를 한곳에서 비교·체험할 수 있는 트렌드 공간으로...",
+ "published_at": "2026-11-12T14:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "바노바기"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 유통",
+   "체험형 매장",
+   "뷰티 편집숍"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "바노바기가 무신사 뷰티 성수에 입점해 오프라인 유통을 넓힌다.",
+  "key_fact_quote": "바노바기, ‘무신사 뷰티 성수’ 공식 입점… 오프라인 유통 확장",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

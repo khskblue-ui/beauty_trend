@@ -1,0 +1,45 @@
+{
+ "doc_id": "7d6f44817e05dca8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.tjb.co.kr/news05/bodo/view/id/106031",
+ "title": "[기획①]\"김·화장품에 첨단기술까지\"…베트남서 터진 K -제품 인기",
+ "summary": "충청남도와 TJB, 충남경제진흥원이 베트남 호치민과 하노이에서 마련한 수출 상담회에서 K - 뷰티 와 식품, 산업재 등 지역 기업들의 제품이 현지 바이어들의 큰 관심을 끌었는데요. 전유진 기자가 베트남 현지에서...",
+ "published_at": "2026-11-12T20:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN"
+  ],
+  "brands": [],
+  "companies": [
+   "충남경제진흥원",
+   "TJB"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "수출 상담회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "충청남도 등이 베트남에서 연 수출 상담회에서 K-뷰티 제품이 현지 바이어의 관심을 끌었다.",
+  "key_fact_quote": "충청남도와 TJB, 충남경제진흥원이 베트남 호치민과 하노이에서 마련한 수출 상담회에서 K - 뷰티 와 식품, 산업재 등 지역 기업들의 제품이 현지 바이어들의 큰 관심을 끌었는데요.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:41+00:00",
+ "had_body": false
+}

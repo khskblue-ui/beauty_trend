@@ -1,0 +1,42 @@
+{
+ "doc_id": "28cb548a56a1f12b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2491679",
+ "title": "날개 단 뷰티 ODM '투톱' 초고속 성장···'쌍끌이' 성장에 판 더 커진다",
+ "summary": "특히 화장품 시장은 신제품 출시 주기가 짧고 소비자 취향 변화가 빠른 만큼 고객사가 원하는 제품을 적기에 공급할 수 있는 생산체계가 핵심 경쟁력으로 꼽힌다. 생산능력 확대와 함께 제조공정의 효율성을 높일 경우...",
+ "published_at": "2026-11-12T14:57:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 ODM",
+   "생산능력",
+   "제조 효율화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 시장에서는 고객사가 원하는 제품을 적기에 공급하는 생산체계가 핵심 경쟁력으로 꼽힌다.",
+  "key_fact_quote": "특히 화장품 시장은 신제품 출시 주기가 짧고 소비자 취향 변화가 빠른 만큼 고객사가 원하는 제품을 적기에 공급할 수 있는 생산체계가 핵심 경쟁력으로 꼽힌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

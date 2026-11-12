@@ -1,0 +1,60 @@
+{
+ "doc_id": "3123eda98548a4de",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611120951440170719",
+ "title": "[뷰티톡톡] 컬리ㆍ에이피알ㆍ시그닉ㆍ코스메카코리아ㆍ스킨1004ㆍ그래비...",
+ "summary": "2022년 3월 출시 한 이 앱은 2023년 10월 ‘부스터 프로’부터 블루투스 연동을 적용해 사용 이력 확인, 단계... ▲코스메카코리아, 국립생물자원관과 자생 생물자원 화장품 소재 공동 개발 코스메카코리아가...",
+ "published_at": "2026-11-12T11:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "시그닉",
+   "스킨1004"
+  ],
+  "companies": [
+   "컬리",
+   "에이피알",
+   "코스메카코리아",
+   "국립생물자원관"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "자생 생물자원",
+   "화장품 소재"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "부스터 프로",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코스메카코리아가 국립생물자원관과 자생 생물자원 화장품 소재를 함께 개발한다.",
+  "key_fact_quote": "코스메카코리아, 국립생물자원관과 자생 생물자원 화장품 소재 공동 개발",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

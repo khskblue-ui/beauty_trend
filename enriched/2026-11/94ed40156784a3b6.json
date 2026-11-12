@@ -1,0 +1,59 @@
+{
+ "doc_id": "94ed40156784a3b6",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/world-s-first-recombinant-pdrn-powers-award-winning-skincare",
+ "title": "World’s first recombinant PDRN powers award-winning skincare innovation",
+ "summary": "Uniproma’s PDRN Soothing Repair Cream earns recognition in the Technology & Disruption category at the 2026 Laura Marshall Awards",
+ "published_at": "2026-11-12T21:11:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [
+   "Uniproma"
+  ],
+  "companies": [
+   "Uniproma"
+  ],
+  "keywords": [
+   "재조합 PDRN",
+   "스킨케어 원료",
+   "뷰티 어워드"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "PDRN Soothing Repair Cream",
+    "brand": "Uniproma",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Uniproma의 재조합 PDRN 크림이 로라 마셜 어워드 기술 부문에서 인정을 받았다.",
+  "key_fact_quote": "Uniproma’s PDRN Soothing Repair Cream earns recognition in the Technology & Disruption category at the 2026 Laura Marshall Awards",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "recombinant PDRN",
+    "quote": "World’s first recombinant PDRN powers award-winning skincare innovation"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:41+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "7d757d544b0233bf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://dealsite.co.kr/articles/172689",
+ "title": "컬리, 뷰티사업 확장 잰걸음…사업 다변화 '분수령'",
+ "summary": "출범 초기에는 신선식품과 달리 화장품 까지 새벽배송으로 구매할 필요가 있느냐는 의문이 제기되는 등 시장의 우려도 적지 않았다. 그러나 뷰티컬리는 출시 1년여 만에 거래액 3000억원을 넘어서며 컬리의 새로운...",
+ "published_at": "2026-11-12T18:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "뷰티컬리"
+  ],
+  "companies": [
+   "컬리"
+  ],
+  "keywords": [
+   "뷰티 버티컬 플랫폼",
+   "새벽배송"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "컬리가 뷰티컬리를 앞세워 뷰티 사업을 넓히고 있다.",
+  "key_fact_quote": "그러나 뷰티컬리는 출시 1년여 만에 거래액 3000억원을 넘어서며 컬리의 새로운",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "775fc8b5a7bb4985",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=20261112153056414346a9e4dd7f_30",
+ "title": "모델로, 무신사 뷰티 성수 입점 '선케어 제품 4종' 선봬",
+ "summary": "지상 1~2층에 걸쳐 스킨케어와 메이크업, 향수 , 헤어·바디케어 등 다양한 뷰티 브랜드 와 제품을 선보인다. 모델로 관계자는 “무신사 메가스토어 성수점과 무신사 뷰티 홍대에 이어 무신사 뷰티 성수까지 입점하게 돼...",
+ "published_at": "2026-11-12T15:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "모델로"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "선케어",
+   "오프라인 뷰티 편집숍"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "모델로가 무신사 뷰티 성수에 입점해 선케어 제품을 선보였다.",
+  "key_fact_quote": "모델로, 무신사 뷰티 성수 입점 '선케어 제품 4종' 선봬",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

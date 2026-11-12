@@ -1,0 +1,46 @@
+{
+ "doc_id": "163da954c417a1fb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsprime.co.kr/news/article.html?no=754734",
+ "title": "[현장] 아침 세안부터 밤 피부관리까지…컬리가 펼친 ' 뷰티 의 하루'",
+ "summary": "컬리가 선별한 45개 브랜드 가 참여해 일상 속 시간대에 맞춘 뷰티 제품과 관리 방법을 소개한다. 올해는 입장... 지난 9월 뷰티 컬리에서 단독 론칭 한 듀에라의 제품으로, 크림의 제형과 제품 특징을 살펴볼 수 있도록...",
+ "published_at": "2026-11-12T14:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "듀에라"
+  ],
+  "companies": [
+   "컬리"
+  ],
+  "keywords": [
+   "뷰티 페스타",
+   "체험형 행사",
+   "뷰티 큐레이션"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "컬리가 선별한 브랜드가 참여해 시간대별 뷰티 제품과 관리 방법을 소개하는 행사를 열었다.",
+  "key_fact_quote": "컬리가 선별한 45개 브랜드 가 참여해 일상 속 시간대에 맞춘 뷰티 제품과 관리 방법을 소개한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

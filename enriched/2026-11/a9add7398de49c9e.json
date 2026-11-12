@@ -1,0 +1,49 @@
+{
+ "doc_id": "a9add7398de49c9e",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58717",
+ "title": "'K컬처' 날개 단 K뷰티…콘텐츠 흥행 '골든타임 3개월'을 잡아라",
+ "summary": "[코스인코리아닷컴 김세화 기자]K컬처의 글로벌 흥행이 한국 화장품 수출을 견인하는 주요 동력이 되고 있다. 특히 화장품은 콘텐츠 인기가 높아진 직후부터 수출 증가 효과가 나타나는 대표적인 품목으로, 흥행 초기의 소비자 관심을 실제 구매로 연결하는 신속한 마케팅 전략이 중요하다는 분석이다. 여…",
+ "published_at": "2026-11-12T11:57:55+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "DE",
+   "MX",
+   "JP",
+   "VN"
+  ],
+  "brands": [],
+  "companies": [
+   "한국무역협회"
+  ],
+  "keywords": [
+   "K컬처",
+   "K뷰티 수출",
+   "인바운드 관광 소비",
+   "재구매 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품은 K콘텐츠 인기에 가장 민감하게 반응하는 수출 품목으로 나타났다.",
+  "key_fact_quote": "분석 결과, 화장품은 K콘텐츠 인기에 가장 민감하게 반응하는 핵심 품목으로 나타났다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

@@ -1,0 +1,49 @@
+{
+ "doc_id": "21e99ca1807e3945",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sports.khan.co.kr/article/202611122225003?pt=nv",
+ "title": "몽클로스, ‘무신사 뷰티 성수’ 입점",
+ "summary": "무신사 뷰티 성수는 무신사가 홍대에 이어 두 번째로 선보이는 뷰티 전문 단독 매장으로, 약 400평 규모의 공간에 700여 개 브랜드 의 상품 1만여 개를 선보인다. 스킨케어와 메이크업, 향수 부터 헤어·바디케어까지 다양한...",
+ "published_at": "2026-11-12T22:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "몽클로스",
+   "시에라디자인"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "뷰티 편집숍",
+   "팝업스토어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "7157996168732a4c",
+ "enriched_at": "2026-11-12T21:31:03+00:00",
+ "had_body": false
+}

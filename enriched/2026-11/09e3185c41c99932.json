@@ -1,0 +1,64 @@
+{
+ "doc_id": "09e3185c41c99932",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=203613",
+ "title": "유통망 확대 이어 ODM 경쟁력까지 구축... K뷰티 해외 공략 다변화",
+ "summary": "화장품 전문제조사인 이미인은 지난 10일부터 12일까지 홍콩 아시아월드엑스포에서 열린 '코스모팩 아시아 2026'에 참가해 2027년 봄·여름 시즌을 겨냥한 마스크·패치 신제품 17종을 공개했다. 이번 전시에서는 피부...",
+ "published_at": "2026-11-12T17:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [
+   "이미인"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "마스크팩",
+   "패치",
+   "해외 전시회"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "마스크·패치 신제품",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "화장품 전문제조사인 이미인은 지난 10일부터 12일까지 홍콩 아시아월드엑스포에서 열린 '코스모팩 아시아 2026'에 참가해 2027년 봄·여름 시즌을 겨냥한 마스크·패치 신제품 17종을 공개했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이미인이 코스모팩 아시아에서 내년 봄여름 시즌용 마스크와 패치 신제품을 공개했다.",
+  "key_fact_quote": "화장품 전문제조사인 이미인은 지난 10일부터 12일까지 홍콩 아시아월드엑스포에서 열린 '코스모팩 아시아 2026'에 참가해 2027년 봄·여름 시즌을 겨냥한 마스크·패치 신제품 17종을 공개했다.",
+  "events": [
+   {
+    "name": "코스모팩 아시아 2026",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-12",
+    "place": "홍콩 아시아월드엑스포",
+    "quote": "화장품 전문제조사인 이미인은 지난 10일부터 12일까지 홍콩 아시아월드엑스포에서 열린 '코스모팩 아시아 2026'에 참가해 2027년 봄·여름 시즌을 겨냥한 마스크·패치 신제품 17종을 공개했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

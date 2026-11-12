@@ -1,0 +1,49 @@
+{
+ "doc_id": "79b51d6f539fab4b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.getnews.co.kr/news/articleView.html?idxno=886992",
+ "title": "[제약 뷰티 ]﻿한미사이언스 ADESII, 무신사·29CM 입점 外 일동제약·유유...",
+ "summary": "지난 5월 론칭 한 ADESII는 선진기술(Advanced), 피부과학(Derma), 효능 임상(Science)을 핵심 가치로 삼고, 독자 원료... 패션과 뷰티 , 라이프스타일에 관심이 높은 소비자들에게 브랜드 와 제품을 알릴 수 있는 기반을 마련하게...",
+ "published_at": "2026-11-12T17:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "ADESII"
+  ],
+  "companies": [
+   "한미사이언스",
+   "무신사",
+   "29CM",
+   "일동제약"
+  ],
+  "keywords": [
+   "제약사 화장품",
+   "더마 코스메틱",
+   "온라인 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한미사이언스의 화장품 브랜드 ADESII가 무신사와 29CM에 입점했다.",
+  "key_fact_quote": "[제약 뷰티 ]﻿한미사이언스 ADESII, 무신사·29CM 입점",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

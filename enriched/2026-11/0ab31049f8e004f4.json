@@ -1,0 +1,80 @@
+{
+ "doc_id": "0ab31049f8e004f4",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53939",
+ "title": "BTS 정국이 샤넬에 빠진 날",
+ "summary": "방탄소년단 정국이 샤넬 향수 화보를 공개했다. 샤넬 향수 화보는 7월 프랑스 파리에서 촬영했다. 정국은 강렬한 에너지를 발산하는 모습부터 꾸밈없이 자연스러운 이미지까지 다양하게 연출했다. 이번 화보에서는 정국이 즐겨 사용하는 ‘N°5 로(L’EAU)’를 소개했다. ‘블루 드 샤넬 빠르펭(BLEU DE…",
+ "published_at": "2026-11-12T11:48:31+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "샤넬"
+  ],
+  "companies": [],
+  "keywords": [
+   "셀럽 향수 화보",
+   "우디 향수",
+   "머스크 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "N°5 로(L’EAU)",
+    "brand": "샤넬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "시트러스",
+     "플로럴"
+    ],
+    "notes_quote": "밝고 신선한 시트러스 노트와 섬세한 플로럴 향이 조화를 이룬다."
+   },
+   {
+    "name": "블루 드 샤넬 빠르펭",
+    "brand": "샤넬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "우디"
+    ],
+    "notes_quote": "깊고 풍부한 우디 향이 무대 위에서 독보적인 존재감을 드러내는 정국의 모습과 어우러진다."
+   },
+   {
+    "name": "레 젝스클루시프 드 샤넬 1957",
+    "brand": "샤넬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "화이트 머스크"
+    ],
+    "notes_quote": "‘레 젝스클루시프 드 샤넬 1957’은 섬세하고 포근한 화이트 머스크이 특징이다."
+   }
+  ],
+  "key_fact": "방탄소년단 정국이 샤넬 향수 화보를 공개했다.",
+  "key_fact_quote": "방탄소년단 정국이 샤넬 향수 화보를 공개했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

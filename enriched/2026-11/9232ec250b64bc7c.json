@@ -1,0 +1,46 @@
+{
+ "doc_id": "9232ec250b64bc7c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323494",
+ "title": "쿠팡, K뷰티 넘어 생활용품까지…중소기업 대만 거래액 81% 증가",
+ "summary": "K뷰티 를 중심으로 시작된 국내 중소기업의 대만 수출 품목이 생활용품과 모바일 액세서리 등으로 확대되면서 해외 판로 다변화에도 속도가 붙고 있다. 쿠팡은 해외 진출 지원사업에 참여한 국내 중소상공인들의 2025년...",
+ "published_at": "2026-11-12T11:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "TW"
+  ],
+  "brands": [],
+  "companies": [
+   "쿠팡"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "해외 진출 지원",
+   "이커머스 물류"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "8cca32aaf42ed77f",
+ "enriched_at": "2026-11-12T21:31:03+00:00",
+ "had_body": false
+}

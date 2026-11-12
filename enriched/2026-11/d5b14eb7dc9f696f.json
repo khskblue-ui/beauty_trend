@@ -1,0 +1,43 @@
+{
+ "doc_id": "d5b14eb7dc9f696f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.k-health.com/news/articleView.html?idxno=102170",
+ "title": "'코스모프로프 아시아 2026' 개막…K-뷰티 252개사 역대 '최다'",
+ "summary": "니치 향수 전시회 에센스와 협업한 '익스플로러스 바이 에센스'도 운영한다. 주최 측은 올해 캠페인 'WANTED'에서 '규칙 파괴자', '혁신가', '향수 애호가'를 업계 미래를 이끌 세 부류로 제시했다. 10~11일 열린 '뷰티 원료...",
+ "published_at": "2026-11-12T15:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "HK",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "향수 애호가",
+   "K-뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스모프로프 아시아에서 니치 향수 전시회 에센스와 협업한 익스플로러스 바이 에센스가 운영된다.",
+  "key_fact_quote": "니치 향수 전시회 에센스와 협업한 '익스플로러스 바이 에센스'도 운영한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "e699e464c1c31e87",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=768167",
+ "title": "[ K - 뷰티 신화를 쓰다④] 중소 브랜드 발굴부터 글로벌 진출까지…CJ올리...",
+ "summary": "K - 뷰티 의 수출 지형 변화와 성장 동력, 기업들의 글로벌 전략을 분석하고 지속 가능한 성장을 위한 과제를 짚어본다.[편집자주] K - 뷰티 가 세계 시장에서 존재감을 키우는 데는 CJ올리브영(대표 이선정)의 역할이...",
+ "published_at": "2026-11-13T06:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "중소 브랜드 육성",
+   "글로벌 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티가 세계 시장에서 존재감을 키우는 데 CJ올리브영이 역할을 했다.",
+  "key_fact_quote": "K - 뷰티 가 세계 시장에서 존재감을 키우는 데는 CJ올리브영(대표 이선정)의 역할이...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:41+00:00",
+ "had_body": false
+}

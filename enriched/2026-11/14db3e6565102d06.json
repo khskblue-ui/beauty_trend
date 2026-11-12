@@ -1,0 +1,54 @@
+{
+ "doc_id": "14db3e6565102d06",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53938",
+ "title": "LG생활건강, 청년 97명과 기후행동 성과 공유",
+ "summary": "LG생활건강이 유엔환경계획(UNEP)·환경단체 에코나우와 함께 지난 7일 서울 강남구 디캠프 선릉에서 ‘2026 그린밸류 YOUTH 성과공유회’를 열고 청년 기후환경활동가들의 프로젝트 성과를 공유했다. ‘그린밸류 YOUTH’는 청년들이 일상과 지역사회에서 환경 문제를 발굴하고 해결 방안을 모색…",
+ "published_at": "2026-11-12T11:09:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "LG생활건강",
+   "유엔환경계획(UNEP)",
+   "에코나우"
+  ],
+  "keywords": [
+   "ESG 경영",
+   "자원순환",
+   "플라스틱 감축"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "LG생활건강이 청년 기후환경활동가 프로그램의 성과공유회를 열었다.",
+  "key_fact_quote": "LG생활건강이 유엔환경계획(UNEP)·환경단체 에코나우 와 함께 지난 7일 서울 강남구 디캠프 선릉에서 ‘2026 그린밸류 YOUTH 성과공유회’ 를 열고 청년 기후환경활동가들의 프로젝트 성과 를 공유했다.",
+  "events": [
+   {
+    "name": "2026 그린밸류 YOUTH 성과공유회",
+    "start_date": "2026-11-07",
+    "end_date": null,
+    "place": "서울 강남구 디캠프 선릉",
+    "quote": "LG생활건강이 유엔환경계획(UNEP)·환경단체 에코나우 와 함께 지난 7일 서울 강남구 디캠프 선릉에서 ‘2026 그린밸류 YOUTH 성과공유회’ 를 열고 청년 기후환경활동가들의 프로젝트 성과 를 공유했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

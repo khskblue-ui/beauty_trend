@@ -1,0 +1,46 @@
+{
+ "doc_id": "72af30a144b385a8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.edaily.co.kr/News/Read?newsId=03362006645645064&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+ "title": "코트라, 북유럽 최대 뷰티 유통망 '리코' 초청… K뷰티 수출 확대",
+ "summary": "유럽이 미국과 중국을 제치고 K뷰티 최대 수출 시장으로 떠오른 가운데 스웨덴을 거점으로 북유럽 시장 공략에 속도를 낸다는 구상이다. 코트라는 12일 서울 서초구 본사에서 리코의 구매총괄 책임자 등을 초청해 입점...",
+ "published_at": "2026-11-12T13:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "SE"
+  ],
+  "brands": [],
+  "companies": [
+   "코트라",
+   "리코"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "북유럽 시장",
+   "유통망 입점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코트라가 북유럽 최대 뷰티 유통망 리코의 구매 책임자를 초청해 K뷰티 입점을 추진했다.",
+  "key_fact_quote": "코트라는 12일 서울 서초구 본사에서 리코의 구매총괄 책임자 등을 초청해 입점",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

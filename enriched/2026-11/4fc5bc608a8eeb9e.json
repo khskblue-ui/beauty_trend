@@ -1,0 +1,45 @@
+{
+ "doc_id": "4fc5bc608a8eeb9e",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/fragonard-hosts-centenary-birthday-exhibition-paris-mint-1239413451/",
+ "title": "Fragonard Hosts Centenary Birthday Exhibition at the Paris Mint",
+ "summary": "It brings together 250 artworks and objects from the house’s heritage collection.",
+ "published_at": "2026-11-13T05:05:34+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Fragonard"
+  ],
+  "companies": [
+   "Fragonard"
+  ],
+  "keywords": [
+   "향수 브랜드 헤리티지",
+   "브랜드 전시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "프라고나르가 파리 조폐국에서 창립 백 주년 기념 전시를 연다.",
+  "key_fact_quote": "Fragonard Hosts Centenary Birthday Exhibition at the Paris Mint",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:41+00:00",
+ "had_body": false
+}

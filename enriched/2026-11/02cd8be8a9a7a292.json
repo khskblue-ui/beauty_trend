@@ -1,0 +1,53 @@
+{
+ "doc_id": "02cd8be8a9a7a292",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com:8443/en/silab-unveils-metallomia-a,28529",
+ "title": "Silab unveils Metallomia, a detoxifying active ingredient for menopausal skin",
+ "summary": "Derived from the roots of marshmallow, Silab's new natural active ingredient targets the body's iron regulation process to ensure the controlled release of iron in menopausal skin. Thus, Metallomia combats “metal-linked-aging” and improves skin resilience to UV. Metallomia, the latest detoxifying active ingredient from French manufacturer Silab, was specifically developed to target the deficiency of ferritinophagy in menopausal skin. “Metallo-aging” Actually, thanks to a novel modeling... - Ingredients & formulation",
+ "published_at": "2026-11-12T14:37:21+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "Silab"
+  ],
+  "keywords": [
+   "갱년기 피부",
+   "디톡스 활성 성분",
+   "식물 유래 원료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "Silab이 마시멜로 뿌리에서 얻은 갱년기 피부용 활성 성분 Metallomia를 선보였다.",
+  "key_fact_quote": "Metallomia, the latest detoxifying active ingredient from French manufacturer Silab, was specifically developed to target the deficiency of ferritinophagy in menopausal skin.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Metallomia",
+    "quote": "Metallomia, the latest detoxifying active ingredient from French manufacturer Silab, was specifically developed to target the deficiency of ferritinophagy in menopausal skin."
+   },
+   {
+    "name": "marshmallow",
+    "quote": "Derived from the roots of marshmallow, Silab's new natural active ingredient targets the body's iron regulation process to ensure the controlled release of iron in menopausal skin."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

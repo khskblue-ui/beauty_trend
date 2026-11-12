@@ -1,0 +1,45 @@
+{
+ "doc_id": "780a71ff579d6cc6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=266538",
+ "title": "시그닉, 자작나무 PDRN 함유 세럼·크림 2종 출시",
+ "summary": "현대경제신문 전수연 기자 | 애경산업의 뷰티 브랜드 시그닉(signiq)이 핀란드산 자작나무 유래 PDRN 함유 원료를 적용한 스킨케어 신제품 2종을 출시 했다. 피부 수분 공급과 보습 장벽 관리에 초점을 맞춘 제품으로...",
+ "published_at": "2026-11-12T17:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "시그닉"
+  ],
+  "companies": [],
+  "keywords": [
+   "PDRN 스킨케어",
+   "수분 장벽",
+   "속건조 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "ab3ad6465de3e383",
+ "enriched_at": "2026-11-12T21:34:41+00:00",
+ "had_body": false
+}

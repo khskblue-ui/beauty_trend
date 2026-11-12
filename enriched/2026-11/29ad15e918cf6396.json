@@ -1,0 +1,60 @@
+{
+ "doc_id": "29ad15e918cf6396",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58720",
+ "title": "한국소비자원, 화장품 중소기업 제품 안전관리 강화... AI 광고·해외 규제 대응 제시",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 한국소비자원은 지난 5일 서울 강서구 LG사이언스파크 프론티어홀에서 화장품사업자정례협의체와 함께 ‘2026 중소기업 제품 안전관리 역량강화 세미나’를 열고 화장품 중소기업이 제품 기획부터 광고, 판매, 소비자 민원, 해외 유통까지 전 과정에서 점검해야 할 안…",
+ "published_at": "2026-11-12T17:12:13+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "US",
+   "CN",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "한국소비자원",
+   "대한화장품협회",
+   "하나증권",
+   "한국인터넷광고재단"
+  ],
+  "keywords": [
+   "화장품 안전관리",
+   "SNS 부당광고",
+   "AI 광고",
+   "국가별 화장품 규제",
+   "다크패턴"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국소비자원이 화장품 중소기업을 위한 안전관리 세미나를 열어 AI 광고와 해외 규제 대응 방향을 제시했다.",
+  "key_fact_quote": "한국소비자원은 지난 5일 서울 강서구 LG사이언스파크 프론티어홀에서 화장품사업자정례협의체와 함께 ‘2026 중소기업 제품 안전관리 역량강화 세미나’를 열고 화장품 중소기업이 제품 기획부터 광고, 판매, 소비자 민원, 해외 유통까지 전 과정에서 점검해야 할 안전관리 실무를 공유했다.",
+  "events": [
+   {
+    "name": "2026 중소기업 제품 안전관리 역량강화 세미나",
+    "start_date": "2026-11-05",
+    "end_date": null,
+    "place": "서울 강서구 LG사이언스파크 프론티어홀",
+    "quote": "한국소비자원은 지난 5일 서울 강서구 LG사이언스파크 프론티어홀에서 화장품사업자정례협의체와 함께 ‘2026 중소기업 제품 안전관리 역량강화 세미나’를 열고 화장품 중소기업이 제품 기획부터 광고, 판매, 소비자 민원, 해외 유통까지 전 과정에서 점검해야 할 안전관리 실무를 공유했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

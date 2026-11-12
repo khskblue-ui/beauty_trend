@@ -1,0 +1,77 @@
+{
+ "doc_id": "08f270fc85c5c2de",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312600",
+ "title": "10월 티몰 뷰티 트렌드 리포트②: 선케어 TOP10 판매량 17.6% 증가...한국관은 34.4% 감소",
+ "summary": "[편집자 주] 뷰티경제는 2022년 7월부터 중국 최대 전자상거래 플랫폼인 티몰(Tmall)을 통해 8개 주요 품목의 중국 뷰티시장 동향을 분석하고 있다. 아울러 K-뷰티의 중국 시장 경쟁력도 함께 진단하고 있다. 이번 기사에서는 2026년 10월 티몰 선케어 소비트렌드를 점검한다.중국 티몰 선케어 시장이 성장세를 이어간 것으로 나타났다. 지난해에 이어 태국 브랜드 미스틴(Mistine)이 판매량 1위를 유지한 가운데 일본과 프랑스 브랜드의 존재감도 확대됐다. 소비 트렌드는 단순 자외선 차단에서 스킨케어 기능을 결합한 복합 기능성",
+ "published_at": "2026-11-12T10:45:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "TH",
+   "JP",
+   "FR",
+   "KR"
+  ],
+  "brands": [
+   "미스틴",
+   "로레알",
+   "아넷사",
+   "비오레",
+   "메이캉펀다이",
+   "위노나",
+   "프로야",
+   "Hipapa",
+   "Unnyclub"
+  ],
+  "companies": [
+   "티몰"
+  ],
+  "keywords": [
+   "선케어",
+   "복합 기능성 선케어",
+   "중국 이커머스"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "선크림",
+    "brand": "미스틴",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "선스프레이",
+    "brand": "미스틴",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "티몰 선케어 시장은 성장했지만 한국관 선케어 판매는 줄었다.",
+  "key_fact_quote": "반면 한국관 선케어 제품의 판매 실적은 감소했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

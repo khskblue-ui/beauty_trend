@@ -1,0 +1,48 @@
+{
+ "doc_id": "6bb0bef5edc135e0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54652",
+ "title": "한미그룹 더마 화장품 아데시, 무신사·29CM·코오드 입점",
+ "summary": "지난 5월 론칭 한 아데시는 ▲Advanced(선진기술) ▲Derma(피부과학) ▲Science(효능 임상)를 핵심 가치로 내세운... 패션과 뷰티 , 라이프스타일에 관심이 높은 소비자들에게 브랜드 와 제품을 알릴 수 있는 기반을 마련하게...",
+ "published_at": "2026-11-12T15:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아데시"
+  ],
+  "companies": [
+   "한미그룹",
+   "무신사",
+   "29CM",
+   "코오드"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "패션 플랫폼 입점"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한미그룹 더마 화장품 아데시가 무신사 등 패션 플랫폼에 입점했다.",
+  "key_fact_quote": "한미그룹 더마 화장품 아데시, 무신사·29CM·코오드 입점",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

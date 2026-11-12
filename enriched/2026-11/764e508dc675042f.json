@@ -1,0 +1,44 @@
+{
+ "doc_id": "764e508dc675042f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/sb-founded/6352438",
+ "title": "\"홍콩서 수출 길 열었다\"…립스 소상공인 20곳, 해외 판로 확대",
+ "summary": "협의하며 수출 기반을 넓혔다. 초기투자액셀러레이터협회에 따르면 '소상공인 투자연계 지원사업' 립스... 이를 통해 K - 뷰티 와 식품, 생활용품 등을 선보였다. 협회는 상담 과정에서 2000세트 규모 수주와 현장 초도 물량...",
+ "published_at": "2026-11-12T19:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "HK",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "초기투자액셀러레이터협회"
+  ],
+  "keywords": [
+   "소상공인 수출",
+   "해외 판로"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "소상공인들이 홍콩에서 K뷰티와 식품 등을 선보이며 해외 판로를 넓혔다.",
+  "key_fact_quote": "이를 통해 K - 뷰티 와 식품, 생활용품 등을 선보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

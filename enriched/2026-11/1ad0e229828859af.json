@@ -1,0 +1,47 @@
+{
+ "doc_id": "1ad0e229828859af",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.k-health.com/news/articleView.html?idxno=102187",
+ "title": "모델로, 무신사 뷰티 성수 입점…오프라인 소비자 접점 확대",
+ "summary": "모델로는 모델로피부과 서구일 원장이 설립한 화장품 브랜드 다. 이번 입점은 무신사 메가스토어 성수점과... 지상 1~2층에 걸쳐 스킨케어와 메이크업, 향수 , 헤어·바디케어 등 다양한 제품군을 선보인다. 모델로 관계자는...",
+ "published_at": "2026-11-12T20:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "AZH"
+  ],
+  "companies": [
+   "인터오리진아이엔씨",
+   "무신사"
+  ],
+  "keywords": [
+   "헤어 홈케어",
+   "오프라인 입점"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "15d002bfaf3b71f3",
+ "enriched_at": "2026-11-12T21:31:03+00:00",
+ "had_body": false
+}

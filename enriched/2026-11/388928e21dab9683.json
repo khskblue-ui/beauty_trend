@@ -1,0 +1,46 @@
+{
+ "doc_id": "388928e21dab9683",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026111011275358350",
+ "title": "한미 화장품 , 한미양행 연구개발 역량 담은 '오브한'으로 브랜드 경쟁력...",
+ "summary": "한미 화장품 이 2026년 초 출시 한 오브한은 'Original From HANMI'라는 의미를 담고 있다. 약 60년의 건강기능식품 제조 역사를 보유한 한미양행의 기술적 기반을 계승하면서, 피부 건강을 중심으로 한 화장품 을 선보이겠다는...",
+ "published_at": "2026-11-12T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오브한"
+  ],
+  "companies": [
+   "한미 화장품",
+   "한미양행"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "제약사 화장품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한미 화장품이 한미양행의 연구개발 역량을 담은 브랜드 오브한을 선보였다.",
+  "key_fact_quote": "한미 화장품 이 2026년 초 출시 한 오브한은 'Original From HANMI'라는 의미를 담고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

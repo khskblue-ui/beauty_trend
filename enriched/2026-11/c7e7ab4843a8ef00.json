@@ -1,0 +1,42 @@
+{
+ "doc_id": "c7e7ab4843a8ef00",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-sales-2026-q3-skin-care-hair-fragrance-1239411003/",
+ "title": "How Did Beauty Perform During the Third Quarter of 2026?",
+ "summary": "Data from Circana shows that prestige skin care is rebounding following a softer 2025, while lip color and eye shadows have also returned to growth.",
+ "published_at": "2026-11-12T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Circana"
+  ],
+  "keywords": [
+   "프레스티지 스킨케어",
+   "립 컬러",
+   "아이섀도"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "프레스티지 스킨케어가 반등했고 립 컬러와 아이섀도도 다시 성장했다.",
+  "key_fact_quote": "Data from Circana shows that prestige skin care is rebounding following a softer 2025, while lip color and eye shadows have also returned to growth.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

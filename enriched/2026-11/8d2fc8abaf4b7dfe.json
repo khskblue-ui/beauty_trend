@@ -1,0 +1,76 @@
+{
+ "doc_id": "8d2fc8abaf4b7dfe",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100457",
+ "title": "BAZZAAL, 에스쁘아·데이비드 서와 LA서 ‘No Filter’ 행사 개최",
+ "summary": "K-뷰티 인플루언서 마케팅 에이전시 BAZZAAL(대표 클로이 정)은 아모레퍼시픽그룹의 메이크업 브랜드 에스쁘아(espoir), 포토그래퍼 데이비드 서(David Suh)와 함께 지난달 29일(현지 시간) 미국 로스앤젤레스에서 크리에이터 초청 뷰티 행사 ‘No Filter’를 열었다고 12일 밝혔다.행사는 데이비드 서가 운영하는 LA 사진 스튜디오 ‘DASU Studios’에서 열렸고, 미국 현지 크리에이터 약 20명이 초청됐다. BAZZAAL은 에스쁘아와 정한 콘셉트로 프로그램을 짜고, 크리에이터 섭외와 공간 연출, 현장 운영을",
+ "published_at": "2026-11-12T10:33:28+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "에스쁘아",
+   "브이티코스메틱"
+  ],
+  "companies": [
+   "BAZZAAL",
+   "아모레퍼시픽그룹"
+  ],
+  "keywords": [
+   "인플루언서 마케팅",
+   "크리에이터 행사",
+   "K-뷰티 미국 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "더마커버 BB",
+    "brand": "에스쁘아",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "현장에는 에스쁘아가 미국에서 새로 선보인 ‘더마커버 BB’와 ‘페이크 쉐도우 컨투어 스틱’ 등이 쓰였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "페이크 쉐도우 컨투어 스틱",
+    "brand": "에스쁘아",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "현장에는 에스쁘아가 미국에서 새로 선보인 ‘더마커버 BB’와 ‘페이크 쉐도우 컨투어 스틱’ 등이 쓰였다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "BAZZAAL이 에스쁘아, 데이비드 서와 함께 로스앤젤레스에서 크리에이터 초청 뷰티 행사를 열었다.",
+  "key_fact_quote": "K-뷰티 인플루언서 마케팅 에이전시 BAZZAAL(대표 클로이 정)은 아모레퍼시픽그룹의 메이크업 브랜드 에스쁘아(espoir), 포토그래퍼 데이비드 서(David Suh)와 함께 지난달 29일(현지 시간) 미국 로스앤젤레스에서 크리에이터 초청 뷰티 행사 ‘No Filter’를 열었다고 12일 밝혔다.",
+  "events": [
+   {
+    "name": "No Filter",
+    "start_date": "2026-10-29",
+    "end_date": null,
+    "place": "미국 로스앤젤레스",
+    "quote": "K-뷰티 인플루언서 마케팅 에이전시 BAZZAAL(대표 클로이 정)은 아모레퍼시픽그룹의 메이크업 브랜드 에스쁘아(espoir), 포토그래퍼 데이비드 서(David Suh)와 함께 지난달 29일(현지 시간) 미국 로스앤젤레스에서 크리에이터 초청 뷰티 행사 ‘No Filter’를 열었다고 12일 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

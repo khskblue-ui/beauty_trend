@@ -1,0 +1,43 @@
+{
+ "doc_id": "2f387b59ffa12632",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323478",
+ "title": "[창간 29주년 기획 4-2] 잘 팔리는 K - 뷰티 , 이제는 물류 경쟁력 싸움",
+ "summary": "또한 세계 최대 소비 시장인 미국으로의 화장품 수출 액이 처음으로 중국을 넘어 최대 수출 국 자리를 차지했다. K - 뷰티 의 해외 진출은 제품을 알리는 단계를 지나 늘어난 수요를 안정적으로 소화하는 단계로 접어들고...",
+ "published_at": "2026-11-12T08:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "물류 경쟁력"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국이 처음으로 중국을 넘어 한국 화장품의 최대 수출국이 됐다.",
+  "key_fact_quote": "또한 세계 최대 소비 시장인 미국으로의 화장품 수출 액이 처음으로 중국을 넘어 최대 수출 국 자리를 차지했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

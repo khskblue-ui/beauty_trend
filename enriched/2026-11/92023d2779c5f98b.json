@@ -1,0 +1,44 @@
+{
+ "doc_id": "92023d2779c5f98b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=335136",
+ "title": "닥터비타(Dr.VITA),'코스모프로프 아시아 홍콩'서 글로벌 뷰티 시장 공략",
+ "summary": "메이크업, 향수 , 헤어, 네일 등 다양한 뷰티 분야를 아우르는 아시아 대표 뷰티 산업 B2B 전시회다. 홍콩 컨벤션전시센터(HKCEC)에서 개최되며, 세계 각국 화장품 제조사와 브랜드 , 유통 바이어 등이 한자리에 모여 최신...",
+ "published_at": "2026-11-12T12:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "HK",
+   "KR"
+  ],
+  "brands": [
+   "닥터비타"
+  ],
+  "companies": [],
+  "keywords": [
+   "뷰티 B2B 전시회",
+   "글로벌 뷰티 시장 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "닥터비타가 홍콩 코스모프로프 아시아에 참가해 글로벌 뷰티 시장 공략에 나섰다.",
+  "key_fact_quote": "닥터비타(Dr.VITA),'코스모프로프 아시아 홍콩'서 글로벌 뷰티 시장 공략",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

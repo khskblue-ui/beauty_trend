@@ -1,0 +1,94 @@
+{
+ "doc_id": "12a8d170d847ced3",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53943",
+ "title": "진흥원, K-뷰티 글로벌 판로 개척 가속 페달",
+ "summary": "한국보건산업진흥원(원장 고상백· www.khidi.or.kr ·이하 진흥원)이 ‘2026 코스모프로프 아시아 인 홍콩’(Cosmoprof Asia in Hong Kong 2026)을 무대로 국내 중소 화장품 기업의 글로벌 유통망 확대와 해외 판로 개척 지원에 나섰다. 진흥원은 지난 11일 홍콩 컨벤션amp;엑시…",
+ "published_at": "2026-11-12T14:27:16+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [
+   "허스텔러",
+   "러뷰",
+   "니노바",
+   "닥터드롭",
+   "모다모다",
+   "블랙루즈",
+   "캣츠랩",
+   "반클레오",
+   "디어달리아",
+   "JELLO JELLO"
+  ],
+  "companies": [
+   "한국보건산업진흥원",
+   "앙티브",
+   "아멍코스메틱",
+   "인솔",
+   "리드프레쉬",
+   "써니유통",
+   "비씨이노텍",
+   "바람인터내셔날",
+   "ACK",
+   "트리플닷"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "해외 판로 개척",
+   "통합 전시관"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국보건산업진흥원이 코스모프로프 아시아 인 홍콩에 K-뷰티 온 체험관을 열고 중소 화장품 기업의 해외 판로 개척을 돕는다.",
+  "key_fact_quote": "한국보건산업진흥원 (원장 고상백· www.khidi.or.kr ·이하 진흥원)이 ‘2026 코스모프로프 아시아 인 홍콩’(Cosmoprof Asia in Hong Kong 2026) 을 무대로 국내 중소 화장품 기업의 글로벌 유통망 확대와 해외 판로 개척 지원에 나섰다.",
+  "events": [
+   {
+    "name": "K-뷰티 온",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "홍콩 컨벤션&엑시비션 센터(HKCEC)",
+    "quote": "진흥원은 지난 11일 홍콩 컨벤션&엑시비션 센터(HKCEC)에 ‘K-뷰티 온’(K-BEAUTY ON) 체험관을 개설, 오는 13일까지 운영한다."
+   },
+   {
+    "name": "K-뷰티 나이트 인 홍콩",
+    "start_date": "2026-11-12",
+    "end_date": null,
+    "place": "노보텔 센추리 홍콩",
+    "quote": "특히 오늘(12일) 오후 7시부터 노보텔 센추리 홍콩에서 열리는 K-뷰티 나이트 인 홍콩에는 국내 참가기업과 글로벌 바이어·유통사·인플루언서 등 약 100명 이 참석할 예정이다."
+   },
+   {
+    "name": "코스모팩 아시아",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-12",
+    "place": "아시아월드엑스포",
+    "quote": "올해 코스모프로프 아시아 인 홍콩은 제조·원료·부자재·패키징·기기 분야를 중심으로 하는 ‘코스모팩 아시아’(11월 10~12일·아시아월드엑스포)와 화장품 완제품·전문 미용 분야의 ‘코스모프로프 아시아’(11월 11~13일·홍콩 컨벤션&엑시비션 센터)로 나눠 개최 중이다."
+   },
+   {
+    "name": "코스모프로프 아시아",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "홍콩 컨벤션&엑시비션 센터",
+    "quote": "올해 코스모프로프 아시아 인 홍콩은 제조·원료·부자재·패키징·기기 분야를 중심으로 하는 ‘코스모팩 아시아’(11월 10~12일·아시아월드엑스포)와 화장품 완제품·전문 미용 분야의 ‘코스모프로프 아시아’(11월 11~13일·홍콩 컨벤션&엑시비션 센터)로 나눠 개최 중이다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

@@ -1,0 +1,59 @@
+{
+ "doc_id": "10cef0bc3fe2df33",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53937",
+ "title": "아모레퍼시픽, 피부 역노화 핵심 기전 규명",
+ "summary": "아모레퍼시픽이 독자 개발한 바이오플라보노이드 소재 ‘레드플라보노이드’(RE.D Flavonoid®)를 활용해 노화 피부의 오토파지(Autophagy·자가포식) 기능을 활성화하고 피부 장벽을 개선하는 작용 기전을 규명했다. 이번 연구는 KAIST와의 공동연구에서 확인한 피부 역노화 가능성을 토대…",
+ "published_at": "2026-11-12T10:47:18+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수",
+   "라네즈",
+   "AP뷰티"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "KAIST"
+  ],
+  "keywords": [
+   "피부 역노화",
+   "오토파지",
+   "피부 장벽",
+   "롱제비티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아모레퍼시픽이 레드플라보노이드로 노화 피부의 오토파지를 활성화하고 피부 장벽을 개선하는 기전을 규명했다.",
+  "key_fact_quote": "아모레퍼시픽 이 독자 개발한 바이오플라보노이드 소재 ‘레드플라보노이드’(RE.D Flavonoid®) 를 활용해 노화 피부의 오토파지(Autophagy·자가포식) 기능을 활성화하고 피부 장벽을 개선하는 작용 기전을 규명했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레드플라보노이드",
+    "quote": "아모레퍼시픽 이 독자 개발한 바이오플라보노이드 소재 ‘레드플라보노이드’(RE.D Flavonoid®) 를 활용해 노화 피부의 오토파지(Autophagy·자가포식) 기능을 활성화하고 피부 장벽을 개선하는 작용 기전을 규명했다."
+   },
+   {
+    "name": "동백씨앗",
+    "quote": "이어 동백씨앗에서 추출한 레드플라보노이드의 주요 구성 성분이 PDK1을 조절해 오토파지 기능을 활성화하고 노화된 표피 세포의 증식·분화 능력과 피부 구조 유지에 필요한 단백질 발현을 개선하는 과정을 규명한 것."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

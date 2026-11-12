@@ -1,0 +1,47 @@
+{
+ "doc_id": "06fafdbad35eb270",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=139740",
+ "title": "에이피알 \"에이지알 앱 글로벌 뷰티 플랫폼 경쟁력 강화\"...누적 다운로...",
+ "summary": "에이피알이 뷰티 디바이스와 모바일 앱을 결합한 디지털 뷰티 생태계 확장에 속도를 내고 있다. 메디큐브... 등 신제품 출시 와 함께 제품별 특성에 맞춘 연동 기능도 추가했다. 이용자는 앱을 통해 디바이스 사용 이력을...",
+ "published_at": "2026-11-12T09:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메디큐브",
+   "에이지알"
+  ],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "디지털 뷰티",
+   "뷰티 앱"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에이피알이 뷰티 디바이스와 모바일 앱을 묶은 디지털 뷰티 생태계를 넓히고 있다.",
+  "key_fact_quote": "에이피알이 뷰티 디바이스와 모바일 앱을 결합한 디지털 뷰티 생태계 확장에 속도를 내고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

@@ -1,0 +1,70 @@
+{
+ "doc_id": "af9cfc79231fe110",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312766",
+ "title": "K-뷰티 美 수출 62.7%↑…리엔케이, 코스트코 25개 매장 입점",
+ "summary": "K-뷰티의 미국 수출이 급증하는 가운데, 코웨이 자회사 힐러비의 리엔케이가 세포과학 기반 스킨케어 제품을 앞세워 미국 시장 공략에 나섰다.실제 미국 시장은 K-뷰티 수출 성장을 견인하는 핵심 시장이다. 산업통상자원부에 따르면 올해 10월 화장품 수출액은 14억4,400만 달러로 지난해 같은 기간(9억1,700만 달러)보다 57.5% 증가했다. 이 가운데 미국 수출은 2억3,000만 달러로 전년 동기 대비 62.7% 늘어나 주요 수출국 가운데 높은 성장세를 기록했다.뷰티경제 취재 결과, \\'셀 투 셀 크림\\'은 현재 미국 주요 거점 지역",
+ "published_at": "2026-11-12T10:50:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "리엔케이"
+  ],
+  "companies": [
+   "코웨이",
+   "힐러비",
+   "코스트코",
+   "아마존",
+   "틱톡샵"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "미국 시장",
+   "창고형 매장 입점"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "셀 투 셀 크림",
+    "brand": "리엔케이",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "리엔케이는 지난해 10월 미국 오프라인 매장에 처음 선보인 '셀레스티얼 콜라겐 크림'에 이어 이번 '셀 투 셀 크림' 론칭을 계기로 북미 시장 내 제품군을 확대할 계획이라고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "셀레스티얼 콜라겐 크림",
+    "brand": "리엔케이",
+    "launch_date": "2025-10",
+    "launch_status": "unknown",
+    "launch_quote": "리엔케이는 지난해 10월 미국 오프라인 매장에 처음 선보인 '셀레스티얼 콜라겐 크림'에 이어 이번 '셀 투 셀 크림' 론칭을 계기로 북미 시장 내 제품군을 확대할 계획이라고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "리엔케이 셀 투 셀 크림이 미국 코스트코 오프라인 매장에 입점했다.",
+  "key_fact_quote": "뷰티경제 취재 결과, '셀 투 셀 크림'은 현재 미국 주요 거점 지역의 코스트코 25개 매장에 입점해 판매되고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "d40cc9b4cff653f5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ddaily.co.kr/page/view/2026111215473129807",
+ "title": "[현장] 화장품에도 ‘컬리식 취향’이 있다…DDP에 펼쳐진 뷰티 큐레이...",
+ "summary": "스킨케어부터 색조, 향수 , 바디케어까지 브랜드 구성을 새롭게 짜면서 소비자들이 기존 행사와 다른 제품을 접할 수 있도록 했다. 행사장 구성에서도 컬리 특유의 큐레이션 방식이 드러났다. 올해는 ‘당신의 매일을 더...",
+ "published_at": "2026-11-12T15:59:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "컬리"
+  ],
+  "keywords": [
+   "뷰티 큐레이션",
+   "오프라인 뷰티 행사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "컬리가 DDP 뷰티 행사에서 스킨케어부터 향수까지 브랜드 구성을 새로 짰다.",
+  "key_fact_quote": "스킨케어부터 색조, 향수 , 바디케어까지 브랜드 구성을 새롭게 짜면서 소비자들이 기존 행사와 다른 제품을 접할 수 있도록 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

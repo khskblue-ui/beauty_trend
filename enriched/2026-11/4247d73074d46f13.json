@@ -1,0 +1,46 @@
+{
+ "doc_id": "4247d73074d46f13",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsprime.co.kr/news/article.html?no=754632",
+ "title": "코스맥스, K뷰티 호황에 성장 가속…4분기도 호실적 기대",
+ "summary": "상하이는 주요 색조 화장품 고객사의 판매 호조와 기초 화장품 브랜드의 신제품 판매 증가가 실적을 뒷받침했다. 광저우는 오프라인과 수출 판매망을 중심으로 매출이 늘었다. 미국 법인 매출액은 전년 동기 대비 88...",
+ "published_at": "2026-11-12T08:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "K뷰티 호황",
+   "색조 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스 상하이 법인은 색조 고객사 판매 호조와 기초 화장품 신제품 판매 증가로 실적이 좋아졌다.",
+  "key_fact_quote": "상하이는 주요 색조 화장품 고객사의 판매 호조와 기초 화장품 브랜드의 신제품 판매 증가가 실적을 뒷받침했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

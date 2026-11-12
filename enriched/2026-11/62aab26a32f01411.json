@@ -1,0 +1,56 @@
+{
+ "doc_id": "62aab26a32f01411",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=397909",
+ "title": "최강희가 고른 세안법 '흑진주 클렌징 에센스'… 오키 뷰티 , 더현대 서울...",
+ "summary": "뷰티 브랜드 오키 뷰티 (OKEE BEAUTY)가 브랜드 뮤즈 최강희와 함께한 더현대 서울 팝업 이벤트를 성황리에 마치며... 오키 뷰티 는 론칭 10개월 만에 누적 판매 30만 병, 최근 두 달 동안 10만 병을 판매하며 짧은 기간에 '최강희...",
+ "published_at": "2026-11-12T13:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오키 뷰티"
+  ],
+  "companies": [
+   "더현대 서울"
+  ],
+  "keywords": [
+   "클렌징 에센스",
+   "팝업 스토어",
+   "셀럽 뮤즈 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "흑진주 클렌징 에센스",
+    "brand": "오키 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "오키 뷰티가 브랜드 뮤즈 최강희와 함께한 더현대 서울 팝업 이벤트를 마쳤다.",
+  "key_fact_quote": "뷰티 브랜드 오키 뷰티 (OKEE BEAUTY)가 브랜드 뮤즈 최강희와 함께한 더현대 서울 팝업 이벤트를 성황리에 마치며",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}

@@ -1,0 +1,69 @@
+{
+ "doc_id": "67c4a7693a799339",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100456",
+ "title": "‘2026 코스모프로프 아시아 홍콩’ K-뷰티 글로벌 시장 공략 본격화",
+ "summary": "아시아 최대 규모의 뷰티 전문 B2B 전시회 중 하나인 ‘2026 코스모프로프 아시아 홍콩(Cosmoprof Asia Hong Kong)’이 2026년 11월 10일부터 13일까지 아시아 월드 엑스포(AsiaWorld-Expo)와 홍콩 컨벤션 센터(HKCEC)에서 펼쳐진다. 올해로 29회를 맞이하는 이번 전시회는 전 세계 뷰티 산업 관계자들이 한자리에 모여 최신 기술과 제품을 선보이고, 글로벌 유통망 확대 및 신규 비즈니스 기회를 모색하는 아시아 대표 뷰티 산업 플랫폼으로 자리매김하고 있다.이번 전시회는 뷰티 산업 관련 서플라이 체",
+ "published_at": "2026-11-11T17:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "HK",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코이코",
+   "대한무역투자진흥공사"
+  ],
+  "keywords": [
+   "뷰티 박람회",
+   "더마코스메틱",
+   "홈케어 뷰티 디바이스",
+   "수출시장 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스모프로프 아시아 홍콩에서 한국공동관이 운영되며 K뷰티의 해외 시장 공략이 본격화됐다.",
+  "key_fact_quote": "아시아 최대 규모의 뷰티 전문 B2B 전시회 중 하나인 ‘2026 코스모프로프 아시아 홍콩(Cosmoprof Asia Hong Kong)’이 2026년 11월 10일부터 13일까지 아시아 월드 엑스포(AsiaWorld-Expo)와 홍콩 컨벤션 센터(HKCEC)에서 펼쳐진다.",
+  "events": [
+   {
+    "name": "2026 코스모프로프 아시아 홍콩",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-13",
+    "place": "아시아 월드 엑스포(AsiaWorld-Expo)와 홍콩 컨벤션 센터(HKCEC)",
+    "quote": "아시아 최대 규모의 뷰티 전문 B2B 전시회 중 하나인 ‘2026 코스모프로프 아시아 홍콩(Cosmoprof Asia Hong Kong)’이 2026년 11월 10일부터 13일까지 아시아 월드 엑스포(AsiaWorld-Expo)와 홍콩 컨벤션 센터(HKCEC)에서 펼쳐진다."
+   },
+   {
+    "name": "코스모팩 아시아",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-12",
+    "place": "아시아 월드 엑스포",
+    "quote": "제조·패키징·원료·OEM/ODM 분야를 중심으로 구성되는 ‘코스모팩 아시아(Cosmopack Asia)’는 11월 10일부터 12일까지 아시아 월드 엑스포에서 개최되며, 글로벌 화장품 제조사와 패키징 전문 기업들이 참가하여 최신 제조 기술과 혁신적인 제품 개발 솔루션을 선보인다."
+   },
+   {
+    "name": "코스모프로프 아시아",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "홍콩 컨벤션 센터",
+    "quote": "이어 11월 11일부터 13일까지 홍콩 컨벤션 센터에서 개최되는 ‘코스모프로프 아시아(Cosmoprof Asia)’는 스킨케어, 메이크업, 헤어, 네일, 에스테틱 및 뷰티 디바이스 등 완제품과 전문 미용 분야를 중심으로 구성된다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

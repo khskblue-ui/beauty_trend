@@ -1,0 +1,43 @@
+{
+ "doc_id": "d14c8bc8e119bb5d",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312796",
+ "title": "한전, 3분기 누적 영업이익 6조 5,569억원…13분기 연속 흑자 - 뷰티경제",
+ "summary": "한국전력공사(이하 한전)가 국제 에너지 가격 상승과 전력 판매 부진 등 어려운 경영환경 속에서도 올해 3분기까지 연결 기준 6조 5,569억원의 영업이익을 기록하",
+ "published_at": "2026-11-12T20:15:33+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국전력공사"
+  ],
+  "keywords": [
+   "영업이익",
+   "에너지 가격"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국전력공사가 올해 3분기까지 누적 영업이익을 기록했다.",
+  "key_fact_quote": "한국전력공사(이하 한전)가 국제 에너지 가격 상승과 전력 판매 부진 등 어려운 경영환경 속에서도 올해 3분기까지 연결 기준 6조 5,569억원의 영업이익을 기록하",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:41+00:00",
+ "had_body": false
+}

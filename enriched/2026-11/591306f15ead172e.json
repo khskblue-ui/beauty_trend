@@ -1,0 +1,63 @@
+{
+ "doc_id": "591306f15ead172e",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53940",
+ "title": "日 소비자, 티르티르 호텔에 체크인!",
+ "summary": "티르티르가 3일부터 8일까지 일본 도쿄 오모테산도에서 팝업스토어를 운영했다. 티르티르 팝업스토어는 호텔을 주제로 한 체험공간으로 구성했다. ‘글램 스위트 오브 글로우(Glam Suite Of Glow)’ 주제로 호텔과 뷰티를 연결했다. 호텔에 체크인한 뒤 각 공간을 경험하는 과정을 제공했다. 방문객은…",
+ "published_at": "2026-11-12T11:59:45+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "티르티르"
+  ],
+  "companies": [],
+  "keywords": [
+   "팝업스토어",
+   "체험형 마케팅",
+   "립 밤"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "캐치 마이 글로우 립 밤(Catch My Glow Lip Balm)",
+    "brand": "티르티르",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "티르티르는 ‘캐치 마이 글로우 립 밤(Catch My Glow Lip Balm)’을 현장에서 공개했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "티르티르가 일본 도쿄에서 호텔을 주제로 한 팝업스토어를 운영했다.",
+  "key_fact_quote": "티르티르가 3일부터 8일까지 일본 도쿄 오모테산도에서 팝업스토어를 운영했다.",
+  "events": [
+   {
+    "name": "티르티르 팝업스토어",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-08",
+    "place": "일본 도쿄 오모테산도",
+    "quote": "티르티르가 3일부터 8일까지 일본 도쿄 오모테산도에서 팝업스토어를 운영했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": true
+}

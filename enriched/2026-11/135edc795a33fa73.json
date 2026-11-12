@@ -1,0 +1,44 @@
+{
+ "doc_id": "135edc795a33fa73",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=3&item=&no=102180",
+ "title": "K-팝 인기 10% 오를 때 멕시코에 K - 뷰티 수출 1.7%p 올랐다",
+ "summary": "멕시코에서는 K -팝 인기가 10% 오르면, 화장품 수출 이 K -팝 인기 상승 충격이 없었을 때 대비 당월 1.7%, 3개월 후 1.6%, 6개월 후 1.3% 늘어 K -콘텐츠 효과가 6개월 후까지 이어졌다. 독일에서도 K -팝 흥행 당월 화장품 수출 이 1.6...",
+ "published_at": "2026-11-12T10:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "MX",
+   "DE",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "K-콘텐츠 효과",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "멕시코에서 K-팝 인기가 오르면 화장품 수출도 늘었고 그 효과가 몇 달 뒤까지 이어졌다.",
+  "key_fact_quote": "멕시코에서는 K -팝 인기가 10% 오르면, 화장품 수출 이 K -팝 인기 상승 충격이 없었을 때 대비 당월 1.7%, 3개월 후 1.6%, 6개월 후 1.3% 늘어 K -콘텐츠 효과가 6개월 후까지 이어졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-12T21:34:40+00:00",
+ "had_body": false
+}
