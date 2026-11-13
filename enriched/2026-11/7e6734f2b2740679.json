@@ -1,0 +1,44 @@
+{
+ "doc_id": "7e6734f2b2740679",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5199",
+ "title": "\"가격 아닌 품질로 승부\"… 한국콜마, K-뷰티 키운 ODM 저력",
+ "summary": "제품을 출시 할 수 있는 환경이 조성된 것이다. 브랜드는 상품 기획과 마케팅, 유통에 역량을 집중하고, ODM 기업은 제품 개발과 제조를 담당하는 분업 체계가 자리 잡았다. 이는 국내 화장품 산업에서 다양한 브랜드가...",
+ "published_at": "2026-11-13T13:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "ODM",
+   "제조 분업",
+   "K뷰티 성장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "브랜드는 기획과 유통을, ODM 기업은 개발과 제조를 맡는 분업 체계가 자리 잡았다.",
+  "key_fact_quote": "브랜드는 상품 기획과 마케팅, 유통에 역량을 집중하고, ODM 기업은 제품 개발과 제조를 담당하는 분업 체계가 자리 잡았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

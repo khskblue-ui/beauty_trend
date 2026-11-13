@@ -1,0 +1,42 @@
+{
+ "doc_id": "c9cb6f959a6eb591",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=8&item=&no=102228",
+ "title": "홍콩 코스모프로프 점령한 K - 뷰티 … 10사 중 1사 꼴",
+ "summary": "통상 코스모프로프 전체 참가 기업이 2500개사 내외인 점을 고려하면 10%가 K - 뷰티 기업인 셈이다.한국의 지난해 화장품 수출 액은 114억 달러로, 프랑스(243억 달러)에 이은 세계 2위였다. 코스모프로프에서 역대 최대...",
+ "published_at": "2026-11-13T17:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "HK",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 전시회",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "홍콩 코스모프로프 참가 기업 열 곳 중 한 곳꼴이 K뷰티 기업이다.",
+  "key_fact_quote": "통상 코스모프로프 전체 참가 기업이 2500개사 내외인 점을 고려하면 10%가 K - 뷰티 기업인 셈이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

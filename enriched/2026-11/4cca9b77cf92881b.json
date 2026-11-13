@@ -1,0 +1,57 @@
+{
+ "doc_id": "4cca9b77cf92881b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100470",
+ "title": "티르티르, 美 엘르 ‘퓨처 오브 뷰티 어워즈’ 수상…글로벌 제품력 입증",
+ "summary": "글로벌 메이크업 브랜드 티르티르(TIRTIR)가 미국 패션·뷰티 매거진 엘르(ELLE)가 주관하는 ‘퓨처 오브 뷰티 어워즈(Future of Beauty Awards)’에서 '베스트 립 앤 치크(Best Lip and Cheek Stick)' 부문을 수상하며 글로벌 시장에서 제품 경쟁력을 입증했다.엘르의 ‘퓨처 오브 뷰티 어워즈’는 뷰티 에디터들이 다양한 신제품을 살펴보고, 제품 테스트와 평가를 거쳐 우수 제품을 선정하는 어워드다. 제품의 혁신성, 효능, 사용 편의성 등을 종합적으로 고려해 스킨케어, 메이크업, 헤어케",
+ "published_at": "2026-11-13T09:43:25+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "other",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "티르티르"
+  ],
+  "companies": [
+   "엘르"
+  ],
+  "keywords": [
+   "멀티유즈 메이크업",
+   "립 앤 치크",
+   "색조 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "무드 글라이드 립 앤 블러쉬 스틱",
+    "brand": "티르티르",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "티르티르가 엘르 퓨처 오브 뷰티 어워즈 립 앤 치크 부문을 수상했다.",
+  "key_fact_quote": "티르티르는 이번 어워드에서 ‘무드 글라이드 립 앤 블러쉬 스틱(Mood Glider Lip and Blush Stick)’으로 '베스트 립 앤 치크(Best Lip and Cheek Stick)' 부문을 수상했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

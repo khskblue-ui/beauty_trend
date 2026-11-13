@@ -1,0 +1,78 @@
+{
+ "doc_id": "b0d2cc8ff8b7ed99",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53955",
+ "title": "이든팜, 코스모팩 아시아(홍콩)서 글로벌 바이어 공략",
+ "summary": "화장품 OEM·ODM 전문기업 이든팜(대표이사 김덕현)이 지난 10일부터 12일까지 홍콩 아시아월드엑스포에서 열린 ‘2026 코스모팩 아시아’(Cosmopack Asia)에 참가, 차별화한 제형 기술과 연구개발 역량을 앞세워 글로벌 시장 공략 활동을 펼쳤다. 이든팜 관계자는 “전시 첫날에만 국내외 기…",
+ "published_at": "2026-11-13T18:33:06+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [
+   "이든팜"
+  ],
+  "keywords": [
+   "캡슐 제형",
+   "화장품 ODM",
+   "신제형",
+   "B2B 전시회"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "2중 캡슐 크림",
+    "brand": "이든팜",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "캡슐 선크림",
+    "brand": "이든팜",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이든팜이 코스모팩 아시아에 참가해 캡슐 제형 기술과 연구개발 역량을 알렸다.",
+  "key_fact_quote": "화장품 OEM·ODM 전문기업 이든팜(대표이사 김덕현) 이 지난 10일부터 12일까지 홍콩 아시아월드엑스포에서 열린 ‘2026 코스모팩 아시아’(Cosmopack Asia) 에 참가, 차별화한 제형 기술과 연구개발 역량을 앞세워 글로벌 시장 공략 활동을 펼쳤다.",
+  "events": [
+   {
+    "name": "2026 코스모팩 아시아",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-12",
+    "place": "홍콩 아시아월드엑스포",
+    "quote": "화장품 OEM·ODM 전문기업 이든팜(대표이사 김덕현) 이 지난 10일부터 12일까지 홍콩 아시아월드엑스포에서 열린 ‘2026 코스모팩 아시아’(Cosmopack Asia) 에 참가, 차별화한 제형 기술과 연구개발 역량을 앞세워 글로벌 시장 공략 활동을 펼쳤다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "비건 PDRN",
+    "quote": "비건 PDRN 함유 피부 개선 화장품 조성물과 피부 마이크로바이옴 기반 자외선 차단 조성물 에 대한 PCT 국제특허 출원도 추진하고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

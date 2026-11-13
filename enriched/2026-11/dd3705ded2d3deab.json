@@ -1,0 +1,53 @@
+{
+ "doc_id": "dd3705ded2d3deab",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53954",
+ "title": "화장품클러스터연합회, 글로벌 협력망 확대",
+ "summary": "비영리사단법인 화장품클러스터연합회(CCA)가 수석부회장 2명을 새롭게 위촉하고 스페인 지회를 신설하는 등 K-뷰티 산업의 글로벌 협력망 확대에 나섰다. 화장품클러스터연합회는 지난 10일 경성대학교 화장품학과에서 인제대학교 산학협력단 김성훈 특임교수를 수석부회장 겸 글로벌대외협력위원장…",
+ "published_at": "2026-11-13T18:11:38+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "ES"
+  ],
+  "brands": [],
+  "companies": [
+   "화장품클러스터연합회"
+  ],
+  "keywords": [
+   "산학연 협력",
+   "글로벌 협력망",
+   "K뷰티 해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "화장품클러스터연합회가 수석부회장을 새로 위촉하고 스페인 지회를 만들어 글로벌 협력망을 넓혔다.",
+  "key_fact_quote": "비영리사단법인 화장품클러스터연합회(CCA)가 수석부회장 2명을 새롭게 위촉하고 스페인 지회를 신설하는 등 K-뷰티 산업의 글로벌 협력망 확대에 나섰다.",
+  "events": [
+   {
+    "name": "제44차 화장품뷰티바이오포럼 국제학술대회",
+    "start_date": "2026-12-04",
+    "end_date": null,
+    "place": "경성대학교 28호관",
+    "quote": "연합회는 오는 12월 4일(금) 경성대학교 28호관에서 창립 17주년 기념식과 제44차 화장품뷰티바이오포럼 국제학술대회를 개최할 예정이다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

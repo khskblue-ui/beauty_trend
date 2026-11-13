@@ -1,0 +1,41 @@
+{
+ "doc_id": "a73875e3700b001c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/entertain/celebrity-topic/6353574",
+ "title": "' 화장품 출시 ' 이정재 \"작년부터 피부 너무 안좋아져 촬영 못해…상황 ...",
+ "summary": "이세화 인턴기자 = 배우 이정재가 직접 화장품 출시 소식을 알리며, 한동안 작품 활동을 쉰 이유를 밝혔다. 13일 이정재는 자신의 사회관계망서비스(SNS) 계정에 한 국내 화장품 브랜드를 언급하며 영상을 게재했다. 영상 속...",
+ "published_at": "2026-11-13T16:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "셀러브리티 브랜드",
+   "피부 고민 케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배우 이정재가 자신의 SNS를 통해 화장품 출시 소식을 직접 알렸다.",
+  "key_fact_quote": "이세화 인턴기자 = 배우 이정재가 직접 화장품 출시 소식을 알리며, 한동안 작품 활동을 쉰 이유를 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

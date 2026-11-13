@@ -1,0 +1,54 @@
+{
+ "doc_id": "a05f0a12e2bc22ef",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53949",
+ "title": "메이크업아티스트 홍현정이 만든 ‘씬바이홍’",
+ "summary": "25년 경력의 메이크업 아티스트 홍현정이 뷰티 브랜드 ‘씬바이홍’을 출시했다. 씬바이홍(SCENE BY HONG)은 전문가의 메이크업 기술을 쉽고 편하게 경험하도록 만든 브랜드다. 첫번째 제품은 ‘씬 바이홍 듀얼 탭 컨실러(SCENE BY HONG Dual Tap Concealer)’다. 기미·잡티 등 피부 결…",
+ "published_at": "2026-11-13T09:42:52+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "씬바이홍"
+  ],
+  "companies": [],
+  "keywords": [
+   "아티스트 브랜드",
+   "컨실러",
+   "크리에이터 뷰티 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "씬 바이홍 듀얼 탭 컨실러",
+    "brand": "씬바이홍",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "25년 경력의 메이크업 아티스트 홍현정이 뷰티 브랜드 ‘씬바이홍’을 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "메이크업 아티스트 홍현정이 뷰티 브랜드 씬바이홍을 출시하고 첫 제품으로 컨실러를 내놨다.",
+  "key_fact_quote": "25년 경력의 메이크업 아티스트 홍현정이 뷰티 브랜드 ‘씬바이홍’을 출시했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

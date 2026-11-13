@@ -1,0 +1,44 @@
+{
+ "doc_id": "a9b14c751ca8f255",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kr.aving.net/news/articleView.html?idxno=1816977",
+ "title": "K-뷰티 하이드로겔 수요 잡는다… 선진뷰티사이언스 OTCM, '하이드로겔 ...",
+ "summary": "화장품 소재 및 제조 전문기업 선진뷰티사이언스(SUNJIN BEAUTY SCIENCE)는 약 32억 원을 투자해 자사 화장품 ODM... 회사 측은 일부 제조사의 생산 리드타임이 6개월 이상으로 길어지는 시장 상황에서, 브랜드사의 신제품 출시...",
+ "published_at": "2026-11-13T12:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "선진뷰티사이언스(SUNJIN BEAUTY SCIENCE)"
+  ],
+  "keywords": [
+   "하이드로겔",
+   "화장품 ODM",
+   "생산 설비 투자"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "선진뷰티사이언스가 하이드로겔 수요에 대응하기 위해 자사 화장품 ODM 설비에 투자했다.",
+  "key_fact_quote": "화장품 소재 및 제조 전문기업 선진뷰티사이언스(SUNJIN BEAUTY SCIENCE)는 약 32억 원을 투자해 자사 화장품 ODM...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

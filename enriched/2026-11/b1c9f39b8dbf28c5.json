@@ -1,0 +1,47 @@
+{
+ "doc_id": "b1c9f39b8dbf28c5",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58725",
+ "title": "中, 전자상거래 품질 개선 '5대 조치' 발표... '최저가 경쟁'에서 '품질·신뢰' 경쟁으로 전환",
+ "summary": "[코스인코리아닷컴 김세화 기자]중국 정부가 온라인 쇼핑시장의 과도한 가격 경쟁을 개선하고 제품과 서비스의 품질을 높이기 위한 정책을 발표했다. 플랫폼의 상품 추천 기준부터 판매기업의 품질관리, 소비자 보호, 해외 상품 유통에 이르기까지 전자상거래 시장 전반의 경쟁 환경을 개선하겠다는 취지…",
+ "published_at": "2026-11-13T12:07:49+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무징마켓인텔리전스",
+   "KOTRA"
+  ],
+  "keywords": [
+   "전자상거래 품질 관리",
+   "콘텐츠 커머스",
+   "라이브커머스",
+   "화장품 온라인 유통 규제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 정부가 최저가 경쟁 대신 품질과 신뢰 중심으로 전자상거래 경쟁을 바꾸는 개선 조치를 발표했다.",
+  "key_fact_quote": "13일 유통 업계에 따르면 최근 중국 정부는 '전자상거래 품질 우선 ‘5대 개선 조치’ 시행에 관한 통지(关于实施品质电商“五优”行动的通知)'를 발표했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

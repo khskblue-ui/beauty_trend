@@ -1,0 +1,50 @@
+{
+ "doc_id": "5553b2dc38e45712",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.lawissue.co.kr/view.php?ud=202611131413379954204ead0791_12",
+ "title": "파마리서치 리쥬란코스메틱, 홍콩·대만·두바이 유통망 1,070여 개 매장...",
+ "summary": "파마리서치의 더마 코스메틱 브랜드 리쥬란코스메틱이 홍콩과 대만에 이어 아랍에미리트 두바이까지... 현지 뷰티 관련 시상식에서 수상한 데 이어 매닝스 유통망까지 확보하면서 관광객 중심의 상권을 넘어 현지...",
+ "published_at": "2026-11-13T14:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "HK",
+   "TW",
+   "AE"
+  ],
+  "brands": [
+   "리쥬란코스메틱"
+  ],
+  "companies": [
+   "파마리서치"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "드럭스토어 유통",
+   "해외 오프라인 확장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "e2ef6ed0aeea6312",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

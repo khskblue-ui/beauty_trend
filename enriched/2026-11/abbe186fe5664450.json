@@ -1,0 +1,54 @@
+{
+ "doc_id": "abbe186fe5664450",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com:8443/en/sol-de-janeiro-teams-up-with,28531",
+ "title": "Sol de Janeiro teams up with Brazilian racing driver Aurelia Nobels",
+ "summary": "Sol de Janeiro has partnered with rising Brazilian racing driver Aurelia Nobels to launch Aurelia Perfume Mist , a limited-edition fragrance inspired by her Brazilian roots and the adrenaline of motorsport. A rising talent in motorsport, Nobels began racing at the age of 10 in Brazil. In 2022, she became the first woman to compete in the Brazilian F4 Championship and won the Senior category of the FIA Girls on Track – Rising Stars program. She subsequently competed in F1 ACADEMY with ART... - Industry buzz",
+ "published_at": "2026-11-13T00:11:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "BR"
+  ],
+  "brands": [
+   "Sol de Janeiro"
+  ],
+  "companies": [],
+  "keywords": [
+   "퍼퓸 미스트",
+   "한정판 향수",
+   "협업 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Aurelia Perfume Mist",
+    "brand": "Sol de Janeiro",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Sol de Janeiro has partnered with rising Brazilian racing driver Aurelia Nobels to launch Aurelia Perfume Mist , a limited-edition fragrance",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Sol de Janeiro가 브라질 레이싱 드라이버와 손잡고 한정판 퍼퓸 미스트를 내놨다.",
+  "key_fact_quote": "Sol de Janeiro has partnered with rising Brazilian racing driver Aurelia Nobels to launch Aurelia Perfume Mist , a limited-edition fragrance",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

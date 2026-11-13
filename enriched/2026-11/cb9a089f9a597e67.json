@@ -1,0 +1,66 @@
+{
+ "doc_id": "cb9a089f9a597e67",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312551",
+ "title": "왕창 BASF 아태 총괄 \"K-뷰티 다음 경쟁력은 전달기술·과학적 입증\"",
+ "summary": "\\\"새로운 성분을 발굴하는 것만으로는 충분하지 않습니다. 이제는 첨단 성분과 전달기술, 포뮬레이션 과학, 소비자 경험을 효과적으로 결합하는 역량이 중요합니다.\\\"글로벌 화학기업 BASF의 아시아·태평양 지역 총괄인 왕창(Chang Wang) 부사장이 K-뷰티의 지속 성장을 위해서는 과학적 효능 입증과 전달기술, 포뮬레이션 역량 강화가 필요하다고 진단했다.뷰티경제와의 서면 인터뷰에서 왕 부사장은 최근 \\'인-코스메틱스 아시아 2026\\'을 계기로 진행한 인터뷰에서 K-뷰티가 글로벌 시장에서 높은 경쟁력을 유지하고 있지만, 앞으로는 성분 경쟁",
+ "published_at": "2026-11-13T10:20:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "BASF"
+  ],
+  "keywords": [
+   "전달기술",
+   "포뮬레이션 과학",
+   "효능 입증",
+   "캡슐화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "BASF 아태 총괄은 K-뷰티의 다음 경쟁력으로 과학적 효능 입증과 전달기술, 포뮬레이션 역량을 꼽았다.",
+  "key_fact_quote": "글로벌 화학기업 BASF의 아시아·태평양 지역 총괄인 왕창(Chang Wang) 부사장이 K-뷰티의 지속 성장을 위해서는 과학적 효능 입증과 전달기술, 포뮬레이션 역량 강화가 필요하다고 진단했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "최근 K-뷰티 시장을 이끌고 있는 PDRN, 엑소좀, 스피큘, PDLLA 등에 대해서도 단순한 성분 경쟁을 넘어설 필요가 있다고 진단했다."
+   },
+   {
+    "name": "엑소좀",
+    "quote": "최근 K-뷰티 시장을 이끌고 있는 PDRN, 엑소좀, 스피큘, PDLLA 등에 대해서도 단순한 성분 경쟁을 넘어설 필요가 있다고 진단했다."
+   },
+   {
+    "name": "스피큘",
+    "quote": "최근 K-뷰티 시장을 이끌고 있는 PDRN, 엑소좀, 스피큘, PDLLA 등에 대해서도 단순한 성분 경쟁을 넘어설 필요가 있다고 진단했다."
+   },
+   {
+    "name": "PDLLA",
+    "quote": "최근 K-뷰티 시장을 이끌고 있는 PDRN, 엑소좀, 스피큘, PDLLA 등에 대해서도 단순한 성분 경쟁을 넘어설 필요가 있다고 진단했다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "그는 \"이미 업계에서는 콜라겐 과학, 시술 후 관리 솔루션, 첨단 전달기술 등에 대한 관심이 높아지고 있다\"며 \"캡슐화, 마이크로비즈, 미세유체 기술, 트랜스포밍 텍스처 등 소비자가 성분의 효과를 보다 직접적으로 체감할 수 있도록 하는 포뮬레이션 기술도 주목받고 있다\"고 말했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

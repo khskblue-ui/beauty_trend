@@ -1,0 +1,81 @@
+{
+ "doc_id": "8c54d6016c43181f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.abcn.kr/news/articleView.html?idxno=94497",
+ "title": "시티르, 향수 대신할 수 있는 '바디밀크' 로션을 말하다",
+ "summary": "바디밀크는 전문 조향사 의 블렌딩을 거친 향 3종과 무향 1종으로 구성됐다. 비 온 뒤 숲속처럼 상쾌한 그린 계열의 '비트윈 더 그린', 막 샤워한 듯 가볍고 맑은 아쿠아 계열의 '아쿠아 브리즈', 바닐라와 샌달우드가...",
+ "published_at": "2026-11-13T14:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "시티르"
+  ],
+  "companies": [],
+  "keywords": [
+   "향기 바디케어",
+   "바디로션",
+   "향수 대체 제품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "바디밀크",
+    "brand": "시티르",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "그린",
+     "아쿠아",
+     "바닐라",
+     "샌달우드"
+    ],
+    "notes_quote": "비 온 뒤 숲속처럼 상쾌한 그린 계열의 '비트윈 더 그린', 막 샤워한 듯 가볍고 맑은 아쿠아 계열의 '아쿠아 브리즈', 바닐라와 샌달우드가..."
+   },
+   {
+    "name": "비트윈 더 그린",
+    "brand": "시티르",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "그린"
+    ],
+    "notes_quote": "비 온 뒤 숲속처럼 상쾌한 그린 계열의 '비트윈 더 그린', 막 샤워한 듯 가볍고 맑은 아쿠아 계열의 '아쿠아 브리즈', 바닐라와 샌달우드가..."
+   },
+   {
+    "name": "아쿠아 브리즈",
+    "brand": "시티르",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "아쿠아"
+    ],
+    "notes_quote": "비 온 뒤 숲속처럼 상쾌한 그린 계열의 '비트윈 더 그린', 막 샤워한 듯 가볍고 맑은 아쿠아 계열의 '아쿠아 브리즈', 바닐라와 샌달우드가..."
+   }
+  ],
+  "key_fact": "시티르의 바디밀크는 조향사가 블렌딩한 향 제품과 무향 제품으로 구성됐다.",
+  "key_fact_quote": "바디밀크는 전문 조향사 의 블렌딩을 거친 향 3종과 무향 1종으로 구성됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

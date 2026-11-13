@@ -1,0 +1,83 @@
+{
+ "doc_id": "5aa3805f5f106211",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100462",
+ "title": "트리엔바이오, 노화에 탁월한 HERBAGEN™ Camellia-PDRN",
+ "summary": "㈜트리엔바이오(대표 김용수)가 선보이는 ‘HERBAGEN™ Camellia-PDRN’은 동백에서 추출한 DNA와 동백꽃수의 이중 시너지를 통해, 세포 재생 효과를 제공하여 피부 회복력 강화 및 노화 징후 완화에 도움을 주는 것이 특징이다.이는 지속 가능한 원료 생산과 윤리적 가치를 중시하는 클린 뷰티 트렌드에도 부합하는 식물 유래(Phyto) PDRN 소재 기술의 결정체이다.HERBAGEN™ Camellia-PDRN은 동백꽃을 증류 공정하여 얻은 동백꽃수(동백꽃수, Camellia Japonica Flower Water)와, 동백꽃",
+ "published_at": "2026-11-13T08:56:30+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "HERBAGEN™"
+  ],
+  "companies": [
+   "트리엔바이오"
+  ],
+  "keywords": [
+   "식물 유래 PDRN",
+   "클린 뷰티",
+   "재생 원료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "트리엔바이오가 동백 DNA와 동백꽃수를 결합한 식물 유래 PDRN 원료를 선보였다.",
+  "key_fact_quote": "㈜트리엔바이오(대표 김용수)가 선보이는 ‘HERBAGEN™ Camellia-PDRN’은 동백에서 추출한 DNA와 동백꽃수의 이중 시너지를 통해, 세포 재생 효과를 제공하여 피부 회복력 강화 및 노화 징후 완화에 도움을 주는 것이 특징이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "HERBAGEN™ Camellia-PDRN",
+    "quote": "㈜트리엔바이오(대표 김용수)가 선보이는 ‘HERBAGEN™ Camellia-PDRN’은 동백에서 추출한 DNA와 동백꽃수의 이중 시너지를 통해, 세포 재생 효과를 제공하여 피부 회복력 강화 및 노화 징후 완화에 도움을 주는 것이 특징이다."
+   },
+   {
+    "name": "동백꽃수",
+    "quote": "HERBAGEN™ Camellia-PDRN은 동백꽃을 증류 공정하여 얻은 동백꽃수(동백꽃수, Camellia Japonica Flower Water)와, 동백꽃 고형분에서 추출한 동백 DNA(Sodium DNA)의 복합물로 완성된다."
+   },
+   {
+    "name": "Camellia Japonica Flower Water",
+    "quote": "HERBAGEN™ Camellia-PDRN은 동백꽃을 증류 공정하여 얻은 동백꽃수(동백꽃수, Camellia Japonica Flower Water)와, 동백꽃 고형분에서 추출한 동백 DNA(Sodium DNA)의 복합물로 완성된다."
+   },
+   {
+    "name": "Sodium DNA",
+    "quote": "HERBAGEN™ Camellia-PDRN은 동백꽃을 증류 공정하여 얻은 동백꽃수(동백꽃수, Camellia Japonica Flower Water)와, 동백꽃 고형분에서 추출한 동백 DNA(Sodium DNA)의 복합물로 완성된다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "이는 지속 가능한 원료 생산과 윤리적 가치를 중시하는 클린 뷰티 트렌드에도 부합하는 식물 유래(Phyto) PDRN 소재 기술의 결정체이다."
+   },
+   {
+    "name": "올레인산 트리글리세이더",
+    "quote": "특히 동백에는 인간의 피부 세포 구조와 유사한 성분인 '올레인산 트리글리세이더'가 함유되어 있어, 피부의 깊은 보습은 물론 상처 치유에도 탁월한 도움을 주는 것으로 밝혀졌다."
+   },
+   {
+    "name": "비타민C",
+    "quote": "그뿐만 아니라 동백꽃은 비타민C와 카테킨류를 풍부하게 함유하고 있다."
+   },
+   {
+    "name": "카테킨류",
+    "quote": "그뿐만 아니라 동백꽃은 비타민C와 카테킨류를 풍부하게 함유하고 있다."
+   },
+   {
+    "name": "Salmon PDRN",
+    "quote": "반면 기존 동물성 연어 유래 PDRN(Salmon PDRN) 10ppm 처리군은 40.99%의 회복률을 기록했으며, 동일한 10ppm 농도를 적용한 Camellia-PDRN 처리군은 이를 가볍게 뛰어넘는 43.88%의 우수한 복구 면적을 기록했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

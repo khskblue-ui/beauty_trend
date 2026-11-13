@@ -1,0 +1,72 @@
+{
+ "doc_id": "21dbc62c9c63776b",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53950",
+ "title": "비앤피코리아, 실크피브로인 국내 독점 공급",
+ "summary": "비앤피코리아(대표 배노을)가 중국 성월바이오(Xingyue Biotechnology)의 실크피브로인(Silk Fibroin) 원료 3종에 대한 국내 독점 공급권을 확보하고 화장품·메디컬 에스테틱 소재 시장 확대에 나선다. 비앤피코리아는 지난 7월 성월바이오와 체결한 협력계약에 따라 국내 시장에서 실크피브…",
+ "published_at": "2026-11-13T09:46:17+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "비앤피코리아",
+   "성월바이오(Xingyue Biotechnology)"
+  ],
+  "keywords": [
+   "실크 단백질 원료",
+   "독점 공급",
+   "메디컬 에스테틱",
+   "하이드로겔 제형"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "비앤피코리아가 중국 성월바이오의 실크피브로인 원료에 대한 국내 독점 공급권을 확보했다.",
+  "key_fact_quote": "비앤피코리아는 지난 7월 성월바이오와 체결한 협력계약에 따라 국내 시장에서 실크피브로인 원료의 판매·제품개발·고객관리 분야 독점 권한을 갖게 됐다.",
+  "events": [
+   {
+    "name": "Beauty X",
+    "start_date": "2026-11-06",
+    "end_date": null,
+    "place": "중국국제수입박람회(CIIE)",
+    "quote": "성월바이오는 지난 6일 중국국제수입박람회(CIIE)에서 열린 글로벌 에스테틱 뷰티 그룹의 ‘Beauty X’ 혁신대회에서 혁신 원료 부문 우수기업 4곳 가운데 하나로 선정됐다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "실크피브로인(Silk Fibroin)",
+    "quote": "비앤피코리아(대표 배노을) 가 중국 성월바이오(Xingyue Biotechnology)의 실크피브로인(Silk Fibroin) 원료 3종 에 대한 국내 독점 공급권을 확보하고 화장품·메디컬 에스테틱 소재 시장 확대에 나선다."
+   },
+   {
+    "name": "수용성 실크피브로인(Soluble Silk Fibroin)",
+    "quote": "공급 대상은 △ 수용성 실크피브로인(Soluble Silk Fibroin) △ 실크피브로인 펩타이드(Silk Fibroin Peptide) △ 실크피브로인 마이크로스피어(Silk Fibroin Microsphere) 등 3종이다."
+   },
+   {
+    "name": "실크피브로인 펩타이드(Silk Fibroin Peptide)",
+    "quote": "공급 대상은 △ 수용성 실크피브로인(Soluble Silk Fibroin) △ 실크피브로인 펩타이드(Silk Fibroin Peptide) △ 실크피브로인 마이크로스피어(Silk Fibroin Microsphere) 등 3종이다."
+   },
+   {
+    "name": "실크피브로인 마이크로스피어(Silk Fibroin Microsphere)",
+    "quote": "공급 대상은 △ 수용성 실크피브로인(Soluble Silk Fibroin) △ 실크피브로인 펩타이드(Silk Fibroin Peptide) △ 실크피브로인 마이크로스피어(Silk Fibroin Microsphere) 등 3종이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

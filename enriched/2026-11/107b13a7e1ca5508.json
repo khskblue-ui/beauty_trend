@@ -1,0 +1,83 @@
+{
+ "doc_id": "107b13a7e1ca5508",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58726",
+ "title": "디오디너리, 캡슐화 레티놀 기술 적용 ‘레티놀 0.3% 에멀전’ 출시",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 캐나다 화장품 기업 데시엠(DECIEM)의 스킨케어 브랜드 디오디너리(The Ordinary)가 캡슐화 레티놀 기술을 적용해 피부 자극 부담을 고려한 신제품 ‘레티놀 0.3% 에멀전’을 출시했다고 13일 밝혔다. 레티놀은 잔주름과 피부 탄력 및 피부 결 관리에 널리 활용…",
+ "published_at": "2026-11-13T14:20:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "CA",
+   "KR"
+  ],
+  "brands": [
+   "디오디너리(The Ordinary)"
+  ],
+  "companies": [
+   "데시엠(DECIEM)"
+  ],
+  "keywords": [
+   "레티놀 입문",
+   "캡슐화 기술",
+   "저자극 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "레티놀 0.3% 에멀전",
+    "brand": "디오디너리(The Ordinary)",
+    "launch_date": "2026-11-13",
+    "launch_status": "launched",
+    "launch_quote": "[코스인코리아닷컴 길태윤 기자] 캐나다 화장품 기업 데시엠(DECIEM)의 스킨케어 브랜드 디오디너리(The Ordinary)가 캡슐화 레티놀 기술을 적용해 피부 자극 부담을 고려한 신제품 ‘레티놀 0.3% 에멀전’을 출시했다고 13일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "레티놀 0.2% 인 스쿠알란",
+    "brand": "디오디너리(The Ordinary)",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디오디너리가 캡슐화 레티놀 기술을 적용한 입문용 레티놀 에멀전을 출시했다.",
+  "key_fact_quote": "[코스인코리아닷컴 길태윤 기자] 캐나다 화장품 기업 데시엠(DECIEM)의 스킨케어 브랜드 디오디너리(The Ordinary)가 캡슐화 레티놀 기술을 적용해 피부 자극 부담을 고려한 신제품 ‘레티놀 0.3% 에멀전’을 출시했다고 13일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레티놀",
+    "quote": "레티놀은 잔주름과 피부 탄력 및 피부 결 관리에 널리 활용되는 비타민 A 계열 성분이지만 처음 사용하는 소비자에게는 적절한 함량 선택과 사용 빈도 및 피부 자극에 대한 우려가 주요 고민으로 꼽힌다."
+   },
+   {
+    "name": "캡슐화 레티놀",
+    "quote": "[코스인코리아닷컴 길태윤 기자] 캐나다 화장품 기업 데시엠(DECIEM)의 스킨케어 브랜드 디오디너리(The Ordinary)가 캡슐화 레티놀 기술을 적용해 피부 자극 부담을 고려한 신제품 ‘레티놀 0.3% 에멀전’을 출시했다고 13일 밝혔다."
+   },
+   {
+    "name": "레티노이드",
+    "quote": "데시엠 사이언스 커뮤니케이션 수석 매니저 조 바샴(Joe Basham)은 “최근 레티노이드 성분에 대한 시선이 양극화되면서 피부가 얇아지거나 만성 염증을 유발하고 심지어 건강한 피부 세포를 파괴한다는 등의 오해와 잘못된 정보가 확산되기도 했다”라며, “그러나 레티노이드는 수십 년간 풍부한 임상 연구를 통해 높은 안전성과 우수한 효능이 입증된 스킨케어의 ‘골드 스탠다드’ 성분임이 분명하다”고 강조했다."
+   },
+   {
+    "name": "스쿠알란",
+    "quote": "이번 신제품은 디오디너리의 기존 입문용 제품인 ‘레티놀 0.2% 인 스쿠알란’을 대체하며 브랜드의 단계별 레티노이드 제품군에서 새로운 시작점 역할을 맡는다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

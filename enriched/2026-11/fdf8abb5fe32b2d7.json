@@ -1,0 +1,81 @@
+{
+ "doc_id": "fdf8abb5fe32b2d7",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53951",
+ "title": "‘로레알 빅뱅’ 우승팀 중국국제수입박람회 참가",
+ "summary": "‘로레알 빅뱅’에 선정된 국내 스타트업 3개사가 중국국제수입박람회에 참가했다. 로레알 빅뱅은 북아시아 지역의 오픈 이노베이션 프로그램이다. 올해는 ‘변화를 이끄는 혁신(Innovation with Impact)’을 주제로 AI 기술 스타트업을 발굴했다. 국내에서는 본작·오가시스·랑카이브 등이 우승…",
+ "published_at": "2026-11-13T10:15:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CN",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "로레알",
+   "본작",
+   "오가시스",
+   "랑카이브",
+   "링카이브",
+   "로레알코리아",
+   "중소벤처기업부",
+   "창업진흥원"
+  ],
+  "keywords": [
+   "뷰티테크",
+   "AI 향 추천",
+   "오픈 이노베이션",
+   "뷰티 스타트업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "센트피디아(Scentpedia)",
+    "brand": "본작",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "본작은 향수 데이터베이스 ‘센트피디아(Scentpedia)’와 AI 큐레이션 엔진 ‘센트 ID(Scent ID)’를 공개했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "센트 ID(Scent ID)",
+    "brand": "본작",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "본작은 향수 데이터베이스 ‘센트피디아(Scentpedia)’와 AI 큐레이션 엔진 ‘센트 ID(Scent ID)’를 공개했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "로레알 빅뱅 우승 국내 스타트업들이 중국국제수입박람회에서 뷰티테크 기술을 선보였다.",
+  "key_fact_quote": "‘로레알 빅뱅’에 선정된 국내 스타트업 3개사가 중국국제수입박람회에 참가했다.",
+  "events": [
+   {
+    "name": "제9회 중국국제수입박람회",
+    "start_date": "2026-11-05",
+    "end_date": "2026-11-10",
+    "place": "중국 상하이 국가전시컨벤션센터",
+    "quote": "로레알은 5일부터 10일까지 중국 상하이 국가전시컨벤션센터에서 열린 ‘제9회 중국국제수입박람회’에 참가해 로레알 빅뱅을 알렸다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

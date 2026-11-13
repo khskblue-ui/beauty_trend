@@ -1,0 +1,78 @@
+{
+ "doc_id": "4ee3355ac0bcd9ff",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58728",
+ "title": "이든팜, 홍콩 ‘코스모팩 아시아 2026’서 차별화된 캡슐 제형 기술 공개",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 화장품 OEM·ODM 전문기업 이든팜(EdenFarm)이 홍콩에서 열린 ‘코스모팩 아시아(Cosmopack Asia) 2026’에서 차별화된 캡슐 제형 기술과 제품 개발 역량을 선보이며 글로벌 바이어들의 관심을 모았다고 13일 밝혔다. 지난 10일부터 12일까지 홍콩…",
+ "published_at": "2026-11-13T14:50:09+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [
+   "이든팜(EdenFarm)"
+  ],
+  "keywords": [
+   "캡슐 제형",
+   "화장품 ODM",
+   "신제형",
+   "B2B 전시회"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "2중 캡슐 크림",
+    "brand": "이든팜",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "캡슐 선크림",
+    "brand": "이든팜",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이든팜이 코스모팩 아시아 2026에서 캡슐 제형 기술과 신제형 제품군을 선보였다.",
+  "key_fact_quote": "[코스인코리아닷컴 길태윤 기자] 화장품 OEM·ODM 전문기업 이든팜(EdenFarm)이 홍콩에서 열린 ‘코스모팩 아시아(Cosmopack Asia) 2026’에서 차별화된 캡슐 제형 기술과 제품 개발 역량을 선보이며 글로벌 바이어들의 관심을 모았다고 13일 밝혔다.",
+  "events": [
+   {
+    "name": "코스모팩 아시아(Cosmopack Asia) 2026",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-12",
+    "place": "홍콩 아시아월드엑스포(AsiaWorld-Expo)",
+    "quote": "지난 10일부터 12일까지 홍콩 아시아월드엑스포(AsiaWorld-Expo)에서 개최된 코스모팩 아시아는 화장품 원료와 패키징, 제조기술 및 OEM·ODM 분야를 아우르는 글로벌 B2B 전문 전시회다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "비건 PDRN",
+    "quote": "비건 PDRN 함유 피부 개선 화장품 조성물과 피부 마이크로바이옴 기반 자외선 차단 조성물에 대한 PCT 국제특허 출원도 진행해 신규 소재와 기능성 조성물 분야의 기술 확보에 힘을 싣고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

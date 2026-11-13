@@ -1,0 +1,61 @@
+{
+ "doc_id": "19aa15d8fec59beb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611111103266280105292",
+ "title": "[더벨][hy 아이오셀 사업 해부] 식품 밖 수익원 찾는 hy, 유산균 화장품 ...",
+ "summary": "건강기능식품 업체에 공급하던 HY7714를 화장품 원료로 활용해 자사 온라인몰 프레딧에서 판매를 시작했다. 그해 5월 자체브랜드(PB) 제품으로 선보인 ‘NK7714 하이퍼 부스팅 앰플’은 출시 2주 만에 1만개가 팔렸다....",
+ "published_at": "2026-11-13T11:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오셀"
+  ],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "유산균 화장품",
+   "프로바이오틱 스킨케어",
+   "사업 다각화"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "NK7714 하이퍼 부스팅 앰플",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "그해 5월 자체브랜드(PB) 제품으로 선보인 ‘NK7714 하이퍼 부스팅 앰플’은 출시 2주 만에 1만개가 팔렸다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "hy가 건강기능식품용 유산균 HY7714를 화장품 원료로 활용해 화장품 사업을 키우고 있다.",
+  "key_fact_quote": "건강기능식품 업체에 공급하던 HY7714를 화장품 원료로 활용해 자사 온라인몰 프레딧에서 판매를 시작했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "HY7714",
+    "quote": "건강기능식품 업체에 공급하던 HY7714를 화장품 원료로 활용해 자사 온라인몰 프레딧에서 판매를 시작했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

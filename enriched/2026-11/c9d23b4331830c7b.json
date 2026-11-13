@@ -1,0 +1,70 @@
+{
+ "doc_id": "c9d23b4331830c7b",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/it-s-up-to-us-to-make-refilling,28533",
+ "title": "“It's up to us to make refilling attractive,” Mandana Vahedi, Planet B",
+ "summary": "At just 26, Mandana Vahedi has already taken on several major challenges in luxury beauty packaging. After an initial internship at L'Oréal Luxe, she joined Puig in Spain, where she worked on the Carolina Herrera makeup line. She is now a Product Development Project Manager at Planet B, the Belgian company behind WONDR (personal care and beauty) and POWR (laundry and household care). Her mission is to make sustainable choices easy. Mandana Vahedi is among the talents selected for the Future... - Packaging & design / A la une",
+ "published_at": "2026-11-14T02:29:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "BE"
+  ],
+  "brands": [
+   "WONDR",
+   "POWR",
+   "Carolina Herrera"
+  ],
+  "companies": [
+   "Planet B",
+   "L'Oréal Luxe",
+   "Puig"
+  ],
+  "keywords": [
+   "리필 패키징",
+   "플라스틱 프리",
+   "지속가능 패키징",
+   "알루미늄 리필"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "aluminium can refills for WONDR shampoo, shower gel and conditioner",
+    "brand": "WONDR",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "I work hand in hand with suppliers, labs and manufacturers to turn bold ideas into real products, like our latest launches: aluminium can refills for WONDR shampoo, shower gel and conditioner, and a sugarcane-based bottle for POWR liquid laundry detergent.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "sugarcane-based bottle for POWR liquid laundry detergent",
+    "brand": "POWR",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "I work hand in hand with suppliers, labs and manufacturers to turn bold ideas into real products, like our latest launches: aluminium can refills for WONDR shampoo, shower gel and conditioner, and a sugarcane-based bottle for POWR liquid laundry detergent.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Planet B는 플라스틱 없는 리필 시스템을 여러 카테고리에 적용하고 있으며 소비자 반응이 긍정적이라고 밝혔다.",
+  "key_fact_quote": "Most recently, we extended it to shampoo, shower gel and conditioner, with an aluminium can refill that fits into a reusable pump bottle.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

@@ -1,0 +1,72 @@
+{
+ "doc_id": "d9fb78616e0dd12f",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100476",
+ "title": "KHIDI 지원사업 '꾸밈' K-뷰티 영토확장에 날개",
+ "summary": "한국보건산업진흥원(KHIDI)의 K-뷰티 해외 판매장 운영 지원사업을 통해 K-뷰티의 동남아시아 영토 확장을 주도할 혁신적인 오프라인 체험 거점이 아세안 최대 뷰티 격전지인 인도네시아 심장부에서 화려한 대박 흥행 신호탄을 쏘아 올렸다.국내 유망 중소 화장품 브랜드의 안전하고 폭발적인 현지 진출을 견인하는 K-뷰티 체험형 테마파크 ‘꾸밈 (GGU:MEME)’가 지난 11월 7일(금) 인도네시아 자카르타 West Jakarta의 랜드마크인 ‘센트럴 파크 몰(Central Park Mall)’ 2층에 플래그십 스토어를 공식 오픈하고, 첫",
+ "published_at": "2026-11-13T10:58:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "ID",
+   "KR"
+  ],
+  "brands": [
+   "꾸밈",
+   "리써",
+   "웰라쥬",
+   "토니모리"
+  ],
+  "companies": [
+   "한국보건산업진흥원",
+   "K1BeautyHealth",
+   "The Won International",
+   "PT Satu Ritel Indo"
+  ],
+  "keywords": [
+   "K-뷰티 체험형 매장",
+   "동남아 진출",
+   "AI 피부 진단",
+   "라이브 커머스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "김밥팩",
+    "brand": "리써",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "K-뷰티 체험형 매장 꾸밈이 자카르타 센트럴 파크 몰에 문을 연 날 오픈런이 벌어졌다.",
+  "key_fact_quote": "개장 당일이었던 7일 오전에는 매장 문이 열리기 전부터 센트럴 파크 몰 복도를 따라 수백 명의 현지 젊은 소비자들이 장사진을 치는 ‘오픈런’ 진풍경이 연출됐다.",
+  "events": [
+   {
+    "name": "꾸밈 (GGU:MEME) 플래그십 스토어 오픈",
+    "start_date": "2026-11-07",
+    "end_date": null,
+    "place": "센트럴 파크 몰",
+    "quote": "개장 당일이었던 7일 오전에는 매장 문이 열리기 전부터 센트럴 파크 몰 복도를 따라 수백 명의 현지 젊은 소비자들이 장사진을 치는 ‘오픈런’ 진풍경이 연출됐다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

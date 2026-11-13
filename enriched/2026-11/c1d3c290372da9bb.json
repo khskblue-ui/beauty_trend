@@ -1,0 +1,56 @@
+{
+ "doc_id": "c1d3c290372da9bb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.segyebiz.com/newsView/20261112514250?OutUrl=naver",
+ "title": "제이숲, 무신사 뷰티 성수점 입점…오프라인 유통 확대 및 2030세대 공략",
+ "summary": "피치 에디션은 기존 모발 관리 기능에 향료 와 패키지 외관을 달리 적용한 제품이다. 이외에도 두피 상태별 관리 제품군과 헤어 스타일링 품목도 함께 진열된다. 소비자는 손상모 관리부터 두피 케어, 스타일링까지...",
+ "published_at": "2026-11-13T12:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "제이숲"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "헤어케어",
+   "두피 케어",
+   "오프라인 뷰티 편집숍"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "피치 에디션",
+    "brand": "제이숲",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "제이숲이 무신사 뷰티 성수점에 입점해 오프라인 유통을 넓혔다.",
+  "key_fact_quote": "제이숲, 무신사 뷰티 성수점 입점…오프라인 유통 확대 및 2030세대 공략",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

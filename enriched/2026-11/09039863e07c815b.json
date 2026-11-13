@@ -1,0 +1,50 @@
+{
+ "doc_id": "09039863e07c815b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.public25.com/news/articleView.html?idxno=58418",
+ "title": "모크레스, 무신사 뷰티 성수 입점…오프라인 유통망 확대",
+ "summary": "퍼블릭타임스=K- 뷰티 스타트업 프라운이 전개하는 뷰티 브랜드 모크레스(MOCRES)가 무신사 뷰티 성수에 입점하며 유통 채널 확대하고 있다. 지난 6월 브랜드 론칭 이후 올리브영과 현대백화점, W컨셉에 이어 무신사까지...",
+ "published_at": "2026-11-13T08:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "모크레스(MOCRES)",
+   "올리브영",
+   "W컨셉"
+  ],
+  "companies": [
+   "프라운",
+   "무신사",
+   "현대백화점"
+  ],
+  "keywords": [
+   "오프라인 유통",
+   "뷰티 스타트업",
+   "유통 채널 확대"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "뷰티 브랜드 모크레스가 무신사 뷰티 성수에 입점하며 유통 채널을 넓히고 있다.",
+  "key_fact_quote": "퍼블릭타임스=K- 뷰티 스타트업 프라운이 전개하는 뷰티 브랜드 모크레스(MOCRES)가 무신사 뷰티 성수에 입점하며 유통 채널 확대하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

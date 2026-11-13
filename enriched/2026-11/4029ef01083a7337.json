@@ -1,0 +1,92 @@
+{
+ "doc_id": "4029ef01083a7337",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100473",
+ "title": "동국제약 센텔리안24, ‘컬리뷰티페스타 2026’ 참가",
+ "summary": "동국제약(대표이사 송준호)의 더마코스메틱 브랜드 센텔리안24가 11월 12일부터 15일까지 서울 동대문디자인플라자(DDP) 아트홀에서 열리는 ‘컬리뷰티페스타 2026’에 참가한다.리테일 테크 기업 컬리가 주최하는 ‘컬리뷰티페스타 2026’은 '당신의 매일을 더 아름답게(Your Day, Your Beauty)'라는 슬로건 아래 아침, 낮, 저녁, 밤 등 하루의 4가지 시간대를 테마로 한 공간으로 구성되어 운영된다. 센텔리안24는 이 중 ‘밤 존’에 단독 부스를 마련했다.센텔리안24 부스에서는 제품 체험과 다양한 이벤트",
+ "published_at": "2026-11-13T09:47:58+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안24"
+  ],
+  "companies": [
+   "동국제약",
+   "컬리"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "뷰티 페스티벌",
+   "체험형 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "마데카 크림",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마데카 더마 마스크 인텐시브 리프팅 포뮬러",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마데카 멜라 캡처 토닝샷 앰플",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마데카 멜라 캡처 앰플 마스크팩",
+    "brand": "센텔리안24",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동국제약 센텔리안24가 컬리뷰티페스타 2026에 단독 부스를 내고 참가한다.",
+  "key_fact_quote": "동국제약(대표이사 송준호)의 더마코스메틱 브랜드 센텔리안24가 11월 12일부터 15일까지 서울 동대문디자인플라자(DDP) 아트홀에서 열리는 ‘컬리뷰티페스타 2026’에 참가한다.",
+  "events": [
+   {
+    "name": "컬리뷰티페스타 2026",
+    "start_date": "2026-11-12",
+    "end_date": "2026-11-15",
+    "place": "서울 동대문디자인플라자(DDP) 아트홀",
+    "quote": "동국제약(대표이사 송준호)의 더마코스메틱 브랜드 센텔리안24가 11월 12일부터 15일까지 서울 동대문디자인플라자(DDP) 아트홀에서 열리는 ‘컬리뷰티페스타 2026’에 참가한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

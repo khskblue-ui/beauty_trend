@@ -1,0 +1,66 @@
+{
+ "doc_id": "98f90ead57188684",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100467",
+ "title": "디오디너리, 부담 없이 시작하는 노화 케어, ‘레티놀 0.3% 에멀전’",
+ "summary": "캐나다 오리진의 코스메틱 브랜드 데시엠(DECIEM)의 ‘진정성 있는 임상 스킨케어’ 브랜드 디오디너리(The Ordinary)가 누구나 부담 없이 레티놀 케어를 시작할 수 있도록 돕는 신제품 ‘레티놀 0.3% 에멀전’을 출시한다.레티놀은 수십 년간의 임상 연구를 통해 효능이 검증된 대표적인 안티에이징 성분이지만, 동시에 입문자들에게 가장 어렵고 부담스러운 성분으로 꼽혀왔다. SNS에서 레티놀 관련 대화가 폭발적으로 증가함과 동시에 함량 선택부터 적응기 자극, 피부 뒤집힘, 타 성분과의 병용 가능 여부 등 상충하는 정보가 무분별하게",
+ "published_at": "2026-11-13T09:35:29+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "CA"
+  ],
+  "brands": [
+   "디오디너리"
+  ],
+  "companies": [
+   "데시엠"
+  ],
+  "keywords": [
+   "레티놀 입문",
+   "안티에이징",
+   "캡슐화 레티놀",
+   "임상 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "레티놀 0.3% 에멀전",
+    "brand": "디오디너리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "캐나다 오리진의 코스메틱 브랜드 데시엠(DECIEM)의 ‘진정성 있는 임상 스킨케어’ 브랜드 디오디너리(The Ordinary)가 누구나 부담 없이 레티놀 케어를 시작할 수 있도록 돕는 신제품 ‘레티놀 0.3% 에멀전’을 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디오디너리가 레티놀 입문자를 위해 캡슐화 기술을 쓴 레티놀 에멀전 신제품을 내놓는다.",
+  "key_fact_quote": "캐나다 오리진의 코스메틱 브랜드 데시엠(DECIEM)의 ‘진정성 있는 임상 스킨케어’ 브랜드 디오디너리(The Ordinary)가 누구나 부담 없이 레티놀 케어를 시작할 수 있도록 돕는 신제품 ‘레티놀 0.3% 에멀전’을 출시한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레티놀",
+    "quote": "레티놀은 수십 년간의 임상 연구를 통해 효능이 검증된 대표적인 안티에이징 성분이지만, 동시에 입문자들에게 가장 어렵고 부담스러운 성분으로 꼽혀왔다."
+   },
+   {
+    "name": "레티노이드",
+    "quote": "소비자의 피부 적응도에 따라 적합한 레티노이드 성분과 기술이 다르게 적용되어야 한다는 취지다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

@@ -1,0 +1,53 @@
+{
+ "doc_id": "ad0d88e4b932e520",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.munhwa.com/article/11631181?ref=naver",
+ "title": "K -푸드에 뷰티 ·콘텐츠 더한다…aT, 수출 협업기업 모집",
+ "summary": "식품기업 중심이던 K -푸드 수출 협업이 내년부터 뷰티 와 콘텐츠, 유통·푸드테크 등 다른 산업으로 확대된다. 농림축산식품부와 한국농수산식품유통공사(aT)는 오는 30일 서울 성동구에서 ‘2027 NEXT K -푸드 매칭...",
+ "published_at": "2026-11-13T15:37:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "농림축산식품부",
+   "한국농수산식품유통공사"
+  ],
+  "keywords": [
+   "이종산업 협업",
+   "K푸드 수출",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식품기업 중심이던 K푸드 수출 협업이 뷰티와 콘텐츠 산업으로 넓어진다.",
+  "key_fact_quote": "식품기업 중심이던 K -푸드 수출 협업이 내년부터 뷰티 와 콘텐츠, 유통·푸드테크 등 다른 산업으로 확대된다.",
+  "events": [
+   {
+    "name": "2027 NEXT K -푸드 매칭",
+    "start_date": "2026-11-30",
+    "end_date": null,
+    "place": "서울 성동구",
+    "quote": "농림축산식품부와 한국농수산식품유통공사(aT)는 오는 30일 서울 성동구에서 ‘2027 NEXT K -푸드 매칭..."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

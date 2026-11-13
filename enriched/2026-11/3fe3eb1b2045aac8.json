@@ -1,0 +1,56 @@
+{
+ "doc_id": "3fe3eb1b2045aac8",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312772",
+ "title": "K-Beauty Rebounds in China as Brands Accelerate Global Expansion",
+ "summary": "South Korea’s beauty industry is entering a new phase of growth, fueled by recovering demand in China and an increasingly diversified global expansion strategy.Exports of Korean cosmetics to China have begun to rebound after several years of sluggish performance, prompting both government agencies a",
+ "published_at": "2026-11-13T10:55:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN",
+   "HK"
+  ],
+  "brands": [
+   "JUNGSAEMMOOL",
+   "Anua",
+   "Dr. Althea",
+   "COSRX",
+   "Rejuran"
+  ],
+  "companies": [
+   "Korea International Trade Association (KITA)",
+   "Xiaohongshu (RED)",
+   "Tmall Global"
+  ],
+  "keywords": [
+   "중국 시장 회복",
+   "더마 코스메틱",
+   "프리미엄 스킨케어",
+   "크로스보더 이커머스",
+   "무역 박람회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 화장품의 대중국 수출이 반등하면서 정부 기관과 뷰티 기업이 중국 시장 공략을 강화하고 있다.",
+  "key_fact_quote": "Exports of Korean cosmetics to China have begun to rebound after several years of sluggish performance, prompting both government agencies and beauty companies to strengthen their presence in the world's second-largest economy.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

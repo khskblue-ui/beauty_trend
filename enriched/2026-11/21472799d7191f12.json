@@ -1,0 +1,50 @@
+{
+ "doc_id": "21472799d7191f12",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bokuennews.com/news/article.html?no=287176",
+ "title": "모크레스, '무신사 뷰티 성수' 입점… 립 매대에 팝업존까지",
+ "summary": "무신사 뷰티 성수에 입점한 모크레스 프라운(대표 양채원)의 뷰티 브랜드 모크레스가 지난 11일 '무신사... 모크레스는 지난 6월 공식 론칭 이후 W컨셉, 현대백화점 판교점, 올리브영 등 주요 패션· 뷰티 유통 채널에...",
+ "published_at": "2026-11-13T15:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "모크레스"
+  ],
+  "companies": [
+   "모크레스 프라운",
+   "무신사",
+   "W컨셉",
+   "현대백화점",
+   "올리브영"
+  ],
+  "keywords": [
+   "립 메이크업",
+   "팝업존",
+   "오프라인 뷰티 편집숍"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "뷰티 브랜드 모크레스가 무신사 뷰티 성수에 입점했다.",
+  "key_fact_quote": "무신사 뷰티 성수에 입점한 모크레스 프라운(대표 양채원)의 뷰티 브랜드 모크레스가 지난 11일 '무신사...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

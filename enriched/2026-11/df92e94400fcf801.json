@@ -1,0 +1,76 @@
+{
+ "doc_id": "df92e94400fcf801",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58730",
+ "title": "모아캠, 효소 기반 모발 결합 강화 소재 ‘AC Curezyme’ 제시",
+ "summary": "# AC Curezyme: 모발 결합을 강화하는(Bond-Building) 차세대 헤어케어 설루션 [코스인코리아닷컴 길태윤 기자] 기존 컨디셔닝 소재가 손상 모발을 표면 코팅하는 데 그치는 한계를 보완하기 위해 이번 논문은 효소와 식물 유래 단백질을 결합한 모발 결합 강화 소재 ‘AC Curezyme’…",
+ "published_at": "2026-11-13T17:12:34+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "모아캠",
+   "Active Concepts, LLC",
+   "Curie Co. Inc."
+  ],
+  "keywords": [
+   "본드 빌딩 헤어케어",
+   "모발 결합 강화",
+   "효소 기술",
+   "식물 유래 단백질"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "모아캠이 효소와 식물 유래 단백질을 결합한 모발 결합 강화 소재를 논문으로 소개했다.",
+  "key_fact_quote": "AC Curezyme은 Active Concepts, LLC와 Curie Co. Inc.가 공동 개발한 모발 결합 강화 소재다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "AC Curezyme",
+    "quote": "AC Curezyme은 Active Concepts, LLC와 Curie Co. Inc.가 공동 개발한 모발 결합 강화 소재다."
+   },
+   {
+    "name": "Curamina®",
+    "quote": "생체모방 효소 기술인 Curamina®와 옥수수, 밀, 콩에서 얻은 가수분해 식물 단백질을 결합했다."
+   },
+   {
+    "name": "가수분해 식물 단백질",
+    "quote": "생체모방 효소 기술인 Curamina®와 옥수수, 밀, 콩에서 얻은 가수분해 식물 단백질을 결합했다."
+   },
+   {
+    "name": "트랜스글루타미나아제",
+    "quote": "핵심 효소인 트랜스글루타미나아제는 케라틴을 구성하는 라이신의 아민기와 글루타민의 카르복사마이드기 사이에 공유결합을 형성한다."
+   },
+   {
+    "name": "양이온성 계면활성제",
+    "quote": "기존 헤어 컨디셔닝 제품은 양이온성 계면활성제와 실리콘, 폴리머 등을 모발 표면에 흡착시켜 부드러움과 윤기를 부여한다."
+   },
+   {
+    "name": "실리콘",
+    "quote": "기존 헤어 컨디셔닝 제품은 양이온성 계면활성제와 실리콘, 폴리머 등을 모발 표면에 흡착시켜 부드러움과 윤기를 부여한다."
+   },
+   {
+    "name": "폴리머",
+    "quote": "기존 헤어 컨디셔닝 제품은 양이온성 계면활성제와 실리콘, 폴리머 등을 모발 표면에 흡착시켜 부드러움과 윤기를 부여한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

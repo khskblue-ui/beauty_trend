@@ -1,0 +1,43 @@
+{
+ "doc_id": "adbb84e740011c11",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883032",
+ "title": "신일전자, 3Q 누계 영업익 82억... 뷰티 가전 진출 효과톡톡",
+ "summary": "동시에, 홈 뷰티 와 같은 고부가가치 신사업으로 영역을 성공적으로 확장하고 있다\"며 \"철저한 원가 관리와 트렌드 맞춤형 제품 출시 는 향후 지속 가능한 성장과 수익성 개선에 강력한 동력이 될 것\"이라고 분석했다.",
+ "published_at": "2026-11-13T11:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신일전자"
+  ],
+  "keywords": [
+   "뷰티 가전",
+   "홈 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "신일전자는 홈 뷰티 같은 신사업으로 영역을 넓히고 있다.",
+  "key_fact_quote": "홈 뷰티 와 같은 고부가가치 신사업으로 영역을 성공적으로 확장하고 있다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "cd98d53b1728e05c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/13/2026111300240.html",
+ "title": "퍼프사업 인수 2년 만에 흑자전환 … 휴엠앤씨, ' K - 뷰티 ' 타고 누적 영업...",
+ "summary": "코스메틱부문 수출 액도 올해 1~9월 41억5623만원으로 지난해 연간 수출 액 42억6256만원의 97.5%에 도달했다. 회사 측은 K - 뷰티 의 영향력이 아시아를 넘어 미국과 유럽으로 확대되면서 해외 거래처의 완제품 수요가...",
+ "published_at": "2026-11-13T15:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "휴엠앤씨"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "화장품 퍼프",
+   "완제품 수요"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "휴엠앤씨 코스메틱부문 수출액이 올해 들어 지난해 연간 수준에 거의 도달했다.",
+  "key_fact_quote": "코스메틱부문 수출 액도 올해 1~9월 41억5623만원으로 지난해 연간 수출 액 42억6256만원의 97.5%에 도달했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

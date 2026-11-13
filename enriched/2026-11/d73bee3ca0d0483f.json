@@ -1,0 +1,44 @@
+{
+ "doc_id": "d73bee3ca0d0483f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newstomato.com/ReadNews.aspx?no=1320214&inflow=N",
+ "title": "(내일의 거인들)이성호 선진뷰티사이언스 대표 \"원료 기술력으로 완제품...",
+ "summary": "과학적 근거와 성분의 효능을 강조하는 더마 화장품 브랜드로 차별화를 추진하고 있습니다. 다만 브랜드 사업은 아직 기대한 만큼의 성과를 거두지 못했습니다. 지난해 다양한 제품을 출시 하고 마케팅을 확대했지만...",
+ "published_at": "2026-11-13T08:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "선진뷰티사이언스"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "원료 기술",
+   "완제품 사업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "선진뷰티사이언스는 성분 효능을 앞세운 더마 화장품 브랜드로 차별화를 추진하고 있다.",
+  "key_fact_quote": "과학적 근거와 성분의 효능을 강조하는 더마 화장품 브랜드로 차별화를 추진하고 있습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

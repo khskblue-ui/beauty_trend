@@ -1,0 +1,54 @@
+{
+ "doc_id": "842985684b304b02",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/skylar-hair-body-mists-leah-kateb-1239414204/",
+ "title": "EXCLUSIVE: Clean Fragrance Brand Skylar Reintroduces Hair and Body Mists",
+ "summary": "The launch comes a little over a year after \"Love Island USA\" star Leah Kateb joined the brand as refounder and chief creative officer.",
+ "published_at": "2026-11-14T02:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Skylar"
+  ],
+  "companies": [],
+  "keywords": [
+   "클린 향수",
+   "헤어 미스트",
+   "바디 미스트"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Hair and Body Mists",
+    "brand": "Skylar",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "The launch comes a little over a year after \"Love Island USA\" star Leah Kateb joined the brand as refounder and chief creative officer.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "클린 향수 브랜드 Skylar가 헤어 미스트와 바디 미스트를 다시 내놨다.",
+  "key_fact_quote": "EXCLUSIVE: Clean Fragrance Brand Skylar Reintroduces Hair and Body Mists",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

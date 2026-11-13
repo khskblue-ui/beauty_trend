@@ -1,0 +1,53 @@
+{
+ "doc_id": "d88434f39fbf3bc0",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100469",
+ "title": "‘로레알 빅뱅’ 선정 국내 스타트업 3사, 제9회 중국국제수입박람회 참가",
+ "summary": "로레알 그룹의 북아시아 지역 오픈 이노베이션 프로그램 “2026 로레알 빅뱅”에 선정된 국내 유망 스타트업 3개사가 로레알 그룹과 함께 중국 상하이에서 열린 ‘제9회 중국국제수입박람회(China International Import Expo, CIIE)’에 참가했다고 밝혔다.올해 로레알 빅뱅은 “변화를 이끄는 혁신 (Innovation with Impact)”를 주제로 AI 기술 접목과 비즈니스 상용화에 초점을 맞췄다. 로레알은 이번 CIIE 박람회 전시관에서 로레알 빅뱅을 소개하는 공간을 마련하고, 북아시아(한국, 중국, 일본)",
+ "published_at": "2026-11-13T09:41:12+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CN",
+   "JP"
+  ],
+  "brands": [
+   "셀바티코"
+  ],
+  "companies": [
+   "로레알",
+   "본작",
+   "오가시스",
+   "링카이브",
+   "로레알코리아"
+  ],
+  "keywords": [
+   "뷰티 테크",
+   "오픈 이노베이션",
+   "AI 향수 큐레이션",
+   "프래그런스 테크"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "로레알 빅뱅에 선정된 국내 스타트업 세 곳이 로레알과 함께 중국국제수입박람회에 참가했다.",
+  "key_fact_quote": "로레알 그룹의 북아시아 지역 오픈 이노베이션 프로그램 “2026 로레알 빅뱅”에 선정된 국내 유망 스타트업 3개사가 로레알 그룹과 함께 중국 상하이에서 열린 ‘제9회 중국국제수입박람회(China International Import Expo, CIIE)’에 참가했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

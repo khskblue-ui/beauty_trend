@@ -1,0 +1,55 @@
+{
+ "doc_id": "2e173efd9018a22c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.livesnews.com/news/article.html?no=65964",
+ "title": "시티르, 발향력 좋은 '바디밀크' 제안… 향수가 부담스럽다면 '향 좋은...",
+ "summary": "또 다른 구매자 역시 \"전문 조향사 가 블렌딩해 향이 은은하고 고급스러우며, 스프레이 타입이라 샤워 후 간편하게 뿌리고 흡수시키기 좋다\"고 만족감을 드러냈다. 시티르 '바디밀크'는 손이 닿지 않는 등 부위까지...",
+ "published_at": "2026-11-13T14:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "시티르"
+  ],
+  "companies": [],
+  "keywords": [
+   "바디밀크",
+   "향 좋은 바디케어",
+   "스프레이 타입",
+   "향수 대체"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "바디밀크",
+    "brand": "시티르",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "시티르가 향수 대신 쓸 수 있는 발향력 좋은 바디밀크를 제안했다.",
+  "key_fact_quote": "또 다른 구매자 역시 \"전문 조향사 가 블렌딩해 향이 은은하고 고급스러우며, 스프레이 타입이라 샤워 후 간편하게 뿌리고 흡수시키기 좋다\"고 만족감을 드러냈다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

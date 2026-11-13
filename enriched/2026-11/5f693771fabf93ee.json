@@ -1,0 +1,41 @@
+{
+ "doc_id": "5f693771fabf93ee",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258778",
+ "title": "\"배당만으론 부족\"… 유통·뷰티업계, 주주에 할인 쿠폰까지 쏜다",
+ "summary": "식품· 화장품 업계에서 시작된 주주 우대 제도가 대형 유통기업과 의류·여행·레저업계로 확산하면서 새로운... 도입했는데 출시 약 6개월 만에 가입자가 2만 명을 넘어섰다. 주주 우대 제도가 실제 주가 상승으로...",
+ "published_at": "2026-11-13T10:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "주주 우대 제도",
+   "주주 환원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 업계에서 시작된 주주 우대 제도가 유통과 의류, 여행 업계로 퍼지고 있다.",
+  "key_fact_quote": "식품· 화장품 업계에서 시작된 주주 우대 제도가 대형 유통기업과 의류·여행·레저업계로 확산하면서 새로운...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "329e794b6d492d99",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91999",
+ "title": "휴엠앤씨, 3분기 매출 12%·영업익 40% 증가 … 글라스·화장품 사업 동...",
+ "summary": "K - 뷰티 의 영향력이 아시아를 넘어 미국과 유럽으로 확산하면서 해외 거래처의 완제품 주문이 늘어난 것이 주효했다. 3분기 해외 수출 액은 지난해 같은 기간보다 약 30% 증가했다. 휴엠앤씨는 해외 수요 확대에 대비해...",
+ "published_at": "2026-11-13T22:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "휴엠앤씨"
+  ],
+  "keywords": [
+   "실적 개선",
+   "화장품 용기",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "휴엠앤씨는 해외 거래처의 완제품 주문이 늘어 실적이 좋아졌다.",
+  "key_fact_quote": "K - 뷰티 의 영향력이 아시아를 넘어 미국과 유럽으로 확산하면서 해외 거래처의 완제품 주문이 늘어난 것이 주효했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

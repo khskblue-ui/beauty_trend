@@ -1,0 +1,105 @@
+{
+ "doc_id": "810cfac15272d32f",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100475",
+ "title": "피지오겔, 겨울철 민감 피부 위한 ‘손상 장벽 리페어 존’ 팝업 오픈",
+ "summary": "LG생활건강의 더마톨로지컬 뷰티 브랜드 ‘피지오겔(PHYSIOGEL)’이 겨울철 민감해진 피부의 붉은기와 일상 속 미세손상을 케어하는 ‘레드수딩 AI’ 라인을 앞세워 체험형 팝업스토어를 열었다.피지오겔은 지난 12일부터 오는 15일까지 서울 동대문디자인플라자(DDP)에서 열리는 ‘컬리뷰티페스타2026’에 참가해 ‘손상 장벽 리페어 존’ 부스를 운영한다. 이번 팝업은 겨울철 건조한 환경과 급격한 온도 변화로 민감해지기 쉬운 피부를 위해, 장벽 케어의 중요성을 직관적으로 전달하고자 피부장벽 보수 공사장 콘셉트로 기획됐다.메인 테마로 선",
+ "published_at": "2026-11-13T09:51:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피지오겔"
+  ],
+  "companies": [
+   "LG생활건강",
+   "컬리"
+  ],
+  "keywords": [
+   "장벽 케어",
+   "민감 피부",
+   "체험형 팝업스토어",
+   "더마 코스메틱"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "레드수딩 AI 리페어 크림",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "레드수딩 로자테카 레드니스 리듀싱 세럼",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "레드수딩 AI 리페어 에센스",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "사이언수티컬즈 데일리뮨 앰플",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "피지오겔이 컬리뷰티페스타에서 레드수딩 AI 라인을 앞세운 체험형 팝업 부스를 운영한다.",
+  "key_fact_quote": "LG생활건강의 더마톨로지컬 뷰티 브랜드 ‘피지오겔(PHYSIOGEL)’이 겨울철 민감해진 피부의 붉은기와 일상 속 미세손상을 케어하는 ‘레드수딩 AI’ 라인을 앞세워 체험형 팝업스토어를 열었다.",
+  "events": [
+   {
+    "name": "컬리뷰티페스타2026",
+    "start_date": "2026-11-12",
+    "end_date": "2026-11-15",
+    "place": "서울 동대문디자인플라자(DDP)",
+    "quote": "피지오겔은 지난 12일부터 오는 15일까지 서울 동대문디자인플라자(DDP)에서 열리는 ‘컬리뷰티페스타2026’에 참가해 ‘손상 장벽 리페어 존’ 부스를 운영한다."
+   },
+   {
+    "name": "손상 장벽 리페어 존",
+    "start_date": "2026-11-12",
+    "end_date": "2026-11-15",
+    "place": "서울 동대문디자인플라자(DDP)",
+    "quote": "피지오겔은 지난 12일부터 오는 15일까지 서울 동대문디자인플라자(DDP)에서 열리는 ‘컬리뷰티페스타2026’에 참가해 ‘손상 장벽 리페어 존’ 부스를 운영한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "비타민C",
+    "quote": "아울러 19일까지 진행되는 온라인 기획전에서는 인기 비타민C 앰플 ‘사이언수티컬즈 데일리뮨 앰플’ 등 피지오겔의 대표 제품을 풍성한 혜택으로 선보인다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

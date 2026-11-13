@@ -1,0 +1,44 @@
+{
+ "doc_id": "aeec51eeac2ac8e3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsprime.co.kr/news/article.html?no=754934",
+ "title": "성수 다음은 북촌?…한옥 골목 파고드는 패션·뷰티",
+ "summary": "한옥에는 클래식·헤리티지 부츠와 판화 작품을, 양옥에는 신제품 과 '타즈먼' 라인, 터프팅 작품을 배치하고... 향수 브랜드 본투스탠드아웃도 한남·삼청·성수에 이어 북촌에 네 번째 플래그십 스토어를 열었다. 서까래와...",
+ "published_at": "2026-11-13T15:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "본투스탠드아웃"
+  ],
+  "companies": [],
+  "keywords": [
+   "한옥 플래그십 스토어",
+   "북촌 상권",
+   "향수 브랜드 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "향수 브랜드 본투스탠드아웃이 북촌에 네 번째 플래그십 스토어를 열었다.",
+  "key_fact_quote": "향수 브랜드 본투스탠드아웃도 한남·삼청·성수에 이어 북촌에 네 번째 플래그십 스토어를 열었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

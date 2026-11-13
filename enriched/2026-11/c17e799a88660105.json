@@ -1,0 +1,43 @@
+{
+ "doc_id": "c17e799a88660105",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=20261113164011524746a9e4dd7f_30",
+ "title": "메이크업 아티스트 홍현정, 뷰티 브랜드 ‘씬 바이홍’ 공식 론칭",
+ "summary": "25년 경력의 프로 메이크업 아티스트 홍현정이 자신의 메이크업 노하우를 담은 뷰티 브랜드 ‘씬 바이홍(SCENE BY HONG)’을 11월 공식 론칭 한다. 유튜브 채널 ‘홍쓰메이크업플레이’에서 ‘홍이모’로 활동해 온...",
+ "published_at": "2026-11-13T16:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "씬 바이홍"
+  ],
+  "companies": [],
+  "keywords": [
+   "아티스트 브랜드",
+   "크리에이터 뷰티 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "메이크업 아티스트 홍현정이 뷰티 브랜드 씬 바이홍을 정식 론칭한다.",
+  "key_fact_quote": "25년 경력의 프로 메이크업 아티스트 홍현정이 자신의 메이크업 노하우를 담은 뷰티 브랜드 ‘씬 바이홍(SCENE BY HONG)’을 11월 공식 론칭 한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

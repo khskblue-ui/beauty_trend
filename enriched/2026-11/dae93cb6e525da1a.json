@@ -1,0 +1,41 @@
+{
+ "doc_id": "dae93cb6e525da1a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12208331",
+ "title": "이정재, 피부 악화로 1년 쉬더니 화장품 까지…정작 과거 사진은 “절대...",
+ "summary": "배우 이정재가 피부 악화로 올 한 해 작품 활동을 쉬었다고 밝힌 가운데, 화장품 출시 를 앞두고 과거 피부 사진 공개에는 강한 거부감을 드러냈던 사연을 털어놨다. 13일 이정재는 자신의 SNS에 공개한 영상에서 지난해...",
+ "published_at": "2026-11-13T19:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "셀럽 화장품",
+   "화장품 출시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배우 이정재가 화장품 출시를 앞두고 있다.",
+  "key_fact_quote": "배우 이정재가 피부 악화로 올 한 해 작품 활동을 쉬었다고 밝힌 가운데, 화장품 출시 를 앞두고 과거 피부 사진 공개에는 강한 거부감을 드러냈던 사연을 털어놨다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

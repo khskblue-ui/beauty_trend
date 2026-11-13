@@ -1,0 +1,43 @@
+{
+ "doc_id": "358954e21209d644",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etoday.co.kr/news/view/2647963",
+ "title": "립스(LIPS) 소상공인, 아시아 소비재 전시회 ‘홍콩 MEGA SHOW 2026’ 성공...",
+ "summary": "이번 행사에는 K - 뷰티 , 식품, 생활용품 등 다양한 분야에서 경쟁력을 인정받은 립스(LIPS) 선정기업 20개사가... 확보하며 수출 네트워크를 한층 넓혔다. 특히 이번 홍콩 메가쇼에는 2만 3천여 명의 참관객이 방문한...",
+ "published_at": "2026-11-13T15:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "소비재 전시회",
+   "소상공인 수출",
+   "K-뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "립스 선정 소상공인 기업들이 홍콩 메가쇼 2026에 참가해 수출 네트워크를 넓혔다.",
+  "key_fact_quote": "이번 행사에는 K - 뷰티 , 식품, 생활용품 등 다양한 분야에서 경쟁력을 인정받은 립스(LIPS) 선정기업 20개사가...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

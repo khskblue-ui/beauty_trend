@@ -1,0 +1,38 @@
+{
+ "doc_id": "76a543dd081d9efa",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.dailypop.kr/news/articleView.html?idxno=104544",
+ "title": "풀무원·삼립·CJ프레시웨이 등 식품업계, 원료·B2B 경쟁력 높인다",
+ "summary": "보존료와 합성 향료 , 착색료는 사용하지 않았다. 사진=삼양사 삼양사의 식품 유통 브랜드 서브큐(ServeQ)는 지난 11일부터 14일까지 서울 코엑스에서 열리는 '2026 서울카페쇼'에 참가한다. 삼양사는 부스 4면을 프레팡...",
+ "published_at": "2026-11-13T15:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

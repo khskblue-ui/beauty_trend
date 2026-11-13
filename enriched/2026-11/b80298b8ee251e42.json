@@ -1,0 +1,43 @@
+{
+ "doc_id": "b80298b8ee251e42",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.apsk.co.kr/news/articleView.html?idxno=541049",
+ "title": "대원제약, 2분기 연속 적자·매출↓…신약 약가인하· 화장품 부진 겹악...",
+ "summary": "3년 전 인수한 화장품 업체의 부진이 장기화하면서 수익성이 나빠졌다. 13일 금융감독원에 따르면... 당초 펠루비는 2021년 8월 제네릭 출시 를 계기로 약가인하가 예고됐다. 대원제약은 특허소송 결과가 확정되지...",
+ "published_at": "2026-11-13T16:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대원제약"
+  ],
+  "keywords": [
+   "제약사 화장품 사업",
+   "실적 부진"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대원제약은 인수한 화장품 업체의 부진이 길어지며 수익성이 나빠졌다.",
+  "key_fact_quote": "3년 전 인수한 화장품 업체의 부진이 장기화하면서 수익성이 나빠졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

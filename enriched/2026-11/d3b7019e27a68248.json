@@ -1,0 +1,44 @@
+{
+ "doc_id": "d3b7019e27a68248",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/dermatologists-top-gen-z-s-most-trusted-list",
+ "title": "Dermatologists top Gen Z’s most-trusted list for skin care advice",
+ "summary": "A survey by tele-dermatology service Curology of nearly 2,000 skin care purchasers aged 13 to 29 found that 43% named dermatologists as their most trusted skin care source",
+ "published_at": "2026-11-13T21:11:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "Curology"
+  ],
+  "keywords": [
+   "젠지 소비자",
+   "피부과 전문의 신뢰",
+   "스킨케어 정보원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "젠지 스킨케어 구매자가 가장 믿는 정보원은 피부과 전문의로 나타났다.",
+  "key_fact_quote": "A survey by tele-dermatology service Curology of nearly 2,000 skin care purchasers aged 13 to 29 found that 43% named dermatologists as their most trusted skin care source",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

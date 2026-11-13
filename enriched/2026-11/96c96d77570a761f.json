@@ -1,0 +1,55 @@
+{
+ "doc_id": "96c96d77570a761f",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100471",
+ "title": "뷰티 브랜드 ‘씬 바이홍(SCENE BY HONG)’ 공식 론칭",
+ "summary": "25년 경력의 프로 메이크업 아티스트 홍현정(유튜브 ‘홍쓰메이크업플레이’ 홍이모)이 누구나 일상에서 프로의 메이크업 기술을 쉽고 편하게 경험할 수 있도록 만든 메이크업 브랜드 ‘씬 바이홍(SCENE BY HONG)’을 11월 공식 론칭한다.파운더 홍현정은 25년간 국내 패션·뷰티 에디토리얼과 광고 캠페인, 패션쇼는 물론 런던과 뉴욕의 글로벌 무대에서 활동하며 다양한 셀러브리티와 작업해 왔다. 2018년부터는 약 40만 명이 구독하는 유튜브 채널 ‘홍쓰메이크업플레이’를 운영하며 여성들의 현실적인 메이크업 고민에 귀 기울여 왔다. ‘씬",
+ "published_at": "2026-11-13T09:45:02+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "씬 바이홍"
+  ],
+  "companies": [],
+  "keywords": [
+   "아티스트 브랜드",
+   "컨실러",
+   "비건 인증",
+   "크림 블러셔"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "씬 바이홍 듀얼 탭 컨실러",
+    "brand": "씬 바이홍",
+    "launch_date": "2026-11",
+    "launch_status": "upcoming",
+    "launch_quote": "브랜드 론칭과 함께 선보이는 첫 제품은 ‘씬 바이홍 듀얼 탭 컨실러(SCENE BY HONG Dual Tap Concealer)’다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "메이크업 아티스트 홍현정이 메이크업 브랜드 씬 바이홍을 11월에 론칭한다.",
+  "key_fact_quote": "25년 경력의 프로 메이크업 아티스트 홍현정(유튜브 ‘홍쓰메이크업플레이’ 홍이모)이 누구나 일상에서 프로의 메이크업 기술을 쉽고 편하게 경험할 수 있도록 만든 메이크업 브랜드 ‘씬 바이홍(SCENE BY HONG)’을 11월 공식 론칭한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

@@ -1,0 +1,65 @@
+{
+ "doc_id": "db0153a06c35b8fe",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100472",
+ "title": "리쥬란코스메틱, 홍콩·대만·두바이 드럭스토어 입점",
+ "summary": "재생의학 전문기업 파마리서치(대표이사 손지훈)의 프리미엄 더마 코스메틱 브랜드 '리쥬란코스메틱'이 지난 10월 홍콩과 대만의 대표 드럭스토어에 대규모로 입점한 데 이어, 오는 15일 두바이 왓슨스 론칭 프로모션을 시작으로 중동 시장 공략에 본격 나선다고 13일 밝혔다.이번 확장을 통해 홍콩 대형 유통 체인인 매닝스 약 250개점과 대만 코스메드 약 600개점에 입점했으며, 아랍에미리트 두바이에서는 현지 왓슨스 매장 20여 곳 전체에 입점을 확정했다. 기존 운영 채널을 포함하면 3개 시장에서 총 1,070여 개 규모의",
+ "published_at": "2026-11-13T09:46:33+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "HK",
+   "TW",
+   "AE"
+  ],
+  "brands": [
+   "리쥬란코스메틱"
+  ],
+  "companies": [
+   "파마리서치",
+   "매닝스",
+   "코스메드",
+   "왓슨스"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "드럭스토어 유통",
+   "중동 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "리쥬란코스메틱이 홍콩과 대만 드럭스토어에 입점한 데 이어 두바이 왓슨스로 중동에 진출한다.",
+  "key_fact_quote": "재생의학 전문기업 파마리서치(대표이사 손지훈)의 프리미엄 더마 코스메틱 브랜드 '리쥬란코스메틱'이 지난 10월 홍콩과 대만의 대표 드럭스토어에 대규모로 입점한 데 이어, 오는 15일 두바이 왓슨스 론칭 프로모션을 시작으로 중동 시장 공략에 본격 나선다고 13일 밝혔다.",
+  "events": [
+   {
+    "name": "두바이 왓슨스 론칭 프로모션",
+    "start_date": "2026-11-15",
+    "end_date": "2026-11-19",
+    "place": "몰 오브 디 에미레이츠(Mall of The Emirates )",
+    "quote": "특히 공식 론칭을 기념해 오는 11월 15일부터 19일까지 5일간 두바이 대표 랜드마크인 '몰 오브 디 에미레이츠(Mall of The Emirates )’에서 룰렛 이벤트 등 오프라인 체험형 프로모션을 진행해 현지 인지도를 조기에 끌어올릴 방침이다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "c-PDRN",
+    "quote": "리쥬란코스메틱은 파마리서치의 독자 특허 성분인 'c-PDRN'을 적용한 대표 스킨케어 라인업으로 현지 프리미엄 더마 코스메틱 수요를 적극 공략한다는 전략이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

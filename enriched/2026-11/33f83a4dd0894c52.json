@@ -1,0 +1,44 @@
+{
+ "doc_id": "33f83a4dd0894c52",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://theviewers.co.kr/View.aspx?No=4310977",
+ "title": "K뷰티 주문 폭주에도 남는 돈은 달랐다…ODM 3사 '생산 효율' 승부",
+ "summary": "K뷰티 수출 확대에 따라 ODM 업체들의 생산능력 확보 경쟁도 치열해지고 있다. 식품의약품안전처에 따르면 올해 1~9월 국내 화장품 수출액은 잠정 111억달러로 전년 동기 대비 31.1% 증가했다. 이에 코스맥스는 평택...",
+ "published_at": "2026-11-13T12:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "ODM",
+   "생산능력 확대",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 수출이 늘면서 ODM 업체들의 생산능력 확보 경쟁이 거세지고 있다.",
+  "key_fact_quote": "K뷰티 수출 확대에 따라 ODM 업체들의 생산능력 확보 경쟁도 치열해지고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

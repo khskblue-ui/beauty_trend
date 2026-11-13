@@ -1,0 +1,85 @@
+{
+ "doc_id": "2350c5776bca9047",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53948",
+ "title": "LG 피지오겔, 겨울철 피부장벽 케어 팝업 ‘단 사흘’",
+ "summary": "LG생활건강의 더마톨로지컬 뷰티 브랜드 피지오겔(PHYSIOGEL)이 겨울철 민감 피부를 위한 체험형 팝업스토어 ‘손상 장벽 리페어 존’을 운영한다. 피지오겔은 오는 15일까지 서울 동대문디자인플라자(DDP)에서 열리는 ‘컬리뷰티페스타 2026’에 참가, 피부장벽 케어 솔루션을 소개하고 있다. 이번…",
+ "published_at": "2026-11-13T09:35:22+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "피지오겔"
+  ],
+  "companies": [
+   "LG생활건강",
+   "컬리"
+  ],
+  "keywords": [
+   "피부장벽 케어",
+   "민감 피부",
+   "체험형 팝업스토어",
+   "더마 코스메틱"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "레드수딩 AI 리페어 크림",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "레드수딩 로자테카 레드니스 리듀싱 세럼",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "레드수딩 AI 리페어 에센스",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "사이언수티컬즈 데일리뮨 앰플",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "피지오겔이 컬리뷰티페스타에서 피부장벽 케어 체험형 팝업스토어를 운영한다.",
+  "key_fact_quote": "LG생활건강의 더마톨로지컬 뷰티 브랜드 피지오겔(PHYSIOGEL) 이 겨울철 민감 피부를 위한 체험형 팝업스토어 ‘손상 장벽 리페어 존’ 을 운영한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

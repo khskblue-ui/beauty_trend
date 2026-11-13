@@ -1,0 +1,56 @@
+{
+ "doc_id": "03b87c78c04cdf3d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111300919.html",
+ "title": "[뷰티업계 이모저모] 센슬, 무신사 뷰티 성수 입점… 오프라인 유통 확...",
+ "summary": "무신사 뷰티 성수는 연무장길에 지상 1~2층 규모로 조성된 매장으로, 스킨케어·메이크업· 향수 ·헤어 및 바디케어 등 약 700개 브랜드 의 1만여 개 상품을 선보인다. 센슬은 이곳에서 스틱 블러셔 ‘타임 블러쉬’와 틴트...",
+ "published_at": "2026-11-13T10:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센슬"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 유통",
+   "색조 메이크업",
+   "편집숍"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "타임 블러쉬",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "센슬이 무신사 뷰티 성수에 입점해 오프라인 유통을 확대했다.",
+  "key_fact_quote": "센슬은 이곳에서 스틱 블러셔 ‘타임 블러쉬’와 틴트...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

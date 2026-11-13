@@ -1,0 +1,41 @@
+{
+ "doc_id": "5748ad4e6a90d728",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20113910?ref=naver",
+ "title": "신라스테이, 외국인 고객 겨냥 K뷰티·쇼핑 패키지 선보여",
+ "summary": "1박과 화장품 ·할인 쿠폰·간식 등을 담은 케이에센셜 큐레이션 박스를 제공한다. 역삼·삼성·서초·광화문·마포·서대문점에서는 공항 짐 배송 서비스 할인 혜택을, 해운대·제주점에서는 화장품 키트를 추가로...",
+ "published_at": "2026-11-13T10:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신라스테이"
+  ],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "9d0c179ddaea6a2f",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

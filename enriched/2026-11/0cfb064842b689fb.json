@@ -1,0 +1,42 @@
+{
+ "doc_id": "0cfb064842b689fb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.tenasia.co.kr/article/2026111354754",
+ "title": "이정재, 1년간 활동 중단→화장품 사업 뛰어들었다…\"촬영을 도저히 할...",
+ "summary": "배우 이정재가 피부 문제로 작품 활동을 중단했던 경험을 털어놓으며 화장품 브랜드 를 론칭 하게 된 계기를... 첫 사업으로 이정재가 기획과 개발에 참여하는 뷰티 브랜드 를 올해 4분기 출시할 계획이다.",
+ "published_at": "2026-11-13T16:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "셀러브리티 브랜드",
+   "피부 고민 케어",
+   "브랜드 론칭"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "배우 이정재가 기획과 개발에 참여하는 뷰티 브랜드를 출시할 계획이다.",
+  "key_fact_quote": "첫 사업으로 이정재가 기획과 개발에 참여하는 뷰티 브랜드 를 올해 4분기 출시할 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

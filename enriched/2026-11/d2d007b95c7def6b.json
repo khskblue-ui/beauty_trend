@@ -1,0 +1,48 @@
+{
+ "doc_id": "d2d007b95c7def6b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=882881",
+ "title": "센트온, 무신사 뷰티 성수 입점",
+ "summary": "| 서울=한스경제 김종효 기자 | 공간 향기마케팅 기업 센트온의 퍼퓸 브랜드 센틀리에가 무신사 뷰티 성수에... 센틀리에는 매장 1층과 2층에 걸쳐 향수 와 바디케어, 공간 향 등 총 23종의 전 제품군을 배치하고 3개 특화...",
+ "published_at": "2026-11-13T08:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센틀리에"
+  ],
+  "companies": [
+   "센트온",
+   "무신사"
+  ],
+  "keywords": [
+   "향수 오프라인 매장",
+   "공간 향",
+   "바디케어",
+   "향기 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "센트온의 퍼퓸 브랜드 센틀리에가 무신사 뷰티 성수에 입점했다.",
+  "key_fact_quote": "공간 향기마케팅 기업 센트온의 퍼퓸 브랜드 센틀리에가 무신사 뷰티 성수에...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

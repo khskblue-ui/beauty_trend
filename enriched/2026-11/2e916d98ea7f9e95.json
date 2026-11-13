@@ -1,0 +1,54 @@
+{
+ "doc_id": "2e916d98ea7f9e95",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58733",
+ "title": "바이오제닉스, 캡슐·화이트 바이오 생산시설 유럽 EFfCI GMP 인증 확보",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 화장품 소재 전문기업 바이오제닉스(대표 손태훈)가 기존 캡슐 소재 생산시설에 이어 전북 남원 화이트 바이오 원료 생산시설까지 유럽 EFfCI GMP 인증을 획득하며 두 핵심 사업의 제조·품질관리 기반을 강화했다고 13일 밝혔다. 지난 10월 말 인증을 획득한 남원 생산…",
+ "published_at": "2026-11-13T18:06:29+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "바이오제닉스"
+  ],
+  "keywords": [
+   "화이트 바이오",
+   "캡슐화 기술",
+   "스킨 롱제비티",
+   "비건 원료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "바이오제닉스가 남원 화이트 바이오 원료 생산시설까지 유럽 EFfCI GMP 인증을 받았다.",
+  "key_fact_quote": "화장품 소재 전문기업 바이오제닉스(대표 손태훈)가 기존 캡슐 소재 생산시설에 이어 전북 남원 화이트 바이오 원료 생산시설까지 유럽 EFfCI GMP 인증을 획득하며 두 핵심 사업의 제조·품질관리 기반을 강화했다고 13일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "VEGAN PDRN",
+    "quote": "VEGAN PDRN은 동물 유래 원료를 대체할 수 있는 바이오 소재로 EVE VEGAN 인증을 확보해 비건 화장품 시장의 요구에 대응하고 있다."
+   },
+   {
+    "name": "SENOMERA™",
+    "quote": "또 다른 전략 소재인 SENOMERA™는 해양 미생물에서 유래한 바이오 활성 소재로 피부 노화 관련 바이오마커와 피부 지표에 관한 연구를 바탕으로 개발됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

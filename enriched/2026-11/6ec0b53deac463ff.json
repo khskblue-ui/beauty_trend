@@ -1,0 +1,41 @@
+{
+ "doc_id": "6ec0b53deac463ff",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.consumuch.com/news/articleView.html?idxno=79560",
+ "title": "신라스테이, 방한 외국인 겨냥 K-뷰티·면세점 결합 패키지 출시",
+ "summary": "신라스테이가 외국인 투숙객을 위한 국내 전 지점에서 이용 가능한 전용 패키지 3종을 출시 했다. 올리브영과 신라면세점, 뷰티 브랜드 키스(KEYTH) 등 주요 유통· 화장품 기업과 손잡고 숙박과 쇼핑 혜택을 한 번에...",
+ "published_at": "2026-11-13T19:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신라스테이"
+  ],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "9d0c179ddaea6a2f",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "e2622e4e91072537",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/hair/kristin-ess-otherwise-hair-fragrance-target-1239413592/",
+ "title": "Kristin Ess Returns to Beauty With Otherwise, a Hair Fragrance Brand Launching at Target",
+ "summary": "Otherwise launches under Ess' new brand development group and holdings company Starseed Beauty Brands.",
+ "published_at": "2026-11-13T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Otherwise"
+  ],
+  "companies": [
+   "Starseed Beauty Brands",
+   "Target"
+  ],
+  "keywords": [
+   "헤어 프래그런스",
+   "리테일 입점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Kristin Ess가 헤어 프래그런스 브랜드 Otherwise로 뷰티 시장에 돌아왔다.",
+  "key_fact_quote": "Otherwise launches under Ess' new brand development group and holdings company Starseed Beauty Brands.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

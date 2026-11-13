@@ -1,0 +1,113 @@
+{
+ "doc_id": "be74073e1bcabd43",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100465",
+ "title": "에이블씨엔씨, 3분기 누적 영업이익 263억원… 지난해 연간 실적 1.5배",
+ "summary": "글로벌 뷰티 기업 에이블씨엔씨(Able C&C, 대표 신유정)가 해외 시장 확대와 수익성 중심의 경영 전략에 힘입어 올해 3분기까지 누적 영업이익 263억원을 기록했다. 지난해 연간 영업이익의 약 1.5배에 달하는 규모로, 강화된 기업의 기초체력이 견조한 실적으로 이어지고 있다.에이블씨엔씨는 2026년 3분기 연결 기준 매출 579억원, 영업이익 65억원을 기록했다고 12일 공시했다. 매출은 전년 동기 대비 3% 증가했으며, 영업이익률은 11.2%를 기록해 올해 3분기 연속 두 자릿수를 유지했다.특히 지난 8월 철수를 완료한 국내",
+ "published_at": "2026-11-13T09:29:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "GB",
+   "DE",
+   "TR",
+   "CZ",
+   "RU",
+   "JP",
+   "HK",
+   "MN"
+  ],
+  "brands": [
+   "미샤",
+   "어퓨",
+   "바디홀릭"
+  ],
+  "companies": [
+   "에이블씨엔씨",
+   "부츠",
+   "슈퍼드러그",
+   "DM",
+   "아마존",
+   "틱톡샵",
+   "코스트코",
+   "다이소",
+   "네이버",
+   "11번가"
+  ],
+  "keywords": [
+   "해외 매출 확대",
+   "유럽 시장",
+   "다이소 채널",
+   "쿠션 파운데이션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "M쿠션",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "M 프로 블랙 메쉬 쿠션",
+    "brand": null,
+    "launch_date": "2026-07",
+    "launch_status": "unknown",
+    "launch_quote": "지난 7월 현지 시장에 출시한 신제품 'M 프로 블랙 메쉬 쿠션' 역시 소비자들의 긍정적인 반응을 얻으며 주력 제품군의 경쟁력 강화에 기여했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미샤 BB크림",
+    "brand": "미샤",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "더퓨어 헤어식초",
+    "brand": "어퓨",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "지난 2분기 선보인 어퓨 '더퓨어 헤어식초' 라인의 판매 호조가 지속된 가운데, 바디홀릭 퍼퓸 라인 신규 출시가 매출 확대에 기여했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "바디홀릭 퍼퓸 라인",
+    "brand": "바디홀릭",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "지난 2분기 선보인 어퓨 '더퓨어 헤어식초' 라인의 판매 호조가 지속된 가운데, 바디홀릭 퍼퓸 라인 신규 출시가 매출 확대에 기여했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이블씨엔씨는 해외 시장 확대에 힘입어 3분기 누적 영업이익이 지난해 연간 실적을 넘어섰다.",
+  "key_fact_quote": "글로벌 뷰티 기업 에이블씨엔씨(Able C&C, 대표 신유정)가 해외 시장 확대와 수익성 중심의 경영 전략에 힘입어 올해 3분기까지 누적 영업이익 263억원을 기록했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

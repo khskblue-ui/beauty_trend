@@ -1,0 +1,57 @@
+{
+ "doc_id": "fb6bcd512a815f67",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58729",
+ "title": "(사)대한화장품학회 제6차 정기총회 및 추계학술대회 11월 27일 개최",
+ "summary": "[코스인코리아닷컴 김민석 기자](사)대한화장품학회는 오는 11월 27일(금) 서울드래곤시티(용산) 그랜드볼룸 3층 한라홀에서 제6차 정기총회 및 추계학술대회를 연다고 밝혔다. 정기총회에서는 5개 안건이 상정될 예정이다. 초청 강연은 △ AI 피부데이터 분석 기술 및 플랫폼으로 진화 amp; 뷰티…",
+ "published_at": "2026-11-13T15:56:56+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품학회",
+   "룰루랩",
+   "아모레퍼시픽",
+   "국립생물자원관",
+   "선진뷰티사이언스",
+   "INTECH Co."
+  ],
+  "keywords": [
+   "화장품 학술대회",
+   "AI 피부 분석",
+   "피부 노화 연구"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대한화장품학회가 서울드래곤시티에서 정기총회와 추계학술대회를 연다.",
+  "key_fact_quote": "[코스인코리아닷컴 김민석 기자] (사)대한화장품학회는 오는 11월 27일(금) 서울드래곤시티(용산) 그랜드볼룸 3층 한라홀에서 제6차 정기총회 및 추계학술대회를 연다고 밝혔다.",
+  "events": [
+   {
+    "name": "제6차 정기총회 및 추계학술대회",
+    "start_date": "2026-11-27",
+    "end_date": null,
+    "place": "서울드래곤시티(용산) 그랜드볼룸 3층 한라홀",
+    "quote": "[코스인코리아닷컴 김민석 기자] (사)대한화장품학회는 오는 11월 27일(금) 서울드래곤시티(용산) 그랜드볼룸 3층 한라홀에서 제6차 정기총회 및 추계학술대회를 연다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

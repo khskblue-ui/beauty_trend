@@ -1,0 +1,48 @@
+{
+ "doc_id": "26f8eedc144e3808",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100464",
+ "title": "K-콘텐츠 흥행, 소비재 수출로 이어진다",
+ "summary": "K-소비재 수출은 2025년 456억 달러로 전체 수출에서 차지하는 비중이 6.4%에 달하며 갈수록 중요성이 커지고 있다. 이 가운데 K-콘텐츠 흥행이 해외 소비자의 구매로 이어지면서 소비재 수출을 촉진한다는 분석이 나와 주목을 끈다.한국무역협회(KITA, 회장 윤진식) 국제무역통상연구원이 12일(목) 발표한 'K-콘텐츠의 K-소비재 수출 동태효과 분석 및 시사점' 보고서에 따르면, K-팝과 K-드라마 흥행 초기에 화장품·생활용품·농수산식품 등 주요 소비재 수출이 증가하는 것으로 분석됐다. 이는 보고서가 권역별 대표국",
+ "published_at": "2026-11-13T09:25:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "MX",
+   "DE",
+   "VN",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "한국무역협회"
+  ],
+  "keywords": [
+   "K-콘텐츠",
+   "화장품 수출",
+   "K-소비재"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-콘텐츠 흥행이 화장품 등 소비재 수출을 늘린다는 분석이 나왔다.",
+  "key_fact_quote": "이 가운데 K-콘텐츠 흥행이 해외 소비자의 구매로 이어지면서 소비재 수출을 촉진한다는 분석이 나와 주목을 끈다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}

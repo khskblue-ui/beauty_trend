@@ -1,0 +1,48 @@
+{
+ "doc_id": "94e78a413bcaf149",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.cnbnews.com/news/articleView.html?idxno=1023674",
+ "title": "신라스테이, 외국인 고객 위한 'K-뷰티·쇼핑 결합 패키지' 선보여",
+ "summary": "키스는 2023년 국내에서 론칭한 감각적인 향수ㆍ메이크업 전문 브랜드로, 세계적인 조향사 들과 협업해 독창적인 향을 담은 '퍼퓸드 키스'가 대표 인기 라인이다. 대표 상품인 '듀티 프리 베네핏' 패키지는 △객실 1박과...",
+ "published_at": "2026-11-13T10:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "바이오힐보"
+  ],
+  "companies": [
+   "신라스테이",
+   "올리브영"
+  ],
+  "keywords": [
+   "K-뷰티 관광",
+   "숙박 패키지",
+   "외국인 관광객"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "a9176bf08a4acf2c",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": false
+}

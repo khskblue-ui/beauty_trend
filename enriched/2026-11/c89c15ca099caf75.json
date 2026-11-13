@@ -1,0 +1,72 @@
+{
+ "doc_id": "c89c15ca099caf75",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100463",
+ "title": "K뷰티, 홍콩 코스모프로프 총력전…역대 최대 252개사 집결",
+ "summary": "매년 11월이면 아시아 각국의 화장품 바이어들이 홍콩에 집결한다. 아시아 최대 화장품 전시회로 꼽히는 ‘홍콩 코스모프로프’에 참가하기 위해서다. 전시장에서 바이어들 발길이 끊이지 않는 곳이 바로 한국관이다. 세계 곳곳으로 뻗어 나가는 K뷰티의 열기를 현장에서 확인할 수 있는 자리다.대한무역투자진흥공사(이하 코트라, 사장 강경성)는 대한화장품협회, 한국뷰티산업무역협회 등 유관기관과 협력해 11월 11일부터 13일까지 열리는 ‘2026 홍콩 코스모프로프’에서 통합 한국관을 운영한다. 올해 한국관에는 역대 최다인 252개사가 참가한다.",
+ "published_at": "2026-11-13T09:09:51+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [
+   "코트라",
+   "대한화장품협회",
+   "한국뷰티산업무역협회",
+   "홍콩티비몰",
+   "왓슨그룹",
+   "오피뷰티"
+  ],
+  "keywords": [
+   "화장품 전시회",
+   "통합 한국관",
+   "K뷰티 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코트라가 홍콩 코스모프로프에서 역대 최대 규모의 통합 한국관을 운영한다.",
+  "key_fact_quote": "올해 한국관에는 역대 최다인 252개사가 참가한다.",
+  "events": [
+   {
+    "name": "2026 홍콩 코스모프로프",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "홍콩",
+    "quote": "대한무역투자진흥공사(이하 코트라, 사장 강경성)는 대한화장품협회, 한국뷰티산업무역협회 등 유관기관과 협력해 11월 11일부터 13일까지 열리는 ‘2026 홍콩 코스모프로프’에서 통합 한국관을 운영한다."
+   },
+   {
+    "name": "세미나·교류 행사",
+    "start_date": "2026-11-12",
+    "end_date": null,
+    "place": null,
+    "quote": "코트라 홍콩무역관은 주홍콩대한민국총영사관과 함께 12일 한국 화장품 기업과 세계 주요 유통업계 관계자가 참여하는 세미나·교류 행사를 개최한다."
+   },
+   {
+    "name": "한국관 참가기업 제품의 전시·체험과 판매",
+    "start_date": "2026-11-09",
+    "end_date": "2026-11-23",
+    "place": "오피뷰티 대표 매장",
+    "quote": "11월 9일부터 23일까지 홍콩 뷰티 유통기업인 오피뷰티 대표 매장 2곳에서 한국관 참가기업 제품의 전시·체험과 판매를 지원한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-13T21:33:35+00:00",
+ "had_body": true
+}
