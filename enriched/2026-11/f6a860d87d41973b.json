@@ -1,0 +1,49 @@
+{
+ "doc_id": "f6a860d87d41973b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.wikitree.co.kr/articles/1174580",
+ "title": "물기 남은 입술에 립밤을 바르는 하루 순서…핥는 버릇이 줄어드는 이유...",
+ "summary": "이미 갈라진 입술에는 향료 , 맛을 낸 성분, 멘톨, 캠퍼(장뇌), 강한 쿨링 성분이 특히 따가울 수 있다. 박하향이나 과일향을 앞세운 제품보다 향이 없고 밋밋한 제품이 안전한 이유다.성분 평가가 안내마다 엇갈린다는 점도...",
+ "published_at": "2026-11-14T14:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "other",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "립밤",
+   "무향 제품",
+   "입술 관리"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "갈라진 입술에는 향이 없는 밋밋한 립밤이 더 안전하다.",
+  "key_fact_quote": "박하향이나 과일향을 앞세운 제품보다 향이 없고 밋밋한 제품이 안전한 이유다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "멘톨",
+    "quote": "이미 갈라진 입술에는 향료 , 맛을 낸 성분, 멘톨, 캠퍼(장뇌), 강한 쿨링 성분이 특히 따가울 수 있다."
+   },
+   {
+    "name": "캠퍼",
+    "quote": "이미 갈라진 입술에는 향료 , 맛을 낸 성분, 멘톨, 캠퍼(장뇌), 강한 쿨링 성분이 특히 따가울 수 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-14T21:29:25+00:00",
+ "had_body": false
+}

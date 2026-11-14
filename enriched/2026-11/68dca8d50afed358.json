@@ -1,0 +1,51 @@
+{
+ "doc_id": "68dca8d50afed358",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312805",
+ "title": "K-Beauty Stocks Diverge as Foreign Selling Pressures Sector; Institutional Buying Lifts Cosmax and PharmaResearch",
+ "summary": "Major South Korean cosmetics and beauty equities experienced a broad short-term correction over the past five trading sessions as persistent foreign selling weighed on investor sentiment, while selective institutional inflows propelled gains in specific ODM and high-growth stocks.According to an ana",
+ "published_at": "2026-11-14T13:09:31+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Amorepacific",
+   "LG H&H",
+   "Cosmax",
+   "Kolmar Korea",
+   "APR",
+   "PharmaResearch",
+   "Silicon2"
+  ],
+  "keywords": [
+   "K-뷰티 주가",
+   "외국인 매도",
+   "기관 매수",
+   "화장품 ODM"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "외국인 매도로 K-뷰티 주가가 대체로 내렸지만 기관 매수가 들어온 일부 종목은 올랐다.",
+  "key_fact_quote": "Over the past five trading sessions, major K-beauty equities experienced broad short-term corrections driven by foreign profit-taking and net selling pressure.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-14T21:29:25+00:00",
+ "had_body": true
+}

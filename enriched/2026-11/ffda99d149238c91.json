@@ -1,0 +1,57 @@
+{
+ "doc_id": "ffda99d149238c91",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://economist.co.kr/article/view/ecn202611100074",
+ "title": "올리브영 키운 허민호, 신세계 화장품 맡았다…‘어뮤즈’ 다음 찾을까",
+ "summary": "신세계인터내셔날이 화장품 사업을 키우기 위해 올리브영을 이끌었던 허민호 대표를 영입했다.... 첫 제품인 ‘로듀 비타 버터 립 밤’ 8종을 출시하고, 신제품 을 순차적으로 공개하는 ‘드롭’ 방식을 도입했다. 어뮤즈...",
+ "published_at": "2026-11-14T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어뮤즈"
+  ],
+  "companies": [
+   "신세계인터내셔날",
+   "올리브영"
+  ],
+  "keywords": [
+   "드롭 방식",
+   "립 밤",
+   "화장품 사업 확장"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "로듀 비타 버터 립 밤",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "첫 제품인 ‘로듀 비타 버터 립 밤’ 8종을 출시하고, 신제품 을 순차적으로 공개하는 ‘드롭’ 방식을 도입했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신세계인터내셔날이 화장품 사업을 키우려고 올리브영을 이끌었던 허민호 대표를 영입했다.",
+  "key_fact_quote": "신세계인터내셔날이 화장품 사업을 키우기 위해 올리브영을 이끌었던 허민호 대표를 영입했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-14T21:29:25+00:00",
+ "had_body": false
+}

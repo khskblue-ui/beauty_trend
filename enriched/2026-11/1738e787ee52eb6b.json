@@ -1,0 +1,42 @@
+{
+ "doc_id": "1738e787ee52eb6b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/living/2026/11/15/2026111316015926284",
+ "title": "전 세계서 K뷰티 열풍인데…정작 돈 버는 회사는 따로 있다",
+ "summary": "K뷰티 의 글로벌 인기에 힘입어 국내 화장품 기업들의 외형 성장이 이어지고 있지만 수익성은 제각각이다.... 수출 비중이 높아 원화 강세의 영향을 크게 받는 사업 구조상 3분기 매출총이익률(GPM)은 전분기보다 3.3...",
+ "published_at": "2026-11-15T05:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "수익성",
+   "원화 강세"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 인기로 화장품 기업 매출은 늘었지만 수익성은 기업마다 다르다.",
+  "key_fact_quote": "K뷰티 의 글로벌 인기에 힘입어 국내 화장품 기업들의 외형 성장이 이어지고 있지만 수익성은 제각각이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-14T21:29:25+00:00",
+ "had_body": false
+}

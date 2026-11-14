@@ -1,0 +1,57 @@
+{
+ "doc_id": "81931980f14913eb",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58735",
+ "title": "[11월 2주 화장품 주가] 코스인 선정 30대 기업 상승 13개, 하락 17개... 코스맥스 ODM 상승 주도",
+ "summary": "[코스인코리아닷컴 김민석 기자]11월 둘째 주(11월 9~13일) 주 초반 국내 증시가 급반등했지만 주 후반 다시 흔들렸다. 화장품업종은 제조사의 실적 호조 발표로 주가 강세를 보였다. 주가지수는 외국인 매도 부담 속에도 상승했다가 주 후반 차익 실현으로 13일은 하락으로 돌아섰다. 주간등락률(11.13…",
+ "published_at": "2026-11-14T22:17:11+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "한국콜마",
+   "달바클로벌",
+   "실리콘투",
+   "키움증권"
+  ],
+  "keywords": [
+   "화장품 주가",
+   "화장품 ODM",
+   "스킨케어 수주"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제조사의 실적 호조로 ODM 기업이 화장품 업종 주가 상승을 이끌었다.",
+  "key_fact_quote": "상승을 주도한 기업은 ODM이었다.",
+  "events": [
+   {
+    "name": "코스모프로프 아시아 홍콩",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-13",
+    "place": "홍콩",
+    "quote": "또한 11월 10~13일 코스모프로프 아시아 홍콩 참가 기업들의 신규 유통계약, 실제 발주 등 후속 발표에 관심이 모아진다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-14T21:29:25+00:00",
+ "had_body": true
+}

@@ -1,0 +1,51 @@
+{
+ "doc_id": "65bf2e2f67490e13",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1424967",
+ "title": "발효유 넘어 화장품 ·펫푸드까지…hy, 유산균 기술로 사업 영토 넓힌다",
+ "summary": "일 업계에 따르면 hy는 이달 초 웰니스 뷰티 브랜드 '아이오셀(IOCell)'을 론칭하며 화장품 사업 확대에 나섰다. 지난달 말에는 반려동물 식품 브랜드 '펫쿠르트'를 통해 처음으로 주사료를 출시 했다. 두 사업은 진출...",
+ "published_at": "2026-11-14T15:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아이오셀"
+  ],
+  "companies": [
+   "hy"
+  ],
+  "keywords": [
+   "웰니스 뷰티",
+   "유산균 화장품",
+   "사업 다각화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "hy가 웰니스 뷰티 브랜드를 론칭하며 화장품 사업을 넓히고 있다.",
+  "key_fact_quote": "일 업계에 따르면 hy는 이달 초 웰니스 뷰티 브랜드 '아이오셀(IOCell)'을 론칭하며 화장품 사업 확대에 나섰다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "유산균",
+    "quote": "발효유 넘어 화장품 ·펫푸드까지…hy, 유산균 기술로 사업 영토 넓힌다"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-14T21:29:25+00:00",
+ "had_body": false
+}

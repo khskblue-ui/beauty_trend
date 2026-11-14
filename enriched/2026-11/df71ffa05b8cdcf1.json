@@ -1,0 +1,50 @@
+{
+ "doc_id": "df71ffa05b8cdcf1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.edaily.co.kr/News/Read?newsId=02440326645645720&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+ "title": "바이노텍, 프리미엄 스킨케어 브랜드 ‘리포브’ 프랑스 시장 진출 추진",
+ "summary": "에스토니아 수출 에 이어 프랑스 현지 유통업체와 판매 협력을 추진하며 CDMO 사업과 자체 브랜드 수출 을 병행한다는 계획이다. 바이노텍은 리포브의 프랑스 시장 진출을 위해 현지 K - 뷰티 전문기업 KBeauty Cosmetics와...",
+ "published_at": "2026-11-14T09:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR",
+   "EE"
+  ],
+  "brands": [
+   "리포브"
+  ],
+  "companies": [
+   "바이노텍",
+   "KBeauty Cosmetics"
+  ],
+  "keywords": [
+   "유럽 진출",
+   "K뷰티 수출",
+   "현지 유통 협력"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "2967f6992251c4d2",
+ "enriched_at": "2026-11-14T21:27:44+00:00",
+ "had_body": false
+}

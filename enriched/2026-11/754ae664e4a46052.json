@@ -1,0 +1,52 @@
+{
+ "doc_id": "754ae664e4a46052",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ftimes.kr/news/articleView.html?idxno=41064",
+ "title": "﻿샤워 직후처럼 맑은 향… 향수 대신 쓸 바디로션 시티르 '바디밀크 아...",
+ "summary": "향수 입문자나 강한 발향에 거부감이 있는 소비자도 부담 없이 데일리로 활용하기 좋다. 제품은 손에 덜지 않고 몸에 바로 분사하는 스프레이 타입으로 출시 돼 바쁜 아침이나 외출 전에도 간편하게 사용할 수 있다....",
+ "published_at": "2026-11-14T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "other",
+  "countries": [],
+  "brands": [
+   "시티르"
+  ],
+  "companies": [],
+  "keywords": [
+   "바디 미스트",
+   "향수 대체 바디로션",
+   "은은한 발향"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "바디밀크",
+    "brand": "시티르",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "시티르 바디밀크는 몸에 바로 뿌리는 스프레이 타입 바디로션이다.",
+  "key_fact_quote": "제품은 손에 덜지 않고 몸에 바로 분사하는 스프레이 타입으로 출시 돼 바쁜 아침이나 외출 전에도 간편하게 사용할 수 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-14T21:29:25+00:00",
+ "had_body": false
+}

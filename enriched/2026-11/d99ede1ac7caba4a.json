@@ -1,0 +1,58 @@
+{
+ "doc_id": "d99ede1ac7caba4a",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312602",
+ "title": "10월 티몰 뷰티 트렌드 리포트④: 크림 TOP10 판매량 52.2%↓...K-뷰티 53.8%↑",
+ "summary": "[편집자 주] 뷰티경제는 2022년 7월부터 중국 최대 전자상거래 플랫폼인 티몰(Tmall)을 통해 8개 주요 품목의 중국 뷰티시장 동향을 분석하고 있다. 아울러 국내 화장품의 중국 시장 경쟁력도 함께 진단하고 있다. 이번 기사에서는 2026년 10월 티몰 크림(수분크림) 트렌드를 점검한다.중국 티몰 크림 시장이 지난해 대비 큰 폭으로 위축된 것으로 나타났다. 지난해 중국 로컬 브랜드가 상위권을 주도했던 것과 달리 올해는 프랑스 브랜드가 판매량 1·2위를 차지하며 시장 판도도 발생했다.뷰티경제 집계 결과, 2026년 10월 티몰 수",
+ "published_at": "2026-11-14T11:35:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "로레알",
+   "라로슈포제",
+   "프로야",
+   "위노나",
+   "bodorme",
+   "곡우(谷雨)",
+   "KANS",
+   "심회기(寻荟记)",
+   "CeraVe"
+  ],
+  "companies": [
+   "티몰"
+  ],
+  "keywords": [
+   "수분크림",
+   "더마코스메틱",
+   "안티에이징",
+   "민감성 피부 관리",
+   "K-뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "티몰 전체 크림 시장은 크게 위축됐지만 한국관 크림 제품은 판매가 늘었다.",
+  "key_fact_quote": "이에 따라 티몰 전체 크림 시장은 절반 이상 위축됐지만 한국관 크림 제품은 판매량이 증가하며 차별화된 흐름을 나타냈다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-14T21:29:25+00:00",
+ "had_body": true
+}

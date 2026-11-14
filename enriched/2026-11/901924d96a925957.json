@@ -1,0 +1,67 @@
+{
+ "doc_id": "901924d96a925957",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312798",
+ "title": "BASF APAC Chief: K-Beauty Must Look Beyond ‘Hero Ingredients’ to Delivery Systems and Formulation Science",
+ "summary": "K-Beauty must evolve beyond its reliance on trending \\\"hero ingredients\\\" and double down on scientific validation, advanced delivery systems, and formulation science to sustain its global growth, according to a senior executive at German chemical giant BASF.In an exclusive written interview with The",
+ "published_at": "2026-11-14T12:05:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "DE"
+  ],
+  "brands": [],
+  "companies": [
+   "BASF"
+  ],
+  "keywords": [
+   "히어로 성분",
+   "전달 시스템",
+   "제형 과학",
+   "과학적 효능 검증"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "BASF 임원은 K-뷰티가 히어로 성분 경쟁을 넘어 전달 기술과 제형 과학에 힘써야 한다고 말했다.",
+  "key_fact_quote": "\"Discovering new ingredients alone is not enough,\" Wang said.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "Addressing the current wave of high-profile active ingredients dominating the K-Beauty sector-such as PDRN, exosomes, microneedle spicules, and PDLLA-Wang stressed that the industry must move past pure ingredient competition."
+   },
+   {
+    "name": "exosomes",
+    "quote": "Addressing the current wave of high-profile active ingredients dominating the K-Beauty sector-such as PDRN, exosomes, microneedle spicules, and PDLLA-Wang stressed that the industry must move past pure ingredient competition."
+   },
+   {
+    "name": "microneedle spicules",
+    "quote": "Addressing the current wave of high-profile active ingredients dominating the K-Beauty sector-such as PDRN, exosomes, microneedle spicules, and PDLLA-Wang stressed that the industry must move past pure ingredient competition."
+   },
+   {
+    "name": "PDLLA",
+    "quote": "Addressing the current wave of high-profile active ingredients dominating the K-Beauty sector-such as PDRN, exosomes, microneedle spicules, and PDLLA-Wang stressed that the industry must move past pure ingredient competition."
+   },
+   {
+    "name": "collagen",
+    "quote": "He noted that industry focus is already pivoting toward collagen science, aesthetic post-procedure care, and next-generation delivery mechanisms."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-14T21:29:25+00:00",
+ "had_body": true
+}

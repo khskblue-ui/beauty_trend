@@ -1,0 +1,71 @@
+{
+ "doc_id": "6bcca218948dbee9",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312800",
+ "title": "L’Oréal R&I Chief Barbara Lavernos: South Korea Drives Global Trends as a Core Pillar of North Asia’s ‘Beauty Triangle’",
+ "summary": "L’Oréal Groupe is accelerating the global scale-up of emerging beauty-tech startups by leveraging what it calls North Asia’s \\\"Beauty Triangle\\\"—an interconnected open innovation ecosystem linking South Korea, China, and Japan.Speaking at the \\\"2026 L’Oréal Big Bang\\\" awards ceremony held on the sidelin",
+ "published_at": "2026-11-14T12:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN",
+   "JP",
+   "FR"
+  ],
+  "brands": [
+   "Selvatico"
+  ],
+  "companies": [
+   "BONJAC",
+   "ORGASIS",
+   "LINKIVE"
+  ],
+  "keywords": [
+   "뷰티테크",
+   "오픈 이노베이션",
+   "향 추천 AI",
+   "개인 맞춤 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Scentpedia",
+    "brand": "BONJAC",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Scent ID",
+    "brand": "BONJAC",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "로레알은 빅뱅 프로그램으로 한중일 뷰티테크 스타트업의 글로벌 확장을 돕고 있다.",
+  "key_fact_quote": "\"Our goal is to scale North Asian innovation onto the world stage,\" Lavernos added.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-14T21:29:25+00:00",
+ "had_body": true
+}
