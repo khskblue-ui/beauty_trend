@@ -5390,5 +5390,33 @@
  "d2b4490ca70e88cd|launch|아이덴티크|NMN 바이옴 세럼|": {
   "kept": true,
   "reason": null
+ },
+ "b802b5cbaa81458f|launch||룸스프레이|": {
+  "kept": false,
+  "reason": "no_brand"
+ },
+ "2a955ac23908b7e0|notes|Thierry Mugler|Angel|gourmand": {
+  "kept": true,
+  "reason": null
+ },
+ "0b3c318bede19b74|launch|Clariant|Eclipsogen CAP Duo Z|": {
+  "kept": true,
+  "reason": null
+ },
+ "0b3c318bede19b74|launch|Clariant|Sensotain ILS|": {
+  "kept": true,
+  "reason": null
+ },
+ "0b3c318bede19b74|launch|Clariant|GlucoTain Pro P|": {
+  "kept": false,
+  "reason": "entailment:uncertain"
+ },
+ "0b3c318bede19b74|launch|Clariant|GlucoTain Sense|": {
+  "kept": false,
+  "reason": "entailment:not_supported"
+ },
+ "0b3c318bede19b74|launch|Lucas Meyer Cosmetics by Clariant|AlgaSurge|": {
+  "kept": false,
+  "reason": "entailment:uncertain"
  }
 }

@@ -1,0 +1,49 @@
+{
+ "doc_id": "a1f85b1d4b7134b9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883287",
+ "title": "모크레스, 무신사 뷰티 성수 입점",
+ "summary": "협업으로 브랜드 감성을 직관적으로 전달하도록 구성했다. 지난 6월 공식 출시된 모크레스는 W컨셉, 현대백화점 판교점, 올리브영에 이어 이번 무신사 뷰티 성수까지 론칭 5개월 만에 주요 유통 판로를 넓혔다....",
+ "published_at": "2026-11-15T12:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센틀리에"
+  ],
+  "companies": [
+   "센트온",
+   "무신사"
+  ],
+  "keywords": [
+   "향수 오프라인 매장",
+   "공간 향",
+   "바디케어",
+   "향기 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "d2d007b95c7def6b",
+ "enriched_at": "2026-11-15T21:27:22+00:00",
+ "had_body": false
+}

@@ -1,0 +1,91 @@
+{
+ "doc_id": "2a955ac23908b7e0",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/technology-how-ai-is-shaping-the,28535",
+ "title": "Technology: How AI is shaping the future of the perfume industry",
+ "summary": "There may be a hint of bergamot in the top notes and sweet iris as a follow-up, but there is a noticeable dose of Artificial Intelligence emerging in new perfumes, according to industry specialists. The traditional world of perfumes has not been able to turn up its nose to new technology and algorithms even though the industry insists that human sensorial expertise can never be fully replaced. The US cosmetics giant Estee Lauder opened a perfume innovation centre in Paris in 2025 that... - Science, R&D",
+ "published_at": "2026-11-15T00:41:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "FR",
+   "CH"
+  ],
+  "brands": [
+   "Jo Malone of London",
+   "Kilian Paris",
+   "Le Labo",
+   "Tom Ford Beauty",
+   "Thierry Mugler",
+   "Helius"
+  ],
+  "companies": [
+   "Estee Lauder",
+   "International Flavors and Fragrances",
+   "Givaudan",
+   "Robertet",
+   "Helius"
+  ],
+  "keywords": [
+   "AI 향료 개발",
+   "니치 향수",
+   "동물성 원료 대체",
+   "향료 규제 관리"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Angel",
+    "brand": "Thierry Mugler",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "gourmand"
+    ],
+    "notes_quote": "\" I don’t believe any AI would have suggested ’Angel’, \" he said of Thierry Mugler’s so-called ’gourmand’ fragrance launched in 1992 and considered revolutionary because of its sweet notes."
+   }
+  ],
+  "key_fact": "향료 업계가 새 향수 개발과 원료 규제 확인에 인공지능을 쓰고 있다.",
+  "key_fact_quote": "The US cosmetics giant Estee Lauder opened a perfume innovation centre in Paris in 2025 that uses AI to mix savoir faire and cutting edge technology",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "bergamot",
+    "quote": "There may be a hint of bergamot in the top notes and sweet iris as a follow-up, but there is a noticeable dose of Artificial Intelligence emerging in new perfumes, according to industry specialists."
+   },
+   {
+    "name": "iris",
+    "quote": "There may be a hint of bergamot in the top notes and sweet iris as a follow-up, but there is a noticeable dose of Artificial Intelligence emerging in new perfumes, according to industry specialists."
+   },
+   {
+    "name": "Civet",
+    "quote": "Civet, taken from the glands of African civet and other cats in the species, was traditionally used to give perfume a musky tone but has been phased out in the face of animal rights concerns."
+   },
+   {
+    "name": "Mint essence",
+    "quote": "Mint essence, for example, contains menthone, and the tool can propose other ingredients that also include the compound."
+   },
+   {
+    "name": "menthone",
+    "quote": "Mint essence, for example, contains menthone, and the tool can propose other ingredients that also include the compound."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-15T21:29:35+00:00",
+ "had_body": true
+}

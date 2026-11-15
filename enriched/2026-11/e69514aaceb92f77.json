@@ -1,0 +1,46 @@
+{
+ "doc_id": "e69514aaceb92f77",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10936805?ref=naver",
+ "title": "호주선 석유, 네덜란드선 K뷰티 ‘불티’…반도체 밖 수출 시장도 활짝",
+ "summary": "에너지와 인공지능(AI) 관련 설비, K뷰티 제품 등이 수출 확대를 이끌었다. 대한무역투자진흥공사(코트라)... 것은 수출 다변화 측면에서 반갑다”며 “각국의 산업화, K -소비재 인기 등 현지 수요에 맞춰 우리 기업의...",
+ "published_at": "2026-11-15T11:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "AU",
+   "NL"
+  ],
+  "brands": [],
+  "companies": [
+   "코트라"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "수출 다변화",
+   "K소비재"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 제품이 에너지와 인공지능 설비와 함께 수출 확대를 이끌었다.",
+  "key_fact_quote": "에너지와 인공지능(AI) 관련 설비, K뷰티 제품 등이 수출 확대를 이끌었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-15T21:29:35+00:00",
+ "had_body": false
+}

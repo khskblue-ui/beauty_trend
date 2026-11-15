@@ -1,0 +1,45 @@
+{
+ "doc_id": "b0eadd2dd9af3e3a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.edaily.co.kr/News/Read?newsId=01603926645646048&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+ "title": "“국내는 단가 경쟁”…택배 3사, K뷰티 타고 해외서 먹거리 찾는다",
+ "summary": "한진은 K뷰티 브랜드의 해외 수출 증가에 대응해 유럽과 북미 지역의 풀필먼트 거점을 잇달아 확대하고 있다. 지난 4월 영국 햄프셔주 사우샘프턴에 풀필먼트센터를 구축한 것이 대표적이다. K뷰티 수요가 빠르게...",
+ "published_at": "2026-11-15T13:45:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB"
+  ],
+  "brands": [],
+  "companies": [
+   "한진"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "해외 풀필먼트",
+   "뷰티 물류"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한진이 K뷰티 수출 증가에 맞춰 유럽과 북미 풀필먼트 거점을 확대하고 있다.",
+  "key_fact_quote": "한진은 K뷰티 브랜드의 해외 수출 증가에 대응해 유럽과 북미 지역의 풀필먼트 거점을 잇달아 확대하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-15T21:29:35+00:00",
+ "had_body": false
+}

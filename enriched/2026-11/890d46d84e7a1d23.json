@@ -1,0 +1,68 @@
+{
+ "doc_id": "890d46d84e7a1d23",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58737",
+ "title": "2027년을 읽는 法",
+ "summary": "[코스인코리아닷컴 김민석 기자]트렌드가 굳어지면 프레임이 된다. 익숙해지면 변화를 싫어한다. 불편해져야 혁신이 나온다. 장밋빛 전망이 많아도 모두가 양지일 순 없다.그렇다면 우리 기업은, 나는? 경기란 내게 유리해야 호(好)경기다. 우린, 내년을 어떻게 읽고 있는가? 2027년 K-화장품은 지속성장…",
+ "published_at": "2026-11-15T13:48:36+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스인",
+   "하나증권",
+   "트렌드코리아컴퍼니",
+   "닐슨아이큐",
+   "대한화장품학회",
+   "바이오에프디엔씨",
+   "LG CNS",
+   "KBI 한국의생명연구원",
+   "에이피알",
+   "아시아비엔씨"
+  ],
+  "keywords": [
+   "화장품 시장 전망",
+   "홈뷰티 디바이스",
+   "초개인화",
+   "리버스 에이징",
+   "K-뷰티 글로벌 확장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스인이 화장품시장 이슈와 전망을 다루는 컨퍼런스를 누리꿈스퀘어에서 연다.",
+  "key_fact_quote": "코스인이 주최하는 화장품산업의 국내 유일, 독보적인 ‘글로벌 Hot 이슈, 2027 화장품시장 이슈와 전망 컨퍼런스’ 가 오는 11월 20일(금) 누리꿈스퀘어(서울 상암동 소재)에서 개막한다.",
+  "events": [
+   {
+    "name": "글로벌 Hot 이슈, 2027 화장품시장 이슈와 전망 컨퍼런스",
+    "start_date": "2026-11-20",
+    "end_date": null,
+    "place": "누리꿈스퀘어(서울 상암동 소재)",
+    "quote": "코스인이 주최하는 화장품산업의 국내 유일, 독보적인 ‘글로벌 Hot 이슈, 2027 화장품시장 이슈와 전망 컨퍼런스’ 가 오는 11월 20일(금) 누리꿈스퀘어(서울 상암동 소재)에서 개막한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "히랄루론산",
+    "quote": "그러면서 HIFU·RF·레이저와 같은 에너지 기반 의료기기와 히랄루론산 필러, 바이오 스티뮬레이터 및 재생미용 소재를 중심으로 피부 의과학의 최신 흐름을 검토, 미래 사업에 대한 통찰을 제시한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-15T21:29:35+00:00",
+ "had_body": true
+}

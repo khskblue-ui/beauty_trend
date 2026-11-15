@@ -1,0 +1,46 @@
+{
+ "doc_id": "ba9b30eef50deede",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=213647",
+ "title": "휴메딕스, '엘라비에 코스메틱' 앞세워 동남아·중동 시장 공략",
+ "summary": "기초 피부 관리 제품부터 기능성 제품까지 다양한 라인업을 소개하고, 이른바 ' K -더마' 브랜드로서의 경쟁력을 알리는 데 주력했다. 특히 동남아시아와 중동 등 신흥 시장 바이어들과 상담을 진행하며 제품 수출 과 현지...",
+ "published_at": "2026-11-16T00:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "엘라비에 코스메틱"
+  ],
+  "companies": [
+   "휴메딕스"
+  ],
+  "keywords": [
+   "K더마",
+   "신흥 시장 수출",
+   "기능성 화장품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "휴메딕스가 엘라비에 코스메틱을 앞세워 동남아시아와 중동 시장 공략에 나섰다.",
+  "key_fact_quote": "휴메딕스, '엘라비에 코스메틱' 앞세워 동남아·중동 시장 공략",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-15T21:29:35+00:00",
+ "had_body": false
+}

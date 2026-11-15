@@ -1,0 +1,47 @@
+{
+ "doc_id": "b9ed10cb03f9ea2b",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312780",
+ "title": "China’s Tmall Face Cream Market Contracts as Repair-Focused Skincare Gains Momentum",
+ "summary": "China’s face cream market on Tmall contracted sharply in October 2026, with sales volumes dropping by more than half from a year earlier.Despite the overall market slowdown, consumer demand continued to gravitate toward products targeting skin repair, barrier support, sensitivity care, and anti-agin",
+ "published_at": "2026-11-15T15:50:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Tmall",
+   "Beauty Economy"
+  ],
+  "keywords": [
+   "장벽 케어",
+   "민감 피부 케어",
+   "안티에이징",
+   "더마코스메틱"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 티몰 얼굴 크림 시장이 크게 줄었지만 한국관 상위 제품 판매는 늘었다.",
+  "key_fact_quote": "China’s face cream market on Tmall contracted sharply in October 2026, with sales volumes dropping by more than half from a year earlier.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-15T21:29:35+00:00",
+ "had_body": true
+}

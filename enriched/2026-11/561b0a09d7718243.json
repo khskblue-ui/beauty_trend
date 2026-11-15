@@ -1,0 +1,48 @@
+{
+ "doc_id": "561b0a09d7718243",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/distribution/food/2026/11/16/J2JZT3HEHVHFBBWOPNWJUBOGNA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "[인터뷰] 이탈리아무역공사 “쿠팡·CJ 등 유통망 확대... 유기농· 니치 ...",
+ "summary": "이탈리아가 강점을 지닌 니치 향수 와 전문가용 스킨케어·에스테틱, 헤어케어 제품의 국내 인지도를 높이고, 완제품 수출을 넘어 기술 교류와 합작사업으로 협력 범위를 넓힐 수 있다는 것이다. 다음은 일문일답....",
+ "published_at": "2026-11-16T06:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "IT",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "이탈리아무역공사",
+   "쿠팡",
+   "CJ"
+  ],
+  "keywords": [
+   "니치 향수",
+   "유기농 화장품",
+   "전문가용 스킨케어",
+   "헤어케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "이탈리아무역공사가 니치 향수와 전문가용 스킨케어 등 이탈리아 제품의 국내 인지도를 높이고 협력을 넓히려 한다.",
+  "key_fact_quote": "이탈리아가 강점을 지닌 니치 향수 와 전문가용 스킨케어·에스테틱, 헤어케어 제품의 국내 인지도를 높이고, 완제품 수출을 넘어 기술 교류와 합작사업으로 협력 범위를 넓힐 수 있다는 것이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-15T21:29:35+00:00",
+ "had_body": false
+}

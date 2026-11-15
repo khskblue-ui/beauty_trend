@@ -1,0 +1,44 @@
+{
+ "doc_id": "478202a84c5a529f",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58739",
+ "title": "삼영물류, 공동물류 통한 중소기업 SCM 역량 강화 ‘한국SCM산업대상’ 수상",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 종합 물류 전문기업 삼영물류(대표이사 이상근)가 공동물류를 통한 물류비 절감과 중소기업 공급망 관리 역량 강화에 기여한 공로로 ‘2026 제25회 한국SCM산업대상’을 수상했다고 13일 밝혔다. 한국SCM학회가 주관하는 한국SCM산업대상은 공급망 관리(SCM)…",
+ "published_at": "2026-11-16T01:43:40+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "삼영물류",
+   "한국SCM학회"
+  ],
+  "keywords": [
+   "공동물류",
+   "공급망 관리"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "삼영물류가 공동물류로 중소기업 공급망 관리 역량을 높인 공로로 한국SCM산업대상을 받았다.",
+  "key_fact_quote": "삼영물류는 여러 기업이 물류시설과 배송망을 공동으로 활용하는 물류 공동화 체계를 추진해 운영 효율을 높이고 물류비를 절감한 성과를 인정받았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-15T21:29:35+00:00",
+ "had_body": true
+}

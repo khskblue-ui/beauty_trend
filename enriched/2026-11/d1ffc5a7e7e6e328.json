@@ -1,0 +1,71 @@
+{
+ "doc_id": "d1ffc5a7e7e6e328",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/scent-taipei-2027-puts-taiwan-s,28538",
+ "title": "Scent Taipei 2027 puts Taiwan's growing fragrance market in the spotlight",
+ "summary": "Returning from March 26 to 29, 2027, alongside Beautyworld Taipei, Scent Taipei will expand its showcase of international and local fragrance brands, offering a platform to explore opportunities in Taiwan's fast-evolving scent market. As fragrance gains traction among Taiwanese consumers, Scent Taipei is preparing an expanded edition to connect international brands with local distributors, retailers and consumers. The B2B2C fragrance showcase will take place from at the Taipei World Trade... - Industry buzz",
+ "published_at": "2026-11-14T02:18:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "TW",
+   "CN",
+   "TH",
+   "KR"
+  ],
+  "brands": [
+   "Popscent",
+   "Mith Bangkok",
+   "Shareco & Klower Pandor",
+   "Le Hemora",
+   "Vero Veil Romance"
+  ],
+  "companies": [
+   "Messe Frankfurt (HK) Ltd",
+   "Cosmetic Marketing Research Institution (CMRI)",
+   "UDN.COM"
+  ],
+  "keywords": [
+   "니치 향수",
+   "향수 박람회",
+   "저자극 향수",
+   "K-센트"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대만 향수 박람회 센트 타이베이가 규모를 넓혀 해외 니치 향수 브랜드와 현지 유통사를 잇는다.",
+  "key_fact_quote": "Returning from March 26 to 29, 2027, alongside Beautyworld Taipei , Scent Taipei will expand its showcase of international and local fragrance brands",
+  "events": [
+   {
+    "name": "Scent Taipei",
+    "start_date": "2027-03-26",
+    "end_date": "2027-03-29",
+    "place": "Taipei World Trade Centre",
+    "quote": "Returning from March 26 to 29, 2027, alongside Beautyworld Taipei , Scent Taipei will expand its showcase of international and local fragrance brands"
+   },
+   {
+    "name": "Beautyworld Taipei",
+    "start_date": "2027-03-26",
+    "end_date": "2027-03-29",
+    "place": "Taipei World Trade Centre",
+    "quote": "Returning from March 26 to 29, 2027, alongside Beautyworld Taipei , Scent Taipei will expand its showcase of international and local fragrance brands"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-15T21:29:35+00:00",
+ "had_body": true
+}
