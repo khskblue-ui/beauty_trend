@@ -1,0 +1,49 @@
+{
+ "doc_id": "c2b892c82ed1bdc7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/general-industry/6355716",
+ "title": "\"피부과에서 바른 화장품 , 이젠 먹는다\"…K-뷰티가 키운 PDRN 열풍",
+ "summary": "2024년 6월 첫 제품 출시 이후 약 20개월 만이다. 미국과 일본 등 해외 시장에서 판매가 확대된 점이 주요 배경으로 꼽힌다. PDRN은 글로벌 시장에서도 한국 화장품 기업들이 유행을 주도한 성분 중 하나로 평가받는다....",
+ "published_at": "2026-11-17T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "PDRN",
+   "이너뷰티",
+   "먹는 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "PDRN은 한국 화장품 기업이 글로벌 유행을 이끈 성분으로 평가받으며 먹는 제품으로도 확대되고 있다.",
+  "key_fact_quote": "PDRN은 글로벌 시장에서도 한국 화장품 기업들이 유행을 주도한 성분 중 하나로 평가받는다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "PDRN은 글로벌 시장에서도 한국 화장품 기업들이 유행을 주도한 성분 중 하나로 평가받는다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

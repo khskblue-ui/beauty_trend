@@ -1,0 +1,48 @@
+{
+ "doc_id": "0d846df91c83845f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=229015",
+ "title": "아토팜, 유로모니터 조사서 국내 영유아 더마코스메틱 브랜드 1위",
+ "summary": "뷰티 ·헬스케어 기업 네오팜(대표 김양수)의 민감 피부 전문 스킨케어 브랜드 '아토팜(ATOPALM)'이 시장조사... 더마코스메틱 브랜드 1위를 차지했다. 2000년 론칭 한 '아토팜'은 네오팜의 독자적인 피부장벽 기술 MLE®를...",
+ "published_at": "2026-11-16T13:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아토팜"
+  ],
+  "companies": [
+   "네오팜",
+   "유로모니터 인터내셔널"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "영유아 스킨케어",
+   "피부장벽"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "1404f11f1a94fa6e",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

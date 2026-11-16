@@ -1,0 +1,54 @@
+{
+ "doc_id": "c5e9b341d6841480",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58744",
+ "title": "대한화장품협회, ‘점프업 K-코스메틱 CEO 간담회’ 25일 개최",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 대한화장품협회(회장 서경배)가 오는 25일 오전 10시 서울 명동 로얄호텔서울 제이드룸에서 수출 시장 다변화와 AI 시대 브랜드 경쟁력 강화 방안을 논의하는 ‘2026년 점프업 K-코스메틱 CEO 간담회(2차)’를 개최한다고 16일 밝혔다. 이번 간담회는 화장품 산업의…",
+ "published_at": "2026-11-16T19:03:31+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품협회",
+   "하나증권",
+   "시하기획"
+  ],
+  "keywords": [
+   "AI 마케팅",
+   "수출 시장 다변화",
+   "브랜드 차별화"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대한화장품협회가 수출 시장 다변화와 AI 시대 브랜드 전략을 다루는 CEO 간담회를 연다.",
+  "key_fact_quote": "[코스인코리아닷컴 길태윤 기자] 대한화장품협회(회장 서경배)가 오는 25일 오전 10시 서울 명동 로얄호텔서울 제이드룸에서 수출 시장 다변화와 AI 시대 브랜드 경쟁력 강화 방안을 논의하는 ‘2026년 점프업 K-코스메틱 CEO 간담회(2차)’를 개최한다고 16일 밝혔다.",
+  "events": [
+   {
+    "name": "2026년 점프업 K-코스메틱 CEO 간담회(2차)",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "place": "서울 명동 로얄호텔서울 제이드룸",
+    "quote": "[코스인코리아닷컴 길태윤 기자] 대한화장품협회(회장 서경배)가 오는 25일 오전 10시 서울 명동 로얄호텔서울 제이드룸에서 수출 시장 다변화와 AI 시대 브랜드 경쟁력 강화 방안을 논의하는 ‘2026년 점프업 K-코스메틱 CEO 간담회(2차)’를 개최한다고 16일 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": true
+}

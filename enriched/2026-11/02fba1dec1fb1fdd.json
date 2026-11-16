@@ -1,0 +1,56 @@
+{
+ "doc_id": "02fba1dec1fb1fdd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301140",
+ "title": "설화수, 첫 틴티드 립오일 출시 …아시아·북미 시장 공략",
+ "summary": "아모레퍼시픽의 럭셔리 뷰티 브랜드 설화수가 첫 틴티드 립오일 제품인 '퍼펙팅 틴티드 립오일'을 출시 한다... 신제품 은 입술에 색을 입히는 틴트와 윤기를 더하는 오일 기능을 결합했다. 설화수의 독자 기술인 '글로우...",
+ "published_at": "2026-11-16T11:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "틴티드 립오일",
+   "색조 화장품",
+   "북미 시장"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퍼펙팅 틴티드 립오일",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아모레퍼시픽의 럭셔리 뷰티 브랜드 설화수가 첫 틴티드 립오일 제품인 '퍼펙팅 틴티드 립오일'을 출시 한다",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "설화수가 첫 틴티드 립오일을 출시하며 아시아와 북미 시장을 공략한다.",
+  "key_fact_quote": "설화수, 첫 틴티드 립오일 출시 …아시아·북미 시장 공략",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "c22240bf97cc502a",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100486",
+ "title": "준오헤어, ‘함께 수고한 사람들’ 위한 수능 프로모션 실시",
+ "summary": "대한민국 대표 프리미엄 헤어살롱 브랜드 준오헤어(대표 송현석, Alex Song)가 수능을 마친 수험생과 이들을 응원해 온 가족·지인을 대상으로 오는 11월 19일부터 12월 31일까지 수능 프로모션을 진행한다.이번 프로모션은 긴 수험생활을 마치고 새로운 일상을 준비하는 수험생들이 자신에게 어울리는 헤어스타일을 찾고 기분 좋은 변화를 시작할 수 있도록 기획됐다. 특히 수험생 본인뿐 아니라 시험 기간을 함께한 가족과 지인까지 혜택 대상을 확대해, 곁에서 응원하며 함께 애쓴 이들에게도 자신을 돌보고 재충전할 수 있는 기회를 제공한다.프",
+ "published_at": "2026-11-16T10:07:13+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "준오헤어"
+  ],
+  "companies": [
+   "준오뷰티"
+  ],
+  "keywords": [
+   "헤어살롱",
+   "수능 프로모션"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "준오헤어가 수험생과 가족, 지인을 대상으로 할인 프로모션을 진행한다.",
+  "key_fact_quote": "대한민국 대표 프리미엄 헤어살롱 브랜드 준오헤어(대표 송현석, Alex Song)가 수능을 마친 수험생과 이들을 응원해 온 가족·지인을 대상으로 오는 11월 19일부터 12월 31일까지 수능 프로모션을 진행한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "237c5443c42d942c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.wikitree.co.kr/articles/1175004",
+ "title": "아로마티카, 미국 얼타 뷰티 504개 매장 입점…북미 오프라인 1200곳 넘겨",
+ "summary": "아로마테라피 기반 스칼프·스킨케어 브랜드 아로마티카가 미국 뷰티 전문 유통채널 얼타 뷰티 (Ulta Beauty)의... 현재 미국, 유럽, 일본, 동남아시아 등 40개국에 수출 하고 있다.정리하면 아로마티카는 원료부터 생산까지...",
+ "published_at": "2026-11-16T16:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "아로마티카"
+  ],
+  "companies": [
+   "얼타 뷰티"
+  ],
+  "keywords": [
+   "아로마테라피",
+   "스칼프 케어",
+   "북미 오프라인 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아로마티카가 미국 얼타 뷰티 매장에 입점해 북미 오프라인 유통을 넓혔다.",
+  "key_fact_quote": "아로마테라피 기반 스칼프·스킨케어 브랜드 아로마티카가 미국 뷰티 전문 유통채널 얼타 뷰티 (Ulta Beauty)의",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

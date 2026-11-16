@@ -1,0 +1,91 @@
+{
+ "doc_id": "6934cfe8b63229cb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504394",
+ "title": "동아제약 이너 뷰티 아일로, 11월 올영픽 선정",
+ "summary": "[사진=동아제약] 동아제약은 프리미엄 이너 뷰티 브랜드 아일로(ILO)가 'PDRN+B5' 제품으로 올리브영의 '11월... 아일로는 '레티놀+NMN', '식물성 멜라토닌 솜탭' 등 성분을 앞세운 신제품 3종을 출시 하며 제품군을 넓히고...",
+ "published_at": "2026-11-16T10:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아일로"
+  ],
+  "companies": [
+   "동아제약",
+   "올리브영"
+  ],
+  "keywords": [
+   "이너 뷰티",
+   "PDRN"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "PDRN+B5",
+    "brand": "아일로",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "레티놀+NMN",
+    "brand": "아일로",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아일로는 '레티놀+NMN', '식물성 멜라토닌 솜탭' 등 성분을 앞세운 신제품 3종을 출시 하며 제품군을 넓히고",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "식물성 멜라토닌 솜탭",
+    "brand": "아일로",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아일로는 '레티놀+NMN', '식물성 멜라토닌 솜탭' 등 성분을 앞세운 신제품 3종을 출시 하며 제품군을 넓히고",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동아제약 이너 뷰티 브랜드 아일로 제품이 올리브영 올영픽에 선정됐다.",
+  "key_fact_quote": "동아제약은 프리미엄 이너 뷰티 브랜드 아일로(ILO)가 'PDRN+B5' 제품으로 올리브영의 '11월",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "동아제약은 프리미엄 이너 뷰티 브랜드 아일로(ILO)가 'PDRN+B5' 제품으로 올리브영의 '11월"
+   },
+   {
+    "name": "레티놀",
+    "quote": "아일로는 '레티놀+NMN', '식물성 멜라토닌 솜탭' 등 성분을 앞세운 신제품 3종을 출시 하며 제품군을 넓히고"
+   },
+   {
+    "name": "NMN",
+    "quote": "아일로는 '레티놀+NMN', '식물성 멜라토닌 솜탭' 등 성분을 앞세운 신제품 3종을 출시 하며 제품군을 넓히고"
+   },
+   {
+    "name": "식물성 멜라토닌",
+    "quote": "아일로는 '레티놀+NMN', '식물성 멜라토닌 솜탭' 등 성분을 앞세운 신제품 3종을 출시 하며 제품군을 넓히고"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

@@ -1,0 +1,80 @@
+{
+ "doc_id": "c072475219f2b6c0",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/gattefosse-s-protecticire-mb,28545",
+ "title": "Gattefossé's Protecticire MB, natural waxes for the protection of hair fibers",
+ "summary": "With Protecticire MB, Gattefossé introduces a 100% naturally derived active texturizing ingredient designed to help maintain hair quality over time. According to Gattefossé, Protecticire MB helps reduce breakage and split ends, protect color, and enhance softness, shine and lightness across a wide range of haircare applications. Delivering both functional and sensory benefits, the new ingredient is powered by Gattefossé's wax butter technology, combining functionalized waxes to form an... - Industry buzz",
+ "published_at": "2026-11-14T19:41:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "TH"
+  ],
+  "brands": [],
+  "companies": [
+   "Gattefossé"
+  ],
+  "keywords": [
+   "천연 유래 원료",
+   "모발 보호",
+   "예방적 헤어케어",
+   "왁스 텍스처라이저"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Protecticire MB",
+    "brand": "Gattefossé",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Protecticire MB was officially launched at in-cosmetics Asia in Bangkok, Thailand , where it won the Bronze 2026 Innovation Zone Best Ingredient Award in the Functional Ingredient category .",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Gattefossé가 모발을 보호하는 천연 유래 왁스 원료 Protecticire MB를 선보였다.",
+  "key_fact_quote": "With Protecticire MB , Gattefossé introduces a 100% naturally derived active texturizing ingredient designed to help maintain hair quality over time.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Protecticire MB",
+    "quote": "With Protecticire MB , Gattefossé introduces a 100% naturally derived active texturizing ingredient designed to help maintain hair quality over time."
+   },
+   {
+    "name": "carnauba",
+    "quote": "Gattefossé selected carnauba, rice bran and jojoba waxes for their complementary properties."
+   },
+   {
+    "name": "rice bran",
+    "quote": "Gattefossé selected carnauba, rice bran and jojoba waxes for their complementary properties."
+   },
+   {
+    "name": "jojoba waxes",
+    "quote": "Gattefossé selected carnauba, rice bran and jojoba waxes for their complementary properties."
+   },
+   {
+    "name": "jojoba esters",
+    "quote": "These natural waxes are transformed into a balanced structural system that combines the strength of solid waxes with the flexibility of jojoba esters."
+   },
+   {
+    "name": "Definicire®",
+    "quote": "Following the launch of Definicire® in 2018, our active texturizing ingredient that helps recreate the hair’s protective lipid layer, Protecticire® MB represents a new step forward in natural hair protection,"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

@@ -1,0 +1,50 @@
+{
+ "doc_id": "26b8a62dc1ea0a69",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bokuennews.com/news/article.html?no=287243",
+ "title": "메이크온, 표정주름 케어 '리보빔 볼륨&액티브 세럼' 출시",
+ "summary": "세럼'을 출시 한다고 16일 밝혔다. 이번 신제품 은 2024년 CES 혁신상 수상 기술을 기반으로 개발한 제품으로, 아모레퍼시픽의 독자 기술 '리보빔'을 적용했다. 아모레퍼시픽의 80년 스킨케어 연구 역량과 7년간 이어온 뷰티 ...",
+ "published_at": "2026-11-16T15:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [
+   "메이크온"
+  ],
+  "companies": [
+   "메이크온",
+   "네이버",
+   "올리브영"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "디바이스 전용 화장품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "e0a3ec8e34d2552e",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

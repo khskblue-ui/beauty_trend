@@ -1,0 +1,59 @@
+{
+ "doc_id": "21d3e44d86fd58d2",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58743",
+ "title": "비반도체 수출품목 중 화장품 증가율 급증... 네덜란드 282%, 호주 65%",
+ "summary": "[코스인코리아닷컴 김민석 기자]우리나라 수출이 반도체 의존도가 높은 가운데 비반도체 품목 가운데 화장품 등도 급증한 것으로 나타났다. 코트라가 1~9월 비반도체 수출시장을 분석한 자료에 따르면 30대 수출대상국 중 비반도체 수출 증가율이 가장 높은 나라는 호주였으며, 뒤를 이어 네덜란드가 2위…",
+ "published_at": "2026-11-16T16:44:57+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "AU",
+   "NL",
+   "NZ",
+   "MY",
+   "SG",
+   "BE"
+  ],
+  "brands": [],
+  "companies": [
+   "코트라",
+   "Kruidvat"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "화장품 수출 다변화",
+   "K-소비재"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "비반도체 수출이 늘어난 국가에서 화장품 수출도 크게 늘었다.",
+  "key_fact_quote": "비반도체 수출이 급증한 국가의 화장품 수출도 높은 증가율을 기록했다.",
+  "events": [
+   {
+    "name": "멜버른 한류박람회",
+    "start_date": "2026-11-05",
+    "end_date": "2026-11-07",
+    "place": "멜버른",
+    "quote": "실제 코트라는 오세아니아 지역에서 최초로 지난 11월 5~7일 개최한 멜버른 한류박람회에서 소비재·문화 종합 마케팅으로 32건 1,800만달러 규모 수출계약 및 양해각서를 체결하는 성과를 올렸다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": true
+}

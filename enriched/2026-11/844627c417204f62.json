@@ -1,0 +1,56 @@
+{
+ "doc_id": "844627c417204f62",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thepowernews.co.kr/view.php?ud=20261116101045739de3f0aa1be_7",
+ "title": "메이크온, 디바이스·전용 세럼 결합한 주름 관리 제품 출시",
+ "summary": "관리하는 신제품 을 선보인다. 메이크온은 뷰티 디바이스와 전용 세럼으로 구성한 ‘리보빔 볼륨&액티브... 기능성 화장품 등록과 피부과 테스트를 포함한 4가지 피부 안전성 시험을 마쳤다. 제품은 사용 부위에...",
+ "published_at": "2026-11-16T17:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메이크온"
+  ],
+  "companies": [
+   "메이크온"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "디바이스 전용 세럼",
+   "주름 관리"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리보빔 볼륨&액티브",
+    "brand": "메이크온",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "메이크온, 디바이스·전용 세럼 결합한 주름 관리 제품 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "메이크온이 뷰티 디바이스와 전용 세럼을 결합한 주름 관리 제품을 선보인다.",
+  "key_fact_quote": "메이크온은 뷰티 디바이스와 전용 세럼으로 구성한 ‘리보빔 볼륨&액티브",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

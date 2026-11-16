@@ -1,0 +1,56 @@
+{
+ "doc_id": "8b93a23637e84455",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://thetracker.co.kr/View.aspx?No=4313827",
+ "title": "설화수, 첫 틴티드 립오일 출시 …립 메이크업·주름 관리 한 번에",
+ "summary": "kr 더트래커 = 아모레퍼시픽의 럭셔리 뷰티 브랜드 설화수가 립 메이크업과 스킨케어 기능을 결합한 신제품 을 선보인다. 선명한 발색과 광택을 구현하면서 입술 탄력과 주름 관리까지 고려한 것이 특징이다. 국내 출시 를...",
+ "published_at": "2026-11-16T09:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "립오일",
+   "스킨케어 결합 메이크업",
+   "주름 관리"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "틴티드 립오일",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "kr 더트래커 = 아모레퍼시픽의 럭셔리 뷰티 브랜드 설화수가 립 메이크업과 스킨케어 기능을 결합한 신제품 을 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "설화수가 립 메이크업과 스킨케어 기능을 결합한 첫 틴티드 립오일을 선보인다.",
+  "key_fact_quote": "kr 더트래커 = 아모레퍼시픽의 럭셔리 뷰티 브랜드 설화수가 립 메이크업과 스킨케어 기능을 결합한 신제품 을 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

@@ -1,0 +1,70 @@
+{
+ "doc_id": "7e647f00309eea3d",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/solabia-steps-up-its,28547",
+ "title": "Solabia steps up its transformation with the acquisition of Ethical Naturals",
+ "summary": "The specialist in natural and biotechnological active ingredients is pursuing its strategic refocusing on cosmetics and nutraceuticals. Solabia plans to divest its microbiological diagnostics division while acquiring a majority stake in US-based Ethical Naturals Inc. Solabia is sharpening its strategic focus on cosmetics, nutrition, and life sciences. Backed by private equity firm Astorg, the company aims to become a global leader in natural and biotechnological active ingredients. As part... - Ingredients & formulation",
+ "published_at": "2026-11-17T03:16:35+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "CH"
+  ],
+  "brands": [],
+  "companies": [
+   "Solabia",
+   "Ethical Naturals Inc.",
+   "Astorg",
+   "Oxoid Remel Microbiology",
+   "Mibelle Biochemistry",
+   "Nestlé",
+   "Groupe Nuxe",
+   "Xebios Diagnostics Group",
+   "Seqens"
+  ],
+  "keywords": [
+   "원료사 인수합병",
+   "바이오 활성 성분",
+   "뉴트라슈티컬 원료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "Solabia가 미국 Ethical Naturals Inc.의 지분 과반을 인수하고 미생물 진단 사업부 매각을 추진한다.",
+  "key_fact_quote": "Solabia plans to divest its microbiological diagnostics division while acquiring a majority stake in US-based Ethical Naturals Inc.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "AlphaWave L-Theanine",
+    "quote": "Its portfolio includes AlphaWave L-Theanine, GreenGrown Glucosamine, PureLeaf Ginkgo, and Cranberex Cranberry Extract."
+   },
+   {
+    "name": "GreenGrown Glucosamine",
+    "quote": "Its portfolio includes AlphaWave L-Theanine, GreenGrown Glucosamine, PureLeaf Ginkgo, and Cranberex Cranberry Extract."
+   },
+   {
+    "name": "PureLeaf Ginkgo",
+    "quote": "Its portfolio includes AlphaWave L-Theanine, GreenGrown Glucosamine, PureLeaf Ginkgo, and Cranberex Cranberry Extract."
+   },
+   {
+    "name": "Cranberex Cranberry Extract",
+    "quote": "Its portfolio includes AlphaWave L-Theanine, GreenGrown Glucosamine, PureLeaf Ginkgo, and Cranberex Cranberry Extract."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": true
+}

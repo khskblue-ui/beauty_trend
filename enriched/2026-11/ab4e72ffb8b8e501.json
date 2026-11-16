@@ -1,0 +1,68 @@
+{
+ "doc_id": "ab4e72ffb8b8e501",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100492",
+ "title": "메이크온, CES 수상 기술 기반 '리보빔 볼륨&액티브 세럼' 출시",
+ "summary": "아모레퍼시픽의 뷰티 디바이스 전문 브랜드 메이크온이 팔자·눈가·이마·입술 등 표정주름을 집중적으로 케어하는 신제품 ‘리보빔 볼륨&액티브 세럼’을 출시한다.‘리보빔 볼륨&액티브 세럼’은 2024년 CES 혁신상 수상 기술을 기반으로 개발한 제품으로, 아모레퍼시픽의 독자 기술 ‘리보빔™(RIBO-BEAM™)’을 적용했다. 아모레퍼시픽이 80년 넘게 축적해 온 스킨케어 연구 역량과 7년간 이어온 뷰티 디바이스 연계 연구 노하우를 결합해 개발했으며, 빛 기술과 유효 성분의 시너지를 통한 새로운 주름 케어 경험을 제공한다.이번 신제품의 핵심",
+ "published_at": "2026-11-16T10:23:04+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [
+   "메이크온"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "올리브영"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "표정주름 케어",
+   "뷰티테크"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리보빔 볼륨&액티브 세럼",
+    "brand": "메이크온",
+    "launch_date": "2026-11-23",
+    "launch_status": "upcoming",
+    "launch_quote": "‘메이크온 리보빔 볼륨&액티브 세럼’은 11월 23일 네이버 쇼핑을 통해 먼저 선보이며, 이후 올리브영과 주요 이커머스 채널에서 만나볼 수 있다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "메이크온이 빛 기술 디바이스와 전용 세럼을 함께 쓰는 표정주름 케어 신제품을 출시한다.",
+  "key_fact_quote": "아모레퍼시픽의 뷰티 디바이스 전문 브랜드 메이크온이 팔자·눈가·이마·입술 등 표정주름을 집중적으로 케어하는 신제품 ‘리보빔 볼륨&액티브 세럼’을 출시한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "리보플라빈",
+    "quote": "이번 신제품의 핵심은 리보빔 기술을 적용한 디바이스와 리보플라빈(비타민 B2) 성분을 함유한 전용 세럼의 병용 설계다."
+   },
+   {
+    "name": "나노 리포좀",
+    "quote": "머리카락 굵기의 2,000분의 1 수준인 ‘나노 리포좀’ 기술을 적용했으며, 주름 개선 기능성 화장품 등록과 피부과 테스트 등 4가지 피부 안전성 시험을 완료했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

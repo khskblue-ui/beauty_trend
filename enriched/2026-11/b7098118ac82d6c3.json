@@ -1,0 +1,46 @@
+{
+ "doc_id": "b7098118ac82d6c3",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/collagen-in-skin-care-can-topical-creams-really",
+ "title": "Collagen in skin care: can topical creams really work?",
+ "summary": "In Cosmetics Business’ latest ‘Bench to Bottle’ instalment, Rinki Pramanik explores the science behind cosmetic collagen, how far its benefits can reach the finished bottle, and how K-beauty has transformed collagen formulas",
+ "published_at": "2026-11-16T21:13:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "콜라겐 스킨케어",
+   "K-뷰티 포뮬러"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 콜라겐의 과학적 근거와 K-뷰티가 바꾼 콜라겐 포뮬러를 살펴본다.",
+  "key_fact_quote": "In Cosmetics Business’ latest ‘Bench to Bottle’ instalment, Rinki Pramanik explores the science behind cosmetic collagen, how far its benefits can reach the finished bottle, and how K-beauty has transformed collagen formulas",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "collagen",
+    "quote": "In Cosmetics Business’ latest ‘Bench to Bottle’ instalment, Rinki Pramanik explores the science behind cosmetic collagen, how far its benefits can reach the finished bottle, and how K-beauty has transformed collagen formulas"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

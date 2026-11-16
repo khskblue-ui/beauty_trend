@@ -1,0 +1,46 @@
+{
+ "doc_id": "8a087be1429dbbaa",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Economy/article/all/20261116/135031787/1",
+ "title": "‘무신사 뷰티 성수’ 개점…400평 규모에 약국 ‘숍인숍’ 입점",
+ "summary": "인디 뷰티 브랜드 를 중심으로 700여 개 브랜드 , 1만여 개 상품을 갖췄다. 퍼스널 컬러 진단과 향수 조합 체험 공간도 마련했다. 2층에는 숍인숍 형태로 ‘뷰티온누리약국’이 들어섰다. 약사 2명이 상주하며 복약 상담과...",
+ "published_at": "2026-11-16T14:11:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사",
+   "뷰티온누리약국"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "인디 뷰티 브랜드",
+   "숍인숍 약국",
+   "향수 조합 체험"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사가 인디 뷰티 브랜드 중심의 오프라인 매장 무신사 뷰티 성수를 열고 약국을 숍인숍으로 입점시켰다.",
+  "key_fact_quote": "‘무신사 뷰티 성수’ 개점…400평 규모에 약국 ‘숍인숍’ 입점",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

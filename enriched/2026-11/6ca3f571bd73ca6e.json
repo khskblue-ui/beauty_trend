@@ -1,0 +1,51 @@
+{
+ "doc_id": "6ca3f571bd73ca6e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://theviewers.co.kr/View.aspx?No=4313754",
+ "title": "[유통갤러리] G마켓, ‘더모 뷰티 ’ 큐레이션 강화 外",
+ "summary": "브랜드존에서는 ‘네메르’, ‘엘보틀’ 등 자체 기획 브랜드와 K -브랜드 수출 플랫폼 ‘이설’ 입점 브랜드를 소개했다. 쇼핑존에서는 ‘VT’, ‘보로탈코’, ‘덴프스’ 등 인기 뷰티 ·건강식품 브랜드의 상품을...",
+ "published_at": "2026-11-16T09:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "네메르",
+   "엘보틀",
+   "VT",
+   "보로탈코",
+   "덴프스"
+  ],
+  "companies": [
+   "G마켓",
+   "이설"
+  ],
+  "keywords": [
+   "더모 뷰티",
+   "큐레이션",
+   "K-브랜드 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "G마켓이 더모 뷰티 큐레이션을 강화했다.",
+  "key_fact_quote": "G마켓, ‘더모 뷰티 ’ 큐레이션 강화",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

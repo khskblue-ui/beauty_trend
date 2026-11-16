@@ -1,0 +1,46 @@
+{
+ "doc_id": "28b36e01f5e0939b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504233",
+ "title": "아모레퍼시픽, 화장품 브랜드평판 1위…LG생활건강·한국콜마 2·3위",
+ "summary": "국내 화장품 시장은 K - 뷰티 의 글로벌 인지도 확대와 수출 증가를 바탕으로 성장 축이 해외로 이동하고 있다. 시장 규모는 2025년 기준 약 18조원으로 분석된다. 내수 시장에서는 인디 브랜드와 온라인 플랫폼...",
+ "published_at": "2026-11-16T06:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽",
+   "LG생활건강",
+   "한국콜마"
+  ],
+  "keywords": [
+   "브랜드평판",
+   "K-뷰티 수출",
+   "인디 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 화장품 시장은 K-뷰티 수출 증가로 성장 축이 해외로 옮겨 가고 있다.",
+  "key_fact_quote": "국내 화장품 시장은 K - 뷰티 의 글로벌 인지도 확대와 수출 증가를 바탕으로 성장 축이 해외로 이동하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "8f13645a6cedfefe",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.dailypop.kr/news/articleView.html?idxno=104619",
+ "title": "컬리·G마켓 등 뷰티 유통가, 큐레이션 앞세워 거래액 늘어...설화수, 립...",
+ "summary": "화장품 브랜드들은 스킨케어 기능을 앞세운 신제품 을 잇달아 내놓고 있다. 컬리·G마켓, 큐레이션 행사·전문관 운영 사진=컬리 컬리에 따르면 11월 12일부터 나흘간 서울 동대문디자인플라자(DDP)에서 열린...",
+ "published_at": "2026-11-16T17:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "컬리",
+   "G마켓"
+  ],
+  "keywords": [
+   "큐레이션",
+   "뷰티 전문관",
+   "스킨케어 기능 신제품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "컬리와 G마켓 등 뷰티 유통가가 큐레이션 행사와 전문관을 앞세워 거래액을 늘렸다.",
+  "key_fact_quote": "컬리·G마켓 등 뷰티 유통가, 큐레이션 앞세워 거래액 늘어",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

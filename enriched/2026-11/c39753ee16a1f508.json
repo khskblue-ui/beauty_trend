@@ -1,0 +1,88 @@
+{
+ "doc_id": "c39753ee16a1f508",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100495",
+ "title": "일리윤, 고기능 페이셜 라인 ‘멀티베리어 페이셜’",
+ "summary": "아모레퍼시픽 데일리 더마 브랜드 일리윤이 브랜드 최초의 고기능 페이셜 라인인 ‘멀티베리어 페이셜’을 출시하고, 핵심 제품인 ‘멀티베리어 페이셜 리페어 크림’을 선보인다. 이번 신제품은 바디를 중심으로 축적해 온 일리윤의 민감피부·장벽 케어 전문성을 얼굴 피부까지 확장한 제품군이다.‘멀티베리어 페이셜 리페어 크림’은 고함량 덱스판테놀 5%와 특허 초저분자 식물성 PDRN을 함께 담아 피부 장벽과 컨디션을 복합적으로 케어할 수 있도록 설계했다. 5% 덱스판테놀은 피부 겉장벽을 집중적으로 케어하고, 초저분자 식물성 PDRN은 피부 컨디션",
+ "published_at": "2026-11-16T10:29:39+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "일리윤"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "장벽 케어",
+   "민감 피부",
+   "PDRN",
+   "데일리 더마"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "멀티베리어 페이셜 리페어 크림",
+    "brand": "일리윤",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아모레퍼시픽 데일리 더마 브랜드 일리윤이 브랜드 최초의 고기능 페이셜 라인인 ‘멀티베리어 페이셜’을 출시하고, 핵심 제품인 ‘멀티베리어 페이셜 리페어 크림’을 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "멀티베리어 페이셜 부스터 에센스",
+    "brand": "일리윤",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "피부 컨디션에 따라 활용할 수 있는 부스터 에센스와 수딩 크림도 함께 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "멀티베리어 페이셜 수딩 크림",
+    "brand": "일리윤",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "피부 컨디션에 따라 활용할 수 있는 부스터 에센스와 수딩 크림도 함께 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "일리윤이 바디 장벽 케어 노하우를 얼굴로 넓힌 페이셜 라인을 출시했다.",
+  "key_fact_quote": "아모레퍼시픽 데일리 더마 브랜드 일리윤이 브랜드 최초의 고기능 페이셜 라인인 ‘멀티베리어 페이셜’을 출시하고, 핵심 제품인 ‘멀티베리어 페이셜 리페어 크림’을 선보인다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "덱스판테놀",
+    "quote": "‘멀티베리어 페이셜 리페어 크림’은 고함량 덱스판테놀 5%와 특허 초저분자 식물성 PDRN을 함께 담아 피부 장벽과 컨디션을 복합적으로 케어할 수 있도록 설계했다."
+   },
+   {
+    "name": "초저분자 식물성 PDRN",
+    "quote": "‘멀티베리어 페이셜 리페어 크림’은 고함량 덱스판테놀 5%와 특허 초저분자 식물성 PDRN을 함께 담아 피부 장벽과 컨디션을 복합적으로 케어할 수 있도록 설계했다."
+   },
+   {
+    "name": "연어 유래 PDRN",
+    "quote": "특히 초저분자 식물성 PDRN은 아모레퍼시픽의 독자 특허 기술을 적용한 식물성 기반 성분으로, 연어 유래 PDRN 대비 약 20배 작은 초저분자 크기가 특징이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

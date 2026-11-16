@@ -1,0 +1,65 @@
+{
+ "doc_id": "9a4cd499b4978a2e",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100479",
+ "title": "클라랑스 NEW ‘엑스트라-퍼밍 넥 앤 데콜테’ 리뉴얼 출시",
+ "summary": "클라랑스(CLARINS)가 48년 넥 케어 스파 헤리티지와 식물 과학 연구를 바탕으로, 목과 데콜테 피부를 위한 전문 케어 제품 NEW ‘엑스트라-퍼밍 넥 앤 데콜테’를 새롭게 선보인다. 얼굴 피부만큼이나 섬세한 관리가 필요한 목과 데콜테는 피부가 얇고 일상적인 관리에서 놓치기 쉬운 부위다. 특히 스마트폰과 태블릿, 노트북 사용이 일상화되면서 반복적인 움직임에 지속적으로 노출되고 있는 목 피부를 위해, 클라랑스는 목과 데콜테 피부의 탄력과 탄성을 함께 관리하는 전문 넥 케어를 제안한다.‘셀럽 넥크림’으로 주목받아 온 ‘엑스트라-퍼밍",
+ "published_at": "2026-11-16T09:40:10+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "클라랑스"
+  ],
+  "companies": [],
+  "keywords": [
+   "넥 케어",
+   "탄력 케어",
+   "주름개선 기능성"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "엑스트라-퍼밍 넥 앤 데콜테",
+    "brand": "클라랑스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "클라랑스(CLARINS)가 48년 넥 케어 스파 헤리티지와 식물 과학 연구를 바탕으로, 목과 데콜테 피부를 위한 전문 케어 제품 NEW ‘엑스트라-퍼밍 넥 앤 데콜테’를 새롭게 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "클라랑스가 목과 데콜테 피부용 엑스트라-퍼밍 넥 앤 데콜테를 리뉴얼해 선보인다.",
+  "key_fact_quote": "클라랑스(CLARINS)가 48년 넥 케어 스파 헤리티지와 식물 과학 연구를 바탕으로, 목과 데콜테 피부를 위한 전문 케어 제품 NEW ‘엑스트라-퍼밍 넥 앤 데콜테’를 새롭게 선보인다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "피칸트리 추출물",
+    "quote": "탄력 케어를 돕는 피칸트리 추출물과 미트라카르푸스 추출물, 피부 탄성과 유연성 케어를 돕는 해바라기씨 불검화물 및 피칸트리 추출물을 함유해 기존 탄력 케어에서 한 단계 더 나아가 목과 데콜테 피부의 탄성까지 집중적으로 케어한다."
+   },
+   {
+    "name": "미트라카르푸스 추출물",
+    "quote": "탄력 케어를 돕는 피칸트리 추출물과 미트라카르푸스 추출물, 피부 탄성과 유연성 케어를 돕는 해바라기씨 불검화물 및 피칸트리 추출물을 함유해 기존 탄력 케어에서 한 단계 더 나아가 목과 데콜테 피부의 탄성까지 집중적으로 케어한다."
+   },
+   {
+    "name": "해바라기씨 불검화물",
+    "quote": "탄력 케어를 돕는 피칸트리 추출물과 미트라카르푸스 추출물, 피부 탄성과 유연성 케어를 돕는 해바라기씨 불검화물 및 피칸트리 추출물을 함유해 기존 탄력 케어에서 한 단계 더 나아가 목과 데콜테 피부의 탄성까지 집중적으로 케어한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

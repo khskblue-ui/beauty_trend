@@ -1,0 +1,39 @@
+{
+ "doc_id": "a3e1b34fa9c9ceb6",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/the-detoxifying-ally-for-menopausal-skin",
+ "title": "The detoxifying ally for menopausal skin",
+ "summary": "Menopause is a key step in a woman’s life, marked by significant biological transformations. As a result of the cessation of menstruations, it has been shown that menopause causes increased levels of iron in the skin and an accumulation of ferritin, an iron storage protein",
+ "published_at": "2026-11-16T20:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "갱년기 피부",
+   "디톡스 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "갱년기에는 피부 속 철분이 늘고 철분 저장 단백질이 쌓인다는 내용을 소개했다.",
+  "key_fact_quote": "As a result of the cessation of menstruations, it has been shown that menopause causes increased levels of iron in the skin and an accumulation of ferritin, an iron storage protein",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

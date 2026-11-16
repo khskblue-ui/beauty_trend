@@ -1,0 +1,48 @@
+{
+ "doc_id": "4d6e1ba8efffe4a0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pressman.kr/news/articleView.html?idxno=104486",
+ "title": "연말 향수부터 주름 케어까지… 뷰티업계, 차별화 전략 강화",
+ "summary": "오는 23일 네이버 쇼핑에서 먼저 출시 하며, 이후 올리브영과 주요 온라인 판매 채널로 유통을 확대할 예정이다. 내년에는 미국과 일본 시장 진출도 추진한다. LG생활건강의 럭셔리 화장품 브랜드 '더후'는 지난 11~13일...",
+ "published_at": "2026-11-16T14:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [
+   "더후"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "연말 향수",
+   "주름 케어",
+   "브랜드 차별화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티업계가 연말 향수와 주름 케어 신제품 등으로 차별화 전략을 강화하고 있다.",
+  "key_fact_quote": "오는 23일 네이버 쇼핑에서 먼저 출시 하며, 이후 올리브영과 주요 온라인 판매 채널로 유통을 확대할 예정이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

@@ -1,0 +1,66 @@
+{
+ "doc_id": "042a8eafb9baffdd",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100496",
+ "title": "오하입, 신규 향 '써니글로우' 헤어팩 카카오톡 선물하기 선런칭",
+ "summary": "일상의 루틴에 감각을 더하는 데일리 헤어케어 브랜드 오하입(ohype)이 ‘본딩 알파 케라틴 헤어팩’의 신규향 ‘써니글로우’를 11월 16일 카카오톡 선물하기를 통해 선런칭한다.새롭게 선보이는 향 ‘써니글로우’는 상큼한 시트러스에서 포근한 코튼 머스크로 이어지는 산뜻하고 깨끗한 향이 특징으로, 시트러스와 코튼의 탑 노트에 화이트 로즈의 미들 노트, 머스크의 베이스 노트를 조합해 싱그러운 첫 향부터 부드러운 잔향까지 즐길 수 있도록 담았다. 오하입은 기존 누드머스크, 그린제스트 2가지 향에 써니글로우 향을 더한 총 3종으로 소비자 취",
+ "published_at": "2026-11-16T10:36:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오하입"
+  ],
+  "companies": [
+   "카카오톡 선물하기"
+  ],
+  "keywords": [
+   "헤어팩",
+   "향기 헤어케어",
+   "선물하기 선런칭"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "본딩 알파 케라틴 헤어팩",
+    "brand": "오하입",
+    "launch_date": "2026-11-16",
+    "launch_status": "launched",
+    "launch_quote": "일상의 루틴에 감각을 더하는 데일리 헤어케어 브랜드 오하입(ohype)이 ‘본딩 알파 케라틴 헤어팩’의 신규향 ‘써니글로우’를 11월 16일 카카오톡 선물하기를 통해 선런칭한다.",
+    "notes": [
+     "시트러스",
+     "코튼",
+     "화이트 로즈",
+     "머스크"
+    ],
+    "notes_quote": "새롭게 선보이는 향 ‘써니글로우’는 상큼한 시트러스에서 포근한 코튼 머스크로 이어지는 산뜻하고 깨끗한 향이 특징으로, 시트러스와 코튼의 탑 노트에 화이트 로즈의 미들 노트, 머스크의 베이스 노트를 조합해 싱그러운 첫 향부터 부드러운 잔향까지 즐길 수 있도록 담았다."
+   }
+  ],
+  "key_fact": "오하입이 헤어팩의 새 향 써니글로우를 카카오톡 선물하기에서 먼저 출시했다.",
+  "key_fact_quote": "일상의 루틴에 감각을 더하는 데일리 헤어케어 브랜드 오하입(ohype)이 ‘본딩 알파 케라틴 헤어팩’의 신규향 ‘써니글로우’를 11월 16일 카카오톡 선물하기를 통해 선런칭한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "케라틴",
+    "quote": "오하입의 본딩 알파 케라틴 헤어팩은 잦은 염색과 펌, 열기구 사용 등으로 손상된 모발의 끝결을 집중적으로 관리해주는 제품으로, 고영양 단백질과 케라틴을 담은 ‘리본딩 단백질 결합 시스템’을 적용해 푸석한 머릿결에 윤기와 부드러움을 더해준다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

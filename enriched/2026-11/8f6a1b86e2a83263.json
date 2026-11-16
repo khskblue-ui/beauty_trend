@@ -1,0 +1,50 @@
+{
+ "doc_id": "8f6a1b86e2a83263",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301046",
+ "title": "태광산업, 글로벌 뷰티 소재 시장 정조준…모다크릴 '세계 톱2' 도약",
+ "summary": "차별화 된 제품력을 입증한 태광산업은 이번 대규모 증설을 통해 K - 뷰티 원천 소재 분야의 '글로벌 TOP 2'로... 모다크릴 수출 판매를 시작했다. 또한 양산 직후 흑인용 가발 제조사들의 평가를 거친 결과, 일본 기업...",
+ "published_at": "2026-11-16T13:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "태광산업"
+  ],
+  "keywords": [
+   "가발 소재",
+   "뷰티 소재",
+   "설비 증설"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "태광산업이 증설을 통해 가발용 모다크릴 소재 시장 공략에 나선다.",
+  "key_fact_quote": "차별화 된 제품력을 입증한 태광산업은 이번 대규모 증설을 통해 K - 뷰티 원천 소재 분야의 '글로벌 TOP 2'로",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "모다크릴",
+    "quote": "모다크릴 수출 판매를 시작했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

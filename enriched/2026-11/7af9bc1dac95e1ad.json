@@ -1,0 +1,65 @@
+{
+ "doc_id": "7af9bc1dac95e1ad",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53958",
+ "title": "지에프씨생명과학, 3분기 매출 52억 6천만 원 기록",
+ "summary": "지에프씨생명과학(대표 강희철)이 올해 3분기 누적 매출액 157억6천만 원, 영업이익 16억7천만 원을 기록했다. 이는 전년 동기 대비 각각 19.8%, 444.8% 증가한 수치다. 3분기 매출액은 52억 6천만 원으로 전년 동기 대비 25.8% 늘었다. 영업이익은 6억3천만 원으로 흑자 전환했다. 지에프씨생명과학은…",
+ "published_at": "2026-11-16T09:40:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN",
+   "IT"
+  ],
+  "brands": [
+   "fmk",
+   "GFCCELL"
+  ],
+  "companies": [
+   "지에프씨생명과학",
+   "로레알",
+   "LG생활건강",
+   "대한피부과학연구소"
+  ],
+  "keywords": [
+   "바이오 소재",
+   "원료 공급",
+   "더마 코스메틱"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지에프씨생명과학이 바이오 소재 공급 확대로 올해 누적 매출과 영업이익을 늘렸다.",
+  "key_fact_quote": "지에프씨생명과학(대표 강희철)이 올해 3분기 누적 매출액 157억6천만 원, 영업이익 16억7천만 원을 기록했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "마이크로바이옴",
+    "quote": "마이크로바이옴, 식물세포, 엑소좀 등 차세대 바이오 소재 연구를 기반으로 글로벌 화장품 기업에 원료를 공급한다."
+   },
+   {
+    "name": "식물세포",
+    "quote": "마이크로바이옴, 식물세포, 엑소좀 등 차세대 바이오 소재 연구를 기반으로 글로벌 화장품 기업에 원료를 공급한다."
+   },
+   {
+    "name": "엑소좀",
+    "quote": "마이크로바이옴, 식물세포, 엑소좀 등 차세대 바이오 소재 연구를 기반으로 글로벌 화장품 기업에 원료를 공급한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

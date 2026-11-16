@@ -1,0 +1,54 @@
+{
+ "doc_id": "62d717041c2b3bb0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.segyebiz.com/newsView/20261113512223?OutUrl=naver",
+ "title": "멈칫, 신제품 ‘ 퍼퓸 크림 미스트’ 네이버 스마트스토어 선론칭",
+ "summary": "출시 한다. 제품 기획 초기 단계부터 멈칫 공식 서포터즈가 공동 개발진으로 참여해 시향 및 제형 사용감 테스트를 직접 진행했으며 최종 제품명 확정 단계까지 서포터즈의 의견이 반영됐다. 멈칫 관계자는 “ 퍼퓸 크림...",
+ "published_at": "2026-11-16T09:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "퍼퓸 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "멈칫"
+  ],
+  "companies": [],
+  "keywords": [
+   "퍼퓸 미스트",
+   "소비자 공동 개발",
+   "스마트스토어 선론칭"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퍼퓸 크림 미스트",
+    "brand": "멈칫",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "멈칫, 신제품 ‘ 퍼퓸 크림 미스트’ 네이버 스마트스토어 선론칭",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "멈칫이 서포터즈와 함께 개발한 퍼퓸 크림 미스트를 네이버 스마트스토어에서 먼저 선보였다.",
+  "key_fact_quote": "제품 기획 초기 단계부터 멈칫 공식 서포터즈가 공동 개발진으로 참여해 시향 및 제형 사용감 테스트를 직접 진행했으며 최종 제품명 확정 단계까지 서포터즈의 의견이 반영됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

@@ -1,0 +1,74 @@
+{
+ "doc_id": "a636b5ab2b69e148",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100481",
+ "title": "AHC 네이버 공식몰에서 ‘슈퍼 빅세일’ 진행",
+ "summary": "프로페셔널 클리닉 브랜드 AHC가 11월 16일부터 22일까지 7일간, 네이버 공식몰에서 ‘슈퍼 빅세일’을 진행한다고 16일 밝혔다.이번 이벤트는 고객들에게 꾸준히 사랑받아 온 AHC의 대표 제품인 아이크림과 선스틱, 임상 기반의 고효능 스킨케어 라인 ‘프로샷’ 등의 AHC의 다양한 제품들을 특별한 가격과 구성으로 만나볼 수 있도록 마련됐다. 특히, AHC의 아이크림은 월드패널 조사 기준 국내 전체 아이크림 시장에서 구매량 점유율 10년 연속 1위를 기록했으며, 선스틱 역시 월드패널의 국내 전체 선스틱 시장 조사에서 10년 연속 1",
+ "published_at": "2026-11-16T09:42:58+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "AHC"
+  ],
+  "companies": [
+   "네이버"
+  ],
+  "keywords": [
+   "온라인 할인 행사",
+   "아이크림",
+   "선스틱"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아이크림",
+    "brand": "AHC",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "선스틱",
+    "brand": "AHC",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "프로샷",
+    "brand": "AHC",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "AHC가 네이버 공식몰에서 슈퍼 빅세일을 진행한다.",
+  "key_fact_quote": "프로페셔널 클리닉 브랜드 AHC가 11월 16일부터 22일까지 7일간, 네이버 공식몰에서 ‘슈퍼 빅세일’을 진행한다고 16일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

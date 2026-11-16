@@ -1,0 +1,46 @@
+{
+ "doc_id": "92f7f42c7288439e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=768394",
+ "title": "[ K - 뷰티 신화를 쓰다⑤] 中 유통상에서 170국 진출 ' 뷰티 공룡'으로…구...",
+ "summary": "K - 뷰티 의 수출 지형 변화와 성장 동력, 기업들의 글로벌 전략을 분석하고 지속 가능한 성장을 위한 과제를 짚어본다.[편집자주] 중국 시장에 한국 화장품을 유통하던 구다이글로벌이 조선미녀의 북미 흥행을 계기로...",
+ "published_at": "2026-11-17T06:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "조선미녀"
+  ],
+  "companies": [
+   "구다이글로벌"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "북미 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 유통상이던 구다이글로벌이 조선미녀의 북미 흥행을 계기로 성장했다.",
+  "key_fact_quote": "중국 시장에 한국 화장품을 유통하던 구다이글로벌이 조선미녀의 북미 흥행을 계기로",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

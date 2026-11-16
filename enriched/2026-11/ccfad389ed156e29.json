@@ -1,0 +1,54 @@
+{
+ "doc_id": "ccfad389ed156e29",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/alberta-ferretti-launches-hotel-amenities-gfl-cosmetics-1239417572/",
+ "title": "Alberta Ferretti Debuts Hotel Amenities Line",
+ "summary": "Licensed to GFL Cosmetics, the range targets upscale and boutique hotels via a full-fledged collection of rose-centered body and hair products.",
+ "published_at": "2026-11-16T23:33:56+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Alberta Ferretti"
+  ],
+  "companies": [
+   "GFL Cosmetics"
+  ],
+  "keywords": [
+   "호텔 어메니티",
+   "라이선스 뷰티",
+   "바디 헤어 제품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Hotel Amenities Line",
+    "brand": "Alberta Ferretti",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Alberta Ferretti Debuts Hotel Amenities Line",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Alberta Ferretti가 고급 호텔용 어메니티 라인을 선보였다.",
+  "key_fact_quote": "Licensed to GFL Cosmetics, the range targets upscale and boutique hotels via a full-fledged collection of rose-centered body and hair products.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

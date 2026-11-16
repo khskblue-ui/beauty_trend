@@ -1,0 +1,44 @@
+{
+ "doc_id": "791865c495b7ffa3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankookilbo.com/news/article/A2026111610050002370?did=NA",
+ "title": "\"K유아용품도 K뷰티 처럼 인지도 높아지길\"… 日 진출 노리는 韓업체들",
+ "summary": "박용민 코트라 일본지역본부장은 \"일본 시장에서 K푸드와 K뷰티 가 강세를 보이는 것과 달리 생활용품 수출 은 상대적으로 부진한 편\"이라며 \"현지 업체들의 가격 경쟁력을 넘어서기 쉽지 않지만, K제품의 강점을 앞세워...",
+ "published_at": "2026-11-16T16:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "코트라"
+  ],
+  "keywords": [
+   "유아용품 수출",
+   "일본 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 유아용품 업체들이 일본 시장 진출을 노리고 있다.",
+  "key_fact_quote": "\"K유아용품도 K뷰티 처럼 인지도 높아지길\"… 日 진출 노리는 韓업체들",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

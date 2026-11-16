@@ -1,0 +1,59 @@
+{
+ "doc_id": "e0a3ec8e34d2552e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=122200",
+ "title": "메이크온, 뷰티 디바이스 '리보빔 볼륨&액티브 세럼' 출시",
+ "summary": "전용 화장품 라인업을 지속 확대할 계획\"이라고 말했다. 신제품 은 오는 23일 네이버 쇼핑에서 먼저 출시되며, 이후 올리브영과 주요 온라인 유통 채널로 판매처를 넓힌다. 내년에는 미국과 일본 등 해외 시장에도...",
+ "published_at": "2026-11-16T09:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [
+   "메이크온"
+  ],
+  "companies": [
+   "메이크온",
+   "네이버",
+   "올리브영"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "디바이스 전용 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리보빔 볼륨&액티브 세럼",
+    "brand": "메이크온",
+    "launch_date": "2026-11-23",
+    "launch_status": "upcoming",
+    "launch_quote": "신제품 은 오는 23일 네이버 쇼핑에서 먼저 출시되며, 이후 올리브영과 주요 온라인 유통 채널로 판매처를 넓힌다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "메이크온의 디바이스 전용 신제품이 네이버 쇼핑에서 먼저 출시된 뒤 올리브영 등으로 판매처를 넓힌다.",
+  "key_fact_quote": "신제품 은 오는 23일 네이버 쇼핑에서 먼저 출시되며, 이후 올리브영과 주요 온라인 유통 채널로 판매처를 넓힌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

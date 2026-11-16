@@ -1,0 +1,55 @@
+{
+ "doc_id": "46c2ac4bf2fba614",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/general-industry/6354879",
+ "title": "이세비, 저당 스파클링 이너 뷰티 로 흥행…올리브영 푸드 1위",
+ "summary": "K-이너 뷰티 브랜드 이세비의 대표 제품 '에어리 페이스 드링크'가 올리브영 론칭 약 6주 만에 푸드 카테고리 실시간 판매 1위에 올랐다. 이세비는 '에어리 페이스 드링크'가 지난 9일 기준 올리브영 푸드 카테고리 판매 랭킹...",
+ "published_at": "2026-11-16T09:39:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이세비"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "이너 뷰티",
+   "저당 음료"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "에어리 페이스 드링크",
+    "brand": "이세비",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이세비의 에어리 페이스 드링크가 올리브영 푸드 카테고리 판매 선두에 올랐다.",
+  "key_fact_quote": "K-이너 뷰티 브랜드 이세비의 대표 제품 '에어리 페이스 드링크'가 올리브영 론칭 약 6주 만에 푸드 카테고리 실시간 판매 1위에 올랐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

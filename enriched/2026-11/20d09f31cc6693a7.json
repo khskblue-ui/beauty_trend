@@ -1,0 +1,42 @@
+{
+ "doc_id": "20d09f31cc6693a7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921033",
+ "title": "[화요시선] 뷰티관광, 아름다움을 넘어 산업으로",
+ "summary": "K-뷰티가 세계적인 브랜드 가 되면서 뷰티관광은 관광산업의 새로운 성장 동력이 되고 있다. 최근 외국인... 피부관리, 헤어스타일링, 메이크업, 퍼스널컬러 진단, 두피관리, 네일아트, 향수 제작, 화장품 만들기 체험 등...",
+ "published_at": "2026-11-16T14:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티관광",
+   "향수 제작 체험",
+   "퍼스널컬러 진단"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티의 인기로 뷰티관광이 관광산업의 새 성장 동력이 되고 있다.",
+  "key_fact_quote": "K-뷰티가 세계적인 브랜드 가 되면서 뷰티관광은 관광산업의 새로운 성장 동력이 되고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

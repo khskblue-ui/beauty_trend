@@ -1,0 +1,49 @@
+{
+ "doc_id": "7c92a8f5bc218b22",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/estee-lauder-duty-free-americas-beauty-store-miami-airport-1239416168/",
+ "title": "Beauty Takes Flight: Estée Lauder and Duty Free Americas Debut Luxe Trio at Miami Airport",
+ "summary": "The Estée Lauder Cos. and Duty Free Americas are unveiling a new beauty destination at Miami International Airport, featuring Le Labo, Tom Ford Beauty and Jo Malone London.",
+ "published_at": "2026-11-16T15:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Le Labo",
+   "Tom Ford Beauty",
+   "Jo Malone London"
+  ],
+  "companies": [
+   "The Estée Lauder Cos.",
+   "Duty Free Americas"
+  ],
+  "keywords": [
+   "트래블 리테일",
+   "공항 면세점",
+   "럭셔리 향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에스티 로더와 듀티 프리 아메리카스가 마이애미 국제공항에 새 뷰티 매장을 연다.",
+  "key_fact_quote": "The Estée Lauder Cos. and Duty Free Americas are unveiling a new beauty destination at Miami International Airport, featuring Le Labo, Tom Ford Beauty and Jo Malone London.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

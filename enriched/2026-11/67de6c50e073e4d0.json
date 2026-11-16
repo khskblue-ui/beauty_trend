@@ -1,0 +1,52 @@
+{
+ "doc_id": "67de6c50e073e4d0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=202611161030193326d3244b4fed_30",
+ "title": "샤인온, ‘인천 송도 K - 뷰티 무슬림 마켓’ 참가 브랜드 모집…20일까지...",
+ "summary": "K - 뷰티 글로벌 유통사 Shine-On(샤인온)이 국내 뷰티 브랜드를 대상으로 ‘인천 송도 K - 뷰티 무슬림 마켓’... 바이어들과 수출 협의를 진행했다. 지난 12일에는 중동 진출을 주제로 웨비나를 열었으며, 앞으로도 각국...",
+ "published_at": "2026-11-16T10:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "샤인온"
+  ],
+  "keywords": [
+   "무슬림 시장",
+   "중동 진출",
+   "K뷰티 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "샤인온이 인천 송도 K뷰티 무슬림 마켓에 참가할 국내 뷰티 브랜드를 모집한다.",
+  "key_fact_quote": "K - 뷰티 글로벌 유통사 Shine-On(샤인온)이 국내 뷰티 브랜드를 대상으로 ‘인천 송도 K - 뷰티 무슬림 마켓’",
+  "events": [
+   {
+    "name": "웨비나",
+    "start_date": "2026-11-12",
+    "end_date": null,
+    "place": null,
+    "quote": "지난 12일에는 중동 진출을 주제로 웨비나를 열었으며"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

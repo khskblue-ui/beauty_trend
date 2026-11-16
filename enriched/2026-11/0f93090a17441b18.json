@@ -1,0 +1,52 @@
+{
+ "doc_id": "0f93090a17441b18",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://magazine.hankyung.com/job-joy/article/202611169691d",
+ "title": "골칫거리 불가사리의 변신…라보페, 글로벌 뷰티 무대 올랐다",
+ "summary": "스타스테크의 해양 유래 더마 코스메틱 브랜드 라보페(LABOPE)는 지난 11일 홍콩컨벤션전시센터(HKCEC)에서... 개발한 기후테크 스타트업이다. 이후 불가사리 자원화 기술을 뷰티 분야로 확장해 2022년 라보페를 론칭 했다.",
+ "published_at": "2026-11-16T16:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "HK",
+   "KR"
+  ],
+  "brands": [
+   "라보페"
+  ],
+  "companies": [
+   "스타스테크"
+  ],
+  "keywords": [
+   "해양 유래 원료",
+   "더마 코스메틱",
+   "기후테크"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "불가사리 자원화 기술로 만든 라보페가 홍콩 전시 무대에 올랐다.",
+  "key_fact_quote": "스타스테크의 해양 유래 더마 코스메틱 브랜드 라보페(LABOPE)는 지난 11일 홍콩컨벤션전시센터(HKCEC)에서",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "불가사리",
+    "quote": "이후 불가사리 자원화 기술을 뷰티 분야로 확장해 2022년 라보페를 론칭 했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

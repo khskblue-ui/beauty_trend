@@ -1,0 +1,71 @@
+{
+ "doc_id": "0c6bbb27dd6ea094",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53968",
+ "title": "설화수 퍼펙팅 틴티드 립오일",
+ "summary": "글로벌 럭셔리 뷰티 브랜드 설화수가 스킨케어 효능과 메이크업 기능을 결합한 신제품 ‘퍼펙팅 틴티드 립오일’을 출시했다. 설화수가 컬러와 오일의 두 가지 기능을 하나에 담은 립오일을 선보인 것은 이번이 처음이다. 한 번의 터치로 선명한 발색과 풍부한 윤기를 구현하며 덧바를수록 맑고 입체감 있는 광…",
+ "published_at": "2026-11-16T20:47:27+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US",
+   "CA"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "립오일",
+   "하이브리드 메이크업",
+   "스킨케어 효능 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퍼펙팅 틴티드 립오일",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "글로벌 럭셔리 뷰티 브랜드 설화수 가 스킨케어 효능과 메이크업 기능을 결합한 신제품 ‘퍼펙팅 틴티드 립오일’ 을 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "설화수가 스킨케어 효능과 색조 기능을 결합한 첫 틴티드 립오일을 출시했다.",
+  "key_fact_quote": "설화수가 컬러와 오일의 두 가지 기능을 하나에 담은 립오일을 선보인 것은 이번이 처음이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "자음단®",
+    "quote": "설화수의 핵심 성분인 자음단®과 인삼씨오일 을 함유해 입술 탄력 관리를 돕고 아데노신 을 더해 주름 개선 효과를 높였다."
+   },
+   {
+    "name": "인삼씨오일",
+    "quote": "설화수의 핵심 성분인 자음단®과 인삼씨오일 을 함유해 입술 탄력 관리를 돕고 아데노신 을 더해 주름 개선 효과를 높였다."
+   },
+   {
+    "name": "아데노신",
+    "quote": "설화수의 핵심 성분인 자음단®과 인삼씨오일 을 함유해 입술 탄력 관리를 돕고 아데노신 을 더해 주름 개선 효과를 높였다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": true
+}

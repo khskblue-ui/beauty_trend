@@ -1,0 +1,58 @@
+{
+ "doc_id": "d9ade3b107c06798",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100483",
+ "title": "애경산업, 홍대서 ‘K-컬처 페스티벌’ 성료",
+ "summary": "문화로 일상을 넓혀가는 글로벌 토탈 뷰티 기업 애경산업이 지난 11월 13일 서울 홍대 걷고싶은거리 만남의광장에서 개최한 ‘K-컬처 페스티벌’을 성황리에 마무리했다고 16일 밝혔다.‘매일의 즐거움을, 오늘의 축제로’를 주제로 진행된 이번 페스티벌은 화장품과 생활용품으로 일상을 함께해 온 애경산업의 브랜드를 공연과 놀이로 즐겁게 경험할 수 있도록 기획됐다. 행사 당일에는 약 4,200명의 시민이 현장을 찾아 브랜드 체험과 다양한 문화 프로그램을 즐기며 축제의 열기를 더했다.이번 행사는 누구나 자유롭게 참여할 수 있는 브랜드 체험 프로",
+ "published_at": "2026-11-16T10:00:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "AGE20’S",
+   "LUNA",
+   "케라시스",
+   "2080"
+  ],
+  "companies": [
+   "애경산업",
+   "태광그룹"
+  ],
+  "keywords": [
+   "문화 마케팅",
+   "브랜드 체험",
+   "소비자 접점 확대"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "애경산업이 홍대에서 브랜드 체험과 공연을 결합한 K-컬처 페스티벌을 열었다.",
+  "key_fact_quote": "문화로 일상을 넓혀가는 글로벌 토탈 뷰티 기업 애경산업이 지난 11월 13일 서울 홍대 걷고싶은거리 만남의광장에서 개최한 ‘K-컬처 페스티벌’을 성황리에 마무리했다고 16일 밝혔다.",
+  "events": [
+   {
+    "name": "K-컬처 페스티벌",
+    "start_date": "2026-11-13",
+    "end_date": null,
+    "place": "서울 홍대 걷고싶은거리 만남의광장",
+    "quote": "문화로 일상을 넓혀가는 글로벌 토탈 뷰티 기업 애경산업이 지난 11월 13일 서울 홍대 걷고싶은거리 만남의광장에서 개최한 ‘K-컬처 페스티벌’을 성황리에 마무리했다고 16일 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

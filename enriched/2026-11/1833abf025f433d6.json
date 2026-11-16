@@ -1,0 +1,45 @@
+{
+ "doc_id": "1833abf025f433d6",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/estee-lauder-duty-free-americas-unveil-store-miami-international-airport",
+ "title": "Estée Lauder Companies and Duty Free Americas unveil beauty destination at Miami International Airport",
+ "summary": "As part of ‘a renewed global retail partnership’ in North America, the Estée Lauder Companies and Duty Free Americas have opened a new store at Miami International Airport to tap into travellers growing appetite for ‘elevated’ travel retail experiences",
+ "published_at": "2026-11-16T19:26:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "Estée Lauder Companies",
+   "Duty Free Americas"
+  ],
+  "keywords": [
+   "트래블 리테일",
+   "공항 면세점",
+   "리테일 파트너십"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에스티 로더 컴퍼니즈와 듀티 프리 아메리카스가 마이애미 국제공항에 새 매장을 열었다.",
+  "key_fact_quote": "the Estée Lauder Companies and Duty Free Americas have opened a new store at Miami International Airport",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

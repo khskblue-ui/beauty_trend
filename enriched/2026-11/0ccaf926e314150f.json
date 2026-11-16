@@ -1,0 +1,44 @@
+{
+ "doc_id": "0ccaf926e314150f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ajunews.com/view/20261116103454705",
+ "title": "동국제약, 3분기 누적 매출 7686억… 헬스· 뷰티 해외 판매 확대, 12.4%↑",
+ "summary": "허가와 출시 를 추진하고 있다. 동국제약은 마이크로스피어(미립구) 등 자체 약물전달시스템(DDS) 기술을 활용해 전립선암 치료제 '로렐린'을 순차 상업화하고 비만치료제·말단비대증치료제·면역억제제 등 신제품 ...",
+ "published_at": "2026-11-16T10:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "헬스앤뷰티",
+   "해외 매출 확대"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "73e94098257ac18e",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

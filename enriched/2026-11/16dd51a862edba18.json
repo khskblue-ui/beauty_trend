@@ -1,0 +1,54 @@
+{
+ "doc_id": "16dd51a862edba18",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/vaseline-unveils-pro-derma-melasma-repair",
+ "title": "Vaseline unveils first facial skin care range to target sun-induced melasma",
+ "summary": "The Unilever-owned brand is breaking into the therapeutic facial skin care category with Pro Derma Melasma Repair, a range backed by 12 years of research and formulated with Glycoxome technology to target sun-induced melasma at the point of formation",
+ "published_at": "2026-11-16T21:41:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Vaseline"
+  ],
+  "companies": [
+   "Unilever"
+  ],
+  "keywords": [
+   "기미 케어",
+   "페이셜 스킨케어",
+   "더마 스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Pro Derma Melasma Repair",
+    "brand": "Vaseline",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Vaseline unveils first facial skin care range to target sun-induced melasma",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "바셀린이 햇빛으로 생기는 기미를 겨냥한 첫 페이셜 스킨케어 라인을 선보였다.",
+  "key_fact_quote": "Vaseline unveils first facial skin care range to target sun-induced melasma",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

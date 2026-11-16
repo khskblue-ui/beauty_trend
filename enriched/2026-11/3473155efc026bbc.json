@@ -1,0 +1,54 @@
+{
+ "doc_id": "3473155efc026bbc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=140159",
+ "title": "패션·식품· 뷰티 업계, 겨울 신상품·마케팅 총력전...소비자 공략 강화",
+ "summary": "뷰티 업계에서는 스킨케어와 메이크업 기능을 결합한 제품으로 차별화를 꾀하고 있다. 설화수는 신제품 '퍼펙팅 틴티드 립오일'을 출시 한다. 컬러와 오일 기능을 하나에 담은 제품으로 선명한 발색과 풍부한 윤기는...",
+ "published_at": "2026-11-16T09:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [],
+  "keywords": [
+   "립오일",
+   "하이브리드 메이크업",
+   "겨울 신상품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "퍼펙팅 틴티드 립오일",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "설화수는 신제품 '퍼펙팅 틴티드 립오일'을 출시 한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 업계가 스킨케어와 메이크업 기능을 결합한 제품으로 차별화에 나서고 있다.",
+  "key_fact_quote": "뷰티 업계에서는 스킨케어와 메이크업 기능을 결합한 제품으로 차별화를 꾀하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

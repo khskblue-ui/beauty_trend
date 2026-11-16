@@ -1,0 +1,58 @@
+{
+ "doc_id": "7a1c555dbcbc5f05",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5260",
+ "title": "입술에도 스킨케어 기술… 설화수, 첫 틴티드 립오일 출시",
+ "summary": "아모레퍼시픽의 럭셔리 뷰티 브랜드 설화수가 스킨케어 기술을 립 메이크업으로 확장한다. 브랜드의 핵심... 설화수는 2027년 3월 미국과 캐나다에 신제품 을 출시 해 북미 소비자들에게도 선보일 계획이다. 이번 출시 는...",
+ "published_at": "2026-11-16T09:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US",
+   "CA"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "틴티드 립오일",
+   "스킨케어 메이크업",
+   "북미 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "틴티드 립오일",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "입술에도 스킨케어 기술… 설화수, 첫 틴티드 립오일 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "설화수가 첫 틴티드 립오일을 출시하고 북미에도 선보일 계획이다.",
+  "key_fact_quote": "설화수는 2027년 3월 미국과 캐나다에 신제품 을 출시 해 북미 소비자들에게도 선보일 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

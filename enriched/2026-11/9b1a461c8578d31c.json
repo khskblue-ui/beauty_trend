@@ -1,0 +1,46 @@
+{
+ "doc_id": "9b1a461c8578d31c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=579720&class=17&grp=",
+ "title": "'입술 주름까지 잡는다'…설화수, 첫 안티에이징 립오일 출시",
+ "summary": "아모레퍼시픽의 럭셔리 뷰티 브랜드 설화수가 입술 색상과 광택에 주름 관리 기능을 결합한 신제품 을 선보이며 스킨케어 기술을 색조 화장품 에 접목하고 있다. 올해 3분기 국내 매출이 두 자릿수 성장한 가운데 설화수는...",
+ "published_at": "2026-11-16T14:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "안티에이징 립오일",
+   "립 케어",
+   "색조 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "설화수가 입술 주름 관리 기능을 더한 첫 립오일을 선보였다.",
+  "key_fact_quote": "아모레퍼시픽의 럭셔리 뷰티 브랜드 설화수가 입술 색상과 광택에 주름 관리 기능을 결합한 신제품 을 선보이며 스킨케어 기술을 색조 화장품 에 접목하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

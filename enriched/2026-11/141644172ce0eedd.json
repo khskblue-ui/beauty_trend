@@ -1,0 +1,46 @@
+{
+ "doc_id": "141644172ce0eedd",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/wellness/guerlain-open-largest-spa-bellagio-las-vegas-1239417341/",
+ "title": "EXCLUSIVE: Guerlain to Open Its Largest Spa, at the Bellagio Las Vegas",
+ "summary": "Measuring 55,000 square feet, the spa takes a bespoke, multisensory approach to wellness.",
+ "published_at": "2026-11-16T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Guerlain"
+  ],
+  "companies": [
+   "Bellagio"
+  ],
+  "keywords": [
+   "럭셔리 스파",
+   "웰니스",
+   "멀티센서리 경험"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "겔랑이 라스베이거스 벨라지오에 브랜드 최대 규모의 스파를 연다.",
+  "key_fact_quote": "EXCLUSIVE: Guerlain to Open Its Largest Spa, at the Bellagio Las Vegas",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

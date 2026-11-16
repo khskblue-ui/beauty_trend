@@ -1,0 +1,61 @@
+{
+ "doc_id": "3a0adc8fb4f3c4b5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2493067",
+ "title": "설화수, 립 메이크업에 '자음단' 담았다",
+ "summary": "아모레퍼시픽의 럭셔리 뷰티 브랜드 설화수는 신제품 '퍼펙팅 틴티드 립오일'을 출시 한다고 16일 밝혔다. 퍼펙팅 틴티드 립오일은 선명한 발색과 풍부한 광택을 동시에 구현하도록 설계됐다. 핵심 기술은 설화수의...",
+ "published_at": "2026-11-16T18:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "틴티드 립오일",
+   "립 메이크업",
+   "색조 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퍼펙팅 틴티드 립오일",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아모레퍼시픽의 럭셔리 뷰티 브랜드 설화수는 신제품 '퍼펙팅 틴티드 립오일'을 출시 한다고 16일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "설화수가 자음단을 담은 립 메이크업 신제품 퍼펙팅 틴티드 립오일을 출시한다.",
+  "key_fact_quote": "아모레퍼시픽의 럭셔리 뷰티 브랜드 설화수는 신제품 '퍼펙팅 틴티드 립오일'을 출시 한다고 16일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "자음단",
+    "quote": "설화수, 립 메이크업에 '자음단' 담았다"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

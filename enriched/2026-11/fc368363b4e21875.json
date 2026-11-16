@@ -1,0 +1,43 @@
+{
+ "doc_id": "fc368363b4e21875",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bokuennews.com/news/article.html?no=287251",
+ "title": "화장품협회, 창립 80주년 맞아 ' K - 뷰티 80년사' 발간",
+ "summary": "'The Journey of Beauty— K - 뷰티 80년, 시대를 담은 아름다움' 표지 대한화장품협회(회장 서경배)가 창립 80주년을... 내수 중심이던 국내 화장품 산업이 2024년 수출 100억달러를 돌파하며 세계 2대 수출 국으로...",
+ "published_at": "2026-11-16T17:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품협회"
+  ],
+  "keywords": [
+   "K뷰티 역사",
+   "화장품 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대한화장품협회가 창립을 기념해 K뷰티 역사서를 펴냈다.",
+  "key_fact_quote": "화장품협회, 창립 80주년 맞아 ' K - 뷰티 80년사' 발간",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

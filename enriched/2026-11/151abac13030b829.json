@@ -1,0 +1,45 @@
+{
+ "doc_id": "151abac13030b829",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312838",
+ "title": "LH, 남양주왕숙 등 공공주택 9천 호 추가 공급…민간참여사업 확대",
+ "summary": "한국토지주택공사(LH)가 남양주왕숙과 고양창릉 등 수도권 주요 공공택지에서 약 9천 호 규모의 민간참여 공공주택사업을 추가로 추진한다.민간 건설사의 기술력과 브랜드 경쟁력을 활용해 주택 공급 속도를 높이고, 입주자가 체감할 수 있는 주거품질 향상에도 힘을 싣는다는 계획이다.LH는 올해 총 31개 블록, 약 2만4천 호 규모의 민간참여 공공주택사업을 추진하고 있다.민간참여 공공주택사업은 LH와 민간 건설사가 공동으로 사업을 시행하는 방식으로, 공공의 주택 공급 역량에 민간의 기술력과 브랜드 경쟁력을 결합해 다양한 공공주택을 공급하는",
+ "published_at": "2026-11-16T13:56:57+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국토지주택공사",
+   "현대건설",
+   "DL이앤씨"
+  ],
+  "keywords": [
+   "공공주택",
+   "민간참여사업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "LH가 수도권 공공택지에서 민간참여 공공주택사업을 추가로 추진한다.",
+  "key_fact_quote": "한국토지주택공사(LH)가 남양주왕숙과 고양창릉 등 수도권 주요 공공택지에서 약 9천 호 규모의 민간참여 공공주택사업을 추가로 추진한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": true
+}

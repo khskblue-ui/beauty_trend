@@ -1,0 +1,69 @@
+{
+ "doc_id": "61aa0693f7af7ebb",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100482",
+ "title": "아누아, 수지와 겨울 캠페인 전개",
+ "summary": "글로벌 브랜드 빌더 기업 더파운더즈가 운영하는 글로벌 뷰티 브랜드 아누아(Anua)가 전속 모델 수지와 함께하는 2026 겨울 캠페인의 시작을 알리며 메인 화보를 공개했다.이번 캠페인은 ‘문득, 빛이 나는 얼굴이 있다’를 핵심 메시지로 내세웠다. 메인 화보는 설원을 배경으로 겨울 감성을 표현한 ‘노르딕 멜로’ 콘셉트로, 겨울철 건조함을 채우는 ‘PDRN 세럼’의 맑은 수분 광채를 수지를 통해 표현했다.특히 수지는 촬영 당시 ‘아누아 PDRN 세럼’을 사용해 맑고 투명한 피부를 연출했다. 베이스 메이크업은 최소화하고 해당 세럼을 얇게",
+ "published_at": "2026-11-16T09:54:31+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아누아"
+  ],
+  "companies": [
+   "더파운더즈"
+  ],
+  "keywords": [
+   "PDRN 세럼",
+   "겨울 보습",
+   "모델 캠페인"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아누아 PDRN 세럼",
+    "brand": "아누아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아누아가 모델 수지와 PDRN 세럼을 내세운 겨울 캠페인을 시작했다.",
+  "key_fact_quote": "글로벌 브랜드 빌더 기업 더파운더즈가 운영하는 글로벌 뷰티 브랜드 아누아(Anua)가 전속 모델 수지와 함께하는 2026 겨울 캠페인의 시작을 알리며 메인 화보를 공개했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "일명 ‘수지 세럼’으로 불리는 ‘아누아 PDRN 세럼’은 PDRN과 히알루론산, 콜라겐 성분을 독자 배합해 겨울철 피부 건조 고민을 해결하는 데 도움을 준다*."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "일명 ‘수지 세럼’으로 불리는 ‘아누아 PDRN 세럼’은 PDRN과 히알루론산, 콜라겐 성분을 독자 배합해 겨울철 피부 건조 고민을 해결하는 데 도움을 준다*."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "일명 ‘수지 세럼’으로 불리는 ‘아누아 PDRN 세럼’은 PDRN과 히알루론산, 콜라겐 성분을 독자 배합해 겨울철 피부 건조 고민을 해결하는 데 도움을 준다*."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

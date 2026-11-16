@@ -1,0 +1,45 @@
+{
+ "doc_id": "b9279bed9a206647",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20115019?ref=naver",
+ "title": "동국제약, 화장품 해외 판매 호조에 연매출 1조 눈앞",
+ "summary": "동국제약(086450)이 화장품 브랜드 ‘센텔리안24’의 해외 판매 확대에 힘입어 올해 연매출 1조원 돌파를... ‘로렐린’의 상업화를 추진하고 비만·말단비대증 치료제 등 신제품 개발도 이어갈 계획”이라고 말했다.",
+ "published_at": "2026-11-16T17:15:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센텔리안24"
+  ],
+  "companies": [
+   "동국제약"
+  ],
+  "keywords": [
+   "화장품 해외 판매",
+   "더마 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "동국제약이 화장품 브랜드의 해외 판매 확대로 연매출 기록 경신을 앞두고 있다.",
+  "key_fact_quote": "동국제약(086450)이 화장품 브랜드 ‘센텔리안24’의 해외 판매 확대에 힘입어 올해 연매출 1조원 돌파를",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

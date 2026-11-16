@@ -1,0 +1,61 @@
+{
+ "doc_id": "9ad6ae2bfa78d1fe",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312807",
+ "title": "[샤오홍슈 AI '뎬뎬'으로 본 K-뷰티] ① 中 소비자가 꼽은 K-뷰티 추천율 1위는",
+ "summary": "중국 현지에서 K-뷰티 브랜드별 평판이 \\'추천율\\'과 \\'실사용 만족도\\'에 따라 뚜렷이 갈리는 양상을 보이고 있다.스킨케어에서는 토리든과 메디힐이 높은 추천율을 기록한 반면, 색조에서는 롬앤과 클리오가 실제 사용 만족도에서 압도적인 평가를 받았다.뷰티경제는 샤오홍슈(小红书) 내 수억 건의 후기와 검색 데이터를 AI로 요약·분석하는 서비스 \\'뎬뎬(点点)\\'을 통해 2024년부터 2026년 11월까지 게시된 콘텐츠 약 4,300건을 직접 추적했다. 검색 노출 빈도와 좋아요·저장·댓글 등 소비자 반응(Engagement)을 종합해 브랜드별 현",
+ "published_at": "2026-11-16T10:05:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [
+   "토리든",
+   "메디힐",
+   "롬앤",
+   "클리오",
+   "릴리바이레드",
+   "픽스",
+   "아비브",
+   "데이지크",
+   "아누아",
+   "웨이크메이크"
+  ],
+  "companies": [
+   "샤오홍슈"
+  ],
+  "keywords": [
+   "중국 소비자 평판",
+   "K-뷰티",
+   "소셜 리뷰 분석"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 샤오홍슈에서 스킨케어는 토리든과 메디힐, 색조는 롬앤과 클리오가 좋은 평가를 받았다.",
+  "key_fact_quote": "스킨케어에서는 토리든과 메디힐이 높은 추천율을 기록한 반면, 색조에서는 롬앤과 클리오가 실제 사용 만족도에서 압도적인 평가를 받았다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "소비자들은 히알루론산 세럼과 마스크팩의 보습력과 산뜻한 사용감을 주요 장점으로 꼽았다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

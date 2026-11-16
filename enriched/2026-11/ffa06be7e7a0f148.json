@@ -1,0 +1,54 @@
+{
+ "doc_id": "ffa06be7e7a0f148",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53966",
+ "title": "산업 전망·AI 시대 브랜드 차별화 전략 공유",
+ "summary": "대한화장품협회(회장 서경배· www.kcia.or.kr )가 오는 25일(수) 오전 10시 서울 명동 로얄호텔서울 제이드룸에서 올해 두 번째 ‘2026 점프업 K-코스메틱 CEO 간담회’를 갖는다. 이번 간담회는 수출 시장 다변화와 인공지능(AI) 기반 마케팅 확산 등 급변하는 산업 환경에 대응하고, 화장품 기업의…",
+ "published_at": "2026-11-16T20:18:10+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품협회",
+   "하나증권",
+   "시하기획"
+  ],
+  "keywords": [
+   "AI 마케팅",
+   "브랜드 차별화",
+   "수출 시장 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한화장품협회가 화장품 기업 대표를 대상으로 산업 전망과 AI 시대 브랜드 전략을 다루는 간담회를 연다.",
+  "key_fact_quote": "대한화장품협회(회장 서경배· www.kcia.or.kr )가 오는 25일(수) 오전 10시 서울 명동 로얄호텔서울 제이드룸에서 올해 두 번째 ‘2026 점프업 K-코스메틱 CEO 간담회’를 갖는다.",
+  "events": [
+   {
+    "name": "2026 점프업 K-코스메틱 CEO 간담회",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "place": "서울 명동 로얄호텔서울 제이드룸",
+    "quote": "대한화장품협회(회장 서경배· www.kcia.or.kr )가 오는 25일(수) 오전 10시 서울 명동 로얄호텔서울 제이드룸에서 올해 두 번째 ‘2026 점프업 K-코스메틱 CEO 간담회’를 갖는다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": true
+}

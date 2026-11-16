@@ -1,0 +1,59 @@
+{
+ "doc_id": "11b5c3c9dcccc7d0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoul.co.kr/news/economy/2026/11/13/20261113500178?wlog_tag3=naver",
+ "title": "글로벌 K-뷰티 플랫폼 키사이드, 독일 첫 매장 개점…솔루엠 리테일 기...",
+ "summary": "프리미엄 스킨케어 라인은 세라마이드 성분의 Dermanique, 식물성 플랑크톤을 활용한 OLOA, 특허 바이오 기술을 적용한 cepoLAB, 웰니스 스킨케어 브랜드 LET’S KARED로 구성했다. 헤어·바디 부문에서는 향수 같은 향의...",
+ "published_at": "2026-11-16T09:03:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "DE"
+  ],
+  "brands": [
+   "Dermanique",
+   "OLOA",
+   "cepoLAB",
+   "LET’S KARED"
+  ],
+  "companies": [
+   "키사이드",
+   "솔루엠"
+  ],
+  "keywords": [
+   "K-뷰티 해외 매장",
+   "리테일 기술",
+   "유럽 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티 플랫폼 키사이드가 독일에 첫 매장을 열었다.",
+  "key_fact_quote": "글로벌 K-뷰티 플랫폼 키사이드, 독일 첫 매장 개점…솔루엠 리테일 기...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "프리미엄 스킨케어 라인은 세라마이드 성분의 Dermanique, 식물성 플랑크톤을 활용한 OLOA, 특허 바이오 기술을 적용한 cepoLAB, 웰니스 스킨케어 브랜드 LET’S KARED로 구성했다."
+   },
+   {
+    "name": "식물성 플랑크톤",
+    "quote": "프리미엄 스킨케어 라인은 세라마이드 성분의 Dermanique, 식물성 플랑크톤을 활용한 OLOA, 특허 바이오 기술을 적용한 cepoLAB, 웰니스 스킨케어 브랜드 LET’S KARED로 구성했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

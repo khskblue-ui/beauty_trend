@@ -1,0 +1,46 @@
+{
+ "doc_id": "04f1599bab2a4d4b",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58732",
+ "title": "EU 전자상거래 수입품에 2유로 처리 수수료 11월 1일부터 부과... 역직구 기업들의 주의사항은?",
+ "summary": "[코스인코리아닷컴 김민석 기자]유럽연합(EU)이 2026년 11월 1일부터 전자상거래 수입품에 품목당 2유로의 처리 수수료 및 150유로 이하 수입품의 세관 신고 시 제품식별자(PID) 제출을 의무화했다. 이에 따라 우리나라 화장품 역직구 수출기업은 ➊ 처리수수료 부과에 따른 플랫폼 수수료 정책 변경 여…",
+ "published_at": "2026-11-13T17:51:28+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "EU",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코트라"
+  ],
+  "keywords": [
+   "역직구",
+   "EU 통관 규제",
+   "전자상거래 처리 수수료",
+   "제품식별자"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "EU가 전자상거래 수입품에 처리 수수료를 부과하고 소액 수입품 신고 때 제품식별자 제출을 의무화했다.",
+  "key_fact_quote": "유럽연합(EU)이 2026년 11월 1일부터 전자상거래 수입품에 품목당 2유로의 처리 수수료 및 150유로 이하 수입품의 세관 신고 시 제품식별자(PID) 제출을 의무화했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

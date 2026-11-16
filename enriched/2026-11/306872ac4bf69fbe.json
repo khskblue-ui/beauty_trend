@@ -1,0 +1,48 @@
+{
+ "doc_id": "306872ac4bf69fbe",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100489",
+ "title": "브이티, 3분기 연결 매출 1,378억 원…글로벌 신규 시장 확장 지속",
+ "summary": "종합 뷰티 기업 브이티코스메틱(브이티, 018290)이 분기 기준 역대 최대 해외 매출을 달성하며, 2026년 3분기에도 글로벌 시장 확대 흐름을 이어갔다.브이티는 13일 공시를 통해 2026년 3분기 연결 기준 매출액 1,378억 원, 영업이익 149억 원을 기록했다고 밝혔다. 이는 전년 동기 매출액 1,102억 원 대비 25% 증가한 수치다.특히 지난 분기부터 가파른 매출 증가 흐름을 보인 유럽, 중동, 북중미 지역의 성장세가 이어지고 있다. 이들 지역은 모두 전년 동기 대비 200% 이상의 매출 성장률을 기록했으며, 남미 지역",
+ "published_at": "2026-11-16T10:15:38+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "브이티"
+  ],
+  "companies": [
+   "브이티코스메틱",
+   "얼타뷰티(ULTA Beauty)"
+  ],
+  "keywords": [
+   "해외 매출",
+   "글로벌 시장 확대",
+   "현지 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "브이티가 분기 기준 최대 해외 매출을 내며 글로벌 시장 확대를 이어갔다.",
+  "key_fact_quote": "종합 뷰티 기업 브이티코스메틱(브이티, 018290)이 분기 기준 역대 최대 해외 매출을 달성하며, 2026년 3분기에도 글로벌 시장 확대 흐름을 이어갔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

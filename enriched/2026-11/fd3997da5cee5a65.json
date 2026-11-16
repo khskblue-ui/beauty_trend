@@ -1,0 +1,50 @@
+{
+ "doc_id": "fd3997da5cee5a65",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/11/16/2026111601451.html",
+ "title": "[뷰티업계 이모저모] 원텍·원메디코, 올리지오 스킨케어 5종 공개… B2...",
+ "summary": "■더샘, 이마트24 입점… 편의점 유통 채널 확대 더샘이 이마트24 약 1800개 매장에 화장품 5종을 입점시키며... 2000년 출시 된 아토팜은 네오팜의 피부장벽 기술 MLE를 적용한 영유아 스킨케어 제품을 선보여 왔다. 대표...",
+ "published_at": "2026-11-16T13:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리지오",
+   "더샘",
+   "아토팜"
+  ],
+  "companies": [
+   "원텍",
+   "원메디코",
+   "이마트24",
+   "네오팜"
+  ],
+  "keywords": [
+   "편의점 유통",
+   "더마 스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "더샘이 이마트24 매장에 화장품을 입점시키며 편의점 유통 채널을 넓혔다.",
+  "key_fact_quote": "더샘이 이마트24 약 1800개 매장에 화장품 5종을 입점시키며",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

@@ -1,0 +1,56 @@
+{
+ "doc_id": "b3584747abc49f6b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=213715",
+ "title": "\"빛과 세럼으로 표정주름 관리\"…아모레퍼시픽, 뷰티테크 신제품 선봬",
+ "summary": "아모레퍼시픽의 뷰티 디바이스 브랜드 메이크온은 신제품 '리보빔 볼륨&액티브 세럼'을 오는 23일... 회사에 따르면 해당 세럼은 주름 개선 기능성 화장품 으로 등록됐으며, 피부과 테스트를 포함한 4가지 피부 안전성...",
+ "published_at": "2026-11-16T15:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메이크온"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "뷰티테크",
+   "뷰티 디바이스",
+   "표정주름 관리"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리보빔 볼륨&액티브 세럼",
+    "brand": "메이크온",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "아모레퍼시픽의 뷰티 디바이스 브랜드 메이크온은 신제품 '리보빔 볼륨&액티브 세럼'을 오는 23일",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "메이크온이 빛과 세럼으로 표정주름을 관리하는 신제품을 선보인다.",
+  "key_fact_quote": "아모레퍼시픽의 뷰티 디바이스 브랜드 메이크온은 신제품 '리보빔 볼륨&액티브 세럼'을 오는 23일",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

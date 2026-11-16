@@ -1,0 +1,78 @@
+{
+ "doc_id": "e60b5b0a65502d46",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100490",
+ "title": "페라리 쇼룸에 뜬 스킨수티컬즈, 글로벌 스킨케어 연구 공개",
+ "summary": "피부 과학 기반 더마톨로지컬 뷰티 브랜드 스킨수티컬즈(SkinCeuticals)가 2026년 10월 14일부터 15일까지 이틀간 서울 페라리 반포 쇼룸에서 국내 피부 전문가와 주요 미디어, 인플루언서가 참석한 가운데 ‘피티옥스 크림’ 론치 프리뷰를 개최했다.스킨수티컬즈가 국내 피부 전문가들을 대상으로 이 같은 행사를 마련한 것은 2024년 ‘피티옥스 세럼’ 론치 심포지엄 이후 2년 만이다. 이번 행사는 서울 페라리 반포 쇼룸에서 진행됐으며, 국내 피부 전문가들과 함께 피부 과학 및 스킨케어 연구 동향을 공유하는 자리로 마련됐다.행사",
+ "published_at": "2026-11-16T10:19:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "스킨수티컬즈"
+  ],
+  "companies": [
+   "로레알코리아"
+  ],
+  "keywords": [
+   "더마톨로지컬 뷰티",
+   "메디컬 에스테틱",
+   "펩타이드 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "피티옥스 크림",
+    "brand": "스킨수티컬즈",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "피티옥스 세럼",
+    "brand": "스킨수티컬즈",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스킨수티컬즈가 서울 페라리 반포 쇼룸에서 피부 전문가를 대상으로 피티옥스 크림 론치 프리뷰를 열었다.",
+  "key_fact_quote": "피부 과학 기반 더마톨로지컬 뷰티 브랜드 스킨수티컬즈(SkinCeuticals)가 2026년 10월 14일부터 15일까지 이틀간 서울 페라리 반포 쇼룸에서 국내 피부 전문가와 주요 미디어, 인플루언서가 참석한 가운데 ‘피티옥스 크림’ 론치 프리뷰를 개최했다.",
+  "events": [
+   {
+    "name": "‘피티옥스 크림’ 론치 프리뷰",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-15",
+    "place": "서울 페라리 반포 쇼룸",
+    "quote": "피부 과학 기반 더마톨로지컬 뷰티 브랜드 스킨수티컬즈(SkinCeuticals)가 2026년 10월 14일부터 15일까지 이틀간 서울 페라리 반포 쇼룸에서 국내 피부 전문가와 주요 미디어, 인플루언서가 참석한 가운데 ‘피티옥스 크림’ 론치 프리뷰를 개최했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "펩타이드",
+    "quote": "특히 특수케어 후 펩타이드 함유 크림을 사용한 8주간의 안면 분할(split-face) 연구 사례를 공유했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

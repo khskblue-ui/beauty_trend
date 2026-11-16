@@ -1,0 +1,61 @@
+{
+ "doc_id": "e55a615e12707015",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53961",
+ "title": "온그리디언츠, '딸기 하우스' 팝업스토어 운영",
+ "summary": "온그리디언츠가 내년 2월 10일까지 서울 성수동에 ‘딸기 하우스’ 팝업스토어를 선보인다. 이번 팝업매장은 ‘VERY BERRY PINK LOTION’을 주제로 꾸몄다. 딸기라테를 연상시키는 핑크빛 공간에서 온그리디언츠 주요 제품을 체험할 수 있다. 신제품 ‘베리 베리 핑크 비타 캡슐 로션’은 핑크 비타…",
+ "published_at": "2026-11-16T12:32:42+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "온그리디언츠"
+  ],
+  "companies": [
+   "온그리디언츠"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "톤업 로션",
+   "체험 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "베리 베리 핑크 비타 캡슐 로션",
+    "brand": "온그리디언츠",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "온그리디언츠가 서울 성수동에서 딸기 콘셉트 팝업스토어를 운영한다.",
+  "key_fact_quote": "온그리디언츠가 내년 2월 10일까지 서울 성수동에 ‘딸기 하우스’ 팝업스토어를 선보인다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "핑크 비타민",
+    "quote": "신제품 ‘베리 베리 핑크 비타 캡슐 로션’은 핑크 비타민이 들어있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

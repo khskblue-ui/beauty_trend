@@ -1,0 +1,67 @@
+{
+ "doc_id": "753a517331c20318",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53960",
+ "title": "아누아, 수지와 ‘PDRN 세럼’ 화보 촬영",
+ "summary": "아누아(Anua)가 브랜드 모델 수지와 겨울 뷰티 화보를 촬영했다. 이번 화보는 ‘문득, 빛이 나는 얼굴이 있다’라는 메시지를 담았다. 수지는 설원을 배경으로 ‘노르딕 멜로’ 감성을 표현했다. 맑고 깨끗한 피부로 ‘PDRN 세럼’의 수분 광채를 나타냈다. 일명 ‘수지 세럼’으로 불리는 ‘아누아 PDR…",
+ "published_at": "2026-11-16T12:04:46+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아누아"
+  ],
+  "companies": [],
+  "keywords": [
+   "PDRN 세럼",
+   "겨울 보습",
+   "모델 캠페인"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아누아 PDRN 세럼",
+    "brand": "아누아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아누아가 모델 수지와 PDRN 세럼 겨울 화보를 촬영하고 옥외광고 마케팅을 펼친다.",
+  "key_fact_quote": "아누아(Anua)가 브랜드 모델 수지와 겨울 뷰티 화보를 촬영했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "일명 ‘수지 세럼’으로 불리는 ‘아누아 PDRN 세럼’은 PDRN과 히알루론산, 콜라겐 성분을 배합했다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "일명 ‘수지 세럼’으로 불리는 ‘아누아 PDRN 세럼’은 PDRN과 히알루론산, 콜라겐 성분을 배합했다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "일명 ‘수지 세럼’으로 불리는 ‘아누아 PDRN 세럼’은 PDRN과 히알루론산, 콜라겐 성분을 배합했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

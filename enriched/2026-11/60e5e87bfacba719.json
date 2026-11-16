@@ -1,0 +1,51 @@
+{
+ "doc_id": "60e5e87bfacba719",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com:8443/en/who-are-the-winners-of-the-in,28540,en",
+ "title": "Who are the winners of the in-cosmetics Asia Awards 2026?",
+ "summary": "The winners of the 2026 in-cosmetics Asia Awards were announced on November 3 in Bangkok, Thailand, highlighting the latest developments in cosmetic science and formulation. With more than 160 entries, this year's competition recognised innovations spanning active and functional ingredients and fragrance creations. Entries were assessed by an international panel of cosmetic scientists, R&D specialists and product development professionals from leading beauty companies, including... - Industry buzz",
+ "published_at": "2026-11-14T17:20:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "TH"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "원료 혁신",
+   "기능성 원료",
+   "향료 창작",
+   "시상식"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인코스메틱스 아시아 어워즈 수상작이 방콕에서 발표됐다.",
+  "key_fact_quote": "The winners of the 2026 in-cosmetics Asia Awards were announced on November 3 in Bangkok, Thailand, highlighting the latest developments in cosmetic science and formulation.",
+  "events": [
+   {
+    "name": "in-cosmetics Asia Awards",
+    "start_date": "2026-11-03",
+    "end_date": null,
+    "place": "Bangkok, Thailand",
+    "quote": "The winners of the 2026 in-cosmetics Asia Awards were announced on November 3 in Bangkok, Thailand, highlighting the latest developments in cosmetic science and formulation."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

@@ -1,0 +1,73 @@
+{
+ "doc_id": "2f52541d9d7f1060",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/11/16/2026111601197.html",
+ "title": "[식품업계 이모저모] 티젠, ‘콤부차 이온 뷰티 ’ 출시 外",
+ "summary": "■티젠, 히알루론산 더한 ‘콤부차 이온 뷰티 ’ 출시 티젠이 제주 용암해수 미네랄에 히알루론산과 12종 유산균, 발효 콤부차를 더해 수분과 뷰티 밸런스를 함께 고려한 신제품 ‘티젠 콤부차 이온 뷰티 ’를 출시 했다....",
+ "published_at": "2026-11-16T11:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "티젠"
+  ],
+  "companies": [
+   "티젠"
+  ],
+  "keywords": [
+   "이너뷰티",
+   "뷰티 음료",
+   "콤부차"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "티젠 콤부차 이온 뷰티",
+    "brand": "티젠",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "티젠이 제주 용암해수 미네랄에 히알루론산과 12종 유산균, 발효 콤부차를 더해 수분과 뷰티 밸런스를 함께 고려한 신제품 ‘티젠 콤부차 이온 뷰티 ’를 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "티젠이 히알루론산과 유산균을 더한 뷰티 음료를 출시했다.",
+  "key_fact_quote": "티젠이 제주 용암해수 미네랄에 히알루론산과 12종 유산균, 발효 콤부차를 더해 수분과 뷰티 밸런스를 함께 고려한 신제품 ‘티젠 콤부차 이온 뷰티 ’를 출시 했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "제주 용암해수 미네랄",
+    "quote": "티젠이 제주 용암해수 미네랄에 히알루론산과 12종 유산균, 발효 콤부차를 더해 수분과 뷰티 밸런스를 함께 고려한 신제품 ‘티젠 콤부차 이온 뷰티 ’를 출시 했다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "티젠이 제주 용암해수 미네랄에 히알루론산과 12종 유산균, 발효 콤부차를 더해 수분과 뷰티 밸런스를 함께 고려한 신제품 ‘티젠 콤부차 이온 뷰티 ’를 출시 했다."
+   },
+   {
+    "name": "유산균",
+    "quote": "티젠이 제주 용암해수 미네랄에 히알루론산과 12종 유산균, 발효 콤부차를 더해 수분과 뷰티 밸런스를 함께 고려한 신제품 ‘티젠 콤부차 이온 뷰티 ’를 출시 했다."
+   },
+   {
+    "name": "콤부차",
+    "quote": "티젠이 제주 용암해수 미네랄에 히알루론산과 12종 유산균, 발효 콤부차를 더해 수분과 뷰티 밸런스를 함께 고려한 신제품 ‘티젠 콤부차 이온 뷰티 ’를 출시 했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

@@ -1,0 +1,52 @@
+{
+ "doc_id": "ed82240dbb522e63",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100488",
+ "title": "지에프씨생명과학, 3분기 누적 영업이익 16.7억원…전년比 445%↑",
+ "summary": "화장품·바이오 소재 전문기업 지에프씨생명과학(대표 강희철, 388610)은 올해 3분기 누적 매출액 157.6억원, 영업이익 16.7억원을 기록했다고 16일 밝혔다.이는 전년 동기 대비 각각 19.8%, 444.8% 증가한 수치다. 특히 3분기(7~9월) 매출액은 52.6억원으로 전년 동기 대비 25.8% 증가했으며, 영업이익은 6.3억원으로 흑자전환했다.이번 실적 성장은 글로벌 주요 화장품 기업을 중심으로한 바이오 소재 공급 확대와 원가구조 개선에 따른 것으로 풀이된다. 지에프씨생명과학은 글로벌 화장품 기업 로레알그룹에 대한 바이",
+ "published_at": "2026-11-16T10:13:40+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN",
+   "IT"
+  ],
+  "brands": [
+   "fmk"
+  ],
+  "companies": [
+   "지에프씨생명과학",
+   "로레알그룹",
+   "LG생활건강",
+   "대한피부과학연구소",
+   "SOOMSELECTION"
+  ],
+  "keywords": [
+   "바이오 소재",
+   "더마 코스메틱",
+   "원료 공급"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지에프씨생명과학이 글로벌 화장품 기업으로 바이오 소재 공급을 늘리며 실적이 개선됐다.",
+  "key_fact_quote": "지에프씨생명과학은 글로벌 화장품 기업 로레알그룹에 대한 바이오 소재 공급을 본격화한 데 이어 LG생활건강과 국내 주요 인디브랜드로 공급처를 확대하며 매출 성장과 수익성 개선을 동시에 이뤄냈다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

@@ -1,0 +1,54 @@
+{
+ "doc_id": "4935a7b31e3f65fa",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=2026111614563563129aeda69934_30",
+ "title": "결 하우스, 무신사 뷰티 성수 입점...호호바 오일 등 6종 선보여",
+ "summary": "오일 스킨케어 브랜드 결 하우스(GYEOL HAUS)가 지난 11일 서울 성수동에 문을 연 '무신사 뷰티 성수'에... 한편 결 하우스는 2024년 10월 론칭 한 오일 스킨케어 브랜드 로, 현재 국내와 일본·미국·대만·노르웨이 등에서...",
+ "published_at": "2026-11-16T15:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP",
+   "US",
+   "TW",
+   "NO"
+  ],
+  "brands": [
+   "결 하우스"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오일 스킨케어",
+   "오프라인 편집숍"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "오일 스킨케어 브랜드 결 하우스가 무신사 뷰티 성수에 입점했다.",
+  "key_fact_quote": "오일 스킨케어 브랜드 결 하우스(GYEOL HAUS)가 지난 11일 서울 성수동에 문을 연 '무신사 뷰티 성수'에",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "호호바 오일",
+    "quote": "결 하우스, 무신사 뷰티 성수 입점...호호바 오일 등 6종 선보여"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

@@ -1,0 +1,56 @@
+{
+ "doc_id": "125aab5522826dc4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026111609425036073",
+ "title": "[오늘의신상] 설화수, 색조에 안티에이징 더했다…첫 틴티드 립오일 출...",
+ "summary": "아모레퍼시픽의 럭셔리 뷰티 브랜드 설화수가 립 메이크업과 스킨케어 기능을 결합한 신제품 으로 립... 설화수는 신제품 '퍼펙팅 틴티드 립오일'을 출시 한다고 16일 밝혔다. 컬러와 오일 기능을 결합한 립오일을 선보이는...",
+ "published_at": "2026-11-16T10:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "립오일",
+   "스킨케어 결합 메이크업",
+   "안티에이징"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퍼펙팅 틴티드 립오일",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "설화수는 신제품 '퍼펙팅 틴티드 립오일'을 출시 한다고 16일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "설화수가 색조와 안티에이징 기능을 결합한 첫 틴티드 립오일을 출시했다.",
+  "key_fact_quote": "설화수는 신제품 '퍼펙팅 틴티드 립오일'을 출시 한다고 16일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

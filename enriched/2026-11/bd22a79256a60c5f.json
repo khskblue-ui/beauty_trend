@@ -1,0 +1,43 @@
+{
+ "doc_id": "bd22a79256a60c5f",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/exclusive-dior-partners-sundance-institute-1239415793/",
+ "title": "EXCLUSIVE: Dior Partners With the Sundance Institute",
+ "summary": "A new prize and six fellowships are to be bestowed at the 2027 Sundance Film Festival.",
+ "published_at": "2026-11-16T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "other",
+  "countries": [],
+  "brands": [
+   "Dior"
+  ],
+  "companies": [
+   "Sundance Institute"
+  ],
+  "keywords": [
+   "문화 후원",
+   "브랜드 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "디올이 선댄스 인스티튜트와 손잡고 영화제에서 줄 상과 펠로십을 새로 만든다.",
+  "key_fact_quote": "A new prize and six fellowships are to be bestowed at the 2027 Sundance Film Festival.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

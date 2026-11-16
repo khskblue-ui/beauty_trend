@@ -1,0 +1,49 @@
+{
+ "doc_id": "fe2d1ccd833a26a5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kr.aving.net/news/articleView.html?idxno=1817057",
+ "title": "홍콩 뷰티 무대 선 '불가사리 콜라겐'… 라보페, 코스모프로프 아시아서...",
+ "summary": "올해 29회를 맞은 코스모프로프 아시아는 글로벌 뷰티 브랜드 와 제조사, 유통사 등이 참여하는 아시아 최대... 이후 불가사리 자원화 기술을 뷰티 분야로 확장해 2022년 라보페를 론칭 했으며, 불가사리 유래 콜라겐과...",
+ "published_at": "2026-11-16T09:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "HK"
+  ],
+  "brands": [
+   "라보페"
+  ],
+  "companies": [],
+  "keywords": [
+   "해양 유래 원료",
+   "콜라겐",
+   "뷰티 박람회"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "라보페가 불가사리 콜라겐을 코스모프로프 아시아에서 선보였다.",
+  "key_fact_quote": "홍콩 뷰티 무대 선 '불가사리 콜라겐'… 라보페, 코스모프로프 아시아서...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "불가사리 콜라겐",
+    "quote": "홍콩 뷰티 무대 선 '불가사리 콜라겐'… 라보페, 코스모프로프 아시아서..."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": false
+}

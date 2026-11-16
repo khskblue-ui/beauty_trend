@@ -1,0 +1,77 @@
+{
+ "doc_id": "c020a265cd6f61db",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100485",
+ "title": "로에베 퍼퓸, 디즈니 ‘크리스마스 악몽’ 홀리데이 컬렉션 출시",
+ "summary": "신세계인터내셔날이 수입·판매하는 스페인 럭셔리 향수 브랜드 로에베 퍼퓸(LOEWE PERFUMES)은 연말을 맞아 디즈니 영화 에서 영감을 받은 ‘홀리데이 컬렉션’을 출시했다고 16일 밝혔다. 로에베 특유의 장인 정신을 바탕으로 영화 속 캐릭터와 독창적인 비주얼을 향과 패키지에 담아낸 것이 특징이다.1993년 디즈니가 처음 선보인 은 스톱모션 기법과 수작업으로 제작한 인형, 정교한 미니어처 세트를 통해 탄생한 작품이다. 스케치에서 출발한 영화 속 캐릭터들은 한 프레임씩 세심한",
+ "published_at": "2026-11-16T10:06:02+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "ES"
+  ],
+  "brands": [
+   "로에베 퍼퓸"
+  ],
+  "companies": [
+   "신세계인터내셔날",
+   "디즈니"
+  ],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "구르망 향수",
+   "캐릭터 협업",
+   "캔들"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "로에베 문라이트 오 드 퍼퓸",
+    "brand": "로에베 퍼퓸",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신세계인터내셔날이 수입·판매하는 스페인 럭셔리 향수 브랜드 로에베 퍼퓸(LOEWE PERFUMES)은 연말을 맞아 디즈니 영화 에서 영감을 받은 ‘홀리데이 컬렉션’을 출시했다고 16일 밝혔다.",
+    "notes": [
+     "코코넛",
+     "아이리스",
+     "앰버"
+    ],
+    "notes_quote": "부드러운 코코넛과 아이리스 향이 따뜻한 앰버 노트와 어우러져 포근하면서도 색다른 매력을 자아낸다."
+   },
+   {
+    "name": "캔들 3종",
+    "brand": "로에베 퍼퓸",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "함께 출시한 캔들 3종 역시 이번 컬렉션의 서사를 이어간다.",
+    "notes": [
+     "그린 노트",
+     "민트"
+    ],
+    "notes_quote": "싱그러운 그린 노트와 민트 향이 어우러져 마치 영화 속 ‘힌터랜드’로 향하는 듯한 감각적인 경험을 선사한다."
+   }
+  ],
+  "key_fact": "로에베 퍼퓸이 디즈니 영화에서 영감을 받은 홀리데이 컬렉션 향수와 캔들을 출시했다.",
+  "key_fact_quote": "신세계인터내셔날이 수입·판매하는 스페인 럭셔리 향수 브랜드 로에베 퍼퓸(LOEWE PERFUMES)은 연말을 맞아 디즈니 영화 에서 영감을 받은 ‘홀리데이 컬렉션’을 출시했다고 16일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "notes:캔들 3종"
+  ]
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

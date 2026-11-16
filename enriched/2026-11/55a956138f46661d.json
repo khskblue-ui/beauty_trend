@@ -1,0 +1,61 @@
+{
+ "doc_id": "55a956138f46661d",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/seppic-triples-natural-extract,28543",
+ "title": "Seppic triples natural extract production capacity at its Lons site in France",
+ "summary": "The specialty ingredients manufacturer inaugurated a new production unit at its Lons site, near Pau, France, in late October 2026. With this investment, Seppic aims to meet the growing global demand for purified natural active ingredients. Seppic's Lons site covers 8 hectares and employs more than 50 people. The new 1,400 m² building will enable the company to triple production capacity for its Ceramosides range, which targets both the beauty and nutrition markets. Based on wheat extracts... - Industry buzz / Europe",
+ "published_at": "2026-11-14T18:37:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "Seppic"
+  ],
+  "keywords": [
+   "천연 활성 원료",
+   "세라마이드",
+   "뉴트리코스메틱"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "Seppic이 프랑스 Lons 공장에 새 생산동을 열어 Ceramosides 생산 능력을 늘렸다.",
+  "key_fact_quote": "The new 1,400 m² building will enable the company to triple production capacity for its Ceramosides range, which targets both the beauty and nutrition markets.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Ceramosides",
+    "quote": "The new 1,400 m² building will enable the company to triple production capacity for its Ceramosides range, which targets both the beauty and nutrition markets."
+   },
+   {
+    "name": "phytoceramides",
+    "quote": "Based on wheat extracts rich in phytoceramides, the range comprises several ingredients for topical and oral applications, with clinically tested benefits in anti-aging, skin hydration and reducing hair loss."
+   },
+   {
+    "name": "wheat extracts",
+    "quote": "Based on wheat extracts rich in phytoceramides, the range comprises several ingredients for topical and oral applications, with clinically tested benefits in anti-aging, skin hydration and reducing hair loss."
+   },
+   {
+    "name": "Ceramides",
+    "quote": "“ Ceramides are now recognized as a key ingredient in both the cosmetics market (with over 1.4 billion views for #ceramides on TikTok) and the nutrition market, where food supplements are expected to achieve a CAGR [ 1 ] of 6.9% between 2024 and 2030 [ 2 ] , ” Seppic stated in a press release."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}

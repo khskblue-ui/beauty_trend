@@ -1,0 +1,89 @@
+{
+ "doc_id": "0f60ce7f851ae85b",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53967",
+ "title": "더후, 환유 로얄 헤리티지 스파 리추얼로 브랜드 가치 강화",
+ "summary": "LG생활건강의 궁중 피부과학 럭셔리 코스메틱 브랜드 더후가 포시즌스 호텔 서울 더 스파에서 최고급 안티에이징 라인 ‘환유’를 활용한 프리미엄 스파 프로그램을 선보였다. 지난 11일부터 13일까지 사흘간 진행한 ‘더후 환유 로얄 헤리티지 스파 리추얼’(THE WHOO Imperial Youth Royal H…",
+ "published_at": "2026-11-16T20:39:50+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더후",
+   "LG 프라엘"
+  ],
+  "companies": [
+   "LG생활건강",
+   "포시즌스 호텔 서울"
+  ],
+  "keywords": [
+   "스파 리추얼",
+   "안티에이징",
+   "스킨 롱제비티",
+   "뷰티 디바이스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "환유고",
+    "brand": "더후",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "환유",
+    "brand": "더후",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더후가 포시즌스 호텔 서울 스파에서 환유 라인을 활용한 스파 프로그램을 운영했다.",
+  "key_fact_quote": "LG생활건강의 궁중 피부과학 럭셔리 코스메틱 브랜드 더후가 포시즌스 호텔 서울 더 스파에서 최고급 안티에이징 라인 ‘환유’를 활용한 프리미엄 스파 프로그램을 선보였다.",
+  "events": [
+   {
+    "name": "더후 환유 로얄 헤리티지 스파 리추얼",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "포시즌스 호텔 서울 더 스파",
+    "quote": "지난 11일부터 13일까지 사흘간 진행한 ‘더후 환유 로얄 헤리티지 스파 리추얼’(THE WHOO Imperial Youth Royal Heritage Spa Ritual) 은 산삼의 생명력과 더후의 궁중 헤리티지를 전문 스파 테라피로 경험할 수 있도록 기획한 행사."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "산삼",
+    "quote": "지난 2006년 첫선을 보인 환유는 산삼을 핵심 성분으로 활용한 더후의 최고급 안티에이징 라인이다."
+   },
+   {
+    "name": "산삼진세노사이드™",
+    "quote": "대표 제품 환유고에는 20년간의 산삼 연구를 통해 개발한 항노화 성분 ‘산삼진세노사이드™’ 와 ‘세노-포스™’(Seno-Force™)를 담았다."
+   },
+   {
+    "name": "세노-포스™",
+    "quote": "대표 제품 환유고에는 20년간의 산삼 연구를 통해 개발한 항노화 성분 ‘산삼진세노사이드™’ 와 ‘세노-포스™’(Seno-Force™)를 담았다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": true
+}

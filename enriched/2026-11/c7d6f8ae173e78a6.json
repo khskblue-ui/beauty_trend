@@ -1,0 +1,42 @@
+{
+ "doc_id": "c7d6f8ae173e78a6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753451",
+ "title": "부산 화장품 18개社, 시청서 최대 70% 할인 판매…'B- 뷰티 데이' 개최",
+ "summary": "지원하기 위해 마케팅 분야 등에서 협력할 계획이다. 한편 부산 화장품산업은 글로벌 K - 뷰티 시장 성장에 힘입어 수출 실적이 증가하고 있다. 올해 9월 누계 수출 실적은 전년 동기 대비 148.6% 늘어난 것으로 나타났다.",
+ "published_at": "2026-11-16T16:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "할인 판매 행사",
+   "지역 화장품 산업",
+   "K-뷰티 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "부산 화장품 기업들이 시청에서 할인 판매 행사 B-뷰티 데이를 연다.",
+  "key_fact_quote": "부산 화장품 18개社, 시청서 최대 70% 할인 판매…'B- 뷰티 데이' 개최",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:21+00:00",
+ "had_body": false
+}

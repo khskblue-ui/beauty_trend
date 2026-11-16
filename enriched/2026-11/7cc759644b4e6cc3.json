@@ -1,0 +1,79 @@
+{
+ "doc_id": "7cc759644b4e6cc3",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100493",
+ "title": "LG생활건강 더후, ‘환유 로얄 헤리티지 스파 리추얼’ 진행",
+ "summary": "LG생활건강의 궁중 피부과학 럭셔리 코스메틱 브랜드 ‘더후’가 포시즌스 호텔 서울 더 스파에서 ‘더후 환유 로얄 헤리티지 스파 리추얼(THE WHOO Imperial Youth Royal Heritage Spa Ritual)’을 진행했다.이번 행사는 11일부터 13일까지 사흘 간 서울 종로구 포시즌스 호텔 서울 더 스파에서 열렸다. 고객이 더후 최고급 라인 ‘환유(Imperial Youth)’의 로열 헤리티지와 산삼의 생명력을 전문 스파 테라피로 체험하도록 기획했다.2006년 처음 출시한 환유는 산삼을 대표 성분으로 함유한 더후의",
+ "published_at": "2026-11-16T10:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더후",
+   "LG 프라엘"
+  ],
+  "companies": [
+   "LG생활건강",
+   "포시즌스 호텔 서울"
+  ],
+  "keywords": [
+   "럭셔리 스파",
+   "스킨 롱제비티",
+   "안티에이징"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "환유고",
+    "brand": "더후",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "더후가 포시즌스 호텔 서울 더 스파에서 환유 라인을 체험하는 스파 리추얼 행사를 열었다.",
+  "key_fact_quote": "이번 행사는 11일부터 13일까지 사흘 간 서울 종로구 포시즌스 호텔 서울 더 스파에서 열렸다.",
+  "events": [
+   {
+    "name": "더후 환유 로얄 헤리티지 스파 리추얼",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "서울 종로구 포시즌스 호텔 서울 더 스파",
+    "quote": "이번 행사는 11일부터 13일까지 사흘 간 서울 종로구 포시즌스 호텔 서울 더 스파에서 열렸다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "산삼",
+    "quote": "2006년 처음 출시한 환유는 산삼을 대표 성분으로 함유한 더후의 하이엔드 안티에이징 라인이다."
+   },
+   {
+    "name": "산삼진세노사이드™",
+    "quote": "대표제품은 20년 간의 산삼 연구로 탄생한 항노화 성분 ‘산삼진세노사이드™와 ‘세노-포스 TM (Seno-Force™)’를 함유한 환유고이다."
+   },
+   {
+    "name": "Seno-Force™",
+    "quote": "대표제품은 20년 간의 산삼 연구로 탄생한 항노화 성분 ‘산삼진세노사이드™와 ‘세노-포스 TM (Seno-Force™)’를 함유한 환유고이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-16T21:36:20+00:00",
+ "had_body": true
+}
