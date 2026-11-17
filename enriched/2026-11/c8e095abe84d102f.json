@@ -1,0 +1,85 @@
+{
+ "doc_id": "c8e095abe84d102f",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100505",
+ "title": "샤르드, ‘NAD 1600도트 하이드로겔 마스크’",
+ "summary": "뉴셀렉트가 전개하는 스킨케어 브랜드 샤르드(CHARDE)가 신제품 ‘NAD 1600도트 하이드로겔 마스크’를 출시했다고 밝혔다.이번 신제품은 피부 NAD와 콜라겐에 주목해 개발한 하이드로겔 마스크다. 미백·주름 개선 2중 기능성 화장품으로, 콜라겐수 40%를 함유했다. 제품명에 포함된 ‘1600도트’는 시트 표면에 적용된 1,600개의 미세 흡착 구조(Micro-Dot)를 의미한다.도트 구조는 피부와 마스크 사이에 밀착 구조를 형성하도록 설계됐으며, 미세한 흡착력을 활용해 피부 굴곡에 따른 밀착력과 성분 전달을 고려했다. 또한 상·",
+ "published_at": "2026-11-17T09:38:13+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "샤르드"
+  ],
+  "companies": [
+   "뉴셀렉트"
+  ],
+  "keywords": [
+   "하이드로겔 마스크",
+   "슬로우에이징",
+   "NAD 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "NAD 1600도트 하이드로겔 마스크",
+    "brand": "샤르드",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "뉴셀렉트가 전개하는 스킨케어 브랜드 샤르드(CHARDE)가 신제품 ‘NAD 1600도트 하이드로겔 마스크’를 출시했다고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "샤르드가 NAD와 콜라겐에 주목한 하이드로겔 마스크를 출시했다.",
+  "key_fact_quote": "뉴셀렉트가 전개하는 스킨케어 브랜드 샤르드(CHARDE)가 신제품 ‘NAD 1600도트 하이드로겔 마스크’를 출시했다고 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "NAD-PDRN™",
+    "quote": "주요 성분으로는 샤르드가 독자 개발한 ‘NAD-PDRN™’을 적용했다."
+   },
+   {
+    "name": "NAD+",
+    "quote": "NAD+와 PDRN을 나노 사이즈로 가공한 원료로, 10종 펩타이드와 엘라스틴, 히알루론산 등을 함께 배합해 피부 탄력과 보습을 고려했다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "NAD+와 PDRN을 나노 사이즈로 가공한 원료로, 10종 펩타이드와 엘라스틴, 히알루론산 등을 함께 배합해 피부 탄력과 보습을 고려했다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "NAD+와 PDRN을 나노 사이즈로 가공한 원료로, 10종 펩타이드와 엘라스틴, 히알루론산 등을 함께 배합해 피부 탄력과 보습을 고려했다."
+   },
+   {
+    "name": "엘라스틴",
+    "quote": "NAD+와 PDRN을 나노 사이즈로 가공한 원료로, 10종 펩타이드와 엘라스틴, 히알루론산 등을 함께 배합해 피부 탄력과 보습을 고려했다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "NAD+와 PDRN을 나노 사이즈로 가공한 원료로, 10종 펩타이드와 엘라스틴, 히알루론산 등을 함께 배합해 피부 탄력과 보습을 고려했다."
+   },
+   {
+    "name": "콜라겐수",
+    "quote": "미백·주름 개선 2중 기능성 화장품으로, 콜라겐수 40%를 함유했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": true
+}

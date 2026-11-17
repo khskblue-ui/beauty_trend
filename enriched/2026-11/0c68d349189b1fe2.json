@@ -1,0 +1,47 @@
+{
+ "doc_id": "0c68d349189b1fe2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301549",
+ "title": "이마트·노브랜드, 초저가 넘어 기능성 뷰티로 '영토 확장'",
+ "summary": "18일 유통업계에 따르면 노브랜드는 지난 10월 말 출시 한 '더마 스킨케어' 6종을 통해 기능성 화장품 시장에 진입했다. 더마는 피부과학을 바탕으로 피부 고민 해결에 초점을 맞춘 화장품 을 뜻한다. 클렌저와 토너, 미스트...",
+ "published_at": "2026-11-18T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드",
+   "쿤달"
+  ],
+  "companies": [],
+  "keywords": [
+   "기능성 화장품",
+   "초저가 뷰티",
+   "PDRN",
+   "더마 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "691e81c74cf0db7b",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

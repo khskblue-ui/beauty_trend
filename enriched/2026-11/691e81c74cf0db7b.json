@@ -1,0 +1,70 @@
+{
+ "doc_id": "691e81c74cf0db7b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.4th.kr/news/articleView.html?idxno=2122068",
+ "title": "노브랜드, 초저가 넘어 기능성 뷰티 강화",
+ "summary": "노브랜드는 더마 스킨케어에 이어 새로운 성분을 활용한 기초 화장품 과 헤어, 바디, 색조 상품도 잇달아 선보인다. 이달에는 'PDRN 스킨케어' 5종을 출시 할 예정이다. 다음 달에는 쿤달과 협업한 헤어, 바디 상품 12종을...",
+ "published_at": "2026-11-18T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드",
+   "쿤달"
+  ],
+  "companies": [],
+  "keywords": [
+   "기능성 화장품",
+   "초저가 뷰티",
+   "PDRN",
+   "더마 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "PDRN 스킨케어",
+    "brand": "노브랜드",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "이달에는 'PDRN 스킨케어' 5종을 출시 할 예정이다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "쿤달과 협업한 헤어, 바디 상품",
+    "brand": "노브랜드",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "다음 달에는 쿤달과 협업한 헤어, 바디 상품 12종을",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "노브랜드가 더마 스킨케어에 이어 새로운 성분의 기초 화장품과 헤어, 바디, 색조 상품을 잇달아 선보인다.",
+  "key_fact_quote": "노브랜드는 더마 스킨케어에 이어 새로운 성분을 활용한 기초 화장품 과 헤어, 바디, 색조 상품도 잇달아 선보인다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "이달에는 'PDRN 스킨케어' 5종을 출시 할 예정이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

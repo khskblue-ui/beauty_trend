@@ -1,0 +1,47 @@
+{
+ "doc_id": "7ceb2034f7c4e371",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.kdfnews.com/news/articleView.html?idxno=191066",
+ "title": "신세계免, K뷰티 넘어 K푸드∙웰니스까지…외국인 취향 따라 매장도 달...",
+ "summary": "현장에서는 니치향수 브랜드 본투스탠드아웃과 패션 브랜드 김해김을 해외에서 먼저 인지도를 쌓은 K브랜드 사례로 소개했다. 지난해 말 명동점에서는 영국과 몽골, 프랑스, 독일, 오스트리아, 우즈베키스탄, 스페인...",
+ "published_at": "2026-11-17T17:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "본투스탠드아웃",
+   "김해김"
+  ],
+  "companies": [
+   "신세계免"
+  ],
+  "keywords": [
+   "니치 향수",
+   "K브랜드",
+   "면세점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신세계면세점이 해외에서 먼저 알려진 니치 향수 브랜드를 K브랜드 사례로 소개했다.",
+  "key_fact_quote": "현장에서는 니치향수 브랜드 본투스탠드아웃과 패션 브랜드 김해김을 해외에서 먼저 인지도를 쌓은 K브랜드 사례로 소개했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

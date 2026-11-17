@@ -1,0 +1,48 @@
+{
+ "doc_id": "e2fc2b38646f8ed7",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312882",
+ "title": "코스맥스, ODM 업계 최초 국내 월 생산량 1억 개 돌파… \"10억 개 고지 눈앞\"",
+ "summary": "글로벌 화장품 연구·개발·생산(ODM) 기업 코스맥스가 업계 최초로 국내 월간 생산량 1억 개 시대를 열었다.K뷰티의 역대급 수출 호황과 인디 브랜드의 약진 속에 연구개발(R&D) 역량과 스마트 팩토리 기반의 유연한 생산 체계를 결합한 결과다.17일 코스맥스에 따르면 지난달 화성·평택 등 국내 공장의 월간 총생산량은 1억 11만 개를 기록했다. 월 생산량이 1억 개를 넘어선 것은 국내 화장품 ODM 업계 최초다.12시간 가동 기준 하루 평균 약 435만 개, 분당 6000개, 초당 약 100개의 제품이 쏟아져 나온 셈이다. 이는 국",
+ "published_at": "2026-11-17T19:48:05+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN",
+   "TH",
+   "ID"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "인디 브랜드",
+   "다품종 소량생산",
+   "K-뷰티 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 국내 화장품 ODM 업계에서 처음으로 월 생산량 신기록을 세웠다.",
+  "key_fact_quote": "월 생산량이 1억 개를 넘어선 것은 국내 화장품 ODM 업계 최초다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": true
+}

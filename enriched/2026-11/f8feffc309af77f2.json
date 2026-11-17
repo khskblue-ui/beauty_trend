@@ -1,0 +1,48 @@
+{
+ "doc_id": "f8feffc309af77f2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/18/2026111890004.html",
+ "title": "\"내 향수 를 주유소에서 판다고?\"…데이비드 베컴 '548억' 손배소",
+ "summary": "AP통신 등은 현지시간 17일 베컴의 회사 DB벤처스가 베컴 브랜드 를 활용해 향수 ·세면용품 등을 제조·유통하는 독일 화장품회사 코티를 상대로 미 뉴욕주 대법원에 4100만 달러 (한화 약 548억원)를 배상하라는 소송을...",
+ "published_at": "2026-11-18T05:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "DE"
+  ],
+  "brands": [
+   "베컴"
+  ],
+  "companies": [
+   "DB벤처스",
+   "코티"
+  ],
+  "keywords": [
+   "셀럽 향수",
+   "라이선스 분쟁",
+   "향수 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "베컴의 회사가 향수 등을 만드는 코티를 상대로 미국 법원에 손해배상 소송을 냈다.",
+  "key_fact_quote": "AP통신 등은 현지시간 17일 베컴의 회사 DB벤처스가 베컴 브랜드 를 활용해 향수 ·세면용품 등을 제조·유통하는 독일 화장품회사 코티를 상대로 미 뉴욕주 대법원에 4100만 달러 (한화 약 548억원)를 배상하라는 소송을...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

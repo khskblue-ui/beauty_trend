@@ -1,0 +1,90 @@
+{
+ "doc_id": "d1197e4cf12ff8cc",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53974",
+ "title": "닥터지 ‘블랙 스네일 글로우 퍼밍 크림’",
+ "summary": "닥터지가 ‘블랙 스네일 글로우 퍼밍 크림’을 선보인다. 이 제품은 누적 판매량 3,300만 개를 기록한 ‘블랙 스네일 크림’의 특징을 반영했다. 블랙 스네일 뮤신에 NAD+를 결합한 ‘스네일NAD+™’를 핵심 성분으로 삼았다. 여기에 콜라겐 펩타이드를 더해 쫀쫀한 크림 제형을 완성했다. 인체적용시험 결…",
+ "published_at": "2026-11-17T16:59:43+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "닥터지"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "달팽이 크림",
+   "탄력 크림",
+   "NAD+ 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "블랙 스네일 글로우 퍼밍 크림",
+    "brand": "닥터지",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "닥터지가 ‘블랙 스네일 글로우 퍼밍 크림’을 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "블랙 스네일 크림",
+    "brand": "닥터지",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "닥터지가 블랙 스네일 크림의 특징을 살린 퍼밍 크림을 선보인다.",
+  "key_fact_quote": "닥터지가 ‘블랙 스네일 글로우 퍼밍 크림’을 선보인다.",
+  "events": [
+   {
+    "name": "닥터지 쇼케이스",
+    "start_date": "2026-11-23",
+    "end_date": "2026-11-24",
+    "place": "올리브영 온라인몰",
+    "quote": "‘블랙 스네일 글로우 퍼밍 크림’은 23일부터 24일까지 올리브영 온라인몰에서 진행하는 ‘닥터지 쇼케이스’에서 판매된다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "블랙 스네일 뮤신",
+    "quote": "블랙 스네일 뮤신에 NAD+를 결합한 ‘스네일NAD+™’를 핵심 성분으로 삼았다."
+   },
+   {
+    "name": "NAD+",
+    "quote": "블랙 스네일 뮤신에 NAD+를 결합한 ‘스네일NAD+™’를 핵심 성분으로 삼았다."
+   },
+   {
+    "name": "스네일NAD+™",
+    "quote": "블랙 스네일 뮤신에 NAD+를 결합한 ‘스네일NAD+™’를 핵심 성분으로 삼았다."
+   },
+   {
+    "name": "콜라겐 펩타이드",
+    "quote": "여기에 콜라겐 펩타이드를 더해 쫀쫀한 크림 제형을 완성했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": true
+}

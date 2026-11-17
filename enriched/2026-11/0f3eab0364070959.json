@@ -1,0 +1,50 @@
+{
+ "doc_id": "0f3eab0364070959",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pressian.com/pages/articles/2026111716332819353?utm_source=naver&utm_medium=search",
+ "title": "천안 화장품 기업 시카젠, 충남산 병풀로 TV홈쇼핑 진출",
+ "summary": "아산·당진 계약재배 농가와 원료 공급망 구축…30일 롯데홈쇼핑 첫 방송 충남 천안의 화장품 제조기업... 이영종 시카젠 대표는 “앞으로도 홈쇼핑을 비롯한 다양한 유통망을 확대하고 신제품 을 개발해 생병풀...",
+ "published_at": "2026-11-17T16:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "시카젠",
+   "롯데홈쇼핑"
+  ],
+  "keywords": [
+   "홈쇼핑 진출",
+   "계약재배",
+   "병풀 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "시카젠이 충남산 병풀로 만든 화장품으로 TV홈쇼핑에 진출한다.",
+  "key_fact_quote": "천안 화장품 기업 시카젠, 충남산 병풀로 TV홈쇼핑 진출",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "병풀",
+    "quote": "천안 화장품 기업 시카젠, 충남산 병풀로 TV홈쇼핑 진출"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

@@ -1,0 +1,52 @@
+{
+ "doc_id": "062bbd363ed6f1ae",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=229050",
+ "title": "'무신사 뷰티 성수' 닷새간 3만3,000명 방문…거래액 5억 원",
+ "summary": "무신사 뷰티가 단독으로 선보인 프랑스 니치 향수 브랜드 '엘티피버(LT Piver)'와 메이크업 브랜드 플라워노즈, 스나이델 뷰티가 순위권에 올랐다. 바디케어 브랜드 도브와 바세린도 높은 판매량을 기록했다. 무신사 뷰티...",
+ "published_at": "2026-11-17T14:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "엘티피버",
+   "플라워노즈",
+   "스나이델 뷰티",
+   "도브",
+   "바세린"
+  ],
+  "companies": [
+   "무신사 뷰티"
+  ],
+  "keywords": [
+   "프랑스 향수",
+   "오프라인 뷰티 매장",
+   "바디케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "701bc70e70371f04",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

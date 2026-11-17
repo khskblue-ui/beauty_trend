@@ -1,0 +1,48 @@
+{
+ "doc_id": "aa132931388437c3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ibabynews.com/news/articleView.html?idxno=156992",
+ "title": "[ 뷰티 트렌드] 일리윤, 고기능 페이셜 라인 ‘멀티베리어 페이셜’ 출시 ...",
+ "summary": "국내외 뷰티 ·생활건강 기업들이 발표한 신제품 출시 , 성분·기술 연구, 캠페인, 사회공헌 활동 등 다양한 소식 가운데 일상 속 피부 건강과 자기관리, 가족의 삶의 질 향상에 도움이 되는 정보를 선별해 소개한다....",
+ "published_at": "2026-11-17T12:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "일리윤"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "장벽 케어",
+   "민감 피부",
+   "PDRN",
+   "데일리 더마"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "c39753ee16a1f508",
+ "enriched_at": "2026-11-17T21:29:13+00:00",
+ "had_body": false
+}

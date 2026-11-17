@@ -1,0 +1,47 @@
+{
+ "doc_id": "7b073fe6a37c45b4",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/skin-care/shiseido-selling-chinese-subsidiary-producing-aupres-1239420296/",
+ "title": "Shiseido Selling Chinese Subsidiary Producing Aupres Brand",
+ "summary": "Shiseido Liyuan Cosmetics will go to an investor consortium led by IDG Capital.",
+ "published_at": "2026-11-18T00:15:33+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "CN"
+  ],
+  "brands": [
+   "Aupres"
+  ],
+  "companies": [
+   "Shiseido",
+   "Shiseido Liyuan Cosmetics",
+   "IDG Capital"
+  ],
+  "keywords": [
+   "자회사 매각",
+   "중국 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Shiseido가 Aupres를 생산하는 중국 자회사를 IDG Capital이 이끄는 투자자 컨소시엄에 판다.",
+  "key_fact_quote": "Shiseido Liyuan Cosmetics will go to an investor consortium led by IDG Capital.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

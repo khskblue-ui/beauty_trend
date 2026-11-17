@@ -1,0 +1,46 @@
+{
+ "doc_id": "f70600aac39d201a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026111708524978005",
+ "title": "카페24 자사몰서 크는 인디 뷰티…매출 237% 뛴 브랜드도",
+ "summary": "카페24 기반 자사몰을 운영하는 인디 뷰티 브랜드들이 온라인 화장품 시장의 성장세를 이어가고 있다.... 첫 제품은 출시 이틀 만에 매진됐으며, 2023년 판매 시작 이후 매년 매출이 두 배 이상 늘었다. '오가니시티'를...",
+ "published_at": "2026-11-17T08:59:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "오가니시티"
+  ],
+  "companies": [
+   "카페24"
+  ],
+  "keywords": [
+   "인디 뷰티",
+   "자사몰",
+   "온라인 화장품 시장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "카페24 기반 자사몰을 운영하는 인디 뷰티 브랜드들이 성장세를 이어가고 있다.",
+  "key_fact_quote": "카페24 기반 자사몰을 운영하는 인디 뷰티 브랜드들이 온라인 화장품 시장의 성장세를 이어가고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:46+00:00",
+ "had_body": false
+}

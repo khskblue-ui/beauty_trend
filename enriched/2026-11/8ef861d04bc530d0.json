@@ -1,0 +1,54 @@
+{
+ "doc_id": "8ef861d04bc530d0",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com:8443/en/pure-trade-brings-disco-ball,28549",
+ "title": "Pure Trade brings disco-ball sparkle to Rabanne's Advent calendar",
+ "summary": "The case housing the 24 beauty treats — including fragrances, makeup, travel-size products and accessories — is designed as a collectible disco ball, which was developed by Pure Trade. Inspired by the House's metallic brilliance, the ball is injection moulded and faceted with square panels in relief, whose printed decoration recreates the glitter of a mirror ball. A flat base gives it stability. The Rabanne logo is debossed on the top, while the House's R, picked out in gold reserve and... - Industry buzz",
+ "published_at": "2026-11-17T06:10:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [],
+  "brands": [
+   "Rabanne"
+  ],
+  "companies": [
+   "Pure Trade"
+  ],
+  "keywords": [
+   "어드벤트 캘린더",
+   "패키징 디자인",
+   "연말 한정판"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Advent calendar",
+    "brand": "Rabanne",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Pure Trade가 Rabanne 어드벤트 캘린더의 디스코볼 모양 케이스를 개발했다.",
+  "key_fact_quote": "The case housing the 24 beauty treats — including fragrances, makeup, travel-size products and accessories — is designed as a collectible disco ball, which was developed by Pure Trade.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:46+00:00",
+ "had_body": false
+}

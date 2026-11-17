@@ -1,0 +1,82 @@
+{
+ "doc_id": "f2805f5f7ba0aafe",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100504",
+ "title": "체취 전문 바디케어 브랜드 ‘46cm’, 누적 판매 130만개 돌파",
+ "summary": "LG생활건강의 체취 전문 웰니스 에티켓 브랜드 ‘46cm’ 체취솔루션 바디워시 라인이 출시 1년 8개월 만에 누적 판매량 130만개를 돌파하며 시장 내 대세 브랜드로 확고히 자리매김했다.이는 지난해 3월 첫 출시 이후 올해 10월까지 집계된 성과로, 산술적으로 하루에 2,000개 이상이 꾸준히 판매된 셈이다. 46cm는 고객들의 호응에 힘입어 올해 기준 10월까지의 누계 매출이 전년 동기 대비 105% 신장하는 등 주요 유통 채널에서 견조한 성장세를 이어가고 있다.미국의 문화인류학자 에드워드 홀(Edward T. Hall)이 타인과",
+ "published_at": "2026-11-17T09:33:44+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "46cm"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "체취 케어",
+   "데오드란트 바디워시",
+   "웰니스",
+   "러닝 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "체취솔루션 바디워시",
+    "brand": "46cm",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "데오드란트 바디워시",
+    "brand": "46cm",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "그린티"
+    ],
+    "notes_quote": "여기에 최근 남녀노소 선호도가 높은 상쾌하고 청량한 ‘리프레싱 그린티향’이 새롭게 라인업에 추가되며 인기를 끌고 있다."
+   },
+   {
+    "name": "발을씻자",
+    "brand": "LG생활건강",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "LG생활건강의 체취 케어 브랜드 46cm 바디워시 라인이 누적 판매 기록을 넘어섰다.",
+  "key_fact_quote": "LG생활건강의 체취 전문 웰니스 에티켓 브랜드 ‘46cm’ 체취솔루션 바디워시 라인이 출시 1년 8개월 만에 누적 판매량 130만개를 돌파하며 시장 내 대세 브랜드로 확고히 자리매김했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "프리&파라바이오틱스",
+    "quote": "또한, 체취 때를 녹이고 흡착하여 LG생활건강 제품 중 최초로 ‘체취 유발균2’까지 99% 항균해주며, 7가지 프리&파라바이오틱스 함유 캡슐을 적용해 건강한 피부 환경으로 가꿔준다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:46+00:00",
+ "had_body": true
+}

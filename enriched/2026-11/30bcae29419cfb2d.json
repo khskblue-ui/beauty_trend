@@ -1,0 +1,45 @@
+{
+ "doc_id": "30bcae29419cfb2d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20261118.22006005409",
+ "title": "“우수한 부산 화장품, 할인까지 합니다”",
+ "summary": "바디케어 향수 등 다양한 제품을 최대 70% 할인하거나 ‘1+1’ 혜택으로 판매했다. 부산테크노파크와 부산화장품산업협회 주관으로 열린 이번 행사는 지역 화장품 기업의 브랜드 인지도를 높이고 판로를 확대하기...",
+ "published_at": "2026-11-17T19:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "부산테크노파크",
+   "부산화장품산업협회"
+  ],
+  "keywords": [
+   "지역 화장품",
+   "할인 판매전",
+   "판로 확대"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "부산 지역 화장품 기업들이 할인 판매 행사에서 바디케어와 향수 등을 판매했다.",
+  "key_fact_quote": "바디케어 향수 등 다양한 제품을 최대 70% 할인하거나 ‘1+1’ 혜택으로 판매했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

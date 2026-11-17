@@ -1,0 +1,44 @@
+{
+ "doc_id": "5e79615a6f8d0b1c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026111722575102949",
+ "title": "'9980원 더마 화장품 ' 이마트서도 판다…초저가 뷰티 영토 확장",
+ "summary": "가성비 화장품 에서 성분과 기능을 차별화한 제품으로 경쟁력을 높인다는 전략이다. 2016년 뷰티 상품을 처음 선보인 이후 상품군을 꾸준히 확대해 올해에만 약 150종의 뷰티 관련 상품을 출시했다. 신제품 출시도...",
+ "published_at": "2026-11-18T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "이마트"
+  ],
+  "keywords": [
+   "초저가 뷰티",
+   "더마 화장품",
+   "가성비 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "노브랜드가 가성비 화장품에서 성분과 기능을 차별화한 제품으로 경쟁력을 높이는 전략을 편다.",
+  "key_fact_quote": "가성비 화장품 에서 성분과 기능을 차별화한 제품으로 경쟁력을 높인다는 전략이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

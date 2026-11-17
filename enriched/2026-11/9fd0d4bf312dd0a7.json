@@ -1,0 +1,52 @@
+{
+ "doc_id": "9fd0d4bf312dd0a7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1425889",
+ "title": "무신사 뷰티 성수 \"오픈 5일 만에 누적 거래액 5억원 달성\"",
+ "summary": "외국인 고객은 '닥터엘시아', '코스알엑스', '온그리디언츠' 등 스킨케어와 '오드타입', '리스키' 등 색조 제품을 고루 구매했으며, 국내 고객은 무신사 단독 프랑스 니치 향수 '엘티피버'와 메이크업 브랜드 '플라워노즈...",
+ "published_at": "2026-11-17T10:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "엘티피버(LT Piver)",
+   "플라워노즈",
+   "스나이델 뷰티",
+   "도브",
+   "바세린"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "니치 향수",
+   "오프라인 뷰티 매장",
+   "바디케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "0652c9f2f741d23e",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

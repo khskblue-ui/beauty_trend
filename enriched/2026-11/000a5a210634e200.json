@@ -1,0 +1,53 @@
+{
+ "doc_id": "000a5a210634e200",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/17/2026111790184.html",
+ "title": "무신사 뷰티 성수, 개점 5일 만에 거래액 5억원…구매객 65% 외국인",
+ "summary": "700개 브랜드 , 1만여개 상품이 입점했다. 방문객의 31%는 같은 기간 성수 일대 다른 무신사 매장도 이용한 것으로 나타났다. 무신사는 단독 팝업과 향수 ·파머시 뷰티 등 체험 콘텐츠를 앞세워 성수 상권 내 매장 간...",
+ "published_at": "2026-11-17T15:29:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "엘티피버",
+   "플라워노즈",
+   "스나이델 뷰티",
+   "도브",
+   "바세린"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "니치 향수",
+   "오프라인 뷰티 매장",
+   "외국인 관광객 소비",
+   "바디케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "22c776f9d8fc00ec",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "ea91b4ce668ee736",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Economy/article/all/20261117/135041867/2",
+ "title": "올리브영, 첫 색조화장품 특화매장 홍대에 연다",
+ "summary": "그간 K뷰티 수출 은 스킨케어 중심 기초화장품 위주로 성장해 왔다. 올해 1∼9월 국내 색조화장품 수출액은 11억1000만 달러로, 기초화장품 수출액 87억2000만 달러의 8분의 1 수준에 그쳤다. 반면, 올해 글로벌 색조화장품...",
+ "published_at": "2026-11-18T00:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "색조 화장품",
+   "K뷰티",
+   "특화 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "76c555bd5bde4fd2",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

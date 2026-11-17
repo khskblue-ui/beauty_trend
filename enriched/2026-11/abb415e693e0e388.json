@@ -1,0 +1,47 @@
+{
+ "doc_id": "abb415e693e0e388",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/meet-the-maestro-perfumer-abdulla-ajmal-fragrance",
+ "title": "Meet the Maestro: For perfumer Abdulla Ajmal, fragrance is in his blood",
+ "summary": "Abdulla Ajmal has worked for more than 30 years in the Middle Eastern fragrance business. He delves into why oud is more than just a buzzword, and how his brand Ajmal Perfumes will continue to iterate its scent offering",
+ "published_at": "2026-11-17T20:59:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [],
+  "brands": [
+   "Ajmal Perfumes"
+  ],
+  "companies": [],
+  "keywords": [
+   "우드 향",
+   "중동 향수",
+   "조향사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "조향사 압둘라 아즈말이 우드가 유행어 이상인 이유와 자신의 브랜드가 향을 계속 다듬어 갈 방향을 이야기했다.",
+  "key_fact_quote": "He delves into why oud is more than just a buzzword, and how his brand Ajmal Perfumes will continue to iterate its scent offering",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "oud",
+    "quote": "He delves into why oud is more than just a buzzword, and how his brand Ajmal Perfumes will continue to iterate its scent offering"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

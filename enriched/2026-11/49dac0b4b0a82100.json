@@ -1,0 +1,57 @@
+{
+ "doc_id": "49dac0b4b0a82100",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53972",
+ "title": "“3천원의 작은 사치”… 귀여움까지 챙긴 가성비 색조",
+ "summary": "고물가로 소비자의 가격 민감도가 높아지면서 합리적인 가격과 차별화된 디자인을 앞세운 색조화장품이 주목받고 있다. 코나드(대표 최대통)의 색조 브랜드 페블린(Feeblin)은 ‘쥬시 젤리 하트 립 앤 치크’로 가성비 색조시장을 공략하고 있다. 이 제품은 3천원 가격대와 품질력·활용도 면에서 두루 높…",
+ "published_at": "2026-11-17T14:24:36+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "페블린"
+  ],
+  "companies": [
+   "코나드",
+   "이마트"
+  ],
+  "keywords": [
+   "가성비 색조",
+   "립 앤 치크",
+   "하트 패키지"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "쥬시 젤리 하트 립 앤 치크",
+    "brand": "페블린",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코나드의 페블린이 저가 립 앤 치크 제품으로 가성비 색조 시장을 공략한다.",
+  "key_fact_quote": "코나드(대표 최대통)의 색조 브랜드 페블린(Feeblin)은 ‘쥬시 젤리 하트 립 앤 치크’로 가성비 색조시장을 공략하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": true
+}

@@ -1,0 +1,56 @@
+{
+ "doc_id": "11a493957d71cbe2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.dealsitetv.com/articles/178541",
+ "title": "[핀포인트] [파마리서치] 리쥬란 독주 흔들… 화장품 성장에도 이익 제자...",
+ "summary": "상대적으로 이익률이 낮은 화장품 의 매출 비중이 높아진 데다 해외 유통망 확대에 따른 비용 부담까지 커졌다. 파마리서치는 2014년 출시 한 리쥬란을 앞세워 10년 넘게 국내 스킨부스터 시장을 주도해 왔다. 리쥬란은...",
+ "published_at": "2026-11-17T08:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리쥬란"
+  ],
+  "companies": [
+   "파마리서치"
+  ],
+  "keywords": [
+   "스킨부스터",
+   "화장품 사업",
+   "해외 유통망"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "리쥬란",
+    "brand": "파마리서치",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "파마리서치는 이익률이 낮은 화장품 비중이 커지고 해외 유통 비용이 늘었다.",
+  "key_fact_quote": "상대적으로 이익률이 낮은 화장품 의 매출 비중이 높아진 데다 해외 유통망 확대에 따른 비용 부담까지 커졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:46+00:00",
+ "had_body": false
+}

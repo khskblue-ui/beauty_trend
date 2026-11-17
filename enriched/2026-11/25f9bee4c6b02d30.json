@@ -1,0 +1,45 @@
+{
+ "doc_id": "25f9bee4c6b02d30",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.peoplewatch.co.kr/article/view/ppw202611170007",
+ "title": "올리브영은 홍대, 무신사는 성수… K뷰티 오프라인 격전지 '양분'",
+ "summary": "국내 뷰티 유통 시장의 주도권을 둘러싼 무신사와 CJ올리브영의 경쟁이 서울 성수와 홍대로 번지고 있다.... 식품의약품안전처에 따르면 올해 1~9월 국내 색조화장품 수출 액은 11억1000만 달러(약 1조4847억 3600만원)로...",
+ "published_at": "2026-11-17T10:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사",
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "뷰티 유통 경쟁",
+   "오프라인 뷰티 매장",
+   "색조 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사와 CJ올리브영의 뷰티 유통 경쟁이 성수와 홍대로 번지고 있다.",
+  "key_fact_quote": "국내 뷰티 유통 시장의 주도권을 둘러싼 무신사와 CJ올리브영의 경쟁이 서울 성수와 홍대로 번지고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

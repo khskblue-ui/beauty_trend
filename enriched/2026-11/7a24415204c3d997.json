@@ -1,0 +1,45 @@
+{
+ "doc_id": "7a24415204c3d997",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20115486?ref=naver",
+ "title": "“中시장 포기 못해”…다시 문 두드리는 K뷰티",
+ "summary": "데다 프로야 등 중국 로컬 브랜드들이 제품력을 키우며 자국 내 입지를 굳히고 있기 때문이다. 중국 향료 향정화장품공업협회에 따르면 중국 자국 화장품 브랜드의 시장점유율은 2023년 52.8%에서 지난해 57.4%로 높아졌다.",
+ "published_at": "2026-11-17T16:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [
+   "프로야"
+  ],
+  "companies": [],
+  "keywords": [
+   "중국 시장",
+   "로컬 브랜드",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 로컬 화장품 브랜드의 자국 시장 점유율이 높아졌다.",
+  "key_fact_quote": "중국 향료 향정화장품공업협회에 따르면 중국 자국 화장품 브랜드의 시장점유율은 2023년 52.8%에서 지난해 57.4%로 높아졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

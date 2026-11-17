@@ -1,0 +1,42 @@
+{
+ "doc_id": "45696859adbc419c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.metroseoul.co.kr/article/20261117500457",
+ "title": "뷰티에 꽂힌 이커머스…온라인 넘어 오프라인까지 진격",
+ "summary": "향수 520여 개를 모은 전용 공간과 향수 조합 체험존, 브랜드 팝업존 등 체험 공간을 강화했다. 2층에는 피부... 12개 브랜드의 신제품 을 체험하도록 하고 앱 가입·브랜드 즐겨찾기 인증에 경품을 제공해 플랫폼 유입을...",
+ "published_at": "2026-11-17T16:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "향수 체험존",
+   "오프라인 뷰티 매장",
+   "이커머스 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "이커머스 업체들이 향수 체험 공간을 갖춘 오프라인 뷰티 매장으로 영역을 넓히고 있다.",
+  "key_fact_quote": "향수 520여 개를 모은 전용 공간과 향수 조합 체험존, 브랜드 팝업존 등 체험 공간을 강화했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

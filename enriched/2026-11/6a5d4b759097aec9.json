@@ -1,0 +1,58 @@
+{
+ "doc_id": "6a5d4b759097aec9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=266998",
+ "title": "이마트·노브랜드, 초저가 넘어 성분 경쟁···뷰티 영토 확장",
+ "summary": "손앤박과 협업한 단독 색조 라인 '손앤박 N' 29종도 출시 할 예정이다. 이마트 역시 화장품 전문기업과의 협업을 통해 초저가 뷰티 상품의 경쟁력을 강화해 왔다. 지난해 4월 LG생활건강과 협업해 이마트 전용 스킨케어...",
+ "published_at": "2026-11-18T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "손앤박",
+   "노브랜드"
+  ],
+  "companies": [
+   "이마트",
+   "LG생활건강"
+  ],
+  "keywords": [
+   "색조 협업",
+   "초저가 뷰티",
+   "PB 화장품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "손앤박 N",
+    "brand": "손앤박",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "손앤박과 협업한 단독 색조 라인 '손앤박 N' 29종도 출시 할 예정이다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "노브랜드가 손앤박과 협업한 단독 색조 라인을 출시할 예정이다.",
+  "key_fact_quote": "손앤박과 협업한 단독 색조 라인 '손앤박 N' 29종도 출시 할 예정이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

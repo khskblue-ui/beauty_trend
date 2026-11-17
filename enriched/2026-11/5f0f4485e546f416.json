@@ -1,0 +1,46 @@
+{
+ "doc_id": "5f0f4485e546f416",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/puig-poised-acquire-parfums-de-marly-sources-niche-perfume-1239420484/",
+ "title": "Is Puig Poised to Acquire Parfums de Marly?",
+ "summary": "Industry sources say the Spanish company is in a final stage of talks with Marly parent Artessence Group.",
+ "published_at": "2026-11-18T00:41:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "ES"
+  ],
+  "brands": [
+   "Parfums de Marly"
+  ],
+  "companies": [
+   "Puig",
+   "Artessence Group"
+  ],
+  "keywords": [
+   "니치 향수",
+   "향수 인수합병"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "푸이그가 파르퓜 드 말리 모회사 아르테상스 그룹과 인수 협상 막바지 단계에 있다는 업계 소식이 나왔다.",
+  "key_fact_quote": "Industry sources say the Spanish company is in a final stage of talks with Marly parent Artessence Group.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

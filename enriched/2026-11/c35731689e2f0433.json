@@ -1,0 +1,50 @@
+{
+ "doc_id": "c35731689e2f0433",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.ifm.kr/news/articleView.html?idxno=484680",
+ "title": "외국인이 구매 고객 65% '싹쓸이'…무신사 뷰티 성수, 닷새 만에 5억원 ...",
+ "summary": "프랑스 니치 향수 브랜드 엘티피버와 플라워노즈, 스나이델 뷰티 등이 판매 상위권에 올랐다. 개점 첫 5일간 거래액 1위 브랜드는 메이크업 브랜드 '투에이엔(2aN)'이었다. 매장 내 약 15평 규모의 단독 팝업 공간에서...",
+ "published_at": "2026-11-17T16:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "엘티피버",
+   "플라워노즈",
+   "스나이델 뷰티"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "니치 향수",
+   "향수 레이어링",
+   "오프라인 뷰티 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "edc1ce593042b552",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

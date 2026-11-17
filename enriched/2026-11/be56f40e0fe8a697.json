@@ -1,0 +1,48 @@
+{
+ "doc_id": "be56f40e0fe8a697",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.asiatime.co.kr/article/20261117500313",
+ "title": "무신사 뷰티 성수, 하루 1억원씩 판다…매출 3분의 2는 ‘외국인’",
+ "summary": "특히 무신사 뷰티 오프라인 매장에 단독 입점한 프랑스 향수 브랜드 '엘티 피버(LT PIVER)'가 거래액 상위 브랜드에 이름을 올렸다. 브랜드 단독 팝업존도 구매를 이끌었다. 무신사는 약 15평 규모의 팝업 공간에 첫 번째...",
+ "published_at": "2026-11-17T14:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "엘티 피버(LT PIVER)"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "외국인 관광객 소비",
+   "팝업존",
+   "니치 향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티 성수 매장에 단독 입점한 프랑스 향수 브랜드 엘티 피버가 거래액 상위 브랜드에 올랐다.",
+  "key_fact_quote": "특히 무신사 뷰티 오프라인 매장에 단독 입점한 프랑스 향수 브랜드 '엘티 피버(LT PIVER)'가 거래액 상위 브랜드에 이름을 올렸다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

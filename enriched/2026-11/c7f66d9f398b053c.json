@@ -1,0 +1,61 @@
+{
+ "doc_id": "c7f66d9f398b053c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fashionbiz.co.kr/article/231154",
+ "title": "뷰티피플, 특허 비건 PDRN 담은 ’24h 프로 PDRN 리페어 래쉬앰플’ 출시",
+ "summary": "신제품 ‘24h 프로 PDRN 리페어 래쉬앰플’은 오는 11월 17일(화) 23시 55분 홈앤쇼핑 론칭 방송을 통해 만나볼 수 있다. 뷰티피플은 15년간 색조 화장품 을 선보여 온 브랜드로, 대표 라인 ‘철벽녀’는 쿠션 파운데이션을...",
+ "published_at": "2026-11-17T10:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "뷰티피플"
+  ],
+  "companies": [
+   "홈앤쇼핑"
+  ],
+  "keywords": [
+   "PDRN",
+   "속눈썹 케어",
+   "홈쇼핑 론칭"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "24h 프로 PDRN 리페어 래쉬앰플",
+    "brand": "뷰티피플",
+    "launch_date": "2026-11-17",
+    "launch_status": "upcoming",
+    "launch_quote": "신제품 ‘24h 프로 PDRN 리페어 래쉬앰플’은 오는 11월 17일(화) 23시 55분 홈앤쇼핑 론칭 방송을 통해 만나볼 수 있다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티피플이 PDRN을 담은 속눈썹 앰플을 홈쇼핑 방송으로 선보인다.",
+  "key_fact_quote": "신제품 ‘24h 프로 PDRN 리페어 래쉬앰플’은 오는 11월 17일(화) 23시 55분 홈앤쇼핑 론칭 방송을 통해 만나볼 수 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "뷰티피플, 특허 비건 PDRN 담은 ’24h 프로 PDRN 리페어 래쉬앰플’ 출시"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

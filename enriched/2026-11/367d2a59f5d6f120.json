@@ -1,0 +1,56 @@
+{
+ "doc_id": "367d2a59f5d6f120",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=89709",
+ "title": "이마트·노브랜드, 1만원 이하 화장품 확대…초저가 넘어 기능성 강화",
+ "summary": "이마트와 노브랜드가 가격은 낮추고 기능과 품질은 높인 뷰티 상품을 잇달아 선보이며 화장품 시장 공략에 속도를 낸다고 18일 밝혔다. 노브랜드는 지난 10월 말 출시 한 '노브랜드 더마 스킨케어' 6종을 현재 전문점에서...",
+ "published_at": "2026-11-18T06:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드"
+  ],
+  "companies": [
+   "이마트"
+  ],
+  "keywords": [
+   "초저가 화장품",
+   "더마 스킨케어",
+   "기능성 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "노브랜드 더마 스킨케어",
+    "brand": "노브랜드",
+    "launch_date": "2026-10",
+    "launch_status": "launched",
+    "launch_quote": "노브랜드는 지난 10월 말 출시 한 '노브랜드 더마 스킨케어' 6종을 현재 전문점에서...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이마트와 노브랜드가 값을 낮추고 기능을 높인 뷰티 상품을 잇달아 내놓고 있다.",
+  "key_fact_quote": "이마트와 노브랜드가 가격은 낮추고 기능과 품질은 높인 뷰티 상품을 잇달아 선보이며 화장품 시장 공략에 속도를 낸다고 18일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

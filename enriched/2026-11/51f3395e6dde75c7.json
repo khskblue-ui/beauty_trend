@@ -1,0 +1,45 @@
+{
+ "doc_id": "51f3395e6dde75c7",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/elf-beauty-and-twitch-break-grwm-guinness-world-record",
+ "title": "E.l.f. Beauty and Twitch break GRWM Guinness World Record",
+ "summary": "E.l.f. Beauty partnered with streaming service Twitch to hold the world’s largest ‘get ready with me’ at Twitchcon, breaking a world record in the process",
+ "published_at": "2026-11-17T20:41:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [],
+  "brands": [
+   "E.l.f. Beauty"
+  ],
+  "companies": [
+   "E.l.f. Beauty",
+   "Twitch"
+  ],
+  "keywords": [
+   "GRWM 콘텐츠",
+   "라이브 스트리밍 마케팅",
+   "기네스 세계 기록"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "이엘에프 뷰티가 트위치와 함께 대규모 GRWM 행사를 열어 세계 기록을 세웠다.",
+  "key_fact_quote": "E.l.f. Beauty partnered with streaming service Twitch to hold the world’s largest ‘get ready with me’ at Twitchcon, breaking a world record in the process",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

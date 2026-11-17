@@ -1,0 +1,45 @@
+{
+ "doc_id": "89ad2ddc2820d2f3",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/sephora-eyes-ten-more-uk-stores-in-2027",
+ "title": "Sephora eyes ten more UK stores in 2027 to accelerate growth",
+ "summary": "The LVMH-owned beauty retailer is allegedly planning to open ten more UK stores next year, taking its total store count in the region to 28, according to a new report that cites property sources",
+ "published_at": "2026-11-17T21:26:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "Sephora"
+  ],
+  "companies": [
+   "LVMH"
+  ],
+  "keywords": [
+   "뷰티 리테일",
+   "매장 확장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "세포라가 내년 영국 매장을 더 열 계획이라는 보도가 나왔다.",
+  "key_fact_quote": "The LVMH-owned beauty retailer is allegedly planning to open ten more UK stores next year, taking its total store count in the region to 28, according to a new report that cites property sources",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

@@ -1,0 +1,48 @@
+{
+ "doc_id": "02a901ee9f6ab8b2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111701694.html",
+ "title": "[ 뷰티 업계 이모저모] CJ올리브영, 색조 특화 매장 ‘컬러 그라운드 홍대...",
+ "summary": "통해 신제품 ‘블랙 스네일 글로우 퍼밍 크림’을 선 출시 한다. 이번 제품은 누적 판매량 3300만개를 기록한... ■몽클로스, 뉴욕타임스 소개…미국·일본·호주 유통 확대 국내 뷰티 브랜드 몽클로스가 미국 일간지...",
+ "published_at": "2026-11-17T14:03:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "색조 특화 매장",
+   "잘파세대",
+   "퍼스널 컬러 진단",
+   "K-색조"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "d1c1845d2a4d9e1c",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

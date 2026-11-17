@@ -1,0 +1,46 @@
+{
+ "doc_id": "c17a343318daec61",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=122368",
+ "title": "이마트·노브랜드, 더마 화장품 출시 로 기능성 뷰티 시장 공략",
+ "summary": "이마트와 노브랜드가 합리적인 가격과 검증된 성분을 앞세운 기능성·초저가 화장품 라인업을 확대하며... 추가 출시 한다. 이마트도 5,000원 이하 초저가 뷰티 상품군을 2023년 25종에서 현재 85종으로 3배 이상 늘렸다....",
+ "published_at": "2026-11-18T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드"
+  ],
+  "companies": [
+   "이마트"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "초저가 화장품",
+   "기능성 화장품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "이마트와 노브랜드가 기능성 화장품과 초저가 화장품 라인업을 넓히고 있다.",
+  "key_fact_quote": "이마트와 노브랜드가 합리적인 가격과 검증된 성분을 앞세운 기능성·초저가 화장품 라인업을 확대하며...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

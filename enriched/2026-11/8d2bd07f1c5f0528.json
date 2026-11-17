@@ -1,0 +1,71 @@
+{
+ "doc_id": "8d2bd07f1c5f0528",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.yna.co.kr/view/AKR20261117146500030?input=1195m",
+ "title": "노브랜드, 9천원대 '더마 스킨케어' 6종 출시 …뷰티 시장 공략",
+ "summary": "기초·기능성 화장품 , 헤어케어 제품, 색조까지 제품군도 다양해졌다. 신상품 출시 도 활발하다. 노브랜드는 11월 'PDRN 스킨케어' 5종을 선보일 예정이며, 12월에는 쿤달과 협업한 헤어·바디 상품 12종을 출시 한다....",
+ "published_at": "2026-11-18T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드",
+   "쿤달"
+  ],
+  "companies": [
+   "쿤달"
+  ],
+  "keywords": [
+   "초저가 화장품",
+   "더마 스킨케어",
+   "PDRN 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "더마 스킨케어",
+    "brand": "노브랜드",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "노브랜드, 9천원대 '더마 스킨케어' 6종 출시 …뷰티 시장 공략",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PDRN 스킨케어",
+    "brand": "노브랜드",
+    "launch_date": "2026-11",
+    "launch_status": "upcoming",
+    "launch_quote": "노브랜드는 11월 'PDRN 스킨케어' 5종을 선보일 예정이며, 12월에는 쿤달과 협업한 헤어·바디 상품 12종을 출시 한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "노브랜드가 더마 스킨케어를 출시하고 신상품을 이어서 내놓을 예정이다.",
+  "key_fact_quote": "노브랜드는 11월 'PDRN 스킨케어' 5종을 선보일 예정이며, 12월에는 쿤달과 협업한 헤어·바디 상품 12종을 출시 한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "노브랜드는 11월 'PDRN 스킨케어' 5종을 선보일 예정이며, 12월에는 쿤달과 협업한 헤어·바디 상품 12종을 출시 한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

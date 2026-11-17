@@ -1,0 +1,94 @@
+{
+ "doc_id": "43488476aa20b7a6",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58752",
+ "title": "보습크림 8종 비교... 보습력+수분 증발 감소도+가격을 고려해야",
+ "summary": "[코스인코리아닷컴 김민석 기자]한국소비자원이 보습크림 8종을 시험 평가한 결과 피부 표면 보습력과 수분 증발 감소도는 제품별로 차이가 있는 것으로 나타났다. 17일 한국소비자원에 따르면 피부 표면에 수분을 채워주는 ‘보습력’과 수분이 날아가지 않도록 막아주는 ‘수분 증발 감소도’는 제품…",
+ "published_at": "2026-11-17T18:11:07+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라로슈포제",
+   "에스트라",
+   "이니스프리",
+   "세타필",
+   "일리윤",
+   "피지오겔",
+   "네이처리퍼블릭"
+  ],
+  "companies": [
+   "한국소비자원",
+   "㈜네이처리퍼블릭",
+   "엘오케이(유)",
+   "갈더마코리아㈜",
+   "㈜엘지생활건강"
+  ],
+  "keywords": [
+   "보습크림",
+   "비교 시험",
+   "수분 증발 감소",
+   "재활용 용이성"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "세타필Ⓡ 모이스춰라이징 크림",
+    "brand": "세타필",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "네이처리퍼블릭 쉐어버터 스팀 크림",
+    "brand": "네이처리퍼블릭",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "라로슈포제 시카플라스트 멀티 리페어 크림 B5",
+    "brand": "라로슈포제",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "피지오겔 데일리 모이스처 테라피 페이셜 크림",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "한국소비자원이 보습크림 제품을 시험 평가한 결과 피부 표면 보습력과 수분 증발 감소도에서 제품별 차이가 나타났다.",
+  "key_fact_quote": "[코스인코리아닷컴 김민석 기자] 한국소비자원이 보습크림 8종을 시험 평가한 결과 피부 표면 보습력과 수분 증발 감소도는 제품별로 차이가 있는 것으로 나타났다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": true
+}

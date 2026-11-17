@@ -1,0 +1,52 @@
+{
+ "doc_id": "f899b6341d9d562b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/17/2026111780027.html",
+ "title": "무신사 뷰티 성수, 5일간 3만3000명 방문…거래액 5억원",
+ "summary": "브랜드 팝업 공간과 520여개 향수 를 모은 프래그런스 존, 피부 고민별 상품 상담을 제공하는 공간 등도 마련했다. 성수 일대 다른 무신사 매장과의 교차 방문도 나타났다. 개점 후 5일간 무신사 뷰티 성수 방문객의 31%는...",
+ "published_at": "2026-11-17T09:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "엘티피버",
+   "플라워노즈",
+   "스나이델 뷰티",
+   "도브",
+   "바세린"
+  ],
+  "companies": [
+   "무신사 뷰티"
+  ],
+  "keywords": [
+   "프랑스 향수",
+   "오프라인 뷰티 매장",
+   "바디케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "701bc70e70371f04",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

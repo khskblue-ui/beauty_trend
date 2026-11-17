@@ -1,0 +1,43 @@
+{
+ "doc_id": "5f9d5ef5ec24c622",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=150252",
+ "title": "정샘물 뷰티 , 론칭 11주년 맞아 사회공헌 활동 확대",
+ "summary": "성수 정샘물 플래그십 스토어 정샘물 뷰티 가 브랜드 론칭 11주년을 맞아 대표 제품의 특별 에디션을 선보이고 신규 사회공헌(CSR) 캠페인을 출범하는 등 고객 감사와 나눔 활동을 확대하고 있다. 지난 10여 년간 이어온 기부...",
+ "published_at": "2026-11-17T16:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "정샘물 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "사회공헌 캠페인",
+   "특별 에디션"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "정샘물 뷰티가 론칭 기념 특별 에디션을 선보이고 사회공헌 캠페인을 시작했다.",
+  "key_fact_quote": "성수 정샘물 플래그십 스토어 정샘물 뷰티 가 브랜드 론칭 11주년을 맞아 대표 제품의 특별 에디션을 선보이고 신규 사회공헌(CSR) 캠페인을 출범하는 등 고객 감사와 나눔 활동을 확대하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

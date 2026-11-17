@@ -1,0 +1,49 @@
+{
+ "doc_id": "5e995bceb6064aaa",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/products/top-holiday-gift-sets-beauty-ulta-sephora-1239413014/",
+ "title": "Top 10 Holiday Gift Sets by Prestige Beauty Sales at Ulta and Sephora",
+ "summary": "Rhode and Tarte delivered bestsellers both online and in-store at Sephora over the past two months, according to new data from Daash.",
+ "published_at": "2026-11-17T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Rhode",
+   "Tarte"
+  ],
+  "companies": [
+   "Ulta",
+   "Sephora",
+   "Daash"
+  ],
+  "keywords": [
+   "홀리데이 기프트 세트",
+   "프레스티지 뷰티",
+   "베스트셀러"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "세포라에서 Rhode와 Tarte의 홀리데이 세트가 온라인과 매장 모두에서 많이 팔렸다.",
+  "key_fact_quote": "Rhode and Tarte delivered bestsellers both online and in-store at Sephora over the past two months, according to new data from Daash.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

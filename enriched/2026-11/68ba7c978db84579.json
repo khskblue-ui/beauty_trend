@@ -1,0 +1,82 @@
+{
+ "doc_id": "68ba7c978db84579",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/distribution/6357037",
+ "title": "노브랜드, 초저가 뷰티 효과 톡톡…더마 라인 테스트 판매 1000개 돌파",
+ "summary": "기초 제품을 비롯해 향수 ·헤어·두피 케어 상품까지 영역을 넓혔으며, 이달에는 PDRN 스킨케어 5종을 선보일 예정이다. 12월에는 쿤달 협업 헤어·바디 제품 12종과 손앤박 협업 색조 제품 29종을 출시 한다. 이마트도 5000원...",
+ "published_at": "2026-11-18T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드",
+   "쿤달",
+   "손앤박"
+  ],
+  "companies": [
+   "이마트"
+  ],
+  "keywords": [
+   "초저가 뷰티",
+   "더마 스킨케어",
+   "PDRN",
+   "협업 제품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "PDRN 스킨케어",
+    "brand": "노브랜드",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "기초 제품을 비롯해 향수 ·헤어·두피 케어 상품까지 영역을 넓혔으며, 이달에는 PDRN 스킨케어 5종을 선보일 예정이다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "쿤달 협업 헤어·바디 제품",
+    "brand": "노브랜드",
+    "launch_date": "2026-12",
+    "launch_status": "upcoming",
+    "launch_quote": "12월에는 쿤달 협업 헤어·바디 제품 12종과 손앤박 협업 색조 제품 29종을 출시 한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "손앤박 협업 색조 제품",
+    "brand": "노브랜드",
+    "launch_date": "2026-12",
+    "launch_status": "upcoming",
+    "launch_quote": "12월에는 쿤달 협업 헤어·바디 제품 12종과 손앤박 협업 색조 제품 29종을 출시 한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "노브랜드가 뷰티 상품 영역을 넓히고 PDRN 스킨케어 신제품을 선보일 예정이다.",
+  "key_fact_quote": "기초 제품을 비롯해 향수 ·헤어·두피 케어 상품까지 영역을 넓혔으며, 이달에는 PDRN 스킨케어 5종을 선보일 예정이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "기초 제품을 비롯해 향수 ·헤어·두피 케어 상품까지 영역을 넓혔으며, 이달에는 PDRN 스킨케어 5종을 선보일 예정이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

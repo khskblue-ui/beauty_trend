@@ -1,0 +1,51 @@
+{
+ "doc_id": "e9decccc9b2b7018",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsinside.kr/news/articleView.html?idxno=5050126",
+ "title": "무신사 뷰티 성수, 5일 만에 5억원…구매객 3명 중 2명 외국인",
+ "summary": "국내 고객 사이에서는 프랑스 니치 향수 브랜드 엘티피버와 플라워노즈, 스나이델 뷰티, 도브, 바세린 등이 높은 판매량을 기록했다. 성수 일대에 밀집한 무신사 오프라인 매장과의 연계 효과도 나타났다. 무신사 뷰티...",
+ "published_at": "2026-11-17T11:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "엘티피버",
+   "플라워노즈",
+   "스나이델 뷰티",
+   "도브",
+   "바세린"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "니치 향수",
+   "바디케어",
+   "오프라인 뷰티 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티 성수 매장에서 국내 고객 사이에 프랑스 니치 향수 브랜드 등이 높은 판매량을 기록했다.",
+  "key_fact_quote": "국내 고객 사이에서는 프랑스 니치 향수 브랜드 엘티피버와 플라워노즈, 스나이델 뷰티, 도브, 바세린 등이 높은 판매량을 기록했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

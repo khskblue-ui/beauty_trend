@@ -1,0 +1,50 @@
+{
+ "doc_id": "e74bc4b43b47f179",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229847",
+ "title": "더마 화장품 2026년 11월 브랜드평판...에스트라, 라로슈포제, 피지오겔 ...",
+ "summary": "한국기업평판연구소는 신제품 런칭센터와 함께 국내 소비자에게 사랑받는 더마 화장품 브랜드 27개에 대해 2026년 10월 17일부터 2026년 11월 17일까지의 더마 화장품 브랜드 빅데이터 8,254,412개를 분석한 결과...",
+ "published_at": "2026-11-17T12:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에스트라",
+   "라로슈포제",
+   "피지오겔",
+   "시드물",
+   "닥터지"
+  ],
+  "companies": [
+   "한국기업평판연구소"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "브랜드평판"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "08b39d08c8524ade",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

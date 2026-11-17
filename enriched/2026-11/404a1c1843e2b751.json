@@ -1,0 +1,52 @@
+{
+ "doc_id": "404a1c1843e2b751",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/uv-filters-spotlight-environmental,28556",
+ "title": "UV filters spotlight: Environmental impact and SPF testing methods",
+ "summary": "Industry needs to take a multistakeholder approach to measuring the environmental impact of UV filters and continue to invest in new SPF testing methods and better consumer education, say experts. Addressing attendees at this year's UK Cosmetic, Toiletry and Perfumery Association's (CTPA) inaugural scientific conference, two sunscreen experts said scientific gaps must be plugged and advances followed to keep data and knowledge relevant and reliable. Public concern on sunscreens Carys... - Science, R&D",
+ "published_at": "2026-11-17T08:02:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "GB",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "Coty",
+   "UK Cosmetic, Toiletry and Perfumery Association"
+  ],
+  "keywords": [
+   "자외선 차단제",
+   "UV 필터",
+   "환경 위해성 평가",
+   "SPF 시험법"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "전문가들이 UV 필터의 환경 영향을 여러 이해관계자가 함께 측정하고 새로운 SPF 시험법에 투자해야 한다고 말했다.",
+  "key_fact_quote": "Industry needs to take a multistakeholder approach to measuring the environmental impact of UV filters and continue to invest in new SPF testing methods and better consumer education, say experts.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "oxybenzone",
+    "quote": "examining the toxicity of the UV sunscreen filter oxybenzone on coral systems in Hawaii and the US Virgin Islands"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:46+00:00",
+ "had_body": true
+}

@@ -1,0 +1,52 @@
+{
+ "doc_id": "0a38bd14f179be2d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=140325",
+ "title": "식품부터 패션·뷰티까지...소비자 취향 겨냥 신제품 출시 잇따라",
+ "summary": "출시를 기념해 11월 17일부터 22일까지 신세계백화점 강남점에서 팝업스토어를 운영하며 구매 금액에 따라 향수 샘플과 홀리데이 노트 등 사은품을 증정한다. 업계 관계자들은 신제품 경쟁이 단순히 제품 종류를 늘리는...",
+ "published_at": "2026-11-17T09:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신세계백화점"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "신제품 경쟁",
+   "향수 샘플 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신제품 출시를 기념한 팝업스토어에서 향수 샘플을 사은품으로 증정한다.",
+  "key_fact_quote": "출시를 기념해 11월 17일부터 22일까지 신세계백화점 강남점에서 팝업스토어를 운영하며 구매 금액에 따라 향수 샘플과 홀리데이 노트 등 사은품을 증정한다.",
+  "events": [
+   {
+    "name": "팝업스토어",
+    "start_date": "2026-11-17",
+    "end_date": "2026-11-22",
+    "place": "신세계백화점 강남점",
+    "quote": "출시를 기념해 11월 17일부터 22일까지 신세계백화점 강남점에서 팝업스토어를 운영하며 구매 금액에 따라 향수 샘플과 홀리데이 노트 등 사은품을 증정한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:46+00:00",
+ "had_body": false
+}

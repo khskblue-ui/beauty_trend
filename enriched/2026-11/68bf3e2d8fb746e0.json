@@ -1,0 +1,46 @@
+{
+ "doc_id": "68bf3e2d8fb746e0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261117_0003871868",
+ "title": "한국콜마, 인도네시아 법인 설립…19억 무슬림 시장 도전",
+ "summary": "세계 최대 무슬림 인구를 보유하고 있어 K - 뷰티 기업은 인도네시아 시장에 안착해야 무슬림 소비자 신뢰와 관련 수출 경쟁력을 확보할 수 있다. 한편 인도네시아에 현지 생산시설을 운영 중인 코스맥스는 올해 3분기...",
+ "published_at": "2026-11-17T16:35:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "ID"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마",
+   "코스맥스"
+  ],
+  "keywords": [
+   "무슬림 시장",
+   "해외 법인",
+   "현지 생산"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국콜마가 무슬림 시장을 겨냥해 인도네시아 법인을 세웠다.",
+  "key_fact_quote": "한국콜마, 인도네시아 법인 설립…19억 무슬림 시장 도전",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

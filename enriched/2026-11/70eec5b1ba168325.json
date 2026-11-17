@@ -1,0 +1,47 @@
+{
+ "doc_id": "70eec5b1ba168325",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.donga.com/109943/",
+ "title": "“한복 입은 쿠션, 수묵 닮은 아이라이너” 휘란, 한국의 아름다움으로...",
+ "summary": "미국이 전체 수출 액의 21.1%를 차지하며 최대 수출 시장으로 자리 잡았고, 중국과 일본이 뒤를 이었다. 다만, K - 뷰티 의 성장세가 모든 제품군에 고르게 나타나는 것은 아니다. 색조 화장품 시장은 국가별 피부 톤과 화장 습관...",
+ "published_at": "2026-11-17T16:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN",
+   "JP"
+  ],
+  "brands": [
+   "휘란"
+  ],
+  "companies": [],
+  "keywords": [
+   "색조 화장품",
+   "K-뷰티 수출",
+   "한국적 디자인"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국이 K-뷰티 최대 수출 시장이지만 색조 화장품은 성장세가 고르지 않다.",
+  "key_fact_quote": "미국이 전체 수출 액의 21.1%를 차지하며 최대 수출 시장으로 자리 잡았고, 중국과 일본이 뒤를 이었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

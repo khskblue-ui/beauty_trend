@@ -1,0 +1,38 @@
+{
+ "doc_id": "74ed296c79f9407a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=213841",
+ "title": "[ k -med 칼럼] \" K뷰티 호황에 공장 근로자도 쉴 틈 없다\"…퇴근 후 목 뻐...",
+ "summary": "이는 역대 10월 최대 실적이며, 올해 1~10월 누적 수출 액은 이미 지난해 연간 실적을 넘어선 수치다. 이처럼 K뷰티 의 호황은 반가운 소식이지만, 한의사로서는 늘어난 물량을 감당해야 하는 생산 현장 근로자들의 건강이...",
+ "published_at": "2026-11-17T14:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한의사가 K뷰티 호황 속 생산 현장 근로자의 건강 문제를 짚었다.",
+  "key_fact_quote": "이처럼 K뷰티 의 호황은 반가운 소식이지만, 한의사로서는 늘어난 물량을 감당해야 하는 생산 현장 근로자들의 건강이...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

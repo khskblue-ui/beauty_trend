@@ -1,0 +1,45 @@
+{
+ "doc_id": "6da83edc5245ee1d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thepowernews.co.kr/view.php?ud=202611161431458806de3f0aa1be_7",
+ "title": "수출 103억달러 돌파했는데 PER은 12배…K-뷰티 '실적과 주가'가 갈라졌...",
+ "summary": "화장품 기업들도 K-뷰티를 직접 언급하기 시작했다. 로레알 최고경영자(CEO)는 최근 실적발표에서 K-뷰티 시장에 대해 \"The Boom is real\"이라고 표현하며 성장세를 언급했다. 로레알은 올해 9월 코스맥스와 글로벌 신제품 ...",
+ "published_at": "2026-11-17T08:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "로레알",
+   "코스맥스"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "화장품 주가",
+   "글로벌 협업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "로레알 최고경영자가 실적발표에서 K-뷰티 시장의 성장세를 언급했다.",
+  "key_fact_quote": "로레알 최고경영자(CEO)는 최근 실적발표에서 K-뷰티 시장에 대해 \"The Boom is real\"이라고 표현하며 성장세를 언급했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:46+00:00",
+ "had_body": false
+}

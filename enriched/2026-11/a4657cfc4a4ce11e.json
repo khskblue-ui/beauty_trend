@@ -1,0 +1,51 @@
+{
+ "doc_id": "a4657cfc4a4ce11e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261117_0003870749",
+ "title": "\"5일 만에 5억 팔렸다\" 무신사 뷰티 성수, 구매객 셋 중 둘 '외국인'",
+ "summary": "무신사 뷰티가 단독으로 선보인 프랑스 니치 향수 브랜드 '엘티피버(LT Piver)'를 비롯해 플라워노즈와 스나이델 뷰티, 도브, 바세린 등이 판매 상위권에 포함됐다. 무신사는 성수 일대에 구축한 패션·라이프스타일 매장...",
+ "published_at": "2026-11-17T09:43:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "엘티피버",
+   "플라워노즈",
+   "스나이델 뷰티",
+   "도브",
+   "바세린"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "니치 향수",
+   "뷰티 편집숍",
+   "외국인 관광객"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티 성수 매장에서 프랑스 니치 향수 브랜드 등이 판매 상위권에 들었다.",
+  "key_fact_quote": "무신사 뷰티가 단독으로 선보인 프랑스 니치 향수 브랜드 '엘티피버(LT Piver)'를 비롯해 플라워노즈와 스나이델 뷰티, 도브, 바세린 등이 판매 상위권에 포함됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

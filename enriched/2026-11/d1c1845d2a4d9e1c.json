@@ -1,0 +1,47 @@
+{
+ "doc_id": "d1c1845d2a4d9e1c",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53970",
+ "title": "올리브영, 색조 특화매장 ‘컬러 그라운드 홍대’ 첫선",
+ "summary": "올리브영이 20일 서울 서교동에 색조 특화 매장 ‘컬러 그라운드 홍대’를 연다. ‘컬러 그라운드 홍대’는 총 4개층, 영업면적 174평 규모로 구성했다. 색조화장품 탐색과 체험에 초점을 맞춘 특화 매장이다. 매장 기획은 올리브영의 젊은 MD들이 주도했다. 대리급 MD들은 잘파세대(Z세대와 알파세대)의…",
+ "published_at": "2026-11-17T08:56:10+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "색조 특화 매장",
+   "잘파세대",
+   "퍼스널 컬러 진단",
+   "K-색조"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "올리브영이 서울 서교동에 색조 특화 매장 컬러 그라운드 홍대를 연다.",
+  "key_fact_quote": "올리브영이 20일 서울 서교동에 색조 특화 매장 ‘컬러 그라운드 홍대’를 연다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:46+00:00",
+ "had_body": true
+}

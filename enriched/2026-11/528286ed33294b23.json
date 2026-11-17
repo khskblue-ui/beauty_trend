@@ -1,0 +1,50 @@
+{
+ "doc_id": "528286ed33294b23",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etoday.co.kr/news/view/2649024",
+ "title": "무신사 뷰티 성수, 개점 5일 만에 5억원 팔았다…구매 고객 65%가 외국인",
+ "summary": "국내 고객 사이에서는 프랑스 향수 브랜드 엘티피버와 플라워노즈, 스나이델 뷰티 등이 인기를 끌었다. 무신사 뷰티 관계자는 “홍대에 이어 성수에서도 새로운 뷰티 브랜드를 직접 발견하고 경험하려는 2030세대와...",
+ "published_at": "2026-11-17T09:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "엘티피버",
+   "플라워노즈",
+   "스나이델 뷰티"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "니치 향수",
+   "향수 레이어링",
+   "오프라인 뷰티 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "edc1ce593042b552",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

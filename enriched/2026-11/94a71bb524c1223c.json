@@ -1,0 +1,63 @@
+{
+ "doc_id": "94a71bb524c1223c",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/rhode-unveils-first-matte-blush-in-founder-biebers-30th-birthday-capsule",
+ "title": "Rhode unveils first matte blush in founder Hailey Bieber’s 30th birthday collection",
+ "summary": "The e.l.f. Beauty-owned brand is launching a limited-edition navy capsule this month to mark founder Bieber’s 30th birthday, featuring Rhode’s first-ever matte blush Pocket Plush and first piece of wearable merchandise – an £148 Reversible Windbreaker",
+ "published_at": "2026-11-17T20:26:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Rhode"
+  ],
+  "companies": [
+   "e.l.f. Beauty"
+  ],
+  "keywords": [
+   "한정판 컬렉션",
+   "매트 블러셔",
+   "셀럽 뷰티 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Pocket Plush",
+    "brand": "Rhode",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Rhode unveils first matte blush in founder Hailey Bieber’s 30th birthday collection",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Reversible Windbreaker",
+    "brand": "Rhode",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Rhode unveils first matte blush in founder Hailey Bieber’s 30th birthday collection",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Rhode가 창업자 생일을 기념한 한정판 컬렉션에서 브랜드 첫 매트 블러셔를 선보였다.",
+  "key_fact_quote": "Rhode unveils first matte blush in founder Hailey Bieber’s 30th birthday collection",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

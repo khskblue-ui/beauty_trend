@@ -1,0 +1,51 @@
+{
+ "doc_id": "8d7f93ed46eb8beb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=46381",
+ "title": "[오늘의 뷰티] 무신사 뷰티·푸드올로지·몽클로스·원씽·샤르드·대봉...",
+ "summary": "무신사 뷰티가 단독으로 선보인 프랑스 니치 향수 브랜드 ▲엘티피버(LT Piver)를 비롯해 메이크업 브랜드 ▲플라워노즈 ▲스나이델 뷰티가 순위권에 올랐으며, 바디케어 브랜드 ▲도브 ▲바세린 역시 높은 판매량을...",
+ "published_at": "2026-11-17T16:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "엘티피버",
+   "플라워노즈",
+   "스나이델 뷰티",
+   "도브",
+   "바세린"
+  ],
+  "companies": [
+   "무신사 뷰티"
+  ],
+  "keywords": [
+   "니치 향수",
+   "바디케어",
+   "온라인 뷰티 판매 순위"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티가 단독으로 선보인 프랑스 니치 향수 브랜드가 판매 순위권에 올랐다.",
+  "key_fact_quote": "무신사 뷰티가 단독으로 선보인 프랑스 니치 향수 브랜드 ▲엘티피버(LT Piver)를 비롯해 메이크업 브랜드 ▲플라워노즈 ▲스나이델 뷰티가 순위권에 올랐으며, 바디케어 브랜드 ▲도브 ▲바세린 역시 높은 판매량을",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

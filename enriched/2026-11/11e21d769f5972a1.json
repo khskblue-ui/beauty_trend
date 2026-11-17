@@ -1,0 +1,47 @@
+{
+ "doc_id": "11e21d769f5972a1",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100501",
+ "title": "P&K, 3분기 누적매출 196억 ‘역대 최대’",
+ "summary": "국내 1위 피부 인체적용시험 전문기업 피엔케이피부임상연구센타(각자대표 박진오·이해광, 이하 피엔케이)는 16일 공시한 분기보고서를 통해 2026년 3분기 누적 연결 기준 매출 196억원, 영업이익 37억원, 당기순이익 35억원을 기록했다고 밝혔다.매출과 영업이익은 전년 동기 170억원과 32억원 대비 각각 15% 증가했다. 분기 매출은 전 분기 대비 4개 분기 연속 증가했으며 3분기 누적 매출은 역대 최대를 기록했다.화장품 인체적용시험 수요 확대가 실적 성장을 뒷받침했다. 화장품 인체적용시험의 3분기 누적 매출은 159억원으로 전년",
+ "published_at": "2026-11-17T09:05:09+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "피엔케이피부임상연구센타",
+   "케이오니리카"
+  ],
+  "keywords": [
+   "인체적용시험",
+   "헤어케어",
+   "효능 입증",
+   "안전성 평가"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "피엔케이의 올해 누적 매출이 역대 최대를 기록했다.",
+  "key_fact_quote": "분기 매출은 전 분기 대비 4개 분기 연속 증가했으며 3분기 누적 매출은 역대 최대를 기록했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:46+00:00",
+ "had_body": true
+}

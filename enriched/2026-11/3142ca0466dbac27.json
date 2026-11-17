@@ -1,0 +1,85 @@
+{
+ "doc_id": "3142ca0466dbac27",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58747",
+ "title": "2027년 화장품 수출 전년 대비 27% 증가 전망…국내 ODM·용기업체 글로벌 밸류체인 견인",
+ "summary": "[코스인코리아닷컴김세화 기자]2027년 국내 화장품 산업이 수출 성장과 유통 채널 다변화를 바탕으로 새로운 성장 국면에 진입할 전망이다. 원화 강세 속에서도 글로벌 시장에서 한국 화장품의 점유율이 확대되고 유럽·중남미 등 신규 시장의 공략이 본격화함에 따라 수출 증가와 생산 물량 확대가 기대…",
+ "published_at": "2026-11-17T10:16:49+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "FR",
+   "GB",
+   "NL",
+   "PL",
+   "HK"
+  ],
+  "brands": [
+   "메디큐브",
+   "닥터멜락신",
+   "닥터지",
+   "3CE"
+  ],
+  "companies": [
+   "교보증권",
+   "에이피알",
+   "달바글로벌",
+   "구다이글로벌",
+   "크레이버",
+   "티르티르",
+   "에스티로더",
+   "LG생활건강",
+   "시세이도",
+   "로레알",
+   "아모레퍼시픽",
+   "코스맥스",
+   "한국콜마",
+   "펌텍코리아",
+   "CJ올리브영",
+   "세포라",
+   "타깃",
+   "아마존",
+   "틱톡샵"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "화장품 ODM",
+   "화장품 용기",
+   "유통 채널 다변화",
+   "소셜커머스"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "글래스 스킨 리퀴드 크림",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "교보증권은 내년 화장품 수출이 늘고 ODM과 용기 업체가 성장을 이끌 것으로 내다봤다.",
+  "key_fact_quote": "특히 2027년 화장품 수출이 전년 대비 27% 증가할 것으로 예상하면서, ODM과 용기 업체를 중심으로 투자 매력이 높아질 것으로 분석했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": true
+}

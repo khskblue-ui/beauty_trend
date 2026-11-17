@@ -1,0 +1,45 @@
+{
+ "doc_id": "1c3033acbec2eeab",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gosiweek.com/article/1065601975475524",
+ "title": "시나몬랩, 씹어 먹는 제로슈가 이너 뷰티 건기식 ‘세라모사이드’ 3종 ...",
+ "summary": "▲사진 제공: 시나몬랩 글로벌 E2E 웰니스 기업 시나몬랩이 건강기능식품의 섭취 편의성과 디자인을 강조한 신제품 ‘세라모사이드(CERAMOSIDES)’를 출시 하고 이너 뷰티 제품군의 시장 확대에 나섰다. 시나몬랩은 이번...",
+ "published_at": "2026-11-17T10:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "시나몬랩"
+  ],
+  "keywords": [
+   "이너 뷰티",
+   "건강기능식품",
+   "씹어 먹는 제형"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "94a4becc7c9c0db5",
+ "enriched_at": "2026-11-17T21:33:47+00:00",
+ "had_body": false
+}

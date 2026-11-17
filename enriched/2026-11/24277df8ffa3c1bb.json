@@ -1,0 +1,83 @@
+{
+ "doc_id": "24277df8ffa3c1bb",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/notes-shanghai-autumn-winter-2026,28553",
+ "title": "Notes Shanghai Autumn/Winter 2026 draws over 21,000 visitors",
+ "summary": "The sixth edition of Notes Shanghai, held from October 14 to 17, 2026, at the Shanghai West Bund International Convention and Exhibition Center alongside Beauty Shanghai, brought together 224 fragrance brands and 10 fragrance houses. Over 65 brands participated in the fair for the first time, including Bortnikoff (Thailand), Escentric Molecules (UK), Gritti (Italy), J.F. Schwarzlose Berlin (Germany), Justiscents (China), and Pino Silvestre (Italy). Under the theme “Another Way,” the event... - Industry buzz / Asia / Pacific",
+ "published_at": "2026-11-17T06:51:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "CN",
+   "TH",
+   "GB",
+   "IT",
+   "DE"
+  ],
+  "brands": [
+   "Bortnikoff",
+   "Escentric Molecules",
+   "Gritti",
+   "J.F. Schwarzlose Berlin",
+   "Justiscents",
+   "Pino Silvestre"
+  ],
+  "companies": [
+   "dsm-firmenich"
+  ],
+  "keywords": [
+   "니치 향수",
+   "향수 박람회",
+   "향료 원료",
+   "조향사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "노츠 상하이가 향수 브랜드와 향료 회사, 원료 공급사를 한자리에 모았다.",
+  "key_fact_quote": "Under the theme “Another Way,” the event connected fragrance brands, perfumers, ingredient suppliers, buyers and consumers through exhibitions, forums and direct exchanges with creators.",
+  "events": [
+   {
+    "name": "Notes Shanghai",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-17",
+    "place": "Shanghai West Bund International Convention and Exhibition Center",
+    "quote": "The sixth edition of Notes Shanghai , held from October 14 to 17, 2026 , at the Shanghai West Bund International Convention and Exhibition Center alongside Beauty Shanghai"
+   },
+   {
+    "name": "Beauty Shanghai",
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-17",
+    "place": "Shanghai West Bund International Convention and Exhibition Center",
+    "quote": "The sixth edition of Notes Shanghai , held from October 14 to 17, 2026 , at the Shanghai West Bund International Convention and Exhibition Center alongside Beauty Shanghai"
+   },
+   {
+    "name": "Notes Shanghai Spring 2027",
+    "start_date": "2027-04-01",
+    "end_date": "2027-04-04",
+    "place": null,
+    "quote": "The next edition, Notes Shanghai Spring 2027, is scheduled for April 1–4, 2027 ."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "rose",
+    "quote": "Another highlight, Rewriting Rose, brought together more than 70 exhibits across ten chapters, tracing over two centuries of rose in perfumery through fragrances, natural extracts and aroma molecules."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-17T21:33:46+00:00",
+ "had_body": true
+}
