@@ -1,0 +1,45 @@
+{
+ "doc_id": "68fe53bbb91f9b11",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=67970",
+ "title": "토리든, 3분기 첫 매출 1,000억 돌파…글로벌 K- 뷰티 '성장 엔진' 입증",
+ "summary": "글로벌 유통망 확장을 통해 K- 뷰티 의 차세대 대표 브랜드로 도약하고 있음을 보여준다. 업계에서는 토리든이 연말 성수기와 신제품 출시 효과를 더해 올해 연간 매출에서도 새로운 기록을 세울 수 있을지 주목하고 있다.",
+ "published_at": "2026-11-18T09:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "토리든"
+  ],
+  "companies": [
+   "토리든"
+  ],
+  "keywords": [
+   "K뷰티 실적 성장",
+   "글로벌 유통망 확장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "토리든이 분기 매출 기록을 새로 쓰며 글로벌 유통망을 넓히고 있다.",
+  "key_fact_quote": "토리든, 3분기 첫 매출 1,000억 돌파…글로벌 K- 뷰티 '성장 엔진' 입증",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

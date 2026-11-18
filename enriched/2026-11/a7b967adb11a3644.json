@@ -1,0 +1,56 @@
+{
+ "doc_id": "a7b967adb11a3644",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.medipana.com/news/articleView.html?idxno=422079",
+ "title": "대원제약, 얼굴·다리 붓기 관리 화장품 '뉴베라인' 2종 출시",
+ "summary": "대원제약은 얼굴과 바디의 피부 붓기 관리에 특화한 화장품 브랜드 '뉴베라인(Newbeline)' 2종을 출시 했다고 18일 밝혔다. 뉴베라인은 '우리 몸의 라인을 새롭게 하다'라는 의미를 담은 브랜드로, 눈가와 얼굴에 사용하는...",
+ "published_at": "2026-11-18T08:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "뉴베라인"
+  ],
+  "companies": [
+   "대원제약"
+  ],
+  "keywords": [
+   "붓기 관리 화장품",
+   "제약사 화장품",
+   "바디 케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "뉴베라인",
+    "brand": "뉴베라인",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "대원제약은 얼굴과 바디의 피부 붓기 관리에 특화한 화장품 브랜드 '뉴베라인(Newbeline)' 2종을 출시 했다고 18일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "대원제약이 얼굴과 바디의 피부 붓기 관리에 특화한 화장품 브랜드 뉴베라인 제품을 출시했다.",
+  "key_fact_quote": "대원제약은 얼굴과 바디의 피부 붓기 관리에 특화한 화장품 브랜드 '뉴베라인(Newbeline)' 2종을 출시 했다고 18일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "d2134530a59055fb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261117_0003872132",
+ "title": "오락가락 기온에 건조해진 날씨…뷰티업계, '피부 장벽' 고기능 경쟁",
+ "summary": "이처럼 계절적 건조함과 기온 변화가 겹치는 시기를 앞두고 화장품 업계는 피부 진정과 보습, 장벽 관리 기능을 앞세운 신제품 을 내놓고 있다. 특히 기존 보습 제품에 집중하던 브랜드들도 민감 피부와 피부 컨디션...",
+ "published_at": "2026-11-18T08:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "피부 장벽",
+   "진정 케어",
+   "고기능 보습",
+   "민감 피부"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "건조한 계절을 앞두고 화장품 업계가 피부 진정과 보습, 장벽 관리 기능을 앞세운 신제품을 내놓고 있다.",
+  "key_fact_quote": "이처럼 계절적 건조함과 기온 변화가 겹치는 시기를 앞두고 화장품 업계는 피부 진정과 보습, 장벽 관리 기능을 앞세운 신제품 을 내놓고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

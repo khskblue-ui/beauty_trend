@@ -1,0 +1,48 @@
+{
+ "doc_id": "f0a1e92bbcaf2754",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312890",
+ "title": "Cosmax Breaks 100 Million Monthly Production Barrier as K-Beauty Goes Global",
+ "summary": "South Korean cosmetics ODM (Original Development Manufacturing) giant Cosmax has become the first company in the country’s beauty manufacturing sector to surpass 100 million units in monthly production, underscoring the unprecedented global demand for K-beauty products.The company announced that its",
+ "published_at": "2026-11-18T13:51:07+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN",
+   "TH",
+   "ID"
+  ],
+  "brands": [],
+  "companies": [
+   "Cosmax"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "생산능력 확대",
+   "인디 브랜드",
+   "K뷰티 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 국내 화장품 ODM 업계에서 처음으로 월간 생산량 기록을 새로 썼고 국내외 생산능력을 늘리고 있다.",
+  "key_fact_quote": "Cosmax Breaks 100 Million Monthly Production Barrier as K-Beauty Goes Global",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

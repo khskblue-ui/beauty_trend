@@ -1,0 +1,46 @@
+{
+ "doc_id": "8a01fd0d3f8aed3f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=267043",
+ "title": "코스맥스, 4Q 매출 60% 성장 전망··· K뷰티 호황 지속",
+ "summary": "한국은 지난 4월 처음으로 화장품 수출 세계 1위를 기록했으며 연말 쇼핑 시즌을 거쳐 다시 1위에 오를 것으로 기대됐다. 중국 화장품인 C 뷰티 의 글로벌 확산에 대한 우려는 제한적이라고 판단했다. K뷰티 가 해외...",
+ "published_at": "2026-11-18T09:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "K뷰티 수출",
+   "C뷰티",
+   "실적 전망"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스가 K뷰티 호황에 힘입어 분기 매출이 크게 늘 것이라는 전망이 나왔다.",
+  "key_fact_quote": "코스맥스, 4Q 매출 60% 성장 전망··· K뷰티 호황 지속",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

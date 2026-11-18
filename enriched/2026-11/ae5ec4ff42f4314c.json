@@ -1,0 +1,48 @@
+{
+ "doc_id": "ae5ec4ff42f4314c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=245199",
+ "title": "뉴질랜드 기초, 색조, 기타 화장품류 시장동향",
+ "summary": "한국 제품의 판매 접점도 K - 뷰티 전문점 외에 약국 체인 등으로 형성돼 있다. Beauty of Joseon(조선미녀)... HIKOCO는 한국에서 제품을 직접 수입해 뉴질랜드에 소개하고 있어, 수출 기업은 수입·유통 기능을 갖춘...",
+ "published_at": "2026-11-18T15:57:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "NZ",
+   "KR"
+  ],
+  "brands": [
+   "Beauty of Joseon"
+  ],
+  "companies": [
+   "HIKOCO"
+  ],
+  "keywords": [
+   "뉴질랜드 화장품 시장",
+   "K뷰티 전문점",
+   "약국 체인 유통",
+   "수출 유통망"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뉴질랜드에서 한국 화장품은 K뷰티 전문점뿐 아니라 약국 체인 등으로도 팔리고 있다.",
+  "key_fact_quote": "한국 제품의 판매 접점도 K - 뷰티 전문점 외에 약국 체인 등으로 형성돼 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

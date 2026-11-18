@@ -1,0 +1,56 @@
+{
+ "doc_id": "68d0738c2aa18a10",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445292",
+ "title": "이마트도 저가 화장품 시장 공략…노브랜드 더마 라인 출시",
+ "summary": "이마트 화장품 판매 진열대[출처: 이마트] 이마트[139480]가 노브랜드와 이마트 매장을 통해 저가 화장품 상품군을 넓히고 있다. 이마트는 노브랜드가 지난 10월 말 출시 한 '노브랜드 더마 스킨케어' 6종이 테스트...",
+ "published_at": "2026-11-18T09:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드"
+  ],
+  "companies": [
+   "이마트"
+  ],
+  "keywords": [
+   "저가 화장품",
+   "더마 화장품",
+   "대형마트 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "노브랜드 더마 스킨케어",
+    "brand": "노브랜드",
+    "launch_date": "2026-10",
+    "launch_status": "launched",
+    "launch_quote": "이마트는 노브랜드가 지난 10월 말 출시 한 '노브랜드 더마 스킨케어' 6종이 테스트...",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이마트가 노브랜드와 이마트 매장을 통해 저가 화장품 상품군을 넓히고 있다.",
+  "key_fact_quote": "이마트[139480]가 노브랜드와 이마트 매장을 통해 저가 화장품 상품군을 넓히고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

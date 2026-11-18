@@ -1,0 +1,58 @@
+{
+ "doc_id": "45141db2e60a4c86",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.thepowernews.co.kr/view.php?ud=202611181011138555de3f0aa1be_7",
+ "title": "이마트·노브랜드, 뷰티 상품군 확대…기능성·초저가 동시 공략",
+ "summary": "이마트는 노브랜드가 지난 10월 말 ‘더마 스킨케어’ 6종을 출시 하고 기능성 뷰티 상품을 확대하고... 더마 라인은 원바이오젠과 협업해 클렌저와 토너, 미스트 , 세럼, 크림 2종 등으로 구성했다. 회사에 따르면 전...",
+ "published_at": "2026-11-18T10:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "바디미스트 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드"
+  ],
+  "companies": [
+   "이마트",
+   "원바이오젠"
+  ],
+  "keywords": [
+   "초저가 뷰티",
+   "더마 스킨케어",
+   "기능성 화장품",
+   "대형마트 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "더마 스킨케어",
+    "brand": "노브랜드",
+    "launch_date": "2026-10",
+    "launch_status": "launched",
+    "launch_quote": "이마트는 노브랜드가 지난 10월 말 ‘더마 스킨케어’ 6종을 출시 하고 기능성 뷰티 상품을 확대하고",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "노브랜드가 더마 스킨케어를 출시하고 기능성 뷰티 상품을 확대하고 있다.",
+  "key_fact_quote": "이마트는 노브랜드가 지난 10월 말 ‘더마 스킨케어’ 6종을 출시 하고 기능성 뷰티 상품을 확대하고",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

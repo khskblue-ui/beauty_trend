@@ -1,0 +1,38 @@
+{
+ "doc_id": "c57b623bf8f2588e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611172104467090524",
+ "title": "[부산ㆍ경남 대학 브리핑 모음(11월18일)] 국립창원대, 한국·중국·싱가...",
+ "summary": "특히 호스트 국가에 대한 만족과 자부심, 향수 병 등을 중심으로 해외 거주와 근무 과정에서 겪는 이중 적응... 이번 대회는 ‘돈 되는 AI, 서비스 기획에서 출시 까지’를 주제로, 참가자들이 생성형 인공지능(AI)을 활용해...",
+ "published_at": "2026-11-18T09:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

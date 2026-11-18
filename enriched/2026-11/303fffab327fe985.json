@@ -1,0 +1,97 @@
+{
+ "doc_id": "303fffab327fe985",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100520",
+ "title": "모로칸오일, 2026 홀리데이 키트 ‘에어리 스위트’ 출시",
+ "summary": "프리미엄 헤어 & 바디 케어 브랜드 모로칸오일(Moroccanoil)이 브랜드 베스트셀러 제품으로만 구성한 2026 홀리데이 키트 ‘에어리 스위트’를 출시했다고 18일 밝혔다.‘에어리 스위트’는 모로칸오일의 대표 제품인 모로칸오일 트리트먼트와 에어리 모이스처 샴푸, 에어리 모이스처 컨디셔닝 트리트먼트를 고급스러운 가죽 패키지에 담아 선물의 만족도를 높였다.모로칸오일 트리트먼트는 스타일링과 컨디셔닝 효과를 동시에 제공하는 올-인-원 트리트먼트제품이다. 필수 지방산과 항산화제, 비타민E가 풍부하게 함유된 아르간 오일이 모발에 충분한 영",
+ "published_at": "2026-11-18T09:48:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "모로칸오일"
+  ],
+  "companies": [
+   "모로칸오일"
+  ],
+  "keywords": [
+   "홀리데이 키트",
+   "헤어 트리트먼트",
+   "두피 수분 케어",
+   "선물 세트"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "에어리 스위트",
+    "brand": "모로칸오일",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "프리미엄 헤어 & 바디 케어 브랜드 모로칸오일(Moroccanoil)이 브랜드 베스트셀러 제품으로만 구성한 2026 홀리데이 키트 ‘에어리 스위트’를 출시했다고 18일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "모로칸오일 트리트먼트",
+    "brand": "모로칸오일",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "에어리 모이스처 샴푸",
+    "brand": "모로칸오일",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "에어리 모이스처 컨디셔닝 트리트먼트",
+    "brand": "모로칸오일",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "모로칸오일이 베스트셀러 제품으로 구성한 홀리데이 키트 에어리 스위트를 출시했다.",
+  "key_fact_quote": "프리미엄 헤어 & 바디 케어 브랜드 모로칸오일(Moroccanoil)이 브랜드 베스트셀러 제품으로만 구성한 2026 홀리데이 키트 ‘에어리 스위트’를 출시했다고 18일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "아르간 오일",
+    "quote": "필수 지방산과 항산화제, 비타민E가 풍부하게 함유된 아르간 오일이 모발에 충분한 영양을 공급하고, 정전기 및 열손상을 방지해 스타일링의 완성도를 높여준다."
+   },
+   {
+    "name": "비타민E",
+    "quote": "필수 지방산과 항산화제, 비타민E가 풍부하게 함유된 아르간 오일이 모발에 충분한 영양을 공급하고, 정전기 및 열손상을 방지해 스타일링의 완성도를 높여준다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "에어리 모이스처 샴푸와 컨디셔닝 트리트먼트는 모로칸오일만의 3D 히알루론산 테크놀로지를 통해 아시아인에 최적화된 두피와 모발 수분 케어를 제공하고, 깔끔한 두피 세정과 함께 풍성한 헤어 볼륨을 유지하는 데 도움을 준다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

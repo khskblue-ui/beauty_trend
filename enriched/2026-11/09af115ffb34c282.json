@@ -1,0 +1,48 @@
+{
+ "doc_id": "09af115ffb34c282",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.joongangenews.com/news/articleView.html?idxno=564861",
+ "title": "1만원도 안 되는 더마 화장품 …이마트·노브랜드, 초저가 뷰티 승부수",
+ "summary": "베이직 스킨케어를 시작으로 퍼퓸 케어와 헤어 스칼프 제품을 추가했고, 이번 더마 라인으로 기능성 기초 화장품 까지 상품 범위를 넓혔다. 신상품 출시 도 계획하고 있다. 이달에는 'PDRN 스킨케어' 5종을 추가하고...",
+ "published_at": "2026-11-18T15:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드"
+  ],
+  "companies": [
+   "이마트"
+  ],
+  "keywords": [
+   "초저가 뷰티",
+   "더마 스킨케어",
+   "대형마트 뷰티",
+   "기능성 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "1e685b8fd91cdf4c",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

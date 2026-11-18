@@ -1,0 +1,67 @@
+{
+ "doc_id": "88f2a93ccdbd381b",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58761",
+ "title": "‘코스모프로프 아시아 2026’ 글로벌 뷰티산업 최신 기술·트렌드 집중 조명",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 아시아·태평양 지역의 대표적인 국제 뷰티 전시회 ‘코스모프로프 아시아 2026(Cosmoprof Asia 2026)’이 세계 43개 국가·지역의 2,806개 기업이 참가한 가운데 글로벌 화장품 산업의 최신 기술과 트렌드를 조명하며 지난 13일 막을 내렸다. 올해 29회를 맞…",
+ "published_at": "2026-11-19T04:11:15+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "HK",
+   "IT",
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "볼로냐피에레",
+   "인포마마켓",
+   "쉐레이",
+   "BEAUTYSTREAMS"
+  ],
+  "keywords": [
+   "국제 뷰티 전시회",
+   "니치 향수",
+   "향수 원료와 조향 기술",
+   "화장품 원료",
+   "K뷰티 해외 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "홍콩에서 열린 코스모프로프 아시아에서 향수 산업을 조명하는 전문 프로그램이 눈길을 끌었고 한국 기업 참가 규모는 역대 최대 수준이었다.",
+  "key_fact_quote": "올해 전시회에서는 향수 산업의 성장과 제품 차별화를 조명하는 전문 프로그램이 눈길을 끌었다.",
+  "events": [
+   {
+    "name": "코스모프로프 아시아 2026",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-13",
+    "place": "홍콩 아시아월드엑스포(AsiaWorld-Expo)와 홍콩컨벤션전시센터(HKCEC)",
+    "quote": "올해 29회를 맞은 코스모프로프 아시아는 볼로냐피에레(BolognaFiere)와 인포마마켓(Informa Markets)이 공동 주최해 지난 10일부터 13일까지 홍콩 아시아월드엑스포(AsiaWorld-Expo)와 홍콩컨벤션전시센터(HKCEC)에서 개최됐다."
+   },
+   {
+    "name": "코스모팩 아시아",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-12",
+    "place": "아시아월드엑스포",
+    "quote": "10일부터 12일까지 아시아월드엑스포에서 열린 코스모팩 아시아에서는 원료와 패키징, 제조설비 및 OEM·ODM 분야를 다뤘다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

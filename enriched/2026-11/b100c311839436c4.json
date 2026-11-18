@@ -1,0 +1,58 @@
+{
+ "doc_id": "b100c311839436c4",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312896",
+ "title": "토리든, 3분기 매출 1014억원…해외 매출 비중 65.5%",
+ "summary": "토리든은 2026년 3분기 매출 1014억원을 기록했다고 밝혔다. 이는 지난해 같은 기간보다 47.1% 증가한 수치다. 1~3분기 누적 매출은 2825억원으로 전년 동기 대비 47.5% 늘었다.3분기 해외 매출은 664억원으로 전년 동기 대비 88.1% 증가했으며, 전체 매출의 65.5%를 차지했다. 국내 매출은 350억원으로 지난해 같은 기간 335억원보다 소폭 증가했다.일본에서는 다이브인 라인을 중심으로 3분기 매출 146억원을 기록했다. 큐텐(Qoo10) 매출은 전년 동기 대비 37% 증가했으며, 9월 진행된 메가와리 프로모션",
+ "published_at": "2026-11-18T15:24:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP",
+   "VN",
+   "MY",
+   "CN",
+   "US",
+   "NL",
+   "DE",
+   "AU"
+  ],
+  "brands": [
+   "토리든"
+  ],
+  "companies": [
+   "토리든",
+   "큐텐(Qoo10)",
+   "아마존",
+   "에토스(Etos)"
+  ],
+  "keywords": [
+   "해외 매출 확대",
+   "K뷰티 수출",
+   "이커머스",
+   "현지 리테일 입점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "토리든의 분기 매출이 지난해 같은 기간보다 늘었고 해외 매출이 전체의 절반을 넘었다.",
+  "key_fact_quote": "3분기 해외 매출은 664억원으로 전년 동기 대비 88.1% 증가했으며, 전체 매출의 65.5%를 차지했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

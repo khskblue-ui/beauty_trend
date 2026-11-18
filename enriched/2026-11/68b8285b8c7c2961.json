@@ -1,0 +1,42 @@
+{
+ "doc_id": "68b8285b8c7c2961",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756274",
+ "title": "\" K -푸드· 뷰티 열풍 통했다\"…경북도, 수출 상담회서 476만 달러 성과",
+ "summary": "경상북도가 해외구매자 초청 수출 상담회에서 총 476만 달러 규모의 수출 상담 및 계약추진 실적을 거두며... 참가 기업들은 식품과 화장품, 생활용품, 기계부품 등 다양한 제품을 선보였으며, 해외구매자들은 특히 K ...",
+ "published_at": "2026-11-18T21:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "수출 상담회",
+   "K뷰티 수출",
+   "해외구매자 초청"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "경상북도가 해외구매자 초청 수출 상담회에서 수출 상담과 계약추진 실적을 거뒀다.",
+  "key_fact_quote": "경상북도가 해외구매자 초청 수출 상담회에서 총 476만 달러 규모의 수출 상담 및 계약추진 실적을 거두며",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

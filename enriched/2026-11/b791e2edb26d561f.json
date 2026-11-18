@@ -1,0 +1,92 @@
+{
+ "doc_id": "b791e2edb26d561f",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53985",
+ "title": "LG생활건강 46cm, 누적 판매 130만 개 돌파",
+ "summary": "LG생활건강의 체취 전문 보디케어 브랜드 ‘46cm’가 출시 1년 8개월 만에 누적 판매량 130만 개를 돌파했다. 체취 관리에 특화한 제품력과 SNS 입소문, 소비자 체험 마케팅을 앞세워 시장에서 빠르게 입지를 넓히고 있다. 지난해 3월 출시한 ‘46cm 체취솔루션 바디워시’ 라인은 올해 10월까지 누적…",
+ "published_at": "2026-11-18T19:53:14+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "46cm",
+   "발을씻자"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "체취 케어",
+   "데오드란트 바디워시",
+   "체험 마케팅",
+   "약산성",
+   "SNS 입소문"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "46cm 체취솔루션 바디워시",
+    "brand": "46cm",
+    "launch_date": "2025-03",
+    "launch_status": "unknown",
+    "launch_quote": "지난해 3월 출시한 ‘46cm 체취솔루션 바디워시’ 라인은 올해 10월까지 누적 판매량 130만 개를 넘어섰다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "데오드란트 바디워시",
+    "brand": "46cm",
+    "launch_date": "2026-08",
+    "launch_status": "unknown",
+    "launch_quote": "지난 8월 선보인 2세대 제품에는 특허 기반 피부 pH 약산성 유지 기술을 적용했다.",
+    "notes": [
+     "그린티"
+    ],
+    "notes_quote": "최근에는 ‘리프레싱 그린티 향’을 추가하며 제품 선택의 폭을 넓혔다."
+   },
+   {
+    "name": "발을씻자",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "LG생활건강의 체취 전문 보디케어 브랜드가 출시 이후 누적 판매량을 빠르게 늘렸다.",
+  "key_fact_quote": "LG생활건강의 체취 전문 보디케어 브랜드 ‘46cm’가 출시 1년 8개월 만에 누적 판매량 130만 개를 돌파했다.",
+  "events": [
+   {
+    "name": "2026 가민런",
+    "start_date": "2026-11-15",
+    "end_date": null,
+    "place": "경기도 고양",
+    "quote": "46cm는 지난 15일 경기도 고양에서 열린 ‘2026 가민런’에 2년 연속 공식 협찬사로 참가했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "프리·파라바이오틱스",
+    "quote": "체취 유발균 2종에 대한 99% 항균 효과와 함께 7가지 프리·파라바이오틱스 함유 캡슐을 적용해 피부 환경 관리 기능도 강화했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

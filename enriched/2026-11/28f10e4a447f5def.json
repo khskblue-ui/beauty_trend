@@ -1,0 +1,47 @@
+{
+ "doc_id": "28f10e4a447f5def",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312783",
+ "title": "China’s Tmall Toner Market Soars as Demand Shifts Toward Barrier Repair and Skin Health",
+ "summary": "China’s toner market on Tmall posted one of the strongest growth rates across the beauty sector in October 2026, fueled by rising demand for products focused on skin-barrier support, soothing care, and skin repair.According to Beauty Economy’s analysis of Tmall sales volumes, combined sales among th",
+ "published_at": "2026-11-18T09:45:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Tmall"
+  ],
+  "keywords": [
+   "토너",
+   "피부 장벽 케어",
+   "진정 케어",
+   "중국 로컬 브랜드",
+   "브라이트닝"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 티몰 토너 시장이 피부 장벽 관리와 진정, 회복 수요에 힘입어 크게 성장했고 상위 브랜드는 모두 중국 브랜드였다.",
+  "key_fact_quote": "Chinese brands accounted for all of the Top 10 toner brands during the month, underscoring the strength of local skincare companies in one of the market’s fastest-growing categories.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

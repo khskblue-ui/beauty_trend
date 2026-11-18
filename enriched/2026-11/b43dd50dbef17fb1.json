@@ -1,0 +1,50 @@
+{
+ "doc_id": "b43dd50dbef17fb1",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312907",
+ "title": "주가로 읽는 K-뷰티: 시장은 브랜드보다 '용기·원료'를 선택했다",
+ "summary": "색조 브랜드 기업들은 고성장 프리미엄이 소멸되며 주가가 큰 폭으로 하락한 반면, 원료업체들은 외국인 지분율이 확대됐고, 용기기업은 산업 성장의 대표 수혜주로 부상했다.뷰티경제가 네이버증권의 자료를 바탕으로 클리오, 아이패밀리에스씨, 대봉엘에스, 현대바이오랜드, 펌텍코리아 5개사의 최근 1년간(2025년 11월 17일~2026년 11월 17일) 주가와 외국인 보유율 추이를 분석한 결과다.2024년 6월 고점을 기록했던 색조 및 원료소재 4개 종목은 최근 1년간 주가가20.6%에서 최대 45.4%까지 하락한 반면, 용기 전문기업 펌텍코",
+ "published_at": "2026-11-18T20:01:09+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "클리오",
+   "아이패밀리에스씨",
+   "대봉엘에스",
+   "현대바이오랜드",
+   "펌텍코리아"
+  ],
+  "keywords": [
+   "화장품 용기",
+   "화장품 원료",
+   "색조 화장품",
+   "외국인 지분율",
+   "공급망 기업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "최근 한 해 동안 색조 브랜드 기업 주가는 크게 내렸지만 원료업체는 외국인 지분율이 늘었고 용기기업은 수혜주로 떠올랐다.",
+  "key_fact_quote": "색조 브랜드 기업들은 고성장 프리미엄이 소멸되며 주가가 큰 폭으로 하락한 반면, 원료업체들은 외국인 지분율이 확대됐고, 용기기업은 산업 성장의 대표 수혜주로 부상했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

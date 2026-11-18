@@ -1,0 +1,48 @@
+{
+ "doc_id": "3df74d696fcb20b1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.inews24.com/view/2027562",
+ "title": "신세계인터내셔날, 美 향수 '에드워드 베스' 국내 독점 출시",
+ "summary": "2016년에는 조향사 카를로스 베나임과 협업해 향수 제품을 출시했다. 국내 판매 제품은 오 드 퍼퓸 7종이다. 우디와 플로럴, 레더, 시트러스 등 향조별로 구성됐다. 대표 제품인 '라스트 나잇'은 불가리안 로즈와 레더...",
+ "published_at": "2026-11-18T10:51:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "에드워드 베스"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "니치 향수",
+   "독점 유통",
+   "조향 역량"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "52ae9c1027d43b72",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

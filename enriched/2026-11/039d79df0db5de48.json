@@ -1,0 +1,44 @@
+{
+ "doc_id": "039d79df0db5de48",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kukinews.com/article/view/kuk202611180183",
+ "title": "‘Go Global’, 숫자로 입증한 K - 뷰티 테크의 롱사이클 [ K -스타트업 성장...",
+ "summary": "쿠키뉴스=이승환 기자 | 세계 미용 의료기기 시장에서 다크호스로 떠오른 K - 뷰티 테크 ㈜클래시스.... 2015년 약 150억 원( 수출 82억 원, 비중 54.8%) 수준이었던 연결 매출액은 상장해인 2017년 349억 원( 수출 235억 원)...",
+ "published_at": "2026-11-19T06:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "클래시스"
+  ],
+  "keywords": [
+   "미용 의료기기",
+   "뷰티 테크",
+   "수출 성장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "클래시스가 세계 미용 의료기기 시장에서 다크호스로 떠올랐다.",
+  "key_fact_quote": "세계 미용 의료기기 시장에서 다크호스로 떠오른 K - 뷰티 테크 ㈜클래시스",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

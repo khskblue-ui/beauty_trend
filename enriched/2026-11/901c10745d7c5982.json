@@ -1,0 +1,44 @@
+{
+ "doc_id": "901c10745d7c5982",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/pat-mcgrath-hailey-bieber-rhode-beauty-awards-wwd-1239425127/",
+ "title": "Dame Pat McGrath, Hailey Bieber’s Rhode, Cymbiotika and More Honored at 2026 Beauty Inc Awards",
+ "summary": "The ceremony, held Tuesday night in New York, honored the people, products and teams in the beauty industry whose accomplishments and originality defined the year.",
+ "published_at": "2026-11-19T04:48:05+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Rhode",
+   "Cymbiotika"
+  ],
+  "companies": [],
+  "keywords": [
+   "뷰티 시상식",
+   "업계 수상"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뉴욕에서 열린 뷰티 인크 어워즈에서 팻 맥그라스, 로드, 심바이오티카 등이 수상했다.",
+  "key_fact_quote": "The ceremony, held Tuesday night in New York, honored the people, products and teams in the beauty industry whose accomplishments and originality defined the year.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

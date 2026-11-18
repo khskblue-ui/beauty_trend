@@ -1,0 +1,45 @@
+{
+ "doc_id": "693c4809df32fddf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.widedaily.com/news/articleView.html?idxno=304052",
+ "title": "코스맥스, 쿠션·마스크팩 이어 차세대 스킨케어 기술까지 '세계일류상...",
+ "summary": "화장품 ODM 시장이 고도화되면서 기업의 핵심 경쟁력은 단순한 대량 생산 설비를 넘어 독자적인 제형 설계 능력과 원천 기술 확보로 빠르게 무게중심이 이동하고 있다. 전 세계 뷰티 브랜드사들이 차별화된 신제품 을...",
+ "published_at": "2026-11-18T14:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "제형 기술",
+   "세계일류상품",
+   "원천 기술"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 쿠션과 마스크팩에 이어 차세대 스킨케어 기술로도 세계일류상품에 이름을 올렸다.",
+  "key_fact_quote": "코스맥스, 쿠션·마스크팩 이어 차세대 스킨케어 기술까지 '세계일류상...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

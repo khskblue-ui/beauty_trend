@@ -1,0 +1,46 @@
+{
+ "doc_id": "f3614f91452e0f25",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/krave-beauty-holiday-pop-up-waste-me-not-campaign-1239419047/",
+ "title": "EXCLUSIVE: Krave Beauty Opens Holiday Pop-Up Market Inspired by ‘Waste Me Not’ Campaign",
+ "summary": "Participating brands include Amika, Aora, Iota and Vestiaire Collective.",
+ "published_at": "2026-11-18T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [],
+  "brands": [
+   "Krave Beauty",
+   "Amika",
+   "Aora",
+   "Iota",
+   "Vestiaire Collective"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 팝업 마켓",
+   "폐기물 줄이기 캠페인",
+   "브랜드 협업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "크레이브 뷰티가 'Waste Me Not' 캠페인에서 착안한 홀리데이 팝업 마켓을 연다.",
+  "key_fact_quote": "EXCLUSIVE: Krave Beauty Opens Holiday Pop-Up Market Inspired by ‘Waste Me Not’ Campaign",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

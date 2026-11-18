@@ -1,0 +1,60 @@
+{
+ "doc_id": "13241597903ea6c4",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58755",
+ "title": "코스맥스, ‘2026 세계일류상품’ 3건 동시 선정 화장품 업계 최다 기록",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 글로벌 화장품 연구·개발·생산(ODM) 기업 코스맥스가 쿠션 파운데이션과 마스크팩, 압전 에멀젼 기술 등 3건을 ‘2026 세계일류상품’으로 신규 선정받으며 화장품 업계 최다인 누적 9건의 인증 실적을 확보했다고 18일 밝혔다. 코스맥스는 지난 17일 산업통상부가…",
+ "published_at": "2026-11-18T11:53:39+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "쿠션 파운데이션",
+   "마스크팩",
+   "압전 에멀젼",
+   "화장품 ODM",
+   "제형 기술"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 쿠션 파운데이션과 마스크팩, 압전 에멀젼 기술로 세계일류상품에 새로 선정돼 화장품 업계 최다 인증 실적을 확보했다.",
+  "key_fact_quote": "글로벌 화장품 연구·개발·생산(ODM) 기업 코스맥스가 쿠션 파운데이션과 마스크팩, 압전 에멀젼 기술 등 3건을 ‘2026 세계일류상품’으로 신규 선정받으며 화장품 업계 최다인 누적 9건의 인증 실적을 확보했다고 18일 밝혔다.",
+  "events": [
+   {
+    "name": "2026 세계일류상품 인증서 수여식",
+    "start_date": "2026-11-17",
+    "end_date": null,
+    "place": null,
+    "quote": "코스맥스는 지난 17일 산업통상부가 개최한 ‘2026 세계일류상품 인증서 수여식’에서 쿠션 파운데이션과 마스크팩을 ‘현재 세계일류상품’으로, 압전 에멀젼을 ‘차세대 세계일류상품’으로 각각 선정받았다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "차세대 세계일류상품으로 선정된 압전 에멀젼은 세라마이드 기반 압전 소재를 다중층 액정 에멀젼 제형에 적용한 기술로 피부에 제품을 두드려 바르는 과정에서 미세전기가 발생하도록 설계했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

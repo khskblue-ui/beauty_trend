@@ -1,0 +1,47 @@
+{
+ "doc_id": "8fb1288283339ee6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10940597?ref=naver",
+ "title": "“더마 화장품 이 9000원대”…이마트·노브랜드, 초저가 뷰티 공략",
+ "summary": "노브랜드 더마 스킨케어 라인은 의료기기 및 화장품 제조 전문기업 ㈜원바이오젠과 함께 임상을 거쳤다. 가격을 낮춘 기능성 라인으로 고객층을 넓히겠다는 전략이다. 신상품 출시도 앞두고 있다. 이달 중 ‘PDRN...",
+ "published_at": "2026-11-18T08:41:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드"
+  ],
+  "companies": [
+   "이마트"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "초저가 화장품",
+   "퍼퓸 케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "3c7b4d250a73bb40",
+ "enriched_at": "2026-11-18T21:28:58+00:00",
+ "had_body": false
+}

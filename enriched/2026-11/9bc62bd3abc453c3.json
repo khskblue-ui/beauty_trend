@@ -1,0 +1,65 @@
+{
+ "doc_id": "9bc62bd3abc453c3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1426358",
+ "title": "대원제약, 약국용 피부 붓기 케어 화장품 2종 선봬",
+ "summary": "사진=대원제약 제공 대원제약은 약국 전용 피부 붓기 관리 화장품 브랜드 뉴베라인 2종 제품을 출시 했다고 18일 밝혔다. 눈가와 얼굴에 바르는 '슬림 핏 아이 앤 페이스 크림'과 바디용 '슬림 핏 바디 크림'으로 구성됐다....",
+ "published_at": "2026-11-18T10:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "뉴베라인"
+  ],
+  "companies": [
+   "대원제약"
+  ],
+  "keywords": [
+   "약국 전용 화장품",
+   "붓기 케어",
+   "바디 크림"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "슬림 핏 아이 앤 페이스 크림",
+    "brand": "뉴베라인",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "대원제약은 약국 전용 피부 붓기 관리 화장품 브랜드 뉴베라인 2종 제품을 출시 했다고 18일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "슬림 핏 바디 크림",
+    "brand": "뉴베라인",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "대원제약은 약국 전용 피부 붓기 관리 화장품 브랜드 뉴베라인 2종 제품을 출시 했다고 18일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "대원제약이 약국 전용 피부 붓기 관리 화장품 브랜드 뉴베라인 제품을 출시했다.",
+  "key_fact_quote": "대원제약은 약국 전용 피부 붓기 관리 화장품 브랜드 뉴베라인 2종 제품을 출시 했다고 18일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

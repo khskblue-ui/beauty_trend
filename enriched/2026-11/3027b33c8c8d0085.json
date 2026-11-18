@@ -1,0 +1,48 @@
+{
+ "doc_id": "3027b33c8c8d0085",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Economy/article/all/20261118/135049801/2",
+ "title": "“마스크팩 붙이고 세럼-앰풀 바르고”… 한국식 스킨케어도 열풍",
+ "summary": "K뷰티 수출 지도도 바뀌고 있다. 2022년 전체 수출의 45.4%를 차지했던 중국 비중은 올해 1∼9월 14.3%로 낮아졌다. 반면 미국은 10.5%에서 21.3%로 높아졌고 같은 기간 영국과 네덜란드 수출액도 각각 181.9%, 282.3% 급증했다....",
+ "published_at": "2026-11-19T00:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN",
+   "US",
+   "GB",
+   "NL"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "수출 시장 다변화",
+   "한국식 스킨케어",
+   "마스크팩"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "e366aec3d3074f7e",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

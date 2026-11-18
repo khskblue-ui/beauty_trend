@@ -1,0 +1,44 @@
+{
+ "doc_id": "6e47cef72e8897e1",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100526",
+ "title": "SK케미칼, 서귀포시와 폐현수막 재활용 협약···현수막·섬유 제품 공급",
+ "summary": "SK케미칼이 제주 서귀포시와 손잡고 버려지는 폐현수막을 화학적으로 재활용해 다양한 제품으로 되살리고, 이를 다시 지역에서 활용하는 순환 모델 구축에 나선다.SK케미칼(대표이사 사장 안재현)은 지난 17일 서귀포시청 별넷마당에서 서귀포시와 '폐현수막 자원순환 활성화 업무협약'을 체결했다고 18일 밝혔다. 이날 협약식에는 김희찬 서귀포시장과 고정석 SK케미칼 리사이클사업본부장 등 양 기관 관계자들이 참석했다. 현장에는 실제 폐현수막을 해중합 기술로 재활용한 현수막이 사용됐다.이는 지난 9월 행정안전부, 대한상공회의소 주최",
+ "published_at": "2026-11-18T13:16:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "SK케미칼"
+  ],
+  "keywords": [
+   "폐현수막 재활용",
+   "화학적 재활용",
+   "자원순환"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "SK케미칼이 서귀포시와 폐현수막을 화학적으로 재활용하는 업무협약을 맺었다.",
+  "key_fact_quote": "SK케미칼(대표이사 사장 안재현)은 지난 17일 서귀포시청 별넷마당에서 서귀포시와 '폐현수막 자원순환 활성화 업무협약'을 체결했다고 18일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

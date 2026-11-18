@@ -1,0 +1,57 @@
+{
+ "doc_id": "8cabde9b9e4a338a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.breaknews.com/1251978",
+ "title": "이마트·노브랜드, '더마 스킨케어' 등 뷰티 라인업 확대",
+ "summary": "노브랜드는 지난 10월 말 출시 한 '노브랜드 더마 스킨케어' 6종이 테스트 판매에서... 더마 라인은 의료기기· 화장품 제조기업 원바이오젠과 협업해 개발했으며 클렌저...",
+ "published_at": "2026-11-18T14:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드"
+  ],
+  "companies": [
+   "이마트",
+   "원바이오젠"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "유통사 자체 브랜드",
+   "가성비 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "노브랜드 더마 스킨케어",
+    "brand": "노브랜드",
+    "launch_date": "2026-10",
+    "launch_status": "launched",
+    "launch_quote": "노브랜드는 지난 10월 말 출시 한 '노브랜드 더마 스킨케어' 6종이 테스트 판매에서",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "노브랜드가 원바이오젠과 함께 개발한 더마 스킨케어를 내놓으며 뷰티 라인업을 넓혔다.",
+  "key_fact_quote": "노브랜드는 지난 10월 말 출시 한 '노브랜드 더마 스킨케어' 6종이 테스트 판매에서",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

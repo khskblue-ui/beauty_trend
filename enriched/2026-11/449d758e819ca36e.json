@@ -1,0 +1,105 @@
+{
+ "doc_id": "449d758e819ca36e",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53984",
+ "title": "‘글로우픽˟앳코스메 어워드’ 투슬래시포 1위",
+ "summary": "글로우데이즈가 ‘2026 글로우픽 어워드 ˟ 앳코스메 코리아 어워드’ 수상작을 발표했다. 이번 시상식에서는 소비자 사용후기를 바탕으로 수상작을 선정했다. 2025년 11월부터 2026년 9월까지 11개월 동안 글로우픽에 등록된 실사용자 리뷰 약 37만건을 분석했다. 총 4개 부문에서 총 580개 제품을 뽑았…",
+ "published_at": "2026-11-18T10:58:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "투슬래시포",
+   "힌스",
+   "보나메두사",
+   "모로칸오일",
+   "글로우픽",
+   "앳코스메"
+  ],
+  "companies": [
+   "글로우데이즈",
+   "아이스타일"
+  ],
+  "keywords": [
+   "스킨 롱제비티",
+   "소비자 리뷰 어워드",
+   "일본 시장 진출",
+   "웰니스",
+   "톤리스 블러셔"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "올 오버 페이스 블러쉬",
+    "brand": "투슬래시포",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "하프 문 치크",
+    "brand": "힌스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "오렌지 스킨 딜리트 오리지널",
+    "brand": "보나메두사",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "트리트먼트 오리지널",
+    "brand": "모로칸오일",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "글로우데이즈가 소비자 사용후기를 바탕으로 한 어워드 수상작을 발표했고 종합대상 선두는 투슬래시포 블러셔가 차지했다.",
+  "key_fact_quote": "종합대상 1위는 투슬래시포의 ‘올 오버 페이스 블러쉬’가 차지했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "NAD",
+    "quote": "키워드는 △ 스킨 롱제비티 △ NAD △ 포스트(Post)-PDRN △ 순수 비타민C △ 울트라쿨링 △ 디자인 패치 △ 화잘먹 프렙 △ 멀멀 메이크업 △ 코스메슈티컬 △ 웰니스 등이다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "올해 뷰티 트렌드에는 피부의 건강한 시간을 늘리려는 스킨 롱제비티와 PDRN의 대중화, 쿨링 제품 수요 확대 흐름이 반영됐다."
+   },
+   {
+    "name": "순수 비타민C",
+    "quote": "키워드는 △ 스킨 롱제비티 △ NAD △ 포스트(Post)-PDRN △ 순수 비타민C △ 울트라쿨링 △ 디자인 패치 △ 화잘먹 프렙 △ 멀멀 메이크업 △ 코스메슈티컬 △ 웰니스 등이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

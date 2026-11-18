@@ -1,0 +1,61 @@
+{
+ "doc_id": "be811589100b76db",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newslock.co.kr/news/articleView.html?idxno=140390",
+ "title": "신세계인터내셔날, 에드워드 베스 향수 독점 유통…니치 브랜드 확대",
+ "summary": "립 컬렉션에서 메이크업과 스킨케어, 헤어케어로 제품군을 확대했고 2016년 조향사 카를로스 베나임과 향수 컬렉션을 출시했다. 국내 판매 제품은 오 드 퍼퓸 7종이다. 우디와 플로럴, 레더, 시트러스 등으로 구성했으며...",
+ "published_at": "2026-11-18T16:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에드워드 베스"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "니치 향수",
+   "독점 유통",
+   "오 드 퍼퓸"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "오 드 퍼퓸",
+    "brand": "에드워드 베스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "우디",
+     "플로럴",
+     "레더",
+     "시트러스"
+    ],
+    "notes_quote": "우디와 플로럴, 레더, 시트러스 등으로 구성했으며..."
+   }
+  ],
+  "key_fact": "신세계인터내셔날이 에드워드 베스 향수를 국내에 독점 유통하며 니치 향수 브랜드를 늘린다.",
+  "key_fact_quote": "신세계인터내셔날, 에드워드 베스 향수 독점 유통…니치 브랜드 확대",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

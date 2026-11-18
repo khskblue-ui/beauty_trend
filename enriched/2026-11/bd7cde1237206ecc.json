@@ -1,0 +1,44 @@
+{
+ "doc_id": "bd7cde1237206ecc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.asiatime.co.kr/article/20261118500435",
+ "title": "한국콜마, AI로 화장품 피부 안전성 예측…2028년 상용화 목표",
+ "summary": "기술 적용 범위도 특정 제품군이나 해외 수출 용 제품으로 제한하지 않을 방침이다. 한국콜마는 상용화 이후... 수 있는 K뷰티 제품을 개발하고, 고객사의 글로벌 시장 진출을 적극적으로 지원하겠다\"고 말했다. /윤수현 기자",
+ "published_at": "2026-11-18T17:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마"
+  ],
+  "keywords": [
+   "AI 피부 안전성 예측",
+   "ODM 연구개발",
+   "글로벌 시장 진출 지원"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국콜마가 인공지능으로 화장품 피부 안전성을 예측하는 기술의 상용화를 목표로 개발에 나섰다.",
+  "key_fact_quote": "한국콜마, AI로 화장품 피부 안전성 예측…2028년 상용화 목표",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

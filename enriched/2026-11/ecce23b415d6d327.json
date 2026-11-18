@@ -1,0 +1,45 @@
+{
+ "doc_id": "ecce23b415d6d327",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312817",
+ "title": "K-Beauty Exports to the U.S. Surge as Skincare and Haircare Drive Growth",
+ "summary": "South Korean beauty exports to the United States continued to gain momentum in October 2026, led by strong demand for skincare and rapidly expanding haircare products.According to trade statistics from the Korea Customs Service (KCS), changing consumer preferences in the U.S. are increasingly favori",
+ "published_at": "2026-11-18T09:45:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "대미 수출",
+   "기능성 스킨케어",
+   "헤어케어",
+   "두피 건강",
+   "웰니스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 화장품의 대미 수출이 스킨케어와 헤어케어를 중심으로 늘었다.",
+  "key_fact_quote": "South Korean beauty exports to the United States continued to gain momentum in October 2026, led by strong demand for skincare and rapidly expanding haircare products.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

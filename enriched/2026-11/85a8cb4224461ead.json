@@ -1,0 +1,45 @@
+{
+ "doc_id": "85a8cb4224461ead",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026111809033976878",
+ "title": "한국콜마, AI로 화장품 유해 반응 미리 예측…개발 비용과 시간도 절감",
+ "summary": "한국콜마가 한국화학연구원과 협력해 인공지능(AI) 기반 화장품 피부 안전성 예측기술 개발에 나선다. 제품 출시 전 원료의 피부 반응과 흡수율을 예측해 연구개발 기간을 단축하고 고객사의 글로벌 시장 경쟁력을...",
+ "published_at": "2026-11-18T09:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마",
+   "한국화학연구원"
+  ],
+  "keywords": [
+   "AI 피부 안전성 예측",
+   "연구개발 기간 단축",
+   "ODM 연구개발"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국콜마가 한국화학연구원과 함께 인공지능 기반 화장품 피부 안전성 예측기술 개발에 나선다.",
+  "key_fact_quote": "한국콜마가 한국화학연구원과 협력해 인공지능(AI) 기반 화장품 피부 안전성 예측기술 개발에 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

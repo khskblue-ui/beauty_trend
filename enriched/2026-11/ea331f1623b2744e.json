@@ -1,0 +1,54 @@
+{
+ "doc_id": "ea331f1623b2744e",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58759",
+ "title": "바이오플러스 ‘BP COL3A-30’, 피부 관련 세포 부착 반응 2배 이상",
+ "summary": "# 재조합 인간 제III형 콜라겐의 구조적 특성 및 피부 관련 세포에서의 생물학적 활성 평가 [코스인코리아닷컴 길태윤 기자] 바이오플러스의 재조합 인간 제III형 콜라겐 ‘BP COL3A-30’을 코팅한 기질에서 섬유아세포와 각질형성세포의 상대 부착률이 PBS 대조군 대비 각각 225%, 229%로 보고됐다.…",
+ "published_at": "2026-11-18T16:56:56+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "바이오플러스"
+  ],
+  "keywords": [
+   "재조합 인간 콜라겐",
+   "스킨케어 신소재",
+   "세포 부착 평가",
+   "바이오 소재"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "바이오플러스의 재조합 인간 콜라겐 소재를 코팅한 기질에서 피부 관련 세포의 부착률이 대조군보다 두 배 넘게 높았다는 논문이 나왔다.",
+  "key_fact_quote": "바이오플러스의 재조합 인간 제III형 콜라겐 ‘BP COL3A-30’을 코팅한 기질에서 섬유아세포와 각질형성세포의 상대 부착률이 PBS 대조군 대비 각각 225%, 229%로 보고됐다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "BP COL3A-30",
+    "quote": "바이오플러스의 재조합 인간 제III형 콜라겐 ‘BP COL3A-30’을 코팅한 기질에서 섬유아세포와 각질형성세포의 상대 부착률이 PBS 대조군 대비 각각 225%, 229%로 보고됐다."
+   },
+   {
+    "name": "재조합 인간 제III형 콜라겐",
+    "quote": "이번 논문은 재조합 인간 제III형 콜라겐을 구조와 세포 반응의 측면에서 평가해 스킨케어 소재로 연구할 수 있는 탐색적 근거를 제시했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

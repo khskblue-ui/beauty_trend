@@ -1,0 +1,47 @@
+{
+ "doc_id": "a7469385fc9664d0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326462",
+ "title": "연말연시 특수 잡아라…K-뷰티, 한정판ㆍ팝업스토어로 '화력 집중'",
+ "summary": "국내 화장품 업계가 올해 홀리데이 컬렉션들을 연달아 출시 하고 있다. 기존 인기 화장품의 한정한... 방문객들에게는 2㎖ 향수 1종, 홀리데이 그리팅 카드 등을 증정한다. 샤넬 뷰티도 롯데면세점과 오는 12월 25일까...",
+ "published_at": "2026-11-18T15:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "샤넬 뷰티"
+  ],
+  "companies": [
+   "롯데면세점"
+  ],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "한정판",
+   "팝업스토어",
+   "연말 특수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 화장품 업계가 연말을 맞아 홀리데이 컬렉션을 잇달아 내놓고 있다.",
+  "key_fact_quote": "국내 화장품 업계가 올해 홀리데이 컬렉션들을 연달아 출시 하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

@@ -1,0 +1,48 @@
+{
+ "doc_id": "efee262834143610",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/18/2026111880035.html",
+ "title": "노브랜드, 9980원 더마 화장품 출시 …이마트도 저가 뷰티 강화",
+ "summary": "노브랜드는 1만원 미만 기능성 스킨케어 제품을 선보였고, 이마트는 5000원 이하 화장품 을 늘리고 있다. 노브랜드는 10월 말 ‘더마 스킨케어’ 6종을 출시 했다. 가격은 각 9980원으로, 노브랜드 매장에서 판매하며 11월...",
+ "published_at": "2026-11-18T10:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드"
+  ],
+  "companies": [
+   "이마트"
+  ],
+  "keywords": [
+   "더마 스킨케어",
+   "가성비 화장품",
+   "초저가 뷰티",
+   "피부 장벽"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "c95e48728dac2a43",
+ "enriched_at": "2026-11-18T21:28:58+00:00",
+ "had_body": false
+}

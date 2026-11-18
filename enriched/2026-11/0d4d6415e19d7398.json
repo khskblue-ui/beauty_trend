@@ -1,0 +1,46 @@
+{
+ "doc_id": "0d4d6415e19d7398",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261118010006860",
+ "title": "천안 스타트업 시카젠, 충남산 병풀 화장품 으로 홈쇼핑 진출",
+ "summary": "아시아투데이 배승빈 기자 = 충남 천안의 스킨케어 화장품 ·이너뷰티식품 제조기업 시카젠이 지역 농가에서... 이영종 시카젠 대표는 \"앞으로도 여러 홈쇼핑 채널과 다양한 유통 채널, 신규 제품 출시 를 통해 생병풀...",
+ "published_at": "2026-11-18T09:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "시카젠",
+   "롯데홈쇼핑"
+  ],
+  "keywords": [
+   "홈쇼핑 진출",
+   "계약재배",
+   "병풀 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "0f3eab0364070959",
+ "enriched_at": "2026-11-18T21:28:58+00:00",
+ "had_body": false
+}

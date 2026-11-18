@@ -1,0 +1,49 @@
+{
+ "doc_id": "86748f1f55e65f89",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://theviewers.co.kr/View.aspx?No=4317674",
+ "title": "이마트 노브랜드, 9980원 초저가 더마 라인으로 뷰티 시장 공략",
+ "summary": "이번 '더마 라인' 출시 는 노브랜드 뷰티가 기존 가격 중심의 가성비 화장품 에서 기능과 성분까지 차별화한 상품으로 경쟁력을 높였다는 점에서 의미가 있다. 가격 부담은 낮추면서도 피부 장벽과 보습 등 고객들의...",
+ "published_at": "2026-11-18T09:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드",
+   "쿤달"
+  ],
+  "companies": [
+   "이마트",
+   "쿤달"
+  ],
+  "keywords": [
+   "초저가 화장품",
+   "더마 스킨케어",
+   "PDRN 화장품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "29d3699cab972065",
+ "enriched_at": "2026-11-18T21:28:58+00:00",
+ "had_body": false
+}

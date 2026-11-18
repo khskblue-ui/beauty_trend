@@ -1,0 +1,61 @@
+{
+ "doc_id": "141ca64f4c155860",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312893",
+ "title": "광군제 뷰티 결산…더우인서 커진 럭셔리 브랜드, 작아진 K뷰티",
+ "summary": "2026년 광군제에서 중국 뷰티 시장의 소비 채널 변화와 소비구조가 재편된 것으로 나타났다.시장 성장세는 둔화됐지만 더우인(抖音)의 영향력이 확대되는 가운데 글로벌 럭셔리 브랜드의 비중이 커지고, 중국 로컬 브랜드 간 경쟁도 심화되는 모습이다.중국 뷰티 전문 데이터 기관 칭옌정보(青眼情报)에 따르면 올해 광군제 기간(10월 15일~11월 13일) 주요 온라인 플랫폼의 화장품 거래액은 849억2900만 위안으로 집계됐다. 다만 일평균 거래액은 전년 동기 대비 0.54% 감소해 시장은 소폭 역성장했다.성장 둔화 속 브랜드 간 경쟁 심화",
+ "published_at": "2026-11-18T15:04:16+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [
+   "한슈",
+   "GUYU",
+   "프로야",
+   "헬레나 루빈스타인",
+   "에스티 로더",
+   "라메르",
+   "랑콤",
+   "SK-II",
+   "자연당",
+   "더후"
+  ],
+  "companies": [
+   "LG생활건강",
+   "칭옌정보",
+   "더우인",
+   "티몰"
+  ],
+  "keywords": [
+   "광군제",
+   "라이브커머스",
+   "럭셔리 스킨케어",
+   "중국 로컬 브랜드",
+   "K뷰티 중국 입지 축소"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올해 광군제에서 더우인의 영향력이 커지고 글로벌 럭셔리 브랜드 비중이 늘어난 반면 한국 브랜드의 순위는 내려갔다.",
+  "key_fact_quote": "시장 성장세는 둔화됐지만 더우인(抖音)의 영향력이 확대되는 가운데 글로벌 럭셔리 브랜드의 비중이 커지고, 중국 로컬 브랜드 간 경쟁도 심화되는 모습이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

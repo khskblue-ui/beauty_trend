@@ -1,0 +1,50 @@
+{
+ "doc_id": "82de97115d5b50a8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.k-health.com/news/articleView.html?idxno=102247",
+ "title": "선크림도 피부 보습·장벽 관리까지…코스맥스, 신소재 '에피틱스' 개발",
+ "summary": "화장품 ODM(연구·개발·생산) 기업 코스맥스가 피부 미생물 유래 성분으로 개발한 '에피틱스(EpiThix)'가 그... 사내 효능평가에서 8시간 보습 지속과 피부장벽 개선에 도움이 되는 결과를 확인한 데 이어, 2027년 상반기 출시 ...",
+ "published_at": "2026-11-18T07:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "피부 미생물 유래 소재",
+   "자외선 차단제",
+   "피부장벽",
+   "보습 신소재"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 피부 미생물에서 얻은 성분으로 보습과 피부장벽 관리에 도움이 되는 신소재 에피틱스를 개발했다.",
+  "key_fact_quote": "화장품 ODM(연구·개발·생산) 기업 코스맥스가 피부 미생물 유래 성분으로 개발한 '에피틱스(EpiThix)'가 그",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "에피틱스",
+    "quote": "화장품 ODM(연구·개발·생산) 기업 코스맥스가 피부 미생물 유래 성분으로 개발한 '에피틱스(EpiThix)'가 그"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

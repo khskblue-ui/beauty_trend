@@ -1,0 +1,47 @@
+{
+ "doc_id": "594cb1ad2dfac70d",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com:8443/en/l-oreal-usa-settles-suit-with-four,28559",
+ "title": "L'Oreal USA settles suit with four plaintiffs over hair straightening products",
+ "summary": "L'Oreal has reached a settlement with four women who sued the US branch of the French cosmetics giant claiming that a hair straightening product caused their cancer. Danielle Ward Mason, an attorney for the plaintiffs, announced the agreement reached on Monday, November 16, but did not disclose the amount of the settlement, which came as the case was going to trial in Chicago. The suit is one of a number filed against the company and other manufacturers of chemical hair relaxer products,... - Industry buzz / North America",
+ "published_at": "2026-11-18T19:54:22+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "FR"
+  ],
+  "brands": [
+   "L'Oreal"
+  ],
+  "companies": [
+   "L'Oreal USA"
+  ],
+  "keywords": [
+   "헤어 스트레이트닝 제품",
+   "화학 헤어 릴랙서",
+   "제품 안전 소송"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "로레알 미국 법인이 헤어 스트레이트닝 제품 때문에 암에 걸렸다며 소송을 낸 원고들과 합의했다.",
+  "key_fact_quote": "L'Oreal has reached a settlement with four women who sued the US branch of the French cosmetics giant claiming that a hair straightening product caused their cancer.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

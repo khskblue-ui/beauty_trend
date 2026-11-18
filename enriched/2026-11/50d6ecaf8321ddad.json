@@ -1,0 +1,45 @@
+{
+ "doc_id": "50d6ecaf8321ddad",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.wikitree.co.kr/articles/1175519",
+ "title": "코스맥스, 쿠션·마스크팩·압전 에멀젼 3건 세계일류상품 선정…누적 ...",
+ "summary": "퍼프에 내용물을 묻혀 두드려 바르는 방식으로, 아시아를 넘어 북미와 유럽 브랜드들도 잇따라 제품을 내놨다.마스크팩 역시 K - 뷰티 의 대표 수출 품목이다. 시트에 에센스를 머금게 한 형태로, 해외 소비자들이 한국...",
+ "published_at": "2026-11-18T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "세계일류상품",
+   "쿠션",
+   "마스크팩",
+   "압전 에멀젼"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스의 쿠션, 마스크팩, 압전 에멀젼이 세계일류상품에 선정됐다.",
+  "key_fact_quote": "코스맥스, 쿠션·마스크팩·압전 에멀젼 3건 세계일류상품 선정",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

@@ -1,0 +1,49 @@
+{
+ "doc_id": "46aeca39ea72b93b",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/shiseido-sells-off-aupres-chinese-beauty-business",
+ "title": "Shiseido sells off 30-year-old Chinese beauty brand Aupres",
+ "summary": "Ownership of Shiseido Liyuan Cosmetics, which makes the skin care, sun care and make-up brand Aupres exclusively for the Chinese market, will transfer to a new consortium led by IDG Capital",
+ "published_at": "2026-11-18T20:26:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "JP",
+   "CN"
+  ],
+  "brands": [
+   "Aupres"
+  ],
+  "companies": [
+   "Shiseido",
+   "Shiseido Liyuan Cosmetics",
+   "IDG Capital"
+  ],
+  "keywords": [
+   "브랜드 매각",
+   "중국 시장",
+   "사업 재편"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "시세이도가 중국 전용 브랜드 오프레를 IDG 캐피털이 이끄는 컨소시엄에 넘긴다.",
+  "key_fact_quote": "Ownership of Shiseido Liyuan Cosmetics, which makes the skin care, sun care and make-up brand Aupres exclusively for the Chinese market, will transfer to a new consortium led by IDG Capital",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

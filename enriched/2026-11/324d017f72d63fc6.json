@@ -1,0 +1,108 @@
+{
+ "doc_id": "324d017f72d63fc6",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100518",
+ "title": "겨울철 건조함 잡는 ‘머리부터 발끝까지’ 셀프 케어 아이템은?",
+ "summary": "차갑고 건조한 겨울철 날씨는 피부와 모발 건강에도 영향을 미친다. 기온이 낮아지고 찬 바람이 강해지는 데다 실내 난방기 사용까지 늘어나면서 피부와 모발이 수분을 잃기 쉬운 환경이 조성되기 때문이다. 미국 피부과학회(AAD)에 따르면 겨울철 낮은 습도와 실내 난방은 피부의 수분 손실을 촉진해 건조함과 가려움 등을 유발할 수 있다.이러한 계절적 변화는 일상 속 다양한 관리 고민으로 이어진다. 수분을 잃어 푸석해진 모발과 건조하고 거칠어진 피부는 물론, 두꺼운 양말과 부츠 착용으로 각질과 굳은살 관리가 필요한 발까지 세심한 관리가 요구된",
+ "published_at": "2026-11-18T09:32:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "필립스",
+   "메디큐브",
+   "풀리오",
+   "이솝"
+  ],
+  "companies": [],
+  "keywords": [
+   "겨울철 보습",
+   "셀프 케어",
+   "홈 뷰티 디바이스",
+   "바디 케어",
+   "풋케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "필립스 BLDC 항공모터 듀얼 에어플로우 헤어드라이기",
+    "brand": "필립스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "메디큐브 에이지알 부스터 프로 X2",
+    "brand": "메디큐브",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "풀리오 패디플래너 라이트",
+    "brand": "풀리오",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "이솝 제라늄 리프 바디 밤",
+    "brand": "이솝",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "제라늄 리프",
+     "만다린",
+     "베르가못",
+     "시트러스"
+    ],
+    "notes_quote": "제라늄 리프와 만다린, 베르가못이 어우러진 시트러스 계열의 향이 특징이며, 크림 텍스처로 피부에 부드럽게 발린다."
+   }
+  ],
+  "key_fact": "건조한 겨울철에 모발, 피부, 발, 바디를 집에서 관리하는 셀프 케어 제품이 주목받고 있다.",
+  "key_fact_quote": "이에 겨울철에도 건강하고 깔끔한 모습을 유지할 수 있도록, 일상 속 셀프 케어를 도와줄 아이템이 주목을 받고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "아몬드 오일",
+    "quote": "아몬드 오일과 마카다미아씨 오일, 코코넛 오일 및 버터, 글리세린 등을 함유해 피부에 보습감을 더한다."
+   },
+   {
+    "name": "마카다미아씨 오일",
+    "quote": "아몬드 오일과 마카다미아씨 오일, 코코넛 오일 및 버터, 글리세린 등을 함유해 피부에 보습감을 더한다."
+   },
+   {
+    "name": "코코넛 오일",
+    "quote": "아몬드 오일과 마카다미아씨 오일, 코코넛 오일 및 버터, 글리세린 등을 함유해 피부에 보습감을 더한다."
+   },
+   {
+    "name": "글리세린",
+    "quote": "아몬드 오일과 마카다미아씨 오일, 코코넛 오일 및 버터, 글리세린 등을 함유해 피부에 보습감을 더한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

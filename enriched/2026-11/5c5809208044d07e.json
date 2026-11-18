@@ -1,0 +1,61 @@
+{
+ "doc_id": "5c5809208044d07e",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100516",
+ "title": "을지대 뷰티아트전공 동아리 ‘YESKIN’, 에스테틱 기업 에끌라두 탐방",
+ "summary": "을지대학교(총장 홍성희) 뷰티아트전공 피부미용 동아리 ‘YESKIN(예스킨)’이 지난 11월 13일, 에스테틱 전문 화장품 기업 ‘에끌라두(ECLADO)’를 방문해 현장 중심의 기업 탐방 프로그램을 진행했다.동아리원 20여 명이 참여한 이번 탐방은 뷰티 전공 학생들이 현장 피부 관리뿐만 아니라 화장품 기획, 마케팅, 영업, 교육 등 산업 전반의 다양한 직무를 이해하고 실무 역량을 키우기 위해 마련됐다.이날 프로그램은 송지윤 에끌라두 대표의 브랜드 강연으로 문을 열었다. 송 대표는 1988년 출범한 에끌라두의 슬로건 ‘Glow Bey",
+ "published_at": "2026-11-18T09:21:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에끌라두"
+  ],
+  "companies": [
+   "에끌라두"
+  ],
+  "keywords": [
+   "에스테틱 화장품",
+   "산학 연계",
+   "뷰티 전공 교육"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "AC 라인",
+    "brand": "에끌라두",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "을지대학교 뷰티아트전공 동아리가 에스테틱 전문 화장품 기업 에끌라두를 찾아 기업 탐방 프로그램을 진행했다.",
+  "key_fact_quote": "을지대학교(총장 홍성희) 뷰티아트전공 피부미용 동아리 ‘YESKIN(예스킨)’이 지난 11월 13일, 에스테틱 전문 화장품 기업 ‘에끌라두(ECLADO)’를 방문해 현장 중심의 기업 탐방 프로그램을 진행했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "유산균",
+    "quote": "또한 여드름성 피부를 위한 AC 라인과 유산균 성분 제품 등 에끌라두의 주요 제품군을 살펴보며, 이론으로 배운 화장품 성분과 피부 메커니즘이 실제 상품으로 구현되는 과정을 익혔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

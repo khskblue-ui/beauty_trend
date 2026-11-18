@@ -1,0 +1,57 @@
+{
+ "doc_id": "b5f28165d48d07a9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsian.co.kr/news/articleView.html?idxno=101460",
+ "title": "[뷰티 프론티어] 이마트, 5000원 이하 뷰티 상품 85종으로…가성비 시장...",
+ "summary": "［뉴시안= 신선경 기자］이마트가 5000원 이하 뷰티 상품을 85종으로 늘리며 가성비 화장품 시장 공략에... 이마트는 지난해 4월 LG생활건강과 협업한 '글로우:업 바이 비욘드' 8종을 각각 4950원에 단독 출시 하며 저가...",
+ "published_at": "2026-11-18T08:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "글로우:업 바이 비욘드"
+  ],
+  "companies": [
+   "이마트",
+   "LG생활건강"
+  ],
+  "keywords": [
+   "초저가 뷰티",
+   "가성비 화장품",
+   "대형마트 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "글로우:업 바이 비욘드",
+    "brand": "글로우:업 바이 비욘드",
+    "launch_date": "2025-04",
+    "launch_status": "unknown",
+    "launch_quote": "이마트는 지난해 4월 LG생활건강과 협업한 '글로우:업 바이 비욘드' 8종을 각각 4950원에 단독 출시 하며 저가",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이마트가 초저가 뷰티 상품 수를 늘리며 가성비 화장품 시장 공략에 나섰다.",
+  "key_fact_quote": "이마트가 5000원 이하 뷰티 상품을 85종으로 늘리며 가성비 화장품 시장 공략에",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

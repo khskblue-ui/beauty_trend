@@ -1,0 +1,49 @@
+{
+ "doc_id": "610c878563b2a160",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/david-beckham-s-company-db-ventures-sues",
+ "title": "David Beckham’s company DB Ventures sues after fragrances allegedly found for sale in Poundland",
+ "summary": "Coty has produced Beckham’s fragrances since 2005, under a licence with the ex-footballer’s company DB Ventures and Authentic Brands",
+ "published_at": "2026-11-18T21:40:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "David Beckham"
+  ],
+  "companies": [
+   "DB Ventures",
+   "Coty",
+   "Authentic Brands",
+   "Poundland"
+  ],
+  "keywords": [
+   "셀러브리티 향수",
+   "라이선스 분쟁",
+   "저가 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "데이비드 베컴의 회사 DB 벤처스가 자사 향수가 파운드랜드에서 팔렸다는 주장과 관련해 소송을 냈다.",
+  "key_fact_quote": "David Beckham’s company DB Ventures sues after fragrances allegedly found for sale in Poundland",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

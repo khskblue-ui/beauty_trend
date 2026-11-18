@@ -1,0 +1,47 @@
+{
+ "doc_id": "96c5a620645f73ad",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53982",
+ "title": "한국콜마 \"AI로 화장품 피부 안전성 미리 읽는다\"",
+ "summary": "한국콜마가 인공지능(AI)을 활용해 화장품을 제조하기 전부터 피부 안전성을 예측하는 기술개발에 나선다. 원료 배합 단계에서 피부 반응과 성분 흡수율을 사전에 분석해 제품 개발 기간을 단축하고 글로벌 화장품 안전 규제에 대응한다는 구상이다. 한국콜마는 지난 17일 한국화학연구원(원장 신석민)과 ‘…",
+ "published_at": "2026-11-18T09:20:23+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마",
+   "한국화학연구원",
+   "콜마홀딩스"
+  ],
+  "keywords": [
+   "AI 피부 안전성 예측",
+   "화장품 안전 규제",
+   "처방 설계",
+   "ODM 연구개발"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국콜마가 한국화학연구원과 인공지능 기반 피부영향 예측기술 개발을 위한 업무협약을 맺었다.",
+  "key_fact_quote": "한국콜마는 지난 17일 한국화학연구원 (원장 신석민)과 ‘AI 기반 피부영향 예측기술 개발’ 을 위한 업무협약을 체결했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

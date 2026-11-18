@@ -1,0 +1,44 @@
+{
+ "doc_id": "64bf2dcd9d285d93",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20115765?ref=naver",
+ "title": "대중 화장품 수출 2.7% 반등…中 토종 브랜드와 경쟁 심화",
+ "summary": "K뷰티 가 현지 유통사와 손잡거나 법인을 세우며 다시 문을 두드리고 있다. 스킨케어를 넘어 색조와 향수, 에스테틱까지 진출 품목이 넓어지는 가운데 4년 연속 뒷걸음질했던 대(對) 중국 화장품 수출 액도 올...",
+ "published_at": "2026-11-18T10:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "대중국 수출",
+   "C뷰티",
+   "현지 유통 협력",
+   "진출 품목 확대"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대중국 화장품 수출이 반등했지만 중국 토종 브랜드와의 경쟁은 심해지고 있다.",
+  "key_fact_quote": "대중 화장품 수출 2.7% 반등…中 토종 브랜드와 경쟁 심화",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

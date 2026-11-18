@@ -1,0 +1,58 @@
+{
+ "doc_id": "2f62ff63b635187f",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312606",
+ "title": "10월 티몰 뷰티 트렌드 리포트⑧: 에센스 TOP10 판매량 26.7%...K-뷰티 10.2% 각각 성장",
+ "summary": "[편집자 주] 뷰티경제는 2022년 7월부터 중국 최대 전자상거래 플랫폼인 티몰(Tmall)을 통해 8개 주요 품목의 중국 뷰티시장 동향을 분석하고 있다. 아울러 국내 화장품의 중국 시장 경쟁력도 함께 진단하고 있다. 이번 기사에서는 2026년 10월 티몰 에센스 트렌드를 점검한다.중국 티몰 에센스 시장이 성장세를 이어간 것으로 나타났다. 안티에이징과 피부 리페어 수요가 확대되면서 중국 로컬 브랜드들이 시장 성장을 주도했다.뷰티경제 집계 결과, 2026년 10월 티몰 에센스 TOP10 브랜드의 총 판매량은 114만 개 이상으로 집계",
+ "published_at": "2026-11-18T09:30:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [
+   "가복미",
+   "프로야",
+   "란",
+   "위노나",
+   "자연당",
+   "린칭쉔",
+   "곡우",
+   "OSM",
+   "니베아",
+   "로레알"
+  ],
+  "companies": [
+   "티몰"
+  ],
+  "keywords": [
+   "에센스",
+   "피부 리페어",
+   "안티에이징",
+   "미백",
+   "중국 로컬 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "티몰 에센스 시장은 안티에이징과 피부 리페어 수요로 중국 로컬 브랜드가 성장을 주도했고 한국관 성장은 시장 평균에 못 미쳤다.",
+  "key_fact_quote": "안티에이징과 피부 리페어 수요가 확대되면서 중국 로컬 브랜드들이 시장 성장을 주도했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

@@ -1,0 +1,61 @@
+{
+ "doc_id": "6b6fa69b2c93b40c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsprime.co.kr/news/article.html?no=755396",
+ "title": "니치 향수 뜨자…신세계인터, 50만원대 美 향수 들여온다",
+ "summary": "립 제품을 시작으로 메이크업과 스킨케어 등으로 사업을 확장했으며, 2016년 조향사 카를로스 베나임과 협업해 향수 시장에 진출했다. 이번에 국내에 선보이는 제품은 오 드 퍼퓸 7종이다. 우디·플로럴·레더·시트러스...",
+ "published_at": "2026-11-18T09:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "신세계인터"
+  ],
+  "keywords": [
+   "니치 향수",
+   "고가 향수",
+   "수입 향수",
+   "오 드 퍼퓸"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "오 드 퍼퓸",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "이번에 국내에 선보이는 제품은 오 드 퍼퓸 7종이다.",
+    "notes": [
+     "우디",
+     "플로럴",
+     "레더",
+     "시트러스"
+    ],
+    "notes_quote": "우디·플로럴·레더·시트러스"
+   }
+  ],
+  "key_fact": "신세계인터가 미국 브랜드의 고가 오 드 퍼퓸을 국내에 들여온다.",
+  "key_fact_quote": "이번에 국내에 선보이는 제품은 오 드 퍼퓸 7종이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}

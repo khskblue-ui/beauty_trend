@@ -1,0 +1,51 @@
+{
+ "doc_id": "1c8b729fc8138291",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53986",
+ "title": "CE.way, K-뷰티 글로벌 규제 대응 원-스톱 지원",
+ "summary": "글로벌 화장품 규제 컨설팅 전문기업 CE.way가 한국 화장품 제조사와 브랜드사의 해외 시장 진출을 위한 규제 대응 서비스 강화에 나섰다. CE.way는 자체 연구소와 글로벌 사무소 네트워크를 기반으로 유럽·영국·미국·캐나다·중동·튀르키예·남미 등 주요 수출 시장의 화장품 규제 검토부터 안전…",
+ "published_at": "2026-11-18T20:15:30+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "IE",
+   "GB",
+   "SI",
+   "US",
+   "CA",
+   "TR"
+  ],
+  "brands": [],
+  "companies": [
+   "CE.way"
+  ],
+  "keywords": [
+   "글로벌 화장품 규제",
+   "현지 책임자 서비스",
+   "안전성 평가",
+   "수출 인증"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "화장품 규제 컨설팅 기업 CE.way가 한국 화장품 기업의 해외 진출을 위한 규제 대응 서비스를 강화한다.",
+  "key_fact_quote": "글로벌 화장품 규제 컨설팅 전문기업 CE.way 가 한국 화장품 제조사와 브랜드사의 해외 시장 진출을 위한 규제 대응 서비스 강화 에 나섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

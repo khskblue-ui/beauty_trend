@@ -1,0 +1,56 @@
+{
+ "doc_id": "26156a8ace3f0dd9",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53976",
+ "title": "테마기획: 대한민국 화장품 산업의 뿌리, 원료기업 열전-엑티브온",
+ "summary": "글로벌 화장품 원료 전문기업 엑티브온(대표이사 조윤기·ACTIVON)이 독자 기술 플랫폼과 지속가능 소재 개발 역량을 기반으로 글로벌 시장 확대에 나선다. 기존 화장품 원료 사업의 경쟁력을 강화하는 동시에 바이오 액티브 소재와 지속가능 기능성 소재 등 미래 성장 분야에 대한 투자를 확대, 글로벌 지…",
+ "published_at": "2026-11-18T06:49:44+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "엑티브온"
+  ],
+  "keywords": [
+   "지속가능 소재",
+   "식물 유래 엑소좀",
+   "스킨케어 미니멀리즘",
+   "방부 보존 솔루션",
+   "바이오 액티브 소재"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 원료 기업 엑티브온이 독자 기술 플랫폼과 지속가능 소재를 앞세워 글로벌 시장 확대에 나선다.",
+  "key_fact_quote": "글로벌 화장품 원료 전문기업 엑티브온(대표이사 조윤기·ACTIVON)이 독자 기술 플랫폼과 지속가능 소재 개발 역량을 기반으로 글로벌 시장 확대에 나선다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "식물 유래 엑소좀",
+    "quote": "바이오 액티브 소재 분야에서는 식물 유래 엑소좀과 천연 생리활성 성분 등 차세대 기능성 소재 개발에 역량을 집중 투입하고 있는 모습이다."
+   },
+   {
+    "name": "Acxosome",
+    "quote": "특히 식물 유래 엑소좀 기술을 활용한 ‘Acxosome 시리즈’를 비롯해 천연 유래 기능성 성분을 기반으로 피부·두피·모발 관리 등 다양한 응용 분야로 사업 영역을 넓혀가고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

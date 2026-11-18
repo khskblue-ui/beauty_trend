@@ -1,0 +1,87 @@
+{
+ "doc_id": "e6ae84b8540c7923",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100530",
+ "title": "지에프씨생명과학 fmk, ‘리쥬네이팅 PDRN 키트’ 쿠팡 랭킹 1위 기록",
+ "summary": "화장품·바이오 소재 전문기업 지에프씨생명과학(대표 강희철, 388610)은 자체 더마 스킨케어 브랜드 ‘에프엠케이(fmk)’의 ‘리쥬네이팅 PDRN 키트’가 쿠팡에서 ‘탄력앰플’과 ‘PDRN앰플’ 검색 결과 모두 ‘쿠팡 랭킹순’ 1위를 기록했다고 18일 밝혔다.이번 순위는 지난 17일 오후 1시 기준으로, 쿠팡 랭킹은 판매실적과 고객 선호도, 상품 경쟁력, 검색 정확도 등을 종합적으로 고려해 결정된다.리쥬네이팅 PDRN 키트는 지에프씨생명과학의 독자적인 원료 개발 기술과 동결건조 기술을 적용한 홈케어 제품이다. 올해 열린 ‘2026",
+ "published_at": "2026-11-18T13:25:38+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN",
+   "IT",
+   "HK",
+   "SG",
+   "PL",
+   "KZ"
+  ],
+  "brands": [
+   "에프엠케이(fmk)"
+  ],
+  "companies": [
+   "지에프씨생명과학",
+   "쿠팡"
+  ],
+  "keywords": [
+   "PDRN",
+   "홈케어 키트",
+   "더마 스킨케어",
+   "스킨 롱제비티",
+   "해외 유통 확대"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리쥬네이팅 PDRN 키트",
+    "brand": "에프엠케이(fmk)",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "시그니처 타임리스 키트",
+    "brand": "에프엠케이(fmk)",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "최근 출시한 ‘시그니처 타임리스 키트’도 글로벌 유통채널의 관심을 받고 있다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "지에프씨생명과학의 더마 스킨케어 브랜드 키트 제품이 쿠팡 검색 랭킹 선두에 올랐다.",
+  "key_fact_quote": "화장품·바이오 소재 전문기업 지에프씨생명과학(대표 강희철, 388610)은 자체 더마 스킨케어 브랜드 ‘에프엠케이(fmk)’의 ‘리쥬네이팅 PDRN 키트’가 쿠팡에서 ‘탄력앰플’과 ‘PDRN앰플’ 검색 결과 모두 ‘쿠팡 랭킹순’ 1위를 기록했다고 18일 밝혔다.",
+  "events": [
+   {
+    "name": "2026 코스모프로프 아시아",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "홍콩",
+    "quote": "지난 11일부터 13일까지 홍콩에서 열린 ‘2026 코스모프로프 아시아’에서는 fmk의 주요 제품을 소개하며 글로벌 바이어들과 유통 협력 방안을 논의했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "리쥬네이팅 PDRN 키트는 지에프씨생명과학의 독자적인 원료 개발 기술과 동결건조 기술을 적용한 홈케어 제품이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": true
+}

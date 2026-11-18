@@ -1,0 +1,71 @@
+{
+ "doc_id": "ff4be93960d7114c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.techm.kr/news/articleView.html?idxno=157481",
+ "title": "이마트 노브랜드, 뷰티 시장 공략 '가속'...가격 낮추고 기능 높였다",
+ "summary": "노브랜드 더마 스킨케어 화장품 라인업/사진=이마트 제공 이마트와 노브랜드가 초저가부터 고기능성... 노브랜드는 신제품 출시에도 속도를 내고 있습니다. 이달 중 기능성을 한층 강화한 PDRN 스킨케어 5종을 새롭게...",
+ "published_at": "2026-11-18T12:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "노브랜드"
+  ],
+  "companies": [
+   "이마트"
+  ],
+  "keywords": [
+   "초저가 뷰티",
+   "더마 스킨케어",
+   "PDRN",
+   "대형마트 자체 브랜드 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "PDRN 스킨케어",
+    "brand": "노브랜드",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "이달 중 기능성을 한층 강화한 PDRN 스킨케어 5종을 새롭게",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "더마 스킨케어",
+    "brand": "노브랜드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "노브랜드가 기능성을 강화한 PDRN 스킨케어를 새로 내놓을 예정이다.",
+  "key_fact_quote": "이달 중 기능성을 한층 강화한 PDRN 스킨케어 5종을 새롭게",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "이달 중 기능성을 한층 강화한 PDRN 스킨케어 5종을 새롭게"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-18T21:33:28+00:00",
+ "had_body": false
+}
