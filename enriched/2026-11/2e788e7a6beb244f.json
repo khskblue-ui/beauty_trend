@@ -1,0 +1,67 @@
+{
+ "doc_id": "2e788e7a6beb244f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.lawissue.co.kr/view.php?ud=202611191616268195204ead0791_12",
+ "title": "BGF리테일 CU·딘토, '위니 더 푸' 협업 색조 화장품 4종 선봬",
+ "summary": "BGF리테일이 운영하는 편의점 CU가 비건 뷰티 브랜드 딘토와 협업한 디즈니 캐릭터 '위니 더 푸' 색조 화장품 4종을 출시 했다고 19일 밝혔다. 이번 협업 상품군은 듀얼 섀도우 2종과 젤리 틴트 2종으로 나뉜다. 색상은...",
+ "published_at": "2026-11-19T16:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "딘토",
+   "CU"
+  ],
+  "companies": [
+   "BGF리테일"
+  ],
+  "keywords": [
+   "편의점 뷰티",
+   "캐릭터 협업",
+   "비건 뷰티",
+   "색조 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "듀얼 섀도우",
+    "brand": "딘토",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "BGF리테일이 운영하는 편의점 CU가 비건 뷰티 브랜드 딘토와 협업한 디즈니 캐릭터 '위니 더 푸' 색조 화장품 4종을 출시 했다고 19일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "젤리 틴트",
+    "brand": "딘토",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "BGF리테일이 운영하는 편의점 CU가 비건 뷰티 브랜드 딘토와 협업한 디즈니 캐릭터 '위니 더 푸' 색조 화장품 4종을 출시 했다고 19일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "편의점 CU가 비건 뷰티 브랜드 딘토와 협업한 위니 더 푸 색조 화장품을 출시했다.",
+  "key_fact_quote": "BGF리테일이 운영하는 편의점 CU가 비건 뷰티 브랜드 딘토와 협업한 디즈니 캐릭터 '위니 더 푸' 색조 화장품 4종을 출시 했다고 19일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

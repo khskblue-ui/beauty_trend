@@ -1,0 +1,42 @@
+{
+ "doc_id": "9adbc8895fa46fa3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/sb-founded/6359675",
+ "title": "'수출 1조 달러' 시대 中企 수출액도 역대 최대… K - 뷰티 , 수출 신기록",
+ "summary": "올해 중소기업 수출 액이 10월 누계 기준으로 사상 처음 1000억 달러를 넘어섰다. 화장품과 반도체 관련 품목이 수출 증가를 이끌면서 1~10월 누적 수출 액이 역대 최대를 기록했다. 월 수출 액도 8개월 연속 100억...",
+ "published_at": "2026-11-19T16:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "중소기업 수출",
+   "화장품 수출 신기록"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품과 반도체 관련 품목이 중소기업 수출 증가를 이끌어 누적 수출액이 역대 최대를 기록했다.",
+  "key_fact_quote": "화장품과 반도체 관련 품목이 수출 증가를 이끌면서 1~10월 누적 수출 액이 역대 최대를 기록했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

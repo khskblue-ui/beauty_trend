@@ -1,0 +1,59 @@
+{
+ "doc_id": "dbed4dfa932b2a30",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/neutrogena-beta-glucan-ha-launch-campaign-tate-mcrae",
+ "title": "Neutrogena Ambassador Tate McRae leads brand into ‘new era of hydration’",
+ "summary": "The Kimberly-Clark-owned skin care brand is introducing a new iteration of its Hydro Boost franchise, now supported by proprietary ingredient Beta Glucan HA+, with singer Tate McRae fronting the campaign",
+ "published_at": "2026-11-19T20:55:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Neutrogena"
+  ],
+  "companies": [
+   "Kimberly-Clark"
+  ],
+  "keywords": [
+   "보습 스킨케어",
+   "독자 성분",
+   "셀럽 앰배서더"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Hydro Boost",
+    "brand": "Neutrogena",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "The Kimberly-Clark-owned skin care brand is introducing a new iteration of its Hydro Boost franchise, now supported by proprietary ingredient Beta Glucan HA+",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뉴트로지나가 독자 성분을 적용한 하이드로 부스트 새 버전을 선보인다.",
+  "key_fact_quote": "The Kimberly-Clark-owned skin care brand is introducing a new iteration of its Hydro Boost franchise, now supported by proprietary ingredient Beta Glucan HA+",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Beta Glucan HA+",
+    "quote": "The Kimberly-Clark-owned skin care brand is introducing a new iteration of its Hydro Boost franchise, now supported by proprietary ingredient Beta Glucan HA+"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

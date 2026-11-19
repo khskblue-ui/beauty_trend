@@ -1,0 +1,56 @@
+{
+ "doc_id": "cf5700e2e04cc01f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gokorea.kr/news/articleView.html?idxno=886405",
+ "title": "두호코퍼레이션, 크리에이터 채도·스킨케어 브랜드 로이어 협업 기획전...",
+ "summary": "앞서 직접 선정한 화장품 으로 구성된 큐레이션 패키지 'CHAIDO BOX 시즌1'을 출시 하는 등 콘텐츠와 전자상거래를 결합한 프로젝트를 진행해 왔다. 두호코퍼레이션은 이번 기획전을 통해 크리에이터가 제작하는 콘텐츠와...",
+ "published_at": "2026-11-19T14:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "로이어"
+  ],
+  "companies": [
+   "두호코퍼레이션"
+  ],
+  "keywords": [
+   "크리에이터 협업",
+   "큐레이션 패키지",
+   "콘텐츠 커머스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "CHAIDO BOX 시즌1",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "두호코퍼레이션이 크리에이터 채도와 스킨케어 브랜드 로이어의 협업 기획전을 진행한다.",
+  "key_fact_quote": "두호코퍼레이션, 크리에이터 채도·스킨케어 브랜드 로이어 협업 기획전",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

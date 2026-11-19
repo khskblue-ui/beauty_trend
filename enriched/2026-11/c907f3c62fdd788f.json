@@ -1,0 +1,57 @@
+{
+ "doc_id": "c907f3c62fdd788f",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100534",
+ "title": "수출 1조 달러 시대 연다…‘세계일류상품’ 1,100개사 한자리에",
+ "summary": "반도체 수출 호조로 ‘수출 1조 달러’ 달성이 가시화하는 가운데, 화장품·생활용품 등 소비재를 비롯한 차세대 K-수출 주역들을 발굴·육성하는 자리가 마련됐다.산업통상부(장관 김정관)와 대한무역투자진흥공사(코트라, 사장 강경성)는 중견기업 주간을 맞아 지난 11월 17일 서울 롯데호텔 월드에서 ‘2026 세계일류상품 수출대전’을 열었다. 이날 행사에서는 ▲세계일류상품 인증서 수여식 ▲수출상담회 ▲미래산업 및 대체시장 진출전략 토론회 ▲해외인재유치 상담회 등이 진행됐다.세계일류상품 제도는 글로벌 경쟁력을 갖춘 품목과 기업을 선정해 미래",
+ "published_at": "2026-11-19T10:21:39+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "TH",
+   "ID"
+  ],
+  "brands": [],
+  "companies": [
+   "코트라",
+   "씨피그룹",
+   "소호 글로벌"
+  ],
+  "keywords": [
+   "세계일류상품",
+   "수출시장 다변화",
+   "소비재 수출",
+   "글로벌사우스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품을 포함한 소비재 기업의 수출을 키우는 수출대전이 열렸고 수출시장 다변화 기조가 두드러졌다.",
+  "key_fact_quote": "화장품·소비재 업계가 주목할 만한 대목은 수출시장 다변화 기조다.",
+  "events": [
+   {
+    "name": "2026 세계일류상품 수출대전",
+    "start_date": "2026-11-17",
+    "end_date": null,
+    "place": "서울 롯데호텔 월드",
+    "quote": "산업통상부(장관 김정관)와 대한무역투자진흥공사(코트라, 사장 강경성)는 중견기업 주간을 맞아 지난 11월 17일 서울 롯데호텔 월드에서 ‘2026 세계일류상품 수출대전’을 열었다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

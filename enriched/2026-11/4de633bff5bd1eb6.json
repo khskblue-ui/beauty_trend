@@ -1,0 +1,107 @@
+{
+ "doc_id": "4de633bff5bd1eb6",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100533",
+ "title": "보습크림 8종 시험 결과, 보습·가격 차이 커",
+ "summary": "건조한 계절을 맞아 보습크림에 대한 관심이 높아진 가운데, 한국소비자원이 주요 보습크림 8종을 시험·평가한 결과 제품에 따라 표면 보습력과 수분 증발 감소 성능, 단위당 가격 등에서 차이를 보이는 것으로 나타났다.한국소비자원은 소비자 구매 경험이 많은 상위 8개 브랜드의 보습크림을 대상으로 품질, 사용감, 안전성, 환경성, 표시적합성, 경제성 등을 시험·평가했다고 밝혔다.피부 표면의 수분 함유량 변화를 본 ‘보습력’ 평가에서는 시험 대상 8개 전 제품에서 사용 전보다 수분량이 증가했으며, 이 가운데 라로슈포제 ‘시카플라스트 멀티 리",
+ "published_at": "2026-11-19T10:09:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라로슈포제",
+   "에스트라",
+   "이니스프리",
+   "세타필",
+   "일리윤",
+   "피지오겔"
+  ],
+  "companies": [
+   "한국소비자원"
+  ],
+  "keywords": [
+   "보습크림",
+   "품질 비교 시험",
+   "가성비",
+   "장벽 케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "시카플라스트 멀티 리페어 크림 B5",
+    "brand": "라로슈포제",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "에스트라 아토베리어 365크림",
+    "brand": "에스트라",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "이니스프리 그린티 세라마이드 크림",
+    "brand": "이니스프리",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "세타필® 모이스춰라이징 크림",
+    "brand": "세타필",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "세라마이드 아토 집중 크림",
+    "brand": "일리윤",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "피지오겔 데일리 모이스처 테라피 페이셜 크림",
+    "brand": "피지오겔",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "한국소비자원이 보습크림을 시험한 결과 제품에 따라 보습 성능과 단위당 가격에서 차이가 났다.",
+  "key_fact_quote": "건조한 계절을 맞아 보습크림에 대한 관심이 높아진 가운데, 한국소비자원이 주요 보습크림 8종을 시험·평가한 결과 제품에 따라 표면 보습력과 수분 증발 감소 성능, 단위당 가격 등에서 차이를 보이는 것으로 나타났다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

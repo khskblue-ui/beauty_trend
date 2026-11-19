@@ -1,0 +1,46 @@
+{
+ "doc_id": "605fc5a140784ef1",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312820",
+ "title": "K-Beauty Exports to China Rebound on Strong Skincare Demand as Children’s Cosmetics Surge",
+ "summary": "South Korean beauty exports to China posted solid growth in October 2026, led by strong demand for skincare products and sheet masks.According to trade statistics released by the Korea Customs Service (KCS), Chinese consumers continued to favor premium skincare products, while children\\'s cosmetics e",
+ "published_at": "2026-11-19T14:35:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "대중국 화장품 수출",
+   "스킨케어",
+   "어린이 화장품",
+   "시트 마스크",
+   "기능성 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 화장품의 대중국 수출이 스킨케어와 시트 마스크 수요에 힘입어 늘었고 어린이 화장품이 가장 빠르게 성장했다.",
+  "key_fact_quote": "South Korean beauty exports to China posted solid growth in October 2026, led by strong demand for skincare products and sheet masks.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

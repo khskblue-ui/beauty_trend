@@ -1,0 +1,42 @@
+{
+ "doc_id": "1244282da4080a93",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/industry/sb-founded/6359949",
+ "title": "수출 주역 '반도체' 뒤에 ' K - 뷰티 ' 있었다…中企 수출 날개",
+ "summary": "북미·유럽에 이어 중남미로 시장을 넓힌 K - 뷰티 가 중소기업 수출 신기록을 이끌었다. 수출 호황의 온기를 내수 중심 기업과 소상공인으로 확산하는 과제는 여전히 남아 있다. 화장품 수출 85억 달러…중남미서 160% 급증...",
+ "published_at": "2026-11-20T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "중소기업 수출",
+   "중남미 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "북미와 유럽에 이어 중남미로 시장을 넓힌 K-뷰티가 중소기업 수출 신기록을 이끌었다.",
+  "key_fact_quote": "북미·유럽에 이어 중남미로 시장을 넓힌 K - 뷰티 가 중소기업 수출 신기록을 이끌었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

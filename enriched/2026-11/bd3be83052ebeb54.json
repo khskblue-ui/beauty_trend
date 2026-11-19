@@ -1,0 +1,57 @@
+{
+ "doc_id": "bd3be83052ebeb54",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53998",
+ "title": "[코스모닝] 올리브영, 유통 넘어 OO 공룡 노린다",
+ "summary": "화장품 유통기업 올리브영이 기술기업으로 퀀텀점프한다. 유통 전반의 기술 혁신을 가속화해 글로벌 플랫폼 경쟁력을 강화한다는 비전을 제시했다. 올리브영이 19일(목) 서울 성수동에서 IT업계 관계자 500여명을 초청해 기술 콘퍼런스를 열었다. 이번 행사에서는 올리브영의 유통 기술력과 테크조직이 일하는 방식을 소개했다. 올리브영이 매장·온라인몰·물류 기술을 발전",
+ "published_at": "2026-11-20T06:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영",
+   "구글",
+   "팔란티어코리아"
+  ],
+  "keywords": [
+   "옴니채널",
+   "에이전틱 커머스",
+   "리테일테인먼트",
+   "피지털",
+   "하이퍼로컬"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 기술 콘퍼런스를 열고 유통 기술 혁신으로 글로벌 플랫폼 경쟁력을 강화한다는 비전을 제시했다.",
+  "key_fact_quote": "유통 전반의 기술 혁신을 가속화해 글로벌 플랫폼 경쟁력을 강화한다는 비전을 제시했다.",
+  "events": [
+   {
+    "name": "기술 콘퍼런스",
+    "start_date": "2026-11-19",
+    "end_date": null,
+    "place": "서울 성수동",
+    "quote": "올리브영이 19일(목) 서울 성수동에서 IT업계 관계자 500여명을 초청해 기술 콘퍼런스를 열었다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

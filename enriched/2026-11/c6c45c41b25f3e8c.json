@@ -1,0 +1,50 @@
+{
+ "doc_id": "c6c45c41b25f3e8c",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53994",
+ "title": "“두피 케어부터 메이크업 클래스까지”",
+ "summary": "에이블리의 매장 예약 서비스가 가파른 성장세를 보이고 있다. 에이블리코퍼레이션(대표 강석훈)은 7월 오프라인 상품 예약 서비스 ‘에이블리 플레이스’를 선보였다. 에이블리 플레이스의 10월 마지막 주 거래액은 9월 마지막 주보다 181% 증가했다. 구매자 수도 2배 이상 늘었다. 메이크업을 비롯해 헤어…",
+ "published_at": "2026-11-19T10:21:14+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에이블리 플레이스",
+   "웰킨",
+   "하이컬러",
+   "시세이도"
+  ],
+  "companies": [
+   "에이블리코퍼레이션"
+  ],
+  "keywords": [
+   "오프라인 매장 예약",
+   "메이크업 클래스",
+   "두피 케어",
+   "웰니스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에이블리의 오프라인 상품 예약 서비스 에이블리 플레이스가 메이크업과 헤어, 두피 케어로 상품군을 넓히며 빠르게 성장하고 있다.",
+  "key_fact_quote": "메이크업을 비롯해 헤어·두피 케어 등으로 상품군을 다각화한 전략이 성장세를 이끌었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

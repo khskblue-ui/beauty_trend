@@ -1,0 +1,43 @@
+{
+ "doc_id": "37cd366e188e036f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ppss.kr/news/articleView.html?idxno=321823",
+ "title": "한중 FTA 타결에 에이스토리·노랑풍선 상한가...콘텐츠· 화장품 株 급등",
+ "summary": "서비스 출시 여부가 중요하다. 자이언트스텝과 같은 제작기술 기업은 실제 프로젝트 수주 증가가 핵심이다. 여행업은 중국 현지 영업 허가와 판매망 확보가, 화장품 은 중국 내 유통채널 확대와 실제 주문 증가가 실적을...",
+ "published_at": "2026-11-19T11:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품주",
+   "한중 FTA",
+   "중국 유통채널"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한중 FTA 타결 소식에 콘텐츠와 화장품 관련주가 급등했다.",
+  "key_fact_quote": "한중 FTA 타결에 에이스토리·노랑풍선 상한가...콘텐츠· 화장품 株 급등",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

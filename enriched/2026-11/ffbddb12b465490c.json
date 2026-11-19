@@ -1,0 +1,45 @@
+{
+ "doc_id": "ffbddb12b465490c",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312822",
+ "title": "[K-뷰티 3대 수출시장 분석③ 일본] 스킨케어 성장세 지속…입술화장품·마스크팩은 감소",
+ "summary": "[편집자 주] 본지는 2022년 7월부터 매월 관세청 화장품 수출 통계를 기반으로 미국·중국·일본 등 3대 주요 수출국의 실적을 직접 분석해오고 있다. 이를 통해 K-뷰티 수출 구조 변화와 국가별 시장 흐름을 장기적으로 추적하고 있다.[K-뷰티 미·중·일 3분기 수출 리포트③ 일본]K-뷰티의 2026년 10월 대일 수출은 스킨케어를 중심으로 성장세를 이어갔다.특히 기초화장품이 전체 수출 증가를 주도한 가운데 메이크업용 제품도 증가세를 보였다. 반면 입술화장품과 마스크팩, 눈화장품은 감소세를 나타내며 품목별 희비가 엇갈렸다.기초화장품",
+ "published_at": "2026-11-19T09:50:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "대일 화장품 수출",
+   "스킨케어",
+   "기초화장품",
+   "색조화장품",
+   "마스크팩"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "시월 대일 화장품 수출은 기초화장품이 성장을 이끈 반면 입술화장품과 마스크팩, 눈화장품은 줄었다.",
+  "key_fact_quote": "K-뷰티의 2026년 10월 대일 수출은 스킨케어를 중심으로 성장세를 이어갔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

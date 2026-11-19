@@ -1,0 +1,53 @@
+{
+ "doc_id": "ef6ea081a6d78431",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58765",
+ "title": "한한령 해제 기대감에 다시 뛰는 K뷰티... 중국 시장 '제2의 도약' 시동",
+ "summary": "[코스인코리아닷컴 김세화 기자]이재명 대통령과 시진핑 중국 국가주석이 아시아태평양경제협력체(APEC) 정상회의를 계기로 회담을 갖고 한중 자유무역협정(FTA) 서비스·투자 분야(2단계) 협상의 타결을 선언했다.한중 관계 개선을 위한 양국 정상 간 협력이 본격화하면서 국내 화장품업계에도 긍정…",
+ "published_at": "2026-11-19T12:25:22+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영",
+   "한국화장품",
+   "뷰티스킨",
+   "한국화장품제조",
+   "토니모리",
+   "코리아나",
+   "키움증권"
+  ],
+  "keywords": [
+   "한한령 해제",
+   "한중 자유무역협정",
+   "중국인 관광객",
+   "대중국 화장품 수출",
+   "중국 유통시장 개방"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한중 자유무역협정 서비스·투자 분야 협상이 타결되면서 국내 화장품업계에 긍정적 변화에 대한 기대감이 커지고 있다.",
+  "key_fact_quote": "한중 관계 개선을 위한 양국 정상 간 협력이 본격화하면서 국내 화장품업계에도 긍정적인 변화에 대한 기대감이 높아지고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

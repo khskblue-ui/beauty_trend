@@ -1,0 +1,43 @@
+{
+ "doc_id": "154c24a15c828f6f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kr.aving.net/news/articleView.html?idxno=1817199",
+ "title": "K뷰티 해외 진출, 인증·상표권부터 플랫폼까지… 2027 인디 뷰티 서울, ...",
+ "summary": "K뷰티 수출 시장은 성장세를 이어가고 있다. 2026년 상반기 국내 화장품 수출액은 70억 달러를 기록하며 전년 동기 대비 27.3% 증가했다. 이 중 중소기업이 차지하는 비중은 약 72%(50억 7,000만 달러)에 달했다. 중소·인디...",
+ "published_at": "2026-11-19T15:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 해외 진출",
+   "해외 인증",
+   "상표권",
+   "인디 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 수출 시장이 성장세를 이어가는 가운데 인디 뷰티 서울이 해외 진출을 다루는 행사를 연다.",
+  "key_fact_quote": "K뷰티 수출 시장은 성장세를 이어가고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

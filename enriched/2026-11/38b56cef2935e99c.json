@@ -1,0 +1,44 @@
+{
+ "doc_id": "38b56cef2935e99c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611182141021740707",
+ "title": "[ 수출 1조달러 시대 숨은 주역] ② 화장품 수출 111억달러…3분기 누계 ...",
+ "summary": "침체를 딛고 K - 뷰티 수출 이 반등하기 시작한 2020년(75억7210만달러)과 비교해도 1.5배 수준이다. 성장의 동력은 수출 지도의 재편이다. 2020년만해도 중국 한 곳이 연간 수출의 절반을 차지했지만, 올해(1∼9월)는 미국...",
+ "published_at": "2026-11-20T05:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "수출 지역 다변화",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 수출 성장의 동력은 중국에 쏠려 있던 수출 지역의 재편이다.",
+  "key_fact_quote": "성장의 동력은 수출 지도의 재편이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "1523f657f6a74bfb",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/target-s-beauty-sales-grow-9-with-target-beauty",
+ "title": "Target’s beauty sales grow 9% with Target Beauty Studio debut",
+ "summary": "US retailer Target is strengthening its ‘position as a leading beauty destination’ with the launch of Target Beauty Studios at more than 600 stores, offering 90 new brands across skin care, fragrance and hair care",
+ "published_at": "2026-11-19T20:18:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "Target"
+  ],
+  "keywords": [
+   "뷰티 전문 매장",
+   "유통사 뷰티 강화",
+   "신규 브랜드 입점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 유통사 타깃이 다수 매장에 타깃 뷰티 스튜디오를 열어 뷰티 사업을 강화하고 있다.",
+  "key_fact_quote": "US retailer Target is strengthening its ‘position as a leading beauty destination’ with the launch of Target Beauty Studios at more than 600 stores",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

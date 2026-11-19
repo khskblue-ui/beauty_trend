@@ -1,0 +1,73 @@
+{
+ "doc_id": "8da6b62405af5768",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100543",
+ "title": "미미박스 누니 립오일, 올해 글로벌 리테일 매출 747억 원 전망",
+ "summary": "글로벌 K-뷰티 기업 미미박스(MBX, 대표 하형석)는 뷰티 브랜드 누니(nooni) 립오일의 2026년 글로벌 리테일 매출(소비자가 기준)이 약 747억 원에 이를 전망이라고 밝혔다. 2025년 약 117억 원의 약 6.4배 규모로, 연간 판매량도 약 140만 개에서 약 500만 개로 늘어날 전망이다. 아마존·틱톡샵 등 온라인 채널의 판매 증가와 미국·일본·한국의 오프라인 유통망 확대가 성장세를 뒷받침하고 있다.누니는 대표 제품 ‘애플 립오일’을 중심으로 글로벌 사업을 확대하고 있다. 애플 립오일은 지난 9월 미국 뷰티 매거진 얼",
+ "published_at": "2026-11-19T10:43:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "JP",
+   "GB",
+   "DE",
+   "FR",
+   "IT",
+   "ES"
+  ],
+  "brands": [
+   "누니"
+  ],
+  "companies": [
+   "미미박스"
+  ],
+  "keywords": [
+   "립오일",
+   "K뷰티 해외 유통",
+   "히어로 제품",
+   "틱톡 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "애플 립오일",
+    "brand": "누니",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "쉬머 라인",
+    "brand": "누니",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "미미박스는 누니 립오일의 올해 글로벌 리테일 매출이 지난해보다 크게 늘 것으로 전망했다.",
+  "key_fact_quote": "글로벌 K-뷰티 기업 미미박스(MBX, 대표 하형석)는 뷰티 브랜드 누니(nooni) 립오일의 2026년 글로벌 리테일 매출(소비자가 기준)이 약 747억 원에 이를 전망이라고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

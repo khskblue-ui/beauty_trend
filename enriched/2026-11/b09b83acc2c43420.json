@@ -1,0 +1,44 @@
+{
+ "doc_id": "b09b83acc2c43420",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.medipana.com/news/articleView.html?idxno=422183",
+ "title": "K-약국 화장품 의 세계화…'알엑스미'의 성장 전략",
+ "summary": "약국장들을 대상으로 더마 화장품 의 상담과 시장 성장 방향을 논의하고 신제품 도 공개한다. 정 대표는 \"약국 시장이 성장해야 저희도 성장할 수 있다\"며 \"약국에서 더마 화장품 을 어떻게 상담하고 키워갈지 약사들과 함께...",
+ "published_at": "2026-11-19T12:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "알엑스미"
+  ],
+  "companies": [],
+  "keywords": [
+   "약국 화장품",
+   "더마 화장품",
+   "약사 상담"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "알엑스미가 약국장들과 더마 화장품 상담과 시장 성장 방향을 논의하고 신제품도 공개한다.",
+  "key_fact_quote": "약국장들을 대상으로 더마 화장품 의 상담과 시장 성장 방향을 논의하고 신제품 도 공개한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

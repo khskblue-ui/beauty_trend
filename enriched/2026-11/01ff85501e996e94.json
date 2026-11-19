@@ -1,0 +1,71 @@
+{
+ "doc_id": "01ff85501e996e94",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53990",
+ "title": "시로 2026 홀리데이 컬렉션",
+ "summary": "자연주의 뷰티 브랜드 시로(SHIRO)가 ‘여행’을 테마로 한 ‘2026 홀리데이 컬렉션’을 오늘(19일) 선보인다. 이번 컬렉션은 △ 24가지 아이템과 문장을 담은 ‘어드벤트 캘린더 2026’ △ 여행 중 사용하기 좋은 6가지 아이템으로 구성한 ‘트래블 세트 2026’ 등 두 종류. ‘어드벤트 캘린더 2026’은…",
+ "published_at": "2026-11-19T08:29:59+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "시로"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "어드벤트 캘린더",
+   "트래블 세트",
+   "한정판"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "2026 홀리데이 컬렉션",
+    "brand": "시로",
+    "launch_date": "2026-11-19",
+    "launch_status": "launched",
+    "launch_quote": "자연주의 뷰티 브랜드 시로(SHIRO)가 ‘여행’을 테마로 한 ‘2026 홀리데이 컬렉션’을 오늘(19일) 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "어드벤트 캘린더 2026",
+    "brand": "시로",
+    "launch_date": "2026-11-19",
+    "launch_status": "launched",
+    "launch_quote": "자연주의 뷰티 브랜드 시로(SHIRO)가 ‘여행’을 테마로 한 ‘2026 홀리데이 컬렉션’을 오늘(19일) 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "트래블 세트 2026",
+    "brand": "시로",
+    "launch_date": "2026-11-19",
+    "launch_status": "launched",
+    "launch_quote": "자연주의 뷰티 브랜드 시로(SHIRO)가 ‘여행’을 테마로 한 ‘2026 홀리데이 컬렉션’을 오늘(19일) 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "시로가 여행을 테마로 한 홀리데이 컬렉션을 어드벤트 캘린더와 트래블 세트 두 종류로 선보인다.",
+  "key_fact_quote": "자연주의 뷰티 브랜드 시로(SHIRO)가 ‘여행’을 테마로 한 ‘2026 홀리데이 컬렉션’을 오늘(19일) 선보인다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

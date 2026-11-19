@@ -1,0 +1,83 @@
+{
+ "doc_id": "50fbcff849f28732",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53989",
+ "title": "전수현 전 더스킨팩토리(쿤달) 상무, 리에종드로렌 합류",
+ "summary": "유한킴벌리·헨켈을 거쳐 더스킨팩토리에서 쿤달(KUNDAL)의 브랜드 확장을 이끌었던 전수현 전 마케팅본부장(상무)이 프리미엄 스킨케어 브랜드 리에종드로렌(대표 최선정)에 사업 총괄(GM)로 합류했다. 전 상무는 유한킴벌리와 헨켈에서 소비재 브랜드 마케팅 경험을 쌓은 뒤 VIG파트너스의 포트폴…",
+ "published_at": "2026-11-19T06:42:28+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "쿤달",
+   "오브제바이쿤달",
+   "리에종드로렌"
+  ],
+  "companies": [
+   "더스킨팩토리",
+   "유한킴벌리",
+   "헨켈",
+   "VIG파트너스",
+   "제일기획"
+  ],
+  "keywords": [
+   "임원 영입",
+   "프리미엄 스킨케어",
+   "슬로우에이징",
+   "솔리드 퍼퓸",
+   "디퓨저"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "포어 클렌저",
+    "brand": "리에종드로렌",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스톤디퓨저",
+    "brand": "오브제바이쿤달",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "솔리드 퍼퓸 밤",
+    "brand": "오브제바이쿤달",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "쿤달의 브랜드 확장을 이끌었던 전수현 전 상무가 리에종드로렌의 사업 총괄로 합류했다.",
+  "key_fact_quote": "유한킴벌리·헨켈을 거쳐 더스킨팩토리에서 쿤달(KUNDAL)의 브랜드 확장을 이끌었던 전수현 전 마케팅본부장(상무)이 프리미엄 스킨케어 브랜드 리에종드로렌(대표 최선정)에 사업 총괄(GM)로 합류했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

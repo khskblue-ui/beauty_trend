@@ -1,0 +1,42 @@
+{
+ "doc_id": "af391ef17e503532",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.chosun.com/economy/smb-venture/2026/11/19/PEQNGPH4QNFILFW4FII6MHPXU4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+ "title": "수출 1조 달러 뒷받침한 10만 中企… K뷰티 ·반도체 날개",
+ "summary": "중소기업 수출 의 핵심 축은 K뷰티 를 필두로 한 소비재와 반도체 장비다. 중소기업 화장품 수출 은 기존 북미·유럽을 넘어 중남미 시장(전년 동기 대비 +160.3%)까지 폭발적으로 성장하면서 10개월 만에...",
+ "published_at": "2026-11-19T15:09:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "중소기업 수출",
+   "중남미 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중소기업 화장품 수출이 북미와 유럽을 넘어 중남미 시장까지 크게 성장했다.",
+  "key_fact_quote": "중소기업 수출 의 핵심 축은 K뷰티 를 필두로 한 소비재와 반도체 장비다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

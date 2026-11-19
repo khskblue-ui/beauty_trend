@@ -1,0 +1,48 @@
+{
+ "doc_id": "2f9a0fca5ead7c90",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com:8443/en/iff-opens-a-bioprospecting-lab-for,28563",
+ "title": "IFF opens a bioprospecting lab for fragrance and beauty in Brazil",
+ "summary": "International Flavors & Fragrances (IFF) has inaugurated its first Forest Lab at Legado das Águas, Brazil's largest private Atlantic Forest reserve. The bioprospecting laboratory is dedicated to scientific research and innovation in perfumery and beauty. The lab is the next step in the bioprospecting partnership IFF announced in August 2025 with Reservas Votorantim (rV), the green economy division of Brazilian investment firm Votorantim SA, which manages the reserve. Spanning 31,000... - Industry buzz / Latin America",
+ "published_at": "2026-11-19T18:42:12+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "BR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "International Flavors & Fragrances (IFF)",
+   "Reservas Votorantim",
+   "Votorantim SA"
+  ],
+  "keywords": [
+   "생물자원 탐사",
+   "향료 원료 연구",
+   "천연 원료",
+   "지속가능성"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "IFF가 브라질 대서양림 보호구역에 향수와 뷰티 연구를 위한 생물자원 탐사 연구소를 열었다.",
+  "key_fact_quote": "International Flavors & Fragrances (IFF) has inaugurated its first Forest Lab at Legado das Águas, Brazil's largest private Atlantic Forest reserve.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "c112fcd69c08a050",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.tf.co.kr/read/economy/2390798.htm",
+ "title": "한한령 해제 기대에 뷰티 ·식품업계 '촉각'…'사드 학습효과'에 신중론...",
+ "summary": "한 뷰티 업계 관계자는 \"한한령 이후 대중문화 교류가 끊기면서 K - 뷰티 트렌드가 중국에 스며들 통로가... 한국농수산식품유통공사(aT)에 따르면 K -푸드 대중 수출 액은 지난해 20억4272만달러로 10.5% 늘었고, 올해 1...",
+ "published_at": "2026-11-19T14:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "한한령 해제",
+   "대중국 수출",
+   "중국 시장",
+   "신중론"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한한령 해제 기대에 뷰티와 식품 업계가 주목하고 있지만 신중론도 나온다.",
+  "key_fact_quote": "한 뷰티 업계 관계자는 \"한한령 이후 대중문화 교류가 끊기면서 K - 뷰티 트렌드가 중국에 스며들 통로가",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

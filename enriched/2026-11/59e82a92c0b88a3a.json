@@ -1,0 +1,75 @@
+{
+ "doc_id": "59e82a92c0b88a3a",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100540",
+ "title": "토니모리, ‘2026 글로우픽 어워드·앳코스메 코리아 어워드’ 2관왕 달성",
+ "summary": "글로벌 뷰티 브랜드 토니모리가 '세라마이드 모찌 토너'와 '퍼펙트 립 스 쇼킹 립'이 '2026 글로우픽&앳코스메 코리아 어워즈'에서 크림토너 부문과 워터 틴트 부문에서 각각 1위를 차지했다고 19일 밝혔다.글로우픽 어워드는 소비자 리뷰만으로 수상작을 가리는 국내 최초의 100% 소비자 주도형 어워드다. 앳코스메 코리아 어워드는 글로우픽 운영사 글로우데이즈가 일본 뷰티 플랫폼 앳코스메와 협업해 글로우픽 실사용자 리뷰를 바탕으로 선정하며, 수상 제품의 일본 현지 마케팅을 지원하고 있다.‘세라",
+ "published_at": "2026-11-19T10:34:54+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "토니모리"
+  ],
+  "companies": [
+   "토니모리",
+   "글로우데이즈",
+   "글로우픽",
+   "앳코스메"
+  ],
+  "keywords": [
+   "소비자 리뷰 어워드",
+   "보습 토너",
+   "워터 틴트",
+   "스테디셀러"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "세라마이드 모찌 토너",
+    "brand": "토니모리",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퍼펙트 립스 쇼킹 립",
+    "brand": "토니모리",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "토니모리의 세라마이드 모찌 토너와 퍼펙트 립스 쇼킹 립이 글로우픽과 앳코스메 코리아 어워즈에서 부문 정상에 올랐다.",
+  "key_fact_quote": "글로벌 뷰티 브랜드 토니모리가 '세라마이드 모찌 토너'와 '퍼펙트 립 스 쇼킹 립'이 '2026 글로우픽&앳코스메 코리아 어워즈'에서 크림토너 부문과 워터 틴트 부문에서 각각 1위를 차지했다고 19일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "피부 장벽을 구성하는 성분인 세라마이드를 함유한 대용량 보습 토너로, 피부를 쫀쫀하고 촉촉하게 가꿔주는 것이 특징이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

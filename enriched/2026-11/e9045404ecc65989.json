@@ -1,0 +1,54 @@
+{
+ "doc_id": "e9045404ecc65989",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/kering-ventures-investor-olivier-rivard-cohen-perfumehead-ceo",
+ "title": "Kering Ventures investor Olivier Rivard Cohen named Perfumehead CEO",
+ "summary": "The brand is best known for its ultra-concentrated extraits de parfum, which include Cosmic Cowboy, and was founded by Daniel Patrick Giles in in 2022",
+ "published_at": "2026-11-19T21:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Perfumehead"
+  ],
+  "companies": [
+   "Kering Ventures"
+  ],
+  "keywords": [
+   "니치 향수",
+   "엑스트레 드 퍼퓸",
+   "경영진 선임"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Cosmic Cowboy",
+    "brand": "Perfumehead",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "케어링 벤처스 투자자 출신 올리비에 리바르 코엔이 향수 브랜드 퍼퓸헤드의 대표로 선임됐다.",
+  "key_fact_quote": "Kering Ventures investor Olivier Rivard Cohen named Perfumehead CEO",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

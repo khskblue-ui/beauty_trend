@@ -1,0 +1,46 @@
+{
+ "doc_id": "a12a43784239da3e",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/unilever-rumoured-to-be-exploring-a-bid-for-thorne",
+ "title": "Unilever rumoured to be exploring a bid for supplement maker Thorne",
+ "summary": "The consumer goods giant is allegedly one of several firms exploring offers to snap up US supplement brand Thorne from private equity owner L Catterton, according to a new report",
+ "published_at": "2026-11-19T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Thorne"
+  ],
+  "companies": [
+   "Unilever",
+   "L Catterton"
+  ],
+  "keywords": [
+   "인수합병",
+   "건강기능식품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유니레버가 사모펀드 엘 캐터턴이 보유한 미국 건강기능식품 브랜드 쏜 인수를 검토하는 것으로 알려졌다.",
+  "key_fact_quote": "The consumer goods giant is allegedly one of several firms exploring offers to snap up US supplement brand Thorne from private equity owner L Catterton, according to a new report",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

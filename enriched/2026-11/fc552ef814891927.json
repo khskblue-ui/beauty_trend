@@ -1,0 +1,109 @@
+{
+ "doc_id": "fc552ef814891927",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58762",
+ "title": "유씨엘, ‘코스모팩 아시아 2026’서 차세대 하이브리드 제형 기술력 입증",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 화장품 ODM·OEM 전문기업 유씨엘(대표 이지원)이 홍콩에서 열린 ‘코스모팩 아시아 2026(Cosmopack Asia 2026)’에서 스킨케어 기반 하이브리드 제형과 미국 OTC 규제 대응 미네랄 선케어 기술을 선보이며 글로벌 ODM 시장 공략에 속도를 냈다고 19일…",
+ "published_at": "2026-11-19T11:47:52+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "유씨엘",
+   "케이오니리카 코스메틱스",
+   "대봉그룹"
+  ],
+  "keywords": [
+   "스킵케어",
+   "하이브리드 제형",
+   "미네랄 선케어",
+   "컬러 체인징 제형",
+   "화장품 ODM"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "올인원 클렌징 폼 패드",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "크라이오-플렉스 본딩 틴티드 모이스처라이저(Cryo-Flex Bonding Tinted Moisturizer)",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "내추럴 듀이 퍼펙셔너",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퓨어 리프트 블러링 베이스",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미라클 레이어스 글래스 파운데이션",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유씨엘이 홍콩 코스모팩 아시아에서 스킨케어 기반 하이브리드 제형과 미국 OTC 규제 대응 미네랄 선케어 기술을 선보였다.",
+  "key_fact_quote": "유씨엘은 이번 전시회에서 뷰티 루틴을 간소화하는 ‘스킵케어(Skip Care)’와 하나의 제품에 여러 기능을 결합하는 ‘2-in-1 하이브리드’를 핵심 기술 방향으로 내세웠다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "케이오니리카는 5종의 히알루론산과 5종의 세라마이드로 구성된 ‘5+5 콤플렉스’를 적용한 베이스 제품 2종도 전시했다."
+   },
+   {
+    "name": "세라마이드",
+    "quote": "케이오니리카는 5종의 히알루론산과 5종의 세라마이드로 구성된 ‘5+5 콤플렉스’를 적용한 베이스 제품 2종도 전시했다."
+   },
+   {
+    "name": "5+5 콤플렉스",
+    "quote": "케이오니리카는 5종의 히알루론산과 5종의 세라마이드로 구성된 ‘5+5 콤플렉스’를 적용한 베이스 제품 2종도 전시했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

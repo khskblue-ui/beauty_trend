@@ -1,0 +1,57 @@
+{
+ "doc_id": "3e33ddecbbc265ab",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100546",
+ "title": "정샘물 리커버 BB 출시 한 달…라벤더 컬러 ‘인기‘",
+ "summary": "K-NO.1 메이크업 아티스트 정샘물의 뷰티 철학과 노하우를 담은 뷰티 브랜드 정샘물(JUNGSAEMMOOL)의 신제품 ‘에센셜 스킨 누더 리커버 BB’가 출시 약 한 달 만에 새로운 베이스 메이크업 아이템으로 관심을 모으고 있는 가운데, 그중 차분한 가을 메이크업에 화사한 생기를 더해주는 라벤더 컬러가 가장 높은 반응을 얻으며 주목받고 있다.지난 10월 출시된 정샘물 ‘에센셜 스킨 누더 리커버 BB’는 기존 BB 제품의 한계로 여겨지던 특유의 잿빛(회끼)과 두껍고 답답한 피부 표현, 시간이 지나면서 피부가 칙칙해지는 다크닝 현상을",
+ "published_at": "2026-11-19T10:49:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "정샘물"
+  ],
+  "companies": [
+   "정샘물뷰티"
+  ],
+  "keywords": [
+   "컬러 체인지 BB",
+   "베이스 메이크업",
+   "톤 코렉팅",
+   "파데 프리"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "에센셜 스킨 누더 리커버 BB",
+    "brand": "정샘물",
+    "launch_date": "2026-10",
+    "launch_status": "launched",
+    "launch_quote": "지난 10월 출시된 정샘물 ‘에센셜 스킨 누더 리커버 BB’는 기존 BB 제품의 한계로 여겨지던 특유의 잿빛(회끼)과 두껍고 답답한 피부 표현, 시간이 지나면서 피부가 칙칙해지는 다크닝 현상을 보완한 제품이다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "정샘물의 신제품 BB 가운데 라벤더 컬러가 가장 높은 소비자 반응을 얻고 있다.",
+  "key_fact_quote": "그 중에서도 라벤더 컬러가 칙칙한 피부 톤을 화사하게 밝혀주는 ‘쿨톤 체인지 BB’로 입소문을 타며 가장 높은 소비자 반응을 얻고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

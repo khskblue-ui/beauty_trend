@@ -1,0 +1,47 @@
+{
+ "doc_id": "c2e667dac574c9ed",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312784",
+ "title": "China’s Tmall Essence Market Grows as Demand for Repair and Anti-Aging Skincare Accelerates",
+ "summary": "China’s essence market on Tmall continued to expand in October 2026, supported by rising demand for skin repair, barrier care, and anti-aging skincare solutions.The category’s growth was largely driven by domestic Chinese brands, which further strengthened their leadership in one of the country’s mo",
+ "published_at": "2026-11-19T14:40:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "Tmall"
+  ],
+  "keywords": [
+   "에센스",
+   "피부 장벽 케어",
+   "안티에이징",
+   "고효능 스킨케어",
+   "중국 로컬 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 티몰의 에센스 시장이 피부 재생, 장벽 케어, 안티에이징 수요에 힘입어 성장을 이어갔다.",
+  "key_fact_quote": "China’s essence market on Tmall continued to expand in October 2026, supported by rising demand for skin repair, barrier care, and anti-aging skincare solutions.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

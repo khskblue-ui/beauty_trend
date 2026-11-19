@@ -1,0 +1,76 @@
+{
+ "doc_id": "2d7aba890f259d18",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58766",
+ "title": "정샘물뷰티, 신제품 ‘리커버 BB’ 라벤더 컬러 출시 한 달 만에 인기 집중",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 메이크업 아티스트 정샘물의 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 지난 10월 출시한 신제품 ‘정샘물 에센셜 스킨 누더 리커버 BB’의 라벤더 컬러가 출시 약 한 달 만에 3가지 컬러 중 가장 높은 소비자 호응을 얻으며 새로운 베이스 메이크업 제품으로 주목받고…",
+ "published_at": "2026-11-19T12:33:46+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "정샘물"
+  ],
+  "companies": [
+   "정샘물뷰티",
+   "올리브영"
+  ],
+  "keywords": [
+   "톤 코렉팅",
+   "파데 프리",
+   "베이스 메이크업",
+   "BB크림"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "정샘물 에센셜 스킨 누더 리커버 BB",
+    "brand": "정샘물",
+    "launch_date": "2026-10",
+    "launch_status": "launched",
+    "launch_quote": "메이크업 아티스트 정샘물의 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 지난 10월 출시한 신제품 ‘정샘물 에센셜 스킨 누더 리커버 BB’의 라벤더 컬러가 출시 약 한 달 만에 3가지 컬러 중 가장 높은 소비자 호응을 얻으며 새로운 베이스 메이크업 제품으로 주목받고 있다고 19일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "정샘물 에센셜 물 크림",
+    "brand": "정샘물",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "스킨 누더 포켓 스파츌라 브러쉬",
+    "brand": "정샘물",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "정샘물이 지난달 출시한 BB 신제품의 라벤더 컬러가 세 가지 컬러 가운데 가장 높은 소비자 호응을 얻었다.",
+  "key_fact_quote": "메이크업 아티스트 정샘물의 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 지난 10월 출시한 신제품 ‘정샘물 에센셜 스킨 누더 리커버 BB’의 라벤더 컬러가 출시 약 한 달 만에 3가지 컬러 중 가장 높은 소비자 호응을 얻으며 새로운 베이스 메이크업 제품으로 주목받고 있다고 19일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

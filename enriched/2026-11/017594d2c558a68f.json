@@ -1,0 +1,59 @@
+{
+ "doc_id": "017594d2c558a68f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newspim.com/news/view/20261119001241",
+ "title": "LG생건 \"'더후' 질적 성장\"·애경 \"새 뷰티 기회\"…'한한령' 엇갈린 시각",
+ "summary": "LG생활건강은 궁중 피부과학 럭셔리 코스메틱 브랜드 '더후'의 '환유 레드 에디션' 중국 한정 출시 를 기념해 올 1월 중국에서 VIP 초청 행사를 진행했다. [사진= LG 생활건강] 뷰티 업계에는 특히 의미가 크다. 화장품 은 매장...",
+ "published_at": "2026-11-19T16:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "더후"
+  ],
+  "companies": [
+   "LG생활건강",
+   "애경"
+  ],
+  "keywords": [
+   "한한령",
+   "중국 시장",
+   "럭셔리 화장품",
+   "중국 한정판"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "환유 레드 에디션",
+    "brand": "더후",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "LG생활건강은 궁중 피부과학 럭셔리 코스메틱 브랜드 '더후'의 '환유 레드 에디션' 중국 한정 출시 를 기념해 올 1월 중국에서 VIP 초청 행사를 진행했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "한한령 해제 기대를 두고 LG생활건강은 더후의 질적 성장을, 애경은 새로운 뷰티 기회를 말하며 시각이 엇갈렸다.",
+  "key_fact_quote": "LG생건 \"'더후' 질적 성장\"·애경 \"새 뷰티 기회\"…'한한령' 엇갈린 시각",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

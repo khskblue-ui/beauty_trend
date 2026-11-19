@@ -1,0 +1,43 @@
+{
+ "doc_id": "0ca43f111590b532",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.greened.kr/news/articleView.html?idxno=355102",
+ "title": "\"연예인 아니어도 치아 미백\"...구강·헤어도 이제는 K - 뷰티",
+ "summary": "강조한 뷰티 영역을 확장되기 시작했다. 이는 최근 H&B 업계가 그간 집중해왔던 뷰티 영역에 이어... 지난해 한국의 헤어케어 제품 수출 액은 전년 대비 15.7% 증가한 약 4억 7817만달러 한화로 약 7220억원을 기록해 역대...",
+ "published_at": "2026-11-19T16:59:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "구강 케어",
+   "치아 미백",
+   "헤어케어 수출",
+   "H&B"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "지난해 한국의 헤어케어 제품 수출액이 전년보다 늘었다.",
+  "key_fact_quote": "지난해 한국의 헤어케어 제품 수출 액은 전년 대비 15.7% 증가한 약 4억 7817만달러 한화로 약 7220억원을 기록해",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

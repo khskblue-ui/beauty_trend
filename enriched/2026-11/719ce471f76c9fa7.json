@@ -1,0 +1,46 @@
+{
+ "doc_id": "719ce471f76c9fa7",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/bath-body-works-beats-q3-estimates-raise-full-year-guidance-1239428045/",
+ "title": "Bath & Body Works Beats Q3 Estimates, but CEO Daniel Heaf Says There’s More Work to Do",
+ "summary": "Bath & Body Works exceeded third-quarter sales and earnings expectations and showcased early progress from its Consumer First Formula strategy. But Heaf emphasized the need for further improvements to drive sustainable growth across all channels.",
+ "published_at": "2026-11-20T03:16:22+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Bath & Body Works"
+  ],
+  "companies": [
+   "Bath & Body Works"
+  ],
+  "keywords": [
+   "분기 실적",
+   "바디케어 리테일",
+   "소비자 중심 전략"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Bath & Body Works가 분기 매출과 이익에서 시장 예상을 웃돌았지만 최고경영자는 추가 개선이 필요하다고 밝혔다.",
+  "key_fact_quote": "Bath & Body Works exceeded third-quarter sales and earnings expectations and showcased early progress from its Consumer First Formula strategy.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

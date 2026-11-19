@@ -1,0 +1,40 @@
+{
+ "doc_id": "9a96054038ea9ebc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001371",
+ "title": "향수는 왜 거리로 나왔나 [이선미의 퍼퓸테크]",
+ "summary": "이들 팝업은 향료 와 노트를 길게 설명하는 대신, 향이 가장 잘 어울리는 장면을 보여주고 방문객이 그 안에서 먹고 쉬며 직접 참여하도록 했다. 향은 화면으로 전달하기 어렵지만 공간과 행동을 통해 기억될 수 있다....",
+ "published_at": "2026-11-19T11:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "향수 팝업스토어",
+   "체험형 마케팅",
+   "공간 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "향수 팝업은 향료와 노트 설명 대신 향이 어울리는 장면을 보여 주고 방문객이 직접 참여하게 했다.",
+  "key_fact_quote": "이들 팝업은 향료 와 노트를 길게 설명하는 대신, 향이 가장 잘 어울리는 장면을 보여주고 방문객이 그 안에서 먹고 쉬며 직접 참여하도록 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "7ae52e40a840f615",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/iff-opens-brazil-forest-lab-to-find-new",
+ "title": "IFF opens Brazil Forest Lab to find new fragrance and beauty ingredients",
+ "summary": "IFF Forest Lab in Legado das Águas, Brazil’s largest private Atlantic Forest reserve, will house scientists and perfumers as they study the ingredient opportunities across the 31,000 hectare region",
+ "published_at": "2026-11-19T20:53:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "BR"
+  ],
+  "brands": [],
+  "companies": [
+   "IFF"
+  ],
+  "keywords": [
+   "향료 원료 탐색",
+   "천연 원료",
+   "생물 다양성",
+   "연구소 개소"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "IFF가 브라질 대서양림 보호구역에 향료와 뷰티 원료를 찾는 연구 거점 포레스트 랩을 열었다.",
+  "key_fact_quote": "IFF Forest Lab in Legado das Águas, Brazil’s largest private Atlantic Forest reserve, will house scientists and perfumers as they study the ingredient opportunities across the 31,000 hectare region",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

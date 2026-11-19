@@ -1,0 +1,70 @@
+{
+ "doc_id": "958f043ac81278f0",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100545",
+ "title": "파마리서치 ‘리쥬란’, 산업통상부·KOTRA 인증 세계일류상품 선정",
+ "summary": "재생의학 전문기업 파마리서치(대표 손지훈)는 국내 최초 PN(폴리뉴클레오티드) 기반 스킨부스터 ‘리쥬란’이 산업통상부와 대한무역투자진흥공사(KOTRA)가 주관하는 세계일류상품 육성사업에서 ‘2026 현재 세계일류상품’에 선정됐다고 19일 밝혔다.세계일류상품 육성사업은 정부 기관이 국내 우수 상품을 발굴해 미래 수출 동력을 확보하고, 기업의 해외 경쟁력을 높이기 위해 2001년부터 시행하고 있는 인증 사업이다. 인증은 ‘현재 세계일류상품’과 ‘차세대 일류상품’으로 구분되며, 세계시장 점유율 5위 이내 및 5% 이상인 상품을 ‘현재 세",
+ "published_at": "2026-11-19T10:46:30+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR",
+   "MX",
+   "AR"
+  ],
+  "brands": [
+   "리쥬란"
+  ],
+  "companies": [
+   "파마리서치",
+   "KOTRA"
+  ],
+  "keywords": [
+   "스킨부스터",
+   "폴리뉴클레오티드",
+   "메디컬 에스테틱",
+   "수출 확대"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리쥬란",
+    "brand": "리쥬란",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "파마리서치의 PN 기반 스킨부스터 리쥬란이 정부 인증 세계일류상품에 선정됐다.",
+  "key_fact_quote": "재생의학 전문기업 파마리서치(대표 손지훈)는 국내 최초 PN(폴리뉴클레오티드) 기반 스킨부스터 ‘리쥬란’이 산업통상부와 대한무역투자진흥공사(KOTRA)가 주관하는 세계일류상품 육성사업에서 ‘2026 현재 세계일류상품’에 선정됐다고 19일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PN(폴리뉴클레오티드)",
+    "quote": "재생의학 전문기업 파마리서치(대표 손지훈)는 국내 최초 PN(폴리뉴클레오티드) 기반 스킨부스터 ‘리쥬란’이 산업통상부와 대한무역투자진흥공사(KOTRA)가 주관하는 세계일류상품 육성사업에서 ‘2026 현재 세계일류상품’에 선정됐다고 19일 밝혔다."
+   },
+   {
+    "name": "DOT®PN",
+    "quote": "2026 현재 세계일류상품으로 선정된 리쥬란은 파마리서치의 독자 성분 DOT®PN을 적용한 안면부 주름 개선 목적의 의료기기다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

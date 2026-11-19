@@ -1,0 +1,42 @@
+{
+ "doc_id": "83e53ae9766b62cd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885203",
+ "title": "반도체가 끌고 K뷰티 가 밀었다…韓 수출 1조 달러 시대 '활짝'",
+ "summary": "반도체·자동차·조선 등 기존 수출 산업의 경쟁력을 높이는 동시에 AI와 바이오, 로봇 등 미래 산업을 육성하고 K뷰티 ·K푸드 등 소비재의 해외 판로 확대도 지원한다. 다만 반도체와 석유제품의 수출 단가 변동성...",
+ "published_at": "2026-11-19T15:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "소비재 수출",
+   "해외 판로 확대"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "정부가 K뷰티와 K푸드 등 소비재의 해외 판로 확대를 지원한다.",
+  "key_fact_quote": "K뷰티 ·K푸드 등 소비재의 해외 판로 확대도 지원한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

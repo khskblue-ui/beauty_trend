@@ -1,0 +1,41 @@
+{
+ "doc_id": "adbd762e59122c2c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.vegannews.co.kr/news/article.html?no=407759",
+ "title": "“시향지에선 좋았는데 피부에선 다르네”…향수가 달라지는 이유",
+ "summary": "향료 증발 속도와 피부 수분이 잔향에 영향 시향지에서 맡은 향과 피부에 뿌린 뒤의 향이 다르게 느껴지는 것은 향료 성분마다 증발하는 속도가 다르고, 피부에 남거나 퍼지는 정도도 다르기 때문이다. 시간이 흐르면 향을...",
+ "published_at": "2026-11-19T17:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "향수 잔향",
+   "시향지",
+   "향료 증발 속도",
+   "피부 수분"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "시향지와 피부에서 향이 다르게 느껴지는 것은 향료 성분마다 증발 속도와 피부에 남는 정도가 다르기 때문이다.",
+  "key_fact_quote": "시향지에서 맡은 향과 피부에 뿌린 뒤의 향이 다르게 느껴지는 것은 향료 성분마다 증발하는 속도가 다르고, 피부에 남거나 퍼지는 정도도 다르기 때문이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

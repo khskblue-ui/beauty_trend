@@ -1,0 +1,62 @@
+{
+ "doc_id": "36af7c3040884a9e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=203694",
+ "title": "듀엠, 스킨케어 넘어 글로우 쿠션으로 브랜드 경쟁력 확대 [2026 K라이프...",
+ "summary": "대한 화장품 산업연구원 등이 공동 후원한다. 이번 시상에서 이언주 의원 특별상을 수상한 듀엠은 브라이츠가... 이 같은 제품 개발 방향은 스킨케어 신제품 으로도 이어졌다. 2025년에는 '리프 인 콜라겐 샷 슬리핑 마스크...",
+ "published_at": "2026-11-19T10:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "듀엠"
+  ],
+  "companies": [
+   "브라이츠"
+  ],
+  "keywords": [
+   "글로우 쿠션",
+   "슬리핑 마스크",
+   "스킨케어",
+   "콜라겐"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리프 인 콜라겐 샷 슬리핑 마스크",
+    "brand": "듀엠",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "듀엠이 이번 시상에서 이언주 의원 특별상을 받았다.",
+  "key_fact_quote": "이번 시상에서 이언주 의원 특별상을 수상한 듀엠은 브라이츠가",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "콜라겐",
+    "quote": "2025년에는 '리프 인 콜라겐 샷 슬리핑 마스크"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

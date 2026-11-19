@@ -1,0 +1,104 @@
+{
+ "doc_id": "ccca3602a578a803",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53992",
+ "title": "유씨엘·케이오니리카, 글로벌 ODM 기술력 홍콩서 입증",
+ "summary": "화장품 ODM·OEM 전문기업 유씨엘(대표 이지원)이 자회사 케이오니리카코스메틱스와 함께 홍콩에서 열린 ‘코스모팩 아시아 2026’에 참가, 차세대 하이브리드 제형과 선케어 기술을 선보이며 글로벌 시장 공략에 속도를 높였다. 특히 케이오니리카의 ‘크라이오-플렉스 본딩 틴티드 모이스처라이저’…",
+ "published_at": "2026-11-19T09:21:58+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "유씨엘",
+   "케이오니리카코스메틱스"
+  ],
+  "keywords": [
+   "하이브리드 제형",
+   "스킵케어",
+   "미네랄 선케어",
+   "화장품 ODM",
+   "틴티드 모이스처라이저"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "크라이오-플렉스 본딩 틴티드 모이스처라이저",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "올인원 클렌징 폼 패드",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "내추럴 듀이 퍼펙셔너",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퓨어 리프트 블러링 베이스",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미라클 레이어스 글래스 파운데이션",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유씨엘이 자회사 케이오니리카코스메틱스와 홍콩 코스모팩 아시아에 참가해 하이브리드 제형과 선케어 기술을 선보였다.",
+  "key_fact_quote": "유씨엘은 이번 전시에서 뷰티 루틴을 간소화하는 ‘스킵케어’(Skip Care) 와 하나의 제품에 여러 기능을 결합한 ‘2-in-1 하이브리드’ 를 핵심 기술로 제시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "어워즈 파이널리스트에 선정된 크라이오-플렉스 본딩 틴티드 모이스처라이저를 비롯해 5종의 히알루론산과 5종의 세라마이드를 조합한 ‘5+5 콤플렉스’ 적용 베이스 제품 2종도 선보였다."
+   },
+   {
+    "name": "세라마이드",
+    "quote": "어워즈 파이널리스트에 선정된 크라이오-플렉스 본딩 틴티드 모이스처라이저를 비롯해 5종의 히알루론산과 5종의 세라마이드를 조합한 ‘5+5 콤플렉스’ 적용 베이스 제품 2종도 선보였다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

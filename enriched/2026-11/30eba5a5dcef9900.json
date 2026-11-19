@@ -1,0 +1,98 @@
+{
+ "doc_id": "30eba5a5dcef9900",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100535",
+ "title": "리센느 미나미·제나 앞세운 한스킨, '할인광' 최대 87% 할인",
+ "summary": "셀트리온의 기술과 성분에 트렌디한 재해석을 더한 아이코닉 뷰티 브랜드 한스킨(hanskin)이 방송인 황광희가 진행하는 유튜브 웹예능 ‘할인광’에 출연해 11월 18일부터 24일까지 7일간 최대 87% 할인 프로모션을 진행한다.이번 프로모션은 한스킨의 주요 인기 스킨케어, 클렌징, 메이크업 제품 약 40종을 대상으로 진행되며, 3,900원 특가를 비롯해 단품 및 세트 구성까지 다양한 가격대의 할인 혜택을 마련해 소비자들이 한스킨의 대표 제품을 합리적인 가격으로 만나볼 수 있도록 구성됐다. 주요 할인 품목으로는 한스킨의 대표 제품인",
+ "published_at": "2026-11-19T10:27:05+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "한스킨"
+  ],
+  "companies": [
+   "셀트리온",
+   "솔로몬코드"
+  ],
+  "keywords": [
+   "유튜브 커머스",
+   "할인 프로모션",
+   "PDRN 스킨케어",
+   "블랙헤드 클렌징"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "아라연꽃 PDRN 히알루론 광채 세럼",
+    "brand": "한스킨",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "아라연꽃 PDRN 히알루론 광채 플럼핑 크림",
+    "brand": "한스킨",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "클렌징 오일&블랙헤드 PHA",
+    "brand": "한스킨",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "클렌징 바나나 밀크&블랙헤드 PHA",
+    "brand": "한스킨",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "한스킨이 유튜브 웹예능 할인광에 출연해 주요 스킨케어와 클렌징, 메이크업 제품 할인 프로모션을 진행한다.",
+  "key_fact_quote": "셀트리온의 기술과 성분에 트렌디한 재해석을 더한 아이코닉 뷰티 브랜드 한스킨(hanskin)이 방송인 황광희가 진행하는 유튜브 웹예능 ‘할인광’에 출연해 11월 18일부터 24일까지 7일간 최대 87% 할인 프로모션을 진행한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "주요 할인 품목으로는 한스킨의 대표 제품인 ▲아라연꽃 PDRN 히알루론 광채 세럼을 비롯해 ▲아라연꽃 PDRN 히알루론 광채 플럼핑 크림, ▲클렌징 오일&블랙헤드 PHA, ▲클렌징 바나나 밀크&블랙헤드 PHA 등이 포함됐다."
+   },
+   {
+    "name": "히알루론",
+    "quote": "주요 할인 품목으로는 한스킨의 대표 제품인 ▲아라연꽃 PDRN 히알루론 광채 세럼을 비롯해 ▲아라연꽃 PDRN 히알루론 광채 플럼핑 크림, ▲클렌징 오일&블랙헤드 PHA, ▲클렌징 바나나 밀크&블랙헤드 PHA 등이 포함됐다."
+   },
+   {
+    "name": "PHA",
+    "quote": "주요 할인 품목으로는 한스킨의 대표 제품인 ▲아라연꽃 PDRN 히알루론 광채 세럼을 비롯해 ▲아라연꽃 PDRN 히알루론 광채 플럼핑 크림, ▲클렌징 오일&블랙헤드 PHA, ▲클렌징 바나나 밀크&블랙헤드 PHA 등이 포함됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

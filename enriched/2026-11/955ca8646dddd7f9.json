@@ -1,0 +1,42 @@
+{
+ "doc_id": "955ca8646dddd7f9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.srtimes.kr/news/articleView.html?idxno=218145",
+ "title": "수출 1조 달러 시대…'혁혁한 공' 세운 K - 뷰티 · K -푸드",
+ "summary": "◆정부, 소비재 해외 판로 확대·역직구 활성화 적극 추진 K - 뷰티 와 K -푸드의 수출 확대는 반도체 등 특정 주력 산업에 대한 수출 의존도를 완화하고 소비재 중심의 새로운 성장 기반을 확보한다는 점에서 의미가...",
+ "published_at": "2026-11-19T18:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "소비재 수출",
+   "역직구"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티와 K푸드의 수출 확대는 특정 주력 산업에 대한 수출 의존도를 낮추고 소비재 중심의 성장 기반을 마련한다는 의미가 있다.",
+  "key_fact_quote": "K - 뷰티 와 K -푸드의 수출 확대는 반도체 등 특정 주력 산업에 대한 수출 의존도를 완화하고 소비재 중심의 새로운 성장 기반을 확보한다는 점에서 의미가",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

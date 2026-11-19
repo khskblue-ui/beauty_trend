@@ -1,0 +1,56 @@
+{
+ "doc_id": "34bcc280dda2d2af",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=150311",
+ "title": "정샘물 뷰티 , 신제품 BB 3종 중 라벤더 반응 앞서",
+ "summary": "메이크업 아티스트 정샘물의 노하우를 바탕으로 전개하는 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 지난 10월 출시 한 '에센셜 스킨 누더 리커버 BB' 3개 컬러 가운데 라벤더에 가장 높은 소비자 반응이 나타났다고 19일 밝혔다....",
+ "published_at": "2026-11-19T11:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "정샘물"
+  ],
+  "companies": [
+   "정샘물 뷰티"
+  ],
+  "keywords": [
+   "베이스 메이크업",
+   "BB크림",
+   "컬러 보정"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "에센셜 스킨 누더 리커버 BB",
+    "brand": "정샘물",
+    "launch_date": "2026-10",
+    "launch_status": "launched",
+    "launch_quote": "메이크업 아티스트 정샘물의 노하우를 바탕으로 전개하는 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 지난 10월 출시 한 '에센셜 스킨 누더 리커버 BB' 3개 컬러 가운데 라벤더에 가장 높은 소비자 반응이 나타났다고 19일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "정샘물이 지난달 내놓은 BB 신제품 가운데 라벤더 컬러의 소비자 반응이 가장 높았다.",
+  "key_fact_quote": "메이크업 아티스트 정샘물의 노하우를 바탕으로 전개하는 뷰티 브랜드 정샘물(JUNGSAEMMOOL)이 지난 10월 출시 한 '에센셜 스킨 누더 리커버 BB' 3개 컬러 가운데 라벤더에 가장 높은 소비자 반응이 나타났다고 19일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

@@ -1,0 +1,48 @@
+{
+ "doc_id": "aa1cc6b1aabc2176",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mkhealth.co.kr/news/articleView.html?idxno=81003",
+ "title": "K - 뷰티 플랫폼 한국 법인 인수…애드바이오텍 사업 다각화 속도",
+ "summary": "19일 회사 측에 따르면 카자흐스탄 K - 뷰티 플랫폼 베스티(Bestee)의 한국 유통법인 지분 51%를 인수했다. 이에 따라 국내 화장품 브랜드 발굴과 제품 소싱, 공급계약 및 수출 업무를 총괄하게 된다. 이번 투자는 지난 10월...",
+ "published_at": "2026-11-19T16:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "KZ"
+  ],
+  "brands": [
+   "베스티"
+  ],
+  "companies": [
+   "애드바이오텍"
+  ],
+  "keywords": [
+   "K-뷰티 플랫폼",
+   "지분 인수",
+   "중앙아시아 수출",
+   "사업 다각화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "애드바이오텍이 카자흐스탄 K-뷰티 플랫폼 베스티의 한국 유통법인 지분 과반을 인수했다.",
+  "key_fact_quote": "19일 회사 측에 따르면 카자흐스탄 K - 뷰티 플랫폼 베스티(Bestee)의 한국 유통법인 지분 51%를 인수했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

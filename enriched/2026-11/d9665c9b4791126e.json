@@ -1,0 +1,49 @@
+{
+ "doc_id": "d9665c9b4791126e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsway.co.kr/news/view?ud=2026111914002778706",
+ "title": "애드바이오텍, 카자흐 K뷰티 플랫폼 '베스티' 韓법인 지분 51% 인수",
+ "summary": "현지에서 확보한 제품별 소비자 반응과 판매 데이터는 국내 제조사의 신제품 공급 및 추가 브랜드 발굴에 활용한다. 취급 품목도 기존 기초·색조 화장품 에서 이너뷰티와 뷰티 디바이스 등으로 단계적 다각화를...",
+ "published_at": "2026-11-19T14:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "KZ"
+  ],
+  "brands": [
+   "베스티"
+  ],
+  "companies": [
+   "애드바이오텍"
+  ],
+  "keywords": [
+   "K뷰티 유통 플랫폼",
+   "중앙아시아 시장",
+   "이너뷰티",
+   "뷰티 디바이스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "4feb02f4993fa02e",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

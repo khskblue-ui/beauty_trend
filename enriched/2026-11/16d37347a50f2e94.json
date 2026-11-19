@@ -1,0 +1,44 @@
+{
+ "doc_id": "16d37347a50f2e94",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/estee-lauder-cos-considers-organizational-changes-france-1239428203/",
+ "title": "The Estée Lauder Cos. Considers Organizational Changes in France",
+ "summary": "The restructuring could lead to up to 67 voluntary departures in the country.",
+ "published_at": "2026-11-20T03:14:59+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "The Estée Lauder Cos."
+  ],
+  "keywords": [
+   "조직 개편",
+   "구조조정",
+   "희망퇴직"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에스티 로더 컴퍼니즈가 프랑스에서 조직 개편을 검토하고 있으며 자발적 퇴직으로 이어질 수 있다.",
+  "key_fact_quote": "The restructuring could lead to up to 67 voluntary departures in the country.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

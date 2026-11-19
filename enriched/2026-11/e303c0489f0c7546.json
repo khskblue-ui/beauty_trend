@@ -1,0 +1,42 @@
+{
+ "doc_id": "e303c0489f0c7546",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53991",
+ "title": "화장품협회 홈페이지 주소 변경",
+ "summary": "대한화장품협회(회장 서경배)가 홈페이지 주소를 변경했다고 밝혔다. 새 주소는 www.koreacosmetics.org다. 화장품협회는 기존 홈페이지 주소(www.kcia.or.kr)가 특정 정부기관을 연상시킨다는 의견에 따라 홈페이지 주소 변경을 추진해 왔다.",
+ "published_at": "2026-11-19T09:00:17+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품협회"
+  ],
+  "keywords": [
+   "업계 단체"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한화장품협회가 홈페이지 주소를 바꿨다.",
+  "key_fact_quote": "대한화장품협회(회장 서경배)가 홈페이지 주소를 변경했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

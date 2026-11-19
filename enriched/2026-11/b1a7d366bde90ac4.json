@@ -1,0 +1,115 @@
+{
+ "doc_id": "b1a7d366bde90ac4",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100539",
+ "title": "세르본, ‘코스모프로프 아시아 홍콩 2026’ 참가 성료",
+ "summary": "피부전달과학 기반 세르본(CELEBON)이 지난 11월 11일부터 13일까지 홍콩컨벤션전시센터(HKCEC)에서 열린 ‘코스모프로프 아시아 홍콩 2026(Cosmoprof Asia Hong Kong 2026)’를 성황리에 마무리했다고 밝혔다.코스모프로프 아시아는 세계 각국의 뷰티 기업과 바이어들이 참여하는 아시아 주요 B2B 뷰티 박람회다. 세르본은 이번 행사에서 독자적인 세포투과 펩타이드 기반 전달 기술과 주요 제품을 선보이며 해외 바이어들의 관심을 모았다. 또한 다양한 국가의 바이어들과 미팅을 진행하며 글로벌 시장과의 접점을 확대",
+ "published_at": "2026-11-19T10:33:17+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [
+   "세르본",
+   "튜닝엑스"
+  ],
+  "companies": [],
+  "keywords": [
+   "더마코스메틱",
+   "피부 전달 기술",
+   "세포투과 펩타이드",
+   "해외 박람회"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "부스팅 에센스",
+    "brand": "세르본",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "앰플 크림",
+    "brand": "세르본",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "링클 쉴드 크림",
+    "brand": "세르본",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "크림 미스트",
+    "brand": "세르본",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "딥 마스크 3종",
+    "brand": "세르본",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "듀얼액션 오일 투 폼",
+    "brand": "세르본",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "세르본이 홍콩 뷰티 박람회에 참가해 세포투과 펩타이드 기반 전달 기술과 주요 제품을 선보였다.",
+  "key_fact_quote": "세르본은 이번 행사에서 독자적인 세포투과 펩타이드 기반 전달 기술과 주요 제품을 선보이며 해외 바이어들의 관심을 모았다.",
+  "events": [
+   {
+    "name": "코스모프로프 아시아 홍콩 2026",
+    "start_date": "2026-11-11",
+    "end_date": "2026-11-13",
+    "place": "홍콩컨벤션전시센터(HKCEC)",
+    "quote": "피부전달과학 기반 세르본(CELEBON)이 지난 11월 11일부터 13일까지 홍콩컨벤션전시센터(HKCEC)에서 열린 ‘코스모프로프 아시아 홍콩 2026(Cosmoprof Asia Hong Kong 2026)’를 성황리에 마무리했다고 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "세포투과 펩타이드",
+    "quote": "세르본의 튜닝엑스 라인에 적용된 NR 전달 기술은 세포투과 펩타이드(Cell-Penetrating Peptide, CPP)를 기반으로 유효성분의 피부 전달을 고려한 기술이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "3f7c4665b28fee9b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ibabynews.com/news/articleView.html?idxno=157068",
+ "title": "[ 뷰티 트렌드] K- 뷰티 브랜드 몽클로스, 뉴욕타임스 단독 소개…글로벌 ...",
+ "summary": "국내외 뷰티 ·생활건강 기업들이 발표한 신제품 출시 , 성분·기술 연구, 캠페인, 사회공헌 활동 등 다양한 소식 가운데 일상 속 피부 건강과 자기관리, 가족의 삶의 질 향상에 도움이 되는 정보를 선별해 소개한다....",
+ "published_at": "2026-11-19T14:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "몽클로스"
+  ],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "해외 언론 소개",
+   "글로벌 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 브랜드 몽클로스가 뉴욕타임스에 단독으로 소개됐다.",
+  "key_fact_quote": "K- 뷰티 브랜드 몽클로스, 뉴욕타임스 단독 소개",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

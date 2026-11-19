@@ -1,0 +1,104 @@
+{
+ "doc_id": "17272f90aad38b6d",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312908",
+ "title": "코스모프로프 아시아 2026 폐막…K-뷰티, 기술 기반 경쟁력으로 글로벌 바이어 공략",
+ "summary": "아시아 최대 뷰티 B2B 전시회인 \\'코스모프로프 아시아 홍콩 2026(Cosmoprof Asia Hong Kong 2026)\\'가 지난 13일 폐막했다.올해 전시회에는 화장품 브랜드와 ODM 기업들이 대거 참가해 하이브리드 제형, 차세대 전달기술, 더마코스메틱, 기능성 선케어 등으로 글로벌 시장을 공략했다.업계에 따르면 이번 전시회에는 40여 개국에서 2800개 이상의 기업이 참가했으며, 7만 명이 넘는 업계 관계자들이 현장을 찾았다. 북미와 유럽, 중동, 동남아시아 바이어들이 대거 방문하면서 K-뷰티 기업들의 수출 확대 가능성도 확",
+ "published_at": "2026-11-19T10:43:10+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [
+   "라보페",
+   "세르본",
+   "필로디"
+  ],
+  "companies": [
+   "유씨엘",
+   "케이오니리카 코스메틱스"
+  ],
+  "keywords": [
+   "하이브리드 제형",
+   "더마코스메틱",
+   "전달기술",
+   "기능성 선케어",
+   "스킵케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "크라이오-플렉스 본딩 틴티드 모이스처라이저",
+    "brand": "케이오니리카 코스메틱스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "튜닝엑스",
+    "brand": "세르본",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코스모프로프 아시아 홍콩에서 한국 기업들은 하이브리드 제형과 더마코스메틱, 전달기술을 앞세워 해외 바이어를 공략했다.",
+  "key_fact_quote": "이번 전시회를 관통한 핵심 키워드는 '하이브리드(Hybrid)'와 '더마(Derma)', 그리고 '전달기술(Delivery Technology)'이었다.",
+  "events": [
+   {
+    "name": "코스모프로프 아시아 홍콩 2026",
+    "start_date": "2026-11-13",
+    "end_date": null,
+    "place": "홍콩",
+    "quote": "아시아 최대 뷰티 B2B 전시회인 '코스모프로프 아시아 홍콩 2026(Cosmoprof Asia Hong Kong 2026)'가 지난 13일 폐막했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "페넬라겐",
+    "quote": "해양 유래 더마코스메틱 브랜드 라보페는 불가사리 유래 콜라겐 펩타이드에 경피전달기술을 접목한 특허 원료 '페넬라겐'을 적용한 제품군을 선보였다."
+   },
+   {
+    "name": "불가사리 유래 콜라겐 펩타이드",
+    "quote": "해양 유래 더마코스메틱 브랜드 라보페는 불가사리 유래 콜라겐 펩타이드에 경피전달기술을 접목한 특허 원료 '페넬라겐'을 적용한 제품군을 선보였다."
+   },
+   {
+    "name": "세포투과 펩타이드(CPP)",
+    "quote": "세르본 역시 세포투과 펩타이드(CPP)를 기반으로 한 NR 전달 기술을 적용한 '튜닝엑스' 라인을 소개했다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "필로디는 PDRN, 엑소좀, 히알루론산 등을 적용한 고기능성 스킨케어 라인을 선보이며 해외 바이어와 접점을 확대했다."
+   },
+   {
+    "name": "엑소좀",
+    "quote": "필로디는 PDRN, 엑소좀, 히알루론산 등을 적용한 고기능성 스킨케어 라인을 선보이며 해외 바이어와 접점을 확대했다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "필로디는 PDRN, 엑소좀, 히알루론산 등을 적용한 고기능성 스킨케어 라인을 선보이며 해외 바이어와 접점을 확대했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

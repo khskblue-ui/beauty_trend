@@ -1,0 +1,46 @@
+{
+ "doc_id": "469489fb26b0f6cc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newspim.com/news/view/20261119000482",
+ "title": "E8, 美 예스세일즈와 MOU…\"AI로 K- 뷰티 판매전략 검증\"",
+ "summary": "판매·재고·가격 등 데이터를 서로 연결해 결과를 예측하는 인공지능(AI) 기술을 개발하는 E8(이에이트)는 미국 뷰티 유통·마케팅 기업 예스세일즈(Yes Sales, Inc.)와 AI 기반 신제품 출시 전략 솔루션 공동 개발을 위한...",
+ "published_at": "2026-11-19T11:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "E8",
+   "예스세일즈"
+  ],
+  "keywords": [
+   "AI 판매 전략",
+   "신제품 출시 전략",
+   "K뷰티 미국 유통"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "이에이트가 미국 뷰티 유통 기업 예스세일즈와 AI 기반 신제품 출시 전략 솔루션을 함께 개발하기로 했다.",
+  "key_fact_quote": "판매·재고·가격 등 데이터를 서로 연결해 결과를 예측하는 인공지능(AI) 기술을 개발하는 E8(이에이트)는 미국 뷰티 유통·마케팅 기업 예스세일즈(Yes Sales, Inc.)와 AI 기반 신제품 출시 전략 솔루션 공동 개발을 위한",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

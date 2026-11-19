@@ -1,0 +1,93 @@
+{
+ "doc_id": "32306d7eff83fa03",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100536",
+ "title": "아누아, 日 ‘앳코스메 베스트 코스메 어워드 2026’ 7관왕",
+ "summary": "글로벌 브랜드 빌더 기업 더파운더즈가 운영하는 글로벌 뷰티 브랜드 아누아(Anua)가 일본 최대 뷰티 플랫폼 ‘앳코스메(@cosme)’가 주관하는 ‘베스트 코스메 어워드 2026’에서 7관왕을 달성했다.아누아는 이번 어워드에서 ‘PDRN 라인’ 3종으로 7개 부문에서 수상하며 일본 현지에서의 탄탄한 제품 경쟁력을 입증했다. 특히 대표 제품인 ‘PDRN 히알루론산 캡슐 100 세럼’은 연간 베스트코스메 미용액(세럼) 부문에서 한국 브랜드 최초로 1위에 올랐으며, 미들 프라이스 부문 세럼 1위와 종합 랭킹 4위까지 차지했다.함께 수상한",
+ "published_at": "2026-11-19T10:30:02+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "아누아"
+  ],
+  "companies": [
+   "더파운더즈",
+   "앳코스메",
+   "로프트",
+   "플라자",
+   "돈키호테"
+  ],
+  "keywords": [
+   "PDRN 스킨케어",
+   "일본 시장",
+   "뷰티 어워드",
+   "K뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "PDRN 히알루론산 캡슐 100 세럼",
+    "brand": "아누아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PDRN 히알루론산 캡슐 100 세럼 마스크(7매입)",
+    "brand": "아누아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PDRN 히알루론산 수분 캡슐 미스트",
+    "brand": "아누아",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아누아가 일본 앳코스메 베스트 코스메 어워드에서 PDRN 라인으로 여러 부문을 수상했다.",
+  "key_fact_quote": "글로벌 브랜드 빌더 기업 더파운더즈가 운영하는 글로벌 뷰티 브랜드 아누아(Anua)가 일본 최대 뷰티 플랫폼 ‘앳코스메(@cosme)’가 주관하는 ‘베스트 코스메 어워드 2026’에서 7관왕을 달성했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "아누아 PDRN 라인은 PDRN과 히알루론산, 콜라겐 성분을 배합해 피부에 촘촘한 수분과 탄력을 선사한다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "아누아 PDRN 라인은 PDRN과 히알루론산, 콜라겐 성분을 배합해 피부에 촘촘한 수분과 탄력을 선사한다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "아누아 PDRN 라인은 PDRN과 히알루론산, 콜라겐 성분을 배합해 피부에 촘촘한 수분과 탄력을 선사한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": true
+}

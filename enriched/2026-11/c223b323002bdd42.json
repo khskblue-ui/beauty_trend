@@ -1,0 +1,43 @@
+{
+ "doc_id": "c223b323002bdd42",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=402520",
+ "title": "홍콩 사로잡은 제주화장품, 수출 길 '활짝'",
+ "summary": "것\"이라며 \"내년 개최되는 세계 5대 코스모프로프 박람회에도 더 많은 도내 기업이 참가할 수 있도록 지원을 확대하고, K - 뷰티 수출 거점사업과 연계해 제주 화장품 기업의 글로벌 도약을 적극 뒷받침하겠다\"고 밝혔다.",
+ "published_at": "2026-11-19T13:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "HK"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "해외 박람회",
+   "지역 화장품 기업 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제주 화장품 기업의 해외 박람회 참가 지원을 확대하고 수출 거점사업과 연계해 뒷받침하겠다는 계획이 나왔다.",
+  "key_fact_quote": "K - 뷰티 수출 거점사업과 연계해 제주 화장품 기업의 글로벌 도약을 적극 뒷받침하겠다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

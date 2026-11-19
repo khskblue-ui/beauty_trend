@@ -1,0 +1,55 @@
+{
+ "doc_id": "9ac2f31f63f261c5",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/sid-medicos-hosts-appreciation-ceremony-for-lemonbottle-partners",
+ "title": "SID MEDICOS hosts appreciation ceremony for LemonBottle partners from the Philippines",
+ "summary": "Approximately 10 distributor representatives and aesthetics professionals visited the company’s headquarters on November 17: new product briefing and cultural activities deepen brand understanding and strengthen partner relationships",
+ "published_at": "2026-11-19T19:41:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "PH"
+  ],
+  "brands": [
+   "LemonBottle"
+  ],
+  "companies": [
+   "SID MEDICOS"
+  ],
+  "keywords": [
+   "에스테틱",
+   "해외 유통 파트너",
+   "신제품 설명회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "SID MEDICOS가 필리핀의 LemonBottle 유통 파트너를 본사로 초청해 감사 행사와 신제품 설명회를 열었다.",
+  "key_fact_quote": "Approximately 10 distributor representatives and aesthetics professionals visited the company’s headquarters on November 17",
+  "events": [
+   {
+    "name": "appreciation ceremony for LemonBottle partners from the Philippines",
+    "start_date": "2026-11-17",
+    "end_date": null,
+    "place": "the company’s headquarters",
+    "quote": "Approximately 10 distributor representatives and aesthetics professionals visited the company’s headquarters on November 17"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

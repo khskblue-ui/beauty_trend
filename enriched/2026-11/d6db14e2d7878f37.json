@@ -1,0 +1,45 @@
+{
+ "doc_id": "d6db14e2d7878f37",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.bizwatch.co.kr/article/consumer/2026/11/18/0045",
+ "title": "에이블씨엔씨 '웃고' 토니모리 '주춤'… K뷰티 1세대의 명암",
+ "summary": "' K뷰티 1세대'를 대표하는 에이블씨엔씨와 토니모리의 올해 3분기 실적 명암이 뚜렷하게 갈렸다.... 반면 토니모리는 화장품 매출 중 수출 비중이 28% 수준에 그친다. 에이블씨엔씨와 비교하면 해외 사업의 매출 기여도는...",
+ "published_at": "2026-11-19T07:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이블씨엔씨",
+   "토니모리"
+  ],
+  "keywords": [
+   "K뷰티 1세대",
+   "분기 실적",
+   "수출 비중"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 초기 세대인 에이블씨엔씨와 토니모리의 올해 분기 실적이 뚜렷하게 엇갈렸다.",
+  "key_fact_quote": "' K뷰티 1세대'를 대표하는 에이블씨엔씨와 토니모리의 올해 3분기 실적 명암이 뚜렷하게 갈렸다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

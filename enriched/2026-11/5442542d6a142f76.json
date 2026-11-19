@@ -1,0 +1,47 @@
+{
+ "doc_id": "5442542d6a142f76",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626359",
+ "title": "애드바이오텍, '베스티' 한국 유통법인 지분 인수…중앙亞 화장품 시장...",
+ "summary": "현지 인플루언서 네트워크를 통해 제품별 소비자 반응과 판매 데이터를 확보하고, 이를 국내 제조사의 신제품 공급과 추가 브랜드 발굴에 활용할 방침이다. 제품군은 기초·색조 화장품 에서 이너뷰티와 뷰티 디바이스...",
+ "published_at": "2026-11-19T16:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "베스티"
+  ],
+  "companies": [
+   "애드바이오텍"
+  ],
+  "keywords": [
+   "지분 인수",
+   "중앙아시아 화장품 시장",
+   "인플루언서 커머스",
+   "이너뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "애드바이오텍이 베스티 한국 유통법인 지분을 인수하고 현지 인플루언서 네트워크로 얻은 판매 데이터를 브랜드 발굴에 쓸 계획이다.",
+  "key_fact_quote": "현지 인플루언서 네트워크를 통해 제품별 소비자 반응과 판매 데이터를 확보하고, 이를 국내 제조사의 신제품 공급과 추가 브랜드 발굴에 활용할 방침이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

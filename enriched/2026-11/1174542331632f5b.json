@@ -1,0 +1,46 @@
+{
+ "doc_id": "1174542331632f5b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.topdaily.kr/articles/112989",
+ "title": "[TOP's Pick] 애드바이오텍, 카자흐스탄 K뷰티 유통망 확보…중앙아시아...",
+ "summary": "발굴부터 수출 까지 주도 애드바이오텍이 중앙아시아 화장품 시장 공략에 나선다. 현지 화장품 플랫폼과의 협력 관계를 지분 투자로 발전시키면서 국내 화장품 브랜드의 발굴부터 현지 판매까지 글로벌 K뷰티 유통체계...",
+ "published_at": "2026-11-19T12:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "KZ"
+  ],
+  "brands": [],
+  "companies": [
+   "애드바이오텍"
+  ],
+  "keywords": [
+   "중앙아시아 시장",
+   "K뷰티 유통",
+   "지분 투자",
+   "화장품 플랫폼"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "애드바이오텍이 현지 화장품 플랫폼에 지분을 투자해 중앙아시아 화장품 시장 공략에 나선다.",
+  "key_fact_quote": "애드바이오텍이 중앙아시아 화장품 시장 공략에 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}

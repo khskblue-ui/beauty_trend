@@ -1,0 +1,57 @@
+{
+ "doc_id": "111970966f2e0cb1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81787",
+ "title": "[편의점 브리핑] CU 캐릭터 화장품 ·GS25 TXT 협업·세븐일레븐 병역 복...",
+ "summary": "색조 화장품 4종을 출시한다. /사진=BGF리테일 ◇ CU, 딘토·디즈니 협업 색조 화장품 출시 CU가 비건 뷰티... 신제품 은 매콤한 맛과 달콤한 맛을 한 번에 즐길 수 있도록 두 가지 샌드위치를 반반으로 구성했다. 매콤한...",
+ "published_at": "2026-11-20T02:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "딘토"
+  ],
+  "companies": [
+   "CU",
+   "BGF리테일"
+  ],
+  "keywords": [
+   "편의점 뷰티",
+   "캐릭터 협업",
+   "색조 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "색조 화장품 4종",
+    "brand": "딘토",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "색조 화장품 4종을 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "CU가 딘토, 디즈니와 협업한 색조 화장품을 출시한다.",
+  "key_fact_quote": "◇ CU, 딘토·디즈니 협업 색조 화장품 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-19T21:32:54+00:00",
+ "had_body": false
+}
