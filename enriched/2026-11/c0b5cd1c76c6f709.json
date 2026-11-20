@@ -1,0 +1,46 @@
+{
+ "doc_id": "c0b5cd1c76c6f709",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsverse.kr/news/articleView.html?idxno=12004",
+ "title": "[ K - 뷰티 를 만든 사람들 ④] 리쥬란은 어떻게 세계로 갔나- 정상수와 파마...",
+ "summary": "파마리서치가 다른 K - 뷰티 기업과 구별되는 지점도 여기에 있다. 화장품에서 출발해 의료미용으로 넓힌... 화장품 수출 , 의료기기 수출 을 넘다 숫자에서도 변화가 나타나고 있다. 2026년 3분기 파마리서치의 연결 매출은...",
+ "published_at": "2026-11-21T02:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리쥬란"
+  ],
+  "companies": [
+   "파마리서치"
+  ],
+  "keywords": [
+   "의료미용",
+   "스킨부스터",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "파마리서치는 화장품에서 의료미용으로 사업을 넓혀 다른 K뷰티 기업과 구별된다는 평가를 받는다.",
+  "key_fact_quote": "파마리서치가 다른 K - 뷰티 기업과 구별되는 지점도 여기에 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

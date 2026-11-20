@@ -1,0 +1,44 @@
+{
+ "doc_id": "634c6305176f6042",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/loreal-us-settles-hair-relaxer-cancer-claims-lawsuit",
+ "title": "L’Oréal US settles hair relaxer cancer claims lawsuit",
+ "summary": "In the first case of its kind to go to trial, L’Oréal’s US subsidiary reached a settlement with four women who claimed that the use of chemical hair relaxers contributed to their development of gynaecological cancers",
+ "published_at": "2026-11-20T21:41:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "regulation",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "L’Oréal"
+  ],
+  "keywords": [
+   "헤어 릴랙서",
+   "소송 합의",
+   "제품 안전성"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "L’Oréal 미국 법인이 화학적 헤어 릴랙서 사용이 부인과 암 발병에 영향을 줬다고 주장한 여성들과 합의했다.",
+  "key_fact_quote": "L’Oréal’s US subsidiary reached a settlement with four women who claimed that the use of chemical hair relaxers contributed to their development of gynaecological cancers",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "bdae5f030bbe8f01",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/notes-dubai-lauch-1239381001/",
+ "title": "The Next Note",
+ "summary": "In the world's most fragrance obsessed region, niche perfume as outgrown its hall at Beautyworld Dubai. Notes Dubai, the show's spin off, debuts in January",
+ "published_at": "2026-11-20T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "AE"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "향수 박람회",
+   "중동 향수 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Beautyworld Dubai에서 갈라져 나온 니치 향수 행사 Notes Dubai가 첫선을 보인다.",
+  "key_fact_quote": "Notes Dubai, the show's spin off, debuts in January",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

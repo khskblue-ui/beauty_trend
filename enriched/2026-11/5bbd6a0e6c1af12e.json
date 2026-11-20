@@ -1,0 +1,60 @@
+{
+ "doc_id": "5bbd6a0e6c1af12e",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54001",
+ "title": "‘K뷰티 하우스’ 美 LA 오픈…글로벌 비즈니스 허브 출범",
+ "summary": "‘K뷰티 하우스’가 18일(현지시간) 미국 로스앤젤레스 캘리포니아 마켓센터에 문을 열었다. K뷰티 하우스는 유망 브랜드를 소개하는 공간이다. 바이어 매칭과 제품 체험, 미디어·인플루언서 행사가 한 자리에서 이뤄진다. 한국보건산업진흥원이 주관하는 추진하는 K뷰티 플래그십 허브 지원사업의 일…",
+ "published_at": "2026-11-20T10:02:42+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "디엘스킨",
+   "한국보건산업진흥원",
+   "아마존",
+   "티제이맥스(TJ Maxx)",
+   "월마트",
+   "타깃",
+   "울타뷰티"
+  ],
+  "keywords": [
+   "K뷰티 미국 진출",
+   "바이어 매칭",
+   "시딩 팝업",
+   "뷰티와 패션의 융합"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유망 K뷰티 브랜드를 미국 바이어에게 소개하는 거점 공간 K뷰티 하우스가 로스앤젤레스에 문을 열었다.",
+  "key_fact_quote": "‘K뷰티 하우스’가 18일(현지시간) 미국 로스앤젤레스 캘리포니아 마켓센터에 문을 열었다.",
+  "events": [
+   {
+    "name": "K뷰티 하우스 마켓 위크(K-Beauty House Market Week)",
+    "start_date": "2026-12-03",
+    "end_date": "2026-12-09",
+    "place": null,
+    "quote": "K뷰티 하우스 운영사인 디엘스킨은 12월 3일부터 9일까지 일주일 동안 ‘K뷰티 하우스 마켓 위크(K-Beauty House Market Week)’를 개최한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": true
+}

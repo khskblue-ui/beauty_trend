@@ -1,0 +1,46 @@
+{
+ "doc_id": "53f56203c27c9aa7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.itbiznews.com/news/articleView.html?idxno=232252",
+ "title": "크리스챤 디올 뷰티, 신세계 강남점에 홀리데이 팝업 오픈…12월 1일까지...",
+ "summary": "팝업스토어에서는 디올의 대표적인 향수 와 메이크업, 스킨케어 제품을 비롯해 2026년 홀리데이 시즌을 맞아... 크리스챤 디올 뷰티는 홀리데이 시즌을 맞아 마련한 이번 팝업을 통해 브랜드 의 주요 뷰티 컬렉션과 선물...",
+ "published_at": "2026-11-20T12:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "크리스챤 디올 뷰티"
+  ],
+  "companies": [
+   "신세계"
+  ],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "팝업스토어",
+   "연말 선물"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "크리스챤 디올 뷰티가 신세계 강남점에 홀리데이 팝업을 열었다.",
+  "key_fact_quote": "크리스챤 디올 뷰티, 신세계 강남점에 홀리데이 팝업 오픈…12월 1일까지",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

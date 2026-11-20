@@ -1,0 +1,40 @@
+{
+ "doc_id": "2958fb95f12c1f97",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/how-ai-could-spruce-up-mens-grooming-category-1239255701/",
+ "title": "How AI Could Spruce Up the Men’s Grooming Category",
+ "summary": "Thanks to chatbots, AI-backed makeover apps and campaigns designed for guys, many experts believe the category will finally expand exponentially.",
+ "published_at": "2026-11-20T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "남성 그루밍",
+   "AI 뷰티",
+   "AI 메이크오버 앱"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "챗봇과 AI 메이크오버 앱, 남성 대상 캠페인으로 남성 그루밍 시장이 크게 확대될 것이라는 전망이 나온다.",
+  "key_fact_quote": "Thanks to chatbots, AI-backed makeover apps and campaigns designed for guys, many experts believe the category will finally expand exponentially.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "a8f049beac008fd4",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/gulf-beauty-the-market-in-numbers-1239381616/",
+ "title": "Beautyworld at 30: The Market in Numbers",
+ "summary": "Fragrance, Saudi spending and TikTok: the figures behind a $20.8 billion market.",
+ "published_at": "2026-11-20T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "AE",
+   "SA"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "중동 뷰티 시장",
+   "향수 소비",
+   "틱톡"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Beautyworld가 다루는 시장의 규모를 향수, 사우디 소비, 틱톡 관련 수치로 짚었다.",
+  "key_fact_quote": "Fragrance, Saudi spending and TikTok: the figures behind a $20.8 billion market.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

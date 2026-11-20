@@ -1,0 +1,62 @@
+{
+ "doc_id": "125561ba537b814d",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com:8443/en/boots-taps-into-k-wellness-with-a,28568",
+ "title": "Boots taps into 'K-Wellness' with a new line of beauty-from-within products",
+ "summary": "The UK health and beauty retailer is expanding its wellness offering with a new range of products inspired by the growing ‘K-Wellness' trend. Boots has partnered with South Korean ODM specialist Kolmar BNH to launch a 16-product line-up now available in the chain's stores across the UK and online at boots.com Aiming to bring Korean wellness trends to UK consumers, the range combines beauty-from-within products featuring collagen, hyaluronic acid and retinol with formulations containing... - Industry buzz / Europe",
+ "published_at": "2026-11-20T18:48:38+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "GB",
+   "KR"
+  ],
+  "brands": [
+   "Boots"
+  ],
+  "companies": [
+   "Boots",
+   "Kolmar BNH"
+  ],
+  "keywords": [
+   "K웰니스",
+   "이너뷰티",
+   "ODM 협업",
+   "건강기능식품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "영국 부츠가 콜마비앤에이치와 손잡고 K웰니스 이너뷰티 제품군을 영국 매장과 온라인에 내놨다.",
+  "key_fact_quote": "Boots has partnered with South Korean ODM specialist Kolmar BNH to launch a 16-product line-up now available in the chain's stores across the UK and online at boots.com",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "collagen",
+    "quote": "Aiming to bring Korean wellness trends to UK consumers, the range combines beauty-from-within products featuring collagen, hyaluronic acid and retinol with formulations containing"
+   },
+   {
+    "name": "hyaluronic acid",
+    "quote": "Aiming to bring Korean wellness trends to UK consumers, the range combines beauty-from-within products featuring collagen, hyaluronic acid and retinol with formulations containing"
+   },
+   {
+    "name": "retinol",
+    "quote": "Aiming to bring Korean wellness trends to UK consumers, the range combines beauty-from-within products featuring collagen, hyaluronic acid and retinol with formulations containing"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

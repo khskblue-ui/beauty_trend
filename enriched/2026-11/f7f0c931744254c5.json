@@ -1,0 +1,53 @@
+{
+ "doc_id": "f7f0c931744254c5",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com:8443/en/interparfums-raises-2026-forecast,28570",
+ "title": "Interparfums raises 2026 forecast and expects strong growth in 2027",
+ "summary": "Interparfums SA, which manages global fragrance licenses for brands including Jimmy Choo, Montblanc, and Lacoste, as well as a portfolio of its own brands such as Rochas, Annick Goutal, and Solferino, announced on Thursday, November 19, that it had slightly raised its 2026 revenue target to EUR 880 million, up from EUR 870 million previously. The French company, a subsidiary of US-based Interparfums, Inc., also anticipates strong growth in 2027. \"After a mixed performance during the first... - Industry buzz",
+ "published_at": "2026-11-21T03:23:07+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "US"
+  ],
+  "brands": [
+   "Jimmy Choo",
+   "Montblanc",
+   "Lacoste",
+   "Rochas",
+   "Annick Goutal",
+   "Solferino"
+  ],
+  "companies": [
+   "Interparfums SA",
+   "Interparfums, Inc."
+  ],
+  "keywords": [
+   "향수 라이선스",
+   "실적 전망 상향",
+   "향수 시장 성장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "향수 라이선스 기업 Interparfums SA가 올해 매출 목표를 소폭 올리고 내년에도 강한 성장을 예상했다.",
+  "key_fact_quote": "announced on Thursday, November 19, that it had slightly raised its 2026 revenue target to EUR 880 million, up from EUR 870 million previously.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

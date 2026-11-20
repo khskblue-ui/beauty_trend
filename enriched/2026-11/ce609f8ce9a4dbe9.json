@@ -1,0 +1,48 @@
+{
+ "doc_id": "ce609f8ce9a4dbe9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.economytalk.kr/news/articleView.html?idxno=425443",
+ "title": "[현장] \"K컬러 뷰티 놀이터된 홍대\"… 올리브영 '컬러 그라운드 홍대' 가...",
+ "summary": "소용량 색조 제품부터 향수 키링, 키캡, 말랑이 등 잘파세대가 열광하는 웨어러블 아이템까지 한데 모았다. 안쪽 베이스 메이크업 존에서는 올리브영의 매대 실험이 돋보인다. 기존 브랜드 별 구분 대신 제형과 피부 표현...",
+ "published_at": "2026-11-20T17:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "색조 특화 매장",
+   "소용량 색조",
+   "향수 키링",
+   "잘파세대",
+   "체험형 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 홍대에 색조 특화 매장 컬러 그라운드 홍대를 열고 소용량 색조와 향수 키링 같은 아이템을 모았다.",
+  "key_fact_quote": "소용량 색조 제품부터 향수 키링, 키캡, 말랑이 등 잘파세대가 열광하는 웨어러블 아이템까지 한데 모았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

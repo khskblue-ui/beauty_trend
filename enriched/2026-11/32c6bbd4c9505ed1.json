@@ -1,0 +1,44 @@
+{
+ "doc_id": "32c6bbd4c9505ed1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=203668",
+ "title": "선진 뷰티 사이언스, 원료 넘어 브랜드·임상·제조까지... 승부수 통할까...",
+ "summary": "K - 뷰티 가 세계 화장품 수출 2위 국가로 성장하며 글로벌 시장의 주목을 받고 있다. 하지만 숫자는 성장의 결과를 보여줄 뿐 산업의 미래까지 설명하지는 못한다. '최기자의 뷰티 인사이드'를 통해 기자의 시선으로...",
+ "published_at": "2026-11-20T16:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "선진 뷰티 사이언스"
+  ],
+  "keywords": [
+   "화장품 원료사",
+   "사업 다각화",
+   "임상·제조 확장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 원료 기업 선진뷰티사이언스가 브랜드, 임상, 제조로 사업을 넓히고 있다.",
+  "key_fact_quote": "선진 뷰티 사이언스, 원료 넘어 브랜드·임상·제조까지... 승부수 통할까...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

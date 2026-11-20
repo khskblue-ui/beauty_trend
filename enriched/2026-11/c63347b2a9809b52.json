@@ -1,0 +1,60 @@
+{
+ "doc_id": "c63347b2a9809b52",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312939",
+ "title": "레시피, 베이스 프렙 시장 공략…선프렙 매출 70배 성장",
+ "summary": "중국 선스프레이 시장에서 성과를 거둔 뷰티 브랜드 레시피(RE:CIPE)가 베이스 프렙(Base Prep) 시장 공략을 강화하고 있다.선케어와 메이크업 베이스 기능을 결합한 대표 제품 \\'그릭요거트 선프렙\\'이 출시 이후 빠른 성장세를 보이면서 새로운 성장 동력으로 성장하고 있다.레시피에 따르면 올해 4월 출시된 그릭요거트 선프렙은출시 초기 대비 10월 매출이 약 70배(카페24 자사몰 매출 분석 데이터) 증가했다. 스킨케어와 메이크업 단계를 간소화하려는 소비자 수요가 늘면서 베이스 프렙 제품에 대한 관심도 확대되고 있다는 분석이다.베",
+ "published_at": "2026-11-20T16:05:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "레시피",
+   "무신사 뷰티"
+  ],
+  "companies": [
+   "레시피",
+   "코스맥스"
+  ],
+  "keywords": [
+   "베이스 프렙",
+   "하이브리드 선케어",
+   "선세럼",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "그릭요거트 선프렙",
+    "brand": "레시피",
+    "launch_date": "2026-04",
+    "launch_status": "unknown",
+    "launch_quote": "레시피에 따르면 올해 4월 출시된 그릭요거트 선프렙은출시 초기 대비 10월 매출이 약 70배(카페24 자사몰 매출 분석 데이터) 증가했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "레시피가 선케어와 메이크업 베이스 기능을 합친 그릭요거트 선프렙의 성장세를 바탕으로 베이스 프렙 시장 공략을 강화하고 있다.",
+  "key_fact_quote": "중국 선스프레이 시장에서 성과를 거둔 뷰티 브랜드 레시피(RE:CIPE)가 베이스 프렙(Base Prep) 시장 공략을 강화하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": true
+}

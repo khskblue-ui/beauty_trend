@@ -1,0 +1,46 @@
+{
+ "doc_id": "19cd99fe961e5db9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=580119&class=17&grp=",
+ "title": "\" 화장품 도 AI에 물어보고 산다\"…올리브영, 쇼핑·물류 혁신 가속화",
+ "summary": "■ AI에 피부 고민 물어보면 상품 추천…12월 정식 출시 화장품 은 피부 유형과 성분, 기능 등 구매 과정에서 고려할 요소가 다양한 만큼 고객이 원하는 제품을 쉽게 찾도록 돕는 기술도 중요해지고 있다. 이에 올리브영은...",
+ "published_at": "2026-11-20T15:51:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "AI 상품 추천",
+   "뷰티 테크",
+   "물류 혁신"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 피부 고민을 물으면 상품을 추천하는 AI 쇼핑 기능을 정식 출시할 예정이다.",
+  "key_fact_quote": "■ AI에 피부 고민 물어보면 상품 추천…12월 정식 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

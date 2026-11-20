@@ -1,0 +1,41 @@
+{
+ "doc_id": "f162ad364d4fedc2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bokuennews.com/news/article.html?no=287507",
+ "title": "수출 1조달러 시대, K - 뷰티 위상 재확인",
+ "summary": "우리나라가 세계에서 4번째로 연간 수출 1조달러 시대를 연 가운데, K - 뷰티 가 불과 10개월 만에 지난해 연간 수출 실적을 갈아치우며 ' 수출 효자' 노릇을 톡톡히 해내고 있다. 올해 1~10월 누적 화장품 수출 액은 124억달러로...",
+ "published_at": "2026-11-20T12:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "화장품 수출 실적"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티가 열 달 만에 지난해 연간 수출 실적을 넘어섰다.",
+  "key_fact_quote": "K - 뷰티 가 불과 10개월 만에 지난해 연간 수출 실적을 갈아치우며 ' 수출 효자' 노릇을 톡톡히 해내고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "c8d052dbb246882a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoulfn.com/news/articleView.html?idxno=643397",
+ "title": "[ 수출 1조 달러 돌파 ③] 반도체 다음은···방산·조선· 뷰티 ·푸드 \"우...",
+ "summary": "◇ K뷰티 ·K푸드, 소비재 수출 의 판을 바꾸다 = 수출 산업의 또 다른 변화는 소비재에서 나타나고 있다. 과거 한국 수출 이 반도체와 자동차, 선박 등 대규모 제조업에 집중됐다면 최근에는 화장품과 식품, 바이오헬스...",
+ "published_at": "2026-11-20T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "소비재 수출",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "수출 산업의 변화가 화장품과 식품 같은 소비재에서 나타나고 있다.",
+  "key_fact_quote": "수출 산업의 또 다른 변화는 소비재에서 나타나고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "c55c2917cef12f11",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261120_0003876477",
+ "title": "[현장]스킨케어 다음은 색조…올리브영, 1000억佛 시장 공략 홍대에 전...",
+ "summary": "스킨케어 중심으로 글로벌에서 급성장한 K - 뷰티 의 영역을 색조로 넓히고 국내 유망 브랜드의 글로벌 진출을... 식품의약품안전처에 따르면 올해 1~9월 국내 색조화장품 수출 액은 11억1000만 달러로 기초화장품 수출 액인...",
+ "published_at": "2026-11-20T11:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "색조 화장품",
+   "글로벌 진출",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 스킨케어 중심으로 커 온 K뷰티의 영역을 색조로 넓히려 홍대에 나섰다.",
+  "key_fact_quote": "스킨케어 중심으로 글로벌에서 급성장한 K - 뷰티 의 영역을 색조로 넓히고 국내 유망 브랜드의 글로벌 진출을",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

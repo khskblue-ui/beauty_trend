@@ -1,0 +1,61 @@
+{
+ "doc_id": "559e9cefd952e332",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ibabynews.com/news/articleView.html?idxno=157134",
+ "title": "[뷰티 트렌드] 톰(THOME), 주름 집중 케어 ‘CPR 링클 샷 레티날’ 3종 출...",
+ "summary": "국내외 뷰티·생활건강 기업들이 발표한 신제품 출시, 성분·기술 연구, 캠페인, 사회공헌 활동 등 다양한... 팝업에서는 디올 하우스의 대표 향수 와 뷰티 컬렉션, 아이코닉 제품들을 만나볼 수 있다. 홀리데이 한정으로...",
+ "published_at": "2026-11-20T18:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "톰",
+   "디올"
+  ],
+  "companies": [],
+  "keywords": [
+   "레티날",
+   "주름 케어",
+   "홀리데이 한정",
+   "팝업스토어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "CPR 링클 샷 레티날",
+    "brand": "톰",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "[뷰티 트렌드] 톰(THOME), 주름 집중 케어 ‘CPR 링클 샷 레티날’ 3종 출",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "톰이 주름 집중 케어 제품인 CPR 링클 샷 레티날을 내놨다는 소식을 포함한 뷰티 업계 동향 모음이다.",
+  "key_fact_quote": "[뷰티 트렌드] 톰(THOME), 주름 집중 케어 ‘CPR 링클 샷 레티날’ 3종 출",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "레티날",
+    "quote": "[뷰티 트렌드] 톰(THOME), 주름 집중 케어 ‘CPR 링클 샷 레티날’ 3종 출"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

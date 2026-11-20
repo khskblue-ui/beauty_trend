@@ -1,0 +1,45 @@
+{
+ "doc_id": "36509f532737c3df",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1427034",
+ "title": "SSG닷컴 분할 D-11…'장보기'와 '패션· 뷰티 ' 독립경영 시험대",
+ "summary": "선 론칭 하는 플랫폼이면서 동시에 삼겹살 반값 할인도 진행하는 플랫폼이었다\"며 \"분할 이후에는 신세계몰이 명품·패션· 뷰티 에 특화된 사업을 강화하고, 프리미엄 라이프스타일 브랜드 유치에도 적극적으로 나설 것...",
+ "published_at": "2026-11-20T06:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "SSG닷컴",
+   "신세계몰"
+  ],
+  "keywords": [
+   "이커머스 분할",
+   "뷰티 전문 플랫폼",
+   "프리미엄 라이프스타일"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "SSG닷컴 분할 뒤 신세계몰은 명품과 패션, 뷰티에 특화된 사업을 강화할 계획이다.",
+  "key_fact_quote": "분할 이후에는 신세계몰이 명품·패션· 뷰티 에 특화된 사업을 강화하고, 프리미엄 라이프스타일 브랜드 유치에도 적극적으로 나설 것",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

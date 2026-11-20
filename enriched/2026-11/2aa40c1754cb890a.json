@@ -1,0 +1,104 @@
+{
+ "doc_id": "2aa40c1754cb890a",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54002",
+ "title": "\"바쁘지만 나답게 센슬 키트 만들어볼까?\"",
+ "summary": "센슬(SENSEL)이 11월 29일까지 무신사뷰티 성수점에서 팝업스토어를 운영한다. 센슬 마켓은 바쁜 하루 사이 잠깐 들러 나를 챙기는 매장처럼 꾸몄다. 브랜드 메시지인 ‘바쁘지만, 여전히 나답게(Busy, but still me)’를 공간에 반영했다. 매장에선 ‘내 손으로 완성하는 센슬 키트’를 제안한다. 취…",
+ "published_at": "2026-11-20T11:35:19+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센슬",
+   "퍼글러"
+  ],
+  "companies": [
+   "센슬",
+   "무신사뷰티"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "맞춤 키트",
+   "크림 퍼퓸",
+   "색조 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퀵 틴트",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "타임 블러쉬",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "뮤트 크림 퍼퓸",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퀵 부스트 핑크윙 세트",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퀵 부스트 핑크윙",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퍼글러 협업 세트",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "센슬이 무신사뷰티 성수점에서 제품을 골라 키트를 만드는 팝업스토어를 운영한다.",
+  "key_fact_quote": "센슬(SENSEL)이 11월 29일까지 무신사뷰티 성수점에서 팝업스토어를 운영한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": true
+}

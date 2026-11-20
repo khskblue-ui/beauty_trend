@@ -1,0 +1,70 @@
+{
+ "doc_id": "3eb2ff935003a6bb",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100555",
+ "title": "아모레퍼시픽, '2026 굿디자인 어워드' 4건 수상",
+ "summary": "아모레퍼시픽이 산업통상자원부가 주최한 ‘2026 굿디자인 어워드’에서 디자인진흥원장상(동상) 2건과 우수디자인(GD) 2건 등 총 4건을 수상했다. 이니스프리 모음재단의 ‘제주 그린어워드’ 트로피·패키지 및 CI 디자인과 본사 플래그십 스토어 ‘아모레용산’의 공간 디자인이 디자인진흥원장상을, ‘헤라 블랙 쿠션 메쉬 파우더’와 ‘해피바스 샤워젤리’가 각각 우수디자인으로 선정됐다.‘제주 그린어워드’는 이니스프리 모음재단이 제주 환경 보전에 기여한 이들을 기리기 위해 운영하는 시상식이다. 특히 재단 설립 10주년을 맞아 CI를 재정비하고",
+ "published_at": "2026-11-20T10:31:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "이니스프리",
+   "헤라",
+   "해피바스",
+   "라보에이치",
+   "아모레용산"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "패키지 디자인",
+   "업사이클링",
+   "리필 구조",
+   "플래그십 스토어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "헤라 블랙 쿠션 메쉬 파우더",
+    "brand": "헤라",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "해피바스 샤워젤리",
+    "brand": "해피바스",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아모레퍼시픽이 굿디자인 어워드에서 패키지와 매장 공간, 제품 디자인으로 여러 건을 수상했다.",
+  "key_fact_quote": "아모레퍼시픽이 산업통상자원부가 주최한 ‘2026 굿디자인 어워드’에서 디자인진흥원장상(동상) 2건과 우수디자인(GD) 2건 등 총 4건을 수상했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": true
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "745c77a4ed6f95f4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445762",
+ "title": "\" K뷰티 색조의 세계로\"…올리브영, 핫핑크로 홍대 물들였다",
+ "summary": "K뷰티 수출 의 중심이 스킨케어로 자리 잡은 오늘. 올리브영이 색조 화장품을 앞세워 홍대에 승부수를... 다른 쪽에서는 전문 뷰티 컨설턴트에게 K-메이크업을 받을 수 있는 '퀵 터치업 무드' 공간이 마련됐다. 15분 내로...",
+ "published_at": "2026-11-20T13:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [],
+  "keywords": [
+   "색조 화장품",
+   "체험형 매장",
+   "K뷰티 수출",
+   "취향 소비",
+   "뷰티 컨설팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 색조 화장품을 앞세운 매장을 홍대에 열었다.",
+  "key_fact_quote": "올리브영이 색조 화장품을 앞세워 홍대에 승부수를",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

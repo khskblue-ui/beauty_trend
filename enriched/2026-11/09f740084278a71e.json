@@ -1,0 +1,81 @@
+{
+ "doc_id": "09f740084278a71e",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58769",
+ "title": "뷰티·웰니스 경계 허무는 소비자들... 초개인화 제품보다 데이터 기반 'AI 진단 큐레이션' 부상",
+ "summary": "[코스인코리아닷컴 김세화 기자] 글로벌 뷰티 산업의 경쟁 구도가 빠르게 변화하고 있다. 브랜드 인지도와 마케팅, 제품 트렌드가 이끌던 기존 시장에서 과학적 효능과 인공지능(AI)을 통한 정보 검증을 중시하는 결과 중심 시장으로 무게중심이 이동하고 있다. 여기에화장품과 피부과 시술, 전문 케어 서비…",
+ "published_at": "2026-11-20T12:56:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "GB",
+   "FR",
+   "CN",
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "리들샷"
+  ],
+  "companies": [
+   "커니",
+   "브이티코스메틱",
+   "아모레퍼시픽",
+   "피앤지",
+   "쏜",
+   "하이어 코퍼레이션"
+  ],
+  "keywords": [
+   "AI 진단 큐레이션",
+   "뷰티 웰니스 융합",
+   "에이전틱 커머스",
+   "바이오테크 성분",
+   "셀니스"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "리들샷",
+    "brand": "브이티코스메틱",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "커니는 뷰티 산업의 성장 동력이 AI를 통한 소비 여정 재편과 과학적 효능에 기반한 뷰티와 웰니스의 융합이라고 전망했다.",
+  "key_fact_quote": "향후 뷰티 산업의 핵심 성장 동력은 AI를 통한 소비 여정의 재편과 과학적 효능을 기반으로 한 뷰티·웰니스 융합으로 요약된다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "'PDRN, 엑소좀 등 바이오테크 기반 성분'에 대해서도 관심을 보이지만, 아직 경험하지 못한 소비자가 36%에 달했다."
+   },
+   {
+    "name": "엑소좀",
+    "quote": "'PDRN, 엑소좀 등 바이오테크 기반 성분'에 대해서도 관심을 보이지만, 아직 경험하지 못한 소비자가 36%에 달했다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "펩타이드, 엑소좀, 레드라이트 등 바이오·기술 기반 접근법이 뷰티와 웰니스 시장에서 접점을 넓히고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": true
+}

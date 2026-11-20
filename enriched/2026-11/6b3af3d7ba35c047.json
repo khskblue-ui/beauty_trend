@@ -1,0 +1,65 @@
+{
+ "doc_id": "6b3af3d7ba35c047",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoulfn.com/news/articleView.html?idxno=643525",
+ "title": "[ 뷰티 브리핑] 스킨푸드, 日 로컬 목욕탕과 협업 외",
+ "summary": "스킨푸드는 신제품 '당근 PDRN 속수분 패드'의 일본 출시 를 기념해 현지 목욕탕 운영사 유토나미샤와 11월 한... K 뷰티 를 접목해 현지 소비자 접점을 확대하고 신제품 인지도를 높일 계획이다. 애경산업, '함께...",
+ "published_at": "2026-11-20T17:31:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "스킨푸드"
+  ],
+  "companies": [
+   "스킨푸드",
+   "유토나미샤",
+   "애경산업"
+  ],
+  "keywords": [
+   "PDRN 스킨케어",
+   "토너 패드",
+   "일본 시장 진출",
+   "현지 협업 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "당근 PDRN 속수분 패드",
+    "brand": "스킨푸드",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "스킨푸드는 신제품 '당근 PDRN 속수분 패드'의 일본 출시 를 기념해 현지 목욕탕 운영사 유토나미샤와 11월 한",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스킨푸드가 신제품 패드의 일본 출시를 기념해 현지 목욕탕 운영사와 협업한다.",
+  "key_fact_quote": "스킨푸드는 신제품 '당근 PDRN 속수분 패드'의 일본 출시 를 기념해 현지 목욕탕 운영사 유토나미샤와 11월 한",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "스킨푸드는 신제품 '당근 PDRN 속수분 패드'의 일본 출시 를 기념해 현지 목욕탕 운영사 유토나미샤와 11월 한"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

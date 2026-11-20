@@ -1,0 +1,45 @@
+{
+ "doc_id": "654309a588dca84b",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=53999",
+ "title": "LG생활건강, 2027년 정기 임원인사",
+ "summary": "LG생활건강(대표 이선주)이 지난 19일 이사회를 열고 전무 승진 2명과 신규 임원 상무 선임 1명 등 모두 3명에 대한 2027년도 정기 임원인사를 발표했다. 이번 인사는 글로벌 사업 경쟁력을 높이고 혁신을 가속화하는 데 중점을 뒀다. 성과와 역량을 검증받은 임원을 승진시키는 한편 해당 분야의 전문성을…",
+ "published_at": "2026-11-20T08:18:21+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "LG생활건강",
+   "LG화학"
+  ],
+  "keywords": [
+   "임원 인사",
+   "글로벌 사업",
+   "경영 혁신"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "LG생활건강이 이사회를 열고 전무 승진과 신규 상무 선임을 담은 정기 임원인사를 발표했다.",
+  "key_fact_quote": "LG생활건강(대표 이선주)이 지난 19일 이사회를 열고 전무 승진 2명과 신규 임원 상무 선임 1명 등 모두 3명에 대한 2027년도 정기 임원인사를 발표했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": true
+}

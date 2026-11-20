@@ -1,0 +1,75 @@
+{
+ "doc_id": "b24682b36fd4c7ba",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100549",
+ "title": "센카(SENKA), 컬리뷰티페스타 2026 성료",
+ "summary": "클렌징 전문 브랜드 ‘센카(SENKA)’가 지난 11월 12일부터 11월 15일까지 서울 동대문 디자인 플라자(DDP)에서 열린 ‘컬리뷰티페스타 2026’ 오프라인 팝업스토어를 성황리에 마무리하며, 대체 불가한 클렌징 대표 브랜드로의 확고한 경쟁력을 입증했다고 밝혔다.올해로 3회째를 맞은 ‘컬리뷰티페스타’는 컬리에서 엄선한 뷰티 브랜드와 제품을 한 자리에서 선보이며 뷰티 시장의 최신 트렌드를 조망하는 대규모 뷰티 페스티벌이다. 센카는 이번 행사를 통해 지난 5월 리뉴얼 캠페인 이후 전개해온 차별화된 클렌징 경험을 오프라인으로 확장하",
+ "published_at": "2026-11-20T10:15:15+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센카",
+   "컬리"
+  ],
+  "companies": [
+   "컬리"
+  ],
+  "keywords": [
+   "클렌징 폼",
+   "팝업스토어",
+   "저자극 클렌징",
+   "뷰티 페스티벌"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "NEW 고밀착폼",
+    "brand": "센카",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퍼펙트휩",
+    "brand": "센카",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "센카는 지난 20년 이상 축적해 온 독보적인 거품 기술력의 집약체인 ‘NEW 고밀착폼’과 새롭게 선보인 ‘퍼펙트휩’을 중심으로 브랜드의 핵심 역량을 집중 조명했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "센카가 컬리뷰티페스타 오프라인 팝업스토어에서 거품 세안 제품을 체험형 공간으로 소개했다.",
+  "key_fact_quote": "센카는 이번 행사를 통해 지난 5월 리뉴얼 캠페인 이후 전개해온 차별화된 클렌징 경험을 오프라인으로 확장하며 ‘올바른 거품 세안’의 가치를 전달했다.",
+  "events": [
+   {
+    "name": "컬리뷰티페스타 2026",
+    "start_date": "2026-11-12",
+    "end_date": "2026-11-15",
+    "place": "서울 동대문 디자인 플라자(DDP)",
+    "quote": "클렌징 전문 브랜드 ‘센카(SENKA)’가 지난 11월 12일부터 11월 15일까지 서울 동대문 디자인 플라자(DDP)에서 열린 ‘컬리뷰티페스타 2026’ 오프라인 팝업스토어를 성황리에 마무리하며"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": true
+}

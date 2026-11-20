@@ -1,0 +1,47 @@
+{
+ "doc_id": "ff23de118c2066cb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://dealsite.co.kr/articles/172990",
+ "title": "[이재현의 K뷰티 ] \"한류 키워 남 좋은 일\"…오너 질책에 올리브영 美 진...",
+ "summary": "이 회장은 K뷰티 에서만큼은 이러한 상황을 반복하지 않겠다며 임직원들을 강하게 독려한 것으로 전해진다.... 한국 화장품을 미국에 수출 하는 수준을 넘어 현지 소비자와 직접 만나는 판매망을 구축하기 시작한 것이다....",
+ "published_at": "2026-11-20T08:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "미국 진출",
+   "현지 판매망",
+   "K뷰티 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 미국에서 수출을 넘어 현지 소비자와 직접 만나는 판매망을 구축하기 시작했다.",
+  "key_fact_quote": "한국 화장품을 미국에 수출 하는 수준을 넘어 현지 소비자와 직접 만나는 판매망을 구축하기 시작한 것이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

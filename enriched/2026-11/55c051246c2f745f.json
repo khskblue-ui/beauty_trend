@@ -1,0 +1,39 @@
+{
+ "doc_id": "55c051246c2f745f",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/editor-top-winter-beauty-launches-makeup-skin-1239407128/",
+ "title": "Our Favorite Beauty Launches This Month",
+ "summary": "The beauty and wellness products Beauty Inc editors can’t get enough of.",
+ "published_at": "2026-11-20T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "이달의 신제품",
+   "뷰티·웰니스 제품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Beauty Inc 편집진이 이달 마음에 든 뷰티·웰니스 신제품을 소개한다.",
+  "key_fact_quote": "The beauty and wellness products Beauty Inc editors can’t get enough of.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

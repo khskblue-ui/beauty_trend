@@ -1,0 +1,47 @@
+{
+ "doc_id": "550a1978c27630ab",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/hair/church-dwight-acquire-45-bali-treatment-close-to-225-million-1239429573/",
+ "title": "Church & Dwight to Acquire 45 Percent of Bali Treatment for Close to $225M",
+ "summary": "The Austrian company’s portfolio includes the Bali Curls and Bali Gents brands.",
+ "published_at": "2026-11-21T03:14:43+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "AT"
+  ],
+  "brands": [
+   "Bali Curls",
+   "Bali Gents"
+  ],
+  "companies": [
+   "Church & Dwight",
+   "Bali Treatment"
+  ],
+  "keywords": [
+   "인수합병",
+   "지분 인수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Church & Dwight가 오스트리아 회사 Bali Treatment의 지분 일부를 인수한다.",
+  "key_fact_quote": "Church & Dwight to Acquire 45 Percent of Bali Treatment for Close to $225M",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

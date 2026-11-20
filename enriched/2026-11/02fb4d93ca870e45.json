@@ -1,0 +1,43 @@
+{
+ "doc_id": "02fb4d93ca870e45",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856384&plink=ORI&cooper=NAVER",
+ "title": "K화장품·라면도 날았다… 수출 1조 달러 견인",
+ "summary": "K - 뷰티 · K -푸드 수출 현장을 최승훈 기자가 다녀왔습니다. 컨베이어벨트를 따라 수출 용 고급 화장품이 하나 둘 꽃단장을 합니다. 국내보다 최고 30% 더 비싼 값에 미국과 주요국 고가 매장을 잇따라 채우고 있습니다....",
+ "published_at": "2026-11-20T20:39:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "고가 화장품",
+   "수출 호조"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "수출용 고급 화장품이 국내보다 비싼 값에 미국 등 주요국 고가 매장에 들어가고 있다.",
+  "key_fact_quote": "국내보다 최고 30% 더 비싼 값에 미국과 주요국 고가 매장을 잇따라 채우고 있습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "2b72f20ee9829f86",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news2day.co.kr/article/20261120500171",
+ "title": "[현장] 올리브영, 홍대서 색조 승부수… K뷰티 영토 넓힌다",
+ "summary": "식품의약품안전처에 따르면 올해 1~9월 국내 색조화장품 수출 액은 11억1000만달러로 기초화장품 수출 액인... 완성된다”며 “ K -색조의 잠재력을 새로운 성장 기회로 이어가고 국내 유망 브랜드와 함께 K뷰티 가 글로벌 뷰티 ...",
+ "published_at": "2026-11-20T14:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "색조 화장품",
+   "색조 전문 매장",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 홍대에서 색조 화장품을 앞세워 K뷰티 성장 영역을 넓히려 한다.",
+  "key_fact_quote": "식품의약품안전처에 따르면 올해 1~9월 국내 색조화장품 수출 액은 11억1000만달러로 기초화장품 수출 액인",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

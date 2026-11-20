@@ -1,0 +1,48 @@
+{
+ "doc_id": "457de39cf37a640f",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/kravebeauty-festive-popup-tackle-beauty-waste-1million-sales-amika-aora",
+ "title": "KraveBeauty’s festive pop-up aims to sell $1 million of overstock to spotlight beauty industry waste",
+ "summary": "Along with beauty brands Amika, Aora and Iota, KraveBeauty’s ‘Waste Me Not's’ pop-up in New York City, US, will sell excess inventory and overlooked products to give them a second life",
+ "published_at": "2026-11-20T21:49:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "KraveBeauty",
+   "Amika",
+   "Aora",
+   "Iota"
+  ],
+  "companies": [],
+  "keywords": [
+   "재고 판매",
+   "뷰티 산업 폐기물",
+   "팝업스토어",
+   "지속가능성"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "크레이브뷰티가 다른 브랜드들과 함께 뉴욕 팝업에서 과잉 재고를 판매해 뷰티 산업의 폐기 문제를 알린다.",
+  "key_fact_quote": "Along with beauty brands Amika, Aora and Iota, KraveBeauty’s ‘Waste Me Not's’ pop-up in New York City, US, will sell excess inventory and overlooked products to give them a second life",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "3320cd473f1d2c96",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312153",
+ "title": "중국 Z세대가 화장품을 고르는 법: \"국적은 중요하지 않아요\"",
+ "summary": "중국 산둥성에 거주하는 22세 대학생 장민민(张敏敏)은 매달 약 500위안을 화장품 구매에 사용한다. 그러나 그에게 화장품을 선택하는 기준은 브랜드 국적이나 유명세가 아니다. 실제 사용 경험과 제품의 완성도가 더 중요하다는 입장이다.장 씨의 소비 성향은 최근 중국 젊은 소비자들 사이에서 나타나는 \\'제품 중심 소비\\' 트렌드를 보여준다.“국적보다 직접 써봤을 때 만족하는지가 중요”장 씨는 특정 국가의 화장품을 특별히 선호하지 않는다고 말했다.그는 \\\"국가마다, 브랜드마다 잘하는 분야가 다르다고 생각한다\\\"며 \\\"한국 제품이 잘 맞으면 한국",
+ "published_at": "2026-11-20T10:20:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "중국 Z세대",
+   "제품 중심 소비",
+   "선케어",
+   "베이스메이크업",
+   "라이브커머스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 젊은 소비자는 브랜드 국적보다 실제 사용 경험과 제품력을 기준으로 화장품을 고르는 경향이 강해지고 있다.",
+  "key_fact_quote": "중국 화장품 시장이 성숙 단계에 접어들면서 소비자들의 구매 기준 역시 브랜드 이미지 중심에서 제품 성능과 사용 경험 중심으로 이동하고 있는 것으로 분석된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": true
+}

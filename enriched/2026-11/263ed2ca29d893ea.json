@@ -1,0 +1,44 @@
+{
+ "doc_id": "263ed2ca29d893ea",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5561",
+ "title": "한한령 풀려도 예전 중국은 없다… K뷰티의 기회와 숙제",
+ "summary": "중국 향료 향정화장품공업협회에 따르면 2025년 중국 화장품 시장에서 현지 브랜드가 차지하는 비중은 57.4%에 달했다. 중국 토종 브랜드들은 이미 시장의 절반 이상을 차지하며 해외 브랜드와의 경쟁에서 입지를 넓혔다....",
+ "published_at": "2026-11-20T09:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "중국 화장품 시장",
+   "중국 현지 브랜드",
+   "K뷰티 수출",
+   "한한령"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 화장품 시장에서 현지 브랜드가 절반 넘는 비중을 차지하며 해외 브랜드와의 경쟁에서 입지를 넓혔다.",
+  "key_fact_quote": "중국 토종 브랜드들은 이미 시장의 절반 이상을 차지하며 해외 브랜드와의 경쟁에서 입지를 넓혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

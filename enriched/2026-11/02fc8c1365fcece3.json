@@ -1,0 +1,45 @@
+{
+ "doc_id": "02fc8c1365fcece3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newspim.com/news/view/20261120000589",
+ "title": "동국제약, 리봄 인수 2년 만에 시너지효과… 화장품 수직계열화 속도",
+ "summary": "기존 제품의 생산뿐 아니라 제형 개발과 신제품 출시 과정에서도 협업할 기반을 마련한 셈이다. 동국제약 관계자는 \"리봄 화장품 인수를 통해 자체 생산시설을 확보한 만큼, 지속적인 연구개발을 통해 제품 라인업...",
+ "published_at": "2026-11-20T12:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "동국제약",
+   "리봄 화장품"
+  ],
+  "keywords": [
+   "화장품 수직계열화",
+   "자체 생산시설",
+   "제약사 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "동국제약이 리봄 화장품 인수로 자체 생산시설을 확보해 화장품 수직계열화를 추진하고 있다.",
+  "key_fact_quote": "리봄 화장품 인수를 통해 자체 생산시설을 확보한 만큼, 지속적인 연구개발을 통해 제품 라인업",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

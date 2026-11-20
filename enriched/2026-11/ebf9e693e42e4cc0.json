@@ -1,0 +1,46 @@
+{
+ "doc_id": "ebf9e693e42e4cc0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=783493",
+ "title": "스트레이 키즈 현진, 디올 새 앰배서더 발탁…패션·뷰티 동시 활동",
+ "summary": "그룹 스트레이 키즈(Stray Kids) 현진이 프랑스 명품 브랜드 디올(Dior)의 새로운 앰배서더로 선정됐다. 디올은... 커정이 향수 분야를 이끌고 있다. 현진은 디올의 패션과 뷰티를 모두 대표하는 앰배서더로서 글로벌 활동을...",
+ "published_at": "2026-11-20T16:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR",
+   "KR"
+  ],
+  "brands": [
+   "디올",
+   "Dior"
+  ],
+  "companies": [],
+  "keywords": [
+   "브랜드 앰배서더",
+   "K팝 마케팅",
+   "럭셔리 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "스트레이 키즈 현진이 디올의 패션과 뷰티를 대표하는 새 앰배서더로 선정됐다.",
+  "key_fact_quote": "그룹 스트레이 키즈(Stray Kids) 현진이 프랑스 명품 브랜드 디올(Dior)의 새로운 앰배서더로 선정됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

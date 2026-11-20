@@ -1,0 +1,48 @@
+{
+ "doc_id": "68b53d29809788a2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611200098&t=NN",
+ "title": "거세지는 중국 뷰티 공세…올리브영, K색조 지원 사격 [참견하는 기자]",
+ "summary": "CJ올리브영이 색조화장품 전문 매장을 앞세워 K -색조 육성과 글로벌 경쟁력 강화에 나섰다. 기초화장품을... 가챠', 뷰티 라운지가 들어섰다. ● 중국에 밀린 K색조… 수출 격차 확대 올리브영이 색조 시장에 주목하는...",
+ "published_at": "2026-11-20T17:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "색조 화장품",
+   "색조 전문 매장",
+   "중국 뷰티 브랜드",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 색조화장품 전문 매장을 내세워 중국 브랜드에 밀리는 K색조 육성에 나섰다.",
+  "key_fact_quote": "CJ올리브영이 색조화장품 전문 매장을 앞세워 K -색조 육성과 글로벌 경쟁력 강화에 나섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

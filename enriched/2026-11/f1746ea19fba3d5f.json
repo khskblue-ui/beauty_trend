@@ -1,0 +1,56 @@
+{
+ "doc_id": "f1746ea19fba3d5f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoul.co.kr/news/economy/2026/11/20/20261120500215?wlog_tag3=naver",
+ "title": "티에스큐씨 ‘코티브’, 연세대 치과생체재료공학연구소와 오랄 뷰티 R＆...",
+ "summary": "오랄 뷰티 브랜드 코티브(coteve)를 운영하는 티에스큐씨(TSQC, 대표 임종우)는 20일 연세대학교 치과대학... 2025년 하반기에는 키와를 통해 치아미백 팩 시제품 약 1만개를 판매했으며, 2026년 10월 코티브를 정식 론칭 하고...",
+ "published_at": "2026-11-20T15:25:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "코티브"
+  ],
+  "companies": [
+   "티에스큐씨"
+  ],
+  "keywords": [
+   "오랄 뷰티",
+   "치아미백",
+   "산학 연구개발"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "치아미백 팩",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "오랄 뷰티 브랜드 코티브를 운영하는 티에스큐씨가 연세대 치과생체재료공학연구소와 오랄 뷰티 연구개발에 나섰다.",
+  "key_fact_quote": "티에스큐씨 ‘코티브’, 연세대 치과생체재료공학연구소와 오랄 뷰티 R＆",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

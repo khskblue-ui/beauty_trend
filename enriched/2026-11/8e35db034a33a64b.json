@@ -1,0 +1,53 @@
+{
+ "doc_id": "8e35db034a33a64b",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/jacques-cavallier-belletrud-dubais-influence-on-fragrance-1239377380/",
+ "title": "Jacques Cavallier-Belletrud on Dubai’s Influence on Fragrance",
+ "summary": "Louis Vuitton’s master perfumer looks back at three decades in the Middle East, his lifelong pull toward oud and why a fragrance rooted in the region now sells around the world.",
+ "published_at": "2026-11-20T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "AE",
+   "FR"
+  ],
+  "brands": [
+   "Louis Vuitton"
+  ],
+  "companies": [
+   "Louis Vuitton"
+  ],
+  "keywords": [
+   "우드 향",
+   "중동 향수 시장",
+   "럭셔리 향수",
+   "조향사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "루이 비통의 조향사 자크 카발리에 벨트뤼가 중동에서의 활동과 우드에 대한 애착, 중동에 뿌리를 둔 향수의 세계적 인기를 돌아봤다.",
+  "key_fact_quote": "Louis Vuitton’s master perfumer looks back at three decades in the Middle East, his lifelong pull toward oud and why a fragrance rooted in the region now sells around the world.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "oud",
+    "quote": "Louis Vuitton’s master perfumer looks back at three decades in the Middle East, his lifelong pull toward oud and why a fragrance rooted in the region now sells around the world."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

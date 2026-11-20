@@ -1,0 +1,45 @@
+{
+ "doc_id": "2237c8c4c82e6bee",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://economist.co.kr/article/view/ecn202611190017",
+ "title": "“K뷰티 후광 필요 없어”…‘쌀·매니큐어 향수 ’ 해외서 통했다 [이코...",
+ "summary": "본투스탠드아웃은 보수적인 향수 산업의 틀을 깨기 위해 2022년 임 대표가 설립한 럭셔리 니치 향수 브랜드다. ‘틈새’를 의미하는 이탈리아어 ‘니치’(nicchia)에서 유래한 니치 향수 는 극소수의 취향을 충족하는...",
+ "published_at": "2026-11-21T06:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "본투스탠드아웃"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "럭셔리 향수",
+   "해외 진출",
+   "이색 향"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "본투스탠드아웃은 보수적인 향수 산업의 틀을 깨려고 설립된 럭셔리 니치 향수 브랜드로 해외에서 성과를 냈다.",
+  "key_fact_quote": "본투스탠드아웃은 보수적인 향수 산업의 틀을 깨기 위해 2022년 임 대표가 설립한 럭셔리 니치 향수 브랜드다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

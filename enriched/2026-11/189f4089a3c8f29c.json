@@ -1,0 +1,104 @@
+{
+ "doc_id": "189f4089a3c8f29c",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100550",
+ "title": "센슬(SENSEL), 성수 무신사 뷰티 스페이스 1에서 팝업 ‘센슬 마켓’ 오픈",
+ "summary": "바쁜 일상 속 '퀵 뷰티'를 지향하는 라이프스타일 뷰티 브랜드 센슬(SENSEL)이 11월 18일부터 29일까지 12일간 서울 성동구 무신사 뷰티 스페이스 1(MUSINSA BEAUTY Space 1)에서 팝업스토어 '센슬 마켓(SENSEL Market)'을 운영한다. 운영 시간은 매일 오전 11시부터 오후 7시까지다.'센슬 마켓'은 출근길 커피 한 잔 집어 들듯, 바쁜 하루 사이 잠깐 들러 나를 챙기는 작은 마켓을 콘셉트로 기획됐다. 브랜드 캠페인 메시지 '바쁘지만, 여전히 나답게",
+ "published_at": "2026-11-20T10:17:04+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "센슬",
+   "SENSEL",
+   "퍼글러"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "퀵 뷰티",
+   "크림 퍼퓸",
+   "나만의 키트",
+   "브랜드 협업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "퀵 틴트(Quick Tint)",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "타임 블러쉬(TIME BLUSH)",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "뮤트 크림 퍼퓸(Mute Cream Perfume)",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퀵 부스트 핑크윙 세트",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미니 에딧",
+    "brand": "센슬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "센슬이 성수 무신사 뷰티 스페이스에서 팝업스토어 센슬 마켓을 운영한다.",
+  "key_fact_quote": "바쁜 일상 속 '퀵 뷰티'를 지향하는 라이프스타일 뷰티 브랜드 센슬(SENSEL)이 11월 18일부터 29일까지 12일간 서울 성동구 무신사 뷰티 스페이스 1(MUSINSA BEAUTY Space 1)에서 팝업스토어 '센슬 마켓(SENSEL Market)'을 운영한다.",
+  "events": [
+   {
+    "name": "센슬 마켓(SENSEL Market)",
+    "start_date": "2026-11-18",
+    "end_date": "2026-11-29",
+    "place": "서울 성동구 무신사 뷰티 스페이스 1(MUSINSA BEAUTY Space 1)",
+    "quote": "바쁜 일상 속 '퀵 뷰티'를 지향하는 라이프스타일 뷰티 브랜드 센슬(SENSEL)이 11월 18일부터 29일까지 12일간 서울 성동구 무신사 뷰티 스페이스 1(MUSINSA BEAUTY Space 1)에서 팝업스토어 '센슬 마켓(SENSEL Market)'을 운영한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": true
+}

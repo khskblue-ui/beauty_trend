@@ -1,0 +1,53 @@
+{
+ "doc_id": "154333ee09083465",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=214304",
+ "title": "\"당근 화장품 이 일본 목욕탕에\"…스킨푸드, 현지 이색 협업 전개",
+ "summary": "일본어로 당근을 뜻하는 이름을 가진 목욕탕에서 당근 성분을 활용한 화장품 을 소개하는 방식으로, 현지... 스킨푸드는 목욕탕 이름과 신제품 의 공통점인 당근에 착안해 이번 협업을 기획했다. 닌진유 방문객을 대상으로...",
+ "published_at": "2026-11-20T16:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "스킨푸드"
+  ],
+  "companies": [
+   "스킨푸드"
+  ],
+  "keywords": [
+   "이색 협업",
+   "일본 시장",
+   "당근 성분",
+   "현지 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "스킨푸드가 목욕탕 이름과 신제품의 공통점인 당근에 착안해 일본 목욕탕과 협업했다.",
+  "key_fact_quote": "스킨푸드는 목욕탕 이름과 신제품 의 공통점인 당근에 착안해 이번 협업을 기획했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "당근",
+    "quote": "일본어로 당근을 뜻하는 이름을 가진 목욕탕에서 당근 성분을 활용한 화장품 을 소개하는 방식으로, 현지"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

@@ -1,0 +1,68 @@
+{
+ "doc_id": "b034139a1e95be5a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/11/20/2026112001191.html",
+ "title": "[ 뷰티 업계 이모저모] 토니모리, 글로우픽·앳코스메 코리아 어워드 2관...",
+ "summary": "신제품 2종은 각각 아쿠아틱 우디 향과 스파이시한 우디 향이 특징이다. 시어버터와 아몬드 오일 등을... 팝업 기간 무신사 뷰티 온라인 기획전도 함께 열린다. ■정샘물, 컬러 체인지 BB 출시 … 라벤더 색상 주목...",
+ "published_at": "2026-11-20T11:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "토니모리",
+   "정샘물",
+   "무신사 뷰티"
+  ],
+  "companies": [
+   "토니모리"
+  ],
+  "keywords": [
+   "우디 향",
+   "뷰티 어워드",
+   "팝업스토어",
+   "컬러 체인지 베이스"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "컬러 체인지 BB",
+    "brand": "정샘물",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "■정샘물, 컬러 체인지 BB 출시 … 라벤더 색상 주목",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "뷰티 업계 소식 모음으로, 한 브랜드의 신제품이 아쿠아틱 우디 향과 스파이시한 우디 향을 내세웠고 정샘물은 컬러 체인지 BB를 내놨다.",
+  "key_fact_quote": "신제품 2종은 각각 아쿠아틱 우디 향과 스파이시한 우디 향이 특징이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "시어버터",
+    "quote": "시어버터와 아몬드 오일 등을"
+   },
+   {
+    "name": "아몬드 오일",
+    "quote": "시어버터와 아몬드 오일 등을"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

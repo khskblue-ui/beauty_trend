@@ -1,0 +1,81 @@
+{
+ "doc_id": "c672097d4cac554d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.dailypop.kr/news/articleView.html?idxno=104791",
+ "title": "[줌인] 3980원 김밥·9980원 화장품 …이마트, 초저가 상품으로 반복 구매...",
+ "summary": "향 관리와 헤어케어에 이어 더마 스킨케어로 영역을 넓혔으며, PDRN 스킨케어 5종과 쿤달 협업 헤어·바디 상품 12종, 손앤박 협업 색조 화장품 29종도 출시 할 계획이다. 이마트 역시 초저가 뷰티 상품군을 확대하고 있다....",
+ "published_at": "2026-11-20T09:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "쿤달",
+   "손앤박"
+  ],
+  "companies": [
+   "이마트"
+  ],
+  "keywords": [
+   "초저가 화장품",
+   "PDRN 스킨케어",
+   "브랜드 협업",
+   "더마 스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "PDRN 스킨케어 5종",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "향 관리와 헤어케어에 이어 더마 스킨케어로 영역을 넓혔으며, PDRN 스킨케어 5종과 쿤달 협업 헤어·바디 상품 12종, 손앤박 협업 색조 화장품 29종도 출시 할 계획이다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "쿤달 협업 헤어·바디 상품 12종",
+    "brand": "쿤달",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "향 관리와 헤어케어에 이어 더마 스킨케어로 영역을 넓혔으며, PDRN 스킨케어 5종과 쿤달 협업 헤어·바디 상품 12종, 손앤박 협업 색조 화장품 29종도 출시 할 계획이다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "손앤박 협업 색조 화장품 29종",
+    "brand": "손앤박",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "향 관리와 헤어케어에 이어 더마 스킨케어로 영역을 넓혔으며, PDRN 스킨케어 5종과 쿤달 협업 헤어·바디 상품 12종, 손앤박 협업 색조 화장품 29종도 출시 할 계획이다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유통사가 더마 스킨케어로 영역을 넓히고 PDRN 스킨케어와 쿤달, 손앤박 협업 상품도 출시할 계획이다.",
+  "key_fact_quote": "향 관리와 헤어케어에 이어 더마 스킨케어로 영역을 넓혔으며, PDRN 스킨케어 5종과 쿤달 협업 헤어·바디 상품 12종, 손앤박 협업 색조 화장품 29종도 출시 할 계획이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "향 관리와 헤어케어에 이어 더마 스킨케어로 영역을 넓혔으며, PDRN 스킨케어 5종과 쿤달 협업 헤어·바디 상품 12종, 손앤박 협업 색조 화장품 29종도 출시 할 계획이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

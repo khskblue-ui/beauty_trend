@@ -1,0 +1,43 @@
+{
+ "doc_id": "86785bc52dfce318",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-world-dubai-at-30-the-crossroads-of-beauty-1239376205/",
+ "title": "The Crossroads of Beauty",
+ "summary": "The beauty industry once came to Dubai to sell. At Beauty World Dubai’s 30th edition, it came to source, invest and learn.",
+ "published_at": "2026-11-20T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "AE"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 박람회",
+   "중동 뷰티 시장",
+   "원료 소싱",
+   "투자"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 업계가 예전에는 두바이에 팔러 왔지만 이번 Beauty World Dubai에는 소싱하고 투자하고 배우러 왔다.",
+  "key_fact_quote": "At Beauty World Dubai’s 30th edition, it came to source, invest and learn.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

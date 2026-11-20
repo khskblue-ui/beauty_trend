@@ -1,0 +1,42 @@
+{
+ "doc_id": "940ba674b483c748",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://dhnews.co.kr/news/view/1065587285373540",
+ "title": "서울시 뷰티 아카데미 수료생, 창업 성과 주목",
+ "summary": "수료생들은 정부 창업 지원사업 선정, 첫 제품 개발 착수, 향수 브랜드 출시 등의 성과를 냈다. 수업에서 배운 기획·제조·마케팅·수출 역량을 각자의 브랜드에 적용하며 창업의 실행 단계로 나아가고 있다. 아카데미는...",
+ "published_at": "2026-11-20T14:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뷰티 창업",
+   "창업 교육",
+   "향수 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "서울시 뷰티 아카데미 수료생들이 정부 창업 지원사업 선정, 향수 브랜드 출시 등의 성과를 냈다.",
+  "key_fact_quote": "수료생들은 정부 창업 지원사업 선정, 첫 제품 개발 착수, 향수 브랜드 출시 등의 성과를 냈다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

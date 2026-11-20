@@ -1,0 +1,56 @@
+{
+ "doc_id": "fb808e8bd9423fa6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281787",
+ "title": "힌스, 美 LA 팝업스토어 성료…북미 뷰티 시장 공략 가속",
+ "summary": "이번 팝업은 신제품 '잼 투 글라이드 립밤'의 북미 출시 를 기념해 기획됐다. 힌스는 13일 현지 인플루언서와... 해당 메뉴는 팝업 기간 매일 선착순 200명에게 무료로 제공됐으며, 뷰티 와 카페 문화를 결합한 시도는 소비자...",
+ "published_at": "2026-11-20T10:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "힌스"
+  ],
+  "companies": [],
+  "keywords": [
+   "팝업스토어",
+   "북미 진출",
+   "립밤",
+   "카페 협업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "잼 투 글라이드 립밤",
+    "brand": "힌스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이번 팝업은 신제품 '잼 투 글라이드 립밤'의 북미 출시 를 기념해 기획됐다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "힌스가 신제품 립밤의 북미 출시를 기념해 미국 로스앤젤레스에서 팝업스토어를 열었다.",
+  "key_fact_quote": "이번 팝업은 신제품 '잼 투 글라이드 립밤'의 북미 출시 를 기념해 기획됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

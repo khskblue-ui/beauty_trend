@@ -1,0 +1,43 @@
+{
+ "doc_id": "cd10ae89662f3a6f",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/behind-the-scents-podcast-telling-the-story-of-fragrance",
+ "title": "Behind the Scents podcast: Telling the story of fragrance",
+ "summary": "In the fourth episode of the IFRA Behind the Scents Podcast, Jenna Troyli, Co-founder of Noted Communications, explains how the way people discover fragrance is changing – and why telling its story comes with responsibility.",
+ "published_at": "2026-11-17T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "IFRA",
+   "Noted Communications"
+  ],
+  "keywords": [
+   "향 스토리텔링",
+   "향수 발견 방식",
+   "팟캐스트"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "IFRA 팟캐스트에서 Noted Communications 공동 창업자가 사람들이 향을 발견하는 방식의 변화와 향 이야기를 전하는 일의 책임을 설명했다.",
+  "key_fact_quote": "explains how the way people discover fragrance is changing – and why telling its story comes with responsibility.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

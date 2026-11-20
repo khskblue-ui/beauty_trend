@@ -1,0 +1,46 @@
+{
+ "doc_id": "89cd2a8d802dfa2f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.bizwatch.co.kr/article/consumer/2026/11/20/0015",
+ "title": "'컬러 놀이터' 만든 올리브영…홍대서 K뷰티 성장축 넓힌다",
+ "summary": "K뷰티 수출 이 스킨케어에 집중된 만큼 색조 화장품은 아직 성장 여지가 큰 분야로 꼽힌다. 실제로 식품의약품안전처에 따르면 올해 1~3분기 색조 화장품 수출액은 11억달러(약 1조4730억원)로 전체 화장품 수출액의 10% 수준에...",
+ "published_at": "2026-11-20T13:09:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "색조 화장품",
+   "체험형 매장",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 홍대에 색조 체험 매장을 열어 스킨케어에 집중된 K뷰티의 성장축을 넓히려 한다.",
+  "key_fact_quote": "K뷰티 수출 이 스킨케어에 집중된 만큼 색조 화장품은 아직 성장 여지가 큰 분야로 꼽힌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "c13c8d0af8bd485a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758598",
+ "title": "레이티드그린, '무신사 뷰티 성수' 공식 입점… 국내 소비자 접점 확대",
+ "summary": "레이티드그린은 무신사 뷰티 성수 개점과 함께 '무신사에서 처음 만나는 브랜드 '이자 '무신사 최초 론칭 브랜드 '로 소개됐다. 무신사의 브랜드 큐레이션에 포함되면서 국내 소비자들이 다양한 헤어케어 제품을 오프라인...",
+ "published_at": "2026-11-20T17:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "레이티드그린",
+   "무신사 뷰티"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "헤어케어",
+   "오프라인 입점",
+   "뷰티 편집숍"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "헤어케어 브랜드 레이티드그린이 무신사 뷰티 성수에 공식 입점했다.",
+  "key_fact_quote": "레이티드그린은 무신사 뷰티 성수 개점과 함께 '무신사에서 처음 만나는 브랜드 '이자 '무신사 최초 론칭 브랜드 '로 소개됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

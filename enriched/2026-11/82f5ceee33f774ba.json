@@ -1,0 +1,56 @@
+{
+ "doc_id": "82f5ceee33f774ba",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gukjenews.com/news/articleView.html?idxno=3754589",
+ "title": "브리벨, 향료 없는 비즈형 '옷장탈취제 무향' 출시",
+ "summary": "세정·탈취 생활화학제품 브랜드 브리벨(대표 박민준)이 향료 를 첨가하지 않은 비즈형 탈취제 '브리벨 옷장탈취제 무향'을 출시했다고 밝혔다. 이번 신제품은 옷장이나 수납장 등 밀폐된 공간에서 발생하는 냄새를...",
+ "published_at": "2026-11-20T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "브리벨"
+  ],
+  "companies": [
+   "브리벨"
+  ],
+  "keywords": [
+   "무향 제품",
+   "탈취제",
+   "생활화학제품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "브리벨 옷장탈취제 무향",
+    "brand": "브리벨",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "세정·탈취 생활화학제품 브랜드 브리벨(대표 박민준)이 향료 를 첨가하지 않은 비즈형 탈취제 '브리벨 옷장탈취제 무향'을 출시했다고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "브리벨이 향료를 넣지 않은 비즈형 옷장 탈취제를 출시했다.",
+  "key_fact_quote": "세정·탈취 생활화학제품 브랜드 브리벨(대표 박민준)이 향료 를 첨가하지 않은 비즈형 탈취제 '브리벨 옷장탈취제 무향'을 출시했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

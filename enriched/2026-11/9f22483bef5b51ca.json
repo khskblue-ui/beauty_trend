@@ -1,0 +1,59 @@
+{
+ "doc_id": "9f22483bef5b51ca",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100554",
+ "title": "CJ올리브영, 테크 콘퍼런스 성료…옴니채널 구현한 테크 경쟁력 소개",
+ "summary": "올리브영이 IT업계 관계자들에게 유통업계에 특화된 기술 경쟁력을 공유하고, 올리브영의 테크조직이 일하는 방식을 소개했다. CJ올리브영(이하 올리브영)은 지난 19일 서울 성수동에서 첫 테크 콘퍼런스 ‘define:OMNI(디파인 옴니)’를 성황리에 마쳤다고 20일 밝혔다. 이번 행사에서 올리브영은 그동안 내재화한 기술 역량을 기반으로 매장·온라인몰·물류 전반을 고도화해 온 사례를 설명하고, 앞으로 AI 활용을 확대하고 국내 성공 사례를 글로벌 무대로 옮겨 플랫폼 경쟁력을 강화하는 방향성을 공유했다. 테크 콘퍼런스에는 IT 업계 관계",
+ "published_at": "2026-11-20T10:27:38+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "CJ올리브영",
+   "구글",
+   "팔란티어코리아"
+  ],
+  "keywords": [
+   "옴니채널",
+   "에이전틱 커머스",
+   "리테일테인먼트",
+   "피지털",
+   "퀵커머스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "CJ올리브영이 서울 성수동에서 첫 테크 콘퍼런스를 열고 옴니채널 기술과 글로벌·AI 전략을 공유했다.",
+  "key_fact_quote": "CJ올리브영(이하 올리브영)은 지난 19일 서울 성수동에서 첫 테크 콘퍼런스 ‘define:OMNI(디파인 옴니)’를 성황리에 마쳤다고 20일 밝혔다.",
+  "events": [
+   {
+    "name": "define:OMNI(디파인 옴니)",
+    "start_date": "2026-11-19",
+    "end_date": null,
+    "place": "서울 성수동",
+    "quote": "CJ올리브영(이하 올리브영)은 지난 19일 서울 성수동에서 첫 테크 콘퍼런스 ‘define:OMNI(디파인 옴니)’를 성황리에 마쳤다고 20일 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": true
+}

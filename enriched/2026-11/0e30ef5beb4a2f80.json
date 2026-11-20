@@ -1,0 +1,47 @@
+{
+ "doc_id": "0e30ef5beb4a2f80",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mydaily.co.kr/page/view/2026112017312201723",
+ "title": "[현장] “화장품을 코스요리처럼 즐겼다”…한미 ‘아데시’ 북촌 팝업...",
+ "summary": "전 제품에 향료 를 넣지 않아 익숙한 화장품 향 대신 원료 본연의 냄새가 느껴졌다. 아데시의 전략은 ‘고기능·소용량’이다. 고함량·고순도 원료를 사용해 원가 부담이 큰 만큼 짧은 집중 케어를 기준으로 소용량...",
+ "published_at": "2026-11-20T17:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아데시"
+  ],
+  "companies": [
+   "한미"
+  ],
+  "keywords": [
+   "무향료 화장품",
+   "팝업스토어",
+   "고기능 소용량",
+   "고함량 원료"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한미의 아데시는 북촌 팝업에서 향료를 넣지 않은 고기능 소용량 제품을 선보였다.",
+  "key_fact_quote": "전 제품에 향료 를 넣지 않아 익숙한 화장품 향 대신 원료 본연의 냄새가 느껴졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

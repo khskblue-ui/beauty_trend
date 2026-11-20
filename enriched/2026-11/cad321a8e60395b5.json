@@ -1,0 +1,66 @@
+{
+ "doc_id": "cad321a8e60395b5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hemophilia.co.kr/news/articleView.html?idxno=45769",
+ "title": "(주)블리비코스메틱, '블리비 PDRN 엑소좀 에센셜 마스크팩' 출시",
+ "summary": "블리비코스메틱이 글로벌 더마코스메틱 브랜드 '블리비(velyB)'의 신제품 '블리비 PDRN 엑소좀 에센셜 마스크팩'을 출시했다. 블리비는 자체 R&D 센터를 중심으로 국내 화장품 전문 연구소와 공동 연구를 진행하며, 피부과의...",
+ "published_at": "2026-11-20T12:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "블리비"
+  ],
+  "companies": [
+   "블리비코스메틱"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "마스크팩",
+   "PDRN",
+   "엑소좀"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "블리비 PDRN 엑소좀 에센셜 마스크팩",
+    "brand": "블리비",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "블리비코스메틱이 글로벌 더마코스메틱 브랜드 '블리비(velyB)'의 신제품 '블리비 PDRN 엑소좀 에센셜 마스크팩'을 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "블리비코스메틱이 더마코스메틱 브랜드 블리비의 PDRN 엑소좀 마스크팩 신제품을 출시했다.",
+  "key_fact_quote": "블리비코스메틱이 글로벌 더마코스메틱 브랜드 '블리비(velyB)'의 신제품 '블리비 PDRN 엑소좀 에센셜 마스크팩'을 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "블리비코스메틱이 글로벌 더마코스메틱 브랜드 '블리비(velyB)'의 신제품 '블리비 PDRN 엑소좀 에센셜 마스크팩'을 출시했다."
+   },
+   {
+    "name": "엑소좀",
+    "quote": "블리비코스메틱이 글로벌 더마코스메틱 브랜드 '블리비(velyB)'의 신제품 '블리비 PDRN 엑소좀 에센셜 마스크팩'을 출시했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

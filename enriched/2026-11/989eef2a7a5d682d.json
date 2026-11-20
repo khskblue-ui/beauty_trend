@@ -1,0 +1,47 @@
+{
+ "doc_id": "989eef2a7a5d682d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.e2news.com/news/articleView.html?idxno=336329",
+ "title": "크리스챤 디올 뷰티, 신세계 강남점서 '디올 뷰티 홀리데이 팝업' 개최",
+ "summary": "이와 함께 여성 향수 '미스 디올'과 '쟈도르', 남성 향수 '소바쥬'와 '디올 옴므' 등 브랜드 의 주요 향수 라인업을 경험할 수 있다. 메이크업과 스킨케어 부문에서는 'NEW 2026 디올 홀리데이 메이크업 컬렉션'과 스킨케어...",
+ "published_at": "2026-11-20T12:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "크리스챤 디올 뷰티"
+  ],
+  "companies": [
+   "신세계"
+  ],
+  "keywords": [
+   "홀리데이 컬렉션",
+   "팝업스토어",
+   "연말 선물"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "53f56203c27c9aa7",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

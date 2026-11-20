@@ -1,0 +1,46 @@
+{
+ "doc_id": "d6d95ca33e19c456",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/loreal-invest-almost-300m-euros-france-through-2029-1239460629/",
+ "title": "L’Oréal to Invest Almost 300M Euros in France Through 2029",
+ "summary": "The funding will support the environmental transition of the group’s sites, R&I capabilities and operations development.",
+ "published_at": "2026-11-21T04:40:25+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "L’Oréal"
+  ],
+  "companies": [
+   "L’Oréal"
+  ],
+  "keywords": [
+   "설비 투자",
+   "친환경 전환",
+   "연구 혁신"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "로레알이 프랑스 내 사업장의 친환경 전환과 연구 혁신 역량, 운영 개발에 투자한다.",
+  "key_fact_quote": "The funding will support the environmental transition of the group’s sites, R&I capabilities and operations development.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "1fa334132378c6c4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494996",
+ "title": "인천대 , 크루즈 관광객 겨냥 '빈손 쇼핑' K - 뷰티 판로 개척",
+ "summary": "인천대 학생들로 구성된 무역전문가 양성팀이 인천항을 찾은 외국인 크루즈 관광객을 대상으로 '현장 체험 후 귀국 뒤 온라인 주문'이라는 신개념 K - 뷰티 수출 모델을 선보였다. 인천대...",
+ "published_at": "2026-11-20T10:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "크루즈 관광객",
+   "해외 판로 개척",
+   "온라인 주문"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인천대 학생 팀이 외국인 크루즈 관광객이 현장에서 체험한 뒤 귀국해 온라인으로 주문하는 K뷰티 수출 모델을 선보였다.",
+  "key_fact_quote": "인천대 학생들로 구성된 무역전문가 양성팀이 인천항을 찾은 외국인 크루즈 관광객을 대상으로 '현장 체험 후 귀국 뒤 온라인 주문'이라는 신개념 K - 뷰티 수출 모델을 선보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-20T21:31:42+00:00",
+ "had_body": false
+}
