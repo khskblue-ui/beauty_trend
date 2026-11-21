@@ -1,0 +1,44 @@
+{
+ "doc_id": "7720e3558e58a2aa",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=203968",
+ "title": "향수 부터 이너뷰티까지... 연말 홀리데이 컬렉션 경쟁 본격화 [최기자의...",
+ "summary": "니치 향수 중심으로 홀리데이 경쟁 이번 주 가장 눈에 띄는 신제품은 향수를 중심으로 한 럭셔리 홀리데이 컬렉션이다. 향수 본품만 판매하는 기존 방식에서 벗어나 캔들과 바디워시, 핸드크림 등으로 제품 구성을 넓혀...",
+ "published_at": "2026-11-21T09:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "홀리데이 컬렉션",
+   "향 제품군 확장",
+   "캔들",
+   "핸드크림"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "연말을 맞아 향수를 중심으로 한 럭셔리 홀리데이 컬렉션이 신제품 경쟁의 중심에 섰다.",
+  "key_fact_quote": "이번 주 가장 눈에 띄는 신제품은 향수를 중심으로 한 럭셔리 홀리데이 컬렉션이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-21T21:28:24+00:00",
+ "had_body": false
+}

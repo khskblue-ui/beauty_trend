@@ -1,0 +1,56 @@
+{
+ "doc_id": "b6ef026307b0967e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084587",
+ "title": "[체험기] 하루 5분, 피부관리…쿠쿠 '메디킨 멀티 스킨케어' 써보니",
+ "summary": "글로우 부스팅 모드는 화장품 유효성분의 흡수를 돕고 피부에 광채를 더하는 데 초점을 맞췄다. 링클케어... 쿠쿠 관계자는\"이번 신제품 은 피부 고민에 따라 여러 기기를 번갈아 사용할 필요 없이 하나의 디바이스로 보다...",
+ "published_at": "2026-11-21T08:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메디킨"
+  ],
+  "companies": [
+   "쿠쿠"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "홈 케어",
+   "멀티 기능 피부 관리 기기"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "메디킨 멀티 스킨케어",
+    "brand": "쿠쿠",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "쿠쿠의 뷰티 디바이스는 화장품 유효성분 흡수를 돕는 모드 등 여러 기능을 한 기기에 담았다.",
+  "key_fact_quote": "글로우 부스팅 모드는 화장품 유효성분의 흡수를 돕고 피부에 광채를 더하는 데 초점을 맞췄다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-21T21:28:24+00:00",
+ "had_body": false
+}

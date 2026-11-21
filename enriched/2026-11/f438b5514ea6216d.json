@@ -1,0 +1,46 @@
+{
+ "doc_id": "f438b5514ea6216d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.kjdaily.com/article.php?aid=1795231404693022276",
+ "title": "지슨 주가 72.83% 급등…스튜디오드래곤·에스엠·한국 화장품 강세",
+ "summary": "32% 상승 -한국 화장품 25.19%·제주항공 25.11% 강세 -코스피 7.95% 급락…한한령 완화 기대 업종은 상승 11월... 지슨은 시험장용 전파 탐지 장비를 연내 출시 할 계획이다. 내년 상반기에는 시험실에 설치할 수 있는...",
+ "published_at": "2026-11-21T12:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "지슨",
+   "스튜디오드래곤",
+   "에스엠",
+   "제주항공"
+  ],
+  "keywords": [
+   "주가 동향",
+   "한한령 완화 기대"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "증시가 급락한 가운데 한한령 완화 기대 업종의 주가는 올랐다.",
+  "key_fact_quote": "32% 상승 -한국 화장품 25.19%·제주항공 25.11% 강세 -코스피 7.95% 급락…한한령 완화 기대 업종은 상승",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-21T21:28:24+00:00",
+ "had_body": false
+}

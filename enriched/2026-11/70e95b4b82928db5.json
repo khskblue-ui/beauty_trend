@@ -1,0 +1,50 @@
+{
+ "doc_id": "70e95b4b82928db5",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com:8443/en/procter-gamble-to-cut-staff-at-its,28572",
+ "title": "Procter & Gamble to cut staff at its factories and distribution centers",
+ "summary": "US consumer goods giant Procter & Gamble (P&G) announced on Thursday, November 19, plans to reduce its manufacturing and logistics workforce by 2030. The cuts could affect up to 30% of the positions concerned, as part of a broader cost-reduction drive. The announcement was made by the management of the consumer goods group, whose brands include Gillette razors, Ariel laundry detergent, Pampers diapers, Head & Shoulders shampoo, and Oral-B toothpaste, during a conference call... - Industry buzz",
+ "published_at": "2026-11-21T03:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Gillette",
+   "Ariel",
+   "Pampers",
+   "Head & Shoulders",
+   "Oral-B"
+  ],
+  "companies": [
+   "Procter & Gamble"
+  ],
+  "keywords": [
+   "인력 감축",
+   "비용 절감",
+   "생활용품 대기업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 생활용품 대기업 P&G가 비용 절감의 일환으로 제조·물류 인력을 줄이겠다는 계획을 발표했다.",
+  "key_fact_quote": "US consumer goods giant Procter & Gamble (P&G) announced on Thursday, November 19, plans to reduce its manufacturing and logistics workforce by 2030.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-21T21:28:24+00:00",
+ "had_body": false
+}

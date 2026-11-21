@@ -1,0 +1,55 @@
+{
+ "doc_id": "bb25e84d7924e24f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759091",
+ "title": "아티스트 허지원, 뷰티 브랜드 케이부스터 '핑크부스터' 전속 엠버서더...",
+ "summary": "JiWon)이 뷰티 브랜드 케이부스터(K-BOOSTER)의 대중 라인으로 새롭게 출시된 '핑크부스터(PINK BOOSTER)'의 전속... 허지원은 이번 전속 엠버서더 활동을 통해 핑크부스터의 공식 브랜드 론칭 행사와 다양한 온·오프라인...",
+ "published_at": "2026-11-21T17:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "케이부스터",
+   "핑크부스터"
+  ],
+  "companies": [],
+  "keywords": [
+   "브랜드 엠버서더",
+   "대중 라인 출시",
+   "아티스트 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "핑크부스터",
+    "brand": "케이부스터",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "JiWon)이 뷰티 브랜드 케이부스터(K-BOOSTER)의 대중 라인으로 새롭게 출시된 '핑크부스터(PINK BOOSTER)'의 전속",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아티스트 허지원이 케이부스터의 대중 라인 핑크부스터의 전속 엠버서더가 됐다.",
+  "key_fact_quote": "JiWon)이 뷰티 브랜드 케이부스터(K-BOOSTER)의 대중 라인으로 새롭게 출시된 '핑크부스터(PINK BOOSTER)'의 전속",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-21T21:28:24+00:00",
+ "had_body": false
+}

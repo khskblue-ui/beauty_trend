@@ -1,0 +1,64 @@
+{
+ "doc_id": "bcb794320580ae62",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261120_0003877212",
+ "title": "겨울 바람 쌩쌩, 연말 분위기 입은 뷰티 신상[패션·뷰티 HOT신상]",
+ "summary": "또 5만원 이상 구매 시 신제품 '아떼 멜레이저 나이아신아마이드 클렌징 폼'을, 7만원 이상 구매 시 배달의민족 1만원 상품권을 증정할 예정이다. 신세계인터내셔날이 수입·판매하는 스페인 럭셔리 향수 브랜드 로에베...",
+ "published_at": "2026-11-21T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "ES"
+  ],
+  "brands": [
+   "아떼",
+   "로에베"
+  ],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "연말 뷰티 신제품",
+   "구매 증정 행사",
+   "럭셔리 향수",
+   "클렌징 폼"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "아떼 멜레이저 나이아신아마이드 클렌징 폼",
+    "brand": "아떼",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "연말을 앞두고 뷰티 브랜드들이 신제품과 구매 증정 행사를 내놓고 있다.",
+  "key_fact_quote": "또 5만원 이상 구매 시 신제품 '아떼 멜레이저 나이아신아마이드 클렌징 폼'을, 7만원 이상 구매 시 배달의민족 1만원 상품권을 증정할 예정이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "나이아신아마이드",
+    "quote": "또 5만원 이상 구매 시 신제품 '아떼 멜레이저 나이아신아마이드 클렌징 폼'을, 7만원 이상 구매 시 배달의민족 1만원 상품권을 증정할 예정이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-21T21:28:24+00:00",
+ "had_body": false
+}

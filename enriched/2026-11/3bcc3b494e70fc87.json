@@ -1,0 +1,61 @@
+{
+ "doc_id": "3bcc3b494e70fc87",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/2026112112547",
+ "title": "\"병풀을 통째로 짜 넣었다고?\"…3만개 소진된 '이 화장품 '",
+ "summary": "병풀 추출물이 아닌 생병풀을 직접 짜서 만든 원액을 화장품 에 넣었다. 지난해 출시 한 '프레시 시카 90% 앰플'은 국내 농가에서 무농약으로 재배한 생병풀을 착즙한 원료를 활용한 제품이다. 국내 농가에서 무농약으로...",
+ "published_at": "2026-11-21T10:19:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "시카 앰플",
+   "생병풀 착즙 원료",
+   "무농약 국내산 원료"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "프레시 시카 90% 앰플",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "병풀 추출물 대신 국내 농가에서 무농약으로 재배한 생병풀을 착즙한 원료를 쓴 앰플이 주목받고 있다.",
+  "key_fact_quote": "지난해 출시 한 '프레시 시카 90% 앰플'은 국내 농가에서 무농약으로 재배한 생병풀을 착즙한 원료를 활용한 제품이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "병풀 추출물",
+    "quote": "병풀 추출물이 아닌 생병풀을 직접 짜서 만든 원액을 화장품 에 넣었다."
+   },
+   {
+    "name": "생병풀",
+    "quote": "병풀 추출물이 아닌 생병풀을 직접 짜서 만든 원액을 화장품 에 넣었다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-21T21:28:24+00:00",
+ "had_body": false
+}

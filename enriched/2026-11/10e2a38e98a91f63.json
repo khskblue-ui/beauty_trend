@@ -1,0 +1,48 @@
+{
+ "doc_id": "10e2a38e98a91f63",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=580143&class=17&grp=",
+ "title": "'한 달 1억개 생산' 코스맥스 질주…올리브영·무신사는 매장 전쟁 [ 뷰티 ...",
+ "summary": "K - 뷰티 수출 호조 속에 화장품업계가 생산능력 확충과 기술 개발, 판매망 확대에 속도를 냈다. 코스맥스는 국내 화장품 제조업자개발생산(ODM) 업계 최초로 월간 생산량 1억개를 돌파했으며 한국콜마는 인공지능(AI)을...",
+ "published_at": "2026-11-21T08:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "한국콜마",
+   "올리브영",
+   "무신사"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "생산능력 확충",
+   "K뷰티 수출",
+   "오프라인 매장 경쟁"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 수출 호조 속에 화장품업계가 생산능력 확충과 기술 개발, 판매망 확대에 속도를 내고 있다.",
+  "key_fact_quote": "K - 뷰티 수출 호조 속에 화장품업계가 생산능력 확충과 기술 개발, 판매망 확대에 속도를 냈다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-21T21:28:24+00:00",
+ "had_body": false
+}

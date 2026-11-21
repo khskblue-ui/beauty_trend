@@ -1,0 +1,56 @@
+{
+ "doc_id": "5da4535871fa0fe6",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=214337",
+ "title": "168cm 케이스 맥세이프 뷰티 기능 더한 글로우밤 하트톡 출시",
+ "summary": "Heart-Tok)'을 출시 하며 제품군을 확대했다고 21일 밝혔다. 플라(대표 우주명)가 운영하는 168cm는 휴대폰 케이스와 맥세이프 액세서리 등을 전개하는 브랜드로, 이번 신제품 에는 스마트폰 사용과 일상적인 뷰티 관리를 함께...",
+ "published_at": "2026-11-21T19:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "168cm"
+  ],
+  "companies": [
+   "플라"
+  ],
+  "keywords": [
+   "맥세이프 액세서리",
+   "글로우밤",
+   "뷰티 겸용 휴대폰 액세서리"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "글로우밤 하트톡",
+    "brand": "168cm",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Heart-Tok)'을 출시 하며 제품군을 확대했다고 21일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "휴대폰 액세서리 브랜드가 맥세이프 액세서리에 뷰티 기능을 더한 글로우밤 제품을 출시했다.",
+  "key_fact_quote": "Heart-Tok)'을 출시 하며 제품군을 확대했다고 21일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-21T21:28:24+00:00",
+ "had_body": false
+}
