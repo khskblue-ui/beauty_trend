@@ -1,0 +1,42 @@
+{
+ "doc_id": "f04f2d3c936cff77",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ujeil.com/news/articleView.html?idxno=395696",
+ "title": "울산, 수능 마친 고3들 퍼스널 컬러 찾고 향수만들며 '힐링'",
+ "summary": "향수 만들기 체험에서는 학생들이 취향에 맞는 향료 를 직접 고르고 조합해 자신만의 향수를 제작한다. 교육청 관계자는 \"수능을 마친 학생들이 그동안의 긴장과 스트레스를 내려놓고 자신을 돌아보는 시간이 되길 바란다...",
+ "published_at": "2026-11-22T21:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "향수 만들기",
+   "퍼스널 컬러",
+   "체험 프로그램"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "울산에서 수능을 마친 고등학생들이 퍼스널 컬러 진단과 향수 만들기 체험을 했다.",
+  "key_fact_quote": "향수 만들기 체험에서는 학생들이 취향에 맞는 향료 를 직접 고르고 조합해 자신만의 향수를 제작한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-22T21:27:58+00:00",
+ "had_body": false
+}

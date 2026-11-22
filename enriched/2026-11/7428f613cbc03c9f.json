@@ -1,0 +1,46 @@
+{
+ "doc_id": "7428f613cbc03c9f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261123010008486",
+ "title": "K뷰티 열풍에 주목받는 KCC실리콘… 수주·매출 연결 과제",
+ "summary": "했다. 화장품 원료 사업에서는 코스맥스와 한국콜마가 KCC실리콘의 주요 고객사다. 여러 브랜드의 신제품 을 개발하는 ODM 업체는 원료사에 중요한 판로다. 브랜드가 원하는 발림성과 밀착력에 맞춰 제조사가 원료를...",
+ "published_at": "2026-11-22T17:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "KCC실리콘",
+   "코스맥스",
+   "한국콜마"
+  ],
+  "keywords": [
+   "화장품 원료",
+   "실리콘 원료",
+   "ODM"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "KCC실리콘이 K뷰티 열풍 속에 화장품 원료 사업에서 ODM 고객사를 확보하고 있다.",
+  "key_fact_quote": "화장품 원료 사업에서는 코스맥스와 한국콜마가 KCC실리콘의 주요 고객사다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-22T21:27:58+00:00",
+ "had_body": false
+}

@@ -1,0 +1,48 @@
+{
+ "doc_id": "5870802f400aaeab",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312154",
+ "title": "中国Z世代消费者: “品牌来自哪个国家已经没那么重要了”",
+ "summary": "来自山东的22岁大学生张敏敏每月在化妆品上的支出约为500元人民币。与过去消费者容易受到品牌光环或国别标签影响不同，她更看重产品本身的使用体验和实际价值。在她看来，化妆品市场正在进入一个更加理性、更强调产品力的时代。“比起品牌国籍，我更在意产品是否适合自己”张敏敏表示，自己并不会特别偏爱某个国家的化妆品。她认为，不同国家和品牌都有各自擅长的领域，因此购买产品时不会先考虑品牌来自哪里，而是先看产品本身是否适合自己的需求。“韩国产品好用我就买韩国的，国产更适合我就买国产，欧美或日系有不错的产品我也会使用。”在她看来，真正重要的不是品牌国籍，而是产品能否满足自己的实际需求。防晒与底妆成为关注重点谈到",
+ "published_at": "2026-11-22T10:45:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "小红书",
+   "抖音"
+  ],
+  "keywords": [
+   "Z세대 소비",
+   "제품력 중심 소비",
+   "선케어",
+   "베이스 메이크업",
+   "라이브 커머스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 Z세대 소비자는 브랜드 국적보다 실제 사용 경험과 제품력을 기준으로 화장품을 고른다.",
+  "key_fact_quote": "中国Z世代消费者在选择化妆品时，越来越倾向于以实际使用体验和产品品质为核心判断标准，而非品牌所属国家。",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-22T21:27:58+00:00",
+ "had_body": true
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "cd29e1a202538a1e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ytn.co.kr/_ln/0102_202611220746065498",
+ "title": "\"우리도 있다!\"... K뷰티 ·콘텐츠 주목",
+ "summary": "우리나라가 연간 수출 1조 달러를 돌파했습니다. 여기에는 반도체 외에 다른 산업들의 영향도 있었습니다. K - 뷰티 와 콘텐츠, 방산 분야 등이 눈에 띕니다. 임성재 기자가 전해드립니다. [기자] 올해 1월부터 10월까지 전체...",
+ "published_at": "2026-11-22T07:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국의 연간 수출 실적에 K-뷰티가 눈에 띄는 역할을 했다.",
+  "key_fact_quote": "K - 뷰티 와 콘텐츠, 방산 분야 등이 눈에 띕니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-22T21:27:58+00:00",
+ "had_body": false
+}

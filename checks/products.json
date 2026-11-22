@@ -6442,5 +6442,25 @@
  "cc310d79784969b5|launch|리엔케이|다이소 전용 제품군|": {
   "kept": true,
   "reason": null
+ },
+ "013d6425c26395e8|launch||수안수|": {
+  "kept": false,
+  "reason": "no_brand"
+ },
+ "c509bed0cbea33ca|launch||H2ROOT 두피 세럼|": {
+  "kept": false,
+  "reason": "no_brand"
+ },
+ "c509bed0cbea33ca|launch||두피청명 샴푸|": {
+  "kept": false,
+  "reason": "no_brand"
+ },
+ "0ee3a56647d0bd3c|launch|노브랜드|더마 스킨케어|": {
+  "kept": true,
+  "reason": null
+ },
+ "7ec402cbb3c6c292|launch|코스맥스|바이닉|": {
+  "kept": false,
+  "reason": "entailment:uncertain"
  }
 }

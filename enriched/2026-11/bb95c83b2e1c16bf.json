@@ -1,0 +1,53 @@
+{
+ "doc_id": "bb95c83b2e1c16bf",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54005",
+ "title": "“경험만으론 한계” 서울사이버대 뷰티산업학과 찾는 이유",
+ "summary": "뷰티업계의 경쟁 축이 제조·시술에서 기술과 연구개발로 이동하고 있다. AI 진단과 맞춤형 화장품, 메디컬 뷰티 등 새로운 분야가 성장하면서 화장품과 뷰티를 과학적으로 연구할 전문 인력의 필요성도 커졌다. 뷰티실무 역량과 전문지식을 결합하기 위해 대학원에 진학하는 수요도 증가하는 추세다. 서울사…",
+ "published_at": "2026-11-22T18:21:06+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "서울사이버대학교"
+  ],
+  "keywords": [
+   "뷰티 전문 인력",
+   "맞춤형 화장품",
+   "메디컬 뷰티",
+   "뷰티테크"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "서울사이버대 일반대학원 뷰티산업학과가 신입생을 모집한다.",
+  "key_fact_quote": "서울사이버대학교(총장 이은주) 일반대학원 뷰티산업학과가 2027학년도 전기 신입생을 모집한다.",
+  "events": [
+   {
+    "name": "입시 설명회와 반영구 세미나",
+    "start_date": "2026-11-30",
+    "end_date": null,
+    "place": "미아 본교",
+    "quote": "서울사이버대학교는 11월 30일 미아 본교에서 입시 설명회와 반영구 세미나를 개최한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-22T21:27:58+00:00",
+ "had_body": true
+}

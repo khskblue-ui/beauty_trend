@@ -1,0 +1,48 @@
+{
+ "doc_id": "13b73e9d96798a1d",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com:8443/en/l-oreal-to-invest-nearly-eur-300,28574",
+ "title": "L'Oréal to invest nearly EUR 300 million to boost French operations by 2029",
+ "summary": "L'Oréal plans to invest nearly EUR 300 million in France between 2027 and 2029, the French cosmetics giant announced on Friday, November 20. Environment and R&D The investments are intended to \"support the environmental transition\" of the group's sites, \"strengthen its research and innovation capabilities,\" and \"support the development of its activities,\" the owner of brands such as Garnier, Maybelline, and Lancôme said in a press release. While L'Oréaldid not provide a detailed... - Industry buzz / Europe",
+ "published_at": "2026-11-22T05:18:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "FR"
+  ],
+  "brands": [
+   "Garnier",
+   "Maybelline",
+   "Lancôme"
+  ],
+  "companies": [
+   "L'Oréal"
+  ],
+  "keywords": [
+   "생산 시설 투자",
+   "연구개발 투자",
+   "환경 전환"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "로레알이 프랑스 사업장의 환경 전환과 연구 역량 강화를 위해 투자 계획을 발표했다.",
+  "key_fact_quote": "L'Oréal plans to invest nearly EUR 300 million in France between 2027 and 2029, the French cosmetics giant announced on Friday, November 20.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-22T21:27:57+00:00",
+ "had_body": false
+}

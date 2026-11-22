@@ -1,0 +1,54 @@
+{
+ "doc_id": "7ec402cbb3c6c292",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=229156",
+ "title": "패션·뷰티 제조기업, AI 솔루션 사업 잇달아 진출",
+ "summary": "코스맥스는 맞춤형 뷰티 플랫폼 '바이닉'을 출시 , 축적된 문진 데이터와 AI 처방 기술로 맞춤형 화장품 개발·제조를 지원하고 있다. 현재 유통사 협업과 해외 합작법인 설립을 통해 사업을 확대하고 있다.",
+ "published_at": "2026-11-22T22:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "맞춤형 화장품",
+   "AI 처방",
+   "뷰티 플랫폼"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "바이닉",
+    "brand": "코스맥스",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "코스맥스는 맞춤형 뷰티 플랫폼 '바이닉'을 출시 , 축적된 문진 데이터와 AI 처방 기술로 맞춤형 화장품 개발·제조를 지원하고 있다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코스맥스가 AI 처방 기술을 쓴 맞춤형 뷰티 플랫폼을 내놓았다.",
+  "key_fact_quote": "코스맥스는 맞춤형 뷰티 플랫폼 '바이닉'을 출시 , 축적된 문진 데이터와 AI 처방 기술로 맞춤형 화장품 개발·제조를 지원하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-22T21:27:58+00:00",
+ "had_body": false
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "4580a4b5691dcb62",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312826",
+ "title": "K-Beauty's Global Growth Story Splits Three Ways: Skincare Dominates Across the U.S., China and Japan",
+ "summary": "K-beauty\\'s three largest export markets, the United States, China, and Japan, followed increasingly different paths in October 2026. Yet beneath those differences, one trend stood out across all three markets: skincare remained the primary driver of growth.Trade statistics from the Korea Customs Ser",
+ "published_at": "2026-11-22T10:55:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "스킨케어",
+   "헤어케어",
+   "어린이 화장품",
+   "프리미엄 스킨케어",
+   "시트 마스크"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티의 주요 수출 시장인 미국, 중국, 일본에서 스킨케어가 공통 성장 동력으로 나타났다.",
+  "key_fact_quote": "Trade statistics from the Korea Customs Service (KCS) show that Korean skincare products posted robust gains in all three countries, while consumer demand became increasingly specialized.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-22T21:27:58+00:00",
+ "had_body": true
+}

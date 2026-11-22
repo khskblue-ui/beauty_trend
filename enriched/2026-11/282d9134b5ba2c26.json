@@ -1,0 +1,44 @@
+{
+ "doc_id": "282d9134b5ba2c26",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.metroseoul.co.kr/article/20261122500221",
+ "title": "K뷰티, 한중 훈풍에 대륙 공략...\"대기업 버티고 인디는 뚫는다\"",
+ "summary": "맞물리며 화장품 업황 전반에 우호적인 환경이 조성되고 있다는 분석을 내놓는다. 다만 과거 보따리상 중심의 공식은 자취를 감췄다. K뷰티 기업들은 철저한 채널 효율화, 온라인 직진출, 현지 맞춤형 신제품 과 전략적...",
+ "published_at": "2026-11-22T14:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "중국 시장",
+   "온라인 직진출",
+   "채널 효율화",
+   "현지 맞춤형 제품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 기업들이 한중 관계 개선 속에 채널 효율화와 온라인 직진출로 중국 시장을 공략하고 있다.",
+  "key_fact_quote": "K뷰티 기업들은 철저한 채널 효율화, 온라인 직진출, 현지 맞춤형 신제품 과 전략적...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-22T21:27:58+00:00",
+ "had_body": false
+}

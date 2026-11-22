@@ -1,0 +1,75 @@
+{
+ "doc_id": "dcf045b240b201bf",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312829",
+ "title": "[블랙프라이데이 기획②] 아모레퍼시픽 \"신규 고객 확보 총력\"...SNS·아마존 마케팅 확대",
+ "summary": "미국 최대 쇼핑 시즌인 블랙프라이데이를 앞두고 아모레퍼시픽이 디지털 채널을 중심으로 신규 고객 확보에 나선다. 인플루언서 협업과 소셜미디어 마케팅, 아마존 검색 광고 등을 강화해 미국 시장 내 브랜드 경험 고객을 확대한다는 전략이다.아모레퍼시픽은 올해 블랙프라이데이 시즌을 맞아 인스타그램과 틱톡, 레딧 등 주요 소셜미디어 채널을 활용한 마케팅 활동을 확대할 계획이라고 밝혔다.회사 측은 \\\"고객들이 자주 이용하는 소셜미디어를 중심으로 인플루언서 협업, 타깃 광고, 뷰티 미디어 PR 등을 전개해 신규 고객 유입을 확대할 계획\\\"이라며 \\\"아",
+ "published_at": "2026-11-22T10:40:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "GB",
+   "DE",
+   "FR",
+   "ES",
+   "IT",
+   "AU",
+   "JP"
+  ],
+  "brands": [
+   "일리윤",
+   "미쟝센"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "아마존"
+  ],
+  "keywords": [
+   "블랙프라이데이",
+   "소셜미디어 마케팅",
+   "온라인 커뮤니티 후기",
+   "신규 고객 확보"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "아토집중크림",
+    "brand": "일리윤",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "오리지널 세럼",
+    "brand": "미쟝센",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아모레퍼시픽이 블랙프라이데이를 앞두고 SNS와 아마존 마케팅을 늘려 미국 신규 고객 확보에 나선다.",
+  "key_fact_quote": "미국 최대 쇼핑 시즌인 블랙프라이데이를 앞두고 아모레퍼시픽이 디지털 채널을 중심으로 신규 고객 확보에 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-22T21:27:58+00:00",
+ "had_body": true
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "f9f4121630d9f7d8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.economytalk.kr/news/articleView.html?idxno=425447",
+ "title": "[분석] \"올영 성공 공식 '색조'도 통할까\"… 올리브영, '컬러 뷰티 ' 특화...",
+ "summary": "스킨케어 편중 깬다… 1052억 달러 글로벌 색조 시장 정조준 올리브영이 색조 단독 특화 매장을 꺼내 든 배경에는 K뷰티 수출 구조의 불균형과 성장 잠재력이 맞물려 있다. 식품의약품안전처에 따르면 올해 1~9월 국내...",
+ "published_at": "2026-11-22T16:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영",
+   "식품의약품안전처"
+  ],
+  "keywords": [
+   "색조 화장품",
+   "색조 특화 매장",
+   "컬러 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 스킨케어 편중을 깨기 위해 색조 특화 매장을 내놓았다.",
+  "key_fact_quote": "올리브영이 색조 단독 특화 매장을 꺼내 든 배경에는 K뷰티 수출 구조의 불균형과 성장 잠재력이 맞물려 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-22T21:27:58+00:00",
+ "had_body": false
+}

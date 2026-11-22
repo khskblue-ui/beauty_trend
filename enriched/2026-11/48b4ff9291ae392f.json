@@ -1,0 +1,42 @@
+{
+ "doc_id": "48b4ff9291ae392f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261120_0003876164",
+ "title": "베컴 향수 , 주유소서 헐값에 팔리자…제조사에 548억 배상 요구",
+ "summary": "베컴 측은 제품이 주유소 할인 코너와 파운드랜드에 유통되면서 소비자들이 해당 브랜드 를 값싼 할인 상품과 연관 짓게 됐고, 제품도 초저가 매장 수준의 가격에 팔리게 됐다고 주장했다. 이는 향수 판매 계약을 위반한...",
+ "published_at": "2026-11-23T00:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "베컴"
+  ],
+  "companies": [],
+  "keywords": [
+   "셀러브리티 향수",
+   "브랜드 가치",
+   "할인 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "베컴 측이 향수가 헐값에 유통돼 브랜드 가치가 훼손됐다며 제조사에 배상을 요구했다.",
+  "key_fact_quote": "베컴 측은 제품이 주유소 할인 코너와 파운드랜드에 유통되면서 소비자들이 해당 브랜드 를 값싼 할인 상품과 연관 짓게 됐고, 제품도 초저가 매장 수준의 가격에 팔리게 됐다고 주장했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-22T21:27:58+00:00",
+ "had_body": false
+}

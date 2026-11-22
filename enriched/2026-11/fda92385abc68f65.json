@@ -1,0 +1,99 @@
+{
+ "doc_id": "fda92385abc68f65",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58773",
+ "title": "‘2027 화장품시장 이슈와 전망 컨퍼런스’ ① “K-뷰티, 세 번째 성장기 진입”… 수출 지역·유통·제품군 넓어진다",
+ "summary": "[코스인코리아닷컴 권태흥 기자] “트렌디(trendy)하고 깊고(deep), 놓칠 수 없는 통찰(insight)을 얻었다.” 11월 20일 코스인 주최 ‘글로벌 hot 이슈 2027 화장품시장 이슈와 전망 컨퍼런스’에서 기자가 만난 청중 10여 명의 평가였다. 높은 수준의 열강에 청중은 마지막 강연까지 집중력…",
+ "published_at": "2026-11-22T17:01:14+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "BR",
+   "MX",
+   "CN"
+  ],
+  "brands": [
+   "입생로랑"
+  ],
+  "companies": [
+   "코스인",
+   "KBI 한국의생명연구원",
+   "유니즈랩",
+   "대한화장품산업연구원",
+   "하나증권",
+   "트렌드코리아컴퍼니",
+   "닐슨아이큐(NIQ)",
+   "LG CNS",
+   "㈜바이오에프디엔씨",
+   "(주)에이피알",
+   "아시아비엔씨(ASIABNC)",
+   "코스웨이",
+   "실리콘투",
+   "다이소",
+   "무신사 뷰티",
+   "올리브영",
+   "코스맥스"
+  ],
+  "keywords": [
+   "인디 브랜드",
+   "두피 케어",
+   "니치 향수",
+   "약국 화장품",
+   "홈뷰티 디바이스"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "쿠션",
+    "brand": "입생로랑",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "K-뷰티가 인디 브랜드를 중심으로 수출 지역과 유통망, 제품군이 넓어지는 세 번째 성장기에 들어섰다는 진단이 나왔다.",
+  "key_fact_quote": "K-뷰티는 인디 브랜드를 중심으로 세 번째 성장기에 들어섰다.",
+  "events": [
+   {
+    "name": "글로벌 hot 이슈 2027 화장품시장 이슈와 전망 컨퍼런스",
+    "start_date": "2026-11-20",
+    "end_date": null,
+    "place": null,
+    "quote": "11월 20일 코스인 주최 ‘글로벌 hot 이슈 2027 화장품시장 이슈와 전망 컨퍼런스’에서 기자가 만난 청중 10여 명의 평가였다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "더마는 세라마이드·병풀·PDRN 등 성분을 앞세운 제품이 확대되고 있다."
+   },
+   {
+    "name": "병풀",
+    "quote": "더마는 세라마이드·병풀·PDRN 등 성분을 앞세운 제품이 확대되고 있다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "더마는 세라마이드·병풀·PDRN 등 성분을 앞세운 제품이 확대되고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-22T21:27:58+00:00",
+ "had_body": true
+}

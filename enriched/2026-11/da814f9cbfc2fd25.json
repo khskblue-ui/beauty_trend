@@ -1,0 +1,42 @@
+{
+ "doc_id": "da814f9cbfc2fd25",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.theguru.co.kr/news/article.html?no=109978",
+ "title": "[월가 홀린 KBTY㊦] \"화장품만으로 부족하다\"…'메디컬·톡신·용기' 신...",
+ "summary": "K뷰티 완제품 수출 랠리는 후방 산업인 화장품 용기·패키징 업체로도 빠르게 번지고 있다. 국내외 인디 브랜드 간 경쟁이 치열해지면서 독특한 용기 디자인은 물론 내용물의 변질을 막는 펌프·밀폐 기술이 브랜드...",
+ "published_at": "2026-11-22T06:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 용기",
+   "패키징",
+   "인디 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 수출 호조가 화장품 용기와 패키징 업체로 번지고 있다.",
+  "key_fact_quote": "K뷰티 완제품 수출 랠리는 후방 산업인 화장품 용기·패키징 업체로도 빠르게 번지고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-22T21:27:58+00:00",
+ "had_body": false
+}

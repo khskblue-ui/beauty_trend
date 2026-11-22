@@ -1,0 +1,59 @@
+{
+ "doc_id": "6120a2f52037d5ef",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58775",
+ "title": "'2027 화장품시장 이슈와 전망 컨퍼런스’ ③ “AI가 추천하는 시대, K-뷰티는 어떻게 선택받을까”",
+ "summary": "[코스인코리아닷컴 권태흥 기자]박지혁 닐슨아이큐(NIQ) 전무는 AI 추천이 글로벌 뷰티 소비자의 구매 과정에 미치는 영향을 데이터로 분석하고, 경쟁이 치열해질수록 브랜드 차별화가 중요해질 것으로 내다봤다. 박 전무는 80여 개국의 유통업체 매출과 소비자 결제 데이터를 바탕으로 글로벌 뷰티 시장…",
+ "published_at": "2026-11-22T17:20:30+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "라네즈"
+  ],
+  "companies": [
+   "닐슨아이큐(NIQ)",
+   "알디"
+  ],
+  "keywords": [
+   "AI 추천",
+   "AI 쇼핑 에이전트",
+   "듀프",
+   "상품 정보 텍스트화"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "립 슬리핑 마스크",
+    "brand": "라네즈",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "AI 에이전트의 추천이 뷰티 제품 구매 과정의 가장 큰 변화로 꼽혔다.",
+  "key_fact_quote": "구매 과정에서 가장 큰 변화로 꼽힌 것은 ‘AI 에이전트의 추천’이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-22T21:27:58+00:00",
+ "had_body": true
+}
