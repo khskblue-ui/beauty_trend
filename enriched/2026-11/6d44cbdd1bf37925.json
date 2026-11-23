@@ -1,0 +1,48 @@
+{
+ "doc_id": "6d44cbdd1bf37925",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312982",
+ "title": "주가로 읽는 K-뷰티 대형주: 수급·주가 괴리 심화...에이피알 -24%",
+ "summary": "지난 한 달간 화장품 주요 종목에서 외국인 보유율과 주가 흐름이 엇갈리는 현상이 두드러진 것으로 나타났다.외국인 투자자들이 지분을 늘린 종목의 주가가 하락한 반면, 외국인 보유율이 감소한 종목은 오히려 상승하는 등 수급과 주가 간 괴리가 확대됐다.가장 큰 괴리를 보인 종목은 에이피알이다. 에이피알의 외국인 보유율은 10월 20일 38.84%에서 11월 20일 39.61%로 0.77%포인트 상승했지만, 같은 기간 주가는 31만원에서 23만5500원으로 24.0% 급락했다. 외국인 투자자들이 지분을 확대했음에도 주가는 큰 폭으로 하락하",
+ "published_at": "2026-11-23T19:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알",
+   "LG생활건강",
+   "코스맥스",
+   "한국콜마",
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "화장품 대형주",
+   "외국인 보유율",
+   "주가 흐름"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 대형주에서 외국인 보유율 변화와 주가 흐름이 엇갈리는 현상이 나타났다.",
+  "key_fact_quote": "지난 한 달간 화장품 주요 종목에서 외국인 보유율과 주가 흐름이 엇갈리는 현상이 두드러진 것으로 나타났다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

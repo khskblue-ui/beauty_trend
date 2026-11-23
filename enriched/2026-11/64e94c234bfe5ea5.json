@@ -1,0 +1,110 @@
+{
+ "doc_id": "64e94c234bfe5ea5",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100559",
+ "title": "유씨엘, ‘코스모팩 아시아 2026’ 성료 ··· 글로벌 ODM 정조준",
+ "summary": "화장품 ODM OEM 전문기업 유씨엘(대표 이지원)이 최근 홍콩에서 열린 글로벌 B2B 뷰티 전시회 ‘코스모팩 아시아 2026(Cosmopack Asia 2026)’에 참가해 스킨케어 기반의 하이브리드 제형과 차별화된 OTC(일반의약품) 선케어 기술을 선보이며 글로벌 시장 공략에 속도를 냈다.유씨엘은 이번 전시에서 뷰티 루틴을 간소화하는 ‘스킵케어(Skip Care)’와 하나의 제품으로 여러 기능을 구현하는 ‘2-in-1 하이브리드’를 핵심 방향으로 내세웠다. 스킨케어에 메이크업 효과와 사용 편의성을 결합한 다기능 제품을 중심으로",
+ "published_at": "2026-11-23T08:56:01+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "HK",
+   "US"
+  ],
+  "brands": [
+   "유씨엘",
+   "케이오니리카"
+  ],
+  "companies": [
+   "유씨엘",
+   "케이오니리카 코스메틱스",
+   "대봉그룹"
+  ],
+  "keywords": [
+   "스킵케어",
+   "하이브리드 제형",
+   "미네랄 선케어",
+   "ODM"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "올인원 클렌징 폼 패드",
+    "brand": "유씨엘",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "크라이오-플렉스 본딩 틴티드 모이스처라이저",
+    "brand": "케이오니리카",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "내추럴 듀이 퍼펙셔너",
+    "brand": "케이오니리카",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퓨어 리프트 블러링 베이스",
+    "brand": "케이오니리카",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미라클 레이어스 글래스 파운데이션",
+    "brand": "케이오니리카",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "유씨엘이 코스모팩 아시아에서 스킨케어 기반 하이브리드 제형과 미네랄 선케어 기술을 선보였다.",
+  "key_fact_quote": "화장품 ODM OEM 전문기업 유씨엘(대표 이지원)이 최근 홍콩에서 열린 글로벌 B2B 뷰티 전시회 ‘코스모팩 아시아 2026(Cosmopack Asia 2026)’에 참가해 스킨케어 기반의 하이브리드 제형과 차별화된 OTC(일반의약품) 선케어 기술을 선보이며 글로벌 시장 공략에 속도를 냈다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "이와 함께 5종의 히알루론산과 5종의 세라마이드로 구성된 ‘5+5 콤플렉스’를 적용한 베이스 2종도 소개했다."
+   },
+   {
+    "name": "세라마이드",
+    "quote": "이와 함께 5종의 히알루론산과 5종의 세라마이드로 구성된 ‘5+5 콤플렉스’를 적용한 베이스 2종도 소개했다."
+   },
+   {
+    "name": "5+5 콤플렉스",
+    "quote": "이와 함께 5종의 히알루론산과 5종의 세라마이드로 구성된 ‘5+5 콤플렉스’를 적용한 베이스 2종도 소개했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

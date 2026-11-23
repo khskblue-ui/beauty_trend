@@ -1,0 +1,69 @@
+{
+ "doc_id": "2b6f553db6ebfd0d",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100578",
+ "title": "어퓨, 블러셔에 하이라이터 더한 ‘파스텔 블러셔 듀오’ 출시",
+ "summary": "글로벌 뷰티 기업 에이블씨엔씨(ABLE C&C, 대표 신유정)의 화장품 브랜드 어퓨(A’pieu)가 블러셔와 하이라이터를 하나에 담은 신제품 ‘과즙팡 파스텔 블러셔&하이라이터 듀오’를 출시한다고 23일 밝혔다.신제품은 블러셔와 하이라이터를 하나에 담아 볼에 색감과 입체감을 동시에 더할 수 있는 듀오 타입의 치크 제품이다. 한 가지 컬러로만 표현하기보다 블러셔와 하이라이터를 자유롭게 조합해 피부톤과 메이크업 분위기에 따라 다양한 치크 룩을 연출할 수 있도록 했다.블러셔는 파우더 제품에 흔히 사용되는 광물성 원료를 배제한 탈크프리(Ta",
+ "published_at": "2026-11-23T13:05:14+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어퓨"
+  ],
+  "companies": [
+   "에이블씨엔씨"
+  ],
+  "keywords": [
+   "치크 메이크업",
+   "탈크프리 제형",
+   "블러셔 하이라이터 듀오"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "과즙팡 파스텔 블러셔&하이라이터 듀오",
+    "brand": "어퓨",
+    "launch_date": "2026-11-23",
+    "launch_status": "launched",
+    "launch_quote": "‘과즙팡 파스텔 블러셔&하이라이터 듀오’는 23일부터 올리브영에서 단독으로 먼저 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "어퓨가 블러셔와 하이라이터를 하나에 담은 치크 신제품을 올리브영에서 선보인다.",
+  "key_fact_quote": "글로벌 뷰티 기업 에이블씨엔씨(ABLE C&C, 대표 신유정)의 화장품 브랜드 어퓨(A’pieu)가 블러셔와 하이라이터를 하나에 담은 신제품 ‘과즙팡 파스텔 블러셔&하이라이터 듀오’를 출시한다고 23일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "세범 파우더",
+    "quote": "여기에 컬러 무너짐을 최소화하는 세범 파우더와 코튼추출물, 어퓨만의 7가지 과일 유래 성분과 비타민 복합체로 구성된 ‘비타-쥬시 컴플렉스(VITA-JUICY COMPLEX)’를 담았다."
+   },
+   {
+    "name": "코튼추출물",
+    "quote": "여기에 컬러 무너짐을 최소화하는 세범 파우더와 코튼추출물, 어퓨만의 7가지 과일 유래 성분과 비타민 복합체로 구성된 ‘비타-쥬시 컴플렉스(VITA-JUICY COMPLEX)’를 담았다."
+   },
+   {
+    "name": "비타-쥬시 컴플렉스",
+    "quote": "여기에 컬러 무너짐을 최소화하는 세범 파우더와 코튼추출물, 어퓨만의 7가지 과일 유래 성분과 비타민 복합체로 구성된 ‘비타-쥬시 컴플렉스(VITA-JUICY COMPLEX)’를 담았다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

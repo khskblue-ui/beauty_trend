@@ -1,0 +1,66 @@
+{
+ "doc_id": "bf86d8ce7c57fc83",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58777",
+ "title": "'2027 화장품시장 이슈와 전망 컨퍼런스’ ⑤ 지속가능성·웰에이징·AI… 2026 IFSCC에서 본 화장품 연구의 세 축",
+ "summary": "[코스인코리아닷컴 권태흥 기자]황재성 대한화장품학회 회장(경희대 유전공학과 교수)은 코스인 컨퍼런스에서 지난 10월 호주 퍼스에서 열린 2026 IFSCC 콩그레스의 주요 연구 성과와 최신 화장품 Ramp;D 동향을 소개했다.주제는 ‘Solving the Sustainable Beauty Equation…",
+ "published_at": "2026-11-22T17:39:50+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "market_trend",
+  "countries": [
+   "AU",
+   "CN",
+   "FR",
+   "JP",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품학회",
+   "프로야",
+   "그린테크",
+   "맨담"
+  ],
+  "keywords": [
+   "지속 가능한 뷰티",
+   "웰에이징",
+   "롱제비티",
+   "AI 피부 진단",
+   "마이크로바이옴"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한화장품학회 회장이 IFSCC 콩그레스의 연구 흐름을 지속 가능성과 바이오 기술, 웰에이징과 롱제비티, 디지털과 AI의 세 축으로 정리했다.",
+  "key_fact_quote": "황 회장은 주요 연구 흐름을 ▲ 지속 가능성과 바이오 기술, ▲ 웰에이징과 롱제비티, ▲ 디지털과 AI의 세 축으로 정리했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "퀘르세틴",
+    "quote": "연구진은 퀘르세틴과 프테로스틸벤을 처리해 이 변화가 완화되는지도 살폈다."
+   },
+   {
+    "name": "프테로스틸벤",
+    "quote": "연구진은 퀘르세틴과 프테로스틸벤을 처리해 이 변화가 완화되는지도 살폈다."
+   },
+   {
+    "name": "덱스트린",
+    "quote": "포스터 응용연구상을 받은 일본 연구진은 전분에서 얻는 덱스트린을 지방산과 결합한 원료로 밤 제형의 질감을 조절했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

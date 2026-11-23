@@ -1,0 +1,43 @@
+{
+ "doc_id": "853986f6f8915d3e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202611230911556105",
+ "title": "한한령 완화 기대에 ' K뷰티 中 판로' 확대 채비…산업부 지원기업 주목",
+ "summary": "한한령(한류 제한령) 완화 기대가 커지는 가운데 산업통상부가 지원하는 K뷰티 유통기업들의 중국 시장... 한중 FTA 후속협상의 정식 발효와 함께 정부 지원이 국내 기업들의 중국 신규 납품과 수출 확대로 연결될지...",
+ "published_at": "2026-11-23T09:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 중국 수출",
+   "한중 FTA",
+   "뷰티 유통기업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한한령 완화 기대 속에 정부 지원을 받는 K뷰티 유통기업들이 중국 판로 확대를 준비하고 있다.",
+  "key_fact_quote": "한한령(한류 제한령) 완화 기대가 커지는 가운데 산업통상부가 지원하는 K뷰티 유통기업들의 중국 시장",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

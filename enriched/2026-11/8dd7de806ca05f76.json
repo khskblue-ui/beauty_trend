@@ -1,0 +1,44 @@
+{
+ "doc_id": "8dd7de806ca05f76",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.swtvnews.com/news/newsview.php?ncode=1065603815126729",
+ "title": "김승환 아모레퍼시픽 대표, “K-뷰티, 개인 맞춤형 솔루션으로 진화해야...",
+ "summary": "등을 출시 했다. 김 대표는 “중요한 것은 AI, 디바이스, 바이오 등 영역에서의 기술력 그 자체가 아니라 이를 통해 고객에게 어떤 가치를 제공하느냐에 있다”며 “ 화장품 과 연령의 경계를 넘어서는 새로운 뷰티 경험을...",
+ "published_at": "2026-11-23T19:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "개인 맞춤형 뷰티",
+   "뷰티 디바이스",
+   "바이오 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아모레퍼시픽 대표가 K-뷰티가 개인 맞춤형 솔루션으로 진화해야 한다고 강조했다.",
+  "key_fact_quote": "김 대표는 “중요한 것은 AI, 디바이스, 바이오 등 영역에서의 기술력 그 자체가 아니라 이를 통해 고객에게 어떤 가치를 제공하느냐에 있다”며",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

@@ -1,0 +1,47 @@
+{
+ "doc_id": "944db7e7e0ea4195",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mediawatch.kr/news/article.html?no=261842",
+ "title": "[26.11.23 증시 인싸잇] 오늘의종목 - 한국콜마, 韓中 해빙· K뷰티 글로벌...",
+ "summary": "선케어·기초화장품 수출 수요 증가를 긍정적인 요인으로 평가했다. 23일 오후 12시 기준 한국콜마는 11만... 한편, 이날 오후 12시 기준 화장품 관련주 가운데 애드바이오텍은 29.81%, 뷰티 스킨은 25.13% 크게 상승했고...",
+ "published_at": "2026-11-23T14:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마",
+   "애드바이오텍",
+   "뷰티 스킨"
+  ],
+  "keywords": [
+   "선케어",
+   "기초화장품 수출",
+   "화장품 관련주"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한중 관계 해빙 기대 속에 선케어와 기초화장품 수출 수요 증가가 한국콜마의 긍정 요인으로 평가됐다.",
+  "key_fact_quote": "선케어·기초화장품 수출 수요 증가를 긍정적인 요인으로 평가했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "c70073f09c38b750",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.lkp.news/news/articleView.html?idxno=86364",
+ "title": "앳홈, 뷰티 사업 성장세 지속…국내외 사업 확대",
+ "summary": "최근에는 피부 관리용 화장품 신제품 을 출시하며 제품군을 다양화했다. 기존 뷰티기기와 화장품을 함께 선보이는 방식으로 소비자 선택의 폭을 넓히고 스킨케어 사업의 경쟁력을 강화하고 있는 모습이다. ◆ 국내...",
+ "published_at": "2026-11-23T16:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "앳홈"
+  ],
+  "keywords": [
+   "뷰티기기",
+   "홈케어 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "앳홈이 뷰티기기와 함께 피부 관리용 화장품 신제품을 내놓으며 제품군을 넓혔다.",
+  "key_fact_quote": "최근에는 피부 관리용 화장품 신제품 을 출시하며 제품군을 다양화했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

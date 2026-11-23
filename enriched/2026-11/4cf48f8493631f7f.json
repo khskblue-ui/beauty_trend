@@ -1,0 +1,45 @@
+{
+ "doc_id": "4cf48f8493631f7f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.greened.kr/news/articleView.html?idxno=355289",
+ "title": "\"설산에 정원까지\"...샤넬·디올 뷰티, '홀리데이 시즌' 맞이 팝업 전개",
+ "summary": "샤넬 향수 의 세계를 경험할 수 있다. 특히 팝업 공간 곳곳에는 샤넬 특유의 감성과 겨울 분위기의 조형물들이 어우러져 특별한 홀리데이 분위기를 완성한다. 여기에 리미티드 에디션으로 출시 된 샤넬의 다양한 홀리데이...",
+ "published_at": "2026-11-23T12:29:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "샤넬",
+   "디올"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 팝업",
+   "리미티드 에디션",
+   "체험형 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "샤넬과 디올 뷰티가 홀리데이 시즌을 맞아 팝업 공간을 열었다.",
+  "key_fact_quote": "\"설산에 정원까지\"...샤넬·디올 뷰티, '홀리데이 시즌' 맞이 팝업 전개",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

@@ -1,0 +1,57 @@
+{
+ "doc_id": "75656940fec0d273",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=580211&class=17&grp=",
+ "title": "\"남자 입술도 생기가 필요해\"…비레디, 혈색·보습 잡는 립밤 출시",
+ "summary": "아모레퍼시픽은 비레디가 신제품 '트루 톤 립밤'을 23일 출시했다고 밝혔다. 소비자 조사기관 오픈서베이의 '남성 뷰티 트렌드 리포트 2025'에 따르면 20~40대 남성 화장품 사용 경험자 가운데 평소 컬러 립밤이나 립틴트를...",
+ "published_at": "2026-11-23T11:25:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비레디"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "오픈서베이"
+  ],
+  "keywords": [
+   "남성 화장품",
+   "컬러 립밤",
+   "남성 뷰티 트렌드"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "트루 톤 립밤",
+    "brand": "비레디",
+    "launch_date": "2026-11-23",
+    "launch_status": "launched",
+    "launch_quote": "아모레퍼시픽은 비레디가 신제품 '트루 톤 립밤'을 23일 출시했다고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "비레디가 남성용 혈색 립밤을 출시했다.",
+  "key_fact_quote": "아모레퍼시픽은 비레디가 신제품 '트루 톤 립밤'을 23일 출시했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

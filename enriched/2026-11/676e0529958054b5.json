@@ -1,0 +1,54 @@
+{
+ "doc_id": "676e0529958054b5",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100575",
+ "title": "에스쁘아, ‘더마 커버 블레미쉬 밤’ 신규 컬러 ‘3호 피치 아이보리’",
+ "summary": "메이크업 전문 브랜드 에스쁘아가 베스트셀러 ‘더마 커버 블레미쉬 밤’의 신규 컬러 ‘3호 피치 아이보리’를 출시한다.‘더마 커버 블레미쉬 밤’은 ‘커버도, 케어도 전문가급으로 설계된 전문 케어 비비’를 콘셉트로 선보인 에스쁘아의 대표 더마 비비크림이다. 비비크림 하나로 피부 결점은 자연스럽게 커버하면서 민감한 피부도 편안하게 사용할 수 있도록 개발했으며, SPF50+ PA++++의 강력한 자외선 차단 기능까지 갖췄다. 특히 출시 이후 ‘파우더룸 BB/CC 부문 월간 랭킹 1위‘ ‘올리브영 온라인몰 전체 랭킹 1위’에 오르며 탄탄한",
+ "published_at": "2026-11-23T10:40:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에스쁘아"
+  ],
+  "companies": [],
+  "keywords": [
+   "더마 비비크림",
+   "신규 컬러",
+   "소비자 요구 반영"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "더마 커버 블레미쉬 밤",
+    "brand": "에스쁘아",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "메이크업 전문 브랜드 에스쁘아가 베스트셀러 ‘더마 커버 블레미쉬 밤’의 신규 컬러 ‘3호 피치 아이보리’를 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에스쁘아가 소비자 요청을 반영해 더마 커버 블레미쉬 밤의 밝은 신규 컬러를 내놓는다.",
+  "key_fact_quote": "메이크업 전문 브랜드 에스쁘아가 베스트셀러 ‘더마 커버 블레미쉬 밤’의 신규 컬러 ‘3호 피치 아이보리’를 출시한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

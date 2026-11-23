@@ -1,0 +1,44 @@
+{
+ "doc_id": "fc11c6c67bb00198",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.economytalk.kr/news/articleView.html?idxno=425477",
+ "title": "\"향수 매출 20% '껑충'\"…신세계인터내셔날, 니치 향수 로 연말 선물 수요...",
+ "summary": "크리스마스와 송년회 등 각종 이벤트가 몰리는 연말 시즌을 맞아 신세계인터내셔날이 니치 향수 ·향기 제품군을 앞세워 선물 수요 공략에 나섰다. 특별한 날 선물을 찾는 소비자가 늘면서 향기 제품이 연말 대표...",
+ "published_at": "2026-11-23T12:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신세계인터내셔날"
+  ],
+  "keywords": [
+   "니치 향수",
+   "연말 선물",
+   "향기 제품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "신세계인터내셔날이 연말 선물 수요를 겨냥해 니치 향수와 향기 제품군을 앞세웠다.",
+  "key_fact_quote": "크리스마스와 송년회 등 각종 이벤트가 몰리는 연말 시즌을 맞아 신세계인터내셔날이 니치 향수 ·향기 제품군을 앞세워 선물 수요 공략에 나섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

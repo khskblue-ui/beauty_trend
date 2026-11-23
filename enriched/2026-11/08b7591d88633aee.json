@@ -1,0 +1,46 @@
+{
+ "doc_id": "08b7591d88633aee",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pointe.co.kr/news/articleView.html?idxno=88231",
+ "title": "아모레퍼시픽, 남성 립케어 신제품 부터 1위 쿠션까지 연말 뷰티 공세 박...",
+ "summary": "아모레퍼시픽이 남성 색조 케어 신제품 출시와 주력 럭셔리 메이크업 브랜드의 유통 채널 프로모션을 동시에 가동하며 연말 뷰티 시장 공략에 속도를 낸다. 남성 화장품 브랜드 비레디는 자연스러운 발색과 보습력을...",
+ "published_at": "2026-11-23T10:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비레디"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "남성 화장품",
+   "남성 색조",
+   "연말 프로모션"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아모레퍼시픽이 남성 색조 케어 신제품 출시와 럭셔리 메이크업 브랜드 프로모션을 함께 벌인다.",
+  "key_fact_quote": "아모레퍼시픽이 남성 색조 케어 신제품 출시와 주력 럭셔리 메이크업 브랜드의 유통 채널 프로모션을 동시에 가동하며 연말 뷰티 시장 공략에 속도를 낸다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

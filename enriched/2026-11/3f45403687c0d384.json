@@ -1,0 +1,69 @@
+{
+ "doc_id": "3f45403687c0d384",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100565",
+ "title": "제주대, BioCosmo-AI 조기 구축…제주 바이오산업 생태계 AI 전환 시동",
+ "summary": "제주대학교(총장 양덕순) 바이오산업AI혁신사업단은 산업통상부와 한국산업기술진흥원(KIAT)의 지원 아래 제주특별자치도와 (재)제주지역산업진흥원이 함께 추진하고 있는 지역혁신클러스터육성사업으로 화장품 원료 개발을 지원하는 BioCosmo-AI 시스템을 조기에 구축하고, 도내 기업 아일랜드와 제주인디에 시범 적용했다.이번 시범사업을 통해 AI로 천연 원료 후보성분의 새로운 쓰임을 예측하고, 이를 확인하려면 어떤 실험부터 해야 하는지 제시할 수 있음을 확인했다. 당초2030년을 목표로 했던 도내 기업 대상 AI 기술지원을 화장품 분야에서",
+ "published_at": "2026-11-23T10:13:49+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "제주대학교",
+   "아일랜드",
+   "제주인디",
+   "한국산업기술진흥원"
+  ],
+  "keywords": [
+   "AI 원료 개발",
+   "천연 원료",
+   "역도킹",
+   "아토피 피부염"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제주대가 화장품 원료 개발을 돕는 BioCosmo-AI 시스템을 조기 구축해 도내 기업에 시범 적용했다.",
+  "key_fact_quote": "제주대학교(총장 양덕순) 바이오산업AI혁신사업단은 산업통상부와 한국산업기술진흥원(KIAT)의 지원 아래 제주특별자치도와 (재)제주지역산업진흥원이 함께 추진하고 있는 지역혁신클러스터육성사업으로 화장품 원료 개발을 지원하는 BioCosmo-AI 시스템을 조기에 구축하고, 도내 기업 아일랜드와 제주인디에 시범 적용했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "α-Asarone",
+    "quote": "이번 시범사업에서는 창포 후보성분 α-Asarone과 β-Asarone, 쪽 후보성분 Tryptanthrin을 단백질 표적 28개와 각각 비교했다."
+   },
+   {
+    "name": "β-Asarone",
+    "quote": "이번 시범사업에서는 창포 후보성분 α-Asarone과 β-Asarone, 쪽 후보성분 Tryptanthrin을 단백질 표적 28개와 각각 비교했다."
+   },
+   {
+    "name": "Tryptanthrin",
+    "quote": "이번 시범사업에서는 창포 후보성분 α-Asarone과 β-Asarone, 쪽 후보성분 Tryptanthrin을 단백질 표적 28개와 각각 비교했다."
+   },
+   {
+    "name": "창포",
+    "quote": "이번 시범사업에서는 창포 후보성분 α-Asarone과 β-Asarone, 쪽 후보성분 Tryptanthrin을 단백질 표적 28개와 각각 비교했다."
+   },
+   {
+    "name": "쪽",
+    "quote": "이번 시범사업에서는 창포 후보성분 α-Asarone과 β-Asarone, 쪽 후보성분 Tryptanthrin을 단백질 표적 28개와 각각 비교했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

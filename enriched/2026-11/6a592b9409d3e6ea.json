@@ -1,0 +1,47 @@
+{
+ "doc_id": "6a592b9409d3e6ea",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/nanogen-takes-on-the-us-market-with-cvs-retail-partnership--138873",
+ "title": "Nanogen takes on the US market with CVS retail partnership",
+ "summary": "The UK hair care brand will roll-out into 1,200 CVS stores in the US, with plans to reach 2,000 by the end of the year",
+ "published_at": "2026-11-23T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "GB",
+   "US"
+  ],
+  "brands": [
+   "Nanogen"
+  ],
+  "companies": [
+   "CVS"
+  ],
+  "keywords": [
+   "헤어케어",
+   "미국 진출",
+   "드럭스토어 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "영국 헤어케어 브랜드 Nanogen이 미국 CVS 매장에 입점한다.",
+  "key_fact_quote": "The UK hair care brand will roll-out into 1,200 CVS stores in the US, with plans to reach 2,000 by the end of the year",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

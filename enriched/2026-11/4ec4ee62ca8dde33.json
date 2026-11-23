@@ -1,0 +1,47 @@
+{
+ "doc_id": "4ec4ee62ca8dde33",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=122796",
+ "title": "아모레퍼시픽 비레디, 남성용 '트루 톤 립밤' 출시",
+ "summary": "아모레퍼시픽(대표이사 김승환)의 남성 화장품 브랜드 비레디(B.READY)는 립 케어 신제품 '트루 톤 립밤(TRUE TONE LIP BALM)'을 출시했다고 23일 밝혔다. 비레디는 기존 '트루 톤 커버로션'에 이어 립 케어 영역으로 '트루 톤...",
+ "published_at": "2026-11-23T13:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비레디"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "남성 화장품",
+   "남성 립 케어",
+   "혈색 립밤"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "ab2fcc5c3f968515",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

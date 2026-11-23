@@ -1,0 +1,96 @@
+{
+ "doc_id": "63d6b335d018136b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100577",
+ "title": "아모레퍼시픽, 日 뷰티테크 어워즈서 뷰티테크 미래 비전 공개",
+ "summary": "아모레퍼시픽이 11월 19일 일본 도쿄에서 열린 ‘ASIA BEAUTYTECH AWARDS 2026 (아시아 뷰티테크 어워즈 2026)’에 아시아 뷰티테크를 선도하는 기업으로 초청받아 K-뷰티의 성장 배경과 미래 방향, 회사의 뷰티테크 혁신 전략을 발표했다.‘ASIA BEAUTYTECH AWARDS(아시아 뷰티테크 어워즈)’는 일본 최대 뷰티 플랫폼 @cosme(아토코스메)를 운영하는 아이스타일이 개최하는 행사로, 혁신 제품·서비스·기술을 대상으로 우수 사례를 선정해 뷰티와 첨단 기술의 융합을 통한 산업의 새로운 가능성을 조명한다.",
+ "published_at": "2026-11-23T10:46:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "라네즈",
+   "헤라",
+   "메이크온"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "아이스타일"
+  ],
+  "keywords": [
+   "뷰티테크",
+   "개인 맞춤형 뷰티",
+   "홀리스틱 롱제비티",
+   "뷰티 디바이스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "리보빔 볼륨 & 액티브 세럼",
+    "brand": "메이크온",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "온페이스 LED 마스크",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "크림 스킨",
+    "brand": "라네즈",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아모레퍼시픽이 아시아 뷰티테크 어워즈에서 AI, 디바이스, 바이오를 축으로 한 뷰티테크 비전을 발표했다.",
+  "key_fact_quote": "아모레퍼시픽이 11월 19일 일본 도쿄에서 열린 ‘ASIA BEAUTYTECH AWARDS 2026 (아시아 뷰티테크 어워즈 2026)’에 아시아 뷰티테크를 선도하는 기업으로 초청받아 K-뷰티의 성장 배경과 미래 방향, 회사의 뷰티테크 혁신 전략을 발표했다.",
+  "events": [
+   {
+    "name": "ASIA BEAUTYTECH AWARDS 2026",
+    "start_date": "2026-11-19",
+    "end_date": null,
+    "place": "일본 도쿄",
+    "quote": "아모레퍼시픽이 11월 19일 일본 도쿄에서 열린 ‘ASIA BEAUTYTECH AWARDS 2026 (아시아 뷰티테크 어워즈 2026)’에 아시아 뷰티테크를 선도하는 기업으로 초청받아 K-뷰티의 성장 배경과 미래 방향, 회사의 뷰티테크 혁신 전략을 발표했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "리보플라빈",
+    "quote": "특정 기술의 디바이스와 리보플라빈(비타민 B2) 성분을 함유한 전용 세럼의 시너지를 통해 팔자주름과 이마주름 등 주요 표정주름을 집중적으로 관리할 수 있도록 설계했다."
+   },
+   {
+    "name": "비타민 B2",
+    "quote": "특정 기술의 디바이스와 리보플라빈(비타민 B2) 성분을 함유한 전용 세럼의 시너지를 통해 팔자주름과 이마주름 등 주요 표정주름을 집중적으로 관리할 수 있도록 설계했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

@@ -1,0 +1,63 @@
+{
+ "doc_id": "f478d6db90069b98",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=302513",
+ "title": "[신제품] 비레디, 남성용 컬러 립밤 '트루 톤 립밤' 출시",
+ "summary": "카본 블랙과 탤크 등 9가지 성분을 배제한 9-FREE 처방을 적용했으며 향료 도 넣지 않았다. 패키지는 실버 색상의 사각형 디자인으로 제작했다. 제품이 굴러다니지 않도록 형태를 설계해 휴대와 사용 편의성을 고려했다....",
+ "published_at": "2026-11-23T11:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비레디"
+  ],
+  "companies": [],
+  "keywords": [
+   "남성 화장품",
+   "컬러 립밤",
+   "무향 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "트루 톤 립밤",
+    "brand": "비레디",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "[신제품] 비레디, 남성용 컬러 립밤 '트루 톤 립밤' 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "비레디가 남성용 컬러 립밤을 출시했다.",
+  "key_fact_quote": "[신제품] 비레디, 남성용 컬러 립밤 '트루 톤 립밤' 출시",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "카본 블랙",
+    "quote": "카본 블랙과 탤크 등 9가지 성분을 배제한 9-FREE 처방을 적용했으며 향료 도 넣지 않았다."
+   },
+   {
+    "name": "탤크",
+    "quote": "카본 블랙과 탤크 등 9가지 성분을 배제한 9-FREE 처방을 적용했으며 향료 도 넣지 않았다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

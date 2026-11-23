@@ -1,0 +1,63 @@
+{
+ "doc_id": "b16ee44f39337ea0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=150382",
+ "title": "비레디, 남성용 '트루 톤 립밤' 선보여…올리브영 판매 시작",
+ "summary": "카본 블랙과 탤크 등 9가지 성분을 제외한 처방을 사용했으며 향료 를 넣지 않았다. 제품 외관은 실버 색상과 사각형 용기 디자인을 적용했다. 비레디 관계자는 \"자연스러운 혈색과 보습을 원하는 남성 소비자의 요구를...",
+ "published_at": "2026-11-23T11:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비레디"
+  ],
+  "companies": [],
+  "keywords": [
+   "남성 화장품",
+   "컬러 립밤",
+   "무향 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "트루 톤 립밤",
+    "brand": "비레디",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "비레디, 남성용 '트루 톤 립밤' 선보여…올리브영 판매 시작",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "비레디가 남성용 립밤을 선보이고 올리브영에서 판매를 시작했다.",
+  "key_fact_quote": "비레디, 남성용 '트루 톤 립밤' 선보여…올리브영 판매 시작",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "카본 블랙",
+    "quote": "카본 블랙과 탤크 등 9가지 성분을 제외한 처방을 사용했으며 향료 를 넣지 않았다."
+   },
+   {
+    "name": "탤크",
+    "quote": "카본 블랙과 탤크 등 9가지 성분을 제외한 처방을 사용했으며 향료 를 넣지 않았다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

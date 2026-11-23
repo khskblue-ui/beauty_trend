@@ -1,0 +1,41 @@
+{
+ "doc_id": "267c949d72ea1cdb",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/watch-indias-fragrance-story-sets-the-scene-for-global-fragrance-summit-2027",
+ "title": "Watch: India’s fragrance story sets the scene for Global Fragrance Summit 2027",
+ "summary": "A new film traces India’s fragrance heritage, from wood-fired copper stills to the modern laboratory, ahead of Global Fragrance Summit 2027 in Mumbai.",
+ "published_at": "2026-11-19T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "IN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "향료 유산",
+   "인도 향료 산업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "인도의 향료 전통을 다룬 영상이 뭄바이에서 열릴 글로벌 프래그런스 서밋을 앞두고 공개됐다.",
+  "key_fact_quote": "A new film traces India’s fragrance heritage, from wood-fired copper stills to the modern laboratory, ahead of Global Fragrance Summit 2027 in Mumbai.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

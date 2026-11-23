@@ -1,0 +1,61 @@
+{
+ "doc_id": "0bcc3b67e75cff2c",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58781",
+ "title": "아모레퍼시픽 헤라, 국내 쿠션 시장 8년 연속 1위 기록 브랜드 경쟁력 입증",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 아모레퍼시픽의 컨템포러리 서울 뷰티 브랜드 헤라(HERA)가 국내 쿠션 시장에서 8년 연속 구매액 점유율 1위를 기록한 데 이어 대표 제품인 ‘블랙 쿠션 파운데이션’을 앞세워 주요 유통채널에서도 판매 경쟁력을 입증했다고 23일 밝혔다. 헤라는 2018년부터 2025년…",
+ "published_at": "2026-11-23T11:18:36+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "헤라"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "올리브영",
+   "네이버",
+   "쿠팡",
+   "컬리",
+   "무신사"
+  ],
+  "keywords": [
+   "쿠션 파운데이션",
+   "베이스 메이크업",
+   "메이크업 지속력"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "블랙 쿠션 파운데이션",
+    "brand": "헤라",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "2017년 출시한 ‘블랙 쿠션 파운데이션’은 국내외 누적 판매량 1,400만 개를 기록하며 대표적인 스테디셀러로 자리매김했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "헤라가 국내 쿠션 시장에서 여러 해 연속 구매액 점유율 1위를 지켰다.",
+  "key_fact_quote": "[코스인코리아닷컴 길태윤 기자] 아모레퍼시픽의 컨템포러리 서울 뷰티 브랜드 헤라(HERA)가 국내 쿠션 시장에서 8년 연속 구매액 점유율 1위를 기록한 데 이어 대표 제품인 ‘블랙 쿠션 파운데이션’을 앞세워 주요 유통채널에서도 판매 경쟁력을 입증했다고 23일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

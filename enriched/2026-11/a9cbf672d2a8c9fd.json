@@ -1,0 +1,67 @@
+{
+ "doc_id": "a9cbf672d2a8c9fd",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54018",
+ "title": "화산연, 글로벌 화장품 규제 동향 세미나",
+ "summary": "대한화장품산업연구원(원장 조신행· www.kcii.re.kr ·이하 화산연)이 오는 12월 3일(목)과 10일(목), 두 차례에 걸쳐 서울 스페이스쉐어 강남센터 비너스홀에서 ‘2026년 글로벌 화장품 규제 동향 세미나’를 개최한다. 이번 세미나는 해외 주요 화장품 시장의 최신 규제 동향과 안전성 평가 기준, 실무…",
+ "published_at": "2026-11-23T17:09:16+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CN",
+   "JP",
+   "ID",
+   "AE",
+   "GB",
+   "US",
+   "CA",
+   "BR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원"
+  ],
+  "keywords": [
+   "화장품 규제",
+   "수출 규제 대응",
+   "안전성 평가"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대한화장품산업연구원이 글로벌 화장품 규제 동향 세미나를 두 차례 연다.",
+  "key_fact_quote": "대한화장품산업연구원(원장 조신행· www.kcii.re.kr ·이하 화산연)이 오는 12월 3일(목)과 10일(목), 두 차례에 걸쳐 서울 스페이스쉐어 강남센터 비너스홀에서 ‘2026년 글로벌 화장품 규제 동향 세미나’ 를 개최한다.",
+  "events": [
+   {
+    "name": "2026년 글로벌 화장품 규제 동향 세미나",
+    "start_date": "2026-12-03",
+    "end_date": null,
+    "place": "서울 스페이스쉐어 강남센터 비너스홀",
+    "quote": "12월 3일 열리는 제8차 세미나는 아시아 권역을 대상으로 중국·일본·인도네시아·아랍에미리트(UAE)의 최신 규제 동향을 다룬다."
+   },
+   {
+    "name": "2026년 글로벌 화장품 규제 동향 세미나",
+    "start_date": "2026-12-10",
+    "end_date": null,
+    "place": "서울 스페이스쉐어 강남센터 비너스홀",
+    "quote": "12월 10일 제9차 세미나에서는 유럽연합(EU)·영국·미국·캐나다·브라질 등 유럽·아메리카 권역 5개 시장의 규제 변화와 대응에 필요한 주요 사항을 공유한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

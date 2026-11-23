@@ -1,0 +1,60 @@
+{
+ "doc_id": "e31ba3713e4ae070",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/medik8-releases-second-r-retinoate-product-range--140898",
+ "title": "Medik8 releases second r-Retinoate product range",
+ "summary": "Last year skin care experts Medik8 launched the r-Retinoate line and its first anti-ageing product",
+ "published_at": "2026-11-23T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "Medik8"
+  ],
+  "companies": [
+   "Medik8"
+  ],
+  "keywords": [
+   "레티노이드",
+   "안티에이징"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "r-Retinoate",
+    "brand": "Medik8",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Medik8 releases second r-Retinoate product range",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "영국 스킨케어 브랜드가 레티노이드 계열 라인의 두 번째 제품군을 내놓았다.",
+  "key_fact_quote": "Medik8 releases second r-Retinoate product range",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "r-Retinoate",
+    "quote": "Last year skin care experts Medik8 launched the r-Retinoate line and its first anti-ageing product"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

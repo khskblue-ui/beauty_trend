@@ -1,0 +1,54 @@
+{
+ "doc_id": "798e65e929814461",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54013",
+ "title": "네오팜, ‘제로이드 No.1 더마 클래스’ 개최",
+ "summary": "네오팜이 19일 서울 논현동 플랫폼엘에서 ‘제로이드 NO.1 더마 클래스’를 개최했다. 이번 행사에서는 건강한 피부관리법과 자신 있는 삶을 사는 비결 등을 공유했다. 이승주 피부과 전문의와 디에디트 에디터 M, 손주희 메이크업아티스트가 연사로 참여했다. 이승주 원장은 ‘시술 후 다운타임 케어법’을…",
+ "published_at": "2026-11-23T09:59:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "제로이드"
+  ],
+  "companies": [
+   "네오팜"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "피부장벽",
+   "민감성 피부"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "네오팜이 소비자에게 피부 관리 지식을 전하는 제로이드 더마 클래스를 열었다.",
+  "key_fact_quote": "네오팜이 19일 서울 논현동 플랫폼엘에서 ‘제로이드 NO.1 더마 클래스’를 개최했다.",
+  "events": [
+   {
+    "name": "제로이드 NO.1 더마 클래스",
+    "start_date": "2026-11-19",
+    "end_date": null,
+    "place": "서울 논현동 플랫폼엘",
+    "quote": "네오팜이 19일 서울 논현동 플랫폼엘에서 ‘제로이드 NO.1 더마 클래스’를 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

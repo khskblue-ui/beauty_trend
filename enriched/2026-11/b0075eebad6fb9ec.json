@@ -1,0 +1,56 @@
+{
+ "doc_id": "b0075eebad6fb9ec",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pressman.kr/news/articleView.html?idxno=104621",
+ "title": "뷰티업계, 연말 소비자 잡기 '감성 마케팅' 승부수",
+ "summary": "아모레퍼시픽의 남성 화장품 브랜드 비레디는 신제품 '트루 톤 립밤'을 출시하며 남성 립 케어 시장 공략에 나선다. 기존 트루 톤 커버로션에서 선보인 자연스러운 피부톤 연출 콘셉트를 입술 제품으로 확장했다....",
+ "published_at": "2026-11-23T16:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비레디"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "남성 화장품",
+   "남성 립 케어",
+   "감성 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "트루 톤 립밤",
+    "brand": "비레디",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아모레퍼시픽의 남성 화장품 브랜드 비레디는 신제품 '트루 톤 립밤'을 출시하며 남성 립 케어 시장 공략에 나선다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "비레디가 남성 립 케어 시장을 겨냥해 트루 톤 립밤을 출시했다.",
+  "key_fact_quote": "아모레퍼시픽의 남성 화장품 브랜드 비레디는 신제품 '트루 톤 립밤'을 출시하며 남성 립 케어 시장 공략에 나선다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

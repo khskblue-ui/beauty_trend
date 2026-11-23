@@ -1,0 +1,88 @@
+{
+ "doc_id": "fa0e6517a62d07a3",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100573",
+ "title": "마리엔메이, ‘컬리뷰티페스타 2026’ 성료, 국내 소비자 접점 넓혔다",
+ "summary": "K-뷰티 스킨케어 브랜드 마리엔메이(Mary&May, 대표 조규태)가 지난 11월 12일(목)부터 15일(일)까지 나흘간 서울 동대문디자인플라자(DDP)에서 열린 ‘컬리뷰티페스타 2026’에 참가해 성황리에 마무리했다고 국내 시장 공략의 본격적인 신호탄을 쏘아 올렸다.전 세계 70여 개국에 진출해 전체 매출의 85% 이상을 해외에서 거두고 있는 마리엔메이는, 그동안 북미와 유럽 등 글로벌 시장에서 먼저 인정받은 탄탄한 제품력과 브랜드 경쟁력을 바탕으로 올해 하반기부터 국내 소비자와의 접점을 넓히는 국내 마케팅에 본격 돌입했다.이번",
+ "published_at": "2026-11-23T10:36:14+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CZ"
+  ],
+  "brands": [
+   "마리엔메이"
+  ],
+  "companies": [
+   "컬리",
+   "노티노",
+   "아마존",
+   "타겟",
+   "노드스트롬",
+   "가디언"
+  ],
+  "keywords": [
+   "클린 뷰티",
+   "나이트 스킨케어",
+   "뷰티 페스티벌"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "스피큘 PDRN 크림",
+    "brand": "마리엔메이",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "센서티브 수딩 젤 크림",
+    "brand": "마리엔메이",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "마리엔메이가 컬리뷰티페스타에 참가해 국내 소비자 접점을 넓혔다.",
+  "key_fact_quote": "K-뷰티 스킨케어 브랜드 마리엔메이(Mary&May, 대표 조규태)가 지난 11월 12일(목)부터 15일(일)까지 나흘간 서울 동대문디자인플라자(DDP)에서 열린 ‘컬리뷰티페스타 2026’에 참가해 성황리에 마무리했다고 국내 시장 공략의 본격적인 신호탄을 쏘아 올렸다.",
+  "events": [
+   {
+    "name": "컬리뷰티페스타 2026",
+    "start_date": "2026-11-12",
+    "end_date": "2026-11-15",
+    "place": "서울 동대문디자인플라자(DDP)",
+    "quote": "K-뷰티 스킨케어 브랜드 마리엔메이(Mary&May, 대표 조규태)가 지난 11월 12일(목)부터 15일(일)까지 나흘간 서울 동대문디자인플라자(DDP)에서 열린 ‘컬리뷰티페스타 2026’에 참가해 성황리에 마무리했다고 국내 시장 공략의 본격적인 신호탄을 쏘아 올렸다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "스피큘",
+    "quote": "마리엔메이는 스킨케어 관심도가 높은 ‘나이트 스킨케어(Night Skincare)존’에 부스를 마련하고, 대표 베스트셀러 스피큘 PDRN 크림과 센서티브 수딩 젤 크림 제품과 함께 피부 컨디션을 끌어올리는 ‘2 스텝 나이트 케어 루틴(STEP Night Care Routine)’ 체험 프로그램을 선보였다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "마리엔메이는 스킨케어 관심도가 높은 ‘나이트 스킨케어(Night Skincare)존’에 부스를 마련하고, 대표 베스트셀러 스피큘 PDRN 크림과 센서티브 수딩 젤 크림 제품과 함께 피부 컨디션을 끌어올리는 ‘2 스텝 나이트 케어 루틴(STEP Night Care Routine)’ 체험 프로그램을 선보였다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

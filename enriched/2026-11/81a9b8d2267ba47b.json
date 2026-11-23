@@ -1,0 +1,52 @@
+{
+ "doc_id": "81a9b8d2267ba47b",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=311774",
+ "title": "중국 온천수 스킨케어 시장 성장…승부처는 효능 검증",
+ "summary": "중국 온천수 스킨케어 시장이 성장세를 보이고 있다.민감성 피부 시장 확대와 기능성 스킨케어 수요 증가를 배경으로 관련 제품 소비가 늘어나고 있지만, 시장 경쟁의 중심은 천연 원료 확보에서 효능 검증과 소비자 신뢰 확보로 이동하는 모습이다.\\'2026 중국 온천수 스킨케어 백서\\'에 따르면 2025년 중국 온천수 스킨케어 시장 규모는 18억8700만 위안으로 전년 대비 14.97% 증가했다. 전체 스킨케어 시장 성장률을 웃도는 수준이다.온천수 스킨케어 시장 성장의 배경으로는 민감성 피부 소비자 증가가 꼽힌다. 조사 결과 민감성 피부 소비",
+ "published_at": "2026-11-23T10:15:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN"
+  ],
+  "brands": [
+   "라로슈포제",
+   "아벤느",
+   "비쉬"
+  ],
+  "companies": [],
+  "keywords": [
+   "온천수 스킨케어",
+   "민감성 피부",
+   "효능 검증",
+   "임상 데이터"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 온천수 스킨케어 시장이 커지는 가운데 경쟁의 중심이 효능 검증과 소비자 신뢰로 옮겨 가고 있다.",
+  "key_fact_quote": "민감성 피부 시장 확대와 기능성 스킨케어 수요 증가를 배경으로 관련 제품 소비가 늘어나고 있지만, 시장 경쟁의 중심은 천연 원료 확보에서 효능 검증과 소비자 신뢰 확보로 이동하는 모습이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "온천수",
+    "quote": "이에 따라 온천수 역시 특정 광물 성분과 피부 진정 기능을 앞세운 기능성 원료로 활용 범위를 확대하고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

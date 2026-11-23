@@ -1,0 +1,81 @@
+{
+ "doc_id": "528df0c080dddf8b",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100568",
+ "title": "바세린, ‘베이비 앤 키즈 마일드 페이셜폼’",
+ "summary": "글로벌 토탈 뷰티 기업 애경산업의 패밀리 토탈 바디케어 브랜드 ‘바세린(VASELINE)’이 아이 전용 세안제 ‘베이비 앤 키즈 마일드 페이셜폼’을 출시했다고 밝혔다.바세린 베이비 앤 키즈 마일드 페이셜폼은 영유아 및 어린이의 연약한 피부를 위해 개발된 약산성 데일리 버블 페이셜 클렌저다. 최근 아이들의 자외선 차단제 사용이 보편화되고, 일상적인 스킨십에서 어른들의 화장품이 아이 피부에 묻어나는 등 꼼꼼한 세안이 필요한 환경을 고려해 기획됐다.바세린 베이비 앤 키즈 마일드 페이셜폼은 아이 눈과 피부에 닿는 자극을 줄이는 데 초점을",
+ "published_at": "2026-11-23T10:22:42+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "바세린"
+  ],
+  "companies": [
+   "애경산업"
+  ],
+  "keywords": [
+   "유아 화장품",
+   "약산성 클렌저",
+   "저자극 세안제"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "베이비 앤 키즈 마일드 페이셜폼",
+    "brand": "바세린",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "글로벌 토탈 뷰티 기업 애경산업의 패밀리 토탈 바디케어 브랜드 ‘바세린(VASELINE)’이 아이 전용 세안제 ‘베이비 앤 키즈 마일드 페이셜폼’을 출시했다고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "바세린이 아이 전용 약산성 세안제를 출시했다.",
+  "key_fact_quote": "글로벌 토탈 뷰티 기업 애경산업의 패밀리 토탈 바디케어 브랜드 ‘바세린(VASELINE)’이 아이 전용 세안제 ‘베이비 앤 키즈 마일드 페이셜폼’을 출시했다고 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "코코넛 오일",
+    "quote": "코코넛 오일 유래 성분, 해바라기씨 오일, 호호바씨 오일 등 식물 유래 세정 성분을 담아 노폐물을 부드럽게 세정한다."
+   },
+   {
+    "name": "해바라기씨 오일",
+    "quote": "코코넛 오일 유래 성분, 해바라기씨 오일, 호호바씨 오일 등 식물 유래 세정 성분을 담아 노폐물을 부드럽게 세정한다."
+   },
+   {
+    "name": "호호바씨 오일",
+    "quote": "코코넛 오일 유래 성분, 해바라기씨 오일, 호호바씨 오일 등 식물 유래 세정 성분을 담아 노폐물을 부드럽게 세정한다."
+   },
+   {
+    "name": "판테놀",
+    "quote": "판테놀, 세라마이드, 히알루론산 등 보습 특화 성분은 세안 직후 발생할 수 있는 수분 손실을 방지하고 촉촉함을 유지해준다."
+   },
+   {
+    "name": "세라마이드",
+    "quote": "판테놀, 세라마이드, 히알루론산 등 보습 특화 성분은 세안 직후 발생할 수 있는 수분 손실을 방지하고 촉촉함을 유지해준다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "판테놀, 세라마이드, 히알루론산 등 보습 특화 성분은 세안 직후 발생할 수 있는 수분 손실을 방지하고 촉촉함을 유지해준다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

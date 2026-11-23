@@ -1,0 +1,62 @@
+{
+ "doc_id": "4aad63d6c1aae8a6",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312981",
+ "title": "스킨케어 넘어 풋케어로…K뷰티, 새 수출 카테고리 확장",
+ "summary": "과거 비누나 바디워시로 대체되던 발 세정 영역이 독립적인 뷰티·퍼스널케어 카테고리로 자리잡고 있다.신체 부위별 맞춤 관리를 추구하는 소비 트렌드와 사용 편의성을 높인 제품 혁신이 맞물리면서, 내수 중심의 틈새시장에 머물던 풋케어 제품군이 글로벌 시장의 새로운 수출 품목으로 외연을 확장하고 있다.국내 풋케어 시장은 최근 3~5년 사이 가정 내 필수 욕실용품 영역으로 빠르게 편입되고 있다. 대표적인 스프레이형 풋샴푸 제품인 LG생활건강 온더바디 \\'발을씻자\\'의 누적 판매량이 최근 3000만 개를 돌파해 대중화와 시장 확대를 보여주는 사례",
+ "published_at": "2026-11-23T19:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN",
+   "GB",
+   "AU"
+  ],
+  "brands": [
+   "온더바디",
+   "올리브영"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "풋케어",
+   "스키니피케이션",
+   "풋샴푸",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "발을씻자",
+    "brand": "온더바디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "풋케어 제품군이 국내 퍼스널케어의 새 카테고리로 자리 잡으며 해외 수출 품목으로 넓어지고 있다.",
+  "key_fact_quote": "풋샴푸 시장 성장과 함께 발 관리가 일상적인 셀프케어 루틴으로 자리잡으면서 풋케어 제품군이 국내 퍼스널케어 시장의 새로운 카테고리로 부상하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

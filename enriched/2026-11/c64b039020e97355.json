@@ -1,0 +1,79 @@
+{
+ "doc_id": "c64b039020e97355",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100574",
+ "title": "후드스킨(HOODSKIN), 더현대 서울 팝업스토어 성황리 종료",
+ "summary": "민감 피부를 위한 보습·장벽·진정 케어 브랜드 후드스킨(HOODSKIN)이 지난 11월 12일부터 18일까지 서울 여의도 ‘더현대 서울’ 지하 2층 클린뷰티 편집숍 ‘비클린(Be.CLEAN)’에서 진행한 팝업스토어를 성황리에 마무리했다고 밝혔다.후드스킨은 피부 본연의 건강함에 집중한 정교한 포뮬러와 편안한 사용감, 감각적인 패키징을 바탕으로 매일의 스킨케어를 일상 속 웰니스 루틴으로 제안하는 스킨케어 브랜드다.이번 팝업스토어는 브랜드 시그니처 컬러인 레드와 차분한 아이보리 톤의 오브제가 어우러진 공간으로 연출되어 방문객들의 시선을",
+ "published_at": "2026-11-23T10:37:26+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "후드스킨"
+  ],
+  "companies": [
+   "현대백화점"
+  ],
+  "keywords": [
+   "민감 피부",
+   "팝업스토어",
+   "웰니스 스킨케어",
+   "클린뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "시카 파이브 밀키 모이스처 세럼",
+    "brand": "후드스킨",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "비타 라떼 버블 마스크 토너",
+    "brand": "후드스킨",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "후드스킨이 더현대 서울 비클린에서 연 팝업스토어를 마무리했다.",
+  "key_fact_quote": "민감 피부를 위한 보습·장벽·진정 케어 브랜드 후드스킨(HOODSKIN)이 지난 11월 12일부터 18일까지 서울 여의도 ‘더현대 서울’ 지하 2층 클린뷰티 편집숍 ‘비클린(Be.CLEAN)’에서 진행한 팝업스토어를 성황리에 마무리했다고 밝혔다.",
+  "events": [
+   {
+    "name": "팝업스토어",
+    "start_date": "2026-11-12",
+    "end_date": "2026-11-18",
+    "place": "더현대 서울",
+    "quote": "민감 피부를 위한 보습·장벽·진정 케어 브랜드 후드스킨(HOODSKIN)이 지난 11월 12일부터 18일까지 서울 여의도 ‘더현대 서울’ 지하 2층 클린뷰티 편집숍 ‘비클린(Be.CLEAN)’에서 진행한 팝업스토어를 성황리에 마무리했다고 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "판테놀",
+    "quote": "특히 판테놀 5%를 함유해 보습과 장벽 케어를 돕는 대표 제품 ▲‘시카 파이브 밀키 모이스처 세럼’과 부드러운 버블 제형으로 피부에 수분과 광채를 더하는 ▲‘비타 라떼 버블 마스크 토너’를 비롯해 클렌저, 앰플, 스팟 솔루션 등 전 라인업이 현장에 소개됐다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

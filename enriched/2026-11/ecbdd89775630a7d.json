@@ -1,0 +1,56 @@
+{
+ "doc_id": "ecbdd89775630a7d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5649",
+ "title": "83번 색깔 바꿨다… 비레디, 남성용 립밤에 공들인 이유",
+ "summary": "남성 화장품 브랜드 비레디(B.READY)가 자연스러운 입술색과 보습 기능을 결합한 립밤을 선보이며 제품군... 아모레퍼시픽은 남성 뷰티 브랜드 비레디가 신제품 '트루 톤 립밤(TRUE TONE LIP BALM)'을 출시한다고 23일 밝혔다. 이번...",
+ "published_at": "2026-11-23T14:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비레디"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "남성 화장품",
+   "립밤",
+   "톤업 립케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "트루 톤 립밤",
+    "brand": "비레디",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아모레퍼시픽은 남성 뷰티 브랜드 비레디가 신제품 '트루 톤 립밤(TRUE TONE LIP BALM)'을 출시한다고 23일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "비레디가 자연스러운 입술색과 보습 기능을 결합한 남성용 립밤을 선보였다.",
+  "key_fact_quote": "아모레퍼시픽은 남성 뷰티 브랜드 비레디가 신제품 '트루 톤 립밤(TRUE TONE LIP BALM)'을 출시한다고 23일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

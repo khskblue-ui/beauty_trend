@@ -1,0 +1,47 @@
+{
+ "doc_id": "42758dd646eef3aa",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.yna.co.kr/view/AKR20261123038100030?input=1195m",
+ "title": "비레디, 자연스러운 혈색·보습 더한 '트루 톤 립밤' 출시",
+ "summary": "아모레퍼시픽의 남성 화장품 브랜드 비레디는 입술에 자연스러운 혈색과 보습을 더해주는 신제품 '트루 톤 립밤'을 출시했다고 23일 밝혔다. 신제품 은 진한 발색이 부담스럽거나 일반 보습 립밤만으로는 아쉬움을 느끼는...",
+ "published_at": "2026-11-23T10:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비레디"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "남성 화장품",
+   "남성 립 케어",
+   "컬러 립밤"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "a9461bdc1e0f3e82",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

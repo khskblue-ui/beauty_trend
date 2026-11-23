@@ -1,0 +1,44 @@
+{
+ "doc_id": "fa2648ff4fb9f87b",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/ifra-shares-update-at-ffas-annual-general-meeting-in-singapore",
+ "title": "IFRA shares update at FFAS Annual General Meeting in Singapore",
+ "summary": "IFRA was invited once again to share an update with the Fragrance and Flavor Association of Singapore community at its Annual General Meeting.",
+ "published_at": "2026-11-19T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "SG"
+  ],
+  "brands": [],
+  "companies": [
+   "IFRA",
+   "Fragrance and Flavor Association of Singapore"
+  ],
+  "keywords": [
+   "향료 산업 협회",
+   "향료 업계 교류"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "IFRA가 싱가포르 향료 협회 연례 총회에서 최신 현황을 공유했다.",
+  "key_fact_quote": "IFRA was invited once again to share an update with the Fragrance and Flavor Association of Singapore community at its Annual General Meeting.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

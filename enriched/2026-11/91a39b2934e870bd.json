@@ -1,0 +1,66 @@
+{
+ "doc_id": "91a39b2934e870bd",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100569",
+ "title": "사이노슈어 루트로닉 ‘세르프’, 국내 누적 판매 1,000대 돌파",
+ "summary": "미국에 본사를 둔 글로벌 메디컬 에스테틱 기업 사이노슈어 루트로닉(Cynosure Lutronic)은 자사 듀얼 모노폴라 고주파(RF) 의료기기 ‘세르프(XERF)’가 국내 누적 판매 1,000대를 돌파했다고 밝혔다.세르프는 사이노슈어 루트로닉 통합 출범 후 첫 제품이다. 2024년 5월 국내 출시 후 약 2년 6개월 만에 1,000대 돌파를 달성했다. 한국은 환자의 기대 수준이 높고, 시술 경험이 많은 의료진도 풍부해 글로벌 에스테틱 핵심 시장으로 꼽힌다. 이 같은 시장에서 제품 경쟁력을 입증하며 입지를 확대하고 있는 것이다. 세",
+ "published_at": "2026-11-23T10:24:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "세르프"
+  ],
+  "companies": [
+   "사이노슈어 루트로닉"
+  ],
+  "keywords": [
+   "메디컬 에스테틱",
+   "고주파 의료기기",
+   "에너지 기반 디바이스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "세르프",
+    "brand": "사이노슈어 루트로닉",
+    "launch_date": "2024-05",
+    "launch_status": "unknown",
+    "launch_quote": "2024년 5월 국내 출시 후 약 2년 6개월 만에 1,000대 돌파를 달성했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "XERF i05·i10",
+    "brand": "사이노슈어 루트로닉",
+    "launch_date": "2026-08",
+    "launch_status": "unknown",
+    "launch_quote": "지난 8월에는 좁고 굴곡진 부위까지 정밀하게 케어할 수 있는 소형 핸드피스 팁 2종(XERF i05·i10)을 새롭게 출시하며 맞춤 시술의 선택 폭을 한층 넓혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "사이노슈어 루트로닉의 고주파 의료기기 세르프가 국내 누적 판매 기록을 세웠다.",
+  "key_fact_quote": "미국에 본사를 둔 글로벌 메디컬 에스테틱 기업 사이노슈어 루트로닉(Cynosure Lutronic)은 자사 듀얼 모노폴라 고주파(RF) 의료기기 ‘세르프(XERF)’가 국내 누적 판매 1,000대를 돌파했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

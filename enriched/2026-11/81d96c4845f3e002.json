@@ -1,0 +1,50 @@
+{
+ "doc_id": "81d96c4845f3e002",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.segye.com/newsView/20261123505873?OutUrl=naver",
+ "title": "추억의 다마고치가 화장품 에?…LG생활건강·아트박스·CU까지 협업 확산",
+ "summary": "지난해에는 신제품 '다마고치 파라다이스'를 선보이며 관련 상품과 콘텐츠를 확대했다. 화장품 업계에서도 다마고치를 활용한 움직임이 이어지고 있다. 아모레퍼시픽의 이니스프리는 일본 시장에서 반다이와 협업해...",
+ "published_at": "2026-11-23T10:55:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "이니스프리",
+   "아트박스",
+   "CU"
+  ],
+  "companies": [
+   "LG생활건강",
+   "아모레퍼시픽",
+   "반다이"
+  ],
+  "keywords": [
+   "캐릭터 협업",
+   "레트로 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "다마고치 캐릭터를 활용한 협업이 화장품 업계로 이어지고 있다.",
+  "key_fact_quote": "화장품 업계에서도 다마고치를 활용한 움직임이 이어지고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

@@ -1,0 +1,60 @@
+{
+ "doc_id": "e2a07d433f31c781",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54011",
+ "title": "우리 화장품, 미국·유럽에 같은 패키지로 수출해도 될까요?",
+ "summary": "미국 수출용으로 제작한 화장품 영문 패키지를 유럽과 영국에서도 그대로 사용할 수 있을까? 화장품 수출기업들이 해외시장 진출 과정에서 자주 마주하는 이 같은 고민을 해결하기 위한 실무 세미나가 열린다. FDA화장품인증원이 오는 26일(목) 오후 3시부터 5시까지 서울 성동구 성수동 고우넷 트레이닝 센…",
+ "published_at": "2026-11-23T09:01:06+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "US",
+   "GB"
+  ],
+  "brands": [],
+  "companies": [
+   "FDA화장품인증원"
+  ],
+  "keywords": [
+   "화장품 수출 규제",
+   "공용 패키지",
+   "표시사항",
+   "포장재 규정"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "FDA화장품인증원이 미국과 유럽, 영국 화장품 수출 규제와 공용 패키지 설계를 다루는 세미나를 연다.",
+  "key_fact_quote": "FDA화장품인증원이 오는 26일(목) 오후 3시부터 5시까지 서울 성동구 성수동 고우넷 트레이닝 센터에서 미국·EU·영국 화장품 수출 규제와 공용 패키지 설계를 주제로 세미나를 개최한다.",
+  "events": [
+   {
+    "name": "미국·EU·영국 화장품 수출 규제와 공용 패키지 설계 세미나",
+    "start_date": "2026-11-26",
+    "end_date": null,
+    "place": "서울 성동구 성수동 고우넷 트레이닝 센터",
+    "quote": "FDA화장품인증원이 오는 26일(목) 오후 3시부터 5시까지 서울 성동구 성수동 고우넷 트레이닝 센터에서 미국·EU·영국 화장품 수출 규제와 공용 패키지 설계를 주제로 세미나를 개최한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "향료 알레르겐",
+    "quote": "수정 전·후 패키지 도안을 비교하면서 전성분·향료 알레르겐·내용량·책임자 주소 등 주요 표시사항을 검토하고, 공통 인쇄가 가능한 항목과 국가별 스티커 등으로 보완할 수 있는 항목을 구분한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

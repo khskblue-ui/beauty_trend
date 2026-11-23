@@ -1,0 +1,43 @@
+{
+ "doc_id": "10bf1084fc7a421a",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/maison-francis-kurkdjian-south-coast-plaza-boutique-1239440286/",
+ "title": "EXCLUSIVE: Maison Francis Kurkdjian Opens First West Coast Boutique at South Coast Plaza",
+ "summary": "The luxury fragrance house is expanding its U.S. retail footprint with a new California location and plans for a fifth boutique in Dallas.",
+ "published_at": "2026-11-23T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Maison Francis Kurkdjian"
+  ],
+  "companies": [],
+  "keywords": [
+   "럭셔리 향수",
+   "향수 부티크"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "메종 프란시스 커정이 캘리포니아에 미국 서부 첫 부티크를 열고 매장을 늘리고 있다.",
+  "key_fact_quote": "The luxury fragrance house is expanding its U.S. retail footprint with a new California location and plans for a fifth boutique in Dallas.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

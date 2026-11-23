@@ -1,0 +1,45 @@
+{
+ "doc_id": "248b0bc97ee03b8c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=68199",
+ "title": "GS리테일, 베트남서 196만불 수출 상담… \" K뷰티 ·K푸드 경쟁력 확인\"",
+ "summary": "GS리테일은 향후에도 해외시장개척단 프로그램을 지속 운영하며 유망 중소 협력사의 글로벌 진출을 지원하고, K뷰티 ·K푸드의 수출 거점을 동남아시아 등으로 확대해 나간다는 계획이다.",
+ "published_at": "2026-11-23T08:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN"
+  ],
+  "brands": [],
+  "companies": [
+   "GS리테일"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "해외시장개척단",
+   "동남아 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "GS리테일이 해외시장개척단으로 중소 협력사의 K뷰티와 K푸드 수출을 지원한다.",
+  "key_fact_quote": "GS리테일은 향후에도 해외시장개척단 프로그램을 지속 운영하며 유망 중소 협력사의 글로벌 진출을 지원하고, K뷰티 ·K푸드의 수출 거점을 동남아시아 등으로 확대해 나간다는 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

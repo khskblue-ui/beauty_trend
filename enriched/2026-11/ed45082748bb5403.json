@@ -1,0 +1,57 @@
+{
+ "doc_id": "ed45082748bb5403",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.weeklytoday.com/news/articleView.html?idxno=803063",
+ "title": "[위클리오늘] 아모레퍼시픽, 헤라 쿠션 8년 연속 국내 시장 1위…뷰티테...",
+ "summary": "▲아모레퍼시픽 아모레퍼시픽의 뷰티 브랜드 헤라가 국내 쿠션 화장품 시장에서 8년 연속 구매액 점유율... 2017년 출시 된 블랙 쿠션 파운데이션은 국내외 누적 판매량 1400만개를 기록했다. 올해도 올리브영 어워즈...",
+ "published_at": "2026-11-23T17:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "헤라"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "쿠션 파운데이션",
+   "스테디셀러"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "블랙 쿠션 파운데이션",
+    "brand": "헤라",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "헤라가 국내 쿠션 화장품 시장에서 구매액 점유율 선두를 지키고 있다.",
+  "key_fact_quote": "▲아모레퍼시픽 아모레퍼시픽의 뷰티 브랜드 헤라가 국내 쿠션 화장품 시장에서 8년 연속 구매액 점유율...",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "launch:블랙 쿠션 파운데이션"
+  ]
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

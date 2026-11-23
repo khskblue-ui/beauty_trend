@@ -1,0 +1,82 @@
+{
+ "doc_id": "5e4db7a2baa6e38d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259552",
+ "title": "'가희 멀티밤' 이동열 코리아테크 대표 \"김치처럼 화장품 도 원료 중요\"",
+ "summary": "지난 7월 출시 한 '캐비아 PDRN EGF 앰플'에 왜 철갑상어알을 썼는지 직접 들려주고 싶어서다. 는 가히 북촌에서 이 대표를 만나 김장과 화장품 에 담은 생각, 20대 직원들에게 매장 운영과 해외 마케팅을 맡긴...",
+ "published_at": "2026-11-23T17:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "가히"
+  ],
+  "companies": [
+   "코리아테크"
+  ],
+  "keywords": [
+   "원료 중심 화장품",
+   "앰플",
+   "멀티밤"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "캐비아 PDRN EGF 앰플",
+    "brand": null,
+    "launch_date": "2026-07",
+    "launch_status": "unknown",
+    "launch_quote": "지난 7월 출시 한 '캐비아 PDRN EGF 앰플'에 왜 철갑상어알을 썼는지 직접 들려주고 싶어서다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "가희 멀티밤",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코리아테크 대표가 화장품도 원료가 중요하다며 철갑상어알을 쓴 앰플의 배경을 설명했다.",
+  "key_fact_quote": "지난 7월 출시 한 '캐비아 PDRN EGF 앰플'에 왜 철갑상어알을 썼는지 직접 들려주고 싶어서다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "철갑상어알",
+    "quote": "지난 7월 출시 한 '캐비아 PDRN EGF 앰플'에 왜 철갑상어알을 썼는지 직접 들려주고 싶어서다."
+   },
+   {
+    "name": "캐비아",
+    "quote": "지난 7월 출시 한 '캐비아 PDRN EGF 앰플'에 왜 철갑상어알을 썼는지 직접 들려주고 싶어서다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "지난 7월 출시 한 '캐비아 PDRN EGF 앰플'에 왜 철갑상어알을 썼는지 직접 들려주고 싶어서다."
+   },
+   {
+    "name": "EGF",
+    "quote": "지난 7월 출시 한 '캐비아 PDRN EGF 앰플'에 왜 철갑상어알을 썼는지 직접 들려주고 싶어서다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

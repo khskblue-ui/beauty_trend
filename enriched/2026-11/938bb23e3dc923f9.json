@@ -1,0 +1,107 @@
+{
+ "doc_id": "938bb23e3dc923f9",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/in-georgia-niche-fragrances-appeal,28580",
+ "title": "In Georgia, niche fragrances appeal to consumers seeking exclusivity",
+ "summary": "In Georgia, as elsewhere, the niche fragrance market is growing rapidly. Rising demand is driving the opening of new, highly selective boutiques, alongside the emergence of local brands that remain relatively under the radar. Meanwhile, the trade in dupes and counterfeit fragrances is also benefiting from this broader enthusiasm. A closer look at the market in Tbilisi. The development of niche perfumery in Georgia, a segment that remains out of reach for most consumers, is closely linked... - Markets & trends / Europe",
+ "published_at": "2026-11-24T07:44:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [
+   "GE",
+   "RU"
+  ],
+  "brands": [
+   "Nasomatto",
+   "Orto Parisi",
+   "Histoire de Parfum",
+   "D’Orsay",
+   "Akro",
+   "Essential Parfums",
+   "L’Entropiste",
+   "Hormone Paris",
+   "Chemi Suli",
+   "Unica",
+   "Amadeo"
+  ],
+  "companies": [
+   "Prestige LLC",
+   "L’Arôme Boutique",
+   "Aromatheque",
+   "Artinscent",
+   "Ici Paris",
+   "Voulez-vous",
+   "Lutecia",
+   "Scent Bar",
+   "Flakon"
+  ],
+  "keywords": [
+   "니치 향수",
+   "듀프 향수",
+   "디캔트",
+   "향수 부티크"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Sololaki",
+    "brand": "Chemi Suli",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Vake",
+    "brand": "Chemi Suli",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Vera",
+    "brand": "Chemi Suli",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "조지아에서 니치 향수 시장이 빠르게 커지며 고급 부티크와 현지 브랜드, 듀프 향수 매장이 함께 늘고 있다.",
+  "key_fact_quote": "In Georgia, as elsewhere, the niche fragrance market is growing rapidly.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "pomegranate",
+    "quote": "Founded in 2023 by a designer originally from Moscow, Unica seeks to capture the essence of Georgia through fragrances inspired by the country’s emblematic ingredients and materials, including pomegranate, fig, and cypress."
+   },
+   {
+    "name": "fig",
+    "quote": "Founded in 2023 by a designer originally from Moscow, Unica seeks to capture the essence of Georgia through fragrances inspired by the country’s emblematic ingredients and materials, including pomegranate, fig, and cypress."
+   },
+   {
+    "name": "cypress",
+    "quote": "Founded in 2023 by a designer originally from Moscow, Unica seeks to capture the essence of Georgia through fragrances inspired by the country’s emblematic ingredients and materials, including pomegranate, fig, and cypress."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

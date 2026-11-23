@@ -1,0 +1,56 @@
+{
+ "doc_id": "d29f5a551cd723f5",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/rabanne-marks-60th-anniversary-with-the-warehouse-project-club-night",
+ "title": "Rabanne marks 60th anniversary with The Warehouse Project club night which celebrates its ‘values'",
+ "summary": "The Puig-owned luxury fashion and fragrance brand hosted a rave in Manchester with UK club series The Warehouse Project to celebrate its history of ‘challenging convention’, as well as showcase new night-themed scent, 1 Million Black",
+ "published_at": "2026-11-23T20:12:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "Rabanne"
+  ],
+  "companies": [
+   "Puig",
+   "The Warehouse Project"
+  ],
+  "keywords": [
+   "브랜드 체험 행사",
+   "남성 향수"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "1 Million Black",
+    "brand": "Rabanne",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "hosted a rave in Manchester with UK club series The Warehouse Project to celebrate its history of ‘challenging convention’, as well as showcase new night-themed scent, 1 Million Black",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Rabanne가 브랜드 60주년을 맞아 맨체스터에서 클럽 행사를 열고 새 향수를 선보였다.",
+  "key_fact_quote": "hosted a rave in Manchester with UK club series The Warehouse Project to celebrate its history of ‘challenging convention’, as well as showcase new night-themed scent, 1 Million Black",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

@@ -1,0 +1,50 @@
+{
+ "doc_id": "47af1e4899516f34",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=46526",
+ "title": "[오늘의 뷰티] CJ올리브영·헤라·바세린·프레비츠·가히·푸드올로지·...",
+ "summary": "최근 아이들의 자외선 차단제 사용이 보편화되고, 일상적인 스킨십에서 어른들의 화장품 이 아이 피부에... 이번 신제품 을 통해 부모와 아이 모두 즐거운 세안 시간을 가질 수 있을 것\"이라고 말했다. /사진=PHB 코리아...",
+ "published_at": "2026-11-23T15:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "헤라",
+   "바세린",
+   "프레비츠",
+   "가히",
+   "푸드올로지"
+  ],
+  "companies": [
+   "CJ올리브영",
+   "PHB 코리아"
+  ],
+  "keywords": [
+   "키즈 화장품",
+   "어린이 자외선 차단제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아이들의 자외선 차단제 사용이 늘면서 아이 피부를 위한 제품이 나오고 있다.",
+  "key_fact_quote": "최근 아이들의 자외선 차단제 사용이 보편화되고",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

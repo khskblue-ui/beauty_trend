@@ -1,0 +1,47 @@
+{
+ "doc_id": "39e455d250463be2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://kor.theasian.asia/archives/422772",
+ "title": "비레디, 남성 맞춤 혈색·보습 립밤 ‘트루 톤 립밤’ 출시",
+ "summary": "카본 블랙과 탤크 등 9가지 성분을 배제한 9-FREE 처방을 적용했으며, 향료 도 넣지 않았다.제품은 회색빛 내용물과 실버 패키지를 적용했다. 굴러다니지 않는 사각형 용기로 휴대와 사용 편의성을 고려했다.비레디 관계자는...",
+ "published_at": "2026-11-23T10:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비레디"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "남성 화장품",
+   "남성 립 케어",
+   "혈색 립밤"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "ab2fcc5c3f968515",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

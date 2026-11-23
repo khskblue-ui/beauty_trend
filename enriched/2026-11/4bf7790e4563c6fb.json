@@ -1,0 +1,56 @@
+{
+ "doc_id": "4bf7790e4563c6fb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.metroseoul.co.kr/article/20261123500495",
+ "title": "K뷰티, '탈모'에서 '헤어 웰니스'로...\"샴푸로 모발건조 줄이고 디바이...",
+ "summary": "특히 모발 케라틴과 유사한 저분자 펩타이드 기반 '바이오 펩타이드' 기술을 신제품 에 집약했다. 모발 내부... 이어지기를 기대한다\"며 \" 화장품 수출과 K뷰티 산업 지속가능성을 발굴해 나가도록 노력하겠다\"고 말했다.",
+ "published_at": "2026-11-23T16:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "헤어 웰니스",
+   "탈모 케어",
+   "샴푸",
+   "헤어 디바이스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 헤어케어가 탈모 관리에서 헤어 웰니스로 영역을 넓히고 있다.",
+  "key_fact_quote": "특히 모발 케라틴과 유사한 저분자 펩타이드 기반 '바이오 펩타이드' 기술을 신제품 에 집약했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "케라틴",
+    "quote": "특히 모발 케라틴과 유사한 저분자 펩타이드 기반 '바이오 펩타이드' 기술을 신제품 에 집약했다."
+   },
+   {
+    "name": "저분자 펩타이드",
+    "quote": "특히 모발 케라틴과 유사한 저분자 펩타이드 기반 '바이오 펩타이드' 기술을 신제품 에 집약했다."
+   },
+   {
+    "name": "바이오 펩타이드",
+    "quote": "특히 모발 케라틴과 유사한 저분자 펩타이드 기반 '바이오 펩타이드' 기술을 신제품 에 집약했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

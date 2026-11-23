@@ -1,0 +1,45 @@
+{
+ "doc_id": "6c96e6ed49c3c7ed",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/as-watson-ai-and-robotics-accelerate-supply-chain",
+ "title": "AS Watson implements AI and robotics at 55 distribution centres to accelerate global supply chain",
+ "summary": "Superdrug and The Perfume Shop-owner AS Watson is turning to artificial intelligence (AI), robotics and automation to accelerate its supply chain transformation across more than 55 distribution centres globally",
+ "published_at": "2026-11-23T20:52:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Superdrug",
+   "The Perfume Shop"
+  ],
+  "companies": [
+   "AS Watson"
+  ],
+  "keywords": [
+   "공급망 자동화",
+   "물류 로봇",
+   "AI 물류"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "AS Watson이 전 세계 물류센터에 AI와 로봇을 도입해 공급망 전환을 서두르고 있다.",
+  "key_fact_quote": "Superdrug and The Perfume Shop-owner AS Watson is turning to artificial intelligence (AI), robotics and automation to accelerate its supply chain transformation across more than 55 distribution centres globally",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

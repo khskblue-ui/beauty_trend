@@ -1,0 +1,93 @@
+{
+ "doc_id": "440d71bc9a62f070",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54017",
+ "title": "김승환 아모레퍼시픽 대표, 日서 K-뷰티 미래 전략 제시",
+ "summary": "아모레퍼시픽(대표이사 김승환)이 일본에서 열린 ‘아시아 뷰티테크 어워즈 2026’(ASIA BEAUTYTECH AWARDS 2026)에서 인공지능(AI)·뷰티 디바이스·바이오 기술을 중심으로 한 K-뷰티의 미래 성장 전략을 제시했다. 뷰티 디바이스 전문 브랜드 메이크온(MAKEON)은 엔터프라이즈 부문 대상…",
+ "published_at": "2026-11-23T16:52:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "라네즈",
+   "헤라",
+   "메이크온"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "아이스타일"
+  ],
+  "keywords": [
+   "뷰티테크",
+   "AI 맞춤형 뷰티",
+   "뷰티 디바이스",
+   "홀리스틱 롱제비티",
+   "에이지리스 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "크림 스킨",
+    "brand": "라네즈",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "온페이스 LED 마스크",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "리보빔 볼륨&액티브 세럼",
+    "brand": "메이크온",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아모레퍼시픽이 아시아 뷰티테크 어워즈에서 AI와 디바이스, 바이오 중심의 K뷰티 성장 전략을 내놓았다.",
+  "key_fact_quote": "아모레퍼시픽(대표이사 김승환)이 일본에서 열린 ‘아시아 뷰티테크 어워즈 2026’(ASIA BEAUTYTECH AWARDS 2026)에서 인공지능(AI)·뷰티 디바이스·바이오 기술을 중심으로 한 K-뷰티의 미래 성장 전략을 제시했다.",
+  "events": [
+   {
+    "name": "아시아 뷰티테크 어워즈 2026",
+    "start_date": "2026-11-19",
+    "end_date": null,
+    "place": "일본 도쿄",
+    "quote": "지난 19일 일본 도쿄에서 열린 이번 행사는 일본 뷰티 플랫폼 @cosme(앳코스메) 를 운영하는 아이스타일이 주최했다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "리보플라빈",
+    "quote": "CES 2024 혁신상 수상 기술을 기반으로 발전시킨 기술로 전용 디바이스와 리보플라빈(비타민 B₂) 함유 세럼을 함께 사용해 팔자주름·이마주름 등 주요 표정주름을 관리하도록 설계했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

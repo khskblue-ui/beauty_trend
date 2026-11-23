@@ -1,0 +1,56 @@
+{
+ "doc_id": "013546c1d8faa0e2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.babytimes.co.kr/news/articleView.html?idxno=74748",
+ "title": "비레디, 자연스러운 혈색·보습 담은 남성용 립밤 출시",
+ "summary": "비레디(B.READY)의 신제품 '트루 톤 립밤' (사진=아모레퍼시픽) 아모레퍼시픽의 남성 화장품 브랜드 비레디(B.READY)가 자연스러운 혈색과 보습 기능을 갖춘 신제품 '트루 톤 립밤'을 출시한다고 23일 밝혔다. 이번 제품은 기존...",
+ "published_at": "2026-11-23T10:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "비레디"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "남성 화장품",
+   "남성 립 케어",
+   "컬러 립밤"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "트루 톤 립밤",
+    "brand": "비레디",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아모레퍼시픽의 남성 화장품 브랜드 비레디(B.READY)가 자연스러운 혈색과 보습 기능을 갖춘 신제품 '트루 톤 립밤'을 출시한다고 23일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "비레디가 혈색과 보습을 함께 주는 남성용 립밤을 내놓았다.",
+  "key_fact_quote": "아모레퍼시픽의 남성 화장품 브랜드 비레디(B.READY)가 자연스러운 혈색과 보습 기능을 갖춘 신제품 '트루 톤 립밤'을 출시한다고 23일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

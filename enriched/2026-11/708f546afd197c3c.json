@@ -1,0 +1,57 @@
+{
+ "doc_id": "708f546afd197c3c",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/weightless-conditioning-from-scalp-to-strand",
+ "title": "Weightless Conditioning from Scalp to Strand",
+ "summary": "Inolex launches ProCondition™ Satin, a conditioning active that delivers a luxurious, silky feel, softer tresses, enhanced curl definition, and long-lasting frizz control across hair textures",
+ "published_at": "2026-11-23T04:19:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Inolex"
+  ],
+  "keywords": [
+   "컨디셔닝 원료",
+   "곱슬머리 케어",
+   "프리즈 컨트롤"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "ProCondition™ Satin",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Inolex launches ProCondition™ Satin, a conditioning active that delivers a luxurious, silky feel, softer tresses, enhanced curl definition, and long-lasting frizz control across hair textures",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이놀렉스가 모발에 부드러운 사용감과 프리즈 컨트롤을 주는 컨디셔닝 원료를 내놓았다.",
+  "key_fact_quote": "Inolex launches ProCondition™ Satin, a conditioning active that delivers a luxurious, silky feel, softer tresses, enhanced curl definition, and long-lasting frizz control across hair textures",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "ProCondition™ Satin",
+    "quote": "Inolex launches ProCondition™ Satin, a conditioning active that delivers a luxurious, silky feel, softer tresses, enhanced curl definition, and long-lasting frizz control across hair textures"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

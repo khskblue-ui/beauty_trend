@@ -1,0 +1,58 @@
+{
+ "doc_id": "89dbe3c36977c218",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100562",
+ "title": "헤라, 국내 쿠션 8년 연속 1위… ‘블랙 쿠션’ 흥행 질주",
+ "summary": "아모레퍼시픽 컨템포러리 서울 뷰티 브랜드 헤라(HERA)가 국내 쿠션 시장에서 8년 연속 구매액 점유율 1위를 기록한 데 이어, 2026년에도 대표 제품인 ‘블랙 쿠션 파운데이션’을 앞세워 주요 유통 채널에서 성과를 이어가고 있다.헤라는 2018년부터 2025년까지 8년 연속 국내 전체 쿠션 시장에서 구매액 점유율 1위 브랜드 로 선정됐다. 2017년 출시한 대표 제품 ‘블랙 쿠션 파운데이션’은 국내외 누적 판매량 1,400만 개를 기록하며 꾸준한 인기를 얻고 있다.2026년에도 블랙 쿠션의 성과는 이어지고 있다. 올리브영 어워즈",
+ "published_at": "2026-11-23T09:57:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "헤라"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "쿠션 파운데이션",
+   "스테디셀러",
+   "채널 프로모션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "블랙 쿠션 파운데이션",
+    "brand": "헤라",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "헤라 블랙 쿠션이 국내 쿠션 시장 선두를 지키며 주요 유통 채널에서도 판매 성과를 이어 가고 있다.",
+  "key_fact_quote": "아모레퍼시픽 컨템포러리 서울 뷰티 브랜드 헤라(HERA)가 국내 쿠션 시장에서 8년 연속 구매액 점유율 1위를 기록한 데 이어, 2026년에도 대표 제품인 ‘블랙 쿠션 파운데이션’을 앞세워 주요 유통 채널에서 성과를 이어가고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": [
+   "launch:블랙 쿠션 파운데이션"
+  ]
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

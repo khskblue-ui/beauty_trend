@@ -1,0 +1,55 @@
+{
+ "doc_id": "ef4044800a97eb50",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100572",
+ "title": "가히(KAHI), ‘가히 북촌’ 플래그십 스토어서 5일간 김장축제 개최",
+ "summary": "뷰티 브랜드 가히(KAHI)가 11월 22일 ‘김치의 날’을 맞아 오는 25일까지 서울 종로구 북촌 한옥마을 플래그십 스토어 ‘가히 북촌’에서 대규모 김장축제를 연다. 지난 21일 개막해 닷새간 진행되는 이번 행사는 총 8천 포기 규모로, 한국의 전통 김장 문화와 K-뷰티를 한자리에서 즐길 수 있는 체험형 축제로 마련됐다. 개막 이후 축제 현장에는 한국의 전통 문화를 직접 체험하려는 외국인 관광객들의 발길이 끊이지 않고 있다. 방문객들은 매장 앞마당 체험 공간에서 배추에 직접 양념을 버무린 뒤, 1층 카페에서 갓 만든 김치와 수육,",
+ "published_at": "2026-11-23T10:33:54+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "가히"
+  ],
+  "companies": [
+   "코리아테크"
+  ],
+  "keywords": [
+   "체험형 매장",
+   "플래그십 스토어",
+   "원료 철학",
+   "K-뷰티 관광"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "가히가 북촌 플래그십 스토어에서 김장축제를 열고 원료를 중시하는 브랜드 철학을 알렸다.",
+  "key_fact_quote": "뷰티 브랜드 가히(KAHI)가 11월 22일 ‘김치의 날’을 맞아 오는 25일까지 서울 종로구 북촌 한옥마을 플래그십 스토어 ‘가히 북촌’에서 대규모 김장축제를 연다.",
+  "events": [
+   {
+    "name": "김장축제",
+    "start_date": "2026-11-21",
+    "end_date": "2026-11-25",
+    "place": "서울 종로구 북촌 한옥마을 플래그십 스토어 ‘가히 북촌’",
+    "quote": "지난 21일 개막해 닷새간 진행되는 이번 행사는 총 8천 포기 규모로, 한국의 전통 김장 문화와 K-뷰티를 한자리에서 즐길 수 있는 체험형 축제로 마련됐다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

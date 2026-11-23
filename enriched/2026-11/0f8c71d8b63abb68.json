@@ -1,0 +1,45 @@
+{
+ "doc_id": "0f8c71d8b63abb68",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.getnews.co.kr/news/articleView.html?idxno=887836",
+ "title": "로레온코리아 설립 2년 차, 누적 수출 360만 달러 넘어섰다",
+ "summary": "앞서 지난달 경기 고양시 킨텍스와 베트남에서 열린 K - 뷰티 전시회에 참가해 현지 바이어들과 유통 협력 방안을 논의하기도 했다. 호주 멜버른에서 열린 수출 상담회에서는 30만 달러 규모의 업무협약을 맺은 바 있다....",
+ "published_at": "2026-11-23T16:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN",
+   "AU"
+  ],
+  "brands": [],
+  "companies": [
+   "로레온코리아"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "해외 바이어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "로레온코리아가 설립 이후 해외 전시회와 상담회로 수출을 늘려 왔다.",
+  "key_fact_quote": "앞서 지난달 경기 고양시 킨텍스와 베트남에서 열린 K - 뷰티 전시회에 참가해 현지 바이어들과 유통 협력 방안을 논의하기도 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

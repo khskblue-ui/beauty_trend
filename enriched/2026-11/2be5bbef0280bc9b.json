@@ -1,0 +1,48 @@
+{
+ "doc_id": "2be5bbef0280bc9b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.e2news.com/news/articleView.html?idxno=336381",
+ "title": "블리비코스메틱, '블리비 PDRN 엑소좀 에센셜 마스크팩' 출시…스킨케어...",
+ "summary": "이번 신제품 은 PDRN과 엑소좀, 피부 장벽 관리 성분 등을 조합한 마스크팩으로, 일상에서 피부 보습과 컨디션 관리를 할 수 있도록 기획됐다. 블리비코스메틱은 자체 R&D 센터를 중심으로 국내 화장품 전문 연구기관과 공동...",
+ "published_at": "2026-11-23T10:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "블리비"
+  ],
+  "companies": [
+   "블리비코스메틱"
+  ],
+  "keywords": [
+   "더마코스메틱",
+   "마스크팩",
+   "PDRN",
+   "엑소좀"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "cad321a8e60395b5",
+ "enriched_at": "2026-11-23T21:30:35+00:00",
+ "had_body": false
+}

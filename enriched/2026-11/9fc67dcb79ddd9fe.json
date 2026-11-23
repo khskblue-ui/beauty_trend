@@ -1,0 +1,60 @@
+{
+ "doc_id": "9fc67dcb79ddd9fe",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100570",
+ "title": "네오팜 제로이드, 각계 전문가 ‘더마 클래스’ 성료",
+ "summary": "뷰티&헬스케어 기업 네오팜(대표 김양수)의 메디컬 스킨케어 브랜드 ‘제로이드(ZEROID)’가 지난 19일 서울 강남구 플랫폼엘에서 ‘제로이드 NO.1 더마 클래스(ZEROID NO.1 Derma Class)’를 성황리에 개최했다고 23일 밝혔다.이번 행사는 제로이드와 분야별 전문가들이 함께하는 ‘1위 멘토링’ 콘셉트로 기획됐다. 건강한 피부를 위한 스킨케어부터 자신감 있는 삶을 위한 경험과 조언까지 나누는 자리로, 피부과 전문의 이승주 원장과 디에디트 에디터 M, 메이크업 아티스트 손주희 원장이 연사로 참여했다.첫 번째 강연에서는",
+ "published_at": "2026-11-23T10:26:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "제로이드"
+  ],
+  "companies": [
+   "네오팜"
+  ],
+  "keywords": [
+   "더마 화장품",
+   "피부장벽",
+   "민감 피부",
+   "소비자 클래스"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "제로이드가 전문가 강연으로 구성한 더마 클래스를 열었다.",
+  "key_fact_quote": "뷰티&헬스케어 기업 네오팜(대표 김양수)의 메디컬 스킨케어 브랜드 ‘제로이드(ZEROID)’가 지난 19일 서울 강남구 플랫폼엘에서 ‘제로이드 NO.1 더마 클래스(ZEROID NO.1 Derma Class)’를 성황리에 개최했다고 23일 밝혔다.",
+  "events": [
+   {
+    "name": "제로이드 NO.1 더마 클래스(ZEROID NO.1 Derma Class)",
+    "start_date": "2026-11-19",
+    "end_date": null,
+    "place": "서울 강남구 플랫폼엘",
+    "quote": "뷰티&헬스케어 기업 네오팜(대표 김양수)의 메디컬 스킨케어 브랜드 ‘제로이드(ZEROID)’가 지난 19일 서울 강남구 플랫폼엘에서 ‘제로이드 NO.1 더마 클래스(ZEROID NO.1 Derma Class)’를 성황리에 개최했다고 23일 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "MLE®",
+    "quote": "제로이드는 네오팜의 독자 피부장벽 기술 MLE®를 바탕으로 민감피부를 위한 전문적인 스킨케어 솔루션을 제공해 온 브랜드다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

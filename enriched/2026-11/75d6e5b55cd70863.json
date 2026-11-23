@@ -1,0 +1,47 @@
+{
+ "doc_id": "75d6e5b55cd70863",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58780",
+ "title": "CJ올리브영, 생리용품 바우처 결제 전국 1,300여 개 매장서 시행",
+ "summary": "[코스인코리아닷컴 길태윤 기자] CJ올리브영이 취약계층 여성·청소년의 생리용품 구매 편의를 높이기 위해 전국 1,300여 개 오프라인 매장에서 국민행복카드를 통한 생리용품 바우처 결제 서비스를 23일부터 시행한다고 밝혔다. 생리용품 바우처는 성평등가족부가 여성·청소년의 건강한 성장과 건강…",
+ "published_at": "2026-11-23T11:00:18+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "올리브영"
+  ],
+  "companies": [
+   "CJ올리브영",
+   "성평등가족부"
+  ],
+  "keywords": [
+   "생리용품 바우처",
+   "여성 건강",
+   "옴니채널"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "CJ올리브영이 전국 오프라인 매장에서 생리용품 바우처 결제 서비스를 시작했다.",
+  "key_fact_quote": "[코스인코리아닷컴 길태윤 기자] CJ올리브영이 취약계층 여성·청소년의 생리용품 구매 편의를 높이기 위해 전국 1,300여 개 오프라인 매장에서 국민행복카드를 통한 생리용품 바우처 결제 서비스를 23일부터 시행한다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

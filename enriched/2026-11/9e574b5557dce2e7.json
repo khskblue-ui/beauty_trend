@@ -1,0 +1,47 @@
+{
+ "doc_id": "9e574b5557dce2e7",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100579",
+ "title": "그립, 2027 라이브 커머스 트렌드 키워드 ‘C.A.M.E.R.A’ 발표",
+ "summary": "그립컴퍼니(대표 김한나·김태수)가 운영하는 커머스 크리에이터 플랫폼 ‘그립’이 지난 19일, 2027년 라이브 커머스 시장의 핵심 트렌드 키워드로 ‘C.A.M.E.R.A’를 선정했다고 밝혔다.이번 발표는 2025년 1~3분기와 2026년 동기간의 고객 주문 데이터를 토대로 진행됐다. 제품 카테고리와 고객 연령대, 라이브 시청 시간대, 재구매율 등 주요 지표를 분석해 올해 시장의 변화 흐름을 짚고 내년 성장 방향을 가늠하기 위해 마련됐다.그립컴퍼니는 최근 라이브 커머스가 단순한 실시간 할인 판매 채널에서 벗어나, 크리에이터와 소비자",
+ "published_at": "2026-11-23T13:15:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "그립"
+  ],
+  "companies": [
+   "그립컴퍼니"
+  ],
+  "keywords": [
+   "라이브 커머스",
+   "관계형 커머스",
+   "창고형 라이브",
+   "중장년층 소비"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "그립이 내년 라이브 커머스 트렌드 키워드를 발표하며 관계형 커머스로의 변화를 짚었다.",
+  "key_fact_quote": "그립컴퍼니(대표 김한나·김태수)가 운영하는 커머스 크리에이터 플랫폼 ‘그립’이 지난 19일, 2027년 라이브 커머스 시장의 핵심 트렌드 키워드로 ‘C.A.M.E.R.A’를 선정했다고 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

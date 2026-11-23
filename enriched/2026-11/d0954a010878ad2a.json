@@ -1,0 +1,46 @@
+{
+ "doc_id": "d0954a010878ad2a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.smartbizn.com/news/articleView.html?idxno=160240",
+ "title": "생산은 '국내'서 공략은 '맞춤형'···에이피알, K뷰티 수출 신기록 견...",
+ "summary": "캐나다 드럭스토어에는 스킨케어 제품을 선보였고 미국과 유럽 팝업에서는 뷰티 기기 체험을 앞세웠다. 한국 수출 첫 1조 달러···화장품은 3분기까지 31% 늘어 한국의 올해 누적 상품 수출 액이 지난 19일 잠정 집계...",
+ "published_at": "2026-11-23T10:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CA",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "뷰티 기기",
+   "국내 생산"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에이피알은 시장별로 캐나다에는 스킨케어 제품을, 미국과 유럽 팝업에서는 뷰티 기기 체험을 앞세웠다.",
+  "key_fact_quote": "캐나다 드럭스토어에는 스킨케어 제품을 선보였고 미국과 유럽 팝업에서는 뷰티 기기 체험을 앞세웠다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

@@ -1,0 +1,50 @@
+{
+ "doc_id": "ae5c99c693f234c3",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/a-closer-look-at-why-vitamin-a-skin-care-is-here-to-stay-with-medik8--142199",
+ "title": "A closer look at why vitamin A skin care is here to stay with MediK8",
+ "summary": "Vitamin A, or retinol, is a super ingredient in the skin care industry – but where is it headed next?",
+ "published_at": "2026-11-23T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [
+   "MediK8"
+  ],
+  "companies": [],
+  "keywords": [
+   "레티놀",
+   "비타민 A 스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "비타민 A 성분이 스킨케어 업계의 핵심 원료로 자리 잡고 있다.",
+  "key_fact_quote": "Vitamin A, or retinol, is a super ingredient in the skin care industry – but where is it headed next?",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "Vitamin A",
+    "quote": "Vitamin A, or retinol, is a super ingredient in the skin care industry – but where is it headed next?"
+   },
+   {
+    "name": "retinol",
+    "quote": "Vitamin A, or retinol, is a super ingredient in the skin care industry – but where is it headed next?"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

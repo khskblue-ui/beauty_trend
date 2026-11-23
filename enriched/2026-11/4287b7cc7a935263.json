@@ -1,0 +1,44 @@
+{
+ "doc_id": "4287b7cc7a935263",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100560",
+ "title": "올리브영, 전 매장서 '생리용품 바우처' 결제 서비스 시행",
+ "summary": "CJ올리브영(이하 올리브영)은 취약계층 여성∙청소년이 전국 오프라인 매장에서 '생리용품 바우처'를 사용할 수 있는 결제 서비스를 도입한다고 23일 밝혔다.생리용품 바우처는 성평등가족부가 여성∙청소년의 건강한 성장과 건강권 보장을 위해 2019년부터 시행하고 있는 지원사업이다. 지원 대상은 기초생활보장 급여 수급자와 차상위계층, 한부모가족 지원 대상자 중 9~24세 여성∙청소년으로, 올해 기준 월 1만4000원씩 연간 최대 16만8000원을 지원받을 수 있다. 대상자는 본인 또는 신청인 명의의 국민행복카드를 발급받아 올",
+ "published_at": "2026-11-23T09:49:15+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "생리용품",
+   "여성 건강",
+   "옴니채널"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "올리브영이 전국 오프라인 매장에서 생리용품 바우처 결제 서비스를 시작한다.",
+  "key_fact_quote": "CJ올리브영(이하 올리브영)은 취약계층 여성∙청소년이 전국 오프라인 매장에서 '생리용품 바우처'를 사용할 수 있는 결제 서비스를 도입한다고 23일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

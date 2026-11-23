@@ -1,0 +1,59 @@
+{
+ "doc_id": "821103303faf2712",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sentv.co.kr/article/view/sentv202611230104",
+ "title": "‘시카’ 전성시대…생병풀 90% 앰플까지 등장한 진정 화장품 시장",
+ "summary": "인공 향료 와 인공색소도 넣지 않았다. 나이아신아마이드와 아데노신을 배합한 미백·주름개선 이중 기능성 화장품이다. 완제품의 인체적용시험도 거쳤다. 한국인터텍테스팅서비스 화장품임상연구소는 지난해 9월 4일부터...",
+ "published_at": "2026-11-23T11:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "시카",
+   "진정 화장품",
+   "기능성 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "시카 성분을 앞세운 진정 화장품 시장이 커지고 있다.",
+  "key_fact_quote": "나이아신아마이드와 아데노신을 배합한 미백·주름개선 이중 기능성 화장품이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "시카",
+    "quote": "‘시카’ 전성시대…생병풀 90% 앰플까지 등장한 진정 화장품 시장"
+   },
+   {
+    "name": "생병풀",
+    "quote": "‘시카’ 전성시대…생병풀 90% 앰플까지 등장한 진정 화장품 시장"
+   },
+   {
+    "name": "나이아신아마이드",
+    "quote": "나이아신아마이드와 아데노신을 배합한 미백·주름개선 이중 기능성 화장품이다."
+   },
+   {
+    "name": "아데노신",
+    "quote": "나이아신아마이드와 아데노신을 배합한 미백·주름개선 이중 기능성 화장품이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

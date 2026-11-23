@@ -1,0 +1,54 @@
+{
+ "doc_id": "a4e5bc2d19b9ba06",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54012",
+ "title": "GTDA(글로벌무역진흥원), 뷰티월드 타슈켄트서 K-뷰티 16社 지원",
+ "summary": "글로벌무역진흥원(대표 윤규희·이하 GTDA)이 우즈베키스탄에서 열린 ‘2026 뷰티월드 타슈켄트’(Beautyworld Tashkent 2026)에 한국관을 구성·운영하며 국내 화장품·뷰티 기업의 중앙아시아 시장 진출 지원에 나섰다. 지난 19일부터 21일까지 사흘간 우즈베키스탄 타슈켄트 CAEx(C…",
+ "published_at": "2026-11-23T09:50:17+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "UZ"
+  ],
+  "brands": [],
+  "companies": [
+   "글로벌무역진흥원"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "중앙아시아 시장",
+   "해외 전시회",
+   "한국관"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "글로벌무역진흥원이 뷰티월드 타슈켄트에서 한국관을 운영하며 국내 뷰티 기업의 중앙아시아 진출을 지원했다.",
+  "key_fact_quote": "글로벌무역진흥원(대표 윤규희·이하 GTDA) 이 우즈베키스탄에서 열린 ‘2026 뷰티월드 타슈켄트’(Beautyworld Tashkent 2026) 에 한국관을 구성·운영하며 국내 화장품·뷰티 기업의 중앙아시아 시장 진출 지원에 나섰다.",
+  "events": [
+   {
+    "name": "2026 뷰티월드 타슈켄트",
+    "start_date": "2026-11-19",
+    "end_date": "2026-11-21",
+    "place": "우즈베키스탄 타슈켄트 CAEx(Central Asian Expo Uzbekistan) 전시장",
+    "quote": "지난 19일부터 21일까지 사흘간 우즈베키스탄 타슈켄트 CAEx(Central Asian Expo Uzbekistan) 전시장에서 열린 이번 행사에는 세계 20국가에서 125개 이상의 기업이 참가했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

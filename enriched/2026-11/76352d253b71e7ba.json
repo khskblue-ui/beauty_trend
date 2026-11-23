@@ -1,0 +1,63 @@
+{
+ "doc_id": "76352d253b71e7ba",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2315616",
+ "title": "\"전통주에서 향수로\" 서산 쌀의 새로운 변신 '마지기'",
+ "summary": "일반 향수에 쓰이는 화학 변성 알코올을 대체해 알코올 특유의 자극적인 취기를 줄이고 향료 본연의 향을 부드럽게 살리는 데 초점을 맞췄다. 업체 측은 피부 자극과 알레르기 유발 가능성을 낮춘 하이포알러제닉 특성을...",
+ "published_at": "2026-11-23T10:42:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "마지기"
+  ],
+  "companies": [],
+  "keywords": [
+   "쌀 유래 알코올",
+   "하이포알러제닉 향수",
+   "로컬 원료 향수"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "마지기",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "서산 쌀로 만든 알코올을 쓴 향수가 화학 변성 알코올을 대체하는 방식으로 나왔다.",
+  "key_fact_quote": "일반 향수에 쓰이는 화학 변성 알코올을 대체해 알코올 특유의 자극적인 취기를 줄이고 향료 본연의 향을 부드럽게 살리는 데 초점을 맞췄다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "서산 쌀",
+    "quote": "\"전통주에서 향수로\" 서산 쌀의 새로운 변신 '마지기'"
+   },
+   {
+    "name": "화학 변성 알코올",
+    "quote": "일반 향수에 쓰이는 화학 변성 알코올을 대체해 알코올 특유의 자극적인 취기를 줄이고 향료 본연의 향을 부드럽게 살리는 데 초점을 맞췄다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

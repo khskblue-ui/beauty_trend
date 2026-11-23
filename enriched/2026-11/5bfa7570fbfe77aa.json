@@ -1,0 +1,115 @@
+{
+ "doc_id": "5bfa7570fbfe77aa",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58782",
+ "title": "글로벌 뷰티업계 홀린 어드벤트 캘린더... 신규 고객 이끄는 '디럭스 샘플링' 효과",
+ "summary": "[코스인코리아닷컴 김세화 기자] 크리스마스를 기다리며 매일 하나씩 선물을 열어보는 어드벤트 캘린더(Advent Calendar)가 글로벌 뷰티 업계의 연말 마케팅 전략으로 자리 잡았다.다양한 제품을 한 상자에 담아 판매하는 어드벤트 캘린더는 소비자에게는 제품 체험을 통해 가격 대비 높은 만족감…",
+ "published_at": "2026-11-23T13:43:49+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "GB",
+   "FR",
+   "IT",
+   "ES",
+   "DE",
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "존스로드",
+   "메디크8",
+   "K18",
+   "조 말론 런던",
+   "설화수"
+  ],
+  "companies": [
+   "리버티",
+   "존 루이스",
+   "세포라",
+   "올리브영"
+  ],
+  "keywords": [
+   "어드벤트 캘린더",
+   "디럭스 샘플링",
+   "홀리데이 기획 세트",
+   "미니어처"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "어드벤트 캘린더",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "설화수는 2026년 홀리데이 컬렉션과 함께 어드벤트 캘린더를 선보였다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "윤조에센스",
+    "brand": "설화수",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "미라클 밤",
+    "brand": "존스로드",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "메디크8(Medik8) 세럼",
+    "brand": "메디크8",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "K18 헤어 마스크",
+    "brand": "K18",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "어드벤트 캘린더",
+    "brand": "조 말론 런던",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "블룸버그에 따르면 2014년부터 어드벤트 캘린더를 출시해 온 조 말론 런던의 경우, 매년 캘린더 구매자의 40~45%가 브랜드 신규 고객으로 정착했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "어드벤트 캘린더가 신규 고객을 끌어들이는 샘플링 수단으로 글로벌 뷰티 업계의 연말 마케팅 전략이 됐다.",
+  "key_fact_quote": "크리스마스를 기다리며 매일 하나씩 선물을 열어보는 어드벤트 캘린더(Advent Calendar)가 글로벌 뷰티 업계의 연말 마케팅 전략으로 자리 잡았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

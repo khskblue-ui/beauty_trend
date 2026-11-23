@@ -1,0 +1,92 @@
+{
+ "doc_id": "e0e2d9980a952773",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100564",
+ "title": "에뛰드X슈렉, 진지와 함께하는 달콤한 홀리데이 한정 컬렉션",
+ "summary": "즐거운 화장놀이 문화를 전파하는 글로벌 메이크업 브랜드 에뛰드에서 슈렉과 함께 달콤하고 따뜻한 겨울 무드를 담은 콜라보 에디션 ‘Ginger Sugar Wish!’컬렉션을 선보인다.에뛰드와 슈렉의 만남으로 탄생한 ‘Ginger Sugar Wish!’ 컬렉션은 바삭바삭 부서질 위기에 놓인 진저브레드맨 캐릭터 ‘진지(Gingy)’가 촉촉해지길 소원한다는 유쾌하고 귀여운 스토리를 담고 있다. 에뛰드의 인기 립 케어 라인인 ‘진저슈가’에 진지의 달콤한 감성을 더했으며, 사랑스러운 패키지로 소장 가치를 높였다. 특히 ‘진저슈가 립 세럼’과",
+ "published_at": "2026-11-23T10:02:06+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "에뛰드",
+   "올리브영"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 한정판",
+   "캐릭터 협업",
+   "립 케어",
+   "웜 뉴트럴 컬러"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "진저슈가 립 세럼",
+    "brand": "에뛰드",
+    "launch_date": "2026-11-23",
+    "launch_status": "launched",
+    "launch_quote": "이번 컬렉션의 메인 제품인 ‘진저슈가 립 세럼’은 진지 캐릭터의 달콤한 무드를 담아 포근한 코코아 컬러의 ‘12호 진저 코코아’가 새롭게 출시된다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마이 쁘띠 팔레트",
+    "brand": "에뛰드",
+    "launch_date": "2026-11-23",
+    "launch_status": "launched",
+    "launch_quote": "함께 선보이는 ‘마이 쁘띠 팔레트’ 10호 ‘빵굽는 진저맨’은 갓 구운 진저 쿠키처럼 따뜻한 컬러를 담은 홀리데이 한정판 팔레트로, 일명 ‘굽굽 메이크업’을 연출하기에 제격이다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "진저슈가 오버나이트 립 마스크",
+    "brand": "에뛰드",
+    "launch_date": "2026-11-23",
+    "launch_status": "launched",
+    "launch_quote": "‘진저슈가 오버나이트 립 마스크’는 미니 립 마스크를 함께 증정하는 기획세트로 구성했으며, ‘진저슈가 에센셜 립밤’과 ‘진저슈가 립밤 스틱’ 역시 기존 제품에 홀리데이 무드를 담은 패키지를 적용해 특별함을 더했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "진저슈가 에센셜 립밤",
+    "brand": "에뛰드",
+    "launch_date": "2026-11-23",
+    "launch_status": "launched",
+    "launch_quote": "‘진저슈가 오버나이트 립 마스크’는 미니 립 마스크를 함께 증정하는 기획세트로 구성했으며, ‘진저슈가 에센셜 립밤’과 ‘진저슈가 립밤 스틱’ 역시 기존 제품에 홀리데이 무드를 담은 패키지를 적용해 특별함을 더했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "진저슈가 립밤 스틱",
+    "brand": "에뛰드",
+    "launch_date": "2026-11-23",
+    "launch_status": "launched",
+    "launch_quote": "‘진저슈가 오버나이트 립 마스크’는 미니 립 마스크를 함께 증정하는 기획세트로 구성했으며, ‘진저슈가 에센셜 립밤’과 ‘진저슈가 립밤 스틱’ 역시 기존 제품에 홀리데이 무드를 담은 패키지를 적용해 특별함을 더했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에뛰드가 슈렉과 협업한 홀리데이 한정 컬렉션을 올리브영 온라인몰에서 먼저 선보인다.",
+  "key_fact_quote": "에뛰드 ‘Ginger Sugar Wish!’ 컬렉션은 11월 23일 올리브영 온라인몰 기획전을 통해 선출시된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": true
+}

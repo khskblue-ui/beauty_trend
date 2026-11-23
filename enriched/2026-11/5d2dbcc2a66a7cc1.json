@@ -1,0 +1,45 @@
+{
+ "doc_id": "5d2dbcc2a66a7cc1",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/dermaself-brings-ai-skin-analysis-into-grocery-retail",
+ "title": "Dermaself brings AI skin analysis into grocery retail: Italy’s biggest beauty counter now has its own AI Beauty Agent",
+ "summary": "Dermaself and Coop Alleanza 3.0, the Italian cooperative operating in large-scale retail, bring an AI skin analysis smart mirror to the parapharmacy area of Ipercoop Baragalla in Reggio Emilia. Shoppers take a selfie and receive a skincare routine built from the products on the store’s own shelves",
+ "published_at": "2026-11-23T04:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "IT"
+  ],
+  "brands": [],
+  "companies": [
+   "Dermaself",
+   "Coop Alleanza 3.0"
+  ],
+  "keywords": [
+   "AI 피부 분석",
+   "스마트 미러",
+   "맞춤형 스킨케어 루틴"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "Dermaself와 Coop Alleanza 3.0이 이탈리아 대형마트 매장에 AI 피부 분석 스마트 미러를 도입했다.",
+  "key_fact_quote": "Dermaself and Coop Alleanza 3.0, the Italian cooperative operating in large-scale retail, bring an AI skin analysis smart mirror to the parapharmacy area of Ipercoop Baragalla in Reggio Emilia.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

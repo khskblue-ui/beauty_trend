@@ -1,0 +1,40 @@
+{
+ "doc_id": "ec60db9214655d0b",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/neurocosmetics-next-chapter-ihere-ingredients-beauty",
+ "title": "Neurocosmetics: the next chapter is here",
+ "summary": "As consumers look to beauty products to improve how they feel, as well as how their skin looks, neurocosmetic ingredients are gaining ground, and building credibility. Julia Wray reports",
+ "published_at": "2026-11-23T21:36:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "뉴로코스메틱",
+   "정서 뷰티",
+   "기능성 원료"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "기분까지 챙기려는 소비자가 늘며 뉴로코스메틱 원료가 주목받고 있다.",
+  "key_fact_quote": "As consumers look to beauty products to improve how they feel, as well as how their skin looks, neurocosmetic ingredients are gaining ground, and building credibility.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}

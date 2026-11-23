@@ -1,0 +1,44 @@
+{
+ "doc_id": "978593651aac009e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=108158",
+ "title": "아모레퍼시픽, 아시아 뷰티테크 어워즈 대상...AI·바이오 혁신 전략 제...",
+ "summary": "해당 제품은 23일 네이버 쇼핑을 통해 먼저 출시 되며, 이후 올리브영과 주요 온라인 유통 채널로 판매처를... 제공하느냐에 있다\"며 \" 화장품 과 연령의 경계를 넘어서는 새로운 뷰티 경험을 만들어 나가겠다\"고 말했다.",
+ "published_at": "2026-11-23T11:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "뷰티테크",
+   "AI 뷰티",
+   "바이오 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아모레퍼시픽이 아시아 뷰티테크 어워즈에서 대상을 받고 AI와 바이오 혁신 전략을 내놓았다.",
+  "key_fact_quote": "아모레퍼시픽, 아시아 뷰티테크 어워즈 대상...AI·바이오 혁신 전략 제",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-23T21:34:07+00:00",
+ "had_body": false
+}
