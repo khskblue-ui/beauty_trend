@@ -1,0 +1,52 @@
+{
+ "doc_id": "d018c0b2f363ea7a",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54040",
+ "title": "서울 미용인 800명 한자리에…뷰티기술·AI 융합 축제",
+ "summary": "서울 미용인들이 한자리에 모여 기술과 예술적 감각을 겨루고, 함께 만들어가는 미용 축제의 장이 펼쳐졌다. 미용 새내기들에게 꿈과 희망을 전하고 미용한류의 경쟁력을 높이는 화합의 무대로 꾸며졌다. 올해는 AI 스타일 종목을 신설해 급변하는 산업 환경에 대응하는 미용산업의 새로운 가능성을 제시했다…",
+ "published_at": "2026-11-24T18:52:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한미용사회"
+  ],
+  "keywords": [
+   "미용 경연대회",
+   "AI 스타일",
+   "미용한류"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한미용사회 서울시협의회가 AI 스타일 종목을 신설한 서울특별시 미용예술경연대회를 열었다.",
+  "key_fact_quote": "서울시협의회(회장 장선숙)가 오늘(24일) 서울 학동 SETEC 제3전시홀에서 ‘제10회 서울특별시 미용예술경연대회’를 개최했다.",
+  "events": [
+   {
+    "name": "제10회 서울특별시 미용예술경연대회",
+    "start_date": "2026-11-24",
+    "end_date": null,
+    "place": "서울 학동 SETEC 제3전시홀",
+    "quote": "서울시협의회(회장 장선숙)가 오늘(24일) 서울 학동 SETEC 제3전시홀에서 ‘제10회 서울특별시 미용예술경연대회’를 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": true
+}

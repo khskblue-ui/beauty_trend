@@ -1,0 +1,42 @@
+{
+ "doc_id": "bbcfedff7882e891",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/artificial-intelligence-beauty-shoppers-pre-1239460653/",
+ "title": "Why LLMs Often Fail Beauty Shoppers",
+ "summary": "Pre’s Parham Aarabi discussed why even frontier LLMs can fail to optimize product pages for AI and human shoppers.",
+ "published_at": "2026-11-24T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Pre"
+  ],
+  "keywords": [
+   "AI 쇼핑",
+   "상품 페이지 최적화",
+   "대형 언어 모델"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대형 언어 모델이 뷰티 상품 페이지를 AI와 사람 쇼핑객 모두에 맞게 최적화하는 데 실패하는 경우가 많다는 분석이 나왔다.",
+  "key_fact_quote": "Pre’s Parham Aarabi discussed why even frontier LLMs can fail to optimize product pages for AI and human shoppers.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

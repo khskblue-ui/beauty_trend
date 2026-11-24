@@ -1,0 +1,71 @@
+{
+ "doc_id": "2debde8ea78ae475",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/beautyworld-dubai-moves-to-expo,28581",
+ "title": "Beautyworld Dubai moves to Expo City Dubai for its 2027 edition",
+ "summary": "The next edition of Beautyworld Dubai will take place at the Dubai Exhibition Centre (DEC), at Expo City Dubai, from October 19 to 21, 2027. The move will provide the show with expanded exhibition space, said the organizers. “The beauty industry in this region has grown remarkably, and with it the needs of the businesses that come to Beautyworld Dubai to meet, launch and trade,” said Teresa Heitor, Portfolio Director - Consumer Goods, Messe Frankfurt Middle East. “Dubai Exhibition Centre... - Industry buzz / Africa / Middle East",
+ "published_at": "2026-11-22T06:48:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "AE"
+  ],
+  "brands": [
+   "Rasasi Perfumes",
+   "Armaf",
+   "Lattafa"
+  ],
+  "companies": [
+   "Messe Frankfurt Middle East",
+   "CPL Aromas",
+   "dsm-firmenich",
+   "Givaudan",
+   "Eurofragance",
+   "Expressions Parfumés",
+   "Mane",
+   "Symrise",
+   "Takasago"
+  ],
+  "keywords": [
+   "뷰티 박람회",
+   "중동 향수 시장",
+   "향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티월드 두바이가 다음 행사를 엑스포 시티 두바이의 두바이 전시센터로 옮겨 연다.",
+  "key_fact_quote": "The next edition of Beautyworld Dubai will take place at the Dubai Exhibition Centre (DEC), at Expo City Dubai, from October 19 to 21, 2027.",
+  "events": [
+   {
+    "name": "Beautyworld Dubai",
+    "start_date": "2027-10-19",
+    "end_date": "2027-10-21",
+    "place": "Dubai Exhibition Centre (DEC), at Expo City Dubai",
+    "quote": "The next edition of Beautyworld Dubai will take place at the Dubai Exhibition Centre (DEC), at Expo City Dubai, from October 19 to 21, 2027."
+   },
+   {
+    "name": "Beautyworld Dubai",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-08",
+    "place": "Dubai World Trade Centre",
+    "quote": "Held from 6-8 October 2026 at the Dubai World Trade Centre, the 30th edition of Beautyworld Dubai brought together 1,300 exhibitors from 56 countries"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": true
+}

@@ -1,0 +1,51 @@
+{
+ "doc_id": "cbf9f19463dbbe3f",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=313002",
+ "title": "코스피 급락에도 화장품 '1조 클럽' 1년새 7개→8개 확대...에이피알 '후퇴'",
+ "summary": "어제(11월 23일) 국내 증시가 미국발 악재로 급락하며 매도 사이드카까지 발동됐지만, 화장품 업종은 오히려 시가총액 1조원 이상 기업이 증가했다.특히 코스맥스, 한국콜마, 코스메카코리아 등 ODM(제조자개발생산) 기업들이 약진하면서 K-뷰티 산업에 대한 시장의 기대가 여전히 유효하다는 평가가 나온다.시장 흔든 美 악재…코스피 급락한국거래소에 따르면 2025년 11월 3일 코스피는 전 주말 해외증시 강세에 힘입어 상승 출발한 뒤 전기전자주를 중심으로 상승폭을 확대하며 4,200선을 웃돌며 마감했다.반면 11월 23일 코스피는 미국",
+ "published_at": "2026-11-24T15:06:59+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "한국콜마",
+   "코스메카코리아",
+   "에이피알",
+   "아모레퍼시픽",
+   "LG생활건강",
+   "아모레퍼시픽홀딩스",
+   "달바글로벌"
+  ],
+  "keywords": [
+   "ODM",
+   "화장품주",
+   "시가총액"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "증시 급락에도 화장품 업종의 대형 상장사가 늘었고 ODM 기업이 약진했다.",
+  "key_fact_quote": "특히 코스맥스, 한국콜마, 코스메카코리아 등 ODM(제조자개발생산) 기업들이 약진하면서 K-뷰티 산업에 대한 시장의 기대가 여전히 유효하다는 평가가 나온다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": true
+}

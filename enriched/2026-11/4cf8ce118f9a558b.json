@@ -1,0 +1,40 @@
+{
+ "doc_id": "4cf8ce118f9a558b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=335664",
+ "title": "트리트먼트 스킨케어‧고급 향수 뷰티 쇼핑 시프트",
+ "summary": "이에 따라 트리트먼트 중심(treatment-focused) 스킨케어, 고급 향수 및 40대 이상 연령대 여성들을 주요한 타깃으로 삼은 브랜드 들이 2026년 들어 가장 강력한 실적을 기록한 것으로 나타났다는 것이다.(strongest performers)...",
+ "published_at": "2026-11-25T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "트리트먼트 스킨케어",
+   "고급 향수",
+   "중장년 여성 소비자"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "트리트먼트 중심 스킨케어와 고급 향수, 중장년 여성 대상 브랜드가 올해 가장 좋은 실적을 냈다.",
+  "key_fact_quote": "이에 따라 트리트먼트 중심(treatment-focused) 스킨케어, 고급 향수 및 40대 이상 연령대 여성들을 주요한 타깃으로 삼은 브랜드 들이 2026년 들어 가장 강력한 실적을 기록한 것으로 나타났다는 것이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

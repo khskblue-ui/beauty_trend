@@ -1,0 +1,47 @@
+{
+ "doc_id": "3349e4d1e2713a51",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886722",
+ "title": "엑소머, 러시아 굼 스킨케어 6위…셀리노바 등 현지 공급 확대 추진",
+ "summary": "1893년 문을 연 상부 상점가에서 출발한 명소로, 내부 편집매장인 아르티콜리 보스코는 해외 화장품과 향수 ... 세트는 출시 6개월 만에 150억원의 판매고를 기록한 바 있다. 오성래 이희앤코 대표는 \"이번 매출 성과는...",
+ "published_at": "2026-11-24T16:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "RU"
+  ],
+  "brands": [
+   "엑소머",
+   "셀리노바"
+  ],
+  "companies": [
+   "이희앤코"
+  ],
+  "keywords": [
+   "러시아 수출",
+   "백화점 유통",
+   "스킨케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "엑소머가 러시아 굼 백화점 스킨케어 순위에 올랐고 현지 공급 확대를 추진한다.",
+  "key_fact_quote": "엑소머, 러시아 굼 스킨케어 6위…셀리노바 등 현지 공급 확대 추진",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

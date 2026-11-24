@@ -1,0 +1,58 @@
+{
+ "doc_id": "e61e83731ceac354",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58784",
+ "title": "'2027 화장품시장 이슈와 전망 컨퍼런스’ ⑧ 기기 한 대에서 관리 루틴으로… 에이피알이 제시한 초개인화 전략",
+ "summary": "[코스인코리아닷컴 권태흥 기자]신재우 에이피알 Ramp;D센터 상무는 코스인 컨퍼런스에서 홈뷰티 디바이스의 경쟁이 기기 판매에서 기기·화장품·데이터를 결합한 관리 루틴으로 옮겨가고 있다고 진단했다. 그는 2027년 시장에서 어떤 제품군이 어느 지역에서 수익을 내는지 살펴야 한다며, 소…",
+ "published_at": "2026-11-23T14:26:51+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메디큐브",
+   "에이지알"
+  ],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "홈뷰티 디바이스",
+   "초개인화",
+   "AI 피부 분석",
+   "스킨 롱제비티"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "AGE-R 부스터프로",
+    "brand": "에이피알",
+    "launch_date": "2023-10",
+    "launch_status": "unknown",
+    "launch_quote": "2023년 10월 출시한 ‘AGE-R 부스터프로’는 2026년 8월 기준 글로벌 누적 판매량 770만대라는 신기록을 세웠다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "에이피알은 홈뷰티 디바이스 경쟁이 기기와 화장품, 데이터를 결합한 관리 루틴으로 옮겨가고 있다고 진단했다.",
+  "key_fact_quote": "신재우 에이피알 R&D센터 상무는 코스인 컨퍼런스에서 홈뷰티 디바이스의 경쟁이 기기 판매에서 기기·화장품·데이터를 결합한 관리 루틴으로 옮겨가고 있다고 진단했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": true
+}

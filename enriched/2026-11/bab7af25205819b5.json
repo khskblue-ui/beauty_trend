@@ -1,0 +1,84 @@
+{
+ "doc_id": "bab7af25205819b5",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/petcare-a-new-frontier-for-the,28592",
+ "title": "Petcare: A new frontier for the beauty industry?",
+ "summary": "Skincare, dietary supplements, fragrances, spa-inspired treatments — the petcare market is undergoing a transformation as pets take on an increasingly important role in people's lives. While brands are rolling out a growing range of dedicated product lines, this emerging market also presents challenges for manufacturers, who must adapt their expertise. Originating in Asia and the United States, the growing appeal of pet pampering is also gaining ground in Europe, including France, where... - Markets & trends",
+ "published_at": "2026-11-24T08:14:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "JP",
+   "FR",
+   "US"
+  ],
+  "brands": [
+   "Sepifriend"
+  ],
+  "companies": [
+   "Seppic",
+   "Asia Cosme Lab",
+   "Anjac Health & Beauty"
+  ],
+  "keywords": [
+   "펫케어",
+   "스키니피케이션",
+   "클린 뷰티",
+   "천연 원료"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Sepifriend",
+    "brand": "Seppic",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "In 2025, the company launched Sepifriend, a portfolio of eleven specialty ingredients for pets , designed to address all aspects of their care routines, from hygiene and topical treatments to nutrition.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "The Tail-Ored Pet Care Collection",
+    "brand": "Seppic",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "The initiative continued in 2026 with the introduction of The Tail-Ored Pet Care Collection , a complete range of highly natural formulations.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "반려동물 케어 시장이 뷰티 업계의 새로운 영역으로 커지고 있다.",
+  "key_fact_quote": "Skincare, dietary supplements, fragrances, spa-inspired treatments — the petcare market is undergoing a transformation as pets take on an increasingly important role in people's lives.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "xylitol",
+    "quote": "Certain substances that are harmless to humans, such as xylitol or cocoa butter, must be avoided because they are toxic to animals,"
+   },
+   {
+    "name": "cocoa butter",
+    "quote": "Certain substances that are harmless to humans, such as xylitol or cocoa butter, must be avoided because they are toxic to animals,"
+   },
+   {
+    "name": "Emulpro",
+    "quote": "To develop its offering, Anjac is drawing on its existing R&D platforms, notably Emulpro."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": true
+}

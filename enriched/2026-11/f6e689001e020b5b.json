@@ -1,0 +1,39 @@
+{
+ "doc_id": "f6e689001e020b5b",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/the-milky-movement-is-now-taking-over-body",
+ "title": "The milky movement is now taking over body care",
+ "summary": "Body milks are seeing a major resurgence as consumer demand for sensorial pleasure rises. Megan Fahy reports",
+ "published_at": "2026-11-24T07:08:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "바디 밀크",
+   "감각적 바디케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "감각적 즐거움을 찾는 소비자가 늘며 바디 밀크가 다시 인기를 얻고 있다.",
+  "key_fact_quote": "Body milks are seeing a major resurgence as consumer demand for sensorial pleasure rises.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

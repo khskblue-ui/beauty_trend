@@ -1,0 +1,56 @@
+{
+ "doc_id": "9b677a04175ffc45",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54039",
+ "title": "헤라, 국내 쿠션 시장 8년 연속 정상",
+ "summary": "아모레퍼시픽 메이크업 브랜드 헤라가 국내 쿠션 시장에서 8년 연속 구매액 점유율 1위를 기록한 데 이어 올해도 대표 제품 ‘블랙 쿠션 파운데이션’을 앞세워 주요 유통 채널에서 강세를 이어가고 있다. 칸타코리아 월드패널 조사에 따르면 헤라는 지난 2018년부터 2025년까지 8년 연속 국내 전체 쿠션 시…",
+ "published_at": "2026-11-24T17:53:26+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "헤라"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "쿠션 파운데이션",
+   "베이스 메이크업",
+   "롱래스팅 메이크업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "블랙 쿠션 파운데이션",
+    "brand": "헤라",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "지난 2017년 출시한 블랙 쿠션 파운데이션은 올해 2월 기준 국내외 누적 판매량(출고 기준) 1천400만 개 를 기록했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "헤라가 블랙 쿠션 파운데이션을 앞세워 국내 쿠션 시장 구매액 점유율 1위를 이어가고 있다.",
+  "key_fact_quote": "칸타코리아 월드패널 조사에 따르면 헤라는 지난 2018년부터 2025년까지 8년 연속 국내 전체 쿠션 시장 구매액 점유율 1위에 올랐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": true
+}

@@ -1,0 +1,48 @@
+{
+ "doc_id": "34186cf06fe1b4af",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=313014",
+ "title": "주가로 읽는 K-뷰티 중견주: 5개사 주가 일제히 1만 원 하회",
+ "summary": "과거 원브랜드숍과 중국 시장 특수를 바탕으로 가파른 성장세를 기록했던 주요 중견 화장품기업들이 최근 미국·일본 중심의 수출 호황 국면에서는 주가가 일제히 1만 원 선 아래로 조정되면서 부진하다.뷰티경제가 네이버증권 자료를 바탕으로 2026년 10월 23일과 11월 23일까지 약 한 달간 주요 중견 화장품 5개사(한국화장품·토니모리·잇츠한불·애경산업·에이블씨엔씨)의 주가 흐름과 외국인 보유율 변동을 분석한 결과, 5개 종목 모두 외국인 지분율이 감소했으며 종가 기준 주가 역시 모두 1만 원 미만으로 형성됐다.■ 한국화장품 홀로 반등,",
+ "published_at": "2026-11-24T19:28:48+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국화장품",
+   "토니모리",
+   "잇츠한불",
+   "애경산업",
+   "에이블씨엔씨"
+  ],
+  "keywords": [
+   "K-뷰티 주가",
+   "외국인 지분율",
+   "중견 화장품 기업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중견 화장품 다섯 곳의 주가가 모두 낮게 형성됐고 외국인 지분율도 모두 줄었다.",
+  "key_fact_quote": "5개 종목 중 한국화장품만이 주가 상승세를 기록했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": true
+}

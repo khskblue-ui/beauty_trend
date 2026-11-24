@@ -1,0 +1,52 @@
+{
+ "doc_id": "5865c5130dce186e",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/sephora-collection-turns-30-and-unveils-innovation-strategy-for-next-decade",
+ "title": "Sephora Collection turns 30 and unveils bold innovation strategy for next decade",
+ "summary": "Sephora Collection, the eponymous line of retailer Sephora, has turned 30 and unveiled a new strategy for growth to mark the occasion. President Sylvia Tournery reveals why a revamp of its face mask collection, a spicules-infused serum, and larger focus on the US and China are all part of the plan",
+ "published_at": "2026-11-24T20:26:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "CN"
+  ],
+  "brands": [
+   "Sephora Collection"
+  ],
+  "companies": [
+   "Sephora"
+  ],
+  "keywords": [
+   "리테일 자체 브랜드",
+   "마스크 리뉴얼",
+   "스피큘 세럼"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Sephora Collection이 출범 기념과 함께 미국과 중국에 집중하는 새 성장 전략을 발표했다.",
+  "key_fact_quote": "Sephora Collection, the eponymous line of retailer Sephora, has turned 30 and unveiled a new strategy for growth to mark the occasion.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "spicules",
+    "quote": "President Sylvia Tournery reveals why a revamp of its face mask collection, a spicules-infused serum, and larger focus on the US and China are all part of the plan"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

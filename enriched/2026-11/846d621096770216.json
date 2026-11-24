@@ -1,0 +1,46 @@
+{
+ "doc_id": "846d621096770216",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.yonhapnewstv.co.kr/news/AKR20261124081727SAg",
+ "title": "한중 FTA 후속협상 타결에…K-뷰티·여행업계 중국 재공략한다",
+ "summary": "오늘(24일) 대한 화장품 산업연구원 통계에 따르면 올해 1∼10월 한국 화장품 수출액 가운데 중국이 차지하는... 내년에 신제품 15개를 출시할 계획입니다. LG생활건강은 자체 기술력을 키워 중저가 시장을 장악한 현지 'C...",
+ "published_at": "2026-11-24T08:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "한중 FTA",
+   "중국 시장",
+   "오프라인 채널"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "a9e16b9c7294078f",
+ "enriched_at": "2026-11-24T21:29:07+00:00",
+ "had_body": false
+}

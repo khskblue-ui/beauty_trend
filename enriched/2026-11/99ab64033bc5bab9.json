@@ -1,0 +1,47 @@
+{
+ "doc_id": "99ab64033bc5bab9",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.sbs.co.kr/article_hub/20000348549?division=NAVER",
+ "title": "성수동에 K뷰티 ·패션 95개 中企 모인다…올리브영·무신사도 전략 상담",
+ "summary": "앤더슨씨에서 '2026 K -브랜드 글로우 위크' 개막식을 열었습니다. 지난해 시작된 이 행사는 뷰티 ·패션... 해외 판로 개척을 위한 수출 상담회도 진행됩니다. 캐나다와 브라질 등 38개국에서 초청한 바이어 130여 명이 오는...",
+ "published_at": "2026-11-24T15:27:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CA",
+   "BR"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영",
+   "무신사"
+  ],
+  "keywords": [
+   "K뷰티 중소기업",
+   "수출 상담회",
+   "해외 판로 개척"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "성수동에서 K-브랜드 글로우 위크가 개막해 뷰티와 패션 중소기업의 해외 판로 개척을 돕는다.",
+  "key_fact_quote": "앤더슨씨에서 '2026 K -브랜드 글로우 위크' 개막식을 열었습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

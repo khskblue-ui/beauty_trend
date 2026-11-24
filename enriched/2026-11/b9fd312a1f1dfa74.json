@@ -1,0 +1,44 @@
+{
+ "doc_id": "b9fd312a1f1dfa74",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsq.co.kr/news/articleView.html?idxno=501012",
+ "title": "특화 매장, 초저가 협업... 색조에 힘주는 K뷰티 [뉴스Q]",
+ "summary": "CJ올리브영에 따르면 색조 카테고리 매출은 최근 5년간 연평균 36%씩 뛰었으며 2023년에는 전년 대비 약 50% 불어나 국내 뷰티 시장 전체 성장률(11%)을 크게 웃돌았다. 수출 확대 여력도 크다. 올해 글로벌 색조화장품...",
+ "published_at": "2026-11-24T15:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "색조 화장품",
+   "특화 매장",
+   "초저가 협업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 업계가 특화 매장과 협업으로 색조 화장품에 힘을 주고 있다.",
+  "key_fact_quote": "CJ올리브영에 따르면 색조 카테고리 매출은 최근 5년간 연평균 36%씩 뛰었으며 2023년에는 전년 대비 약 50% 불어나 국내 뷰티 시장 전체 성장률(11%)을 크게 웃돌았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

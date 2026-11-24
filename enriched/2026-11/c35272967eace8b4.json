@@ -1,0 +1,73 @@
+{
+ "doc_id": "c35272967eace8b4",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58783",
+ "title": "'2027 화장품시장 이슈와 전망 컨퍼런스’ ⑦ 얼굴 윤곽, 피부·지방·근육을 함께 봐야 하는 이유",
+ "summary": "[코스인코리아닷컴 권태흥 기자]강소민 KBI 한국의생명연구원 대표는 체중 감량 뒤 얼굴 윤곽이 달라지는 사례를 들어, 피부 표면과 얼굴의 볼륨을 받치는 조직을 함께 살펴야 한다고 설명했다. 얼굴에 보이는 주름과 처짐은 진피의 변화, 지방의 재배치, 근육과 근막의 변화가 함께 만든 결과다. 콜라겐은…",
+ "published_at": "2026-11-23T14:09:37+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "KBI 한국의생명연구원"
+  ],
+  "keywords": [
+   "재생미용",
+   "미용의료기기",
+   "주입 소재"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "강소민 대표는 재생미용의 핵심이 피부와 지방, 근육을 하나의 조직 시스템으로 보는 데 있다고 강조했다.",
+  "key_fact_quote": "그동안 미용의료 산업이 피부 표면의 개선과 개별 시술의 효과에 집중해 왔다면 “2027년 재생미용의 핵심은 피부·지방·근육을 하나의 유기적인 조직 시스템으로 이해하는데 있다”고 강 대표는 강조했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "콜라겐",
+    "quote": "콜라겐은 피부를 지탱하고 탄성섬유는 늘어난 피부가 원래 상태로 돌아가는 데 기여한다."
+   },
+   {
+    "name": "히알루론산",
+    "quote": "히알루론산(HA)은 제형에 따라 수분을 머금거나 볼륨을 지지하는 역할을 한다."
+   },
+   {
+    "name": "칼슘하이드록시아파타이트",
+    "quote": "칼슘하이드록시아파타이트(CaHA), 폴리젖산, 폴리카프로락톤(PCL), 폴리뉴클레오티드(PN)도 제품별 조성과 조직 반응이 다르다."
+   },
+   {
+    "name": "폴리젖산",
+    "quote": "칼슘하이드록시아파타이트(CaHA), 폴리젖산, 폴리카프로락톤(PCL), 폴리뉴클레오티드(PN)도 제품별 조성과 조직 반응이 다르다."
+   },
+   {
+    "name": "폴리카프로락톤",
+    "quote": "칼슘하이드록시아파타이트(CaHA), 폴리젖산, 폴리카프로락톤(PCL), 폴리뉴클레오티드(PN)도 제품별 조성과 조직 반응이 다르다."
+   },
+   {
+    "name": "폴리뉴클레오티드",
+    "quote": "칼슘하이드록시아파타이트(CaHA), 폴리젖산, 폴리카프로락톤(PCL), 폴리뉴클레오티드(PN)도 제품별 조성과 조직 반응이 다르다."
+   },
+   {
+    "name": "C3Gel",
+    "quote": "재조합 콜라겐 겔 C3Gel 연구는 세포와 동물에서 조직 반응을 살핀 단계다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": true
+}

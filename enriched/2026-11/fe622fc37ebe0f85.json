@@ -1,0 +1,53 @@
+{
+ "doc_id": "fe622fc37ebe0f85",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.segye.com/newsView/20261123511101?OutUrl=naver",
+ "title": "목욕·웰니스 뜨자 뷰티업계도 주목…생활 전반으로 사업 확장 [트렌드...",
+ "summary": "소비가 화장품 구매를 넘어 웰니스와 생활문화 전반으로 확장되면서 업계의 사업 전략도 다변화하고 있다.... 수앙’을 출시 했다. 헤어·바디케어 제품뿐 아니라 캔들, 마사지 도구, 욕실 장식품 등을 함께 선보이며...",
+ "published_at": "2026-11-24T13:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "웰니스",
+   "목욕 문화",
+   "바디케어",
+   "라이프스타일 확장"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "수앙",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "수앙’을 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "목욕과 웰니스 관심이 커지면서 뷰티업계가 생활 전반으로 사업을 넓히고 있다.",
+  "key_fact_quote": "소비가 화장품 구매를 넘어 웰니스와 생활문화 전반으로 확장되면서 업계의 사업 전략도 다변화하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

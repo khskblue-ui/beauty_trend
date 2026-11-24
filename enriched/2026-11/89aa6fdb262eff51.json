@@ -1,0 +1,51 @@
+{
+ "doc_id": "89aa6fdb262eff51",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ibabynews.com/news/articleView.html?idxno=157257",
+ "title": "[뷰티 트렌드] 디올 뷰티, 한소희·허남준·해린·김연아가 선택한 홀리...",
+ "summary": "국내외 뷰티·생활건강 기업들이 발표한 신제품 출시, 성분·기술 연구, 캠페인, 사회공헌 활동 등 다양한... 지난 20일 열린 오프닝 행사에 참석한 네 명의 셀럽은 팝업 공간을 둘러보고 각자의 취향과 개성을 담은 향수 와...",
+ "published_at": "2026-11-24T19:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "디올 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 팝업스토어",
+   "셀럽 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "디올 뷰티 향수 팝업 오프닝 행사에 셀럽들이 참석했다.",
+  "key_fact_quote": "지난 20일 열린 오프닝 행사에 참석한 네 명의 셀럽은 팝업 공간을 둘러보고 각자의 취향과 개성을 담은 향수 와",
+  "events": [
+   {
+    "name": "오프닝 행사",
+    "start_date": "2026-11-20",
+    "end_date": null,
+    "place": null,
+    "quote": "지난 20일 열린 오프닝 행사에 참석한 네 명의 셀럽은 팝업 공간을 둘러보고 각자의 취향과 개성을 담은 향수 와"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

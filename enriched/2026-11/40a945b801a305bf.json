@@ -1,0 +1,42 @@
+{
+ "doc_id": "40a945b801a305bf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/photos/8230358",
+ "title": "영웅들의 이름이 적힌 K 향수",
+ "summary": "24일 서울 성동구 앤더슨씨 성수에서 열린 '2026 K- 브랜드 글로우 위크'를 찾은 시민들이 팝업 스토어를 둘러보고 있다. 2026.11.24/뉴스1",
+ "published_at": "2026-11-24T14:27:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K 향수",
+   "팝업 스토어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "fd826f0cbdd3377a",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

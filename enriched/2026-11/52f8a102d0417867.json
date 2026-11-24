@@ -1,0 +1,67 @@
+{
+ "doc_id": "52f8a102d0417867",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2496155",
+ "title": "\" 화장품 도 무신사 먼저\"···럭셔리 뷰티 거래액 110% '쑥'",
+ "summary": "지난 7월 입점한 스킨케어 브랜드 리바이포유는 신제품 '히알프렙 라인'을 단독 출시하고 오프라인 매장과... 설화수는 지난 16일 신제품 '틴티드 립오일' 6종을 무신사 뷰티에서 단독 선론칭했다. 지난 5월 패션 브랜드...",
+ "published_at": "2026-11-24T08:35:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리바이포유",
+   "설화수",
+   "무신사 뷰티"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "단독 출시",
+   "럭셔리 뷰티",
+   "립오일"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "히알프렙 라인",
+    "brand": "리바이포유",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "지난 7월 입점한 스킨케어 브랜드 리바이포유는 신제품 '히알프렙 라인'을 단독 출시하고 오프라인 매장과",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "틴티드 립오일",
+    "brand": "설화수",
+    "launch_date": "2026-11-16",
+    "launch_status": "launched",
+    "launch_quote": "설화수는 지난 16일 신제품 '틴티드 립오일' 6종을 무신사 뷰티에서 단독 선론칭했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "무신사 뷰티에서 브랜드들이 신제품을 단독으로 먼저 내놓고 있다.",
+  "key_fact_quote": "설화수는 지난 16일 신제품 '틴티드 립오일' 6종을 무신사 뷰티에서 단독 선론칭했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

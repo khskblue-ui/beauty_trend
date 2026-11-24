@@ -1,0 +1,41 @@
+{
+ "doc_id": "8f89315262164ba0",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/skincare-wellness-longevity-roc-aging-redefined-1239460870/",
+ "title": "Consumers’ Evolving Attitude Toward Skin Care and Longevity",
+ "summary": "RoC Skincare CEO Fernando Acosta analyzed skin care's next chapter.",
+ "published_at": "2026-11-24T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [
+   "RoC Skincare"
+  ],
+  "companies": [],
+  "keywords": [
+   "롱제비티",
+   "스킨케어 트렌드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "RoC Skincare 최고경영자가 스킨케어와 롱제비티에 대한 소비자 태도 변화를 분석했다.",
+  "key_fact_quote": "RoC Skincare CEO Fernando Acosta analyzed skin care's next chapter.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

@@ -1,0 +1,91 @@
+{
+ "doc_id": "80fb99527871982a",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58787",
+ "title": "샤넬 뷰티, 성수동에 스위스 생모리츠 겨울 산장 재현한 홀리데이 팝업 오픈",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 샤넬 뷰티가 스위스 생모리츠의 설원과 겨울 산장을 재현한 ‘샤넬 홀리데이 팝업’을 지난 21일 서울 성수동에 개장하고 대표 향수 N°5를 중심으로 겨울 스포츠와 몰입형 향수 체험 프로그램을 운영한다. 이번 팝업은 가브리엘 샤넬이 겨울마다 머물렀던 스위스 생모리…",
+ "published_at": "2026-11-24T10:46:55+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "샤넬"
+  ],
+  "companies": [
+   "샤넬"
+  ],
+  "keywords": [
+   "홀리데이 팝업",
+   "몰입형 향수 체험",
+   "한정판 에디션"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "N°5",
+    "brand": "샤넬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "N°5 오 드 빠르펭 스프레이(윈터 케이스)",
+    "brand": "샤넬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "N°5 펄스 스프레이",
+    "brand": "샤넬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "라 크렘 망 홀리데이 에디션",
+    "brand": "샤넬",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "샤넬 뷰티가 성수동에 겨울 산장 콘셉트의 홀리데이 팝업을 열고 향수 체험을 운영한다.",
+  "key_fact_quote": "샤넬 뷰티가 스위스 생모리츠의 설원과 겨울 산장을 재현한 ‘샤넬 홀리데이 팝업’을 지난 21일 서울 성수동에 개장하고 대표 향수 N°5를 중심으로 겨울 스포츠와 몰입형 향수 체험 프로그램을 운영한다.",
+  "events": [
+   {
+    "name": "샤넬 홀리데이 팝업",
+    "start_date": "2026-11-21",
+    "end_date": "2026-12-31",
+    "place": "서울 성동구 성수이로7가길 9",
+    "quote": "샤넬 뷰티가 스위스 생모리츠의 설원과 겨울 산장을 재현한 ‘샤넬 홀리데이 팝업’을 지난 21일 서울 성수동에 개장하고 대표 향수 N°5를 중심으로 겨울 스포츠와 몰입형 향수 체험 프로그램을 운영한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": true
+}

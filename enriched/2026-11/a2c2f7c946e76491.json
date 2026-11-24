@@ -1,0 +1,44 @@
+{
+ "doc_id": "a2c2f7c946e76491",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.donga.com/news/Health/article/all/20261124/135076862/2",
+ "title": "인공눈물 넘어 화장품까지… 프렌즈, ‘눈 건강’ 영토 확장",
+ "summary": "향료 와 색소를 배제하고 피부 자극 테스트를 완료해 안심하고 사용할 수 있다. 새 옷 입은 프렌즈… 아이드롭·렌즈용액 패키지 전면 리뉴얼 신규 카테고리 확장과 더불어 기존 제품들도 새로운 통합 BI를 입고...",
+ "published_at": "2026-11-25T04:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "프렌즈"
+  ],
+  "companies": [],
+  "keywords": [
+   "아이케어 화장품",
+   "무향료 화장품",
+   "패키지 리뉴얼"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "프렌즈가 인공눈물에 이어 화장품으로 사업 영역을 넓혔다.",
+  "key_fact_quote": "인공눈물 넘어 화장품까지… 프렌즈, ‘눈 건강’ 영토 확장",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

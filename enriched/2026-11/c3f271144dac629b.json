@@ -1,0 +1,46 @@
+{
+ "doc_id": "c3f271144dac629b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.wikitree.co.kr/articles/1177225",
+ "title": "디올 뷰티, 한소희·허남준·해린·김연아가 고른 홀리데이 팝업 기프트...",
+ "summary": "크리스챤 디올은 1947년 파리에서 설립된 이래 '뉴 룩' 컬렉션으로 패션사에 큰 영향을 미친 하우스로, 향수 ·화장품 부문인 디올 뷰티는 국내에서도 명품 뷰티 시장을 이끄는 브랜드 로 꼽힌다. 다만 업계에서는 최근 몇...",
+ "published_at": "2026-11-24T11:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "디올 뷰티"
+  ],
+  "companies": [
+   "크리스챤 디올"
+  ],
+  "keywords": [
+   "홀리데이 팝업",
+   "명품 뷰티",
+   "홀리데이 기프트"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "디올 뷰티가 연예인들이 고른 홀리데이 기프트를 팝업에서 선보였다.",
+  "key_fact_quote": "디올 뷰티, 한소희·허남준·해린·김연아가 고른 홀리데이 팝업 기프트...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

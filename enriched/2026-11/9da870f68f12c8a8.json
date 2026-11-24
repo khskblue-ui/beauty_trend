@@ -1,0 +1,47 @@
+{
+ "doc_id": "9da870f68f12c8a8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=302699",
+ "title": "무신사 뷰티 , 신규 입점 브랜드 145개…럭셔리 거래액 110% 증가",
+ "summary": "무신사 뷰티 가 신진 인디 브랜드와 글로벌 럭셔리 브랜드 신제품 출시 채널로 입지를 넓히고 있다. 2030세대 고객 기반과 자체 콘텐츠를 활용해 신규 브랜드 유치와 상품 판매를 확대하고 있다. 24일 무신사에 따르면...",
+ "published_at": "2026-11-24T09:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리바이포유"
+  ],
+  "companies": [
+   "무신사 뷰티"
+  ],
+  "keywords": [
+   "신제품 선론칭",
+   "럭셔리 뷰티",
+   "단독 출시"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "1fb7d6148a9bdc2f",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

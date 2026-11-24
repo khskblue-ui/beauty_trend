@@ -1,0 +1,44 @@
+{
+ "doc_id": "1919b90bbf8d07cf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=229226",
+ "title": "뷰티 브랜드 신상은 무신사 뷰티",
+ "summary": "무신사에 따르면 신규 입점과 신제품 단독 선 런칭이 잇따르면서 올해 3분기 기준 신규 입점 뷰티 브랜드는... 무신사 뷰티는 온·오프라인 경계를 허문 ‘넥스트 뷰티’ 플랫폼으로 도약을 목표로, 단순히 화장품 을 파는...",
+ "published_at": "2026-11-24T16:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "신제품 선론칭",
+   "뷰티 플랫폼",
+   "온오프라인 통합"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "무신사 뷰티에서 신규 입점과 신제품 단독 선론칭이 잇따르고 있다.",
+  "key_fact_quote": "무신사에 따르면 신규 입점과 신제품 단독 선 런칭이 잇따르면서 올해 3분기 기준 신규 입점 뷰티 브랜드는",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

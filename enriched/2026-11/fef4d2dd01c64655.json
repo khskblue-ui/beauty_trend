@@ -1,0 +1,52 @@
+{
+ "doc_id": "fef4d2dd01c64655",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20117776?ref=naver",
+ "title": "신약· 화장품 기업도 ‘연어주사제’ 도전장",
+ "summary": "신약· 화장품 등 기존 사업에서 확보한 기술을 미용 주사제 개발에 활용하려는 것이다. 이에 따라... 에이지알 플러스 G의 국내 판매를 위한 4등급 의료기기 허가도 추진하고 있으며 2028년 출시 를 목표로 하고 있다....",
+ "published_at": "2026-11-24T07:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "연어주사제",
+   "미용 주사제",
+   "사업 다각화"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "에이지알 플러스 G",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "에이지알 플러스 G의 국내 판매를 위한 4등급 의료기기 허가도 추진하고 있으며 2028년 출시 를 목표로 하고 있다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "신약과 화장품 기업들이 미용 주사제인 연어주사제 개발에 나서고 있다.",
+  "key_fact_quote": "신약· 화장품 등 기존 사업에서 확보한 기술을 미용 주사제 개발에 활용하려는 것이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

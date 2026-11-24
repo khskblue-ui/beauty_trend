@@ -1,0 +1,46 @@
+{
+ "doc_id": "1996d8af65a739fc",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/green-sciences-regenerative-practices-beauty-innovation-1239428757/",
+ "title": "Using Green Sciences and Regenerative Practices in Beauty Innovation",
+ "summary": "Agatha Relota Luczo of Furtuna Skin and Erin Zoller of L’Oréal discussed sustainability, regenerative farming and how green sciences lead to innovation with Pam Alabaster, adjunct professor at Columbia.",
+ "published_at": "2026-11-24T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "Furtuna Skin"
+  ],
+  "companies": [
+   "L’Oréal"
+  ],
+  "keywords": [
+   "재생 농업",
+   "그린 사이언스",
+   "지속가능 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "푸르투나 스킨과 로레알 관계자가 재생 농업과 그린 사이언스를 통한 뷰티 혁신을 논의했다.",
+  "key_fact_quote": "Agatha Relota Luczo of Furtuna Skin and Erin Zoller of L’Oréal discussed sustainability, regenerative farming and how green sciences lead to innovation",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

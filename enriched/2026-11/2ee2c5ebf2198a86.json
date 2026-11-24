@@ -1,0 +1,44 @@
+{
+ "doc_id": "2ee2c5ebf2198a86",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195553",
+ "title": "코스맥스, K뷰티 성장 타고 생산 영토 확장…글로벌 ODM 주도권 강화",
+ "summary": "사진=코스맥스 글로벌 화장품 시장에서 K뷰티의 영향력이 확대되면서 국내 화장품 제조업자개발생산(ODM)... 현지 고객사의 재주문과 기존 제품군 확대가 이어졌고, 신규 고객 확보가 후속 주문과 신제품 개발로 연결되는...",
+ "published_at": "2026-11-24T21:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "K뷰티 성장",
+   "생산 능력 확대"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스가 K뷰티 성장에 맞춰 생산 거점을 넓히며 글로벌 ODM 주도권을 강화한다.",
+  "key_fact_quote": "코스맥스, K뷰티 성장 타고 생산 영토 확장…글로벌 ODM 주도권 강화",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

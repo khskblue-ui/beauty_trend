@@ -1,0 +1,58 @@
+{
+ "doc_id": "6487ca12e5477bf4",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/sharkninja-discontinues-certain-messaging-dyson-nad-challenges",
+ "title": "SharkNinja discontinues certain messaging following Dyson NAD challenges",
+ "summary": "Claims around SharkNinja’s SilkiPro Straight Hair Straightener and Dryer were challenged by rival Dyson with the National Advertising Division (NAD) regulatory body in the US",
+ "published_at": "2026-11-24T21:06:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "regulation",
+  "countries": [
+   "US"
+  ],
+  "brands": [
+   "SharkNinja",
+   "Dyson"
+  ],
+  "companies": [
+   "SharkNinja",
+   "Dyson"
+  ],
+  "keywords": [
+   "광고 표현 규제",
+   "헤어 기기",
+   "비교 광고"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "SilkiPro Straight Hair Straightener and Dryer",
+    "brand": "SharkNinja",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Dyson의 이의 제기로 SharkNinja가 헤어 기기 광고 문구 일부를 중단했다.",
+  "key_fact_quote": "Claims around SharkNinja’s SilkiPro Straight Hair Straightener and Dryer were challenged by rival Dyson with the National Advertising Division (NAD) regulatory body in the US",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

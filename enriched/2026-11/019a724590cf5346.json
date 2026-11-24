@@ -1,0 +1,106 @@
+{
+ "doc_id": "019a724590cf5346",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54028",
+ "title": "“겨울 피부 사막화를 막아라” 데저트프리 팝업",
+ "summary": "데저트프리(Desert Free)가 11월 23일(월)부터 12월 5일(토)까지 서울 중구 뷰티플레이 명동에서 팝업 행사를 진행한다. 이번 행사에서는 ‘겨울철 피부 사막화 방지’를 주제로 겨울철 스킨케어 루틴을 제안한다. 선인장 추출물과 펩타이드를 결합한 캑타이드™ 제품을 선보인다. 피부관리 첫 단계에…",
+ "published_at": "2026-11-24T07:03:44+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "데저트프리"
+  ],
+  "companies": [
+   "뷰티블러바드",
+   "대한화장품산업연구원"
+  ],
+  "keywords": [
+   "겨울 스킨케어",
+   "피부 사막화",
+   "팝업 스토어",
+   "더마 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "캑타이드 아쿠아젤 퍼스트 세럼",
+    "brand": "데저트프리",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "캑타이드 더블 리페어 세럼",
+    "brand": "데저트프리",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "캑타이드 글로우 C 세럼",
+    "brand": "데저트프리",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "캑타이드 배리어 선크림",
+    "brand": "데저트프리",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "데저트프리가 뷰티플레이 명동에서 겨울철 피부 사막화 방지를 주제로 팝업 행사를 연다.",
+  "key_fact_quote": "데저트프리(Desert Free)가 11월 23일(월)부터 12월 5일(토)까지 서울 중구 뷰티플레이 명동에서 팝업 행사를 진행한다.",
+  "events": [
+   {
+    "name": "데저트프리 팝업",
+    "start_date": "2026-11-23",
+    "end_date": "2026-12-05",
+    "place": "서울 중구 뷰티플레이 명동",
+    "quote": "데저트프리(Desert Free)가 11월 23일(월)부터 12월 5일(토)까지 서울 중구 뷰티플레이 명동에서 팝업 행사를 진행한다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "선인장 추출물",
+    "quote": "선인장 추출물과 펩타이드를 결합한 캑타이드™ 제품을 선보인다."
+   },
+   {
+    "name": "펩타이드",
+    "quote": "선인장 추출물과 펩타이드를 결합한 캑타이드™ 제품을 선보인다."
+   },
+   {
+    "name": "캑타이드",
+    "quote": "선인장 추출물과 펩타이드를 결합한 캑타이드™ 제품을 선보인다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": true
+}

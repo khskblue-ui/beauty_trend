@@ -1,0 +1,59 @@
+{
+ "doc_id": "cdf5d1910b91cf4d",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/flosty-launches-iris-a-french-made,28585",
+ "title": "Flosty launches IRIS, a French-made thick-wall Surlyn fragrance cap",
+ "summary": "As niche fragrance brands continue to expand their portfolios, demand for distinctive packaging components that help products stand out on the shelf is growing. To address this need, prestige standard packaging supplier Flosty has introduced IRIS, a new fragrance cap made from Surlyn resin. Designed to deliver the optical clarity of glass without its fragility, the thick-wall cap is available for immediate development and customization. Its classic design makes the thick-wall cap suitable... - Industry buzz",
+ "published_at": "2026-11-23T18:21:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "FR",
+   "ES"
+  ],
+  "brands": [
+   "Flosty"
+  ],
+  "companies": [
+   "Flosty",
+   "Tesem Group",
+   "Novassu"
+  ],
+  "keywords": [
+   "니치 향수",
+   "향수 패키징",
+   "향수 캡"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "IRIS",
+    "brand": "Flosty",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "To address this need, prestige standard packaging supplier Flosty has introduced IRIS, a new fragrance cap made from Surlyn resin.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "플로스티가 니치 향수 브랜드를 겨냥한 투명 향수 캡을 내놨다.",
+  "key_fact_quote": "To address this need, prestige standard packaging supplier Flosty has introduced IRIS, a new fragrance cap made from Surlyn resin.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": true
+}

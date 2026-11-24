@@ -1,0 +1,56 @@
+{
+ "doc_id": "c2f46e8bdd03d77d",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/pure-trade-manufactures-a-metal,28590",
+ "title": "Pure Trade manufactures a metal case for the new Diesel women's fragrance",
+ "summary": "Designed by Bureau Tonalli for L'Oréal, this oval tinplate case holds the bottle of Only Desire, the new diesel women's fragrance together with a scented body product. According to Pure Trade, from an industrial point of view, everything rests on the fully rounded contours and on the embossed graphics of the lid, which push the drawing of the metal to its limits in an exact balance between mechanical strength and formability. The slightly curved base makes the cases stackable. A gloss... - Industry buzz",
+ "published_at": "2026-11-23T23:07:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [],
+  "brands": [
+   "Diesel"
+  ],
+  "companies": [
+   "Pure Trade",
+   "L’Oréal",
+   "Bureau Tonalli"
+  ],
+  "keywords": [
+   "향수 패키징",
+   "금속 케이스",
+   "친환경 패키징"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "Only Desire",
+    "brand": "Diesel",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "Designed by Bureau Tonalli for L’Oréal , this oval tinplate case holds the bottle of Only Desire, the new diesel women’s fragrance together with a scented body product.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "퓨어 트레이드가 디젤의 새 여성 향수를 담는 금속 케이스를 제조했다.",
+  "key_fact_quote": "Designed by Bureau Tonalli for L’Oréal , this oval tinplate case holds the bottle of Only Desire, the new diesel women’s fragrance together with a scented body product.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": true
+}

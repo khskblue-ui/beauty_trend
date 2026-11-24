@@ -1,0 +1,42 @@
+{
+ "doc_id": "7592d62e2793b736",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2495733",
+ "title": "'핑크빛 전쟁' 불붙었다···K뷰티 오프라인 패권 어디로",
+ "summary": "패션 취향에 맞는 메이크업과 향수 를 제안하는 공간을 마련하고, 온라인 판매 데이터를 활용한 '뷰티 랭킹존'을 운영한다. 패션 플랫폼에서 축적한 고객 데이터와 브랜드 발굴 역량을 오프라인 매장에 접목한 것이다....",
+ "published_at": "2026-11-24T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "오프라인 뷰티 매장",
+   "뷰티 편집숍",
+   "데이터 기반 큐레이션"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "패션 플랫폼이 고객 데이터를 활용한 오프라인 뷰티 매장으로 경쟁에 나섰다.",
+  "key_fact_quote": "패션 취향에 맞는 메이크업과 향수 를 제안하는 공간을 마련하고, 온라인 판매 데이터를 활용한 '뷰티 랭킹존'을 운영한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

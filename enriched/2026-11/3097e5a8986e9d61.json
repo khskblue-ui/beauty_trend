@@ -1,0 +1,61 @@
+{
+ "doc_id": "3097e5a8986e9d61",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54038",
+ "title": "중국서 한국 마스크팩 수입 5년 새 65% 급감",
+ "summary": "중국 마스크팩 시장이 성장세를 이어가고 있지만 한국산 제품의 입지는 갈수록 좁아지고 있다. 중국 로컬 브랜드가 경쟁력을 높이는 가운데 소비 수요도 단순 보습에서 피부 고민별 기능성 제품으로 이동하고 있다. 과거 시트 마스크와 가격 경쟁에 의존했던 한국 기업의 중국 시장 공략 방식에도 변화가 요구된…",
+ "published_at": "2026-11-24T17:18:59+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR"
+  ],
+  "brands": [
+   "RNW"
+  ],
+  "companies": [
+   "KOTRA"
+  ],
+  "keywords": [
+   "마스크팩",
+   "기능성 스킨케어",
+   "시술 후 피부 관리",
+   "저자극 설계"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 마스크팩 시장은 커지고 있지만 한국산 마스크팩 수입은 크게 줄고 현지 브랜드가 강세를 보이고 있다.",
+  "key_fact_quote": "반면 한국산 제품의 수입은 감소세다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "한국 브랜드 가운데서는 RNW가 히알루론산 마스크팩으로 더우인 판매 순위 9위에 올랐으며 판매액 비중은 0.60%로 나타났다."
+   },
+   {
+    "name": "재조합 콜라겐",
+    "quote": "이에 따라 피부과학 기반의 기능성 브랜드와 재조합 콜라겐, PDRN 등 유효성분을 강조한 제품에 대한 관심도 높아지고 있다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "이에 따라 피부과학 기반의 기능성 브랜드와 재조합 콜라겐, PDRN 등 유효성분을 강조한 제품에 대한 관심도 높아지고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": true
+}

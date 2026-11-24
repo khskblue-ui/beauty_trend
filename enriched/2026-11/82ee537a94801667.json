@@ -1,0 +1,47 @@
+{
+ "doc_id": "82ee537a94801667",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1428382",
+ "title": "애드바이오텍, 중앙아시아 K뷰티 유통사업 본격화…12월 첫 판매",
+ "summary": "애드바이오텍은 카자흐스탄 K뷰티 플랫폼 '베스티(Bestee)'의 한국 유통법인 지분 51%를 인수한 데 이어 오는... 애드바이오텍은 국내 화장품 브랜드 발굴부터 제품 소싱, 공급계약 체결, 수출 까지 담당한다. 베스티는 현지...",
+ "published_at": "2026-11-24T13:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KZ",
+   "KR"
+  ],
+  "brands": [
+   "베스티"
+  ],
+  "companies": [
+   "애드바이오텍"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "중앙아시아 시장",
+   "공동구매"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "애드바이오텍이 베스티 한국 유통법인 지분을 인수하고 중앙아시아 K뷰티 유통을 본격화한다.",
+  "key_fact_quote": "애드바이오텍은 카자흐스탄 K뷰티 플랫폼 '베스티(Bestee)'의 한국 유통법인 지분 51%를 인수한 데 이어 오는",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

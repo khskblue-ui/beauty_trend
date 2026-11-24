@@ -1,0 +1,61 @@
+{
+ "doc_id": "8ff0cccfd9e91d89",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.inews24.com/view/2029421",
+ "title": "백화점 문턱 넘은 '가성비 뷰티'…중년 지갑 쟁탈전",
+ "summary": "이달에는 바노바기와 공동 개발한 비타민C 토너·세럼·크림 등 5종을 단독으로 출시 했다. 올해 6월 1일부터 이달 22일까지 가성비 뷰티존의 화장품 매출은 전년 동기 대비 약 50% 늘었다. 현대홈쇼핑은 1만원 미만...",
+ "published_at": "2026-11-24T07:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "바노바기"
+  ],
+  "companies": [
+   "현대홈쇼핑"
+  ],
+  "keywords": [
+   "가성비 뷰티",
+   "백화점 유통",
+   "중년 소비자"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "비타민C 토너·세럼·크림",
+    "brand": "바노바기",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이달에는 바노바기와 공동 개발한 비타민C 토너·세럼·크림 등 5종을 단독으로 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "백화점이 가성비 뷰티존을 운영하며 바노바기와 공동 개발한 비타민C 제품을 단독 출시했다.",
+  "key_fact_quote": "이달에는 바노바기와 공동 개발한 비타민C 토너·세럼·크림 등 5종을 단독으로 출시 했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "비타민C",
+    "quote": "이달에는 바노바기와 공동 개발한 비타민C 토너·세럼·크림 등 5종을 단독으로 출시 했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

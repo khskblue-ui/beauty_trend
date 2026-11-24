@@ -1,0 +1,44 @@
+{
+ "doc_id": "e5b9686dbe20eb32",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202611241532581576",
+ "title": "뷰티 등 K소비재 기업 809곳…38개국 바이어 만나 해외시장 공략",
+ "summary": "성수동에서 '2026 K -브랜드 글로우 위크' 개막식을 개최했다. 지난해 처음 시작된 이 행사는 뷰티 ·패션... 노용석 중기부 제1차관은 \"중소기업 수출 액 최초 1000억달러 돌파의 중심에는 K뷰티 를 필두로 한 K소비재 분야...",
+ "published_at": "2026-11-24T16:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "중기부"
+  ],
+  "keywords": [
+   "K소비재 수출",
+   "바이어 매칭",
+   "K-뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K소비재 기업과 해외 바이어가 만나는 K-브랜드 글로우 위크가 성수동에서 개막했다.",
+  "key_fact_quote": "성수동에서 '2026 K -브랜드 글로우 위크' 개막식을 개최했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

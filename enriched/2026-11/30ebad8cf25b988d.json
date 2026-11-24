@@ -1,0 +1,48 @@
+{
+ "doc_id": "30ebad8cf25b988d",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/wellness/bala-obsessed-vest-expanding-weighted-wearables-market-1239463109/",
+ "title": "Bala Unveils Its Obsessed Vest, Expanding Into Weighted Wearables Market",
+ "summary": "Fitness brand Bala, best known for its viral bangles, enters the weighted vest category with the launch of the Obsessed Vest.",
+ "published_at": "2026-11-24T14:01:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Bala"
+  ],
+  "companies": [],
+  "keywords": [],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Obsessed Vest",
+    "brand": "Bala",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "Fitness brand Bala, best known for its viral bangles, enters the weighted vest category with the launch of the Obsessed Vest.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "피트니스 브랜드 Bala가 Obsessed Vest를 출시하며 웨이티드 베스트 시장에 진출했다.",
+  "key_fact_quote": "Fitness brand Bala, best known for its viral bangles, enters the weighted vest category with the launch of the Obsessed Vest.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

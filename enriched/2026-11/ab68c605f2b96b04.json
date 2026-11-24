@@ -1,0 +1,55 @@
+{
+ "doc_id": "ab68c605f2b96b04",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/uniproma-expands-vitamin-a-portfolio-for-modern-age",
+ "title": "Uniproma expands vitamin A portfolio for modern age-care formulation",
+ "summary": "The portfolio combines bio-based retinol, antioxidant-supported retinol, retinal and vitamin A esters, giving formulators greater flexibility across different age-care concepts",
+ "published_at": "2026-11-24T18:53:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Uniproma"
+  ],
+  "keywords": [
+   "레티노이드",
+   "안티에이징 원료",
+   "바이오 기반 원료"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "Uniproma가 에이지 케어 처방을 위해 비타민 A 원료 포트폴리오를 확대했다.",
+  "key_fact_quote": "The portfolio combines bio-based retinol, antioxidant-supported retinol, retinal and vitamin A esters, giving formulators greater flexibility across different age-care concepts",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "bio-based retinol",
+    "quote": "The portfolio combines bio-based retinol, antioxidant-supported retinol, retinal and vitamin A esters, giving formulators greater flexibility across different age-care concepts"
+   },
+   {
+    "name": "retinal",
+    "quote": "The portfolio combines bio-based retinol, antioxidant-supported retinol, retinal and vitamin A esters, giving formulators greater flexibility across different age-care concepts"
+   },
+   {
+    "name": "vitamin A esters",
+    "quote": "The portfolio combines bio-based retinol, antioxidant-supported retinol, retinal and vitamin A esters, giving formulators greater flexibility across different age-care concepts"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "beb53b096fd626fb",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/procter-gamble-targets-10-billion-in-savings",
+ "title": "Procter & Gamble targets $10 billion in savings as it trims workforce",
+ "summary": "Consumer goods giant P&G is planning to save up to $10 billion across 2027 to 2030 as it makes productivity savings and cuts from its manufacturing workforce",
+ "published_at": "2026-11-24T21:10:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "Procter & Gamble"
+  ],
+  "keywords": [
+   "비용 절감",
+   "인력 감축"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "P&G가 생산성 개선과 제조 인력 감축으로 대규모 비용 절감을 계획한다.",
+  "key_fact_quote": "Consumer goods giant P&G is planning to save up to $10 billion across 2027 to 2030 as it makes productivity savings and cuts from its manufacturing workforce",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "fbf36382a0cd01e4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.getnews.co.kr/news/articleView.html?idxno=888324",
+ "title": "[제약 뷰티 ]﻿휴젤, 창립 25주년 '2026 H.E.L.F. in Seoul' 학술 행사 성료...",
+ "summary": "◆유유제약, 경구용 항진균제 '유미실정' 출시 ...복용 편의를 높이다 유유제약이 테르비나핀 성분의 경구용... 이어 \"국내외 영업망을 재편하고 신제품 개발을 위한 R&D 역량을 강화해 매출 성장과 수익성 개선에...",
+ "published_at": "2026-11-24T16:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "휴젤",
+   "유유제약"
+  ],
+  "keywords": [
+   "메디컬 에스테틱",
+   "학술 행사"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "휴젤이 창립 기념 학술 행사를 마쳤다.",
+  "key_fact_quote": "[제약 뷰티 ]﻿휴젤, 창립 25주년 '2026 H.E.L.F. in Seoul' 학술 행사 성료",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

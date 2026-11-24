@@ -1,0 +1,45 @@
+{
+ "doc_id": "e6ebbf98fd824cc7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10947934?ref=naver",
+ "title": "K뷰티 ·K푸드 찾는 30개국 바이어 160곳…코엑스서 수출 상담",
+ "summary": "25일까지 이틀간 진행되는 이번 행사에서는 국내 중소 수출 기업 1000여개사와 해외 바이어 160개사가 총... 유럽 28개국의 1만5000여개 유통업체에 뷰티 제품을 공급하는 네덜란드 코기타도 “급증하는 K - 뷰티 수요에...",
+ "published_at": "2026-11-24T17:41:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "NL"
+  ],
+  "brands": [],
+  "companies": [
+   "코기타"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "수출 상담회",
+   "해외 바이어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코엑스에서 K뷰티와 K푸드를 찾는 해외 바이어와 국내 수출 기업의 수출 상담이 열렸다.",
+  "key_fact_quote": "25일까지 이틀간 진행되는 이번 행사에서는 국내 중소 수출 기업 1000여개사와 해외 바이어 160개사가 총",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

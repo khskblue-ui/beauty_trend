@@ -1,0 +1,42 @@
+{
+ "doc_id": "d79f05b488c3eb54",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.mtn.co.kr/article/2026112416204577368",
+ "title": "'가성비'로 신기록 쓴 K뷰티 , 가격 올려도 잘 팔릴까",
+ "summary": "저렴한 가격에 우수한 품질을 앞세운 K뷰티 가 연일 수출 신기록을 쓰고 있습니다.그런데 환율 하락으로 수익성 부담이 커지면서, 해외 판매가격을 올리려는 움직임이 나타나고 있는데요.가격을 올리고도 지금의 인기를...",
+ "published_at": "2026-11-24T17:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "가성비 화장품",
+   "가격 인상",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "환율 하락으로 수익성 부담이 커지며 K뷰티의 해외 판매가격 인상 움직임이 나타나고 있다.",
+  "key_fact_quote": "저렴한 가격에 우수한 품질을 앞세운 K뷰티 가 연일 수출 신기록을 쓰고 있습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

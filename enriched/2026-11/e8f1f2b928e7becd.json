@@ -1,0 +1,48 @@
+{
+ "doc_id": "e8f1f2b928e7becd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsis.com/view/NISX20261124_0003881488",
+ "title": "구찌뷰티, 롯데百 본점 철수…로레알 사업권 인수 앞두고 유통망 조정",
+ "summary": "해당 자리에는 오는 27일 새로운 브랜드 가 입점할 예정이다. 이번 철수는 구찌뷰티의 글로벌 사업권 변경을... 국내에서는 LG생활건강이 구찌뷰티의 향수 부문 판권을 보유하고 사업을 전개해 왔다. 글로벌 라이선스...",
+ "published_at": "2026-11-24T16:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "구찌뷰티"
+  ],
+  "companies": [
+   "롯데百",
+   "LG생활건강",
+   "로레알"
+  ],
+  "keywords": [
+   "럭셔리 향수",
+   "라이선스 변경",
+   "백화점 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "구찌뷰티가 로레알 사업권 인수를 앞두고 롯데백화점 본점에서 철수했다.",
+  "key_fact_quote": "국내에서는 LG생활건강이 구찌뷰티의 향수 부문 판권을 보유하고 사업을 전개해 왔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

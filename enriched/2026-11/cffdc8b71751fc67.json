@@ -1,0 +1,56 @@
+{
+ "doc_id": "cffdc8b71751fc67",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/color-cosmetics/mac-cosmetics-asia-exclusive-setting-powder-1239463596/",
+ "title": "MAC Cosmetics to Launch ‘Made for China’ Setting Powder",
+ "summary": "The product will first hit counters in mainland China on Dec. 1, with Taiwan and Hong Kong to follow.",
+ "published_at": "2026-11-25T00:08:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "CN",
+   "TW",
+   "HK"
+  ],
+  "brands": [
+   "MAC Cosmetics"
+  ],
+  "companies": [],
+  "keywords": [
+   "현지화 제품",
+   "세팅 파우더",
+   "중국 시장"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Setting Powder",
+    "brand": "MAC Cosmetics",
+    "launch_date": "2026-12-01",
+    "launch_status": "upcoming",
+    "launch_quote": "The product will first hit counters in mainland China on Dec. 1, with Taiwan and Hong Kong to follow.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "MAC Cosmetics가 중국 시장을 위해 만든 세팅 파우더를 중국 본토에 먼저 출시한다.",
+  "key_fact_quote": "The product will first hit counters in mainland China on Dec. 1, with Taiwan and Hong Kong to follow.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

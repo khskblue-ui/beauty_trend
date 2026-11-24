@@ -1,0 +1,45 @@
+{
+ "doc_id": "0d00c9107ac83b15",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kbmaeil.com/article/20261124500012",
+ "title": "한중 FTA 후속협상 타결…여행·K뷰티 中 공략",
+ "summary": "다음 달부터 팝업스토어 등 현지 행사를 열고, 내년에는 오프라인 채널을 중심으로 신제품 15개를 선보일 계획이다. 중국 현지 화장품 업체의 성장으로 가격대별 경쟁도 달라졌다. LG생활건강은 중국 업체가 중저가...",
+ "published_at": "2026-11-24T06:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "중국 시장",
+   "한중 FTA",
+   "팝업스토어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한중 FTA 후속협상이 타결되면서 K뷰티 기업들이 중국 공략에 나선다.",
+  "key_fact_quote": "한중 FTA 후속협상 타결…여행·K뷰티 中 공략",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "fb54a160c819f4b0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261124000261",
+ "title": "[ K뷰티 세계정복] '조선미녀' 타고 세계로…구다이글로벌, K뷰티 플랫폼...",
+ "summary": "K뷰티 플랫폼으로 성장한다는 구상이다. 구다이글로벌의 글로벌 시장 저력은 다양한 브랜드 포트폴리오에서... 조선미녀는 현재 전 세계 170여개국에 제품을 수출 하며 북미와 유럽을 비롯해 아시아, 중동, 중남미 등으로...",
+ "published_at": "2026-11-24T15:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "조선미녀"
+  ],
+  "companies": [
+   "구다이글로벌"
+  ],
+  "keywords": [
+   "K뷰티 플랫폼",
+   "브랜드 포트폴리오",
+   "글로벌 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "구다이글로벌이 조선미녀를 앞세워 K뷰티 플랫폼으로 성장하려 한다.",
+  "key_fact_quote": "조선미녀는 현재 전 세계 170여개국에 제품을 수출 하며 북미와 유럽을 비롯해 아시아, 중동, 중남미 등으로",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

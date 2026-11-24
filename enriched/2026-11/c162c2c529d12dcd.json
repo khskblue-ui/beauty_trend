@@ -1,0 +1,45 @@
+{
+ "doc_id": "c162c2c529d12dcd",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312943",
+ "title": "K-뷰티 수출 빅데이터 리포트②: 메이크업 중국·일본 편중 심화…시장 다변화 과제",
+ "summary": "[편집자 주] 산업통상자원부에 따르면 2026년 10월 화장품 수출액은 14억4,400만 달러로, 지난해 같은 기간보다 57.5% 증가했다. 이에 뷰티경제는 관세청 통계를 바탕으로 K-뷰티 8대 핵심 품목의 10월 수출 현황과 시장 동향을 집중 분석하는 연속 기획을 마련했다. 두 번째 순서는 메이크업이다.메이크업용 제품류 수출, 감소 전환…중국·일본 중심 시장 구조 고착K-뷰티 메이크업용 제품류 수출이 지난해와 비슷한 수준을 유지했지만 소폭 감소세를 보이며 성장 정체 흐름을 보였다. 특히 중국과 일본이 전체 수출의 절반 이상을 차지",
+ "published_at": "2026-11-24T11:20:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN",
+   "JP",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "메이크업 수출",
+   "수출 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "메이크업 제품 수출이 소폭 줄었고 중국과 일본에 편중된 구조가 이어졌다.",
+  "key_fact_quote": "K-뷰티 메이크업용 제품류 수출이 지난해와 비슷한 수준을 유지했지만 소폭 감소세를 보이며 성장 정체 흐름을 보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": true
+}

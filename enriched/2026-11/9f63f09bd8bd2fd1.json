@@ -1,0 +1,54 @@
+{
+ "doc_id": "9f63f09bd8bd2fd1",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54030",
+ "title": "데저트프리, 나눔 바자회 ‘원더마켓 7’ 참가",
+ "summary": "데저트프리(Desert Free)가 12월 4일 서울 등촌동 센터스퀘어 라라라운지에서 열리는 ‘원더마켓’에 3년 연속 참가한다고 밝혔다. 원더마켓은 재단법인 행복한나눔이 주최하는 연말 자선 바자회다. 국내 저소득·이주배경 여성 가장의 경제적 자립을 돕는 행사를 개최한다. 기업과 개인이 물품을 기부…",
+ "published_at": "2026-11-24T16:20:52+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "데저트프리"
+  ],
+  "companies": [
+   "행복한나눔"
+  ],
+  "keywords": [
+   "사회공헌",
+   "자선 바자회",
+   "겨울 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "데저트프리가 연말 자선 바자회 원더마켓에 참가한다.",
+  "key_fact_quote": "데저트프리(Desert Free)가 12월 4일 서울 등촌동 센터스퀘어 라라라운지에서 열리는 ‘원더마켓’에 3년 연속 참가한다고 밝혔다.",
+  "events": [
+   {
+    "name": "원더마켓",
+    "start_date": "2026-12-04",
+    "end_date": null,
+    "place": "서울 등촌동 센터스퀘어 라라라운지",
+    "quote": "데저트프리(Desert Free)가 12월 4일 서울 등촌동 센터스퀘어 라라라운지에서 열리는 ‘원더마켓’에 3년 연속 참가한다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": true
+}

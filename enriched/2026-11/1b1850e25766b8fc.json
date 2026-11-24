@@ -1,0 +1,47 @@
+{
+ "doc_id": "1b1850e25766b8fc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886658",
+ "title": "애드바이오텍, 카자흐 SNS 타고 K뷰티 공략…12월 첫 공구",
+ "summary": "K뷰티 유통 시장에 뛰어든다. 애드바이오텍은 카자흐스탄 K뷰티 플랫폼 '베스티(Bestee)'의 한국 유통법인... 애드바이오텍은 국내 유망 화장품 브랜드 발굴부터 제품 소싱, 공급계약 체결, 수출 까지 담당한다. 베스티는...",
+ "published_at": "2026-11-24T14:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KZ",
+   "KR"
+  ],
+  "brands": [
+   "베스티"
+  ],
+  "companies": [
+   "애드바이오텍"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "공동구매",
+   "중앙아시아 시장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "애드바이오텍이 카자흐스탄 K뷰티 플랫폼 베스티와 손잡고 K뷰티 유통에 나선다.",
+  "key_fact_quote": "애드바이오텍은 국내 유망 화장품 브랜드 발굴부터 제품 소싱, 공급계약 체결, 수출 까지 담당한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

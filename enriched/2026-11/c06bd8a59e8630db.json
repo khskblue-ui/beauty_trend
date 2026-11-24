@@ -1,0 +1,62 @@
+{
+ "doc_id": "c06bd8a59e8630db",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.wsobi.com/news/articleView.html?idxno=322482",
+ "title": "LG생활건강, 엘라스틴 뷰티 토크 '싱글즈 오피스 클리닉' 성료·'온더바...",
+ "summary": "업그레이드 출시된 '발을씻자 2세대'의 기술력이 적용됐다. 더 높은 함량의 소취성분이 적용됐으며 체취 마스킹 특허 향료 와 스킨케어 성분을 담은 풋 수딩 콤플렉스(Foot Soothing Complex™)를 40000ppm 함유한 것이 특징이다.",
+ "published_at": "2026-11-24T17:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "엘라스틴",
+   "발을씻자"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "풋케어",
+   "체취 마스킹 향료",
+   "뷰티 토크"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "발을씻자 2세대",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "LG생활건강 제품에 체취 마스킹 특허 향료와 풋 수딩 콤플렉스가 적용됐다.",
+  "key_fact_quote": "더 높은 함량의 소취성분이 적용됐으며 체취 마스킹 특허 향료 와 스킨케어 성분을 담은 풋 수딩 콤플렉스(Foot Soothing Complex™)를 40000ppm 함유한 것이 특징이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "풋 수딩 콤플렉스",
+    "quote": "더 높은 함량의 소취성분이 적용됐으며 체취 마스킹 특허 향료 와 스킨케어 성분을 담은 풋 수딩 콤플렉스(Foot Soothing Complex™)를 40000ppm 함유한 것이 특징이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:38+00:00",
+ "had_body": false
+}

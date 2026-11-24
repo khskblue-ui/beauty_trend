@@ -1,0 +1,43 @@
+{
+ "doc_id": "0835c3e68e91b678",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gokorea.kr/news/articleView.html?idxno=886992",
+ "title": "한중 FTA 타결로 뷰티·여행업계 중국 시장 재진출 본격화",
+ "summary": "특히, 주요 화장품 브랜드들은 고급화 전략을 통해 중국 내 시장 점유율을 높이기 위한 노력을 기울이고... 제품군 출시 에 박차를 가하고 있다. C-뷰티의 급성장 속에서 한국 뷰티업체들은 차별화를 이루기 위해 프리미엄...",
+ "published_at": "2026-11-24T06:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "중국 시장 재진출",
+   "프리미엄 전략",
+   "C-뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한중 FTA 타결로 뷰티업계의 중국 시장 재진출이 본격화되고 있다.",
+  "key_fact_quote": "특히, 주요 화장품 브랜드들은 고급화 전략을 통해 중국 내 시장 점유율을 높이기 위한 노력을 기울이고",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

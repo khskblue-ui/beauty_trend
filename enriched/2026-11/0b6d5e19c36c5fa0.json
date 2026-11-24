@@ -1,0 +1,52 @@
+{
+ "doc_id": "0b6d5e19c36c5fa0",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312961",
+ "title": "K-Beauty Export Big Data Report (1): Skincare Exports Surge 56.5% as Growth Expands Beyond China",
+ "summary": "South Korea\\'s skincare exports posted another month of robust growth in October, underscoring the continued global expansion of K-Beauty beyond its traditional core markets.According to Korea Customs Service trade data, skincare exports reached $587.4 million in October 2026, up 56.5% year-on-year f",
+ "published_at": "2026-11-24T11:25:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN",
+   "HK",
+   "JP",
+   "RU",
+   "AE",
+   "PL",
+   "VN",
+   "TW",
+   "CA"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "스킨케어 수출",
+   "수출 시장 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한국 스킨케어 수출이 늘면서 수출 지역이 미국과 중국을 넘어 여러 시장으로 넓어지고 있다.",
+  "key_fact_quote": "Rather than relying heavily on a handful of countries, Korean skincare brands are increasingly generating demand across a broader range of international markets.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": true
+}

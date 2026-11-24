@@ -1,0 +1,65 @@
+{
+ "doc_id": "291fd27490044f77",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ekn.kr/web/view.php?key=20261124022183803",
+ "title": "[똑똑한케어] 코스맥스, 몽클로스, 아모레퍼시픽, 무신사 뷰티, LG생활건...",
+ "summary": "◇ 어퓨 '과즙팡 파스텔 블러셔&하이라이터 듀오' 출시 에이블씨엔씨의 화장품 브랜드 어퓨는 블러셔와 하이라이터를 하나에 담은 신제품 '과즙팡 파스텔 블러셔&하이라이터 듀오'를 출시했다. 블러셔는 탈크를 배제한...",
+ "published_at": "2026-11-24T11:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "어퓨"
+  ],
+  "companies": [
+   "에이블씨엔씨",
+   "코스맥스",
+   "몽클로스",
+   "아모레퍼시픽",
+   "무신사 뷰티"
+  ],
+  "keywords": [
+   "멀티 메이크업",
+   "블러셔",
+   "탈크 프리"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "과즙팡 파스텔 블러셔&하이라이터 듀오",
+    "brand": "어퓨",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "에이블씨엔씨의 화장품 브랜드 어퓨는 블러셔와 하이라이터를 하나에 담은 신제품 '과즙팡 파스텔 블러셔&하이라이터 듀오'를 출시했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "어퓨가 블러셔와 하이라이터를 하나에 담은 신제품을 출시했다.",
+  "key_fact_quote": "에이블씨엔씨의 화장품 브랜드 어퓨는 블러셔와 하이라이터를 하나에 담은 신제품 '과즙팡 파스텔 블러셔&하이라이터 듀오'를 출시했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "탈크",
+    "quote": "블러셔는 탈크를 배제한"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

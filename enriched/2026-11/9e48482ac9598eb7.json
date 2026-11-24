@@ -1,0 +1,45 @@
+{
+ "doc_id": "9e48482ac9598eb7",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327037",
+ "title": "스킨케어 똑같이 받나요? '더마 뷰티 '를 모르시군요",
+ "summary": "올리브영은 지난 3월 제약사들과 협업한 전문 카테고리 '어드밴스드 더마'를 별도 론칭 했다. 전체 매장의... 또한 업계에 따르면 쿠팡은 최근 뷰티 쇼핑 트렌드가 브랜드 중심에서 성분 및 피부 고민 중심으로 확대되면서...",
+ "published_at": "2026-11-24T07:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영",
+   "쿠팡"
+  ],
+  "keywords": [
+   "더마 뷰티",
+   "성분 중심 쇼핑",
+   "피부 고민 맞춤"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 제약사와 협업한 더마 전문 카테고리를 따로 열었다.",
+  "key_fact_quote": "올리브영은 지난 3월 제약사들과 협업한 전문 카테고리 '어드밴스드 더마'를 별도 론칭 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

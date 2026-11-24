@@ -1,0 +1,45 @@
+{
+ "doc_id": "0088e9526b026d96",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202611241601405966",
+ "title": "애드바이오텍, 4500만 팔로워를 고객으로… K뷰티 수익화 '시동'",
+ "summary": "애드바이오텍이 중앙아시아 K뷰티 유통사업의 수익화에 나선다. 카자흐스탄 현지 사회관계망서비스(SNS)를 활용해 국내 화장품 브랜드와 해외 소비자를 직접 연결하는 방식이다. 단순 제품 수출 을 넘어 현지 소비자...",
+ "published_at": "2026-11-24T16:05:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "KZ"
+  ],
+  "brands": [],
+  "companies": [
+   "애드바이오텍"
+  ],
+  "keywords": [
+   "중앙아시아 진출",
+   "SNS 커머스",
+   "K뷰티 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "애드바이오텍이 카자흐스탄 SNS를 활용해 중앙아시아 K뷰티 유통 수익화에 나선다.",
+  "key_fact_quote": "카자흐스탄 현지 사회관계망서비스(SNS)를 활용해 국내 화장품 브랜드와 해외 소비자를 직접 연결하는 방식이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

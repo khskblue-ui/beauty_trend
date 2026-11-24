@@ -1,0 +1,67 @@
+{
+ "doc_id": "9689561cde526837",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.g-enews.com/view.php?ud=202611241017557779740eacf404_1",
+ "title": "설화수·맥 잇단 선 론칭 …무신사 뷰티 거래액 110%↑",
+ "summary": "설화수는 지난 16일 신제품 ‘틴티드 립오일’ 6종을 무신사 뷰티 에서 단독 선 론칭 했다. 지난 5월 패션 브랜드 르쥬와 협업한 퍼펙팅 쿠션을 단독 선발매한 데 이어 두 번째다. 당시 퍼펙팅 쿠션은 출시 당일 30분 만에...",
+ "published_at": "2026-11-24T10:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "설화수",
+   "맥",
+   "르쥬"
+  ],
+  "companies": [
+   "무신사"
+  ],
+  "keywords": [
+   "단독 선론칭",
+   "패션 플랫폼 뷰티",
+   "립오일"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "틴티드 립오일",
+    "brand": "설화수",
+    "launch_date": "2026-11-16",
+    "launch_status": "launched",
+    "launch_quote": "설화수는 지난 16일 신제품 ‘틴티드 립오일’ 6종을 무신사 뷰티 에서 단독 선 론칭 했다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "퍼펙팅 쿠션",
+    "brand": "설화수",
+    "launch_date": "2026-05",
+    "launch_status": "unknown",
+    "launch_quote": "지난 5월 패션 브랜드 르쥬와 협업한 퍼펙팅 쿠션을 단독 선발매한 데 이어 두 번째다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "설화수와 맥이 무신사 뷰티에서 신제품을 먼저 선보이며 무신사 뷰티 거래액이 늘었다.",
+  "key_fact_quote": "설화수는 지난 16일 신제품 ‘틴티드 립오일’ 6종을 무신사 뷰티 에서 단독 선 론칭 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

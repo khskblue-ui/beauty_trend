@@ -1,0 +1,43 @@
+{
+ "doc_id": "d84521c2d96e5199",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/beauty-features/analysts-forecast-gen-z-millennials-holiday-beauty-boost-1239460802/",
+ "title": "Gen Z, Millennial Spending Expected to Boost Holiday Beauty",
+ "summary": "Jenn Hetrick from Circana and Andrea Teixeira from JPMorgan Chase presented an overall optimistic view for beauty heading into the holidays and beyond.",
+ "published_at": "2026-11-24T14:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Circana",
+   "JPMorgan Chase"
+  ],
+  "keywords": [
+   "홀리데이 뷰티",
+   "Z세대 소비",
+   "밀레니얼 소비"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Z세대와 밀레니얼 소비가 연말 뷰티 시장을 끌어올릴 것으로 전망됐다.",
+  "key_fact_quote": "Jenn Hetrick from Circana and Andrea Teixeira from JPMorgan Chase presented an overall optimistic view for beauty heading into the holidays and beyond.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}

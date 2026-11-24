@@ -1,0 +1,72 @@
+{
+ "doc_id": "2bfd276ce65257c2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=20261124103501787337600e7ec7_30",
+ "title": "라엘, 'NMN바이옴' 기반 뷰티 신제품 공개...스킨케어 라인업 확대",
+ "summary": "한편 지난 6월에는 글루타치온을 중심으로 한 스킨케어 제품 2종과 이너 뷰티 제품 2종을 출시 한 바 있다. 신제품 라인업은 'NMN 바이옴 리타이트 바운스 크림'과 'NMN 바이옴 브이 핏 리프팅 마스크' 2종이다. 두 제품에는...",
+ "published_at": "2026-11-24T10:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "라엘"
+  ],
+  "companies": [],
+  "keywords": [
+   "NMN 화장품",
+   "스킨케어 신제품",
+   "이너 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "NMN 바이옴 리타이트 바운스 크림",
+    "brand": "라엘",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "라엘, 'NMN바이옴' 기반 뷰티 신제품 공개...스킨케어 라인업 확대",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "NMN 바이옴 브이 핏 리프팅 마스크",
+    "brand": "라엘",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "라엘, 'NMN바이옴' 기반 뷰티 신제품 공개...스킨케어 라인업 확대",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "라엘이 NMN바이옴 기반 스킨케어 신제품을 공개했다.",
+  "key_fact_quote": "라엘, 'NMN바이옴' 기반 뷰티 신제품 공개...스킨케어 라인업 확대",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "NMN바이옴",
+    "quote": "라엘, 'NMN바이옴' 기반 뷰티 신제품 공개...스킨케어 라인업 확대"
+   },
+   {
+    "name": "글루타치온",
+    "quote": "한편 지난 6월에는 글루타치온을 중심으로 한 스킨케어 제품 2종과 이너 뷰티 제품 2종을 출시 한 바 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-24T21:32:37+00:00",
+ "had_body": false
+}
