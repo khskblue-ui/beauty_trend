@@ -1,0 +1,55 @@
+{
+ "doc_id": "0ea2e858b68833b8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.inthenews.co.kr/news/article.html?no=95011",
+ "title": "현대홈쇼핑, 자체 편집숍으로 몽골서 K뷰티 수출 길 ‘개척’",
+ "summary": "몽골에서 수출 상담회를 열고 국내 중소 뷰티 기업과 현지 바이어 간 거래 기회를 마련했습니다. 현대홈쇼핑은 지난 24일부터 이틀간 몽골 울란바타르 샹그릴라호텔에서 ‘2026 현대백화점그룹 코아시스 in 몽골’을...",
+ "published_at": "2026-11-25T16:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "MN"
+  ],
+  "brands": [
+   "코아시스"
+  ],
+  "companies": [
+   "현대홈쇼핑"
+  ],
+  "keywords": [
+   "K뷰티 몽골 진출",
+   "수출 상담회",
+   "중소 뷰티 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "현대홈쇼핑이 몽골에서 수출 상담회를 열어 국내 중소 뷰티 기업과 현지 바이어의 거래 기회를 마련했다.",
+  "key_fact_quote": "몽골에서 수출 상담회를 열고 국내 중소 뷰티 기업과 현지 바이어 간 거래 기회를 마련했습니다.",
+  "events": [
+   {
+    "name": "2026 현대백화점그룹 코아시스 in 몽골",
+    "start_date": "2026-11-24",
+    "end_date": "2026-11-25",
+    "place": "몽골 울란바타르 샹그릴라호텔",
+    "quote": "현대홈쇼핑은 지난 24일부터 이틀간 몽골 울란바타르 샹그릴라호텔에서 ‘2026 현대백화점그룹 코아시스 in 몽골’을"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

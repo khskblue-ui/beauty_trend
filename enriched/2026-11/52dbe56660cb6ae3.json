@@ -1,0 +1,50 @@
+{
+ "doc_id": "52dbe56660cb6ae3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.betanews.net/article/view/beta202611250109",
+ "title": "롯데홈쇼핑 '이설' 참여 뷰티 브랜드 3곳, 파리 쁘렝땅 백화점 입점",
+ "summary": "롯데홈쇼핑은 자체 수출 지원 사업 '이설(Eeseol)'에 참여한 국내 화장품 브랜드 하우스오브비, 세인트프랑... 세 브랜드는 오스만점 K뷰티 매장에서 마스크팩, 기초화장품, 색조화장품 등 15개 제품을 판매한다....",
+ "published_at": "2026-11-25T15:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "하우스오브비",
+   "세인트프랑",
+   "BOM"
+  ],
+  "companies": [
+   "롯데홈쇼핑"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "해외 백화점 입점",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "b081a1111d6b4ba8",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

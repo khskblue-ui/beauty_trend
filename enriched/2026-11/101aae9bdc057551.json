@@ -1,0 +1,62 @@
+{
+ "doc_id": "101aae9bdc057551",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.mtn.co.kr/article/2026112516410869922",
+ "title": "\"한국에선 못 사요\"…日서만 파는 K뷰티, 800만개 팔렸다",
+ "summary": "화장품 법상 배합 금지 원료로 지정돼 있어 정식 유통이 불가능하다.아누아는 국내에서 쓸 수 없는 이 성분을 일본 시장 공략의 무기로 삼으며 성과를 거두고 있다. 실제로 아젤라익 애씨드 라인은 2024년 11월 출시 이후...",
+ "published_at": "2026-11-26T06:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "ingredient",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "아누아"
+  ],
+  "companies": [
+   "아누아"
+  ],
+  "keywords": [
+   "배합 금지 원료",
+   "일본 전용 제품",
+   "국가별 화장품 규제"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "아젤라익 애씨드 라인",
+    "brand": "아누아",
+    "launch_date": "2024-11",
+    "launch_status": "unknown",
+    "launch_quote": "실제로 아젤라익 애씨드 라인은 2024년 11월 출시 이후",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "아누아가 국내에서 배합이 금지된 성분을 쓴 제품을 일본에서만 팔아 성과를 내고 있다.",
+  "key_fact_quote": "아누아는 국내에서 쓸 수 없는 이 성분을 일본 시장 공략의 무기로 삼으며 성과를 거두고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "아젤라익 애씨드",
+    "quote": "실제로 아젤라익 애씨드 라인은 2024년 11월 출시 이후"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

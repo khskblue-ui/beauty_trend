@@ -1,0 +1,46 @@
+{
+ "doc_id": "d7f70a310266ba3e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595059593684",
+ "title": "파라다이스호텔 부산, 향수 브랜드 와 협업…객실·스파·바로 겨울 콘텐...",
+ "summary": "파라다이스호텔 부산이 향수 브랜드 와 협업해 겨울철 고객 경험 확대에 나선다. 파라다이스호텔 부산은 프리미엄 오일 퍼퓸 브랜드 다니엘 트루스와 함께 겨울 시즌 프로모션 '센트 유어 파라다이스'를 진행한다고 25일...",
+ "published_at": "2026-11-25T15:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "다니엘 트루스"
+  ],
+  "companies": [
+   "파라다이스호텔 부산"
+  ],
+  "keywords": [
+   "오일 퍼퓸",
+   "호텔 협업",
+   "겨울 시즌 프로모션"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "파라다이스호텔 부산이 오일 퍼퓸 브랜드 다니엘 트루스와 겨울 시즌 프로모션을 진행한다.",
+  "key_fact_quote": "파라다이스호텔 부산은 프리미엄 오일 퍼퓸 브랜드 다니엘 트루스와 함께 겨울 시즌 프로모션 '센트 유어 파라다이스'를 진행한다고 25일",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

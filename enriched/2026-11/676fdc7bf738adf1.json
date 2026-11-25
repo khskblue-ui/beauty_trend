@@ -1,0 +1,52 @@
+{
+ "doc_id": "676fdc7bf738adf1",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100581",
+ "title": "AI와 만난 K-뷰티 축제 ‘제10회 서울시 미용예술경연대회’ 성료",
+ "summary": "‘제10회 서울특별시 미용예술경연대회’가 지난 24일 서울 강남구 SETEC 제3전시실에서 성황리에 개최됐다. 이번 대회는 ‘빛나는 K-뷰티 서울시민과 함께’라는 콘셉트 아래 학생과 일반부 총 800여명의 선수가 740개 종목에 도전하며 전시장 안팎을 뜨거운 경연 열기로 달궜다.10주년을 맞은 올해 대회는 ‘안전하고 공정한 대회’, ‘미용한류가 발전하는 대회’, ‘공중위생 발전에 기여하는 대회’, ‘미용새내기에게 꿈과 희망을 주는 대회’, 그리고 ‘AI 스타일 종목을 신설한 Frontier 대회’라는 5대 목표를 전면에 내세웠다.그",
+ "published_at": "2026-11-25T10:22:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한미용사회"
+  ],
+  "keywords": [
+   "미용 경연대회",
+   "AI 스타일",
+   "K-뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "서울특별시 미용예술경연대회가 AI 스타일 시범경기를 처음 도입해 열렸다.",
+  "key_fact_quote": "그중에서도 현장의 이목을 집중시킨 대목은 이번 대회에 최초로 도입된 ‘AI 스타일’ 시범경기였다.",
+  "events": [
+   {
+    "name": "제10회 서울특별시 미용예술경연대회",
+    "start_date": "2026-11-24",
+    "end_date": null,
+    "place": "서울 강남구 SETEC 제3전시실",
+    "quote": "‘제10회 서울특별시 미용예술경연대회’가 지난 24일 서울 강남구 SETEC 제3전시실에서 성황리에 개최됐다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": true
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "969f10a719e7cbc2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021785",
+ "title": "손태진, 리메이크 앨범 '여름 향수 ' LP 출시 …따뜻한 아날로그 감성 예...",
+ "summary": "소속사 미스틱에 따르면, 손태진은 리메이크 앨범 '여름 향수 ' LP 발매를 확정하고 12월 1일부터 예약판매를 시작한다. SNS를 통해 공개된 '여름 향수 ' LP는 고급스러운 무드의 바이닐 이미지 위로 수록곡 '맨 처음 고백'이...",
+ "published_at": "2026-11-25T17:21:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "음반 발매"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "0129174e6c12a78d",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

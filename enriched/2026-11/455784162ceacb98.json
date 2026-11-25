@@ -1,0 +1,45 @@
+{
+ "doc_id": "455784162ceacb98",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sedaily.com/article/20118690?ref=naver",
+ "title": "한중 관계 개선 기대에 화장품주 강세… 뷰티 스킨 25%대 급등 [이런국장...",
+ "summary": "K뷰티 와 연계한 방한 여행상품을 기획·판매할 근거도 마련됐다. 이에 중국인 관광객의 국내 화장품 소비가 늘고 국내 기업의 중국 사업 여건도 개선될 것이란 기대가 커졌다. 화장품 수출 호조에 비해 최근 관련주...",
+ "published_at": "2026-11-25T10:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "뷰티 스킨"
+  ],
+  "keywords": [
+   "화장품주",
+   "중국인 관광객",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한중 관계 개선 기대에 중국인 관광객의 화장품 소비 증가 기대가 커지며 화장품주가 강세를 보였다.",
+  "key_fact_quote": "이에 중국인 관광객의 국내 화장품 소비가 늘고 국내 기업의 중국 사업 여건도 개선될 것이란 기대가 커졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

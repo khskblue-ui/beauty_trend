@@ -1,0 +1,46 @@
+{
+ "doc_id": "77ccabb7bd1727ac",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.widedaily.com/news/articleView.html?idxno=304615",
+ "title": "[특징주] 본느, 美 글로벌 고객사 협력 확대·화장품주 강세에 15%대 급...",
+ "summary": "화장품 업종 전반에 매수세가 몰린 배경에는 글로벌 K - 뷰티 열풍과 해외 시장 확대 기대감이 자리하고 있다. 중국 중심이던 화장품 수출 시장이 미국과 유럽, 동남아시아 등으로 다변화되는 가운데 글로벌 화장품...",
+ "published_at": "2026-11-25T09:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "본느"
+  ],
+  "keywords": [
+   "화장품 테마주",
+   "K뷰티 수출 다변화",
+   "ODM"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "본느 주가가 미국 고객사 협력 확대와 화장품주 강세에 급등했다.",
+  "key_fact_quote": "중국 중심이던 화장품 수출 시장이 미국과 유럽, 동남아시아 등으로 다변화되는 가운데 글로벌 화장품",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

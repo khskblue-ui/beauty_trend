@@ -1,0 +1,53 @@
+{
+ "doc_id": "451896a361fd001e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4120711",
+ "title": "고원 휴양지 달랏 달군 K -푸드· 뷰티 ... 수출 상담 224만 달러 물꼬",
+ "summary": "달랏에서 K -푸드와 뷰티 제품을 앞세워 현지 시장 문을 두드렸습니다. 경북도는 지난 20일부터 23일까지 열린 '2026 베트남 웰니스 엑스포'에 도내 15개사가 참가해 현장판매 1만 6천 달러와 224만 달러 규모 수출 상담...",
+ "published_at": "2026-11-25T09:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN"
+  ],
+  "brands": [],
+  "companies": [
+   "경북도"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "웰니스 엑스포",
+   "수출 상담"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "경북도 기업들이 베트남 웰니스 엑스포에 참가해 K푸드와 뷰티 수출 상담 성과를 냈다.",
+  "key_fact_quote": "경북도는 지난 20일부터 23일까지 열린 '2026 베트남 웰니스 엑스포'에 도내 15개사가 참가해 현장판매 1만 6천 달러와 224만 달러 규모 수출 상담",
+  "events": [
+   {
+    "name": "2026 베트남 웰니스 엑스포",
+    "start_date": "2026-11-20",
+    "end_date": "2026-11-23",
+    "place": "달랏",
+    "quote": "경북도는 지난 20일부터 23일까지 열린 '2026 베트남 웰니스 엑스포'에 도내 15개사가 참가해 현장판매 1만 6천 달러와 224만 달러 규모 수출 상담"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

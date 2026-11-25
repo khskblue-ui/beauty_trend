@@ -1,0 +1,52 @@
+{
+ "doc_id": "96619a4305bb22b4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://magazine.hankyung.com/business/article/202611169484b",
+ "title": "밀크바오밥 베이비, 자연 유래 성분으로 만든 프리미엄 유아 스킨케어",
+ "summary": "밀크바오밥 베이비가 26일 ‘2026 대한민국 브랜드 만족도 1위’에서 10년 연속 화장품 (유아스킨케어)... 특히 평균 85회 테스트와 6.2개월간의 철저한 검증을 거친 제품만 출시 하여 신뢰도를 높였다. 밀크바오밥...",
+ "published_at": "2026-11-26T04:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "밀크바오밥 베이비"
+  ],
+  "companies": [],
+  "keywords": [
+   "유아 스킨케어",
+   "자연 유래 성분",
+   "브랜드 만족도"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "밀크바오밥 베이비가 대한민국 브랜드 만족도 유아스킨케어 부문 1위에 연속으로 선정됐다.",
+  "key_fact_quote": "밀크바오밥 베이비가 26일 ‘2026 대한민국 브랜드 만족도 1위’에서 10년 연속 화장품 (유아스킨케어)",
+  "events": [
+   {
+    "name": "2026 대한민국 브랜드 만족도 1위",
+    "start_date": "2026-11-26",
+    "end_date": null,
+    "place": null,
+    "quote": "밀크바오밥 베이비가 26일 ‘2026 대한민국 브랜드 만족도 1위’에서 10년 연속 화장품 (유아스킨케어)"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

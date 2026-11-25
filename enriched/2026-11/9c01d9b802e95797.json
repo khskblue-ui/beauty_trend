@@ -1,0 +1,63 @@
+{
+ "doc_id": "9c01d9b802e95797",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100587",
+ "title": "궁중비책, 베트남 성장세…베이비·키즈 매출 동반 성장",
+ "summary": "제로투세븐의 민감하고 여린 영유아 피부를 위한 전문 스킨케어 브랜드 궁중비책이 급성장하는 베트남 유아동 퍼스널케어 시장에서 가파른 매출 신장과 유통망 확장을 이어가며 ‘K-베이비 스킨케어’ 대표 주자로서의 입지를 굳히고 있다.최근 KOTRA 하노이무역관이 발표한 ‘베트남 유아용 바디케어 제품 시장동향’ 보고서에 따르면, 베트남 유아·어린이 전용 퍼스널케어 시장은 가처분 소득 증가와 부모 세대의 피부 건강 인식 확대에 힘입어 지난해 약 6,700만 달러 규모로 전년 대비 7% 성장했다.특히 최근 베트남 내 제품 안전 기준 강화로 도시",
+ "published_at": "2026-11-25T12:29:04+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN"
+  ],
+  "brands": [
+   "궁중비책"
+  ],
+  "companies": [
+   "제로투세븐",
+   "KOTRA",
+   "키즈플라자",
+   "비보마트",
+   "쭝선파마",
+   "가디언"
+  ],
+  "keywords": [
+   "K-베이비 스킨케어",
+   "유아동 퍼스널케어",
+   "저자극 스킨케어",
+   "오프라인 유통망 확장"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "베이비 모이스처 크림",
+    "brand": "궁중비책",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "궁중비책이 베트남 유아동 퍼스널케어 시장에서 매출과 유통망을 함께 늘리고 있다.",
+  "key_fact_quote": "제로투세븐의 민감하고 여린 영유아 피부를 위한 전문 스킨케어 브랜드 궁중비책이 급성장하는 베트남 유아동 퍼스널케어 시장에서 가파른 매출 신장과 유통망 확장을 이어가며 ‘K-베이비 스킨케어’ 대표 주자로서의 입지를 굳히고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": true
+}

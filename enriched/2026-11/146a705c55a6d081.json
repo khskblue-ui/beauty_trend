@@ -1,0 +1,50 @@
+{
+ "doc_id": "146a705c55a6d081",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bizwnews.com/news/articleView.html?idxno=153074",
+ "title": "롯데홈쇼핑 '이설', 파리 쁘렝땅 백화점 입점… K뷰티 프리미엄 시장 공...",
+ "summary": "롯데홈쇼핑이 국내 중소 뷰티 브랜드의 해외시장 진출을 지원하는 K -브랜드 수출 플랫폼 '이설(Eeseol)'의 가시적 성과를 내고 있다. 사진=롯데홈쇼핑 롯데홈쇼핑이 국내 중소 뷰티 브랜드의 해외시장 진출을 지원하는 K ...",
+ "published_at": "2026-11-25T18:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "하우스오브비",
+   "세인트프랑",
+   "BOM"
+  ],
+  "companies": [
+   "롯데홈쇼핑"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "해외 백화점 입점",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "b081a1111d6b4ba8",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

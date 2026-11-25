@@ -1,0 +1,46 @@
+{
+ "doc_id": "3bfb41de6e6956f8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202611251017260650",
+ "title": "실리콘투 13%·에이피알 10%↑…급락장서 K뷰티 주 강세 [종목NOW]",
+ "summary": "한중 관계 개선과 K뷰티 수출 성장에 대한 기대가 화장품주 전반의 투자심리를 끌어올린 것으로 풀이된다. 한국과 중국은 최근 정상회담을 계기로 자유무역협정(FTA) 서비스·투자 후속 협상의 실질적 타결을...",
+ "published_at": "2026-11-25T10:23:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "실리콘투",
+   "에이피알"
+  ],
+  "keywords": [
+   "화장품주",
+   "K뷰티 수출",
+   "한중 관계"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한중 관계 개선과 K뷰티 수출 성장 기대가 화장품주 투자심리를 끌어올렸다.",
+  "key_fact_quote": "한중 관계 개선과 K뷰티 수출 성장에 대한 기대가 화장품주 전반의 투자심리를 끌어올린 것으로 풀이된다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "1e3a0fcf85674597",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mk.co.kr/article/12214657",
+ "title": "왕홍 덕에…‘보라페’ 10개월 만에 100억 [K뷰티 숨은 거인]",
+ "summary": "사실 그는 화장품 과 거리가 먼 이력의 소유자다. 개발자 출신으로 KT 계열사인 KTH에서 앱스토어 담당으로 일했던 것이 주요 이력이다. 게다가 중국어를 한마디도 못했다. 대신 개발자 출신 창업자답게 현지 ‘데이터’...",
+ "published_at": "2026-11-25T21:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [
+   "보라페"
+  ],
+  "companies": [],
+  "keywords": [
+   "왕홍 마케팅",
+   "중국 시장",
+   "데이터 기반 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "보라페가 왕홍 마케팅으로 빠르게 매출을 키웠다.",
+  "key_fact_quote": "왕홍 덕에…‘보라페’ 10개월 만에 100억 [K뷰티 숨은 거인]",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

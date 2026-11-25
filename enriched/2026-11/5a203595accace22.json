@@ -1,0 +1,46 @@
+{
+ "doc_id": "5a203595accace22",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kbsm.net/news/view.php?idx=543304",
+ "title": "경북도, 베트남 달랏서 K -푸드· 뷰티 수출 상담 224만 달러",
+ "summary": "달러, 수출 상담·계약 추진 224만 달러의 성과를 거뒀다.이번 엑스포는 한국과 현지 기업 200여곳이... 베트남은 2025년 기준 경북의 3위 수출 국으로, 경북 총 수출 385억 달러 중 28억 달러(7.3%)를 차지한다.황명석 경북도...",
+ "published_at": "2026-11-25T14:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN"
+  ],
+  "brands": [],
+  "companies": [
+   "경북도"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "수출 상담",
+   "베트남 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "e3f969d1c6aaed09",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

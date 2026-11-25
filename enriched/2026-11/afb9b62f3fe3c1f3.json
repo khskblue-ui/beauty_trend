@@ -1,0 +1,109 @@
+{
+ "doc_id": "afb9b62f3fe3c1f3",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100592",
+ "title": "동국제약·시지메드텍, ECM 스킨부스터 출시 협약",
+ "summary": "동국제약(대표이사 송준호)은 시지메드텍과 협력해 동종진피 기반 인체조직 ECM 제품을 출시한다.지난 24일 서울 강남구 청담동 동국제약 본사에서 진행된 이번 협약을 통해, 양사는 동종진피의 세포외기질(ECM·Extracellular Matrix) 특성을 활용한 인체조직 제품의 생산·공급을 추진할 계획이다.동국제약은 현재 히알루론산(HA) 필러 ‘벨라스트’, 보툴리눔 톡신 ‘비에녹스주’, DCA 지방분해주사제 ‘밀리핏’과 스킨부스터 ‘마데키엘’ 등을 선보이고 있으며, 이번 협력을 통해 에스테틱 파이프라인의 완성도를 넓힌다는 계획이다.",
+ "published_at": "2026-11-25T12:41:24+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "벨라스트",
+   "비에녹스주",
+   "밀리핏",
+   "마데키엘"
+  ],
+  "companies": [
+   "동국제약",
+   "시지메드텍"
+  ],
+  "keywords": [
+   "스킨부스터",
+   "에스테틱",
+   "인체조직 ECM"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "ECM 스킨부스터",
+    "brand": "동국제약",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "동국제약(대표이사 송준호)은 시지메드텍과 협력해 동종진피 기반 인체조직 ECM 제품을 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "벨라스트",
+    "brand": "동국제약",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "비에녹스주",
+    "brand": "동국제약",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "밀리핏",
+    "brand": "동국제약",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "마데키엘",
+    "brand": "동국제약",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동국제약이 시지메드텍과 협약을 맺고 동종진피 기반 ECM 스킨부스터 제품 출시를 추진한다.",
+  "key_fact_quote": "동국제약(대표이사 송준호)은 시지메드텍과 협력해 동종진피 기반 인체조직 ECM 제품을 출시한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산(HA)",
+    "quote": "동국제약은 현재 히알루론산(HA) 필러 ‘벨라스트’, 보툴리눔 톡신 ‘비에녹스주’, DCA 지방분해주사제 ‘밀리핏’과 스킨부스터 ‘마데키엘’ 등을 선보이고 있으며, 이번 협력을 통해 에스테틱 파이프라인의 완성도를 넓힌다는 계획이다."
+   },
+   {
+    "name": "세포외기질(ECM·Extracellular Matrix)",
+    "quote": "지난 24일 서울 강남구 청담동 동국제약 본사에서 진행된 이번 협약을 통해, 양사는 동종진피의 세포외기질(ECM·Extracellular Matrix) 특성을 활용한 인체조직 제품의 생산·공급을 추진할 계획이다."
+   },
+   {
+    "name": "동종진피",
+    "quote": "동국제약(대표이사 송준호)은 시지메드텍과 협력해 동종진피 기반 인체조직 ECM 제품을 출시한다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": true
+}

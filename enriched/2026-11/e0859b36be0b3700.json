@@ -1,0 +1,44 @@
+{
+ "doc_id": "e0859b36be0b3700",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.sbs.co.kr/article_hub/20000348759?division=NAVER",
+ "title": "K화장품 미국서 '불티'…22년 만에 中 제쳤다",
+ "summary": "미국으로 간 K - 뷰티 수출 은 29억4천만달러로 48.0% 늘었습니다. 성분·효능 중심의 스킨케어 제품이 합리적인 가격을 앞세워 미국에서 대중화됐다는 게 관세청 분석입니다. 유럽에서는 증가 폭이 더 컸습니다....",
+ "published_at": "2026-11-25T11:21:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 미국 수출",
+   "성분 중심 스킨케어",
+   "유럽 수출 증가"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국으로 가는 K뷰티 수출이 크게 늘어 중국을 제쳤다.",
+  "key_fact_quote": "성분·효능 중심의 스킨케어 제품이 합리적인 가격을 앞세워 미국에서 대중화됐다는 게 관세청 분석입니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

@@ -1,0 +1,59 @@
+{
+ "doc_id": "45aee8aa468c4ac3",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54045",
+ "title": "“나 혼자 한다” 셀프뷰티, 두피·헤어·디바이스로 확장",
+ "summary": "셀프뷰티 트렌드가 두피·헤어·디바이스까지 확대되고 있다. 에이블리는 셀프뷰티·홈케어 검색량과 매출이 동반 상승했다고 밝혔다. 10월 17일부터 11월 15일까지 한달 동안 에이블리 내 셀프뷰티 검색량은 전년 동기 대비 약 4배(286%) 늘었다. 홈케어 관련 제품 거래액은 81% 많아졌다. 셀프뷰티 가…",
+ "published_at": "2026-11-25T15:58:35+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "마미케어"
+  ],
+  "companies": [
+   "에이블리",
+   "마미케어"
+  ],
+  "keywords": [
+   "셀프뷰티",
+   "홈케어",
+   "두피케어",
+   "뷰티 디바이스",
+   "개인 맞춤형 뷰티"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "EMS 브이쎄라",
+    "brand": "마미케어",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "셀프뷰티 수요가 두피, 헤어, 뷰티 디바이스 분야로 넓어지고 있다.",
+  "key_fact_quote": "셀프뷰티 트렌드가 두피·헤어·디바이스까지 확대되고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": true
+}

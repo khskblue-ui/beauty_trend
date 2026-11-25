@@ -1,0 +1,61 @@
+{
+ "doc_id": "e38bd5037c73bc5d",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/viablife-bionia-100-bio-based-niacinamide-for-safer",
+ "title": "Viablife BioNia: 100% bio-based niacinamide for safer, high-performance sustainable beauty",
+ "summary": "At in-cosmetics Asia 2026 (3–5 November), Viablife BioNia was shortlisted for the IN-COSMETICS ASIA AWARDS, one of the leading recognitions at the Asia-Pacific region’s premier personal care ingredients event. As the only Chinese company on this year’s shortlist, Viablife brought its biotechnology-led innovation to the international stage, highlighting the growing potential of bio-based ingredients in cosmetics",
+ "published_at": "2026-11-26T02:14:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "Viablife"
+  ],
+  "keywords": [
+   "바이오 기반 원료",
+   "지속가능 뷰티",
+   "나이아신아마이드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "Viablife의 바이오 기반 나이아신아마이드 원료 BioNia가 in-cosmetics Asia 어워드 후보에 올랐다.",
+  "key_fact_quote": "At in-cosmetics Asia 2026 (3–5 November), Viablife BioNia was shortlisted for the IN-COSMETICS ASIA AWARDS",
+  "events": [
+   {
+    "name": "in-cosmetics Asia 2026",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-05",
+    "place": null,
+    "quote": "At in-cosmetics Asia 2026 (3–5 November), Viablife BioNia was shortlisted for the IN-COSMETICS ASIA AWARDS"
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "niacinamide",
+    "quote": "Viablife BioNia: 100% bio-based niacinamide for safer, high-performance sustainable beauty"
+   },
+   {
+    "name": "BioNia",
+    "quote": "Viablife BioNia: 100% bio-based niacinamide for safer, high-performance sustainable beauty"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

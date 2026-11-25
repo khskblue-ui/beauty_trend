@@ -1,0 +1,92 @@
+{
+ "doc_id": "f23418b23f37ee57",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100593",
+ "title": "톰, 연말 한정 ‘시그니처 홀리데이 에디션’ 선보여",
+ "summary": "홈 라이프스타일 솔루션 기업 앳홈(대표 양정호)이 전개하는 프라이빗 에스테틱 브랜드 톰(THOME)이 크리스마스와 연말을 맞아 시즌 한정 선물 패키지 ‘시그니처 홀리데이 에디션’을 선보인다고 25일 밝혔다.이번 홀리데이 에디션은 ‘더 글로우와 함께 빛나는 홀리데이(The Glow Holiday)’를 콘셉트로, 겨울을 상징하는 붉은색 패키지에 크리스털을 수놓아 연말의 반짝임을 표현했다. 한 해를 보낸 자신에게 선물하거나 친구, 연인, 배우자에게 마음을 전할 수 있도록 기획했다.톰은 ‘시그니처 홀리데이 에디션’을 대표 물방울 초음파 디",
+ "published_at": "2026-11-25T12:43:28+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "톰"
+  ],
+  "companies": [
+   "앳홈"
+  ],
+  "keywords": [
+   "홈 뷰티 디바이스",
+   "홀리데이 에디션",
+   "선물 패키지"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "시그니처 홀리데이 에디션",
+    "brand": "톰",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "홈 라이프스타일 솔루션 기업 앳홈(대표 양정호)이 전개하는 프라이빗 에스테틱 브랜드 톰(THOME)이 크리스마스와 연말을 맞아 시즌 한정 선물 패키지 ‘시그니처 홀리데이 에디션’을 선보인다고 25일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "더 글로우 시그니처",
+    "brand": "톰",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "히알루론산 부스트 앰플",
+    "brand": "톰",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "콜라겐 부스트 앰플",
+    "brand": "톰",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "톰이 연말을 맞아 홈 뷰티 디바이스와 앰플로 구성한 한정 선물 패키지를 선보였다.",
+  "key_fact_quote": "홈 라이프스타일 솔루션 기업 앳홈(대표 양정호)이 전개하는 프라이빗 에스테틱 브랜드 톰(THOME)이 크리스마스와 연말을 맞아 시즌 한정 선물 패키지 ‘시그니처 홀리데이 에디션’을 선보인다고 25일 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "히알루론산",
+    "quote": "톰은 ‘시그니처 홀리데이 에디션’을 대표 물방울 초음파 디바이스 ‘더 글로우 시그니처’와 보습 관리를 위한 ‘히알루론산 부스트 앰플(30g)’, 탄력 관리를 위한 ‘콜라겐 부스트 앰플(30g)’, 한정판 스탠딩 거울, 시그니처 전용 헤드 커버, 기프트 카드로 구성했다."
+   },
+   {
+    "name": "콜라겐",
+    "quote": "톰은 ‘시그니처 홀리데이 에디션’을 대표 물방울 초음파 디바이스 ‘더 글로우 시그니처’와 보습 관리를 위한 ‘히알루론산 부스트 앰플(30g)’, 탄력 관리를 위한 ‘콜라겐 부스트 앰플(30g)’, 한정판 스탠딩 거울, 시그니처 전용 헤드 커버, 기프트 카드로 구성했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": true
+}

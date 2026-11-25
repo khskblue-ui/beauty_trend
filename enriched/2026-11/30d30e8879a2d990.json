@@ -1,0 +1,48 @@
+{
+ "doc_id": "30d30e8879a2d990",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/25/2026112580187.html",
+ "title": "LA 이어 파리까지…스미스, K - 뷰티 현지화 마케팅 전개",
+ "summary": "롯데홈쇼핑의 K -브랜드 수출 플랫폼 ‘이설(Eeseol)’ 팝업에서 현지 인플루언서 마케팅과 콘텐츠 운영을... 스미스는 프랑스 뷰티 시장에서 제품 성분과 실제 사용 경험, 콘텐츠의 신뢰도가 중요한 소비 판단 요소로...",
+ "published_at": "2026-11-25T17:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "FR"
+  ],
+  "brands": [
+   "스미스"
+  ],
+  "companies": [
+   "롯데홈쇼핑"
+  ],
+  "keywords": [
+   "K뷰티 현지화 마케팅",
+   "인플루언서 마케팅",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "스미스가 로스앤젤레스에 이어 파리에서 K뷰티 현지화 마케팅을 펼친다.",
+  "key_fact_quote": "LA 이어 파리까지…스미스, K - 뷰티 현지화 마케팅 전개",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

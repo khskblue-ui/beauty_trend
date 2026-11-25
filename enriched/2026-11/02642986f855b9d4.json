@@ -1,0 +1,47 @@
+{
+ "doc_id": "02642986f855b9d4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.slist.kr/news/articleView.html?idxno=784602",
+ "title": "스미스, '이설' 파리 팝업... K - 뷰티 마케팅 유럽으로 확대",
+ "summary": "글로벌 마케팅 기업 스미스(SMiTH)가 롯데홈쇼핑의 K -브랜드 수출 플랫폼 '이설(Eeseol)' 파리 팝업에서 현지 인플루언서 마케팅과 콘텐츠 운영을 맡으며 K - 뷰티 현지화 마케팅을 유럽으로 확대했다. 사진=스미스...",
+ "published_at": "2026-11-25T09:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "스미스",
+   "롯데홈쇼핑"
+  ],
+  "keywords": [
+   "K뷰티 현지화 마케팅",
+   "인플루언서 마케팅",
+   "유럽 진출",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "스미스가 이설 파리 팝업에서 현지 인플루언서 마케팅을 맡아 K뷰티 마케팅을 유럽으로 넓혔다.",
+  "key_fact_quote": "글로벌 마케팅 기업 스미스(SMiTH)가 롯데홈쇼핑의 K -브랜드 수출 플랫폼 '이설(Eeseol)' 파리 팝업에서 현지 인플루언서 마케팅과 콘텐츠 운영을 맡으며 K - 뷰티 현지화 마케팅을 유럽으로 확대했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

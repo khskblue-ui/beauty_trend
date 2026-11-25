@@ -1,0 +1,40 @@
+{
+ "doc_id": "e44f2984e98538aa",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://mhnse.com/news/articleView.html?idxno=1709778",
+ "title": "손태진, 리메이크 앨범 '여름 향수 ' LP 발매…12월 1일 예약 판매",
+ "summary": "손태진은 24일 자신의 공식 SNS에서 리메이크 앨범 '여름 향수 ' LP 출시 계획을 공개했다. 이번 LP는 아날로그 감성을 담아 바이닐 특유의 따뜻하고 풍부한 사운드로 곡이 지닌 서정적인 울림을 강조할 전망이다....",
+ "published_at": "2026-11-25T10:13:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "음반 발매"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "손태진이 리메이크 앨범 여름 향수의 LP 출시 계획을 공개했다.",
+  "key_fact_quote": "손태진은 24일 자신의 공식 SNS에서 리메이크 앨범 '여름 향수 ' LP 출시 계획을 공개했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

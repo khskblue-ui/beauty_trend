@@ -1,0 +1,42 @@
+{
+ "doc_id": "5fe39938c0e2cc03",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507974",
+ "title": "밸류업 테마 엇갈렸다… 화장품·바이오 웃고 반도체株 '휘청'",
+ "summary": "글로벌 브랜드들의 생산 외주 확대와 K뷰티 수출 성장세가 실적 개선 기대감을 뒷받침하고 있다. 바이오 분야에서는 엘앤씨바이오가 두드러진 오름세를 보이고 있다. 의료기기 및 재생의료 관련 사업 성장 기대감이...",
+ "published_at": "2026-11-25T15:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품주",
+   "생산 외주",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "글로벌 브랜드의 생산 외주 확대와 K뷰티 수출 성장이 화장품주 실적 기대를 받치고 있다.",
+  "key_fact_quote": "글로벌 브랜드들의 생산 외주 확대와 K뷰티 수출 성장세가 실적 개선 기대감을 뒷받침하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

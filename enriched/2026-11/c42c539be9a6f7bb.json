@@ -1,0 +1,47 @@
+{
+ "doc_id": "c42c539be9a6f7bb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/25/2026112550106.html",
+ "title": "화장품 도 소품도 오른다 … 이니스프리 화장솜·면봉값 인상",
+ "summary": "120㎖ 가격을 각각 4만5000원에서 4만9000원으로 올렸다. 고세코리아가 전개하는 일본 화장품 브랜드 데코르테는 10월1일 신제품 등을 제외한 대부분 제품의 국내 판매가격을 평균 8%가량 인상했다. 뉴데일리 김보라",
+ "published_at": "2026-11-25T11:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "이니스프리",
+   "데코르테"
+  ],
+  "companies": [
+   "고세코리아"
+  ],
+  "keywords": [
+   "화장품 가격 인상",
+   "뷰티 소품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "이니스프리가 화장솜과 면봉 가격을 올렸고 데코르테도 국내 판매가격을 인상했다.",
+  "key_fact_quote": "고세코리아가 전개하는 일본 화장품 브랜드 데코르테는 10월1일 신제품 등을 제외한 대부분 제품의 국내 판매가격을 평균 8%가량 인상했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

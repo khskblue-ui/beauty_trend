@@ -1,0 +1,41 @@
+{
+ "doc_id": "8ff3c78812cf0d31",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=150458",
+ "title": "K패션 수출 , 13년 만에 최대 찍었다… K뷰티 는 34.6% 증가",
+ "summary": "K - 뷰티 수출 , 북미·유럽으로 성장축 이동 K-뷰티는 K-소비재 가운데 가장 큰 수출 규모와 성장 기여도를 나타냈다. 올해 수출액은 136억 4900만 달러로 34.6% 증가하며 지난해 연간 실적인 116억 1000만 달러를...",
+ "published_at": "2026-11-25T19:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "K-소비재"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티가 K-소비재 가운데 수출 규모와 성장 기여도가 가장 컸다.",
+  "key_fact_quote": "K-뷰티는 K-소비재 가운데 가장 큰 수출 규모와 성장 기여도를 나타냈다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

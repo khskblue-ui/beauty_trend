@@ -1,0 +1,56 @@
+{
+ "doc_id": "2c86fefa3284f4ff",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.catchnews.kr/news/articleView.html?idxno=130984",
+ "title": "\"蒙기후맞춰 '고기능 스킨케어10곳' 선뵀더니\" 현대홈쇼핑 '182억' 수출 상...",
+ "summary": "이들이 현지 뷰티 전문바이어 34개사와 수출 협력방안을 논의해 올린 수출 상담 실적은 1354만달러(약 182억원) 규모다. 현대홈쇼핑은 이달 24~25일 몽골 울란바타르 샹그릴라호텔에서 '2026 현대백화점그룹 코아시스 in...",
+ "published_at": "2026-11-25T15:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "MN"
+  ],
+  "brands": [
+   "코아시스"
+  ],
+  "companies": [
+   "현대홈쇼핑"
+  ],
+  "keywords": [
+   "K뷰티 몽골 진출",
+   "수출 상담회",
+   "중소 뷰티 브랜드",
+   "고기능 스킨케어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "현대홈쇼핑이 몽골에서 연 수출 상담회에서 국내 스킨케어 기업들이 현지 바이어와 수출 협력을 논의했다.",
+  "key_fact_quote": "이들이 현지 뷰티 전문바이어 34개사와 수출 협력방안을 논의해 올린 수출 상담 실적은 1354만달러(약 182억원) 규모다.",
+  "events": [
+   {
+    "name": "2026 현대백화점그룹 코아시스",
+    "start_date": "2026-11-24",
+    "end_date": "2026-11-25",
+    "place": "몽골 울란바타르 샹그릴라호텔",
+    "quote": "현대홈쇼핑은 이달 24~25일 몽골 울란바타르 샹그릴라호텔에서 '2026 현대백화점그룹 코아시스 in"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

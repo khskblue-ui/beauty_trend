@@ -1,0 +1,41 @@
+{
+ "doc_id": "c065f94d5cf917bc",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/unilever-names-wern-yuen-tan-as-president-north-america",
+ "title": "Unilever names Wern-Yuen Tan as President, North America",
+ "summary": "Tan will join the Unilever Leadership Executive team and will be accountable for activity across all of Unilever's categories in North America",
+ "published_at": "2026-11-25T21:19:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Unilever"
+  ],
+  "keywords": [
+   "경영진 인사",
+   "북미 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "유니레버가 Wern-Yuen Tan을 북미 사장으로 선임했다.",
+  "key_fact_quote": "Unilever names Wern-Yuen Tan as President, North America",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

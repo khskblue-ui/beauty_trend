@@ -1,0 +1,47 @@
+{
+ "doc_id": "26d29d5a77fec355",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/finance/market-exr/6365175",
+ "title": "'한중 훈풍' 화장품주 연일 강세… 뷰티 스킨·한국화장품 20%대↑[핫종목...",
+ "summary": "한중 정상회담 이후 중국인 관광객 증가와 화장품 수출 확대에 대한 기대감이 이어지는 모습이다. 25일... 뷰티 스킨(406820)은 26.55% 급등한 2455원, 마녀공장(439090)은 9.07% 오른 1만 8030원에 거래되고 있다. 시가총액...",
+ "published_at": "2026-11-25T09:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "뷰티 스킨",
+   "한국화장품",
+   "마녀공장"
+  ],
+  "keywords": [
+   "화장품주",
+   "중국인 관광객",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "한중 정상회담 이후 기대감으로 화장품주가 강세를 보였다.",
+  "key_fact_quote": "한중 정상회담 이후 중국인 관광객 증가와 화장품 수출 확대에 대한 기대감이 이어지는 모습이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

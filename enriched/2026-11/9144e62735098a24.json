@@ -1,0 +1,47 @@
+{
+ "doc_id": "9144e62735098a24",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.4th.kr/news/articleView.html?idxno=2122635",
+ "title": "파리 팝업서 쁘렝땅까지…롯데홈쇼핑 '이설', K뷰티 佛 판로 확대",
+ "summary": "포쓰저널 성은숙 기자 롯데홈쇼핑의 K브랜드 수출 플랫폼 '이설'에 참여한 국내 뷰티 브랜드 3곳이 프랑스 파리 쁘렝땅 백화점 오스만점에 입점해 있다. /2026.11.25.롯데홈쇼핑 프랑스 파리 마레지구 팝업스토어에서 현지...",
+ "published_at": "2026-11-25T09:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데홈쇼핑",
+   "이설",
+   "쁘렝땅 백화점"
+  ],
+  "keywords": [
+   "K뷰티 유럽 진출",
+   "팝업스토어",
+   "백화점 입점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "롯데홈쇼핑 이설에 참여한 국내 뷰티 브랜드가 파리 쁘렝땅 백화점에 입점했다.",
+  "key_fact_quote": "롯데홈쇼핑의 K브랜드 수출 플랫폼 '이설'에 참여한 국내 뷰티 브랜드 3곳이 프랑스 파리 쁘렝땅 백화점 오스만점에 입점해 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

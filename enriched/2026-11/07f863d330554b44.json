@@ -1,0 +1,68 @@
+{
+ "doc_id": "07f863d330554b44",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hortitimes.com/news/articleView.html?idxno=34524",
+ "title": "주주브, 경산 복조대추 활용 화장품 2종 12월 출시 예정",
+ "summary": "사진: 경산 바람햇살농장 / 주주브 제공 스킨케어 브랜드 주주브(JUJUVE)는 경북 경산에서 생산된 복조대추를 활용한 화장품 2종을 오는 12월 출시 할 예정이라고 밝혔다. 출시 예정 제품은 클렌징바와 캡슐크림으로, 주주브가...",
+ "published_at": "2026-11-25T14:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "주주브"
+  ],
+  "companies": [],
+  "keywords": [
+   "로컬 원료",
+   "지역 특산물 화장품",
+   "클렌징바"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "클렌징바",
+    "brand": "주주브",
+    "launch_date": "2026-12",
+    "launch_status": "upcoming",
+    "launch_quote": "스킨케어 브랜드 주주브(JUJUVE)는 경북 경산에서 생산된 복조대추를 활용한 화장품 2종을 오는 12월 출시 할 예정이라고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "캡슐크림",
+    "brand": "주주브",
+    "launch_date": "2026-12",
+    "launch_status": "upcoming",
+    "launch_quote": "스킨케어 브랜드 주주브(JUJUVE)는 경북 경산에서 생산된 복조대추를 활용한 화장품 2종을 오는 12월 출시 할 예정이라고 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "주주브가 경산 복조대추를 활용한 화장품을 출시할 예정이다.",
+  "key_fact_quote": "스킨케어 브랜드 주주브(JUJUVE)는 경북 경산에서 생산된 복조대추를 활용한 화장품 2종을 오는 12월 출시 할 예정이라고 밝혔다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "복조대추",
+    "quote": "스킨케어 브랜드 주주브(JUJUVE)는 경북 경산에서 생산된 복조대추를 활용한 화장품 2종을 오는 12월 출시 할 예정이라고 밝혔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

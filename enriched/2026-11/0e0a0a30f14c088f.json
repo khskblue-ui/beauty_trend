@@ -1,0 +1,91 @@
+{
+ "doc_id": "0e0a0a30f14c088f",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54041",
+ "title": "LG생활건강 엘라스틴, 헤어 롱제비티 시대 연다",
+ "summary": "LG생활건강의 프리미엄 헤어케어 브랜드 엘라스틴이 두피부터 모발 끝까지 건강하게 관리하는 ‘헤어 롱제비티’(Hair Longevity)를 앞세워 고효능 안티에이징 헤어케어 시장 공략에 나섰다. 엘라스틴은 지난 23일 라이프스타일 매거진 싱글즈와 함께 서울 강남구 더북컴퍼니 사옥에서 ‘싱글즈 오피…",
+ "published_at": "2026-11-25T07:25:04+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "엘라스틴"
+  ],
+  "companies": [
+   "LG생활건강",
+   "싱글즈"
+  ],
+  "keywords": [
+   "헤어 롱제비티",
+   "안티에이징 헤어케어",
+   "두피 케어",
+   "스키니피케이션"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "수티컬즈",
+    "brand": "엘라스틴",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "이날 행사의 핵심은 엘라스틴의 신제품 ‘수티컬즈’ 라인 .",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "엘라스틴이 헤어 롱제비티를 내세워 신제품 수티컬즈 라인으로 안티에이징 헤어케어 시장 공략에 나섰다.",
+  "key_fact_quote": "LG생활건강의 프리미엄 헤어케어 브랜드 엘라스틴이 두피부터 모발 끝까지 건강하게 관리하는 ‘헤어 롱제비티’(Hair Longevity) 를 앞세워 고효능 안티에이징 헤어케어 시장 공략에 나섰다.",
+  "events": [
+   {
+    "name": "싱글즈 오피스 클리닉",
+    "start_date": "2026-11-23",
+    "end_date": null,
+    "place": "서울 강남구 더북컴퍼니 사옥",
+    "quote": "엘라스틴은 지난 23일 라이프스타일 매거진 싱글즈와 함께 서울 강남구 더북컴퍼니 사옥에서 ‘싱글즈 오피스 클리닉’을 열었다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "블루 펩타이드",
+    "quote": "순도 98%의 블루 펩타이드와 마이크로 PDRN·NMN·페룰릭애씨드·재조합 콜라겐 등 고효능 스킨케어 성분을 하나의 캡슐에 응축한 독자 조성 성분 ‘블루 펩타이드 부스터 샷™’ 을 적용했다."
+   },
+   {
+    "name": "마이크로 PDRN",
+    "quote": "순도 98%의 블루 펩타이드와 마이크로 PDRN·NMN·페룰릭애씨드·재조합 콜라겐 등 고효능 스킨케어 성분을 하나의 캡슐에 응축한 독자 조성 성분 ‘블루 펩타이드 부스터 샷™’ 을 적용했다."
+   },
+   {
+    "name": "NMN",
+    "quote": "순도 98%의 블루 펩타이드와 마이크로 PDRN·NMN·페룰릭애씨드·재조합 콜라겐 등 고효능 스킨케어 성분을 하나의 캡슐에 응축한 독자 조성 성분 ‘블루 펩타이드 부스터 샷™’ 을 적용했다."
+   },
+   {
+    "name": "페룰릭애씨드",
+    "quote": "순도 98%의 블루 펩타이드와 마이크로 PDRN·NMN·페룰릭애씨드·재조합 콜라겐 등 고효능 스킨케어 성분을 하나의 캡슐에 응축한 독자 조성 성분 ‘블루 펩타이드 부스터 샷™’ 을 적용했다."
+   },
+   {
+    "name": "재조합 콜라겐",
+    "quote": "순도 98%의 블루 펩타이드와 마이크로 PDRN·NMN·페룰릭애씨드·재조합 콜라겐 등 고효능 스킨케어 성분을 하나의 캡슐에 응축한 독자 조성 성분 ‘블루 펩타이드 부스터 샷™’ 을 적용했다."
+   },
+   {
+    "name": "블루 펩타이드 부스터 샷™",
+    "quote": "순도 98%의 블루 펩타이드와 마이크로 PDRN·NMN·페룰릭애씨드·재조합 콜라겐 등 고효능 스킨케어 성분을 하나의 캡슐에 응축한 독자 조성 성분 ‘블루 펩타이드 부스터 샷™’ 을 적용했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": true
+}

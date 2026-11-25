@@ -1,0 +1,46 @@
+{
+ "doc_id": "2bfbe9e71aab1aad",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/industry/business-venture/2026/11/26/Q5KT7AC6KBHS3LT7QLRW4OI2RM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "[스타트UP] 꿀벌 유래 원료 담은 K뷰티 ‘비누보’로 미국 시장 공략",
+ "summary": "식품의약품안전처에 따르면 2025년 한국 화장품 수출액은 114억달러로 역대 최대를 기록했고, 미국이... 이 대표는 현재 미국에 머물며 현지 사업 확대와 신제품 기획을 병행하고 있다. 청방코리아는 IBK창공 실리콘밸리...",
+ "published_at": "2026-11-26T06:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "비누보"
+  ],
+  "companies": [
+   "청방코리아"
+  ],
+  "keywords": [
+   "K뷰티 미국 진출",
+   "꿀벌 유래 원료"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "꿀벌 유래 원료를 담은 K뷰티 브랜드 비누보가 미국 시장을 공략하고 있다.",
+  "key_fact_quote": "[스타트UP] 꿀벌 유래 원료 담은 K뷰티 ‘비누보’로 미국 시장 공략",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

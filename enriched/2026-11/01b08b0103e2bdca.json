@@ -1,0 +1,46 @@
+{
+ "doc_id": "01b08b0103e2bdca",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261125000345",
+ "title": "현대홈쇼핑, '코아시스' 입점 K뷰티 브랜드 몽골 진출 지원",
+ "summary": "현대홈쇼핑은 몽골 내 뷰티 수입 규모 3위 업체인 델럭스 포인트(Deluxe Point LCC)를 비롯해 현지 뷰티 전문 바이어 34개사를 초청했다. 행사장에는 브랜드별 독립 상담 부스 10개를 설치해 일대일 수출 협의가 이뤄지도록...",
+ "published_at": "2026-11-25T13:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MN"
+  ],
+  "brands": [],
+  "companies": [
+   "현대홈쇼핑",
+   "델럭스 포인트"
+  ],
+  "keywords": [
+   "K뷰티 수출 상담회",
+   "몽골 시장",
+   "중소 브랜드 해외 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "현대홈쇼핑이 코아시스 입점 K뷰티 브랜드의 몽골 진출을 돕기 위해 현지 바이어를 초청했다.",
+  "key_fact_quote": "현대홈쇼핑은 몽골 내 뷰티 수입 규모 3위 업체인 델럭스 포인트(Deluxe Point LCC)를 비롯해 현지 뷰티 전문 바이어 34개사를 초청했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

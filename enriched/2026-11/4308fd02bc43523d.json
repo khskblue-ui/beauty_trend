@@ -1,0 +1,58 @@
+{
+ "doc_id": "4308fd02bc43523d",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54049",
+ "title": "아모레퍼시픽재단, AI 시대 인문학 특강",
+ "summary": "아모레퍼시픽재단이 오는 11월 27일(금)과 12월 11일(금) 오후 5시 아모레퍼시픽 본사(서울 용산구) 아모레홀에서 ‘2026 장원(粧源)특강’을 개최한다. ‘AI 대전환의 시대, 스스로 질문하고 생각하는 힘’을 주제로 진행하는 이번 특강에는 재단의 학술연구 지원사업에 참여한 연구자 6인이 연사로 나선…",
+ "published_at": "2026-11-26T06:10:26+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레퍼시픽재단"
+  ],
+  "keywords": [
+   "인문학 특강",
+   "기업 재단 사회공헌"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아모레퍼시픽재단이 AI 시대를 주제로 인문학 특강을 연다.",
+  "key_fact_quote": "‘AI 대전환의 시대, 스스로 질문하고 생각하는 힘’을 주제로 진행하는 이번 특강에는 재단의 학술연구 지원사업에 참여한 연구자 6인이 연사로 나선다.",
+  "events": [
+   {
+    "name": "2026 장원(粧源)특강",
+    "start_date": "2026-11-27",
+    "end_date": null,
+    "place": "아모레퍼시픽 본사(서울 용산구) 아모레홀",
+    "quote": "아모레퍼시픽재단이 오는 11월 27일(금)과 12월 11일(금) 오후 5시 아모레퍼시픽 본사(서울 용산구) 아모레홀에서 ‘2026 장원(粧源)특강’ 을 개최한다."
+   },
+   {
+    "name": "2026 장원(粧源)특강",
+    "start_date": "2026-12-11",
+    "end_date": null,
+    "place": "아모레퍼시픽 본사(서울 용산구) 아모레홀",
+    "quote": "아모레퍼시픽재단이 오는 11월 27일(금)과 12월 11일(금) 오후 5시 아모레퍼시픽 본사(서울 용산구) 아모레홀에서 ‘2026 장원(粧源)특강’ 을 개최한다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": true
+}

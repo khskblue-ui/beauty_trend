@@ -1,0 +1,57 @@
+{
+ "doc_id": "a693a0bb96a225e8",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54046",
+ "title": "일본시장, 이제는 ‘썸’보다 장기 연애다",
+ "summary": "‘첫 만남은 성공적이다. 호기심을 끌고 호감도 얻었다. 그런데 두 번째 약속이 잡히지 않는다.’ 일본 시장에서 K-뷰티가 처한 상황이다. 첫 구매는 이끌어냈지만 재구매와 일상적인 사용으로 이어지지 않는다. 관심은 끌었지만 마음을 붙잡지는 못했다. 소개팅에서 한 번 만나고 연락이 끊기는 관계와 닮았…",
+ "published_at": "2026-11-25T16:39:04+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "앳코스메"
+  ],
+  "companies": [
+   "아이스타일",
+   "글로우데이즈"
+  ],
+  "keywords": [
+   "K뷰티 일본 진출",
+   "재구매",
+   "리뷰 마케팅",
+   "브랜드 충성도"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아이스타일이 세미나를 열고 일본 소비자가 K뷰티를 처음 사더라도 재구매로 이어지지 않는다는 조사 결과를 발표했다.",
+  "key_fact_quote": "첫 구매는 이끌어냈지만 재구매와 일상적인 사용으로 이어지지 않는다.",
+  "events": [
+   {
+    "name": "일본 소비자 심리를 읽는 마케팅-일본에서 꾸준히 선택받는 브랜드 육성법",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "place": "서울 스파크플러스 선릉3호점",
+    "quote": "아이스타일(istyle)이 25일 서울 스파크플러스 선릉3호점에서 세미나를 열었다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": true
+}

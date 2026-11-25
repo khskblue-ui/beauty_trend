@@ -1,0 +1,56 @@
+{
+ "doc_id": "9a0c74deff367c73",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5782",
+ "title": "현대홈쇼핑 '코아시스', 몽골서 K뷰티 수출 상담회 성료…1354만달러 실적",
+ "summary": "한류 열풍을 타고 기능성 화장품 수요가 급증하는 몽골 시장에서 국내 유망 뷰티 중소기업들이 180억원대 수출 상담 성과를 거두며 해외 판로 개척에 속도를 냈다. 현대홈쇼핑은 24일부터 이틀간 몽골 울란바타르...",
+ "published_at": "2026-11-25T14:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MN"
+  ],
+  "brands": [
+   "코아시스"
+  ],
+  "companies": [
+   "현대홈쇼핑"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "몽골 시장",
+   "기능성 화장품",
+   "수출 상담회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "기능성 화장품 수요가 늘어난 몽골에서 국내 뷰티 중소기업들이 수출 상담 성과를 거뒀다.",
+  "key_fact_quote": "한류 열풍을 타고 기능성 화장품 수요가 급증하는 몽골 시장에서 국내 유망 뷰티 중소기업들이 180억원대 수출 상담 성과를 거두며 해외 판로 개척에 속도를 냈다.",
+  "events": [
+   {
+    "name": "K뷰티 수출 상담회",
+    "start_date": "2026-11-24",
+    "end_date": "2026-11-25",
+    "place": "몽골 울란바타르",
+    "quote": "현대홈쇼핑은 24일부터 이틀간 몽골 울란바타르"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

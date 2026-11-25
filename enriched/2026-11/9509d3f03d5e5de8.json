@@ -1,0 +1,50 @@
+{
+ "doc_id": "9509d3f03d5e5de8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=272865",
+ "title": "현대홈쇼핑 '코아시스', 몽골서 182억원 규모 K뷰티 수출 상담",
+ "summary": "이틀간 몽골 뷰티 인플루언서를 포함해 700여 명이 방문했다. 현대홈쇼핑은 이번 상담을 계기로 수출 계약을 맺는 브랜드에 해외 마케팅 컨설팅과 물류비를 지원하는 방안을 검토하고 있다. 현대홈쇼핑은 2017년부터...",
+ "published_at": "2026-11-25T15:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MN"
+  ],
+  "brands": [
+   "코아시스",
+   "쟈스더마",
+   "세인트프랑"
+  ],
+  "companies": [
+   "현대홈쇼핑"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "몽골 시장",
+   "수출 상담회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "c13d97ff381619fb",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

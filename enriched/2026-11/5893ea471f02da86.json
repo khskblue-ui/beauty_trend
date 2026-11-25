@@ -1,0 +1,43 @@
+{
+ "doc_id": "5893ea471f02da86",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005969643",
+ "title": "한국 화장품·라면 '맛있는 호황'… K -소비재 수출 역대 최대",
+ "summary": "25일 관세청에 따르면 올해 들어 11월 19일까지 뷰티 ·푸드·패션·컬처 등 K -소비재 수출 액이 286억5천만달러로 집계됐습니다. 지난해 같은 기간보다 21.5% 증가했습니다. 같은 기간 기준 역대 최대 규모입니다. 기존...",
+ "published_at": "2026-11-25T10:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "K소비재",
+   "중소기업 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "4dda699dd0924089",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

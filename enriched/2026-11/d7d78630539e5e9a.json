@@ -1,0 +1,64 @@
+{
+ "doc_id": "d7d78630539e5e9a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=150425",
+ "title": "COS, 향수 라인업 확대…고체 향수 첫선",
+ "summary": "런던 기반 패션 브랜드 코스(COS)의 향수 라인 '코스 퍼퓨머리'가 오 드 퍼퓸 4종을 추가하고 고체... 향의 강도와 지속력을 고려해 원료를 선별했으며, 100mL 보틀과 15mL 휴대용으로 출시 했다. 가죽 홀더도...",
+ "published_at": "2026-11-25T10:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "COS",
+   "코스 퍼퓨머리"
+  ],
+  "companies": [],
+  "keywords": [
+   "패션 브랜드 향수",
+   "고체 향수",
+   "휴대용 향수"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "오 드 퍼퓸",
+    "brand": "COS",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "런던 기반 패션 브랜드 코스(COS)의 향수 라인 '코스 퍼퓨머리'가 오 드 퍼퓸 4종을 추가하고 고체",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "고체 향수",
+    "brand": "COS",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "COS, 향수 라인업 확대…고체 향수 첫선",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "패션 브랜드 코스가 향수 라인에 오 드 퍼퓸을 추가하고 고체 향수를 처음 선보였다.",
+  "key_fact_quote": "런던 기반 패션 브랜드 코스(COS)의 향수 라인 '코스 퍼퓨머리'가 오 드 퍼퓸 4종을 추가하고 고체",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

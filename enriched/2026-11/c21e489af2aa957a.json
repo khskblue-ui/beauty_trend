@@ -1,0 +1,44 @@
+{
+ "doc_id": "c21e489af2aa957a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bizwnews.com/news/articleView.html?idxno=153060",
+ "title": "CJ올리브영, '마이 퍼스트 미라클' 2기 출범…청년 뷰티 인재 키운다",
+ "summary": "CJ올리브영이 K 뷰티 인재 육성을 위한 사회공헌 프로그램 '마이 퍼스트 미라클' 2기와 수료생 네트워크... 한편 올리브영은 지난해 '미라클' 브랜드 를 론칭 하고, '미라클 박스' 등 다양한 사회공헌 활동을 통해 청년의 자립...",
+ "published_at": "2026-11-25T13:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "사회공헌",
+   "뷰티 인재 육성"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "c7090c932db6ea99",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

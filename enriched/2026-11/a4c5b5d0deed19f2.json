@@ -1,0 +1,50 @@
+{
+ "doc_id": "a4c5b5d0deed19f2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newsdream.kr/news/articleView.html?idxno=123002",
+ "title": "현대홈쇼핑 '코아시스', 몽골서 K뷰티 수출 길 열었다",
+ "summary": "현대홈쇼핑이 자체 오프라인 뷰티 편집숍 '코아시스(Coasis)' 입점 브랜드의 해외 판로 확대를 위해 몽골에서 수출 상담회를 열었다. 현대홈쇼핑은 지난 24일부터 이틀간 몽골 울란바타르 샹그릴라호텔에서 코아시스...",
+ "published_at": "2026-11-25T13:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MN"
+  ],
+  "brands": [
+   "코아시스",
+   "쟈스더마",
+   "세인트프랑"
+  ],
+  "companies": [
+   "현대홈쇼핑"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "몽골 시장",
+   "수출 상담회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "c13d97ff381619fb",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

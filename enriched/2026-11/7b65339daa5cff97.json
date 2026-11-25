@@ -1,0 +1,59 @@
+{
+ "doc_id": "7b65339daa5cff97",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://daily.hankooki.com/news/articleView.html?idxno=1429027",
+ "title": "한미사이언스 아데시, '미라클 퍼플 앰플' 출시 …더마 코스메틱 제품군...",
+ "summary": "26일 출시 한다고 25일 밝혔다. 신제품 은 붉은빛 동결건조 캡슐 '레드 이펙트'와 푸른빛 액상 베이스 '블루... 이달에는 무신사와 29CM, 더마 뷰티 편집숍 코오드에 입점하며 자사몰 중심의 유통망을 온·오프라인으로...",
+ "published_at": "2026-11-25T17:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아데시"
+  ],
+  "companies": [
+   "한미사이언스",
+   "무신사",
+   "29CM",
+   "코오드"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "앰플",
+   "동결건조 캡슐"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "미라클 퍼플 앰플",
+    "brand": "아데시",
+    "launch_date": "2026-11-26",
+    "launch_status": "upcoming",
+    "launch_quote": "26일 출시 한다고 25일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "한미사이언스 아데시가 미라클 퍼플 앰플을 출시한다.",
+  "key_fact_quote": "한미사이언스 아데시, '미라클 퍼플 앰플' 출시 …더마 코스메틱 제품군...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

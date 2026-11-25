@@ -1,0 +1,56 @@
+{
+ "doc_id": "1fef38562e8a6f6d",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100595",
+ "title": "K-소비재, 중국 프리미엄 유통망 타고 고가 시장 진출",
+ "summary": "중국 내 소비 시장에서 가격보다 제품의 가치와 품질을 중시하는 ‘가치 소비’와 고급화 트렌드가 확산하는 가운데, K-뷰티를 비롯한 국내 소비재 기업들이 현지 프리미엄 유통망을 발판 삼아 중국 고가 시장 공략에 나섰다.대한무역투자진흥공사(코트라, 사장 강경성)는 11월 20일부터 사흘간 중국 톈진의 대표 상권인 빈장다오 헝룽 광장 내 올레 매장에서 「프리미엄 마트 올레 K-소비재 판촉전」을 열었다.행사가 열린 빈장다오 헝룽광장점 상권은 평일 하루 평균 약 5만 명, 주말에는 8만~10만 명에 달하는 유동인구가 오가는 핵심 소비 거점이",
+ "published_at": "2026-11-25T12:58:32+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "코트라",
+   "올레",
+   "화룬완자"
+  ],
+  "keywords": [
+   "가치 소비",
+   "프리미엄 유통망",
+   "라이브 커머스",
+   "K소비재 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코트라가 중국 톈진 프리미엄 마트에서 K소비재 판촉전을 열어 중국 고가 시장 공략을 지원했다.",
+  "key_fact_quote": "중국 내 소비 시장에서 가격보다 제품의 가치와 품질을 중시하는 ‘가치 소비’와 고급화 트렌드가 확산하는 가운데, K-뷰티를 비롯한 국내 소비재 기업들이 현지 프리미엄 유통망을 발판 삼아 중국 고가 시장 공략에 나섰다.",
+  "events": [
+   {
+    "name": "프리미엄 마트 올레 K-소비재 판촉전",
+    "start_date": "2026-11-20",
+    "end_date": "2026-11-22",
+    "place": "빈장다오 헝룽 광장 내 올레 매장",
+    "quote": "대한무역투자진흥공사(코트라, 사장 강경성)는 11월 20일부터 사흘간 중국 톈진의 대표 상권인 빈장다오 헝룽 광장 내 올레 매장에서 「프리미엄 마트 올레 K-소비재 판촉전」을 열었다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": true
+}

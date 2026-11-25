@@ -1,0 +1,47 @@
+{
+ "doc_id": "0a4990b9c3a4fd1b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kpenews.com/View.aspx?No=4328227",
+ "title": "해시드·누리하우스, K-뷰티 ‘美 자본’ 잇는다..뉴욕서 노무라와 인베...",
+ "summary": "반짝 흥행보다 브랜드 정체성과 꾸준한 재구매 여부를 따지는 단계로 접어들었다. 해시드와 누리하우스가... 백수진 해시드 수석심사역은 북미 등 새 시장 개척과 헤어케어· 향수 ·더마로의 품목 확장에서 기회를 찾았다....",
+ "published_at": "2026-11-25T09:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 브랜드",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "해시드",
+   "누리하우스",
+   "노무라"
+  ],
+  "keywords": [
+   "K뷰티 투자",
+   "재구매",
+   "품목 확장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해시드와 누리하우스가 K뷰티 기업과 미국 자본을 잇는 데 나섰다.",
+  "key_fact_quote": "해시드·누리하우스, K-뷰티 ‘美 자본’ 잇는다",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

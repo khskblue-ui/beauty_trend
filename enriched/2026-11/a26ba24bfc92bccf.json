@@ -1,0 +1,44 @@
+{
+ "doc_id": "a26ba24bfc92bccf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoulfn.com/news/articleView.html?idxno=643939",
+ "title": "K뷰티 ·푸드 해외서 날았다···올해 소비재 수출 역대 최대",
+ "summary": "품목별로는 K뷰티 의 성장세가 가장 가팔랐다. 수출 액은 136억5000만달러로 34.6% 늘어 전체 K소비재 수출 에서 가장 큰 비중을 차지했다. 특히 영국과 네덜란드 수출 액은 각각 174.0%, 314.8% 증가하며 유럽...",
+ "published_at": "2026-11-25T17:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "GB",
+   "NL"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "K소비재 수출",
+   "유럽 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올해 K소비재 수출에서 K뷰티의 성장세가 가장 가팔랐다.",
+  "key_fact_quote": "품목별로는 K뷰티 의 성장세가 가장 가팔랐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

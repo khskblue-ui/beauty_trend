@@ -1,0 +1,44 @@
+{
+ "doc_id": "4cd5c920de2e35f2",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100597",
+ "title": "화장품 2분기 성장세 뚜렷…매출 24.1%·영업익 12.0%",
+ "summary": "2026년 2분기 화장품 제조업체들이 매출액증가율과 영업이익률, 세전순이익률을 나란히 끌어올리며 양호한 경영 성과를 거뒀다.한국보건산업진흥원(원장 고상백)이 발표한 ‘2026년 2분기 바이오헬스산업 기업경영분석’ 결과에 따르면, 2026년 2분기 화장품 분야 매출액증가율은 직전분기(15.7%) 대비 8.4%p 상승한 24.1%로 집계됐다. 이는 전체 바이오헬스산업 제조업체 328개 사(별도 기준)의 매출액증가율(12.9%, 25년 2분기 15.4조 원→26년 2분기 17.4조 원)과 의료기기 분야(8.3%→17.8%)를 웃도는 수치",
+ "published_at": "2026-11-25T13:13:01+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국보건산업진흥원"
+  ],
+  "keywords": [
+   "화장품 실적",
+   "중견기업 성장",
+   "수익성 개선"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올해 2분기 화장품 제조업체들이 매출 증가율과 영업이익률을 함께 끌어올렸다.",
+  "key_fact_quote": "2026년 2분기 화장품 제조업체들이 매출액증가율과 영업이익률, 세전순이익률을 나란히 끌어올리며 양호한 경영 성과를 거뒀다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": true
+}

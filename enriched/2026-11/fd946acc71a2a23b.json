@@ -1,0 +1,46 @@
+{
+ "doc_id": "fd946acc71a2a23b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://zdnet.co.kr/view/?no=20261125195012",
+ "title": "롯데홈쇼핑, 파리 팝업서 K뷰티 수출 성과…쁘렝땅 백화점 입점",
+ "summary": "롯데홈쇼핑 ‘이설’, 유럽 수출 길 뚫었다 쁘렝땅 백화점 오스만점 K뷰티 매장에는 3개 브랜드의 마스크팩, 기초화장품, 색조화장품 등 총 15개 상품이 입점한다. 롯데홈쇼핑은 이설 판매 전담 인력을 매장에 배치해 현지...",
+ "published_at": "2026-11-25T20:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데홈쇼핑",
+   "쁘렝땅 백화점"
+  ],
+  "keywords": [
+   "K뷰티 유럽 진출",
+   "백화점 입점",
+   "수출 플랫폼"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "롯데홈쇼핑 이설 참여 브랜드 상품이 파리 쁘렝땅 백화점에 입점한다.",
+  "key_fact_quote": "쁘렝땅 백화점 오스만점 K뷰티 매장에는 3개 브랜드의 마스크팩, 기초화장품, 색조화장품 등 총 15개 상품이 입점한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

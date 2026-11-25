@@ -1,0 +1,43 @@
+{
+ "doc_id": "2aa11be48729ac26",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://wemakenews.co.kr/news/view.php?no=26942",
+ "title": "CJ올리브영, 청년의 꿈에 날개 달다…K 뷰티 인재 육성 앞장",
+ "summary": "한편 올리브영은 지난해 통합 사회공헌 브랜드 ‘미라클(ME:RACLE)’을 론칭 했다. 자립준비청년에게 뷰티 ·웰니스 상품을 전달하는 ‘미라클 박스’ 등 청소년과 청년들의 건강한 성장과 자립을 돕는 활동을 펼치고 있다....",
+ "published_at": "2026-11-25T10:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "사회공헌",
+   "뷰티 인재 육성"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "CJ올리브영이 사회공헌 활동으로 청년 뷰티 인재 육성에 나서고 있다.",
+  "key_fact_quote": "한편 올리브영은 지난해 통합 사회공헌 브랜드 ‘미라클(ME:RACLE)’을 론칭 했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

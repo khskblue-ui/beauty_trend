@@ -1,0 +1,42 @@
+{
+ "doc_id": "fd0d0e1ee3773381",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gokorea.kr/news/articleView.html?idxno=887225",
+ "title": "K - 뷰티 ·푸드·패션 수출 신기록, 미국 시장 1위로 급부상",
+ "summary": "분야별로 보면 K - 뷰티 가 큰 성장을 보였다. 올해 136억5천만 달러의 수출 을 기록하며, 34.6%의 증가율로 가장 큰 상승폭을 보였다. 이는 전체 K -소비재 수출 의 47.6%를 차지한다. K -푸드 역시 성장세를 이어갔다....",
+ "published_at": "2026-11-25T11:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "K-소비재"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티가 K-소비재 가운데 가장 큰 수출 증가율을 보였다.",
+  "key_fact_quote": "올해 136억5천만 달러의 수출 을 기록하며, 34.6%의 증가율로 가장 큰 상승폭을 보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

@@ -1,0 +1,44 @@
+{
+ "doc_id": "12ab7c592e8656bb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.donga.com/110009/",
+ "title": "고객 리뷰 5만 건에 주목한 화장품 기업이 AI를 활용하는 법",
+ "summary": "화장품 을 사용한 소비자가 남기는 리뷰에는 제품의 장단점뿐만 아니라 피부 고민과 개선 요구 등 다양한... 고객의 실제 사용 경험을 분석해 제품 개선과 신제품 개발에 활용하려는 목적도 있다. 오가니시티는 성분과...",
+ "published_at": "2026-11-25T18:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "오가니시티"
+  ],
+  "keywords": [
+   "AI 리뷰 분석",
+   "고객 데이터 활용",
+   "신제품 개발"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 기업이 고객 리뷰를 AI로 분석해 제품 개선과 신제품 개발에 활용하고 있다.",
+  "key_fact_quote": "고객의 실제 사용 경험을 분석해 제품 개선과 신제품 개발에 활용하려는 목적도 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

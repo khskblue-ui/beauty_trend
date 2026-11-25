@@ -1,0 +1,50 @@
+{
+ "doc_id": "c1550387c1f8663e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45648",
+ "title": "현대홈쇼핑 코아시스, 몽골 시장서 K - 뷰티 판로 확보… 182억원 규모 상...",
+ "summary": "중소 K - 뷰티 브랜드의 해외 판로를 지원해 베트남에서 약 122억 원을 거둔 성과를 보였다. 지난 2017년부터 일본·미국·베트남 등 8개국에서 154개 협력사 해외 진출을 지원했으며, 누적 수출 상담액은 1175억원에 달한다....",
+ "published_at": "2026-11-25T16:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MN"
+  ],
+  "brands": [
+   "코아시스",
+   "쟈스더마",
+   "세인트프랑"
+  ],
+  "companies": [
+   "현대홈쇼핑"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "몽골 시장",
+   "수출 상담회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "c13d97ff381619fb",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

@@ -1,0 +1,69 @@
+{
+ "doc_id": "6f1c659ade3f9aa4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ekn.kr/web/view.php?key=20261125026424417",
+ "title": "[똑똑한뷰티] 화해글로벌, 에이블리, CJ올리브영, 쿠쿠 메디킨, 현대면...",
+ "summary": "지난 7월 신제품 출시 당시에도 전월 대비 470% 성장률을 기록했다. 성장을 견인한 '메디킨 트리플 콤보... 팝업스토어에서는 향수 , 스킨케어, 메이크업 등 디올 대표 제품 24종으로 구성한 '30 몽테뉴 어드벤트 캘린더...",
+ "published_at": "2026-11-25T12:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "메디킨",
+   "디올"
+  ],
+  "companies": [
+   "화해글로벌",
+   "에이블리",
+   "CJ올리브영",
+   "쿠쿠"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "어드벤트 캘린더",
+   "팝업스토어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "메디킨 트리플 콤보",
+    "brand": "메디킨",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "30 몽테뉴 어드벤트 캘린더",
+    "brand": "디올",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "디올 팝업스토어에서 대표 제품으로 구성한 어드벤트 캘린더를 선보인다.",
+  "key_fact_quote": "팝업스토어에서는 향수 , 스킨케어, 메이크업 등 디올 대표 제품 24종으로 구성한 '30 몽테뉴 어드벤트 캘린더",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

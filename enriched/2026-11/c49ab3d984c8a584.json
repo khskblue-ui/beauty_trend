@@ -1,0 +1,42 @@
+{
+ "doc_id": "c49ab3d984c8a584",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.news1.kr/photos/8232476",
+ "title": "날개 단 K - 뷰티 … 수출 실적 역대 최대",
+ "summary": "K - 뷰티 ·푸드·패션·컬처 등 K -소비재 수출 액이 이미 지난해 연간 실적을 넘어 역대 최대를 기록한 것으로 나타났다. 지난해 같은 기간보다 21.5% 증가한 것으로, 같은 기간 기준 역대 최대 규모다. 2026.11.25/뉴스1",
+ "published_at": "2026-11-25T15:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출",
+   "K-소비재 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "7803cfaac4306fd9",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

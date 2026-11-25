@@ -1,0 +1,45 @@
+{
+ "doc_id": "e3701743a8b28dfa",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.geconomy.co.kr/news/article.html?no=326042",
+ "title": "이정호, 직장 생활 병행하며 인셀덤 사업 시작…뷰티 분야 새로운 도전",
+ "summary": "중 화장품 유통 사업에 관심을 갖게 된 것으로 전해졌다. 인셀덤은 리만코리아가 선보인 스킨케어 브랜드로, 피부 관리와 일상적인 뷰티 케어를 중심으로 다양한 제품을 출시 해 왔다. 2025년에는 브랜드 리뉴얼을 통해 기존...",
+ "published_at": "2026-11-25T14:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "인셀덤"
+  ],
+  "companies": [
+   "리만코리아"
+  ],
+  "keywords": [
+   "화장품 유통 사업",
+   "스킨케어 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "이정호가 직장 생활과 함께 리만코리아 스킨케어 브랜드 인셀덤 유통 사업을 시작했다.",
+  "key_fact_quote": "인셀덤은 리만코리아가 선보인 스킨케어 브랜드로, 피부 관리와 일상적인 뷰티 케어를 중심으로 다양한 제품을 출시 해 왔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

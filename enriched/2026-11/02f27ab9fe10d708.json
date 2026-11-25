@@ -1,0 +1,47 @@
+{
+ "doc_id": "02f27ab9fe10d708",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/25/2026112550095.html",
+ "title": "한국콜마 화장품 매출 1조 앞지른 코스맥스 … 글로벌 1위 '초격차' 키운...",
+ "summary": "국내에서 K뷰티 브랜드의 수출 이 성장을 이끌었다면 미국에선 이병주 코스맥스비티아이 대표이사 부회장이 재편한 현지 사업이 초격차에 힘을 보탰다. 이 부회장은 미국 생산시설을 뉴저지로 합치는 한편 인디...",
+ "published_at": "2026-11-25T11:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "한국콜마",
+   "코스맥스비티아이"
+  ],
+  "keywords": [
+   "화장품 ODM",
+   "K뷰티 수출",
+   "미국 생산 거점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스가 국내 K뷰티 수출과 미국 사업 재편에 힘입어 화장품 매출에서 한국콜마를 앞질렀다.",
+  "key_fact_quote": "국내에서 K뷰티 브랜드의 수출 이 성장을 이끌었다면 미국에선 이병주 코스맥스비티아이 대표이사 부회장이 재편한 현지 사업이 초격차에 힘을 보탰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

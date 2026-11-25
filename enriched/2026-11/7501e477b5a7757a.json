@@ -1,0 +1,54 @@
+{
+ "doc_id": "7501e477b5a7757a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026112509484407610",
+ "title": "크리스챤 디올 뷰티, 한소희·허남준이 선택한 홀리데이 향수 기프트 공...",
+ "summary": "1999년 출시 이후 디올 하우스의 상징적인 향수 중 하나로 자리매김했다. 허남준은 디올 하우스의 상징색인 그레이에서 영감을 받은 '그리 디올 오 드 퍼퓸'을 선택했다. 블랙과 화이트 사이의 그레이 컬러를 향으로...",
+ "published_at": "2026-11-25T09:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "크리스챤 디올 뷰티"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 향수",
+   "향수 기프트",
+   "셀럽 추천"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "그리 디올 오 드 퍼퓸",
+    "brand": "크리스챤 디올 뷰티",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "크리스챤 디올 뷰티가 한소희와 허남준이 고른 홀리데이 향수 기프트를 공개했다.",
+  "key_fact_quote": "허남준은 디올 하우스의 상징색인 그레이에서 영감을 받은 '그리 디올 오 드 퍼퓸'을 선택했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

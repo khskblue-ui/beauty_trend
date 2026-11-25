@@ -1,0 +1,43 @@
+{
+ "doc_id": "3f1f4beaecf898ba",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=200601",
+ "title": "반도체 급락에 인버스 ETF 웃었다…화장품도 강세",
+ "summary": "'TIGER 화장품'은 13.18%, 'HANARO K - 뷰티 '는 12.99% 올라 각각 수익률 상위권에 이름을 올렸다. 중국의 한류... 실제 정책 변화와 현지 소비 회복 여부, 국내 화장품 기업의 수출 증가, 해외 매출과 수익성 개선 등이 확인돼야...",
+ "published_at": "2026-11-25T17:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 ETF",
+   "화장품주",
+   "K-뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 관련 ETF가 강세를 보이며 수익률 상위권에 올랐다.",
+  "key_fact_quote": "'TIGER 화장품'은 13.18%, 'HANARO K - 뷰티 '는 12.99% 올라 각각 수익률 상위권에 이름을 올렸다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

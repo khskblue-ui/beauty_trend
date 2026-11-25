@@ -1,0 +1,105 @@
+{
+ "doc_id": "32c20d7434da9242",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312994",
+ "title": "코스모프로프·코스모팩 2026서 확인한 K-뷰티 현주소…기술력·신뢰가 승부처",
+ "summary": "세계 최대 뷰티 박람회인 \\'코스모프로프·코스모팩(Cosmoprof·Cosmopack) 2026\\' 현장에서 K-뷰티의 글로벌 경쟁력이 다시 한번 확인됐다.다만 이번 전시에서는 단순한 K-뷰티 열풍보다 인디 브랜드의 성장, 고기능성 제품 수요 확대, 글로벌 규제 대응 역량 확보 등이 새로운 화두로 떠올랐다.뷰티경제가 전시에 참가한 화장품 ODM 기업 유씨엘과 스킨케어 브랜드 라보페를 취재한 결과, 글로벌 바이어들의 관심은 \\'한국 화장품\\' 자체보다 차별화된 기술력과 시장 경쟁력을 갖춘 제품으로 이동하고 있는 것으로 나타났다.인터뷰기업들은",
+ "published_at": "2026-11-25T09:50:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "HK",
+   "CN",
+   "JP",
+   "GB",
+   "LT",
+   "IN",
+   "MY",
+   "ID",
+   "TH"
+  ],
+  "brands": [
+   "라보페"
+  ],
+  "companies": [
+   "유씨엘",
+   "라보페"
+  ],
+  "keywords": [
+   "인디 브랜드",
+   "고기능성 제품",
+   "글로벌 규제 대응",
+   "헤어케어",
+   "미네랄 선케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "컬러 체인징(Color-Changing)",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "올인원 클렌징 폼 패드",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "OTC 미네랄 선케어",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "리프팅 홀드 크림 마스크",
+    "brand": "라보페",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "코스모프로프·코스모팩 현장에서 해외 바이어의 관심이 한국 화장품 자체보다 차별화된 기술력과 시장 경쟁력을 갖춘 제품으로 옮겨 가고 있다.",
+  "key_fact_quote": "뷰티경제가 전시에 참가한 화장품 ODM 기업 유씨엘과 스킨케어 브랜드 라보페를 취재한 결과, 글로벌 바이어들의 관심은 '한국 화장품' 자체보다 차별화된 기술력과 시장 경쟁력을 갖춘 제품으로 이동하고 있는 것으로 나타났다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "유씨엘은 헤어 앰플과 헤어 미스트, 컬러 샴푸와 함께 PDRN, NAD+ 등 기능성 원료를 적용한 제품 개발 문의가 이어졌다고 설명했다."
+   },
+   {
+    "name": "NAD+",
+    "quote": "유씨엘은 헤어 앰플과 헤어 미스트, 컬러 샴푸와 함께 PDRN, NAD+ 등 기능성 원료를 적용한 제품 개발 문의가 이어졌다고 설명했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": true
+}

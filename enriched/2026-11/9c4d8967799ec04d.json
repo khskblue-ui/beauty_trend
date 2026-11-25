@@ -1,0 +1,44 @@
+{
+ "doc_id": "9c4d8967799ec04d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=402715",
+ "title": "제주 식품·화장품, 해외 바이어에 물었더니",
+ "summary": "가격대 K - 뷰티 제품이 인기를 끌고 있어 10달러 안팎의 제품을 찾고 있다\"고 전했다. KGSF는 무역협회가 무역의 날을 기념해 매년 여는 해외 바이어 초청 1:1 수출 상담회로 올해 19회째다. 올해는 30개국 해외 바이어...",
+ "published_at": "2026-11-26T06:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "무역협회"
+  ],
+  "keywords": [
+   "수출 상담회",
+   "중저가 K뷰티",
+   "지역 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해외 바이어들이 수출 상담회에서 중저가 K뷰티 제품을 찾고 있다고 밝혔다.",
+  "key_fact_quote": "KGSF는 무역협회가 무역의 날을 기념해 매년 여는 해외 바이어 초청 1:1 수출 상담회로 올해 19회째다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

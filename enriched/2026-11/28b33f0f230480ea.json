@@ -1,0 +1,48 @@
+{
+ "doc_id": "28b33f0f230480ea",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=133136",
+ "title": "현대홈쇼핑, 몽골서 182억원 규모 수출 상담 성과… K뷰티 중기 해외 진출...",
+ "summary": "행사 기간 몽골 뷰티 인플루언서를 비롯해 700여명의 고객이 방문했다. 현대홈쇼핑은 이번 상담 성과가 실질적인 수출 계약으로 이어질 수 있도록 지원하는 한편, 계약을 체결한 브랜드를 대상으로 해외 마케팅 컨설팅과...",
+ "published_at": "2026-11-25T16:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MN"
+  ],
+  "brands": [
+   "코아시스"
+  ],
+  "companies": [
+   "현대홈쇼핑"
+  ],
+  "keywords": [
+   "K-뷰티 몽골 진출",
+   "수출 상담회",
+   "중소 뷰티 브랜드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "0cb0b2740bc4cb1c",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

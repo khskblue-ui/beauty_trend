@@ -1,0 +1,61 @@
+{
+ "doc_id": "ae25c762041d4c76",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sentv.co.kr/article/view/sentv202611250229",
+ "title": "한미사이언스 아데시, 캡슐·앰플 혼합형 화장품 출시…2주 만에 탄력 개...",
+ "summary": "신제품 은 서로 다른 제형의 성분을 하나의 용기에 분리해 보관하다가 사용 직전 혼합하는 방식으로... 5월 선보인 프리미엄 더마 코스메틱 브랜드로, 독자 원료 H-EGTI를 기반으로 고기능성 화장품 라인업을 확대하고 있다.",
+ "published_at": "2026-11-25T16:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아데시"
+  ],
+  "companies": [
+   "한미사이언스"
+  ],
+  "keywords": [
+   "더마 코스메틱",
+   "혼합형 제형",
+   "고기능성 화장품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "캡슐·앰플 혼합형 화장품",
+    "brand": "아데시",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "한미사이언스 아데시, 캡슐·앰플 혼합형 화장품 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "한미사이언스의 더마 브랜드 아데시가 캡슐과 앰플을 사용 직전 섞는 혼합형 화장품을 출시했다.",
+  "key_fact_quote": "신제품 은 서로 다른 제형의 성분을 하나의 용기에 분리해 보관하다가 사용 직전 혼합하는 방식으로",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "H-EGTI",
+    "quote": "5월 선보인 프리미엄 더마 코스메틱 브랜드로, 독자 원료 H-EGTI를 기반으로 고기능성 화장품 라인업을 확대하고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

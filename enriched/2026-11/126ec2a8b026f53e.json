@@ -1,0 +1,45 @@
+{
+ "doc_id": "126ec2a8b026f53e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.tournews21.com/news/articleView.html?idxno=149265",
+ "title": "현대홈쇼핑 '코아시스', 몽골서 K뷰티 중소 브랜드 수출 상담회 개최",
+ "summary": "브랜드가 바이어와 마주 앉아 수출 협력 방안을 논의하도록 한 것이다. 상담 공간 맞은편에서는 현지 소비자를 위한 체험형 팝업스토어가 운영됐다. 몽골 뷰티 인플루언서를 비롯한 방문객들이 브랜드별 대표 제품을...",
+ "published_at": "2026-11-25T20:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "MN"
+  ],
+  "brands": [],
+  "companies": [
+   "현대홈쇼핑"
+  ],
+  "keywords": [
+   "K뷰티 수출 상담회",
+   "체험형 팝업스토어",
+   "몽골 시장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "현대홈쇼핑 코아시스가 몽골에서 중소 K뷰티 브랜드 수출 상담회를 열었다.",
+  "key_fact_quote": "현대홈쇼핑 '코아시스', 몽골서 K뷰티 중소 브랜드 수출 상담회 개최",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

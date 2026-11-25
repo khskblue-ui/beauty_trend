@@ -1,0 +1,40 @@
+{
+ "doc_id": "bbbfd6eabce8fb0c",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/coffee-fragrances-have-grown-in-popularity",
+ "title": "Coffee fragrances have grown in popularity, becoming the new cool coffee order",
+ "summary": "As café culture becomes more mainstream, perfumers are once again turning to coffee scents in their new fragrance launches. Cosmetics Business investigates why toasted scents are back on consumers’ radar",
+ "published_at": "2026-11-25T21:48:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "커피 향수",
+   "토스티드 향",
+   "카페 문화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "카페 문화가 퍼지면서 조향사들이 신작 향수에 커피 향을 다시 쓰고 있다.",
+  "key_fact_quote": "As café culture becomes more mainstream, perfumers are once again turning to coffee scents in their new fragrance launches.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

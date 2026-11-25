@@ -1,0 +1,54 @@
+{
+ "doc_id": "1b4ae26d5078ee9f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/25/2026112550122.html",
+ "title": "“ 뷰티 가 돈 된다” … 다각화 전략에 집중하는 소형가전업계",
+ "summary": "신일전자는 이달 9일, 미세전류와 진동, 온열 기능을 활용해 다양한 피부 관리 모드를 제공하는 ‘갈바닉 뷰티 디바이스’를 출시 했다. 갈바닉은 피부에 약한 전류를 흘려주는 방식을 의미한다. 신제품 은 피부 관리...",
+ "published_at": "2026-11-25T11:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "신일전자"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "사업 다각화",
+   "갈바닉 디바이스"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "갈바닉 뷰티 디바이스",
+    "brand": "신일전자",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "신일전자는 이달 9일, 미세전류와 진동, 온열 기능을 활용해 다양한 피부 관리 모드를 제공하는 ‘갈바닉 뷰티 디바이스’를 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "소형가전업계가 뷰티 디바이스를 앞세워 사업 다각화에 나서고 있다.",
+  "key_fact_quote": "“ 뷰티 가 돈 된다” … 다각화 전략에 집중하는 소형가전업계",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

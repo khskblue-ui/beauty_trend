@@ -1,0 +1,48 @@
+{
+ "doc_id": "2e3a936b30d96571",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/are-magazines-the-next-big-status-symbol-for",
+ "title": "Are magazines the next big status symbol for beauty brands?",
+ "summary": "As the backlash against artificial intelligence grows and consumers step back from digital overload, beauty brands such as Chanel, MAC Cosmetics and Eborian are creating tangible human experiences with cultural cachet through magazines",
+ "published_at": "2026-11-25T21:20:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [
+   "Chanel",
+   "MAC Cosmetics",
+   "Eborian"
+  ],
+  "companies": [
+   "Chanel",
+   "MAC Cosmetics",
+   "Eborian"
+  ],
+  "keywords": [
+   "브랜드 매거진",
+   "아날로그 경험",
+   "디지털 피로"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "AI 반발과 디지털 피로 속에 뷰티 브랜드들이 잡지로 실물 경험을 만들고 있다.",
+  "key_fact_quote": "As the backlash against artificial intelligence grows and consumers step back from digital overload, beauty brands such as Chanel, MAC Cosmetics and Eborian are creating tangible human experiences with cultural cachet through magazines",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

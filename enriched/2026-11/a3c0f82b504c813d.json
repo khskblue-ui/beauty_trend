@@ -1,0 +1,45 @@
+{
+ "doc_id": "a3c0f82b504c813d",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=313015",
+ "title": "공사차량 전복 사망사고…고용노동부, 산재 해당 여부부터 재조사",
+ "summary": "한국도로공사가 발주하고 IPARK현대산업개발㈜가 시공하는 충남 아산시 고속도로 건설공사 현장에서 레미콘 운반 차량이 임시 진입도로 아래로 전복돼 운전자가 사망한 사고와 관련해 고용노동부가 산업재해 해당 여부를 다시 조사하고 있는 것으로 확인됐다.사고 초기 조사에서는 산업재해로 처리되지 않았으나, 유족의 재조사 요청에 따라 담당 부서가 변경되면서 사고의 성격과 관련 사실관계를 다시 살펴보고 있다.사고는 지난 8월 10일 오전 충남 아산시 영인면 신현리 250-9 일원에서 발생했다.사고 피해자 고(故) 심모 씨는 고속국도 제32호선 아",
+ "published_at": "2026-11-25T08:22:46+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국도로공사",
+   "IPARK현대산업개발㈜",
+   "고용노동부"
+  ],
+  "keywords": [
+   "산업재해",
+   "건설 현장 안전"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "고속도로 건설 현장 차량 전복 사망사고에 대해 고용노동부가 산재 해당 여부를 다시 조사하고 있다.",
+  "key_fact_quote": "사고 초기 조사에서는 산업재해로 처리되지 않았으나, 유족의 재조사 요청에 따라 담당 부서가 변경되면서 사고의 성격과 관련 사실관계를 다시 살펴보고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": true
+}

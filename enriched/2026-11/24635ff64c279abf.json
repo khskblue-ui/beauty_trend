@@ -1,0 +1,47 @@
+{
+ "doc_id": "24635ff64c279abf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887184",
+ "title": "해시드, K뷰티 美 투자 유치 지원···노무라와 맞손",
+ "summary": "박소현 하루나 대표는 제품 출시 2주 만에 약 10만달러의 매출을 올린 성과를 공유했다. 현지 유통망을... 백수진 해시드 수석심사역은 북미를 비롯한 신규 시장 진출과 헤어케어· 향수 ·더마 화장품 등으로의 제품군...",
+ "published_at": "2026-11-25T15:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "해시드",
+   "노무라",
+   "하루나"
+  ],
+  "keywords": [
+   "K뷰티 투자",
+   "북미 진출",
+   "인디 뷰티 브랜드"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해시드가 노무라와 손잡고 K뷰티 기업의 미국 투자 유치를 지원한다.",
+  "key_fact_quote": "백수진 해시드 수석심사역은 북미를 비롯한 신규 시장 진출과 헤어케어· 향수 ·더마 화장품 등으로의 제품군",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

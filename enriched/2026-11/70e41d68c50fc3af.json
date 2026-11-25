@@ -1,0 +1,45 @@
+{
+ "doc_id": "70e41d68c50fc3af",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=768893",
+ "title": "[K-뷰티 신화를 쓰다 ⑧끝] 제조 넘어 수출 실무까지 지원…코스맥스 '...",
+ "summary": "K-뷰티가 글로벌 화장품 시장의 판도를 바꾸고 있다. 수출액은 사상 최대 행진을 이어가고 미국 등 주요... 국내외 연구개발 인력 약 1300명이 연간 1만여 개의 신제품 을 개발하며 동시에 진행하는 개발 프로젝트도 약...",
+ "published_at": "2026-11-26T06:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "화장품 제조",
+   "수출 실무 지원"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "코스맥스가 화장품 제조를 넘어 고객사의 수출 실무까지 지원하고 있다.",
+  "key_fact_quote": "K-뷰티가 글로벌 화장품 시장의 판도를 바꾸고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

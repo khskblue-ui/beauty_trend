@@ -1,0 +1,47 @@
+{
+ "doc_id": "da4d8e74aadab63b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886949",
+ "title": "제놀루션, 화장품 현대홈쇼핑 론칭",
+ "summary": "프리미엄 화장품 브랜드 '구함(KU:HAM)'의 론칭 방송을 진행한다고 25일 밝혔다. 이번 현대홈쇼핑 진출은 지난 10월 롯데홈쇼핑 신제품 론칭 방송을 마무리한 데 이은 성과다. 단기간에 국내 주요 메이저 홈쇼핑 채널로...",
+ "published_at": "2026-11-25T15:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "구함"
+  ],
+  "companies": [
+   "제놀루션",
+   "현대홈쇼핑",
+   "롯데홈쇼핑"
+  ],
+  "keywords": [
+   "홈쇼핑 론칭",
+   "프리미엄 화장품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "제놀루션이 프리미엄 화장품 브랜드 구함의 현대홈쇼핑 론칭 방송을 진행한다.",
+  "key_fact_quote": "프리미엄 화장품 브랜드 '구함(KU:HAM)'의 론칭 방송을 진행한다고 25일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

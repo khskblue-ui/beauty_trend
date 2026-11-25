@@ -1,0 +1,45 @@
+{
+ "doc_id": "e3f969d1c6aaed09",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hankyung.com/article/202611258379h",
+ "title": "경북도, K -푸드· 뷰티 , 베트남 달랏서 수출 상담 224만 달러",
+ "summary": "규모의 수출 상담과 계약을 추진했다고 25일 발표했다. 람동성 인민위원회 등이 주최한 엑스포에는... 행사장에서는 현장판매와 수입상 1대1 수출 상담이 함께 열렸다. 도 대표단은 황명석 행정부지사를 단장으로 식품...",
+ "published_at": "2026-11-25T08:37:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "VN"
+  ],
+  "brands": [],
+  "companies": [
+   "경북도"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "수출 상담",
+   "베트남 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "경북도가 베트남 달랏 엑스포에서 K-푸드와 뷰티 수출 상담을 진행했다.",
+  "key_fact_quote": "규모의 수출 상담과 계약을 추진했다고 25일 발표했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

@@ -1,0 +1,67 @@
+{
+ "doc_id": "be447c5b2cabcb8b",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58792",
+ "title": "2026년 글로벌 화장품 규제 동향 세미나 개최... 아시아 4개국(8차) 유럽·남미(9차)",
+ "summary": "[코스인코리아닷컴 김민석 기자] 아시아 4개국 및 유럽+남미국가의 규제 동향을 한자리에서 분석, 해설하는 세미나가 열린다. 대한화장품산업연구원은 오는 12월 3일(목)과 12월 10일(금) 두 차례에 걸쳐 ‘2026 글로벌 화장품 규제 동향 세미나’를 스페이스쉐어 강남센터 비너스홀(서울 강남 소재)에…",
+ "published_at": "2026-11-24T16:42:43+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CN",
+   "JP",
+   "ID",
+   "AE",
+   "GB",
+   "US",
+   "CA",
+   "BR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원"
+  ],
+  "keywords": [
+   "글로벌 화장품 규제",
+   "안전성 평가",
+   "규제 세미나"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한화장품산업연구원이 아시아와 유럽·아메리카 화장품 규제 동향 세미나를 두 차례 연다.",
+  "key_fact_quote": "[코스인코리아닷컴 김민석 기자] 아시아 4개국 및 유럽+남미 국가의 규제 동향을 한자리에서 분석, 해설하는 세미나가 열린다.",
+  "events": [
+   {
+    "name": "2026 글로벌 화장품 규제 동향 세미나",
+    "start_date": "2026-12-03",
+    "end_date": null,
+    "place": "스페이스쉐어 강남센터 비너스홀(서울 강남 소재)",
+    "quote": "8차 교육은 아시아 규제 동향 및 가이드라인을 주제로 12월 3일(목) 13:00~17:10에 열린다."
+   },
+   {
+    "name": "2026 글로벌 화장품 규제 동향 세미나",
+    "start_date": "2026-12-10",
+    "end_date": null,
+    "place": "스페이스쉐어 강남센터 비너스홀(서울 강남 소재)",
+    "quote": "9차 교육은 유럽·아메리카 규제 동향 및 가이드라인을 주제로 12월 10일(목) 13:00~17:10에 진행된다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": true
+}

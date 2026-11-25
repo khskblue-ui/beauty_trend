@@ -1,0 +1,45 @@
+{
+ "doc_id": "4edd5029fcbeb6d8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.busan.com/view/busan/view.php?code=2026112511101513675",
+ "title": "현대글로비스, 인천공항에 물류센터 열고 K뷰티 ·음반 역직구 공략",
+ "summary": "인천공항 화물터미널과 약 3km 떨어져 있으며, 최근 세관에서 수입 특송통관장 운영을 승인받아 수출 화물에... 국내 뷰티 브랜드에는 일본행 항공 특송 서비스도 제공한다. 앞으로 미술품 등 고부가가치 화물로 취급...",
+ "published_at": "2026-11-25T11:11:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "현대글로비스"
+  ],
+  "keywords": [
+   "역직구",
+   "물류센터",
+   "항공 특송"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "현대글로비스가 인천공항에 물류센터를 열고 K뷰티 역직구 시장을 공략한다.",
+  "key_fact_quote": "현대글로비스, 인천공항에 물류센터 열고 K뷰티 ·음반 역직구 공략",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

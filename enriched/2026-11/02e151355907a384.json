@@ -1,0 +1,68 @@
+{
+ "doc_id": "02e151355907a384",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=313007",
+ "title": "Global Retail Giants Turn to Korea as K-Beauty Exports Hit Record Highs",
+ "summary": "Global retailers are increasingly looking to South Korea as a key sourcing hub for beauty products, underscoring the growing international influence of K-Beauty and the sector\\'s record-breaking export performance.Against this backdrop, the Korea International Trade Association (KITA) opened the 2026",
+ "published_at": "2026-11-25T10:05:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US",
+   "JP",
+   "TH",
+   "NL",
+   "KW"
+  ],
+  "brands": [],
+  "companies": [
+   "Korea International Trade Association",
+   "Sally Beauty Holdings",
+   "Pan Pacific International Trading",
+   "Don Quijote",
+   "Mercado Libre",
+   "Central Department Store",
+   "Qogita",
+   "The Sultan Center",
+   "Cosmax",
+   "Kolmar Korea",
+   "Cosmecca Korea"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "글로벌 유통 바이어",
+   "할랄 시장",
+   "화장품 ODM"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "글로벌 대형 유통사들이 K뷰티 공급처를 확보하려고 한국무역협회 소싱 박람회에 대거 참여했다.",
+  "key_fact_quote": "Industry observers say the increased participation of global retailers highlights a broader effort to secure reliable K-Beauty supply channels as international demand continues to grow.",
+  "events": [
+   {
+    "name": "2026 Korea Grand Sourcing Fair",
+    "start_date": "2026-11-24",
+    "end_date": "2026-11-25",
+    "place": "COEX",
+    "quote": "Against this backdrop, the Korea International Trade Association (KITA) opened the 2026 Korea Grand Sourcing Fair at COEX in Seoul on November 24."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": true
+}

@@ -1,0 +1,42 @@
+{
+ "doc_id": "2362695ecad87fbf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=366579",
+ "title": "셀프 뷰티 시장 디바이스 매출이 증가",
+ "summary": "이러한 흐름은 K - 뷰티 의 위상과도 맞물린다. 식품의약품안전처가 지난 5월 발표한 '2025년 화장품 생산· 수출 ·수입 통계'에 따르면 지난해 국내 화장품 수출 액은 114억 달러로 전년보다 11.8% 늘었다. 무역수지 흑자는...",
+ "published_at": "2026-11-25T11:26:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "셀프 뷰티",
+   "뷰티 디바이스",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "셀프 뷰티 시장에서 디바이스 매출이 늘고 있다.",
+  "key_fact_quote": "셀프 뷰티 시장 디바이스 매출이 증가",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

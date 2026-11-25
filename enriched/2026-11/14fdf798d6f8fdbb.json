@@ -1,0 +1,42 @@
+{
+ "doc_id": "14fdf798d6f8fdbb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=580426&class=8&grp=",
+ "title": "수출 1조 달러 조연은 K뷰티 ·…미국·유럽서 날개 단 K화장품",
+ "summary": "올해 11월 19일까지 화장품과 미용제품 등 K뷰티 수출 액이 136억 달러를 넘어서 지난해 연간 실적을 이미 경신했다. 특히 미국과 유럽에서 수출이 큰 폭으로 늘면서 K뷰티가 아시아 시장을 넘어 글로벌까지...",
+ "published_at": "2026-11-25T15:47:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "글로벌 시장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 수출액이 이미 지난해 연간 실적을 넘어섰고 미국과 유럽 수출이 크게 늘었다.",
+  "key_fact_quote": "올해 11월 19일까지 화장품과 미용제품 등 K뷰티 수출 액이 136억 달러를 넘어서 지난해 연간 실적을 이미 경신했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

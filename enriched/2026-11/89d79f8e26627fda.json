@@ -1,0 +1,74 @@
+{
+ "doc_id": "89d79f8e26627fda",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.widedaily.com/news/articleView.html?idxno=304707",
+ "title": "생태계 교란 식물이 K뷰티 원료로…여경협 '미래여성경제인육성사업' 결...",
+ "summary": "화장품 을 개발해 이날 대학 부문 대상의 영예를 안았다. 이들이 선보인 뷰티 브랜드 '서리내'는 현재 잡티 앰플과 저자극 수분 무기자차 선크림을 시중에 판매하고 있으며, 두 달 뒤에는 선 스틱 제품까지 추가로 출시 할...",
+ "published_at": "2026-11-25T11:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "서리내"
+  ],
+  "companies": [
+   "여경협"
+  ],
+  "keywords": [
+   "생태계 교란 식물 원료",
+   "무기자차 선크림",
+   "저자극 화장품"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "잡티 앰플",
+    "brand": "서리내",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "저자극 수분 무기자차 선크림",
+    "brand": "서리내",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "선 스틱",
+    "brand": "서리내",
+    "launch_date": null,
+    "launch_status": "upcoming",
+    "launch_quote": "두 달 뒤에는 선 스틱 제품까지 추가로 출시 할",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "생태계 교란 식물을 원료로 쓴 화장품 브랜드가 여성 창업 육성 사업에서 대상을 받았다.",
+  "key_fact_quote": "생태계 교란 식물이 K뷰티 원료로",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

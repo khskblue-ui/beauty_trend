@@ -1,0 +1,49 @@
+{
+ "doc_id": "5e2e8f9f0764ff05",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=141358",
+ "title": "\"파리 팝업 성과가 정규 입점으로\"…롯데홈쇼핑 '이설' 참여 K뷰티 3사,...",
+ "summary": "프랑스 파리 마레지구에서 열린 국내 중소 뷰티 브랜드 팝업스토어가 현지 백화점 정규 매장 입점으로 이어졌다. 롯데홈쇼핑은 자체 K -브랜드 수출 플랫폼 '이설(Eeseol)' 참여 브랜드인 하우스오브비, 세인트프랑, BOM이...",
+ "published_at": "2026-11-25T07:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "하우스오브비",
+   "세인트프랑",
+   "BOM"
+  ],
+  "companies": [
+   "롯데홈쇼핑"
+  ],
+  "keywords": [
+   "K-뷰티 유럽 진출",
+   "팝업스토어",
+   "백화점 입점"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "파리 팝업스토어에 참여한 중소 K뷰티 브랜드들이 현지 백화점 정규 매장에 입점했다.",
+  "key_fact_quote": "프랑스 파리 마레지구에서 열린 국내 중소 뷰티 브랜드 팝업스토어가 현지 백화점 정규 매장 입점으로 이어졌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

@@ -1,0 +1,53 @@
+{
+ "doc_id": "059883da2d865e3f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=141496",
+ "title": "한광영 현대홈쇼핑 사장 \" K뷰티 중소 협력사 글로벌 판로 확대 지원\"",
+ "summary": "입점 브랜드를 대상으로 해외 바이어와 직접 만나는 수출 상담회를 열고 현지 소비자 체험 행사까지 연계하면서 국내 유망 K뷰티 브랜드의 해외 판로 확대에 나섰다. 현대홈쇼핑은 지난 24일부터 이틀간 몽골 울란바타르...",
+ "published_at": "2026-11-25T14:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "MN"
+  ],
+  "brands": [],
+  "companies": [
+   "현대홈쇼핑"
+  ],
+  "keywords": [
+   "K뷰티 수출 상담회",
+   "중소 브랜드 해외 진출",
+   "소비자 체험 행사"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "현대홈쇼핑이 몽골에서 입점 브랜드 대상 수출 상담회와 소비자 체험 행사를 열었다.",
+  "key_fact_quote": "입점 브랜드를 대상으로 해외 바이어와 직접 만나는 수출 상담회를 열고 현지 소비자 체험 행사까지 연계하면서 국내 유망 K뷰티 브랜드의 해외 판로 확대에 나섰다.",
+  "events": [
+   {
+    "name": "수출 상담회",
+    "start_date": "2026-11-24",
+    "end_date": "2026-11-25",
+    "place": "몽골 울란바타르",
+    "quote": "현대홈쇼핑은 지난 24일부터 이틀간 몽골 울란바타르"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

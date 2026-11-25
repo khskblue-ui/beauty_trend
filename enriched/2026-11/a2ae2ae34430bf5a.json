@@ -1,0 +1,49 @@
+{
+ "doc_id": "a2ae2ae34430bf5a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/industry/business_info/2026/11/25/AKKK2NVZHZD3XOKHZRGCTZ3ECU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "크리스챤 디올 뷰티, 신세계 강남점서 홀리데이 팝업 운영… 한소희·허...",
+ "summary": "이날 검은색 실크 드레스와 금발 단발머리로 등장한 한소희는 해당 향수 와 함께 홀리데이 컬렉션을 소개했다. 1999년 출시 된 ‘쟈도르 오 드 퍼퓸’은 여러 꽃향기를 조합한 플로럴 부케 계열 향수 다. 일랑일랑과 로즈...",
+ "published_at": "2026-11-25T13:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "크리스챤 디올 뷰티"
+  ],
+  "companies": [
+   "크리스챤 디올 뷰티",
+   "신세계"
+  ],
+  "keywords": [
+   "홀리데이 팝업",
+   "플로럴 향수",
+   "셀럽 추천 향수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "9fc4fc2464aebca8",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

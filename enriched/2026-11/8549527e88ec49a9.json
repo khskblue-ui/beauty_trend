@@ -1,0 +1,58 @@
+{
+ "doc_id": "8549527e88ec49a9",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58801",
+ "title": "2026 보건산업 성과교류회, 세계시장 진출 보건산업 성과 공유... 유공자 86명 포상",
+ "summary": "[코스인코리아닷컴 김민석 기자]보건복지부와 한국보건산업진흥원은 11월 25일 서울 서초구 JW메리어트 호텔 서울에서 ‘2026 보건산업 성과교류회’를 열고 보건산업 발전에 기여한 유공자 86명을 포상했다. 올해로 12회째를 맞은 행사에는 정경실 보건복지부 보건의료정책실장과 고상백 한국보건…",
+ "published_at": "2026-11-25T20:05:11+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "보건복지부",
+   "한국보건산업진흥원",
+   "한미약품",
+   "알테오젠",
+   "올릭스",
+   "위즈팜",
+   "메디웨일"
+  ],
+  "keywords": [
+   "보건산업 포상",
+   "K뷰티 유럽 진출",
+   "바이오헬스"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "보건복지부와 한국보건산업진흥원이 보건산업 성과교류회를 열고 유공자를 포상했다.",
+  "key_fact_quote": "[코스인코리아닷컴 김민석 기자] 보건복지부와 한국보건산업진흥원은 11월 25일 서울 서초구 JW메리어트 호텔 서울에서 ‘2026 보건산업 성과교류회’를 열고 보건산업 발전에 기여한 유공자 86명을 포상했다.",
+  "events": [
+   {
+    "name": "2026 보건산업 성과교류회",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "place": "서울 서초구 JW메리어트 호텔 서울",
+    "quote": "[코스인코리아닷컴 김민석 기자] 보건복지부와 한국보건산업진흥원은 11월 25일 서울 서초구 JW메리어트 호텔 서울에서 ‘2026 보건산업 성과교류회’를 열고 보건산업 발전에 기여한 유공자 86명을 포상했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": true
+}

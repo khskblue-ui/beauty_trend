@@ -1,0 +1,55 @@
+{
+ "doc_id": "14cda0b1226b2e3a",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/shiseido-uncovers-deep-pore-structure-ageing-link",
+ "title": "Shiseido research uncovers deep-pore structure linked to ageing",
+ "summary": "Shiseido has identified a deep-pore structure linked to age-related pore enlargement and sagging, developing a proprietary targeted delivery technology to improve pore appearance with niacinamide and glycylglycine",
+ "published_at": "2026-11-25T20:55:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "ingredient",
+  "countries": [
+   "JP"
+  ],
+  "brands": [
+   "Shiseido"
+  ],
+  "companies": [
+   "Shiseido"
+  ],
+  "keywords": [
+   "모공 케어",
+   "안티에이징",
+   "타깃 전달 기술"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "시세이도가 노화와 연관된 깊은 모공 구조를 규명하고 나이아신아마이드와 글리실글리신을 전달하는 자체 기술을 개발했다.",
+  "key_fact_quote": "Shiseido has identified a deep-pore structure linked to age-related pore enlargement and sagging, developing a proprietary targeted delivery technology to improve pore appearance with niacinamide and glycylglycine",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "niacinamide",
+    "quote": "Shiseido has identified a deep-pore structure linked to age-related pore enlargement and sagging, developing a proprietary targeted delivery technology to improve pore appearance with niacinamide and glycylglycine"
+   },
+   {
+    "name": "glycylglycine",
+    "quote": "Shiseido has identified a deep-pore structure linked to age-related pore enlargement and sagging, developing a proprietary targeted delivery technology to improve pore appearance with niacinamide and glycylglycine"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

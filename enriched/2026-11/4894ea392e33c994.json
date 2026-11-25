@@ -1,0 +1,42 @@
+{
+ "doc_id": "4894ea392e33c994",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.vegannews.co.kr/news/article.html?no=411279",
+ "title": "화장품 원료 찾는 기업에 그린바이오 31개사 소재 정보 공개",
+ "summary": "이번 발표에는 제품별 출시 일정이나 계약 실적은 포함되지 않았다. 농산물에서 화장품 원료를 얻는 과정을 표현한 설명 이미지. 행사 현장이나 공개된 원료를 촬영한 것이 아니다. (그래픽=비건뉴스·AI 생성)",
+ "published_at": "2026-11-26T00:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "그린바이오",
+   "화장품 원료",
+   "농산물 소재"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "그린바이오 기업의 화장품 소재 정보가 공개됐지만 제품별 출시 일정이나 계약 실적은 포함되지 않았다.",
+  "key_fact_quote": "이번 발표에는 제품별 출시 일정이나 계약 실적은 포함되지 않았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-7",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

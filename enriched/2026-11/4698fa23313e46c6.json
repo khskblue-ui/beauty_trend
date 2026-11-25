@@ -1,0 +1,41 @@
+{
+ "doc_id": "4698fa23313e46c6",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/you-ve-secured-the-retail-deal-now-what",
+ "title": "You've secured the retail deal. Now what?",
+ "summary": "Lemonpath explores what retailers could expect from your beauty brand and the conversations worth having before your products hit the shelves",
+ "published_at": "2026-11-26T01:16:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "Lemonpath"
+  ],
+  "keywords": [
+   "리테일 입점",
+   "유통사 협상"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "리테일 입점 계약 뒤 뷰티 브랜드가 유통사와 나눠야 할 논의를 다룬다.",
+  "key_fact_quote": "Lemonpath explores what retailers could expect from your beauty brand and the conversations worth having before your products hit the shelves",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

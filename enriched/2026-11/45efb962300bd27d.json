@@ -1,0 +1,43 @@
+{
+ "doc_id": "45efb962300bd27d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2496948",
+ "title": "다시 中 두드리는 K뷰티···외형 확장보다 '실속' 챙긴다",
+ "summary": "사드 사태와 현지 브랜드의 약진 등으로 중국 사업에 어려움을 겪었던 국내 화장품 기업들이 사업 기회를... 다음 달부터 주요 상권에서 팝업스토어 등 체험형 마케팅을 강화하고 내년에는 중국 시장을 겨냥한 신제품 ...",
+ "published_at": "2026-11-25T18:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 중국 진출",
+   "팝업스토어",
+   "체험형 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 사업에 어려움을 겪던 국내 화장품 기업들이 다시 중국 시장 공략에 나서고 있다.",
+  "key_fact_quote": "사드 사태와 현지 브랜드의 약진 등으로 중국 사업에 어려움을 겪었던 국내 화장품 기업들이 사업 기회를...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

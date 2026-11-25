@@ -1,0 +1,44 @@
+{
+ "doc_id": "07afd4a84cff461f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.widedaily.com/news/articleView.html?idxno=304616",
+ "title": "[특징주] 아우딘퓨쳐스, 화장품 테마 매수세 유입에 급등...원스톱 ODM·...",
+ "summary": "글로벌 K - 뷰티 열풍과 해외 시장 확대 기대감 속에 화장품 업종 전반으로 매수세가 유입되면서... 화장품 관련주 전반에 매수세가 몰린 배경에는 수출 시장 다변화와 업황 개선 기대감이 자리하고 있다. 중국...",
+ "published_at": "2026-11-25T09:36:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "아우딘퓨쳐스"
+  ],
+  "keywords": [
+   "화장품주",
+   "ODM",
+   "K-뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K-뷰티 해외 확대 기대감에 화장품 업종으로 매수세가 몰리며 아우딘퓨쳐스 주가가 급등했다.",
+  "key_fact_quote": "글로벌 K - 뷰티 열풍과 해외 시장 확대 기대감 속에 화장품 업종 전반으로 매수세가 유입되면서...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

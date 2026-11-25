@@ -1,0 +1,90 @@
+{
+ "doc_id": "6d11ccda92614a4b",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54048",
+ "title": "K-뷰티 원료 국산화, 글로벌 경쟁력 키운다",
+ "summary": "대한화장품산업연구원, 12월 7일 원료 산업 경쟁력 강화 세미나 K-뷰티의 글로벌 성장세를 뒷받침할 국산 화장품 원료의 기술 경쟁력 확보와 생산 인프라 구축, 글로벌 시장 진출 전략을 공유하는 자리가 마련된다. (재)대한화장품산업연구원(원장 조신행· www.kcii.re.kr ·이하 화산연)은 오는 12월 7…",
+ "published_at": "2026-11-25T21:05:56+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원",
+   "엘씨에스바이오텍",
+   "케어젠",
+   "지에프씨생명과학",
+   "현대바이오랜드",
+   "수이케이",
+   "한농화성",
+   "에이치앤에이파마켐",
+   "윈게이트코리아"
+  ],
+  "keywords": [
+   "원료 국산화",
+   "PDRN",
+   "원료 안전성 평가",
+   "수출 규제"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "대한화장품산업연구원이 원료 국산화 지원 사업 성과를 공유하는 원료 산업 경쟁력 강화 세미나를 연다.",
+  "key_fact_quote": "(재)대한화장품산업연구원(원장 조신행· www.kcii.re.kr ·이하 화산연)은 오는 12월 7일(월) 서울 코엑스 컨퍼런스룸 301호에서 ‘K-Beauty 원료 산업 경쟁력 강화 세미나’를 개최한다고 밝혔다.",
+  "events": [
+   {
+    "name": "K-Beauty 원료 산업 경쟁력 강화 세미나",
+    "start_date": "2026-12-07",
+    "end_date": null,
+    "place": "서울 코엑스 컨퍼런스룸 301호",
+    "quote": "(재)대한화장품산업연구원(원장 조신행· www.kcii.re.kr ·이하 화산연)은 오는 12월 7일(월) 서울 코엑스 컨퍼런스룸 301호에서 ‘K-Beauty 원료 산업 경쟁력 강화 세미나’를 개최한다고 밝혔다."
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "세라마이드",
+    "quote": "△ 엘씨에스바이오텍(친환경·무공해 공정 기반 고부가 세라마이드 생산설비 구축)"
+   },
+   {
+    "name": "CG-Follicare",
+    "quote": "△ 케어젠(손상모 복구 펩타이드 CG-Follicare 대량 생산 시스템 고도화)"
+   },
+   {
+    "name": "PDRN",
+    "quote": "△ 현대바이오랜드(PDRN·엑소좀류 제조 역량 확보와 경쟁력 강화)"
+   },
+   {
+    "name": "엑소좀류",
+    "quote": "△ 현대바이오랜드(PDRN·엑소좀류 제조 역량 확보와 경쟁력 강화)"
+   },
+   {
+    "name": "참당귀",
+    "quote": "△ 수이케이(한반도 자생식물 참당귀 기반 PDRN 개발)"
+   },
+   {
+    "name": "카보머",
+    "quote": "△ 한농화성(카보머 포장설비 구축과 유럽화장품원료협회 GMP 기준인 EFfCI 인증 획득)"
+   },
+   {
+    "name": "마이크로캡슐",
+    "quote": "△ 에이치앤에이파마켐(화장품용 기능성 마이크로캡슐 원료 생산설비 구축과 활용 계획)"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": true
+}

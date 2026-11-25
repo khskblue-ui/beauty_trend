@@ -1,0 +1,46 @@
+{
+ "doc_id": "b5f995fbe73ee552",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fnnews.com/news/202611251526409123",
+ "title": "파리서 K뷰티 팝업 통했다…롯데홈쇼핑 '이설' 참여 브랜드 쁘렝땅百 입...",
+ "summary": "롯데홈쇼핑이 자체 기획한 K브랜드 수출 플랫폼 '이설(Eeseol)'을 통해 국내 중소 뷰티 브랜드의 유럽 판로를 확대하고 있다. 현지 팝업스토어에 이어 프랑스 주요 백화점과 쇼핑몰 입점을 추진했다. 25일 업계에 따르면...",
+ "published_at": "2026-11-25T15:43:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [],
+  "companies": [
+   "롯데홈쇼핑"
+  ],
+  "keywords": [
+   "K뷰티 유럽 진출",
+   "K뷰티 수출 플랫폼",
+   "백화점 입점",
+   "팝업스토어"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "롯데홈쇼핑이 수출 플랫폼 이설을 통해 국내 중소 뷰티 브랜드의 유럽 판로를 넓히고 있다.",
+  "key_fact_quote": "롯데홈쇼핑이 자체 기획한 K브랜드 수출 플랫폼 '이설(Eeseol)'을 통해 국내 중소 뷰티 브랜드의 유럽 판로를 확대하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

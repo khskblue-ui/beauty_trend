@@ -1,0 +1,50 @@
+{
+ "doc_id": "a78daf945e7d721b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.tf.co.kr/read/economy/2393302.htm",
+ "title": "현대홈쇼핑 '코아시스', 몽골서 182억 규모 K - 뷰티 수출 상담 성과",
+ "summary": "입점 브랜드 10곳·현지 바이어 34개사 연결 체험형 팝업스토어에 700여명 방문 현대홈쇼핑의 자체 오프라인 뷰티 편집숍 '코아시스'가 몽골 수출 상담회에서 1354만달러(약 182억원) 규모의 상담 실적을 올렸다. 입점 중소...",
+ "published_at": "2026-11-25T15:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "MN"
+  ],
+  "brands": [
+   "코아시스",
+   "쟈스더마",
+   "세인트프랑"
+  ],
+  "companies": [
+   "현대홈쇼핑"
+  ],
+  "keywords": [
+   "K뷰티 수출",
+   "몽골 시장",
+   "수출 상담회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "c13d97ff381619fb",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

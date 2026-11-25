@@ -1,0 +1,41 @@
+{
+ "doc_id": "e471def4957f6349",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ajunews.com/view/20261125151629720",
+ "title": "화장품·라면 날았다… K소비재 수출 , 이미 지난해 연간 실적 추월",
+ "summary": "올해 K뷰티 수출 액은 전년 동기 대비 34.6% 증가한 136억5000만 달러로 지난해 연간 실적(116억1000만 달러)을 넘어섰다. K소비재 전체 수출 증가액의 69.2%가 뷰티 분야에서 발생했으며 전체 수출에서 차지하는...",
+ "published_at": "2026-11-25T15:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 수출",
+   "K소비재 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올해 K뷰티 수출액이 이미 지난해 연간 실적을 넘어섰다.",
+  "key_fact_quote": "올해 K뷰티 수출 액은 전년 동기 대비 34.6% 증가한 136억5000만 달러로 지난해 연간 실적(116억1000만 달러)을 넘어섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "38d3637921c73281",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.widedaily.com/news/articleView.html?idxno=304732",
+ "title": "[특징주] 제닉, 반도체 약세 속 화장품 테마 수급 쏠림에 1만6,700원선 돌...",
+ "summary": "25일 코스닥 시장에서 하이드로겔 마스크팩 전문기업 제닉이 한·중 관계 개선 기대감과 글로벌 K - 뷰티 수출 다변화 흐름에 따른 화장품 테마 전반의 강세에 힘입어 10%대 급등세를 보이고 있다. 한국거래소에 따르면...",
+ "published_at": "2026-11-25T11:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "제닉"
+  ],
+  "keywords": [
+   "화장품 테마주",
+   "K뷰티 수출 다변화",
+   "하이드로겔 마스크팩"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "하이드로겔 마스크팩 기업 제닉 주가가 화장품 테마 강세에 힘입어 급등했다.",
+  "key_fact_quote": "25일 코스닥 시장에서 하이드로겔 마스크팩 전문기업 제닉이 한·중 관계 개선 기대감과 글로벌 K - 뷰티 수출 다변화 흐름에 따른 화장품 테마 전반의 강세에 힘입어 10%대 급등세를 보이고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

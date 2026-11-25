@@ -1,0 +1,49 @@
+{
+ "doc_id": "963fdff8859b2205",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.job-post.co.kr/news/articleView.html?idxno=240762",
+ "title": "해시드·누리하우스, 뉴욕서 K-뷰티와 미국 자본 연결…글로벌 투자 유...",
+ "summary": "하루나는 출시 2주 만에 약 10만달러의 매출을 달성했다. 파마시 뷰티 출신 인력들이 설립한 페이보릿(fvrts)... 백수진 해시드 수석심사역은 헤어케어와 향수 , 더마 등으로의 사업 영역 확대가 새로운 성장 기회가 될...",
+ "published_at": "2026-11-25T11:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "하루나",
+   "페이보릿(fvrts)"
+  ],
+  "companies": [
+   "해시드",
+   "누리하우스"
+  ],
+  "keywords": [
+   "K-뷰티 투자",
+   "미국 자본",
+   "헤어케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "해시드와 누리하우스가 뉴욕에서 K-뷰티 기업과 미국 자본을 연결했다.",
+  "key_fact_quote": "해시드·누리하우스, 뉴욕서 K-뷰티와 미국 자본 연결…글로벌 투자 유...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

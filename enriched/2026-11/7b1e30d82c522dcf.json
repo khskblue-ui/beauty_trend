@@ -1,0 +1,44 @@
+{
+ "doc_id": "7b1e30d82c522dcf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.venturesquare.net/1130614/",
+ "title": "최용준 룰루랩 대표, 550만 건의 피부 데이터로 K뷰티의 새로운 기준을...",
+ "summary": "출시 를 앞둔 B2C 모바일 앱 역시 이러한 방향의 연장선에 있다. 체성분 분석 서비스인 인바디를 떠올리면 이해하기 쉽다. 어느 헬스장에서 체성분을 측정하든 개인의 기록이 앱에 쌓이듯, 화장품 매장과 피부과...",
+ "published_at": "2026-11-25T08:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "룰루랩"
+  ],
+  "keywords": [
+   "피부 데이터",
+   "뷰티 테크",
+   "피부 분석 앱"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "룰루랩이 축적한 피부 데이터를 바탕으로 B2C 모바일 앱 출시를 앞두고 있다.",
+  "key_fact_quote": "출시 를 앞둔 B2C 모바일 앱 역시 이러한 방향의 연장선에 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

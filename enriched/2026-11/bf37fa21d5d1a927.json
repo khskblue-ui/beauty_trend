@@ -1,0 +1,43 @@
+{
+ "doc_id": "bf37fa21d5d1a927",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=3&item=&no=102438",
+ "title": "뉴델리 K -푸드 팝업스토어, K -팝· K - 뷰티 연계해 ‘바글바글’",
+ "summary": "중동·중남미와 함께 3대 수출 신시장으로 꼽히는 인도 시장을 공략하기 위해 뉴델리에서 K -푸드 복합... 상설무대에서는 매운맛 도전, 김밥 말기 대결, K - 뷰티 강연, 쿠킹쇼 등이 진행됐다. ‘ K -팝 커버댄스 대회’...",
+ "published_at": "2026-11-25T20:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "event",
+  "countries": [
+   "IN",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티 연계 마케팅",
+   "인도 시장",
+   "팝업스토어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뉴델리 K푸드 팝업스토어가 K팝과 K뷰티 프로그램을 연계해 인도 시장 공략에 나섰다.",
+  "key_fact_quote": "상설무대에서는 매운맛 도전, 김밥 말기 대결, K - 뷰티 강연, 쿠킹쇼 등이 진행됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

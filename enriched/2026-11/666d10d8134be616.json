@@ -1,0 +1,62 @@
+{
+ "doc_id": "666d10d8134be616",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312832",
+ "title": "[종합] 블랙프라이데이 앞둔 K-뷰티…'아마존·스킨케어·기능성'이 승부 가른다",
+ "summary": "미국 최대 쇼핑 행사인 블랙프라이데이와 연말 쇼핑 시즌을 앞두고 국내 화장품 업계가 미국 시장 공략에 속도를 내고 있다.뷰티경제가 코스맥스, 아모레퍼시픽, LG생활건강, 애경산업을 대상으로 미국 시장 동향과 블랙프라이데이 대응 전략을 취재한 결과, 올해 미국 시장의 핵심 키워드는 \\'아마존\\', \\'기능성 스킨케어\\', \\'제품 효능 중심 소비\\'로 요약됐다.이들은 공통적으로 아마존을 중심으로 한 온라인 채널의 영향력이 확대되고 있으며, 소비자들의 관심이 색조보다는 기능성 스킨케어로 이동하고 있다고 진단했다.\\\"아마존이 판을 바꿨다\\\"…이커머스",
+ "published_at": "2026-11-25T10:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [
+   "닥터그루트",
+   "CNP",
+   "빌리프",
+   "일리윤",
+   "미쟝센"
+  ],
+  "companies": [
+   "코스맥스",
+   "아모레퍼시픽",
+   "LG생활건강",
+   "애경산업",
+   "아마존"
+  ],
+  "keywords": [
+   "기능성 스킨케어",
+   "효능 중심 소비",
+   "하이드로겔 마스크팩",
+   "스키니피케이션",
+   "블랙프라이데이"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 화장품 기업들은 미국 블랙프라이데이를 앞두고 아마존과 기능성 스킨케어, 효능 중심 소비를 핵심 흐름으로 꼽았다.",
+  "key_fact_quote": "뷰티경제가 코스맥스, 아모레퍼시픽, LG생활건강, 애경산업을 대상으로 미국 시장 동향과 블랙프라이데이 대응 전략을 취재한 결과, 올해 미국 시장의 핵심 키워드는 '아마존', '기능성 스킨케어', '제품 효능 중심 소비'로 요약됐다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "하이드로겔",
+    "quote": "특히 하이드로겔 마스크팩과 아이패치에 대한 글로벌 고객사들의 개발 문의가 꾸준히 증가하고 있다고 설명했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": true
+}

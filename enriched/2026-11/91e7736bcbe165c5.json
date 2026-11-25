@@ -1,0 +1,46 @@
+{
+ "doc_id": "91e7736bcbe165c5",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.widedaily.com/news/articleView.html?idxno=304639",
+ "title": "[특징주] 실리콘투, 뷰티 스킨·에이피알과 화장품 테마 동반 랠리…거래...",
+ "summary": "글로벌 K - 뷰티 열풍과 화장품 업종 전반의 수급 유입에 힘입어 실리콘투가 전일 8.86% 상승 이후 후속... 화장품주 전반으로 매수세가 몰린 배경에는 수출 시장 다변화 기대감과 장중 수급 이동이 자리하고 있다. 중국...",
+ "published_at": "2026-11-25T10:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CN"
+  ],
+  "brands": [],
+  "companies": [
+   "실리콘투",
+   "뷰티 스킨",
+   "에이피알"
+  ],
+  "keywords": [
+   "화장품 테마주",
+   "K뷰티 수출 다변화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "실리콘투가 화장품 업종 수급 유입에 힘입어 다른 화장품주와 함께 상승했다.",
+  "key_fact_quote": "글로벌 K - 뷰티 열풍과 화장품 업종 전반의 수급 유입에 힘입어 실리콘투가 전일 8.86% 상승 이후 후속",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": false
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "d1dbc0f3956691f3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://magazine.hankyung.com/job-joy/article/202611250677d",
+ "title": "[2026 고려대학교 캠퍼스타운 스타트업 CEO] 바이오 기술 기반 화장품 ·...",
+ "summary": "“바이오프릭스는 아직 제품 출시 단계가 아니라, 그 앞단인 특허 보강(여드름 패치) 및 제품 개발(마시는... 우선 국내에서 제품과 시장성을 검증한 이후, 향후에는 반려동물과 화장품 시장이 큰 해외 시장으로 진출하는...",
+ "published_at": "2026-11-25T23:22:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "바이오프릭스"
+  ],
+  "keywords": [
+   "바이오 화장품",
+   "뷰티 스타트업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "바이오프릭스는 아직 제품 출시 전 단계로 특허 보강과 제품 개발을 진행하고 있다.",
+  "key_fact_quote": "바이오프릭스는 아직 제품 출시 단계가 아니라, 그 앞단인 특허 보강(여드름 패치) 및 제품 개발(마시는",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

@@ -1,0 +1,45 @@
+{
+ "doc_id": "28d9e399fbc36c60",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.segyebiz.com/newsView/20261125514370?OutUrl=naver",
+ "title": "랜딩인터내셔널, 3000만명 고객 보유한 美 3대 군 교역처에 K뷰티 입점",
+ "summary": "K뷰티 가 이제는 미군 기지, 프리미엄 백화점, 바다 위 크루즈까지 주 무대를 넓혀가고 있다. 식품의약품안전처에 따르면 2026년 3분기 누적 국내 화장품 수출 액은 111억 달러(잠정)로 전년 동기 대비 31.1% 증가하며...",
+ "published_at": "2026-11-25T16:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "랜딩인터내셔널"
+  ],
+  "keywords": [
+   "K-뷰티 미국 진출",
+   "군 교역처 유통",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "랜딩인터내셔널이 미국 군 교역처에 K뷰티 제품을 입점시켰다.",
+  "key_fact_quote": "K뷰티 가 이제는 미군 기지, 프리미엄 백화점, 바다 위 크루즈까지 주 무대를 넓혀가고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-5",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

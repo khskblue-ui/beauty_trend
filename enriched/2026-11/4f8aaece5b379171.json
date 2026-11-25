@@ -1,0 +1,63 @@
+{
+ "doc_id": "4f8aaece5b379171",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.edaily.co.kr/News/Read?newsId=03585046645649328&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+ "title": "\"젊고 건강하게\"…K뷰티, 롱제비티 성분 경쟁",
+ "summary": "펩타이드를 포함한 화장품 역시 같은 기간 16% 증가했다. 각 브랜드도 2024년께부터 주목받던 PDRN에 이어 NAD, NMN 등 차세대 성분을 넣은 신제품 으로 차별화하고 있다. LG생활건강(051900)의 더후가 지난 8월 자체 개발한...",
+ "published_at": "2026-11-25T16:39:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "더후"
+  ],
+  "companies": [
+   "LG생활건강"
+  ],
+  "keywords": [
+   "롱제비티",
+   "안티에이징 성분",
+   "펩타이드 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티 브랜드들이 롱제비티 성분을 넣은 신제품으로 차별화하고 있다.",
+  "key_fact_quote": "각 브랜드도 2024년께부터 주목받던 PDRN에 이어 NAD, NMN 등 차세대 성분을 넣은 신제품 으로 차별화하고 있다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "펩타이드",
+    "quote": "펩타이드를 포함한 화장품 역시 같은 기간 16% 증가했다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "각 브랜드도 2024년께부터 주목받던 PDRN에 이어 NAD, NMN 등 차세대 성분을 넣은 신제품 으로 차별화하고 있다."
+   },
+   {
+    "name": "NAD",
+    "quote": "각 브랜드도 2024년께부터 주목받던 PDRN에 이어 NAD, NMN 등 차세대 성분을 넣은 신제품 으로 차별화하고 있다."
+   },
+   {
+    "name": "NMN",
+    "quote": "각 브랜드도 2024년께부터 주목받던 PDRN에 이어 NAD, NMN 등 차세대 성분을 넣은 신제품 으로 차별화하고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:29+00:00",
+ "had_body": false
+}

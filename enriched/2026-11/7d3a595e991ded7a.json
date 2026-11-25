@@ -1,0 +1,81 @@
+{
+ "doc_id": "7d3a595e991ded7a",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100591",
+ "title": "폴앤조보떼, ‘쇼콜라 컬렉션’",
+ "summary": "프렌치 감성 뷰티 브랜드 폴앤조 보떼(PAUL & JOE BEAUTÉ)가 초콜릿을 선물하는 파리의 크리스마스 문화를 담은 리미티드 에디션 '쇼콜라 컬렉션'을 12월 1일 출시한다.마치 크리스마스 선물 상자를 연상시키는 이번 컬렉션은 ▲상큼 달콤한 스트로베리 초콜릿 향을 담은 ‘쇼콜라 핸드크림’ ▲밀크 초콜릿 컬러의 거울과 전용 파우치로 구성된 ‘쇼콜라 뷰티미러’ ▲다채로운 펄감으로 반짝이는 ‘쇼콜라 아이섀도우 토퍼’ 3종으로 구성되어 있다. 컬렉션 전 제품에는 브랜드의 마스코트인 고양이 ‘집시’와 ‘나네트’와 초콜릿",
+ "published_at": "2026-11-25T12:38:43+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "폴앤조 보떼"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 리미티드 에디션",
+   "핸드크림",
+   "구르망 향"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "쇼콜라 컬렉션",
+    "brand": "폴앤조 보떼",
+    "launch_date": "2026-12-01",
+    "launch_status": "upcoming",
+    "launch_quote": "프렌치 감성 뷰티 브랜드 폴앤조 보떼(PAUL & JOE BEAUTÉ)가 초콜릿을 선물하는 파리의 크리스마스 문화를 담은 리미티드 에디션 '쇼콜라 컬렉션'을 12월 1일 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "쇼콜라 핸드크림",
+    "brand": "폴앤조 보떼",
+    "launch_date": "2026-12-01",
+    "launch_status": "upcoming",
+    "launch_quote": "프렌치 감성 뷰티 브랜드 폴앤조 보떼(PAUL & JOE BEAUTÉ)가 초콜릿을 선물하는 파리의 크리스마스 문화를 담은 리미티드 에디션 '쇼콜라 컬렉션'을 12월 1일 출시한다.",
+    "notes": [
+     "스트로베리 초콜릿"
+    ],
+    "notes_quote": "마치 크리스마스 선물 상자를 연상시키는 이번 컬렉션은 ▲상큼 달콤한 스트로베리 초콜릿 향을 담은 ‘쇼콜라 핸드크림’ ▲밀크 초콜릿 컬러의 거울과 전용 파우치로 구성된 ‘쇼콜라 뷰티미러’ ▲다채로운 펄감으로 반짝이는 ‘쇼콜라 아이섀도우 토퍼’ 3종으로 구성되어 있다."
+   },
+   {
+    "name": "쇼콜라 뷰티미러",
+    "brand": "폴앤조 보떼",
+    "launch_date": "2026-12-01",
+    "launch_status": "upcoming",
+    "launch_quote": "프렌치 감성 뷰티 브랜드 폴앤조 보떼(PAUL & JOE BEAUTÉ)가 초콜릿을 선물하는 파리의 크리스마스 문화를 담은 리미티드 에디션 '쇼콜라 컬렉션'을 12월 1일 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "쇼콜라 아이섀도우 토퍼",
+    "brand": "폴앤조 보떼",
+    "launch_date": "2026-12-01",
+    "launch_status": "upcoming",
+    "launch_quote": "프렌치 감성 뷰티 브랜드 폴앤조 보떼(PAUL & JOE BEAUTÉ)가 초콜릿을 선물하는 파리의 크리스마스 문화를 담은 리미티드 에디션 '쇼콜라 컬렉션'을 12월 1일 출시한다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "폴앤조 보떼가 파리의 크리스마스 문화를 담은 리미티드 에디션 쇼콜라 컬렉션을 출시한다.",
+  "key_fact_quote": "프렌치 감성 뷰티 브랜드 폴앤조 보떼(PAUL & JOE BEAUTÉ)가 초콜릿을 선물하는 파리의 크리스마스 문화를 담은 리미티드 에디션 '쇼콜라 컬렉션'을 12월 1일 출시한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-6",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-25T21:35:28+00:00",
+ "had_body": true
+}
