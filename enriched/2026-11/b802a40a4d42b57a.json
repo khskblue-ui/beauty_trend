@@ -1,0 +1,54 @@
+{
+ "doc_id": "b802a40a4d42b57a",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54055",
+ "title": "IBITA, 미국 FDA 규제·수출 지원 강화",
+ "summary": "국제뷰티산업교역협회(회장 윤주택·이하 IBITA)가 K-뷰티 기업의 미국 시장 진출 지원 영역을 FDA 규제 대응과 수입 통관 분야까지 확대한다. IBITA는 지난 25일 미국 FDA 규제·수입 통관 전문 자문기업 제다앤어소시에이츠(JEDAamp;ASSOCIATES)와 한국 화장품·뷰티 기업의 미국 시장 진…",
+ "published_at": "2026-11-26T19:48:47+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "IBITA",
+   "제다앤어소시에이츠"
+  ],
+  "keywords": [
+   "MoCRA 대응",
+   "미국 FDA 규제",
+   "수입 통관"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "IBITA가 제다앤어소시에이츠와 협약을 맺고 미국 FDA 규제와 통관 지원을 넓힌다.",
+  "key_fact_quote": "IBITA는 지난 25일 미국 FDA 규제·수입 통관 전문 자문기업 제다앤어소시에이츠(JEDA&ASSOCIATES) 와 한국 화장품·뷰티 기업의 미국 시장 진출 지원을 위한 업무협약을 맺었다.",
+  "events": [
+   {
+    "name": "웨비나",
+    "start_date": "2026-12-13",
+    "end_date": null,
+    "place": null,
+    "quote": "IBITA는 이번 협약에 따른 후속 사업으로 오는 12월 13일(예정) 미국 FDA·MoCRA 규제 대응 방안과 수입 통관 리스크 예방을 주제로 웨비나를 개최할 계획이다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "c489782dcb98d5d4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.m-i.kr/news/articleView.html?idxno=2023901",
+ "title": "대기업 놓친 생활 속 수요…신흥 K -가전· 뷰티 기업 약진",
+ "summary": "중소·중견기업들이 K -소비재 수출 주역으로 떠오르고 있다. 가전은 중국 업체의 공세에 대기업이 수익성 위주로 사업을 줄이는 틈을 생활밀착형 제품이 파고드는가 하면, 뷰티 는 기기와 화장품을 묶은 홈케어 브랜드가...",
+ "published_at": "2026-11-26T15:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "홈케어 뷰티 디바이스",
+   "중소기업 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중소·중견기업이 소비재 수출 주역으로 떠오르고 있다.",
+  "key_fact_quote": "중소·중견기업들이 K -소비재 수출 주역으로 떠오르고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

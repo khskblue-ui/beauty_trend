@@ -1,0 +1,44 @@
+{
+ "doc_id": "1a62eae65e4dae8d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.meconomynews.com/news/articleView.html?idxno=204203",
+ "title": "대한화장품산업연구원, 2027년 K뷰티 전주기 지원 강화한다",
+ "summary": "국가별 유망 제품군과 경쟁 브랜드, 제품 포지셔닝 분석을 강화하고 수출 절차와 인허가, 통관, 물류·유통 비용 등 실질적인 해외시장 진출에 필요한 정보도 확대 제공할 계획이다. K - 뷰티 체험·홍보 확대 국내 중소...",
+ "published_at": "2026-11-26T18:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원"
+  ],
+  "keywords": [
+   "수출 지원",
+   "해외 인허가",
+   "K-뷰티 홍보"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한화장품산업연구원이 해외시장 진출 정보 제공을 늘리는 등 K뷰티 지원을 강화한다.",
+  "key_fact_quote": "국가별 유망 제품군과 경쟁 브랜드, 제품 포지셔닝 분석을 강화하고 수출 절차와 인허가, 통관, 물류·유통 비용 등 실질적인 해외시장 진출에 필요한 정보도 확대 제공할 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

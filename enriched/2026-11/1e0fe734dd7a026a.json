@@ -1,0 +1,54 @@
+{
+ "doc_id": "1e0fe734dd7a026a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.finomy.com/news/articleView.html?idxno=268046",
+ "title": "조선미녀, 두바이 첫 팝업···선크림 판매량 2.8배로",
+ "summary": "현지 소비자가 신제품 을 직접 사용하고 피부 톤에 맞는 색상을 선택할 수 있도록 체험 공간을 구성했다. 행사 중심 제품인 '데이스크린 틴티드 선크림'은 지난 9월 중동 시장에 출시 한 제품이다. 자외선 차단과 피부...",
+ "published_at": "2026-11-26T18:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "AE"
+  ],
+  "brands": [
+   "조선미녀"
+  ],
+  "companies": [],
+  "keywords": [
+   "중동 시장",
+   "틴티드 선크림",
+   "팝업스토어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "데이스크린 틴티드 선크림",
+    "brand": "조선미녀",
+    "launch_date": "2026-09",
+    "launch_status": "unknown",
+    "launch_quote": "행사 중심 제품인 '데이스크린 틴티드 선크림'은 지난 9월 중동 시장에 출시 한 제품이다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "조선미녀가 두바이에서 첫 팝업을 열어 선크림 판매가 늘었다.",
+  "key_fact_quote": "조선미녀, 두바이 첫 팝업···선크림 판매량 2.8배로",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

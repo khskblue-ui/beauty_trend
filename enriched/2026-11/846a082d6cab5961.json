@@ -1,0 +1,45 @@
+{
+ "doc_id": "846a082d6cab5961",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/vitamin-c-body-care-the-brightening-skin-care",
+ "title": "Vitamin C body care: the brightening skin care active is moving below the face",
+ "summary": "As body care becomes results-led, vitamin C is the trusted ingredient leading launch innovation, with brands bringing proven brightening benefits below the chin",
+ "published_at": "2026-11-26T05:50:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "market_trend",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "바디케어",
+   "브라이트닝",
+   "비타민 C 바디 제품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "비타민 C가 얼굴을 넘어 바디케어 신제품의 핵심 성분으로 쓰이고 있다.",
+  "key_fact_quote": "As body care becomes results-led, vitamin C is the trusted ingredient leading launch innovation, with brands bringing proven brightening benefits below the chin",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "vitamin C",
+    "quote": "As body care becomes results-led, vitamin C is the trusted ingredient leading launch innovation, with brands bringing proven brightening benefits below the chin"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

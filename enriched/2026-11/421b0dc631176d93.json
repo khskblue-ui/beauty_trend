@@ -1,0 +1,42 @@
+{
+ "doc_id": "421b0dc631176d93",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4121079",
+ "title": "'메이드 인 제주' 통했다…제주 화장품, 올해 수출 577만 달러 달성",
+ "summary": "그 결과 국내외 박람회에서 총 241건의 수출 상담이 이뤄졌으며, 127억 원 규모의 수출 계약을 추진하는 성과를 거뒀습니다. K - 뷰티 열풍 속에 제주의 청정 천연 원료를 바탕으로 제품 경쟁력을 높인 데다, 제주도의...",
+ "published_at": "2026-11-26T11:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "제주 화장품",
+   "화장품 수출",
+   "천연 원료"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제주 화장품 수출이 올해 크게 늘었다.",
+  "key_fact_quote": "'메이드 인 제주' 통했다…제주 화장품, 올해 수출 577만 달러 달성",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

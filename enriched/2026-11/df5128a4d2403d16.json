@@ -1,0 +1,68 @@
+{
+ "doc_id": "df5128a4d2403d16",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58808",
+ "title": "연구원, ‘제16회 글로벌 시장 동향 분석 세미나’... AI 활용 수출통합 시스템(코스뷰) 첫 공개",
+ "summary": "[코스인코리아닷컴 권태흥 기자](재)대한화장품산업연구원(원장 조신행)은 11월 26일(목), 서울 COEX 컨퍼런스룸 308호에서 '제16회 글로벌 화장품 시장 동향 분석 세미나'를 개최했다. 대한화장품산업연구원 조신행 원장은 인사말에서 “글로벌 시장이 확대되고 치열한 경쟁, 국가별 통상·규제 환…",
+ "published_at": "2026-11-26T14:51:51+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US",
+   "CN",
+   "SA",
+   "GB",
+   "JP"
+  ],
+  "brands": [
+   "COSRX",
+   "메디큐브",
+   "조선미녀",
+   "스킨1004",
+   "라네지",
+   "아누아"
+  ],
+  "companies": [
+   "대한화장품산업연구원",
+   "유로모니터",
+   "울트라마린",
+   "EC21"
+  ],
+  "keywords": [
+   "AI 수출 지원",
+   "해외 인허가",
+   "포장재 규제",
+   "K-뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한화장품산업연구원이 글로벌 시장 동향 세미나에서 AI 활용 수출 통합 시스템 코스뷰를 처음 공개했다.",
+  "key_fact_quote": "관심을 끈 발표가 “AI 활용 수출 통합 시스템(코스뷰)‘ 이었다.",
+  "events": [
+   {
+    "name": "제16회 글로벌 화장품 시장 동향 분석 세미나",
+    "start_date": "2026-11-26",
+    "end_date": null,
+    "place": "서울 COEX 컨퍼런스룸 308호",
+    "quote": "[코스인코리아닷컴 권태흥 기자] (재)대한화장품산업연구원(원장 조신행)은 11월 26일(목), 서울 COEX 컨퍼런스룸 308호에서 '제16회 글로벌 화장품 시장 동향 분석 세미나'를 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

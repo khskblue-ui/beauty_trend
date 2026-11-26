@@ -1,0 +1,42 @@
+{
+ "doc_id": "6ce29827610fdbf1",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54054",
+ "title": "“수입화장품 라벨 NMPA 등록·신고 라벨과 같아야 한다”",
+ "summary": "중국 해관총서는 지난 23일 ‘수출입 화장품 안전감독 요구사항 규범화에 관한 공고’를 통해 오는 12월 1일부터 시행한다고 발표했다. 이 공고에 따르면 일반무역 방식으로 중국으로 수출하는 화장품의 중국어 라벨은 국가의약품감독관리국(NMPA)의 등록·신고 플랫폼의 제품 라벨 견본과 정확히 일치해…",
+ "published_at": "2026-11-26T14:19:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "CN"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "중국어 라벨",
+   "화장품 통관 규제",
+   "면세 화장품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중국 해관총서가 수입 화장품의 중국어 라벨을 NMPA 등록·신고 라벨 견본과 일치시키도록 하는 공고를 발표했다.",
+  "key_fact_quote": "중국 해관총서는 지난 23일 ‘수출입 화장품 안전감독 요구사항 규범화에 관한 공고’를 통해 오는 12월 1일부터 시행한다고 발표했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

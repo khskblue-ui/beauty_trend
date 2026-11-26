@@ -1,0 +1,42 @@
+{
+ "doc_id": "3709496c12b28c13",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/exclusive-how-undead-beauty-is-bringing-back-discarded-cosmetics",
+ "title": "Exclusive: How Undead Beauty is bringing discarded cosmetics back from the brink",
+ "summary": "As beauty’s overconsumption problem grows, one new brand is giving forgotten products a second life. Here is how Undead Beauty is bringing unloved and unused make-up products back from the afterlife",
+ "published_at": "2026-11-26T20:45:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [],
+  "brands": [
+   "Undead Beauty"
+  ],
+  "companies": [],
+  "keywords": [
+   "뷰티 과소비",
+   "재고 화장품 재활용",
+   "업사이클링"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Undead Beauty가 쓰이지 않고 버려진 메이크업 제품을 되살리는 사업을 하고 있다.",
+  "key_fact_quote": "As beauty’s overconsumption problem grows, one new brand is giving forgotten products a second life.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

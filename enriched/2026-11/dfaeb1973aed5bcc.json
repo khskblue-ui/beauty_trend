@@ -1,0 +1,51 @@
+{
+ "doc_id": "dfaeb1973aed5bcc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.socialvalue.kr/news/view/1065594980644842",
+ "title": "인탑스, 400만달러 규모 K - 뷰티 브라질 수출 성사…중남미 유통시장 공...",
+ "summary": "수출 품목에는 브이티(VT), 셀리맥스(celimax), 스킨천사(SKIN1004), 썸바이미(SOMEBY MI) 등 국내 주요 K - 뷰티 브랜드의 제품이 포함됐다. 해당 제품은 브라질 최대 약국·드럭스토어 협회인 아브라파르마(Abrafarma)의 회원...",
+ "published_at": "2026-11-26T15:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "BR"
+  ],
+  "brands": [
+   "브이티",
+   "셀리맥스",
+   "스킨천사",
+   "썸바이미"
+  ],
+  "companies": [
+   "인탑스",
+   "아브라파르마"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "약국 유통",
+   "중남미 시장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "인탑스가 K-뷰티 브랜드 제품의 브라질 약국 유통망 수출을 성사시켰다.",
+  "key_fact_quote": "인탑스, 400만달러 규모 K - 뷰티 브라질 수출 성사",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

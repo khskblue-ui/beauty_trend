@@ -1,0 +1,72 @@
+{
+ "doc_id": "aba8a066ddebf437",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100607",
+ "title": "보다나 ‘글로우 에어 볼륨스타일러’, 출시 2개월 만에 3차 재입고",
+ "summary": "프리미엄 헤어기기 브랜드 보다나(vodana)의 신제품 ‘글로우 에어 볼륨스타일러’가 뜨거운 소비자 호응을 얻고 있는 가운데, 대표 컬러인 ‘파우더핑크’가 빠른 완판 행진에 힘입어 출시 약 2개월 만에 3차 재입고에 돌입했다.지난 9월 선보인 ‘글로우 에어 볼륨스타일러’는 에어 기능으로 모발 꺾임 없이 무너지지 않는 볼륨을 완성하는 제품이다. 보다나의 전문적인 스타일링 기술을 집약한 이번 제품은 기존 ‘이지 업 헤어스타일러 플립’에 이어 헤어 볼륨 기기 라인업을 한층 확장하며 브랜드의 전문성을 공고히 하고 있다.제품의 가장 큰 인기",
+ "published_at": "2026-11-26T10:29:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "보다나"
+  ],
+  "companies": [],
+  "keywords": [
+   "헤어 스타일러",
+   "뿌리 볼륨",
+   "뷰티 디바이스"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "글로우 에어 볼륨스타일러",
+    "brand": "보다나",
+    "launch_date": "2026-09",
+    "launch_status": "unknown",
+    "launch_quote": "지난 9월 선보인 ‘글로우 에어 볼륨스타일러’는 에어 기능으로 모발 꺾임 없이 무너지지 않는 볼륨을 완성하는 제품이다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "이지 업 헤어스타일러 플립",
+    "brand": "보다나",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "보다나 글로우 에어 볼륨스타일러가 대표 컬러 완판으로 재입고에 들어갔다.",
+  "key_fact_quote": "프리미엄 헤어기기 브랜드 보다나(vodana)의 신제품 ‘글로우 에어 볼륨스타일러’가 뜨거운 소비자 호응을 얻고 있는 가운데, 대표 컬러인 ‘파우더핑크’가 빠른 완판 행진에 힘입어 출시 약 2개월 만에 3차 재입고에 돌입했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "케라틴",
+    "quote": "이와 함께 케라틴과 실크 단백질이 함유된 2종 단백질 코팅 열판이 모발 겉과 속 단백질, 큐티클, 수분 및 윤기 개선을 돕는다."
+   },
+   {
+    "name": "실크 단백질",
+    "quote": "이와 함께 케라틴과 실크 단백질이 함유된 2종 단백질 코팅 열판이 모발 겉과 속 단백질, 큐티클, 수분 및 윤기 개선을 돕는다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

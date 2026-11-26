@@ -1,0 +1,41 @@
+{
+ "doc_id": "450dd9606014c638",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232968",
+ "title": "[굿모닝경제] K -화장품·라면 수출 도 껑충 / 더 건강한 해녀들의 무릎 /...",
+ "summary": "중소·중견기업의 수출 이 전체의 90%를 차지하면서 상승세를 이끌었는데, 분야별로는 K - 뷰티 제품이 차지하는 비중이 전체의 절반에 달했습니다. --- 긴 시간을 바다에서 보내는 제주해녀들이 일반 여성들보다 무릎이...",
+ "published_at": "2026-11-26T08:21:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "중소기업 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "중소기업과 중견기업 수출에서 K-뷰티 제품이 큰 비중을 차지했다.",
+  "key_fact_quote": "중소·중견기업의 수출 이 전체의 90%를 차지하면서 상승세를 이끌었는데, 분야별로는 K - 뷰티 제품이 차지하는 비중이 전체의 절반에 달했습니다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

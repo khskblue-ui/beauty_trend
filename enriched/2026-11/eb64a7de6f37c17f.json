@@ -1,0 +1,54 @@
+{
+ "doc_id": "eb64a7de6f37c17f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/industry/business_info/2026/11/26/W77RDXFZRJCT3KDCWLJ26GR46E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "크리스챤 디올 뷰티, 뉴진스 해린·김연아와 홀리데이 메이크업·스킨케...",
+ "summary": "행사장에서 향수 와 뷰티 제품을 살펴본 뒤 각각 메이크업과 스킨케어 제품을 소개했다. 뉴진스 해린은... 홀리데이 시즌 한정판으로 출시 됐다. 김연아는 스킨케어 제품으로 디올 프레스티지의 ‘라 마이크로-륄 드 로즈...",
+ "published_at": "2026-11-26T10:29:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "event",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "크리스챤 디올 뷰티",
+   "디올 프레스티지"
+  ],
+  "companies": [],
+  "keywords": [
+   "홀리데이 한정판",
+   "셀럽 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "라 마이크로-륄 드 로즈",
+    "brand": "디올 프레스티지",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "크리스챤 디올 뷰티가 앰버서더와 함께 홀리데이 메이크업과 스킨케어 제품을 소개했다.",
+  "key_fact_quote": "행사장에서 향수 와 뷰티 제품을 살펴본 뒤 각각 메이크업과 스킨케어 제품을 소개했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

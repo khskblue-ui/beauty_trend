@@ -1,0 +1,42 @@
+{
+ "doc_id": "b7ae19ae12d1298a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.segye.com/newsView/20261126504984?OutUrl=naver",
+ "title": "제주 화장품, 국내외 뷰티 박람회서 해외 판로 확대 성과",
+ "summary": "제주도는 이러한 성과를 바탕으로 중소벤처기업부 주관 ‘케이( K )- 뷰티 수출 거점’ 조성 사업과 연계해 도내 화장품 기업의 해외 시장 진출을 확대할 방침이다. 제주의 청정 천연 원료와 도내 기업의 기술력을...",
+ "published_at": "2026-11-26T09:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K-뷰티 수출 거점",
+   "뷰티 박람회",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제주 화장품 기업이 국내외 뷰티 박람회에서 해외 판로를 넓혔고 제주도는 해외 진출 지원을 확대한다.",
+  "key_fact_quote": "제주도는 이러한 성과를 바탕으로 중소벤처기업부 주관 ‘케이( K )- 뷰티 수출 거점’ 조성 사업과 연계해 도내 화장품 기업의 해외 시장 진출을 확대할 방침이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

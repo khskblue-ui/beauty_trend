@@ -1,0 +1,53 @@
+{
+ "doc_id": "52517ae71e27c07d",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100603",
+ "title": "한국콜마, 일·생활 균형 우수기업 선정…가족친화 경영 결실",
+ "summary": "한국콜마가 남성 육아휴직 의무화 등 가족친화 경영 성과를 인정받아 고용노동부 주관 ‘일·생활 균형 우수기업’에 선정됐다. 육아휴직을 쓰는 남성 직원 수가 늘고 퇴직률은 감소하는 등 실질적인 변화를 이끌어냈다는 점이 좋은 평가를 받았다.한국콜마는 지난 25일 서울 송파구에서 열린 ‘2026 대한민국 일·생활 균형 우수기업 시상식’에서 우수기업으로 선정됐다고 밝혔다. 고용노동부가 주관하는 이번 시상식은 유연근무 활용, 근로시간 단축, 휴가 사용, 일·육아 병행 등에서 우수한 성과를 낸 기업을 서면심사와 현장실사, 최종 심사를 거쳐 선정",
+ "published_at": "2026-11-26T10:05:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국콜마",
+   "HK이노엔"
+  ],
+  "keywords": [
+   "가족친화 경영",
+   "남성 육아휴직",
+   "일·생활 균형"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국콜마가 남성 육아휴직 의무화 등 가족친화 경영 성과로 일·생활 균형 우수기업에 선정됐다.",
+  "key_fact_quote": "한국콜마가 남성 육아휴직 의무화 등 가족친화 경영 성과를 인정받아 고용노동부 주관 ‘일·생활 균형 우수기업’에 선정됐다.",
+  "events": [
+   {
+    "name": "2026 대한민국 일·생활 균형 우수기업 시상식",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "place": "서울 송파구",
+    "quote": "한국콜마는 지난 25일 서울 송파구에서 열린 ‘2026 대한민국 일·생활 균형 우수기업 시상식’에서 우수기업으로 선정됐다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

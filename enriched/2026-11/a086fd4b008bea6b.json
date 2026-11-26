@@ -1,0 +1,48 @@
+{
+ "doc_id": "a086fd4b008bea6b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mediapen.com/news/view/1139941",
+ "title": "나이카 뚫고 쇼핑몰 입점까지…'아모레·에이피알', 인도 뷰티 판 흔든...",
+ "summary": "코스맥스 화장품 연구원이 향료 를 연구하고 있다./사진=코스맥스 제공 ◇ ODM도 진출 채비…소포장·맞춤형 제형이 성패 가른다 국내 화장품 기업의 진출에 이어 화장품 연구·개발·생산(ODM) 기업도 현지 시장 공략을...",
+ "published_at": "2026-11-26T10:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "IN"
+  ],
+  "brands": [],
+  "companies": [
+   "아모레",
+   "에이피알",
+   "나이카",
+   "코스맥스"
+  ],
+  "keywords": [
+   "인도 시장 진출",
+   "화장품 ODM",
+   "소포장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 화장품 기업에 이어 ODM 기업도 인도 시장 공략을 준비하고 있다.",
+  "key_fact_quote": "국내 화장품 기업의 진출에 이어 화장품 연구·개발·생산(ODM) 기업도 현지 시장 공략을",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

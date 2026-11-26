@@ -1,0 +1,52 @@
+{
+ "doc_id": "0a47f312a787f0e8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026112609324334164",
+ "title": "조선미녀, 중동 뷰티 시장 정조준…두바이 팝업 1만명 방문",
+ "summary": "14일부터 23일까지 아랍에미리트(UAE) 두바이 힐즈 몰에서 운영된 이번 팝업스토어는 현지 소비자들이 신제품 을 직접 체험하고 피부 톤에 맞는 색상을 선택할 수 있도록 마련됐다. 행사는 지난 9월 중동 시장에 출시 한...",
+ "published_at": "2026-11-26T10:16:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "event",
+  "countries": [
+   "AE"
+  ],
+  "brands": [
+   "조선미녀"
+  ],
+  "companies": [],
+  "keywords": [
+   "중동 시장",
+   "팝업스토어",
+   "선크림"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "조선미녀가 두바이에서 팝업스토어를 열어 중동 뷰티 시장 공략에 나섰다.",
+  "key_fact_quote": "14일부터 23일까지 아랍에미리트(UAE) 두바이 힐즈 몰에서 운영된 이번 팝업스토어는 현지 소비자들이 신제품 을 직접 체험하고 피부 톤에 맞는 색상을 선택할 수 있도록 마련됐다.",
+  "events": [
+   {
+    "name": "두바이 팝업",
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-23",
+    "place": "아랍에미리트(UAE) 두바이 힐즈 몰",
+    "quote": "14일부터 23일까지 아랍에미리트(UAE) 두바이 힐즈 몰에서 운영된 이번 팝업스토어는 현지 소비자들이 신제품 을 직접 체험하고 피부 톤에 맞는 색상을 선택할 수 있도록 마련됐다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

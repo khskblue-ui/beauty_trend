@@ -1,0 +1,62 @@
+{
+ "doc_id": "9130ba6003012d4f",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.hinews.co.kr/view.php?ud=2026112315223414849284fa285d_48",
+ "title": "씨위드, 일본 인테그리컬처와 세포배양 화장품 제휴...'셀라멘트' 국내...",
+ "summary": "일본에서는 2021년 4월에 출시 됐고, 국내에서는 2025년 7월 대한 화장품 협회에 화장품 성분명 '계란배외막세포배양액'(KCID)을 등록하면서 화장품 개발에 쓸 길이 열렸다. 인테그리컬처는 2015년 도쿄에서 문을 연 세포농업...",
+ "published_at": "2026-11-26T10:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "셀라멘트"
+  ],
+  "companies": [
+   "씨위드",
+   "인테그리컬처"
+  ],
+  "keywords": [
+   "세포배양 화장품",
+   "세포농업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "셀라멘트",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "씨위드가 일본 인테그리컬처와 세포배양 화장품 제휴를 맺었다.",
+  "key_fact_quote": "씨위드, 일본 인테그리컬처와 세포배양 화장품 제휴...'셀라멘트' 국내...",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "계란배외막세포배양액",
+    "quote": "일본에서는 2021년 4월에 출시 됐고, 국내에서는 2025년 7월 대한 화장품 협회에 화장품 성분명 '계란배외막세포배양액'(KCID)을 등록하면서 화장품 개발에 쓸 길이 열렸다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

@@ -1,0 +1,49 @@
+{
+ "doc_id": "3447a06054b800dd",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8909",
+ "title": "[특징주] 진코스텍, 실적 성장· K뷰티 기대에 상한가…신규 상장주 수급...",
+ "summary": "3분기 누적 매출이 전년 동기 대비 36% 이상 증가하는 등 실적 성장세가 확인된 가운데 K뷰티 수출 확대와 하이드로겔 마스크팩 시장 성장 기대가 투자심리를 자극한 것으로 풀이된다. 코스닥 이전상장 한 달여 만의...",
+ "published_at": "2026-11-26T21:06:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "진코스텍"
+  ],
+  "keywords": [
+   "하이드로겔 마스크팩",
+   "K-뷰티 수출",
+   "코스닥 상장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "진코스텍이 실적 성장과 K뷰티 수출 기대에 상한가를 기록했다.",
+  "key_fact_quote": "3분기 누적 매출이 전년 동기 대비 36% 이상 증가하는 등 실적 성장세가 확인된 가운데 K뷰티 수출 확대와 하이드로겔 마스크팩 시장 성장 기대가 투자심리를 자극한 것으로 풀이된다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "하이드로겔",
+    "quote": "3분기 누적 매출이 전년 동기 대비 36% 이상 증가하는 등 실적 성장세가 확인된 가운데 K뷰티 수출 확대와 하이드로겔 마스크팩 시장 성장 기대가 투자심리를 자극한 것으로 풀이된다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

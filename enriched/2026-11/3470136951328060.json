@@ -1,0 +1,43 @@
+{
+ "doc_id": "3470136951328060",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dailian.co.kr/news/view/1720088/?sc=Naver",
+ "title": "‘젊은 소비시장’ 아프리카서 K - 뷰티 인기…한국기업 수출 판로 확대",
+ "summary": "제품 체험과 시식, 유통망 입점 협의 등을 통해 수출 계약 및 현지 유통망 입점 계약 19건이 체결됐다. 코트디부아르 현지 화장품 유통기업은 지난 10월 초 대형 유통망에 개설한 K - 뷰티 임시매장을 연내 2곳으로 확대할...",
+ "published_at": "2026-11-26T13:41:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "CI"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "아프리카 시장",
+   "K-뷰티 매장",
+   "수출 판로"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아프리카에서 K-뷰티 인기가 높아지며 수출 계약과 현지 유통망 입점 계약이 이어졌다.",
+  "key_fact_quote": "제품 체험과 시식, 유통망 입점 협의 등을 통해 수출 계약 및 현지 유통망 입점 계약 19건이 체결됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

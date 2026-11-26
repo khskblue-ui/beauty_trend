@@ -1,0 +1,53 @@
+{
+ "doc_id": "a2abdcbd34db1f3b",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.kbsm.net/news/view.php?idx=543531",
+ "title": "주주브, 복조대추 기반 화장품 원료 ‘그린대추’ 선별·가공 체계 구축",
+ "summary": "개발된 원료는 오는 12월 출시를 앞둔 첫 화장품 신제품 에 배합될 예정이다.주주브는 신제품 출시 이후에도 원료의 공정 조건과 물성 특성을 후속 분석하고, 미성숙 복조대추의 선별·가공 기술 고도화 연구를 이어갈...",
+ "published_at": "2026-11-26T14:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "주주브"
+  ],
+  "keywords": [
+   "국산 원료",
+   "대추 원료",
+   "원료 가공"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "주주브가 복조대추를 바탕으로 한 화장품 원료 그린대추의 선별과 가공 체계를 갖췄다.",
+  "key_fact_quote": "주주브, 복조대추 기반 화장품 원료 ‘그린대추’ 선별·가공 체계 구축",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "복조대추",
+    "quote": "주주브, 복조대추 기반 화장품 원료 ‘그린대추’ 선별·가공 체계 구축"
+   },
+   {
+    "name": "그린대추",
+    "quote": "주주브, 복조대추 기반 화장품 원료 ‘그린대추’ 선별·가공 체계 구축"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

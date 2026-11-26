@@ -1,0 +1,75 @@
+{
+ "doc_id": "ca09e83c29ac98c1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://zdnet.co.kr/view/?no=20261126194806",
+ "title": "아로마티카, 헤어 퍼퓸 시장 공략…금목서 향 미스트 출시",
+ "summary": "페탈 소르베 헤어 퍼퓸 미스트는 합성 향료 대신 에센셜 오일을 블렌딩해 조향한 제품이다. 버가못의 시트러스 향을 시작으로 금목서의 달콤한 꽃향기가 이어지고 시더우드의 우디향이 잔향으로 남도록 설계했다. 기존...",
+ "published_at": "2026-11-26T19:53:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아로마티카"
+  ],
+  "companies": [],
+  "keywords": [
+   "헤어 퍼퓸",
+   "에센셜 오일 조향",
+   "플로럴 향"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "페탈 소르베 헤어 퍼퓸 미스트",
+    "brand": "아로마티카",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "아로마티카, 헤어 퍼퓸 시장 공략…금목서 향 미스트 출시",
+    "notes": [
+     "버가못",
+     "금목서",
+     "시더우드"
+    ],
+    "notes_quote": "버가못의 시트러스 향을 시작으로 금목서의 달콤한 꽃향기가 이어지고 시더우드의 우디향이 잔향으로 남도록 설계했다."
+   }
+  ],
+  "key_fact": "아로마티카가 에센셜 오일로 조향한 금목서 향 헤어 퍼퓸 미스트를 출시했다.",
+  "key_fact_quote": "페탈 소르베 헤어 퍼퓸 미스트는 합성 향료 대신 에센셜 오일을 블렌딩해 조향한 제품이다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "에센셜 오일",
+    "quote": "페탈 소르베 헤어 퍼퓸 미스트는 합성 향료 대신 에센셜 오일을 블렌딩해 조향한 제품이다."
+   },
+   {
+    "name": "버가못",
+    "quote": "버가못의 시트러스 향을 시작으로 금목서의 달콤한 꽃향기가 이어지고 시더우드의 우디향이 잔향으로 남도록 설계했다."
+   },
+   {
+    "name": "금목서",
+    "quote": "버가못의 시트러스 향을 시작으로 금목서의 달콤한 꽃향기가 이어지고 시더우드의 우디향이 잔향으로 남도록 설계했다."
+   },
+   {
+    "name": "시더우드",
+    "quote": "버가못의 시트러스 향을 시작으로 금목서의 달콤한 꽃향기가 이어지고 시더우드의 우디향이 잔향으로 남도록 설계했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

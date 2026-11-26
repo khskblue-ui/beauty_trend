@@ -1,0 +1,46 @@
+{
+ "doc_id": "f046c734ad389267",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.heraldcorp.com/article/10950065?ref=naver",
+ "title": "파마리서치 ‘리쥬란코스메틱’ 4종, ‘ K -브랜드 정부인증’ 선정…해외...",
+ "summary": "이번 정부 인증으로 파마리서치는 민간 차원의 AI 상시 모니터링 및 법적 대응에 국가인증상표와 범정부 공조 체계를 결합하게 돼, 해외 수출 확대 과정에서 빈번해지는 K - 뷰티 모조품 피해를 선제적으로 차단하고 글로벌...",
+ "published_at": "2026-11-26T10:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리쥬란코스메틱"
+  ],
+  "companies": [
+   "파마리서치"
+  ],
+  "keywords": [
+   "K-브랜드 정부인증",
+   "모조품 대응",
+   "해외 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "파마리서치 리쥬란코스메틱 제품이 K-브랜드 정부인증을 받아 해외 모조품 대응을 강화한다.",
+  "key_fact_quote": "이번 정부 인증으로 파마리서치는 민간 차원의 AI 상시 모니터링 및 법적 대응에 국가인증상표와 범정부 공조 체계를 결합하게 돼",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

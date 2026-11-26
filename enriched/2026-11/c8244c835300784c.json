@@ -1,0 +1,74 @@
+{
+ "doc_id": "c8244c835300784c",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54056",
+ "title": "코이코, 2027년 국내외 뷰티 전시회 42곳 공략",
+ "summary": "해외 뷰티 전문 전시회 주관사 (주)코이코(대표 조완수·KOECO)가 오는 2027년 국내외 뷰티 관련 전시회 참가 계획을 공개하고 K-뷰티 기업의 글로벌 시장 진출 지원에 나선다. 기존 주력 시장에서의 입지를 강화하는 동시에 성장 잠재력이 높은 신규 시장을 개척하고 화장품 중심의 전시 사업 영역을 뷰티…",
+ "published_at": "2026-11-26T20:43:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US",
+   "GB",
+   "UZ",
+   "IT",
+   "CN",
+   "MX"
+  ],
+  "brands": [],
+  "companies": [
+   "코이코",
+   "KOTRA"
+  ],
+  "keywords": [
+   "뷰티 전시회",
+   "뷰티테크",
+   "수출시장 다변화",
+   "한국공동관"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코이코가 내년 국내외 뷰티 전시회 참가 계획을 공개하고 전시 사업을 뷰티테크 분야로 넓힌다.",
+  "key_fact_quote": "해외 뷰티 전문 전시회 주관사 (주)코이코 (대표 조완수·KOECO)가 오는 2027년 국내외 뷰티 관련 전시회 참가 계획을 공개하고 K-뷰티 기업의 글로벌 시장 진출 지원에 나선다.",
+  "events": [
+   {
+    "name": "CES",
+    "start_date": "2027-01-06",
+    "end_date": "2027-01-09",
+    "place": "미국 라스베이거스",
+    "quote": "새해 1월 6일부터 9일까지 미국 라스베이거스에서 열리는 세계 최대 규모의 IT·전자제품 전시회 CES 참가 를 통해 AI 기반 피부 진단·맞춤형 피부관리·홈 뷰티 디바이스 등 뷰티테크 분야의 새로운 비즈니스 기회 발굴 에 나선다."
+   },
+   {
+    "name": "런던 프로페셔널 뷰티 박람회",
+    "start_date": "2027-10-10",
+    "end_date": "2027-10-11",
+    "place": "영국 런던",
+    "quote": "유럽에서는 10월 10~11일 영국 런던 프로페셔널 뷰티 박람회 에 신규 참가, 이탈리아 코스모프로프 볼로냐를 중심으로 구축해 온 유럽 시장 네트워크를 확장 한다."
+   },
+   {
+    "name": "뷰티월드 타슈켄트",
+    "start_date": "2027-11-18",
+    "end_date": "2027-11-20",
+    "place": "우즈베키스탄",
+    "quote": "11월 18~20일에는 우즈베키스탄 뷰티월드 타슈켄트 에 참가해 기존 러시아·카자흐스탄 중심의 CIS(독립국가연합) 지역 사업 기반을 중앙아시아 시장으로 넓혀 나갈 계획이다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

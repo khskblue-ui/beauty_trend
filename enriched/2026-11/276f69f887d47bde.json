@@ -1,0 +1,45 @@
+{
+ "doc_id": "276f69f887d47bde",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.ktnews.com/news/articleView.html?idxno=150473",
+ "title": "아로마티카, 금목서 향 담은 헤어 퍼퓸 미스트 선보여",
+ "summary": "신제품은 합성 향료 없이 에센셜 오일을 블렌딩해 조향했다. 버가못을 탑노트, 금목서(오스만투스)를 미들노트, 시더우드를 베이스노트로 구성했다. 시트러스와 플로럴, 우디 계열의 향이 순차적으로 이어지도록...",
+ "published_at": "2026-11-26T11:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "아로마티카"
+  ],
+  "companies": [],
+  "keywords": [
+   "헤어 퍼퓸",
+   "에센셜 오일",
+   "천연 향"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "af3ae1e766d873e2",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

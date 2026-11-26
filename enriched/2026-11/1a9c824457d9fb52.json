@@ -1,0 +1,44 @@
+{
+ "doc_id": "1a9c824457d9fb52",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://economist.co.kr/article/view/ecn202611260061",
+ "title": "‘ K - 뷰티 ’ 난리라더니…G마켓, 내년 1분기 ‘ 뷰티 전문관’ 신설",
+ "summary": "지난 19일까지 K - 뷰티 누적 수출 액은 136억5000만달러로 전년 동기 대비 34.6% 증가했다. 화장품이 K -소비재 수출 에서 차지하는 비중은 47.6%다. 이날 컨퍼런스 현장에서는 신규 입점 및 글로벌 진출을 희망하는 브랜드를...",
+ "published_at": "2026-11-26T17:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "G마켓"
+  ],
+  "keywords": [
+   "뷰티 전문관",
+   "K-뷰티 수출",
+   "온라인 유통"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "G마켓이 내년 1분기 뷰티 전문관을 새로 연다.",
+  "key_fact_quote": "‘ K - 뷰티 ’ 난리라더니…G마켓, 내년 1분기 ‘ 뷰티 전문관’ 신설",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

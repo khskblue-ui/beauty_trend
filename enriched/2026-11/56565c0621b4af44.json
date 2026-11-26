@@ -1,0 +1,62 @@
+{
+ "doc_id": "56565c0621b4af44",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100602",
+ "title": "블랙포레, 대만서 ‘라이징스타상’ 수상… 글로벌 공략 속도",
+ "summary": "글로벌 토탈 뷰티 기업 애경산업의 탈모 케어 전문 헤어 브랜드 ‘블랙포레(BLACKFORET)’가 대만 왓슨스(Watsons Taiwan)가 주관하는 ‘건강미용대상’(健康美麗大賞)’서 ‘라이징스타상’을 수상하며 글로벌 시장에서 브랜드 경쟁력을 인정받았다.이번 수상은 블랙포레가 대만 소비자의 두피 관리 니즈에 맞춘 제품 경쟁력을 바탕으로 현지 시장에 성공적으로 안착하고 있다는 점에서 의미가 있다. 특히 고온다습한 대만의 기후 특성을 고려한 쿨링 사용감과 현지 소비자들의 두피 유분 및 피지 관리 니즈를 고려한 두피 케어 전문성을 앞세워",
+ "published_at": "2026-11-26T10:00:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "business",
+  "countries": [
+   "TW",
+   "HK",
+   "CN",
+   "RU",
+   "PL"
+  ],
+  "brands": [
+   "블랙포레"
+  ],
+  "companies": [
+   "애경산업",
+   "AS Watson Group"
+  ],
+  "keywords": [
+   "탈모 케어",
+   "두피 케어",
+   "쿨링 사용감",
+   "H&B 채널"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "민감성 두피 케어 샴푸",
+    "brand": "블랙포레",
+    "launch_date": "2026-10",
+    "launch_status": "unknown",
+    "launch_quote": "또한 지난 10월에는 민감성 두피 케어 샴푸를 추가 출시하며 현지 소비자들의 다양한 두피 고민에 대응하고 제품 포트폴리오를 확대했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "애경산업의 블랙포레가 대만 왓슨스 건강미용대상에서 라이징스타상을 받았다.",
+  "key_fact_quote": "글로벌 토탈 뷰티 기업 애경산업의 탈모 케어 전문 헤어 브랜드 ‘블랙포레(BLACKFORET)’가 대만 왓슨스(Watsons Taiwan)가 주관하는 ‘건강미용대상’(健康美麗大賞)’서 ‘라이징스타상’을 수상하며 글로벌 시장에서 브랜드 경쟁력을 인정받았다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

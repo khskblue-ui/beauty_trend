@@ -1,0 +1,57 @@
+{
+ "doc_id": "9ac4e2f28510ca16",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/missha-opens-first-uk-pop-up-in-bristol",
+ "title": "Missha opens first UK pop-up in Bristol via Boots",
+ "summary": "The Korean skin care and make-up brand is taking over Boots’ Bristol Cabot Circus Store for a three-day event, inviting consumers to discover the brand’s range of K-beauty products, including skin care and its hero BB Cream, M Perfect Cover Serum BB Cream Pro",
+ "published_at": "2026-11-26T20:38:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "event",
+  "countries": [
+   "GB",
+   "KR"
+  ],
+  "brands": [
+   "Missha"
+  ],
+  "companies": [
+   "Boots"
+  ],
+  "keywords": [
+   "K-뷰티 팝업",
+   "영국 시장",
+   "BB크림"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "M Perfect Cover Serum BB Cream Pro",
+    "brand": "Missha",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "Missha가 Boots를 통해 브리스톨에서 영국 첫 팝업을 연다.",
+  "key_fact_quote": "Missha opens first UK pop-up in Bristol via Boots",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

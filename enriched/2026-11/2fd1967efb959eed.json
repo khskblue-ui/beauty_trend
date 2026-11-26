@@ -1,0 +1,56 @@
+{
+ "doc_id": "2fd1967efb959eed",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58811",
+ "title": "제노헬릭스, 참치 유래 miPDRN 상용화 과제 ‘스케일업 팁스’ 선정",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 분자진단·바이오 신소재 전문기업 제노헬릭스(대표 양성욱)가 참치 유래 miPDRN 소재 상용화를 위한 중소벤처기업부 ‘스케일업 팁스(Scale-up TIPS)’ 연구개발 지원사업에 최종 선정돼 20억원의 지원 협약을 체결했다고 26일 밝혔다. 이번 과제는 국내에서…",
+ "published_at": "2026-11-26T17:55:09+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "ingredient",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "제노헬릭스",
+   "동원그룹",
+   "알엔비에스"
+  ],
+  "keywords": [
+   "PDRN 소재",
+   "바이오 신소재",
+   "수산 부산물 자원화",
+   "건강기능식품"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "제노헬릭스가 참치 유래 miPDRN 소재 상용화 과제로 스케일업 팁스 연구개발 지원사업에 선정됐다.",
+  "key_fact_quote": "제노헬릭스, 참치 유래 miPDRN 상용화 과제 ‘스케일업 팁스’ 선정",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "miPDRN",
+    "quote": "이번 과제는 국내에서 발생하는 참치 정소를 활용해 miPDRN 소재의 상용화를 추진하고 이를 기반으로 개별인정형 건강기능식품을 개발하는 프로젝트다."
+   },
+   {
+    "name": "PDRN",
+    "quote": "PDRN은 세포 재생 등 다양한 효능을 목적으로 활용되는 고부가가치 소재로 현재 연어 유래 원료가 주요 소재로 사용되고 있다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

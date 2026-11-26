@@ -1,0 +1,45 @@
+{
+ "doc_id": "6f9941b02608a832",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.biotimes.co.kr/news/articleView.html?idxno=36508",
+ "title": "인탑스, K - 뷰티 브라질 약국 유통망 진출 주도…400만 달러 규모 수출 개...",
+ "summary": "규모의 수출 이 시작됐다. 이번 수출 은 글로벌 비즈니스 기업 인탑스가 브라질 최대 약국·드럭스토어... 산업 현장 방문과 K - 뷰티 · K -컬처 체험 프로그램을 결합하고, 국내 뷰티 ·리테일 트렌드 자료를 현지 유통...",
+ "published_at": "2026-11-26T11:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "BR"
+  ],
+  "brands": [],
+  "companies": [
+   "인탑스"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "약국 유통",
+   "중남미 시장"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "인탑스가 브라질 약국과 드럭스토어 유통망으로 K-뷰티 수출을 시작했다.",
+  "key_fact_quote": "이번 수출 은 글로벌 비즈니스 기업 인탑스가 브라질 최대 약국·드럭스토어",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

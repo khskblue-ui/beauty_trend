@@ -1,0 +1,44 @@
+{
+ "doc_id": "19b4ea34eb59af28",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.greened.kr/news/articleView.html?idxno=355636",
+ "title": "G마켓, 내년 뷰티 전문관 신설... 이커머스 '뷰티 경쟁' 가세",
+ "summary": "화장품 은 브랜드 신뢰도와 상품 정보, 소비자 후기 등이 구매 결정에 큰 영향을 미치는 데다 반복 구매 수요도 꾸준하다. 최근에는 SNS와 숏폼 등을 통한 신제품 발견형 소비가 확대되면서 단순 가격 경쟁을 넘어 콘텐츠와...",
+ "published_at": "2026-11-26T11:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "G마켓"
+  ],
+  "keywords": [
+   "뷰티 전문관",
+   "이커머스 경쟁",
+   "신제품 발견형 소비"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "G마켓이 내년에 뷰티 전문관을 새로 만든다.",
+  "key_fact_quote": "G마켓, 내년 뷰티 전문관 신설... 이커머스 '뷰티 경쟁' 가세",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

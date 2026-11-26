@@ -1,0 +1,49 @@
+{
+ "doc_id": "e7b15042657b2563",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=305959",
+ "title": "\" 화장품 은 150% 폭주, 디바이스는 -18% 뒷걸음…에이피알 '반쪽 성장'의...",
+ "summary": "사업부문별로는 화장품 과 뷰티 디바이스 간의 온도 차가 뚜렷했다. 화장품 ·뷰티 부문 매출액은... 폴리뉴클레오타이드(PN) 기반 스킨부스터는 중남미 초도 공급을 시작했지만, 국내 정식 출시 는 별도 인허가...",
+ "published_at": "2026-11-26T17:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "스킨부스터",
+   "PN 성분"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에이피알은 화장품 부문이 크게 성장한 반면 뷰티 디바이스 부문은 뒷걸음쳤다.",
+  "key_fact_quote": "사업부문별로는 화장품 과 뷰티 디바이스 간의 온도 차가 뚜렷했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "폴리뉴클레오타이드",
+    "quote": "폴리뉴클레오타이드(PN) 기반 스킨부스터는 중남미 초도 공급을 시작했지만, 국내 정식 출시 는 별도 인허가"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

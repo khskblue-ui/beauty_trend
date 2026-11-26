@@ -1,0 +1,44 @@
+{
+ "doc_id": "a52880354da657b8",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510978650",
+ "title": "보건산업 성과교류회 개최…제약·의료기기·화장품 우수사례 공유",
+ "summary": "기술 수출 을 이끈 공로로 국민훈장 목련장을 받았다. ▲김동욱 연세대 교수, 근정포장 김동욱 연세대... 위즈팜 안효진 이사는 밀라노 패션위크 기간 운영한 K - 뷰티 팝업스토어 ‘곱다(Gop-da)’를 통한 유럽시장 공략...",
+ "published_at": "2026-11-26T09:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "IT"
+  ],
+  "brands": [],
+  "companies": [
+   "위즈팜"
+  ],
+  "keywords": [
+   "팝업스토어",
+   "유럽 시장 공략"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "보건산업 성과교류회에서 제약, 의료기기, 화장품 우수사례가 공유됐다.",
+  "key_fact_quote": "위즈팜 안효진 이사는 밀라노 패션위크 기간 운영한 K - 뷰티 팝업스토어 ‘곱다(Gop-da)’를 통한 유럽시장 공략",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

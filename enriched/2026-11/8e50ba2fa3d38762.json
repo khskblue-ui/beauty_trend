@@ -1,0 +1,61 @@
+{
+ "doc_id": "8e50ba2fa3d38762",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.maxmovie.com/news/articleView.html?idxno=503187",
+ "title": "[종합] \"앰플 無\"…로도덴드론 셀인, 뷰티 루틴 흔들 'CNT 수소 미스트'...",
+ "summary": "로도덴드론 셀인은 26일 오전 서울 삼성동 프레인빌라에서 공식 론칭 쇼를 열고 브랜드 의 출발을 알렸다. 이날 행사장에는 윤세아, 박하선, 김민, 이주승 등 배우들을 비롯해 조권과 노지훈 등 가수, 뷰티 업계 관계자들이...",
+ "published_at": "2026-11-26T15:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 브랜드 론칭",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "로도덴드론 셀인"
+  ],
+  "companies": [],
+  "keywords": [
+   "수소 미스트",
+   "브랜드 론칭"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "CNT 수소 미스트",
+    "brand": "로도덴드론 셀인",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "로도덴드론 셀인은 26일 오전 서울 삼성동 프레인빌라에서 공식 론칭 쇼를 열고 브랜드 의 출발을 알렸다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "로도덴드론 셀인이 론칭 쇼를 열고 수소 미스트를 앞세워 브랜드를 선보였다.",
+  "key_fact_quote": "로도덴드론 셀인은 26일 오전 서울 삼성동 프레인빌라에서 공식 론칭 쇼를 열고 브랜드 의 출발을 알렸다.",
+  "events": [
+   {
+    "name": "공식 론칭 쇼",
+    "start_date": "2026-11-26",
+    "end_date": null,
+    "place": "서울 삼성동 프레인빌라",
+    "quote": "로도덴드론 셀인은 26일 오전 서울 삼성동 프레인빌라에서 공식 론칭 쇼를 열고 브랜드 의 출발을 알렸다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

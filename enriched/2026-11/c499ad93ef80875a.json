@@ -1,0 +1,55 @@
+{
+ "doc_id": "c499ad93ef80875a",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100601",
+ "title": "IBITA, 美 FDA 규제 전문기업 JEDA & ASSOCIATES와 MOU 체결",
+ "summary": "국제뷰티산업교역협회(IBITA, 회장 윤주택)가 미국 식품의약국(FDA) 규제 및 수입 통관 자문 전문기업인 JEDA & ASSOCIATES와 손잡고 한국 화장품 및 뷰티 기업의 미국 시장 진출 지원에 본격적으로 나선다. IBITA는 지난 11월 25일 JEDA & ASSOCIATES와 전략적 업무협약(MOU)을 체결했다고 밝히며, 빠르게 성장하는 K-뷰티 산업이 미국 시장에서 겪는 규제 장벽과 통관 리스크를 낮추기 위한 체계적인 지원 시스템을 구축하겠다고 전했다.남부 캘리포니아를 기반으로 활동하는 JEDA & ASSOCIATES는",
+ "published_at": "2026-11-26T09:50:15+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "IBITA",
+   "JEDA & ASSOCIATES"
+  ],
+  "keywords": [
+   "MoCRA",
+   "미국 FDA 규제",
+   "수입 통관",
+   "K-뷰티 미국 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "국제뷰티산업교역협회가 미국 FDA 규제 자문 기업과 업무협약을 맺고 한국 화장품의 미국 진출을 돕는다.",
+  "key_fact_quote": "IBITA는 지난 11월 25일 JEDA & ASSOCIATES와 전략적 업무협약(MOU)을 체결했다고 밝히며",
+  "events": [
+   {
+    "name": "웨비나",
+    "start_date": "2026-12-13",
+    "end_date": null,
+    "place": null,
+    "quote": "오는 12월 13일(예정) 미국 FDA 규제와 MoCRA 화장품 규제 대응 방안, FDA 수입 통관 리스크 예방 등을 다루는 웨비나를 진행할 예정이라고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

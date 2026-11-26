@@ -1,0 +1,42 @@
+{
+ "doc_id": "14216577004cc610",
+ "source": "ifra_news",
+ "source_name": "IFRA News",
+ "group": "regulation",
+ "lang": "en",
+ "url": "https://ifrafragrance.org/latest-updates/ifra-news/ifra-ingredient-defense-updates-november-2026",
+ "title": "IFRA ingredient defense updates – November 2026",
+ "summary": "The latest EU regulatory developments affecting fragrance ingredients, from new classification proposals to two evaluations by the Scientific Committee on Consumer Safety.",
+ "published_at": "2026-11-24T09:00:00+09:00",
+ "date_source": "page",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [],
+  "brands": [],
+  "companies": [
+   "IFRA"
+  ],
+  "keywords": [
+   "향료 원료 규제",
+   "EU 분류 제안",
+   "SCCS 평가"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "EU에서 향료 원료에 영향을 주는 새 분류 제안과 소비자안전과학위원회 평가가 나왔다.",
+  "key_fact_quote": "The latest EU regulatory developments affecting fragrance ingredients, from new classification proposals to two evaluations by the Scientific Committee on Consumer Safety.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

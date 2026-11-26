@@ -1,0 +1,60 @@
+{
+ "doc_id": "c6d8a405ae2f0b35",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58807",
+ "title": "‘2026 K-뷰티 글로벌 B2B 비즈니스 데이’ 12월 3일 개최... 7개국 거점 입점 상담",
+ "summary": "[코스인코리아닷컴 김민석 기자]한국보건산업진흥원(원장 고상백)은 12월 3일(목) 서울 삼정호텔에서 해외 K-뷰티 거점과 국내 화장품 기업을 연결하는 ‘2026 K-뷰티 글로벌 B2B 비즈니스 데이’를 개최한다고 밝혔다. 이번 행사는 보건복지부 ‘중소화장품 해외진출 지원사업’의 일환으로, 진흥…",
+ "published_at": "2026-11-26T14:09:51+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "US",
+   "FR",
+   "DE",
+   "EE",
+   "ID",
+   "VN",
+   "CL"
+  ],
+  "brands": [],
+  "companies": [
+   "한국보건산업진흥원",
+   "대한화장품산업연구원"
+  ],
+  "keywords": [
+   "해외 입점 상담",
+   "수출 지원",
+   "B2B 상담회"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "한국보건산업진흥원이 해외 K뷰티 거점과 국내 화장품 기업을 잇는 입점 상담 행사를 연다.",
+  "key_fact_quote": "[코스인코리아닷컴 김민석 기자] 한국보건산업진흥원(원장 고상백)은 12월 3일(목) 서울 삼정호텔에서 해외 K-뷰티 거점과 국내 화장품 기업을 연결하는 ‘2026 K-뷰티 글로벌 B2B 비즈니스 데이’를 개최한다고 밝혔다.",
+  "events": [
+   {
+    "name": "2026 K-뷰티 글로벌 B2B 비즈니스 데이",
+    "start_date": "2026-12-03",
+    "end_date": null,
+    "place": "서울 삼정호텔",
+    "quote": "[코스인코리아닷컴 김민석 기자] 한국보건산업진흥원(원장 고상백)은 12월 3일(목) 서울 삼정호텔에서 해외 K-뷰티 거점과 국내 화장품 기업을 연결하는 ‘2026 K-뷰티 글로벌 B2B 비즈니스 데이’를 개최한다고 밝혔다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

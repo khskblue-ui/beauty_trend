@@ -1,0 +1,42 @@
+{
+ "doc_id": "0677f603303f1f8a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.etnews.com/20261126000151",
+ "title": "[뷰티 인사이트] 기초 넘어 색조로…다시 부는 '컬러 열풍'",
+ "summary": "스킨케어 중심으로 성장해 온 K뷰티가 색조 화장품 으로 영역을 넓히고 있다. 유통 플랫폼은 색조 전문 매장을... 최근 출시 했다. 한 제품 안에서 두 가지 색조를 조합해 피부톤과 메이크업 분위기에 맞는 치크 표현을 할 수...",
+ "published_at": "2026-11-26T11:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "색조 화장품",
+   "치크 메이크업",
+   "색조 전문 매장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티가 기초 화장품에서 색조 화장품으로 영역을 넓히고 있다.",
+  "key_fact_quote": "스킨케어 중심으로 성장해 온 K뷰티가 색조 화장품 으로 영역을 넓히고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

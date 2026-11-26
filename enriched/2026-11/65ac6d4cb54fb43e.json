@@ -1,0 +1,43 @@
+{
+ "doc_id": "65ac6d4cb54fb43e",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54050",
+ "title": "화장품 기업 2분기 매출 24.1% 성장…중견기업이 주도",
+ "summary": "한국보건산업진흥원 2분기 바이오헬스산업 기업경영분석 지난 2분기 국내 주요 화장품 제조기업의 매출이 지난해 같은 기간보다 24.1% 증가하고 영업이익은 53.5% 늘어나면서 외형 성장과 수익성 개선을 동시에 이뤄낸 것으로 나타났다. 특히 중견기업이 전체 매출의 67.3%, 영업이익의 79.8%를 차지하…",
+ "published_at": "2026-11-26T08:07:38+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "한국보건산업진흥원"
+  ],
+  "keywords": [
+   "화장품 제조기업 실적",
+   "중견기업 성장"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "국내 화장품 제조기업 매출 성장을 중견기업이 주도했다.",
+  "key_fact_quote": "특히 중견기업이 전체 매출의 67.3%, 영업이익의 79.8%를 차지하며 산업 성장을 주도했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

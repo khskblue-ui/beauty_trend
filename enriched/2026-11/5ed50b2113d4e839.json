@@ -1,0 +1,50 @@
+{
+ "doc_id": "5ed50b2113d4e839",
+ "source": "premiumbeautynews",
+ "source_name": "Premium Beauty News",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.premiumbeautynews.com/en/competition-eu-and-uk-fine-leading,28601",
+ "title": "Competition: EU and UK fine leading fragrance firms for international cartel",
+ "summary": "On Wednesday, November 25, the European Union and the United Kingdom, hit the biggest names in the global fragrance industry with fines totaling more than 570 million euros for taking part in an international fragrance cartel that might have forced consumers to pay more. Brussels imposed fines of EUR 471.9 million (USD 515 million), while Britain fined the companies GBP 85 million (EUR 101.5 million, or USD 111 million) in a parallel probe. The fines for breaking both UK and EU... - Industry buzz / Europe",
+ "published_at": "2026-11-27T01:49:56+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "GB",
+   "CH",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "Firmenich",
+   "Givaudan",
+   "International Flavors & Fragrances",
+   "Unilever",
+   "DSM"
+  ],
+  "keywords": [
+   "향료 카르텔",
+   "경쟁법 위반",
+   "과징금"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "EU와 영국이 국제 향료 카르텔 참여를 이유로 Firmenich, Givaudan, IFF에 과징금을 부과했다.",
+  "key_fact_quote": "The fines for breaking both UK and EU competition rules targeted the Swiss firms Firmenich and Givaudan and the US group International Flavors & Fragrances ( IFF ).",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

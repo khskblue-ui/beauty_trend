@@ -1,0 +1,48 @@
+{
+ "doc_id": "521eb97b71af140b",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58809",
+ "title": "미용기기 포함 K-뷰티 136.5억 달러 수출... K-소비재 수출 48% 차지",
+ "summary": "[코스인코리아닷컴 김민석 기자]한국 화장품이 미국과 유럽 시장에서 판로를 넓히며 K-소비재 수출 성장을 이끈 것으로 나타났다. 특히 기초화장품은 올해 1월 1일부터 11월 19일까지 55억2,000만 달러어치가 수출돼 전년 동기보다 32.5% 늘었다. 같은 기간 기준 역대 최대다. 관세청이 25일 발표한 자…",
+ "published_at": "2026-11-26T16:29:32+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US",
+   "GB",
+   "NL"
+  ],
+  "brands": [],
+  "companies": [
+   "부츠"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "기초화장품",
+   "유럽 시장",
+   "드럭스토어 유통"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "관세청은 한국 스킨케어 제품이 미국과 유럽에서 대중화하고 있다고 분석했다.",
+  "key_fact_quote": "관세청은 성분과 효능을 앞세운 한국 스킨케어 제품이 합리적인 가격과 현지 유통망 확대에 힘입어 미국과 유럽에서 대중화하고 있다고 분석했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

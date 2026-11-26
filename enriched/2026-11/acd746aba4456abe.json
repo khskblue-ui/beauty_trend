@@ -1,0 +1,83 @@
+{
+ "doc_id": "acd746aba4456abe",
+ "source": "jangup",
+ "source_name": "장업신문",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.jangup.com/news/articleView.html?idxno=100605",
+ "title": "티르티르, 英 코스모폴리탄·마리끌레르 뷰티 어워즈 2관왕",
+ "summary": "글로벌 메이크업 브랜드 티르티르(TIRTIR)가 미국 엘르(ELLE)에 이어 영국 코스모폴리탄(Cosmopolitan UK)과 마리끌레르(Marie Claire UK)의 뷰티 어워즈에서도 잇따라 수상하며 글로벌 시장에서 제품 경쟁력을 입증했다.티르티르는 영국 코스모폴리탄의 ‘뷰티 어워즈 2026(Cosmopolitan Beauty Awards 2026)’에서 ‘말차 팩 클렌저(Matcha Pack Cleanser)’로 ‘베스트 폼 클렌저(Best Foam Cleanser)’ 부문을 수상했다. 코스모폴리탄 뷰티 어워즈는 뷰티 에디터들",
+ "published_at": "2026-11-26T10:16:20+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "GB",
+   "US"
+  ],
+  "brands": [
+   "티르티르"
+  ],
+  "companies": [],
+  "keywords": [
+   "뷰티 어워즈",
+   "말차 스킨케어",
+   "PDRN"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "말차 팩 클렌저",
+    "brand": "티르티르",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "말차 스킨 토너",
+    "brand": "티르티르",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "무드 글라이드 립 앤 블러쉬 스틱",
+    "brand": "티르티르",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "티르티르가 영국 코스모폴리탄과 마리끌레르 뷰티 어워즈에서 잇따라 수상했다.",
+  "key_fact_quote": "글로벌 메이크업 브랜드 티르티르(TIRTIR)가 미국 엘르(ELLE)에 이어 영국 코스모폴리탄(Cosmopolitan UK)과 마리끌레르(Marie Claire UK)의 뷰티 어워즈에서도 잇따라 수상하며 글로벌 시장에서 제품 경쟁력을 입증했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PDRN",
+    "quote": "‘말차 스킨 토너’는 제주산 말차 유래 PDRN 성분을 함유한 제품으로, 피부 붉은기를 진정시키고 수분을 공급해 촉촉한 피부 상태를 유지해 주는 것이 특징이다."
+   },
+   {
+    "name": "말차",
+    "quote": "‘말차 스킨 토너’는 제주산 말차 유래 PDRN 성분을 함유한 제품으로, 피부 붉은기를 진정시키고 수분을 공급해 촉촉한 피부 상태를 유지해 주는 것이 특징이다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

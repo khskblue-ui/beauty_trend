@@ -1,0 +1,57 @@
+{
+ "doc_id": "29c0e0532ea73e62",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.popcornnews.net/news/articleView.html?idxno=141583",
+ "title": "SHIRO, 플로럴 향 '화이트' 3종 한정 출시 … 향수 ·핸드 세럼·헤어 밀크...",
+ "summary": "자연주의 뷰티 브랜드 SHIRO(시로)가 플로럴 향을 적용한 '화이트' 제품 3종을 한정 출시 한다. 향수 부터 손과 모발 관리 제품까지 같은 향을 적용해 제품군을 확대했다. 26일 SHIRO에 따르면 회사는 이날부터 '화이트 오 드...",
+ "published_at": "2026-11-26T08:44:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "SHIRO"
+  ],
+  "companies": [],
+  "keywords": [
+   "플로럴 향수",
+   "한정 출시",
+   "헤어 밀크",
+   "핸드 세럼"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "화이트",
+    "brand": "SHIRO",
+    "launch_date": "2026-11-26",
+    "launch_status": "launched",
+    "launch_quote": "자연주의 뷰티 브랜드 SHIRO(시로)가 플로럴 향을 적용한 '화이트' 제품 3종을 한정 출시 한다.",
+    "notes": [
+     "플로럴"
+    ],
+    "notes_quote": "자연주의 뷰티 브랜드 SHIRO(시로)가 플로럴 향을 적용한 '화이트' 제품 3종을 한정 출시 한다."
+   }
+  ],
+  "key_fact": "SHIRO가 플로럴 향을 적용한 화이트 제품을 향수와 핸드 세럼, 헤어 밀크로 한정 출시한다.",
+  "key_fact_quote": "자연주의 뷰티 브랜드 SHIRO(시로)가 플로럴 향을 적용한 '화이트' 제품 3종을 한정 출시 한다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

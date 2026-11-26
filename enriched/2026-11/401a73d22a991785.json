@@ -1,0 +1,48 @@
+{
+ "doc_id": "401a73d22a991785",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/industry/business_info/2026/11/26/6GR22XT7SBHSHMNBLIZEOKZLEA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "FSN 자회사 부스터즈 ‘기픈’, 2026 화해 어워드 세럼 모공 부문 1위",
+ "summary": "한편, 기픈은 부스터즈와 화장품 기술 기업 B&(비엔)이 공동 설립한 합작법인 비피니티(BFINITY)가 운영하는 브랜드다. 출시 초기 와디즈 펀딩에서는 목표액 대비 2만773%의 모집 실적을 기록했고, 무신사 뷰티 실시간...",
+ "published_at": "2026-11-26T10:30:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "기픈"
+  ],
+  "companies": [
+   "FSN",
+   "부스터즈",
+   "B&(비엔)",
+   "비피니티"
+  ],
+  "keywords": [
+   "모공 세럼",
+   "뷰티 어워드"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "부스터즈의 기픈이 화해 어워드 세럼 모공 부문 정상에 올랐다.",
+  "key_fact_quote": "FSN 자회사 부스터즈 ‘기픈’, 2026 화해 어워드 세럼 모공 부문 1위",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

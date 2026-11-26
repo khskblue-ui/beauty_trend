@@ -1,0 +1,57 @@
+{
+ "doc_id": "9a7eea3fdf2184de",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54057",
+ "title": "K-뷰티, 피부특성 데이터로 해외시장 공략",
+ "summary": "대한화장품산업연구원, 2026 피부특성 정보은행 사업 성과 공유 대한화장품산업연구원(원장 조신행· www.kcii.re.kr ·이하 화산연)이 국가별 소비자의 피부특성과 화장품 이용행태 분석을 기반으로 K-뷰티 기업의 해외시장 진출과 현지 맞춤형 제품 개발 전략을 제시했다. 연구원은 지난 20일 서울 스…",
+ "published_at": "2026-11-27T05:33:39+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "PH",
+   "BR"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품산업연구원",
+   "더마프로",
+   "피앰아이"
+  ],
+  "keywords": [
+   "피부특성 데이터",
+   "광채 피부",
+   "톤업 선케어",
+   "현지 맞춤형 제품"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "대한화장품산업연구원이 국가별 피부특성 분석을 바탕으로 K-뷰티의 해외 진출 전략을 제시했다.",
+  "key_fact_quote": "대한화장품산업연구원(원장 조신행· www.kcii.re.kr ·이하 화산연)이 국가별 소비자의 피부특성과 화장품 이용행태 분석을 기반으로 K-뷰티 기업의 해외시장 진출과 현지 맞춤형 제품 개발 전략을 제시했다.",
+  "events": [
+   {
+    "name": "2026 피부특성 정보은행 사업 결과 세미나",
+    "start_date": "2026-11-20",
+    "end_date": null,
+    "place": "서울 스페이스쉐어 강남센터 주피터홀",
+    "quote": "연구원은 지난 20일 서울 스페이스쉐어 강남센터 주피터홀에서 국내 화장품 기업·연구소 등 산업계 관계자 80여 명이 참석한 가운데 ‘2026 피부특성 정보은행 사업 결과 세미나’를 가졌다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

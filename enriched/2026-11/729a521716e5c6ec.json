@@ -1,0 +1,44 @@
+{
+ "doc_id": "729a521716e5c6ec",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://economist.co.kr/article/view/ecn202611260010",
+ "title": "샴푸만으론 부족해… K뷰티 , 프리미엄 헤어케어 시장 잡을까",
+ "summary": "국내에서 두피 관리 제품의 판매가 늘고 수출 도 급증하면서 헤어케어가 K뷰티 의 새로운 성장 분야로 떠오르고 있다. LG생활건강과 아모레퍼시픽은 북미 등 해외 시장 공략에도 속도를 내고 있다. 기존 헤어케어 기술에...",
+ "published_at": "2026-11-26T14:18:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "LG생활건강",
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "프리미엄 헤어케어",
+   "두피 관리"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "두피 관리 제품 판매와 수출이 늘며 헤어케어가 K뷰티의 새 성장 분야로 떠올랐다.",
+  "key_fact_quote": "국내에서 두피 관리 제품의 판매가 늘고 수출 도 급증하면서 헤어케어가 K뷰티 의 새로운 성장 분야로 떠오르고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

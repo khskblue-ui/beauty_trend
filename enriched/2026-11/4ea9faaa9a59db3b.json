@@ -1,0 +1,88 @@
+{
+ "doc_id": "4ea9faaa9a59db3b",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54051",
+ "title": "리쥬란코스메틱, ‘K-브랜드 정부인증’ 획득",
+ "summary": "리쥬란코스메틱 4종이 ‘K-브랜드 정부인증’ 제품으로 선정됐다. K-브랜드 정부인증제도는 해외 위조상품으로 인한 국내 기업의 피해를 줄이기 위해 지식재산처와 한국지식재산보호원, 한국조폐공사가 운영하는 제도다. 대한민국 정부가 권리자인 국가인증상표를 개발해 일정한 품질 기준을 충족한 K…",
+ "published_at": "2026-11-26T09:17:58+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "리쥬란"
+  ],
+  "companies": [
+   "파마리서치"
+  ],
+  "keywords": [
+   "위조상품 대응",
+   "정품인증",
+   "브랜드 보호"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "듀얼 이펙트 앰플",
+    "brand": "리쥬란",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "뉴트리티브 크림",
+    "brand": "리쥬란",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "턴오버 앰플",
+    "brand": "리쥬란",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "턴오버 마스크",
+    "brand": "리쥬란",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "리쥬란코스메틱 제품이 K-브랜드 정부인증 제품으로 선정됐다.",
+  "key_fact_quote": "리쥬란코스메틱 4종이 ‘K-브랜드 정부인증’ 제품으로 선정됐다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "PN(폴리뉴클레오티드)",
+    "quote": "10월에는 PN(폴리뉴클레오티드) 성분 한방 약침 ‘미주란’ 제조·판매 관계자들을 상대로 제기한 상표권 침해금지 소송에서 승소했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

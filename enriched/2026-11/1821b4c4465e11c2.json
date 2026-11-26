@@ -1,0 +1,41 @@
+{
+ "doc_id": "1821b4c4465e11c2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://sports.khan.co.kr/article/202611262009003?pt=nv",
+ "title": "‘여자친구’ 소원, 화장품 브랜드 폐업 위기 고백… “발주 실수로 재...",
+ "summary": "그룹 여자친구 출신 배우 소원(김소정)이 직접 론칭한 화장품 브랜드의 현실적인 재고 위기와 폐업 고민을... 이 같은 재고 부담은 신제품 출시에도 제동을 걸었다. 소원은 그동안 수십 차례 테스트를 거쳐 야심 차게...",
+ "published_at": "2026-11-26T20:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "연예인 화장품 브랜드",
+   "재고 관리"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "소원이 직접 론칭한 화장품 브랜드의 재고 위기와 폐업 고민을 털어놓았다.",
+  "key_fact_quote": "그룹 여자친구 출신 배우 소원(김소정)이 직접 론칭한 화장품 브랜드의 현실적인 재고 위기와 폐업 고민을",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

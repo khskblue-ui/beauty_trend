@@ -1,0 +1,73 @@
+{
+ "doc_id": "9c82d5d12edb5c20",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=311775",
+ "title": "중국 바디케어 294% 성장…K뷰티, 2015년부터 축적한 기술력으로 공략 나서야",
+ "summary": "K뷰티는 한류 열풍 당시 수분크림, 마스크팩, 쿠션팩트 등을 앞세워 중국 시장에서 높은 성과를 거뒀다.하지만 최근에는 K뷰티를 대표할 만한 히트 제품이 부재한 데다 중국 로컬 브랜드의 기술력이 빠르게 성장하면서 과거와 같은 성공 전략이 통하지 않고 있다. 이에 따라 특정 품목에 의존하기보다 새로운 성장 카테고리를 발굴해야 한다는 지적이 나온다.이 가운데 중국 바디케어 시장이 새로운 기회로 떠오르고 있다.중국 시장조사 자료에 따르면 2026년 1분기 진정·트러블 케어 제품 매출은 전년 동기 대비 30.6% 증가한 36억2천만 위안을",
+ "published_at": "2026-11-26T11:20:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "body",
+  "event_type": "market_trend",
+  "countries": [
+   "CN",
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "일리",
+   "온더바디",
+   "까이요 부티크"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "LG생활건강"
+  ],
+  "keywords": [
+   "기능성 바디케어",
+   "바디 트러블 케어",
+   "바디 스프레이",
+   "퍼퓸 바디케어"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "토탈에이징 케어 탄력 자태 크림",
+    "brand": "일리",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "울트라리치 안티에이징 크림",
+    "brand": "온더바디",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [
+     "허브"
+    ],
+    "notes_quote": "수지를 모델로 내세워 젊은 소비층을 겨냥했으며, 프랑스 '까이요 부티크'와 협업한 허브향을 적용해 퍼퓸 바디크림 콘셉트를 강조했다."
+   }
+  ],
+  "key_fact": "중국 바디케어 시장이 기능성 중심으로 빠르게 커지며 K뷰티의 새 공략 분야로 떠오르고 있다.",
+  "key_fact_quote": "중국 바디케어 시장이 기능성 중심으로 빠르게 성장하면서 K뷰티의 새로운 공략 분야로 떠오르고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": true
+}

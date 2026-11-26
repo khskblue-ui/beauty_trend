@@ -1,0 +1,43 @@
+{
+ "doc_id": "9703055908b99c66",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.dt.co.kr/article/12097278?ref=naver",
+ "title": "지디케이화장품, 해외 판로 개척· 수출 확대 공로로 인천광역시장 표창",
+ "summary": "도전해 온 임직원 모두가 함께 이룬 성과”라고 말했다. 이어 “앞으로도 차별화된 기술력과 글로벌 시장 대응 역량을 바탕으로 해외사업을 확대하고, K - 뷰티 의 세계화와 지역 수출 경제 발전에 기여하겠다”고 덧붙였다.",
+ "published_at": "2026-11-26T09:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "지디케이화장품"
+  ],
+  "keywords": [
+   "해외 판로 개척",
+   "화장품 수출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "지디케이화장품이 해외 판로 개척과 수출 확대 공로로 인천광역시장 표창을 받았다.",
+  "key_fact_quote": "지디케이화장품, 해외 판로 개척· 수출 확대 공로로 인천광역시장 표창",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

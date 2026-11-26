@@ -1,0 +1,49 @@
+{
+ "doc_id": "9f6f408b7e118b30",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/biodance-founder-mihwa-kim-on-the-viral-brand",
+ "title": "Biodance founder Mihwa Kim on the viral brand’s social media success and global expansion plans",
+ "summary": "Mihwa Kim created Biodance following a car crash – now the Korean skin care brand is the latest to look at global domination thanks to its satisfying hydrogel formulas and cult social media following",
+ "published_at": "2026-11-26T20:57:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "Biodance"
+  ],
+  "companies": [],
+  "keywords": [
+   "하이드로젤",
+   "소셜 미디어 마케팅",
+   "글로벌 진출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "바이오던스 창업자가 하이드로젤 제형과 소셜 미디어 인기를 바탕으로 한 글로벌 확장 계획을 밝혔다.",
+  "key_fact_quote": "Mihwa Kim created Biodance following a car crash – now the Korean skin care brand is the latest to look at global domination thanks to its satisfying hydrogel formulas and cult social media following",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "hydrogel",
+    "quote": "Mihwa Kim created Biodance following a car crash – now the Korean skin care brand is the latest to look at global domination thanks to its satisfying hydrogel formulas and cult social media following"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

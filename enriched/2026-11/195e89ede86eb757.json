@@ -1,0 +1,50 @@
+{
+ "doc_id": "195e89ede86eb757",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=20261126094854875946a9e4dd7f_30",
+ "title": "인탑스, 브라질 최대 약국·드럭스토어 협회 연계 K - 뷰티 수출",
+ "summary": "인탑스가 국내 화장품 브랜드의 브라질 수출 을 지원하며 K - 뷰티 의 남미 시장 판로 확대에 나섰다. 수출 품목에는 브이티(VT), 셀리맥스(celimax), 스킨천사(SKIN1004), 썸바이미(SOMEBY MI) 등의 제품이 포함됐으며, 브라질...",
+ "published_at": "2026-11-26T09:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "BR"
+  ],
+  "brands": [
+   "브이티",
+   "셀리맥스",
+   "스킨천사",
+   "썸바이미"
+  ],
+  "companies": [
+   "인탑스"
+  ],
+  "keywords": [
+   "K-뷰티 수출",
+   "남미 시장",
+   "약국 유통"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "인탑스가 국내 화장품 브랜드의 브라질 수출을 지원하며 남미 판로를 넓혔다.",
+  "key_fact_quote": "인탑스가 국내 화장품 브랜드의 브라질 수출 을 지원하며 K - 뷰티 의 남미 시장 판로 확대에 나섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

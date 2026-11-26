@@ -1,0 +1,65 @@
+{
+ "doc_id": "48b132b1c1e3b4f1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://view.asiae.co.kr/article/2026112610141495848",
+ "title": "[오늘의신상] 스킨1004, 크림이 거품으로 변하는 클렌저·버블 세럼 출시",
+ "summary": "글로벌 뷰티 밸류체인 기업 크레이버코퍼레이션이 전개하는 스킨케어 브랜드 스킨1004가 27일 '프로바이오시카' 라인 신제품 2종을 출시 한다고 26일 밝혔다. 이번 신제품 은 크림이 풍성한 거품으로 변하는 클렌저와 크림...",
+ "published_at": "2026-11-26T10:15:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "스킨1004"
+  ],
+  "companies": [
+   "크레이버코퍼레이션"
+  ],
+  "keywords": [
+   "거품형 클렌저",
+   "버블 세럼",
+   "신제품 출시"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "크림이 거품으로 변하는 클렌저",
+    "brand": "스킨1004",
+    "launch_date": "2026-11-27",
+    "launch_status": "upcoming",
+    "launch_quote": "글로벌 뷰티 밸류체인 기업 크레이버코퍼레이션이 전개하는 스킨케어 브랜드 스킨1004가 27일 '프로바이오시카' 라인 신제품 2종을 출시 한다고 26일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "버블 세럼",
+    "brand": "스킨1004",
+    "launch_date": "2026-11-27",
+    "launch_status": "upcoming",
+    "launch_quote": "글로벌 뷰티 밸류체인 기업 크레이버코퍼레이션이 전개하는 스킨케어 브랜드 스킨1004가 27일 '프로바이오시카' 라인 신제품 2종을 출시 한다고 26일 밝혔다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "크레이버코퍼레이션의 스킨케어 브랜드가 프로바이오시카 라인 신제품을 출시한다.",
+  "key_fact_quote": "글로벌 뷰티 밸류체인 기업 크레이버코퍼레이션이 전개하는 스킨케어 브랜드 스킨1004가 27일 '프로바이오시카' 라인 신제품 2종을 출시 한다고 26일 밝혔다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}

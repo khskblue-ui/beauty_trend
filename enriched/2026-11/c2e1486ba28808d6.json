@@ -1,0 +1,47 @@
+{
+ "doc_id": "c2e1486ba28808d6",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/hair-care-trends-for-2027",
+ "title": "Hair Care Trends for 2027",
+ "summary": "3 December 2026 | Virtual",
+ "published_at": "2026-11-26T09:00:00+09:00",
+ "date_source": "sitemap_lastmod",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "hair",
+  "event_type": "event",
+  "countries": [],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "헤어케어 트렌드",
+   "온라인 세미나"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "헤어케어 트렌드를 다루는 온라인 행사가 열린다.",
+  "key_fact_quote": "Hair Care Trends for 2027",
+  "events": [
+   {
+    "name": "Hair Care Trends for 2027",
+    "start_date": "2026-12-03",
+    "end_date": null,
+    "place": "Virtual",
+    "quote": "3 December 2026 | Virtual"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-26T21:32:33+00:00",
+ "had_body": false
+}
