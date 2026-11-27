@@ -1,0 +1,44 @@
+{
+ "doc_id": "1673325df87b6662",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.ifm.kr/news/articleView.html?idxno=485689",
+ "title": "매장서 검증하고 세계로 띄운다…CJ올리브영, K뷰티 유망주 10곳 집중 육...",
+ "summary": "CJ올리브영이 국내 소비자들의 선택을 받은 신진 화장품 브랜드를 글로벌 시장의 새로운 성장 주역으로... 신제품 발굴 및 소개에 특화된 '올영신상' 프로모션을 통해 소비자와의 접점을 확대하고, 개별 브랜드의 특성을...",
+ "published_at": "2026-11-27T09:54:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ올리브영"
+  ],
+  "keywords": [
+   "신진 브랜드 육성",
+   "K뷰티 글로벌 진출",
+   "신제품 프로모션"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "CJ올리브영이 국내에서 검증된 신진 화장품 브랜드의 글로벌 진출을 지원한다.",
+  "key_fact_quote": "CJ올리브영이 국내 소비자들의 선택을 받은 신진 화장품 브랜드를 글로벌 시장의 새로운 성장 주역으로",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

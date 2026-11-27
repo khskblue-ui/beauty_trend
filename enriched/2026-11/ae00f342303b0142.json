@@ -1,0 +1,44 @@
+{
+ "doc_id": "ae00f342303b0142",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.joseilbo.com/news/news_read.php?uid=580619&class=17&grp=",
+ "title": "올리브영, ' K - 뷰티 유망주' 10곳 키운다…마케팅·유통망 확대 지원",
+ "summary": "중소 뷰티 브랜드의 성장과 해외 진출을 지원하는 사업이다. 2024년 20개 브랜드를 대상으로 시작해 지난해 25개, 올해 30개로 참여 규모를 확대했다. 올해 3기에는 중기부의 ' K - 수출 전략품목 육성사업'을 통해 선정된...",
+ "published_at": "2026-11-27T16:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "중소 뷰티 브랜드",
+   "해외 진출 지원",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 중소 뷰티 브랜드의 성장과 해외 진출을 지원하는 사업을 확대했다.",
+  "key_fact_quote": "중소 뷰티 브랜드의 성장과 해외 진출을 지원하는 사업이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

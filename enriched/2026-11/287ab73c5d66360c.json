@@ -1,0 +1,45 @@
+{
+ "doc_id": "287ab73c5d66360c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://swtvnews.com/news/newsview.php?ncode=1065585084911363",
+ "title": "솔페리노 파리, 연희동서 국내 첫 팝업스토어 개최… 향수 체험 프로그...",
+ "summary": "팝업스토어에서는 나탈리 로르송, 앙투안 메종디외, 조르디 페르난데스, 안 플리포 등 조향사 들이 참여한 향수 컬렉션을 만나볼 수 있다. 제품은 플로럴과 우디, 앰버리, 구르망, 레더 등 다양한 향조로 구성됐으며...",
+ "published_at": "2026-11-27T13:50:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "솔페리노 파리"
+  ],
+  "companies": [],
+  "keywords": [
+   "팝업스토어",
+   "향수 체험",
+   "프랑스 향수"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "솔페리노 파리가 연희동에서 국내 첫 팝업스토어를 열었다.",
+  "key_fact_quote": "솔페리노 파리, 연희동서 국내 첫 팝업스토어 개최… 향수 체험 프로그",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

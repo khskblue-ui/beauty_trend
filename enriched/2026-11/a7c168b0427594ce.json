@@ -1,0 +1,42 @@
+{
+ "doc_id": "a7c168b0427594ce",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001991",
+ "title": "K뷰티 등에 업고 화장품 사업 키우는 패션업계",
+ "summary": "패션기업들이 뷰티 사업을 키우고 정비하는 배경에는 내수 의류 시장의 성장 한계와 K뷰티 수출 확대, 의류 대비 유리한 사업 구조가 있다. 패션과 뷰티는 고객층이 맞닿아 있어 시너지를 기대할 수 있고, 소싱·패턴 등...",
+ "published_at": "2026-11-27T16:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "패션 기업 뷰티 사업",
+   "K뷰티 수출",
+   "사업 다각화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "패션기업들이 내수 의류 시장의 한계와 K뷰티 수출 확대를 배경으로 뷰티 사업을 키우고 있다.",
+  "key_fact_quote": "패션기업들이 뷰티 사업을 키우고 정비하는 배경에는 내수 의류 시장의 성장 한계와 K뷰티 수출 확대, 의류 대비 유리한 사업 구조가 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

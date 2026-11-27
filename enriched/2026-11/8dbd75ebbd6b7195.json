@@ -1,0 +1,46 @@
+{
+ "doc_id": "8dbd75ebbd6b7195",
+ "source": "wwd",
+ "source_name": "WWD Beauty",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://wwd.com/beauty-industry-news/fragrance/puig-acquire-75-percent-parfums-de-marly-initio-1-2-billion-1239467775/",
+ "title": "Puig to Acquire 75 Percent of Parfums de Marly, Initio for 1.2 Billion Euros",
+ "summary": "The move strengthens the Spanish company’s presence in niche perfumery.",
+ "published_at": "2026-11-28T05:26:45+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "business",
+  "countries": [
+   "ES"
+  ],
+  "brands": [
+   "Parfums de Marly",
+   "Initio"
+  ],
+  "companies": [
+   "Puig"
+  ],
+  "keywords": [
+   "니치 향수",
+   "인수합병"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "Puig가 Parfums de Marly와 Initio의 지분을 인수해 니치 향수 사업을 강화한다.",
+  "key_fact_quote": "Puig to Acquire 75 Percent of Parfums de Marly, Initio for 1.2 Billion Euros",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

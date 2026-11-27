@@ -1,0 +1,44 @@
+{
+ "doc_id": "be33f01e40a088e3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.4th.kr/news/articleView.html?idxno=2122824",
+ "title": "올리브영, K뷰티 루키 10곳 글로벌몰 진출 지원",
+ "summary": "올리브영은 'K-슈퍼루키 위드 영' 3기 브랜드 중 10곳을 최종 선정해 12월 1일부터 한 달간 스케일업... K뷰티 수출 호조는 중소 브랜드의 해외 진출 기회를 키우고 있다. 산업통상부에 따르면 2026년 10월 화장품 수출액은...",
+ "published_at": "2026-11-27T10:46:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "인디 브랜드",
+   "글로벌몰",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "올리브영이 K-슈퍼루키 위드 영 브랜드를 골라 글로벌몰 진출을 지원한다.",
+  "key_fact_quote": "올리브영은 'K-슈퍼루키 위드 영' 3기 브랜드 중 10곳을 최종 선정해 12월 1일부터 한 달간 스케일업",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

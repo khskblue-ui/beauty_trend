@@ -1,0 +1,44 @@
+{
+ "doc_id": "e2b920b8aabbc39c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mediawatch.kr/news/article.html?no=261904",
+ "title": "[금주의 화장품 톡톡] CJ, 방한 외국인 소비 잡는다… 멤버십으로 ‘입...",
+ "summary": "CJ ONE 글로벌은 지난달 출시 된 외국인 전용 멤버십이다. 국내 휴대전화 번호나 신분증 없이 이메일... CJ ONE은 모빌리티 핀테크 기업 이동의즐거움과 협력해 방한 외국인 특화 교통카드도 연내 출시 할 계획이다....",
+ "published_at": "2026-11-27T14:38:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "CJ",
+   "이동의즐거움"
+  ],
+  "keywords": [
+   "방한 외국인",
+   "외국인 전용 멤버십"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "CJ가 외국인 전용 멤버십으로 방한 외국인 소비를 잡으려 한다.",
+  "key_fact_quote": "CJ ONE 글로벌은 지난달 출시 된 외국인 전용 멤버십이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

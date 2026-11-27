@@ -1,0 +1,91 @@
+{
+ "doc_id": "90031955e4d6d10c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://biz.chosun.com/industry/business_info/2026/11/27/DRGQNFUHCJCRDMYUAB4Q3KQ73Q/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+ "title": "스킨에고, 권은비 모델로 콜라겐 세럼·PDRN 크림 등 화장품 3종 출시",
+ "summary": "스킨에고는 신제품 출시와 함께 11월 27일부터 온라인 판매 채널에서 동일 제품 2개로 구성된 ‘권은비 PICK’ 세트를 선보인다. 세럼과 크림, 하이드로겔 마스크 제품별로 2개입 구성의 세트 상품을 운영한다....",
+ "published_at": "2026-11-27T13:43:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "스킨에고"
+  ],
+  "companies": [],
+  "keywords": [
+   "PDRN 화장품",
+   "콜라겐 세럼",
+   "하이드로겔 마스크",
+   "모델 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "콜라겐 세럼",
+    "brand": "스킨에고",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "스킨에고, 권은비 모델로 콜라겐 세럼·PDRN 크림 등 화장품 3종 출시",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "PDRN 크림",
+    "brand": "스킨에고",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "스킨에고, 권은비 모델로 콜라겐 세럼·PDRN 크림 등 화장품 3종 출시",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "하이드로겔 마스크",
+    "brand": "스킨에고",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "스킨에고는 신제품 출시와 함께 11월 27일부터 온라인 판매 채널에서 동일 제품 2개로 구성된 ‘권은비 PICK’ 세트를 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "권은비 PICK",
+    "brand": "스킨에고",
+    "launch_date": "2026-11-27",
+    "launch_status": "launched",
+    "launch_quote": "스킨에고는 신제품 출시와 함께 11월 27일부터 온라인 판매 채널에서 동일 제품 2개로 구성된 ‘권은비 PICK’ 세트를 선보인다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "스킨에고가 권은비를 모델로 세럼, 크림, 마스크 신제품을 출시했다.",
+  "key_fact_quote": "스킨에고, 권은비 모델로 콜라겐 세럼·PDRN 크림 등 화장품 3종 출시",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "콜라겐",
+    "quote": "스킨에고, 권은비 모델로 콜라겐 세럼·PDRN 크림 등 화장품 3종 출시"
+   },
+   {
+    "name": "PDRN",
+    "quote": "스킨에고, 권은비 모델로 콜라겐 세럼·PDRN 크림 등 화장품 3종 출시"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

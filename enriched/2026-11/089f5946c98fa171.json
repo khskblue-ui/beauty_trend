@@ -1,0 +1,54 @@
+{
+ "doc_id": "089f5946c98fa171",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=888152",
+ "title": "히어로즈 오브 코리아, 유관순 향수 출시",
+ "summary": "아티셔널 니치 향수 브랜드인 히어로즈 오브 코리아는 유관순 열사의 용기와 숭고한 정신을 일상 속에서 기리고자 이번 신제품을 기획했으며, 수익금 일부는 유관순기념사업회 발전기금으로 전달할 예정이다. 이번...",
+ "published_at": "2026-11-27T23:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "니치 향수",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "히어로즈 오브 코리아"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "아티저널 향수",
+   "기부 연계 상품"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "유관순 향수",
+    "brand": "히어로즈 오브 코리아",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "히어로즈 오브 코리아, 유관순 향수 출시",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "히어로즈 오브 코리아가 유관순 열사를 기리는 향수를 내놓았다.",
+  "key_fact_quote": "아티셔널 니치 향수 브랜드인 히어로즈 오브 코리아는 유관순 열사의 용기와 숭고한 정신을 일상 속에서 기리고자 이번 신제품을 기획했으며, 수익금 일부는 유관순기념사업회 발전기금으로 전달할 예정이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

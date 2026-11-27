@@ -1,0 +1,42 @@
+{
+ "doc_id": "8d0827b7096a9906",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.ibabynews.com/news/articleView.html?idxno=157393",
+ "title": "영유아 화장품 안전성 보고 가장 많아…사용 전 전성분 확인해야",
+ "summary": "향료 성분 가운데 알레르기 유발 성분이 포함된 경우에는 해당 성분명을 제품에 표시하도록 하고 있다. 이에 따라 보호자는 화장품 구매 및 사용 전 용기나 포장에 기재된 주의사항과 전성분, 사용방법을 꼼꼼히...",
+ "published_at": "2026-11-27T11:58:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "영유아 화장품",
+   "알레르기 유발성분 표시",
+   "전성분 확인"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "향료 성분 가운데 알레르기 유발 성분이 들어 있으면 그 성분명을 제품에 표시하도록 하고 있다.",
+  "key_fact_quote": "향료 성분 가운데 알레르기 유발 성분이 포함된 경우에는 해당 성분명을 제품에 표시하도록 하고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

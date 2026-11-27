@@ -1,0 +1,46 @@
+{
+ "doc_id": "c06d583eee4f5a60",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.seoulfn.com/news/articleView.html?idxno=644116",
+ "title": "[뷰티브리핑] 에이피알, '닥터멜락신' 인수 외",
+ "summary": "호조와 신제품 흥행을 바탕으로 현지 시장에서 성장세를 이어가고 있다. 올해 3분기 일본 법인 매출은 전년... 수상하며 화장품 및 건강기능식품 제조 경쟁력을 인정받았다. 한국콜마는 국가품질경영 유공자 부문...",
+ "published_at": "2026-11-27T10:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "닥터멜락신"
+  ],
+  "companies": [
+   "에이피알",
+   "한국콜마"
+  ],
+  "keywords": [
+   "인수합병",
+   "화장품 제조 경쟁력"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에이피알이 닥터멜락신을 인수했다.",
+  "key_fact_quote": "[뷰티브리핑] 에이피알, '닥터멜락신' 인수 외",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

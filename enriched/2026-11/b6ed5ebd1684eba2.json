@@ -1,0 +1,44 @@
+{
+ "doc_id": "b6ed5ebd1684eba2",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.topdaily.kr/articles/112807",
+ "title": "[건자재 인사이드] [에스와이] 야심찬 ' 뷰티 ' 도전기, 적자 신사업 궤도...",
+ "summary": "지난달에는 경기도 고양시 킨텍스에서 열린 ' K - 뷰티 엑스포 코리아'에 참가해 글로벌 수출 기회 마련에 도전했다. 소비자와의 물리적 접점을 넓히기 위해 오프라인 매장을 늘려가는 것도 관건으로 지목된다. 지난해 매장...",
+ "published_at": "2026-11-27T10:29:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에스와이"
+  ],
+  "keywords": [
+   "뷰티 신사업",
+   "오프라인 매장",
+   "K뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "에스와이가 뷰티 신사업에서 해외 수출과 오프라인 매장 확대를 추진하고 있다.",
+  "key_fact_quote": "지난달에는 경기도 고양시 킨텍스에서 열린 ' K - 뷰티 엑스포 코리아'에 참가해 글로벌 수출 기회 마련에 도전했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

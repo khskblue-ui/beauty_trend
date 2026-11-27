@@ -1,0 +1,55 @@
+{
+ "doc_id": "8f31623f5f1f6d74",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58814",
+ "title": "콜마그룹, 국가품질경영대회서 국무총리·장관표창 등 8관왕",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 콜마그룹이 지난 25일 서울 강남구 코엑스에서 열린 ‘제52회 국가품질경영대회’에서 국무총리표창과 산업통상부 장관표창, 품질분임조 부문 금·은·동상 등 총 8개 상을 수상하며 화장품과 건강기능식품 분야의 제조·품질 경쟁력을 인정받았다고 27일 밝혔다. 국…",
+ "published_at": "2026-11-27T11:24:25+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "콜마그룹",
+   "한국콜마",
+   "콜마비앤에이치",
+   "콜마홀딩스"
+  ],
+  "keywords": [
+   "품질경영",
+   "AI 생산관리",
+   "화장품 제조"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "콜마그룹이 국가품질경영대회에서 화장품과 건강기능식품 제조 품질 경쟁력을 인정받아 여러 상을 받았다.",
+  "key_fact_quote": "[코스인코리아닷컴 길태윤 기자] 콜마그룹이 지난 25일 서울 강남구 코엑스에서 열린 ‘제52회 국가품질경영대회’에서 국무총리표창과 산업통상부 장관표창, 품질분임조 부문 금·은·동상 등 총 8개 상을 수상하며 화장품과 건강기능식품 분야의 제조·품질 경쟁력을 인정받았다고 27일 밝혔다.",
+  "events": [
+   {
+    "name": "제52회 국가품질경영대회",
+    "start_date": "2026-11-25",
+    "end_date": null,
+    "place": "서울 강남구 코엑스",
+    "quote": "콜마그룹이 지난 25일 서울 강남구 코엑스에서 열린 ‘제52회 국가품질경영대회’에서 국무총리표창과 산업통상부 장관표창, 품질분임조 부문 금·은·동상 등 총 8개 상을 수상하며"
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": true
+}

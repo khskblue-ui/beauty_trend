@@ -1,0 +1,43 @@
+{
+ "doc_id": "2a30f1b01ac4562e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sisajournal.com/news/articleView.html?idxno=395453",
+ "title": "[제주 24시] 제주 화장품 수출 , 국내외 뷰티 박람회서 판로 개척⋯전년...",
+ "summary": "제주도는 이러한 성과를 바탕으로 중소벤처기업부 주관 '케이( K )- 뷰티 수출 거점' 조성 사업과 연계해 도내 화장품 기업의 해외 시장 진출을 확대할 방침이다. 제주의 청정 천연 원료와 도내 기업의 기술력을 바탕으로...",
+ "published_at": "2026-11-27T10:05:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "화장품 수출",
+   "뷰티 박람회",
+   "천연 원료",
+   "수출 거점"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "제주도가 K-뷰티 수출 거점 조성 사업과 연계해 도내 화장품 기업의 해외 진출을 늘릴 방침이다.",
+  "key_fact_quote": "제주도는 이러한 성과를 바탕으로 중소벤처기업부 주관 '케이( K )- 뷰티 수출 거점' 조성 사업과 연계해 도내 화장품 기업의 해외 시장 진출을 확대할 방침이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

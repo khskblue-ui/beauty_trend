@@ -1,0 +1,59 @@
+{
+ "doc_id": "aff491552d61c423",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://health.chosun.com/site/data/html_dir/2026/11/27/2026112700950.html",
+ "title": "“가족이어도 함께 쓰면 안 돼요”… 립밤 공유했다가 ‘헤르페스’ 전...",
+ "summary": "미국 피부과학회(AAD)는 입술이 건조하고 갈라진 상태에서 멘톨, 페퍼민트, 유칼립투스, 살리실산, 향료 가 들어간 제품을 사용하면 입술 피부에 자극이 갈 수 있다고 했다. 립밤을 충분히 발랐는데도 건조하거나 트는 증상이...",
+ "published_at": "2026-11-27T10:35:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "other",
+  "countries": [
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "립밤",
+   "입술 자극 성분",
+   "위생"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 피부과학회는 건조한 입술에 멘톨이나 향료 등이 든 제품을 쓰면 자극이 갈 수 있다고 했다.",
+  "key_fact_quote": "미국 피부과학회(AAD)는 입술이 건조하고 갈라진 상태에서 멘톨, 페퍼민트, 유칼립투스, 살리실산, 향료 가 들어간 제품을 사용하면 입술 피부에 자극이 갈 수 있다고 했다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "멘톨",
+    "quote": "미국 피부과학회(AAD)는 입술이 건조하고 갈라진 상태에서 멘톨, 페퍼민트, 유칼립투스, 살리실산, 향료 가 들어간 제품을 사용하면 입술 피부에 자극이 갈 수 있다고 했다."
+   },
+   {
+    "name": "페퍼민트",
+    "quote": "미국 피부과학회(AAD)는 입술이 건조하고 갈라진 상태에서 멘톨, 페퍼민트, 유칼립투스, 살리실산, 향료 가 들어간 제품을 사용하면 입술 피부에 자극이 갈 수 있다고 했다."
+   },
+   {
+    "name": "유칼립투스",
+    "quote": "미국 피부과학회(AAD)는 입술이 건조하고 갈라진 상태에서 멘톨, 페퍼민트, 유칼립투스, 살리실산, 향료 가 들어간 제품을 사용하면 입술 피부에 자극이 갈 수 있다고 했다."
+   },
+   {
+    "name": "살리실산",
+    "quote": "미국 피부과학회(AAD)는 입술이 건조하고 갈라진 상태에서 멘톨, 페퍼민트, 유칼립투스, 살리실산, 향료 가 들어간 제품을 사용하면 입술 피부에 자극이 갈 수 있다고 했다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

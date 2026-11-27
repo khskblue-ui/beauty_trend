@@ -1,0 +1,44 @@
+{
+ "doc_id": "68691bee0415686c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newspim.com/news/view/20261127000408",
+ "title": "K뷰티 열풍에 美 톡신·필러 수출 호조…해외 매출 다변화 시동",
+ "summary": "이 같은 수출 증가세의 배경으로는 스킨케어를 넘어 피부과·성형외과 시술로 넓어진 미국 소비자들의 K뷰티 관심이 꼽힌다. 보건복지부에 따르면 지난해 한국을 찾은 미국인 환자는 17만3000명으로 전년 대비 70.4% 늘어...",
+ "published_at": "2026-11-27T11:37:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "톡신",
+   "필러",
+   "미용 시술",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 소비자의 K뷰티 관심이 피부과와 성형외과 시술로 넓어지며 톡신과 필러 수출이 늘었다.",
+  "key_fact_quote": "이 같은 수출 증가세의 배경으로는 스킨케어를 넘어 피부과·성형외과 시술로 넓어진 미국 소비자들의 K뷰티 관심이 꼽힌다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

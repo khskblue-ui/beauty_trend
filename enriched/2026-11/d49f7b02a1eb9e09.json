@@ -1,0 +1,41 @@
+{
+ "doc_id": "d49f7b02a1eb9e09",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.sportsseoul.com/news/read/1652705?ref=naver",
+ "title": "소원, 화장품 재고 2만개에 폐업 고민…“내 생돈, 다 뿌리고 접으려 했...",
+ "summary": "11월 화장품 브랜드를 론칭했다. 그러나 첫 사업에서 생산량 판단 실수가 발목을 잡으면서 브랜드 존속 여부까지 고민하게 됐다. 소원이 2만 개에 달하는 재고를 털어내고 준비해온 신제품 까지 선보일 수 있을지 관심이...",
+ "published_at": "2026-11-27T10:25:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "셀럽 화장품 브랜드",
+   "재고 부담"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "소원이 화장품 브랜드를 론칭한 뒤 재고 부담으로 폐업을 고민했다.",
+  "key_fact_quote": "그러나 첫 사업에서 생산량 판단 실수가 발목을 잡으면서 브랜드 존속 여부까지 고민하게 됐다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

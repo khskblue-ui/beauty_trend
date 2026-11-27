@@ -1,0 +1,45 @@
+{
+ "doc_id": "10c9701b64fb09ca",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.edaily.co.kr/News/Read?newsId=02486246645649984&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+ "title": "[르포] 가격표 교체 이틀서 10초로…K뷰티 매장 바꾼 전자가격표",
+ "summary": "신제품 출시와 할인 행사가 잦은 뷰티 매장에서 직원들이 가위와 종이를 들고 가격표를 교체하던 풍경이 사라지고 있다. 퓌 아지트 성수 내부 화장품 진열대의 모습. (사진=페이히어) 퓌 아지트 성수는 지난 10월부터 매장...",
+ "published_at": "2026-11-27T14:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "퓌"
+  ],
+  "companies": [
+   "페이히어"
+  ],
+  "keywords": [
+   "전자가격표",
+   "매장 디지털화"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "뷰티 매장에서 종이 가격표 대신 전자가격표 도입이 늘고 있다.",
+  "key_fact_quote": "신제품 출시와 할인 행사가 잦은 뷰티 매장에서 직원들이 가위와 종이를 들고 가격표를 교체하던 풍경이 사라지고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

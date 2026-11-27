@@ -1,0 +1,45 @@
+{
+ "doc_id": "541801bdccaa851a",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.inews24.com/view/2031285",
+ "title": "숨 고르는 화장품 주가⋯블랙프라이데이 시험대",
+ "summary": "실제로 지난달 화장품 수출 은 전년 동기 대비 57% 증가했을 뿐 아니라 블랙프라이데이 시즌이 일부 포함된 이달 1~20일 수출 액도 62% 늘었다. 아마존 뷰티 카테고리 전체 상위 100위에 든 한국 제품 수는 지난달 23개에서...",
+ "published_at": "2026-11-27T14:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "아마존"
+  ],
+  "keywords": [
+   "화장품 주가",
+   "블랙프라이데이",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "블랙프라이데이 시즌과 맞물려 화장품 수출이 크게 늘었다.",
+  "key_fact_quote": "실제로 지난달 화장품 수출 은 전년 동기 대비 57% 증가했을 뿐 아니라 블랙프라이데이 시즌이 일부 포함된 이달 1~20일 수출 액도 62% 늘었다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

@@ -1,0 +1,43 @@
+{
+ "doc_id": "4fcc3d5364b61b5d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mydaily.co.kr/page/view/2026112719374398115",
+ "title": "[MD포커스] 식품·패션·제약까지 ‘ K - 뷰티 ’ 러시…생산 1000억 넘긴 곳...",
+ "summary": "10개월 만에 지난해 연간 수출 액 114억1800만달러를 넘어섰고, 올해 연간 150억달러 돌파도 눈앞에 뒀다. 이업종 기업이 뷰티 시장에 뛰어드는 배경에는 수익성 격차가 있다. 올해 상반기 신흥 뷰티 기업 에이피알의...",
+ "published_at": "2026-11-27T19:40:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "에이피알"
+  ],
+  "keywords": [
+   "이업종 진출",
+   "K-뷰티 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식품과 패션, 제약 기업까지 K-뷰티 시장에 뛰어들고 있다.",
+  "key_fact_quote": "[MD포커스] 식품·패션·제약까지 ‘ K - 뷰티 ’ 러시…생산 1000억 넘긴 곳",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

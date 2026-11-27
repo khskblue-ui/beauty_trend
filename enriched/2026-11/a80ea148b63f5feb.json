@@ -1,0 +1,48 @@
+{
+ "doc_id": "a80ea148b63f5feb",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsverse.kr/news/articleView.html?idxno=12053",
+ "title": "[ K - 뷰티 를 만든 사람들 ⑤] '조선미녀'가 만든 K - 뷰티 성공 신화...구다...",
+ "summary": "구다이글로벌은 미국과 중국 등 해외시장에 K - 뷰티 제품을 공급하면서 소싱과 물류, 판매를 연결하는 유통... 단순히 한국에서 잘 팔린 제품을 그대로 수출 하지 않았다. 소비자가 좋아한 핵심 사용감은 유지하되 현지...",
+ "published_at": "2026-11-27T07:32:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "CN"
+  ],
+  "brands": [
+   "조선미녀"
+  ],
+  "companies": [
+   "구다이글로벌"
+  ],
+  "keywords": [
+   "K뷰티 유통",
+   "현지화",
+   "수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "구다이글로벌은 해외 시장에 K뷰티 제품을 공급하며 소싱과 물류, 판매를 잇는 유통을 해 왔다.",
+  "key_fact_quote": "구다이글로벌은 미국과 중국 등 해외시장에 K - 뷰티 제품을 공급하면서 소싱과 물류, 판매를 연결하는 유통",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

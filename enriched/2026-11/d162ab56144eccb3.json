@@ -1,0 +1,55 @@
+{
+ "doc_id": "d162ab56144eccb3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065585284292654",
+ "title": "솔페리노 파리, 국내 향수 시장 진출… 10종 프래그런스 컬렉션 공개",
+ "summary": "조향사 들에게 각자가 기억하고 상상하는 파리의 모습을 자유롭게 표현하도록 해 총 10종의 오 드 퍼퓸 컬렉션을 완성했다. 컬렉션 개발에는 나탈리 로르송, 앙투안 메종디외, 조르디 페르난데스, 안 플리포 등 조향사 ...",
+ "published_at": "2026-11-27T13:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "솔페리노 파리"
+  ],
+  "companies": [],
+  "keywords": [
+   "니치 향수",
+   "오 드 퍼퓸",
+   "국내 진출"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "오 드 퍼퓸 컬렉션",
+    "brand": "솔페리노 파리",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "솔페리노 파리, 국내 향수 시장 진출… 10종 프래그런스 컬렉션 공개",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "솔페리노 파리가 국내 향수 시장에 진출하며 오 드 퍼퓸 컬렉션을 공개했다.",
+  "key_fact_quote": "솔페리노 파리, 국내 향수 시장 진출… 10종 프래그런스 컬렉션 공개",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

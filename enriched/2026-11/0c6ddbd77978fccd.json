@@ -1,0 +1,60 @@
+{
+ "doc_id": "0c6ddbd77978fccd",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58822",
+ "title": "[11월 4주 화장품 주가] 미국 연말 쇼핑 시즌 기대감에 화장품 주가 급반등",
+ "summary": "[코스인코리아닷컴 김민석 기자]11월 23~27일 코스피는 0.94%, 코스닥은 9.81% 올랐다. 주요 화장품주는 25일 코스피 급락에도 미국 연말 쇼핑 시즌 기대감에 강세를 보였다. 27일에는 시장 전체가 급반등했다. 코스피가 6% 넘게 떨어진 날 코스메카코리아 13%.36% 코스맥스 12.18% 에이피알 10.8…",
+ "published_at": "2026-11-27T23:57:30+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "닥테멜락산",
+   "메디큐브",
+   "닥터멜락신"
+  ],
+  "companies": [
+   "코스메카코리아",
+   "코스맥스",
+   "에이피알",
+   "LG생활건강",
+   "아로마티카",
+   "실리콘투",
+   "씨앤씨인터내셔널",
+   "한국화장품제조",
+   "에이에스텍",
+   "브랜드 501",
+   "아마존"
+  ],
+  "keywords": [
+   "화장품 주가",
+   "블랙프라이데이",
+   "화장품 수출",
+   "더마 스킨케어 인수"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "미국 연말 쇼핑 시즌 기대감에 화장품 주가가 크게 올랐다.",
+  "key_fact_quote": "주요 화장품주는 25일 코스피 급락에도 미국 연말 쇼핑 시즌 기대감에 강세를 보였다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": true
+}

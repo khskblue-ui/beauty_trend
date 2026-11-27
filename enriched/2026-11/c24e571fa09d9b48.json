@@ -1,0 +1,45 @@
+{
+ "doc_id": "c24e571fa09d9b48",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=250608",
+ "title": "솔페리노 파리, 국내 첫 팝업스토어 개최…\"파리 감성 담은 향수 10종 소...",
+ "summary": "나탈리 로르송, 앙투안 메종디외, 조르디 페르난데스, 안 플리포 등 조향사 들이 참여했으며, 센강과 팔레 루아얄, 몽마르트, 방돔 광장 등 파리의 상징적인 장소에서 영감을 받아 제품을 개발했다. 향수는 플로럴과 우디...",
+ "published_at": "2026-11-27T13:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "솔페리노 파리"
+  ],
+  "companies": [],
+  "keywords": [
+   "팝업스토어",
+   "니치 향수",
+   "국내 진출"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "솔페리노 파리가 국내 첫 팝업스토어를 열고 파리에서 영감을 받은 향수를 소개한다.",
+  "key_fact_quote": "솔페리노 파리, 국내 첫 팝업스토어 개최",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

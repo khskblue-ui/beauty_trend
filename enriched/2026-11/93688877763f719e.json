@@ -1,0 +1,55 @@
+{
+ "doc_id": "93688877763f719e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://dealsite.co.kr/articles/173498",
+ "title": "[동국제약 점프업] 권기범 회장, 헬스앤뷰티 정조준…'인사돌' 넘어 '센...",
+ "summary": "동국제약은 앞서 2023년 뷰티 디바이스 '마데카 프라임'을 출시 하며 화장품 과 미용기기를 결합한 사업 확장에 나섰다. 이후 위드닉스를 인수하면서 자체 제품 개발과 생산 역량을 확보할 수 있는 기반을 마련한...",
+ "published_at": "2026-11-27T07:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "동국제약",
+   "위드닉스"
+  ],
+  "keywords": [
+   "뷰티 디바이스",
+   "헬스앤뷰티",
+   "사업 다각화"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "마데카 프라임",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "동국제약이 뷰티 디바이스와 화장품을 결합하며 헬스앤뷰티 사업을 넓히고 있다.",
+  "key_fact_quote": "동국제약은 앞서 2023년 뷰티 디바이스 '마데카 프라임'을 출시 하며 화장품 과 미용기기를 결합한 사업 확장에 나섰다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

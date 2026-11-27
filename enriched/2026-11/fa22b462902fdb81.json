@@ -1,0 +1,60 @@
+{
+ "doc_id": "fa22b462902fdb81",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58821",
+ "title": "화장품클러스터연합회, 스페인 지회 설립 ‘K-뷰티 글로벌 협력망 확대’",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 화장품클러스터연합회(CCA)가 스페인 지회를 설립하고 글로벌 대외협력 조직을 강화하며 K-뷰티 산업의 해외 진출과 국제교류 확대에 나선다고 12일 밝혔다. 화장품클러스터연합회는 지난 10일 경성대학교 화장품학과에서 김성훈 인제대학교 산학협력단 특임교수를…",
+ "published_at": "2026-11-27T18:54:41+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "ES"
+  ],
+  "brands": [],
+  "companies": [
+   "화장품클러스터연합회"
+  ],
+  "keywords": [
+   "K-뷰티 해외 진출",
+   "국제 협력",
+   "산학연 네트워크"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품클러스터연합회가 스페인 지회를 세워 K-뷰티 해외 협력망을 넓힌다.",
+  "key_fact_quote": "[코스인코리아닷컴 길태윤 기자] 화장품클러스터연합회(CCA)가 스페인 지회를 설립하고 글로벌 대외협력 조직을 강화하며 K-뷰티 산업의 해외 진출과 국제교류 확대에 나선다고 12일 밝혔다.",
+  "events": [
+   {
+    "name": "창립 17주년 기념식",
+    "start_date": "2026-12-04",
+    "end_date": null,
+    "place": "경성대학교 28호관",
+    "quote": "연합회는 오는 12월 4일 경성대학교 28호관에서 창립 17주년 기념식과 ‘제44차 화장품뷰티바이오포럼 국제학술대회’를 개최할 예정이다."
+   },
+   {
+    "name": "제44차 화장품뷰티바이오포럼 국제학술대회",
+    "start_date": "2026-12-04",
+    "end_date": null,
+    "place": "경성대학교 28호관",
+    "quote": "연합회는 오는 12월 4일 경성대학교 28호관에서 창립 17주년 기념식과 ‘제44차 화장품뷰티바이오포럼 국제학술대회’를 개최할 예정이다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": true
+}

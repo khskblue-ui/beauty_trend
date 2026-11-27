@@ -1,0 +1,56 @@
+{
+ "doc_id": "3c1817129f7dd3bb",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/cb-picks-7-beauty-launches-nov26",
+ "title": "Cosmetics Business picks: 7 November beauty launches to know",
+ "summary": "This week’s best new-in beauty includes Mielle’s entry into body care, fresh Lip Treatment shades from Ayesha Curry’s Sweet July, skin care from Rodial and Innisfree and a new scent from Memo Paris",
+ "published_at": "2026-11-27T21:09:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "product_launch",
+  "countries": [],
+  "brands": [
+   "Mielle",
+   "Sweet July",
+   "Rodial",
+   "Innisfree",
+   "Memo Paris"
+  ],
+  "companies": [],
+  "keywords": [
+   "바디케어",
+   "립 트리트먼트",
+   "신규 향수"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Lip Treatment",
+    "brand": "Sweet July",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "This week’s best new-in beauty includes Mielle’s entry into body care, fresh Lip Treatment shades from Ayesha Curry’s Sweet July, skin care from Rodial and Innisfree and a new scent from Memo Paris",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "이번 주 신제품으로 미엘의 바디케어 진출과 메모 파리의 새 향 등이 꼽혔다.",
+  "key_fact_quote": "This week’s best new-in beauty includes Mielle’s entry into body care, fresh Lip Treatment shades from Ayesha Curry’s Sweet July, skin care from Rodial and Innisfree and a new scent from Memo Paris",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

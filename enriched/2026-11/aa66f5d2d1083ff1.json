@@ -1,0 +1,45 @@
+{
+ "doc_id": "aa66f5d2d1083ff1",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://ilyo.co.kr/?ac=article_view&entry_id=513819",
+ "title": "[인터뷰] “해외 침투율 낮고 성장 여력 충분” 월스트리트 첫 ‘ K - 뷰티 ...",
+ "summary": "앳킨슨 CEO는 “내부 동향 보고서를 접한 직후 캘리포니아의 올리브영 매장을 찾았다가 긴 대기 줄을 목격했다”며 “ K - 뷰티 의 대미 화장품 수출 액이 크게 늘었다는 사실보다도 오랜 시간 구축해 온 제조 기반이 좀 더...",
+ "published_at": "2026-11-27T11:12:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "US",
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "올리브영"
+  ],
+  "keywords": [
+   "K-뷰티 투자",
+   "미국 시장",
+   "해외 침투율"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "월스트리트 투자자가 K-뷰티는 해외 침투율이 낮아 성장 여력이 충분하다고 봤다.",
+  "key_fact_quote": "[인터뷰] “해외 침투율 낮고 성장 여력 충분” 월스트리트 첫 ‘ K - 뷰티 ",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

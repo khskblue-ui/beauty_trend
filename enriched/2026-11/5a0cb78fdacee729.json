@@ -1,0 +1,45 @@
+{
+ "doc_id": "5a0cb78fdacee729",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.beyondpost.co.kr/view.php?ud=20261127092116776946a9e4dd7f_30",
+ "title": "프랑스 향수 브랜드 ‘솔페리노 파리’ 국내 공식 출시",
+ "summary": "나탈리 로르송, 앙투안 메종디외, 조르디 페르난데스, 안 플리포 등 조향사 들이 참여했으며, 플로럴, 우디, 앰버리, 구르망, 레더 등 다양한 향조를 적용한 젠더리스 컬렉션을 선보인다. 향수 용기는 파리의 저택...",
+ "published_at": "2026-11-27T09:24:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "FR",
+   "KR"
+  ],
+  "brands": [
+   "솔페리노 파리"
+  ],
+  "companies": [],
+  "keywords": [
+   "프랑스 향수",
+   "젠더리스 향수",
+   "니치 향수"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "프랑스 향수 브랜드 솔페리노 파리가 국내에 공식 출시됐다.",
+  "key_fact_quote": "프랑스 향수 브랜드 ‘솔페리노 파리’ 국내 공식 출시",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

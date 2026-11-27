@@ -1,0 +1,44 @@
+{
+ "doc_id": "00e7405d921c33cf",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://kr.aving.net/news/articleView.html?idxno=1817490",
+ "title": "알앤피티, 미국 텍사스주에 100% 자회사 KRACE USA, Inc. 설립… 북미 헬...",
+ "summary": "알앤피티는 경기도와 경기도경제과학진흥원의 '글로벌 스타트업 사업화 지원사업'과 KOTRA 수출 바우처사업... 올해 행사는 ' K -Experience(한국문화 체험)'를 주제로 K뷰티 ·K푸드 등 체험 프로그램이 마련돼, 추운 날씨에도...",
+ "published_at": "2026-11-27T13:14:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": false,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [],
+  "companies": [
+   "알앤피티",
+   "KRACE USA, Inc."
+  ],
+  "keywords": [
+   "해외 자회사 설립"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "알앤피티가 미국 텍사스주에 자회사를 설립했다.",
+  "key_fact_quote": "알앤피티, 미국 텍사스주에 100% 자회사 KRACE USA, Inc. 설립… 북미 헬...",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

@@ -1,0 +1,62 @@
+{
+ "doc_id": "a940bcf00bc4ec0d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261126010010458",
+ "title": "홈뷰티 사업 공략 가속…글로벌 진출 확대 나선 앳홈",
+ "summary": "지난해 3월 '더 글로우'를 출시 한 데 이어 같은 해 12월 출력을 높인 프리미엄 모델 '더 글로우 프로'와 가격... 앳홈 관계자는 \"유럽 시장에서의 한국 화장품 수출이 증가세를 보이고 있는 상황\"이라며 \"앞으로 영국...",
+ "published_at": "2026-11-27T21:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "앳홈"
+  ],
+  "keywords": [
+   "홈뷰티 디바이스",
+   "글로벌 진출"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "더 글로우",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "지난해 3월 '더 글로우'를 출시 한 데 이어 같은 해 12월 출력을 높인 프리미엄 모델 '더 글로우 프로'와 가격",
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "더 글로우 프로",
+    "brand": null,
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "지난해 3월 '더 글로우'를 출시 한 데 이어 같은 해 12월 출력을 높인 프리미엄 모델 '더 글로우 프로'와 가격",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "앳홈이 홈뷰티 사업을 키우며 해외 진출을 넓히고 있다.",
+  "key_fact_quote": "홈뷰티 사업 공략 가속…글로벌 진출 확대 나선 앳홈",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

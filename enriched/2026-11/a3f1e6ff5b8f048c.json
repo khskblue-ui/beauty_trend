@@ -1,0 +1,59 @@
+{
+ "doc_id": "a3f1e6ff5b8f048c",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.cstimes.com/news/articleView.html?idxno=729730",
+ "title": "화장품 안전성 보고 43.2%가 영유아용…식약처, 사용 주의 당부",
+ "summary": "특정 성분에 알레르기가 있다면 향료 에 포함된 알레르기 유발성분의 표시도 확인해야 한다. 부틸파라벤·프로필파라벤·이소부틸파라벤·이소프로필파라벤 등 보존제가 든 제품은 3세 이하 영유아의 기저귀가 닿는...",
+ "published_at": "2026-11-27T10:48:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향료",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "영유아 화장품",
+   "알레르기 유발성분 표시",
+   "보존제"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "특정 성분에 알레르기가 있으면 향료에 포함된 알레르기 유발성분 표시도 확인해야 한다.",
+  "key_fact_quote": "특정 성분에 알레르기가 있다면 향료 에 포함된 알레르기 유발성분의 표시도 확인해야 한다.",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "부틸파라벤",
+    "quote": "부틸파라벤·프로필파라벤·이소부틸파라벤·이소프로필파라벤 등 보존제가 든 제품은 3세 이하 영유아의 기저귀가 닿는"
+   },
+   {
+    "name": "프로필파라벤",
+    "quote": "부틸파라벤·프로필파라벤·이소부틸파라벤·이소프로필파라벤 등 보존제가 든 제품은 3세 이하 영유아의 기저귀가 닿는"
+   },
+   {
+    "name": "이소부틸파라벤",
+    "quote": "부틸파라벤·프로필파라벤·이소부틸파라벤·이소프로필파라벤 등 보존제가 든 제품은 3세 이하 영유아의 기저귀가 닿는"
+   },
+   {
+    "name": "이소프로필파라벤",
+    "quote": "부틸파라벤·프로필파라벤·이소부틸파라벤·이소프로필파라벤 등 보존제가 든 제품은 3세 이하 영유아의 기저귀가 닿는"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

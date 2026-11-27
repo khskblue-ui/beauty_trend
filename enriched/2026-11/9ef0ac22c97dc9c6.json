@@ -1,0 +1,50 @@
+{
+ "doc_id": "9ef0ac22c97dc9c6",
+ "source": "cosmorning",
+ "source_name": "코스모닝",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.cosmorning.com/news/article.html?no=54060",
+ "title": "에이피알, 닥터멜락신 3,900억 원에 인수",
+ "summary": "에이피알이 3,900억 원 규모의 투자를 통해 더마 스킨케어 브랜드 닥터멜락신을 품는다. 에이피알은 닥터멜락신 운영사 브랜드501의 지분 87.3%에 대한 인수 계약을 체결했다고 26일 공시했다. 이번 거래는 구주 74.35%에 해당하는 약 3,200억 원 규모의 주식 인수와 신주 12.95%에 해당하는 약 700억 원…",
+ "published_at": "2026-11-27T09:39:46+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "닥터멜락신",
+   "메디큐브"
+  ],
+  "companies": [
+   "에이피알",
+   "브랜드501"
+  ],
+  "keywords": [
+   "인수합병",
+   "더마 스킨케어",
+   "틱톡샵",
+   "브랜드 포트폴리오"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "에이피알이 닥터멜락신 운영사 브랜드501을 인수하는 계약을 맺었다.",
+  "key_fact_quote": "에이피알은 닥터멜락신 운영사 브랜드501의 지분 87.3%에 대한 인수 계약을 체결했다고 26일 공시했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": true
+}

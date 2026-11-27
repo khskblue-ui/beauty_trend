@@ -1,0 +1,41 @@
+{
+ "doc_id": "f253303a222456f5",
+ "source": "mfds_press",
+ "source_name": "식약처 보도자료",
+ "group": "regulation",
+ "lang": "ko",
+ "url": "https://www.mfds.go.kr/brd/m_99/view.do?seq=50536",
+ "title": "식약처, 영·유아용 화장품 사용 시 올바른 사용법 안내",
+ "summary": "",
+ "published_at": "2026-11-27T08:01:40+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "regulation",
+  "event_type": "regulation",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "영유아 화장품",
+   "안전 사용"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "식약처가 영유아용 화장품의 올바른 사용법을 안내했다.",
+  "key_fact_quote": "식약처, 영·유아용 화장품 사용 시 올바른 사용법 안내",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

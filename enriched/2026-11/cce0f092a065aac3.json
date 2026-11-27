@@ -1,0 +1,58 @@
+{
+ "doc_id": "cce0f092a065aac3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.gpkorea.com/news/articleView.html?idxno=149090",
+ "title": "\"보석의 아름다움을 향기로\"…골든듀, 시그너처 향수 2종 출시",
+ "summary": "이번 신제품은 세계적인 조향사 파브리스 펠레그랑, 오노린 블랑과 협업해 완성했다. 듀이터널스 오 드 퍼퓸은 이슬방울의 맑고 투명한 이미지를 향으로 표현했다. 녹차 잎과 레몬의 신선한 향으로 시작해 등나무꽃과...",
+ "published_at": "2026-11-27T09:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "골든듀"
+  ],
+  "companies": [],
+  "keywords": [
+   "시그너처 향수",
+   "오 드 퍼퓸",
+   "조향사 협업"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "듀이터널스 오 드 퍼퓸",
+    "brand": "골든듀",
+    "launch_date": null,
+    "launch_status": "launched",
+    "launch_quote": "골든듀, 시그너처 향수 2종 출시",
+    "notes": [
+     "녹차 잎",
+     "레몬",
+     "등나무꽃"
+    ],
+    "notes_quote": "녹차 잎과 레몬의 신선한 향으로 시작해 등나무꽃과"
+   }
+  ],
+  "key_fact": "골든듀가 세계적인 조향사와 협업한 시그너처 향수를 내놓았다.",
+  "key_fact_quote": "이번 신제품은 세계적인 조향사 파브리스 펠레그랑, 오노린 블랑과 협업해 완성했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

@@ -1,0 +1,57 @@
+{
+ "doc_id": "1cc4ad5d387dbce3",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.apparelnews.co.kr/news/news_view/?idx=229286",
+ "title": "미샤, 日 매출 고성장…M쿠션 판매 호조",
+ "summary": "에이블씨엔씨(대표 신유정)의 화장품 브랜드 미샤(MISSHA)가 일본 진출 20주년을 맞아 현지 시장에서 성장세를 이어가고 있다. 주력 제품인 쿠션 파운데이션의 판매 호조와 신제품 흥행, 온라인 채널 성과가 실적을...",
+ "published_at": "2026-11-27T09:20:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "makeup",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "JP"
+  ],
+  "brands": [
+   "미샤"
+  ],
+  "companies": [
+   "에이블씨엔씨"
+  ],
+  "keywords": [
+   "쿠션 파운데이션",
+   "일본 시장",
+   "온라인 채널"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "M쿠션",
+    "brand": "미샤",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "미샤가 일본에서 쿠션 파운데이션 판매 호조로 성장세를 이어가고 있다.",
+  "key_fact_quote": "에이블씨엔씨(대표 신유정)의 화장품 브랜드 미샤(MISSHA)가 일본 진출 20주년을 맞아 현지 시장에서 성장세를 이어가고 있다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

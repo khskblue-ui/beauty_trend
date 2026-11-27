@@ -1,0 +1,46 @@
+{
+ "doc_id": "7dda5496c94cbc37",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54897",
+ "title": "크리에이터에서 캐스터로, 레페리가 넓히는 K-뷰티",
+ "summary": "유명 연예인의 화장품 광고를 넘어, 평범한 사람들이 어떻게 제품을 바르는지 하나하나 꼼꼼히 보여주는... 예를 들어 한국의 뷰티 브랜드가 신제품 을 출시하면, 미국과 일본에서 활동하는 AI 크리에이터가 각국의...",
+ "published_at": "2026-11-27T14:00:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "US",
+   "JP"
+  ],
+  "brands": [],
+  "companies": [
+   "레페리"
+  ],
+  "keywords": [
+   "뷰티 크리에이터",
+   "AI 크리에이터",
+   "인플루언서 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "레페리가 크리에이터를 활용해 K-뷰티의 해외 마케팅을 넓히고 있다.",
+  "key_fact_quote": "크리에이터에서 캐스터로, 레페리가 넓히는 K-뷰티",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

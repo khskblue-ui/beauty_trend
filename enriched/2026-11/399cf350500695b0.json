@@ -1,0 +1,45 @@
+{
+ "doc_id": "399cf350500695b0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.bizwnews.com/news/articleView.html?idxno=153546",
+ "title": "솔페리노파리, '향수와 공연 융합한 몰입형 팝업'…29일까지 연희동서 ...",
+ "summary": "이번 컬렉션에는 나탈리 로르송, 앙투안 메종디외, 조르디 페르난데스, 안 플리포 등 국내외 저명 조향사 들이 대거 참여했다. 센강, 팔레 루아얄, 몽마르트 등 파리 주요 명소에서 영감을 받은 다양한 플로럴, 우디, 앰버리...",
+ "published_at": "2026-11-27T14:28:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "솔페리노파리"
+  ],
+  "companies": [],
+  "keywords": [
+   "몰입형 팝업",
+   "니치 향수",
+   "조향사 협업"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "솔페리노파리 컬렉션에 국내외 저명 조향사들이 참여했다.",
+  "key_fact_quote": "이번 컬렉션에는 나탈리 로르송, 앙투안 메종디외, 조르디 페르난데스, 안 플리포 등 국내외 저명 조향사 들이 대거 참여했다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-4",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

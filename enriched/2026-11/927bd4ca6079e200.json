@@ -1,0 +1,57 @@
+{
+ "doc_id": "927bd4ca6079e200",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/27/2026112790139.html",
+ "title": "[티조챗] \"한국서 시술 받고 얼굴 망가졌다\"…킴 카다시안 주장에 K뷰티...",
+ "summary": "외국인 환자 10명 가운데 6명 이상이 피부과를 찾는 등 K뷰티의 인기가 화장품 을 넘어 피부 시술 등으로... 2014년 한국의 파마리서치가 처음 출시 했으며, 이후 20개국에서 사용이 승인됐다. 다만 리쥬란 주사는 아직 미국 FDA...",
+ "published_at": "2026-11-27T12:01:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "skincare",
+  "event_type": "market_trend",
+  "countries": [
+   "KR",
+   "US"
+  ],
+  "brands": [
+   "리쥬란"
+  ],
+  "companies": [
+   "파마리서치"
+  ],
+  "keywords": [
+   "피부 시술",
+   "의료관광",
+   "K뷰티"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "리쥬란 주사",
+    "brand": "리쥬란",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "2014년 한국의 파마리서치가 처음 출시 했으며, 이후 20개국에서 사용이 승인됐다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "킴 카다시안이 한국에서 받은 시술로 얼굴이 망가졌다고 주장하면서 K뷰티 시술이 주목받았다.",
+  "key_fact_quote": "\"한국서 시술 받고 얼굴 망가졌다\"…킴 카다시안 주장에 K뷰티",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

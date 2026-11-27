@@ -1,0 +1,42 @@
+{
+ "doc_id": "602bf905cdd2f6a4",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mydaily.co.kr/page/view/2026112619580072957",
+ "title": "여자친구 소원, 화장품 사업 1년만 폐업 고민…\"뭘해도 마이너스\" [마데...",
+ "summary": "그룹 여자친구 출신 배우 소원(김소정)이 직접 론칭한 화장품 브랜드 폐업을 고민하고 있다. 지난 26일 유튜브... 당초 세 가지 색상으로 출시할 계획이었지만 기존 제품의 재고를 상당 부분 소진하지 못하면 신제품 을...",
+ "published_at": "2026-11-27T07:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "연예인 화장품 브랜드",
+   "재고 관리"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "events": [],
+  "ingredients": [],
+  "key_fact": null,
+  "key_fact_quote": null,
+  "dropped": []
+ },
+ "model": null,
+ "prompt_version": "enrich-v3",
+ "copied_from": "b6fc4ce4efeb71d9",
+ "enriched_at": "2026-11-27T21:28:46+00:00",
+ "had_body": false
+}

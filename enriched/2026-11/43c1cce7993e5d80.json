@@ -1,0 +1,55 @@
+{
+ "doc_id": "43c1cce7993e5d80",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58815",
+ "title": "코스맥스, 월 생산량 1억 개 돌파 ‘K-뷰티 공급망 강화’ 본격화",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 글로벌 화장품 ODM(연구·개발·생산) 기업 코스맥스가 월간 생산량 1억 개 돌파에 이어 글로벌 K-뷰티 수요 증가에 대응하기 위해 협력사와 부자재 공급망 강화 및 생산능력 확대 방안을 논의했다고 27일 밝혔다. 코스맥스는 지난 26일 경기도 성남시 판교 사옥에서…",
+ "published_at": "2026-11-27T11:31:01+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "코스맥스",
+   "탭코리아",
+   "크릭컴퍼니"
+  ],
+  "keywords": [
+   "ODM",
+   "부자재 공급망",
+   "생산능력 확대",
+   "K뷰티 수요"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "코스맥스가 협력사와 부자재 공급망 강화와 생산능력 확대 방안을 논의했다.",
+  "key_fact_quote": "글로벌 화장품 ODM(연구·개발·생산) 기업 코스맥스가 월간 생산량 1억 개 돌파에 이어 글로벌 K-뷰티 수요 증가에 대응하기 위해 협력사와 부자재 공급망 강화 및 생산능력 확대 방안을 논의했다고 27일 밝혔다.",
+  "events": [
+   {
+    "name": "2026 코스맥스 전략 파트너사 간담회",
+    "start_date": "2026-11-26",
+    "end_date": null,
+    "place": "경기도 성남시 판교 사옥",
+    "quote": "코스맥스는 지난 26일 경기도 성남시 판교 사옥에서 ‘2026 코스맥스 전략 파트너사 간담회’를 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": true
+}

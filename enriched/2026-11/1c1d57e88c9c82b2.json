@@ -1,0 +1,56 @@
+{
+ "doc_id": "1c1d57e88c9c82b2",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58812",
+ "title": "아모레퍼시픽, ‘바이브 코딩’ 기반 임직원 주도 AI 업무 혁신 가속",
+ "summary": "[코스인코리아닷컴 길태윤 기자] 아모레퍼시픽이 임직원이 직접 인공지능(AI)을 활용해 업무 문제를 해결하는 ‘바이브 코딩(Vibe Coding)’ 프로그램을 확대하며 전사적인 AI 업무 혁신에 속도를 내고 있다고 27일 밝혔다. 바이브 코딩은 자연어로 AI와 대화하면서 아이디어를 애플리케이션이나…",
+ "published_at": "2026-11-27T10:56:21+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "헤라"
+  ],
+  "companies": [
+   "아모레퍼시픽",
+   "오픈AI"
+  ],
+  "keywords": [
+   "AI 전환",
+   "바이브 코딩",
+   "생성형 AI",
+   "AI 피부 분석"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "아모레퍼시픽이 임직원이 직접 AI로 업무 문제를 푸는 바이브 코딩 프로그램을 넓히고 있다.",
+  "key_fact_quote": "아모레퍼시픽이 임직원이 직접 인공지능(AI)을 활용해 업무 문제를 해결하는 ‘바이브 코딩(Vibe Coding)’ 프로그램을 확대하며 전사적인 AI 업무 혁신에 속도를 내고 있다고 27일 밝혔다.",
+  "events": [
+   {
+    "name": "제3회 바이브 코딩 해커톤",
+    "start_date": "2026-11-26",
+    "end_date": null,
+    "place": "서울 용산 세계본사 아모레홀",
+    "quote": "아모레퍼시픽은 이러한 교육 성과를 실제 업무와 연결하기 위해 지난 26일 서울 용산 세계본사 아모레홀에서 ‘제3회 바이브 코딩 해커톤’을 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": true
+}

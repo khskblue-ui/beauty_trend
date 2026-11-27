@@ -1,0 +1,47 @@
+{
+ "doc_id": "116b959410e5e176",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=888101",
+ "title": "인터퍼퓸, 솔페리노 파리 국내 런칭",
+ "summary": "예술가와 창작자들에게 영감을 주어온 파리에 주목해 조향사 들에게 창작의 자유를 부여했으며, 엄선된... 등 조향사 들이 참여해 플로럴, 우디, 앰버리, 구르망, 레더 등 대표 향조를 각자의 개성과 현대적 감각으로...",
+ "published_at": "2026-11-27T23:34:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "솔페리노 파리"
+  ],
+  "companies": [
+   "인터퍼퓸"
+  ],
+  "keywords": [
+   "향수 브랜드 론칭",
+   "조향사 협업",
+   "향조"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "인터퍼퓸이 향수 브랜드 솔페리노 파리를 국내에 론칭했다.",
+  "key_fact_quote": "인터퍼퓸, 솔페리노 파리 국내 런칭",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

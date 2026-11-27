@@ -1,0 +1,57 @@
+{
+ "doc_id": "0416304e86fdff81",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.newslock.co.kr/news/articleView.html?idxno=141173",
+ "title": "미샤, 일본 법인 3분기 매출 28% 증가…M쿠션·온라인 판매 성장",
+ "summary": "에이블씨엔씨의 화장품 브랜드 미샤가 일본에서 주력 쿠션 제품과 온라인 판매 성장에 힘입어 매출을 늘렸다. 일본 진출 20주년을 맞아 현지 소비자에 맞춘 신제품 과 고객 행사를 확대하며 성장세를 이어간다는...",
+ "published_at": "2026-11-27T12:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "화장품 신제품",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "JP",
+   "KR"
+  ],
+  "brands": [
+   "미샤"
+  ],
+  "companies": [
+   "에이블씨엔씨"
+  ],
+  "keywords": [
+   "쿠션",
+   "온라인 판매",
+   "일본 시장"
+  ],
+  "is_press_release": true,
+  "products": [
+   {
+    "name": "M쿠션",
+    "brand": "미샤",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "미샤가 일본에서 주력 쿠션 제품과 온라인 판매 성장으로 매출을 늘렸다.",
+  "key_fact_quote": "에이블씨엔씨의 화장품 브랜드 미샤가 일본에서 주력 쿠션 제품과 온라인 판매 성장에 힘입어 매출을 늘렸다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

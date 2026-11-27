@@ -1,0 +1,53 @@
+{
+ "doc_id": "4bf68cba839076ff",
+ "source": "cosmeticsbusiness",
+ "source_name": "Cosmetics Business",
+ "group": "global_trade",
+ "lang": "en",
+ "url": "https://www.cosmeticsbusiness.com/prada-beauty-teases-vip-performer-for-prada-piano-pop-up",
+ "title": "Prada Beauty teases VIP performer for Prada Piano pop-up in London",
+ "summary": "The pop-up celebrates the launch of Prada Paradigme Le Parfum, which debuted in summer 2026, with a special guest set to be unveiled",
+ "published_at": "2026-11-27T20:24:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "headline",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "event",
+  "countries": [
+   "GB"
+  ],
+  "brands": [
+   "Prada Beauty"
+  ],
+  "companies": [],
+  "keywords": [
+   "팝업스토어",
+   "체험형 마케팅"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Prada Paradigme Le Parfum",
+    "brand": "Prada Beauty",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "The pop-up celebrates the launch of Prada Paradigme Le Parfum, which debuted in summer 2026, with a special guest set to be unveiled",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "프라다 뷰티가 런던 팝업에서 향수 출시를 기념하며 특별 게스트 공연을 예고했다.",
+  "key_fact_quote": "The pop-up celebrates the launch of Prada Paradigme Le Parfum, which debuted in summer 2026, with a special guest set to be unveiled",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

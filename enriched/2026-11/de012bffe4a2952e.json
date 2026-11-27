@@ -1,0 +1,45 @@
+{
+ "doc_id": "de012bffe4a2952e",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsway.co.kr/news/view?ud=2026112714494823363",
+ "title": "모나미·동원·KCC도 K뷰티 뛰어들었다…관건은 '지속 수주'",
+ "summary": "27일 산업통상부의 월별 수출 통계를 합산하면 올해 1~10월 국내 화장품 수출 액은 125억6900만달러로 지난해 연간 실적(114억1800만달러)을 11억5100만달러 웃돌았다. 수출 시장이 커지면서 화장품 브랜드뿐 아니라 내용물과...",
+ "published_at": "2026-11-28T06:04:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "모나미",
+   "동원",
+   "KCC"
+  ],
+  "keywords": [
+   "이업종 진출",
+   "화장품 수출"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "화장품 수출 시장이 커지면서 이업종 기업들도 K뷰티 사업에 뛰어들고 있다.",
+  "key_fact_quote": "모나미·동원·KCC도 K뷰티 뛰어들었다…관건은 '지속 수주'",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

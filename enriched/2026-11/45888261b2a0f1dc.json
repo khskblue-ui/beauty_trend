@@ -1,0 +1,45 @@
+{
+ "doc_id": "45888261b2a0f1dc",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.mt.co.kr/industry/2026/11/27/2026112714465984410",
+ "title": "'사이드팩' 프롬프트팩토리, 뷰티 광고 소재 제작 서비스 '코스메샷' 출...",
+ "summary": "출시 와 함께 프랑스의 AI 아티스트 ELIOS, 인도 뭄바이의 AI 디렉터 듀오 DHAVAL + NISHTHA 등 국내외 크리에이터 6팀이 대표 크리에이터로 참여했다. 최기문 대표는 \" 뷰티 브랜드는 신제품 과 시즌, 프로모션이 바뀔 때마다...",
+ "published_at": "2026-11-27T16:56:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "뷰티 신제품 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "business",
+  "countries": [
+   "KR",
+   "FR",
+   "IN"
+  ],
+  "brands": [],
+  "companies": [
+   "프롬프트팩토리"
+  ],
+  "keywords": [
+   "AI 광고 제작",
+   "뷰티 마케팅"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "프롬프트팩토리가 뷰티 브랜드용 광고 소재 제작 서비스 코스메샷을 내놨다.",
+  "key_fact_quote": "'사이드팩' 프롬프트팩토리, 뷰티 광고 소재 제작 서비스 '코스메샷' 출",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

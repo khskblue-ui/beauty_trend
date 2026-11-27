@@ -1,0 +1,54 @@
+{
+ "doc_id": "5c417c1fe028da97",
+ "source": "thebk",
+ "source_name": "뷰티경제",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "https://www.thebk.co.kr/news/articleView.html?idxno=313056",
+ "title": "아모레퍼시픽, 인공지능(AI) 기반 뷰티기업 전환 가속",
+ "summary": "아모레퍼시픽이 전통적인 화장품 제조·유통 기업의 틀을 넘어 인공지능(AI) 기반 뷰티기업으로의 전환하고 있다.연구개발(R&D)을 비롯해 영업, 이커머스, 생산, 물류, 경영지원 등 밸류체인 전반에 AI를 접목하며 전사적 AI 전환(AX)을 추진하는 모습이다.■ 코딩 장벽 허문 ‘바이브 코딩’…현업 주도의 AI 혁신 실험아모레퍼시픽의 AI 전환에서 눈길을 끄는 부분은 \\'바이브 코딩(Vibe Coding)\\'이다.바이브 코딩은 전문 개발자가 아니더라도 자연어로 AI와 대화하며 애플리케이션이나 업무 자동화 도구를 구현할 수 있는 개발 방식",
+ "published_at": "2026-11-27T12:10:00+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [
+   "헤라"
+  ],
+  "companies": [
+   "아모레퍼시픽"
+  ],
+  "keywords": [
+   "AI 전환",
+   "바이브 코딩",
+   "맞춤형 뷰티"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "아모레퍼시픽이 연구개발부터 경영지원까지 밸류체인 전반에 AI를 접목하고 있다.",
+  "key_fact_quote": "연구개발(R&D)을 비롯해 영업, 이커머스, 생산, 물류, 경영지원 등 밸류체인 전반에 AI를 접목하며 전사적 AI 전환(AX)을 추진하는 모습이다.",
+  "events": [
+   {
+    "name": "제3회 바이브 코딩 해커톤",
+    "start_date": "2026-11-26",
+    "end_date": null,
+    "place": "용산 본사",
+    "quote": "아모레퍼시픽이 지난 11월 26일 용산 본사에서 현업 구성원 주도의 AI 업무 혁신 성과를 공유하는 ‘제3회 바이브 코딩 해커톤’을 개최했다."
+   }
+  ],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": true
+}

@@ -1,0 +1,79 @@
+{
+ "doc_id": "c830e97399db5a12",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.nc.press/news/articleView.html?idxno=632033",
+ "title": "[N아카이브] 1946년 신문 광고에서 찾은 'K뷰티'의 뿌리",
+ "summary": "임성환의 동보화학은 동보크림을, 문영수의 태양이화학은 피카몬드 향수 등을 생산했다. 광복 직후... 1948년 태평양화학은 메로디 크림을 출시 했다. 6·25전쟁이 한창이던 1951년에는 피마자유를 원료로 사용한 식물성...",
+ "published_at": "2026-11-27T11:10:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "향수 출시",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "other",
+  "event_type": "other",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "동보화학",
+   "태양이화학",
+   "태평양화학"
+  ],
+  "keywords": [
+   "K뷰티 역사",
+   "국산 화장품",
+   "식물성 원료"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "동보크림",
+    "brand": "동보화학",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "피카몬드 향수",
+    "brand": "태양이화학",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "메로디 크림",
+    "brand": "태평양화학",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": "1948년 태평양화학은 메로디 크림을 출시 했다.",
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "광복 직후 신문 광고에서 국내 화장품 산업의 초기 모습을 찾아볼 수 있다.",
+  "key_fact_quote": "[N아카이브] 1946년 신문 광고에서 찾은 'K뷰티'의 뿌리",
+  "events": [],
+  "ingredients": [
+   {
+    "name": "피마자유",
+    "quote": "6·25전쟁이 한창이던 1951년에는 피마자유를 원료로 사용한 식물성"
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-3",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

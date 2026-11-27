@@ -1,0 +1,111 @@
+{
+ "doc_id": "0c0e79ca8f7fa2ac",
+ "source": "cosinkorea",
+ "source_name": "코스인코리아",
+ "group": "kr_trade",
+ "lang": "ko",
+ "url": "http://www.cosinkorea.com/news/article.html?no=58820",
+ "title": "대한화장품학회, 생성형 AI시대의 소재·제형·AI·임상·피부천연물효능 기전 분과별 연구 성과 공유",
+ "summary": "[코스인코리아닷컴 권태흥 기자]사단법인 대한화장품학회 추계학술대회가 11월 27일 서율드래곤시티 그랜드볼룸 3층 한라홀에서 개최됐다. 이번 학술대회는 오전 초청강연 3편, 오후 각 분과 발표 18편 등 모두 21편의 구두 발표와 포스터 발표 199편을 발표했다. 총 220편이 발표돼 최근 업계의 Ra…",
+ "published_at": "2026-11-27T17:19:17+09:00",
+ "date_source": "feed",
+ "evidence_grade": "article",
+ "query": null,
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "ingredient",
+  "event_type": "event",
+  "countries": [
+   "KR",
+   "CH"
+  ],
+  "brands": [],
+  "companies": [
+   "대한화장품학회",
+   "MDPI",
+   "LG생활건강",
+   "현대바이오랜드",
+   "룰루랩",
+   "아모레퍼시픽",
+   "국립생물자원관",
+   "선진뷰티사이언스"
+  ],
+  "keywords": [
+   "AI 피부 분석",
+   "피부 노화",
+   "UV 부스터",
+   "화장품 소재",
+   "생성형 AI 연구윤리"
+  ],
+  "is_press_release": false,
+  "products": [
+   {
+    "name": "Luskin S",
+    "brand": "룰루랩",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   },
+   {
+    "name": "Luskin X",
+    "brand": "룰루랩",
+    "launch_date": null,
+    "launch_status": "unknown",
+    "launch_quote": null,
+    "notes": [],
+    "notes_quote": null
+   }
+  ],
+  "key_fact": "대한화장품학회 추계학술대회에서 소재와 제형, AI, 임상 등 분과별 연구 성과가 공유됐다.",
+  "key_fact_quote": "사단법인 대한화장품학회 추계학술대회가 11월 27일 서율드래곤시티 그랜드볼룸 3층 한라홀에서 개최됐다.",
+  "events": [
+   {
+    "name": "추계학술대회",
+    "start_date": "2026-11-27",
+    "end_date": null,
+    "place": "서율드래곤시티 그랜드볼룸 3층 한라홀",
+    "quote": "사단법인 대한화장품학회 추계학술대회가 11월 27일 서율드래곤시티 그랜드볼룸 3층 한라홀에서 개최됐다."
+   },
+   {
+    "name": "춘계학술대회",
+    "start_date": "2027-05-21",
+    "end_date": null,
+    "place": null,
+    "quote": "▲ 춘계학술대회 2027년 5월 21일(금), 추계 11월 5일(금) 예정"
+   },
+   {
+    "name": "추계",
+    "start_date": "2027-11-05",
+    "end_date": null,
+    "place": null,
+    "quote": "▲ 춘계학술대회 2027년 5월 21일(금), 추계 11월 5일(금) 예정"
+   },
+   {
+    "name": "2027 IFSCC",
+    "start_date": "2027-09-13",
+    "end_date": "2027-09-16",
+    "place": "스위스 바젤",
+    "quote": "▲ 2027 IFSCC (스위스 바젤, 9.13~16) 참가"
+   }
+  ],
+  "ingredients": [
+   {
+    "name": "SH305",
+    "quote": "런치세미나에서는 신경희 선진뷰티사이언스㈜ 연구소장이 ‘입자 구조 설계로 완성된 차세대 UV 부스터, SH305’를 발표했다."
+   },
+   {
+    "name": "실리카",
+    "quote": "화장품에서 실리카는 피부 유분을 조절하고 부드러운 사용감을 구현하는 소재로 활용되어왔다."
+   }
+  ],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": true
+}

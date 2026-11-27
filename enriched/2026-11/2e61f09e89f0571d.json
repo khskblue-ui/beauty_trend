@@ -1,0 +1,43 @@
+{
+ "doc_id": "2e61f09e89f0571d",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.newsian.co.kr/news/articleView.html?idxno=102154",
+ "title": "K뷰티 , 2027년 세계 점유율 6.1% 전망…유럽 더마·두피케어가 다음 승부...",
+ "summary": "유럽 더마 시장에서 수요가 큰 품목과 한국이 수출 을 빠르게 늘린 품목이 겹친다. # 헤어케어 점유율 1.2%…두피 세럼·트리트먼트에 기회 헤어케어는 2025년 세계 뷰티 시장의 21%를 차지한 두 번째로 큰 품목군이다....",
+ "published_at": "2026-11-27T12:52:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "business",
+  "event_type": "market_trend",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [],
+  "keywords": [
+   "K뷰티",
+   "더마 화장품",
+   "두피 케어",
+   "헤어케어"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "K뷰티의 다음 기회로 유럽 더마 시장과 두피케어가 꼽혔다.",
+  "key_fact_quote": "유럽 더마 시장에서 수요가 큰 품목과 한국이 수출 을 빠르게 늘린 품목이 겹친다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

@@ -1,0 +1,46 @@
+{
+ "doc_id": "b2ec80f3dd2bf889",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327772",
+ "title": "G마켓, 뷰티 키운다… K - 뷰티 플랫폼 후발주자의 승부수는?",
+ "summary": "쿠팡, 배달의민족 등은 올해 K - 뷰티 의 해외 인기에 힘입어 화장품 사업에 뛰어들어 늘어나는 수요에 적극... 큰 뷰티 카테고리를 수출 전략 상품군으로 삼아 판매 지원을 강화할 계획이다. 이처럼 G마켓이 화장품 사업에...",
+ "published_at": "2026-11-27T18:02:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "K뷰티 수출",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "retail",
+  "event_type": "business",
+  "countries": [
+   "KR"
+  ],
+  "brands": [],
+  "companies": [
+   "G마켓",
+   "쿠팡",
+   "배달의민족"
+  ],
+  "keywords": [
+   "뷰티 플랫폼",
+   "이커머스",
+   "수출 전략 상품군"
+  ],
+  "is_press_release": false,
+  "products": [],
+  "key_fact": "G마켓이 뷰티 카테고리를 수출 전략 상품군으로 삼아 판매 지원을 강화할 계획이다.",
+  "key_fact_quote": "큰 뷰티 카테고리를 수출 전략 상품군으로 삼아 판매 지원을 강화할 계획이다.",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-2",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}

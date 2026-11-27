@@ -1,0 +1,45 @@
+{
+ "doc_id": "40c5b036b3a951e0",
+ "source": "naver_news",
+ "source_name": "네이버 뉴스 검색",
+ "group": "kr_news",
+ "lang": "ko",
+ "url": "http://www.segyebiz.com/newsView/20261127509492?OutUrl=naver",
+ "title": "솔페리노 파리, 국내 공식 론칭… 파리의 감성 담은 향수 컬렉션 공개",
+ "summary": "세계적인 조향사 들에게 각자가 기억하고 상상하는 파리의 모습을 자유롭게 해석하도록 해 총 10종의 오... 등 조향사 들이 참여했다. 각 제품은 센강의 낭만적인 풍경과 팔레 루아얄의 여유로운 티타임, 몽마르트의...",
+ "published_at": "2026-11-27T15:08:00+09:00",
+ "date_source": "api",
+ "evidence_grade": "article",
+ "query": "조향사",
+ "doc_type": null,
+ "celex": null,
+ "extraction": {
+  "relevant": true,
+  "category": "fragrance",
+  "event_type": "product_launch",
+  "countries": [
+   "KR",
+   "FR"
+  ],
+  "brands": [
+   "솔페리노 파리"
+  ],
+  "companies": [],
+  "keywords": [
+   "향수 컬렉션",
+   "향수 브랜드 론칭",
+   "조향사 협업"
+  ],
+  "is_press_release": true,
+  "products": [],
+  "key_fact": "솔페리노 파리가 국내에 공식 론칭하며 향수 컬렉션을 공개했다.",
+  "key_fact_quote": "솔페리노 파리, 국내 공식 론칭… 파리의 감성 담은 향수 컬렉션 공개",
+  "events": [],
+  "ingredients": [],
+  "dropped": []
+ },
+ "model": "claude-session:enricher-1",
+ "prompt_version": "enrich-v3",
+ "enriched_at": "2026-11-27T21:32:23+00:00",
+ "had_body": false
+}
